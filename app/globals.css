@@ -1,0 +1,34 @@
+@import "tailwindcss";
+
+/* Tokens lifted from frontend/LARP_EXO_design_system.html so future components can use
+   named utilities instead of repeating hex values. */
+@theme {
+  --color-gold: #ffd700;
+  --color-dark-gold: #b8860b;
+  --color-ink: #0a0a0a;
+  --color-card: #0d0d0d;
+  --color-hairline: #3d3200;
+  --color-uncommon: #4a9eff;
+  --color-rare: #a855f7;
+  --color-epic: #ec4899;
+  --color-legendary: #ffd700;
+  --font-pixel: "Press Start 2P", monospace;
+  --font-body: "Space Mono", monospace;
+}
+
+html,
+body {
+  background: #0a0a0a;
+  color: #fff;
+  -webkit-tap-highlight-color: transparent;
+}
+
+body {
+  font-family: "Space Mono", monospace;
+  overscroll-behavior-y: none;
+}
+
+/* The game is a fixed-size arcade panel. Never let a stray flex child stretch the page. */
+* {
+  min-width: 0;
+}

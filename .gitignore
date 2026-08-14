@@ -1,8 +1,19 @@
 ﻿.env
 .env.*
+!.env.example
 **/__pycache__/
 *.pyc
 .venv/
 venv/
 .DS_Store
 Thumbs.db
+
+# web app
+node_modules/
+.next/
+out/
+.vercel/
+*.tsbuildinfo
+
+# derived seed file, rebuilt by scripts/build_web_data.py
+data/web/
