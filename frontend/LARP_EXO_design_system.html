@@ -1,0 +1,834 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>LARP EXO Design System</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Press+Start+2P&family=Space+Mono:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
+<style>
+/* ─── Reset & Base ──────────────────────────────────────────── */
+*{box-sizing:border-box;margin:0;padding:0}
+:root{
+  --gold:#ffd700;--dark-gold:#b8860b;--bg:#0a0a0a;--card:#0d0d0d;
+  --border:#3d3200;--muted:#666;--white:#fff;
+  --uncommon:#4a9eff;--rare:#a855f7;--epic:#ec4899;--success:#22c55e;--danger:#ef4444;
+  --pixel-shadow:4px 4px 0 var(--dark-gold);
+  --font-pixel:"Press Start 2P",monospace;
+  --font-body:"Space Mono",monospace;
+}
+html{scroll-behavior:smooth}
+body{background:var(--bg);color:var(--white);font-family:var(--font-body);font-size:13px;line-height:1.7;
+  /* dot-grid overlay */
+  background-image:radial-gradient(circle,#ffd70011 1px,transparent 1px);
+  background-size:24px 24px;
+}
+/* scanline */
+body::before{content:"";position:fixed;inset:0;pointer-events:none;z-index:9999;
+  background:repeating-linear-gradient(0deg,transparent,transparent 2px,rgba(0,0,0,.08) 2px,rgba(0,0,0,.08) 4px);}
+
+/* ─── Layout ────────────────────────────────────────────────── */
+.layout{display:flex;min-height:100vh}
+nav{width:220px;flex-shrink:0;background:#050505;border-right:2px solid #ffd70022;
+  position:sticky;top:0;height:100vh;overflow-y:auto;padding:24px 0}
+main{flex:1;max-width:900px;padding:40px 48px 80px}
+
+/* ─── Nav ───────────────────────────────────────────────────── */
+.nav-logo{padding:0 20px 24px;border-bottom:1px solid #ffd70020;margin-bottom:16px}
+.nav-logo h1{font-family:var(--font-pixel);font-size:8px;color:var(--gold);line-height:1.8}
+.nav-logo .sub{font-size:9px;color:var(--muted);margin-top:6px}
+.nav-section{padding:6px 20px 2px;font-family:var(--font-pixel);font-size:6px;
+  color:#ffd70055;letter-spacing:.1em;text-transform:uppercase;margin-top:14px}
+nav a{display:block;padding:7px 20px;font-size:10px;color:#ffffff60;
+  text-decoration:none;transition:color .15s,background .15s;border-left:2px solid transparent}
+nav a:hover,nav a.active{color:var(--gold);border-left-color:var(--gold);background:#ffd70008}
+
+/* ─── Section headings ──────────────────────────────────────── */
+section{margin-bottom:56px;scroll-margin-top:24px}
+h2{font-family:var(--font-pixel);font-size:11px;color:var(--gold);margin-bottom:6px;
+  text-shadow:2px 2px 0 var(--dark-gold)}
+.section-desc{font-size:11px;color:var(--muted);margin-bottom:24px;line-height:1.8}
+h3{font-family:var(--font-pixel);font-size:8px;color:var(--white);margin:28px 0 12px}
+
+/* ─── Pixel border util ─────────────────────────────────────── */
+.px-border{border:2px solid #ffd70055;background:var(--card);box-shadow:2px 2px 0 #b8860b44}
+.px-border.gold{border-color:var(--gold);box-shadow:var(--pixel-shadow)}
+
+/* ─── Swatches ──────────────────────────────────────────────── */
+.swatch-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(120px,1fr));gap:12px}
+.swatch{display:flex;flex-direction:column;gap:6px}
+.swatch-color{height:56px;width:100%;border:1px solid #ffffff10}
+.swatch-name{font-family:var(--font-pixel);font-size:6px;color:var(--white)}
+.swatch-hex{font-size:9px;color:var(--muted)}
+.rarity-grid{display:grid;grid-template-columns:repeat(5,1fr);gap:10px}
+.rarity-swatch{display:flex;flex-direction:column;gap:6px}
+.rarity-color{height:48px;border:2px solid}
+
+/* ─── Token table ───────────────────────────────────────────── */
+.token-table{width:100%;border-collapse:collapse;font-size:11px}
+.token-table th{text-align:left;font-family:var(--font-pixel);font-size:6px;
+  color:var(--muted);border-bottom:1px solid #ffd70020;padding:8px 10px}
+.token-table td{padding:8px 10px;border-bottom:1px solid #ffffff06;vertical-align:middle}
+.token-table tr:hover td{background:#ffd70005}
+.token-dot{width:14px;height:14px;display:inline-block;flex-shrink:0;border:1px solid #ffffff20}
+.role{font-family:var(--font-pixel);font-size:7px;color:var(--gold)}
+.val{font-family:var(--font-body);color:#a0d0ff}
+.desc{color:var(--muted);font-size:10px}
+
+/* ─── Typography specimens ──────────────────────────────────── */
+.type-row{display:flex;flex-direction:column;gap:4px;padding:16px;
+  border-bottom:1px solid #ffd70015}
+.type-sample-pixel{font-family:var(--font-pixel);color:var(--gold)}
+.type-sample-body{font-family:var(--font-body);color:var(--white)}
+.type-meta{font-size:9px;color:var(--muted)}
+
+/* ─── Component demos ───────────────────────────────────────── */
+.demo-box{background:var(--card);border:1px solid #ffd70015;padding:24px;margin-bottom:8px}
+.demo-row{display:flex;flex-wrap:wrap;align-items:center;gap:12px;margin-bottom:16px}
+.demo-label{font-family:var(--font-pixel);font-size:6px;color:var(--muted);
+  min-width:80px;flex-shrink:0}
+
+/* ─── PixelBorder live demos ────────────────────────────────── */
+.pb-demo-gold{border:2px solid var(--gold);background:var(--card);
+  box-shadow:4px 4px 0 var(--dark-gold);padding:14px 18px;
+  font-family:var(--font-pixel);font-size:7px;color:var(--gold);display:inline-block}
+.pb-demo-std{border:2px solid #ffd70060;background:var(--card);
+  box-shadow:2px 2px 0 #b8860b44;padding:14px 18px;
+  font-family:var(--font-pixel);font-size:7px;color:#ffffff80;display:inline-block}
+
+/* ─── Rarity badges ─────────────────────────────────────────── */
+.rb{display:inline-flex;align-items:center;gap:4px;border:1px solid;
+  padding:3px 8px;font-family:var(--font-pixel);font-size:7px;letter-spacing:.05em}
+.rb-common  {border-color:#666;background:#111;color:#888}
+.rb-uncommon{border-color:#4a9eff;background:#05111f;color:#4a9eff;box-shadow:0 0 8px #4a9eff44}
+.rb-rare    {border-color:#a855f7;background:#0e0518;color:#a855f7;box-shadow:0 0 8px #a855f755}
+.rb-epic    {border-color:#ec4899;background:#1a0511;color:#ec4899;box-shadow:0 0 10px #ec489966}
+.rb-legendary{border-color:#ffd700;background:#140d00;color:#ffd700;box-shadow:0 0 12px #ffd70077}
+
+/* ─── Buttons ───────────────────────────────────────────────── */
+.btn{display:inline-flex;align-items:center;justify-content:center;gap:8px;
+  border:none;cursor:pointer;font-family:var(--font-pixel);font-size:8px;
+  letter-spacing:.05em;padding:12px 20px;transition:transform .1s,box-shadow .1s}
+.btn:active{transform:translate(2px,2px)}
+.btn-primary{background:var(--gold);color:#0a0a0a;box-shadow:var(--pixel-shadow)}
+.btn-primary:active{box-shadow:2px 2px 0 var(--dark-gold)}
+.btn-secondary{background:#1a1400;color:var(--gold);border:2px solid #ffd70040}
+.btn-outline{background:transparent;color:#ffffff80;border:2px solid #ffffff30}
+.btn-outline:hover{border-color:var(--gold);color:var(--gold)}
+.btn-danger{background:var(--danger);color:#fff;box-shadow:4px 4px 0 #991b1b}
+.btn-disabled{background:#1a1a1a;color:#444;cursor:not-allowed;box-shadow:none}
+
+/* ─── Mode cards ─────────────────────────────────────────────── */
+.mode-card{border:2px solid;background:var(--bg);padding:16px;display:flex;
+  align-items:center;gap:16px;cursor:pointer;transition:background .15s;width:240px}
+.mode-card:hover{background:#ffd70008}
+.mode-card-icon{width:48px;height:48px;border:2px solid;display:flex;
+  align-items:center;justify-content:center;font-size:22px;flex-shrink:0}
+.mode-card-title{font-family:var(--font-pixel);font-size:8px;margin-bottom:4px}
+.mode-card-sub{font-size:9px;color:var(--muted);line-height:1.5}
+
+/* ─── Input demo ─────────────────────────────────────────────── */
+.input-wrap{border:2px solid var(--gold);box-shadow:var(--pixel-shadow);display:inline-block}
+.input-demo{background:var(--bg);border:none;outline:none;color:var(--gold);
+  font-family:var(--font-pixel);font-size:8px;padding:12px 16px;
+  letter-spacing:.06em;text-transform:uppercase;width:260px}
+.input-demo::placeholder{color:#ffd70030}
+
+/* ─── Progress bar ───────────────────────────────────────────── */
+.progress-wrap{width:100%;height:10px;background:#1a1a1a;border:1px solid #ffd70020;overflow:hidden}
+.progress-fill{height:100%;background:linear-gradient(90deg,#ffd700,#ffb800)}
+
+/* ─── Loot card ──────────────────────────────────────────────── */
+.loot-card{border:2px solid;padding:12px;display:flex;flex-direction:column;
+  align-items:center;gap:8px;text-align:center;width:90px}
+.loot-icon{font-size:26px}
+.loot-name{font-family:var(--font-pixel);font-size:5px;line-height:1.6}
+
+/* ─── Code blocks ────────────────────────────────────────────── */
+pre{background:#050505;border:1px solid #ffd70020;border-left:3px solid var(--gold);
+  padding:20px;overflow-x:auto;font-size:11px;line-height:1.7;margin-bottom:8px}
+code{color:#a0d0ff;font-family:var(--font-body)}
+.code-kw{color:#ec4899}.code-str{color:#22c55e}.code-cm{color:#555}
+.code-type{color:#a855f7}.code-num{color:#f97316}.code-fn{color:#4a9eff}
+
+/* ─── Guidelines ─────────────────────────────────────────────── */
+.guidelines{display:grid;grid-template-columns:1fr 1fr;gap:16px;margin-top:16px}
+.gl-do,.gl-dont{padding:14px 16px;font-size:10px;line-height:1.8}
+.gl-do{border-left:3px solid var(--success);background:#001a08}
+.gl-dont{border-left:3px solid var(--danger);background:#1a0000}
+.gl-label{font-family:var(--font-pixel);font-size:6px;margin-bottom:8px;display:block}
+.gl-do .gl-label{color:var(--success)}
+.gl-dont .gl-label{color:var(--danger)}
+.gl-do li,.gl-dont li{color:var(--muted);list-style:none;padding-left:12px;position:relative}
+.gl-do li::before{content:"✓";color:var(--success);position:absolute;left:0}
+.gl-dont li::before{content:"✗";color:var(--danger);position:absolute;left:0}
+
+/* ─── Divider ────────────────────────────────────────────────── */
+.px-divider{display:flex;height:10px;margin:0 0 40px;overflow:hidden}
+.px-divider span{display:inline-block;width:8px;height:8px;flex-shrink:0}
+
+/* ─── Copy button ────────────────────────────────────────────── */
+.copy-btn{font-family:var(--font-pixel);font-size:6px;background:var(--gold);
+  color:#0a0a0a;border:none;cursor:pointer;padding:5px 12px;
+  box-shadow:2px 2px 0 var(--dark-gold);float:right;margin-bottom:6px}
+.copy-btn:active{transform:translate(1px,1px);box-shadow:1px 1px 0 var(--dark-gold)}
+.toast{position:fixed;bottom:24px;right:24px;background:var(--gold);color:#0a0a0a;
+  font-family:var(--font-pixel);font-size:8px;padding:10px 18px;
+  box-shadow:var(--pixel-shadow);opacity:0;transition:opacity .2s;pointer-events:none;z-index:9998}
+.toast.show{opacity:1}
+
+/* ─── Top bar ────────────────────────────────────────────────── */
+.topbar{background:#050505;border-bottom:2px solid var(--gold);padding:12px 48px;
+  display:flex;align-items:center;justify-content:space-between;
+  font-family:var(--font-pixel);font-size:7px;position:sticky;top:0;z-index:100}
+.topbar-title{color:var(--gold);text-shadow:2px 2px 0 var(--dark-gold)}
+.topbar-meta{color:var(--muted)}
+</style>
+</head>
+<body>
+
+<div class="topbar">
+  <span class="topbar-title">⚔ LARP EXO DESIGN SYSTEM</span>
+  <span class="topbar-meta">v1.0 · retro arcade · play-only tokens</span>
+</div>
+
+<div class="layout">
+
+<!-- ════ NAV ════ -->
+<nav>
+  <div class="nav-logo">
+    <h1>LARP EXO</h1>
+    <div class="sub">Design System</div>
+  </div>
+  <div class="nav-section">Foundations</div>
+  <a href="#overview">Overview</a>
+  <a href="#colors">Color tokens</a>
+  <a href="#typography">Typography</a>
+  <a href="#spacing">Spacing &amp; Radius</a>
+  <a href="#shadows">Pixel shadows</a>
+  <div class="nav-section">Components</div>
+  <a href="#pixel-border">Pixel Border</a>
+  <a href="#rarity-badge">Rarity Badge</a>
+  <a href="#buttons">Button</a>
+  <a href="#input">Input</a>
+  <a href="#progress">Progress</a>
+  <div class="nav-section">Code</div>
+  <a href="#code-pixelborder">PixelBorder.tsx</a>
+  <a href="#code-raritybadge">PixelRarityBadge.tsx</a>
+  <a href="#code-tokens">tokens.json</a>
+</nav>
+
+<!-- ════ MAIN ════ -->
+<main>
+
+<!-- ── OVERVIEW ── -->
+<section id="overview">
+  <h2>Overview</h2>
+  <p class="section-desc">
+    LARP EXO is a retro arcade visual language. Every decision flows from
+    three constraints: <strong style="color:var(--gold)">gold on black</strong>,
+    <strong style="color:var(--gold)">zero border-radius</strong>, and
+    <strong style="color:var(--gold)">Press Start 2P everywhere</strong>.
+  </p>
+
+  <!-- mini component showcase -->
+  <div class="demo-box">
+    <div class="demo-row">
+      <div class="pb-demo-gold">⚔ GOLD BORDER</div>
+      <div class="pb-demo-std">STANDARD BORDER</div>
+    </div>
+    <div class="demo-row">
+      <span class="rb rb-common">COMMON</span>
+      <span class="rb rb-uncommon">UNCOMMON</span>
+      <span class="rb rb-rare">RARE</span>
+      <span class="rb rb-epic">EPIC</span>
+      <span class="rb rb-legendary">👑 LEGENDARY</span>
+    </div>
+    <div class="demo-row">
+      <button class="btn btn-primary">⚔ BATTLE</button>
+      <button class="btn btn-secondary">BACK</button>
+      <button class="btn btn-outline">SKIP</button>
+      <button class="btn btn-danger">FORFEIT</button>
+    </div>
+    <div class="demo-row" style="flex-direction:column;align-items:flex-start">
+      <div class="input-wrap">
+        <input class="input-demo" placeholder="e.g. LORD VEXOR" readonly>
+      </div>
+      <div style="width:300px;margin-top:12px">
+        <div style="font-family:var(--font-pixel);font-size:6px;color:var(--gold);margin-bottom:6px">⭐ JACKPOT METER</div>
+        <div class="progress-wrap"><div class="progress-fill" style="width:42%"></div></div>
+      </div>
+    </div>
+  </div>
+
+  <div class="guidelines">
+    <div class="gl-do">
+      <span class="gl-label">✓ DO</span>
+      <ul>
+        <li>Gold on black, always</li>
+        <li>Zero border-radius everywhere</li>
+        <li>Press Start 2P for all UI chrome</li>
+        <li>Space Mono for readable body text</li>
+        <li>Solid pixel shadows, no blur</li>
+      </ul>
+    </div>
+    <div class="gl-dont">
+      <span class="gl-label">✗ DON'T</span>
+      <ul>
+        <li>Add rounded corners anywhere</li>
+        <li>Use any font other than these two</li>
+        <li>Use blur-based shadows</li>
+        <li>Invent new rarity tiers</li>
+        <li>Use rarity colors for non-rarity UI</li>
+      </ul>
+    </div>
+  </div>
+</section>
+
+<!-- ── COLORS ── -->
+<section id="colors">
+  <h2>Color Tokens</h2>
+  <p class="section-desc">All values from <code>tokens.json</code>. Dark mode is canonical — the game's native look.</p>
+
+  <h3>Core Brand</h3>
+  <div class="swatch-grid" style="grid-template-columns:repeat(3,1fr)">
+    <div class="swatch">
+      <div class="swatch-color" style="background:#ffd700;display:flex;align-items:center;justify-content:center;font-family:var(--font-body);font-size:11px;color:#0a0a0a">#ffd700</div>
+      <div class="swatch-name">Primary</div>
+      <div class="swatch-hex">#ffd700 — Signature gold</div>
+    </div>
+    <div class="swatch">
+      <div class="swatch-color" style="background:#1a1400"></div>
+      <div class="swatch-name">Secondary</div>
+      <div class="swatch-hex">#1a1400 — Dark gold surface</div>
+    </div>
+    <div class="swatch">
+      <div class="swatch-color" style="background:#b8860b"></div>
+      <div class="swatch-name">Accent</div>
+      <div class="swatch-hex">#b8860b — Pixel drop-shadow</div>
+    </div>
+  </div>
+
+  <h3>Semantic Colors (dark mode)</h3>
+  <table class="token-table">
+    <thead><tr><th></th><th>Token</th><th>Value</th><th>Notes</th></tr></thead>
+    <tbody>
+      <tr><td><div class="token-dot" style="background:#0a0a0a;display:inline-block"></div></td><td class="role">background</td><td class="val">#0a0a0a</td><td class="desc">Near-black arcade background</td></tr>
+      <tr><td><div class="token-dot" style="background:#fff;display:inline-block"></div></td><td class="role">foreground</td><td class="val">#ffffff</td><td class="desc">Primary text</td></tr>
+      <tr><td><div class="token-dot" style="background:#0d0d0d;display:inline-block"></div></td><td class="role">card</td><td class="val">#0d0d0d</td><td class="desc">Slightly lifted surface</td></tr>
+      <tr><td><div class="token-dot" style="background:#3d3200;display:inline-block"></div></td><td class="role">border</td><td class="val">#3d3200</td><td class="desc">Dark gold border, subtle</td></tr>
+      <tr><td><div class="token-dot" style="background:#1a1a1a;display:inline-block"></div></td><td class="role">muted</td><td class="val">#1a1a1a</td><td class="desc">Muted surface</td></tr>
+      <tr><td><div class="token-dot" style="background:#666;display:inline-block"></div></td><td class="role">mutedForeground</td><td class="val">#666666</td><td class="desc">≈ white/40 on dark bg</td></tr>
+      <tr><td><div class="token-dot" style="background:#ef4444;display:inline-block"></div></td><td class="role">destructive</td><td class="val">#ef4444</td><td class="desc">Wrong answer / danger</td></tr>
+      <tr><td><div class="token-dot" style="background:#22c55e;display:inline-block"></div></td><td class="role">chart4</td><td class="val">#22c55e</td><td class="desc">Correct / success green</td></tr>
+    </tbody>
+  </table>
+
+  <h3>Rarity Scale</h3>
+  <div class="rarity-grid">
+    <div class="rarity-swatch">
+      <div class="rarity-color" style="background:#111;border-color:#666"></div>
+      <div style="font-family:var(--font-pixel);font-size:6px;color:#666">COMMON</div>
+      <div style="font-size:9px;color:var(--muted)">#666666</div>
+    </div>
+    <div class="rarity-swatch">
+      <div class="rarity-color" style="background:#05111f;border-color:#4a9eff;box-shadow:0 0 8px #4a9eff44"></div>
+      <div style="font-family:var(--font-pixel);font-size:6px;color:#4a9eff">UNCOMMON</div>
+      <div style="font-size:9px;color:var(--muted)">#4a9eff</div>
+    </div>
+    <div class="rarity-swatch">
+      <div class="rarity-color" style="background:#0e0518;border-color:#a855f7;box-shadow:0 0 8px #a855f755"></div>
+      <div style="font-family:var(--font-pixel);font-size:6px;color:#a855f7">RARE</div>
+      <div style="font-size:9px;color:var(--muted)">#a855f7</div>
+    </div>
+    <div class="rarity-swatch">
+      <div class="rarity-color" style="background:#1a0511;border-color:#ec4899;box-shadow:0 0 10px #ec489966"></div>
+      <div style="font-family:var(--font-pixel);font-size:6px;color:#ec4899">EPIC</div>
+      <div style="font-size:9px;color:var(--muted)">#ec4899</div>
+    </div>
+    <div class="rarity-swatch">
+      <div class="rarity-color" style="background:#140d00;border-color:#ffd700;box-shadow:0 0 12px #ffd70077"></div>
+      <div style="font-family:var(--font-pixel);font-size:6px;color:#ffd700">LEGENDARY</div>
+      <div style="font-size:9px;color:var(--muted)">#ffd700</div>
+    </div>
+  </div>
+</section>
+
+<!-- ── TYPOGRAPHY ── -->
+<section id="typography">
+  <h2>Typography</h2>
+  <p class="section-desc">Two fonts. One for all UI chrome, one for readable body text.</p>
+
+  <div class="type-row">
+    <div class="type-sample-pixel" style="font-size:22px">LARP EXO GAME</div>
+    <div class="type-meta">Press Start 2P · Display / UI chrome<br>
+      Used for: labels, headings, buttons, nav, token counters, tags, all interactive text<br>
+      Sizes: 4–8px (tags) · 9–14px (headings/CTAs) · 20–30px (cover titles only)</div>
+  </div>
+  <div class="type-row">
+    <div class="type-sample-pixel" style="font-size:12px">BATTLE MODE SELECT</div>
+    <div class="type-meta">12px — section heading</div>
+  </div>
+  <div class="type-row">
+    <div class="type-sample-pixel" style="font-size:8px">CHOOSE YOUR CHALLENGER</div>
+    <div class="type-meta">8px — card titles, button labels</div>
+  </div>
+  <div class="type-row">
+    <div class="type-sample-pixel" style="font-size:6px">FACE-OFF · TOKENS · PERSONA</div>
+    <div class="type-meta">6px — tags, nav labels, metadata</div>
+  </div>
+  <div class="type-row">
+    <div class="type-sample-pixel" style="font-size:4px">PLAY-ONLY · NO CASH VALUE · DISCLAIMER TEXT</div>
+    <div class="type-meta">4–5px — micro labels, legal, fine print</div>
+  </div>
+
+  <div style="height:24px"></div>
+
+  <div class="type-row">
+    <div class="type-sample-body" style="font-size:14px">Test your startup knowledge.</div>
+    <div class="type-meta">Space Mono · Body / readable copy<br>
+      Used for: trivia questions, descriptions, persona taglines, lore text, paragraphs<br>
+      Sizes: 10–14px — never below 10px</div>
+  </div>
+  <div class="type-row">
+    <div class="type-sample-body" style="font-size:12px;color:var(--muted)">Stripe was founded by which pair of brothers? Answer correctly to earn +1 token.</div>
+    <div class="type-meta">12px — trivia question body</div>
+  </div>
+  <div class="type-row">
+    <div class="type-sample-body" style="font-size:10px;font-style:italic;color:#ffffff50">"Built three empires. Burned two. Learning."</div>
+    <div class="type-meta">10px italic — persona tagline / flavour text</div>
+  </div>
+</section>
+
+<!-- ── SPACING ── -->
+<section id="spacing">
+  <h2>Spacing &amp; Radius</h2>
+  <p class="section-desc">
+    Spacing is built on an <strong style="color:var(--gold)">8px grid</strong>
+    (base unit = 4px, always use multiples of 2). Radius is always zero.
+  </p>
+
+  <h3>Spacing scale</h3>
+  <div style="display:flex;flex-direction:column;gap:10px;margin-bottom:24px">
+    <div style="display:flex;align-items:center;gap:12px"><div style="background:var(--gold);height:10px;width:8px"></div><span style="font-size:10px;color:var(--muted)">4px  — xs</span></div>
+    <div style="display:flex;align-items:center;gap:12px"><div style="background:var(--gold);height:10px;width:16px"></div><span style="font-size:10px;color:var(--muted)">8px  — sm</span></div>
+    <div style="display:flex;align-items:center;gap:12px"><div style="background:var(--gold);height:10px;width:32px"></div><span style="font-size:10px;color:var(--muted)">16px — md (1 grid unit)</span></div>
+    <div style="display:flex;align-items:center;gap:12px"><div style="background:var(--gold);height:10px;width:48px"></div><span style="font-size:10px;color:var(--muted)">24px — lg</span></div>
+    <div style="display:flex;align-items:center;gap:12px"><div style="background:var(--gold);height:10px;width:80px"></div><span style="font-size:10px;color:var(--muted)">40px — xl</span></div>
+    <div style="display:flex;align-items:center;gap:12px"><div style="background:var(--gold);height:10px;width:128px"></div><span style="font-size:10px;color:var(--muted)">64px — 2xl</span></div>
+  </div>
+
+  <h3>Border radius — always 0</h3>
+  <div class="demo-box" style="display:flex;align-items:center;gap:24px">
+    <div style="width:56px;height:56px;background:var(--gold);border-radius:0"></div>
+    <div style="font-size:10px;color:var(--muted)">
+      <code>radius.base = "0rem"</code><br>
+      Hard corners are fundamental. No <code>border-radius</code> anywhere in the system.<br>
+      This applies to containers, buttons, inputs, badges, and all custom components.
+    </div>
+  </div>
+</section>
+
+<!-- ── SHADOWS ── -->
+<section id="shadows">
+  <h2>Pixel Drop-Shadows</h2>
+  <p class="section-desc">
+    No blur. Solid color offset — a pure pixel-art technique. Two tiers based on emphasis.
+  </p>
+  <div class="demo-box">
+    <div class="demo-row">
+      <div>
+        <div style="border:2px solid var(--gold);background:var(--card);padding:16px 24px;
+          box-shadow:4px 4px 0 var(--dark-gold);font-family:var(--font-pixel);font-size:7px;color:var(--gold)">
+          PRIMARY — 4px
+        </div>
+        <div style="font-size:9px;color:var(--muted);margin-top:8px"><code>box-shadow: 4px 4px 0 #b8860b</code><br>Gold PixelBorder, primary buttons, CTA containers</div>
+      </div>
+      <div>
+        <div style="border:2px solid #ffd70055;background:var(--card);padding:16px 24px;
+          box-shadow:2px 2px 0 #b8860b44;font-family:var(--font-pixel);font-size:7px;color:#ffffff60">
+          SECONDARY — 2px
+        </div>
+        <div style="font-size:9px;color:var(--muted);margin-top:8px"><code>box-shadow: 2px 2px 0 #b8860b44</code><br>Standard PixelBorder, secondary containers</div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ── PIXEL BORDER ── -->
+<section id="pixel-border">
+  <h2>Pixel Border</h2>
+  <p class="section-desc">
+    The primary container primitive. Hard 2px border + pixel drop-shadow. Two variants: gold (primary/CTA) and standard (secondary/info).
+  </p>
+
+  <div class="demo-box">
+    <div class="demo-row">
+      <span class="demo-label">Variants</span>
+      <div class="pb-demo-gold">GOLD VARIANT</div>
+      <div class="pb-demo-std">STANDARD VARIANT</div>
+    </div>
+
+    <div class="demo-row" style="flex-direction:column;align-items:flex-start">
+      <span class="demo-label" style="margin-bottom:10px">Mode cards</span>
+      <div style="display:flex;gap:12px;flex-wrap:wrap">
+        <div class="mode-card" style="border-color:var(--gold);box-shadow:var(--pixel-shadow)">
+          <div class="mode-card-icon" style="border-color:var(--gold);background:#140d00">⚔️</div>
+          <div>
+            <div class="mode-card-title" style="color:var(--gold)">LARP BATTLE</div>
+            <div class="mode-card-sub">Create and duel a persona</div>
+          </div>
+        </div>
+        <div class="mode-card" style="border-color:#ffd70055;box-shadow:2px 2px 0 #b8860b44">
+          <div class="mode-card-icon" style="border-color:#4a9eff55;background:#030d1a">🏢</div>
+          <div>
+            <div class="mode-card-title" style="color:var(--white)">YC TRIVIA</div>
+            <div class="mode-card-sub">Answer to earn tokens</div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="demo-row" style="flex-direction:column;align-items:flex-start">
+      <span class="demo-label" style="margin-bottom:10px">Input wrapper</span>
+      <div class="input-wrap">
+        <input class="input-demo" placeholder="e.g. LORD VEXOR" readonly>
+      </div>
+    </div>
+  </div>
+
+  <div class="guidelines">
+    <div class="gl-do">
+      <span class="gl-label">✓ DO</span>
+      <ul>
+        <li>Use gold for CTA containers and active selections</li>
+        <li>Use standard for secondary/info panels</li>
+        <li>Wrap inputs in gold PixelBorder</li>
+        <li>Keep padding on an 8px grid</li>
+      </ul>
+    </div>
+    <div class="gl-dont">
+      <span class="gl-label">✗ DON'T</span>
+      <ul>
+        <li>Add border-radius — hard corners only</li>
+        <li>Override the pixel shadow with blur</li>
+        <li>Use as an interactive element directly</li>
+        <li>Nest more than one level deep</li>
+      </ul>
+    </div>
+  </div>
+</section>
+
+<!-- ── RARITY BADGE ── -->
+<section id="rarity-badge">
+  <h2>Rarity Badge</h2>
+  <p class="section-desc">
+    Five-tier loot rarity label. Used on chest reveals, inventory grids, and loot cards.
+    Colors are fixed — never override them.
+  </p>
+
+  <div class="demo-box">
+    <div class="demo-row">
+      <span class="demo-label">All tiers</span>
+      <span class="rb rb-common">COMMON</span>
+      <span class="rb rb-uncommon">UNCOMMON</span>
+      <span class="rb rb-rare">RARE</span>
+      <span class="rb rb-epic">EPIC</span>
+      <span class="rb rb-legendary">👑 LEGENDARY</span>
+    </div>
+
+    <div class="demo-row">
+      <span class="demo-label">With icon</span>
+      <span class="rb rb-common">📜 COMMON</span>
+      <span class="rb rb-uncommon">⚔️ UNCOMMON</span>
+      <span class="rb rb-rare">🦇 RARE</span>
+      <span class="rb rb-epic">💎 EPIC</span>
+      <span class="rb rb-legendary">👑 LEGENDARY</span>
+    </div>
+
+    <div class="demo-row" style="align-items:flex-start">
+      <span class="demo-label">Loot cards</span>
+      <div style="display:flex;gap:10px;flex-wrap:wrap">
+        <div class="loot-card" style="border-color:#666;background:#111">
+          <div class="loot-icon">📜</div>
+          <div class="loot-name" style="color:#666">PEASANT SCROLL</div>
+          <span class="rb rb-common">COMMON</span>
+        </div>
+        <div class="loot-card" style="border-color:#4a9eff;background:#05111f;box-shadow:0 0 10px #4a9eff33">
+          <div class="loot-icon">⚔️</div>
+          <div class="loot-name" style="color:#4a9eff">SILVER DAGGER</div>
+          <span class="rb rb-uncommon">UNCOMMON</span>
+        </div>
+        <div class="loot-card" style="border-color:#a855f7;background:#0e0518;box-shadow:0 0 10px #a855f744">
+          <div class="loot-icon">🦇</div>
+          <div class="loot-name" style="color:#a855f7">SHADOW CLOAK</div>
+          <span class="rb rb-rare">RARE</span>
+        </div>
+        <div class="loot-card" style="border-color:#ec4899;background:#1a0511;box-shadow:0 0 12px #ec489955">
+          <div class="loot-icon">💎</div>
+          <div class="loot-name" style="color:#ec4899">VOID CRYSTAL</div>
+          <span class="rb rb-epic">EPIC</span>
+        </div>
+        <div class="loot-card" style="border-color:#ffd700;background:#140d00;box-shadow:0 0 14px #ffd70066">
+          <div class="loot-icon">👑</div>
+          <div class="loot-name" style="color:#ffd700">CROWN OF REALM</div>
+          <span class="rb rb-legendary">LEGENDARY</span>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <h3>Drop probability</h3>
+  <table class="token-table">
+    <thead><tr><th>Rarity</th><th>Chance</th><th>Border</th><th>Background</th></tr></thead>
+    <tbody>
+      <tr><td class="role" style="color:#666">Common</td><td>50%</td><td class="val">#666666</td><td class="val">#111111</td></tr>
+      <tr><td class="role" style="color:#4a9eff">Uncommon</td><td>28%</td><td class="val">#4a9eff</td><td class="val">#05111f</td></tr>
+      <tr><td class="role" style="color:#a855f7">Rare</td><td>14%</td><td class="val">#a855f7</td><td class="val">#0e0518</td></tr>
+      <tr><td class="role" style="color:#ec4899">Epic</td><td>6%</td><td class="val">#ec4899</td><td class="val">#1a0511</td></tr>
+      <tr><td class="role" style="color:#ffd700">Legendary</td><td>2%</td><td class="val">#ffd700</td><td class="val">#140d00</td></tr>
+    </tbody>
+  </table>
+</section>
+
+<!-- ── BUTTONS ── -->
+<section id="buttons">
+  <h2>Button</h2>
+  <p class="section-desc">Four semantic variants. All square-cornered, Press Start 2P, 8px font.</p>
+  <div class="demo-box">
+    <div class="demo-row">
+      <span class="demo-label">Variants</span>
+      <button class="btn btn-primary">⚔ BATTLE</button>
+      <button class="btn btn-secondary">BACK</button>
+      <button class="btn btn-outline">SKIP</button>
+      <button class="btn btn-danger">FORFEIT</button>
+      <button class="btn btn-disabled" disabled>LOADING...</button>
+    </div>
+    <div class="demo-row">
+      <span class="demo-label">Small</span>
+      <button class="btn btn-primary" style="font-size:6px;padding:8px 14px">SPIN</button>
+      <button class="btn btn-secondary" style="font-size:6px;padding:8px 14px">HUB</button>
+      <button class="btn btn-outline" style="font-size:6px;padding:8px 14px">← BACK</button>
+    </div>
+  </div>
+  <table class="token-table">
+    <thead><tr><th>Variant</th><th>Background</th><th>Text</th><th>Shadow</th><th>Use for</th></tr></thead>
+    <tbody>
+      <tr><td class="role">primary</td><td class="val">#ffd700</td><td class="val">#0a0a0a</td><td class="val">4px 4px 0 #b8860b</td><td class="desc">Main CTA, confirm, battle start</td></tr>
+      <tr><td class="role">secondary</td><td class="val">#1a1400</td><td class="val">#ffd700</td><td class="val">none</td><td class="desc">Back, secondary actions</td></tr>
+      <tr><td class="role">outline</td><td class="val">transparent</td><td class="val">#ffffff60</td><td class="val">none</td><td class="desc">Tertiary actions, cancel</td></tr>
+      <tr><td class="role">danger</td><td class="val">#ef4444</td><td class="val">#ffffff</td><td class="val">4px 4px 0 #991b1b</td><td class="desc">Forfeit, destructive actions</td></tr>
+    </tbody>
+  </table>
+</section>
+
+<!-- ── INPUT ── -->
+<section id="input">
+  <h2>Input</h2>
+  <p class="section-desc">Always wrapped in a gold PixelBorder. Uppercase tracking, no outline ring.</p>
+  <div class="demo-box">
+    <div class="demo-row" style="flex-direction:column;align-items:flex-start;gap:16px">
+      <div>
+        <div style="font-family:var(--font-pixel);font-size:6px;color:var(--gold);margin-bottom:8px">CHARACTER NAME</div>
+        <div class="input-wrap">
+          <input class="input-demo" placeholder="e.g. LORD VEXOR" readonly>
+        </div>
+      </div>
+      <div>
+        <div style="font-family:var(--font-pixel);font-size:6px;color:var(--muted);margin-bottom:8px">FILLED STATE</div>
+        <div class="input-wrap">
+          <input class="input-demo" value="BARON ORVYN" readonly>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ── PROGRESS ── -->
+<section id="progress">
+  <h2>Progress</h2>
+  <p class="section-desc">Used for the jackpot meter. Gold gradient fill, dark track, no radius.</p>
+  <div class="demo-box">
+    <div style="display:flex;flex-direction:column;gap:16px;max-width:400px">
+      <div>
+        <div style="font-family:var(--font-pixel);font-size:6px;color:var(--gold);margin-bottom:8px">⭐ JACKPOT METER — 42%</div>
+        <div class="progress-wrap"><div class="progress-fill" style="width:42%"></div></div>
+        <div style="font-size:9px;color:var(--muted);margin-top:4px">GROWS EVERY SPIN · RESETS ON HIT</div>
+      </div>
+      <div>
+        <div style="font-family:var(--font-pixel);font-size:6px;color:var(--gold);margin-bottom:8px">⭐ JACKPOT METER — 78%</div>
+        <div class="progress-wrap"><div class="progress-fill" style="width:78%"></div></div>
+      </div>
+      <div>
+        <div style="font-family:var(--font-pixel);font-size:6px;color:var(--gold);margin-bottom:8px">⭐ JACKPOT METER — 100% (HIT!)</div>
+        <div class="progress-wrap"><div class="progress-fill" style="width:100%"></div></div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ── CODE: PIXEL BORDER ── -->
+<section id="code-pixelborder">
+  <h2>PixelBorder.tsx</h2>
+  <p class="section-desc">Drop-in component. Requires Tailwind + CSS custom properties from tokens.</p>
+  <button class="copy-btn" onclick="copyEl('pb-code')">COPY</button>
+  <pre><code id="pb-code"><span class="code-kw">import</span> * <span class="code-kw">as</span> React <span class="code-kw">from</span> <span class="code-str">"react"</span>
+
+<span class="code-cm">// If you're NOT using the design system's cn() util, replace with:</span>
+<span class="code-cm">// function cn(...classes) { return classes.filter(Boolean).join(' ') }</span>
+<span class="code-kw">import</span> { cn } <span class="code-kw">from</span> <span class="code-str">"./utils"</span>
+
+<span class="code-kw">export interface</span> <span class="code-type">PixelBorderProps</span> <span class="code-kw">extends</span> React.HTMLAttributes&lt;HTMLDivElement&gt; {
+  <span class="code-cm">/** gold — full gold border + 4px pixel drop-shadow. */</span>
+  gold?: boolean
+}
+
+<span class="code-kw">export function</span> <span class="code-fn">PixelBorder</span>({
+  className, gold = false, children, style, ...props
+}: <span class="code-type">PixelBorderProps</span>) {
+  <span class="code-kw">return</span> (
+    &lt;div
+      className={cn(
+        <span class="code-str">"border-2 bg-[#0d0d0d]"</span>,
+        gold ? <span class="code-str">"border-[#ffd700]"</span> : <span class="code-str">"border-[#ffd700]/35"</span>,
+        className
+      )}
+      style={{
+        boxShadow: gold
+          ? <span class="code-str">"4px 4px 0 #b8860b"</span>
+          : <span class="code-str">"2px 2px 0 #b8860b44"</span>,
+        borderRadius: <span class="code-num">0</span>,  <span class="code-cm">// always zero</span>
+        ...style,
+      }}
+      {...props}
+    &gt;
+      {children}
+    &lt;/div&gt;
+  )
+}</code></pre>
+</section>
+
+<!-- ── CODE: RARITY BADGE ── -->
+<section id="code-raritybadge">
+  <h2>PixelRarityBadge.tsx</h2>
+  <p class="section-desc">Self-contained — no Tailwind dependency for rarity colors (all inline styles).</p>
+  <button class="copy-btn" onclick="copyEl('rb-code')">COPY</button>
+  <pre><code id="rb-code"><span class="code-kw">import</span> * <span class="code-kw">as</span> React <span class="code-kw">from</span> <span class="code-str">"react"</span>
+
+<span class="code-kw">export type</span> <span class="code-type">Rarity</span> = <span class="code-str">"common"</span> | <span class="code-str">"uncommon"</span> | <span class="code-str">"rare"</span> | <span class="code-str">"epic"</span> | <span class="code-str">"legendary"</span>
+
+<span class="code-kw">const</span> RARITY_CONFIG: Record&lt;<span class="code-type">Rarity</span>, {
+  border: string; bg: string; text: string; glow: string; label: string
+}&gt; = {
+  common:    { border:<span class="code-str">"#666"</span>,    bg:<span class="code-str">"#111"</span>,    text:<span class="code-str">"#888"</span>,    glow:<span class="code-str">"none"</span>,                label:<span class="code-str">"COMMON"</span>    },
+  uncommon:  { border:<span class="code-str">"#4a9eff"</span>, bg:<span class="code-str">"#05111f"</span>, text:<span class="code-str">"#4a9eff"</span>, glow:<span class="code-str">"0 0 8px #4a9eff44"</span>, label:<span class="code-str">"UNCOMMON"</span>  },
+  rare:      { border:<span class="code-str">"#a855f7"</span>, bg:<span class="code-str">"#0e0518"</span>, text:<span class="code-str">"#a855f7"</span>, glow:<span class="code-str">"0 0 8px #a855f755"</span>, label:<span class="code-str">"RARE"</span>      },
+  epic:      { border:<span class="code-str">"#ec4899"</span>, bg:<span class="code-str">"#1a0511"</span>, text:<span class="code-str">"#ec4899"</span>, glow:<span class="code-str">"0 0 10px #ec489966"</span>,label:<span class="code-str">"EPIC"</span>      },
+  legendary: { border:<span class="code-str">"#ffd700"</span>, bg:<span class="code-str">"#140d00"</span>, text:<span class="code-str">"#ffd700"</span>, glow:<span class="code-str">"0 0 12px #ffd70077"</span>,label:<span class="code-str">"LEGENDARY"</span> },
+}
+
+<span class="code-kw">export function</span> <span class="code-fn">PixelRarityBadge</span>({
+  rarity, icon, style, ...props
+}: { rarity: <span class="code-type">Rarity</span>; icon?: string } &amp; React.HTMLAttributes&lt;HTMLSpanElement&gt;) {
+  <span class="code-kw">const</span> cfg = RARITY_CONFIG[rarity]
+  <span class="code-kw">return</span> (
+    &lt;span
+      style={{
+        display:<span class="code-str">"inline-flex"</span>, alignItems:<span class="code-str">"center"</span>, gap:<span class="code-num">4</span>,
+        border:<span class="code-str">"1px solid"</span>, borderColor:cfg.border, borderRadius:<span class="code-num">0</span>,
+        padding:<span class="code-str">"3px 8px"</span>, background:cfg.bg, color:cfg.text,
+        boxShadow:cfg.glow,
+        fontFamily:<span class="code-str">"'Press Start 2P', monospace"</span>, fontSize:<span class="code-num">7</span>,
+        letterSpacing:<span class="code-str">"0.05em"</span>, textTransform:<span class="code-str">"uppercase"</span>,
+        ...style,
+      }}
+      {...props}
+    &gt;
+      {icon &amp;&amp; &lt;span style={{fontSize:<span class="code-num">10</span>}}&gt;{icon}&lt;/span&gt;}
+      {cfg.label}
+    &lt;/span&gt;
+  )
+}</code></pre>
+</section>
+
+<!-- ── CODE: TOKENS ── -->
+<section id="code-tokens">
+  <h2>tokens.json</h2>
+  <p class="section-desc">
+    DTCG-format token file. Single source of truth — never edit CSS variables directly.
+    Feed into style-dictionary or your own CSS generation pipeline.
+  </p>
+  <button class="copy-btn" onclick="copyEl('tokens-code')">COPY</button>
+  <pre style="max-height:420px;overflow-y:auto"><code id="tokens-code">{
+  <span class="code-cm">// Primary canonical dark mode (gold on black)</span>
+  <span class="code-str">"dark"</span>: {
+    <span class="code-str">"background"</span>:          <span class="code-str">"#0a0a0a"</span>,   <span class="code-cm">// near-black arcade background</span>
+    <span class="code-str">"foreground"</span>:          <span class="code-str">"#ffffff"</span>,
+    <span class="code-str">"card"</span>:                <span class="code-str">"#0d0d0d"</span>,   <span class="code-cm">// slightly lifted surface</span>
+    <span class="code-str">"border"</span>:              <span class="code-str">"#3d3200"</span>,   <span class="code-cm">// dark gold border</span>
+    <span class="code-str">"primary"</span>:             <span class="code-str">"#ffd700"</span>,   <span class="code-cm">// ⭐ SIGNATURE GOLD</span>
+    <span class="code-str">"primaryForeground"</span>:   <span class="code-str">"#0a0a0a"</span>,   <span class="code-cm">// black text on gold</span>
+    <span class="code-str">"secondary"</span>:           <span class="code-str">"#1a1400"</span>,   <span class="code-cm">// dark gold-tinted surface</span>
+    <span class="code-str">"secondaryForeground"</span>: <span class="code-str">"#ffd700"</span>,
+    <span class="code-str">"muted"</span>:               <span class="code-str">"#1a1a1a"</span>,
+    <span class="code-str">"mutedForeground"</span>:     <span class="code-str">"#666666"</span>,
+    <span class="code-str">"accent"</span>:              <span class="code-str">"#b8860b"</span>,   <span class="code-cm">// ⭐ PIXEL SHADOW COLOR</span>
+    <span class="code-str">"destructive"</span>:         <span class="code-str">"#ef4444"</span>,   <span class="code-cm">// wrong answer / danger</span>
+
+    <span class="code-cm">// Rarity scale (chart tokens)</span>
+    <span class="code-str">"chart1"</span>:              <span class="code-str">"#4a9eff"</span>,   <span class="code-cm">// uncommon blue</span>
+    <span class="code-str">"chart2"</span>:              <span class="code-str">"#a855f7"</span>,   <span class="code-cm">// rare purple</span>
+    <span class="code-str">"chart3"</span>:              <span class="code-str">"#ec4899"</span>,   <span class="code-cm">// epic pink</span>
+    <span class="code-str">"chart4"</span>:              <span class="code-str">"#22c55e"</span>,   <span class="code-cm">// success green</span>
+    <span class="code-str">"chart5"</span>:              <span class="code-str">"#f97316"</span>,   <span class="code-cm">// warning orange</span>
+  },
+
+  <span class="code-str">"typography"</span>: {
+    <span class="code-str">"sans"</span>:  [<span class="code-str">"Press Start 2P"</span>, <span class="code-str">"monospace"</span>],  <span class="code-cm">// display / UI chrome</span>
+    <span class="code-str">"serif"</span>: [<span class="code-str">"Space Mono"</span>, <span class="code-str">"monospace"</span>],      <span class="code-cm">// body / readable text</span>
+    <span class="code-str">"mono"</span>:  [<span class="code-str">"Space Mono"</span>, <span class="code-str">"monospace"</span>],
+  },
+
+  <span class="code-str">"radius"</span>: {
+    <span class="code-str">"base"</span>: <span class="code-str">"0rem"</span>,   <span class="code-cm">// ZERO — sharp corners everywhere, always</span>
+  },
+
+  <span class="code-str">"spacing"</span>: {
+    <span class="code-str">"base"</span>: <span class="code-str">"0.25rem"</span>,  <span class="code-cm">// 4px step — build on 8px grid (2× base)</span>
+  }
+}</code></pre>
+</section>
+
+</main>
+</div>
+
+<div class="toast" id="toast">COPIED!</div>
+
+<script>
+function copyEl(id) {
+  const el = document.getElementById(id);
+  const text = el ? el.innerText : '';
+  navigator.clipboard.writeText(text).then(() => {
+    const t = document.getElementById('toast');
+    t.classList.add('show');
+    setTimeout(() => t.classList.remove('show'), 1800);
+  });
+}
+
+// Highlight active nav link on scroll
+const sections = document.querySelectorAll('section[id]');
+const links = document.querySelectorAll('nav a[href^="#"]');
+const obs = new IntersectionObserver(entries => {
+  entries.forEach(e => {
+    if (e.isIntersecting) {
+      links.forEach(l => l.classList.remove('active'));
+      const link = document.querySelector(`nav a[href="#${e.target.id}"]`);
+      if (link) link.classList.add('active');
+    }
+  });
+}, { rootMargin: '-20% 0px -70% 0px' });
+sections.forEach(s => obs.observe(s));
+</script>
+</body>
+</html>
