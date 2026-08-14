@@ -12,8 +12,8 @@
   --color-rare: #a855f7;
   --color-epic: #ec4899;
   --color-legendary: #ffd700;
-  --font-pixel: "Press Start 2P", monospace;
-  --font-body: "Space Mono", monospace;
+  --font-pixel: var(--font-press-start), monospace;
+  --font-body: var(--font-space-mono), monospace;
 }
 
 html,
@@ -24,7 +24,7 @@ body {
 }
 
 body {
-  font-family: "Space Mono", monospace;
+  font-family: var(--font-body);
   overscroll-behavior-y: none;
 }
 

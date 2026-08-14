@@ -3,7 +3,8 @@ LarpSchool — project context (read this before continuing)
 Last updated: 2026-08-14
 Owner: Sukhman Cheema (linkedin.com/in/cheema-s, Luma usr-eBCbClen2tK2Owe)
 Repo: https://github.com/Cheemasukh962/LarpSchool.git
-Workspace: this folder. Python scripts + precomputed JSON/CSV. No React app yet.
+Workspace: this folder. Python scripts + precomputed JSON/CSV + a Next.js app.
+Phases 0 and 1 are done. Next agent: read PLAN.md, then this file, then start Phase 2.
 
 ================================================================================
 WHAT THIS IS
@@ -36,7 +37,7 @@ Not v1:
 - Pairwise precompute (~315k) or vs-51-companies (~40k)
 - Wiring extra expo APIs for flavor
 - Crossy Road physics if slots ship first
-- Fight UI / slot UI / /api/larp  (NONE OF THIS IS BUILT YET)
+- Any server write path: no database, no accounts, no /api routes yet (Phase 2+)
 
 Nowadays dining challenge (SEPARATE, do not fold in):
 - Real prize: intern interview + dinner Expo night
@@ -178,18 +179,105 @@ Keys were pasted in chat earlier. They are NOT in this repo. Rotate if still liv
 Do not write keys to disk. Do not put them in context.txt, JSON, or CSV.
 
 ================================================================================
-NEXT BUILD (when asked)
+WEB APP — PHASES 0 AND 1 DONE (see PLAN.md for the full phased plan)
 ================================================================================
 
-1. Fight UI on data/battlers.json
-   Pick two people (search / QR / LinkedIn / name), show four bars, verdict,
-   winner compliment + loser roast. Share a token into the wallet.
+Next.js 15 App Router, React 19, Tailwind 4, TypeScript, lucide-react.
+Read path is 100% static files off the CDN. No database is touched to look at a
+card or resolve a fight, which is what keeps 50+ concurrent players cheap.
 
-2. Slot machine using data/crossy-questions.json
-   Same token wallet. Company intel as quiz content.
+Build the data, then run the app:
+  npm install
+  npm run data      # python build_web_data.py + node build_photos.mjs
+  npm run dev
+  npm test          # typecheck + lint + data + parity
+  npm run test:flow # real Chrome walkthrough, needs `npm run dev` running
 
-3. Do not start Groq per fight. Templates are enough.
-   Do not start the Nowadays dining app until LarpSchool floor loop works.
+Generated (gitignored where derived):
+  public/data/cards.json        795 cards, 557 KB raw / 64 KB brotli
+  public/data/questions.json    133 questions, 9 KB brotli
+  public/photos/<lumaId>.webp   626 avatars at 160px, 1.81 MB total
+  data/web/battlers-full.json   full records, for the Phase 2 DB seed
+
+File layout (the 1129-line design source is split; do not re-merge it):
+  app/                layout (self-hosted fonts as CSS vars), page, globals.css, icon.svg
+  lib/types.ts        shapes emitted by build_web_data.py
+  lib/battle.ts       port of larp_engine.battle(); parity-locked
+  lib/cards.ts        load, search, matchmaking, trivia deck
+  lib/adapt.ts        card -> UI shapes (gradients, identity lines, photo URL, bars)
+  lib/slots.ts        symbol table + payout math
+  lib/chest.ts        loot table + reel geometry
+  lib/game-store.tsx  ALL game state in one provider (useGame())
+  components/pixel/   PixelBorder, PixelStripe, CircleAvatar, Sprite, chest, knight,
+                      StatBars, TokenPill, ScreenHeader, tokens.ts (pxS/monoS)
+  components/LarpGame.tsx   shell + tab header + routing
+  components/battles/       TypeSelect, Claim, Profile, ChallengerSelect, Pick,
+                            Faceoff, Result, Trivia, ScoreCard, CardRow, CompareBars
+  components/rewards/       RewardsHub, SlotsScreen, ChestScreen
+  components/store/         StoreTab
+  frontend/                 original design source, reference only, excluded from build
+
+What changed from the mock, and why:
+- "ENTER YOUR NAME" is now "FIND YOUR CARD": you search the 795 real guests
+  instead of inventing a persona. Your real LinkedIn IS the fighter.
+- Profile shows the four real bars (32/32/26/10) and they sum to flex_score.
+  scripts/test_web_data.mjs asserts that for all 795.
+- Face-off hides both scores. The tap is a PREDICTION; the result says whether
+  you called it. The rubric still decides the winner, never the vote.
+- Trivia is the real 133-question deck, shuffled, no repeats until exhausted.
+  Never display question.kind — "trap" gives the trick away.
+- Tokens are credited once per resolved fight in the store, not per button tap
+  (the mock paid a token on each of three result buttons).
+
+Scores cluster hard: 90 of 200 random pairs have IDENTICAL totals. Two
+consequences, both handled:
+- suggestedOpponents() samples the gap-sorted pool on a quadratic curve so the
+  challenger list is close fights first WITHOUT being all dead heats.
+- A 0-margin result shows a DEAD HEAT badge and says what broke the tie
+  (lower larp_index, else name order). This is exactly what Phase 4's Groq
+  photo-finish judge is meant to replace.
+
+TESTS — run these before believing anything works
+  npm run typecheck
+  npm run lint          eslint flat config; `next lint` is deprecated
+  npm run test:data     bars sum to flex, photos exist on disk, ranks agree,
+                        search/matchmaking/battle invariants
+  npm run test:parity   200 pairs, lib/battle.ts vs larp_engine.battle(), 0 diff
+  npm run test:flow     drives real Chrome through the whole game; fails on any
+                        console error, page error, or failed request.
+                        --url <base>  --shots <dir>  --headful
+  puppeteer-core uses the installed Chrome. Set CHROME_PATH if it moves.
+
+lib/battle.ts notes:
+- Python compares the tuple (flex_score, -larp_index, name) and uses >=, so an
+  exact 3-way tie resolves to the first argument. Ported exactly.
+- The Python "judge's note" branch needs larp_index >= 40. The ceiling is 38 and
+  the observed max across 795 is 20, so it is dead code and no Mersenne Twister
+  is emulated. If larp_index gains a term, test:parity fails and that comment in
+  battle.ts is where to look.
+- `verdict` stays byte-identical to Python (parity + recording). `headline` and
+  `tiebreak` are extra presentation-only fields the UI uses.
+
+================================================================================
+NEXT BUILD — PHASE 2 ONWARD
+================================================================================
+
+2. Supabase: players + claims tables, card-claim endpoint with an httpOnly device
+   cookie, guest mode for walk-ins not on the list, optional magic-link upgrade
+   that keeps anonymous progress. Seed from data/web/battlers-full.json.
+3. Server-authoritative economy: wallet, append-only ledger with idempotency
+   keys, atomic Postgres RPCs, server-side slot and chest RNG, rate limits.
+   Move the RNG out of lib/slots.ts and lib/chest.ts; keep the tables client-side
+   so the reel can animate toward a result the server already chose.
+4. Groq roast prose + photo-finish tiebreak, cached per pairKey(), 1200 ms
+   timeout, circuit breaker, GROQ_ENABLED kill switch. Removing the key must
+   change nothing but flavor.
+5. Load hardening: PWA offline cache, IndexedDB write queue, Supabase pooler,
+   k6 at 50 and 200 concurrent, per-dependency degrade runbook.
+6. Booth ops: leaderboard, QR entry, big-screen fight feed, first-time grant.
+
+Do not start Groq per fight. Templates are enough.
+Do not start the Nowadays dining app until the LarpSchool floor loop works.
 
 ================================================================================
 SCORING GOTCHAS (do not regress)
@@ -202,4 +290,5 @@ SCORING GOTCHAS (do not regress)
 - Presence is a WIN bar. Do not tax followers on larp_index.
 - Projects capped at 10 so a Davis shipper cannot outscore Stanford+Stripe
   just by posting more LinkedIn project writeups.
-)
+- Re-scoring changes cards.json. Re-run `npm run data` and `npm test` after any
+  weight change, or the four bars will stop summing to the flex score on screen.

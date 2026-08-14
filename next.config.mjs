@@ -1,6 +1,8 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
   reactStrictMode: true,
+  // The dev badge sits on top of the bottom nav in the 390px frame.
+  devIndicators: false,
   async headers() {
     return [
       {

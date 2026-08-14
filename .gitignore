@@ -17,3 +17,6 @@ out/
 
 # derived seed file, rebuilt by scripts/build_web_data.py
 data/web/
+
+# screenshots from scripts/test_flow_smoke.mjs --shots
+.screens/

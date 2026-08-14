@@ -1,5 +1,25 @@
 import type { Metadata, Viewport } from "next";
+import { Press_Start_2P, Space_Mono } from "next/font/google";
 import "./globals.css";
+
+/**
+ * Self-hosted at build time and exposed as CSS variables, so the booth never waits on a
+ * third-party font request. Components reference these through --font-pixel/--font-body.
+ */
+const pixelFont = Press_Start_2P({
+  weight: "400",
+  subsets: ["latin"],
+  display: "swap",
+  variable: "--font-press-start",
+});
+
+const bodyFont = Space_Mono({
+  weight: ["400", "700"],
+  style: ["normal", "italic"],
+  subsets: ["latin"],
+  display: "swap",
+  variable: "--font-space-mono",
+});
 
 export const metadata: Metadata = {
   title: "LARP EXO GAME",
@@ -15,17 +35,7 @@ export const viewport: Viewport = {
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
   return (
-    <html lang="en">
-      <head>
-        {/* Loaded as a stylesheet rather than next/font because the game components
-            reference the literal family names inline. */}
-        <link rel="preconnect" href="https://fonts.googleapis.com" />
-        <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="" />
-        <link
-          href="https://fonts.googleapis.com/css2?family=Press+Start+2P&family=Space+Mono:ital,wght@0,400;0,700;1,400;1,700&display=swap"
-          rel="stylesheet"
-        />
-      </head>
+    <html lang="en" className={`${pixelFont.variable} ${bodyFont.variable}`}>
       <body>{children}</body>
     </html>
   );

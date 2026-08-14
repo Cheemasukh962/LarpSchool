@@ -7,7 +7,6 @@
  * Source of truth is data/linkedin-photos-manifest.json (status === "saved").
  * Venue wifi is the binding constraint, so these are deliberately tiny.
  */
-import { createHash } from "node:crypto";
 import { readFile, mkdir, readdir, stat, writeFile } from "node:fs/promises";
 import path from "node:path";
 import sharp from "sharp";
