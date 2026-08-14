@@ -1,0 +1,267 @@
+{
+  "luma_user_id": "usr-vcwnyVxXl0vpkAX",
+  "csv_name": "Aditya Sharma",
+  "csv_linkedin": "https://www.linkedin.com/in/aditya-sharma216",
+  "enriched_at": "2026-08-12T18:55:27.678033+00:00",
+  "batch_id": "sd_msqg7js7a7y0irwot",
+  "profile": {
+    "id": "aditya-sharma216",
+    "name": "Aditya (Adi) Sharma",
+    "city": "Cupertino, California, United States",
+    "country_code": "US",
+    "position": null,
+    "about": "SE undergraduate student at San Jose State University, with a strong background in SWE\u2026",
+    "current_company": {
+      "link": "https://www.linkedin.com/company/amazon?trk=public_profile_topcard-current-company",
+      "name": "Amazon",
+      "company_id": "amazon",
+      "location": null
+    },
+    "experience": null,
+    "url": "https://cn.linkedin.com/in/aditya-sharma216",
+    "educations_details": "San Jose State University",
+    "education": [
+      {
+        "title": "San Jose State University",
+        "url": "https://www.linkedin.com/school/san-jose-state-university/",
+        "start_year": "2024-08",
+        "end_year": "2028-05",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      },
+      {
+        "start_year": "2018",
+        "end_year": "2020",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      }
+    ],
+    "recommendations_count": 1,
+    "avatar": "https://media.licdn.com/dms/image/v2/D5603AQFygwH8YOc1kg/profile-displayphoto-scale_200_200/B56ZzjTNfDHIAc-/0/1773339990445?e=2147483647&v=beta&t=a_CY79ZSJrdozVifDdSRiSPLJJOiuQpzT168Oq3tuJw",
+    "languages": [
+      {
+        "subtitle": "Native or bilingual proficiency",
+        "title": "English"
+      },
+      {
+        "subtitle": "Native or bilingual proficiency",
+        "title": "Spanish"
+      },
+      {
+        "subtitle": "Native or bilingual proficiency",
+        "title": "Hindi"
+      },
+      {
+        "subtitle": "Native or bilingual proficiency",
+        "title": "Punjabi"
+      }
+    ],
+    "recommendations": [
+      "Prasanna Jeyaramraju \u201cIt's truly impressive to see the dedication and hard work that Adi puts into his tasks. He never shies away from new challenges and is always eager to learn. With his immense talent and potential, I have no doubt that Adi will have a successful future in the constantly evolving technology field. I wish Adi all the best in his pursuit of his dreams and aspirations.\u201d"
+    ],
+    "volunteer_experience": [
+      {
+        "cause": "Animal Welfare",
+        "duration": "Jan 2023 \u00b7 - \nMar 2024 \u00b7 1 year 3 months",
+        "duration_short": "- \nMar 2024",
+        "info": "EQUAL is an award winning animal assisted centre in Singapore that develops life ability in youths, people with special needs, families, and seniors. As a groom volunteer at EQUAL, I took care of all the rescue and underprivileged horses at this stable especially the ones gone through trauma or injury. My activities included but were not limited to mucking stalls, walking, and cleaning the horses.",
+        "start_date": "Jan 2023",
+        "subtitle": "EQUAL",
+        "title": "Volunteer"
+      }
+    ],
+    "followers": 2646,
+    "connections": 500,
+    "current_company_company_id": "amazon",
+    "current_company_name": "Amazon",
+    "projects": [
+      {
+        "title": "BetterDorm/CampusNest",
+        "start_date": "Apr 2025",
+        "description": "Won a SpartUp hackathon by Cisco/SJSU, placing 1st within 300+ people, gaining a 4 figure prize. Built a full-stack housing platform during a hackathon using TypeScript, Node.js, and Express, deployed with Docker containers on AWS ECS. The platform successfully served over 1,000 users from more than 10 colleges. I developed roommate-matching algorithms and integrated real-time chatbot services using Socket.io and JWT authentication, handling over 1,000 messages. These features significantly enhanced the user experience, improving match satisfaction by 85%."
+      },
+      null,
+      null,
+      {
+        "title": "RepoAI",
+        "start_date": "Jan 2025",
+        "description": "Developed an open-source platform that provides modular AI tools such as text summarization and sentiment analysis, built with a FastAPI backend and React frontend. The platform features a secure RESTful API with JWT-based authentication, ensuring safe user access. Additionally, I designed a flexible plugin system that allows users to contribute and integrate their own AI tools, promoting community-driven development and extensibility."
+      },
+      {
+        "title": "Car Scraper Application",
+        "start_date": "Sep 2024",
+        "description": "Built a car information scraper application with BeautifulSoup4. Scraped car data from a variety of websites including Carvana, Hemmings, Autotrader, and Auto List.Worked with changing HTTP headers and simulating requests in browsers to avoid bot detection and bypass captchas.Analyzed and extracted car data, saving it in a structured format which was then uploaded to a database using a Python MongoDB driver."
+      }
+    ],
+    "organizations": [
+      {
+        "title": "Atoms Academy",
+        "membership_type": "Elite Member",
+        "start_date": "2020",
+        "end_date": "Present",
+        "description": "As a player associated with Singapore Polo Club, I am currently in the ATOMS academy, qualified to play tournament matches and chukkas ranked at Elite.",
+        "membership_number": null
+      },
+      {
+        "title": "PAW",
+        "membership_type": "Member",
+        "start_date": "2021",
+        "end_date": "Mar 2024",
+        "description": "PAW is a service club dedicated to helping animals and protecting animal rights all over the world. At our weekly meetings members can help with activities such as preparing for events, making social media posts, shelter visits, and much more for the cause overall.",
+        "membership_number": null
+      },
+      {
+        "title": "Monta Vista Bhangra",
+        "membership_type": "Member",
+        "start_date": "2018",
+        "end_date": "2020",
+        "description": "As a member of Monta Vista Bhangra, I frequently attended weekly practices, submitting videos, and strived to become better daily with my dancing. At the time of me leaving the school and therefore the club, I was recognized as a key figure of the team, and offered a chance at leadership of the team.",
+        "membership_number": null
+      },
+      {
+        "title": "South Bay Polo",
+        "membership_type": "Interscholastic Player",
+        "start_date": "2018",
+        "end_date": "2020",
+        "description": "At South Bay Polo, I found my love and passion for Horse Polo. I was a frequent member of the club, constantly playing in games and chukkas every week, having to tack up the horses before we played and clean them after the games. I developed different skills from playing at the club, including teamwork, discipline, and hard-work to get better not only as a person, but also as a player.",
+        "membership_number": null
+      },
+      {
+        "title": "United States Polo Association",
+        "membership_type": "Member",
+        "start_date": "2018",
+        "end_date": "2020",
+        "description": "As a member of South Bay Polo Club, which is affiliated with USPA, I was a member for 2 years before moving to another club associated with the HPA.",
+        "membership_number": null
+      },
+      {
+        "title": "Monta Vista CS Club",
+        "membership_type": "Officer",
+        "start_date": "2018",
+        "end_date": "2019",
+        "description": "At Monta Vista CS Club, we strived to learn and apply innovative and creative technologies to various projects. Unfortunately, we faced the problems of COVID, and were then confronted with team-based challenges throughout the year, hard-work and collaboration in order to complete tasks during the pandemic.",
+        "membership_number": null
+      }
+    ],
+    "location": "Cupertino",
+    "input_url": "https://www.linkedin.com/in/aditya-sharma216",
+    "linkedin_id": "aditya-sharma216",
+    "activity": [
+      {
+        "interaction": "Liked by Aditya (Adi) Sharma",
+        "link": "https://www.linkedin.com/posts/nathangendler_im-excited-to-announce-that-i-will-be-joining-activity-7492705042815275009-oHJl",
+        "title": "I'm excited to announce that I will be joining Citadel as a Software Engineering Intern in New York City in Summer 2027! Thank you to my recruiter\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQFJqIPhMWysfg/feedshare-shrink_1280/B4EZ_tviITLAAM-/0/1786400088879?e=2147483647&v=beta&t=OhtMNCc2BJSvWSPxsQe9H7UJl1ZU-mHsCWrrIS_QTgg",
+        "id": "7492705042815275009"
+      },
+      {
+        "interaction": "Liked by Aditya (Adi) Sharma",
+        "link": "https://www.linkedin.com/posts/aprameyakkiraju_i-just-finished-my-summer-internship-as-a-activity-7492653571587575808-z-Nq",
+        "title": "I just finished my summer internship as a Product Manager at Microsoft, and I wanted to take a moment to reflect on what I learned over the last\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQGlYr8boBZbRg/feedshare-image-high-res/B56Z_tAsaqGsAU-/0/1786387815380?e=2147483647&v=beta&t=7GdbzJArBEnDLB6YizDudB2B9AVHmqtBeA30qkT-i7s",
+        "id": "7492653571587575808"
+      },
+      {
+        "interaction": "Liked by Aditya (Adi) Sharma",
+        "link": "https://www.linkedin.com/posts/brettaharrison_in-2015-i-formed-a-small-group-of-engineers-activity-7490477457880522752-PeAP",
+        "title": "In 2015 I formed a small group of engineers at Jane Street to rebuild the firm\u2019s core trading system from the ground up, and we ended up cutting\u2026",
+        "img": "https://static.licdn.com/aero-v1/sc/h/53n89ecoxpr1qrki1do3alazb",
+        "id": "2015"
+      },
+      {
+        "interaction": "Liked by Aditya (Adi) Sharma",
+        "link": "https://www.linkedin.com/posts/derek-gemski_quantitativefinance-aiinfrastructure-quanttrading-activity-7488291827532328960-5E55",
+        "title": "Exciting news from Jane Street - looking to build its own 100-200MW data center just to train internal AI models. That's on top of the ~$6B\u2026",
+        "img": "https://static.licdn.com/aero-v1/sc/h/53n89ecoxpr1qrki1do3alazb",
+        "id": "7488291827532328960"
+      },
+      {
+        "interaction": "Liked by Aditya (Adi) Sharma",
+        "link": "https://www.linkedin.com/posts/peng-chao_after-5-years-at-citadel-im-excited-to-activity-7490199282231222272-RzR0",
+        "title": "After 5 years at Citadel, I'm excited to share that I'm joining Kalshi I followed most of the World Cup on Kalshi this summer. Someone scores and\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQFOqZMqC0MIRQ/feedshare-shrink_800/B56Z_KIjnuJoAg-/0/1785802668783?e=2147483647&v=beta&t=YVMfQhS-zg8LyhKWqOF8xDQzf9G2iBddMt5zHDUhuDE",
+        "id": "5"
+      },
+      {
+        "interaction": "Liked by Aditya (Adi) Sharma",
+        "link": "https://www.linkedin.com/posts/jane-street-global_production-engineering-when-trading-billions-activity-7475170869435207681-67Q0",
+        "title": "What does it take to keep trading systems running smoothly across stock markets around the world? In a recent #TechTalk, Jane Street production\u2026",
+        "img": "https://media.licdn.com/dms/image/sync/v2/D4E27AQH6x9LmcJSWjw/articleshare-shrink_800/B4EZ4JL1fbJEAM-/0/1778270558706?e=2147483647&v=beta&t=kA-EMRbYAPyPRsg3dev3i5bgdY2xI_80sIoWOXMfz-k",
+        "id": "7475170869435207681"
+      },
+      {
+        "interaction": "Liked by Aditya (Adi) Sharma",
+        "link": "https://www.linkedin.com/posts/tejesh-remuduru-7b70b7270_lifeatnutanix-nutanix-activity-7471317361497657344-nYcy",
+        "title": "I\u2019m excited to share that I\u2019ll be joining Nutanix this summer as a Product Management Intern! Thank you to Kaushik Ghosh and Umer Toor for such an\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQGzoN1o7lvfLA/feedshare-shrink_800/B56Z69zjSIGQAc-/0/1781300868658?e=2147483647&v=beta&t=dZsFwq9SHE_-sj0od1zP8h8PA29J90d7qgcOgyyibwo",
+        "id": "7471317361497657344"
+      },
+      {
+        "interaction": "Liked by Aditya (Adi) Sharma",
+        "link": "https://www.linkedin.com/posts/kalvinc_excited-to-share-that-im-interning-at-meta-activity-7469307175841181696-1mgZ",
+        "title": "Excited to share that I'm interning at Meta Superintelligence Labs this summer!",
+        "img": "https://static.licdn.com/aero-v1/sc/h/53n89ecoxpr1qrki1do3alazb",
+        "id": "7469307175841181696"
+      },
+      {
+        "interaction": "Liked by Aditya (Adi) Sharma",
+        "link": "https://www.linkedin.com/posts/salman-sohani_regular-startup-lets-increase-meta-spend-activity-7468685674389516289-FxSm",
+        "title": "Regular Startup: \"Let's increase Meta spend this quarter\" Kalshi: \"Get the intern to program a robot getting sturdy at Madison Square Garden\" If\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4E05AQFkFV9k33CaXw/videocover-high/B4EZ6YZ_lDIMBY-/0/1780673415288?e=2147483647&v=beta&t=Wzoiyf_uSTR44GDfAimKJYnzbBdq8_OdCsDq8kioNH8",
+        "id": "7468685674389516289"
+      },
+      {
+        "interaction": "Liked by Aditya (Adi) Sharma",
+        "link": "https://www.linkedin.com/posts/jane-street-global_dwarkesh-goes-inside-jane-streets-latest-activity-7465748798590431233-pzTC",
+        "title": "Twenty years ago, our \"cluster\" was just six Dells stacked on the floor of our office. Today, it looks a little different: 4,032 GPUs, liquid cooled.\u2026",
+        "img": "https://media.licdn.com/dms/image/sync/v2/D5627AQFFgvfG4rtU1w/articleshare-shrink_800/B4DZ5y9.LQKYAU-/0/1780045309564?e=2147483647&v=beta&t=Zhe_i_jVvnGxnbDQFa76oVqWiXFM9vNDnJNy1ZDdmYc",
+        "id": "7465748798590431233"
+      },
+      {
+        "interaction": "Liked by Aditya (Adi) Sharma",
+        "link": "https://www.linkedin.com/posts/teimurazi-toloraia-77a891205_radixtrading-quantresearch-activity-7452416763629154304-GiwX",
+        "title": "I\u2019m proud to share that I\u2019ll be joining Radix Trading as a Quantitative Researcher starting June 1st! I\u2019m looking forward to applying what I\u2019ve\u2026",
+        "img": "https://static.licdn.com/aero-v1/sc/h/53n89ecoxpr1qrki1do3alazb",
+        "id": "7452416763629154304"
+      },
+      {
+        "interaction": "Liked by Aditya (Adi) Sharma",
+        "link": "https://www.linkedin.com/posts/leochlon_its-important-to-share-the-fails-along-with-activity-7451985070929817600-zbJS",
+        "title": "It\u2019s important to share the fails along with the wins. Made it to the last round of DeepMind RS after battering my brain for weeks. Apparently I did\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQGfrmt958stuw/feedshare-image-high-res/B4EZ2rE7z6IwAU-/0/1776691691119?e=2147483647&v=beta&t=2pHqvdumMWlSlwhU4lciBNnrMxnUB4qDUN8TFrf0KNQ",
+        "id": "7451985070929817600"
+      },
+      {
+        "interaction": "Liked by Aditya (Adi) Sharma",
+        "link": "https://www.linkedin.com/posts/peter-gostev_i-feel-like-openai-is-the-only-lab-that-really-activity-7451397797075021824-gln-",
+        "title": "I feel like OpenAI is the only lab that really nailed reasoning. DeepSeek was probably the closest, but need to see a frontier model from them to be\u2026",
+        "img": "https://static.licdn.com/aero-v1/sc/h/53n89ecoxpr1qrki1do3alazb",
+        "id": "7451397797075021824"
+      },
+      {
+        "interaction": "Liked by Aditya (Adi) Sharma",
+        "link": "https://www.linkedin.com/posts/niko-binder-7a662b2a5_i-recently-competed-in-my-first-judo-tournament-activity-7448885901579018240-uOFA",
+        "title": "\ud83e\udd4b I recently competed in my first judo tournament and earned 2nd place. I originally signed up for judo as a P.E. class, but it has turned out to\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQF0te46GZ2RJw/feedshare-shrink_800/B56Z1_CQCMKgAc-/0/1775952790163?e=2147483647&v=beta&t=lioOHnhHLWsh5QqxlU4Y0Ne0wZpXfXIp28DBIBIOqtc",
+        "id": "7448885901579018240"
+      }
+    ],
+    "linkedin_num_id": "1148492903",
+    "banner_image": "https://media.licdn.com/dms/image/v2/D4E16AQGlHGO7heUL6w/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1687525493833?e=2147483647&v=beta&t=1Ed4pBmg0t4hGZ9-NGKTkmBBUJhRISjNixeQ48ZKLO0",
+    "honors_and_awards": null,
+    "similar_profiles": [],
+    "default_avatar": false,
+    "memorialized_account": false,
+    "bio_links": [],
+    "first_name": "Aditya",
+    "last_name": "(Adi) Sharma",
+    "influencer": false,
+    "timestamp": "2026-08-12T18:54:33.169Z",
+    "input": {
+      "url": "https://www.linkedin.com/in/aditya-sharma216"
+    }
+  },
+  "local_photo": "data\\linkedin_photos\\aditya-sharma216__usr-vcwnyVxXl0vpkAX.jpg"
+}

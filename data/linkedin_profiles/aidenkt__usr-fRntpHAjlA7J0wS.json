@@ -1,0 +1,199 @@
+{
+  "luma_user_id": "usr-fRntpHAjlA7J0wS",
+  "csv_name": "Aiden Tabrizi",
+  "csv_linkedin": "https://www.linkedin.com/in/aidenkt",
+  "enriched_at": "2026-08-12T18:55:27.681351+00:00",
+  "batch_id": "sd_msqg7js7a7y0irwot",
+  "profile": {
+    "id": "aidenkt",
+    "name": "Aiden Tabrizi",
+    "city": "San Francisco Bay Area",
+    "country_code": "US",
+    "position": null,
+    "about": "I care whether things feel right, not just whether they work. Usually I'm building\u2026",
+    "current_company": {
+      "link": "https://www.linkedin.com/company/chipmango1?trk=public_profile_topcard-current-company",
+      "name": "ChipMango",
+      "company_id": "chipmango1",
+      "location": null
+    },
+    "experience": null,
+    "url": "https://my.linkedin.com/in/Aidenkt",
+    "educations_details": "University of California, Berkeley",
+    "education": [
+      {
+        "title": "University of California, Berkeley",
+        "url": "https://www.linkedin.com/school/uc-berkeley/",
+        "end_year": "2028",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      },
+      {
+        "end_year": "2024",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      }
+    ],
+    "avatar": "https://media.licdn.com/dms/image/v2/D5603AQEYlUu9Q2Ir2g/profile-displayphoto-scale_200_200/B56Zp7xCK3JQAY-/0/1763013043523?e=2147483647&v=beta&t=S1XPN0b8HT45ozsC5nUbEKDVbDtU481YCRB3UCrUIvE",
+    "courses": [
+      {
+        "subtitle": "CS61B",
+        "title": "Data Structures"
+      },
+      {
+        "subtitle": "CS70",
+        "title": "Discrete Mathematics & Probability Theory"
+      }
+    ],
+    "languages": [
+      {
+        "subtitle": "Native or bilingual proficiency",
+        "title": "English"
+      },
+      {
+        "subtitle": "Native or bilingual proficiency",
+        "title": "Persian"
+      }
+    ],
+    "certifications": [
+      {
+        "meta": "Issued Sep 2021 Credential ID 9PG YRX ENQ",
+        "subtitle": "Google Digital Garage",
+        "title": "Fundamentals of Digital Marketing",
+        "credential_url": null,
+        "credential_id": "9PG YRX ENQ"
+      },
+      {
+        "meta": "Issued May 2021",
+        "subtitle": "University of California, Berkeley",
+        "title": "Big Data at Berkeley",
+        "credential_url": null,
+        "credential_id": null
+      }
+    ],
+    "volunteer_experience": [
+      {
+        "cause": "Education",
+        "duration": "Nov 2022 \u00b7 - \nMay 2024 \u00b7 \n1 year 7 months",
+        "duration_short": "- \nMay 2024",
+        "info": "\u2022 Managed computer access for hundreds of students learning programming, reading, and mathematics. \u2022 Set up digital workstations and created a sorting database for tracking hundreds of Casa computers. \u2022 Served as STEM Specialist for elementary and middle school programs.",
+        "start_date": "Nov 2022",
+        "subtitle": "Casa de Amistad",
+        "title": "IT Manager & Tutor"
+      }
+    ],
+    "followers": 685,
+    "connections": 500,
+    "current_company_company_id": "chipmango1",
+    "current_company_name": "ChipMango",
+    "patents": [
+      {
+        "title": "Dynamic machine learning hyperparameter tuning for feedback-driven optimization",
+        "date_issued": "July 8, 2024",
+        "patents_id": "US20260010823A1",
+        "description": "Published with UC San Diego. Traditional machine learning training is a static process that lacks real-time adaptability of hyperparameters. Popular tuning solutions during runtime involve checkpoints and schedulers. Adjusting hyper-parameters usually require the program to be restarted, wasting utilization and time, while placing unnecessary strain on memory and processors. We present LiveTune, a new framework allowing real-time parameter tuning during training through LiveVariables. LiveVariables allow for a continuous training session by storing parameters on designated ports on the system, allowing them to be dynamically adjusted. Extensive evaluations of our framework show saving up to 60 seconds and 5.4 Kilojoules of energy per hyperparameter change."
+      }
+    ],
+    "projects": [
+      {
+        "title": "Bluehax",
+        "start_date": "Aug 2025",
+        "description": "Built a Discord bot in Python for Nintendo 3DS console management, supporting 3,500+ users globally. Designed a PostgreSQL job queue that dispatches repair jobs to a worker server and relays live status back to users."
+      },
+      {
+        "title": "AssistAI",
+        "start_date": "Nov 2025",
+        "description": "Won 1st Place Overall at HackCC 2025 with a full-stack Next.js platform for AI-assisted course planning. Integrated BeautifulSoup scraping and the ChatGPT API for transfer advising."
+      },
+      {
+        "title": "Exploring Computer Science (Course)",
+        "start_date": "Apr 2023",
+        "description": "Co-developed a UC-approved Capstone high school course covering cloud software development, human-computer interaction, and agile development. Wrote units, projects, assignments, syllabi, course descriptions, and United States and California standards alignment documentation. Course is taught yearly at the school as \"Human-Computer Interaction\"."
+      },
+      null,
+      null,
+      {
+        "title": "Digital Student IDs @ SDUHSD",
+        "start_date": "Oct 2022",
+        "description": "Digitized district student IDs with Apple Wallet and Google Wallet support to simplify the lunch, library, finance office, and student store experiences. Adopted by 15% of the student body within the first week."
+      },
+      {
+        "title": "Siren Safety Application",
+        "start_date": "Aug 2022",
+        "description": "Led software development in collaboration with San Diego Metropolitan Transit Services to design a modernized approach to notifying transit security in emergency situations using NFC beacons and a progressive web application. Placed second in the international Jacobs Engineering Challenge."
+      }
+    ],
+    "location": null,
+    "input_url": "https://www.linkedin.com/in/aidenkt",
+    "linkedin_id": "aidenkt",
+    "activity": [
+      {
+        "interaction": "Liked by Aiden Tabrizi",
+        "link": "https://www.linkedin.com/posts/pavankumarny_we-are-hosting-the-most-exclusive-yacht-gala-activity-7478927021792731137-YN1Q",
+        "title": "We are hosting the most exclusive yacht gala in SF. For 100 founders during YC Startup School. Here's what you'll get: - Access to top Y Combinator\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQFnPoyEzIQQxA/feedshare-shrink_800/B56Z8p8fuGIMAk-/0/1783115152548?e=2147483647&v=beta&t=xuY-__te1Qzi3gUS1d3gjVQtsSOIra4w8yPq0D00QzE",
+        "id": "7478927021792731137"
+      },
+      {
+        "interaction": "Shared by Aiden Tabrizi",
+        "link": "https://www.linkedin.com/posts/aidenkt_just-found-out-ive-been-selected-to-attend-activity-7470532371834949632-M9Qa",
+        "title": "Just found out I\u2019ve been selected to attend Y Combinator\u2019s Startup School in San Francisco this July. I\u2019m incredibly excited to hear from leaders\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5605AQFaLjX9-48OEA/videocover-high/B56Z6yplHVHIBM-/0/1781113706827?e=2147483647&v=beta&t=AD-djtACGTOEe8eS6N9hYkVZ0TvKcG3M8IacX8XMdQo",
+        "id": "7470532371834949632"
+      }
+    ],
+    "linkedin_num_id": "928547936",
+    "banner_image": "https://media.licdn.com/dms/image/v2/D4E16AQFyXx2S7PJBig/profile-displaybackgroundimage-shrink_200_800/B4EZu1emtTKIAU-/0/1768276258150?e=2147483647&v=beta&t=fD9_8d9PE_6nCUCaFY4b1z9C0NESa9z9iEAwQi72RJ4",
+    "honors_and_awards": [
+      {
+        "title": "Top 5",
+        "publication": "Autonomous Karting Series",
+        "date": "2026-05-01T00:00:00.000Z",
+        "description": null
+      },
+      {
+        "title": "Best Overall Project",
+        "publication": "HackCC",
+        "date": "2025-11-01T00:00:00.000Z",
+        "description": null
+      },
+      {
+        "title": "AP Scholar with Distinction",
+        "publication": "CollegeBoard",
+        "date": "2023-07-01T00:00:00.000Z",
+        "description": null
+      },
+      {
+        "title": "Teen Innovation Challenge Winner",
+        "publication": "The Jacob\u2019s Institute for Innovation and Education",
+        "date": "2023-05-01T00:00:00.000Z",
+        "description": null
+      },
+      {
+        "title": "National Semifinalist",
+        "publication": "Samsung Solve for Tomorrow",
+        "date": "2023-02-01T00:00:00.000Z",
+        "description": null
+      }
+    ],
+    "similar_profiles": [],
+    "default_avatar": false,
+    "memorialized_account": false,
+    "bio_links": [
+      {
+        "title": "Personal Website",
+        "link": "https://aidenkt.dev/"
+      }
+    ],
+    "first_name": "Aiden",
+    "last_name": "Tabrizi",
+    "influencer": false,
+    "timestamp": "2026-08-12T18:54:32.028Z",
+    "input": {
+      "url": "https://www.linkedin.com/in/aidenkt"
+    }
+  },
+  "local_photo": "data\\linkedin_photos\\aidenkt__usr-fRntpHAjlA7J0wS.jpg"
+}

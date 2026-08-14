@@ -1,0 +1,351 @@
+{
+  "luma_user_id": "usr-o9cmMVfUD0B9Zoy",
+  "csv_name": "Preet Karia",
+  "csv_linkedin": "https://www.linkedin.com/in/preetkaria",
+  "enriched_at": "2026-08-12T19:14:53.868790+00:00",
+  "batch_id": "sd_msqgwa7g10oeo6g7qx",
+  "profile": {
+    "id": "preetkaria",
+    "name": "Preet Karia",
+    "city": "San Francisco Bay Area",
+    "country_code": "US",
+    "position": null,
+    "about": "I\u2019m a Robotics and Computer Engineering student at UC Santa Cruz working at the\u2026",
+    "current_company": {
+      "link": "https://www.linkedin.com/company/hack-dev?trk=public_profile_topcard-current-company",
+      "name": "Hack.dev",
+      "company_id": "hack-dev",
+      "location": null
+    },
+    "experience": null,
+    "url": "https://cn.linkedin.com/in/Preetkaria",
+    "educations_details": "University of California, Santa Cruz",
+    "education": [
+      {
+        "title": "University of California, Santa Cruz",
+        "url": "https://www.linkedin.com/school/ucsc/",
+        "start_year": "2024-09",
+        "end_year": "2027-03",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      },
+      {
+        "start_year": "2020-08",
+        "end_year": "2024-06",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      }
+    ],
+    "avatar": "https://media.licdn.com/dms/image/v2/D5603AQEJow71O8HYyg/profile-displayphoto-scale_200_200/B56ZoyG4xwJkAY-/0/1761777258054?e=2147483647&v=beta&t=7GinqywjhqhABlWjrSZdtSXewdlb0DdiOsx4CRfOMYk",
+    "languages": [
+      {
+        "subtitle": "Professional working proficiency",
+        "title": "Hindi"
+      },
+      {
+        "subtitle": "Professional working proficiency",
+        "title": "English"
+      },
+      {
+        "subtitle": "Limited working proficiency",
+        "title": "Spanish"
+      },
+      {
+        "subtitle": "Native or bilingual proficiency",
+        "title": "Gujarati"
+      }
+    ],
+    "certifications": [
+      {
+        "meta": "Issued Jan 2025",
+        "subtitle": "Onshape by PTC",
+        "title": "3D modeling",
+        "credential_url": null,
+        "credential_id": null
+      },
+      {
+        "meta": "Issued Sep 2020",
+        "subtitle": "Project Lead The Way",
+        "title": "Introduction to Engineering",
+        "credential_url": null,
+        "credential_id": null
+      },
+      {
+        "meta": "Issued Jun 2020",
+        "subtitle": "Coursera",
+        "title": "MATLAB Certified",
+        "credential_url": null,
+        "credential_id": null
+      },
+      {
+        "meta": "Issued Aug 2026 Expires Aug 2028 See credential",
+        "subtitle": "AMD Developer",
+        "title": "AMD ROCm Certified Associate",
+        "credential_url": "https://www.credly.com/badges/095ae3ff-4530-4a75-a4ea-48fd06416f77/linked_in_profile?trk=public_profile_see-credential",
+        "credential_id": null
+      },
+      {
+        "subtitle": "Project Lead The Way",
+        "title": "PLTW Principles Of Engineering",
+        "credential_url": null,
+        "credential_id": null
+      }
+    ],
+    "followers": 3864,
+    "connections": 500,
+    "current_company_company_id": "hack-dev",
+    "current_company_name": "Hack.dev",
+    "projects": [
+      {
+        "title": "Onboardly - AI Employee Onboarding Engine ( CALHACKS Winner)",
+        "start_date": "Sep 2025",
+        "description": "\u2022 Built an AI-powered onboarding system that automates technical setup and live guidance for new hires\u2022 Generated personalized onboarding plans, Jira tasks, and calendar events using agent orchestration\u2022 Developed a Chrome extension with Gemini Vision to guide users through workflows in real time\u2022 Focused on reliability, orchestration, and human-in-the-loop design"
+      },
+      {
+        "title": "TinyTrainium - Verilog AI Accelerator Chip",
+        "start_date": "Sep 2025",
+        "description": "\u2022 Designed a lightweight AI accelerator architecture using Verilog\u2022 Implemented compute, memory access, and control logic targeting FPGA deployment\u2022 Evaluated throughput, latency, and hardware efficiency tradeoffs\u2022 Gained hands-on experience with RTL-level hardware architecture"
+      },
+      {
+        "title": "FlowPilot - Autonomous Time-Blocking and Scheduling Agent",
+        "start_date": "Aug 2025",
+        "description": "\u2022 Built an AI agent that autonomously manages scheduling and task prioritization\u2022 Integrated calendars, email workflows, and task systems into a unified agent pipeline\u2022 Implemented constraint handling and conflict resolution logic\u2022 Designed the system as a long-running agent rather than a single-shot tool"
+      },
+      {
+        "title": "Differential Drive Bot - RealSense SLAM and Reflection-Aware Navigation",
+        "start_date": "Nov 2024",
+        "description": "\u2022 Designed and deployed a real-world mobile robot to study SLAM failure modes in reflective and low-feature environments\u2022 Built a ROS2-based perception and navigation stack using Intel RealSense cameras and LiDAR\u2022 Implemented sensor calibration, synchronization, and fusion for reliable localization\u2022 Debugged system behavior on physical hardware and in Gazebo simulation"
+      },
+      {
+        "title": "Seed Drones - Autonomous Seed-Planting Drone System",
+        "start_date": "Oct 2022",
+        "description": "\u2022 Developed an autonomous drone platform for precision seed deployment\u2022 Implemented path planning and waypoint logic for repeatable field coverage\u2022 Integrated perception, control, and actuation into a single autonomous system\u2022 Tested autonomy in outdoor and unstructured environments"
+      },
+      {
+        "title": "AutoOps - Self-Healing AWS Operations Agent",
+        "description": "\u2022 Built an autonomous operations agent to detect and recover from AWS infrastructure failures\u2022 Monitored system metrics and logs to identify anomalous behavior\u2022 Used AWS Bedrock and serverless services to trigger corrective actions\u2022 Designed the system with observability, fault isolation, and recovery in mind"
+      },
+      {
+        "title": "Sentinel - Real-Time AI Safety and Voice Authentication Firewall",
+        "description": "\u2022 Built a real-time safety layer that governs autonomous AI agents before high-risk actions execute\u2022 Intercepted agent UI actions and classified risk using deterministic and LLM-based checks\u2022 Integrated Groq for reasoning validation, Telnyx for voice approvals, and Sentry for system monitoring\u2022 Shipped a full end-to-end system in 48 hours and won the AGI Hackathon"
+      }
+    ],
+    "organizations": [
+      {
+        "title": "Dream Big",
+        "membership_type": "Executive Officer",
+        "start_date": "Sep 2020",
+        "end_date": "Sep 2024",
+        "description": "An ever-growing program striving to spread the knowledge of the rough and strenuous college admissions process. At Dream Big, we hold multiple sessions with College Admissions Officers, College Panelists, Senior Panelists, and hold numerous sessions about SAT and ACT. We have held sessions with consulting companies like Elite, IvyReview, Evergreen, and much more!",
+        "membership_number": null
+      },
+      {
+        "title": "FTC Team Ink and Metal",
+        "membership_type": "Mechanical Captain along with Outreach member",
+        "start_date": "Aug 2020",
+        "end_date": "Sep 2024",
+        "description": "Ink and Metal is an American High school-affiliated robotics team that has been ranked #8 in Norcal and #35 in the world out of over 10, 000 teams for its robot performance. It has received numerous awards for its Outreach, Robot game, and Robot design/ documentation. Being a freshman, and being one of the 4 new members to get into the team out of many trying out, was an incredible experience for me. During 2020-2021, the pandemic had forced FIRST Tech Challenge to move competitions remotely. However, this didn't stop the team from continuing their streak of 3 consecutive years for qualifying for Regionals competition. Being one of the very few people coming in-person and building the robot I had learned so much from finding solutions to the most difficult problems to assisting team members in other aspects of the team. Also, being one of the drivers on the team, I had a tremendous experience driving the robot during the competition. The 2020-2021 year is a great year for Team Ink and Metal 5773, winning over 6 awards with two being some of the most prestigious, Inspire 1st place and Robot game 1st place.",
+        "membership_number": null
+      },
+      {
+        "title": "Inspire Speaker Series",
+        "membership_type": "Head of Outreach, Director of Partnerships",
+        "start_date": "Mar 2021",
+        "end_date": "Jul 2024",
+        "description": "Being part of a new and growing organization, Inspire Speaker Series has helped me become more confident in Public speaking and reaching out to others. Being the Head of Outreach, I have learned to take up the responsibility of being a leader and putting faith in my team members and delegating tasks efficiently. I have understood the amount of work and effort it takes to become a leader. Inspire Speaker Series brings well-renowned speakers from all over the world to our sessions to speak about the STEM industry.",
+        "membership_number": null
+      }
+    ],
+    "location": null,
+    "input_url": "https://www.linkedin.com/in/preetkaria",
+    "linkedin_id": "preetkaria",
+    "activity": [
+      {
+        "interaction": "Liked by Preet Karia",
+        "link": "https://www.linkedin.com/posts/vishnukumarraj_excited-to-share-that-ive-joined-intel-as-activity-7493101872359034880--lEU",
+        "title": "Excited to share that I've joined Intel as a Silicon Performance Validation and Characterization Intern in Chandler, AZ! A big thanks to the Intel\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQFlm9dnJf1Hhg/feedshare-shrink_1280/B56Z_zYcoUKUAM-/0/1786494700658?e=2147483647&v=beta&t=UMNf3sxuAP-v1jFY0Qhd_LK9FzRnnJNr5rm1JgrEzW4",
+        "id": "7493101872359034880"
+      },
+      {
+        "interaction": "Liked by Preet Karia",
+        "link": "https://www.linkedin.com/posts/anushka-dadhich_nvidia-nvlife-softwareengineer-activity-7490643002458255360-9nQH",
+        "title": "Officially a NVIDIAN. \ud83d\udc9a About a year ago, I walked into NVIDIA as a summer intern. Excited, curious, and honestly... a little intimidated. Cut to\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4D22AQFW_mzVNNQ8mg/feedshare-shrink_800/B4DZ_NmXGVI8Ac-/0/1785860813691?e=2147483647&v=beta&t=9lbEl9CSoxZeW4OD-yvoivpB-fjXb3T49b-HJDE_t0o",
+        "id": "7490643002458255360"
+      },
+      {
+        "interaction": "Liked by Preet Karia",
+        "link": "https://www.linkedin.com/posts/rohan-saxena-7aa563114_excited-to-announce-ive-joined-the-robotics-activity-7492788218606571520-5Dwe",
+        "title": "Excited to announce I've joined the robotics team at Google DeepMind! Google and I go way back. As a kid in India, I watched news coverage of the\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQE00uWvGN-aWg/feedshare-shrink_800/B56Z_u7LZoG4Ac-/0/1786419918714?e=2147483647&v=beta&t=esZlvDMuWAgbYYWmBr8Ngr9BnLkVVs7R_4mbTiIQU1o",
+        "id": "7492788218606571520"
+      },
+      {
+        "interaction": "Liked by Preet Karia",
+        "link": "https://www.linkedin.com/posts/hrishikesh-athreya_i-won-1st-place-at-the-ai-computer-hackathon-activity-7492403184691200000-0z-m",
+        "title": "I won 1st place at the AI Computer Hackathon at Stanford University! \ud83c\udfc6 We built Glimpse, a tool that looks through photos from your past week and\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQFLdDkeb-9qoQ/feedshare-shrink_800/B56Z_pc_hIH4Ac-/0/1786328119966?e=2147483647&v=beta&t=EUEmKmA7D8yP_2p1WKN6Ja-Mf0YSAK3VH16i8bJmT1I",
+        "id": "7492403184691200000"
+      },
+      {
+        "interaction": "Liked by Preet Karia",
+        "link": "https://www.linkedin.com/posts/andy-jassy-8b1615_our-strategic-partnership-with-novo-nordisk-activity-7492589822952411137-BDMd",
+        "title": "Our strategic partnership with Novo Nordisk expands today as they announce that they've chosen AWS as their preferred cloud provider and strategic AI\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQGD84gMbrFH5g/feedshare-shrink_800/B4EZ_sGvUiKQAg-/0/1786372617796?e=2147483647&v=beta&t=Ypwi3n_zvYAkZ5EH1BNblW0zP2yBKwZqIwJFXlGqMnk",
+        "id": "7492589822952411137"
+      },
+      {
+        "interaction": "Liked by Preet Karia",
+        "link": "https://www.linkedin.com/posts/prathameshmhatre_tesla-newbeginnings-engineering-activity-7490428855636201472-fuUj",
+        "title": "Better late than never! \u26a1 It\u2019s officially been two months since I joined Tesla as a Manufacturing Equipement Engineer on the Model Y General\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4D22AQHLo0vC5tnYHQ/feedshare-shrink_800/B4DZ_LkA1ZGwAg-/0/1785826643893?e=2147483647&v=beta&t=9VmyWK1WmoGmTMyIOn_c_R7AqX_5B8Ppfbg3sh_4Ljk",
+        "id": "7490428855636201472"
+      },
+      {
+        "interaction": "Liked by Preet Karia",
+        "link": "https://www.linkedin.com/posts/meriya-eleyas-028a563b0_amd-nioamd-amdintern-activity-7490401141009076225-al4i",
+        "title": "I'm happy to share that I've started my Co-op Internship at AMD,Bangalore. I would like to express my gratitude to Bhadra Ashok for the guidance\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQFizt_9SMPS9Q/feedshare-shrink_800/B56Z_NAIYlHcAc-/0/1785850791872?e=2147483647&v=beta&t=G6X4sfcYdSjb2820sqSNgZsnyuOKutKVH2dWtFFBo3M",
+        "id": "7490401141009076225"
+      },
+      {
+        "interaction": "Liked by Preet Karia",
+        "link": "https://www.linkedin.com/posts/brettadcock_in-celebration-of-manufacturing-our-1000th-activity-7488323914696212480-WwMy",
+        "title": "In celebration of manufacturing our 1,000th F.03 robot, the team built me a leg lamp \ud83d\ude02 It\u2019s a major award!",
+        "img": "https://media.licdn.com/dms/image/v2/D4E10AQEHBGaLjQ1lMw/image-shrink_800/B4EZ.ve6TLH8Ag-/0/1785355545363?e=2147483647&v=beta&t=rdeEOzRdVSGrNjrgcHWlY5RRQEUfuo7Wz1mQqRzVtPQ",
+        "id": "7488323914696212480"
+      },
+      {
+        "interaction": "Liked by Preet Karia",
+        "link": "https://www.linkedin.com/posts/hemanthsaich_amdaidevday-ai-ml-activity-7491899086670069760-m-bv",
+        "title": "Attended AMD AI Dev Day India 2026 and got a closer look at how modern AI systems are actually built and deployed. What stood out most was the\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4D22AQGGsH4YnJSxCA/feedshare-image-high-res/B4DZ_iSg83KwAU-/0/1786207932450?e=2147483647&v=beta&t=Gd5Rw2vkI1iheg5tHSVPMoyOwJpSevNapB0KRdAcLyc",
+        "id": "7491899086670069760"
+      },
+      {
+        "interaction": "Liked by Preet Karia",
+        "link": "https://www.linkedin.com/posts/general-cherry_japandrone2026-generalcherry-uav-activity-7467792546501492736-HVzt",
+        "title": "\ud83c\uddef\ud83c\uddf5 General Cherry is at Japan Drone 2026 \u2014 Makuhari Messe, Chiba. The world's largest drone exhibition. And we're here. Combat-proven, real\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4D22AQEFHt3Ks0EcWA/feedshare-shrink_800/B4DZ6LtvFpIQAc-/0/1780460486969?e=2147483647&v=beta&t=gfpFMb3j1RNjiGD6bZ1UM3CjPwCuMenGwxB9JhGKRE0",
+        "id": "7467792546501492736"
+      },
+      {
+        "interaction": "Liked by Preet Karia",
+        "link": "https://www.linkedin.com/posts/adriaan-dekker-google-ads-freelancer-rotterdam_activity-7491085671533580288-oXNK",
+        "title": "\ud83e\udd23",
+        "img": "https://media.licdn.com/dms/image/v2/D4D22AQE_Y9Z6DHymhQ/feedshare-shrink_800/B4DZ.xo_CrJwAc-/0/1785391739474?e=2147483647&v=beta&t=cuY26ajIoB7aW3ltsw7Dz8HinngWTBQ9qUC13R1YjYM",
+        "id": "7491085671533580288"
+      },
+      {
+        "interaction": "Liked by Preet Karia",
+        "link": "https://www.linkedin.com/posts/mattdedonato_its-crazy-to-think-how-far-weve-come-in-activity-7488716872213991424-CYZu",
+        "title": "It's crazy to think how far we've come in just a few short years!",
+        "img": "https://static.licdn.com/aero-v1/sc/h/53n89ecoxpr1qrki1do3alazb",
+        "id": "7488716872213991424"
+      },
+      {
+        "interaction": "Liked by Preet Karia",
+        "link": "https://www.linkedin.com/posts/revlebaredian_what-a-day-for-armeniaand-what-a-beginning-activity-7491828326983081984-gXUt",
+        "title": "What a day for Armenia\u2014and what a beginning for the region. \ud83c\udde6\ud83c\uddf2\ud83c\uddf0\ud83c\uddff\ud83c\uddfa\ud83c\uddf8 For eight years, we worked toward this moment: Armenia would not simply\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4E10AQGVjSmogaukXQ/image-shrink_800/B4EZ_g6b0dKUAg-/0/1786184842875?e=2147483647&v=beta&t=pZPBvMoQKmJsLMpBuD1mTGfbCS6hmvXWmShaSEZfRgo",
+        "id": "7491828326983081984"
+      },
+      {
+        "interaction": "Liked by Preet Karia",
+        "link": "https://www.linkedin.com/posts/bergmanjulie_amders-nationalinternday-interns-activity-7488643238694633472-wGOB",
+        "title": "Happy National Intern Day! \ud83c\udf89 We kicked off the celebration yesterday with a special opportunity to hear from our Chair and CEO, Dr. Lisa Su. She\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQGM8hESby8OXw/feedshare-shrink_800/B56Z.0BVPZHcAc-/0/1785431676499?e=2147483647&v=beta&t=yxwj6AR68wLN5ClFGtrPNS04yc8oimpH7K_VYVW3obI",
+        "id": "7488643238694633472"
+      },
+      {
+        "interaction": "Liked by Preet Karia",
+        "link": "https://www.linkedin.com/posts/andrewmacdonald6_exciting-day-in-london-wayves-autonomous-activity-7491140425433464832-meIx",
+        "title": "Exciting day in London! Wayve\u2019s autonomous vehicles have now received Private Hire Vehicle licences, taking us a step closer to launching\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQGw69tOjVEllg/feedshare-shrink_800/B4EZ_XghVWHMAc-/0/1786027054934?e=2147483647&v=beta&t=D0QgIaSVOViiaxK2yd2E9haTdqzfWBEMJYj2hNN6H2M",
+        "id": "7491140425433464832"
+      },
+      {
+        "interaction": "Liked by Preet Karia",
+        "link": "https://www.linkedin.com/posts/stasbel_shopifys-head-of-engineering-broke-down-activity-7488964156155609088-UhMi",
+        "title": "Shopify's Head of Engineering broke down how AI changed the way 3,000 engineers build software at a $150 billion company: When AI writes and reviews\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4D05AQF1yV_QfH16bw/videocover-high/B4DZ.4k4SjJMBQ-/0/1785508107807?e=2147483647&v=beta&t=Pky_gJk68IW3eEs8lDrj_HjV8gUdKyk1T7kBya1wyw0",
+        "id": "7488964156155609088"
+      },
+      {
+        "interaction": "Liked by Preet Karia",
+        "link": "https://www.linkedin.com/posts/theamanpundir_8-months-at-amd-and-getting-the-spotlight-activity-7492132806538518528-eKAH",
+        "title": "8 months at AMD, and getting the Spotlight Award for H1\u201926 honestly feels a little unreal. I\u2019m genuinely grateful to the team for recognising the\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQHywAOa7NjFdQ/feedshare-image-high-res/B56Z_lnFMOH4AU-/0/1786263656931?e=2147483647&v=beta&t=zPGVgqG5xKLXClEXHmHnk5x6aooBYHou2nJA0FBVBFk",
+        "id": "7492132806538518528"
+      },
+      {
+        "interaction": "Liked by Preet Karia",
+        "link": "https://www.linkedin.com/posts/bruinangels_ucla-bruinangels-startups-activity-7490113309535313922-I4jA",
+        "title": "Recent data from a16z stemming from an analysis of 735 unicorn exits from 1997 to 2026, places UCLA in incredible company. With $149 billion in\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQEU5UMAgzmvLg/feedshare-shrink_800/B56Z_I6XQBG4Ac-/0/1785782170904?e=2147483647&v=beta&t=fP6CQfyF87K7mjc3cwwj9FDRr8zTOj3kh0NPYFCr41w",
+        "id": "7490113309535313922"
+      },
+      {
+        "interaction": "Liked by Preet Karia",
+        "link": "https://www.linkedin.com/posts/chrismatthieu_this-robotics-breakthrough-sounds-too-good-activity-7487662842976841728-N2Ye",
+        "title": "This robotics breakthrough sounds too good to believe! \u2764\ufe0f\ud83e\udd16 No more training robots - simply add the RealSense visual cortex and let them write\u2026",
+        "img": "https://static.licdn.com/aero-v1/sc/h/53n89ecoxpr1qrki1do3alazb",
+        "id": "7487662842976841728"
+      }
+    ],
+    "linkedin_num_id": "846896462",
+    "banner_image": "https://static.licdn.com/aero-v1/sc/h/5q92mjc5c51bjlwaj3rs9aa82",
+    "honors_and_awards": [
+      {
+        "title": "AGI Hackathon WInner",
+        "publication": "AGI Inc.",
+        "date": "2025-09-01T00:00:00.000Z",
+        "description": "Won the AGI Hackathon for building Sentinel, a real-time safety and governance layer for autonomous AI agents, integrating risk classification, system monitoring, and human-in-the-loop voice authorization."
+      },
+      {
+        "title": "CalHacks Winner",
+        "publication": "CalHacks",
+        "date": "2025-09-01T00:00:00.000Z",
+        "description": "Won CalHacks for building Onboardly, an AI-powered onboarding system that automates technical setup and provides live, vision-based guidance for new hires."
+      },
+      {
+        "title": "2nd place Control Award - 2023 FIRST Tech Challenge World Championship, Ochoa Division",
+        "publication": "FIRST Tech Challenge",
+        "date": null,
+        "description": "The Control Award recognizes teams with unique and effective robot control software."
+      },
+      {
+        "title": "3x Inspire Award Winner, 2x World Championship Qualifier",
+        "publication": "FIRST Tech Challenge",
+        "date": null,
+        "description": "Consistently qualifying for the last six consecutive State Championships and consistently placing top 3 overall for the last four years. Ink and Metal became a top 50 team in the globe of over 10,000 teams."
+      },
+      {
+        "title": "Commendation from the Mayor of Fremont",
+        "publication": "City of Fremont",
+        "date": null,
+        "description": "Received commendation from Lili May, the Mayor of Fremont, for contributing to the community through my extracurriculars."
+      }
+    ],
+    "similar_profiles": [],
+    "default_avatar": false,
+    "memorialized_account": false,
+    "bio_links": [
+      {
+        "title": "Personal Website",
+        "link": "https://preetkaria.vercel.app/"
+      }
+    ],
+    "first_name": "Preet",
+    "last_name": "Karia",
+    "influencer": false,
+    "timestamp": "2026-08-12T19:13:45.010Z",
+    "input": {
+      "url": "https://www.linkedin.com/in/preetkaria"
+    }
+  },
+  "local_photo": "data\\linkedin_photos\\preetkaria__usr-o9cmMVfUD0B9Zoy.jpg"
+}

@@ -1,0 +1,123 @@
+{
+  "luma_user_id": "usr-hOFwTVwpgw5IFJd",
+  "csv_name": "Kamya Singh",
+  "csv_linkedin": "https://www.linkedin.com/in/kamya-singh-3a92b9226",
+  "enriched_at": "2026-08-12T19:11:36.244404+00:00",
+  "batch_id": "sd_msqgoa0o2hh62sia9d",
+  "profile": {
+    "id": "kamya-singh-3a92b9226",
+    "name": "Kamya Singh",
+    "city": "San Francisco Bay Area",
+    "country_code": "US",
+    "position": null,
+    "about": "I\u2019m an Electrical and Computer Engineering student at Carnegie Mellon focusing on\u2026",
+    "current_company": {
+      "link": "https://www.linkedin.com/company/dawn-industries-inc?trk=public_profile_topcard-current-company",
+      "name": "Dawn Industries",
+      "company_id": "dawn-industries-inc",
+      "location": null
+    },
+    "experience": null,
+    "url": "https://at.linkedin.com/in/kamya-singh-3a92b9226",
+    "educations_details": "Carnegie Mellon University",
+    "education": [
+      {
+        "title": "Carnegie Mellon University",
+        "url": "https://www.linkedin.com/school/carnegie-mellon-university/",
+        "start_year": "2023-08",
+        "end_year": "2027-05",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      },
+      {
+        "start_year": "2021",
+        "end_year": "2023",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      }
+    ],
+    "avatar": "https://static.licdn.com/aero-v1/sc/h/9c8pery4andzj6ohjkjp54ma2",
+    "followers": 631,
+    "connections": 500,
+    "current_company_company_id": "dawn-industries-inc",
+    "current_company_name": "Dawn Industries",
+    "projects": [
+      {
+        "title": "API-Based Data Pipeline & Feature Engineering System",
+        "description": "- Designed scalable API-driven data pipelines to collect, clean, and process large datasets- Engineered high-dimensional feature sets (100+ features) for classification and modeling tasks- Built end-to-end workflows for data ingestion, preprocessing, and model integration- Optimized pipeline efficiency for handling noisy and heterogeneous data sources"
+      },
+      {
+        "title": "Autonomous Robotics Localization & Navigation",
+        "description": "- Developed a 1D Particle Filter for robot localization, utilizing RK4 (Runge-Kutta) integration to improve odometry accuracy.- Implemented a weighting and resampling algorithm to handle sensor noise, allowing the robot to maintain a precise state estimate in dynamic environments.- Applied Inverse and Forward Kinematics for prismatic and revolute robot arms to enable precise path planning and obstacle avoidance."
+      },
+      {
+        "title": "Hybrid Quantum-Classical Machine Learning Model",
+        "description": "- Built a hybrid quantum-classical model using PyTorch and PennyLane for binary classification on high-dimensional molecular datasets- Designed and integrated variational quantum circuits (VQCs) with classical layers for end-to-end training- Implemented Quantum State Regression (QSR) to improve adversarial robustness and model stability- Benchmarked performance against classical baselines, analyzing tradeoffs in accuracy and robustness"
+      },
+      {
+        "title": "Real-Time Operating System (RTOS) Kernel Development",
+        "description": "- Engineered a custom multitasking kernel for the ARM Cortex-M4 processor using ARMv7 Thumb2 assembly and C.- Implemented a robust system call (SVC) handler and dispatcher to manage privileged hardware access and process synchronization primitives.- Developed a Rate Monotonic Scheduler (RMS) to ensure deterministic execution for time-critical tasks.- Managed low-level interrupt priorities and context switching to maintain system stability under high-concurrency loads."
+      },
+      {
+        "title": "Robotics Simulation & Trajectory Optimization",
+        "description": "- Developed simulation environments to study robot locomotion and control strategies- Analyzed the impact of mechanical design (e.g., spine structures) on system performance- Implemented trajectory optimization techniques under varying constraints- Evaluated tradeoffs between hardware design and control policies in robotic systems"
+      }
+    ],
+    "location": null,
+    "input_url": "https://www.linkedin.com/in/kamya-singh-3a92b9226",
+    "linkedin_id": "kamya-singh-3a92b9226",
+    "activity": [
+      {
+        "interaction": "Kamya Singh commented on a post 1d",
+        "link": "https://www.linkedin.com/posts/y-combinator_openrelay-yc-s26-provides-one-api-for-inference-activity-7491538665832148992-t__L",
+        "title": "Congrats on the launch!",
+        "img": null,
+        "id": "7491538665832148992"
+      },
+      {
+        "interaction": "Kamya Singh commented on a post 6d",
+        "link": "https://www.linkedin.com/posts/y-combinator_aktoria-robotics-is-the-teleoperation-layer-activity-7491146183814311936--ry3",
+        "title": "Congratulations! Rooting for you guys. Shreenabh Agrawal and Jaskaran Singh Walia",
+        "img": null,
+        "id": "7491146183814311936"
+      },
+      {
+        "interaction": "Kamya Singh liked this",
+        "link": "https://www.linkedin.com/posts/y-combinator_openrelay-yc-s26-provides-one-api-for-inference-activity-7491538665832148992-t__L",
+        "title": "OpenRelay (YC S26) provides one API for inference across every chip. OpenRelay gives developers a single entry point for inference across every accelerator. You send a workload; OpenRelay schedules it onto the best-fit chip - NVIDIA, AMD, Trainium, or TPU - across clouds and hands back one production endpoint, typically 20% cheaper than renting the hardware yourself. You never pick the chip, chase quotas, or rebuild your stack per provider. It works in both directions: operators with idle accelerators can connect capacity to OpenRelay\u2019s rails and get inference demand without building a platform themselves. The company is live in production, running 100 billion tokens a week across 22 locations on four continents and 11 accelerator SKUs. Jaden Wang built a half-megawatt data center and built virtualization at Voltage Park. Prashant Patel developed accelerator infrastructure at AWS, writing custom kernels for Trainium. They saw the same gap from opposite sides: there\u2019s more AI compute than ever, and you still can\u2019t reach it. Congrats on the launch, Jaden and Prashant! \ud83d\ude80 https://lnkd.in/gSAqpV6U",
+        "img": "https://media.licdn.com/dms/image/v2/D5605AQFlGlHwXSPZ5w/videocover-low/B56Z_ctS2wHABM-/0/1786114292330?e=2147483647&v=beta&t=gVE6tdNdFgVhadH2kNJO-0AakxM5-R0FRLIlnACdCLM",
+        "id": "7491538665832148992"
+      },
+      {
+        "interaction": "Kamya Singh liked this",
+        "link": "https://www.linkedin.com/posts/joohyun-cha_we-launched-on-yc-if-youre-working-with-activity-7491897028793499648-FI-w",
+        "title": "We launched on YC \ud83d\ude80 If you\u2019re working with robot automation or CNC machines, check out the video. Cheers to our amazing team behind this technology Robin Lee, Lucas Kover Wolf , Kamya Singh .",
+        "img": "https://media.licdn.com/dms/image/v2/D5605AQHL381PfDUmJw/videocover-high/B56Z_hvpdRHYBU-/0/1786198795262?e=2147483647&v=beta&t=D6EXziGP5IK1zQo6eIwNzC0qEPqs4rCx4M4fWeFaT9k",
+        "id": "7491897028793499648"
+      }
+    ],
+    "linkedin_num_id": "950284785",
+    "banner_image": "https://static.licdn.com/aero-v1/sc/h/5q92mjc5c51bjlwaj3rs9aa82",
+    "honors_and_awards": [
+      {
+        "title": "Prefinalist \u2014 RoCo Challenge at IROS 2026",
+        "publication": "RoCo Challenge / IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)",
+        "date": "2026-08-01T00:00:00.000Z",
+        "description": "Selected as a prefinalist for the RoCo Challenge at IROS 2026. Working on an industrial robotic assembly system involving. Preparing for on-site finals in Semptermber 2026."
+      }
+    ],
+    "similar_profiles": [],
+    "default_avatar": true,
+    "memorialized_account": false,
+    "bio_links": [],
+    "first_name": "Kamya",
+    "last_name": "Singh",
+    "influencer": false,
+    "timestamp": "2026-08-12T19:07:32.087Z",
+    "input": {
+      "url": "https://www.linkedin.com/in/kamya-singh-3a92b9226"
+    }
+  }
+}

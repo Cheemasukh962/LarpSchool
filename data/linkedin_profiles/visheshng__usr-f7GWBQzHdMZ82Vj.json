@@ -1,0 +1,262 @@
+{
+  "luma_user_id": "usr-f7GWBQzHdMZ82Vj",
+  "csv_name": "Vishesh G",
+  "csv_linkedin": "https://www.linkedin.com/in/visheshng",
+  "enriched_at": "2026-08-12T19:22:34.878733+00:00",
+  "batch_id": "sd_msqh2468i57o0acas",
+  "profile": {
+    "id": "visheshng",
+    "name": "Vishesh Gupta",
+    "city": "Washington DC-Baltimore Area",
+    "country_code": "US",
+    "position": null,
+    "about": "Junior Undergrad @UMD; working in AI/ML R&D",
+    "current_company": {
+      "link": "https://www.linkedin.com/company/lab126?trk=public_profile_topcard-current-company",
+      "name": "Amazon Lab126",
+      "company_id": "lab126",
+      "location": null
+    },
+    "experience": null,
+    "url": "https://za.linkedin.com/in/visheshng",
+    "educations_details": "University of Maryland",
+    "education": [
+      {
+        "title": "University of Maryland",
+        "url": "https://www.linkedin.com/school/university-of-maryland/",
+        "start_year": "2023",
+        "end_year": "2027",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      },
+      {
+        "start_year": "2019",
+        "end_year": "2023",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      }
+    ],
+    "avatar": "https://static.licdn.com/aero-v1/sc/h/9c8pery4andzj6ohjkjp54ma2",
+    "languages": [
+      {
+        "subtitle": "Native or bilingual proficiency",
+        "title": "Hindi"
+      },
+      {
+        "subtitle": "Native or bilingual proficiency",
+        "title": "English"
+      }
+    ],
+    "certifications": [
+      {
+        "meta": "Issued Feb 2023 Credential ID 95662963796144 See credential",
+        "subtitle": "Microsoft",
+        "title": "Qubit by Qubit's Quantum Winter School",
+        "credential_url": "https://verified.sertifier.com/en/verify/95662963796144?trk=public_profile_see-credential",
+        "credential_id": "95662963796144"
+      },
+      {
+        "meta": "Issued May 2023 Expires May 2026 Credential ID CSCO14368476\u200e See credential",
+        "subtitle": "Cisco",
+        "title": "CCNA",
+        "credential_url": "https://www.credly.com/badges/26c06655-01c1-465c-b99b-8e8080655981/linked_in_profile?trk=public_profile_see-credential",
+        "credential_id": "CSCO14368476\u200e"
+      },
+      {
+        "meta": "Issued Jun 2022 Expires Jun 2025 Credential ID SRCWV9VYCB1114WV See credential",
+        "subtitle": "CompTIA",
+        "title": "CompTIA Network+",
+        "credential_url": "http://verify.comptia.org/?trk=public_profile_see-credential",
+        "credential_id": "SRCWV9VYCB1114WV"
+      }
+    ],
+    "followers": 1376,
+    "connections": 500,
+    "current_company_company_id": "lab126",
+    "current_company_name": "Amazon Lab126",
+    "publications": [
+      {
+        "title": "Temporal Analysis on Topics Using Word2Vec",
+        "subtitle": "ArXiv",
+        "date": "September 23, 2022",
+        "description": "In this study, we have developed a novel method for trend detection that goes beyond conventional approaches. While existing methods primarily assess the popularity of individual words based on frequency, our approach offers a deeper analysis. We not only gauge a topic's popularity but also its trajectory, particularly within a specific subtopic amid related content."
+      }
+    ],
+    "projects": [
+      {
+        "title": "Temporal Analysis on Topics",
+        "start_date": "Oct 2021",
+        "description": "Research paper accepted at EAI PervasiveHealth 2024"
+      },
+      null,
+      null,
+      {
+        "title": "New York Times Article Parser for NLP Tasks",
+        "start_date": "Oct 2021",
+        "description": "New York Times article parser, uses sitemaps and BS4 to obtain article data."
+      }
+    ],
+    "organizations": [
+      {
+        "title": "Apex Quant",
+        "membership_type": "Senior Quantitative Analyst",
+        "start_date": "Sep 2023",
+        "end_date": "Present",
+        "description": "Student managed Quantitative Finance firm in College Park, UMD",
+        "membership_number": null
+      },
+      {
+        "title": "Artificial Intelligence Club",
+        "membership_type": "Founder/President",
+        "start_date": "Oct 2021",
+        "end_date": "May 2023",
+        "description": "There are more and more high schoolers that want to learn about Artificial Intelligence (AI). This club serves as a community/hub for Howard High School students to learn about AI and create AI projects to learn its various applications. With my experience in AI, I lead lessons and activities for learning AI and plan projects for understanding the AI model development process.",
+        "membership_number": null
+      },
+      {
+        "title": "FTC Robotics Team 17394",
+        "membership_type": "Code Captain",
+        "start_date": "Oct 2019",
+        "end_date": "May 2023",
+        "description": "First Tech Challenge (FTC) hosts their annual FTC Robotics Competition to challenge the high school engineering community to apply their expertise in a competitive spirit. In our school team, FTC Team 17394, I lead code development for our robot's software, mentor new members in learning the Java FTC library, and teach the applications of object-oriented programming in our software.",
+        "membership_number": null
+      }
+    ],
+    "location": null,
+    "input_url": "https://www.linkedin.com/in/visheshng",
+    "linkedin_id": "visheshng",
+    "activity": [
+      {
+        "interaction": "Liked by Vishesh Gupta",
+        "link": "https://www.linkedin.com/posts/agargdev_i-cant-believe-im-saying-this-but-i-am-activity-7492377655078477826-rgFz",
+        "title": "I can't believe I'm saying this, but I am officially a contributor to PyTorch! This summer, I've contributed to Inductor (PyTorch's compiler) and\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQEsCooizY2VyA/feedshare-shrink_1280/B56Z_jf_rIK8AM-/0/1786228243375?e=2147483647&v=beta&t=fzvcbZ_FybEChhfQ-zvt-eP4OyHmBSOsFNL3XM1yL4w",
+        "id": "7492377655078477826"
+      },
+      {
+        "interaction": "Liked by Vishesh Gupta",
+        "link": "https://www.linkedin.com/posts/aaquib-syed_hi-everyone-i-graduated-a-few-months-ago-activity-7492995773060612096-2fS2",
+        "title": "hi everyone i graduated a few months ago, and now i am an ML researcher at Apple on the Foundation Models team, working on responsible AI and safety!\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQEvK1sO_5B5Pg/feedshare-shrink_800/B4EZ_uthGkIUAc-/0/1786416338808?e=2147483647&v=beta&t=SwPrOPmcqzWBByXrNAWbMu3U3ZacMNAS2OHUCvMqmn4",
+        "id": "7492995773060612096"
+      },
+      {
+        "interaction": "Liked by Vishesh Gupta",
+        "link": "https://www.linkedin.com/posts/kanjonavo-sabud-4b5647270_these-past-10-weeks-at-capital-one-have-been-activity-7491581859269595136-1t0h",
+        "title": "These past 10 weeks at Capital One have been an exceptional experience. Over the summer, I had the opportunity to work on integrating Cube.js -\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQEk0O-0VLrkSQ/feedshare-shrink_800/B56Z_dyAEGJ0Ac-/0/1786132300609?e=2147483647&v=beta&t=xOtFYgJ2baIOQ97cZuwjNr2GWX0WbytQsuLb6JmNMyk",
+        "id": "10"
+      },
+      {
+        "interaction": "Liked by Vishesh Gupta",
+        "link": "https://www.linkedin.com/posts/tybryson_i-play-golf-because-it-forces-me-to-slow-activity-7485806216087244801-T0VU",
+        "title": "I play golf because it forces me to slow down and focus on something completely different. I love being outside, away from screens, competing against\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQGHSqkIhygipQ/feedshare-image-high-res/B56Z.LtFehIoAU-/0/1784755280784?e=2147483647&v=beta&t=NyqvMpogAy-7-8Rv26SMRAacbP30yQw7tB2Esom_vOw",
+        "id": "7485806216087244801"
+      },
+      {
+        "interaction": "Liked by Vishesh Gupta",
+        "link": "https://www.linkedin.com/posts/achrafbayi_pytorch-opensource-gpu-activity-7489055689575673856-QkWW",
+        "title": "My first PR to PyTorch got merged this week, and I'm genuinely happy about it. It fixes a memory bottleneck in torch.nonzero on Apple silicon, peak\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQFWdgmhwTmI-w/feedshare-image-high-res/B56Z.54dd5JsAU-/0/1785530013811?e=2147483647&v=beta&t=Z0UC8zm1Y5mECrAlDYqfZIDVOkNsPyWFt13qEqN-LFM",
+        "id": "7489055689575673856"
+      },
+      {
+        "interaction": "Liked by Vishesh Gupta",
+        "link": "https://www.linkedin.com/posts/akshita-badkundri_im-excited-to-share-that-ive-joined-point72-activity-7486910084342792192-lpYo",
+        "title": "I'm excited to share that I've joined Point72 Asset Management on the Macro Quant Dev team as a Software Engineer in New York City. This milestone\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQF2SnW_5bwOXA/feedshare-shrink_800/B56Z.bZC9sGsAc-/0/1785018462322?e=2147483647&v=beta&t=NYY_Mwy-vcWYsV7ZUddHz2zKlQyhtZ_DKDZBnCtWi-4",
+        "id": "7486910084342792192"
+      },
+      {
+        "interaction": "Liked by Vishesh Gupta",
+        "link": "https://www.linkedin.com/posts/owenzhang1_im-excited-to-share-that-ill-be-starting-activity-7485139606703898624-m-NJ",
+        "title": "I'm excited to share that I'll be starting a new position as Member of Technical Staff on the Applied AI team at Anthropic. Incredible mission\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQGAPRgUehJQTQ/feedshare-shrink_800/B56Z.COz82HUAc-/0/1784596348963?e=2147483647&v=beta&t=pYnvANz4A2haPZGNMVcxCm46QGC7mDy5scw5Djjy9Q4",
+        "id": "7485139606703898624"
+      },
+      {
+        "interaction": "Liked by Vishesh Gupta",
+        "link": "https://www.linkedin.com/posts/michael-elliott-560180176_395-that-was-my-employee-id-when-i-started-activity-7483195606342205440-dzG4",
+        "title": "#395 - that was my employee ID when I started with NVIDIA for my first go-round in 1999. I left for a brief journey to participate in the dot com\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQENPWcbCvkDNA/feedshare-image-high-res/B56Z9mmwBJIUAU-/0/1784132862384?e=2147483647&v=beta&t=o_Xre52m_2JrJZ4nqE-MQ46YSt1ZiLestajRlh0w-4g",
+        "id": "7483195606342205440"
+      },
+      {
+        "interaction": "Liked by Vishesh Gupta",
+        "link": "https://www.linkedin.com/posts/curtis-h-lu_ill-be-going-to-yc-startup-school-in-two-activity-7481522173229027328-W1u8",
+        "title": "I'll be going to YC startup school in two weeks. Excited to hear from all of the speakers and see the cool things other people are doing. Send me a\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQH2mAWMjSFKuA/feedshare-shrink_1280/B56Z9O0xQrG4AM-/0/1783733884192?e=2147483647&v=beta&t=2DlRAnfgfL7ONYxIQ5COvULm9L_qH4iBWWQxvVw2Z7Y",
+        "id": "7481522173229027328"
+      },
+      {
+        "interaction": "Liked by Vishesh Gupta",
+        "link": "https://www.linkedin.com/posts/daniel-mcpherson_im-very-honored-to-announce-that-ill-be-activity-7481132527756193792-l3gP",
+        "title": "I\u2019m very honored to announce that I\u2019ll be joining the Baltimore Ravens as a Marketing Event Staff Intern! I first want to thank my Lord and Savior\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQE7TdhIYdWdNw/feedshare-shrink_1280/B4EZ9JSZGrJMAM-/0/1783640986298?e=2147483647&v=beta&t=TeI6lccS6w13VLvsc4JPq2OPLeubmQkX2pz7Ki5Df9A",
+        "id": "7481132527756193792"
+      },
+      {
+        "interaction": "Liked by Vishesh Gupta",
+        "link": "https://www.linkedin.com/posts/willyfitrahendria_opensource-pytorch-deeplearning-activity-7478601195272450049-mjL6",
+        "title": "\ud83c\udf89 VisualTorch 1.0.0 is out! I originally created VisualTorch as a side project while working on the architecture visualizations for my own research\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQHtPgv1-A9jBQ/feedshare-image-high-res/B56Z8lUJqoG0AY-/0/1783037467560?e=2147483647&v=beta&t=_0_F2F7CL44YAdhM3sbTzBYOrS_32frjU1ZqxSN0ZWw",
+        "id": "7478601195272450049"
+      },
+      {
+        "interaction": "Liked by Vishesh Gupta",
+        "link": "https://www.linkedin.com/posts/hamidnaderiyeganeh_i-drew-this-whirlpool-in-an-ocean-with-mathematical-activity-7480245642301353984-beJj",
+        "title": "I drew this whirlpool in an ocean with mathematical equations.",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQE7F_5ZGG9KAA/feedshare-shrink_800/B4EZ88rxUoKIAk-/0/1783429535926?e=2147483647&v=beta&t=bMp8ZUmubGAnL_hNqRgiKAP9eVUM1sVgikj-1Rmwd9g",
+        "id": "7480245642301353984"
+      },
+      {
+        "interaction": "Liked by Vishesh Gupta",
+        "link": "https://www.linkedin.com/posts/robyn-jiang_computerscience-newgrad-twosigma-activity-7480070788591796224-_t1N",
+        "title": "\u26a1\ufe0f Three years ago, I made a decision that surprised a lot of people. I already had an engineering Master's from Tsinghua University, the top\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQETmVN8KsNjLw/feedshare-shrink_800/B4EZ86MvbNHMAc-/0/1783387846622?e=2147483647&v=beta&t=io_1eXI1HPpRVB_UIBCTMZItROEbzOvmgrFa9Zphx7k",
+        "id": "7480070788591796224"
+      }
+    ],
+    "linkedin_num_id": "879228521",
+    "banner_image": "https://media.licdn.com/dms/image/v2/D4E16AQHT53tX6VoEkw/profile-displaybackgroundimage-shrink_200_800/B4EZ3MdKpRKcAU-/0/1777251691523?e=2147483647&v=beta&t=hQE7NyMXPU2u1ZFFltP3sgFj8efp9yPRswgdJQoDFlY",
+    "honors_and_awards": [
+      {
+        "title": "CyberPatriot Team 15-1694 Semifinalists, Gold Division",
+        "publication": "CyberPatriot",
+        "date": "2022-12-01T00:00:00.000Z",
+        "description": "Semifinalist in CyberPatriot XV, Team 15-1694 for the Applications and Research Laboratory"
+      },
+      {
+        "title": "National Tech Honor Society",
+        "publication": "National Tech Honor Society",
+        "date": "2022-12-01T00:00:00.000Z",
+        "description": null
+      },
+      {
+        "title": "Mu Alpha Theta (Math National Honor Society)",
+        "publication": "Mu Alpha Theta",
+        "date": "2021-12-01T00:00:00.000Z",
+        "description": null
+      }
+    ],
+    "similar_profiles": [],
+    "default_avatar": true,
+    "memorialized_account": false,
+    "bio_links": [
+      {
+        "title": "Portfolio",
+        "link": "https://github.com/visheshnarayan"
+      }
+    ],
+    "first_name": "Vishesh",
+    "last_name": "Gupta",
+    "influencer": false,
+    "timestamp": "2026-08-12T19:18:26.080Z",
+    "input": {
+      "url": "https://www.linkedin.com/in/visheshng"
+    }
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "luma_user_id": "usr-GCsjkZPvCV1XGMf",
+  "csv_name": "Yash",
+  "csv_linkedin": "https://www.linkedin.com/in/yashdthapliyal",
+  "enriched_at": "2026-08-12T19:25:08.251672+00:00",
+  "batch_id": "sd_msqh7u7r1xzwli6vdk",
+  "profile": {
+    "id": "yashdthapliyal",
+    "name": "Yash Thapliyal",
+    "city": "San Francisco Bay Area",
+    "country_code": "US",
+    "position": null,
+    "about": null,
+    "current_company": {
+      "link": "https://www.linkedin.com/company/splunk?trk=public_profile_topcard-current-company",
+      "name": "Splunk",
+      "company_id": "splunk",
+      "location": null
+    },
+    "experience": null,
+    "url": "https://lb.linkedin.com/in/yashdthapliyal",
+    "educations_details": "University of California, Berkeley",
+    "education": [
+      {
+        "start_year": "2024-01",
+        "end_year": "2024-05",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      },
+      {
+        "start_year": "2020-08",
+        "end_year": "2024-06",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      }
+    ],
+    "recommendations_count": 1,
+    "avatar": "https://media.licdn.com/dms/image/v2/D5603AQF3yaNhL2AxeQ/profile-displayphoto-scale_200_200/B56Z6RFI4GG0Ac-/0/1780550504524?e=2147483647&v=beta&t=KzDb-uCAT6AWmDs-bVAUCcAhKGNxYlELKjW3ykG2FyI",
+    "recommendations": [
+      "Robert Sandor \u201cYash was a student of mine at Foothill College. He was a superb student and did extremely well with Amazon Web Services. He always submitted assignments on time and contributed to the class conversations around the implementation of AWS infrastructure. I know Yash will do extremely well in both his academic and occupational pursuits.\u201d"
+    ],
+    "followers": 3113,
+    "connections": 500,
+    "current_company_company_id": "splunk",
+    "current_company_name": "Splunk",
+    "projects": [
+      {
+        "title": "https://github.com/YashDThapliyal",
+        "description": "https://github.com/YashDThapliyal"
+      }
+    ],
+    "organizations": [
+      {
+        "title": "Project Empower",
+        "membership_type": "Regional Director of West Coast",
+        "start_date": "May 2023",
+        "end_date": "Jan 2024",
+        "description": "Leading 20+ chapters, leveraging CS and managerial skills to guide nonprofit using coding to solve problems in underprivileged communities. Previously founded and grew a chapter to 80+ members, establishing it as the largest known chapter in Project Empower's history.",
+        "membership_number": null
+      }
+    ],
+    "location": null,
+    "input_url": "https://www.linkedin.com/in/yashdthapliyal",
+    "linkedin_id": "yashdthapliyal",
+    "activity": null,
+    "linkedin_num_id": "907148688",
+    "banner_image": "https://media.licdn.com/dms/image/v2/D5616AQHhsMyPzuqVzQ/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1714435390028?e=2147483647&v=beta&t=xxvpqHDkHskX-W6p78eVKNknLb5KaKRBa_O0qKst1zI",
+    "honors_and_awards": [
+      {
+        "title": "NMSQT Finalist",
+        "publication": "-",
+        "date": "2024-03-01T00:00:00.000Z",
+        "description": "15,000 Finalists Selected Out of 1.3 Million PSAT Test Takers (Top 1.15% of the United States) for Strong Academic Performance. 8,000 Students of 15,000 Finalists Selected for Merit Scholarship (Top 0.6% of the United States) Score 1500/1520 (M: 760/760, EBRW 740/760)"
+      },
+      {
+        "title": "2nd Place @ Lockheed Martin Code Quest 2023",
+        "publication": "Lockheed Martin",
+        "date": "2023-02-01T00:00:00.000Z",
+        "description": "Challenges students around the world to solve real-world problems using programming and computer science skills. Participants are given a set of coding challenges to complete within a limited time frame and are ranked by how many problems they can solve. Local Rank: 2nd Place National Rank: 13/622 - placed in the top 2% of participants nationwide"
+      }
+    ],
+    "similar_profiles": [],
+    "default_avatar": false,
+    "memorialized_account": false,
+    "bio_links": [],
+    "first_name": "Yash",
+    "last_name": "Thapliyal",
+    "influencer": false,
+    "timestamp": "2026-08-12T19:24:06.343Z",
+    "input": {
+      "url": "https://www.linkedin.com/in/yashdthapliyal"
+    }
+  },
+  "local_photo": "data\\linkedin_photos\\yashdthapliyal__usr-GCsjkZPvCV1XGMf.jpg"
+}

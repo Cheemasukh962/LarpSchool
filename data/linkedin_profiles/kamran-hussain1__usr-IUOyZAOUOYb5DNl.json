@@ -1,0 +1,105 @@
+{
+  "luma_user_id": "usr-IUOyZAOUOYb5DNl",
+  "csv_name": "Kamran Hussain",
+  "csv_linkedin": "https://www.linkedin.com/in/kamran-hussain1",
+  "enriched_at": "2026-08-12T19:11:36.244090+00:00",
+  "batch_id": "sd_msqgoa0o2hh62sia9d",
+  "profile": {
+    "id": "kamran-hussain1",
+    "name": "Kamran Hussain",
+    "city": "San Francisco Bay Area",
+    "country_code": "US",
+    "position": null,
+    "about": "BCIs to restore communication and movement, computational neuroscience to understand and\u2026",
+    "current_company": {
+      "link": "https://www.linkedin.com/school/stanford-university/?trk=public_profile_topcard-current-company",
+      "name": "Stanford University",
+      "location": null
+    },
+    "experience": null,
+    "url": "https://ua.linkedin.com/in/kamran-hussain1",
+    "education": null,
+    "avatar": "https://media.licdn.com/dms/image/v2/D5603AQHD3VFJeWsgWg/profile-displayphoto-shrink_200_200/B56ZZU7l2NHQAY-/0/1745181635233?e=2147483647&v=beta&t=EPn3O7aJdt7_0l6vEEJVnodE6aNTWxWBo3uyD4bFGII",
+    "volunteer_experience": [
+      {
+        "cause": "Social Services",
+        "duration": "Apr 2020 \u00b7 - \nNov 2020 \u00b7 \n8 months",
+        "duration_short": "- \nNov 2020",
+        "info": "- Coordinated this fundraiser at the height of the pandemic as a means of aiding those in need in the Bay Area - Created strategic partnerships with local community service agencies (CSAs) of Mountain, Sunnyvale, and Cupertino - Raised over $2.5k in funds, supporting an entire day of operations across all three CSAs",
+        "start_date": "Apr 2020",
+        "subtitle": "COVID Run",
+        "title": "Director"
+      }
+    ],
+    "followers": 1184,
+    "connections": 500,
+    "current_company_name": "Stanford University",
+    "location": null,
+    "input_url": "https://www.linkedin.com/in/kamran-hussain1",
+    "linkedin_id": "kamran-hussain1",
+    "activity": null,
+    "linkedin_num_id": "915336178",
+    "banner_image": "https://media.licdn.com/dms/image/v2/D5616AQHVEdVypTPDoA/profile-displaybackgroundimage-shrink_200_800/B56ZZU7.MQHoAU-/0/1745181731099?e=2147483647&v=beta&t=EE5iSZexKHEcpdnnTMeQF7lZSPEnNgc6wfuyb0vsXqI",
+    "honors_and_awards": [
+      {
+        "title": "1st Place Winner",
+        "publication": "BCI Award Foundation",
+        "date": "2025-10-01T00:00:00.000Z",
+        "description": "An inner speech neuroprosthesis to restore conversational rates of communication in people with dysarthria."
+      },
+      {
+        "title": "1st Place Winner",
+        "publication": "GDX Co. Sushi Hackathon 2025",
+        "date": "2025-10-01T00:00:00.000Z",
+        "description": "Theme: AI for Small Business Fishermen We interviewed actual fisher to understand their needs, and highlighted their desire to fish, yet their frustration with maintenance and sonar tracking. We built an end-to-end model for real-time automatic preventative maintenance, using an LLM backbone to aid with intepretability. This E2E model also automatically monitored onboat sonar to rapidly identify fish and track them, increasing fishing yields sustainably. Our system runs on a cheap PiCAN\u2026 Show more"
+      },
+      {
+        "title": "Trainee Travel Award",
+        "publication": "BCI Society",
+        "date": "2025-06-01T00:00:00.000Z",
+        "description": "Invited to give a plenary talk at the 11th BCI Society meeting in Banff, Canada"
+      },
+      {
+        "title": "Undergraduate Research in Science and Technology Award",
+        "publication": "Office of the Dean, Physical and Biological Sciences at UC Santa Cruz",
+        "date": "2025-05-01T00:00:00.000Z",
+        "description": "The Undergraduate Research in Science & Technology Endowment, funded by generous donors and alumni, supports undergraduate research projects in fields related to science and technology for students from any major at UC Santa Cruz. The Physical and Biological Sciences Undergraduate Award Committee, composed of faculty in the Sciences at UC Santa Cruz, will review the application along with review and approval by the dean of the students department."
+      },
+      {
+        "title": "2nd Place Hackathon Finalist",
+        "publication": "GDX Co. Sushi Hackathon",
+        "date": "2024-11-01T00:00:00.000Z",
+        "description": "Won second place at the Sushi Hackathon, an international hackathon with junior to mid level engineers in industry and university students from undergrad to PhD. Got second place prize for SushiAgent, an intelligent AI powered search engine for low price, high quality products."
+      },
+      {
+        "title": "Koret Research Scholar",
+        "publication": "Koret Foundation at UC Santa Cruz",
+        "date": "2024-11-01T00:00:00.000Z",
+        "description": "Koret scholarship awarded for conducting high impact research at the UC Santa Cruz Genomics Institute."
+      },
+      {
+        "title": "Shenoy Undergraduate Research Fellow in Neuroscience",
+        "publication": "Simons Foundation",
+        "date": "2024-09-01T00:00:00.000Z",
+        "description": "One of 75 international fellows selected to be funded to pursue research in neuroscience. My specific funded research involves speech neuroprosthetics and using them to analyze the neural correlates of speech rate."
+      }
+    ],
+    "similar_profiles": [],
+    "default_avatar": false,
+    "memorialized_account": false,
+    "bio_links": [
+      {
+        "title": "Personal Website",
+        "link": "https://www.kamranhussain.com/"
+      }
+    ],
+    "first_name": "Kamran",
+    "last_name": "Hussain",
+    "influencer": false,
+    "timestamp": "2026-08-12T19:07:31.625Z",
+    "input": {
+      "url": "https://www.linkedin.com/in/kamran-hussain1"
+    }
+  },
+  "local_photo": "data\\linkedin_photos\\kamran-hussain1__usr-IUOyZAOUOYb5DNl.jpg"
+}

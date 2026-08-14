@@ -1,0 +1,92 @@
+{
+  "luma_user_id": "usr-X2OoxRjqYcyd9Mw",
+  "csv_name": "Alaap Nair",
+  "csv_linkedin": "https://www.linkedin.com/in/alaapnair",
+  "enriched_at": "2026-08-12T18:55:27.682670+00:00",
+  "batch_id": "sd_msqg7js7a7y0irwot",
+  "profile": {
+    "id": "alaapnair",
+    "name": "Alaap Nair",
+    "city": "Palo Alto, California, United States",
+    "country_code": "US",
+    "position": null,
+    "about": "if you're an investor or a founder, let's talk! alaap[at]exceptionalcap[dot]com",
+    "current_company": {
+      "link": "https://uk.linkedin.com/company/astonmartinf1?trk=public_profile_topcard-current-company",
+      "name": "Aston Martin F1 Team",
+      "company_id": "astonmartinf1",
+      "location": null
+    },
+    "experience": null,
+    "url": "https://www.linkedin.com/in/alaapnair",
+    "educations_details": "University of California, Berkeley",
+    "education": null,
+    "avatar": "https://media.licdn.com/dms/image/v2/D5603AQHQLTgh--qIDA/profile-displayphoto-shrink_200_200/B56ZOypOO.G8AY-/0/1733868971231?e=2147483647&v=beta&t=fhUqhkF38IO4kPe3wMq77_C43BlA7jW6yeDRN2c-cI0",
+    "languages": [
+      {
+        "subtitle": "Native or bilingual proficiency",
+        "title": "English"
+      },
+      {
+        "subtitle": "Professional working proficiency",
+        "title": "Spanish"
+      },
+      {
+        "subtitle": "Limited working proficiency",
+        "title": "Malayalam"
+      }
+    ],
+    "followers": 3730,
+    "connections": 500,
+    "current_company_company_id": "astonmartinf1",
+    "current_company_name": "Aston Martin F1 Team",
+    "projects": [
+      {
+        "title": "Behavioral Finance-Based Stock Market Predictor",
+        "start_date": "Aug 2023",
+        "description": "Applied Behavioral Finance concepts to algorithmic stock trading, achieving a 7.12% increase within 3 months in account value using investor trends from Google Search data. Researched the correlation between search volume and stock value.Developed algorithms that outperformed the Dow Jones Industrial Average in short term trading by leveraging psychological factors such as Herd Behavior and Mental Accounting. Wrote a research paper on my findings, validated by the district board."
+      }
+    ],
+    "location": "Palo Alto",
+    "input_url": "https://www.linkedin.com/in/alaapnair",
+    "linkedin_id": "alaapnair",
+    "activity": [
+      {
+        "interaction": "Liked by Alaap Nair",
+        "link": "https://www.linkedin.com/posts/vibhorn_im-excited-to-share-that-after-wrapping-activity-7476061550630510592-agC6",
+        "title": "I'm excited to share that after wrapping up my internship at Capital One this summer, I will be joining Amazon as a Data Engineer Intern in Seattle!\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQF-ciUCu6XR8Q/feedshare-shrink_800/B56Z7xqA_FJsAc-/0/1782170783960?e=2147483647&v=beta&t=zTWGWOACLCL3R9kXAVLeJlhdpSE_L9j88j_jJZHK7uk",
+        "id": "7476061550630510592"
+      },
+      {
+        "interaction": "Liked by Alaap Nair",
+        "link": "https://www.linkedin.com/posts/alex-shan-446321202_i-rarely-have-time-to-sit-with-james-alcorn-activity-7475958101343612928-X5qb",
+        "title": "I rarely have time to sit with James Alcorn and reflect on all the progress we've made in the last year at Judgment Labs. Time flies when you're\u2026",
+        "img": "https://static.licdn.com/aero-v1/sc/h/53n89ecoxpr1qrki1do3alazb",
+        "id": "7475958101343612928"
+      }
+    ],
+    "linkedin_num_id": "1091592304",
+    "banner_image": "https://media.licdn.com/dms/image/v2/D5616AQHimHtCwD4cog/profile-displaybackgroundimage-shrink_200_800/B56ZwFuYjrI4AU-/0/1769622571976?e=2147483647&v=beta&t=P5z9Vuj_AfE3mwCv2WYoxNj6kPWVawATUBl7NwaEB10",
+    "honors_and_awards": [
+      {
+        "title": "Apple WWDC Student Hackathon Winner",
+        "publication": "Apple",
+        "date": "2022-06-01T00:00:00.000Z",
+        "description": "Developed a web application informing users about poor waste-management practices, and offered a game to improve proper waste disposal habits. Won the \u201cMost-Impact\u201d award for the web application at my high school hackathon. Integrated the web application into an iOS app. Modified the app by adding an image classification machine-learning library (YOLO); the camera could detect the object and return the correct bin to put the object into"
+      }
+    ],
+    "similar_profiles": [],
+    "default_avatar": false,
+    "memorialized_account": false,
+    "bio_links": [],
+    "first_name": "Alaap",
+    "last_name": "Nair",
+    "influencer": false,
+    "timestamp": "2026-08-12T18:54:31.090Z",
+    "input": {
+      "url": "https://www.linkedin.com/in/alaapnair"
+    }
+  },
+  "local_photo": "data\\linkedin_photos\\alaapnair__usr-X2OoxRjqYcyd9Mw.jpg"
+}

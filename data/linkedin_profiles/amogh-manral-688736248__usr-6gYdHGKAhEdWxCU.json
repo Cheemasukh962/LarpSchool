@@ -1,0 +1,81 @@
+{
+  "luma_user_id": "usr-6gYdHGKAhEdWxCU",
+  "csv_name": "Amogh Manral",
+  "csv_linkedin": "https://www.linkedin.com/in/amogh-manral-688736248",
+  "enriched_at": "2026-08-12T18:56:33.260609+00:00",
+  "batch_id": "sd_msqg8yml2ia5na9bcp",
+  "profile": {
+    "id": "amogh-manral-688736248",
+    "name": "Amogh Manral",
+    "city": "Durham, North Carolina, United States",
+    "country_code": "US",
+    "position": null,
+    "about": "https://www.amoghmanral.com/",
+    "current_company": {
+      "link": "https://www.linkedin.com/company/thorin?trk=public_profile_topcard-current-company",
+      "name": "Thorin",
+      "company_id": "thorin",
+      "location": null
+    },
+    "experience": null,
+    "url": "https://jp.linkedin.com/in/amogh-manral-688736248",
+    "educations_details": "Duke University",
+    "education": null,
+    "avatar": "https://media.licdn.com/dms/image/v2/D4E03AQGL9BxGCW573w/profile-displayphoto-scale_200_200/B4EZ0bzKPEJcAg-/0/1774287890043?e=2147483647&v=beta&t=ALEGBydmRUgc2-1EG9KiICmahTRRnuHA_-2Sy_brEkI",
+    "certifications": [
+      {
+        "subtitle": "CodeSignal",
+        "title": "General Coding Assesment (600/600)",
+        "credential_url": null,
+        "credential_id": null
+      }
+    ],
+    "followers": 1941,
+    "connections": 500,
+    "current_company_company_id": "thorin",
+    "current_company_name": "Thorin",
+    "projects": [
+      {
+        "title": "Course Map",
+        "description": "A visual, interactive map of Duke University's course dependency and curriculum structure. Made using publicly avaiable data. Unlike most course planners, this tool not only shows prerequisites (inputs) for each course, but also the outputs\u2014advanced courses that have the selected course as a prerequisite. This makes it easy to plan forward and see the impact of each course on your academic path."
+      }
+    ],
+    "location": "Durham",
+    "input_url": "https://www.linkedin.com/in/amogh-manral-688736248",
+    "linkedin_id": "amogh-manral-688736248",
+    "activity": null,
+    "linkedin_num_id": "1028993864",
+    "banner_image": "https://media.licdn.com/dms/image/v2/D5616AQHIk26bd48VoA/profile-displaybackgroundimage-shrink_200_800/B56Z.NmKvqKUAQ-/0/1784787021173?e=2147483647&v=beta&t=AhhznjSM2LC-hV3pwSuhvGkdVB-pDc4NSXcOjDReW7s",
+    "honors_and_awards": [
+      {
+        "title": "IB Merit Scholarship Winner (2022-2024)",
+        "publication": "-",
+        "date": "2022-06-01T00:00:00.000Z",
+        "description": "Awarded for exceptional academic performance and outstanding contributions to the school community."
+      },
+      {
+        "title": "National Math Award",
+        "publication": "Abelkonkurransen, Norwegian Mathematics Center",
+        "date": "2022-01-01T00:00:00.000Z",
+        "description": "Penultimate round qualifier, 90th+ percentile."
+      }
+    ],
+    "similar_profiles": [],
+    "default_avatar": false,
+    "memorialized_account": false,
+    "bio_links": [
+      {
+        "title": "Personal Website",
+        "link": "https://amoghmanral.com/"
+      }
+    ],
+    "first_name": "Amogh",
+    "last_name": "Manral",
+    "influencer": false,
+    "timestamp": "2026-08-12T18:55:37.807Z",
+    "input": {
+      "url": "https://www.linkedin.com/in/amogh-manral-688736248"
+    }
+  },
+  "local_photo": "data\\linkedin_photos\\amogh-manral-688736248__usr-6gYdHGKAhEdWxCU.jpg"
+}

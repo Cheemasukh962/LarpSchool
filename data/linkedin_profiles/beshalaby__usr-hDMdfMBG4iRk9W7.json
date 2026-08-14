@@ -1,0 +1,130 @@
+{
+  "luma_user_id": "usr-hDMdfMBG4iRk9W7",
+  "csv_name": "Bassil Shalaby",
+  "csv_linkedin": "https://www.linkedin.com/in/beshalaby",
+  "enriched_at": "2026-08-12T19:26:51.910056+00:00",
+  "batch_id": "sd_msqhb4pfm4l4la4zs",
+  "profile": {
+    "id": "beshalaby",
+    "name": "Bassil Shalaby",
+    "city": "Washington DC-Baltimore Area",
+    "country_code": "US",
+    "position": null,
+    "about": null,
+    "current_company": {
+      "link": "https://www.linkedin.com/company/startup-shell?trk=public_profile_topcard-current-company",
+      "name": "Startup Shell",
+      "company_id": "startup-shell",
+      "location": null
+    },
+    "experience": null,
+    "url": "https://ua.linkedin.com/in/Beshalaby",
+    "educations_details": "University of Maryland",
+    "education": [
+      {
+        "title": "University of Maryland",
+        "url": "https://www.linkedin.com/school/university-of-maryland/",
+        "start_year": "2025-08",
+        "end_year": "2028-06",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      },
+      {
+        "start_year": "2023-08",
+        "end_year": "2025-03",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      }
+    ],
+    "avatar": "https://media.licdn.com/dms/image/v2/D5603AQG_UP2j3AnOwg/profile-displayphoto-scale_200_200/B56Zlx3DK6KAAY-/0/1758551880991?e=2147483647&v=beta&t=lhSL3bpDqf7aKJuVrbKeccdD4j29mss996F6dIpq7MY",
+    "followers": 330,
+    "connections": 331,
+    "current_company_company_id": "startup-shell",
+    "current_company_name": "Startup Shell",
+    "location": null,
+    "input_url": "https://www.linkedin.com/in/beshalaby",
+    "linkedin_id": "beshalaby",
+    "activity": [
+      {
+        "interaction": null,
+        "link": "https://www.linkedin.com/posts/shanmukhapothukuchi_this-past-weekend-adam-zeineldin-reyan-activity-7457214441965654016-gIy2",
+        "title": "This past weekend, Adam Zeineldin , Reyan Yousif , Bassil Shalaby , and I built Immortal at Anthropic\u2019s Hackathon and won Best Healthcare Hack. We were frustrated that wearables collect tons of health data but don\u2019t actually help you do anything with it. You can see your HRV drop, but not why, what to change, or how to test it. So we built a closed-loop system that learns your personal baselines, detects meaningful changes, and turns them into evidence-backed recommendations with real citations. The part we\u2019re most excited about is self-experiments. You can test something like cutting caffeine after 2pm, and Immortal will track the before and after, compute the effect, and tell you if it actually worked. We paired deterministic models for reliability with an LLM layer for personalized guidance, which ended up being a really strong combination. Super proud of how much we built in such a short time, and excited to keep pushing this forward. +1 Hackathon Win Devpost: https://lnkd.in/e2nRVv-h",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQGL0MAyxQbLpQ/feedshare-shrink_800/B4EZ31ZBN6JUAc-/0/1777938470384?e=2147483647&v=beta&t=JKTd0g6YYUCw_vNEjP1Rlf4BupI0JgH9sqD21FOztUQ",
+        "id": "7457214441965654016"
+      },
+      {
+        "interaction": "Bassil Shalaby shared this",
+        "link": "https://www.linkedin.com/posts/beshalaby_incredibly-grateful-to-share-that-our-team-activity-7444846878384406528-IV-w",
+        "title": "Incredibly grateful to share that our team won 1st Place Overall and 1st Place in the Societal Impact track at YHack 2026! We built Circa a smart farming management system designed to tackle one of agriculture's most persistent problems: inefficient irrigation. Nearly 40\u201350% of water is wasted in traditional farming systems, and current solutions are expensive, hard to control, and spatially inefficient. Circa uses a network of ESP32-powered sensor nodes spread across a field, each collecting real-time soil moisture, temperature, and humidity data. That data feeds into a web dashboard where farmers can monitor their entire field, automate watering decisions, and control a central water turret, all from one place. The turret's design extends circular irrigation to rectangular fields, meaning less wasted space and far more precise water delivery. None of this would have happened without my incredible teammates: Dvij Raicha , Shanmukha Pothukuchi , and Abhinav Arora . Grateful to have had such a hardworking, creative, and mission-driven team by my side. Thank you to the organizers at YHack for creating such an amazing space for builders. Try a demo of our project at circaorg.github.io",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQH_R3IVFQ9UWw/feedshare-shrink_800/B4EZ1FoyKUGkAc-/0/1774989813164?e=2147483647&v=beta&t=Z_6ldtEyyFBfocmgdpsvX25Y0yR9I_n_bLNz4XjHyr4",
+        "id": "7444846878384406528"
+      },
+      {
+        "interaction": "Bassil Shalaby commented on a post 2mo",
+        "link": "https://www.linkedin.com/posts/dvij-raicha_ifm-mbzuai-frontierai-activity-7468330805463945217-24kK",
+        "title": "Awesome",
+        "img": null,
+        "id": "7468330805463945217"
+      },
+      {
+        "interaction": "Bassil Shalaby liked this",
+        "link": "https://www.linkedin.com/posts/shanmukhapothukuchi_excited-to-announce-ill-be-at-y-combinator-activity-7478626910898466816-6z9W",
+        "title": "Excited to announce I\u2019ll be at Y Combinator \u2019s Startup School! I'd love to connect with anyone else going. Looking forward to meeting other founders and hearing from speakers like Jensen Huang, Sam Altman, Jeff Dean, and Alexandr Wang.",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQFfsR_s5xh7Ww/feedshare-shrink_800/B4EZ8lri.yJYAc-/0/1783043600718?e=2147483647&v=beta&t=IdjzKtcdbkU1dLaupe6qvTJ3GCbsZ71O99Wp5Gqn3Vw",
+        "id": "7478626910898466816"
+      },
+      {
+        "interaction": "Bassil Shalaby liked this",
+        "link": "https://www.linkedin.com/posts/ronwiener_apparently-startup-founders-are-getting-older-activity-7477779239979819009-FMWD",
+        "title": "Apparently startup founders are getting older. This is terrible news. Who is going to keep the hoodie industry alive? Ever since dot-com we've been sold the image of the successful founder as a 23-year-old living on ramen, fueled by energy drinks and venture capital. The research says otherwise. When you look at the fastest-growing startups, the average founder is about 45 years old. Not 25. Forty-five. And honestly... that matches exactly what I see in Seattle. The average founder in the Venture Mechanics Catapult Accelerator is over 45, married with children. Many are \"second-career\" entrepreneurs who just left Microsoft, Amazon, Boeing, or another large company with something even more valuable than a severance package: 20-30 years of domain expertise. They're building AI infrastructure, enterprise software, robotics, aerospace, defense, climate tech, healthcare, and industrial systems\u2014the kinds of companies where experience compounds instead of depreciates. Turns out spending a couple of decades learning how an industry is broken is pretty good preparation for fixing it. Maybe that's why the stereotype has it backwards. Your 20s are for learning. Your 30s are for mastering. Your 40s are when you finally know which problems are actually worth solving. So if you're in your 40s or 50s wondering whether you missed your chance to build a startup... ...you may have just aged into your competitive advantage. One question for the 40+ crowd: If your resume and your severance package were your seed round... what would you build?",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQEROlqKXugMWg/feedshare-shrink_800/B56Z8PSp6XG4Ac-/0/1782667976904?e=2147483647&v=beta&t=p2Uys13lU3xK_84wDlWNj9Td6Cesw0g5DAtMHkLtdP0",
+        "id": "7477779239979819009"
+      },
+      {
+        "interaction": "Bassil Shalaby liked this",
+        "link": "https://www.linkedin.com/posts/dvij-raicha_ifm-mbzuai-frontierai-activity-7468330805463945217-24kK",
+        "title": "Excited to share that I'll be interning for the Institute of Foundation Models (IFM) at their Silicon Valley Lab this summer! Looking forward to building developer communities and helping grow IFM's presence across U.S. universities. Special thanks to Jane Zhang, CFA for the opportunity and to Manali Dutta Chowdhury for making the recruitment process smooth. Can't wait to get started! #IFM #MBZUAI #FrontierAI #DeveloperCommunity",
+        "img": null,
+        "id": "7468330805463945217"
+      },
+      {
+        "interaction": "Bassil Shalaby liked this",
+        "link": "https://www.linkedin.com/posts/dvij-raicha_proud-to-have-been-a-part-of-this-project-activity-7466560395286102016-4AFn",
+        "title": "Proud to have been a part of this project. The Institute of Foundation Models \u2019 K2ThinkV2 is genuinely exciting: a fully open source model pushing frontier performance. Creating content and projects around AI products has been a great learning experience, and I\u2019m excited to keep building!",
+        "img": "https://media.licdn.com/dms/image/v2/D5605AQH66c4OhvbPCQ/feedshare-thumbnail_720_1280/B56Z5072stKoA0-/0/1780078314117?e=2147483647&v=beta&t=-GNwH5kTjaCGAu2FY4JB9phQv8eXiTiFMYaguZ28-C4",
+        "id": "7466560395286102016"
+      },
+      {
+        "interaction": "Bassil Shalaby liked this",
+        "link": "https://www.linkedin.com/posts/institute-of-foundation-models_k2think-mbzuai-ifm-activity-7466189662106202112-5gSP",
+        "title": "\ud83d\udef0\ufe0f Meet Circa \u2014 a precision irrigation platform powered by K2 Think V2 that lets any grower, in any language, apply true precision watering to their fields. Why focus on farming? Agriculture accounts for roughly 70% of global freshwater use. Circular irrigation saves water compared to traditional rectangular methods, but leaves the land in the corners underused. Circa\u2019s hardware addresses both: a directional turret with full X/Y/Z control, paired with moisture-sensing nodes that tell the system exactly where and when water is needed. The result is irrigation that responds to what the soil actually needs, not a fixed schedule. The software layer handles live sensor data, manual targeting, automated sweeps, and ML-powered soil moisture forecasts \u2014 with an AI assistant powered by K2 Think V2 at its center. Farmers do not need to learn a complex interface to water their crops. Using K2 Think V2, the Circa team lets each grower describe what they want in plain language; the model parses intent, extracts parameters (zone, threshold, duration), and creates live automation rules the system executes. What makes this stand out: \u2728 Natural-language rule creation that executes directly \u2014 no interface learning curve. \u2728 Live soil moisture sensing with ML-powered forecasting from distributed field nodes. \u2728 Multilingual input designed in, not bolted on. Watch the case study below to hear from the Circa team themselves! #K2Think #MBZUAI #IFM #YHack #Hackathon",
+        "img": "https://media.licdn.com/dms/image/v2/D5605AQH66c4OhvbPCQ/feedshare-thumbnail_720_1280/B56Z5072stKoA0-/0/1780078314117?e=2147483647&v=beta&t=-GNwH5kTjaCGAu2FY4JB9phQv8eXiTiFMYaguZ28-C4",
+        "id": "7466189662106202112"
+      },
+      {
+        "interaction": "Bassil Shalaby liked this",
+        "link": "https://www.linkedin.com/posts/victxr_excited-to-announce-that-ill-be-joining-activity-7457965229176467457-ESOC",
+        "title": "Excited to announce that I'll be joining Fraunhofer USA Center Mid-Atlantic (CMA) as a Software Engineer Intern this summer! Special thanks to Joshua Giltinan for the opportunity and smooth recruitment process. Looking forward to joining the team!",
+        "img": null,
+        "id": "7457965229176467457"
+      }
+    ],
+    "linkedin_num_id": "1160235625",
+    "banner_image": "https://media.licdn.com/dms/image/v2/D4E16AQF7OOmYWAnkBQ/profile-displaybackgroundimage-shrink_200_800/B4EZkxUF2iKgAU-/0/1757468974916?e=2147483647&v=beta&t=U1Kw6MjakORPxrLbvYsbkm01TT0p6nLxMuyvxgHyoKw",
+    "honors_and_awards": null,
+    "similar_profiles": [],
+    "default_avatar": false,
+    "memorialized_account": false,
+    "bio_links": [],
+    "first_name": "Bassil",
+    "last_name": "Shalaby",
+    "influencer": false,
+    "timestamp": "2026-08-12T19:26:08.671Z",
+    "input": {
+      "url": "https://www.linkedin.com/in/beshalaby"
+    }
+  },
+  "local_photo": "data\\linkedin_photos\\beshalaby__usr-hDMdfMBG4iRk9W7.jpg"
+}

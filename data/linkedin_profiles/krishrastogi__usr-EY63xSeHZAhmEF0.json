@@ -1,0 +1,49 @@
+{
+  "luma_user_id": "usr-EY63xSeHZAhmEF0",
+  "csv_name": "Krish Rastogi",
+  "csv_linkedin": "https://www.linkedin.com/in/krishrastogi",
+  "enriched_at": "2026-08-12T19:12:29.383264+00:00",
+  "batch_id": "sd_msqgtpzbeylkhkm9p",
+  "profile": {
+    "id": "krishrastogi",
+    "name": "Krish Rastogi",
+    "city": "Palo Alto, California, United States",
+    "country_code": "US",
+    "position": null,
+    "about": null,
+    "current_company": {
+      "link": "https://nl.linkedin.com/company/wolters-kluwer?trk=public_profile_topcard-current-company",
+      "name": "Wolters Kluwer",
+      "company_id": "wolters-kluwer",
+      "location": null
+    },
+    "experience": null,
+    "url": "https://dk.linkedin.com/in/Krishrastogi",
+    "educations_details": "Northeastern University",
+    "education": null,
+    "avatar": "https://media.licdn.com/dms/image/v2/D5603AQFpldLrfzGtIw/profile-displayphoto-scale_200_200/B56Z_p05qMKYAc-/0/1786334388980?e=2147483647&v=beta&t=Q200wsFYYafGhpUcwiZD3tX0YMkexMmYFzgXCbDId_c",
+    "followers": 4702,
+    "connections": 500,
+    "current_company_company_id": "wolters-kluwer",
+    "current_company_name": "Wolters Kluwer",
+    "location": "Palo Alto",
+    "input_url": "https://www.linkedin.com/in/krishrastogi",
+    "linkedin_id": "krishrastogi",
+    "activity": null,
+    "linkedin_num_id": "963738873",
+    "banner_image": "https://static.licdn.com/aero-v1/sc/h/5q92mjc5c51bjlwaj3rs9aa82",
+    "honors_and_awards": null,
+    "similar_profiles": [],
+    "default_avatar": false,
+    "memorialized_account": false,
+    "bio_links": [],
+    "first_name": "Krish",
+    "last_name": "Rastogi",
+    "influencer": false,
+    "timestamp": "2026-08-12T19:12:26.040Z",
+    "input": {
+      "url": "https://www.linkedin.com/in/krishrastogi"
+    }
+  },
+  "local_photo": "data\\linkedin_photos\\krishrastogi__usr-EY63xSeHZAhmEF0.jpg"
+}

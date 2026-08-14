@@ -1,0 +1,324 @@
+{
+  "luma_user_id": "usr-OBk1vDbUnlqEFy0",
+  "csv_name": "Adyasha Patra",
+  "csv_linkedin": "https://www.linkedin.com/in/adyasha-patra",
+  "enriched_at": "2026-08-12T18:55:27.679339+00:00",
+  "batch_id": "sd_msqg7js7a7y0irwot",
+  "profile": {
+    "id": "adyasha-patra",
+    "name": "Adyasha Patra",
+    "city": "La Jolla Shores, California, United States",
+    "country_code": "US",
+    "position": null,
+    "about": "I am a graduate researcher at UC San Diego focusing on multimodal large language models\u2026",
+    "current_company": {
+      "link": "https://www.linkedin.com/school/ucsandiego/?trk=public_profile_topcard-current-company",
+      "name": "UC San Diego",
+      "location": null
+    },
+    "experience": null,
+    "url": "https://fr.linkedin.com/in/adyasha-patra",
+    "educations_details": "UC San Diego",
+    "education": [
+      {
+        "title": "UC San Diego",
+        "url": "https://www.linkedin.com/school/ucsandiego/",
+        "start_year": "2025-09",
+        "end_year": "2027-01",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      },
+      {
+        "start_year": "2021-11",
+        "end_year": "2025-05",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      },
+      {
+        "start_year": "2021-11",
+        "end_year": "2025-05",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      },
+      {
+        "start_year": "2006",
+        "end_year": "2019",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      }
+    ],
+    "avatar": "https://media.licdn.com/dms/image/v2/C4E03AQGf6IGh9RBMUQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1638815014041?e=2147483647&v=beta&t=ZIrjWAm0R4iPEkf2vpDFyYBHdKaPmJwphRcHv22-oh4",
+    "courses": [
+      {
+        "subtitle": "CS 753",
+        "title": "Automatic Speech Recognition"
+      },
+      {
+        "subtitle": "CS230",
+        "title": "Computer Architecture"
+      },
+      {
+        "subtitle": "CS228",
+        "title": "Computer Networks"
+      },
+      {
+        "subtitle": "CS406",
+        "title": "Cryptography and Network Security"
+      },
+      {
+        "subtitle": "CS213",
+        "title": "Data Structure and Algorithms"
+      },
+      {
+        "subtitle": "CS218",
+        "title": "Design and Analysis of Algorithms"
+      },
+      {
+        "subtitle": "CS 663",
+        "title": "Digital Image Processing"
+      },
+      {
+        "subtitle": "CS 781",
+        "title": "Formal Methods in Machine Learning"
+      },
+      {
+        "subtitle": "CS 635",
+        "title": "Information Retrieval & Mining for Hypertext &the Web"
+      },
+      {
+        "subtitle": "CSE-291Y",
+        "title": "LLM Security"
+      },
+      {
+        "subtitle": "CS 736",
+        "title": "Medical Image Computing"
+      },
+      {
+        "subtitle": "IE501",
+        "title": "Optimization Models"
+      },
+      {
+        "subtitle": "CSE-291A",
+        "title": "Systems for LLMs and AI Agents"
+      }
+    ],
+    "volunteer_experience": [
+      {
+        "duration": "Jul 2024 \u00b7 - Present \u00b7 \n\n2 years 2 months",
+        "duration_short": "- Present",
+        "info": "Guiding 12 freshmen to acclimate to college life while navigating academic, social and emotional challenges.",
+        "start_date": "Jul 2024",
+        "subtitle": "Indian Institute of Technology, Bombay",
+        "title": "Institute Student Mentor"
+      },
+      {
+        "duration": "Jun 2023 \u00b7 - \nJun 2024 \u00b7 \n1 year 1 month",
+        "duration_short": "- \nJun 2024",
+        "info": "Co-mentored 12 sophomores for academics and internships.",
+        "start_date": "Jun 2023",
+        "subtitle": "Indian Institute of Technology, Bombay",
+        "title": "Department Academic Mentor"
+      },
+      {
+        "cause": "Social Services",
+        "duration": "Jun 2024 \u00b7 - \nJun 2024 \u00b7 \n1 month",
+        "duration_short": "- \nJun 2024",
+        "info": "Built solar lamps for underprivileged children as part of a community service initiative",
+        "start_date": "Jun 2024",
+        "subtitle": "Goldman Sachs",
+        "title": "Community Team Work"
+      }
+    ],
+    "followers": 2032,
+    "connections": 500,
+    "current_company_name": "UC San Diego",
+    "organizations": [
+      {
+        "title": "CSEA",
+        "membership_type": "General Secretary",
+        "start_date": "May 2024",
+        "end_date": "Present",
+        "membership_number": null
+      },
+      {
+        "title": "CSEA",
+        "membership_type": "Class representative(Junior year)",
+        "start_date": "Jul 2023",
+        "end_date": "Jun 2024",
+        "membership_number": null
+      },
+      {
+        "title": "CSEA",
+        "membership_type": "Social Secretary",
+        "membership_number": null
+      }
+    ],
+    "location": "La Jolla Shores",
+    "input_url": "https://www.linkedin.com/in/adyasha-patra",
+    "linkedin_id": "adyasha-patra",
+    "activity": [
+      {
+        "interaction": "Adyasha Patra shared this",
+        "link": "https://www.linkedin.com/posts/adyasha-patra_improving-language-identification-for-code-switched-activity-7444449008267210752-smTZ",
+        "title": "Last week, I presented my first first-authored paper, accepted to Findings of #EACL 2026. This work started as my Bachelor\u2019s thesis at the Indian Institute of Technology, Bombay , under Prof. Preethi Jyothi. I\u2019ve been writing (and rewriting) this paper for nearly a year, through multiple rounds of reviews and rejections. Sometimes the feedback was absolutely right and pushed us to improve the work. Other times, the challenge was figuring out how to better communicate what we were trying to say. Interestingly, the final version of this paper came together after I moved to UC San Diego , where I gained a new perspective on research writing (and thinking). The process taught me two things I hope to carry with me: \u2022 If you keep showing up, things do eventually come together. \u2022 Sometimes, the best progress comes not from pushing harder, but from stepping back and returning with a fresh perspective. \ud83d\udca1 This work looks at a simple but very real problem: How do we identify languages when people switch between them mid-sentence? In our paper, \u201cImproving Language Identification for Code-Switched Speech: The Pivotal Role of Accented English,\u201d we study this problem in the context of code-switched speech. A key reason models struggle is accent mismatch: English sounds different depending on the matrix (dominant) language used in an utterance. By adapting models with small amounts of accent-matched English, we see strong improvements without hurting performance on standard monolingual speech. We also introduce LangRank, a ranking-based evaluation metric that better captures performance for language identification in code-switched utterances. \ud83d\udcc4 Improving Language Identification for Code-Switched Speech: The Pivotal Role of Accented English https://lnkd.in/gmaDku8u Grateful for the mentorship, collaboration, and the journey this took. Here\u2019s to many more drafts, dead ends, and hopefully, breakthroughs. ...more",
+        "img": "https://media.licdn.com/dms/image/sync/v2/D5627AQH6hcetMV2u6A/articleshare-shrink_800/B56Z0_6S72JwAI-/0/1774893740507?e=2147483647&v=beta&t=BQRxw8fFnz1UrMztpbVI-CZdGJqw496DpM-CuxiHTWg",
+        "id": "7444449008267210752"
+      },
+      {
+        "interaction": null,
+        "link": "https://www.linkedin.com/posts/cmmrs-cs_one-week-left-to-apply-cmmrs-2026-is-activity-7426656571180613632-2wKV",
+        "title": "\u23f0 One week left to apply! CMMRS 2026 is a fully funded pre-doctoral research school in computer science, offering lectures by leading researchers, mentoring, and the chance to connect with talented students from around the world. \ud83d\udc49 Learn more now: https://cmmrs.mpi-sws.org/ ...more ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQFXpmiI3jdmyA/feedshare-shrink_800/B4EZxDIzGSHgAg-/0/1770652906237?e=2147483647&v=beta&t=nqmo0P9EJkv9lzorBWYW-f59ywZ-pY_1OfQbb3UIZBc",
+        "id": "2026"
+      },
+      {
+        "interaction": "Adyasha Patra shared this",
+        "link": "https://www.linkedin.com/posts/adyasha-patra_life-update-it-feels-surreal-how-much-activity-7390090728686665728-sCwO",
+        "title": "\u2728 Life Update! It feels surreal how much has changed since we wrapped up at Indian Institute of Technology, Bombay in May 2025. After four intense, fun, and unforgettable years, I officially graduated in August with a B.Tech . in CSE at IIT Bombay (Honors) and a Minor in CMInDS, IIT Bombay(AI & Data Science). \ud83c\udf93 This summer, I had the chance to work as a CTO\u2019s Office Technical Intern at Prodigal under Sangram Raje . I got to build multi-agent automation systems that connected workflows across Databricks, GitHub, and Asana & got a peek behind the curtain at how a fast-paced startup with real customers operates. It was an amazing crash course in ownership, collaboration, and impact. Fast forward a few months, & I\u2019ve just finished my first month at UC San Diego , starting my M.S. in Computer Science. From AI systems and agents research to navigating life in a new country, it\u2019s been exciting, challenging, and full of learning. \ud83c\udf0d I\u2019m now exploring Summer 2026 internship opportunities in AI/ML, Software Engineering, and Systems in the U.S., and would love to connect with anyone hiring or working in these areas! Feeling grateful for all the people and experiences that got me here. Here\u2019s to new beginnings and adventures ahead! \ud83d\udc99 ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D4D22AQEcBvNOfESHcQ/feedshare-shrink_800/B4DZo7gVRoJcAg-/0/1761934925178?e=2147483647&v=beta&t=CiCYk1mz8yWPF8umQMASwl9sNiMQhlIejRaJwFH3WqY",
+        "id": "7390090728686665728"
+      },
+      {
+        "interaction": "Adyasha Patra shared this",
+        "link": "https://www.linkedin.com/posts/adyasha-patra_last-week-i-had-the-opportunity-to-attend-activity-7358388952677912577-E0-3",
+        "title": "Last week, I had the opportunity to attend Cornell, Maryland, Max Planck Pre-doctoral Research School in Computer Science (CMMRS) 2025, hosted at the Max Planck Institute for Software Systems (MPI-SWS) in Saarbr\u00fccken, Germany. Organized by three of the world\u2019s leading research institutions \u2014 Max Planck Institute for Software Systems (MPI-SWS) , Cornell University , and the University of Maryland , the program brought together students and researchers from over 30 countries to explore foundational ideas in computer science. Across a week of lectures, panel discussions, and group mentoring sessions, we dived into not just technical ideas, but also big-picture questions: about graduate school, industry vs. academia, and what truly drives fulfillment in research careers. What I expected was a week of technical deep dives. What I didn\u2019t expect was how much the conversations would stay with me. From formal sessions to late-night discussions with fellow attendees, the energy was contagious. We talked about research, career paths, and sometimes about the smallest cultural quirks: from how food is eaten in different countries to unexpected traditions globally. That kind of cross-cultural exchange wasn\u2019t just refreshing, it was one of the most impactful takeaways of the entire week. But what I\u2019ll remember most is the passion, the way professors smiled when they spoke about their work, the joy in explaining their choices, and the quiet conviction behind them. Some of them had left high-paying industry roles for academia, fully aware of what they were giving up, and yet, visibly fulfilled. It made me think: maybe the real question is not what to pursue, but why, and whether it brings you that same spark. After all, it is all about maximizing our happiness utility function! Grateful to Peter Druschel , Lorenzo Alvisi, and Adish Singla for organizing such an inspiring program. A heartfelt thanks to the professors who flew in or made time from their packed schedules to share their work and insights with us \u2014 your passion was truly contagious. And to everyone I met, thank you for the conversations, ideas, and memories that made this week unforgettable. \ud83e\udef6 ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D4D22AQFlFS9QJIwz1Q/feedshare-image-high-res/B4DZh4_pRWHwAw-/0/1754376632841?e=2147483647&v=beta&t=kXWXYYhEMjOgBQa1i1Z2FhknCZYLPJo2HggBl766j-Y",
+        "id": "7358388952677912577"
+      },
+      {
+        "interaction": "Adyasha Patra shared this",
+        "link": "https://www.linkedin.com/posts/adyasha-patra_aixmath-imo-openai-activity-7355908285440417792-GhWq",
+        "title": "Led a session last week at Prodigal on why it\u2019s such a milestone that AI models from OpenAI and Google DeepMind won gold at the International Math Olympiad(IMO 2025). Olympiad problems aren\u2019t just about formulas or pattern matching \u2014 they demand creativity, deep insight, and clever leaps we long believed only humans could make. So when AI models start solving those\u2026 it\u2019s worth asking how. We explored how these models reason through complex problems, how their proofs compare to elegant human ones, and what this says about the future of mathematical thinking. Thanks Sangram Raje for the space to reflect on this fascinating collision of AI and human reasoning. #AIxMath #IMO #OpenAI #DeepMind #reasoning #mathematics #engineeringculture ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQF_eSRtNdBr8Q/feedshare-shrink_800/B4EZhTC5l_GUAg-/0/1753739929431?e=2147483647&v=beta&t=erMXgcMQiUtAHCwqDRLFJ4kVSzp0Dij3ozC5hWcdkIc",
+        "id": "7355908285440417792"
+      },
+      {
+        "interaction": null,
+        "link": "https://www.linkedin.com/posts/karthikeyan-jaganathan-a994bb222_thrilled-to-share-our-journey-at-inter-iit-activity-7295082309890805761-rk-G",
+        "title": "Thrilled to share our journey at Inter-IIT Tech Meet 13.0, where our project \"FinSight\" secured 1st place among 22 participating IITs! We developed a dynamic multi-agent Retrieval-Augmented Generation (RAG) system leveraging Pathway for real-time financial insights. We chose the financial domain as it involved many complex data structures in the form of tabular data combined with narrative data, making it complex for RAG systems. Additionally, this being a field of high industry demand made it a perfect problem to tackle. My key contributions in the project was in the design and execution of our Novel question decomposer architecture (Recursive Residual Resolution) from scratch. The key attribute of this architecture is that it dynamically creates and breaks down new questions based on the answered parts of the original question. Additionally, I also implemented 2 other key features - 1) Semantic caching, to store question-answer pairs and retrieve them the next time a similar question is asked. 2) Hosting our entire End to end RAG agent over a REST endpoint, using Pathway's serve callable functionality. I am grateful to have been given the opportunity to be a presenter alongside Adyasha Patra to a panel of Pathway's judges. After a rigorous round of evaluation over metrics such as code quality, technical proficiency, report submissions along with this final presentation, our team placed first among the total 22 IITs participating in this competition, while the Bombay contingent won Runner's up overall. The experience was both challenging and highly rewarding. Would like to take this moment to mention other key members of our team, Shreyash Gupta , Kartik Nair , Geet Sethi , Atishay Jain , Aryan Gupta , Hrishikesh Jedhe Deshmukh , Divyanshu Suman , Deepak Silaych , Sathwik Shetty . Grateful for the support provided by our Contingent leaders Aryan Mishra , Arhaan Ahmad as well. Kudos to the organising team as well Manas Agrawal Kushal Agarwal ...more ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQGIgNKrJq32qQ/feedshare-shrink_800/B56ZT1WrlRHEAg-/0/1739283156840?e=2147483647&v=beta&t=1GDt27OHZirt_1gQ5s7Ty4LPKParbOyTszr96CEkt-g",
+        "id": "7295082309890805761"
+      },
+      {
+        "interaction": "Adyasha Patra commented on a post 3mo",
+        "link": "https://www.linkedin.com/posts/barah-fazili-7b7135110_yesterday-marked-the-end-of-a-chapter-ive-activity-7455606172822245376-3rsp",
+        "title": "Congratulations Barah Fazili \u2665\ufe0f",
+        "img": null,
+        "id": "7455606172822245376"
+      },
+      {
+        "interaction": "Adyasha Patra liked this",
+        "link": "https://www.linkedin.com/posts/sidhantkabra_at-16-i-chose-science-over-commerce-because-activity-7490096813857755136-RdBB",
+        "title": "At 16, I chose science over commerce because my handwriting was bad and IIT had objective exams. At 18, that logic somehow worked and I got into IIT. First engineer in a family of 16 people who have only ever run businesses. At 22, everyone around me was taking software roles. I did not take one. I had no plan, only a fairly strong feeling that I would end up building something of my own. At 24, I did. A legal SaaS company for US law firms. Part of it was a small voice agent that called hospitals to collect medical records, and it broke on us for months. At 25, I asked a few other founders how they tested their voice agents and found out none of them had a real answer either. So we shut down the legal company, started building the testing part properly, and got into Y Combinator with it. At 27, I moved to the US to scale Cekura . Today we test voice agents for teams running them at scale. We run them through thousands of calls before they go live, and once they are live we tell you which calls went badly so nobody has to sit and listen to all of them. Here is what I have learnt from all of it: If you had asked me at 22 what I would be doing at 27, I would not have said any of this. I would have described something much more sensible, and I would have been wrong about all of it. And if I sat down today and wrote out where I want to be at 32, I would probably be wrong about that too. I have stopped worrying about that. Most of what has worked out for me came from things I was not planning for, so I would rather keep building and find out.",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQHdueGPiVeI9Q/feedshare-shrink_1280/B56Z_ImFO8HIAM-/0/1785776854285?e=2147483647&v=beta&t=PaPSJCC9Er5sKNIhCfXUwj3TGFFCYqlolDhLctEd11I",
+        "id": "16"
+      },
+      {
+        "interaction": "Adyasha Patra liked this",
+        "link": "https://www.linkedin.com/posts/liza-dahiya_yc-startupschool-activity-7487970437339955200-KgO6",
+        "title": "Had an amazing time this weekend attending Y Combinator Startup School 2026 - incredible speakers, research discussions, 1-1 sessions. Reassuring to hear almost everyone from Jensen Huang to Sam Altman say that \"this is the best time to do a startup\". few (recurring) ideas that stayed with me: - have an internal compass of where the world is heading - how hard can it be? (and then realize it would be much harder than you imagine but do it anyway) - defining what is \"good enough\" before building your models - scaling laws / bitter lesson will win - think from first principles - multi-agent coordination is the future + letting the model cook and not over-engineer Also loved Diana Hu \u2019s Future Female Founders session. PS: listening to Sam's talk made me realize how valuable mentors like Paul Graham can be in a founders journey -- trusting in their potential and being more delulued before the rest of the world catches! (and everyone should apply to yc :p) #yc #startupschool",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQH2YVnIZ0mAGA/feedshare-image-high-res/B56Z.qdaKaHUAY-/0/1785271267789?e=2147483647&v=beta&t=vmLYzXoSaLKya30kWbAfMoWKD8dfeFJmpbw6SheIqMg",
+        "id": "7487970437339955200"
+      },
+      {
+        "interaction": "Adyasha Patra liked this",
+        "link": "https://www.linkedin.com/posts/ucsandiego_ucsd-ucsandiego-film-activity-7486492942451515392-s34y",
+        "title": "Just some film photos of your favorite campus. \ud83d\udcf8\ud83c\udf9e\ufe0f #UCSD #UCSanDiego #Film",
+        "img": "https://media.licdn.com/dms/image/v2/D4E10AQHyirczluPTPg/image-shrink_1280/B4EZ.VdoyGKoAc-/0/1784919002563?e=2147483647&v=beta&t=uvDRi9NJ4SO_qw0z2Gsr1GTr2KEkHzg1h_bV0yRIIAs",
+        "id": "7486492942451515392"
+      },
+      {
+        "interaction": "Adyasha Patra liked this",
+        "link": "https://www.linkedin.com/posts/owenzhang1_im-excited-to-share-that-ill-be-starting-activity-7485139606703898624-m-NJ",
+        "title": "I'm excited to share that I'll be starting a new position as Member of Technical Staff on the Applied AI team at Anthropic . Incredible mission, incredible team \u2014 can't wait to get started in the upcoming weeks.",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQGAPRgUehJQTQ/feedshare-shrink_800/B56Z.COz82HUAc-/0/1784596348963?e=2147483647&v=beta&t=pYnvANz4A2haPZGNMVcxCm46QGC7mDy5scw5Djjy9Q4",
+        "id": "7485139606703898624"
+      },
+      {
+        "interaction": "Adyasha Patra liked this",
+        "link": "https://www.linkedin.com/posts/prodigaltech_if-youre-attending-aca-make-booth-512-activity-7484956594833743872-DHWt",
+        "title": "If you\u2019re attending ACA, make Booth #512 one of your first stops. Prodigal and Solutions by Text are partnering to combine world-class, compliant messaging infrastructure with AI-powered optimization of message, timing, sequencing, and treatment - helping collection agencies and lenders turn more texts into payments. Join us July 22\u201324 at booth #512, or book time in advance to discuss how you can generate more payments from texting. Reach out to James Vitale , Vaibhav Gupta , and Raag Khandelwal at Prodigal to learn more about what this partnership brings. A big thank you to the Solutions by Text team - Nick Babinsky , Alex Chertihin, Todd Jenkins , Matt Shafer , Ryan Wallace , and Hana Elliott for bringing this partnership to life.",
+        "img": "https://media.licdn.com/dms/image/v2/D4D22AQFlApUQ3aFeug/feedshare-shrink_800/B4DZ9_oXMfGkAk-/0/1784552715301?e=2147483647&v=beta&t=FnA5TuYxYh7YmjSEVQCt5gs-1BU2FZYzhkJ9-hyeuN0",
+        "id": "512"
+      },
+      {
+        "interaction": "Adyasha Patra liked this",
+        "link": "https://www.linkedin.com/posts/parthsatishlaturia_quant-mathematics-activity-7484580133706653697-2_5x",
+        "title": "I am happy to share that I have joined Graviton Research Capital as a Quantitative Researcher. Looking forward to the new learnings and experiences that lie ahead! #quant #mathematics",
+        "img": null,
+        "id": "7484580133706653697"
+      },
+      {
+        "interaction": "Adyasha Patra liked this",
+        "link": "https://www.linkedin.com/posts/ducanhdt_acl2026-acl2026-ddsa-activity-7480678181675569152--r_N",
+        "title": "\ud83c\uddfa\ud83c\uddf8 What a week. My first ACL, and I'm still buzzing from it. I presented our paper, \"Cultural Value Alignment Via Latent Activation Steering in Large Language Models,\" at #ACL2026 in San Diego. The work is a core part of my master's thesis, developed with the CopeNLU group at the University of Copenhagen (K\u00f8benhavns Universitet). I came in not sure what to expect, and I left won over by how open and generous the NLP community is. My poster session turned into a long run of sharp feedback and real conversations with people who care about steering and alignment as much as I do. The talks were just as good. Barbara Plank's keynote stole the show for me: her playful readings of the ACL logo and her case for keeping language at the heart of the field gave me a lot to sit with, especially with language tech moving as fast as it is right now. That session, plus sessions on cultural value alignment, low-resource NLP, and NLP for education, had me scribbling ideas nonstop. And the part that made the whole trip: finding the Vietnamese researchers at the conference. Swapping stories about our academic paths and wandering San Diego together made me feel at home, thousands of miles from Copenhagen. Seeing our community show up and lift each other on a stage like this made me really proud. None of it happens without the Danish Data Science Academy (DDSA), who funded my travel. Thank you to DDSA, to everyone who stopped by my poster, and to everyone who made my first ACL one I won't forget. Next stop: taking this research into production. \ud83d\ude80 #ACL2026 #DDSA #CopeNLU #UCPH",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQGCCQBzWlDzyA/feedshare-image-high-res/B4EZ9C1KP5HoAU-/0/1783532660032?e=2147483647&v=beta&t=hPitbDWgt5Zj2K7awMz1BmDELC0Qfz5JJyCfrJFy5q4",
+        "id": "7480678181675569152"
+      },
+      {
+        "interaction": "Adyasha Patra liked this",
+        "link": "https://www.linkedin.com/posts/yuxiong-he-75432112_github-snowflake-ai-researcharctic-platform-activity-7479346743600631808-doXQ",
+        "title": "Excited to see ArcticRL at ACL 2026 \u2014 and we are hiring across Snowflake AI Research! We are looking for researchers and engineers across AI training and inference systems, AI agents / LLMs, and emerging AI directions. If you are attending ACL in San Diego, stop by the Snowflake booth to meet the team and chat about LLM systems and model development. Open roles: * Staff Research Scientist, AI Agents / LLMs: https://lnkd.in/gb-DgntG * AI System Research and Development Engineer: https://lnkd.in/gf8pmkjs * Staff Research Scientist, Emerging AI: https://lnkd.in/gNNrURzp * Postdoctoral Researcher in Applied AI: https://lnkd.in/gRd6HxwZ #ACL2026 #LLM #AIInfrastructure #ReinforcementLearning #Hiring",
+        "img": "https://media.licdn.com/dms/image/sync/v2/D4E27AQGpIYwocxIkrw/articleshare-shrink_800/B4EZ8uDgW.IsAc-/0/1783184099268?e=2147483647&v=beta&t=G1gwXIj-BdIbZUrMf5XrLhPRVBkd6SF3WkNjV_XR7JE",
+        "id": "7479346743600631808"
+      },
+      {
+        "interaction": "Adyasha Patra liked this",
+        "link": "https://www.linkedin.com/posts/vineethrakesh_acl2026-nlp-computationallinguistics-activity-7479226471270592512-2j85",
+        "title": "Heading to ACL 2026 in San Diego! Excited to catch up with familiar faces and meet new folks in the community. I'll be at the Adobe booth. Swing by if you'd like to chat about some of the interesting projects we're working on. Would love to share what we've been building and hear about your work too! See you there! #ACL2026 #NLP #ComputationalLinguistics #MachineLearning #AI #NLPCommunity #ACL2026SanDiego #LLM #Adobe",
+        "img": null,
+        "id": "7479226471270592512"
+      }
+    ],
+    "linkedin_num_id": "953571070",
+    "banner_image": "https://media.licdn.com/dms/image/v2/C4E16AQEhL66YT44ERw/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1638815143732?e=2147483647&v=beta&t=JyyaNAAtDoNcDj5fmCVbuSa3mI1o5UwDodusKI_w84M",
+    "honors_and_awards": [
+      {
+        "title": "Desai Sethi Scholarship",
+        "publication": "-",
+        "date": "2023-05-01T00:00:00.000Z",
+        "description": null
+      },
+      {
+        "title": "JEE Advanced",
+        "publication": "Indian Institute of Technology, Kharagpur",
+        "date": "2021-10-01T00:00:00.000Z",
+        "description": "Secured All India Rank 284"
+      },
+      {
+        "title": "JEE Main",
+        "publication": "National Testing Agency(NTA)",
+        "date": "2021-07-01T00:00:00.000Z",
+        "description": "Secured All India Rank 68"
+      },
+      {
+        "title": "KVPY fellowship",
+        "publication": "Department of Science and Technology, Government of India",
+        "date": "2020-04-01T00:00:00.000Z",
+        "description": "Recipient of the prestigious Kishore Vaigyanik Protsahan Yojna (KVPY) fellowship (SA stream) with All India Rank 67."
+      },
+      {
+        "title": "NTSE Fellowship",
+        "publication": "National Council of Educational Research and Training",
+        "date": "2019-04-01T00:00:00.000Z",
+        "description": null
+      }
+    ],
+    "similar_profiles": [],
+    "default_avatar": false,
+    "memorialized_account": false,
+    "bio_links": [],
+    "first_name": "Adyasha",
+    "last_name": "Patra",
+    "influencer": false,
+    "timestamp": "2026-08-12T18:54:42.079Z",
+    "input": {
+      "url": "https://www.linkedin.com/in/adyasha-patra"
+    }
+  },
+  "local_photo": "data\\linkedin_photos\\adyasha-patra__usr-OBk1vDbUnlqEFy0.jpg"
+}

@@ -1,0 +1,323 @@
+{
+  "luma_user_id": "usr-pMcbAREsnSgGwgf",
+  "csv_name": "Artemii Remizov",
+  "csv_linkedin": "https://www.linkedin.com/in/artemii-remizov-62783631b",
+  "enriched_at": "2026-08-12T18:58:28.958763+00:00",
+  "batch_id": "sd_msqgad6c2eeefcaqas",
+  "profile": {
+    "id": "artemii-remizov-62783631b",
+    "name": "Artemii Remizov",
+    "city": "Redmond, Washington, United States",
+    "country_code": "US",
+    "position": null,
+    "about": "Stanford University freshman ('30) pursuing a dual major in Mathematics and Data\u2026",
+    "current_company": {
+      "link": "https://www.linkedin.com/company/uw-math-ai-lab?trk=public_profile_topcard-current-company",
+      "name": "UW Math AI lab",
+      "company_id": "uw-math-ai-lab",
+      "location": null
+    },
+    "experience": null,
+    "url": "https://ru.linkedin.com/in/artemii-remizov-62783631b",
+    "educations_details": "Stanford University",
+    "education": [
+      {
+        "title": "Stanford University",
+        "url": "https://www.linkedin.com/school/stanford-university/",
+        "start_year": "2026",
+        "end_year": "2030",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      },
+      {
+        "start_year": "2026-05",
+        "end_year": "2026-07",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      },
+      {
+        "start_year": "2022",
+        "end_year": "2026",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      }
+    ],
+    "avatar": "https://media.licdn.com/dms/image/v2/D5603AQG_asaVBDVjiA/profile-displayphoto-shrink_200_200/B56ZXArVSsHoAY-/0/1742694340112?e=2147483647&v=beta&t=6CPCUCsOvOGObfK9SNkZFuByNuscfbLxI-VVKbuaPys",
+    "courses": [
+      {
+        "subtitle": "-",
+        "title": "AP Biology"
+      },
+      {
+        "subtitle": "-",
+        "title": "AP Calculus AB"
+      },
+      {
+        "subtitle": "-",
+        "title": "AP Calculus BC"
+      },
+      {
+        "subtitle": "-",
+        "title": "AP Computer Science A"
+      },
+      {
+        "subtitle": "-",
+        "title": "AP Macroeconomics"
+      },
+      {
+        "subtitle": "-",
+        "title": "AP Microeconomics"
+      },
+      {
+        "subtitle": "-",
+        "title": "AP Physics 1"
+      },
+      {
+        "subtitle": "-",
+        "title": "AP Physics 2"
+      },
+      {
+        "subtitle": "-",
+        "title": "AP Physics C: Electricity and Magnetism"
+      },
+      {
+        "subtitle": "-",
+        "title": "AP Physics C: Mechanics"
+      },
+      {
+        "subtitle": "-",
+        "title": "AP Statistics"
+      },
+      {
+        "subtitle": "-",
+        "title": "AP US Government and Politics"
+      },
+      {
+        "subtitle": "-",
+        "title": "AP US History"
+      },
+      {
+        "subtitle": "-",
+        "title": "AP World History"
+      },
+      {
+        "subtitle": "-",
+        "title": "Chemistry - Honors"
+      },
+      {
+        "subtitle": "-",
+        "title": "Differential Equations"
+      },
+      {
+        "subtitle": "-",
+        "title": "Linear Algebra"
+      },
+      {
+        "subtitle": "-",
+        "title": "Multivariable Calculus"
+      }
+    ],
+    "certifications": [
+      {
+        "meta": "Issued Jul 2024 Credential ID 66a428b76b229772e29c8f5b See credential",
+        "subtitle": "UW Continuum College",
+        "title": "Youth & Teen - Sharpen Your Writing Skills",
+        "credential_url": "https://api.badgr.io/public/assertions/WZ88KvcMRXCVF4v1nOx38g?trk=public_profile_see-credential",
+        "credential_id": "66a428b76b229772e29c8f5b"
+      }
+    ],
+    "volunteer_experience": [
+      {
+        "cause": "Economic Empowerment",
+        "duration": "Aug 2024 \u00b7 - \nAug 2026 \u00b7 \n2 years 1 month",
+        "duration_short": "- \nAug 2026",
+        "info": "Part of Junior Advisory Board of the First Tee of Greater Seattle (Former Deputy Treasurer)",
+        "start_date": "Aug 2024",
+        "subtitle": "First Tee - Greater Seattle",
+        "title": "Deputy Director of Sales"
+      },
+      {
+        "cause": "Education",
+        "duration": "Aug 2021 \u00b7 - Present \u00b7 \n\n5 years 1 month",
+        "duration_short": "- Present",
+        "start_date": "Aug 2021",
+        "subtitle": "First Tee - Greater Seattle",
+        "title": "Volunteer Golf Coach"
+      },
+      {
+        "cause": "Education",
+        "duration": "Jan 2025 \u00b7 - Present \u00b7 \n\n1 year 8 months",
+        "duration_short": "- Present",
+        "start_date": "Jan 2025",
+        "subtitle": "Washington Student Math Association",
+        "title": "Member"
+      },
+      {
+        "cause": "Education",
+        "duration": "Jun 2024 \u00b7 - Present \u00b7 \n\n2 years 3 months",
+        "duration_short": "- Present",
+        "start_date": "Jun 2024",
+        "subtitle": "National Honor Society",
+        "title": "Member"
+      },
+      {
+        "cause": "Education",
+        "duration": "Sep 2023 \u00b7 - \nJun 2024 \u00b7 \n10 months",
+        "duration_short": "- \nJun 2024",
+        "info": "Lake Washington Highschool Club",
+        "start_date": "Sep 2023",
+        "subtitle": "Symphony Club",
+        "title": "Treasurer"
+      }
+    ],
+    "followers": 358,
+    "connections": 346,
+    "current_company_company_id": "uw-math-ai-lab",
+    "current_company_name": "UW Math AI lab",
+    "projects": [
+      {
+        "title": "TiE Youth Business Competition",
+        "start_date": "Oct 2024",
+        "description": "Built an automatic pain suppressant system utilizing pain detection based on brain waves, to help fight the opioid addiction throughout the United States and worldwide. Ended as a finalist at the TiE Seattle competition. Called Neurodose."
+      },
+      {
+        "title": "TiE Youth Business Competition",
+        "start_date": "Dec 2023",
+        "description": "Built a college admission/counseling service using and AI system that revolutionizing the way college counseling and admissions work. Called MyPath. Placed 3rd in the final competition"
+      }
+    ],
+    "location": "Redmond",
+    "input_url": "https://www.linkedin.com/in/artemii-remizov-62783631b",
+    "linkedin_id": "artemii-remizov-62783631b",
+    "activity": [
+      {
+        "interaction": "Liked by Artemii Remizov",
+        "link": "https://www.linkedin.com/posts/anduril_new-test-footage-first-missile-shot-from-activity-7483191051986305024-0qzF",
+        "title": "New test footage: first missile shot from YFQ-44A. YFQ-44A executed an end-to-end, beyond-line-of-sight strike against a simulated target. The\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5605AQEphPQwuSX5_A/videocover-high/B56Z9mik3LKgBM-/0/1784131769668?e=2147483647&v=beta&t=9C7NZo_8nmkmZctiqI9Bd_VV921QzCB3jQ4ANNVJznM",
+        "id": "7483191051986305024"
+      },
+      {
+        "interaction": "Liked by Artemii Remizov",
+        "link": "https://www.linkedin.com/posts/william-salcedo_today-were-excited-to-announce-the-winners-activity-7482932128389750784-i_SH",
+        "title": "Today, we're excited to announce the winners of the inaugural Partcl \u00d7 Hudson River Trading Macro Placement Challenge! Macro placement remains one\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQGCis0bWyjeXg/feedshare-shrink_800/B56Z9i3GWKIgAg-/0/1784070044253?e=2147483647&v=beta&t=wTtJg1qb2WesfX9UrxpgTIdDAFwiptbDoXtuUnojd5k",
+        "id": "7482932128389750784"
+      },
+      {
+        "interaction": "Liked by Artemii Remizov",
+        "link": "https://www.linkedin.com/posts/axiommath_github-axiommathimo2026-activity-7483941948169404416-DpBY",
+        "title": "https://lnkd.in/gKmeZ7Rz",
+        "img": "https://media.licdn.com/dms/image/sync/v2/D4E27AQG8HhO3r-nu_w/articleshare-shrink_800/B4EZ9viIFXIsAY-/0/1784282645075?e=2147483647&v=beta&t=fSyOn_IzSKKSmu9lSMpA8ZiNt2_JJ0ZtuQSo3pjgn08",
+        "id": "7483941948169404416"
+      },
+      {
+        "interaction": "Liked by Artemii Remizov",
+        "link": "https://www.linkedin.com/posts/tie-seattle_tie-young-entrepreneur-tye-seattle-application-activity-7485062889360228352-yzk6",
+        "title": "Applications are now OPEN for TiE Young Entrepreneurs (TYE) Seattle 2026\u20132027! Are you a high school student with big ideas? Turn them into a real\u2026",
+        "img": "https://media.licdn.com/dms/image/sync/v2/D5627AQEySqPNhjKewA/articleshare-shrink_800/B56Z4tXgQiHsAI-/0/1778877597415?e=2147483647&v=beta&t=3XOTlo0IEpVKS4siEcAregwEZoycuJObzL_drKnReRs",
+        "id": "7485062889360228352"
+      },
+      {
+        "interaction": "Liked by Artemii Remizov",
+        "link": "https://www.linkedin.com/posts/vasilyilin_sorries-are-not-the-hard-part-an-expert-review-activity-7480078815965126656-p8c4",
+        "title": "A belated announcement of a paper with Brian Nugent (Mathlib Initiative): Sorries Are Not the Hard Part. Long story short, agents are very good at\u2026",
+        "img": "https://media.licdn.com/dms/image/sync/v2/D5627AQGfLAgWUGb8rA/articleshare-shrink_800/B56Z86T9ITKEAY-/0/1783389737814?e=2147483647&v=beta&t=jmw_6_csjl8pT8PK_ooDEuIT2mfITGuAZq6lDTiy-OM",
+        "id": "7480078815965126656"
+      },
+      {
+        "interaction": "Liked by Artemii Remizov",
+        "link": "https://www.linkedin.com/posts/carina-hong_thanks-so-much-for-the-shoutout-to-econlib-activity-7468929481454387200-I_TE",
+        "title": "Thanks so much for the shoutout to EconLib @ Lean FRO",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQEj9sESpU8GqQ/feedshare-shrink_1280/B56Z6O3ts.JwAM-/0/1780513431273?e=2147483647&v=beta&t=Ha-fwRnT6FBQA7dBbG3Jj7lcOcpTlE8YAD-gNjEBpkw",
+        "id": "7468929481454387200"
+      },
+      {
+        "interaction": "Liked by Artemii Remizov",
+        "link": "https://www.linkedin.com/posts/y-combinator_copperlane-yc-w26-has-raised-41-million-activity-7473444390498353153-3x80",
+        "title": "Copperlane (YC W26) has raised $4.1 million in seed funding to help mortgage lenders automate loan origination. Mortgage is a $2.4 trillion\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQGL6oso31Yj_A/feedshare-shrink_800/B56Z7cCEiNHIAc-/0/1781807991459?e=2147483647&v=beta&t=bgEOU-vzNG3gb9sQURiPplMr7-4TCRZYlxouLVRqhf4",
+        "id": "41"
+      },
+      {
+        "interaction": "Liked by Artemii Remizov",
+        "link": "https://www.linkedin.com/posts/maximus-elmorry_linkedin-possibilitiesintech-computerscience-activity-7477360342746939392-eyWT",
+        "title": "Some opportunities change your future before you fully realize it. A few months ago, I got a call from a number I almost ignored. Thankfully, I\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQGoS713r9jQvA/feedshare-shrink_800/B56Z8ROSUQGsAk-/0/1782700385940?e=2147483647&v=beta&t=9-XtUuJe34Sdn-OvlUmWKIxr8gbPO2Af3jSj2tjcSb8",
+        "id": "7477360342746939392"
+      },
+      {
+        "interaction": "Liked by Artemii Remizov",
+        "link": "https://www.linkedin.com/posts/krithik-alluri_atlanta-houston-orlando-and-more-the-activity-7474844912522346496-sVaL",
+        "title": "Atlanta, Houston, Orlando, and more. The places Lenape\u2019s taken me are all over the country. The opportunities it\u2019s provided me extend even further.\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQGNPPzJsCzwnA/feedshare-shrink_800/B4EZ7v71tLKIAc-/0/1782141902002?e=2147483647&v=beta&t=dWzIA-7JYEDqwmML6WdM5ZuVbX7tpneXw_p_CY581AE",
+        "id": "7474844912522346496"
+      },
+      {
+        "interaction": "Liked by Artemii Remizov",
+        "link": "https://www.linkedin.com/posts/vasilyilin_how-do-we-bridge-two-worlds-of-math-activity-7477621187037216768-ZTu2",
+        "title": "I am proud to announce TheoremGraph. I have always had a broad view of mathematics, refusing the artificial separation between algebra and analysis,\u2026",
+        "img": "https://media.licdn.com/dms/image/sync/v2/D5627AQFavnihvbbthw/articleshare-shrink_800/B56Z8U28NlGsAY-/0/1782761375546?e=2147483647&v=beta&t=krsNuKPj6W-Jp_IvkSHxUTHbGUlTHVhH_7BPd_OBip0",
+        "id": "7477621187037216768"
+      },
+      {
+        "interaction": "Liked by Artemii Remizov",
+        "link": "https://www.linkedin.com/posts/sergey-lapin-41196716_my-recent-erasmus-visit-to-agh-university-activity-7477120900895514624-kzKT",
+        "title": "My recent Erasmus+ visit to AGH University of Krakow was a wonderful opportunity to meet colleagues, learn more about their work, and discuss\u2026",
+        "img": "https://static.licdn.com/aero-v1/sc/h/53n89ecoxpr1qrki1do3alazb",
+        "id": "7477120900895514624"
+      },
+      {
+        "interaction": "Liked by Artemii Remizov",
+        "link": "https://www.linkedin.com/posts/simon-kurgan_people-often-associate-ending-a-project-or-activity-7477433883031138304-wDCq",
+        "title": "People often associate ending a project or graduating with elation or relaxation, but strangely one of the saddest moments I\u2019ve felt over the past\u2026",
+        "img": "https://dms.licdn.com/playlist/vid/v2/D5605AQFraUX9BgNpLw/thumbnail-shrink_720_1280/B56Z8UuS.CGcAg-/0/1782759111146?e=2147483647&v=beta&t=RNzOLVo-fdVgzNkADnJFribUqXyeqtOJbwEUQAvNWSs",
+        "id": "7477433883031138304"
+      },
+      {
+        "interaction": "Liked by Artemii Remizov",
+        "link": "https://www.linkedin.com/posts/john-saleeby-54253527a_excited-to-announce-that-ill-be-joining-activity-7472743560132374528-6hLN",
+        "title": "Excited to announce that I\u2019ll be joining Palantir Technologies in New York City as a Meritocracy Fellow! I\u2019m grateful for the opportunity to work\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQHzv3Cl-Pw4uw/feedshare-shrink_800/B4EZ7R5iGdJYAc-/0/1781637981231?e=2147483647&v=beta&t=K_m8eTcUo7ChUbJ0wU2HG6IbAc-5ZQQ8Ipep-DHBuXQ",
+        "id": "7472743560132374528"
+      }
+    ],
+    "linkedin_num_id": "1360686847",
+    "banner_image": "https://media.licdn.com/dms/image/v2/D5616AQE_wHFpGucZMw/profile-displaybackgroundimage-shrink_200_800/B56Z3cNeH5KYAU-/0/1777516016159?e=2147483647&v=beta&t=LggfCZ0NJnrY-BTvj6_wZQi7VBr2oLuVQWIkBvm8kdM",
+    "honors_and_awards": [
+      {
+        "title": "Emerson Prize",
+        "publication": "The Concord Review",
+        "date": "2026-06-01T00:00:00.000Z",
+        "description": "Awarded annually to Concord Review authors showing outstanding promise in history at the high school level. One of eleven recipients from Volume 36, for \"A Republic for a Day: National Identity, Geopolitics, and the Tragic Birth of Carpathian Ukraine\" (Winter 2025)."
+      },
+      {
+        "title": "AP Scholar with Distinction",
+        "publication": "CollegeBoard",
+        "date": "2025-07-01T00:00:00.000Z",
+        "description": null
+      },
+      {
+        "title": "MAO State 2025 Mystery Test 1st Place",
+        "publication": "Mu Alpha Theta",
+        "date": "2025-03-01T00:00:00.000Z",
+        "description": "Mystery Test on Codes and Ciphers"
+      }
+    ],
+    "similar_profiles": [],
+    "default_avatar": false,
+    "memorialized_account": false,
+    "bio_links": [],
+    "first_name": "Artemii",
+    "last_name": "Remizov",
+    "influencer": false,
+    "timestamp": "2026-08-12T18:56:58.140Z",
+    "input": {
+      "url": "https://www.linkedin.com/in/artemii-remizov-62783631b"
+    }
+  },
+  "local_photo": "data\\linkedin_photos\\artemii-remizov-62783631b__usr-pMcbAREsnSgGwgf.jpg"
+}

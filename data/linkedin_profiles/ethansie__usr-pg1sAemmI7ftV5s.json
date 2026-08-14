@@ -1,0 +1,159 @@
+{
+  "luma_user_id": "usr-pg1sAemmI7ftV5s",
+  "csv_name": "Ethan Sie",
+  "csv_linkedin": "https://www.linkedin.com/in/ethansie",
+  "enriched_at": "2026-08-12T19:06:01.809745+00:00",
+  "batch_id": "sd_msqgh02428smzgu5m",
+  "profile": {
+    "id": "ethansie",
+    "name": "Ethan S.",
+    "city": "United States",
+    "country_code": "US",
+    "position": null,
+    "about": "Engineering student and builder focused on human-centered technology, embedded systems\u2026",
+    "current_company": {
+      "link": "https://www.linkedin.com/school/berkeleyengineering/?trk=public_profile_topcard-current-company",
+      "name": "UC Berkeley College of Engineering",
+      "location": null
+    },
+    "experience": null,
+    "url": "https://ru.linkedin.com/in/Ethansie",
+    "educations_details": "University of California, Berkeley",
+    "education": [
+      {
+        "title": "University of California, Berkeley",
+        "url": "https://www.linkedin.com/school/uc-berkeley/",
+        "start_year": "2025-08",
+        "end_year": "2029-05",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      },
+      {
+        "start_year": "2025-08",
+        "end_year": "2029-05",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      },
+      {
+        "start_year": "2021-09",
+        "end_year": "2025-06",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      },
+      {
+        "start_year": "2023-02",
+        "end_year": "2023-08",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      },
+      {
+        "start_year": "2019",
+        "end_year": "2022",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      },
+      {
+        "start_year": "2022-06",
+        "end_year": "2023-09",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      }
+    ],
+    "avatar": "https://static.licdn.com/aero-v1/sc/h/9c8pery4andzj6ohjkjp54ma2",
+    "followers": 1311,
+    "connections": 500,
+    "current_company_name": "UC Berkeley College of Engineering",
+    "projects": [
+      {
+        "title": "Embedded Posture Training System",
+        "start_date": "Apr 2026",
+        "description": "Designed and developed a real-time wearable posture training system using dual ESP32-S3 microcontrollers and IMU sensors to detect upper-body posture deviations and provide immediate corrective feedback through non-blocking actuator patterns.Built a distributed architecture where sensing nodes process orientation data and publish posture states over MQTT, while a separate actuator node handles graduated feedback responses with optimized timing and responsiveness. Integrated Wi-Fi communication, JSON serialization, and state-based logic to create a low-latency embedded feedback loop.Focused on embedded systems engineering, sensor fusion concepts, real-time device communication, and human-centered wearable interaction design. The project explored how subtle feedback mechanisms can encourage long-term posture awareness without disrupting user activity."
+      },
+      {
+        "title": "IMU-Based Driver Monitoring System",
+        "start_date": "Apr 2026",
+        "description": "Built a real-time embedded driving co-pilot at Purdue University\u2019s StarkHacks \u2014 one of the world\u2019s largest hardware hackathons \u2014 using dual ESP32-S3 microcontrollers and MPU6050 IMU sensors.Our project is a non-invasive driver monitoring system designed to support newer or less experienced drivers without relying on cameras or computer vision. Instead, we used accelerometer and gyroscope data to detect driving behaviors such as hard braking, sudden acceleration, and lane changes through a wearable earpiece and dashboard module.I primarily worked on the embedded systems side of the project: configuring the ESP32-S3s and IMUs in Arduino/C++, handling real-time sensor communication, implementing websocket-based networking, and building the audio delivery pipeline. To rapidly prototype user feedback, we hosted audio locally over the ESP32\u2019s Wi-Fi server and interfaced with connected devices using WebSockets, LittleFS, ElevenLabs-generated voice lines, and the Web Audio API. We also integrated OLED display animations to create a more intuitive and accessible user experience.Over 36 hours, we iterated through hardware failures, re-soldered boards multiple times, and continuously refined both our firmware and system architecture under pressure. The experience gave me hands-on exposure to embedded systems engineering, real-time communication protocols, distributed device interaction, and rapid hardware/software prototyping."
+      },
+      null,
+      null,
+      null,
+      {
+        "title": "Physics Circuit Builder Simulation",
+        "start_date": "May 2025",
+        "description": "Developed an interactive circuit modeling platform capable of real-time current and voltage simulation using Kirchhoff\u2019s Current and Voltage Laws (KCL/KVL)Engineered a dynamic solver engine for rapid validation and analysis of complex electrical networks, supporting iterative recomputation as circuit parameters changeDesigned and built a responsive visualization interface for intuitive circuit construction, component interaction, and live signal feedbackOptimized simulation performance to enable near real-time updates during topology edits and parameter adjustmentsIntegrated mathematical solving workflows with visual rendering to create an educational and debugging-focused engineering tool"
+      }
+    ],
+    "location": null,
+    "input_url": "https://www.linkedin.com/in/ethansie",
+    "linkedin_id": "ethansie",
+    "activity": [
+      {
+        "interaction": "Ethan S. shared this",
+        "link": "https://www.linkedin.com/posts/ethansie_hackathon-esp32-engineering-activity-7452227726175866880-TMJe",
+        "title": "For the past two days, my team and I have been competing at Purdue University's StarkHacks ---the biggest hardware hackathon in the world. Introducing... the Passenger Princess---a monitoring system for unexperienced, new drivers. Using ESP32-S3s from Espressif Systems along with MPU 6050s, we created a dual device driving co-pilot that monitors both car and user movement through a wearable earpiece and dashboard module. Designed to be non-invasive, our system doesn't utilize any camera but rather reads accelerometer and gyroscope data from our IMU to register specific sensor readings as certain motions including hard accelerations, hard breaks, and lane changes. Then, to make our system accessible to users, we encoded animations into our OLED Display Screen along with audio. Having to rapidly prototype, we turned to the ESP32's local wifi to host audio through a websocket that interfaces with any wifi-connected remote device. There, we utilized ElevenLabs and a Web Audio API to push LittleFS stored mp3 files on to the speakers of any connected device. Although we only had 36 hours and hit many road bumps along the way (having to solder the same board four times), I've gained invaluable experience with designing embedded systems. I worked on configuring all our sensors/microcontrollers with Arduino code, running websockets, figuring out how to play mp3 files on a remote server, and so much more than I planned. Seeing everything come together in a short time was amazing, and I couldn't have asked for a better place to spend my weekend. Huge shoutout to my team: Monish Ramesh Jayakumar , Avelyse Odle , and Ollie Liang for picking me up and pushing through all the way to the end. I'm glad we were able to see our project come full-circle from our early ideation and brainstorming. Thank you to the Humanoid Robot Club Purdue for hosting and Espressif Systems for supplying the ESP32s that we used! Check out our project here: https://lnkd.in/gN4ajcEZ #hackathon , #esp32 , #engineering , #robotics , #embeddedsystems ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQEiNJe9DLJYaA/feedshare-shrink_800/B56Z2uhnWrIYAc-/0/1776749541286?e=2147483647&v=beta&t=On_FNExhzFToJlyxchGML_LU0l87vxNdBRslfhDOiVQ",
+        "id": "7452227726175866880"
+      },
+      {
+        "interaction": "Ethan S. reacted on this",
+        "link": "https://www.linkedin.com/posts/patrickhonner_news-release-2026-12th-annual-international-activity-7469892922750943232-2OmK",
+        "title": "So proud of Stuyvesant High School 's mathematical modelers: For the second year in a row, we have a team that made the finals of the International Mathematical Modeling Challenge (IM\u00b2C)! This puts them in the top 11 worldwide in this international event and comes with an invite to the 2026 IM\u00b2C International Summit and Award Ceremony held at Harvard University. Congrats to Andrew, Daniel, and Ethan, and thanks to COMAP, Inc. for all the mathematical modeling opportunities! https://lnkd.in/eaXf4i6h",
+        "img": "https://media.licdn.com/dms/image/sync/v2/D4E27AQEy4aevkuvqtg/articleshare-shrink_800/B4EZ6pkA16HoAY-/0/1780961251219?e=2147483647&v=beta&t=8TJSGVKp7_oAWzu44z26-KboGDZaFDkVZSzEtmF2nJU",
+        "id": "2026"
+      },
+      {
+        "interaction": "Ethan S. reacted on this",
+        "link": "https://www.linkedin.com/posts/madisonzhan_i-had-so-much-fun-as-a-guest-speaker-for-activity-7454243153903112193-MxnB",
+        "title": "I had so much fun as a guest speaker for UC Berkeley Business Academy for Youth. I joined the startup space in December, so everything has been so surreal haha. Thank you Asra Khan for inviting me :)",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQGD48KtIeUrLA/feedshare-shrink_800/B56Z3IuDPoIUAc-/0/1777189008765?e=2147483647&v=beta&t=Ju2jMnuxt00OEr6ybU0zt60-SU5jqAGvrPjOMPJexao",
+        "id": "7454243153903112193"
+      },
+      {
+        "interaction": "Ethan S. reacted on this",
+        "link": "https://www.linkedin.com/posts/monish-rj_hackathon-embeddedsystems-esp32-activity-7452489054316781568-4m3t",
+        "title": "This weekend, my team and I created the \"Passenger Princess\" at StarkHacks, the world's largest hardware hackathon at Purdue University . It started as a simple question: what happens when an inexperienced driver loses focus with no one else in the car? Over 36 hours, we worked to create a dual-IMU system with ESP32-S3s to compute relative head and car movement. The system detects unsafe behaviors like hard brakes, sharp turns, distracted driving, triggering real-time ElevenLabs voice alerts from the driver's phone and visual feedback on a custom car-mount OLED. I focused on the movement logic and engineered an auto calibration system, allowing for usage in any car, in any setting. As a CS major, this was invaluable experience with hardware and systems engineering. Huge thanks to my wonderful team: Avelyse Odle , Ollie Liang , and Ethan S. for all their hard work. Thanks to Humanoid Robot Club Purdue for setting this up, and for Espressif Systems for helping us through the hacking process. Check out our work here! https://lnkd.in/eZWsjY4H #hackathon #embeddedsystems #ESP32 #starkhacks #purdue",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQHhFntlGuPYpQ/feedshare-shrink_800/B4EZ2yPTQ_J8Ac-/0/1776811849490?e=2147483647&v=beta&t=yTJpEbphE8caRamBVEbxICMJ53j8u31BqB6H9iVjzK4",
+        "id": "7452489054316781568"
+      }
+    ],
+    "linkedin_num_id": "1140625458",
+    "banner_image": "https://media.licdn.com/dms/image/v2/D4E16AQHQXIbS-c9gPw/profile-displaybackgroundimage-shrink_200_800/B4EZa7_8bqHYAU-/0/1746910839814?e=2147483647&v=beta&t=AC9_97PyfxQCBdUZPQj5B8VjJfrutFALvpxjnmVs4oQ",
+    "honors_and_awards": [
+      {
+        "title": "Outstanding Winner | MAA Award | Mathematical Contest in Modeling (MCM)",
+        "publication": "Consortium for Mathematics and its Applications (COMAP)",
+        "date": "2025-05-01T00:00:00.000Z",
+        "description": "- Top 30 of 21,092 undergraduate teams - 1 of 3 teams to receive MAA (Mathematical Association of America) Award - Completed 25 page paper that established models to analyze all medal data from the Olympics and predict future outcomes of the 2028 Los Angeles Olympics"
+      },
+      {
+        "title": "USA Finalist | International Mathematical Modeling Challenge (IMMC)",
+        "publication": "Consortium for Mathematics and its Applications (COMAP)",
+        "date": "2025-05-01T00:00:00.000Z",
+        "description": "- Ranked 3rd in the United States - Completed 61 page paper that established models to determine sport growth, create season match schedules, and consider equity in a new global sports league"
+      },
+      {
+        "title": "USA Regional Outstanding | International Honorable Mention | International Mathematical Modeling Challenge (IMMC)",
+        "publication": "Consortium for Mathematics and its Applications (COMAP)",
+        "date": "2024-04-01T00:00:00.000Z",
+        "description": "- Top 2 in the United States; represented the United States in the international round of the IMMC - Honorable Mention in the international judging stage - Completed 37 page paper that established models to quantify pet ownership readiness, predict future pet populations, and measure retention of pets"
+      }
+    ],
+    "similar_profiles": [],
+    "default_avatar": true,
+    "memorialized_account": false,
+    "bio_links": [],
+    "first_name": "Ethan",
+    "last_name": "S.",
+    "influencer": false,
+    "timestamp": "2026-08-12T19:01:56.941Z",
+    "input": {
+      "url": "https://www.linkedin.com/in/ethansie"
+    }
+  }
+}

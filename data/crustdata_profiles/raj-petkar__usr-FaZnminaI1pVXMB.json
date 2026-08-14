@@ -1,0 +1,206 @@
+{
+  "source": "crustdata",
+  "recovered_from": "brightdata_failed_private",
+  "luma_user_id": "usr-FaZnminaI1pVXMB",
+  "csv_name": "Raj Petkar",
+  "csv_linkedin": "https://www.linkedin.com/in/raj-petkar",
+  "clean_linkedin": "https://www.linkedin.com/in/raj-petkar",
+  "enriched_at": "2026-08-14T18:07:59.937250+00:00",
+  "person_data": {
+    "basic_profile": {
+      "current_title": "Lead Organizer",
+      "first_name": null,
+      "headline": "Senior at Fremont High School",
+      "languages": [],
+      "last_name": null,
+      "location": {
+        "city": "Cupertino",
+        "continent": "North America",
+        "country": "United States",
+        "full_location": null,
+        "raw": "Cupertino, California, United States",
+        "state": "California"
+      },
+      "name": "Raj Petkar",
+      "normalized_title": {
+        "confident": true,
+        "department": "Operations & Logistics",
+        "matched_title": "Lead Organizer",
+        "similarity": 0.9998999834060669,
+        "sub_department": "Event & Program Coordination"
+      },
+      "professional_network_name": "Raj Petkar",
+      "profile_picture_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/person/00ef911b61e8a22f27626202b837ad997f15831d526066978b4fcb351c67e875.jpg",
+      "summary": "I am an AI & Robotics enthusiast.\n\nAwards and Recognitions:\n1. 1st Place, Teen Tech San Francisco (TTSF) Hackathon\n2. 1st Place, Unity Hacks Hackathon\n3. Regional Semi-Finalist, First Tech Challenge (FTC)\n4. Silver Level, USA Computing Olympiad (USACO)\n5. Two-Time Finalist, National Speech Competition\n6. Principal Honor Roll\n\nThese experiences underscore my commitment to leveraging technology to solve complex problems and my continued pursuit of excellence in the field of computational sciences."
+    },
+    "education": {
+      "schools": [
+        {
+          "activities_and_societies": "Founder - Economics Club\nTeam Lead - Robotics Varsity Team\nTeam member - Varsity Tennis Team\nTeam member - Speech & Debate Club",
+          "degree": "",
+          "description": "",
+          "end_year": 2026,
+          "field_of_study": "",
+          "institute_logo_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/company/326ed83db778c3d36dfb0dcd58aa0de9c1c1c4c8bc861993328cc4c6e5e39c29.jpg",
+          "institute_logo_url": "https://media.licdn.com/dms/image/v2/C4E0BAQGh7diQNZJskw/company-logo_400_400/company-logo_400_400/0/1630601374538?e=1782950400&v=beta&t=5rv-gkr8GJzNZKo5FdqMQ76TWXgrVecmQgNA-maXwm4",
+          "location": {
+            "city": "Sunnyvale",
+            "continent": "North America",
+            "country": "United States",
+            "raw": "Sunnyvale, Calif\u00f3rnia, Estados Unidos",
+            "state": "California"
+          },
+          "professional_network_id": "34216052",
+          "school": "Fremont High School",
+          "start_year": 2022
+        }
+      ]
+    },
+    "experience": {
+      "employment_details": {
+        "current": [
+          {
+            "company_description": "Through MakerHacks, our goal is to create a space that\u2019s both competitive and supportive\u2014a place where people can push their limits while being encouraged to build something meaningful. We hope to have a positive impact on the young STEM community.",
+            "company_professional_network_profile_url": "https://linkedin.com/company/105984136",
+            "company_profile_picture_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/company/a0a0670f220d20b7ce6fedc67961266f8e9575cd2e066f29a67bd26c6bcf1427.jpg",
+            "company_website_domain": "makerhacks.org",
+            "crustdata_company_id": 19894233,
+            "description": "",
+            "employment_type": "Self-employed",
+            "end_date": null,
+            "function_category": "",
+            "is_default": true,
+            "location": {
+              "raw": "Sunnyvale, California, United States"
+            },
+            "name": "MakerHacks",
+            "position_id": 2467405779,
+            "professional_network_id": "105984136",
+            "seniority_level": "Senior",
+            "start_date": "2024-08-01T00:00:00+00:00",
+            "title": "Lead Organizer",
+            "years_at_company": "3 to 5 years",
+            "years_at_company_raw": 2.0
+          }
+        ],
+        "past": [
+          {
+            "company_description": "Aspiring Scholars Directed Research Program (ASDRP) is a 501(c)(3) nonprofit summer program that provides opportunities for high school students throughout the Bay Area, especially those who are underrepresented in STEM or who are socioeconomically disadvantaged, to conduct high-level novel scientific research. Students participate in research projects across various subjects in STEM, including chemistry, biology, computational modeling, computer science, and much more.ASDRP provides students with research mentors and over $200,000 worth of research equipment in our research laboratory. Students are matched with research mentors who have experience in academia or industry in their particular field; together, they design a research project. These projects are not science experiments in which the results are known a priori, but rather are original research projects that expand current scientific knowledge. Students execute research projects, learn scientific reading and writing skills, write research papers on their results, undergo mock peer-review, publish their research papers in the ASDRP Communications online journal, and give poster presentations at the end-of-summer expo. We follow up with students from ASDRP to help place them into university research laboratories and industry internships in subsequent summers. The inaugural cohort of ASDRP started in summer 2018.Please see fremontstem.org/asdrp for details.",
+            "company_professional_network_profile_url": "https://linkedin.com/company/29019510",
+            "company_profile_picture_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/company/3ba46d7461b40d970a3bf70d7c3202b362dfe4176786345e6c4b4b11f9e0ea31.jpg",
+            "company_website_domain": "asdrp.org",
+            "crustdata_company_id": 1106642,
+            "description": "* Conducted research on machine learning based drug discovery\n* Wrote research paper on the topic and in the process of publishing it",
+            "employment_type": "Internship",
+            "end_date": "2024-12-01T00:00:00+00:00",
+            "function_category": "Research",
+            "is_default": false,
+            "location": {
+              "raw": "Fremont, California, United States"
+            },
+            "name": "Aspiring Scholars Directed Research Program (ASDRP)",
+            "position_id": 2444662932,
+            "professional_network_id": "29019510",
+            "seniority_level": "In Training",
+            "start_date": "2023-06-01T00:00:00+00:00",
+            "title": "Student Researcher",
+            "years_at_company": "1 to 2 years",
+            "years_at_company_raw": 1.0
+          },
+          {
+            "company_description": "Beaver Works Summer Institute is an educational outreach program of MIT and Lincoln Laboratory, bringing curriculum to students before its in a textbook with a hands-on approach to learning and providing opportunities for students.",
+            "company_professional_network_profile_url": "https://linkedin.com/company/90607945",
+            "company_profile_picture_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/company/edef6b9febaf91863bead7dc745a121fc144c22380be13fbe57a875d6d6d011b.jpg",
+            "company_website_domain": "mit.edu",
+            "crustdata_company_id": 1702521,
+            "description": "* Hands on experience in autonomous vehicle software development\n* Project in autonomous vehicle real word problem in the area of exception handling",
+            "employment_type": "",
+            "end_date": "2024-08-01T00:00:00+00:00",
+            "function_category": "",
+            "is_default": false,
+            "location": {
+              "raw": "Cambridge, Massachusetts, United States"
+            },
+            "name": "MIT Beaver Works Summer Institute",
+            "position_id": 2446304428,
+            "professional_network_id": "90607945",
+            "seniority_level": "In Training",
+            "start_date": "2024-07-01T00:00:00+00:00",
+            "title": "Student",
+            "years_at_company": "Less than 1 year",
+            "years_at_company_raw": 0.0
+          },
+          {
+            "company_description": "Extra Mile Pediatrics is a nonprofit organization that repeatedly provides healthcare to children in communities in Central America where families have difficulty accessing even the most basic care.  We believe that in order to truly lift a community, it's important to start at the base and build a healthier, more resilient community over time.  This requires that healthcare and resources are not just directed at those that are sick.  This requires seeing all children and addressing fundamental health issues such as growth, nutrition, development, education, preventive care, and chronic care management.  We also believe that addressing those issues requires a long-term relationship with patients, and a commitment and investment to each individual community.Our model is to send teams of both medical and non-medical volunteers to the same locations within communities at least once every six months so that we can see the same children and families, work with the same community leaders, and really get to know the specific health and health infrastructure challenges in each community.",
+            "company_professional_network_profile_url": "https://linkedin.com/company/71546388",
+            "company_profile_picture_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/company/243c2f1480ca3175289bfa9143950b6d6c5b3e69db9cd140f905c4f032adf8ba.jpg",
+            "company_website_domain": "extramilepediatrics.com",
+            "crustdata_company_id": 12411109,
+            "description": "* Designed and developed modules for electronic medical record (EMR) management system using PHP & MySQL for medical missions in South America",
+            "employment_type": "Internship",
+            "end_date": "2023-08-01T00:00:00+00:00",
+            "function_category": "Engineering",
+            "is_default": false,
+            "location": {
+              "raw": "San Francisco Bay Area"
+            },
+            "name": "Extra Mile Pediatrics",
+            "position_id": 2444830435,
+            "professional_network_id": "71546388",
+            "seniority_level": "Entry Level",
+            "start_date": "2023-06-01T00:00:00+00:00",
+            "title": "Volunteer Software Developer",
+            "years_at_company": "Less than 1 year",
+            "years_at_company_raw": 0.0
+          }
+        ]
+      }
+    },
+    "professional_network": {
+      "connections": 368,
+      "current_title": "Lead Organizer",
+      "followers": 369,
+      "headline": "Senior at Fremont High School",
+      "location": {
+        "city": "Cupertino",
+        "continent": "North America",
+        "country": "United States",
+        "raw": "Cupertino, California, United States",
+        "state": "California"
+      },
+      "metadata": {
+        "last_scraped_source": null
+      },
+      "name": "Raj Petkar",
+      "profile_picture_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/person/00ef911b61e8a22f27626202b837ad997f15831d526066978b4fcb351c67e875.jpg",
+      "pronoun": "He/Him",
+      "summary": "I am an AI & Robotics enthusiast.\n\nAwards and Recognitions:\n1. 1st Place, Teen Tech San Francisco (TTSF) Hackathon\n2. 1st Place, Unity Hacks Hackathon\n3. Regional Semi-Finalist, First Tech Challenge (FTC)\n4. Silver Level, USA Computing Olympiad (USACO)\n5. Two-Time Finalist, National Speech Competition\n6. Principal Honor Roll\n\nThese experiences underscore my commitment to leveraging technology to solve complex problems and my continued pursuit of excellence in the field of computational sciences."
+    },
+    "skills": {
+      "professional_network_skills": [
+        "Java",
+        "Software Development",
+        "Robotics",
+        "Programming",
+        "PHP",
+        "MySQL",
+        "Machine Learning",
+        "Statistical Data Analysis",
+        "Python (Programming Language)",
+        "Autonomous Vehicles"
+      ]
+    },
+    "social_handles": {
+      "dev_platform_identifier": {
+        "profile_url": null
+      },
+      "professional_network_identifier": {
+        "profile_url": "https://www.linkedin.com/in/raj-petkar"
+      },
+      "twitter_identifier": {
+        "slug": ""
+      }
+    },
+    "crustdata_person_id": 96658286
+  }
+}

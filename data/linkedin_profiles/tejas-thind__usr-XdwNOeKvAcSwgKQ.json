@@ -1,0 +1,162 @@
+{
+  "luma_user_id": "usr-XdwNOeKvAcSwgKQ",
+  "csv_name": "Tejas Thind",
+  "csv_linkedin": "https://www.linkedin.com/in/tejas-thind",
+  "enriched_at": "2026-08-12T19:22:34.860004+00:00",
+  "batch_id": "sd_msqh2468i57o0acas",
+  "profile": {
+    "id": "tejas-thind",
+    "name": "Tejas Thind",
+    "city": "Canada",
+    "country_code": "CA",
+    "position": null,
+    "about": "Exploring software & AI, loving the startup scene, and diving into VC this\u2026",
+    "current_company": {
+      "link": "https://www.linkedin.com/company/theory-ventures?trk=public_profile_topcard-current-company",
+      "name": "Theory Ventures",
+      "company_id": "theory-ventures",
+      "location": null
+    },
+    "experience": null,
+    "url": "https://id.linkedin.com/in/Tejas-thind",
+    "educations_details": "University of Waterloo",
+    "education": null,
+    "avatar": "https://media.licdn.com/dms/image/v2/D4E03AQFq211N4q_pIA/profile-displayphoto-scale_200_200/B4EZ4nibBqJwAc-/0/1778779796744?e=2147483647&v=beta&t=hjz6VdqWJYnanGB7JELFM8poUAv8OFTqAlSPX55ImDE",
+    "followers": 4231,
+    "connections": 500,
+    "current_company_company_id": "theory-ventures",
+    "current_company_name": "Theory Ventures",
+    "location": null,
+    "input_url": "https://www.linkedin.com/in/tejas-thind",
+    "linkedin_id": "tejas-thind",
+    "activity": [
+      {
+        "interaction": "Tejas Thind shared this",
+        "link": "https://www.linkedin.com/posts/tejas-thind_reducing-the-cost-of-curiosity-with-ethan-activity-7491185632950788096-VPfI",
+        "title": "Ferris wheel podcasts are the new wave \ud83d\udd25",
+        "img": "https://media.licdn.com/dms/image/sync/v2/D5627AQF203z7b5cy4g/articleshare-shrink_800/B56Z_X._kiKEAY-/0/1786035044272?e=2147483647&v=beta&t=rS_5co2jOVOp6esCZvg2g_ZGHPjL-KIPNv4iafYy8Rc",
+        "id": "7491185632950788096"
+      },
+      {
+        "interaction": null,
+        "link": "https://www.linkedin.com/posts/theory-ventures_security-is-the-last-part-of-the-stack-still-activity-7488268936044564481-zSvh",
+        "title": "Security is the last part of the stack still built on the assumption that a human is watching. Everything else an engineering team touches has already been rebuilt for machine speed. The data warehouse. The deploy pipeline. The code editor itself. Each one got replaced the moment the old, human-paced version turned into the bottleneck. The security operations center is the holdout. It still sits a person in front of a queue & asks them to keep pace with software. Today Cursor goes public as an Artemis Security customer, & it's the clearest sign yet that the holdout is falling. A company operating at Cursor's velocity was never going to route detection & response through a console designed for a slower decade. Artemis now processes 10b+ events daily & resolves 96% of investigations autonomously. The human is left with the fraction that needs judgment, not the fraction a staffing plan happened to allow. This is a category flip, not a one-off vendor swap. The AI-native SOC will do to legacy security tooling what the cloud warehouse did to the on-prem database. Cursor is early. The rest of the market is running the same math right now. We're proud to back Shachar , Dan , & the Artemis team.",
+        "img": "https://media.licdn.com/dms/image/v2/D5605AQGhPwCElsrxXQ/videocover-high/B56Z.uIqROG0BM-/0/1785332935042?e=2147483647&v=beta&t=Ij4Mok36K0k_rJ8Is9zelixtMuhc_mtmiL9PTAdhMeA",
+        "id": "7488268936044564481"
+      },
+      {
+        "interaction": "Tejas Thind shared this",
+        "link": "https://www.linkedin.com/posts/tejas-thind_lancedb-is-an-ai-native-multimodal-vector-activity-7486194332878807040-d7km",
+        "title": "LanceDB is an AI native multimodal vector database and lakehouse. Super talented team and a really interesting space. If you think you fit any of the roles listed below, worth checking out!",
+        "img": null,
+        "id": "7486194332878807040"
+      },
+      {
+        "interaction": null,
+        "link": "https://www.linkedin.com/posts/theory-ventures_three-years-in-activity-7481437670200733696-N7gi",
+        "title": "Three years ago we started Theory on the thesis that AI would reshape how software gets built, sold, and run. And it did -- but so much faster than anyone expected. AI compresses time. New models ship every 41 days. Companies hit $100M faster than any prior generation. And it's even changed the definition of venture, as Seed rounds stretch as high as $500M. The same compression has moved the market map. When we first launched, the argument was still if model companies would be the airlines of the era. Now, that debate feels quaint amid much larger opportunities: the inference layer to power it all, the AI advertising services to subsidize, the agents that will rewrite operations, cybersecurity to combat the growing attack surface, and even better crypto experiences. The next three years will make these look slow. The most ambitious builders we'll meet are just getting started, & we can\u2019t wait to see what they do. https://lnkd.in/gfNaAkht",
+        "img": "https://media.licdn.com/dms/image/v2/D5610AQHFpWWGcMPXlA/image-shrink_800/B56Z9Nn6lPIMAg-/0/1783713737307?e=2147483647&v=beta&t=1u7e6S_toHs5zKlvpl4PNX2iXZU5sRg8c-MvBO6-e78",
+        "id": "7481437670200733696"
+      },
+      {
+        "interaction": null,
+        "link": "https://www.linkedin.com/posts/ollama_big-day-for-ollama-when-we-started-open-activity-7480977361690181632-kXY-",
+        "title": "Big day for Ollama! When we started, open models and the open source AI ecosystem were in their early days with few believers. Our belief in open source has never wavered. With today's fundraising announcement and our 9M+ active builders, we\u2019re ready to scale open models into AI that you can own. All aboard open models! https://lnkd.in/ghxDyPNM",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQERDkpBz2Mu5g/feedshare-shrink_800/B56Z9HFRNOHcAg-/0/1783603991941?e=2147483647&v=beta&t=LBjmQhd4F7O5-Bx1ihaQOolsTGcb2_aFS5j0kqyQRlM",
+        "id": "7480977361690181632"
+      },
+      {
+        "interaction": null,
+        "link": "https://www.linkedin.com/posts/theory-ventures_bringing-open-models-to-every-industry-activity-7481014030690594816-xRmN",
+        "title": "The best AI advantage isn\u2019t a better model, it's owning the one you run. And Ollama is how you do it. 8.9M developers build on it (growing nearly another million each week), with 67K integrations and adoption in 85% of Fortune 500. Theory is proud to back founders Jeffrey Morgan and Michael Chiang in Ollama\u2019s $65M Series B: https://lnkd.in/geDn_F-Q",
+        "img": "https://media.licdn.com/dms/image/v2/D5610AQHKcO0HKK5ZjA/image-shrink_800/B56Z9HmnboIgAg-/0/1783612733538?e=2147483647&v=beta&t=77uUp9G2ld1UZluSBlYS015-xJrgMLqwtc_azc5Dxm4",
+        "id": "7481014030690594816"
+      },
+      {
+        "interaction": "Tejas Thind shared this",
+        "link": "https://www.linkedin.com/posts/tejas-thind_tech-events-have-come-a-long-way-went-to-activity-7469787841175240705-RFXK",
+        "title": "Tech events have come a long way. Went to one this weekend. Porsche wrapped in company branding at the entrance, two more you could sign up to take a ride around a short circuit, food trucks, free merch. On top of that, all the companies hosting the event had their tents set up. The engineers and even the founders were just standing there. You could easily walk up and start a conversation. That's the coolest thing about these events, in person, everyone is so much more approachable. If you're in the Bay and not going to these, you're sleeping. Just go on Luma and check out the upcoming events in SF for the week. What's the best event you've been to recently?",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQFYqAQii1gF0A/feedshare-shrink_800/B56Z6n9SpeJoAc-/0/1780934324294?e=2147483647&v=beta&t=IST2h0tFQSZY6cl9R6N3b_KyXvK2wV2xo3m6Aial4-o",
+        "id": "7469787841175240705"
+      },
+      {
+        "interaction": "Tejas Thind shared this",
+        "link": "https://www.linkedin.com/posts/tejas-thind_i-feel-like-a-lot-of-people-in-sf-havent-activity-7467975900802777089-zeES",
+        "title": "I feel like a lot of people in SF haven't touched grass in weeks. I was one of them. Took 3 hours off to hike Mount Tam this weekend. If you're deep in the tech/startup world, go outside, it helps It's easy to forget there's a world outside of AI and funding rounds. Everyone's building something, and the culture kind of rewards never stopping. But the constant grind can lead to burnout. Sometimes your best ideas don't come from staring at a screen. So take a break, three hours outside can do more for your output than three hours of forcing it. The Bay Area has some of the best trails in the country right next to the city. For the others in the Bay right now, what are some other hiking trails I should check out? lmk :)",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQEWXejS29S6xg/feedshare-image-high-res/B56Z6MdVHOHEAU-/0/1780472960443?e=2147483647&v=beta&t=ksr-EfVxpaqRu3ihR6Wg7gpLZ8Uo4QTNSdXnpfqR6k0",
+        "id": "7467975900802777089"
+      },
+      {
+        "interaction": "Tejas Thind shared this",
+        "link": "https://www.linkedin.com/posts/tejas-thind_linked-up-with-quentin-rousseau-and-russel-activity-7465806850043772928-rDAd",
+        "title": "Linked up with Quentin Rousseau and Russel CLIMACO-ESTARDO at a Rootly event here in SF after a while. Rootly's going all in on Toronto Tech Week right now. If you're in Toronto this week, their events are worth showing up to. Great for meeting likeminded people. Really amazing to see how much they\u2019ve grown since my time there, especially how they continue to support the Toronto tech community. Damn I'm missing out on TTW again \ud83d\ude22",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQGQeoWvTFPzbQ/feedshare-image-high-res/B56Z5rWjqxH0AU-/0/1779917536233?e=2147483647&v=beta&t=ZGiee-VwT2roQdXDcE-htca-cg5O2VlUc65sgQ3J6wY",
+        "id": "7465806850043772928"
+      },
+      {
+        "interaction": "Tejas Thind commented on a post 2d",
+        "link": "https://www.linkedin.com/posts/connor-loi_introducing-analytics-for-replicas-coding-activity-7492625824236412928-Nano",
+        "title": "another W update",
+        "img": null,
+        "id": "7492625824236412928"
+      },
+      {
+        "interaction": "Tejas Thind liked this",
+        "link": "https://www.linkedin.com/posts/dan-shiebler-10219b42_artemis-security-datadog-we-treat-ai-activity-7493320049571622912-U2Xk",
+        "title": "Artemis Security \ud83e\udd1d Datadog We treat AI agent performance and cost like any other production signal: instrumented, alerted, and continuously reviewed. Efficiency is not a side quest for an AI-native company. It is what lets us keep giving customers more capabilities without increasing the cost. We built Artemis to run at machine speed, which means AI touches nearly every part of the platform. So we instrumented it the way we instrument everything else, with Datadog Agent Observability across more than 20 dimensions: customer, workflow, investigation type, model, pipeline stage. The result is discipline. Cost regressions surface in under an hour instead of a day. Automated monitors catch routing and catch issues before they incur impact. Thanks to the Datadog team for the partnership! Full case study in the comments.",
+        "img": "https://media.licdn.com/dms/image/v2/D5605AQEEkM7Bo86SBg/videocover-high/B56Z_2e2oOGgBM-/0/1786546712445?e=2147483647&v=beta&t=neQa85R14gTsp_IMw7aouRdMmIJ3Ipq0egkmU2ymSIU",
+        "id": "7493320049571622912"
+      },
+      {
+        "interaction": "Tejas Thind liked this",
+        "link": "https://www.linkedin.com/posts/kshitij-jhunjhunwala11_been-a-long-time-coming-but-im-excited-activity-7493338338519756801-RH4z",
+        "title": "Been a long time coming, but I'm excited to announce that I moved to San Francisco and joined Composio as a Member of Technical staff a couple of months ago. It's been a wild journey so far, and I'm excited to see where the company grows in the new few months. If you're in the Bay, don't be a stranger!",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQEQql3GtCATCg/feedshare-shrink_800/B56Z_2vg1jKEAc-/0/1786551078626?e=2147483647&v=beta&t=fSbE26EJ-OsMG5PKTMLIrMIAInKry99vphv1JDCJA88",
+        "id": "7493338338519756801"
+      },
+      {
+        "interaction": "Tejas Thind liked this",
+        "link": "https://www.linkedin.com/posts/mchiang0610_you-can-now-use-ollama-as-a-provider-in-github-activity-7493118812909629440-m2AM",
+        "title": "You can now use Ollama as a provider in GitHub Copilot for JetBrains. https://lnkd.in/gUb5VEs7",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQH8pg6g11ZzJA/feedshare-shrink_800/B56Z_zn0sIJkAc-/0/1786498731047?e=2147483647&v=beta&t=eVXP13ibdSa16Q0_JwPCSvrPpLXJbO7DeYgEVWougeU",
+        "id": "7493118812909629440"
+      },
+      {
+        "interaction": "Tejas Thind liked this",
+        "link": "https://www.linkedin.com/posts/y-combinator_belvedir-yc-s26-is-making-private-ai-models-activity-7493063706931548160-SBOZ",
+        "title": "Belvedir (YC S26) is making private AI models cheap and easy, so the world can have trillions of them. In the past year, many big companies started paying millions of dollars to make internal private AI models. These models are cheaper, better, faster, and protect the company\u2019s data from frontier labs. But right now these models are still only realistic for big companies since they\u2019re really difficult and expensive to build. Belvedir makes private AI models autonomously with less than 5 minutes of setup, so that private AI can finally be accessible to startups and eventually everyone. Belvedir is live with 10 companies who are seeing up to 10x lower inference costs and 2x improved performance on benchmarks. Congrats on the launch, Zachary Yu ! \ud83d\ude80 https://lnkd.in/gaG7KT7K",
+        "img": "https://media.licdn.com/dms/image/v2/D5605AQFs45m76VzjpA/videocover-high/B56Z_xXcqSHcBM-/0/1786460898214?e=2147483647&v=beta&t=6TSfa03s7xArw8UxqAYtvuIzr1v9Xxb1g9XZEMgmeaE",
+        "id": "7493063706931548160"
+      },
+      {
+        "interaction": "Tejas Thind liked this",
+        "link": "https://www.linkedin.com/posts/nkhami_last-monday-was-my-last-day-mintlify-i-activity-7492630165458604032-48y-",
+        "title": "Last monday was my last day Mintlify . I shipped things, took down prod (a lot), hired, marketed, sold, & generally gave it my all. I learned so much, made friends for life, & got to see true PMF for the first time ever. Feeling very grateful for this chapter. s/o Han Wang and Hahnbee Lee , mintlify is a special place.",
+        "img": "https://media.licdn.com/dms/image/v2/D4E05AQHvMU3_0Syhjg/videocover-high/B4EZ_srZM1JMBQ-/0/1786382227601?e=2147483647&v=beta&t=f3odSlfKQTI_DQI0E8wPst6swxfjtb_afHCtd7qvvgI",
+        "id": "7492630165458604032"
+      },
+      {
+        "interaction": "Tejas Thind liked this",
+        "link": "https://www.linkedin.com/posts/connor-loi_introducing-analytics-for-replicas-coding-activity-7492625824236412928-Nano",
+        "title": "Introducing Analytics for Replicas ! Coding tools on your X timeline were built for the engineer. As Replicas grew to larger teams, we spoke with CTOs and engineering managers, who had different needs. They all wanted the same questions answered: - Where is my team using cloud agents? - Who and what is driving usage? Is it working? - Which models, credentials, skills, and MCPs are the coding agents using? Analytics is available today at tryreplicas[dot]com",
+        "img": "https://dms.licdn.com/playlist/vid/v2/D4E05AQGaX3ECRr0PMQ/thumbnail-shrink_720_1280/B4EZ_qguARJEAg-/0/1786345875638?e=2147483647&v=beta&t=gdiwrJ7uzOPtyL5_J41n-JlWOqQ-IYswwj_yw9Oyo0Q",
+        "id": "7492625824236412928"
+      }
+    ],
+    "linkedin_num_id": "1192894641",
+    "banner_image": "https://media.licdn.com/dms/image/v2/D4E16AQEso0z_OTZcWw/profile-displaybackgroundimage-shrink_200_800/B4EZ4eC20qKkAY-/0/1778620526387?e=2147483647&v=beta&t=Xaqu9Vj2ujo8C_M3bpKRz8ZEhd0Lfyvr7gPydfp_5AY",
+    "honors_and_awards": null,
+    "similar_profiles": [],
+    "default_avatar": false,
+    "memorialized_account": false,
+    "bio_links": [],
+    "first_name": "Tejas",
+    "last_name": "Thind",
+    "influencer": false,
+    "timestamp": "2026-08-12T19:18:26.640Z",
+    "input": {
+      "url": "https://www.linkedin.com/in/tejas-thind"
+    }
+  },
+  "local_photo": "data\\linkedin_photos\\tejas-thind__usr-XdwNOeKvAcSwgKQ.jpg"
+}

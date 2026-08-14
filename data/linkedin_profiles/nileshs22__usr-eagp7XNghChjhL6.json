@@ -1,0 +1,149 @@
+{
+  "luma_user_id": "usr-eagp7XNghChjhL6",
+  "csv_name": "Nilesh Singh",
+  "csv_linkedin": "https://www.linkedin.com/in/nileshs22",
+  "enriched_at": "2026-08-12T19:26:51.923000+00:00",
+  "batch_id": "sd_msqhb4pfm4l4la4zs",
+  "profile": {
+    "id": "nileshs22",
+    "name": "Nilesh S.",
+    "city": "San Francisco Bay Area",
+    "country_code": "US",
+    "position": null,
+    "about": "Contact: nilesh_singh [at] berkeley [dot] edu Hey! I\u2019m Nilesh, an incoming first\u2026",
+    "current_company": {
+      "link": "https://www.linkedin.com/company/nasahunch-foundation?trk=public_profile_topcard-current-company",
+      "name": "NASA HUNCH Foundation",
+      "company_id": "nasahunch-foundation",
+      "location": null
+    },
+    "experience": null,
+    "url": "https://at.linkedin.com/in/nileshs22",
+    "education": null,
+    "avatar": "https://static.licdn.com/aero-v1/sc/h/9c8pery4andzj6ohjkjp54ma2",
+    "certifications": [
+      {
+        "meta": "Issued May 2025",
+        "subtitle": "Certiport - A Pearson VUE Business",
+        "title": "CertiPort Java Certified",
+        "credential_url": null,
+        "credential_id": null
+      }
+    ],
+    "followers": 603,
+    "connections": 500,
+    "current_company_company_id": "nasahunch-foundation",
+    "current_company_name": "NASA HUNCH Foundation",
+    "projects": [
+      {
+        "title": "TrojanTime",
+        "start_date": "Nov 2025",
+        "description": "- Built and deployed a full-stack academic scheduling platform (inspired by BerkeleyTime) used school-wide by 4,000+ students, centralizing course catalog, 4-year planning, GPA forecasting, and graduation requirement tracking.- Engineered a RAG-based course recommendation system using Hugging Face embeddings and semantic search to generate personalized course suggestions from academic history and requirement gaps.- Designed a serverless backend on Vercel with Firebase Authentication and role-based access control, enabling secure multi-user access and FERPA-aligned data handling.- Awarded the AnalyticsAI App Innovation Scholarship for developing an AI-powered academic scheduling platform serving 4,000+ students, recognized for innovation in EdTech."
+      },
+      null,
+      null,
+      {
+        "title": "Accessible Edu",
+        "description": "- Designed and built an accessibility-first learning platform enabling students with disabilities to access educational content independently- Adopted by Twin Cities Daycares as a supplemental learning source. Analytics show 50+ monthly visitors.- Implemented screen reader\u2013friendly UI, ARIA labels, and semantic HTML to ensure compatibility with assistive technologies- Developed full keyboard navigation, including focus management, skip links, and accessible components to support motor-impaired users- Added audio descriptions and alternative content formats to improve comprehension for visually impaired learners- Built an adaptive learning system that adjusts difficulty and pacing based on user progress and interactions- Ensured fully responsive, device-agnostic access to learning materials available 24/7 at no cost- Conducted accessibility testing (manual + automated) to meet WCAG 2.1 AA standards and improve usability across diverse needs- Led product vision focused on universal design, equity, and independent learning for underserved students- Used technology to eliminate learning barriers\u2014such as high costs and limited tutor access\u2014for students with disabilities, promoting truly inclusive education.Tech: NextJS, JavaScript, HTML5, CSS3, ARIA, Node.js, accessibility testing tools (Axe, Lighthouse), WCAG guidelines"
+      },
+      {
+        "title": "AI Safety Compliance Detector",
+        "description": "\u2022 Developed an AI-powered object detection model to identify safety equipment and hazards on construction sites.\u2022 Trained the model on a Kaggle dataset with 10 annotated classes and visualized results using OpenCV and Python.\u2022 Achieved an estimated\u223c88% mAP@0.5, detecting hardhats, vests, masks, vehicles, and site hazards."
+      }
+    ],
+    "location": null,
+    "input_url": "https://www.linkedin.com/in/nileshs22",
+    "linkedin_id": "nileshs22",
+    "activity": [
+      {
+        "interaction": "Nilesh S. shared this",
+        "link": "https://www.linkedin.com/posts/nileshs22_ycombinator-yc-ai-activity-7491339143759781888-UBcQ",
+        "title": "Excited to share that I\u2019ve been selected to attend the Y Combinator Startup Internship Expo in San Francisco on August 15! I'm looking forward to meeting founders and engineers from 50+ of Y Combinator's top startups, learning how they're building the future of AI, and participating in the expo's speed-dating style interviews for spring and summer internships. Even more exciting, just three days later I'll be moving to UC Berkeley to begin my freshman year. It's hard to imagine a better way to kick off this next chapter than by surrounding myself with builders, founders, and engineers who are shaping the future of technology. If you'll be at the expo, I'd love to connect. Feel free to reach out or say hi! Looking forward to an exciting few weeks ahead. #YCombinator #YC #AI #Startups #Internships #UCBerkeley #Tech #Founders ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQFly3btbpxBwg/feedshare-shrink_800/B56Z_aVQaWJoAc-/0/1786074433494?e=2147483647&v=beta&t=XUyRT4cGYRbtsmdqoKOqJTae93t6B-FxF5oIFJalcRE",
+        "id": "7491339143759781888"
+      },
+      {
+        "interaction": null,
+        "link": "https://www.linkedin.com/posts/arjun-builds_i-just-got-into-ycs-startup-internship-expo-activity-7491278562868551680-HJp9",
+        "title": "I just got into YC's Startup Internship Expo! After forgetting about the event and applying literally yesterday on a flight from India back to Houston, I thought there was no chance I'd be accepted so late and last minute. Nevertheless, on August 15th, I'll (hopefully) be meeting founders and engineers from 50+ of YC's top startups and maybe even landing some offers for spring and summer roles through the speed-dating interview event. Still working out flight logistics though. Huge thanks to Nilesh S. for putting me onto this opportunity. Imo, if you're located anywhere near the Bay Area in the coming weeks this is one of the most valuable early career events to attend. Don't forget to apply ASAP! ...more ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQHBmlKv4evt_A/feedshare-shrink_800/B56Z_ZeJ7lJ8Ag-/0/1786059989133?e=2147483647&v=beta&t=9Zrc7GhHfo2RB5i0kPYaS11T9gK784Lg9sLYRV5BCgo",
+        "id": "7491278562868551680"
+      },
+      {
+        "interaction": "Nilesh S. shared this",
+        "link": "https://www.linkedin.com/posts/nileshs22_readmemd-activity-7472715483260301312-TvLI",
+        "title": "Today, Shubham Panchal , Sarvajith Karun , and I are excited to share TrojanTime, a full-stack academic planning platform built for 4,000+ Wayzata High School students. Every year, thousands of students navigate course registration, graduation requirements, GPA planning, and long-term academic decisions. At the same time, counselors work hard to support students through this process. We wanted to make that experience easier for everyone. Some of the features we built include: \u2192 Searchable course catalog with detailed course information, including descriptions, syllabi, grade distributions, reviews, and more \u2192 Four-year academic planning system with GPA and credit projections \u2192 Graduation requirement tracking and progress monitoring \u2192 AI-powered course recommendation engine that uses semantic search and RAG to recommend classes based on a student's academic history, interests, and unmet requirements \u2192 Counselor dashboard featuring a student directory, student-level analytics, and a feedback system for communicating with students TrojanTime runs on a serverless architecture powered by Next.js, Vercel, Supabase, Firebase Authentication, and modern AI tooling, while maintaining FERPA-aligned student data practices and role-based access controls. What makes this project especially meaningful is that it was built in collaboration with students, administrators, and counselors to address a real need within our community. The platform provides insights on 300+ courses and is now available to over 4,000 students at Wayzata High School . Furthermore, Sarvajith Karun and I are honored to be awarded the AnalyticsAI App Innovation Scholarship for developing an AI-powered academic scheduling platform serving the Wayzata High School student body, recognized for innovation in EdTech. A huge thank you to Vice Principal Tyler Jae Shepard , Wayzata Public Schools , and everyone who provided feedback throughout development. Looking ahead, we plan to open-source portions of the platform so other schools can build and adapt our work. We're excited to continue improving the platform and adding new features based on feedback. Try TrojanTime @ https://lnkd.in/gCfMhHEr A technical deep dive into our course recommendation pipeline: https://lnkd.in/g_JS6u6M ...more",
+        "img": "https://media.licdn.com/dms/image/sync/v2/D5627AQFbWP9oMe4N-w/articleshare-shrink_800/B56Z2tOkvBGsAM-/0/1776727772410?e=2147483647&v=beta&t=_cJKY4nqYrHti2Ruh1GOJ5RFfpiVQojz3U7j6tyN1EM",
+        "id": "7472715483260301312"
+      },
+      {
+        "interaction": "Nilesh S. liked this",
+        "link": "https://www.linkedin.com/posts/reemamro08_rewritingthecode-womenintech-softwareengineering-activity-7492775666564829184-oci9",
+        "title": "I\u2019m officially a member of Rewriting the Code ! I'm grateful to be part of a global community that empowers women and gender-diverse individuals in technology through mentorship, career development, networking, and learning opportunities. I\u2019m looking forward to connecting with professionals in my field and learning from the community. If you're part of the RTC community or working in fintech/AI, I'd love to connect! \ud83d\ude0a #RewritingTheCode #WomenInTech #SoftwareEngineering #CareerGrowth #TechCommunity",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQFWZ9tS-QM4UQ/feedshare-shrink_1280/B56Z_uuOGBHcAM-/0/1786416521885?e=2147483647&v=beta&t=85v-rEWafrcIC5DSNZdvHdyWcHFU4kcZYiFwOT1Tw54",
+        "id": "7492775666564829184"
+      },
+      {
+        "interaction": "Nilesh S. liked this",
+        "link": "https://www.linkedin.com/posts/nileshs22_ycombinator-yc-ai-activity-7491339143759781888-UBcQ",
+        "title": "Excited to share that I\u2019ve been selected to attend the Y Combinator Startup Internship Expo in San Francisco on August 15! I'm looking forward to meeting founders and engineers from 50+ of Y Combinator's top startups, learning how they're building the future of AI, and participating in the expo's speed-dating style interviews for spring and summer internships. Even more exciting, just three days later I'll be moving to UC Berkeley to begin my freshman year. It's hard to imagine a better way to kick off this next chapter than by surrounding myself with builders, founders, and engineers who are shaping the future of technology. If you'll be at the expo, I'd love to connect. Feel free to reach out or say hi! Looking forward to an exciting few weeks ahead. #YCombinator #YC #AI #Startups #Internships #UCBerkeley #Tech #Founders",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQFly3btbpxBwg/feedshare-shrink_800/B56Z_aVQaWJoAc-/0/1786074433494?e=2147483647&v=beta&t=XUyRT4cGYRbtsmdqoKOqJTae93t6B-FxF5oIFJalcRE",
+        "id": "7491339143759781888"
+      },
+      {
+        "interaction": "Nilesh S. liked this",
+        "link": "https://www.linkedin.com/posts/arjun-builds_i-just-got-into-ycs-startup-internship-expo-activity-7491278562868551680-HJp9",
+        "title": "I just got into YC's Startup Internship Expo! After forgetting about the event and applying literally yesterday on a flight from India back to Houston, I thought there was no chance I'd be accepted so late and last minute. Nevertheless, on August 15th, I'll (hopefully) be meeting founders and engineers from 50+ of YC's top startups and maybe even landing some offers for spring and summer roles through the speed-dating interview event. Still working out flight logistics though. Huge thanks to Nilesh S. for putting me onto this opportunity. Imo, if you're located anywhere near the Bay Area in the coming weeks this is one of the most valuable early career events to attend. Don't forget to apply ASAP!",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQHBmlKv4evt_A/feedshare-shrink_800/B56Z_ZeJ7lJ8Ag-/0/1786059989133?e=2147483647&v=beta&t=9Zrc7GhHfo2RB5i0kPYaS11T9gK784Lg9sLYRV5BCgo",
+        "id": "7491278562868551680"
+      },
+      {
+        "interaction": "Nilesh S. liked this",
+        "link": "https://www.linkedin.com/posts/zubin-sinha-b1799733a_softwareengineering-techcareers-datasite-activity-7486468937103077377-VXjG",
+        "title": "I had the amazing opportunity yesterday to shadow at Datasite. As someone passionate about pursuing a career in technology, this was a day I won't forget. The day started with introductions and a tour led by Bryn Sharpe , Software Engineering Manager, and Peg Mickelson , Sr. Director of AI Enablement, who welcomed us warmly and set the tone for a day full of learning. Our first session was with Rianna Engel , Sr. Project/Program Manager, who walked us through RACI, an acronym that stands for Responsible, Accountable, Consulted, and Informed. It's a framework used to clarify roles on a project so that teams can collaborate and work together more effectively without confusion over who owns what. It gave me a whole new appreciation for how much planning and structure goes into building software beyond just writing code. Next, we met with Peter Wildberger , Software Engineer Sr I, who demonstrated Conway's Game of Life, a fascinating simulation that models how simple rules can create complex, evolving patterns. Watching him code it live and explain the logic behind it really showed his advanced knowledge and passion for programming. After lunch, we sat down with a panel of former interns turned full-time engineers: Nicole H. , Gavin Popken , Adam Iverson , and Chris Cantoni . Each of them shared their own unique experiences and backgrounds in software engineering, from how they got started coding to what their day-to-day work looks like now. It was refreshing to hear such honest, real-world perspectives on what it actually means to build a career in tech. Andy Krueger , an expert in Product Data & Insights, then walked us through the importance of research and product design in the development process. He showed us how data and metrics play a huge role in shaping decisions and making sure products actually meet user needs, a side of engineering I hadn't thought much about before. Finally, Nicole and Gavin came back to teach us about SDLC (Software Development Life Cycle) and ADLC (Application Development Life Cycle), the structured processes that guide how an app or piece of software goes from an idea all the way to a finished, working product. This experience gave me such a well-rounded look into the world of software engineering, not just the coding itself, but the collaboration, planning, research, and processes that make it all come together. I'm walking away with a much deeper appreciation for the field and even more excitement about pursuing a future in tech. A huge thank you to everyone at Datasite who made this day possible: Bryn Sharpe, Peg Mickelson, Rianna Engel, Peter Wildberger, Nicole Honl, Gavin Popken, Adam Iverson, Chris Cantoni, and Andy Krueger. Your time and willingness to share your knowledge means so much! #SoftwareEngineering #TechCareers #Datasite",
+        "img": null,
+        "id": "7486468937103077377"
+      },
+      {
+        "interaction": "Nilesh S. liked this",
+        "link": "https://www.linkedin.com/posts/rahul-sai-billakanti_ycombinator-ycstartupschool-startupschool2026-activity-7484848567996796928-mW91",
+        "title": "Finally stepping out of my basement to head to YC Startup School next weekend. My bucket list so far: - Meet people way more cracked than me - Learn how to build things people actually care about - See how many AI credits I can possibly collect \ud83d\ude4f If you're going to be around SF, or you're building in AI agent infra, drop a comment or send me a message! #YCombinator #YCStartupSchool #StartupSchool2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQGrPFO70MLyEQ/feedshare-shrink_800/B56Z9.AuPHKUAg-/0/1784525547152?e=2147483647&v=beta&t=1cgOU6bdYKnB749AfiKp4Qow7qqvEX1JuorJwKx-Sao",
+        "id": "7484848567996796928"
+      },
+      {
+        "interaction": "Nilesh S. liked this",
+        "link": "https://www.linkedin.com/posts/nileshs22_readmemd-activity-7472715483260301312-TvLI",
+        "title": "Today, Shubham Panchal , Sarvajith Karun , and I are excited to share TrojanTime, a full-stack academic planning platform built for 4,000+ Wayzata High School students. Every year, thousands of students navigate course registration, graduation requirements, GPA planning, and long-term academic decisions. At the same time, counselors work hard to support students through this process. We wanted to make that experience easier for everyone. Some of the features we built include: \u2192 Searchable course catalog with detailed course information, including descriptions, syllabi, grade distributions, reviews, and more \u2192 Four-year academic planning system with GPA and credit projections \u2192 Graduation requirement tracking and progress monitoring \u2192 AI-powered course recommendation engine that uses semantic search and RAG to recommend classes based on a student's academic history, interests, and unmet requirements \u2192 Counselor dashboard featuring a student directory, student-level analytics, and a feedback system for communicating with students TrojanTime runs on a serverless architecture powered by Next.js, Vercel, Supabase, Firebase Authentication, and modern AI tooling, while maintaining FERPA-aligned student data practices and role-based access controls. What makes this project especially meaningful is that it was built in collaboration with students, administrators, and counselors to address a real need within our community. The platform provides insights on 300+ courses and is now available to over 4,000 students at Wayzata High School . Furthermore, Sarvajith Karun and I are honored to be awarded the AnalyticsAI App Innovation Scholarship for developing an AI-powered academic scheduling platform serving the Wayzata High School student body, recognized for innovation in EdTech. A huge thank you to Vice Principal Tyler Jae Shepard , Wayzata Public Schools , and everyone who provided feedback throughout development. Looking ahead, we plan to open-source portions of the platform so other schools can build and adapt our work. We're excited to continue improving the platform and adding new features based on feedback. Try TrojanTime @ https://lnkd.in/gCfMhHEr A technical deep dive into our course recommendation pipeline: https://lnkd.in/g_JS6u6M",
+        "img": "https://media.licdn.com/dms/image/sync/v2/D5627AQFbWP9oMe4N-w/articleshare-shrink_800/B56Z2tOkvBGsAM-/0/1776727772410?e=2147483647&v=beta&t=_cJKY4nqYrHti2Ruh1GOJ5RFfpiVQojz3U7j6tyN1EM",
+        "id": "7472715483260301312"
+      },
+      {
+        "interaction": "Nilesh S. liked this",
+        "link": "https://www.linkedin.com/posts/shaurya-kumar-11b442351_minnesotatwins-activity-7482541614184198145-zOrw",
+        "title": "I spent the day job shadowing the Minnesota Twins and got a full look at everything running behind the scenes of a professional baseball team. On the stats side, I saw how Statcast and other tracking data get captured and turned into real time dashboards for coaches and analysts. That data also powers two apps the developers built in house: one for players to track their own stats and see exactly where they can improve, and one for coaches to pull up simplified scouting reports and player statistics, used heavily for draft decisions. I also toured the broadcast operation, where I saw staff color correcting camera feeds in real time, managing all the audio signals, and sending the final signal out to MLB for broadcast. I saw the broadcast camera setup, the tracking and analytics cameras used to capture play data, the replay review station, and the server room powering all of it. On the backend, I saw the AI tools the Twins built in house, including one that lets staff update ticket prices for an entire section with a single prompt, factoring in day of year, weather, time of day, day of week, and opponent. I also saw the models they use on the player side to track performance trends and project player value over time. I also got hands on with some of the equipment, including a pitching machine that replicates the exact pitch profile of real MLB pitchers, and a batting cage system that tracks and displays exactly where a hit ball would land on the field. Huge thanks to Heather Bjoin and Josh Ruffin for the generous, in depth walkthrough of their world. It's clear a modern MLB organization runs on data science and engineering just as much as it runs on talent on the field. #MinnesotaTwins",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQEAINFwP7LB9w/feedshare-image-high-res/B56Z9dT8CXG8AY-/0/1783976938637?e=2147483647&v=beta&t=lRLC72Rp5iWokLGwJiz-eZkSNW-AZqfVwBte4q2b6ek",
+        "id": "7482541614184198145"
+      }
+    ],
+    "linkedin_num_id": "1368880080",
+    "banner_image": "https://media.licdn.com/dms/image/v2/D5616AQFs7VLt2k-jJg/profile-displaybackgroundimage-shrink_200_800/B56Z64F1AjG0AQ-/0/1781204996579?e=2147483647&v=beta&t=-e9Rv42upO-AxG_Fvt0QpZgv3QxaSorzYBUtqlKjxmw",
+    "honors_and_awards": null,
+    "similar_profiles": [],
+    "default_avatar": true,
+    "memorialized_account": false,
+    "bio_links": [
+      {
+        "title": "Portfolio",
+        "link": "https://nileshs-portfolio.vercel.app/"
+      }
+    ],
+    "first_name": "Nilesh",
+    "last_name": "S.",
+    "influencer": false,
+    "timestamp": "2026-08-12T19:25:15.908Z",
+    "input": {
+      "url": "https://www.linkedin.com/in/nileshs22"
+    }
+  }
+}

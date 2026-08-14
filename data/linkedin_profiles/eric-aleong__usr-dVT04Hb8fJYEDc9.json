@@ -1,0 +1,165 @@
+{
+  "luma_user_id": "usr-dVT04Hb8fJYEDc9",
+  "csv_name": "Eric Aleong",
+  "csv_linkedin": "https://www.linkedin.com/in/eric-aleong",
+  "enriched_at": "2026-08-12T19:01:42.796886+00:00",
+  "batch_id": "sd_msqgese9ztya3e3uk",
+  "profile": {
+    "id": "eric-aleong",
+    "name": "Eric Aleong",
+    "city": "North York, Ontario, Canada",
+    "country_code": "CA",
+    "position": null,
+    "about": null,
+    "current_company": {
+      "link": "https://www.linkedin.com/company/neuralink?trk=public_profile_topcard-current-company",
+      "name": "Neuralink",
+      "company_id": "neuralink",
+      "location": null
+    },
+    "experience": null,
+    "url": "https://bh.linkedin.com/in/Eric-aleong",
+    "educations_details": "University of Waterloo",
+    "education": [
+      {
+        "title": "University of Waterloo",
+        "url": "https://ca.linkedin.com/school/uwaterloo/",
+        "start_year": "2022",
+        "end_year": "2027",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      },
+      {
+        "start_year": "2018",
+        "end_year": "2022",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      }
+    ],
+    "avatar": "https://media.licdn.com/dms/image/v2/D5603AQGEnBlAEiWEBg/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1712110996205?e=2147483647&v=beta&t=VOGTcghhcTLeh4MP1_F7arq3UQH7fcW4ioMB0G3cK-Y",
+    "followers": 1388,
+    "connections": 500,
+    "current_company_company_id": "neuralink",
+    "current_company_name": "Neuralink",
+    "location": "North York",
+    "input_url": "https://www.linkedin.com/in/eric-aleong",
+    "linkedin_id": "eric-aleong",
+    "activity": [
+      {
+        "interaction": null,
+        "link": "https://www.linkedin.com/posts/jivankesan_opentowork-internship-softwareengineering-activity-7457788831619239936-r3t9",
+        "title": "Hey everyone, Less than a week before my scheduled start date, my Summer 2026 internship in SF was unexpectedly cancelled due to company-side business changes. Given the timing, I\u2019m reaching out to my network to see if anyone knows of teams still hiring interns for May\u2013August 2026. I\u2019m an incoming 4th year Mechatronics Engineering student at the University of Waterloo with experience across software engineering, ML, and robotics through 5 previous internships and personal projects. I\u2019m open to opportunities in: - Software Engineering - Machine Learning / AI - Robotics - Infrastructure / Systems If you know of any openings or teams still hiring, I\u2019d really appreciate a message or introduction. DMs are open. Thanks everyone for the support. #OpenToWork #Internship #SoftwareEngineering #MachineLearning #Robotics",
+        "img": null,
+        "id": "7457788831619239936"
+      },
+      {
+        "interaction": "Eric Aleong shared this",
+        "link": "https://www.linkedin.com/posts/eric-aleong_satisfying-outcome-to-an-interesting-project-activity-7312655994151387136-ao4o",
+        "title": "Satisfying outcome to an interesting project with some incredible teammates. It was impressive to see Brent Morris solo end-to-end high voltage and controls, Victor Kalenda join up at the last minute to write all our firmware, Vincent Forte-Perri , and Matthew Bridger step up at competition site and solve critical operations issues on the fly. Defo heavy appretiation towards Shiv Patel for being the glue holding it all together and relentlessly pursuing progress while learning and adapting through the process. Equally as important was Maggie Situ getting us all the resources we needed to build our project. Shoutout peanut gallery for keeping things light",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQE468afQVudMQ/feedshare-shrink_800/B4EZXsxv_HH0Ag-/0/1743434230451?e=2147483647&v=beta&t=3zrPe_WzZoqeIUSJAZg95VuaLctBA7kIM_r2MeW0k2E",
+        "id": "7312655994151387136"
+      },
+      {
+        "interaction": null,
+        "link": "https://www.linkedin.com/posts/eric-aleong_its-my-pleasure-to-be-starting-my-engineering-activity-7019089362919325697-uAEK",
+        "title": "It's my pleasure to be starting my engineering career at HH Angus. I'll be working as a mechanical engineering co-op student for the winter 2023 term. Big thanks to Maria Kasko & Patrick Moore for helping me onboard!",
+        "img": null,
+        "id": "7019089362919325697"
+      },
+      {
+        "interaction": "Eric Aleong commented on a post 2mo",
+        "link": "https://www.linkedin.com/posts/alistair-maciver_fuse-x1-formlabs-new-largest-sls-3d-printer-activity-7470129199522119681-Y53-",
+        "title": "This guy has his bearings",
+        "img": null,
+        "id": "7470129199522119681"
+      },
+      {
+        "interaction": "Eric Aleong commented on a post 3mo",
+        "link": "https://www.linkedin.com/posts/jivankesan_opentowork-internship-softwareengineering-activity-7457788831619239936-r3t9",
+        "title": "Cfbr",
+        "img": null,
+        "id": "7457788831619239936"
+      },
+      {
+        "interaction": "Eric Aleong liked this",
+        "link": "https://www.linkedin.com/posts/vladyslav-mashkara_amd-is-buying-torontos-taalas-terms-activity-7491510828177928192-ZDb1",
+        "title": "\ud83c\udde8\ud83c\udde6 AMD is buying Toronto's Taalas. Terms were not disclosed, and it still needs regulatory approval. Taalas was founded in 2023 by three former AMD employees who had been leaders at Tenstorrent. It raised $169 million USD in February and had taken about $219 million USD in total. The idea was to hardwire a trained model straight into silicon rather than run it on general-purpose GPUs. AMD says the technology goes into its accelerator roadmap. Look at AMD's year. MK1 in November, MEXT in June, FastFlowLM in July, Taalas now. Four inference deals in nine months, and Taalas is the second Canadian one after it took the Untether AI team in 2025. None of these had meaningful revenue yet. What is being bought is design talent, and it is concentrating into two or three balance sheets very quickly. The Toronto part is what I keep noticing. Untether's team went to AMD. Nvidia acquired CentML. Tenstorrent, founded here, is headquartered in Santa Clara. Ottawa's Hyperlume went to San Jose's Credo, and an SEC filing later showed the price was $92 million USD. AMD has had people here since it bought Markham's ATI in 2006. Four Canadian chip companies in two years. There was no Canadian buyer in any of them, and I would like to know whether one was ever asked.",
+        "img": null,
+        "id": "7491510828177928192"
+      },
+      {
+        "interaction": "Eric Aleong liked this",
+        "link": "https://www.linkedin.com/posts/ericswise_meta-exec-rages-against-employees-asking-activity-7492720144394366976-qtpr",
+        "title": "I would fire you Andrew. There would be no hesitation. That\u2019s why I\u2019ll never be a CEO of a big tech company. I own a business. But I can turn a profit without being a raging bag of genitalia. https://lnkd.in/eJ5YtSEC",
+        "img": "https://media.licdn.com/dms/image/sync/v2/D4E27AQE4_in_ayvNwQ/articleshare-shrink_800/B4EZ_sCclRJUAY-/0/1786371492846?e=2147483647&v=beta&t=M6_y2UxwfCh8McwrCb72_yV6eKjtBwst_wbXmi7OPzA",
+        "id": "7492720144394366976"
+      },
+      {
+        "interaction": "Eric Aleong liked this",
+        "link": "https://www.linkedin.com/posts/andreas-wendel-083aa353_july-was-my-last-month-at-kodiak-the-past-activity-7492596876819697665-O9-_",
+        "title": "July was my last month at Kodiak . The past 8 years have been exciting and incredibly rewarding. I started about 5 weeks after the company was founded with nothing but a laptop and a rack full of snacks, and led the company as CTO to the first full commercial launch of a driverless trucking fleet - 24/7 operations, owned and operated by the customer - in 2024, followed by Kodiak\u2019s public listing on NASDAQ in 2025. As of June 2026, Kodiak had 35 driverless trucks deployed at the customer\u2019s site, having operated 40,000+ cumulative paid hours without anyone in the cabin. The latest software release further increased efficiency by 30%, all in a harsh environment with oncoming, third-party traffic. And it also isn\u2019t just the one vehicle, because not all customers want the same: we built several driverless platforms, from big semis to offroad vehicles, that could operate safely in their respective environments. Most recently, the team delivered the first driverless daycab that I know of, on yet another new OEM base platform and with a new Gen7 generation of autonomy hardware. This isn\u2019t just technology, it\u2019s a full product that is actually useful to customers - and that product focus has been in Kodiak\u2019s DNA from day one. Behind the scenes, the reality of Physical AI is amazingly complex: It took designing a system from the ground up that could meet the rigor of a full safety assessment to launch in 2024 and repeatedly after; finding and hiring hundreds of excellent people to refine and execute the plan; coordinating OEMs, suppliers, contract manufacturers, and partners around the world and earning their trust over years; real-world testing in both hot and icy conditions from the Permian to Michigan, and many interstates between; testing in simulated environments that reflect all of those conditions with well understood fidelity; and aligning the software, hardware, and systems engineering so we could operate safely and efficiently at the same time. I was part of it at every step, leading, helping, and motivating; but the real credit goes to the team at Kodiak who did the hard work on the ground and made it happen. I keep being impressed by what this team is able to do, often on tight timelines and tighter budgets. I\u2019ve seen first hand how listening well, sharing insights, and helping others grow will exponentially increase the impact of an organization. Thank you for giving me the opportunity and trust to lead you through the ups and downs every startup goes through on the way to success. It\u2019s been an incredible experience! Now it\u2019s time to make space for the next generation of leaders at Kodiak. I've been enjoying time with family, both here in the US and in Austria, and reconnecting with people I haven't had a chance to talk to for way too long. If you're around, let's chat - I'd love to catch up.",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQEZOf8tYd6jAA/feedshare-shrink_800/B56Z_sKrDyGgAo-/0/1786373649198?e=2147483647&v=beta&t=ho1sH67USFxeM8ejyVVBYdcG58GJ-0Z0vYpMlnhCCiY",
+        "id": "7492596876819697665"
+      },
+      {
+        "interaction": "Eric Aleong liked this",
+        "link": "https://www.linkedin.com/posts/j-hawkins_you-7500-macbook-pro-with-128gb-of-ram-activity-7491569035411693568-PHIp",
+        "title": "you: $7,500 MacBook Pro with 128GB of RAM Jeff Dean, creator of half the infrastructure that powers modern AI: Chromebook lesson: the laptop isn't the reason that Jeff Dean is so good at what he does. there must be something else",
+        "img": "https://media.licdn.com/dms/image/v2/D4E10AQHIK1G18YFRIA/image-shrink_1280/B4EZ_dmRCtIAAg-/0/1786129224204?e=2147483647&v=beta&t=xf8IQQzTR4lbc9kFdjMXPBPWfRtz9qDzbAvUZrAkZS4",
+        "id": "7500"
+      },
+      {
+        "interaction": "Eric Aleong liked this",
+        "link": "https://www.linkedin.com/posts/david-krappitz-65b495359_im-excited-to-share-that-ive-accepted-an-activity-7491525753990184960-6OFw",
+        "title": "I\u2019m excited to share that I\u2019ve accepted an offer to join the Facilities team at Neuralink ! I\u2019m looking forward to bringing my facilities experience to one of the most innovative companies in technology and supporting the infrastructure behind some truly groundbreaking work. Excited for this next chapter and what\u2019s ahead!",
+        "img": null,
+        "id": "7491525753990184960"
+      },
+      {
+        "interaction": "Eric Aleong liked this",
+        "link": "https://www.linkedin.com/posts/hannah-cui-211924265_im-excited-to-share-that-this-fall-ill-activity-7490815208010035200-oP6_",
+        "title": "I'm excited to share that this fall, I'll be joining Neuralink in San Francisco as a Neuroengineer Intern! Thank you to Dustin Herrmann , Ian Kim , Jacob Granley , Youssef Soliman , Bugra Kaytanli , and Claudio Verardo for the great technical discussions throughout the interview process, and to Shelby Willis and the recruiting team for making the process so smooth. Looking forward to working with the team!",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQFyA67-Al2kvQ/feedshare-shrink_800/B56Z_S4vJ_KoAg-/0/1785949517126?e=2147483647&v=beta&t=hN6_mNatyzENhqIuZpiUnIrKyqC6acCEzFDS3qHdQBc",
+        "id": "7490815208010035200"
+      },
+      {
+        "interaction": "Eric Aleong liked this",
+        "link": "https://www.linkedin.com/posts/gverdon_thermodynamiccomputing-activity-7490875680272896001-a674",
+        "title": "Major update from us at Extropic on our journey scaling #ThermodynamicComputing Our latest chip, Z1, is now taped out and in fabrication! Along with it, we are announcing edge-ready 0.5M pbit systems and 4M+ pbit PCIe cards. Z1 systems are coming in 2027. We plan to build a billion+ pbit cluster next year. On the software side, we are announcing Torx, a software framework for stochastic differentiable programming, essentially the stochastic computing equivalent of PyTorch. Check out docs.torx.ai Alongside Torx, we are announcing Thermalizers, our compiler for embedding Torx programs onto thermodynamic devices like Z1. The Thermalizers whitepaper is now on arXiv: https://lnkd.in/gkqDV-PB For all users: we just opened up an API where you can execute Torx and THRML programs on high-performance GPUs. You can try thermodynamic programming today at extropic.dev Thermodynamic computing is very real and scaling fast. Is your organization ready? Read more about the announcement here: https://lnkd.in/gDBq8V6b",
+        "img": "https://media.licdn.com/dms/image/v2/D5605AQFzs75zVsn_Lg/videocover-high/B56Z_TvbZiIMBM-/0/1785963887517?e=2147483647&v=beta&t=yVN7kYHjtd-Snhm9WgCvHlEUYMjGMUYL8ESaD8lpNAg",
+        "id": "7490875680272896001"
+      },
+      {
+        "interaction": "Eric Aleong liked this",
+        "link": "https://www.linkedin.com/posts/shaunbjohnson_today-im-excited-to-introduce-224-ventures-activity-7490723636178243584-yC7F",
+        "title": "Today I'm excited to introduce 224 Ventures , a deeply technical and GTM-focused venture firm investing in AI-native teams. We're launching with $100 million in assets under management. I'm building the firm alongside 224\u2019s Frontier AI Partners Yann LeCun , Executive Chairman of Advanced Machine Intelligence, Professor at NYU, and Turing Award co-winner, and Oriol Vinyals , Discovery Loop co-founder and former Gemini co-lead at Google DeepMind. Investing exclusively through 224, all three of us will be actively involved with sourcing, evaluating, and voting on every investment. We've already begun backing technical founders across applications, robotics, infrastructure, and core intelligence\u2014writing $1\u20135M checks as a collaborative investor, partnering alongside lead investors to back companies advancing the frontier of AI. Excellence spends time with excellence. The next generation of AI companies will be built by deeply technical teams. The strongest founders are most often discovered from within the communities where frontier AI research is happening. 224 is embedded in these communities, backing founders from the networks where the field itself is accelerating. This same philosophy shapes 224's LP community. Our LP base is made up of AI operators: frontier researchers, product and engineering leaders, chief AI/data officers, sales and marketing executives, and CEOs. These operators make up the hub of our ecosystem, one that reaches across nearly all of big tech, the Fortune 100, labs, and academia spanning the San Francisco Bay Area, New York, Paris, Toronto, London, and Tel Aviv. Together, our LPs form an operator network that helps 224 identify exceptional entrepreneurs long before they enter traditional venture pipelines. For our founders, this translates into a community of potential customers, design partners, co-founders, employees, mentors, and investors. Deeply grateful to our community who've chosen to build 224 with us. Shout out to Rebecca Torrence for the Bloomberg coverage. See link in comments.",
+        "img": null,
+        "id": "224"
+      },
+      {
+        "interaction": "Eric Aleong reacted on this",
+        "link": "https://www.linkedin.com/posts/matthew-tarca-9b078219_its-time-for-my-next-chapter-and-challenge-activity-7490451495742775296-gNWX",
+        "title": "It's time for my next chapter and challenge. Thank you to all my fellow Neuralinkers. It's sad to part ways, but we're still neighbors, and I intend on staying in touch with all of you! I am joining Optica Industries as our director of hardware. Our objective: bring new technology to North American metals processing, and in doing so, be part of the solution to reemerging American manufacturing and hard-tech industries. I am joining because the founding team of Dylan Jin-Ngo , Sam Katz, and Henry Zhou sold me with their tenacity and vision. As a team of 3 the deals they've closed and strategic infrastructure they built in less than a year is undeniable. We are still an extremely lean team, but with a big vision, and some new funding that will be more broadly announced soon, we are shifting into next gear. If we can execute we will soon be responsible for supplying a significant portion of all recycled Aluminum in the country. For the past month I've been building in a garage in the Dogpatch. Consider joining me: we need support across EE, MechE, Optics, physics, and factory design. If you like heavy industry, robotics, factory automation, renewables/recycling, American manufacturing, hard-tech in general, (and processing railcars full of metal!!), reach out to me or Dylan.",
+        "img": "https://media.licdn.com/dms/image/v2/D5605AQFD1Zddl03S8Q/videocover-high/B56Z_Np673HIBM-/0/1785861748189?e=2147483647&v=beta&t=Hu5xF9V-tnixmjEFkv0d6jz1NI3IQEKjj7DhDNYn4D8",
+        "id": "7490451495742775296"
+      }
+    ],
+    "linkedin_num_id": "1021182158",
+    "banner_image": "https://static.licdn.com/aero-v1/sc/h/5q92mjc5c51bjlwaj3rs9aa82",
+    "honors_and_awards": null,
+    "similar_profiles": [],
+    "default_avatar": false,
+    "memorialized_account": false,
+    "bio_links": [],
+    "first_name": "Eric",
+    "last_name": "Aleong",
+    "influencer": false,
+    "timestamp": "2026-08-12T19:01:33.089Z",
+    "input": {
+      "url": "https://www.linkedin.com/in/eric-aleong"
+    }
+  },
+  "local_photo": "data\\linkedin_photos\\eric-aleong__usr-dVT04Hb8fJYEDc9.jpg"
+}

@@ -1,0 +1,49 @@
+{
+  "luma_user_id": "usr-EtMo6mD9itTmACj",
+  "csv_name": "Hunter Tsai",
+  "csv_linkedin": "https://www.linkedin.com/in/huntertsai",
+  "enriched_at": "2026-08-12T19:07:22.273505+00:00",
+  "batch_id": "sd_msqgmjx4y9b9cgg4i",
+  "profile": {
+    "id": "huntertsai",
+    "name": "Hunter Tsai",
+    "city": "United States",
+    "country_code": "US",
+    "position": null,
+    "about": null,
+    "current_company": {
+      "link": "https://www.linkedin.com/company/gradient-robotics?trk=public_profile_topcard-current-company",
+      "name": "Gradient Robotics",
+      "company_id": "gradient-robotics",
+      "location": null
+    },
+    "experience": null,
+    "url": "https://jp.linkedin.com/in/huntertsai",
+    "educations_details": "University of California, Berkeley",
+    "education": null,
+    "avatar": "https://media.licdn.com/dms/image/v2/D5603AQFJKfNdyuw0MA/profile-displayphoto-scale_200_200/B56Z9ZXk6jGgAc-/0/1783910783005?e=2147483647&v=beta&t=TlRlxXIaEyiAGh2k1pHl-PX-htgKvuLElbIY6gcGyiE",
+    "followers": 283,
+    "connections": 282,
+    "current_company_company_id": "gradient-robotics",
+    "current_company_name": "Gradient Robotics",
+    "location": null,
+    "input_url": "https://www.linkedin.com/in/huntertsai",
+    "linkedin_id": "huntertsai",
+    "activity": null,
+    "linkedin_num_id": "903873374",
+    "banner_image": "https://media.licdn.com/dms/image/v2/D5616AQGRvg2ey9Je2w/profile-displaybackgroundimage-shrink_200_800/B56ZpiQtKdI0AY-/0/1762585142423?e=2147483647&v=beta&t=-jpXDa8ekwxHjkoG2Lsrw8T2CpTcZYqHcMEiz8erGH0",
+    "honors_and_awards": null,
+    "similar_profiles": [],
+    "default_avatar": false,
+    "memorialized_account": false,
+    "bio_links": [],
+    "first_name": "Hunter",
+    "last_name": "Tsai",
+    "influencer": false,
+    "timestamp": "2026-08-12T19:06:11.706Z",
+    "input": {
+      "url": "https://www.linkedin.com/in/huntertsai"
+    }
+  },
+  "local_photo": "data\\linkedin_photos\\huntertsai__usr-EtMo6mD9itTmACj.jpg"
+}

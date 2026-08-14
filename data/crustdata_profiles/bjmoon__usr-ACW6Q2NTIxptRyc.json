@@ -1,0 +1,282 @@
+{
+  "source": "crustdata",
+  "recovered_from": "brightdata_failed_private",
+  "luma_user_id": "usr-ACW6Q2NTIxptRyc",
+  "csv_name": "Byeongjun Moon",
+  "csv_linkedin": "https://www.linkedin.com/in/bjmoon",
+  "clean_linkedin": "https://www.linkedin.com/in/bjmoon",
+  "enriched_at": "2026-08-14T18:07:59.937250+00:00",
+  "person_data": {
+    "basic_profile": {
+      "current_title": "Independent Design Practice",
+      "first_name": null,
+      "headline": "Design Engineer",
+      "languages": [
+        "Chinese (Native or bilingual proficiency)",
+        "Korean (Native or bilingual proficiency)",
+        "English (Native or bilingual proficiency)",
+        "French (Professional working proficiency)"
+      ],
+      "last_name": null,
+      "location": {
+        "city": "Los Angeles",
+        "continent": "North America",
+        "country": "United States",
+        "full_location": null,
+        "raw": "Los Angeles, California, United States",
+        "state": "California"
+      },
+      "name": "Byeongjun Moon",
+      "normalized_title": {
+        "confident": true,
+        "department": "Product & Design",
+        "matched_title": "Independent Design Professional",
+        "similarity": 0.9801999926567078,
+        "sub_department": "Freelance & Contract Creative"
+      },
+      "professional_network_name": "Byeongjun Moon",
+      "profile_picture_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/person/45f11a3d464136d3cd9912a8ab883a4f49a47c3daf0e667657f2058079ecb062.jpg",
+      "summary": "byeongjunmoon.com"
+    },
+    "education": {
+      "schools": [
+        {
+          "activities_and_societies": "",
+          "degree": "Bachelor of Science - BS",
+          "description": "",
+          "end_year": 2026,
+          "field_of_study": "Arts, Technology, and the Business of Innovation",
+          "institute_logo_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/company/4b9f2d576f91681b5762208e0bb9f05fbcc53b7699afcf7f36c3b9e36024b929.jpg",
+          "institute_logo_url": "https://media.licdn.com/dms/image/v2/C4E0BAQHatTfEv4Af6w/company-logo_400_400/company-logo_400_400/0/1631312619853?e=1775692800&v=beta&t=cDmXmmTdgC3aXdSuSUr6RhSwKbdKDfqjrEle7CjEtI0",
+          "location": {
+            "city": "Los Angeles",
+            "continent": "North America",
+            "country": "United States",
+            "raw": "Los Angeles, California, United States",
+            "state": "California"
+          },
+          "professional_network_id": "3084",
+          "school": "University of Southern California",
+          "start_year": 2022
+        },
+        {
+          "activities_and_societies": "",
+          "degree": "Bachelor of Science - BS",
+          "description": "",
+          "end_year": 2026,
+          "field_of_study": "Arts, Technology, and the Business of Innovation",
+          "institute_logo_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/company/268a613822000628cdbad782b884f078440ca5d4c0ade19e58d386f4fbf3dbe2.jpg",
+          "institute_logo_url": "https://media.licdn.com/dms/image/v2/C560BAQEqVEJwMJHmcg/company-logo_400_400/company-logo_400_400/0/1631403531119/usciovineyoung_logo?e=1775692800&v=beta&t=3m6jA1WLjrYM-luP6ePaJok9mIOPxGtxPBAJXfRMZ9Q",
+          "location": {
+            "city": "Los Angeles",
+            "continent": "North America",
+            "country": "United States",
+            "raw": "Los Angeles, California, United States",
+            "state": "California"
+          },
+          "professional_network_id": "18645963",
+          "school": "USC Jimmy Iovine and Andre Young Academy",
+          "start_year": 2022
+        }
+      ]
+    },
+    "experience": {
+      "employment_details": {
+        "current": [
+          {
+            "company_description": "",
+            "company_professional_network_profile_url": null,
+            "company_profile_picture_permalink": "",
+            "company_website_domain": null,
+            "crustdata_company_id": null,
+            "description": "Independent design and design engineering work for early-stage companies, research labs, and technology teams.\n\nSelect clients include Organic Intelligence, GRU Space (YC W26), Renalta, Exa (YC S21), Endaoment, Google X, and more.",
+            "employment_type": "",
+            "end_date": null,
+            "function_category": "Arts and Design",
+            "is_default": true,
+            "location": {
+              "raw": "Los Angeles, CA"
+            },
+            "name": "Byeongjun Moon",
+            "position_id": 2651814853,
+            "professional_network_id": "",
+            "seniority_level": "Entry Level",
+            "start_date": "2025-01-01T00:00:00+00:00",
+            "title": "Independent Design Practice",
+            "years_at_company": "1 to 2 years",
+            "years_at_company_raw": 1.0
+          }
+        ],
+        "past": [
+          {
+            "company_description": "FLORA is an applied AI HCI company building the world\u2019s most powerful creative tools.FLORA has all the best creative AI models on one infinite canvas, which you can connect together to concept rapidly and build generate workflows.We're growing the team. Learn more at florafauna.ai/careers.",
+            "company_professional_network_profile_url": "https://linkedin.com/company/103506822",
+            "company_profile_picture_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/company/e348acdde0601c6dfbd73a6a1833288a13514bf0247486e295541d4ddcc51763.jpg",
+            "company_website_domain": "flora.ai",
+            "crustdata_company_id": 2587201,
+            "description": "",
+            "employment_type": "Full-time",
+            "end_date": "2025-08-01T00:00:00+00:00",
+            "function_category": "Engineering",
+            "is_default": false,
+            "location": {
+              "raw": "Brooklyn, New York, United States"
+            },
+            "name": "FLORA",
+            "position_id": 2651582924,
+            "professional_network_id": "103506822",
+            "seniority_level": "Entry Level",
+            "start_date": "2025-04-01T00:00:00+00:00",
+            "title": "Design Engineer",
+            "years_at_company": "Less than 1 year",
+            "years_at_company_raw": 0.0
+          },
+          {
+            "company_description": "",
+            "company_professional_network_profile_url": "https://linkedin.com/company/86264830",
+            "company_profile_picture_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/company/b36837a29d580a4da5f3532ecd876383c52ed0f7f94bf7671d82a4dd29d254e1.jpg",
+            "company_website_domain": "mainstream.so",
+            "crustdata_company_id": 8826793,
+            "description": "Raised $1.2m+ from world-class investors to reimagine the way people interact with crypto governance.\n\nBacked by Lemniscap, Samsung NEXT, Larry Sukernik (Reverie), Linda Xie (Scalar Capital), Daryl Xu (Coinbase), & more.",
+            "employment_type": "Full-time",
+            "end_date": "2025-01-01T00:00:00+00:00",
+            "function_category": "",
+            "is_default": false,
+            "location": {
+              "raw": "Los Angeles, California, United States"
+            },
+            "name": "Mainstream Labs",
+            "position_id": 2659031798,
+            "professional_network_id": "86264830",
+            "seniority_level": "CXO",
+            "start_date": "2023-08-01T00:00:00+00:00",
+            "title": "Chief Executive Officer",
+            "years_at_company": "1 to 2 years",
+            "years_at_company_raw": 1.0
+          },
+          {
+            "company_description": "",
+            "company_professional_network_profile_url": "https://linkedin.com/company/86264830",
+            "company_profile_picture_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/company/b36837a29d580a4da5f3532ecd876383c52ed0f7f94bf7671d82a4dd29d254e1.jpg",
+            "company_website_domain": "mainstream.so",
+            "crustdata_company_id": 8826793,
+            "description": "Built decentralized governance products for crypto communities and organizations.\n\nRaised $1.2M+ from Lemniscap, Samsung NEXT, Scalar Capital, Reverie, Coinbase angels, and others.\n\nLed product, design, fundraising, hiring, and company strategy from zero to shutdown.",
+            "employment_type": "",
+            "end_date": "2025-01-01T00:00:00+00:00",
+            "function_category": "",
+            "is_default": false,
+            "location": {
+              "raw": "Los Angeles, CA"
+            },
+            "name": "Mainstream Labs",
+            "position_id": 2659031798,
+            "professional_network_id": "86264830",
+            "seniority_level": "CXO",
+            "start_date": "2023-08-01T00:00:00+00:00",
+            "title": "Co-Founder & CEO",
+            "years_at_company": "1 to 2 years",
+            "years_at_company_raw": 1.0
+          },
+          {
+            "company_description": "",
+            "company_professional_network_profile_url": "https://linkedin.com/company/86264830",
+            "company_profile_picture_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/company/b36837a29d580a4da5f3532ecd876383c52ed0f7f94bf7671d82a4dd29d254e1.jpg",
+            "company_website_domain": "mainstream.so",
+            "crustdata_company_id": 8826793,
+            "description": "",
+            "employment_type": "",
+            "end_date": "2023-08-01T00:00:00+00:00",
+            "function_category": "",
+            "is_default": false,
+            "location": {
+              "raw": "Vancouver, British Columbia, Canada"
+            },
+            "name": "Mainstream Labs",
+            "position_id": 2151557924,
+            "professional_network_id": "86264830",
+            "seniority_level": "Director",
+            "start_date": "2022-03-01T00:00:00+00:00",
+            "title": "Director",
+            "years_at_company": "1 to 2 years",
+            "years_at_company_raw": 1.0
+          },
+          {
+            "company_description": "We are making web and mobile apps to help people interact with the open source financial system.",
+            "company_professional_network_profile_url": "https://linkedin.com/company/18154988",
+            "company_profile_picture_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/company/efce639409bb16d493c79d12b87e60b28dea747d6759f4329ee3c334ea6f230a.jpg",
+            "company_website_domain": "balance.io",
+            "crustdata_company_id": 851602,
+            "description": "Designed for an iOS-native open-source Ethereum wallet, before the team went on to create WalletConnect, Uniswap, and Rainbow.",
+            "employment_type": "",
+            "end_date": "2022-03-01T00:00:00+00:00",
+            "function_category": "Arts and Design",
+            "is_default": false,
+            "location": {
+              "raw": "Vancouver, BC"
+            },
+            "name": "Balance.io",
+            "position_id": 2651821399,
+            "professional_network_id": "18154988",
+            "seniority_level": "Entry Level",
+            "start_date": "2022-01-01T00:00:00+00:00",
+            "title": "Product Designer",
+            "years_at_company": "Less than 1 year",
+            "years_at_company_raw": 0.0
+          }
+        ]
+      }
+    },
+    "professional_network": {
+      "connections": 1748,
+      "current_title": "Independent Design Practice",
+      "followers": 0,
+      "headline": "Design Engineer",
+      "location": {
+        "city": "Los Angeles",
+        "continent": "North America",
+        "country": "United States",
+        "raw": "Los Angeles, California, United States",
+        "state": "California"
+      },
+      "metadata": {
+        "last_scraped_source": null
+      },
+      "name": "Byeongjun Moon",
+      "profile_picture_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/person/45f11a3d464136d3cd9912a8ab883a4f49a47c3daf0e667657f2058079ecb062.jpg",
+      "pronoun": "He/Him",
+      "summary": "byeongjunmoon.com"
+    },
+    "skills": {
+      "professional_network_skills": [
+        "Graphic Design",
+        "User Interface Design",
+        "Leadership",
+        "Project Management",
+        "Videography",
+        "Motion Graphics",
+        "Web Design",
+        "Keynote",
+        "Adobe Premiere Pro",
+        "Adobe Photoshop",
+        "Adobe XD",
+        "Figma (Software)",
+        "Team Leadership",
+        "Critical Thinking",
+        "Problem Solving",
+        "Nonprofit Organizations"
+      ]
+    },
+    "social_handles": {
+      "dev_platform_identifier": {
+        "profile_url": null
+      },
+      "professional_network_identifier": {
+        "profile_url": "https://www.linkedin.com/in/bjmoon"
+      },
+      "twitter_identifier": {
+        "slug": ""
+      }
+    },
+    "crustdata_person_id": 241910514
+  }
+}

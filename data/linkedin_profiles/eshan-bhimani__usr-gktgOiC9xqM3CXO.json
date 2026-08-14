@@ -1,0 +1,294 @@
+{
+  "luma_user_id": "usr-gktgOiC9xqM3CXO",
+  "csv_name": "Eshan B",
+  "csv_linkedin": "https://www.linkedin.com/in/eshan-bhimani",
+  "enriched_at": "2026-08-12T19:06:01.808504+00:00",
+  "batch_id": "sd_msqgh02428smzgu5m",
+  "profile": {
+    "id": "eshan-bhimani",
+    "name": "Eshan Bhimani",
+    "city": "Atlanta, Georgia, United States",
+    "country_code": "US",
+    "position": null,
+    "about": "Hi, I\u2019m Eshan Bhimani. I\u2019m a Computer Science student at Georgia Tech passionate about\u2026",
+    "current_company": {
+      "link": "https://www.linkedin.com/company/ncratleos?trk=public_profile_topcard-current-company",
+      "name": "NCR Atleos",
+      "company_id": "ncratleos",
+      "location": null
+    },
+    "experience": null,
+    "url": "https://mx.linkedin.com/in/eshan-bhimani",
+    "educations_details": "Georgia Institute of Technology",
+    "education": [
+      {
+        "title": "Georgia Institute of Technology",
+        "url": "https://www.linkedin.com/school/georgia-institute-of-technology/",
+        "start_year": "2026",
+        "end_year": "2028",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      },
+      {
+        "start_year": "2024",
+        "end_year": "2026",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      },
+      {
+        "start_year": "2020-08",
+        "end_year": "2024-05",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      }
+    ],
+    "avatar": "https://media.licdn.com/dms/image/v2/D4E03AQGS37XF2R0U8Q/profile-displayphoto-scale_200_200/B4EZ4Lii4sKAAc-/0/1778310070970?e=2147483647&v=beta&t=Vc31UMavXq5sSVxk6KQ9ldicxTs4uRWcmETDF729gqI",
+    "courses": [
+      {
+        "subtitle": "CSCI 4470",
+        "title": "Algorithms"
+      },
+      {
+        "subtitle": "Math 3300",
+        "title": "Applied Linear Algebra"
+      },
+      {
+        "subtitle": "Math 2260",
+        "title": "Calculus 2"
+      },
+      {
+        "subtitle": "CSCI 3030",
+        "title": "Computing, Ethics, and Society"
+      },
+      {
+        "subtitle": "CSCI 2720",
+        "title": "Data Structures"
+      },
+      {
+        "subtitle": "CSCI 4370",
+        "title": "Database Management"
+      },
+      {
+        "subtitle": "CSCI 2610",
+        "title": "Discrete Math"
+      },
+      {
+        "subtitle": "CSCI 2670",
+        "title": "Introduction to Theory of Computing"
+      },
+      {
+        "subtitle": "CSCI 1302",
+        "title": "Software Development"
+      }
+    ],
+    "languages": [
+      {
+        "subtitle": "Full professional proficiency",
+        "title": "English"
+      },
+      {
+        "subtitle": "Limited working proficiency",
+        "title": "Sindhi"
+      },
+      {
+        "subtitle": "Limited working proficiency",
+        "title": "Spanish"
+      }
+    ],
+    "volunteer_experience": [
+      {
+        "cause": "Children",
+        "duration": "May 2022 \u00b7 - \nAug 2023 \u00b7 \n1 year 4 months",
+        "duration_short": "- \nAug 2023",
+        "info": "Volunteered at Horizons Atlanta, creating a safe and inclusive environment for 150+ underserved children. Provided classroom assistance to support student learning and development, while collaborating with staff on administrative tasks. Contributed to fostering a positive atmosphere that encouraged academic growth and personal confidence.",
+        "start_date": "May 2022",
+        "subtitle": "Horizons Atlanta",
+        "title": "Volunteer"
+      },
+      {
+        "cause": "Social Services",
+        "duration": "May 2021 \u00b7 - \nMay 2024 \u00b7 \n3 years 1 month",
+        "duration_short": "- \nMay 2024",
+        "info": "Raised funds for Eye Drive to allow people to get eye surgery, collected and organized school supplies for distribution to children in need, served food to community members facing hardship, created a welcoming environment",
+        "start_date": "May 2021",
+        "subtitle": "SADHU VASWANI CENTER",
+        "title": "Community Volunteer"
+      }
+    ],
+    "followers": 717,
+    "connections": 500,
+    "current_company_company_id": "ncratleos",
+    "current_company_name": "NCR Atleos",
+    "projects": [
+      {
+        "title": "AutoTennant",
+        "start_date": "Apr 2026",
+        "description": "AI-powered property management platform automating the full rental workflow. Ingests Zillow listings via API, runs AI-driven tenant screening, and auto-generates leases, reducing landlord overhead from days to minutes. Next.js frontend backed by a FastAPI service layer, PostgreSQL for relational data, Stripe for payment processing and webhook-driven rent collection, and Resend for automated tenant communications. Live soon."
+      },
+      {
+        "title": "CollectHub",
+        "start_date": "Jan 2026",
+        "description": "AI-powered sports card platform combining computer vision and auction intelligence \u2014 OpenCV contour detection with perspective correction and confidence scoring auto-crops card images to PSA Registry spec, eliminating hours of manual digitization per collection. REST API (FastAPI/Render) handles batch image processing with Playwright-driven PSA sync. Pricing intelligence layer ingests auction data to surface real-time market comps. Stack: Python, OpenCV, FastAPI, React Native, Google Cloud."
+      }
+    ],
+    "organizations": [
+      {
+        "title": "Devs On Wall Street",
+        "membership_type": "President",
+        "start_date": "Dec 2024",
+        "end_date": "May 2026",
+        "description": "Leading a 300+ member FinTech community and a 6-person executive board to bridge the gap between technical finance and software engineering. Led 10+ high-impact events featuring industry leaders from Citadel, Google, and BlackRock. Led large school-wide hackathons to promote building with AI.",
+        "membership_number": null
+      }
+    ],
+    "location": "Atlanta",
+    "input_url": "https://www.linkedin.com/in/eshan-bhimani",
+    "linkedin_id": "eshan-bhimani",
+    "activity": [
+      {
+        "interaction": "Shared by Eshan Bhimani",
+        "link": "https://www.linkedin.com/posts/eshan-bhimani_just-wrapped-up-my-summer-at-ncr-atleos-as-activity-7493325349985021953-c_4k",
+        "title": "Just wrapped up my summer at NCR Atleos as a Software Engineer Intern on the Data & AI team! This summer, I built and shipped AI agents and tools\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQHKOGWNUd8FtA/feedshare-shrink_1280/B56Z_2jsrlHIAM-/0/1786547981338?e=2147483647&v=beta&t=W-ANLKo6ZVIf_zyP8FHkEP0oJUePzE5tmJgcaJIH49k",
+        "id": "7493325349985021953"
+      },
+      {
+        "interaction": "Liked by Eshan Bhimani",
+        "link": "https://www.linkedin.com/posts/saachi-varshney_last-week-i-wrapped-up-an-amazing-internship-activity-7492436959781384192-_cdP",
+        "title": "Last week, I wrapped up an amazing internship at Credera! This summer, I had the opportunity to work on a Personalization team supporting a major\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQHIuAtV8EiDtQ/feedshare-shrink_800/B4EZ_p7s_rJgAc-/0/1786336170312?e=2147483647&v=beta&t=uQNxPyF0jsQx-H2Ff48I_uxTPjfMhtd4x_Od4PTR6Rg",
+        "id": "7492436959781384192"
+      },
+      {
+        "interaction": "Liked by Eshan Bhimani",
+        "link": "https://www.linkedin.com/posts/paul-goblirsch_wrapped-up-a-great-summer-at-the-ncr-atleos-activity-7491306247560884224-6slM",
+        "title": "Wrapped up a great summer at the NCR Atleos Intern Expo this afternoon, where Henry Gibbs and I presented the legal AI tools we've been developing\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQEb_bsErH3lVA/feedshare-image-high-res/B4EZ_Z3VYAKQAU-/0/1786066589482?e=2147483647&v=beta&t=TNxJq5l3hrVBo-oIO4eoG8PDlUfoMDA5QE2uvc4-HRg",
+        "id": "7491306247560884224"
+      },
+      {
+        "interaction": "Liked by Eshan Bhimani",
+        "link": "https://www.linkedin.com/posts/clary-dunaway-4a4296341_im-so-excited-to-share-that-ill-be-joining-activity-7491528550299287553-DfUZ",
+        "title": "I\u2019m so excited to share that I\u2019ll be joining Boston Consulting Group (BCG) as a 2027 Summer Associate at its New Jersey office! I\u2019m so grateful to\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQGe7lJdu08y9g/feedshare-shrink_800/B4EZ_dBhLxHMAg-/0/1786119590966?e=2147483647&v=beta&t=Il2ihJhAkQtviSW6ObMBRCf8nmaxRKJxPXHIjnflui0",
+        "id": "7491528550299287553"
+      },
+      {
+        "interaction": "Liked by Eshan Bhimani",
+        "link": "https://www.linkedin.com/posts/anay-kulkarni2028_this-past-summer-i-had-the-opportunity-to-activity-7490402811080343553-cKo1",
+        "title": "This past summer, I had the opportunity to join Coca-Cola Bottling Company UNITED, Inc. and gain experience across various departments throughout the\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQGv8IWGFM8LQw/feedshare-shrink_800/B4EZ_NBo27KUAc-/0/1785851188900?e=2147483647&v=beta&t=J4momegnwCXkKzeTYWE3hMwVK3-5gnpEtUNVZIB1B2g",
+        "id": "7490402811080343553"
+      },
+      {
+        "interaction": "Liked by Eshan Bhimani",
+        "link": "https://www.linkedin.com/posts/benjaminburns-_this-summer-i-spent-a-week-at-the-haslam-activity-7490126727969505280-wd11",
+        "title": "This summer I spent a week at The Haslam College of Business at the University of Tennessee studying global supply chain management. I left seeing\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQEQeLvPMEUmGw/feedshare-shrink_800/B4EZ_JGhI5JYAg-/0/1785785357174?e=2147483647&v=beta&t=uzat06DYYfo6sYqcvBs0V0klttcfmiLlzhDzQOiIb58",
+        "id": "7490126727969505280"
+      },
+      {
+        "interaction": "Liked by Eshan Bhimani",
+        "link": "https://www.linkedin.com/posts/y-combinator_the-best-way-to-learn-how-startups-work-is-activity-7490097268663177217-d1sl",
+        "title": "The best way to learn how startups work is to work at one. On August 15, we're inviting ambitious students to YC HQ to meet more than 50 YC\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5605AQFN24IibpW8Vg/videocover-low/B56Z_IpOT1IcBI-/0/1785777679234?e=2147483647&v=beta&t=jIvwt3q1Gmqc4kgQW9xSvgi5v_z88c8NmJ0WntqHJKo",
+        "id": "7490097268663177217"
+      },
+      {
+        "interaction": "Liked by Eshan Bhimani",
+        "link": "https://www.linkedin.com/posts/viraj-karanjawala-2433752a3_reflecting-on-my-summer-as-an-accounting-activity-7490049225561542656-n2yV",
+        "title": "Reflecting on my summer as an Accounting and Finance intern at Priority Commerce, it is safe to say I am leaving with a truly memorable\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQEScUCoIWKVkQ/feedshare-shrink_800/B4EZ_IAE2dHoAc-/0/1785766891819?e=2147483647&v=beta&t=J0YEOs3WtAszhM_srhalHVw0iQNVeH0JxId7yo_1tN8",
+        "id": "7490049225561542656"
+      },
+      {
+        "interaction": "Liked by Eshan Bhimani",
+        "link": "https://www.linkedin.com/posts/richardxphan_the-best-decision-i-ever-made-was-saying-activity-7489084896150216704-ziFt",
+        "title": "the best decision i ever made was saying no to another internship. not because it was smart. honestly it was terrifying. but i realized i was\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5605AQHNbYjqQBcPRA/videocover-high/B56Z.6S_ecGgBM-/0/1785536970940?e=2147483647&v=beta&t=J9b2iK3w1k5dvXksPzsB4_quMc0Ag3JFVgFYW4tSM4U",
+        "id": "7489084896150216704"
+      },
+      {
+        "interaction": "Liked by Eshan Bhimani",
+        "link": "https://www.linkedin.com/posts/mccaleigh-diponzio-661938206_lifeatncratleos-interns-earlycareers-activity-7488733529925906432-UPnc",
+        "title": "Happy National Intern Day to our incredible U.S. intern cohort! We have been so fortunate to have such a bright, curious and talented group of\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQG1NbilzL0NVQ/feedshare-shrink_800/B4EZ.1TdehKsAc-/0/1785453205634?e=2147483647&v=beta&t=V6hW9waAdHOA2qHcDBCZ2xzEcgeTt7VWXj-lTa6bYik",
+        "id": "7488733529925906432"
+      },
+      {
+        "interaction": "Liked by Eshan Bhimani",
+        "link": "https://www.linkedin.com/posts/investors-asset-management-of-ga_this-summer-our-team-at-investors-asset-activity-7488628936193527808-r1kF",
+        "title": "This summer, our team at Investors Asset Management of Georgia had the privilege of working alongside a bright young talent, Rishi Agrawal, our\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQHx09_4wLa6JA/feedshare-shrink_800/B56Z.z0VQOJoAk-/0/1785428268344?e=2147483647&v=beta&t=L4qs7-inWwKz4Pg2GtQMT-bi-66lAEv5TFJwEB8QgPg",
+        "id": "7488628936193527808"
+      },
+      {
+        "interaction": "Liked by Eshan Bhimani",
+        "link": "https://www.linkedin.com/posts/y-combinator_nvidia-started-with-the-wrong-technology-activity-7487247135730462720-JWc3",
+        "title": "NVIDIA started with the wrong technology, learned the right one from three textbooks bought at Fry\u2019s, and went on to invent most of the major\u2026",
+        "img": "https://dms.licdn.com/playlist/vid/v2/D5605AQGrnj6sabvrgA/thumbnail-shrink_720_1280/B56Z.gLYlqKMAk-/0/1785098784466?e=2147483647&v=beta&t=rEvbtwgOw7DzppnqyUWUQGacr6LVq6U2HAMFB8BG_1k",
+        "id": "7487247135730462720"
+      },
+      {
+        "interaction": "Liked by Eshan Bhimani",
+        "link": "https://www.linkedin.com/posts/y-combinator_good-morning-startup-school-activity-7486802378881605632-YRXX",
+        "title": "good morning startup school",
+        "img": "https://media.licdn.com/dms/image/v2/D5605AQFdBFlhRQT20A/videocover-high/B56Z.Z3EboJgBM-/0/1784992779342?e=2147483647&v=beta&t=r6PSOX90emzorlakmHIZTT-uhiiAPPV2ektHmshyruM",
+        "id": "7486802378881605632"
+      },
+      {
+        "interaction": "Liked by Eshan Bhimani",
+        "link": "https://www.linkedin.com/posts/ahren-kalavar-87259525a_community-logistics-freightoperations-activity-7486502482752393216--5y1",
+        "title": "What is one operational process you would love to never reconstruct again? A missing POD? A custody handoff? A damage exception? A detention\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQHJELta1R0SQw/feedshare-image-high-res/B4EZ.VmVlIKIAU-/0/1784921283174?e=2147483647&v=beta&t=5Eah-hlHlNxO9qeq-bxVj725bUSPwkKMqf3Gt7d65xg",
+        "id": "7486502482752393216"
+      },
+      {
+        "interaction": "Liked by Eshan Bhimani",
+        "link": "https://www.linkedin.com/posts/kingsley-royal_tag-along-as-i-take-you-through-my-day-as-activity-7485753640440283136-rfMG",
+        "title": "Tag along as I take you through my day as a Center for Injury Research and Prevention REU intern at Children's Hospital of Philadelphia.",
+        "img": "https://static.licdn.com/aero-v1/sc/h/53n89ecoxpr1qrki1do3alazb",
+        "id": "7485753640440283136"
+      },
+      {
+        "interaction": "Liked by Eshan Bhimani",
+        "link": "https://www.linkedin.com/posts/mccaleigh-diponzio-661938206_lifeatncratleos-interns-volunteerday-activity-7485692532870344705-V4tA",
+        "title": "Our interns have had plenty of opportunities to learn, grow and have fun this summer, but just as importantly, we've emphasized the importance of\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQF9Yi-cr6oXJA/feedshare-shrink_1280/B4EZ.KFrEJK4AM-/0/1784728171052?e=2147483647&v=beta&t=q9nDH2pTcGpy7kFMH3oN6PLrpv455UWYRaGcvBlbRYw",
+        "id": "7485692532870344705"
+      },
+      {
+        "interaction": "Liked by Eshan Bhimani",
+        "link": "https://www.linkedin.com/posts/ahren-kalavar-87259525a_logistics-freight-supplychain-activity-7485433973729492992-00gd",
+        "title": "Quick question for logistics teams: What is harder? A. Finding where a shipment is or B. Proving exactly what happened when something goes\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQH5D2qntKHDEw/feedshare-shrink_800/B4EZ.GaiQXJkAc-/0/1784666531130?e=2147483647&v=beta&t=sZJsQQ2VtFrMxO3MinfsRgNBNHmmLDrLnvv6xWIIPWQ",
+        "id": "7485433973729492992"
+      }
+    ],
+    "linkedin_num_id": "1095991521",
+    "banner_image": "https://media.licdn.com/dms/image/v2/D4E16AQGdrWyoSkrHXA/profile-displaybackgroundimage-shrink_200_800/B4EZy8I09aGcAU-/0/1772682957164?e=2147483647&v=beta&t=jLan2qP374-roJCudrxrg6gTr9vdztCsz2-PSM9L34c",
+    "honors_and_awards": [
+      {
+        "title": "Zell Miller Scholarship",
+        "publication": "University of Georgia",
+        "date": "2024-06-01T00:00:00.000Z",
+        "description": "A merit-based scholarship program for Georgia residents who have demonstrated academic achievement. 3.7+ Hope GPA. Covers tuition."
+      }
+    ],
+    "similar_profiles": [],
+    "default_avatar": false,
+    "memorialized_account": false,
+    "bio_links": [],
+    "first_name": "Eshan",
+    "last_name": "Bhimani",
+    "influencer": false,
+    "timestamp": "2026-08-12T19:02:04.997Z",
+    "input": {
+      "url": "https://www.linkedin.com/in/eshan-bhimani"
+    }
+  },
+  "local_photo": "data\\linkedin_photos\\eshan-bhimani__usr-gktgOiC9xqM3CXO.jpg"
+}

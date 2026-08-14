@@ -1,0 +1,112 @@
+{
+  "luma_user_id": "usr-rUgOp74e5xLeuWr",
+  "csv_name": "Yuvvan Talreja",
+  "csv_linkedin": "https://www.linkedin.com/in/yuvvantalreja",
+  "enriched_at": "2026-08-12T19:25:08.256303+00:00",
+  "batch_id": "sd_msqh7u7r1xzwli6vdk",
+  "profile": {
+    "id": "yuvvantalreja",
+    "name": "Yuvvan Talreja",
+    "city": "Pittsburgh, Pennsylvania, United States",
+    "country_code": "US",
+    "position": null,
+    "about": null,
+    "current_company": {
+      "link": "https://www.linkedin.com/school/y-combinator/?trk=public_profile_topcard-current-company",
+      "name": "Y Combinator",
+      "location": null
+    },
+    "experience": null,
+    "url": "https://nl.linkedin.com/in/Yuvvantalreja",
+    "educations_details": "Carnegie Mellon University",
+    "education": null,
+    "avatar": "https://media.licdn.com/dms/image/v2/D4D03AQHEn3kK-TjxzA/profile-displayphoto-scale_200_200/B4DZnfazgTKQAY-/0/1760389970362?e=2147483647&v=beta&t=ityL3oP9M3SGz4gJ3sr4iGpYKe_0FWi-pWkRW52pvG4",
+    "languages": [
+      {
+        "subtitle": "Full professional proficiency",
+        "title": "English"
+      },
+      {
+        "subtitle": "Limited working proficiency",
+        "title": "Hindi"
+      }
+    ],
+    "followers": 405,
+    "connections": 405,
+    "current_company_name": "Y Combinator",
+    "location": "Pittsburgh",
+    "input_url": "https://www.linkedin.com/in/yuvvantalreja",
+    "linkedin_id": "yuvvantalreja",
+    "activity": [
+      {
+        "interaction": "Yuvvan Talreja liked this",
+        "link": "https://www.linkedin.com/posts/abhilash-katuru_we-just-won-anthropics-speedrun-hackathon-activity-7453962895824154624-BZNH",
+        "title": "We just won Anthropic's Speedrun Hackathon! The format was simple (and intense): 1.5 hours to design and ship a fully working product using Anthropic's technology. No time for overthinking, just build. Our project started from a pretty simple observation: everyone has a melody stuck in their head, but almost no one has the tools to actually get it out. So we built a tool to turn ideas into music without needing DAWs or theory. You can hum melodies, tap rhythms, or describe what you want, and the system translates it into a live 16-step sequencer. The goal was simple: the human stays the artist, and the computer acts purely as an instrument. Shoutout to Om Arora , Aryan Daga , and Yuvvan Talreja for being amazing teammates, and to CMU Claude Builder Club for hosting the event. ...more ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQHZJMY243GWwg/feedshare-image-high-res/B4EZ3HLwIcK4AU-/0/1777163240229?e=2147483647&v=beta&t=rbZp03TJOtjYNVdnYSZ0pu_J3UdCZw9EIYjrlATO_zw",
+        "id": "7453962895824154624"
+      },
+      {
+        "interaction": "Yuvvan Talreja liked this",
+        "link": "https://www.linkedin.com/posts/anthropicresearch_anthropic-opens-bengaluru-office-and-announces-activity-7429087322857582592-uUas",
+        "title": "We\u2019re officially opening our Bengaluru office\u2014our new home base in India and Anthropic\u2019s second office in Asia-Pacific. India is our second-largest market for Claude.ai . We\u2019ve spent the past six months improving Claude\u2019s performance on 10 of the most widely spoken Indic languages. We\u2019re also deepening our long-term commitment to India with a series of partnerships, including with Pratham Education Foundation , EkStep Foundation , and Central Square Foundation \u2014focused on bringing Claude to education, agriculture, and digital public infrastructure. Read more: https://lnkd.in/ejx8N3Ek ...more ...more",
+        "img": "https://media.licdn.com/dms/image/sync/v2/D4E27AQFxwGX9lc7n_Q/articleshare-shrink_800/B4DZ5XUNODJQAQ-/0/1779581383795?e=2147483647&v=beta&t=CdIHayXtE5I9GliloVnsVbX34cw_r5SyIROog5ErBK4",
+        "id": "7429087322857582592"
+      },
+      {
+        "interaction": "Yuvvan Talreja liked this",
+        "link": "https://www.linkedin.com/posts/virtoolsidass_how-does-gen-z-find-out-about-the-news-today-activity-7426304502120554496-SQ3e",
+        "title": "How does Gen Z find out about the news today? We were curious, so we asked students from all over the country at TartanHacks this weekend. The answer was mostly the same: doomscrolling. So Yuvvan Talreja and I just pushed a new feature to Vinyl , a daily news brief delivered at a time you choose and personalized to the topics you actually care about. Quit doomscrolling to stay informed. Use Vinyl instead. https://www.getvinyl.app/ ...more ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQGJyGLmmIwj2w/feedshare-shrink_800/B4EZw.Il0XKgAg-/0/1770568965797?e=2147483647&v=beta&t=orx5gQBqp6xE4WtCpJnu_fZPPr_r15rtpKirFAki1UI",
+        "id": "7426304502120554496"
+      },
+      {
+        "interaction": "Yuvvan Talreja liked this",
+        "link": "https://www.linkedin.com/posts/anthropicresearch_donating-the-model-context-protocol-and-establishing-activity-7404205539590922241-3sG-",
+        "title": "One year ago, we launched the Model Context Protocol (MCP) as an open standard for connecting AI applications to external systems. Since then, MCP has become a foundational protocol for agentic AI, with 10,000+ active servers, client support across most leading AI platforms, and 97M+ monthly SDK downloads. Today, we\u2019re taking a major step to ensure MCP\u2019s long-term future as an open, community-driven and vendor-neutral standard. Anthropic is donating MCP to the Linux Foundation, where it will be a founding project of the Agentic AI Foundation (AAIF)\u2014a new directed fund established by Anthropic , OpenAI , Block , Google , Microsoft , Amazon , Cloudflare , and Bloomberg to advance open-source innovation in agentic AI. We're continuing to invest in MCP's growth alongside the open source community. Read the full announcement: https://lnkd.in/g6N3hUmd ...more ...more",
+        "img": "https://media.licdn.com/dms/image/sync/v2/D5627AQE44nqpJ4tIsg/articleshare-shrink_800/B4EZ5tt67aK8AU-/0/1779957222089?e=2147483647&v=beta&t=a63a64KHK7vkwkPFvIVgZUa04U4yMRwB1xvjDJFlhF4",
+        "id": "7404205539590922241"
+      },
+      {
+        "interaction": "Yuvvan Talreja liked this",
+        "link": "https://www.linkedin.com/posts/cmu-human-computer-interaction-institute_cmuhcii-carnegiemellon-dataviz-activity-7353790743297040384-gF9l",
+        "title": "The data vis project \"Mosaic: An Architecture for Linking Databases and Scalable Interactive Visualizations\" recently received a SIGMOD Best Demo Runner Up award at the ACM SIGMOD/PODS International Conference on Management of Data in Berlin, Germany. Mosaic is a powerful tool that helps people make sense of massive amounts of data by letting them explore, filter, and visualize interactive charts and dashboards quickly and efficiently. Congrats to the Mosaic team on this recognition! \ud83d\udcca \ud83c\udf89 The Mosaic team includes Dominik Moritz from the CMU HCII's Data Interaction Group (DIG Lab) as well as colleagues Jeffrey Heer and Ron Pechunk from the University of Washington Interactive Data Lab. Learn more below: \ud83d\udd17 SIGMOD Awards: https://lnkd.in/g4wSpqxY \ud83d\udd17 Mosaic: https://idl.uw.edu/mosaic/ #cmuhcii #CarnegieMellon #DataViz #DataVisualization #InteractiveData #DataManagement #SIGMOD #InteractiveVisualizations #HumanComputerInteraction ...more ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D4E05AQEmMd4TRKvMcg/videocover-high/B4EZg3ptQQHgCI-/0/1753280338267?e=2147483647&v=beta&t=CnZf2FiXbw9YB5OaHXEztVD_gmXDzDeSoHwKLYVeNYE",
+        "id": "7353790743297040384"
+      },
+      {
+        "interaction": "Yuvvan Talreja liked this",
+        "link": "https://www.linkedin.com/posts/banyanai_composer-visually-build-and-manage-prompt-activity-7341335195381391360-a87G",
+        "title": "A new tutorial on how to use Composer \u2014 Banyan\u2019s visual interface for building and iterating on prompt workflows. Check it out: https://lnkd.in/duGpFhrg ...more ...more",
+        "img": "https://media.licdn.com/dms/image/sync/v2/D4D27AQHPiYzOug_idw/articleshare-shrink_800/B4DZeGpMmpHMAQ-/0/1750310636549?e=2147483647&v=beta&t=n7RJp2Zay8_BELKuUgT-Q4kOb86QFQiZJ5LMPRcIdM8",
+        "id": "7341335195381391360"
+      },
+      {
+        "interaction": "Yuvvan Talreja liked this",
+        "link": "https://www.linkedin.com/posts/banyanai_banyan-activity-7340802418890158080-Z7pX",
+        "title": "We just launched Banyan, a developer-friendly prompt infrastructure platform designed to solve a problem that every team building with LLMs eventually runs into: prompt chaos in production. Check it out: https://www.usebanyan.com/ Over the past few months, our team found ourselves juggling: \u2022 Prompt definitions scattered across YAML files, docs, and Slack threads \u2022 No reliable version history or visibility into changes \u2022 No way to A/B test prompt updates without redeploying everything So we built Banyan to bring order: \u2022 Composer \u2014 drag\u2011&\u2011drop prompt workflows with git-style version control \u2022 Experiments \u2014 design A/B tests and monitor statistically\u2011significant results \u2022 AI evaluation \u2014 automatically score prompt outputs and suggest improvements \u2022 Quick integration \u2014 CLI, Python SDK and Rest API compatible with OpenAI, Anthropic, Llama and all your favourite tools Today we\u2019re opening the free beta to developers and teams building with LLMs \u2014 no strings attached, just feedback welcomed. Why this matters: LLM-powered apps deserve the same developer-grade tools as code\u2014clear history, easy collaboration, repeatable tests, and exemplar results. If you\u2019ve wrestled with prompt drift, repeatability, or scaling your prompt experimentation, we\u2019d love to hear your thoughts. Looking forward to building with this community, Banyan Team \ud83c\udf33 https://x.com/banyan_ai ...more ...more",
+        "img": null,
+        "id": "7340802418890158080"
+      }
+    ],
+    "linkedin_num_id": "571771579",
+    "banner_image": "https://media.licdn.com/dms/image/v2/D4D16AQGn_XDtITt-Fw/profile-displaybackgroundimage-shrink_200_800/B4DZqJon2UJMAU-/0/1763245719719?e=2147483647&v=beta&t=qnqF_pLT5fKn9xpfdihUMYPhzAKkX_1Jy1NeQ2GW_W0",
+    "honors_and_awards": null,
+    "similar_profiles": [],
+    "default_avatar": false,
+    "memorialized_account": false,
+    "bio_links": [
+      {
+        "title": "Personal Website",
+        "link": "https://yuvvantalreja.github.io/my-portfolio/"
+      }
+    ],
+    "first_name": "Yuvvan",
+    "last_name": "Talreja",
+    "influencer": false,
+    "timestamp": "2026-08-12T19:23:31.943Z",
+    "input": {
+      "url": "https://www.linkedin.com/in/yuvvantalreja"
+    }
+  },
+  "local_photo": "data\\linkedin_photos\\yuvvantalreja__usr-rUgOp74e5xLeuWr.jpg"
+}

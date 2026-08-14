@@ -1,0 +1,170 @@
+{
+  "luma_user_id": "usr-WmFpEx0XyhAehg1",
+  "csv_name": "Andrew Churchill",
+  "csv_linkedin": "https://www.linkedin.com/in/andrew-d-churchill",
+  "enriched_at": "2026-08-12T18:56:33.266125+00:00",
+  "batch_id": "sd_msqg8yml2ia5na9bcp",
+  "profile": {
+    "id": "andrew-d-churchill",
+    "name": "Andrew Churchill",
+    "city": "San Francisco Bay Area",
+    "country_code": "US",
+    "position": null,
+    "about": null,
+    "current_company": {
+      "link": "https://www.linkedin.com/company/weave-dev?trk=public_profile_topcard-current-company",
+      "name": "Weave",
+      "company_id": "weave-dev",
+      "location": null
+    },
+    "experience": null,
+    "url": "https://bd.linkedin.com/in/Andrew-d-churchill",
+    "people_also_viewed": [
+      {
+        "profile_link": "https://www.linkedin.com/in/angel-a-05843094",
+        "name": "Angel A.",
+        "about": "Google",
+        "location": "1K followers San Jose, CA"
+      },
+      {
+        "profile_link": "https://www.linkedin.com/in/carolwang2000",
+        "name": "Carol Wang",
+        "about": "Plaid",
+        "location": "6K followers New York, NY"
+      },
+      {
+        "profile_link": "https://www.linkedin.com/in/ayeshagurnani",
+        "name": "Ayesha Gurnani",
+        "about": "Microsoft",
+        "location": "9K followers Greater Seattle Area"
+      },
+      {
+        "profile_link": "https://uk.linkedin.com/in/chris-dani",
+        "name": "Chris Dani",
+        "about": "Turo",
+        "location": "6K followers United Kingdom"
+      },
+      {
+        "profile_link": "https://www.linkedin.com/in/sujayvittal",
+        "name": "Sujay Vittal",
+        "about": "Samsara",
+        "location": "10K followers Seattle, WA"
+      },
+      {
+        "profile_link": "https://www.linkedin.com/in/madelinemzhang",
+        "name": "Madeline Zhang",
+        "about": "Airbnb",
+        "location": "38K followers San Francisco Bay Area"
+      },
+      {
+        "profile_link": "https://www.linkedin.com/in/pandianraju",
+        "name": "Pandian Raju",
+        "about": "Rubrik",
+        "location": "3K followers Palo Alto, CA"
+      },
+      {
+        "profile_link": "https://www.linkedin.com/in/avichalsaxena",
+        "name": "Avichal S.",
+        "about": "Arm",
+        "location": "3K followers San Diego, CA"
+      },
+      {
+        "profile_link": "https://uk.linkedin.com/in/vivek-hamirwasia",
+        "name": "Vivek Hamirwasia",
+        "about": "Jane Street",
+        "location": "13K followers London Area, United Kingdom"
+      },
+      {
+        "profile_link": "https://www.linkedin.com/in/mansimathur",
+        "name": "Mansi Mathur",
+        "about": "Meta",
+        "location": "2K followers Menlo Park, CA"
+      }
+    ],
+    "educations_details": "Y Combinator",
+    "education": [
+      {
+        "title": "Y Combinator",
+        "url": "https://www.linkedin.com/school/y-combinator/",
+        "start_year": "2025-01",
+        "end_year": "2025-03",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      },
+      {
+        "start_year": "2017-01",
+        "end_year": "2022-05",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      }
+    ],
+    "avatar": "https://media.licdn.com/dms/image/v2/D4E03AQHzqn3jeCB-Pw/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1721359058890?e=2147483647&v=beta&t=qFXBWO_uTx3Q4g6Q3Rbp9Vm2VcIpZ7gp5CxRwFGdKIU",
+    "courses": [
+      {
+        "subtitle": "6.034",
+        "title": "Artificial Intelligence"
+      },
+      {
+        "subtitle": "6.009",
+        "title": "Fundamentals of Programming"
+      },
+      {
+        "subtitle": "6.006",
+        "title": "Introduction to Algorithms"
+      },
+      {
+        "subtitle": "18.06",
+        "title": "Linear Algebra"
+      },
+      {
+        "subtitle": "6.042",
+        "title": "Mathematics for Computer Science"
+      },
+      {
+        "subtitle": "18.01A/18.02A",
+        "title": "Multivariable Calculus"
+      },
+      {
+        "subtitle": "6.031",
+        "title": "Software Construction"
+      }
+    ],
+    "followers": 11687,
+    "connections": 500,
+    "current_company_company_id": "weave-dev",
+    "current_company_name": "Weave",
+    "projects": [
+      {
+        "title": "Custom 3D Printer",
+        "start_date": "Jun 2017",
+        "description": "Built a 3D printer from a kit (Anet A8) then fully upgraded with custom components - frame, extruder, motherboard, extruder motor assembly, and several other 3D-printed upgrades. Fully upgrading its control systems and operation based on custom components, including customizing Arduino firmware."
+      },
+      {
+        "title": "Homemade Tesla Coil",
+        "start_date": "Feb 2015",
+        "description": "Designed, built, tested, and optimized a Tesla coil in a team of two for a self-guided science fair project. Won first place at the Massachusetts State Science and Engineering Fair."
+      }
+    ],
+    "location": null,
+    "input_url": "https://www.linkedin.com/in/andrew-d-churchill",
+    "linkedin_id": "andrew-d-churchill",
+    "activity": null,
+    "linkedin_num_id": "634746924",
+    "banner_image": "https://media.licdn.com/dms/image/v2/D4D16AQEbNByEGIMGhA/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1737594845622?e=2147483647&v=beta&t=CxHL4l2Ct-9zuLNJ6R_oFciGBZWvJlptgAt6EJnGvBM",
+    "honors_and_awards": null,
+    "similar_profiles": [],
+    "default_avatar": false,
+    "memorialized_account": false,
+    "bio_links": [],
+    "first_name": "Andrew",
+    "last_name": "Churchill",
+    "influencer": false,
+    "timestamp": "2026-08-12T18:55:38.379Z",
+    "input": {
+      "url": "https://www.linkedin.com/in/andrew-d-churchill"
+    }
+  },
+  "local_photo": "data\\linkedin_photos\\andrew-d-churchill__usr-WmFpEx0XyhAehg1.jpg"
+}

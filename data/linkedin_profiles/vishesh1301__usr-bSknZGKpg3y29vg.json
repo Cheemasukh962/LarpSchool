@@ -1,0 +1,245 @@
+{
+  "luma_user_id": "usr-bSknZGKpg3y29vg",
+  "csv_name": "Vishesh Anand",
+  "csv_linkedin": "https://www.linkedin.com/in/vishesh1301",
+  "enriched_at": "2026-08-12T19:22:34.878218+00:00",
+  "batch_id": "sd_msqh2468i57o0acas",
+  "profile": {
+    "id": "vishesh1301",
+    "name": "Vishesh Anand",
+    "city": "Cincinnati, Ohio, United States",
+    "country_code": "US",
+    "position": null,
+    "about": "Currently a Junior, excited about NLP, especially Interpretability, Alignment and Safety\u2026",
+    "current_company": {
+      "name": "CincyNLP Lab",
+      "location": null
+    },
+    "experience": null,
+    "url": "https://ae.linkedin.com/in/vishesh1301",
+    "educations_details": "University of Cincinnati",
+    "education": [
+      {
+        "title": "University of Cincinnati",
+        "url": "https://www.linkedin.com/school/university-of-cincinnati/",
+        "start_year": "2022-07",
+        "end_year": "2027-04",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      }
+    ],
+    "recommendations_count": 3,
+    "avatar": "https://media.licdn.com/dms/image/v2/D5603AQH1Z5jnNC8Y2A/profile-displayphoto-scale_200_200/B56Ze.HqnGHoAc-/0/1751241372324?e=2147483647&v=beta&t=5EGy5Nl2hR6tNyM7gtqtDMhH8stbFBtu7VcUC7qOfr4",
+    "courses": [
+      {
+        "subtitle": "Score-3",
+        "title": "AP CALCULUS AB"
+      },
+      {
+        "subtitle": "Score-3",
+        "title": "AP STATISTICS"
+      },
+      {
+        "subtitle": "AUSS2019425",
+        "title": "Certificate in Forensic Science from Amity University"
+      },
+      {
+        "subtitle": "SSB @ AFSB Aug'2021",
+        "title": "Qualified NDA written test (147th Batch)"
+      }
+    ],
+    "certifications": [
+      {
+        "meta": "Issued Jul 2025 Credential ID AnandVishesh1301 See credential",
+        "subtitle": "Hugging Face",
+        "title": "AI Agents Fundamentals",
+        "credential_url": "https://huggingface.co/datasets/agents-course/certificates/resolve/main/certificates/AnandVishesh1301/2025-07-11.png?trk=public_profile_see-credential",
+        "credential_id": "AnandVishesh1301"
+      },
+      {
+        "meta": "Issued Jan 2023 See credential",
+        "subtitle": "MathWorks",
+        "title": "MATLAB Onramp",
+        "credential_url": "https://mailuc-my.sharepoint.com/:b:/g/personal/anandvh_mail_uc_edu/EfRWfzSw1itBqSELxl1SpmUBnlKPbGkRDeQNNBMDtObypg?e=g7ybcI&trk=public_profile_see-credential",
+        "credential_id": null
+      },
+      {
+        "meta": "Issued Jan 2022 Credential ID UC-8c6553d2-7a74-4146-9069-99043baa3bc9 See credential",
+        "subtitle": "Udemy",
+        "title": "Advanced Stock Trading Course + Strategies",
+        "credential_url": "https://www.linkedin.com/ude.my/UC-8c6553d2-7a74-4146-9069-99043baa3bc9?trk=public_profile_see-credential",
+        "credential_id": "UC-8c6553d2-7a74-4146-9069-99043baa3bc9"
+      },
+      {
+        "meta": "Issued Dec 2021 See credential",
+        "subtitle": "Udemy",
+        "title": "The Complete Foundation Stock Trading Course",
+        "credential_url": "https://www.linkedin.com/ude.my/UC-0e58b7e5-2aec-4efc-95b3-be60ddb143e4?trk=public_profile_see-credential",
+        "credential_id": null
+      }
+    ],
+    "recommendations": [
+      "Liam Stojanovic \u201cVishesh brings much to the table: He\u2019s self-driven, likable, and passionate about the world of software. Through both of his co-op rotations at Kinetic Vision, he has proven to be a team player who isn\u2019t afraid to tackle challenging problems. He is well on his way to a fruitful career in software engineering, and would make an excellent asset for any team!\u201d",
+      "LinkedIn User \u201cI've been able to work directly with Vishesh on one of our large language model initiatives. In addition to his technical talents, his positive attitude, communication, diligence, and active feedback solicitation have been refreshing. Closing the continuous improvement loop comes naturally to Vishesh. Great work! I hope we work together in the future.\u201d"
+    ],
+    "followers": 2090,
+    "connections": 500,
+    "current_company_name": "CincyNLP Lab",
+    "projects": [
+      {
+        "title": "Fit-Plant",
+        "start_date": "Sep 2024",
+        "description": "Fit-Plant is an advanced digital soil meter developed as part of the Innovation Challenge at the Center for Entrepreneurship. The device integrates NPK (Nitrogen, Phosphorus, Potassium), light (BH1750), and soil moisture sensors with an ESP32 microcontroller to deliver real-time plant health insights. Using Arduino, we programmed the sensors to collect data and transmit it to a Next.js web app built with Python Flask, React JS, and Tailwind CSS. The web app compares sensor readings to optimal benchmarks from a dataset tailored to specific plants, providing actionable care recommendations to users. On the business side, I conducted due diligence on the agTech industry, performed competitor analysis, developed a revenue model, and identified key differentiators for market positioning. I also created and presented a pitch deck to local entrepreneurs in Cincinnati, showcasing Fit-Plant's potential for innovation and scalability in the agTech sector."
+      },
+      {
+        "title": "Just-Hurry! - Hack Harvard 2024",
+        "start_date": "Oct 2024",
+        "description": "At Hack Harvard 2024, my team and I developed Just Hurry!, a disaster relief platform that uses machine learning models built with scikit-learn and TensorFlow to predict hurricane impact zones in real time. The platform efficiently allocates resources such as food, water, and medical supplies by analyzing key factors like wind speed, air pressure, and population density. Built in under 36 hours, Just Hurry! enables relief organizations to register resources and allows users to request help or volunteer. We utilized ReactJS, Next.js, Python Flask, MongoDB, and Palantir Foundry for seamless data visualization and aid distribution."
+      },
+      null,
+      null,
+      null,
+      {
+        "title": "Personal Developer Portfolio",
+        "start_date": "May 2024",
+        "description": "I created a developer portfolio using Vite React, designed to showcase my journey as a rising third-year Computer Science student. This portfolio serves as an elaborate resume, featuring sections like About, Experience, and Contact, among others. Along with that, I also created a dev container for the same so that I can work on the project seamlessly across several devices. I used the below techstack/libraries: Framer-Motion: Added smooth and engaging animations to enhance user experience.Tailwind CSS: Provided a responsive and customizable design, ensuring the site looks great across all devices.Three.js: Imported and customized 3D models to make the portfolio visually striking.Ant Design (AntD): Implemented custom designs for a polished, professional look.Check it out here: https://www.vishesh-anand.com/Check out the Github Repo here: https://github.com/AnandVishesh1301/developer_portfolio"
+      }
+    ],
+    "location": "Cincinnati",
+    "input_url": "https://www.linkedin.com/in/vishesh1301",
+    "linkedin_id": "vishesh1301",
+    "activity": [
+      {
+        "interaction": "Liked by Vishesh Anand",
+        "link": "https://www.linkedin.com/posts/director-bits-pilani-k-k-birla-goa-campus-337759247_congratulations-once-again-to-bitskrieg-for-activity-7493205043853139968-l8E2",
+        "title": "Congratulations once again to BITSkrieg for securing Third Prize in the Beginner Category at HackTheon Sejong 2026 in South Korea! This team is\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4D22AQEaVJQIZfskYA/feedshare-shrink_800/B4DZ_02RsQJAAc-/0/1786519298384?e=2147483647&v=beta&t=pStGDiy7ej-T4m7fI2gA-3ajcCfOz0xL3UD1OghQmpg",
+        "id": "7493205043853139968"
+      },
+      {
+        "interaction": "Liked by Vishesh Anand",
+        "link": "https://www.linkedin.com/posts/derek-corniello_linkedintern-linkedinlife-activity-7489065185899331584-JX-3",
+        "title": "Happy National Intern Day! (yesterday) Super happy to celebrate at LinkedIn with all the other #LinkedIntern cohort! Grateful for the team putting\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQEuD10iXRQj2w/feedshare-image-high-res/B56Z.6BF.zHcAY-/0/1785532277212?e=2147483647&v=beta&t=-QrBqOZ1dTPei5TClDqBoysCeNmNFsOH6ABzTKVQpO8",
+        "id": "7489065185899331584"
+      },
+      {
+        "interaction": "Liked by Vishesh Anand",
+        "link": "https://www.linkedin.com/posts/untscience_were-very-proud-that-all-three-of-the-brilliant-activity-7487576354155089920-e0wt",
+        "title": "We're very proud that all three of the brilliant Texas Academy of Mathematics and Science students who received the Barry M. Goldwater Scholarship\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQHGUAKNaSvTUQ/feedshare-shrink_800/B56Z.k3BO6G8Ac-/0/1785177314531?e=2147483647&v=beta&t=Xt0--FWjsrYIhe71_kdP_6UARBWbcJveykG18KRPBPc",
+        "id": "7487576354155089920"
+      },
+      {
+        "interaction": "Liked by Vishesh Anand",
+        "link": "https://www.linkedin.com/posts/1819-innovation-hub_1819innovationhub-universityofcincinnati-activity-7486120401190858752-1e69",
+        "title": "\"You don't have to have it all figured out. Just start somewhere.\" For William Butler-Croutwater, that started with walking into a venture capital\u2026",
+        "img": "https://dms.licdn.com/playlist/vid/v2/D4E10AQHkehSPaLlwDQ/thumbnail-scale_720_1280/B4EZ.QKgr2IAAA-/0/1784830116761?e=2147483647&v=beta&t=8hGXM_X-pN0v2lUNSJi5CkB7o0jfD1jUtPu2ufISegI",
+        "id": "7486120401190858752"
+      },
+      {
+        "interaction": "Liked by Vishesh Anand",
+        "link": "https://www.linkedin.com/posts/hong-yao_acl2026-nlp-llm-activity-7481535219179708416-YbkC",
+        "title": "Just got back from ACL 2026! \u2708\ufe0f It was great to catch up with old friends, meet many new ones, and have so many interesting conversations throughout\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQF8Yi7vqbyzyw/feedshare-shrink_800/B56Z9PAnsyLAAc-/0/1783736990816?e=2147483647&v=beta&t=z0JHddVH_FbY7jqn61vLItEbUO5ZZffFHfVbBWjRSNk",
+        "id": "7481535219179708416"
+      },
+      {
+        "interaction": "Liked by Vishesh Anand",
+        "link": "https://www.linkedin.com/posts/shreya-rajpal12_hi-everyone-excited-to-share-that-ill-be-activity-7478852923494412289-T9Ge",
+        "title": "Hi everyone! Excited to share that I\u2019ll be presenting our work, \u201cSpatial Reasoning via Modality Switching Between Language and Symbolic\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQExh2iVGzsiIw/feedshare-image-high-res/B56Z8o5GlrJoAU-/0/1783097486136?e=2147483647&v=beta&t=xxnpRwdNy12LFRn_ztytNC_rhv6s3fAbV7EX8_5tq5U",
+        "id": "7478852923494412289"
+      },
+      {
+        "interaction": "Liked by Vishesh Anand",
+        "link": "https://www.linkedin.com/posts/falak-anand-66057538b_internship-sodexo-financialaccounting-activity-7478124823928479744-KQCg",
+        "title": "Excited to share that I've successfully completed my first-year internship at Sodexo India Pvt. Ltd. as part of my Integrated MBA(BBA+MBA) program at\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQFank4CQoCjXg/feedshare-image-high-res/B56Z8ei327IMAU-/0/1782923891149?e=2147483647&v=beta&t=AdGbiaEyHzcG9JHoFqgPqYFgn9ACj8oUKwjvE4xrxEw",
+        "id": "7478124823928479744"
+      },
+      {
+        "interaction": "Liked by Vishesh Anand",
+        "link": "https://www.linkedin.com/posts/uoymumbai_at-the-university-of-york-mumbai-learning-activity-7478311437170499585-Ab_u",
+        "title": "\ud83c\udf1fAt the University of York Mumbai, learning is closely connected to the world students are preparing to enter. Our exclusive roundtable on\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4D22AQEdbPw_6L63eA/feedshare-shrink_1280/B4DZ8hMn8IJ8AM-/0/1782968385532?e=2147483647&v=beta&t=vjSE60MeVsJdXccrBca0qUgu5RGEOn5ZqThH-De-6nA",
+        "id": "7478311437170499585"
+      },
+      {
+        "interaction": "Liked by Vishesh Anand",
+        "link": "https://www.linkedin.com/posts/vachagan-melikian_im-excited-to-share-that-ive-been-admitted-activity-7476066406732693506-e3sO",
+        "title": "I'm excited to share that I've been admitted to Harvard Business School through the 2+2 deferred MBA program \u2014 thank you Eric R. Calderon for a fun\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQFC71bmYRiikQ/feedshare-shrink_800/B56Z8BSyHtGgAc-/0/1782433129362?e=2147483647&v=beta&t=djEBcMbFO951TSIlAKun89RWfNSSeThi33iZU3oMkGU",
+        "id": "7476066406732693506"
+      },
+      {
+        "interaction": "Liked by Vishesh Anand",
+        "link": "https://www.linkedin.com/posts/tartem26_it-was-really-nice-to-be-back-at-uc-berkeley-activity-7475246336313929729-fOKF",
+        "title": "It was really nice to be back at UC Berkeley for the first time in 2.5 years, this time as an invited judge for the AI Hackathon. Four years ago, I\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQG3KcJiWQaMqQ/feedshare-shrink_800/B56Z7y0cuaGoAc-/0/1782190296752?e=2147483647&v=beta&t=IlmUVIMaA_i2Z_FLbV8aN0qFk2WHoBVCLvCovQnhpEs",
+        "id": "7475246336313929729"
+      },
+      {
+        "interaction": "Liked by Vishesh Anand",
+        "link": "https://www.linkedin.com/posts/aryankeluskar_i-am-very-excited-to-share-our-paper-toolalignbench-activity-7473046806063452160-Lzse",
+        "title": "I am very excited to share our paper \"ToolAlignBench: Investigating Alignment Conflicts in Tool-Calling Enabled LLMs\" has been accepted to the\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQELhoW7icbZmg/feedshare-shrink_800/B4EZ6n9TyiIwAc-/0/1780934328513?e=2147483647&v=beta&t=JBQMmAnEV4CwSvF0MKTwTqBRv6B3iHCXo1uCu2ep2U4",
+        "id": "7473046806063452160"
+      },
+      {
+        "interaction": "Liked by Vishesh Anand",
+        "link": "https://www.linkedin.com/posts/clarisssaans_one-of-our-users-just-made-60k-with-clean-activity-7473859301263187968-kH8P",
+        "title": "One of our users just made $60K with Clean. and honestly, I'm more hyped than he is lol. he didn't do anything fancy. he plugged Clean into his\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQHAcXjDo3Ljkw/feedshare-shrink_800/B56Z7h7bpIJAAc-/0/1781906914117?e=2147483647&v=beta&t=y_RvvFHU7RhXQwSEZCtYrUZEbQf0uX123JgUWJjorc0",
+        "id": "7473859301263187968"
+      },
+      {
+        "interaction": "Liked by Vishesh Anand",
+        "link": "https://www.linkedin.com/posts/anmol-rao_acl-nyc-activity-7473404255694151681-wOOW",
+        "title": "Did a few things so I figured I\u2019d do one big update instead of four posts pretending to be humble lol. \ud83c\udf93 I graduated Summa Cum Laude from Arizona\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQEyJFeWB5PeBg/feedshare-shrink_800/B56Z7ZO9kyHUAk-/0/1781761039120?e=2147483647&v=beta&t=C0Zn7QZ6SBXh2_oUwxctnYQn2-I0eJH1F6k6VbroojE",
+        "id": "7473404255694151681"
+      }
+    ],
+    "linkedin_num_id": "931052760",
+    "banner_image": "https://media.licdn.com/dms/image/v2/D5616AQEOVzLMZiV8Ww/profile-displaybackgroundimage-shrink_200_800/B56ZfArCmhHoAg-/0/1751284202148?e=2147483647&v=beta&t=hIsZcYAC0Z6lBfRncSeK3onhbPAr-Rn_seJWeRaaEl8",
+    "honors_and_awards": [
+      {
+        "title": "Dean\u2019s List",
+        "publication": "Dean John W. Weidner",
+        "date": "2023-01-01T00:00:00.000Z",
+        "description": "Dean's List for all academic semesters"
+      },
+      {
+        "title": "University Honors Program",
+        "publication": "University of Cincinnati",
+        "date": "2022-12-01T00:00:00.000Z",
+        "description": null
+      },
+      {
+        "title": "Innovation Challenge Fellowship",
+        "publication": "Professor Jason Heikenfeld",
+        "date": null,
+        "description": "I received a fellowship of $750 for pitching my startup idea at the innovation challenge conducted at UC\u2019s center for entrepreneurship"
+      }
+    ],
+    "similar_profiles": [],
+    "default_avatar": false,
+    "memorialized_account": false,
+    "bio_links": [
+      {
+        "title": "Blog",
+        "link": "https://vishesh-anand.com/"
+      }
+    ],
+    "first_name": "Vishesh",
+    "last_name": "Anand",
+    "influencer": false,
+    "timestamp": "2026-08-12T19:18:58.175Z",
+    "input": {
+      "url": "https://www.linkedin.com/in/vishesh1301"
+    }
+  },
+  "local_photo": "data\\linkedin_photos\\vishesh1301__usr-bSknZGKpg3y29vg.jpg"
+}

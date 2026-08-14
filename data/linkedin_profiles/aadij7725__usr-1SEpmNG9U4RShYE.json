@@ -1,0 +1,143 @@
+{
+  "luma_user_id": "usr-1SEpmNG9U4RShYE",
+  "csv_name": "Aadi Jain",
+  "csv_linkedin": "https://www.linkedin.com/in/aadij7725",
+  "enriched_at": "2026-08-12T18:55:27.666120+00:00",
+  "batch_id": "sd_msqg7js7a7y0irwot",
+  "profile": {
+    "id": "aadij7725",
+    "name": "Aadi Jain",
+    "city": "Lake Zurich, Illinois, United States",
+    "country_code": "US",
+    "position": null,
+    "about": null,
+    "current_company": {
+      "link": "https://www.linkedin.com/company/craftpath?trk=public_profile_topcard-current-company",
+      "name": "Craftpath",
+      "company_id": "craftpath",
+      "location": null
+    },
+    "experience": null,
+    "url": "https://pl.linkedin.com/in/aadij7725",
+    "educations_details": "Purdue University",
+    "education": [
+      {
+        "start_year": "2021-08",
+        "end_year": "2025-05",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      }
+    ],
+    "avatar": "https://media.licdn.com/dms/image/v2/D5603AQGOB9QRvhD3gw/profile-displayphoto-shrink_200_200/B56ZZ6CtDbHAAc-/0/1745804252035?e=2147483647&v=beta&t=J5wYsPU9SBppDfg42vn9gdPV43KPoW9VdvB8-t0XLlM",
+    "courses": [
+      {
+        "subtitle": "SCI631-2",
+        "title": "AP Biology"
+      },
+      {
+        "subtitle": "MTH491-2",
+        "title": "AP Calculus BC"
+      },
+      {
+        "subtitle": "CSC391-2",
+        "title": "AP Computer Science A"
+      },
+      {
+        "subtitle": "SCI611-2",
+        "title": "AP Physics 1"
+      },
+      {
+        "subtitle": "SCI661-2",
+        "title": "AP Physics C"
+      },
+      {
+        "subtitle": "MTH461-2",
+        "title": "AP Statistics"
+      },
+      {
+        "subtitle": "MCS142",
+        "title": "Computer Science II (Data Structure & Algorithms)"
+      },
+      {
+        "subtitle": "MTH592",
+        "title": "Linear Algebra"
+      },
+      {
+        "subtitle": "MTH591",
+        "title": "Multivariable Calculus"
+      },
+      {
+        "subtitle": "TEC291-2",
+        "title": "PLTW Electrical Engineering"
+      }
+    ],
+    "volunteer_experience": [
+      {
+        "duration": "Mar 2018 \u00b7 - Present \u00b7 \n8 years 6 months",
+        "duration_short": "- Present",
+        "info": "I teach younger scouts in my troop important skills for scouting. I have taught cooking and first aid, but currently, I am teaching them about citizenship in our community, specifically, how to be a functioning and helpful member of society.",
+        "start_date": "Mar 2018",
+        "subtitle": "Boy Scouts of America",
+        "title": "Troop Instructor"
+      }
+    ],
+    "followers": 841,
+    "connections": 500,
+    "current_company_company_id": "craftpath",
+    "current_company_name": "Craftpath",
+    "projects": [
+      {
+        "title": "Mini TPU",
+        "start_date": "Jun 2026",
+        "description": "8x8 systolic array complete with dual tile SRAMs, row burst DMA, global unified memory, and a custom ISA + assembler"
+      },
+      {
+        "title": "Social Stock Exchange",
+        "start_date": "Jan 2026",
+        "description": "Built low latency orderbook and matching engine, ensuring flawless filling and closing with 100+ concurrent users."
+      },
+      {
+        "title": "Spare Swap (Hello World Purdue)",
+        "start_date": "Sep 2025",
+        "description": "Spare Swap is a platform for college students to share and discover project parts, with an AI assistant that suggests what you need and connects you to peers so you can build smarter, faster, and together.Built using Supabase PostgreSQL database, Vite and React with Tailwind CSS."
+      },
+      {
+        "title": "Surplus Share (1st Place @ SHSHacks 2024)",
+        "start_date": "Mar 2024",
+        "description": "Surplus Share is an innovative application designed to bridge the gap between businesses with surplus food and individuals in need. Utilizing an advanced heuristic genetic algorithm, the app optimizes delivery routes for drivers, ensuring swift and efficient food distribution. It also incorporates a sophisticated distribution algorithm, considering various factors such as dietary restrictions to facilitate the most effective allocation of food resources."
+      },
+      null,
+      null,
+      {
+        "title": "Stock Predictor",
+        "start_date": "Jun 2023",
+        "description": "I worked with Dr. Fouh over the summer to create a working stock predictor web app with support for 3 stocks, Apple, Tesla, and SPY, although more are easily addable. We used linear regression and neural network models to predict opening prices with 1 year to date information.The app was built with Python and Javascript for the backend, using Node.js to host the server and Axois to communicate between the front and the back. Additionally, React.js was used to build the front end with Inline styling."
+      },
+      {
+        "title": "HealthCoachAI (3rd Place @ SHSHacks2023)",
+        "start_date": "Mar 2023",
+        "description": "HealthCoach was built during the 24-hour SHSHacks2023 as a web app to help beginners start their journey to physical wellness. The app includes many tools such as an AI workout generator, macronutrient tracking, and water logging.This app was built using Python/Flask for the backend server, Firestore NoSQL to store all data, and OpenAI GPT-3 to generate workout plans. Additionally Nuxt was used for the frontend development with TailwindCSS as the styling tool"
+      }
+    ],
+    "location": "Lake Zurich",
+    "input_url": "https://www.linkedin.com/in/aadij7725",
+    "linkedin_id": "aadij7725",
+    "activity": null,
+    "linkedin_num_id": "1057701143",
+    "banner_image": "https://media.licdn.com/dms/image/v2/D5616AQHTBTsbxCaHmQ/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1698473206271?e=2147483647&v=beta&t=V1D69-H7w5OJFit7x9Skn6-kGflycPVFq6-GWyArjTk",
+    "honors_and_awards": null,
+    "similar_profiles": [],
+    "default_avatar": false,
+    "memorialized_account": false,
+    "bio_links": [],
+    "first_name": "Aadi",
+    "last_name": "Jain",
+    "influencer": false,
+    "timestamp": "2026-08-12T18:54:28.149Z",
+    "input": {
+      "url": "https://www.linkedin.com/in/aadij7725"
+    }
+  },
+  "local_photo": "data\\linkedin_photos\\aadij7725__usr-1SEpmNG9U4RShYE.jpg"
+}

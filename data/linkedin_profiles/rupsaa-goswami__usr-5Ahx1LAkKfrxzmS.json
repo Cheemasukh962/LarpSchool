@@ -1,0 +1,295 @@
+{
+  "luma_user_id": "usr-5Ahx1LAkKfrxzmS",
+  "csv_name": "Rupsaa Goswami",
+  "csv_linkedin": "https://www.linkedin.com/in/rupsaa-goswami",
+  "enriched_at": "2026-08-12T19:26:51.924075+00:00",
+  "batch_id": "sd_msqhb4pfm4l4la4zs",
+  "profile": {
+    "id": "rupsaa-goswami",
+    "name": "Rupsaa Goswami",
+    "city": "San Ramon, California, United States",
+    "country_code": "US",
+    "position": null,
+    "about": "Computer Engineering sophomore at Purdue building at the intersection of AI and\u2026",
+    "current_company": {
+      "link": "https://www.linkedin.com/company/team-handshake?trk=public_profile_topcard-current-company",
+      "name": "Handshake",
+      "company_id": "team-handshake",
+      "location": null
+    },
+    "experience": null,
+    "url": "https://in.linkedin.com/in/Rupsaa-goswami",
+    "educations_details": "Purdue University",
+    "education": [
+      {
+        "title": "Purdue University",
+        "url": "https://www.linkedin.com/school/purdue-university/",
+        "start_year": "2025-08",
+        "end_year": "2029-05",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      },
+      {
+        "start_year": "2021-08",
+        "end_year": "2025-06",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      }
+    ],
+    "avatar": "https://media.licdn.com/dms/image/v2/D5603AQEbBaqL5OhZEg/profile-displayphoto-scale_200_200/B56ZoW6QwXJ4AY-/0/1761320963790?e=2147483647&v=beta&t=2Kv-jwAsm5yqlL43xMcgDERLSKqKlO8UlC9_OQMNPaA",
+    "languages": [
+      {
+        "subtitle": "Native or bilingual proficiency",
+        "title": "English"
+      },
+      {
+        "subtitle": "Limited working proficiency",
+        "title": "French"
+      },
+      {
+        "subtitle": "Professional working proficiency",
+        "title": "Bengali"
+      }
+    ],
+    "certifications": [
+      {
+        "meta": "Issued Jun 2026 Credential ID m9cixejoj358 See credential",
+        "subtitle": "Anthropic",
+        "title": "Al Fluency Framework & Foundations",
+        "credential_url": "https://verify.skilljar.com/c/m9cixejoj358?trk=public_profile_see-credential",
+        "credential_id": "m9cixejoj358"
+      },
+      {
+        "meta": "Issued Jun 2026 Credential ID w44e9qjoepxb See credential",
+        "subtitle": "Anthropic",
+        "title": "Building with the Claude API",
+        "credential_url": "https://verify.skilljar.com/c/w44e9qjoepxb?trk=public_profile_see-credential",
+        "credential_id": "w44e9qjoepxb"
+      },
+      {
+        "meta": "Issued Jun 2026 Credential ID qu3vb9qbnoxz See credential",
+        "subtitle": "Anthropic",
+        "title": "Claude code 101",
+        "credential_url": "https://verify.skilljar.com/c/qu3vb9qbnoxz?trk=public_profile_see-credential",
+        "credential_id": "qu3vb9qbnoxz"
+      },
+      {
+        "meta": "Issued Jun 2026 Credential ID za6imv2ea6no See credential",
+        "subtitle": "Anthropic",
+        "title": "Model Context Protocol: Advanced Topics",
+        "credential_url": "https://verify.skilljar.com/c/za6imv2ea6no?trk=public_profile_see-credential",
+        "credential_id": "za6imv2ea6no"
+      },
+      {
+        "meta": "Issued May 2026 Credential ID tz8ypbdj8v8m See credential",
+        "subtitle": "Anthropic",
+        "title": "Claude 101",
+        "credential_url": "https://verify.skilljar.com/c/tz8ypbdj8v8m?trk=public_profile_see-credential",
+        "credential_id": "tz8ypbdj8v8m"
+      },
+      {
+        "meta": "Issued May 2026 Credential ID 3kgyd2hhyxjp See credential",
+        "subtitle": "Anthropic",
+        "title": "Claude Code in Action",
+        "credential_url": "https://verify.skilljar.com/c/3kgyd2hhyxjp?trk=public_profile_see-credential",
+        "credential_id": "3kgyd2hhyxjp"
+      },
+      {
+        "meta": "Issued May 2026 Credential ID rg8rdmrjqjq9 See credential",
+        "subtitle": "Anthropic",
+        "title": "Introduction to agent skills",
+        "credential_url": "https://verify.skilljar.com/c/rg8rdmrjqjq9?trk=public_profile_see-credential",
+        "credential_id": "rg8rdmrjqjq9"
+      },
+      {
+        "meta": "Issued May 2026 Credential ID vfyu8rqnimoc See credential",
+        "subtitle": "Anthropic",
+        "title": "Introduction to Model Context Protocol",
+        "credential_url": "https://verify.skilljar.com/c/vfyu8rqnimoc?trk=public_profile_see-credential",
+        "credential_id": "vfyu8rqnimoc"
+      }
+    ],
+    "followers": 1125,
+    "connections": 500,
+    "current_company_company_id": "team-handshake",
+    "current_company_name": "Handshake",
+    "projects": [
+      {
+        "title": "Novana",
+        "start_date": "May 2026",
+        "description": "Founded Novana, an AI-powered PMOS symptom tracking platform built full-stack with Next.js 14, Supabase, and GPT-4, featuring a real-time analytics engine, cycle phase-aware AI insights with medical safety guardrails, and automated doctor-report generation, after spending years developing AI models to study PMOS symptom patterns following my own diagnosis at 14. The platform transforms daily logs across 8 biomarkers into personalized pattern insights and actionable health summaries, with row-level encrypted data storage, a Resend-powered notification system, and a Capacitor-based iOS app in active development for App Store submission targeting Fall 2026."
+      },
+      {
+        "title": "UPWARDS Semiconductor Fabrication Project \u2014 Hiroshima University",
+        "start_date": "Jul 2026",
+        "description": "Hands-on design and fabrication of CMOS, PMOS, and NMOS chip structures through Hiroshima University, completed as part of a competitive summer research internship at Hiroshima University's RISE facility."
+      },
+      {
+        "title": "ReVal \u2014 Career Fair Intelligence Platform React, TypeScript, FastAPI, Firebase, Playwright, BeautifulSoup",
+        "start_date": "Jan 2026",
+        "description": "A real-time career fair intelligence platform that generates resume-to-role talking points, recruiter insights, and personalized outreach templates for students. Served as Integration Engineer on an 8-person team, connecting the React/TypeScript frontend to a Python FastAPI backend, integrating Firestore for dynamic real-time data loading, and building fallback logic to maintain app stability across the full stack."
+      },
+      {
+        "title": "RANE \u2014 Mental Health Reflection App React, Node.js, MongoDB, Gemini API, ElevenLabs",
+        "start_date": "Feb 2026",
+        "description": "A women-centered mental health reflection app built at the InnovateHer Hackathon that uses the Gemini API to analyze free-form journal entries and translate emotions into intuitive \"inner weather\" states like fog, storms, and clear skies. Built the full-stack application using React, Node.js, and MongoDB, and integrated ElevenLabs AI voice synthesis for real-time audio coaching output. Designed with ethical AI constraints to avoid medical or diagnostic claims."
+      },
+      {
+        "title": "Bay Area Waste Management \u2014 AI + IoT System Python, AI, IoT Sensors",
+        "start_date": "Jul 2024",
+        "description": "Designed an AI and IoT sensor system to optimize waste management infrastructure in the Bay Area as part of the Norman Mineta Bay Area Summer Academy. The project addressed real-world environmental and transportation equity challenges and earned a Bronze Award from the Metropolitan Transportation Commission."
+      },
+      {
+        "title": "Emotional Analysis AI Model",
+        "start_date": "Jun 2024",
+        "description": "A machine learning model that classifies emotion from audio clips using MFCC feature extraction, spectral analysis, and cross-validation techniques, achieving 98% accuracy on a labeled musical dataset. Documented the full methodology and findings in a published technical article on Medium."
+      }
+    ],
+    "location": "San Ramon",
+    "input_url": "https://www.linkedin.com/in/rupsaa-goswami",
+    "linkedin_id": "rupsaa-goswami",
+    "activity": [
+      {
+        "interaction": "Liked by Rupsaa Goswami",
+        "link": "https://www.linkedin.com/posts/rhea-k2028_dfas-accountingsystems-professionaldevelopment-activity-7492943041695993857-GyLV",
+        "title": "What a great summer with the Defense Finance and Accounting Service! This summer, I had the opportunity to work as an Accounting Systems Intern, and\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQE9sGJ2ClnzEA/feedshare-image-high-res/B56Z_uYBKuJUAU-/0/1786410701787?e=2147483647&v=beta&t=JIFtxqzctvT3bIBoPSsI4xOyWno6o9KHHgsoss919Oo",
+        "id": "7492943041695993857"
+      },
+      {
+        "interaction": "Liked by Rupsaa Goswami",
+        "link": "https://www.linkedin.com/posts/nehakrishnakumar_its-been-a-week-since-i-completed-an-incredible-activity-7492992904001474560-xogU",
+        "title": "It\u2019s been a week since I completed an incredible internship in Hiroshima, Japan, as part of the UW UPWARDS Program for Peace and Semiconductor\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQGBghMEZeHEWQ/feedshare-image-high-res/B56Z_v0aDuJUAU-/0/1786434921627?e=2147483647&v=beta&t=56dQOHRhmmZHokaf9_XHXTVC9k3Nvfy6uCGWgdhcWDw",
+        "id": "7492992904001474560"
+      },
+      {
+        "interaction": "Liked by Rupsaa Goswami",
+        "link": "https://www.linkedin.com/posts/samvida-batchu_its-hard-to-believe-my-summer-internship-activity-7492675172672434176-ipCy",
+        "title": "It\u2019s hard to believe my summer internship has already come to an end! This summer, I had the amazing opportunity to go to Dallas and work as an IT\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQGnldUuzKG5nA/feedshare-shrink_800/B56Z_tUXIjHcAk-/0/1786392966436?e=2147483647&v=beta&t=u-cmSYZ-Ht0ssB3vF_87ccjPM_y0gEfFGNSL2GlOLz8",
+        "id": "7492675172672434176"
+      },
+      {
+        "interaction": "Liked by Rupsaa Goswami",
+        "link": "https://www.linkedin.com/posts/saesharay_goutes-activity-7491589471390355456-HYlx",
+        "title": "As my summer internship at Edwards Lifesciences comes to an end, I\u2019ve been thinking about how much can change in just a few months. \u2764\ufe0f I came into\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQEVSzvDbxbtTw/feedshare-image-high-res/B56Z_d46e1K8AU-/0/1786134112455?e=2147483647&v=beta&t=zpcnJu0G4hOmFj3rZxpVoW-YH76fwvTIyy91YgLQSHI",
+        "id": "7491589471390355456"
+      },
+      {
+        "interaction": "Liked by Rupsaa Goswami",
+        "link": "https://www.linkedin.com/posts/mileymccullum_shadowing-careergrowth-womeninengineering-activity-7491233349156614144-Jbxg",
+        "title": "I spent the day shadowing the team at Gasperec Elberts Consulting, LLC and it was a great opportunity to see engineering in action beyond the\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQF55u47dcrPLQ/feedshare-shrink_800/B56Z_YoeDwHIAc-/0/1786045915770?e=2147483647&v=beta&t=FjoL0mowJEtdKwvMwh35jXzsgsaBbiO9sIr46Q5E8OY",
+        "id": "7491233349156614144"
+      },
+      {
+        "interaction": "Liked by Rupsaa Goswami",
+        "link": "https://www.linkedin.com/posts/jonathan-liu-202081252_upwards-semiconductors-hiroshimauniversity-activity-7490628643979915264-vlHO",
+        "title": "This summer I had the privilege of traveling to Hiroshima University for the UPWARDS Summer Intensive Program 2026: twelve days of semiconductor\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQFQM-XVr1c-SA/feedshare-shrink_800/B56Z_QPDiwGcAc-/0/1785905035878?e=2147483647&v=beta&t=ZGy2H1QFHv56EAsD0QYy5NoOBaeFMlasBJRAhYnsJUg",
+        "id": "7490628643979915264"
+      },
+      {
+        "interaction": "Shared by Rupsaa Goswami",
+        "link": "https://www.linkedin.com/posts/rupsaa-goswami_i-had-the-opportunity-to-go-to-japan-i-activity-7490504817698611200-7fUN",
+        "title": "I had the opportunity to go to Japan!! I spent two weeks at Hiroshima University's RISE facility through the UPWARDS program, and it completely\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQHDoco5EIS0vw/feedshare-shrink_1280/B56Z_Oebl.GQAM-/0/1785875511950?e=2147483647&v=beta&t=l3NAxSXE756bOynPTKhNEgpo4ZUakhgGhOh7fBh1vy4",
+        "id": "7490504817698611200"
+      },
+      {
+        "interaction": "Liked by Rupsaa Goswami",
+        "link": "https://www.linkedin.com/posts/srivalli-akella-8b8b60214_computerengineering-highperformancecomputing-activity-7490015378207576064-ouHX",
+        "title": "For almost a year, I kept asking myself one question: Should I build software, or should I build hardware? As a Computer Engineering student at\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4D22AQHUqRFAvxjbXg/feedshare-shrink_800/B4DZ_HhS0IH0Ac-/0/1785758821958?e=2147483647&v=beta&t=cvi6Eprh0vJh0VDfcs2nvS5uyVohqkyef3DuBTprw6U",
+        "id": "7490015378207576064"
+      },
+      {
+        "interaction": "Liked by Rupsaa Goswami",
+        "link": "https://www.linkedin.com/posts/ryankicks_yc-startup-internship-expo-activity-7488690524611334144-2oES",
+        "title": "I\u2019m excited to be hosting an internship expo for 2027\u2014 50+ companies lined up and pop ups with Corgi, Replit, Dedalus and\u2026",
+        "img": "https://media.licdn.com/dms/image/sync/v2/D5627AQEKev2nn_5Mmw/articleshare-shrink_800/B56Z7b16jdIMAY-/0/1781804806611?e=2147483647&v=beta&t=ypk3J8US3DnIVa-_qVMpoS90Ct9ZxBItgd9rzZJtPn0",
+        "id": "7488690524611334144"
+      },
+      {
+        "interaction": "Liked by Rupsaa Goswami",
+        "link": "https://www.linkedin.com/posts/cao-linh-526b06b7_day-1-of-the-upwards-summer-intensive-activity-7485909917598502915-OwTq",
+        "title": "\ud83c\udf1f Day 1 of the UPWARDS Summer Intensive Program 2026: Peace and Semiconductor Innovation! We were delighted to welcome students from our UPWARDS\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQGudaSUZfRhBQ/feedshare-shrink_800/B56Z.NLZc4KEAc-/0/1784780004570?e=2147483647&v=beta&t=eddvYQdXX4bP0icUUTJNOvCG1QEnB4naHXuu_2OfmF4",
+        "id": "1"
+      },
+      {
+        "interaction": "Liked by Rupsaa Goswami",
+        "link": "https://www.linkedin.com/posts/simdotai_meet-the-team-new-series-where-you-meet-activity-7488666332117364736-8BIG",
+        "title": "Meet the team New series where you meet the people building Sim. First up: Theodore Li. He spent three years at AWS, then founded his own company\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5605AQENhD4lmWxcyA/videocover-high/B56Z.0WLUkJsBQ-/0/1785437163834?e=2147483647&v=beta&t=A48r4p_6z3cPfeJYQ42-PCswCZonJsq3aIUwv1ynREc",
+        "id": "7488666332117364736"
+      },
+      {
+        "interaction": "Liked by Rupsaa Goswami",
+        "link": "https://www.linkedin.com/posts/rithvikasiddineni_this-summer-daytona-beach-was-so-much-more-activity-7485332835872989184-M6Jb",
+        "title": "This summer, Daytona Beach was so much more than salty seashores and purple sunsets to me. With a special thank you to Dr. Sirish Namilae, I had the\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQG-s5v-b5GoaQ/feedshare-shrink_800/B56Z.Co1.GKAAc-/0/1784603177107?e=2147483647&v=beta&t=RBghE_YGICAKWhhZK3QLGfelAEpJQo84DR_8MqVKOSE",
+        "id": "7485332835872989184"
+      },
+      {
+        "interaction": "Liked by Rupsaa Goswami",
+        "link": "https://www.linkedin.com/posts/alessaberg_healthcare-is-undergoing-a-deep-transformation-activity-7472955353043910656-uFie",
+        "title": "Healthcare is undergoing a deep transformation: from AI-powered mental health platforms and neurotechnology companies building the future of brain\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQEyTfEUHmjJQw/feedshare-image-high-res/B56Z7VFStGJoAU-/0/1781691395130?e=2147483647&v=beta&t=UdIZ3TuJGsYTZ2N57frZa9g1okE5Ckh9r4rOMuvyK3g",
+        "id": "7472955353043910656"
+      },
+      {
+        "interaction": "Shared by Rupsaa Goswami",
+        "link": "https://www.linkedin.com/posts/rupsaa-goswami_im-excited-to-share-that-ill-be-attending-activity-7477471200038764544-vXR1",
+        "title": "I'm excited to share that I'll be attending the YC Startup Internship Expo in San Francisco on August 15th! As the founder of Novana, an AI-powered\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQGv_0p3AR7PVw/feedshare-shrink_800/B56Z8VQbwuKUAc-/0/1782768057802?e=2147483647&v=beta&t=m0gbKOkHyRVtyJrxJYSR_CeK_SsfaTprP-7NxAMDYUE",
+        "id": "7477471200038764544"
+      },
+      {
+        "interaction": "Liked by Rupsaa Goswami",
+        "link": "https://www.linkedin.com/posts/anwesa-goswami-52756a176_ckad-certified-kubernetes-application-developer-activity-7476071174876180481-rUUl",
+        "title": "Excited to share that I\u2019ve earned my Certified Kubernetes Application Developer (CKAD) certification! It was a challenging but rewarding experience\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5610AQHv99u0olFMCw/image-shrink_800/B56Z8BXHzQKcAg-/0/1782434266727?e=2147483647&v=beta&t=AhjTmqK93j7_g_6sJ-IcEjtqaMfoIBeNqJB9W2yFrtM",
+        "id": "7476071174876180481"
+      }
+    ],
+    "linkedin_num_id": "1089946680",
+    "banner_image": "https://media.licdn.com/dms/image/v2/D5616AQFhUTF_s66Fmw/profile-displaybackgroundimage-shrink_200_800/B56ZocLaAbIsAU-/0/1761409347525?e=2147483647&v=beta&t=J5VuSRhoATSDw1hvXdqL3-auZfCUFikocDjiLs7VHuE",
+    "honors_and_awards": [
+      {
+        "title": "WE25 \u2014 Society of Women Engineers National Conference",
+        "publication": "Society of Women Engineers",
+        "date": "2025-10-01T00:00:00.000Z",
+        "description": "Fully sponsored to attend WE25 in New Orleans, one of the largest gatherings of women in engineering in the world. Networked with engineers and recruiters from Fortune 500 companies and leading tech firms championing diversity in STEM."
+      },
+      {
+        "title": "Bronze Award \u2014 Norman Mineta Bay Area Summer Academy",
+        "publication": "Metropolitan Transportation Commission",
+        "date": "2024-07-01T00:00:00.000Z",
+        "description": "Earned Bronze Award at a competitive paid internship program run by the Metropolitan Transportation Commission, focused on environmental and transportation equity and social justice. Designed an AI and IoT sensor system to optimize waste management in the Bay Area."
+      },
+      {
+        "title": "AP Scholars with Distinction",
+        "publication": "Collegeboard",
+        "date": "2024-06-01T00:00:00.000Z",
+        "description": "Earned the AP Scholar with Distinction award from College Board for achieving an average score of 3.5 or higher across all AP exams and scores of 3 or higher on five or more AP exams."
+      }
+    ],
+    "similar_profiles": [],
+    "default_avatar": false,
+    "memorialized_account": false,
+    "bio_links": [],
+    "first_name": "Rupsaa",
+    "last_name": "Goswami",
+    "influencer": false,
+    "timestamp": "2026-08-12T19:25:16.995Z",
+    "input": {
+      "url": "https://www.linkedin.com/in/rupsaa-goswami"
+    }
+  },
+  "local_photo": "data\\linkedin_photos\\rupsaa-goswami__usr-5Ahx1LAkKfrxzmS.jpg"
+}

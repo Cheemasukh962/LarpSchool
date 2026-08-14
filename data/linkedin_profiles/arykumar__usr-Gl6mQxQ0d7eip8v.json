@@ -1,0 +1,62 @@
+{
+  "luma_user_id": "usr-Gl6mQxQ0d7eip8v",
+  "csv_name": "Aryan Kumar",
+  "csv_linkedin": "https://www.linkedin.com/in/arykumar",
+  "enriched_at": "2026-08-12T18:58:28.961129+00:00",
+  "batch_id": "sd_msqgad6c2eeefcaqas",
+  "profile": {
+    "id": "arykumar",
+    "name": "aryan kumar",
+    "city": "United States",
+    "country_code": "US",
+    "position": null,
+    "about": "ars longa, vita brevis",
+    "current_company": {
+      "location": null
+    },
+    "experience": [
+      {
+        "subtitle": "11",
+        "description_html": null,
+        "duration": "2024 - 2028",
+        "company": "Quarry Lane School",
+        "company_logo_url": "https://media.licdn.com/dms/image/v2/C4D0BAQFdQN8hLIkdkA/company-logo_100_100/company-logo_100_100/0/1631301600812?e=2147483647&v=beta&t=a0Yq_uyerRvoI9JgxLnKy11f7vM8hSXXeYYclaU-tz8"
+      }
+    ],
+    "url": "https://kr.linkedin.com/in/Arykumar",
+    "educations_details": "Quarry Lane School",
+    "education": [
+      {
+        "title": "Quarry Lane School",
+        "url": "https://www.linkedin.com/school/quarry-lane-school/",
+        "start_year": "2024-08",
+        "end_year": "2028-06",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      }
+    ],
+    "avatar": "https://media.licdn.com/dms/image/v2/D5603AQFdQ6cjwXJjtA/profile-displayphoto-scale_200_200/B56Z87yuGyKgAc-/0/1783414581285?e=2147483647&v=beta&t=sgKfl76MGIanZIEwmtkhAIZ8jS6tfj-d296PdxR0Sss",
+    "followers": 901,
+    "connections": 500,
+    "location": null,
+    "input_url": "https://www.linkedin.com/in/arykumar",
+    "linkedin_id": "arykumar",
+    "activity": null,
+    "linkedin_num_id": "1209540030",
+    "banner_image": "https://media.licdn.com/dms/image/v2/D5616AQHHj08wZlSlnw/profile-displaybackgroundimage-shrink_200_800/B56Z87yWQlLAAQ-/0/1783414482228?e=2147483647&v=beta&t=t-qQXWK7hS4DyfQh_pbMVLPyB3DDlVNJZYhYJ4Gjtc8",
+    "honors_and_awards": null,
+    "similar_profiles": [],
+    "default_avatar": false,
+    "memorialized_account": false,
+    "bio_links": [],
+    "first_name": "aryan",
+    "last_name": "kumar",
+    "influencer": false,
+    "timestamp": "2026-08-12T18:56:43.528Z",
+    "input": {
+      "url": "https://www.linkedin.com/in/arykumar"
+    }
+  },
+  "local_photo": "data\\linkedin_photos\\arykumar__usr-Gl6mQxQ0d7eip8v.jpg"
+}

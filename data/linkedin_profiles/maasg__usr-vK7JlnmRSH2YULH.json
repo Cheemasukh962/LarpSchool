@@ -1,0 +1,237 @@
+{
+  "luma_user_id": "usr-vK7JlnmRSH2YULH",
+  "csv_name": "Madhuhaas Gottimukkala",
+  "csv_linkedin": "https://www.linkedin.com/in/maasg",
+  "enriched_at": "2026-08-12T19:12:29.389186+00:00",
+  "batch_id": "sd_msqgtpzbeylkhkm9p",
+  "profile": {
+    "id": "maasg",
+    "name": "Madhuhaas Gottimukkala",
+    "city": "Stanford, California, United States",
+    "country_code": "US",
+    "position": null,
+    "about": "Stanford CS (AI) junior building AI systems for healthcare, automation, and impact\u2026",
+    "current_company": {
+      "link": "https://www.linkedin.com/company/stripe?trk=public_profile_topcard-current-company",
+      "name": "Stripe",
+      "company_id": "stripe",
+      "location": null
+    },
+    "experience": null,
+    "url": "https://pt.linkedin.com/in/maasg",
+    "educations_details": "Stanford University",
+    "education": [
+      {
+        "title": "Stanford University",
+        "url": "https://www.linkedin.com/school/stanford-university/",
+        "start_year": "2023",
+        "end_year": "2027",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      },
+      {
+        "start_year": "2019",
+        "end_year": "2023",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      }
+    ],
+    "avatar": "https://media.licdn.com/dms/image/v2/D5603AQGAWuPl1iRqNg/profile-displayphoto-scale_200_200/B56Zor2QwrJQAY-/0/1761672236646?e=2147483647&v=beta&t=kBjQVVOXXXiGW8uGkc8x8zRGtOYxkG3NuAxQyArlcuE",
+    "followers": 1580,
+    "connections": 500,
+    "current_company_company_id": "stripe",
+    "current_company_name": "Stripe",
+    "publications": [
+      {
+        "title": "Impact of Lockdown Measure on COVID-19 Incidence and Mortality in the Top 31 Countries of the World",
+        "subtitle": "Journal of Critical Reviews"
+      }
+    ],
+    "projects": [
+      {
+        "title": "Mira (1st Place OpenAI Prize & Most Impactful Prize @ TreeHacks 2026)",
+        "start_date": "Feb 2026",
+        "description": "Built a multimodal AI agent for Alzheimer's patients on smart galsses, combining voice interaction, agentic tool orchestration, and 3D spatial perception to enable object finding, medical Q&A, and emergency escalation"
+      },
+      {
+        "title": "ContinuuMed",
+        "start_date": "Sep 2024",
+        "description": "Developed an AI-powered digital health platform helping seniors age safely and independently by transcribing patient-nurse conversations, generating personalized summaries, and integrating a custom chatbot for post-discharge support"
+      },
+      {
+        "title": "BioWeave: Compound AI Health Monitoring System",
+        "start_date": "Mar 2025",
+        "description": "Developed a compound AI system that transforms personal health monitoring by integrating real-time biometric data with specialized AI agents, enabling users to receive personalized health recommendations through natural language conversations that combine their Apple HealthKit data with expert medical knowledge for context-aware guidance and proactive health alerts"
+      },
+      {
+        "title": "FleetAI (MoVi Partners AI Challenge Winner and Systems Thinker Award Recipient)",
+        "start_date": "Mar 2025",
+        "description": "Created an AI platform for waste management integrating predictive route optimization, behavioral incentive system, digital recycling marketplace, and carbon credit monetization; awarded by panel of VCs and industry leaders"
+      },
+      {
+        "title": "LinguaLift",
+        "start_date": "Dec 2024",
+        "description": "Boosted multilingual LLM question-answering accuracy by 140\u00d7 (BLEU) and 5\u00d7 (NIST) through novel cross-lingual transfer learning pipeline leveraging LoRAOutperformed GPT-4o while reducing compute cost and expanding AI access for digitally disadvantaged languages"
+      },
+      {
+        "title": "CS109 Probability Challenge Finalist (Top 5 of 300+ students)",
+        "start_date": "Dec 2024",
+        "description": "Developed an advanced probabilistic model simulating misinformation spread in social networks using Bayesian updating, Monte Carlo methods, and bootstrapping; visualized belief shifts, information entropy, and echo chamber dynamics."
+      },
+      {
+        "title": "AI & HCI Research",
+        "start_date": "Sep 2024",
+        "description": "Investigate the impact of providing descriptions of an LLM\u2019s chain of thought on the users\u2019 perception of the veracity of the model\u2019s responses; exploring implications of research for increasing transparency of AI models in healthcare"
+      }
+    ],
+    "organizations": [
+      {
+        "title": "Healthy Rancho Cucamonga Youth Leaders",
+        "membership_type": "Youth Leader",
+        "start_date": "Aug 2021",
+        "end_date": "Jun 2023",
+        "description": "\u2022 One of 15 students selected by City of Rancho Cucamonga to promote health equity, community wellness, and health living\u2022 Worked closely with city and county officials to develop policies and initiatives related to health equity and nutrition\u2022 Organized Youth Summits, Mental Health Fairs, and Health Seminars at schools and in Community",
+        "membership_number": null
+      }
+    ],
+    "location": "Stanford",
+    "input_url": "https://www.linkedin.com/in/maasg",
+    "linkedin_id": "maasg",
+    "activity": [
+      {
+        "interaction": "Madhuhaas Gottimukkala shared this",
+        "link": "https://www.linkedin.com/posts/maasg_treehacks-openai-stanford-activity-7429264206975336448-GuCe",
+        "title": "I\u2019m excited to share that our team won the 1st Place OpenAI Prize and Most Impactful Prize at Stanford TreeHacks 2026, the largest collegiate hackathon in the US! Alongside my teammates Nathan Z., Victor Chen , and Antonio Alonso-Stepanov , we built Mira ( https://lnkd.in/gKnzegA6 ), a multimodal AI agent that lives in your smart glasses and helps Alzheimer\u2019s patients identify lost objects in 3D space, answer medical questions with clinical evidence, and alert caregivers in emergencies - just by voice. In 36 hours, we built Mira from scratch as a multimodal AI system combining voice interaction, NLP-driven reasoning, 3D vision, and web retrieval in real-time. We reconstruct rooms into 3D scene graphs from video, then combine multi-view detection, depth estimation, and camera pose to localize queried objects and translate those locations into both spoken directions and an interactive 3D point-cloud visualization. I\u2019m looking forward to visiting the OpenAI HQ with my team to meet their researchers and discuss AI innovation. My experience at TreeHacks , competing alongside over 1,000 hackers from 30 universities and building with my team to tackle a real-world problem, has further reinforced my passion for building AI systems that create meaningful impact. I look forward to what\u2019s next! #TreeHacks #OpenAI #Stanford #Hackathon #AI #MachineLearning ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQHCxQtNxV_QpQ/feedshare-image-high-res/B56ZxoMa.XGcAY-/0/1771274613066?e=2147483647&v=beta&t=cZHA9KI5lvui9E9lCFglQKMYf1T0jPJCI6hed9nrKqI",
+        "id": "7429264206975336448"
+      },
+      {
+        "interaction": "Madhuhaas Gottimukkala shared this",
+        "link": "https://www.linkedin.com/posts/maasg_health-technology-showcase-continuumed-activity-7346354031360954369-pOnM",
+        "title": "Excited to see our project, ContinuuMed, featured by the Stanford Mussallem Center for Biodesign \u2014 and honored that it was awarded the Biodesign NEXT award and funding! We built an AI-powered discharge platform that generates personalized, easy-to-understand medical summaries from patient-nurse conversations and continues supporting patients after discharge through an interactive chatbot interface. The system helps bridge communication gaps between patients, caregivers, and physicians by acting as a trusted guide during the critical care transition period. What makes ContinuuMed special is its ability to handle the complexity of medical conversations while tailoring guidance to each patient\u2019s unique situation \u2014 making care more accessible, reliable, and human-centered. Glad to have worked alongside Romal Mitr and Katherine Travisano , and grateful to Michelle de Haaff and Dr. Oliver Aalami for their invaluable guidance and mentorship! I\u2019m excited to continue developing ContinuuMed and exploring how AI can empower patients and caregivers. #Stanford #AI #DigitalHealth #Biodesign #HealthTech ...more",
+        "img": null,
+        "id": "7346354031360954369"
+      },
+      {
+        "interaction": "Madhuhaas Gottimukkala shared this",
+        "link": "https://www.linkedin.com/posts/maasg_8vc-metaai-stanford-activity-7333589927638573062-rIFQ",
+        "title": "Super excited to share that last weekend, my team and I won 2nd place at the 8VC + Meta Llama Hackathon! Big shoutout to my teammates Varun Madan , Jeff L. , and Krish Sharma . We created Priori AI, a local-first, privacy-preserving system to streamline the prior authorization process for physicians. In just 8 hours, we: \ud83e\udde0 Performed edge optimization on a Llama model using quantization and pruning, enabling it to run fully on-device \u2014 no cloud, full patient privacy \u2699\ufe0f Built a dual-agent architecture using on-device inference and RAG-based policy matching that analyzes EHR data, flags documentation gaps, and iteratively refines and auto-generates compliant prior auth drafts \u2014 maximizing approval odds while preserving patient privacy \ud83d\udcca Delivered real-time approval probabilities and concrete improvement suggestions \ud83d\udca1 Cut processing time from days to minutes And huge thanks to 8VC , Meta , and the hackathon organizers for hosting an incredible event. Excited for what\u2019s next with Priori AI \u2014 and how we can continue using AI to solve real, meaningful problems in healthcare. #8VC #MetaAI #Stanford #StanfordEngineering #MachineLearning #EdgeAI #Llama #Hackathon #HealthcareAI #DigitalHealth #TechForGood #ComputerScience ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQHygjUNFxEr7w/feedshare-image-high-res/B56ZcYlKxYGoAs-/0/1748464089045?e=2147483647&v=beta&t=n_GzJcQiIi00Z1jDpK6RFRvrI-yPofO11k2p94xe5aM",
+        "id": "7333589927638573062"
+      },
+      {
+        "interaction": "Madhuhaas Gottimukkala shared this",
+        "link": "https://www.linkedin.com/posts/maasg_this-past-sunday-i-had-the-opportunity-to-activity-7315858308622401536-u3Pb",
+        "title": "This past Sunday, I had the opportunity to compete in the Stanford University LLM x Law Hackathon hosted by CodeX, The Stanford Center for Legal Informatics , alongside 400 builders and 80+ teams. My team and I built ClaimHero, an AI-powered platform that helps patients navigate the health insurance appeals process from start to finish. Our tool analyzes denial letters, helps patients understand their coverage, predicts the likelihood of a successful appeal, generates personalized appeal letters, and even autonomously negotiates with insurers. We were honored to be selected as one of the top finalists at the event. ClaimHero empowers patients to confidently manage the health insurance appeals process\u2013making it clearer, faster, and more accessible through the use of AI agents and automation. A big shoutout to my teammates Julia Ascoli , Kai Sheng Loh , Jason Gutierrez , and Avis Chan . Thank you to Jay Mandal and Dr. Megan Ma for hosting this incredible event and the fantastic bootcamp, and thank you to our mentor Dan Szabo for your guidance and support! ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQGaj2vZjGJQxg/feedshare-image-high-res/B56ZYcmXLZHQAw-/0/1744236541117?e=2147483647&v=beta&t=BSSiWK2MWmyYNoGJzSa8tqSZoDZgQgGd5_OTkyRz16A",
+        "id": "7315858308622401536"
+      },
+      {
+        "interaction": "Madhuhaas Gottimukkala replied to a comment 5mo",
+        "link": "https://www.linkedin.com/posts/maasg_activity-7429359112984961024-PGlz",
+        "title": "Jason A. La Marca, MD Definitely, let\u2019s talk!",
+        "img": null,
+        "id": "7429359112984961024"
+      },
+      {
+        "interaction": "Madhuhaas Gottimukkala replied to a comment 1y",
+        "link": "https://www.linkedin.com/posts/maasg_activity-7333724214023098369-WdqI",
+        "title": "Thanks!",
+        "img": null,
+        "id": "7333724214023098369"
+      },
+      {
+        "interaction": "Madhuhaas Gottimukkala replied to a comment 1y",
+        "link": "https://www.linkedin.com/posts/maasg_activity-7333724213976936461-Xdiq",
+        "title": "Thanks!",
+        "img": null,
+        "id": "7333724213976936461"
+      },
+      {
+        "interaction": "Madhuhaas Gottimukkala liked this",
+        "link": "https://www.linkedin.com/posts/valeriacartagena_just-wrapped-up-my-first-quarter-at-stanford-activity-7438471572673241088-FQkJ",
+        "title": "Just wrapped up my first quarter at Stanford\u2019s Industry Innovation Lab, and today we had the opportunity to present our project, Lens AI, to engineers at NVIDIA HQ! It was a really fun afternoon filled with exciting demos and the chance to learn about many new technologies. Huge thanks to my amazing teammates, Madhuhaas , Xiyuan , and Jiliang , and to our incredible teaching team and mentors: Jay Borenstein , Majd , Chloe , Pratyush , and Kyle . Your support made this experience truly special! Excited for the next milestones in spring quarter. If you\u2019re developing AI agents, DM me!! We\u2019re building something you might find really interesting :)",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQGwetu3yezCkA/feedshare-shrink_800/B56ZzrCenUH8Ac-/0/1773469821728?e=2147483647&v=beta&t=A4wJfBzgmPxpYM1zM6-3DfwzdF_KlJBVCs0YKICllN0",
+        "id": "7438471572673241088"
+      }
+    ],
+    "linkedin_num_id": "1244265393",
+    "banner_image": "https://media.licdn.com/dms/image/v2/D5616AQEIAE5tvwpOgw/profile-displaybackgroundimage-shrink_200_800/B56ZY2r4R.GQAY-/0/1744674194877?e=2147483647&v=beta&t=8F2ahF4pCETJAskJj2TccEEGw0or3OGJhLJCp53Sz88",
+    "honors_and_awards": [
+      {
+        "title": "1st Place OpenAI Award @ TreeHacks 2026",
+        "publication": "OpenAI",
+        "date": "2026-02-01T00:00:00.000Z",
+        "description": null
+      },
+      {
+        "title": "Most Impactful Award @ TreeHacks 2026",
+        "publication": "Stanford TreeHacks",
+        "date": "2026-02-01T00:00:00.000Z",
+        "description": null
+      },
+      {
+        "title": "Biodesign NEXT Award",
+        "publication": "Stanford Mussallem Center for Biodesign",
+        "date": "2025-09-01T00:00:00.000Z",
+        "description": null
+      },
+      {
+        "title": "CA Senate Youth Leadership Award",
+        "publication": "California Senate",
+        "date": null,
+        "description": "Recognized for mental health advocacy and promoting healthy living community initiatives"
+      },
+      {
+        "title": "California State Seal of Biliteracy",
+        "publication": "State of California",
+        "date": null,
+        "description": null
+      },
+      {
+        "title": "City of Rancho Cucamonga Youth Leadership Service Award",
+        "publication": "City of Rancho Cucamonga",
+        "date": null,
+        "description": "Awarded by the city for civic engagement, advocacy, and empowerment of youth at the local government level"
+      },
+      {
+        "title": "Congressional Award, Silver Medal",
+        "publication": "United States Congress",
+        "date": null,
+        "description": "US Congress' highest honor for youth civilians focused on volunteerism, character development, and fitness"
+      },
+      {
+        "title": "President's Volunteer Service Award, Gold Medal",
+        "publication": "-",
+        "date": null,
+        "description": "Highest award presented in recognition for completion of 250+ service hours over the course of 12 months"
+      },
+      {
+        "title": "Recipient of AP Capstone Diploma",
+        "publication": "-",
+        "date": null,
+        "description": null
+      },
+      {
+        "title": "Recipient of AP Scholar with Distinction",
+        "publication": "-",
+        "date": null,
+        "description": null
+      }
+    ],
+    "similar_profiles": [],
+    "default_avatar": false,
+    "memorialized_account": false,
+    "bio_links": [],
+    "first_name": "Madhuhaas",
+    "last_name": "Gottimukkala",
+    "influencer": false,
+    "timestamp": "2026-08-12T19:11:47.783Z",
+    "input": {
+      "url": "https://www.linkedin.com/in/maasg"
+    }
+  },
+  "local_photo": "data\\linkedin_photos\\maasg__usr-vK7JlnmRSH2YULH.jpg"
+}

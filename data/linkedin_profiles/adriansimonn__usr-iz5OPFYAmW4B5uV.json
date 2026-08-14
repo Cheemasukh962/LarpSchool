@@ -1,0 +1,362 @@
+{
+  "luma_user_id": "usr-iz5OPFYAmW4B5uV",
+  "csv_name": "Adrian Simon",
+  "csv_linkedin": "https://www.linkedin.com/in/adriansimonn",
+  "enriched_at": "2026-08-12T18:55:27.678819+00:00",
+  "batch_id": "sd_msqg7js7a7y0irwot",
+  "profile": {
+    "id": "adriansimonn",
+    "name": "Adrian Simon",
+    "city": "San Francisco Bay Area",
+    "country_code": "US",
+    "position": null,
+    "about": "Interested in applied AI engineering and LLMs. adriansimon477 [@] gmail [.] com",
+    "current_company": {
+      "link": "https://www.linkedin.com/company/linkedin?trk=public_profile_topcard-current-company",
+      "name": "LinkedIn",
+      "company_id": "linkedin",
+      "location": null
+    },
+    "experience": null,
+    "url": "https://nz.linkedin.com/in/Adriansimonn",
+    "educations_details": "Arizona State University",
+    "education": [
+      {
+        "title": "Arizona State University",
+        "url": "https://www.linkedin.com/school/arizona-state-university/",
+        "start_year": "2023-08",
+        "end_year": "2027-05",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      },
+      {
+        "start_year": "2019-08",
+        "end_year": "2023-06",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      }
+    ],
+    "recommendations_count": 1,
+    "avatar": "https://media.licdn.com/dms/image/v2/D5603AQEjKyiTj7NgOg/profile-displayphoto-scale_200_200/B56Z_aYuaaHAAg-/0/1786075343272?e=2147483647&v=beta&t=HbU4I6J62LbKv9yYfRqPj9tJ5cftPf90YykIjdhRADc",
+    "courses": [
+      {
+        "subtitle": "MAT 267",
+        "title": "Calculus for Engineers III"
+      },
+      {
+        "subtitle": "CSE 230",
+        "title": "Computer Organization and Assembly Language"
+      },
+      {
+        "subtitle": "CSE 301",
+        "title": "Computing Ethics"
+      },
+      {
+        "subtitle": "CSE 310",
+        "title": "Data Structures and Algorithms"
+      },
+      {
+        "subtitle": "MAT 243",
+        "title": "Discrete Mathematics"
+      },
+      {
+        "subtitle": "CSE 445",
+        "title": "Distributed Software Development"
+      },
+      {
+        "subtitle": "CSE 365",
+        "title": "Information Assurance"
+      },
+      {
+        "subtitle": "CSE 240",
+        "title": "Introduction to Programming Languages"
+      },
+      {
+        "subtitle": "MAT 343",
+        "title": "Linear Algebra"
+      },
+      {
+        "subtitle": "CSE 205",
+        "title": "Object Oriented Programming and Data Structures"
+      },
+      {
+        "subtitle": "CSE 330",
+        "title": "Operating Systems"
+      },
+      {
+        "subtitle": "CSE110",
+        "title": "Principles of Programming"
+      },
+      {
+        "subtitle": "IEE 380",
+        "title": "Probability and Statistics for Engineering Problem Solving"
+      },
+      {
+        "subtitle": "163563",
+        "title": "Python Advanced Topics - UC San Diego Extended Studies"
+      },
+      {
+        "subtitle": "CSE 360",
+        "title": "Software Engineering"
+      },
+      {
+        "subtitle": "CSE 355",
+        "title": "Theoretical Computer Science"
+      }
+    ],
+    "certifications": [
+      {
+        "meta": "Issued Jul 2025",
+        "subtitle": "Stanford Online",
+        "title": "Unsupervised Learning, Recommenders, Reinforcement Learning",
+        "credential_url": null,
+        "credential_id": null
+      },
+      {
+        "meta": "Issued Aug 2024",
+        "subtitle": "Stanford Online",
+        "title": "Advanced Learning Algorithms",
+        "credential_url": null,
+        "credential_id": null
+      },
+      {
+        "meta": "Issued Oct 2023",
+        "subtitle": "Stanford Online",
+        "title": "Supervised Machine Learning: Regression and Classification - DeepLearning.AI & Stanford",
+        "credential_url": null,
+        "credential_id": null
+      },
+      {
+        "meta": "Issued Jun 2022 See credential",
+        "subtitle": "Cisco",
+        "title": "Cisco CCNA: Introduction to Networks",
+        "credential_url": "https://www.credly.com/badges/0d3fb8c4-f7c6-4075-a4c3-aa9501a63844?source=linked_in_profile&trk=public_profile_see-credential",
+        "credential_id": null
+      },
+      {
+        "meta": "Issued May 2020",
+        "subtitle": "Google",
+        "title": "Google IT Technical Support Certification",
+        "credential_url": null,
+        "credential_id": null
+      }
+    ],
+    "recommendations": [
+      "Meenal Negi \u201cAdrian Simon was selected in the Summer 2021 Cisco High School Shadow Program - Internship. He participated and performed well under the software engineering portion of the program. Adrian proved his knowledge of object-oriented programming and Java by being tasked to create a multi-client to server communications program and by doing so successfully. He then demonstrated his program functioning over his local network during a presentation in front of many other students and Cisco employees. I highly recommend considering Adrian Simon for any opportunities concerning Computer Science and Software Engineering.\u201d"
+    ],
+    "volunteer_experience": [
+      {
+        "cause": "Science and Technology",
+        "duration": "Nov 2015 \u00b7 - \nNov 2015 \u00b7 \n1 month",
+        "duration_short": "- \nNov 2015",
+        "info": "Invited to Wonder Workshop's headquarters in San Mateo to voluntarily test and review software for their upcoming mobile development releases.",
+        "start_date": "Nov 2015",
+        "subtitle": "Wonder Workshop",
+        "title": "Software Tester"
+      },
+      {
+        "cause": "Education",
+        "duration": "Aug 2021 \u00b7 - \nMar 2022 \u00b7 \n8 months",
+        "duration_short": "- \nMar 2022",
+        "info": "Volunteered as an English tutor for children with special needs.",
+        "start_date": "Aug 2021",
+        "subtitle": "Friends of Children with Special Needs (FCSN)",
+        "title": "English Tutor"
+      },
+      {
+        "cause": "Children",
+        "duration": "Jan 2025 \u00b7 - \nApr 2025 \u00b7 \n4 months",
+        "duration_short": "- \nApr 2025",
+        "info": "Raised $5000+ via marketing initiatives, donation outreach, and hosting events.",
+        "start_date": "Jan 2025",
+        "subtitle": "ARIZONA ASSOCIATION FOR FOSTER AND ADOPTIVE PARENTS",
+        "title": "Fundraiser"
+      }
+    ],
+    "followers": 1543,
+    "connections": 500,
+    "current_company_company_id": "linkedin",
+    "current_company_name": "LinkedIn",
+    "publications": [
+      {
+        "title": "Semantic Convergence: Investigating Shared Representations Across Scaled LLMs",
+        "subtitle": "ACL 2025",
+        "date": "June 22, 2025",
+        "description": "Cited by AWS AI Labs and more."
+      }
+    ],
+    "projects": [
+      {
+        "title": "Ozera",
+        "start_date": "Dec 2025",
+        "description": "A full-stack platform designed for LLM researchers with a focus on interpretability that lets users experiment on and visualize the internal mechanics of large language models as they generate text. It provides two from-scratch transformer LLMs alongside many open-source models, with tools for activation patching, attention head analysis, sparse autoencoder experimentation, custom model training, and publication-ready figure exports.Key Features:\u2022 Real-time layer-by-layer activation, attention, embeddings, and logit visualization during inference\u2022 Activation intervention & patching playground to test causal hypotheses about model behavior\u2022 Automated attention head classification (induction, copying, positional, sink) and pattern mining\u2022 Sparse autoencoder analysis, feature browsing, and cross-model feature comparison\u2022 Custom model training pipeline with dataset upload, cost estimation, and GPU job tracking\u2022 Credit-based access to compute for model training, inference, and experiments\u2022 Publication-ready figure export with NeurIPS, ICLR, and ICML formatting presetsTechnical Implementation:\u2022 Models: Two transformer-based LLMs and corresponding sparse autoencoders built from scratch (no ML frameworks, just math)\u2022 Frontend: React 18 / TypeScript with D3, Plotly, Recharts, and Visx for interactive activation and attention visualizations\u2022 Backend: FastAPI with Supabase for authentication and PostgreSQL database, plus Stripe for credit-based billing\u2022 Compute: Serverless GPU inference on Modal using PyTorch and HuggingFace Transformers, with forward hooks\u2022 Deployment: Vercel for frontend, Railway for backendLive at: ozera.app"
+      },
+      {
+        "title": "Enfora",
+        "start_date": "Jul 2025",
+        "description": "A full-stack web application that combines financial commitment with AI validation to help users achieve their goals. Users create tasks with optional monetary stakes, and AI validates completion evidence through advanced document and image analysis.Key Features:\u2022 AI-powered evidence validation using OpenAI API (analyzes screenshots, PDFs, and documents)\u2022 Automated payment processing via Stripe for failed task accountability\u2022 Global leaderboard with proprietary reliability scoring algorithm\u2022 Recurring task support with smart deadline tracking\u2022 Two-factor authentication with TOTP, email codes, and backup codes\u2022 Real-time analytics tracking completion rates, streaks, and discipline metricsTechnical Implementation:\u2022 Frontend: React 19, Vite, Tailwind CSS, React Router\u2022 Backend: Node.js/Express REST API with JWT authentication\u2022 Database: AWS DynamoDB with GSI indexing and composite keys\u2022 Cloud Infrastructure: AWS Lambda (serverless task expiration), EventBridge Scheduler (automated deadline triggers), S3 (evidence storage), SES (email notifications)\u2022 Integrations: OpenAI API, Stripe API, Redis (rate limiting & caching)\u2022 Security: bcrypt password hashing, refresh token rotation with reuse detection, express-rate-limit with Redis backend, CSRF protection\u2022 Deployment: Vercel for frontend, Railway for backendArchitecture Highlights:\u2022 Event-driven task expiration with automatic payment charging\u2022 Serverless leaderboard caching (Lambda runs every 10 min to rank users)\u2022 AI validation pipeline with metadata verification to prevent cheating\u2022 Webhook-based payment reconciliation for transaction status updatesLive at: enfora.app (BETA)"
+      },
+      {
+        "title": "Jamify",
+        "start_date": "Jan 2025",
+        "description": "Jamify is an AI-powered web application that curates personalized Spotify playlists based on user-provided descriptions. Leveraging Python, Flask, the Spotify Web API, and the OpenAI API, the project interprets natural language inputs to search for music recommendations that align with user preferences and moods. The application is deployed on Heroku, ensuring seamless accessibility without the need for complex infrastructure management.Key features of Jamify include:- AI-Powered Playlist Generation: Utilizes the OpenAI API to analyze and interpret user inputs, transforming them into tailored search terms that are fed into the Spotify Web API.- Spotify Web API Integration: Retrieves search terms and track data from user inputs to generate playlists dynamically based on user preferences.- Web-Based Interface: Built with Flask to provide an intuitive and responsive user experience.- Error Handling & Robustness: Implemented thorough error handling mechanisms to manage API failures and edge cases.- Deployment on Heroku: Ensuring smooth and cost-effective deployment without the need for manual infrastructure management.The project was developed using Visual Studio Code IDE, taking advantage of its powerful debugging and development tools. Additionally, Flask-Mail was integrated to facilitate whitelist requests, enabling secure user authentication workflows via email.Check out Jamify here: https://bit.ly/jamifyNote: Due to limitations in Spotify Web API's development mode, access to the playlist generation is limited to users on a whitelist. However, getting on the whitelist is simple. Open Jamify in your browser, log in through Spotify, attempt to generate a playlist, and then enter your Spotify email to be added to the whitelist."
+      },
+      {
+        "title": "LungSense.AI",
+        "start_date": "Dec 2024",
+        "description": "LungSense.AI is a specialized web application that leverages artificial intelligence to provide users with a clear, data-driven confidence score indicating their potential risk of lung cancer. By answering a brief yet intuitive questionnaire, users receive a personalized analysis based on health and environmental factors associated with lung cancer risk.The development involved significant technical and research-driven efforts. I started by creating a custom dataset tailored specifically for the model's training and testing needs. Instead of relying on publicly available datasets on Kaggle, which often lacked meaningful correlations between features and outcomes, I developed a rule-based dataset generation algorithm. This algorithm incorporated weighted features, biases, and mathematical relationships grounded in extensive research on the key contributors to lung cancer risk.The model development process was rigorous, as I had several machine learning algorithms trained, fine tuned, and validated through cross validation, grid search, and gradient-based optimization techniques. Ultimately, a Logistic Regression model was selected as the final model due to its superior performance in accuracy and reliability.I implemented the model into the backend by writing an API in Flask, enabling robust API functionality for processing user inputs and delivering real-time predictions. To maintain simplicity and scalability, no database was used, as user inputs are processed in real-time.I then created a seamless and efficient user experience on the frontend in HTML, CSS, and JavaScript. Designed for simplicity and accessibility, ensuring users could easily navigate the questionnaire and understand the results. To make the application widely accessible, it was deployed on Heroku, leveraging its scalability and ease of integration. DISCLAIMER: This project does not provide medical diagnosis, and is simply a showcase of machine learning development."
+      },
+      {
+        "title": "Stock Predictor",
+        "start_date": "Mar 2024",
+        "description": "A machine learning based algorithm that predicts whether the index price of the S&P 500 will increase or decrease tomorrow or during the next trading period.The algorithm uses thousands of days of data from previous index prices of the S&P 500 provided by Yahoo Finance to make a prediction. It then cleans through the data using the Pandas Python library to prepare it for the machine learning algorithm. The algorithm trains a Random Forest Classifier model from Scikit Learn using a backtesting function on the data. The model is then improved upon using additional predictors to further increase accuracy."
+      },
+      {
+        "title": "MusicGenie",
+        "start_date": "Jul 2022",
+        "description": "Submitted as final project for UC San Diego Extended Studies Advanced Python Course. A terminal based music information database accessor client powered by the Genius API using Python."
+      },
+      {
+        "title": "TeslaRemote",
+        "start_date": "Jul 2022",
+        "description": "A terminal based application which provides users with a wide variety of control over their Tesla vehicles. Created fully in Python3 using the teslapy library."
+      },
+      {
+        "title": "Chatbot for Mental Health - Dartmouth Inspirit AI",
+        "start_date": "Aug 2021",
+        "description": "A Chat Bot to assist those who are experiencing mental health issues was tested and created during this group project in the Dartmouth Inspirit AI Program, fully written in Python."
+      },
+      {
+        "title": "SimpleChat",
+        "start_date": "Jul 2021",
+        "description": "Chatting application project created under Cisco HS Summer Internship Program.This project is built completely in Java using methods such as threading, socket programming, and local network communications."
+      },
+      {
+        "title": "Vortex",
+        "start_date": "Jun 2021",
+        "description": "Vortex is a powerful keyboard macro with a simplistic modern GUI and great output customizability. This desktop application is written fully in Java."
+      },
+      {
+        "title": "Object Detection for Autonomous Vehicles - Stanford Inspirit AI",
+        "start_date": "Jul 2021",
+        "description": "Object detection algorithms to assist autonomous vehicles were created and studied during this group project in the Stanford Inspirit AI Program, written fully in Python.Methods Used: CIFAR10 dataset, Tensorflow/Keras neural networks, transfer learning, convolutional neural networks, VGG-16 networks"
+      }
+    ],
+    "location": null,
+    "input_url": "https://www.linkedin.com/in/adriansimonn",
+    "linkedin_id": "adriansimonn",
+    "activity": [
+      {
+        "interaction": "Adrian Simon shared this",
+        "link": "https://www.linkedin.com/posts/adriansimonn_linkedinterns-activity-7394065263383597057-c3k9",
+        "title": "I\u2019m excited to share that I\u2019ll be joining LinkedIn this summer as a Software Engineer Intern! A huge thank you to my recruiter Nia Stewart for making the process so seamless, and to my friends and family for their constant support and encouragement along the way. I\u2019m incredibly excited to learn, grow, and contribute alongside the talented team at LinkedIn\u2019s Mountain View headquarters, helping build and improve the world\u2019s largest professional networking platform. #LinkedInterns ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQHayXm346nGkw/feedshare-image-high-res/B56Zpz_LJyJ8Ao-/0/1762882532834?e=2147483647&v=beta&t=8r4r39KwpEaup2N5JF7Hte4UQXcd2PlA4D-u0j_BhnI",
+        "id": "7394065263383597057"
+      },
+      {
+        "interaction": "Adrian Simon shared this",
+        "link": "https://www.linkedin.com/posts/adriansimonn_semantic-convergence-acl-2025-activity-7355665907941085184-NJ-O",
+        "title": "Thrilled to share that our paper has been accepted into ACL SRW 2025! I look forward to presenting our work this week at the #1 ranked NLP conference in the world: ACL 2025 in Vienna, Austria. Our paper investigates whether large language models of different sizes converge on similar internal concepts. Using Sparse Autoencoders (SAEs) and similarity metrics like SVCCA and RSA, we analyzed and quantified feature universality between Google 's Gemma-2-2B and Gemma-2-9B models. Our results reveal novel multi-token subspace similarity, validate strong alignment of semantic features in the mid-layers of both models, and provide evidence that LLMs carve the world into broadly similar, interpretable features regardless of scale. We hope these findings move us closer to building cross-model interpretability tools and improving LLM safety and control through a deeper understanding of shared internal representations. A huge thank you to my incredible co-authors: Daniel Son , Sanjana Rathore , Andrew W. Rufail , Daniel Zhang , and Soham Dave , as well as our mentors Cole Blondin, Kevin Zhu , and Sean O\u2019Brien for their guidance throughout this research effort. ...more",
+        "img": null,
+        "id": "2025"
+      },
+      {
+        "interaction": "Adrian Simon commented on a post 3w",
+        "link": "https://www.linkedin.com/posts/youngjun-yoo_building-the-ml-infrastructure-behind-an-activity-7484036557532860416-aoEq",
+        "title": "Great work Jun!",
+        "img": null,
+        "id": "7484036557532860416"
+      },
+      {
+        "interaction": "Adrian Simon liked this",
+        "link": "https://www.linkedin.com/posts/linkedin_kinda-chic-to-tap-the-three-dots-and-hit-activity-7493328269052928000-81hp",
+        "title": "Kinda chic to tap the three dots and hit the 'seems like AI slop' option when you see AI slop.",
+        "img": "https://media.licdn.com/dms/image/v2/D4E10AQEUdqSc7WDXTg/image-shrink_1280/B4EZ_2mUXdHYAc-/0/1786548668179?e=2147483647&v=beta&t=5wGG9LMUrFlnNDLd4RCswWLVoRZXHvjOVu85AB1EhyY",
+        "id": "7493328269052928000"
+      },
+      {
+        "interaction": "Adrian Simon liked this",
+        "link": "https://www.linkedin.com/posts/rubin-bobbili-48048029b_lifeatatt-att-dataanalytics-activity-7492980654427713536-pjKt",
+        "title": "After an incredible 12 weeks, I\u2019ve officially completed my summer internship with AT&T in Dallas! This summer, I had the opportunity to work on an AI tool within AT&T\u2019s internal platform, where I helped train and improve the AI to better support informed, data-driven decision-making. Through this project, I gained valuable hands-on experience with AI, data analytics, and product development while seeing firsthand how emerging technology can be applied to solve real business challenges. Beyond my project, one of the most rewarding parts of my internship was the people who supported and challenged me throughout the experience. I\u2019m especially grateful to my supervisor, Priya (Rahela) Gumpalli, MBA , and program manager, Teasha T. , for their mentorship, guidance, and support throughout the summer. I\u2019d also like to thank my cohort leads, Julia Hoke and Daniel Ruvio , for helping me navigate my internship, strengthen my professional skills, and make the most of my experience at AT&T. I\u2019m thankful to everyone who took the time to share their knowledge, provide valuable feedback, and contribute to my professional development. The skills, insights, and experiences I gained at AT&T strengthened my understanding of how technology and data can drive business impact, and they are lessons I\u2019ll carry with me throughout my career. Thank you, AT&T, for an unforgettable summer and an incredible opportunity to learn and grow. I\u2019m excited to take everything I\u2019ve learned into my next chapter! #lifeatatt #ATT #dataanalytics #product",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQHPJFNwdWk_Ew/feedshare-shrink_800/B56Z_xqIDnJkAc-/0/1786465781503?e=2147483647&v=beta&t=4VcpfSie5s0c9OQN6xy2lxKwkqF7WNbz8T4jnkNXqI8",
+        "id": "7492980654427713536"
+      },
+      {
+        "interaction": "Adrian Simon liked this",
+        "link": "https://www.linkedin.com/posts/mwboyle_commercialrealestate-internship-arizonastateuniversity-activity-7493088864463597570-xn56",
+        "title": "Excited to share that I've officially wrapped up my summer internship with Bixby Capital Management ! Over the past few months, I rotated through the acquisitions, investor relations, operations, property management, and accounting departments, which gave me a front row seat to how a commercial real estate deal actually comes together, from initial underwriting all the way through the end of due diligence. That work included compiling quarterly market reports from brokerage research, reviewing lease comps and estoppels, and touring investment properties. Getting to see the industrial asset side of the industry from so many different angles was an incredibly valuable learning experience, and I couldn't be more grateful. For my capstone project, I researched agentic and generative AI adoption opportunities across every department at the firm. I dug into where AI could realistically fit into everyday workflows without disrupting how the team already operates, and I presented my findings and recommendations to the entire company during my last week. Standing up in front of the whole firm and having people actually engage with my ideas was a moment I won't forget. The highlight of my summer, though, was the team itself. Everybody at Bixby, no matter their role or how busy they were, made time to teach me about what they do, what they were working on, and why it mattered. I never once felt like I was just shadowing people, I felt like I was actually part of the team. That kind of culture is rare, and it's clear that the people at Bixby are what make the firm so special. I'm leaving this internship with a much clearer sense of how the commercial real estate industry works as a whole, and an even clearer sense of the kind of team I want to be a part of going forward. Thank you, Bixby Capital Management , for an amazing summer! #CommercialRealEstate #Internship #ArizonaStateUniversity",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQFHh2B2IeGGUA/feedshare-shrink_1280/B56Z_zMm9sJcAQ-/0/1786491596856?e=2147483647&v=beta&t=jvZtMmmHq8D9oEavw7oKAQepKPQDsIbNQrWveDK8SY8",
+        "id": "7493088864463597570"
+      },
+      {
+        "interaction": "Adrian Simon liked this",
+        "link": "https://www.linkedin.com/posts/tyler-scaringella_as-i-enter-the-last-week-of-my-internship-activity-7492233245598613504-mlsj",
+        "title": "As I enter the last week of my internship at LinkedIn , I wanted to look back on what I\u2019ve accomplished and share some of the biggest things I\u2019ve learned along the way. For the past 12 weeks, I\u2019ve been building AI agents that help LinkedIn engineering teams understand and optimize their Microsoft Azure spend, alongside Olaoluwa James-Owolabi , Taeeun Kim , and my manager, Shweta Sahni . 1) Being a good teammate means more than just \u201cdoing your tasks.\u201d Working on a team means everyone has their own responsibilities, but I learned pretty quickly that being a good teammate goes beyond just getting your own work done. Sometimes that means slowing down to review someone else\u2019s code, moving faster when someone is waiting on you, communicating when you\u2019re blocked, or putting your own task aside for a little while to help unblock someone else. 2) Working in a large codebase means learning what already exists before building something new. We were contributing to a codebase with over a million lines of code, and one of my biggest takeaways was how important it is to understand how similar problems have already been approached before jumping into your own solution. That meant looking through existing code, speaking with other teams, and making sure what I was building was up to the same quality as the code already in production. 3) AI works best when the problem is clearly defined. AI can write quality code and documentation quickly, but it can also go off track just as fast if the task isn\u2019t clearly defined. I learned to break larger stories into smaller, well-defined tasks and spend more time upfront thinking through the approach and refining the plan before any code was written. Being deliberate about what I wanted to build, questioning assumptions along the way, and using AI to help execute led to better code, cleaner pull requests, and a stronger understanding of everything I was shipping.",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQG6LmohDMJ2CQ/feedshare-shrink_800/B56Z_lJ94YJ0Ac-/0/1786256023996?e=2147483647&v=beta&t=fSkR5YkArKeZmMlSI2gZ4iHAvBfB1RowiBarzl3Rvy8",
+        "id": "7492233245598613504"
+      },
+      {
+        "interaction": "Adrian Simon liked this",
+        "link": "https://www.linkedin.com/posts/henry-zhang-umich_hackathon-grokathon-activity-7492313630101893120-4Jze",
+        "title": "Last night we won first place at SpaceXAI \u2018s Grokathon \ud83d\udd25\ud83d\udd25 We wanted to answer the question: If we gave agents all the tools that security professionals use to reverse engineer binaries, can we let grok reverse engineer decade old binaries made for gameboys and others platforms? Turns out we can :) We built a custom harness that allowed grok to reverse engineer binaries via static analysis, memory inspection + debugging, and dynamic computer use interaction. We were able to rewrite old gameboy ROMs up to 262kb in size to standard C, which then allowed us to remix and reimagine games. We posted our app on X and other platforms and received 2500 views and ~130 verified users in 12 hours. We even took this a step further. We found a 1995 BMW\u2019s engine control unit\u2019s (ECU) ROM, performed static analysis on it and built a clean-room implementation that allowed us to analyze the engine control signals during steady state operation. Since no existing emulator can properly simulate the ROM, we used what we learned from static analysis to patch an existing open source emulator, and was able to fully emulate the 1995 ROM initial cranking sequence. Shoutout to my awesome teammates Theo Chapman and Supratik Panuganti . Yall are the goats \ud83d\udc10 #hackathon #grokathon",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQFuVf-c909YCQ/feedshare-shrink_800/B56Z_oLiW0KMAc-/0/1786306766582?e=2147483647&v=beta&t=VMcPO2OpYLrHmhPSOKR7YKDhVFuzLaq-f7BqcCt4SVc",
+        "id": "7492313630101893120"
+      },
+      {
+        "interaction": "Adrian Simon liked this",
+        "link": "https://www.linkedin.com/posts/david-t-yu_linkedinlife-linkedintern-activity-7491602845578723328-t36a",
+        "title": "LinkedIn Brand New Day \u2600\ufe0f \ud83c\udfb5 oh yeah? - Steve Lacy #LinkedInLife #LinkedIntern",
+        "img": "https://media.licdn.com/dms/image/v2/D5605AQEIXWrOeWrzQw/videocover-high/B56Z_eFDKQHUBU-/0/1786137295983?e=2147483647&v=beta&t=ED6DDyCPifd-gvIeY2nPpjMKQZFDs-CJKREoxyRMzVc",
+        "id": "7491602845578723328"
+      },
+      {
+        "interaction": "Adrian Simon liked this",
+        "link": "https://www.linkedin.com/posts/kanishk-kovuru_linkedinterns-activity-7491592397165010945-gbwd",
+        "title": "As my internship at LinkedIn wraps up in the next couple weeks, I wanted to take the time to reflect on my experiences and growth this summer. This summer, I worked on LinkedIn's Python Infrastructure team where I helped build an AI-powered autofixer that automatically converts Linkedin's Python services to safe async patterns, optimizing a previously tedious and error-prone migration across thousands of services. This internship taught me that software engineering \u2260 coding. With the rise of agentic coding, many developers (including myself) have wondered what the future of software engineering looks like. But some of my biggest lessons this summer came from everything surrounding the code: navigating massive codebases, familiarizing myself with foreign systems, and making design decisions with real tradeoffs. I learned that great engineering isn't about just writing clean code, but also involves understanding the problem and designing the right solution. A big thank you to my tech lead Friedrich Ewald and manager Kaiyang Zheng for giving me the opportunity to contribute to a high impact initiative at LinkedIn and encouraging me to stay curious as I grow as an engineer. I'd like to also thank the rest of my intern pod, Anson Lam , Grace Jin , Emma Bennett for working alongside me, I couldn't have asked for a better group to learn, brainstorm, and navigate through the summer. Last but not least, a huge shout out to my recruiter Jeffery C. and the rest of the intern program team for planning super fun events that made this summer unforgettable! #LinkedInterns",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQFPnuzZ7jx-QA/feedshare-shrink_800/B56Z_d7k2DJ8Ac-/0/1786134811503?e=2147483647&v=beta&t=aIZY88wCM0wVIWw_hVX_yeMKck8m1pzwlcfCIqtVJnI",
+        "id": "7491592397165010945"
+      }
+    ],
+    "linkedin_num_id": "903867697",
+    "banner_image": "https://media.licdn.com/dms/image/v2/D5616AQGBi-8nof2vLw/profile-displaybackgroundimage-shrink_200_800/B56Z_28BQnHAAQ-/0/1786554357506?e=2147483647&v=beta&t=wdHGfXEFoyY0LL3mB99Cbtb3cfsQtH1td_TJzL7sw1w",
+    "honors_and_awards": [
+      {
+        "title": "ACL 2025 Invitee",
+        "publication": "Association for Computational Linguistics",
+        "date": "2025-06-01T00:00:00.000Z",
+        "description": "Invited as an undergrad to present research as co-author at the #1 ranked research conference in the world for NLP/computational linguistics in Vienna, Austria."
+      },
+      {
+        "title": "Dean's List",
+        "publication": "Arizona State University - Ira A. Fulton Schools of Engineering",
+        "date": "2024-05-01T00:00:00.000Z",
+        "description": "Received Dean's List Award for academic performance during multiple semesters."
+      },
+      {
+        "title": "Top 50 Finalist - Wonder League Robotics Competition 2016",
+        "publication": "Wonder Workshop",
+        "date": "2017-03-01T00:00:00.000Z",
+        "description": "Lead a team of 3 to a top 50 placement out of 20,000 teams of about 70,000 students in the Wonder League Robotics Competition in 2016"
+      }
+    ],
+    "similar_profiles": [],
+    "default_avatar": false,
+    "memorialized_account": false,
+    "bio_links": [
+      {
+        "title": "Portfolio",
+        "link": "https://adriansimon.xyz/"
+      }
+    ],
+    "first_name": "Adrian",
+    "last_name": "Simon",
+    "influencer": false,
+    "timestamp": "2026-08-12T18:54:34.354Z",
+    "input": {
+      "url": "https://www.linkedin.com/in/adriansimonn"
+    }
+  },
+  "local_photo": "data\\linkedin_photos\\adriansimonn__usr-iz5OPFYAmW4B5uV.jpg"
+}

@@ -1,0 +1,299 @@
+{
+  "luma_user_id": "usr-UcxTHBu5NGInM7t",
+  "csv_name": "Ayaan Chawla",
+  "csv_linkedin": "https://www.linkedin.com/in/ayaan-chawla",
+  "enriched_at": "2026-08-12T18:58:28.968293+00:00",
+  "batch_id": "sd_msqgad6c2eeefcaqas",
+  "profile": {
+    "id": "ayaan-chawla",
+    "name": "Ayaan Chawla",
+    "city": "Danville, California, United States",
+    "country_code": "US",
+    "position": null,
+    "about": "Hello! I'm Ayaan Chawla, an undergraduate student at the University of Illinois\u2026",
+    "current_company": {
+      "link": "https://www.linkedin.com/company/seagullslab?trk=public_profile_topcard-current-company",
+      "name": "Seagulls",
+      "company_id": "seagullslab",
+      "location": null
+    },
+    "experience": null,
+    "url": "https://cz.linkedin.com/in/Ayaan-chawla",
+    "educations_details": "University of Illinois Urbana-Champaign",
+    "education": [
+      {
+        "title": "University of Illinois Urbana-Champaign",
+        "url": "https://www.linkedin.com/school/university-of-illinois-urbana-champaign/",
+        "end_year": "2028-05",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      },
+      {
+        "start_year": "2024-07",
+        "end_year": "2024-08",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      },
+      {
+        "start_year": "2024-07",
+        "end_year": "2024-08",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      },
+      {
+        "start_year": "2024-06",
+        "end_year": "2024-07",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      },
+      {
+        "start_year": "2022-06",
+        "end_year": "2022-07",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      }
+    ],
+    "recommendations_count": 1,
+    "avatar": "https://static.licdn.com/aero-v1/sc/h/9c8pery4andzj6ohjkjp54ma2",
+    "courses": [
+      {
+        "subtitle": "-",
+        "title": "AI Scholars Program at Inspirit AI"
+      },
+      {
+        "subtitle": "-",
+        "title": "AI, Data Science and Machine Learning at Brown University"
+      },
+      {
+        "subtitle": "-",
+        "title": "AP Computer Science A"
+      },
+      {
+        "subtitle": "-",
+        "title": "Intro to Programming with Python - CodeWizards"
+      },
+      {
+        "subtitle": "-",
+        "title": "Introduction to Web Programming - CodeWizards"
+      },
+      {
+        "subtitle": "VACPL",
+        "title": "VS.Net Programming"
+      },
+      {
+        "subtitle": "-",
+        "title": "Web Pages with HTML& CSS - CodeWizards"
+      }
+    ],
+    "languages": [
+      {
+        "subtitle": "Limited working proficiency",
+        "title": "Spanish"
+      },
+      {
+        "subtitle": "Native or bilingual proficiency",
+        "title": "Hindi"
+      },
+      {
+        "subtitle": "Limited working proficiency",
+        "title": "Punjabi"
+      },
+      {
+        "subtitle": "Native or bilingual proficiency",
+        "title": "English"
+      }
+    ],
+    "recommendations": [
+      "Larry McMahan \u201cI\u2019ve worked closely with Ayaan on several research projects, including a Greek Linguistics modeling initiative and a multimodal skin cancer detection system. In both settings, he played a meaningful role in pushing the work forward and took real ownership of what he was responsible for. What I appreciate most about Ayaan is how he thinks through hard problems. He does not rush to answers. He asks good questions, takes feedback seriously, and is quick to connect theory with implementation. He is technically strong, but just as importantly, he is dependable and consistent. He works well with others and contributes to a positive, focused team environment. When we ran into roadblocks, he stayed calm and broke problems down into manageable pieces rather than getting discouraged. Ayaan is motivated by impact and growth, not just resume lines. I am confident he will continue to develop into a thoughtful and capable researcher or engineer, and I would recommend him without hesitation.\u201d"
+    ],
+    "followers": 1289,
+    "connections": 500,
+    "current_company_company_id": "seagullslab",
+    "current_company_name": "Seagulls",
+    "publications": [
+      {
+        "title": "A Multimodal Approach for Skin Lesion Diagnosis",
+        "subtitle": "IEEE Xplore",
+        "date": "January 20, 2025",
+        "description": "Inspection by dermatologists remains the standard for skin cancer diagnosis, but it can be subjective and prone to error. We explore the potential of machine learning for dermoscopic image classification using 10,000 pigmented skin lesions. Although convolutional neural networks are powerful tools for skin lesion classification by themselves, by incorporating patient-specific textual data, we aim to improve the accuracy and accessibility of diagnosis. We propose multiple multimodal models: transfer learning and multimodal transformers. These multimodal approaches aim to utilise both dermoscopic images and corresponding patient-specific data, such as lesion location and patient demographics. Our multimodal model with the best overall evaluation is the multimodal transformer model which combines a vision transformer and a text transformer. It achieved an accuracy of 93.21% and an AUROC of 0.9860."
+      }
+    ],
+    "projects": [
+      {
+        "title": "ARRAI",
+        "start_date": "Feb 2026",
+        "description": "ARRAI is an AI-powered inspection system designed to pair directly with wearable devices like Meta Ray-Ban smart glasses to modernize heavy machinery inspections. Instead of carrying clipboards or manually documenting findings, inspectors can simply record components in the field using the glasses, capturing first-person video and images hands-free. That media is automatically ingested into ARRAI\u2019s cloud pipeline, where computer vision and audio analysis models detect component-level defects and anomalies. A fine-tuned language model then converts those structured detections into clear, standardized inspection issues and generates a CAT-style report aligned with industry documentation standards. By combining wearable capture, automated analysis, and structured report generation, ARRAI transforms raw field footage into professional inspection documentation in near real time, reducing manual effort while improving accuracy and consistency."
+      },
+      null,
+      null,
+      {
+        "title": "Lexora",
+        "start_date": "Jan 2026",
+        "description": "I built and deployed an end-to-end cloud AI system that transforms raw contract PDFs into structured, clause-level risk insights and negotiation guidance. The platform uses a dual-model architecture that combines deterministic machine learning with grounded LLM reasoning to avoid hallucination-prone, LLM-only workflows. At its core is ClauseRiskNet, a custom clause classification and risk-scoring model (0\u2013100) with confidence estimates, supported by multi-stage inference fallbacks (ONNX \u2192 sklearn \u2192 heuristic rules) to ensure reliability and reproducibility. The system implements a full document pipeline, including PDF extraction, clause segmentation, ML inference, risk aggregation, and persistent storage for auditability. A retrieval-augmented generation (RAG) layer powers negotiation playbooks and redline suggestions using clause-scoped TF-IDF retrieval and schema-validated LLM outputs. The production frontend was built with Next.js and TypeScript, featuring synchronized PDF viewing and interactive clause exploration, while the backend runs as a Dockerized FastAPI service with PostgreSQL on cloud infrastructure. The system was designed with a strong emphasis on explainability, determinism, and auditability over black-box summarization."
+      },
+      {
+        "title": "Monte Carlo Portfolio Risk Dashboard",
+        "start_date": "Sep 2025",
+        "description": "\u2022 Built an interactive Streamlit dashboard for portfolio risk analysis, allowing dynamic selection of tickers and weights\u2022 Fetched historical stock prices using yfinance and computed daily returns, cumulative returns, Sharpe ratio, and max drawdown\u2022 Implemented Monte Carlo simulations (500+ trials) to project portfolio performance and estimate 95% Value-at-Risk (VaR)\u2022 Visualized historical performance and simulated portfolio paths using Matplotlib for interactive exploration of risk scenarios"
+      },
+      {
+        "title": "AI Mortgage Assistant",
+        "start_date": "Jul 2025",
+        "description": "\u2022 Engineered an AI-driven mortgage assistant integrating OpenAI API for dynamic natural language query parsing.\u2022 Programmatically implemented amortization schedules, interest allocation, and monthly payment projections.\u2022 Developed a modular financial computation engine to handle variable loan parameters and scenarios.\u2022 Created interactive visualizations of loan balance evolution and cash flows using Python plotting libraries.\u2022 Optimized end-to-end workflow with Streamlit interface, AI explanations, and reproducible GitHub deployment."
+      },
+      {
+        "title": "Time-Series Risk Estimator Using ARCH/GARCH Models",
+        "start_date": "Jun 2025",
+        "description": "\u2022 Implemented a volatility forecasting model using GARCH(1,1) to quantify time-varying financial risk in equities (e.g., AAPL)\u2022 Collected and processed historical stock price data using yfinance, computing daily returns and rolling volatility\u2022 Trained and evaluated GARCH models with the arch package to forecast future volatility and compare it to realized values\u2022 Visualized volatility forecasts vs. realized volatility to assess model accuracy and market responsiveness"
+      },
+      {
+        "title": "Seismic Detection Across the Solar System",
+        "start_date": "Oct 2024",
+        "description": "\u2022 Developed a multi-modal seismic detection system integrating Support Vector Regression (SVR) and Convolutional Neural Networks (CNNs) to analyze planetary seismic data\u2022 Implemented SVR models to handle nonlinear relationships, outliers, and high-dimensional feature spaces for refined seismic event predictions\u2022 Built and trained CNN architectures using 1D time-series convolutions and 2D spectrogram inputs to extract seismic features while mitigating noise\u2022 Optimized model performance using MaxPooling and Dropout layers to reduce overfitting while preserving essential seismic signal characteristics\u2022 Evaluated and compared trigger algorithms (Z-detector, STA/LTA, and others), identifying the Z-detector as the most effective for lunar seismic profiles\u2022 Improved detection accuracy by tuning off-trigger thresholds to enhance waveform edge identification without increasing false positives\u2022 Adapted lunar-trained detectors to Martian seismic data by adjusting window sizes, bandpass filters, and trigger thresholds for cross-planet generalization\u2022 Conducted comprehensive validation through waveform visualization, characteristic function analysis, and manual review of noisy samples across planetary datasets"
+      }
+    ],
+    "location": "Danville",
+    "input_url": "https://www.linkedin.com/in/ayaan-chawla",
+    "linkedin_id": "ayaan-chawla",
+    "activity": [
+      {
+        "interaction": null,
+        "link": "https://www.linkedin.com/posts/aakash-kolli_excited-to-share-that-our-project-machine-activity-7404331957507174400-HwVI",
+        "title": "Excited to share that our project, Machine Learning for European Options, won Best Poster for the UIUC Financial Engineering Club! Our team built a robust machine learning framework in Python for European option pricing, benchmarking our results against the Black-Scholes model and leveraging 2.8M historical SPX contracts to deliver fast, accurate implied volatility estimates. Through this project, we learned how machine learning can capture market patterns that traditional models may miss, the importance of rigorous data preprocessing, and how to visualize quantitative research in a deployable Streamlit web tool for real-world use. \ud83d\ude80 Try the tool here: https://lnkd.in/gTV2vusy \ud83c\udf10 GitHub: https://lnkd.in/gcdwNb7s Huge thanks to my teammates Ayaan Chawla , Warren Hsu , Jason Yap , our wonderful President Michael Wattelet , and everyone who helped us along the way! ...more ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQENRI5ttew_tw/feedshare-shrink_800/B56ZsF4rQNHkAg-/0/1765330303318?e=2147483647&v=beta&t=V6f8d_pPQCWfxJdVEWMTGtTtcENEFIdjH6sF0daStCc",
+        "id": "7404331957507174400"
+      },
+      {
+        "interaction": "Ayaan Chawla liked this",
+        "link": "https://www.linkedin.com/posts/lakshya-agarwal-b43515317_wearecisco-intern-activity-7492323831240617984-oAGf",
+        "title": "This past Friday, I officially wrapped up my summer as a Software Engineering Intern on Cisco's Industrial IoT team in San Jose! Over the past few months, I worked on Agentic Runbook Creator (ARC) for Cisco's AI Assistant for Troubleshooting Networks. Runbooks are step-by-step diagnostic scripts used to troubleshoot industrial networks automatically, and ARC is used to generate said runbooks dynamically using context from a customer's network. My work included connecting local SLM-based hypothesis generation with cloud LLM workflows and protecting sensitive topology and device data during the handoff between on-premises and cloud activity. I also directly developed a cloud-based digital-twin evaluator that injects IOS-XE simulated faults into the customer's obfuscated topology to test whether the generated runbooks actually work. Ultimately, we brought estimated network downtime for new faults from hours to ~25 minutes, and expanded runbook coverage beyond 13 preexisting implementations! Working on ARC gave me a much better understanding of what it takes to build AI for real systems. The output needs the right context, and the workflow has to protect customer data from the start. The whole system also needs to hold up when tested against realistic failures. Taking the project from separate components to a connected workflow taught me a lot about integration and iteration, while working on an engineering team showed me how much I can learn from asking questions and listening to feedback. I'm heading back to UIUC soon, excited to keep building on these skills and apply them in future projects. I want to thank Nikhil Mathur , my mentor, and Dhananjay Awaji , my manager, for all their guidance and support throughout the summer. I'm also grateful to Elango Ganesan , Distinguished Engineer at Cisco, for taking the time to review ARC and give us invaluable feedback that helped move the project forward. Furthermore, I would like to thank Judy Heng, Alexandra Cortes , & Robin J Gonsalves (Robbie Gonsalves) for organizing events and providing amazing intern experiences. Thank you to Pranav Butaney & Srivishnu Vusirikala , my fellow intern teammates who worked alongside me on ARC. Finally, thank you to Abhishek Prabhu , Nitish G. , Nidhi Prakash , Jasraj Sidhu , & Adam Boswell , for making this summer so fun and memorable. Working at Cisco gave me stronger confidence in my abilities and a lot of great memories! #WeAreCisco #Intern",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQFWwu65CwdAIQ/feedshare-shrink_800/B56Z_oIEYdGUAc-/0/1786305857279?e=2147483647&v=beta&t=u9krMBr7oeNr9YGnfcaGBu2WVXSLKSnLg-3HYhEGoe0",
+        "id": "7492323831240617984"
+      },
+      {
+        "interaction": "Ayaan Chawla liked this",
+        "link": "https://www.linkedin.com/posts/sarthak-pal-mahajan_were-teaming-up-with-lovable-to-host-the-activity-7488672350851231744-Qo-z",
+        "title": "We're teaming up with Lovable to host the World's FIRST Zero Human Company Hackathon We're challenging you to build an agent that can run a company completely on its own and earn actual revenue 200 of the most cracked founders, engineers, and students, on August 15th in San Francisco. Thousands of dollars in cash prizes, credits, swag, and good eats. Big thanks to our partners Lovable , Render , Linq , Fastino Labs , Superserve , Replay.io , BAND , Dodo Payments , SV Angel , SignalFire , Solo Founders , sandbox0, and many others to be announced soon Apps close soon; RSVP in comments (interested in sponsoring? DM me!)",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQEgIDvSHlOLNw/feedshare-image-high-res/B56Z.0b0ZDLAAU-/0/1785438619466?e=2147483647&v=beta&t=IjoSTWil4EhLGpE-mPsJC7yWtrSqIFiKhyiUd6Z0AiA",
+        "id": "7488672350851231744"
+      },
+      {
+        "interaction": "Ayaan Chawla liked this",
+        "link": "https://www.linkedin.com/posts/yash-yardi_iamcaterpillar-hackathon-cs-activity-7485048937595437056-PLI4",
+        "title": "An exciting week at my internship at Caterpillar Inc. ! We won at the CAT Digital Hackathon! My team built SiteMemory: an extension to Caterpillar's VisionLink platform giving safety coordinators, project managers, and site executives real-time actionable insights on worksite progress. We advanced to the Global Championship round, and took home the Best UI/UX award. I also received the Standing Ovation individual award! Couldn't have done it without my team - Saul Juarez , Rohin Menon , Amulya Rayasam , Luciana Requena Alegre , and team mentor Jake Lane ! And to top it off, got to see a job site this week! \ud83d\udea7 #iamcaterpillar #hackathon #cs #internship",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQEHgi5NpG7qYg/feedshare-shrink_800/B56Z.A8V_sGgAc-/0/1784574731284?e=2147483647&v=beta&t=ayqm_BKWe7YthQ_-pMGIUK4V4FvSdfiRSYsoB8Y1iik",
+        "id": "7485048937595437056"
+      },
+      {
+        "interaction": "Ayaan Chawla liked this",
+        "link": "https://www.linkedin.com/posts/farazmsiddiqi_ai-ml-aiml-activity-7479915823394865152-LXUD",
+        "title": "We are offering a $5,000 referral bonus for our Growth & Marketing Lead! At Bluejay , we love our marketing stunts: jumping out of planes, peddling at events in bluejay onesies, placing themed DND door-hangers at conferences, and even singing our way through an enterprise deal. Now, we are looking for someone with the same yearning for (measurable) whimsy to run our marketing function. Know someone who might be a good fit? Nominate them in my DMs :) #ai #ml #aiml #machinelearning #artificialintelligence #startup #yc #voiceai #voice #voiceagents #aiagents #agentic #conversationalai #bluejay #marketing #growth",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQE5YYz4Hm_JdQ/feedshare-shrink_800/B56Z8r3YmbGgAc-/0/1783147367915?e=2147483647&v=beta&t=V3uE6uxHQi_BYIgEvt72psxnNgXRCfxvtIBb9GkyYQA",
+        "id": "7479915823394865152"
+      },
+      {
+        "interaction": "Ayaan Chawla liked this",
+        "link": "https://www.linkedin.com/posts/ethan-kinnan_two-years-ago-i-graduated-from-uw-without-activity-7477784599171997696-fy4u",
+        "title": "Two years ago, I graduated from UW without a job lined up or a clear plan. All I really knew was that I wanted to build a company, and I loved automating things with AI. Instead of trying to figure everything out, I tried to trust the inputs. Work somewhere I could use AI all day, learn as fast as possible, move to SF, and surround myself with people who were where I wanted to be until the right opportunity became obvious. Fast forward two years and we just wrapped up our Y Combinator batch. Norbu Sonam and I honestly believed we would both be here. We just had no idea what the path would look like. I think that\u2019s the point. You rarely know the path, and everyone\u2019s looks different. You just keep believing and taking the next step until one day you look up and realize you\u2019re a lot closer than you thought. Here we are now, with a real shot at building the company we\u2019ve always wanted. Even though the path ahead will be much longer and harder, there\u2019s comfort in knowing the approach is the same. All we have to do is keep trusting the next step and earn our way forward.",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQEkPkYvgXU1SA/feedshare-shrink_800/B56Z8Ztd11IgAc-/0/1782842777201?e=2147483647&v=beta&t=0YhqTqSl72X8t2quqi6ve1WjovCSyK87dPA47d7vc2U",
+        "id": "7477784599171997696"
+      },
+      {
+        "interaction": "Ayaan Chawla liked this",
+        "link": "https://www.linkedin.com/posts/josiah-saunders_great-group-of-folks-at-y-combinator-building-activity-7473784248995323904-JKjY",
+        "title": "Great group of folks at Y Combinator Building a startup is super duper hard. It helps to be surrounded by incredibly talented and ambitious people doing the same thing. You learn a lot from each other. Batch has ended, Voquill (YC P26) continues. Excited for what\u2019s coming\ud83d\udc40",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQGJbSuu6ZnK7Q/feedshare-shrink_800/B56Z7g3K5TIgAk-/0/1781889019929?e=2147483647&v=beta&t=y5hFwk4JvGSnyfwDsAkkb8sLC3UeSGYFWStPQHCX_v8",
+        "id": "7473784248995323904"
+      },
+      {
+        "interaction": "Ayaan Chawla liked this",
+        "link": "https://www.linkedin.com/posts/optura-ai_the-code-was-written-yesterday-why-will-activity-7475657777214906368-V9tQ",
+        "title": "The code was written yesterday. Why will it take 5+ weeks to go live? For decades in software development, writing code was the known bottleneck. We all knew it. We built complex processes and planning cycles around the fact that one difficult, essential thing would take a long time to complete. We optimized around engineering. But that doesn\u2019t make sense anymore. Coding speed is no longer the constraint. Coordination is. Yet, we are still running modern, high-velocity output through legacy, low-velocity governance. When you spend millions to accelerate engineering only to stall at the approval line, you haven\u2019t actually sped up the organization. You've just built a bigger traffic jam at the gate. The enterprise advantage no longer belongs to who can write code the fastest. It belongs to who can clear its path. Read more from Richard Newcomb , Senior Director, FDE \u2192 https://lnkd.in/grAx_WKc",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQGoJNA5umdKqA/feedshare-image-high-res/B56Z77fIk8KgAY-/0/1782335703569?e=2147483647&v=beta&t=_AzB1mICjG3Ugxt4a3fnlepeSlkt3K9tXH_fO-Qwz5Q",
+        "id": "7475657777214906368"
+      },
+      {
+        "interaction": "Ayaan Chawla liked this",
+        "link": "https://www.linkedin.com/posts/jackblair876_last-weekend-terac-sponsored-a-track-at-activity-7475617481810878466-obz0",
+        "title": "Last weekend, Terac sponsored a track at the Berkeley AI Hackathon built around a simple challenge: Can you collect your own human data and use it to make an AI system better? Congratulations to the winners, MatchVision, who made soccer more accessible for blind and low-vision fans ahead of the 2026 World Cup. They started with a vision-language model and quickly discovered something surprising: modern VLMs are actually pretty bad at understanding what matters in a soccer match. The ball is small. Important actions happen off-ball. Crowd reactions don't explain why something happened. And generic video captioning models often miss the context that makes the game understandable. So instead of accepting the model's output, they built a human feedback pipeline. Using Terac, they collected annotations describing what an announcer should actually say during key moments in a match. They also collected gaze heatmaps showing where humans naturally focus their attention during play. Those two signals became training data. One taught the model where to look. And the other taught the model what was worth saying. The result wasn't just a better soccer accessibility product. It was a great example of a broader trend we're seeing across AI. For years, progress came from bigger models and bigger datasets. Increasingly, the bottleneck is becoming access to high-quality human judgment. The teams that win won't necessarily be the ones with the biggest models. They'll be the ones that can most effectively turn human expertise into training data, evaluations, and feedback loops. Shoutout to the incredible judges from the Terac team Giovanni Borgogno , Nicol\u00e1s Russo , Moritz Kamke , Germ\u00e1n Fern\u00e1ndez , and Vaibhav Vasudevan ! Also, a shoutout to the runners-up, Captain Ddoski, who tackled a completely different but equally important problem: helping AI systems determine whether information is actually trustworthy before acting on it.",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQGbcHaHlhCxWQ/feedshare-shrink_800/B56Z766fA2G4Ag-/0/1782326096898?e=2147483647&v=beta&t=TsDJfHGJHgfTAMg6AsEEJw_99dH8hwGZJQCMteJxBEI",
+        "id": "7475617481810878466"
+      },
+      {
+        "interaction": "Ayaan Chawla liked this",
+        "link": "https://www.linkedin.com/posts/nishitasnani_after-being-head-down-for-the-last-6-years-activity-7475563582815109120-Vb0K",
+        "title": "After being head-down for the last 6 years building Sybill and shipping to 850+ customers, I think it's time to reintroduce myself. Hi, my name is Nishit. Before Sybill, I was at Stanford doing AI research in Andrew Ng's lab. The project: detecting tuberculosis in HIV-infected patients using ML. We had this bet: if you could train models on the right data, you could catch TB in HIV patients where traditional methods were missing it. It barely worked when we were building it. Now AI for healthcare diagnostics is one of the fastest-growing fields in the world. But Stanford wasn't the start. Rewind further: Bhopal kid writing detective fiction on MS Word (one of the only kids in school with a computer), then IIT Kanpur CS, then Stanford. The entrepreneurship runs in the family. My dad spent 30 years as a government engineer, then quit to start his own business. At IIT Kanpur, starting a company seemed crazy. At Stanford, my housemates were doing it. That pushed me to try. First startup with Gorish: smart shopping carts. We had an agreement with a European retail chain, and then COVID hit and retail traffic fell off a cliff. Sybill started because Gorish was teaching linear algebra remotely. 30 students on Zoom, and after two lectures: \"I have no clue when my content is resonating.\" Invited a TA to watch faces and alert him. Then: \"There should be a way to figure this out using AI.\" The team came together almost by accident. Gorish from Stanford AI research, now housemate. Soumyarka, who needed a place during COVID and is now our CTO. Mehak, Gorish's sister, doing AI research at Harvard, came to California and got sucked into the vortex. We built real-time body language analysis for video calls. Educators didn't care, and healthcare was curious but still not convinced. This was during a time when most people preferred to keep their cameras off. Salespeople were different: they kept their cameras on and could easily link a dollar value to every call. The first product we launched was a Google Form. You could paste a recording link and receive a summary in return. It attracted a small group of users back in 2021, before the rise of ChatGPT. Then in November 2022, OpenAI released a new model. I fed it transcripts during Thanksgiving break and was genuinely impressed by the next steps it pulled out. Mehak coded up LLM-powered call summaries the next day. ChatGPT launched a day or two later. We already had the model plugged in. Sybill is my first company that actually worked. An AI researcher who accidentally fell into sales - that's the combo that makes it work. On to the next 5 years with this team \ud83d\udc99",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQFGKvQxruQpqA/feedshare-shrink_800/B56Z76Jd8PHYAc-/0/1782313247591?e=2147483647&v=beta&t=_AoiH9zfM3ouJazUjwB7BRHglENer5L5z5zzxdFpGa8",
+        "id": "6"
+      }
+    ],
+    "linkedin_num_id": "1237754604",
+    "banner_image": "https://media.licdn.com/dms/image/v2/D4E16AQFCFXSHXZHPpA/profile-displaybackgroundimage-shrink_200_800/B4EZ8W1ItWIAAQ-/0/1782794456242?e=2147483647&v=beta&t=rzLDOgYTvjBnKweDj9byGDjO3Enp2dTtyeZnDgw3XL8",
+    "honors_and_awards": [
+      {
+        "title": "Finalist for International Computer Science Competition",
+        "publication": "American Computer Science League",
+        "date": "2024-05-01T00:00:00.000Z",
+        "description": "Self-coached in one of the most prestigious international computer science competitions and placed highly amongst others."
+      },
+      {
+        "title": "Gold Presidential Voluntary Service Award",
+        "publication": "AmeriCorps",
+        "date": "2023-10-01T00:00:00.000Z",
+        "description": null
+      },
+      {
+        "title": "ROP AP Computer Science A",
+        "publication": "Contra Costa County ROP",
+        "date": "2023-05-01T00:00:00.000Z",
+        "description": null
+      },
+      {
+        "title": "VEX Robotics Worlds Qualifier",
+        "publication": "VEX Robotics",
+        "date": "2023-04-01T00:00:00.000Z",
+        "description": null
+      },
+      {
+        "title": "Athletic Scholar",
+        "publication": "SRVHS Tennis",
+        "date": "2022-05-01T00:00:00.000Z",
+        "description": null
+      },
+      {
+        "title": "ROP VS.NET",
+        "publication": "Contra Costa County ROP",
+        "date": "2022-05-01T00:00:00.000Z",
+        "description": null
+      },
+      {
+        "title": "VEX Robotics Worlds Qualifier",
+        "publication": "VEX Robotics",
+        "date": "2022-04-01T00:00:00.000Z",
+        "description": null
+      },
+      {
+        "title": "World Record Holder",
+        "publication": "VEX Robotics",
+        "date": "2021-11-01T00:00:00.000Z",
+        "description": "Broke a world record with team for most points scored in a single round for VEX Robotics."
+      }
+    ],
+    "similar_profiles": [],
+    "default_avatar": true,
+    "memorialized_account": false,
+    "bio_links": [],
+    "first_name": "Ayaan",
+    "last_name": "Chawla",
+    "influencer": false,
+    "timestamp": "2026-08-12T18:56:41.425Z",
+    "input": {
+      "url": "https://www.linkedin.com/in/ayaan-chawla"
+    }
+  }
+}

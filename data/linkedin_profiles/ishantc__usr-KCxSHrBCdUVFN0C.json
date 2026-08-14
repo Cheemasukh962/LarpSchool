@@ -1,0 +1,174 @@
+{
+  "luma_user_id": "usr-KCxSHrBCdUVFN0C",
+  "csv_name": "Ishant Chintapatla",
+  "csv_linkedin": "https://www.linkedin.com/in/ishantc",
+  "enriched_at": "2026-08-12T19:26:51.921030+00:00",
+  "batch_id": "sd_msqhb4pfm4l4la4zs",
+  "profile": {
+    "id": "ishantc",
+    "name": "Ishant Chintapatla",
+    "city": "San Jose, California, United States",
+    "country_code": "US",
+    "position": null,
+    "about": null,
+    "current_company": {
+      "link": "https://www.linkedin.com/company/algoverseairesearch?trk=public_profile_topcard-current-company",
+      "name": "Algoverse",
+      "company_id": "algoverseairesearch",
+      "location": null
+    },
+    "experience": null,
+    "url": "https://www.linkedin.com/in/ishantc",
+    "educations_details": "University of California, Berkeley",
+    "education": [
+      {
+        "title": "University of California, Berkeley",
+        "url": "https://www.linkedin.com/school/uc-berkeley/",
+        "start_year": "2026",
+        "end_year": "2030",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      },
+      {
+        "start_year": "2022",
+        "end_year": "2026",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      }
+    ],
+    "avatar": "https://media.licdn.com/dms/image/v2/D5603AQF6N9DIhuelSQ/profile-displayphoto-scale_200_200/B56Z1CprErJIAc-/0/1774939716791?e=2147483647&v=beta&t=3grmt0KkoT4D6MmLy7hDGKw-mFZdtXSOkVlVlt5aaGw",
+    "languages": [
+      {
+        "subtitle": "-",
+        "title": "English"
+      },
+      {
+        "subtitle": "-",
+        "title": "Telugu"
+      },
+      {
+        "subtitle": "-",
+        "title": "Spanish"
+      }
+    ],
+    "volunteer_experience": [
+      {
+        "duration": "2019 \u00b7 - \n2026 \u00b7 \n7 years",
+        "duration_short": "- \n2026",
+        "start_date": "2019",
+        "subtitle": "Boy Scouts of America",
+        "title": "Eagle Scout"
+      }
+    ],
+    "followers": 1078,
+    "connections": 500,
+    "current_company_company_id": "algoverseairesearch",
+    "current_company_name": "Algoverse",
+    "publications": [
+      {
+        "title": "Challenges in Visual Entailment for Accessibility",
+        "subtitle": "ICCV Workshop: Vision Foundation Models and Generative AI for Accessibility",
+        "date": "August 28, 2025",
+        "description": "(Oral Presentation) Building upon our COREVQA work, applying it to those who are visually impaired. Visual Entailment is an essential skill allowing researchers to assess visual understanding. Through this paper, we address the real-world implications of assistive technology like BeMyEyes, and how they struggle in real-world scenarios. We propose a path towards better assistive technology software."
+      },
+      {
+        "title": "COREVQA: A Crowd Observation and Reasoning Entailment Visual Question Answering Benchmark",
+        "subtitle": "ICML Workshop: Data in Generative Models",
+        "date": "July 17, 2025",
+        "description": "Recently, many benchmarks and datasets have been developed to evaluate Vision-Language Models (VLMs) using visual question answering (VQA) pairs, and models have shown significant accuracy improvements. However, these benchmarks rarely test the model's ability to accurately complete visual entailment, for instance, accepting or refuting a hypothesis based on the image. To address this, we propose COREVQA (Crowd Observations and Reasoning Entailment), a benchmark of 5608 image and synthetically generated true/false statement pairs, with images derived from the CrowdHuman dataset, to provoke visual entailment reasoning on challenging crowded images. Our results show that even the top-performing VLMs achieve accuracy below 80%, with other models performing substantially worse (39.98%-69.95%). This significant performance gap reveals key limitations in VLMs' ability to reason over certain types of image-question pairs in crowded scenes."
+      }
+    ],
+    "location": "San Jose",
+    "input_url": "https://www.linkedin.com/in/ishantc",
+    "linkedin_id": "ishantc",
+    "activity": [
+      {
+        "interaction": "Ishant Chintapatla commented on a post 2mo",
+        "link": "https://www.linkedin.com/posts/kaushik-chekka-180127238_ai-hackathon-aiagents-activity-7470299039826280448-hO6b",
+        "title": "good work chekka",
+        "img": null,
+        "id": "7470299039826280448"
+      },
+      {
+        "interaction": "Ishant Chintapatla liked this",
+        "link": "https://www.linkedin.com/posts/lakshya-agarwal-b43515317_wearecisco-intern-activity-7492323831240617984-oAGf",
+        "title": "This past Friday, I officially wrapped up my summer as a Software Engineering Intern on Cisco's Industrial IoT team in San Jose! Over the past few months, I worked on Agentic Runbook Creator (ARC) for Cisco's AI Assistant for Troubleshooting Networks. Runbooks are step-by-step diagnostic scripts used to troubleshoot industrial networks automatically, and ARC is used to generate said runbooks dynamically using context from a customer's network. My work included connecting local SLM-based hypothesis generation with cloud LLM workflows and protecting sensitive topology and device data during the handoff between on-premises and cloud activity. I also directly developed a cloud-based digital-twin evaluator that injects IOS-XE simulated faults into the customer's obfuscated topology to test whether the generated runbooks actually work. Ultimately, we brought estimated network downtime for new faults from hours to ~25 minutes, and expanded runbook coverage beyond 13 preexisting implementations! Working on ARC gave me a much better understanding of what it takes to build AI for real systems. The output needs the right context, and the workflow has to protect customer data from the start. The whole system also needs to hold up when tested against realistic failures. Taking the project from separate components to a connected workflow taught me a lot about integration and iteration, while working on an engineering team showed me how much I can learn from asking questions and listening to feedback. I'm heading back to UIUC soon, excited to keep building on these skills and apply them in future projects. I want to thank Nikhil Mathur , my mentor, and Dhananjay Awaji , my manager, for all their guidance and support throughout the summer. I'm also grateful to Elango Ganesan , Distinguished Engineer at Cisco, for taking the time to review ARC and give us invaluable feedback that helped move the project forward. Furthermore, I would like to thank Judy Heng, Alexandra Cortes , & Robin J Gonsalves (Robbie Gonsalves) for organizing events and providing amazing intern experiences. Thank you to Pranav Butaney & Srivishnu Vusirikala , my fellow intern teammates who worked alongside me on ARC. Finally, thank you to Abhishek Prabhu , Nitish G. , Nidhi Prakash , Jasraj Sidhu , & Adam Boswell , for making this summer so fun and memorable. Working at Cisco gave me stronger confidence in my abilities and a lot of great memories! #WeAreCisco #Intern",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQFWwu65CwdAIQ/feedshare-shrink_800/B56Z_oIEYdGUAc-/0/1786305857279?e=2147483647&v=beta&t=u9krMBr7oeNr9YGnfcaGBu2WVXSLKSnLg-3HYhEGoe0",
+        "id": "7492323831240617984"
+      },
+      {
+        "interaction": "Ishant Chintapatla liked this",
+        "link": "https://www.linkedin.com/posts/robert-janekarnkit-09670b1a3_ai-aiagents-llm-activity-7490614962118131713-IXua",
+        "title": "Yesterday Stanford University just dropped what might be youtube's best AI agents course yet. \ud83d\udd25 \ud83c\udf32 The nine-part graduate level CS329A: Self-Improving AI Agents series includes more than 10 hours of lectures covering: \u2022 Test-time compute scaling \u2022 Robust verification \u2022 Learning from tool and code feedback \u2022 Planning and multi-step reasoning \u2022 Reinforcement learning and train-time scaling \u2022 Self-improvement and deep-research agents \u2022 Long-horizon agent evaluation \u2022 Open research problems in agentic AI This is not another introduction to prompting or wrapping an LLM API. It focuses on the harder questions behind building reliable agents: How should an agent allocate additional computation? How can it verify its own output? How should it plan across multiple steps, learn from execution feedback, and improve over time? My initial impression is that the material is mathematically grounded, though less dense than a ML theory course. The emphasis is more on recent research, experimental results, system design, and open problems. For anyone working on AI agents, this is probably one of the best free learning resources available right now. The series gives you a useful window into the ideas shaping research inside leading Silicon Valley AI labs. Taught by researchers at the frontier of AI: Azalia Mirhoseini , has worked across Google Brain, DeepMind, and Anthropic Claude. \ud83d\ude4f Aakanksha Chowdhery, Ph.D. led Google\u2019s 540B-parameter PaLM model and worked on Gemini. \ud83c\udf89 \u2b07\ufe0f Link to playlist https://lnkd.in/gBj8-te6 \ud83d\udcda Syllabus and papers reading https://lnkd.in/gUnbqfXV #AI #AIAgents #LLM #AgenticAI #ArtificialIntelligence",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQFGBRo3hrEDYQ/feedshare-shrink_800/B56Z_QCnIsGsAc-/0/1785901774200?e=2147483647&v=beta&t=uCJe0Z482D6gZK5PCV6JP0ojZ-R3qa7yp1XsGPnElow",
+        "id": "7490614962118131713"
+      },
+      {
+        "interaction": "Ishant Chintapatla liked this",
+        "link": "https://www.linkedin.com/posts/aaronsoni_introducing-lotus-1-and-krea-2-dream-1-activity-7490961267684372480-nxSj",
+        "title": "In less than a week, we trained our own text model and image model for less than $500. https://lnkd.in/g7Yig8G8 Our text model, Lotus-1, was post-trained using SFT + GRPO with Tinker by Thinking Machines Lab . Our image model, Krea 2 Dream-1, was built on top of Krea 2 Turbo by krea.ai , customized for our specific characters, art styles, and image-generation use case. Our biggest takeaway is that training specialized models does not always require millions of dollars or a massive research team. We\u2019re still early, and we hope to publish more research blogs sharing what we learn along the way. It was fun working on this with Youyi Ding , Yash Seth , and Daniel Gong .",
+        "img": "https://media.licdn.com/dms/image/sync/v2/D5627AQHv9LNxidaI2Q/articleshare-shrink_1280_800/B56Z_U6zegG8Ag-/0/1785983613421?e=2147483647&v=beta&t=XLWH2wXU6SRIzYuX_YVBt06ZvZG_NwifMlgBbhm4Mvc",
+        "id": "1"
+      },
+      {
+        "interaction": "Ishant Chintapatla liked this",
+        "link": "https://www.linkedin.com/posts/james-begin_had-a-great-time-at-icml-in-seoul-last-week-activity-7482971834615820288-9rX0",
+        "title": "Had a great time at ICML in Seoul last week presenting our work on how preference optimization reduces forecasting diversity in agentic prediction markets. https://lnkd.in/gqbAf7ZP Also please see attached some of my favourite works from the conference :)",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQFzyIVufjWGbQ/feedshare-image-high-res/B56Z9jbOmQGUAU-/0/1784079511037?e=2147483647&v=beta&t=HpL-b3EVtR4QPdOkb2VaUbUHQm_YqhMH7iYrrdBn_Gg",
+        "id": "7482971834615820288"
+      },
+      {
+        "interaction": "Ishant Chintapatla liked this",
+        "link": "https://www.linkedin.com/posts/anthony-yang-a50826310_spent-last-week-in-san-francisco-for-y-combinators-activity-7490193697788313600-XdzQ",
+        "title": "Spent last week in San Francisco for Y Combinator 's Startup School. The talks were interesting, but I think the most valuable part by far was getting to meet and talk to so many smart and ambitious people. Something particularly interesting was the high number of current and rising Caltech students I ran into, despite the school's reputation for prioritizing fundamentals and research. Very excited for the future. \ud83d\ude01 Also got to meet up with friends and family and play with my aunt's cat. Thank you YC for hosting such an amazing event! \ud83d\udc4f Shoutout cracked high schooler btw",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQGiUr79ugEscA/feedshare-shrink_800/B56Z_KDcTPKIAc-/0/1785801329578?e=2147483647&v=beta&t=iwHitYTlldBw9fN_96azgIJhIcu2VVwbraPUI4d4qbM",
+        "id": "7490193697788313600"
+      },
+      {
+        "interaction": "Ishant Chintapatla liked this",
+        "link": "https://www.linkedin.com/posts/shjavokhir_what-if-y-combinator-was-a-city-every-company-activity-7490209000790192128-7V79",
+        "title": "What if Y Combinator was a city? Every company ever funded as a place you can walk. Districts are categories, building height is team size, pedestrians are real founders and they'll stop to say hi. Website:",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQFeqz5XihxRwA/feedshare-shrink_800/B56Z_KRZQBKwAc-/0/1785804985985?e=2147483647&v=beta&t=ISPOvNnjrJuq-LubV9-oT840FNO0tujEbNNwAlNGK9M",
+        "id": "7490209000790192128"
+      },
+      {
+        "interaction": "Ishant Chintapatla liked this",
+        "link": "https://www.linkedin.com/posts/leochlon_kimi-k3-swarm-is-the-most-unreal-thing-ive-activity-7490015880458833920-vlbw",
+        "title": "Kimi K3 Swarm is the most unreal thing I've ever used. I've done more in 3 hours than I have in 3 weeks with Claude and I only paid \u00a330. It talks less, does more. Kimi (Moonshot AI) , just wow.",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQGMp7C3wFYe4g/feedshare-image-high-res/B4EZ_HhwRBIsAc-/0/1785758942915?e=2147483647&v=beta&t=3EjoKa5FE6OtSfqAsXOgInS21dqSTsjZjO3JlVUbur0",
+        "id": "7490015880458833920"
+      },
+      {
+        "interaction": "Ishant Chintapatla liked this",
+        "link": "https://www.linkedin.com/posts/patel-ji_everyone-told-me-to-avoid-my-ta-she-was-activity-7490091079220961280-UuNR",
+        "title": "Everyone told me to avoid my TA. She was \"scary\"... She taught me more than anyone this summer. That's Arvie Violette . She TA'd my program at Stanford SIMR. The reputation was real to be honest. High standards, always asked the follow-up question you were praying she'd skip. Giving that season one Jessica Pearson vibe. Most people avoid that person. They drift toward whoever seems friendliest. I almost did the same thing. Here's what I'd have missed. When people find out you're 17, the conversation quietly changes. They simplify. They praise stuff that isn't good. They stop correcting you. It feels great. That's the problem. You walk around thinking you understand things you don't. Arvie never did that, not once. She'd let me be wrong, explain exactly why, then expect me to keep up. Warm the whole time. She just never lowered the bar. A few things I'd pass on if you're in a program like this: Ask the question you actually have, not the one that sounds appropriate for your level. \"I don't get why that term is there\" will ALWAYS get you further than nodding. Be wrong out loud. In front of someone with real standards that's the fastest way to learn anything. In front of someone who's just impressed you showed up, it costs you nothing, which is exactly why it teaches you nothing. And go talk to the intimidating one. I know it's the opposite of what feels good. Arvie, thank you. You made the science make sense and the hard weeks survivable. If you're not getting anything real out of a mentor right now, my DMs are open. ~ aayu P.S. still thinking about whether consciousness is just chemistry obeying physics. No conclusion. Easily the BEST conversation I had all summer. molecular dynamics is wildin",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQFs-M8DJgHWmQ/feedshare-shrink_800/B56Z_ImJH_LABk-/0/1785776871426?e=2147483647&v=beta&t=MUFAJD6H3v7niN3kdoZl14eKWhCxNoPFI0ubJzjtj2Y",
+        "id": "7490091079220961280"
+      },
+      {
+        "interaction": "Ishant Chintapatla liked this",
+        "link": "https://www.linkedin.com/posts/yashkathrani_hackathons-buildinginpublic-activity-7490171026476048384-DeC-",
+        "title": "We are building Wisp today @ SF at the Memory Meets Motion Hackathon. Wisp is an autonomous fabrication agent that turns a simple object description into researched specifications, generated CAD, sliced files, and a print-ready output. What makes Wisp different is memory. Instead of treating every request as new, it checks past builds, reuses what already works, and researches new information only when needed. #hackathons #buildinginpublic",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQGEbzQxbORBFg/feedshare-shrink_800/B56Z_Ju26JKYAc-/0/1785795932291?e=2147483647&v=beta&t=7338BdQtgyt7IFBW6ZHlvEvHg4iXgwoRbiW_qx_nQtU",
+        "id": "7490171026476048384"
+      }
+    ],
+    "linkedin_num_id": "1413590018",
+    "banner_image": "https://static.licdn.com/aero-v1/sc/h/5q92mjc5c51bjlwaj3rs9aa82",
+    "honors_and_awards": null,
+    "similar_profiles": [],
+    "default_avatar": false,
+    "memorialized_account": false,
+    "bio_links": [],
+    "first_name": "Ishant",
+    "last_name": "Chintapatla",
+    "influencer": false,
+    "timestamp": "2026-08-12T19:25:15.927Z",
+    "input": {
+      "url": "https://www.linkedin.com/in/ishantc"
+    }
+  },
+  "local_photo": "data\\linkedin_photos\\ishantc__usr-KCxSHrBCdUVFN0C.jpg"
+}

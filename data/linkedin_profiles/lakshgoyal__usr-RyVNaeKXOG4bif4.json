@@ -1,0 +1,241 @@
+{
+  "luma_user_id": "usr-RyVNaeKXOG4bif4",
+  "csv_name": "Laksh Goyal",
+  "csv_linkedin": "https://www.linkedin.com/in/lakshgoyal",
+  "enriched_at": "2026-08-12T19:12:29.384482+00:00",
+  "batch_id": "sd_msqgtpzbeylkhkm9p",
+  "profile": {
+    "id": "lakshgoyal",
+    "name": "Laksh Goyal",
+    "city": "San Diego, California, United States",
+    "country_code": "US",
+    "position": null,
+    "about": "Junior at UCSD majoring in CS and minoring in Cognitive Science and Business-Economics\u2026",
+    "current_company": {
+      "link": "https://www.linkedin.com/company/gmi-cloud-ai?trk=public_profile_topcard-current-company",
+      "name": "GMI Cloud",
+      "company_id": "gmi-cloud-ai",
+      "location": null
+    },
+    "experience": null,
+    "url": "https://www.linkedin.com/in/lakshgoyal",
+    "educations_details": "UC San Diego",
+    "education": [
+      {
+        "title": "UC San Diego",
+        "url": "https://www.linkedin.com/school/ucsandiego/",
+        "start_year": "2024-09",
+        "end_year": "2028-06",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      },
+      {
+        "start_year": "2022",
+        "end_year": "2024",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      }
+    ],
+    "avatar": "https://media.licdn.com/dms/image/v2/D5603AQHo3UNEGCi1pA/profile-displayphoto-scale_200_200/B56ZuxxyHlIoAY-/0/1768214177359?e=2147483647&v=beta&t=F5fQcr5uBLrXmsFZh9Pic1WzDXXt2KIoHMMjk5tUeZk",
+    "certifications": [
+      {
+        "meta": "Issued May 2026 Credential ID 15799664049499 See credential",
+        "subtitle": "Computing Research Association",
+        "title": "UR2PhD Undergraduate Research Training Course Participant",
+        "credential_url": "https://verified.sertifier.com/en/verify/15799664049499/?trk=public_profile_see-credential",
+        "credential_id": "15799664049499"
+      }
+    ],
+    "followers": 2454,
+    "connections": 500,
+    "current_company_company_id": "gmi-cloud-ai",
+    "current_company_name": "GMI Cloud",
+    "projects": [
+      {
+        "title": "AgriField",
+        "start_date": "May 2026",
+        "description": "Built AgriShield at the United Nations x San Diego Supercomputer Center Reboot the Earth hackathon \u2014 a farm-level wildfire planning tool that helps farmers prepare before fire season begins.AgriShield lets users draw a farm parcel, map crops and key assets, overlay wildfire risk factors, and generate recommendations for firebreaks, low-fuel buffers, water points, and access routes across three protection tiers. The tool is designed to reduce wildfire exposure while preserving the farmer\u2019s preferred crop layout as much as possible.Built with Python and ELMFIRE for fire-spread simulation, with a focus on turning wildfire risk maps into practical, farm-specific planning decisions."
+      },
+      {
+        "title": "Argus - Agentic Training Monitor",
+        "start_date": "Feb 2026",
+        "description": "\u2022 Built an autonomous ML training agent (claude-sonnet-4-5) polling live JSONL every 10s to self-correct training\u2022 Dispatched \u226410 tool calls/invocation via a 12-rule system prompt, resolving 49% of detected anomalies autonomously\u2022 Engineered a SPC detector across 4 failure modes (loss spike, grad explosion, plateau, overfitting) via z-score/CUSUM\u2022 Architected a 4-service Docker Compose stack (PyTorch trainer, LLM agent, FastAPI, React) on 3 Supabase tables\u2022 Deployed on AWS EC2 with a React dashboard: 3 live Recharts plots, 5s polling, dual JSONL/Supabase logging"
+      },
+      {
+        "title": "Helmet Identification Model",
+        "start_date": "Sep 2023",
+        "description": "\u2022 Built a multi-stage computer vision pipeline detecting motorbike riders and classifying helmet usage using ResNet-50\u2022 Trained on 5K+ street images, achieving 94% accuracy and 0.92 mAP to support traffic law enforcement\u2022 Optimized for real-time deployment, achieving <50ms GPU inference while balancing accuracy-latency tradeoffs\u2022 Published a research paper through the Lumiere Research Program, ranked Top 10% of \u223c200 submissions"
+      },
+      {
+        "title": "Karate Performance Analyzer",
+        "start_date": "Jun 2023",
+        "description": "\u2022 Developed a motion-analysis tool to evaluate karate techniques, tracking stances and strike angles to flag errors\u2022 Curated a video/photo dataset using OpenCV and MediaPipe for 3D pose extraction and data augmentations\u2022 Trained a 1D-CNN + BiLSTM in TensorFlow for classification and regression, achieving 92% accuracy and 4.3RMSE (5-fold CV) and quantized to an 8-bit TFLite ( 1.2 MB) for lightweight mobile deployment"
+      },
+      {
+        "title": "PipeScoutX | Robotics & Computer Vision Project",
+        "start_date": "Aug 2022",
+        "description": "A pipe-traversing robot prototype designed for use in gas container ships and oil tankers to detect cracks inside pipelines and prevent leaks or spills.\u2022 Engineered a unique traversal mechanism to scan pipe interiors from 360\u00b0 angles, ensuring full coverage in confined environments.\u2022 Collected and processed sensor data using C, Python, Arduino, and ESP32, integrating OpenCV for real-time crack detection and localization.\u2022 Analyzed 100+ meters of pipe testing environments with a detection accuracy of ~90%.\u2022 Placed 2nd at the World Robotic Olympiad India and received research interest from a PhD in AI for potential industrial applications."
+      }
+    ],
+    "location": "San Diego",
+    "input_url": "https://www.linkedin.com/in/lakshgoyal",
+    "linkedin_id": "lakshgoyal",
+    "activity": [
+      {
+        "interaction": "Laksh Goyal shared this",
+        "link": "https://www.linkedin.com/posts/lakshgoyal_open-weight-models-are-supposed-to-close-activity-7492633367000080384-d3pH",
+        "title": "Open weight models are supposed to close the gap with the frontier labs. And the weights really are open. The alignment is not. Nobody ships a list of what a model was post-trained to refuse. So you find it the way I did. I built a bot that writes my morning news brief. 130 headlines in, a 60,000 character PDF out. Last week it delivered one empty page. I assumed auth, because it had been auth before. It wasn't. HTTP 200, valid response, 13 characters of Chinese saying it could not provide the content. finish_reason=content_filter. DeepSeek had not failed. It had declined. So I tested it: take a bundle it writes happily, inject one suspect headline, repeat. \"India Names 27 Places in Arunachal Pradesh | Counters China's Renaming Claims\" With that headline, 8 of 12 calls refused. Without it, 0 of 12. Then I went looking for the boundary and could not find it. A Taiwan tensions headline from the same feed: 0 of 8. A written-to-order headline of Taiwan's president declaring the island sovereign and rejecting Beijing's claim: 0 of 3. The same Arunachal sentence with China swapped for Britain and the Falklands: 0 of 3. Not the topic. Not the region. Not the framing. That one story. Open weight feels like control. Download it, self host it, switch providers, no vendor policy layer in the way. All true of the infrastructure. None of it true of the model. No setting, no policy page, no support ticket, and switching providers changes nothing, because it was never the provider's rule. You are not just picking a model. You are picking whose regulatory environment decided what it will write about. In a chat window you would never notice. In an automated pipeline it is an empty page at 8am. Two thirds of the time, for one headline out of 130. ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQEFum-_VpfzZQ/feedshare-image-high-res/B56Z_ovr9EHYAU-/0/1786316243010?e=2147483647&v=beta&t=VB68cdhJAAyRuVKlRnHtpv1PQ5UrOfoISvELRANK64Y",
+        "id": "7492633367000080384"
+      },
+      {
+        "interaction": "Laksh Goyal shared this",
+        "link": "https://www.linkedin.com/posts/lakshgoyal_ycs-waas-gave-me-a-94100-used-to-be-somewhere-activity-7491542428403818496-pfhh",
+        "title": "YC's WaaS gave me a 94/100, used to be somewhere in the 70's Definitely did something right then, and after skipping out on Y Combinator 's Startup School, I am looking forward to going all in at the internship expo. Also, just got done with my Dedalus Labs assignment, let me know how it went for you and if you're also going to the expo, would love to connect ahead of time. See y'all there. ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQFCJm9gvY9s5A/feedshare-shrink_800/B56Z_bRy8sJoAc-/0/1786090303659?e=2147483647&v=beta&t=0wi2hlEesppuUFUqU1PXtIQdAoqNEZxWvWD4CGKZDfc",
+        "id": "94100"
+      },
+      {
+        "interaction": "Laksh Goyal shared this",
+        "link": "https://www.linkedin.com/posts/lakshgoyal_hacklist-sf-events-calendar-activity-7490462816278228993-NoV2",
+        "title": "I moved to the Bay Area with one goal: do more hackathons. So I checked Luma about as often as I checked Instagram. Then Cerebral Valley. Then whatever else I could find. And I still kept hearing about hackathons the same way every time, from someone at another event, mentioning one that had already happened, that had never appeared anywhere I looked. The frustrating part is that Luma is ideally supposed to solve this. Follow enough calendars, attend enough events, and discovery is meant to come to you. I'd signed up for around 15 tech events in a span of 20 days. My feed was still missing hackathons I would have definitely gone to. So I built my own calendar just for fun. Some GitHub Actions, some scraping, and a classifier that decides what actually counts as a hackathon, it reads 9+ independent sources twice a day, including the curated boards themselves, and publishes one calendar you subscribe to once and then forget about. It currently lists 23 upcoming Bay Area hackathons. The best-known Luma hackathon calendar lists 9 (one of which is a pitch competition). Subscribe here: luma.com/hacklist-sf , the site and the calendar feed are both linked from there. And if you find a Bay Area hackathon it missed, genuinely tell me. That's the most useful thing you could send me right now. I only did this for SF and the bay right now because that's where I am. But nothing about it is SF-specific, if this turns out to be useful to even one of you, tell me which hackathon-dense city you want next and I'll get one out. ...more",
+        "img": "https://media.licdn.com/dms/image/sync/v2/D4D27AQE8Sh7L88vCxw/articleshare-shrink_1280_800/B4DZ_LlDHRJMAg-/0/1785826915307?e=2147483647&v=beta&t=yXfUhJS-L1BNce433TZBwZ4P4nvllC-jTmEH5SDSZ_I",
+        "id": "7490462816278228993"
+      },
+      {
+        "interaction": null,
+        "link": "https://www.linkedin.com/posts/san-diego-supercomputer-center_united-nations-holds-southern-california-activity-7486570280409059328-4kFV",
+        "title": "A United Nations Hackathon recently took place at SDSC. The event was a collaboration between the UN, SDSC\u2019s Societal Computing and Innovation Lab , the UC San Diego Library's Open Source Program Office, and the University\u2019s Office of Innovation and Commercialization. https://lnkd.in/gJ2PZbh7 ...more ...more",
+        "img": "https://media.licdn.com/dms/image/sync/v2/D5627AQE-EspAqolPww/articleshare-shrink_800/B56Z.Q6meFKUAY-/0/1784842709205?e=2147483647&v=beta&t=pihQNQpVoabEfJK8lSb98VLwuNCNMeAeuG2s87CpyFE",
+        "id": "7486570280409059328"
+      },
+      {
+        "interaction": "Laksh Goyal shared this",
+        "link": "https://www.linkedin.com/posts/lakshgoyal_2-for-2-that-was-quick-we-came-first-at-activity-7485034552436879360-PGAk",
+        "title": "2 for 2, that was quick. We came first at the Voice Coding Hackathon hosted by Voice Cursor , Convex and Respan . Everyone built around daily logistics and tasks. We went a level higher and built for search and rescue, but as assistance rather than the primary driver, because when someone's missing the searchers already know what they're doing, they just don't know where to look first. That's the actual bottleneck. LOCUS takes a last known point and a pile of unreliable tips, runs a Monte Carlo sim of hundreds of simulated lost persons walking outward using real lost-person behavior models, and turns where they pile up into a live probability heatmap the coordinator drives entirely by voice. The entire backend was basically on Convex and it held up better than anything I've shipped in a day. Thanks to Henry Song , Wayne Sutton and all the other hosts for running it. Built with Dat , Pranav and Mohak . github: https://lnkd.in/gkbJqRVN ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQEO__Yq_cuy0w/feedshare-image-high-res/B56Z978f1WHcAU-/0/1784490885736?e=2147483647&v=beta&t=bSGilHjx9mlbAMU6OUckGunCuas7eme8XzikMQdKR50",
+        "id": "2"
+      },
+      {
+        "interaction": null,
+        "link": "https://www.linkedin.com/posts/feidongsong_another-voice-coding-hackathon-yesterday-activity-7484825394370473985-Ap_7",
+        "title": "Another voice coding hackathon yesterday hosted by Voice Cursor , Convex , Beta Fund and Respan . The projects quality was so good we had to give out many bonus prizes. Shoutout to Wayne Sutton , Anne L. , Manoj Hemanth for judging and hosting. Mohak Akul Prakash , Abhinav Garg , Tianlu Zhu , Bruhatt Rao , Pranav Sagar , Soham Dogra , Aditya Kolekar , Aahan R. Kumbham , Dat Nguyen , Linzzi Ji , Boyao Xu , and many more for participating. ...more ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQEhJ_0pIIzedQ/feedshare-shrink_800/B56Z99xBcCHcAc-/0/1784521433951?e=2147483647&v=beta&t=42VVsdZG18EyoKFmhx6INku41k_0MzYsvuKL1YAXcJU",
+        "id": "7484825394370473985"
+      },
+      {
+        "interaction": "Laksh Goyal shared this",
+        "link": "https://www.linkedin.com/posts/lakshgoyal_the-sf-hackathon-run-is-off-to-a-good-start-activity-7484279573644222465-TMEX",
+        "title": "The SF hackathon run is off to a good start. We took 1st place at the Loop Engineering Hackathon hosted by tokens& at the AWS Builder Loft (best hackathon venue i've been to yet). 250 people, 100 projects, one afternoon to build something worth winning. The idea started simple but got sharper as we went. We built Vigil: an AI on-call engineer that detects, diagnoses, and rolls back production incidents while holding zero standing credentials. Every other agent demo right now is a race to hand the model everything, more keys, more access, more scope, so we inverted that. Vigil holds nothing at rest. Every destructive action gets a single-use credential scoped to one service, expiring in literally 60 seconds. Zero sells it a log parser per call, Overclock Labs, creators of Akash Network runs a disposable sandbox that reproduces the failure before anything touches production (which won us best use), Pomerium gates every rollback against policy, and OpenAI adds a root-cause hypothesis on top. When Vigil later tried a mass-restart across 12 services, the gate denied it. That denial is the whole thesis. The model never gets trusted, it gets contained. That's least-privilege for autonomous agents, shown end to end. Shoutout to Dat and Pranav and their Claude max subscriptions. feat. drippiest duck in sf ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQEOsl6S2j8u-g/feedshare-image-high-res/B56Z90CR.dHYAU-/0/1784358183264?e=2147483647&v=beta&t=C5PYmoO7DGEhI5hEL8vXpDzpPwsthHvo5cbjNAIfUHI",
+        "id": "7484279573644222465"
+      },
+      {
+        "interaction": null,
+        "link": "https://www.linkedin.com/posts/datnguy3n_i-cant-remember-the-last-time-i-lost-genuinely-activity-7484092269390860288-75Tn",
+        "title": "I can\u2019t remember the last time I lost. Genuinely. I\u2019ve tried. It\u2019s not in there. Berkeley. Bow Capital. MLH x DigitalOcean. And this weekend, 1st in the Akash track at the Loop Engineering Hackathon, inside the AWS Builder Loft. 4 for 4. At some point \u201clucky\u201d stops being the word. We built Vigil, an autonomous on-call engineer that fixes production incidents on its own and never holds the keys to prod. It runs the risky stuff in disposable compute it spins up and destroys, and it can only touch production through a zero-trust boundary that hands it one scoped permission at a time. And I say \u201cI\u201d a lot, but it\u2019s \u201cwe.\u201d Thank you to Laksh Goyal and Pranav Sagar , the only two I\u2019d want in the trenches. Anyway, the loft was a vibe. Great people, great energy from Ahaan Iqbal , Sukhman Cheema , Tyler hwang , James Hansen , and Samuel Alake . Huge thank you to Overclock Labs, creators of Akash Network for believing in us and backing us on this one, you bet on the right team. Ill be in contact, we\u2019re not done. Heres the repo link too: https://lnkd.in/gqd8_3TV ...more ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQGl994f-CF3Dw/feedshare-shrink_800/B56Z9zWQrTGUAc-/0/1784346643446?e=2147483647&v=beta&t=qBBwQ-ssWpVVKMtA6eSqTCCpG0Ge3j0uXpEDu5dZ2RE",
+        "id": "7484092269390860288"
+      },
+      {
+        "interaction": null,
+        "link": "https://www.linkedin.com/posts/lakshgoyal_moved-to-mountain-view-this-summer-as-a-gtm-activity-7482932796957646848-HAFf",
+        "title": "Moved to Mountain View this summer as a GTM Engineer intern at GMI Cloud and I've been learning way more than what I anticipated. The thing about working at a cloud infra company is you don't just drive growth, but you live the product. You start to understand which models actually deliver, which ones overpromise, and why the model you pick is only half the decision. GMI posted something this week that stuck with me: instead of relying on one frontier model, you run Opus 4.8 first and let GLM 5.2 clean up what it misses. 94/100 pass rate, 47% cheaper than Fable 5. The combo outperformed every individual model on both cost and accuracy. That's the kind of insight you only get when you're close to the infra layer, seeing what's actually out there beyond the names everyone defaults to. The work culture here is something I didn't know I needed. Slim team, everyone has agency, everyone owns what they do. High energy, no fluff and I decided this is the kind of environment I want to keep working in. I'll be coming down to SF most weekends for hackathons and Luma events, so hmu if you want to do a hackathon together or just chat. Also just made an X, apparently that's the new LinkedIn. Come find me at https://x.com/Lgoyal6 ...more",
+        "img": null,
+        "id": "7482932796957646848"
+      },
+      {
+        "interaction": "Laksh Goyal commented on a post 16h",
+        "link": "https://www.linkedin.com/posts/jasmin-kern-13225b190_mercor-is-growing-its-research-team-curious-activity-7493125454871330816-MvoI",
+        "title": "Definitely interested, sent a connection request",
+        "img": null,
+        "id": "7493125454871330816"
+      },
+      {
+        "interaction": "Laksh Goyal replied to a comment 2d",
+        "link": null,
+        "title": "Shiv Punjabi \ud83e\udd23\ud83e\udd23\ud83e\udd23",
+        "img": null,
+        "id": null
+      },
+      {
+        "interaction": "Laksh Goyal liked this",
+        "link": "https://www.linkedin.com/posts/ishaanchamoli_weve-raised-500k-from-a16z-speedrun-it-activity-7493343058416041987-24Gz",
+        "title": "We\u2019ve raised $500K from a16z speedrun ! It\u2019s crazy I finally get to share this. I\u2019ve wanted to write that sentence since I was 10. I used to binge-watch Shark Tank, keep a list with hundreds of startup ideas, and doodle future logos in my school notebooks. Then I moved to the US to study at UIUC, and things started feeling real. I met Ansh , we boiled ramen in his kettle together, and started building things that fascinated us. (Completely ruined the kettle btw.) Somewhere between campus pitches, hackathons, and a lot of questionable product ideas, I got incredibly lucky with mentors who kept taking my ideas seriously long before they deserved to be. Andrew D'Souza and the Boardy team took a bet on me. They gave me my first real glimpse of what it looks like when people are completely obsessed with something they\u2019re building. I wanted that for myself. Ansh and I built our first prototype for ChatOverflow in February. Four weeks later, we were backed by a16z speedrun. A huge thank you to my friends who tolerated my worst startup ideas at 2am before a final; to my teachers who believed in me really early on; and to my family, who have always supported me, forever smiling (sometimes nervously), even through the occasional \u201cmaybe I should drop out\u201d conversations : ) Now loving every moment of speedrun with Fareed Mosavat , Andrew Chen , Jonathan Lai , Troy Kirwin , Joan DeGennaro , Samira Behrouzan , Tabish Gilani , Macy Mills , Jordan Mazer , Jordan Carver , Lester Chen , Tom Hammer , and so many more. You guys make speedrun ridiculously fun. Back to building! \ud83d\ude80",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQGswQnOdFI-fQ/feedshare-shrink_800/B56Z_2zzdWKEAc-/0/1786552203512?e=2147483647&v=beta&t=nLhJpFdXSSMedFfsWAmEZ6M4A8YdidrqTa_atnjMRfU",
+        "id": "7493343058416041987"
+      },
+      {
+        "interaction": "Laksh Goyal liked this",
+        "link": "https://www.linkedin.com/posts/datnguy3n_ive-fallen-off-searched-my-own-name-and-activity-7493350605113946112-HyDS",
+        "title": "i\u2019ve fallen off. searched my own name and i\u2019m ranked second. in my own search results. on my own phone. the dat nguyen market is crowded right now. amazon intern dat, phd student dat, c-suite executive dat. and me, watching from second place. announced a new role this week and it did nothing for my ranking. brutal market.",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQE3g6WYR4JLVw/feedshare-shrink_1280/B56Z_lex3SJkAQ-/0/1786261479151?e=2147483647&v=beta&t=rWh6yEQq5qEpJE18M4SNxM0QXGY_C7y4CGHsWAx2kU4",
+        "id": "7493350605113946112"
+      },
+      {
+        "interaction": "Laksh Goyal liked this",
+        "link": "https://www.linkedin.com/posts/arjun-vad_at-15-i-installed-770-solar-panels-in-khapa-activity-7493346831264043008-0ZwC",
+        "title": "At 15, I installed 770 solar panels in Khapa, a village outside Nagpur with fifteen power cuts a day. The technology had existed for decades. It had just never arrived. That's still the whole problem: frontier tech doesn't die in the lab. It dies in the last mile. So that's my business. Companies pay me to deploy them into India's factories, schools, and hospitals. If the deployment works, I invest. It inverts deal flow. The best companies come to me because they need the road. And I've seen them execute with real customers before I put in a dollar. Other investors read memos. I've seen the machine run. Thanks Dave McClure for pressure-testing this pitch until it said what I meant. The technology was never the hard part. Arriving is.",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQFT2gzGic3JKg/feedshare-image-high-res/B56Z_qb9u8H4AU-/0/1786344627580?e=2147483647&v=beta&t=I175bg6QGFQ0oL4p-yB35CV_cgGfoeYgtS9qq1E8ibk",
+        "id": "15"
+      },
+      {
+        "interaction": "Laksh Goyal liked this",
+        "link": "https://www.linkedin.com/posts/triage-sec_triage-is-now-part-of-openais-trusted-access-activity-7493033625320579072-DRUt",
+        "title": "Triage is now part of OpenAI 's Trusted Access for Cyber (TAC) program. Our work depends on understanding how advanced AI systems behave under real adversarial pressure. TAC expands the capabilities available to our team as we evaluate those systems, develop stronger safeguards, and help organizations deploy AI with greater resilience. We\u2019re looking forward to putting this access to work.",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQFjPOflzL8cYQ/feedshare-shrink_800/B56Z_yaYK9JkAc-/0/1786478429639?e=2147483647&v=beta&t=rzSOShCZ1wlVW0nW-spNlv4272wA7hgPmFLpX56tS9w",
+        "id": "7493033625320579072"
+      },
+      {
+        "interaction": "Laksh Goyal liked this",
+        "link": "https://www.linkedin.com/posts/abheeshta-vemuri_forwarddeployedengineer-aiengineering-activity-7492990460613996545-eYxO",
+        "title": "FORWARD DEPLOYED ENGINEER. Yes, that's my new title. And no, my mother still doesn't know what I do. So here's what I actually do as an FDE at Hyperscience I'm the engineer who goes to the customer. Not the deck version of their workflow. The real one. Half the job is engineering. The other half: \u2192 Translator \u2192 Detective \u2192 Bad news deliverer \u2192 Occasionally, therapist My favorite part is the moment someone says \"oh, we also do this other thing\" on day four. That sentence has cost me more sleep than any deadline. But that's the job. The model isn't the hard part anymore. Surviving contact with a real business is. Every company shipping AI is hitting that wall right now. Which is why this role went from nonexistent to everywhere in two years. Been doing the work for years. Glad it finally has a name. If you're an engineer curious about this kind of work, my DMs are open! #ForwardDeployedEngineer #AIEngineering #EnterpriseAI #SoftwareEngineering #AIinProduction",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQFd95Qr6mNiiA/feedshare-image-high-res/B56Z_xzHoqIsAU-/0/1786468138249?e=2147483647&v=beta&t=XCXppxf-THkfvnv9_M5N0-lEVUlMaSkEnpq1Z_UzZlA",
+        "id": "7492990460613996545"
+      },
+      {
+        "interaction": "Laksh Goyal liked this",
+        "link": "https://www.linkedin.com/posts/olgasattler_the-reality-in-todays-market-a-startup-activity-7492634175452327937-P-82",
+        "title": "The reality in today's market: a startup offering $300-350K base plus \"paper money\" (equity that hasn't proven itself yet) is not going to attract top talent. Unless you have a genuinely killer product and a promising future, that comp just doesn't cut it anymore. I'm talking about your average, healthy growth startup here, not the handful of outliers everyone already knows about. So you've got a few real options. Look for talent outside the Bay Area. Stop expecting every candidate to come from Stanford, Berkeley, and the usual handful of schools. Or start offering $500K cash. You can't have it both ways.",
+        "img": null,
+        "id": "7492634175452327937"
+      },
+      {
+        "interaction": "Laksh Goyal liked this",
+        "link": "https://www.linkedin.com/posts/aridutilh_were-hiring-come-join-the-solo-founders-activity-7493015134789844992-2DZ2",
+        "title": "We're hiring! Come join the Solo Founders team :) Comment below for the careers page link. We're building the home and infrastructure for solo founders and over the past year, we've already worked with some incredible breakout solo-founded companies. One in three companies is now started without a co-founder, and this number will only continue compounding. If you're reading this, you're early. Solo, together.",
+        "img": null,
+        "id": "7493015134789844992"
+      },
+      {
+        "interaction": "Laksh Goyal liked this",
+        "link": "https://www.linkedin.com/posts/kritigoyal16_uh-oh-ais-got-a-type-eval-scores-focus-activity-7493022961503793152-rCpL",
+        "title": "Uh oh, AI's got a type. Eval scores focus on individual model outputs. Bias like this is only visible in the diff.",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQF_IhiDmWMGeQ/feedshare-shrink_800/B56Z_yQrbiJcAc-/0/1786475886556?e=2147483647&v=beta&t=cHOfi1tKSSPZcFnNj_f7ZnE-sVPiA_B4jXIwckKdUdk",
+        "id": "7493022961503793152"
+      }
+    ],
+    "linkedin_num_id": "1077051804",
+    "banner_image": "https://media.licdn.com/dms/image/v2/D5616AQH8C4MswFt7fA/profile-displaybackgroundimage-shrink_200_800/B56Zu0IqyzHMAU-/0/1768253747913?e=2147483647&v=beta&t=MxIsiJsAb_h7U95a20uiNdRQnPe_agi_lgZ6SCz4BDY",
+    "honors_and_awards": null,
+    "similar_profiles": [],
+    "default_avatar": false,
+    "memorialized_account": false,
+    "bio_links": [
+      {
+        "title": "Portfolio",
+        "link": "https://lakshgoyal.com/"
+      }
+    ],
+    "first_name": "Laksh",
+    "last_name": "Goyal",
+    "influencer": false,
+    "timestamp": "2026-08-12T19:11:47.619Z",
+    "input": {
+      "url": "https://www.linkedin.com/in/lakshgoyal"
+    }
+  },
+  "local_photo": "data\\linkedin_photos\\lakshgoyal__usr-RyVNaeKXOG4bif4.jpg"
+}

@@ -1,0 +1,171 @@
+{
+  "luma_user_id": "usr-JLVmjJRtdYO4H39",
+  "csv_name": "Tobasum Mandal",
+  "csv_linkedin": "https://www.linkedin.com/in/tobasum-mandal",
+  "enriched_at": "2026-08-12T19:22:34.862571+00:00",
+  "batch_id": "sd_msqh2468i57o0acas",
+  "profile": {
+    "id": "tobasum-mandal",
+    "name": "Tobasum Mandal",
+    "city": "San Francisco Bay Area",
+    "country_code": "US",
+    "position": null,
+    "about": "I build in agentic infra, cyberphysical simulation, and education technology.",
+    "current_company": {
+      "link": "https://www.linkedin.com/company/g2cventures?trk=public_profile_topcard-current-company",
+      "name": "G2C Ventures",
+      "company_id": "g2cventures",
+      "location": null
+    },
+    "experience": null,
+    "url": "https://ph.linkedin.com/in/Tobasum-mandal",
+    "educations_details": "Vanderbilt University",
+    "education": null,
+    "avatar": "https://media.licdn.com/dms/image/v2/D5603AQE71B1l3PGH7A/profile-displayphoto-scale_200_200/B56ZiM_wy.HQAY-/0/1754712182425?e=2147483647&v=beta&t=Pwt1sDFslJZkUAQYqq0kfLefAqNy8bdJtfN36Hlrx-w",
+    "languages": [
+      {
+        "subtitle": "Native or bilingual proficiency",
+        "title": "English"
+      },
+      {
+        "subtitle": "Native or bilingual proficiency",
+        "title": "Bengali"
+      },
+      {
+        "subtitle": "Professional working proficiency",
+        "title": "Hindi"
+      },
+      {
+        "subtitle": "Elementary proficiency",
+        "title": "Kannada"
+      },
+      {
+        "subtitle": "Elementary proficiency",
+        "title": "Spanish"
+      }
+    ],
+    "volunteer_experience": [
+      {
+        "duration": "Dec 2020 \u00b7 - Present \u00b7 \n\n5 years 9 months",
+        "duration_short": "- Present",
+        "start_date": "Dec 2020",
+        "subtitle": "Languages, Mathematics, Physics, Economics",
+        "title": "Tutor"
+      },
+      {
+        "cause": "Education",
+        "duration": "Mar 2023 \u00b7 - \nMar 2023 \u00b7 \n1 month",
+        "duration_short": "- \nMar 2023",
+        "start_date": "Mar 2023",
+        "subtitle": "Vardhishnu - Social Research & Development Society",
+        "title": "Project Week Coordinator"
+      }
+    ],
+    "followers": 1799,
+    "connections": 500,
+    "current_company_company_id": "g2cventures",
+    "current_company_name": "G2C Ventures",
+    "location": null,
+    "input_url": "https://www.linkedin.com/in/tobasum-mandal",
+    "linkedin_id": "tobasum-mandal",
+    "activity": [
+      {
+        "interaction": null,
+        "link": "https://www.linkedin.com/posts/john-berryman-864b1713_make-ai-your-search-team-activity-7437335321186353152-ammV",
+        "title": "You don't need to hire an ML team to get smarter e-commerce search. Instead, just wrap your existing search API in an agent and see what happens. We did exactly that \u2013 agent in front of a basic keyword search, same API, no UX change. Ran it against a Wayfair-style furniture dataset with 100 labeled queries. The agent did some genuinely clever stuff (sectional = modular sofa, when to quote \"dress shoes,\" broad-then-narrow). It also occasionally did some dumb stuff (hallucinated filter values, over-constrained first queries), which we largely fixed with better prompting and some few-shot examples. Net result: ~6\u201310% gain in NDCG depending on prompt. Full writeup, diagrams, and the tradeoffs here: https://lnkd.in/eRPmUkce --- As a special note. This is the first post I've done with a co-author: Tobasum Mandal , a Vanderbilt student who was a huge part of building the prototype and writing this. She was spectacular to work with. If you're hiring \u2013 hire her, especially if you need help with AI and especially if you're a startup. ...more ...more",
+        "img": "https://media.licdn.com/dms/image/sync/v2/D4E27AQHdhnpavVAfvw/articleshare-shrink_1280_800/B4EZza2qYTJcAQ-/0/1773198288804?e=2147483647&v=beta&t=6TAO7JxYbE54shAjIaksV_R_mGfwmUPoWe1MU0-BzjE",
+        "id": "7437335321186353152"
+      },
+      {
+        "interaction": "Tobasum Mandal liked this",
+        "link": "https://www.linkedin.com/posts/dashashunina_my-third-month-at-openrouter-the-best-part-activity-7492997671150858243-zTgs",
+        "title": "My third month at OpenRouter . The best part? The people. The bar for talent is super high - exceptionally high. Whenever you work with someone, you know you're working with one of the best people in the industry in their specific function. It's one of those rare environments where everyone makes everyone else better. This has been incredible. Super pumped to welcome my good friend Peter Walker to the team. From having him on my podcast, TALKS WITH DASHA , two years ago to now working together on the same team. The tech world is so small. Blessed to be part of such an incredible team.",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQF3QCbbWwF76A/feedshare-shrink_800/B56Z_x5rLwGcAg-/0/1786469857063?e=2147483647&v=beta&t=5abY-bwh7EwowvdqmuFnQtChPieMesGeONKFZGOPc7s",
+        "id": "7492997671150858243"
+      },
+      {
+        "interaction": "Tobasum Mandal liked this",
+        "link": "https://www.linkedin.com/posts/manav2modi_every-milestone-felt-huge-in-the-moment-activity-7492686281748082688--eNd",
+        "title": "Every milestone felt huge in the moment. Getting accepted into YC. Starting the batch. Demo Day. Then I looked at the usage chart and all of them sat in the flat part on the left. This past week was AgentPhone 's biggest yet for message and call volume. We\u2019re just getting started \ud83d\ude80",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQFo0OXbb7zp2Q/feedshare-shrink_800/B56Z_teeLZKoAg-/0/1786395616238?e=2147483647&v=beta&t=ILYmlfjg2wUcoJCTuSt-SnzuA3MnbEVB2xngrIrRdl8",
+        "id": "7492686281748082688"
+      },
+      {
+        "interaction": "Tobasum Mandal liked this",
+        "link": "https://www.linkedin.com/posts/vikghai_everyone-asking-what-ai-will-do-to-next-generation-activity-7491616617001345024-Sk1W",
+        "title": "Everyone asking what AI will do to next generation\u2026. I think we\u2019re asking the wrong question Spersh spent a short stint with us at G2C Ventures before heading to college at Washington University in St. Louis He picked up our investment rubric quickly, started applying it and then asked why it was built that way.. \"why are we asking these questions in first place?\" AI will get very good at answering questions. What\u2019s harder to automate is judgment: knowing which question matters, when the framework is wrong and when to challenge the premise itself That\u2019s what we want around an investment table Give smart young people real problems then get out of the way\u2026. Was great to have you Spersh \ud83d\ude4c",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQEvdu_R33-4VA/feedshare-shrink_800/B56Z_eRmnAH4Ac-/0/1786140588082?e=2147483647&v=beta&t=Z0plzCWjvXZSuasju6VR1vClgTKVTwNS4tq82G6ZIps",
+        "id": "7491616617001345024"
+      },
+      {
+        "interaction": "Tobasum Mandal liked this",
+        "link": "https://www.linkedin.com/posts/sabina-g-5bb7b4225_one-of-my-favorite-parts-of-yc-startup-school-activity-7489037362036039680-ZDlA",
+        "title": "One of my favorite parts of YC Startup School was listening to founders share how they built their companies. The talk that completely had my attention was by Max Junestrand from Lagora. I ended up taking two full pages of notes. Maybe part of it was because he's Swedish. I spent important teenage years in Norway, so hearing him talk about Janteloven (the Scandinavian idea that you shouldn't think you're better than anyone else) immediately resonated with me. What I found especially interesting was how he explained balancing that cultural mindset with the ambition required to build a company that became a unicorn. As my co-founder, Myra Clark and I are building EntryPoint to help international students navigate life in the U.S. (and more countries in the near future), his talk was incredibly motivating!!",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQEeIjji5HiSpQ/feedshare-image-high-res/B4EZ.5nyk6IkAY-/0/1785525645566?e=2147483647&v=beta&t=qV4TMWISACYf0H6Q2Q-gE4NLxyxxFpcJss3VWtBwN2k",
+        "id": "7489037362036039680"
+      },
+      {
+        "interaction": "Tobasum Mandal liked this",
+        "link": "https://www.linkedin.com/posts/raj-kavathekar_if-your-engineers-say-theyll-put-something-activity-7488753359722672129-nTEP",
+        "title": "\"If your engineers say they'll put something in the backlog, they're basically saying f*** you.\" \u2014 Pete Koomen (GP @ YC) at the talk at Founders, Inc. with Hubert Thieblot . He's right. The backlog is where customer feature requests go to die. That's why we're building Trivia , the AI customization layer for enterprise SaaS. Your users describe the features they need and get them instantly, built on your existing APIs. No backlog. No roadmap fights. No engineering time. Shoot me a DM\ud83d\udce5 if you'd like to chat or check out the link\ud83d\udd17 in my profile if this interests you.",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQHlpHz_4OufoQ/feedshare-shrink_800/B56Z.1exRTKIAc-/0/1785456171119?e=2147483647&v=beta&t=i8PstEmf5rYS9K0QbCL_hkmnGDOXOKclaloqBw-sqZ4",
+        "id": "7488753359722672129"
+      },
+      {
+        "interaction": "Tobasum Mandal liked this",
+        "link": "https://www.linkedin.com/posts/sudip-rokaya-675604279_we-raised-48-million-to-make-ai-explain-activity-7488645689619447808-mJpm",
+        "title": "We raised $4.8 million to make AI explain with video, not just text. Today, we are announcing Lamina Labs and Simi, our first product and the fastest way to make an explainer video. Give Simi a single prompt, document, or script, and it can generate a complete one-minute narrated explainer in as little as eight seconds, in more than 80 languages. It works like ChatGPT, except the answer is a video. This announcement means a lot to us for reasons that go beyond the funding. Kartikesh and I grew up in two of the most remote parts of Nepal. Neither of us grew up knowing what MIT, Y Combinator, or venture capital were. Years later, we met at MIT. Today, we are proud to be the first all-Nepalese founding team in Y Combinator history. The idea behind Lamina came from something both of us experienced growing up: difficult ideas are much harder when you do not have the right teacher, explanation, or visual in front of you. LLMs changed access to knowledge. Almost anyone can now ask a question and receive an answer instantly. But knowledge is not the same as understanding. The most intelligent models in the world still explain almost everything through paragraphs on a screen. Not because text is always the best way to teach, but because it has been the easiest medium for computers to generate. We believe that is changing. A student should be able to turn a difficult question into a visual lesson. A company should be able to turn documentation into a walkthrough. An AI agent should be able to show how it reached a conclusion, not just return another wall of text. That is why we built Simi. Simi is designed to create explanations that teach, not videos that merely look good. But Simi is only our first product. Lamina Labs is building fast, precise, and controllable video infrastructure for LLMs. Our goal is to let any model, agent, or application generate video at the moment an explanation is needed. The round was led by Foundation Capital , with participation from Link Ventures and Y Combinator . We are deeply grateful to everyone who believed in us, helped us get here, and gave two kids from Nepal the chance to build something much bigger than ourselves. This video tells our story. And we are only getting started.",
+        "img": "https://dms.licdn.com/playlist/vid/v2/D5605AQF6cyMWITfrWA/thumbnail-shrink_720_1280/B56Z.0DX6jLAAg-/0/1785432228993?e=2147483647&v=beta&t=QWJ5XXURCVhzyCGSkXfqy955vtERCV2rlAWFVoagaEA",
+        "id": "48"
+      },
+      {
+        "interaction": "Tobasum Mandal liked this",
+        "link": "https://www.linkedin.com/posts/ege-doganay_neuromorphic-yc-s26-is-now-a-member-of-activity-7488723224122290176-7wze",
+        "title": "Neuromorphic (YC S26) is now a member of NVIDIA Inception",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQFzPOiIh3BpSw/feedshare-shrink_800/B56Z.1KF0hKoAg-/0/1785450749645?e=2147483647&v=beta&t=amXO4h7_rzYM2QSVz86lN5AAcIMXGamFJ32mSwNRC5U",
+        "id": "7488723224122290176"
+      },
+      {
+        "interaction": "Tobasum Mandal liked this",
+        "link": "https://www.linkedin.com/posts/ramtin-shahzanian_i-got-into-y-combinator-im-18-solo-founder-activity-7488378687885774848-DZX4",
+        "title": "I got into Y Combinator I'm 18, solo founder, and 3 years ago was studying 10th grade at a random city in Iran (Qazvin, love it). In Iran, I had to build my own VPN to access UK curriculum material, then got myself into a boarding school in Oxford, paid the tuition by selling my AI thing, and then got a full-ride to study AI at Rice University. After I got in the US I did some more things that led to Magma . I don't have much to say for advice as I'm unlearning a lot recently. However, as an observation, the laws of physics seem to be flexible enough that you can simply do things; anything in fact. Human brain just evolutionarily underestimates that flexibility. PS: We're bringing on the most non-NPC interns and hires across growth and RL to defeat once-in-a-civilization-time problems in frontier data and intelligence (emails to talent@magmahq.ai ). PPS: Repost and I'll send you the full application that got me in.",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQHgNh2j0lf5Gw/feedshare-shrink_800/B4EZ.wQu95H8Ac-/0/1785368605430?e=2147483647&v=beta&t=72aqKiAQhuE9k5XhQgkReYpHUbMEjiXcCh7BPxrP5Cs",
+        "id": "18"
+      },
+      {
+        "interaction": "Tobasum Mandal liked this",
+        "link": "https://www.linkedin.com/posts/zubair480_we-won-2nd-place-at-crewai-hackathon-in-san-activity-7487710934313013248-JC6O",
+        "title": "We won 2nd Place at CrewAI hackathon in San Francisco At 12:51 AM on Sunday, my phone rang. I was home sick, completely unaware of the CrewAI Hackathon happening the next day, and ready to sleep off the weekend. Ali Amjad convinced me on the call to drop my plans and join him in CrewAI Hackathon. I said yes. Despite the fever, I showed up 30 minutes early at 8:30 AM so we could map out our vision. We didn't walk in with a pre built team. We built it on the fly. Around 10:00 AM, Kaushik Sivakumar casually walked in to say hello. Ali just looked at him and said, \"You are in our team.\" Just like that, we had our technical foundation. Then about an hour and a half later, we realized our UI didn't feel right. We knew we needed to fix it. Somehow Arya Mishra showed up out of nowhere. Ali drafted her on the spot. She stepped in and completely transformed our user experience and presentation. While Ali had to leave before the presentation for a different event, Kaushik, Arya, and I got to work shaping the product story and the code. Together, we built ROOT \ud83e\udd48 (2nd Place Winners!). Every time I joined a new company it took at least 1 week to get access to tools and technologies as it takes approval from different teams. We connected Zendesk with the CrewAI platform and built a custom full-stack architecture to house a swarm of 14 autonomous agents. Here is what Root does: Instantly reads the Zendesk ticket for a new hire (identifying their role, manager, and department). Autonomously determines the exact software, tech stack, and physical hardware that specific employee needs. Immediately dispatches tickets and emails to the IT and Security teams to provision those exact accesses. What used to take an entire week of manual bottlenecks now happens seamlessly in minutes. Here is the biggest takeaway from this wild weekend. We built an AI platform dedicated to perfect orchestration, but the real magic was the human orchestration. Hackathons are about finding the right people, trusting them fast, and creating the conditions where everyone can do their best work. Huge shout out to Ali for pushing us to our limits and Arya for making the UI and Khushak to work on the backend while I worked on the architecture of the product. I am extremely thankful to the CrewAI team for organizing this amazing hackathon. Jo\u00e3o (Joe) Moura , Ossama Alami Emma Kundro, Chelsea Soldan , Bryan Wood , Tan Chau Hoang, Matt Aitchison , Helen Wu , Hayden Lam , Jack DeGroat , Guled Duale , Ethan Kaplan , Jenna Kremchek , Renato Nitta , Tiana Taylor , Jesse Miller , Kirk Marty , Elliott A. Beckstrom , Simone Barreto Brandon \"Gus\" Compher , Daniel Henrique Minella , Sumeru 'Sumo' Chatterjee \ud83e\udd1e\ud83c\udffd , Tom Brooks , Lorenze Jay Hernandez , Patrick Thompson , Ryan Marcoux , Alana Gomes , Jason Trueblood, Sabrina Nunes , Cillian Bane Thanks to my mentors Zafar Shahid PhD , Amir Khan , Rizwan Ghaffar , Khalid Khokhar , Kaleem A.",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQG6f2tyS4Pi4w/feedshare-shrink_800/B56Z.mxaYzKoAg-/0/1785209399222?e=2147483647&v=beta&t=-4hjxOwow9J65Kf17Mz2dL9vZC_K62mB4mj76kZGaK0",
+        "id": "7487710934313013248"
+      }
+    ],
+    "linkedin_num_id": "897030054",
+    "banner_image": "https://media.licdn.com/dms/image/v2/D4E16AQGWRFXoALLdfw/profile-displaybackgroundimage-shrink_200_800/B4EZiK3bEiHIAU-/0/1754676442292?e=2147483647&v=beta&t=WI9jfXNQ9nFzZuwGgR2OC-NCTzOe-pnIVMqAIuARi24",
+    "honors_and_awards": [
+      {
+        "title": "Dean's List",
+        "publication": "Vanderbilt University",
+        "date": null,
+        "description": null
+      }
+    ],
+    "similar_profiles": [],
+    "default_avatar": false,
+    "memorialized_account": false,
+    "bio_links": [
+      {
+        "title": "Portfolio",
+        "link": "https://github.com/tobasummandal"
+      }
+    ],
+    "first_name": "Tobasum",
+    "last_name": "Mandal",
+    "influencer": false,
+    "timestamp": "2026-08-12T19:18:14.423Z",
+    "input": {
+      "url": "https://www.linkedin.com/in/tobasum-mandal"
+    }
+  },
+  "local_photo": "data\\linkedin_photos\\tobasum-mandal__usr-JLVmjJRtdYO4H39.jpg"
+}

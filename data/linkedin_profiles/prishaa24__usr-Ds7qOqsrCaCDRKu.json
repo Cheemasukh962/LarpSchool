@@ -1,0 +1,207 @@
+{
+  "luma_user_id": "usr-Ds7qOqsrCaCDRKu",
+  "csv_name": "Prisha Agarwal",
+  "csv_linkedin": "https://www.linkedin.com/in/prishaa24",
+  "enriched_at": "2026-08-12T19:14:53.869187+00:00",
+  "batch_id": "sd_msqgwa7g10oeo6g7qx",
+  "profile": {
+    "id": "prishaa24",
+    "name": "Prisha Agarwal",
+    "city": "San Francisco Bay Area",
+    "country_code": "US",
+    "position": null,
+    "about": "prisha.agarwal@berkeley.edu ~ https://prisha-agarwal.github.io/",
+    "current_company": {
+      "link": "https://www.linkedin.com/company/snorkel-ai?trk=public_profile_topcard-current-company",
+      "name": "Snorkel AI",
+      "company_id": "snorkel-ai",
+      "location": null
+    },
+    "experience": null,
+    "url": "https://no.linkedin.com/in/Prishaa24",
+    "educations_details": "University of California, Berkeley",
+    "education": null,
+    "avatar": "https://media.licdn.com/dms/image/v2/D5603AQFKrOlh889Bxg/profile-displayphoto-scale_200_200/B56Z2dHsKPHQAY-/0/1776457535340?e=2147483647&v=beta&t=UIFlOyQr6GXKfSStI1ZmsK4Gf3V7XLLKGcjWNPYAOo0",
+    "languages": [
+      {
+        "subtitle": "Native or bilingual proficiency",
+        "title": "English"
+      },
+      {
+        "subtitle": "Native or bilingual proficiency",
+        "title": "Hindi"
+      },
+      {
+        "subtitle": "Professional working proficiency",
+        "title": "Spanish"
+      }
+    ],
+    "volunteer_experience": [
+      {
+        "cause": "Disaster and Humanitarian Relief",
+        "duration": "Aug 2021 \u00b7 - Present \u00b7 \n\n5 years 1 month",
+        "duration_short": "- Present",
+        "info": "150+ volunteer hours President @ DVHS",
+        "start_date": "Aug 2021",
+        "subtitle": "American Red Cross",
+        "title": "Volunteer"
+      },
+      {
+        "duration": "May 2022 \u00b7 - \nJun 2025 \u00b7 \n3 years 2 months",
+        "duration_short": "- \nJun 2025",
+        "info": "Created a free public speaking program, recruiting 75 mentors and reaching 180+ middle school students while building curriculum, running events, and leading outreach.",
+        "start_date": "May 2022",
+        "subtitle": "Future Speakers",
+        "title": "Founder"
+      },
+      {
+        "duration": "Aug 2021 \u00b7 - \nJun 2025 \u00b7 \n3 years 11 months",
+        "duration_short": "- \nJun 2025",
+        "info": "Taught 350+ middle school students from underprivileged backgrounds in competitive math to increase accessibility and engagement.",
+        "start_date": "Aug 2021",
+        "subtitle": "Dougherty Math Circle",
+        "title": "Instructor & Curriculum Developer"
+      }
+    ],
+    "followers": 1411,
+    "connections": 500,
+    "current_company_company_id": "snorkel-ai",
+    "current_company_name": "Snorkel AI",
+    "projects": [
+      {
+        "title": "Pebble",
+        "start_date": "Oct 2025",
+        "description": "Pebble is an AI study companion that detects when you lose focus and nudges you back, hands free. Using your webcam, it tracks gaze, posture, hand movement, and phone usage in real time. An XGBoost model outputs a live 0-100 focus score every half second, and when it drops too low, a VAPI voice agent reminds you to refocus (no notifications, no interruptions).Built with Python, Flask, React, MediaPipe, and YOLOv8 on 4,000 self-collected training frames."
+      }
+    ],
+    "location": null,
+    "input_url": "https://www.linkedin.com/in/prishaa24",
+    "linkedin_id": "prishaa24",
+    "activity": [
+      {
+        "interaction": "Prisha Agarwal shared this",
+        "link": "https://www.linkedin.com/posts/prishaa24_im-excited-to-announce-that-ill-be-joining-activity-7462651887759134720-CzzT",
+        "title": "I\u2019m excited to announce that I'll be joining Snorkel AI this summer as a Software Engineering Intern on their DaaS Engineering team in San Francisco! A huge thank you to Curtis and Huzail for being incredible throughout the recruiting process, and to Amber and Big Data at Berkeley for hosting the event where I first connected with Snorkel. Never underestimate the power of a paper resume! Of course, thank you to my family and friends, none of this would be possible without their support. I\u2019m incredibly grateful and excited for the couple of months ahead. If you\u2019re in SF this summer, I\u2019d love to connect and grab some coffee/matcha! ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQEkYwf5czgWiw/feedshare-shrink_800/B56Z5CqWPPIEAc-/0/1779234858213?e=2147483647&v=beta&t=jet58cpPeB89-W3KcDQlXfvZjJ1wLawUzOZgfhMm-o8",
+        "id": "7462651887759134720"
+      },
+      {
+        "interaction": "Prisha Agarwal commented on a post 1mo",
+        "link": "https://www.linkedin.com/posts/ashwin-r_how-i-accidentally-hacked-stanfords-admissions-activity-7482477821680934912-RK4f",
+        "title": "Wow, this is such a wild story! Super cool and thanks for sharing",
+        "img": null,
+        "id": "7482477821680934912"
+      },
+      {
+        "interaction": "Prisha Agarwal replied to a comment 2mo",
+        "link": null,
+        "title": "Amber Yu \ud83e\udd79\ud83e\udd79",
+        "img": null,
+        "id": null
+      },
+      {
+        "interaction": "Prisha Agarwal commented on a post 2mo",
+        "link": "https://www.linkedin.com/posts/dheerajtallapragada_bhargava-sai-rishith-perumalla-and-i-founded-activity-7461195031068983297-wfh7",
+        "title": "So cool!",
+        "img": null,
+        "id": "7461195031068983297"
+      },
+      {
+        "interaction": "Prisha Agarwal liked this",
+        "link": "https://www.linkedin.com/posts/kirti-subramanian_been-working-on-something-with-my-dad-the-activity-7492093151495499776-ed0H",
+        "title": "Been working on something with my dad the past few months that I really wish existed two years ago. Built from something painfully real: my own college process, and now my sister's too. Two years ago I was in the thick of college applications, and even with an expensive counselor, figuring out my actual chances anywhere felt like guesswork. My dad ended up spending days manually researching schools with me comparing programs, requirements, all of it. It's not until you're actually in the Common App selecting majors that you realize there are literally hundreds of them. We picked based on gut feel and interest because there was no way to know more than that. I got lucky and I got into USC, into the major I dreamed of, but \"hope\" isn't a strategy, and it definitely shouldn't have to be. If we'd had something that could tell us my odds per major at each school, not just a generic acceptance rate, and help build a real application strategy around that, we could've saved hours of research and thousands of dollars on counselors. That's why this matters to me. Applications just opened. If you know a student staring down this process right now, this could save them the exact stress I went through. \ud83d\udc49 stratiaadmissions.com",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQHTNR1crNbv8w/feedshare-image-high-res/B56Z_gTPvpH0AU-/0/1786174569706?e=2147483647&v=beta&t=2Mxl1KAlEnt3jfHAGUR5ZY28jh4_MvO6xzXtNZOjSZI",
+        "id": "7492093151495499776"
+      },
+      {
+        "interaction": "Prisha Agarwal liked this",
+        "link": "https://www.linkedin.com/posts/samaramehta_yesterday-i-wrapped-up-my-last-day-at-palo-activity-7491923164340318209-860_",
+        "title": "Yesterday I wrapped up my last day at Palo Alto Networks, where I spent the past 12 weeks working as a Product Marketing intern for the Cortex XSIAM team. I\u2019m so grateful to have contributed to a platform that\u2019s redefining security operations in the era of frontier AI. From C-suite speaker sessions to intern off-sites, it was such a privilege to learn from leaders at the forefront of cybersecurity innovation while surrounded by an incredible intern class. I want to extend a huge thank you to the Cortex XSIAM team for bringing me on and showing me what it means to lead with integrity and curiosity in a marketing landscape that is rapidly changing. Whether it was trusting me with ownership over a variety of projects, including product videos, website redesigns, or presenting in a sales enablement session, this summer would not have been the same without your investment into my growth. A special thanks to my manager Kasey Cross and mentor Gregory Smith for your patience with every question I asked, and for reminding me that my voice matters most when I use it early. It\u2019s a lesson that\u2019s served me well, especially in cybersecurity, where the pace of change rewards those who move at the speed of the threat, not the speed of certainty. As the summer comes to a close, I\u2019m excited to share that I\u2019ll be returning to the Cortex XSIAM PMM team remotely this fall. Looking forward to what\u2019s next\ud83c\udf1f",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQFzurjKIGSNUQ/feedshare-image-high-res/B56Z_ioah0KEAc-/0/1786213673448?e=2147483647&v=beta&t=W1Dr4NzOljiNsaGM08B26GTmzJ07IXeu75gnwSJlawU",
+        "id": "7491923164340318209"
+      },
+      {
+        "interaction": "Prisha Agarwal liked this",
+        "link": "https://www.linkedin.com/posts/snorkel-ai_new-research-from-staff-research-scientist-activity-7490438616914042880-brFZ",
+        "title": "New research from Staff Research Scientist Ramya Ramakrishnan and the Snorkel team\ud83d\udc47 We walk through how Snorkel builds enterprise environments for insurance, finance, legal, manufacturing, and sales, and what it took to get a Qwen3-30B model to improve up to 14 points on \u03c4\u00b3-bench airline after training on one of our environments. https://lnkd.in/eEgsTksn",
+        "img": "https://media.licdn.com/dms/image/v2/D4D22AQEmyRvUMHpDiQ/feedshare-shrink_800/B4DZ_NglRDJMAg-/0/1785859298844?e=2147483647&v=beta&t=E40E87BmxwbcNmmllKuHIsMUAkjwMXzRBAiceruK7ys",
+        "id": "7490438616914042880"
+      },
+      {
+        "interaction": "Prisha Agarwal liked this",
+        "link": "https://www.linkedin.com/posts/snorkel-ai_thank-you-to-everyone-who-joined-vincent-activity-7490122742780829696-6iWI",
+        "title": "Thank you to everyone who joined Vincent Sunn Chen 's featured talk, \"The Art & Science of Benchmarking Agents,\" and visited our booth at the Agentic AI Summit 2026. Benchmarks have never mattered more, and the bar for trustworthy, lasting benchmarks is rising. Watch Vincent's talk starting at 46:53 https://lnkd.in/erytqwid H/t Dawn Song and Berkeley RDI for a great summit!",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQFI4YtfnkrPFQ/feedshare-shrink_800/B4EZ_JC8a5KcAc-/0/1785784420530?e=2147483647&v=beta&t=c1f0uYO4_u0288259UOfrx_1_cR0KUus0GqfSloyFLY",
+        "id": "7490122742780829696"
+      },
+      {
+        "interaction": "Prisha Agarwal liked this",
+        "link": "https://www.linkedin.com/posts/nikhil-kotta-a6ba543b0_this-past-week-i-had-the-privilege-of-attending-activity-7490100490400096256-AgPZ",
+        "title": "This past week, I had the privilege of attending the Capital One Tech Summit alongside 100 other ambitious college students. I\u2019m especially grateful for the opportunity to learn about internship projects in detail and hear from the many Capital One employees who shared their perspectives on the company\u2019s engineering culture. Finally, a huge thank you to Terris Johnson and Justin D. for the invitation, as well as Deshae Coleman , Lori Smith , and the many other Capital One team members who worked to create such a carefully curated experience.",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQHoqUBEdXIXRA/feedshare-image-high-res/B56Z_IutRhKwAY-/0/1785779115359?e=2147483647&v=beta&t=n4CMT_1clNHJy4wVcc2qouTDs6wdGvpVTIS6zf7HIm0",
+        "id": "7490100490400096256"
+      },
+      {
+        "interaction": "Prisha Agarwal liked this",
+        "link": "https://www.linkedin.com/posts/selma-bahrani-9aa7102a2_turns-out-writing-a-graduation-speech-is-activity-7489845959191851008-Xj4r",
+        "title": "Turns out writing a graduation speech is the easy part. But writing one that's actually memorable, and doesn't sound like it was written by ChatGPT at 2am (those who saw me writing the last paragraph with a pen and paper from the pocket of my dress the day of grad can attest that it wasn't), is significantly harder. Earlier this summer, I had the honor of delivering the graduation speech for Dougherty Valley High School's Class of 2026. I thought harder than I expected to about what's actually worth saying to a room full of people about to scatter in a hundred different directions. The main message I decided on was this: we carry immensely more influence on the world around us than we think, and we shape our reality by the perspectives we choose to hold on to and let go of. Everything I said that day, I owe to the people who taught, encouraged, and enabled me to say it. Thank you to my teachers, mentors, coaches, family, and friends who supported me long before there was a podium involved. Finally thank you to my classmates, who made the last four years worth writing about in the first place. Excited to see what happens next!",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQH7HcvS3QlecA/feedshare-shrink_800/B56Z_FHNezK0Ac-/0/1785718430019?e=2147483647&v=beta&t=Pe8AFQOx1hvyzofBJs68uTKAULIU7VC1QQ92IoYH6xE",
+        "id": "7489845959191851008"
+      },
+      {
+        "interaction": "Prisha Agarwal liked this",
+        "link": "https://www.linkedin.com/posts/alexander-ratner-038ba239_we-are-once-again-witnessing-a-new-version-activity-7489779474767470593-tm2l",
+        "title": "We are once again witnessing a new version of Moravec's paradox, where what we think of as hard vs. easy for humans turns out to be a poor guide for what's hard vs. easy for machines. This is not to express pessimism about the latest Math/Coding breakthroughs (mind blowing!!), *or* about the path ahead for less verifiable + data rich domains (this is what we work on Snorkel AI every day). More just to note that the consensus extrapolations of relative progress in adjacent fields are likely pretty off... More exciting work yet to do ahead \ud83d\ude80",
+        "img": null,
+        "id": "7489779474767470593"
+      },
+      {
+        "interaction": "Prisha Agarwal liked this",
+        "link": "https://www.linkedin.com/posts/snorkel-ai_claude-opus-5-performance-and-error-analysis-activity-7487605682582560769-Z8gr",
+        "title": "We traced 195 of Claude Opus 5's trajectories on Terminal-Bench+, our own senior-level coding tasks, comparing it against GPT-5.6 and predecessor Opus 4.8. Analysis: https://lnkd.in/e4DHnQ-n",
+        "img": "https://media.licdn.com/dms/image/sync/v2/D4E27AQEoYOBdeq3Xyg/articleshare-shrink_1280_800/B4EZ.lQzGYJQAg-/0/1785184074106?e=2147483647&v=beta&t=djWF0Hkh2QSv54jP-xKQ5LG1Rm3M6MzodOIcf1VKRQI",
+        "id": "5"
+      },
+      {
+        "interaction": "Prisha Agarwal liked this",
+        "link": "https://www.linkedin.com/posts/williams-lauren_yesterday-we-celebrated-harveys-4-year-anniversary-activity-7486483818984517633-YKrT",
+        "title": "Yesterday we celebrated Harvey 's 4 year anniversary! \ud83d\ude80 My day was filled with making new memories alongside our summer interns, cool new swag, puppies to cuddle, and some fun taste testing. Such a great day to be at Harvey, but even more excited for the days ahead! As always, if you're an early career student or new grad who wants to be closer to AI and the future of the legal profession, we're hiring: \u2b07\ufe0f \ud83c\udf1f Law School Student Ambassador, Remote: https://lnkd.in/gCvX25fy \ud83d\ude80 Don't see a role? Join our university talent community: https://lnkd.in/gPjWAkCY",
+        "img": "https://dms.licdn.com/playlist/vid/v2/D5605AQG8HDPRnmodzw/thumbnail-shrink_720_1280/B56Z.VVVDCKMAk-/0/1784916825509?e=2147483647&v=beta&t=LNbqxu7WJbuvaMBhoNVLydvPOWQbTRHuPXJekK5xzHA",
+        "id": "4"
+      }
+    ],
+    "linkedin_num_id": "1133463475",
+    "banner_image": "https://media.licdn.com/dms/image/v2/D5616AQFR0ipQnILuuA/profile-displaybackgroundimage-shrink_200_800/B56ZapS0CNHgAU-/0/1746597004260?e=2147483647&v=beta&t=K-yZyvexNb0d3kqECi_69ONxq7RLGFUrl-KRvz5GdYg",
+    "honors_and_awards": [
+      {
+        "title": "National Merit Scholarship Finalist",
+        "publication": "Issued by National Merit Scholarship Corporation (NMSC)",
+        "date": "2025-01-01T00:00:00.000Z",
+        "description": null
+      },
+      {
+        "title": "President\u2019s Volunteer Service Gold Award",
+        "publication": "-",
+        "date": "2024-01-01T00:00:00.000Z",
+        "description": "Awarded for 250+ hours of community service"
+      }
+    ],
+    "similar_profiles": [],
+    "default_avatar": false,
+    "memorialized_account": false,
+    "bio_links": [
+      {
+        "title": "Personal Website",
+        "link": "https://prisha-agarwal.github.io/"
+      }
+    ],
+    "first_name": "Prisha",
+    "last_name": "Agarwal",
+    "influencer": false,
+    "timestamp": "2026-08-12T19:13:44.364Z",
+    "input": {
+      "url": "https://www.linkedin.com/in/prishaa24"
+    }
+  },
+  "local_photo": "data\\linkedin_photos\\prishaa24__usr-Ds7qOqsrCaCDRKu.jpg"
+}

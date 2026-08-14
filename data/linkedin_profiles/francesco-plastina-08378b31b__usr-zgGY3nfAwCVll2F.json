@@ -1,0 +1,269 @@
+{
+  "luma_user_id": "usr-zgGY3nfAwCVll2F",
+  "csv_name": "Francesco Plastina",
+  "csv_linkedin": "https://www.linkedin.com/in/francesco-plastina-08378b31b",
+  "enriched_at": "2026-08-12T19:06:01.815374+00:00",
+  "batch_id": "sd_msqgh02428smzgu5m",
+  "profile": {
+    "id": "francesco-plastina-08378b31b",
+    "name": "Francesco Plastina",
+    "city": "Cambridge, Massachusetts, United States",
+    "country_code": "US",
+    "position": null,
+    "about": "I'm studying Physics, Mathematics, and Computational Neuroscience. I have a strong\u2026",
+    "current_company": {
+      "link": "https://www.linkedin.com/school/california-institute-of-technology/?trk=public_profile_topcard-current-company",
+      "name": "Caltech",
+      "location": null
+    },
+    "experience": null,
+    "url": "https://lb.linkedin.com/in/francesco-plastina-08378b31b",
+    "educations_details": "Harvard University",
+    "education": [
+      {
+        "title": "Harvard University",
+        "url": "https://www.linkedin.com/school/harvard-university/",
+        "start_year": "2024-09",
+        "end_year": "2028-05",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      },
+      {
+        "start_year": "2025-09",
+        "end_year": "2025-12",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      },
+      {
+        "start_year": "2024-02",
+        "end_year": "2024-03",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      },
+      {
+        "start_year": "2022-07",
+        "end_year": "2022-07",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      },
+      {
+        "start_year": "2019-09",
+        "end_year": "2024-06",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      }
+    ],
+    "avatar": "https://media.licdn.com/dms/image/v2/D4D03AQHeyDXdaVjUFg/profile-displayphoto-scale_200_200/B4DZn_EGHpHwAY-/0/1760920888252?e=2147483647&v=beta&t=oDSjXq_cHgpr2jyj94kXgsaCgj97hdmbvG7nJgdSotU",
+    "courses": [
+      {
+        "subtitle": "PHYSICS 251A",
+        "title": "Advanced Quantum Mechanics (Graduate)"
+      },
+      {
+        "subtitle": "CS 1200",
+        "title": "Algorithms and their Limitations"
+      },
+      {
+        "subtitle": "NEUROBIO 240",
+        "title": "Biological and Artificial Intelligence (Graduate)"
+      },
+      {
+        "subtitle": "9.660",
+        "title": "Computational Cognitive Science (Graduate)"
+      },
+      {
+        "subtitle": "PHYSICS 153",
+        "title": "Electrodynamics"
+      },
+      {
+        "subtitle": "PHYSICS 16",
+        "title": "Honors Mechanics and Special Relativity"
+      },
+      {
+        "subtitle": "NEURO 120",
+        "title": "Intro to Computational Neuroscience"
+      },
+      {
+        "subtitle": "NEURO 80",
+        "title": "Neurobiology of Behavior"
+      },
+      {
+        "subtitle": "STAT 110",
+        "title": "Probability"
+      },
+      {
+        "subtitle": "MATH 112",
+        "title": "Real Analysis"
+      },
+      {
+        "subtitle": "PHYSICS 181",
+        "title": "Statistical Mechanics and Thermodynamics"
+      },
+      {
+        "subtitle": "PHYSICS 90R",
+        "title": "Supervised Research (Synaptic Transmission and Plasticity)"
+      },
+      {
+        "subtitle": "MATH 22A/B",
+        "title": "Vector Calculus and Linear Algebra I and II"
+      }
+    ],
+    "languages": [
+      {
+        "subtitle": "Native or bilingual proficiency",
+        "title": "Italian"
+      },
+      {
+        "subtitle": "Full professional proficiency",
+        "title": "English"
+      },
+      {
+        "subtitle": "Limited working proficiency",
+        "title": "Spanish"
+      }
+    ],
+    "followers": 1496,
+    "connections": 500,
+    "current_company_name": "Caltech",
+    "publications": [
+      {
+        "title": "Comparative Analysis of Segmentation Models on the Human Visual Diet Dataset",
+        "subtitle": "The Harvard Undergraduate Research Journal (THURJ)"
+      }
+    ],
+    "location": "Cambridge",
+    "input_url": "https://www.linkedin.com/in/francesco-plastina-08378b31b",
+    "linkedin_id": "francesco-plastina-08378b31b",
+    "activity": [
+      {
+        "interaction": null,
+        "link": "https://www.linkedin.com/posts/aadityasubedi_today-ebrahim-hussain-and-i-are-excited-activity-7473420760439484416-GHV5",
+        "title": "Today, Ebrahim Hussain and I are excited to introduce Architect Labs . We are building the AI system to design and provably verify chips for the world's most demanding workloads. AI scaling is fundamentally changing the economics of hardware infrastructure. As models scale, become more capable, and more widely deployed, the bottleneck is shifting from software and models alone to the physical infrastructure that runs it: specialized compute, memory, networking, interconnects, and full-stack system design. General-purpose hardware is no longer enough, and the world is racing to spin up new chip programs. This is not just true across datacenter training and inference, but everywhere AI enters the physical world: robotics, autonomous systems, spatial computing, defense, personal devices, industrial automation, and scientific instruments. But designing a chip today remains one of the most gated efforts in modern technology. A modern chip program takes years, costs hundreds of millions of dollars, and depends on a shrinking pool of expertise concentrated inside a small number of companies. Architect Labs is a foundational lab building an AI system that designs and provably verifies chips end-to-end. We partner with companies, AI labs, and nations to turn demanding workloads into purpose-built chips, on demand at scale. We aim to drastically accelerate chip design, so that the models, software and hardware can co-evolve together, accelerating the industry\u2019s path to superintelligence. Two decades ago, the fabless revolution led by TSMC made it made world-class manufacturing available to anyone with a design. We aim to do the same for chip design itself: enable any organization with a workload, or specification, to get a purpose-built chip design that unlocks scale and distribution of intelligence impossible with current hardware paradigms. Our founding team collectively has taped out 80+ production chips, led $10B datacenter product lines, been core contributors to Meta\u2019s AI silicon, architected and designed one of the first neuromorphic chips out of Intel AI Labs, led research teams at Anthropic, xAI, and Google DeepMind, and contributed to fundamental AI research across nearly every frontier lab. We have already partnered with semiconductor companies to accelerate their chip programs, and some of our AI-generated chip designs are going to tape out on leading-edge foundry nodes later this year. We\u2019ve also raised a $24M seed round led by Steve Jang from Kindred Ventures , with participation from TQ Ventures , Race Capital , Together , Ora Global and Link Ventures . We are grateful for the support of our angels and advisors, including Srinivas Narayanan , Lukasz Kaiser , Aravind Srinivas , Kunle Olukotun , Trevor Blackwell , Alex Wissner-Gross , Siddhartha Nath , Thierry Tambe , Arash Ferdowsi , Shaad Khan , Chris Hubbell , Selene C. , Tapa Ghosh , and engineering leaders from OpenAI, NVIDIA, Google DeepMind, Intel and more. ...more ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQH4NHX8zV7_eA/feedshare-shrink_800/B56Z7bslBWHYAc-/0/1781802357882?e=2147483647&v=beta&t=2TOkf05lpn_x5FCbFKgmE8oEykolVFvwgmjoejywbT0",
+        "id": "7473420760439484416"
+      },
+      {
+        "interaction": "Francesco Plastina shared this",
+        "link": "https://www.linkedin.com/posts/francesco-plastina-08378b31b_looking-forward-to-coming-to-sf-for-y-combinator-activity-7464010507373531136-AtNX",
+        "title": "Looking forward to coming to SF for Y Combinator Startup School on July 25-26th! If you will be there for YC school or you are doing cool science in SF around these dates, please reach out or shoot me a dm! ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D4D22AQGrO6yEhmhFYA/feedshare-shrink_800/B4DZ5V.ARdJ8Ac-/0/1779558778406?e=2147483647&v=beta&t=7VBTbwcSaBemI1IUV_KDJ1x5U1P4Dv-1BIqElSiUTG0",
+        "id": "7464010507373531136"
+      },
+      {
+        "interaction": "Francesco Plastina shared this",
+        "link": "https://www.linkedin.com/posts/francesco-plastina-08378b31b_happy-to-have-been-selected-by-nova-as-one-activity-7461028064278454272-9_-J",
+        "title": "Happy to have been selected by Nova as one of Top 10 Italian students in Math, Data Analytics and Physics! Congratulations to everyone else in the list! ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQGfJd3uoM3V4A/feedshare-shrink_800/B4EZ4rlfJUJgAc-/0/1778847708118?e=2147483647&v=beta&t=BGxlmQZVUyOeiqSfSe7uxK7ZkUHDmou5657eRZ5044I",
+        "id": "7461028064278454272"
+      },
+      {
+        "interaction": "Francesco Plastina commented on a post 19h",
+        "link": "https://www.linkedin.com/posts/jonathan-waldorf_large-companies-are-extremely-complex-systems-activity-7493044483647934465-3Bp2",
+        "title": "Great launch!! \ud83d\ude80",
+        "img": null,
+        "id": "7493044483647934465"
+      },
+      {
+        "interaction": "Francesco Plastina commented on a post 6d",
+        "link": "https://www.linkedin.com/posts/procopioandrea_bainsa-is-launching-at-sapienza-university-activity-7491162312276406272-sZ7P",
+        "title": "Wow grandi!!",
+        "img": null,
+        "id": "7491162312276406272"
+      },
+      {
+        "interaction": "Francesco Plastina reacted on this",
+        "link": "https://www.linkedin.com/posts/cerenovus-ai_large-companies-are-extremely-complex-systems-activity-7493042703891615744-jJqA",
+        "title": "Large companies are extremely complex systems. As soon as a company scales past fifty or so employees, it becomes totally impossible for an executive to know every single thing that happens at a company. This means that, since everyone at a company only understands a small slice of what's going on, it's essentially inevitable that inefficiencies arise on a global level that aren't visible at smaller scales. Before Cerenovus, this was a very difficult problem to tackle, because there was just too much information for any one person to have the whole picture. Cerenovus changes this. Here's how Cerenovus works: First, Cerenovus ingests the company's information. This looks differently for every company based on their priorities and existing systems, but typically this means hooking into documents, communications and databases that the company wants to analyze, and bringing all the information together in one place. Next, Cerenovus runs an AI-powered synthesis pipeline to organize the information and map out all existing systems and workflows. Once the system has mapped out how things work at a company, it scans for a wide variety of common failure modes, and does open-ended analysis to find places where processes can be streamlined. Finally, its findings are compiled into polished, cited briefs, reviewed and validated by humans, and then shipped back to our clients. https://lnkd.in/eb6kgqfU Book a demo today! https://cerenovus.ai",
+        "img": "https://media.licdn.com/dms/image/v2/D4E05AQHp_9hPW05rGQ/videocover-high/B4EZ_yijV1JgBM-/0/1786480578767?e=2147483647&v=beta&t=EB1QmGquxHM09lit2jPB5jew4gUjlst2a-MduuV-8HA",
+        "id": "7493042703891615744"
+      },
+      {
+        "interaction": "Francesco Plastina reacted on this",
+        "link": "https://www.linkedin.com/posts/jonathan-waldorf_large-companies-are-extremely-complex-systems-activity-7493044483647934465-3Bp2",
+        "title": "Large companies are extremely complex systems. As soon as a company scales past fifty or so employees, it becomes totally impossible for an executive to know every single thing that happens at a company. This means that, since everyone at a company only understands a small slice of what's going on, it's essentially inevitable that inefficiencies arise on a global level that aren't visible at smaller scales. Before Cerenovus, this was a very difficult problem to tackle, because there was just too much information for any one person to have the whole picture. Cerenovus changes this. Here's how Cerenovus works: First, Cerenovus ingests the company's information. This looks differently for every company based on their priorities and existing systems, but typically this means hooking into documents, communications and databases that the company wants to analyze, and bringing all the information together in one place. Next, Cerenovus runs an AI-powered synthesis pipeline to organize the information and map out all existing systems and workflows. Once the system has mapped out how things work at a company, it scans for a wide variety of common failure modes, and does open-ended analysis to find places where processes can be streamlined. Finally, its findings are compiled into polished, cited briefs, reviewed and validated by humans, and then shipped back to our clients. Book a demo today! https://cerenovus.ai",
+        "img": "https://media.licdn.com/dms/image/v2/D4E05AQHdlOISkrHG3A/videocover-high/B4EZ_ykKfhJgBM-/0/1786481001956?e=2147483647&v=beta&t=TWEnMIi98ZY-RsYltfE__ag5C9h2yeZ3WPVI4S0ZLxA",
+        "id": "7493044483647934465"
+      },
+      {
+        "interaction": "Francesco Plastina liked this",
+        "link": "https://www.linkedin.com/posts/eddy-kang_for-the-past-couple-months-ive-been-working-activity-7492969993018429440-_Ls4",
+        "title": "For the past couple months, I've been working on machine learning-guided approaches for antibiotic screening in the van Opijnen lab at Boston Children's Hospital. I've been building generative models for bacterial single-cell data, as well as using machine learning to predict bacterial phenotype from transcriptional data. I recently had the opportunity to present my work, and I'm incredibly grateful to my mentor Yanying Yu and PI Tim van Opijnen for their constant guidance. One of the most important skills I learned was to balance model performance with biologically relevant evaluation/validation. In other words, not only building well-performing models, but those that can allow us to discover new biology. As I move forward in my research career, I hope to take this skill with me and apply it to future problems I tackle.",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQEgS8n9CmoANg/feedshare-shrink_800/B4EZ_Zy1FKKUAc-/0/1786065410261?e=2147483647&v=beta&t=ibUQHstiXwFms8c4xxy6-XxX2htX5cfLH8r4PHLKh4M",
+        "id": "7492969993018429440"
+      },
+      {
+        "interaction": "Francesco Plastina liked this",
+        "link": "https://www.linkedin.com/posts/andreygizdov_officially-an-alien-of-extraordinary-ability-activity-7492427572253782017-nVJ8",
+        "title": "Officially an alien of extraordinary ability (got my o1 visa)! Happy to share that a while back my o1 status as an alien of extraordinary ability was approved, at first try, with zero issues. Few people know the stress and hard work one goes through to make it here. Meticulous planning, strategy, and taking nothing for granted. But it's all worth it. Grateful to life, and the people who support me throughout this journey. Thank you to our clients and partners at OpenVector (YC S26) and Y Combinator for bringing meaning to why we're here. Onwards and upwards!",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQH5yqlN9hvuTA/feedshare-image-high-res/B56Z_pzLNiGgAU-/0/1786333935115?e=2147483647&v=beta&t=G5ZA8jdGB8JhxlMFp8eumRlXs978dcEZD0FH2De3UUs",
+        "id": "7492427572253782017"
+      },
+      {
+        "interaction": "Francesco Plastina reacted on this",
+        "link": "https://www.linkedin.com/posts/procopioandrea_bainsa-sapienza-activity-7491162312276406272-MhO9",
+        "title": "BAINSA is launching at Sapienza University! This is a key step towards democratizing undergraduate AI research in Italy and beyond. If you are an established AI researcher interested in supervising student projects aimed at publication, let's have a chat. If you are a student with the drive to do real research, but your university offers few chances to do supervised work aimed at publication, let's also have a chat. And if you study at Sapienza, you should definitely join us.",
+        "img": null,
+        "id": "7491162312276406272"
+      },
+      {
+        "interaction": "Francesco Plastina liked this",
+        "link": "https://www.linkedin.com/posts/danielaandrade1_harvards-new-grade-inflation-policy-proves-activity-7486085198586052610-quHT",
+        "title": "Harvard\u2019s new grade inflation policy proves one thing. Not all Harvard A\u2019s are graded equally. In May, Harvard faculty voted to approve a cap on A\u2019s. Too many students were receiving top grades, which made an A feel less meaningful. One Harvard report found that about two-thirds of all letter grades were straight A\u2019s, and nearly 85% were in the A range. But this new policy also raises the long-debated question of STEM versus the humanities. Harvard\u2019s own 2023 grading report showed a clear divide: 73% of grades in Arts and Humanities were in the A range, compared with 60% in Engineering and Applied Sciences. I graduated with a joint degree in neuroscience and philosophy, so I experienced both sides of this debate. In my neuroscience classes, almost everyone was pre-med, stressed, competitive, and seemed like they were fighting for their life. You were graded on mandatory lectures, sections, lab attendance, weekly problem sets, lab assignments, and exams \u2013 and if you were wrong, you were just wrong. There was no well-reasoned argument saving you on a chemistry exam. But in philosophy? I loved the content of my coursework, but the grading was much more subjective. Most of the time, advanced philosophy classes had optional lectures, one seminar a week, and only a few papers each semester. Whether you got an A depended heavily on your TF, your writing style, and how your argument landed. So when people talk about grade inflation at Harvard, I understand why the debate can get heated. Because STEM already felt intense and unforgiving. But in some humanities classes, I remember looking around and thinking\u2026 there is absolutely no way all of us are doing A-level work. So my honest take is this: Harvard\u2019s new grade inflation policy is not going to make every major harder. It is going to make things harder in the majors where A\u2019s were being handed out too casually in the first place. What are your thoughts on Harvard\u2019s grade inflation policy?",
+        "img": "https://media.licdn.com/dms/image/v2/D4E05AQHB_MUOhGnKfA/videocover-high/B4EZ.PqweRJMBM-/0/1784821782534?e=2147483647&v=beta&t=SBaf2S_AHV6NZBITjDP1soYbc8iXY8jd9J47Je49-UY",
+        "id": "7486085198586052610"
+      },
+      {
+        "interaction": "Francesco Plastina liked this",
+        "link": "https://www.linkedin.com/posts/jonathan-waldorf_i-didnt-know-y-combinator-had-a-low-acceptance-activity-7488909087473041408-fvPx",
+        "title": "I didn't know Y Combinator had a low acceptance rate until after I got in. That tells you how last-minute this whole thing was. A friend of mine spoke at a YC event at Harvard. A year earlier she'd told me, half-scared, about this new thing called ChatGPT and what it might do to jobs like ours. Now she was on stage. She and her co-founder had turned down offers from Apple, gone through YC, and were doing great. She looked like a completely different person. More energy, more ambition, visibly happier. You could tell just talking to her. That night I got my two co-founders into a library basement and threw an application together instead of studying for finals. A few weeks later, we were flying to San Francisco for the interview. We spent the week meeting VCs, potential customers, and anyone willing to talk to us. At one point, I had three different people trying to call me at the same time. I'd never experienced anything like it. For the first time, I found something that gave me energy in the morning instead of leaving me exhausted by the end of the day. Crazy how fast life can change.",
+        "img": "https://media.licdn.com/dms/image/v2/D5610AQEdXdUoIMIQrQ/image-shrink_800/B56Z.3zHJbJgAg-/0/1785495057981?e=2147483647&v=beta&t=Rr49cGW8_avOV1G-yMTJTGH9D9k0BDg3w4TdaBAIl0A",
+        "id": "7488909087473041408"
+      }
+    ],
+    "linkedin_num_id": "1360549539",
+    "banner_image": "https://media.licdn.com/dms/image/v2/D4E16AQGeu47Ehqe8Wg/profile-displaybackgroundimage-shrink_200_800/B4EZ1qPRFvI0AU-/0/1775603882281?e=2147483647&v=beta&t=zvAbZWQkv5Q9IlAPa8sgT2dgqGPliiuRAk3z3RlIOa4",
+    "honors_and_awards": [
+      {
+        "title": "The Nova 111 List Italy 2026",
+        "publication": "Nova Talent",
+        "date": "2026-05-01T00:00:00.000Z",
+        "description": "Top 10 Italian students under 25 in Mathematics, Data Analytics and Physics"
+      },
+      {
+        "title": "Harvard College Full Scholarship",
+        "publication": "Harvard College",
+        "date": "2024-08-01T00:00:00.000Z",
+        "description": null
+      },
+      {
+        "title": "Albo Nazionale delle Eccellenze",
+        "publication": "Ministero dell'Istruzione e del Merito",
+        "date": "2023-05-01T00:00:00.000Z",
+        "description": "As one of the winners of the Italian Neuroscience Olympiad, I was included in the national honors roll."
+      },
+      {
+        "title": "Premio Nazionale Virginio Schiaparelli",
+        "publication": "Societ\u00e0 Astronomica Italiana",
+        "date": "2023-04-01T00:00:00.000Z",
+        "description": "Award given to the best three research articles in the country about an astronomy topic. Received the second award in 2022 with the article \"The evolution of astronomy through the technological development of observational instruments\" and in 2023 with the article \"Wandering asteroids and how to deflect them\""
+      }
+    ],
+    "similar_profiles": [],
+    "default_avatar": false,
+    "memorialized_account": false,
+    "bio_links": [],
+    "first_name": "Francesco",
+    "last_name": "Plastina",
+    "influencer": false,
+    "timestamp": "2026-08-12T19:01:58.652Z",
+    "input": {
+      "url": "https://www.linkedin.com/in/francesco-plastina-08378b31b"
+    }
+  },
+  "local_photo": "data\\linkedin_photos\\francesco-plastina-08378b31b__usr-zgGY3nfAwCVll2F.jpg"
+}

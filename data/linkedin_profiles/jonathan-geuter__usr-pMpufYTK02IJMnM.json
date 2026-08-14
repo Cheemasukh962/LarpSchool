@@ -1,0 +1,435 @@
+{
+  "luma_user_id": "usr-pMpufYTK02IJMnM",
+  "csv_name": "Jonathan Geuter",
+  "csv_linkedin": "https://www.linkedin.com/in/jonathan-geuter",
+  "enriched_at": "2026-08-12T19:07:22.298738+00:00",
+  "batch_id": "sd_msqgmjx4y9b9cgg4i",
+  "profile": {
+    "id": "jonathan-geuter",
+    "name": "Jonathan Geuter",
+    "city": "United States",
+    "country_code": "US",
+    "position": null,
+    "about": "PhD student in Applied Mathematics at Harvard. I'm passionate about machine learning\u2026",
+    "current_company": {
+      "link": "https://ae.linkedin.com/school/mbzuai/?trk=public_profile_topcard-current-company",
+      "name": "MBZUAI (Mohamed bin Zayed University of Artificial Intelligence)",
+      "location": null
+    },
+    "experience": null,
+    "url": "https://id.linkedin.com/in/jonathan-geuter",
+    "people_also_viewed": [
+      {
+        "profile_link": "https://de.linkedin.com/in/florian-greindl-0a4850182",
+        "name": "Florian Greindl",
+        "about": "Universit\u00e4t Regensburg",
+        "location": "371 followers Regensburg"
+      },
+      {
+        "profile_link": "https://de.linkedin.com/in/denizcanoezer",
+        "name": "Deniz Can \u00d6zer",
+        "about": "RoboTUM",
+        "location": "731 followers Greater Munich Metropolitan Area"
+      },
+      {
+        "profile_link": "https://de.linkedin.com/in/serap-oguzoglu-7949b4106",
+        "name": "Serap Oguzoglu",
+        "about": "Weidm\u00fcller Germany",
+        "location": "175 followers Detmold"
+      },
+      {
+        "profile_link": "https://de.linkedin.com/in/niklasoesterle",
+        "name": "Niklas Oesterle",
+        "about": "Karlsruhe University of Applied Sciences",
+        "location": "291 followers Karlsruhe"
+      },
+      {
+        "profile_link": "https://de.linkedin.com/in/arsaputra",
+        "name": "Dimas Fakhri Arsaputra",
+        "about": "EY-Parthenon",
+        "location": "1K followers Germany"
+      },
+      {
+        "profile_link": "https://de.linkedin.com/in/bryony-cecil",
+        "name": "Bryony K.",
+        "about": "University of Sussex",
+        "location": "3K followers Germany"
+      },
+      {
+        "profile_link": "https://de.linkedin.com/in/amir-samaie",
+        "name": "Amirhossein Samaie",
+        "about": "Rheinland Privatschule",
+        "location": "390 followers Wuppertal"
+      },
+      {
+        "profile_link": "https://ch.linkedin.com/in/alexandre-puttick-054488179",
+        "name": "Alexandre Puttick",
+        "about": "Berner Fachhochschule BFH",
+        "location": "250 followers Biel"
+      },
+      {
+        "profile_link": "https://de.linkedin.com/in/claramunte",
+        "name": "Clara Munte",
+        "about": "Technische Universit\u00e4t Braunschweig",
+        "location": "321 followers Brunswick"
+      },
+      {
+        "profile_link": "https://de.linkedin.com/in/tobias-h-6216291a4",
+        "name": "Tobias H.",
+        "about": "Bayerische Landesbank",
+        "location": "246 followers Munich"
+      },
+      {
+        "profile_link": "https://de.linkedin.com/in/hannes-schifferegger-63a0b0139",
+        "name": "Hannes Schifferegger",
+        "about": "gridX",
+        "location": "1K followers Munich"
+      },
+      {
+        "profile_link": "https://de.linkedin.com/in/minh-anh-tran-bui-098777201",
+        "name": "Minh Anh Tran Bui",
+        "about": "EY",
+        "location": "501 followers Frankfurt"
+      },
+      {
+        "profile_link": "https://de.linkedin.com/in/yara-elshiaty-8909ab200",
+        "name": "Yara Elshiaty",
+        "about": "Heidelberg University",
+        "location": "100 followers Germany"
+      },
+      {
+        "profile_link": "https://pe.linkedin.com/in/rodrigo-arosemena-n",
+        "name": "Rodrigo Arosemena",
+        "about": "Consorcio F\u00fatbol Per\u00fa",
+        "location": "602 followers Lima, Peru"
+      },
+      {
+        "profile_link": "https://ch.linkedin.com/in/amir-n-5873b5a4",
+        "name": "Amir N.",
+        "about": "Gruner",
+        "location": "182 followers Lucerne"
+      },
+      {
+        "profile_link": "https://de.linkedin.com/in/reynard-saputra",
+        "name": "Reynard Saputra",
+        "about": "FINN",
+        "location": "493 followers Munich"
+      },
+      {
+        "profile_link": "https://de.linkedin.com/in/hichambabahmed",
+        "name": "Hicham Babahmed",
+        "about": "dbt Labs",
+        "location": "3K followers Germany"
+      },
+      {
+        "profile_link": "https://de.linkedin.com/in/yu-hsuan-lin-660686196",
+        "name": "Yu-Hsuan Lin",
+        "about": "Bauhaus Luftfahrt",
+        "location": "325 followers Munich"
+      },
+      {
+        "profile_link": "https://de.linkedin.com/in/aminvp23",
+        "name": "Amin Alimohammadi",
+        "about": "gevas humberg & partner",
+        "location": "819 followers F\u00fcrstenfeldbruck"
+      },
+      {
+        "profile_link": "https://de.linkedin.com/in/roland-weindl-8826b5166",
+        "name": "Roland Weindl",
+        "about": "Westlake Vinnolit",
+        "location": "336 followers Greater Munich Metropolitan Area"
+      }
+    ],
+    "educations_details": "Harvard University",
+    "education": [
+      {
+        "title": "Harvard University",
+        "url": "https://www.linkedin.com/school/harvard-university/",
+        "start_year": "2023-09",
+        "end_year": "2028-05",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      },
+      {
+        "start_year": "2023-09",
+        "end_year": "2025-05",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      },
+      {
+        "start_year": "2020-10",
+        "end_year": "2022-10",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      },
+      {
+        "start_year": "2016-10",
+        "end_year": "2020-10",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      },
+      {
+        "start_year": "2018-08",
+        "end_year": "2019-05",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      }
+    ],
+    "avatar": "https://media.licdn.com/dms/image/v2/D5603AQGXmpGEFzzCjg/profile-displayphoto-scale_200_200/B56ZwrF2N9JYAY-/0/1770249480963?e=2147483647&v=beta&t=CKCM89As4F4Uc-ZPY66FvXJFmw3Q56QvoChK_3h1WBs",
+    "languages": [
+      {
+        "subtitle": "Full professional proficiency",
+        "title": "English"
+      },
+      {
+        "subtitle": "Native or bilingual proficiency",
+        "title": "German"
+      },
+      {
+        "subtitle": "Elementary proficiency",
+        "title": "French"
+      },
+      {
+        "subtitle": "Elementary proficiency",
+        "title": "Italian"
+      },
+      {
+        "subtitle": "Elementary proficiency",
+        "title": "Chinese"
+      },
+      {
+        "subtitle": "Elementary proficiency",
+        "title": "Spanish"
+      }
+    ],
+    "volunteer_experience": [
+      {
+        "cause": "Social Services",
+        "duration": "Jan 2019 \u00b7 - \nMay 2019 \u00b7 5 months",
+        "duration_short": "- \nMay 2019",
+        "info": "Student-run soup kitchen for the homeless",
+        "start_date": "Jan 2019",
+        "subtitle": "University of California, Berkeley",
+        "title": "Community Volunteer"
+      },
+      {
+        "cause": "Education",
+        "duration": "Aug 2012 \u00b7 - \nJun 2014 \u00b7 1 year 11 months",
+        "duration_short": "- \nJun 2014",
+        "info": "Volunteered to run a math club for elementary school students",
+        "start_date": "Aug 2012",
+        "subtitle": "Herder-Oberschule Berlin",
+        "title": "Mathematics Teacher"
+      },
+      {
+        "cause": "Environment",
+        "duration": "Oct 2020 \u00b7 - \nJun 2021 \u00b7 9 months",
+        "duration_short": "- \nJun 2021",
+        "info": "Participated in the FFF group at Technical University Berlin",
+        "start_date": "Oct 2020",
+        "subtitle": "Fridays for Future Deutschland",
+        "title": "Activist"
+      }
+    ],
+    "followers": 1022,
+    "connections": 500,
+    "current_company_name": "MBZUAI (Mohamed bin Zayed University of Artificial Intelligence)",
+    "publications": [
+      {
+        "title": "Universal Neural Optimal Transport",
+        "subtitle": "ICML 2025",
+        "date": "January 7, 2025"
+      },
+      {
+        "title": "Jina Embeddings: A Novel Set of High-Performance Sentence Embedding Models",
+        "subtitle": "arXiv preprint",
+        "date": "July 20, 2023",
+        "description": "We trained sentence embedding models of various sizes with competitive performance"
+      }
+    ],
+    "projects": [
+      {
+        "title": "FrankWolfe.jl",
+        "start_date": "May 2021"
+      },
+      {
+        "title": "A Sinkhorn-NN Hybrid Algorithm for Optimal Transport - Master's Thesis",
+        "start_date": "Apr 2022"
+      },
+      {
+        "title": "Nonlinear Korn Inequalities - Bachelor's Thesis",
+        "start_date": "Mar 2020"
+      }
+    ],
+    "organizations": [
+      {
+        "title": "European Horizons Chapter TU Berlin",
+        "membership_type": "Co-Founder",
+        "start_date": "Jul 2018",
+        "end_date": "Oct 2022",
+        "description": "Co-founded the TU Berlin Chapter of European Horizons, a policy incubator focused on strengthening both inner-European as well as transatlantic affairs. Our vision is to foster an inclusive debate culture at our university, where people can interact and network with one another irrespective of personal background.",
+        "membership_number": null
+      }
+    ],
+    "location": null,
+    "input_url": "https://www.linkedin.com/in/jonathan-geuter",
+    "linkedin_id": "jonathan-geuter",
+    "activity": [
+      {
+        "interaction": "Liked by Jonathan Geuter",
+        "link": "https://www.linkedin.com/posts/egil-rolstad-7845a824a_attention-all-recruiters-dont-forget-to-activity-7493302882721554432-rrUO",
+        "title": "Attention all recruiters: don\u2019t forget to update Paulina Homme Rolstad\u2019s last name in your list of hottest prospects!\ud83d\udd25",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQGNw2naG98_7g/feedshare-image-high-res/B4EZ_z0mYzJgAU-/0/1786502080807?e=2147483647&v=beta&t=Do-rE3lY7TYQetZr5LvQrPoykTW8SCz_OrZO_bU-QDU",
+        "id": "7493302882721554432"
+      },
+      {
+        "interaction": "Liked by Jonathan Geuter",
+        "link": "https://www.linkedin.com/posts/institute-of-foundation-models_a-new-space-for-the-work-ahead-were-excited-activity-7492643458197659649-PxjQ",
+        "title": "A new space for the work ahead. We\u2019re excited to share a look at IFM\u2019s new office in Sunnyvale, a place for our team to collaborate, exchange ideas,\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4E10AQG9sCLTnqR71Q/image-shrink_800/B4EZ_s3hFBJgAg-/0/1786385404544?e=2147483647&v=beta&t=jfcXMd6Za4WdcY8I9JocwuJwrsTJrc34ajCwJ0oQa4Q",
+        "id": "7492643458197659649"
+      },
+      {
+        "interaction": "Liked by Jonathan Geuter",
+        "link": "https://www.linkedin.com/posts/institute-of-foundation-models_open-resources-create-impact-when-others-activity-7490429938760749056-FPFP",
+        "title": "Open resources create impact when others can build on them. IFM created TxT360 to give the open-source community a high-quality, flexible foundation\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4E10AQEtYV4y896XtA/image-shrink_1280/B4EZ_NaUYqIsAc-/0/1785857657328?e=2147483647&v=beta&t=LAJ9c1rmOdy5N-IQ7D-lDt4CuWt5bUBvbd_xMbbSbJg",
+        "id": "7490429938760749056"
+      },
+      {
+        "interaction": "Liked by Jonathan Geuter",
+        "link": "https://www.linkedin.com/posts/jakiw-pidstrigach-b5631925a_on-my-way-to-icml-in-seoul-korea-and-looking-activity-7478764962514046978-9_FY",
+        "title": "On my way to ICML in Seoul, Korea and looking forward to meeting everyone again! Sam Howard and I will be presenting our Spotlight work (with Nikolas\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQHFrkqanXQbvQ/feedshare-shrink_800/B4EZ8npGdEHABM-/0/1783076513851?e=2147483647&v=beta&t=-PtkwpdmsEIBybEv5SmF1-h_YFWGnWdB4zk_HvhMtX4",
+        "id": "7478764962514046978"
+      },
+      {
+        "interaction": "Liked by Jonathan Geuter",
+        "link": "https://www.linkedin.com/posts/emerging-directions-in-probabilistic-modeling-activity-7487495532668657664-rBdB",
+        "title": "\ud835\uddea\ud835\uddfc\ud835\uddff\ud835\uddf8\ud835\ude00\ud835\uddf5\ud835\uddfc\ud835\uddfd \ud835\uddd4\ud835\uddfb\ud835\uddfb\ud835\uddfc\ud835\ude02\ud835\uddfb\ud835\uddf0\ud835\uddf2\ud835\uddfa\ud835\uddf2\ud835\uddfb\ud835\ude01: We're excited to announce the \ud835\uddd8\ud835\uddfa\ud835\uddf2\ud835\uddff\ud835\uddf4\ud835\uddf6\ud835\uddfb\ud835\uddf4 \ud835\uddd7\ud835\uddf6\ud835\uddff\ud835\uddf2\ud835\uddf0\ud835\ude01\ud835\uddf6\ud835\uddfc\ud835\uddfb\ud835\ude00 \ud835\uddf6\ud835\uddfb \ud835\udde3\ud835\uddff\ud835\uddfc\ud835\uddef\ud835\uddee\ud835\uddef\ud835\uddf6\ud835\uddf9\ud835\uddf6\ud835\ude00\ud835\ude01\ud835\uddf6\ud835\uddf0\u2026",
+        "img": "https://static.licdn.com/aero-v1/sc/h/53n89ecoxpr1qrki1do3alazb",
+        "id": "7487495532668657664"
+      },
+      {
+        "interaction": "Liked by Jonathan Geuter",
+        "link": "https://www.linkedin.com/posts/sofia-gilardini_after-a-fantastic-week-at-icml-in-seoul-activity-7485973795724320768-qFlO",
+        "title": "After a fantastic week at ICML in Seoul, the world tour continues\u2026 I will be back in SF this weekend, attending the Y Combinator summer school, and\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQG8fCUKeZzjAw/feedshare-shrink_1280/B4EZ.OFf17HMAM-/0/1784795233902?e=2147483647&v=beta&t=SgeHQ36MlJPZH24DbZa_V-x2Z9TW9LBSUYyRDcZsX8E",
+        "id": "7485973795724320768"
+      },
+      {
+        "interaction": "Liked by Jonathan Geuter",
+        "link": "https://www.linkedin.com/posts/we-are-excited-to-announce-the-%F0%9D%97%AA%F0%9D%97%BC%F0%9D%97%BF%F0%9D%97%B8%F0%9D%98%80-activity-7485322128058253313-t6Me",
+        "title": "We are excited to announce the \ud835\uddea\ud835\uddfc\ud835\uddff\ud835\uddf8\ud835\ude00\ud835\uddf5\ud835\uddfc\ud835\uddfd \ud835\uddfc\ud835\uddfb \ud835\uddd5\ud835\uddff\ud835\uddf6\ud835\uddf1\ud835\uddf4\ud835\uddf6\ud835\uddfb\ud835\uddf4 \ud835\udde2\ud835\uddfd\ud835\ude01\ud835\uddf6\ud835\uddfa\ud835\uddee\ud835\uddf9 \ud835\udde7\ud835\uddff\ud835\uddee\ud835\uddfb\ud835\ude00\ud835\uddfd\ud835\uddfc\ud835\uddff\ud835\ude01, \ud835\udddf\ud835\uddf2\ud835\uddee\ud835\uddff\ud835\uddfb\ud835\uddf6\ud835\uddfb\ud835\uddf4 \ud835\uddee\ud835\uddfb\ud835\uddf1 \ud835\udde6\ud835\ude01\ud835\uddff\ud835\ude02\ud835\uddf0\ud835\ude01\ud835\ude02\ud835\uddff\ud835\uddf2\ud835\uddf1\u2026",
+        "img": "https://static.licdn.com/aero-v1/sc/h/53n89ecoxpr1qrki1do3alazb",
+        "id": "7485322128058253313"
+      },
+      {
+        "interaction": "Liked by Jonathan Geuter",
+        "link": "https://www.linkedin.com/posts/michael-g%C3%BCnther-3519a6133_jina-embeddings-v5-text-task-targeted-embedding-activity-7484868332844752896--_L9",
+        "title": "\ud83d\udcabWe have two accepted papers at #SIGIR on the training techniques behind the jina-v5-text and jina-v5-omni embedding models, which will be presented\u2026",
+        "img": "https://media.licdn.com/dms/image/sync/v2/D4D27AQGMoht8M9e_0A/articleshare-shrink_800/B56Z5mz0IzJkAQ-/0/1779841320607?e=2147483647&v=beta&t=kQJKuc8kTKW3Y6DC7bv7CRG_a5IlO8pWJ6V5Am7TpPw",
+        "id": "7484868332844752896"
+      },
+      {
+        "interaction": "Liked by Jonathan Geuter",
+        "link": "https://www.linkedin.com/posts/costin-andrei-oncescu-0b3b18176_im-happy-to-share-that-for-the-last-few-activity-7484507377027710976-xUxq",
+        "title": "I'm happy to share that for the last few months I've been interning at Cursor, working on their model training team!",
+        "img": "https://static.licdn.com/aero-v1/sc/h/53n89ecoxpr1qrki1do3alazb",
+        "id": "7484507377027710976"
+      },
+      {
+        "interaction": "Liked by Jonathan Geuter",
+        "link": "https://www.linkedin.com/posts/valentina-perosa-a2a351118_aaic26-activity-7481989231918383104--p7g",
+        "title": "This year, I was finally able to participate to the Vascular PIA #AAIC26 and had so much fun discussing new ideas on the intersection between\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQFOrss3_ljPxg/feedshare-shrink_1280/B4EZ9RwKsJJIAM-/0/1783783009322?e=2147483647&v=beta&t=gxylC_nLtolejTjdLnNxkM7esK5aRjGCPxQctHUm8jU",
+        "id": "7481989231918383104"
+      },
+      {
+        "interaction": "Liked by Jonathan Geuter",
+        "link": "https://www.linkedin.com/posts/valentina-perosa-a2a351118_aaic26-activity-7482723261542334464-KVnb",
+        "title": "#AAIC26 is not only giving us the chance to explore new discoveries but also to reconnect with science friends from around the world - so far, it has\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQGowGsU4UZNyQ/feedshare-shrink_800/B56Z9f5JypHIAc-/0/1784020246015?e=2147483647&v=beta&t=ATRLTdLpAVgDGQ6MaSJtBMA1kmNEx1ny3IRBpSgQ6vQ",
+        "id": "7482723261542334464"
+      },
+      {
+        "interaction": "Liked by Jonathan Geuter",
+        "link": "https://es.linkedin.com/posts/fundaci-n-rafael-del-pino_soybecariofrp-harvard-appliedmathematics-activity-7483868772165058560-rcjP",
+        "title": "Es un placer presentar a \u00c1lvaro Ribot Barrado, integrante de la nueva promoci\u00f3n de Becarios de Excelencia Rafael del Pino. \ud83c\udf93 \u00c1lvaro desarrolla\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4E10AQH4I8wADlYxeQ/videocover-high/B4EZ9wK6ubIsAo-/0/1784293340361?e=2147483647&v=beta&t=QHaBzcunwhZboyc60tBfM-1OM34l3sF4LybEjj4qZio",
+        "id": "7483868772165058560"
+      },
+      {
+        "interaction": "Liked by Jonathan Geuter",
+        "link": "https://www.linkedin.com/posts/hadikhalaf_kempner-institute-announces-recipients-of-activity-7483602077017853953-tKp0",
+        "title": "Excited to join the Kempner Institute as a graduate fellow and to secure funding for the next few years of my PhD!",
+        "img": "https://media.licdn.com/dms/image/sync/v2/D5627AQEGQvwwBva-Vw/articleshare-shrink_1280_800/B56Z9l94oLJoAk-/0/1784122150675?e=2147483647&v=beta&t=snPwlGz6pXstIoB43gAtIP_1C1EHVlIDUlp4ZGExvPo",
+        "id": "7483602077017853953"
+      },
+      {
+        "interaction": "Liked by Jonathan Geuter",
+        "link": "https://www.linkedin.com/posts/valentina-perosa-a2a351118_aaic26-activity-7483097431509843970-xYLN",
+        "title": "Cerebral amyloid angiopathy is a common co-pathology of Alzheimer's disease. Yuan's work looks at how venules may be affected. Come by for a chat if\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQHiME0zM_pVXg/feedshare-image-high-res/B4EZ9k8kHQHkAY-/0/1784105030303?e=2147483647&v=beta&t=NubwP5U6xNy1YlEomL9Lg2smENx2ym0iHshodZDjpXs",
+        "id": "7483097431509843970"
+      },
+      {
+        "interaction": "Liked by Jonathan Geuter",
+        "link": "https://www.linkedin.com/posts/louis-schiekiera_i-had-an-excellent-time-presenting-our-recent-activity-7482384033491124224-RABj",
+        "title": "I had an excellent time presenting our recent work on machine psychology at [ICML] Int'l Conference on Machine Learning in Seoul \ud83c\uddf0\ud83c\uddf7. My first time\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQFaQouaNaFD-A/feedshare-image-high-res/B56Z9bEnZ9IQAU-/0/1783939364855?e=2147483647&v=beta&t=zzXdMrkdhWFrx_k-Mxja7_cnd24NGcv6RrYmiH3E4I8",
+        "id": "7482384033491124224"
+      }
+    ],
+    "linkedin_num_id": "875252536",
+    "banner_image": "https://static.licdn.com/aero-v1/sc/h/5q92mjc5c51bjlwaj3rs9aa82",
+    "honors_and_awards": [
+      {
+        "title": "Kempner Institute Graduate Fellowship",
+        "publication": "Kempner Institute",
+        "date": "2025-06-01T00:00:00.000Z",
+        "description": "PhD Fellowship"
+      },
+      {
+        "title": "Deutschlandstipendium",
+        "publication": "Bundesministerium f\u00fcr Bildung und Forschung (Federal German Ministry of Education and Research)",
+        "date": "2021-10-01T00:00:00.000Z",
+        "description": null
+      },
+      {
+        "title": "Deutschlandstipendium",
+        "publication": "Bundesministerium f\u00fcr Bildung und Forschung (Federal German Ministry of Education and Research)",
+        "date": "2020-10-01T00:00:00.000Z",
+        "description": null
+      },
+      {
+        "title": "UCEAP Grant",
+        "publication": "UC Berkeley",
+        "date": "2018-03-01T00:00:00.000Z",
+        "description": null
+      }
+    ],
+    "similar_profiles": [],
+    "default_avatar": false,
+    "memorialized_account": false,
+    "bio_links": [
+      {
+        "title": "Personal Website",
+        "link": "https://j-geuter.github.io/"
+      }
+    ],
+    "first_name": "Jonathan",
+    "last_name": "Geuter",
+    "influencer": false,
+    "timestamp": "2026-08-12T19:06:17.249Z",
+    "input": {
+      "url": "https://www.linkedin.com/in/jonathan-geuter"
+    }
+  },
+  "local_photo": "data\\linkedin_photos\\jonathan-geuter__usr-pMpufYTK02IJMnM.jpg"
+}

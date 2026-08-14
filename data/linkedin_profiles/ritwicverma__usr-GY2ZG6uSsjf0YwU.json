@@ -1,0 +1,193 @@
+{
+  "luma_user_id": "usr-GY2ZG6uSsjf0YwU",
+  "csv_name": "Ritwic Verma",
+  "csv_linkedin": "https://www.linkedin.com/in/ritwicverma",
+  "enriched_at": "2026-08-12T19:14:53.877794+00:00",
+  "batch_id": "sd_msqgwa7g10oeo6g7qx",
+  "profile": {
+    "id": "ritwicverma",
+    "name": "Ritwic Verma",
+    "city": "Atlanta, Georgia, United States",
+    "country_code": "US",
+    "position": null,
+    "about": "ritwic.com",
+    "current_company": {
+      "link": "https://www.linkedin.com/company/amazon-web-services?trk=public_profile_topcard-current-company",
+      "name": "Amazon Web Services (AWS)",
+      "company_id": "amazon-web-services",
+      "location": null
+    },
+    "experience": null,
+    "url": "https://fi.linkedin.com/in/ritwicverma",
+    "educations_details": "Georgia Institute of Technology",
+    "education": [
+      {
+        "title": "Georgia Institute of Technology",
+        "url": "https://www.linkedin.com/school/georgia-institute-of-technology/",
+        "start_year": "2024",
+        "end_year": "2028",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      },
+      {
+        "start_year": "2019-04",
+        "end_year": "2024-03",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      }
+    ],
+    "avatar": "https://media.licdn.com/dms/image/v2/D5603AQFnFsNd0wL5JA/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1724532836208?e=2147483647&v=beta&t=HsFtXwijQJKxD2jJtk3a5S_cx04RPtOiw2nsWkdAo5g",
+    "followers": 2670,
+    "connections": 500,
+    "current_company_company_id": "amazon-web-services",
+    "current_company_name": "Amazon Web Services (AWS)",
+    "publications": [
+      {
+        "title": "Meet Teen Who Has Created Bubble Burst",
+        "subtitle": "The Times of India"
+      }
+    ],
+    "projects": [
+      {
+        "title": "ripenv- Git-safe encrypted secrets managers",
+        "start_date": "2025",
+        "description": "Engineered a zero-trust developer tool that protects secrets using a public-key cryptography system, makingthem safe to commit while maintaining integrity across machines and CI pipelines Shipped a CLI + Next.js dashboard (WebCrypto, Supabase, PostgreSQL) that standardised workflows, drovesetup to less than 5 min, and cut misconfig incidents across teams"
+      },
+      {
+        "title": "MedEase: AI-Assisted Diagnostic Workflow",
+        "start_date": "Sep 2024",
+        "description": "Built a virtual AI assistant for doctors using Retrieval-Augmented Generation (RAG) with LLMs to deliver context-aware medical insights.Leveraged MongoDB Atlas Vector Search to store and query embeddings, enabling fast and scalable retrieval of medical data across thousands of records.Optimized retrieval pipelines to achieve sub-second response times for complex clinical queries, improving reliability and usability.Recognized with the \u201cBest Overall Implementation of MongoDB\u201d award out of 150+ projects at HackGT 11."
+      },
+      {
+        "title": "Bubble Burst!",
+        "description": "Built a REST API to recommend news articles having an opposing viewpoint on the same topic as the current article. Implemented on the frontend in the form of a Chrome extension. Featured in the Times of India."
+      },
+      {
+        "title": "CortX",
+        "description": "Co-developed a web app that helps users track medical reports and extracts actionable insights using OCR. Recognized by Tata1mg"
+      },
+      {
+        "title": "ValuAI \u2013 AI-Powered Property Damage Verification",
+        "description": "ValuAI is an AI-driven solution designed to ensure transparency in property damage claims for insurance companies. It utilizes multimodal AI to cross-verify claims by analyzing both images and text descriptions, detecting exaggerated repair estimates and hidden damages. This helps insurers validate claims accurately while ensuring homeowners receive fair assessments. We used Gemini Flash 2.0 to process images, and Llama 3 to process text, through the OpenRouter API. I was responsible for developing the entire frontend and integrating it seamlessly with the backend, ensuring a smooth and intuitive user experience. Using React, TypeScript, and Vite, I built an efficient and responsive interface, while connecting it to a Flask-powered backend for real-time damage verification and claim validation."
+      }
+    ],
+    "location": "Atlanta",
+    "input_url": "https://www.linkedin.com/in/ritwicverma",
+    "linkedin_id": "ritwicverma",
+    "activity": [
+      {
+        "interaction": null,
+        "link": "https://www.linkedin.com/posts/jeetdekivadia_we-just-won-10000-for-building-financial-activity-7474823598088814593-pnGt",
+        "title": "We just won $10,000 for building financial superintelligence. This past weekend, at the Mercor x Etched Inference-Time Compute Hackathon, we won the first prize of the Agents track for building Hidden Variables: artificial societies for alpha generation. It was a great ride of less than 24 hours, and we explored all over the place: > fine tuned a 7B open weights model for long horizon financial tasks > created our own foundational benchmark for finance on popular SLMs > built harness to spawn thousands of headless controlled agents Huge thanks to my teammate Ritwic Verma , and to the teams at Anthropic , Cognition , Etched , Mercor , and Prime Intellect for organizing the hackathon. Explore the project further at https://lnkd.in/gUKfw6bB ...more ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQHG4nT4djrCRQ/feedshare-shrink_800/B56Z7uwMxKG8Ac-/0/1782122073822?e=2147483647&v=beta&t=bDe7CbqUPoXWi5b8RCzqKCPfsmH4lVheHpH6RDIfqqU",
+        "id": "10000"
+      },
+      {
+        "interaction": "Ritwic Verma shared this",
+        "link": "https://www.linkedin.com/posts/ritwicverma_excited-to-share-that-i-will-be-joining-the-activity-7450277454197342208-P2cg",
+        "title": "Excited to share that I will be joining the Agentic AI team at Amazon Web Services (AWS) this summer as an SDE Intern in Seattle. I'm really grateful to my family and friends for their support throughout this recruitment cycle. Thanks to my recruiters and my manager for the opportunity, and a shoutout to those who helped along the way. I really appreciate it. Looking forward to building AI systems that operate autonomously at scale. If you're in Seattle this summer, I would love to connect! ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQG9SuY1SKzS2w/feedshare-shrink_800/B4EZ2SEUefHsAc-/0/1776272105572?e=2147483647&v=beta&t=TEnsAPpE_D4Tf46JPhRAAQQtwROYimlag8Td6JkUGdc",
+        "id": "7450277454197342208"
+      },
+      {
+        "interaction": null,
+        "link": "https://www.linkedin.com/posts/himanshchitkara_hackgt-georgiatech-tech-activity-7378428395828764672-Y7yU",
+        "title": "Imagine accidentally committing an API key\u2026 Yeah. That sinking feeling when a secret you were supposed to protect is exposed\u2026 it can cost hours, millions, or even your reputation. And it happens to everyone, even the most experienced developers. And the scale of this problem is staggering: in 2023 alone, 12.8 million secrets were leaked on public GitHub repos. And less than 20 days ago, 3,325 secrets were compromised in the Ghost Action supply chain attack affecting PyPI, npm, and DockerHub tokens. That\u2019s why Ritwic Verma and I took on the challenge of building ripenv last weekend at HackGT 12, submitting it to the Warp Best Dev Tool Challenge. ripenv is a secure environment manager built to make accidental leaks nearly impossible. .env files are encrypted client-side, keys are wrapped per teammate, and nothing ever leaves your machine in plaintext. ripenv includes both a CLI powered by Google Gemini for natural language management of secrets, and a web interface made using Next.js and Supabase for project-level secret management and teammate collaboration. No secrets touch our servers. No central vault to compromise. No blind trust in a third party. We don\u2019t - and can\u2019t - see your API keys. And if you\u2019d rather keep everything in-house, ripenv can be deployed internally with the same guarantees. The result? Teams can commit .env files to GitHub, share them across teammates, and push them through CI/CD pipelines - without ever exposing a single secret. Even if the file goes public, it\u2019s just ciphertext. With ripenv, leaking secrets is no longer a risk. Overall, HackGT 12 was an amazing experience. We got to meet incredible people from Warp , Ergo , Visa , and many other companies. A special thanks to Advait Maybhate and Varoon Kodithala for their guidance and invaluable feedback. Huge thanks also to HexLabs, Inc. for hosting the event! Check out our product at these links: - Devpost: https://lnkd.in/dKBR9hpq - GitHub: https://lnkd.in/dgXpw8PK #HackGT #GeorgiaTech #Tech #Innovation #Hackathon #DevTools #MLH #GoogleGemini #Cybersecurity #OpenSource #Cryptography #Encryption #Nextjs #Supabase #Python #Libsodium #Programming #Developers ...more ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D4D22AQFT4mLFgkFUBg/feedshare-shrink_800/B4DZmUamz8H0Ag-/0/1759131627414?e=2147483647&v=beta&t=Zrj37C1qqmnxCcqwnZOp_0_1NkpRrd1lGFl873VPo5Y",
+        "id": "7378428395828764672"
+      },
+      {
+        "interaction": "Ritwic Verma shared this",
+        "link": "https://www.linkedin.com/posts/ritwicverma_hackgt-georgiatech-hackathon-activity-7378428415487619073-iDLI",
+        "title": "No more sending out your API keys over Discord. This past weekend at Hack GT 12, Himansh Chitkara and I built ripenv, a comprehensive solution for managing secrets across development teams. The software industry is facing a growing secrets management crisis. Millions of API keys, tokens, and credentials get exposed every year through public repos, messy pipelines, or supply chain breaches ( https://lnkd.in/gWTPGmb4 ) . We wanted to build something that helps developers and organizations avoid those catastrophic leaks. The idea wasn\u2019t just to lock secrets away, but to do it with a zero-trust, security-first approach while still keeping things simple and smooth for developers. We built a dashboard with Next.js and Supabase for managing team permissions, and a developer-first CLI that understands natural language thanks to Google Gemini. With CI/CD integration for automated secret rotations and a zero-knowledge design, ripenv protects your secrets as seamlessly as Git manages your code. I had the chance to meet some amazing people at HackGT 12, including folks from Warp , Cedar , and several other companies. Special thanks to Advait Maybhate and Varoon Kodithala for their guidance and insights. Their input made a real difference in how our project came together. \ud83d\udc49Check us out Devpost: https://lnkd.in/gfXeNhcK Github: https://lnkd.in/gD8HVr5f #HackGT #GeorgiaTech #hackathon #DevTools #innovation #cybersecurity #opensource #mlh #gemini #GoogleGemini #cryptography #encryption #nextjs #supabase #python #libsodium #programming #developers ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQH9utP9q_R3sg/feedshare-shrink_800/B56ZmUaETcJ4Ak-/0/1759131485821?e=2147483647&v=beta&t=7SF-G9Vx49-_1QAGJn9XOJbNvfYKygu_AbMU0B2xmgw",
+        "id": "7378428415487619073"
+      },
+      {
+        "interaction": null,
+        "link": "https://www.linkedin.com/posts/amisha-sao_medease-ai-assisted-diagnostic-workflow-activity-7247267911373930496-F3bR",
+        "title": "\ud83d\ude80 Exciting news from Hack GT 11!\ud83d\ude80 I'm thrilled to share that my team\u2014 Cheng-Yuan Li , David Gu , Ritwic Verma , and I\u2014won Best Overall Implementation of MongoDB sponsored by MLH! \ud83c\udf89 Over an intense 36-hour coding marathon, we developed Med-Ease: An AI-Assisted Diagnostic Workflow, a web app designed to streamline the documentation process for doctors and nurses, letting them focus more on patient care. I worked on the retrieval-augmented generation (RAG) tool, leveraging MongoDB's vector search capabilities to store collections, and using a HuggingFace dataset to train the LLM embeddings. It was both a challenge and a rewarding learning experience! \ud83d\ude01 I couldn't have asked for a better team\u2014we seamlessly collaborated (with minimal merge conflicts \ud83d\ude05). Thanks to Cheng-Yuan, David, and Ritwic for their hard work, and to MLH, Ryan Lay , and the HexLabs, Inc. team for organizing such an incredible event! Key takeaways from Hack GT 11: \ud83d\udca1 Attend workshops: We hit almost every workshop, and each one left us with something valuable. \ud83e\udd14 Stay focused on the goal: Building a project with a meaningful purpose\u2014like helping healthcare workers\u2014kept us motivated and on track. \ud83d\ude34 Sleep matters: A few hours of rest made all the difference in our productivity and creativity. Check out our project here: https://lnkd.in/dCgjgreb #HackGT11 #AI #MongoDB #Teamwork #Hackathon #HealthcareTech ...more ...more",
+        "img": "https://media.licdn.com/dms/image/sync/v2/D4D27AQGN7szw7bfo_A/articleshare-shrink_800/articleshare-shrink_800/0/1727882662719?e=2147483647&v=beta&t=ReuM3tZZxk9UX7mwp3KrmDDzUaVTDLyreTDNDiZosKo",
+        "id": "7247267911373930496"
+      },
+      {
+        "interaction": "Ritwic Verma replied to a comment 1mo",
+        "link": "https://www.linkedin.com/posts/ritwicverma_activity-7474923459416875008-9DM_",
+        "title": "Kaodi Dike thanks so much! It was really cool talking to you about Mercor.",
+        "img": null,
+        "id": "7474923459416875008"
+      },
+      {
+        "interaction": "Ritwic Verma liked this",
+        "link": "https://www.linkedin.com/posts/adityan-swaminathan-553ab6318_yesterday-i-closed-out-a-wonderful-chapter-activity-7491968445413081088-QBHC",
+        "title": "Yesterday, I closed out a wonderful chapter as Flight Systems Integration Engineering Intern at Shield AI . It was a very transformative experience, being able to contribute to and extend the very thoroughly built and well-engineered capabilities Hivemind offers. And being an EE, the chance to work on a control algorithm for a jet in sim was the cherry on top. But what I'll cherish the most is that I was surrounded by people who are incredibly good at what they do, passionate about it, and supportive of each other. I'm very very grateful to have had the opportunity to meet, learn from, and work with everyone, especially my project teammates and fellow interns James Angelos and Edison Xie , our mentors John McDonald and Paige Keomaxay-Hampf , my manager Alysha Singh , and teammates Christian Sonnenburg and Matthew Rydalch who eagerly brought me into the fold and guided me as we tackled the controls challenge. Working with such people has definitely helped me develop personally and professionally. I'm also very grateful to Erin Dlouhy for helping me through the whole recruiting process, Gerelis Feliz for the wonderful onboarding, and Jamie Kezner for putting so much effort into making this a great experience for all of us interns. And I'm really excited for what's ahead!",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQHXEGfOlH5RpQ/feedshare-shrink_800/B4EZ_jORtiKQAc-/0/1786223598670?e=2147483647&v=beta&t=kpgV0xZ6qmrXAMmvZoGlrrz-qOH9tG3T3Aw1cHh-pP4",
+        "id": "7491968445413081088"
+      },
+      {
+        "interaction": "Ritwic Verma liked this",
+        "link": "https://www.linkedin.com/posts/sakshambgt_happy-to-announce-that-i-have-graduated-from-activity-7489390874066321408-082a",
+        "title": "Happy to announce that I have graduated from Georgia Institute of Technology with a degree in Computer Science! As I wrap up my chapter in Atlanta, I will be relocating to Tempe, Arizona to join Amazon as a Software Development Engineer. If you're going to be in the area, feel free to reach out! Thanks to all of my family and friends for their support along the way! \ud83d\udc1d\ud83d\udc1d",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQEMXXDQnbCo9A/feedshare-shrink_800/B56Z..pT.iJsAc-/0/1785609929128?e=2147483647&v=beta&t=zb1JrHrh-oKTXlaRSDMqaOVoeHPR5UCeeGqUrGJcyh8",
+        "id": "7489390874066321408"
+      },
+      {
+        "interaction": "Ritwic Verma liked this",
+        "link": "https://www.linkedin.com/posts/vedangdugar_summer-in-three-parts-i-was-recently-invited-activity-7487091891763564544-F_ED",
+        "title": "Summer, in three parts I was recently invited to Jane Street 's Mystery Planet and our team ( Karen Gao , Keshav Shylesh and me) placed third! The premise is that your ship has crash-landed on an alien world and you have a few hours to solve math puzzles for resources and then trade them with other teams way off it. Move too slow and what you want is gone. Move too fast and you've given away it for too little. A few hours of that, taught me so much about how traders actually think and operate in real life On the Hackathons and Projects Side, If you've ever lost half a day of code or GPU time to an out-of-memory error at step 40,000, this one's for you. At the Weights & Biases hackathon we ( Sasha Krigel ) built a multi-agent orchastration which reads your code and changes, tracks memory (RSS, memory usage etc.) and resource usage while the job executes, and surfaces problems early with a concrete fix attached, rather than a stack trace. And finally around all of it, too much tennis and my fellow interns, who made the non-working hours as good as the working ones.",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQFmwK08TOOa5g/feedshare-shrink_800/B56Z.d.ZpEIUAc-/0/1785061809024?e=2147483647&v=beta&t=f7jYzxmt72z53iDXy2Zdf2R0XyrNcd8P46o6iwsadTk",
+        "id": "7487091891763564544"
+      },
+      {
+        "interaction": "Ritwic Verma liked this",
+        "link": "https://www.linkedin.com/posts/duapushpinder_aiengineering-genai-hiring-activity-7477487928210874368-VVg_",
+        "title": "I\u2019m thrilled to share that I\u2019ve joined Capital One as Director of AI Engineering! My focus now is building our Generative AI and Agentic platform with trust, control, and governance as its absolute foundation, rather than afterthoughts. At enterprise scale, that strong architectural core is exactly what allows us to ship AI that truly scales and delivers long term value. To make this happen, I am hiring. I'm looking across AI engineering for builders who want to own hard problems and shape a major platform ground up. If you are ready to build, send me a DM. \ud83d\udce9 #AIEngineering #GenAI #Hiring #TechCareers",
+        "img": null,
+        "id": "7477487928210874368"
+      },
+      {
+        "interaction": "Ritwic Verma liked this",
+        "link": "https://www.linkedin.com/posts/jeetdekivadia_we-just-won-10000-for-building-financial-activity-7474823598088814593-pnGt",
+        "title": "We just won $10,000 for building financial superintelligence. This past weekend, at the Mercor x Etched Inference-Time Compute Hackathon, we won the first prize of the Agents track for building Hidden Variables: artificial societies for alpha generation. It was a great ride of less than 24 hours, and we explored all over the place: > fine tuned a 7B open weights model for long horizon financial tasks > created our own foundational benchmark for finance on popular SLMs > built harness to spawn thousands of headless controlled agents Huge thanks to my teammate Ritwic Verma , and to the teams at Anthropic , Cognition , Etched , Mercor , and Prime Intellect for organizing the hackathon. Explore the project further at https://lnkd.in/gUKfw6bB",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQHG4nT4djrCRQ/feedshare-shrink_800/B56Z7uwMxKG8Ac-/0/1782122073822?e=2147483647&v=beta&t=bDe7CbqUPoXWi5b8RCzqKCPfsmH4lVheHpH6RDIfqqU",
+        "id": "10000"
+      }
+    ],
+    "linkedin_num_id": "746003608",
+    "banner_image": "https://media.licdn.com/dms/image/v2/D5616AQHQ1YrdjiQWaQ/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1724532867104?e=2147483647&v=beta&t=HZEe84KkZg--HcpY5YrXgv2vUI-8tsNKElsM2vuO8cU",
+    "honors_and_awards": [
+      {
+        "title": "Winner at HackGT 11",
+        "publication": "HackGT",
+        "date": "2024-01-01T00:00:00.000Z",
+        "description": "Awarded \u201cBest Overall Implementation of MongoDB\u201d out of 150+ projects at HackGT 11, recognizing technical innovation and execution"
+      },
+      {
+        "title": "First Place, ShriTeq Hackathon 2022",
+        "publication": "The Shri Ram School",
+        "date": null,
+        "description": "Awarded first place for CortX, after securing a virtual deal of $33,000 for 27% equity."
+      },
+      {
+        "title": "Young Changemaker",
+        "publication": "Global Bio Summit 2023, Dept. of Biotechnology, Govt. of India",
+        "date": null,
+        "description": "Invited to present CortX at the Global Bio India Summit 2023. Recognized as a Young Changemaker."
+      }
+    ],
+    "similar_profiles": [],
+    "default_avatar": false,
+    "memorialized_account": false,
+    "bio_links": [],
+    "first_name": "Ritwic",
+    "last_name": "Verma",
+    "influencer": false,
+    "timestamp": "2026-08-12T19:13:50.803Z",
+    "input": {
+      "url": "https://www.linkedin.com/in/ritwicverma"
+    }
+  },
+  "local_photo": "data\\linkedin_photos\\ritwicverma__usr-GY2ZG6uSsjf0YwU.jpg"
+}

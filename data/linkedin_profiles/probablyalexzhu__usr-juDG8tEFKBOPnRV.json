@@ -1,0 +1,272 @@
+{
+  "luma_user_id": "usr-juDG8tEFKBOPnRV",
+  "csv_name": "probablyalex",
+  "csv_linkedin": "https://www.linkedin.com/in/probablyalexzhu",
+  "enriched_at": "2026-08-12T19:14:53.870350+00:00",
+  "batch_id": "sd_msqgwa7g10oeo6g7qx",
+  "profile": {
+    "id": "probablyalexzhu",
+    "name": "Alex Zhu",
+    "city": "San Francisco Bay Area",
+    "country_code": "US",
+    "position": null,
+    "about": "Hi, I'm Alex! probablyalex.com",
+    "current_company": {
+      "link": "https://www.linkedin.com/company/reken-ai?trk=public_profile_topcard-current-company",
+      "name": "Reken",
+      "company_id": "reken-ai",
+      "location": null
+    },
+    "experience": null,
+    "url": "https://hu.linkedin.com/in/Probablyalexzhu",
+    "educations_details": "University of Waterloo",
+    "education": [
+      {
+        "title": "University of Waterloo",
+        "url": "https://ca.linkedin.com/school/uwaterloo/",
+        "start_year": "2022-08",
+        "end_year": "2027-04",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      },
+      {
+        "start_year": "2025-09",
+        "end_year": "2025-12",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      },
+      {
+        "start_year": "2019-09",
+        "end_year": "2022-06",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      },
+      {
+        "start_year": "2018-09",
+        "end_year": "2019-06",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      }
+    ],
+    "recommendations_count": 2,
+    "avatar": "https://media.licdn.com/dms/image/v2/D5603AQGNMZszn5YlyA/profile-displayphoto-scale_200_200/B56Z_aqOzrG4Ac-/0/1786079934353?e=2147483647&v=beta&t=mfSqWa5z4Fjcsiw029meVZXkt0sSyXr6wnh77BBwh-g",
+    "languages": [
+      {
+        "subtitle": "Native or bilingual proficiency",
+        "title": "English"
+      },
+      {
+        "subtitle": "Native or bilingual proficiency",
+        "title": "Chinese (Mandarin)"
+      },
+      {
+        "subtitle": "Limited working proficiency",
+        "title": "French"
+      }
+    ],
+    "recommendations": [
+      "Josh Beckman \u201cI worked with Alex during his Shopify internship and I was *so* glad we had him! We spent the meat of his time with us prototyping and productionizing a AI/LLM agent and MCP (model context protocol) server architecture that allowed merchants to use natural language to build programs in a visual programming environment. (Whoo! What a mouthful! And cutting-edge stuff!) Alex grew from simply a member of the team to one of the most knowledgeable contributors on the project. He learned rapidly and helped make key technical decisions in a very fuzzy and exploratory space. He was also bringing a positive smile and eager mind to every day. By the end, Alex proposed, crafted, and delivered a comprehensive presentation to the wider organization that detailed our months of technical prototyping and the final architecture. It educated the teams that weren't directly involved and gave them the tools and understanding to start replicating and contributing to this new product. It was truly a capstone effort!\u201d",
+      "Arbaaz Shah \u201cAlex was an outstanding co-op during his time at Swift. He integrated seamlessly with our team, always bringing energy, curiosity, and a positive attitude to each meeting and project. Beyond his eagerness to learn, Alex tackled complex features that significantly enhanced our product. He skillfully broke down large tasks into manageable steps. His adaptability, collaborative spirit, and willingness to exceed expectations also contributed to improving our development processes and enriching our team culture. I would highly recommend Alex to any team. His strong technical abilities, work ethic, and personable nature make him truly exceptional to work with.\u201d"
+    ],
+    "volunteer_experience": [
+      {
+        "cause": "Education",
+        "duration": "Jan 2023 \u00b7 - Present \u00b7 \n\n3 years 8 months",
+        "duration_short": "- Present",
+        "info": "VP Training (3 terms): Running meetings, preparing new members for competitions VP Marketing (1 term): Club website, designed logo, branding, and content creation (vlogs!)",
+        "start_date": "Jan 2023",
+        "subtitle": "University of Waterloo Debate Society",
+        "title": "Vice President"
+      },
+      {
+        "cause": "Education",
+        "duration": "Apr 2021 \u00b7 - Present \u00b7 \n\n5 years 5 months",
+        "duration_short": "- Present",
+        "info": "Adjudicating debate rounds, managing judge panels, running results tabulation, and handling event logistics and participant experience at tournaments ranging from local invitationals to national and international championships. Notable tournaments: Chief Adjudicator | North American Universities Debating Championship 2026 Judge | Singapore International Schools Debating Championship 2025 Chief Adjudicator | Canadian Universities Debating Championship 2024 Chief Adjudicator &\u2026 Show more Adjudicating debate rounds, managing judge panels, running results tabulation, and handling event logistics and participant experience at tournaments ranging from local invitationals to national and international championships. Notable tournaments: Chief Adjudicator | North American Universities Debating Championship 2026 Judge | Singapore International Schools Debating Championship 2025 Chief Adjudicator | Canadian Universities Debating Championship 2024 Chief Adjudicator & Tabulator | Waterloo HST 2023, 2024 Judge & Tabulator | Sir Andrew's Charity Tournament 2021 (raised $3100+ for Yellow Brick House) Show less",
+        "start_date": "Apr 2021",
+        "subtitle": "Canadian University Society for Intercollegiate Debate",
+        "title": "Tournament Organizer and Chief Adjudicator"
+      },
+      {
+        "cause": "Civil Rights and Social Action",
+        "duration": "Sep 2021 \u00b7 - \nMay 2022 \u00b7 \n9 months",
+        "duration_short": "- \nMay 2022",
+        "info": "- Researched complex topics like doping in sports for podcast hosts to discuss in 40-minute long episodes - Optimized marketing such as episode titles and descriptions for delivery to thousands of listeners - Edited audio for long podcast episodes to smooth out audio product and maintain listener retention",
+        "start_date": "Sep 2021",
+        "subtitle": "THW Debate Podcast",
+        "title": "Content Editor"
+      }
+    ],
+    "followers": 1410,
+    "connections": 500,
+    "current_company_company_id": "reken-ai",
+    "current_company_name": "Reken",
+    "projects": [
+      {
+        "title": "DebateComps",
+        "start_date": "Sep 2025",
+        "description": "The world's debate calendar: combines messy spreadsheets into a unified platform where international debaters can find the best competitions. 800+ unique visitors per month and growing."
+      },
+      null,
+      null,
+      null,
+      {
+        "title": "muniworm",
+        "start_date": "Jun 2026",
+        "description": "Interactive artifact: the SF Muni \u201cworm\u201d logo unravels into the real Muni Metro map. Tap in with your Clipper card to explore!"
+      },
+      {
+        "title": "noat",
+        "start_date": "Feb 2026",
+        "description": "A minimalist, local-first note-taking app with realtime cross-device sync, like Raycast Floating Notes w/ sync :)"
+      },
+      {
+        "title": "Formula 1 SQL",
+        "start_date": "May 2024",
+        "description": "A website for technical fans to analyze historic data up to 2023 of the biggest international racing sport in the world. Built with PostgreSQL and fully deployed"
+      },
+      {
+        "title": "TB Screener",
+        "start_date": "Mar 2024",
+        "description": "Gen AI and speech-to-text app to detect potential TB cases and create a report for doctors. Awarded for Best Build with AI Hack using Google Technologies at GenAI Genesis 2024"
+      },
+      null,
+      null,
+      null,
+      {
+        "title": "UW Debate Website",
+        "start_date": "Jan 2024",
+        "description": "Developed and hosted https://debate.uwaterloo.ca/ for the University of Waterloo Debate Society :)"
+      },
+      {
+        "title": "Giftlax",
+        "start_date": "May 2023",
+        "description": "Built and hosted a full-stack app that helps with gift-giving planning using SQLite databaseImplemented user authentication, event calendar, real-time group chat, and gift idea generator"
+      },
+      {
+        "title": "B2 Stock Trader",
+        "start_date": "Nov 2022",
+        "description": "B2 Stock Trader: Alternative Data Trading using Python, Google Trends, NYT Articles, and CohereYou can find the Medium article here: https://ryansh3n.medium.com/b2-stock-trader-425b5c5f409aThe B2 stock trader is an application that uses Google Trends and Cohere sentiment analysis on NYT articles to pick a portfolio of stocks. It uses an algorithmic strategy of finding undervalued (low Google interest) but highly-rated (high NYT sentiment scores) stocks that others neglect looking at, because most people focus on popular but likely overvalued stocks. We were inspired by B2EMO, a groundmech salvage assist droid in Star Wars: Andor that looked through junkyards for valuable scrap. Similarly, we scrape the internet to find undervalued stocks.We built this project to learn about sourcing and processing data ourselves for the purpose of alternative data trading, improve our abilities to work with libraries and APIs, and practice using Git and debugging projects; we succeeded at reaching that goal. The goal was not necessarily to create a safe portfolio that maximizes profit which would be useful in the real world. However, B2 was still highly successful in choosing profitable portfolios."
+      },
+      null,
+      {
+        "title": "SE101 Design Project: 4Gains Personal Trainer",
+        "start_date": "Sep 2022",
+        "description": "The reopening of public gyms has attracted an influx of fitness lovers as the world gradually recovers from the effects of the pandemic. In particular, we saw a massive wave of fitness craze among our peers while transitioning into university as workout sessions became integral to many students\u2019 daily routines. As frequent gym-goers, we were inspired by this phenomenon to create \u201c4Gains\u201d\u2014a product that targets the growing fitness demographic and improves the gym experience for all fitness lovers, beginners, and pro athletes alike. Easily mounted onto any weight stack, the 4Gains unit provides immediate feedback to the user on the quality of their workout sessions through its various sensors. Upon a button press on the device, the program begins to track a variety of metrics, including session duration, number of reps performed, movement distance, acceleration, and stability. The program then offers the user a visual representation of their fitness progress, which they can access through a web application. We envision 4Gains as a tool that makes fitness more accessible to novice gym-goers while providing valuable personalized suggestions to veterans. Github Repo: https://github.com/benymng/4FUN"
+      },
+      null,
+      null,
+      null,
+      null,
+      {
+        "title": "Radomir Chess",
+        "start_date": "Dec 2021",
+        "description": "Java Swing app w/ networking for many simultaneous multiplayer lobbies, a sophisticated and efficient chess engine, and an excellent UI complete with a login system."
+      }
+    ],
+    "location": null,
+    "input_url": "https://www.linkedin.com/in/probablyalexzhu",
+    "linkedin_id": "probablyalexzhu",
+    "activity": [
+      {
+        "interaction": "Liked by Alex Zhu",
+        "link": "https://www.linkedin.com/posts/sreenivasashwin_over-100-founders-engineers-and-interns-activity-7488622227689705476-Lo1R",
+        "title": "Over 100 founders, engineers, and interns packed into the a16z office this week to hear the story of building Decagon from 0 to 1. It was fun\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQFgjZi_IX9LbA/feedshare-shrink_800/B56Z.zuOsiHcAg-/0/1785426668645?e=2147483647&v=beta&t=W_yglVufoQbTy1adJ7CBtksnpWw7jn6BTRmkthJhYW4",
+        "id": "100"
+      },
+      {
+        "interaction": "Liked by Alex Zhu",
+        "link": "https://www.linkedin.com/posts/ding-amy_bufo-activity-7488730764130496512-rNj4",
+        "title": "hello everyone, i've spent the last 11 weeks working on the urp (user roles & permissions) team at Notion as a software engineering intern\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQHVHwLct_sOCw/feedshare-shrink_800/B56Z.1Q8q0LAAk-/0/1785452547042?e=2147483647&v=beta&t=6pDwWmdP5f1iEUfpVXf1ltTGqiR8k1woem2TZX-VFw8",
+        "id": "7488730764130496512"
+      },
+      {
+        "interaction": "Liked by Alex Zhu",
+        "link": "https://www.linkedin.com/posts/sherry-shu_foodsystems-animalwelfare-saveourbacon-activity-7490391194477273088-SH39",
+        "title": "This is my most important Fork The System episode. And it's coming out a week early because we're running out of time. This Thursday, August 6th\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4D22AQFK9_VJTSiNfg/feedshare-image-high-res/B4DZ_K1JEQI4AU-/0/1785814357428?e=2147483647&v=beta&t=6m0F7tBMU2-s_v1YWYfUIa8qqPDBJEneCHj1bD9grC8",
+        "id": "7490391194477273088"
+      },
+      {
+        "interaction": "Liked by Alex Zhu",
+        "link": "https://www.linkedin.com/posts/nicholas-teng_poster-chi2026-acmchi-activity-7490049470932566016-QD-T",
+        "title": "I am glad to share that our paper, \u201cForeign Domestic Workers\u2019 Perspectives on an LLM-Based Emotional Support Tool for Caregiving Burden,\u201d has been\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4D22AQEvJrKWa8a9Fw/feedshare-image-high-res/B4DZ_IATZkI4AU-/0/1785766950770?e=2147483647&v=beta&t=1ZBKpgu4kv3QkeHvdntoDgzUVIUir28BSARlyI_UpeI",
+        "id": "7490049470932566016"
+      },
+      {
+        "interaction": "Liked by Alex Zhu",
+        "link": "https://www.linkedin.com/posts/connor-loi_customers-were-ignoring-half-of-our-product-activity-7488635791338881025-D3qD",
+        "title": "Customers were ignoring half of our product. Some of our happiest customers who loved Replicas used it as a pure background agent. Firing off long\u2026",
+        "img": "https://static.licdn.com/aero-v1/sc/h/53n89ecoxpr1qrki1do3alazb",
+        "id": "7488635791338881025"
+      },
+      {
+        "interaction": "Liked by Alex Zhu",
+        "link": "https://www.linkedin.com/posts/jia-chen-in_should-you-start-a-startup-or-work-for-a-activity-7487839373573599234-qdK6",
+        "title": "should you start a startup or work for a startup first? written without ai. so you've been thinking about entering the startup space. maybe you're a\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQHxebXHwl7f1w/feedshare-shrink_800/B56Z.Shc91GsAc-/0/1784869671196?e=2147483647&v=beta&t=UNlGno1TDVObaQO__BJBlbZdNwYxFMvlX8_TZGbzsnk",
+        "id": "7487839373573599234"
+      },
+      {
+        "interaction": "Liked by Alex Zhu",
+        "link": "https://www.linkedin.com/posts/adelwu_2-years-ago-i-walked-away-from-my-faang-eng-activity-7485729129871433728-YROK",
+        "title": "2 years ago I walked away from my FAANG eng job and ended up joining a 7-person startup to do marketing, and here are some lessons along the\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQFBwYdRb_z_WQ/feedshare-shrink_800/B56Z.IyE3aH4Ac-/0/1784706256657?e=2147483647&v=beta&t=UwGWMssUcCGT9W5Hb8xc83hnq0IaRVGrc3ckvw6qBSQ",
+        "id": "7485729129871433728"
+      },
+      {
+        "interaction": "Liked by Alex Zhu",
+        "link": "https://www.linkedin.com/posts/navreet-k-sidhu_with-the-house-of-commons-adjourned-for-the-activity-7481460022523088897-hkCJ",
+        "title": "With the House of Commons adjourned for the summer, I am reflecting on an incredible three years on Parliament Hill. From my first role to my time\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQFkHlwxzOrwKQ/feedshare-shrink_800/B56Z9N8GzXHUAg-/0/1783719030789?e=2147483647&v=beta&t=ANwmcvY1VpHIWjRABfm7h-XDBWdJj9p0jAP-kc6PIN8",
+        "id": "7481460022523088897"
+      }
+    ],
+    "linkedin_num_id": "898082006",
+    "banner_image": "https://media.licdn.com/dms/image/v2/D5616AQHV4YNebrpqHg/profile-displaybackgroundimage-shrink_200_800/B56ZjpJAu4IAAc-/0/1756258111708?e=2147483647&v=beta&t=qOSBYG62EdhlBmAqeqmx1pMBM3Gh31-NfVGNsviZip4",
+    "honors_and_awards": [
+      {
+        "title": "Notable Achievements in Competitive Debating",
+        "publication": "Canadian University Society for Intercollegiate Debate",
+        "date": "2026-04-01T00:00:00.000Z",
+        "description": "Partial Double Octofinalist | Sofia World Universities Debating Championships 2026 | Best Waterloo performance at Worlds since 1991, placing 48th out of 330+ of the world\u2019s best teams Back-to-back Champion | Central Canadian Championships 2024 and 2025 Grand Finalist and 10th Speaker | Tokyo IV 2025 | Top 4 out of 120 global teams Runners-up and 7th Speaker | Berkeley IV 2026 | 2nd out of 66 North American teams Semifinalist | Hart House IV 2024 | Top 8 out\u2026 Show more"
+      },
+      {
+        "title": "Canada's Largest AI Hackathon (GenAI Genesis) - Best Hack Using Google Technologies",
+        "publication": "-",
+        "date": "2024-03-01T00:00:00.000Z",
+        "description": "Developed a conversational AI capable of detecting tuberculosis at an early stage and summarizing potential diagnoses in a patient report for doctors to review. Leveraged RAG (Retrieval Augmented Generation) on region-specific medical literature to provide Google's Gemini with further context."
+      },
+      {
+        "title": "AP Scholar with Distinction",
+        "publication": "CollegeBoard",
+        "date": "2022-08-01T00:00:00.000Z",
+        "description": "English Literature and Composition: 5 Calculus BC: 5 Language and Composition: 5 Statistics: 5 Computer Science A: 5 Macroeconomics: 5"
+      }
+    ],
+    "similar_profiles": [],
+    "default_avatar": false,
+    "memorialized_account": false,
+    "bio_links": [
+      {
+        "title": "Personal Website",
+        "link": "https://probablyalex.com/"
+      }
+    ],
+    "first_name": "Alex",
+    "last_name": "Zhu",
+    "influencer": false,
+    "timestamp": "2026-08-12T19:13:46.356Z",
+    "input": {
+      "url": "https://www.linkedin.com/in/probablyalexzhu"
+    }
+  },
+  "local_photo": "data\\linkedin_photos\\probablyalexzhu__usr-juDG8tEFKBOPnRV.jpg"
+}

@@ -1,0 +1,48 @@
+{
+  "luma_user_id": "usr-VgxwJpVoi18drCq",
+  "csv_name": "Ed Jung",
+  "csv_linkedin": "https://www.linkedin.com/in/edward-h-jung",
+  "enriched_at": "2026-08-12T19:01:42.790353+00:00",
+  "batch_id": "sd_msqgese9ztya3e3uk",
+  "profile": {
+    "id": "edward-h-jung",
+    "name": "Eddie Jung",
+    "city": "Greater Vancouver Metropolitan Area",
+    "country_code": "CA",
+    "position": null,
+    "about": null,
+    "current_company": {
+      "location": null
+    },
+    "experience": null,
+    "url": "https://fr.linkedin.com/in/edward-h-jung",
+    "education": null,
+    "avatar": "https://media.licdn.com/dms/image/v2/D5603AQFyqdv0YYTLPA/profile-displayphoto-scale_200_200/B56Z9zWGicH4Ac-/0/1784346603082?e=2147483647&v=beta&t=4nRSLdvDLP6kVkhCiC3RLbktKPKEifS0EyYQB1kA00U",
+    "followers": 1799,
+    "connections": 500,
+    "location": null,
+    "input_url": "https://www.linkedin.com/in/edward-h-jung",
+    "linkedin_id": "edward-h-jung",
+    "activity": null,
+    "linkedin_num_id": "1267089027",
+    "banner_image": "https://media.licdn.com/dms/image/v2/D5616AQFGieQPrTjpVw/profile-displaybackgroundimage-shrink_200_800/B56Z9T2udfG8AQ-/0/1783818283407?e=2147483647&v=beta&t=_7jc24v8Ot1Pj-2wgO5KrJIhJpCh7l04CsvN-XQbFEo",
+    "honors_and_awards": null,
+    "similar_profiles": [],
+    "default_avatar": false,
+    "memorialized_account": false,
+    "bio_links": [
+      {
+        "title": "Personal Website",
+        "link": "https://edward-jung.vercel.app/"
+      }
+    ],
+    "first_name": "Eddie",
+    "last_name": "Jung",
+    "influencer": false,
+    "timestamp": "2026-08-12T19:00:18.703Z",
+    "input": {
+      "url": "https://www.linkedin.com/in/edward-h-jung"
+    }
+  },
+  "local_photo": "data\\linkedin_photos\\edward-h-jung__usr-VgxwJpVoi18drCq.jpg"
+}

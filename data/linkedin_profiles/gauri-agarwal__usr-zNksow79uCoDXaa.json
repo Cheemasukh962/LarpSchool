@@ -1,0 +1,202 @@
+{
+  "luma_user_id": "usr-zNksow79uCoDXaa",
+  "csv_name": "Gauri Agarwal",
+  "csv_linkedin": "https://www.linkedin.com/in/gauri-agarwal",
+  "enriched_at": "2026-08-12T19:06:01.818367+00:00",
+  "batch_id": "sd_msqgh02428smzgu5m",
+  "profile": {
+    "id": "gauri-agarwal",
+    "name": "Gauri Agarwal",
+    "city": "San Francisco, California, United States",
+    "country_code": "US",
+    "position": null,
+    "about": null,
+    "current_company": {
+      "link": "https://www.linkedin.com/company/koyal-ai?trk=public_profile_topcard-current-company",
+      "name": "koyal",
+      "company_id": "koyal-ai",
+      "location": null
+    },
+    "experience": null,
+    "url": "https://eg.linkedin.com/in/Gauri-agarwal",
+    "people_also_viewed": [
+      {
+        "profile_link": "https://www.linkedin.com/in/david-nico-lopez",
+        "name": "David Nico Lopez",
+        "about": "Meta",
+        "location": "3K followers Chicago, IL"
+      },
+      {
+        "profile_link": "https://www.linkedin.com/in/siddhi-degaonkar1411",
+        "name": "Siddhi Degaonkar",
+        "about": "Oracle",
+        "location": "2K followers San Francisco Bay Area"
+      },
+      {
+        "profile_link": "https://www.linkedin.com/in/aditya8100",
+        "name": "Aditya Deepak",
+        "about": "Meta",
+        "location": "663 followers Austin, TX"
+      },
+      {
+        "profile_link": "https://www.linkedin.com/in/kaylaleung",
+        "name": "Kayla L.",
+        "about": "Google",
+        "location": "4K followers New York, NY"
+      },
+      {
+        "profile_link": "https://www.linkedin.com/in/maitri-parikh",
+        "name": "Maitri Parikh",
+        "about": "Meta",
+        "location": "2K followers Seattle, WA"
+      },
+      {
+        "profile_link": "https://www.linkedin.com/in/zhiwei-c-018298127",
+        "name": "Zhiwei C.",
+        "about": "Meta",
+        "location": "755 followers United States"
+      },
+      {
+        "profile_link": "https://www.linkedin.com/in/jiamin-he-4bb418125",
+        "name": "Jiamin He",
+        "about": "Google",
+        "location": "2K followers Mountain View, CA"
+      },
+      {
+        "profile_link": "https://www.linkedin.com/in/chen-zeng",
+        "name": "Chen Zeng",
+        "about": "Google DeepMind",
+        "location": "3K followers Mountain View, CA"
+      },
+      {
+        "profile_link": "https://www.linkedin.com/in/linquanchen",
+        "name": "Linquan(Jeffery) Chen",
+        "about": "Facebook",
+        "location": "6K followers Mountain View, CA"
+      },
+      {
+        "profile_link": "https://www.linkedin.com/in/xiangru-shu",
+        "name": "Sophia Shu",
+        "about": "Teladoc Health",
+        "location": "2K followers San Francisco Bay Area"
+      },
+      {
+        "profile_link": "https://www.linkedin.com/in/aaron-ruixin-li-037617150",
+        "name": "Aaron(Ruixin) Li",
+        "about": "Microsoft",
+        "location": "3K followers Redmond, WA"
+      },
+      {
+        "profile_link": "https://in.linkedin.com/in/kevalmorabia",
+        "name": "Keval Morabia",
+        "about": "NVIDIA",
+        "location": "23K followers Ahmedabad"
+      },
+      {
+        "profile_link": "https://www.linkedin.com/in/du-zhang",
+        "name": "Du Zhang",
+        "about": "Meta",
+        "location": "2K followers Sunnyvale, CA"
+      },
+      {
+        "profile_link": "https://cn.linkedin.com/in/liubaige",
+        "name": "Baige(Alice) Liu",
+        "about": "Apple",
+        "location": "4K followers Shanghai, China"
+      },
+      {
+        "profile_link": "https://www.linkedin.com/in/shruthishankar2512",
+        "name": "Shruthi Shankar",
+        "about": "Intuit",
+        "location": "964 followers San Francisco, CA"
+      },
+      {
+        "profile_link": "https://www.linkedin.com/in/zimengqiu",
+        "name": "Zimeng Qiu",
+        "about": "Microsoft AI",
+        "location": "3K followers Bellevue, WA"
+      },
+      {
+        "profile_link": "https://www.linkedin.com/in/yu-wangchanchopee",
+        "name": "Yu Wang",
+        "about": "Google",
+        "location": "3K followers Seattle, WA"
+      },
+      {
+        "profile_link": "https://www.linkedin.com/in/davidokao",
+        "name": "David Okao",
+        "about": "edgetrace",
+        "location": "2K followers San Francisco Bay Area"
+      },
+      {
+        "profile_link": "https://www.linkedin.com/in/tao-lin",
+        "name": "Tao Lin",
+        "about": "RadixArk",
+        "location": "3K followers Greater Boston"
+      },
+      {
+        "profile_link": "https://www.linkedin.com/in/rui-ray-p-a121946a",
+        "name": "Rui (Ray) P.",
+        "about": "Atlassian",
+        "location": "5K followers Redmond, WA"
+      }
+    ],
+    "educations_details": "Massachusetts Institute of Technology",
+    "education": [
+      {
+        "title": "Massachusetts Institute of Technology",
+        "url": "https://www.linkedin.com/school/mit/",
+        "start_year": "2023-08",
+        "end_year": "2025-05",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      },
+      {
+        "start_year": "2016-08",
+        "end_year": "2020-05",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      },
+      {
+        "start_year": "2014",
+        "end_year": "2016",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      },
+      {
+        "start_year": "2012",
+        "end_year": "2014",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      }
+    ],
+    "avatar": "https://media.licdn.com/dms/image/v2/D5603AQF5vjGKknohpw/profile-displayphoto-scale_200_200/B56ZqPmENVHIAY-/0/1763345712599?e=2147483647&v=beta&t=6h819PLKda-JegzHV_B9S2ZAYOiEV934f9YWw_uT8wk",
+    "followers": 1604,
+    "connections": 500,
+    "current_company_company_id": "koyal-ai",
+    "current_company_name": "koyal",
+    "location": "San Francisco",
+    "input_url": "https://www.linkedin.com/in/gauri-agarwal",
+    "linkedin_id": "gauri-agarwal",
+    "activity": null,
+    "linkedin_num_id": "377271169",
+    "banner_image": "https://media.licdn.com/dms/image/v2/D5616AQHxWHFdWG_cpQ/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1735918943623?e=2147483647&v=beta&t=alBoWOEXQCvSXDc8OzDasFE8-PW3z8bgFq72UwJDHLY",
+    "honors_and_awards": null,
+    "similar_profiles": [],
+    "default_avatar": false,
+    "memorialized_account": false,
+    "bio_links": [],
+    "first_name": "Gauri",
+    "last_name": "Agarwal",
+    "influencer": false,
+    "timestamp": "2026-08-12T19:01:55.344Z",
+    "input": {
+      "url": "https://www.linkedin.com/in/gauri-agarwal"
+    }
+  },
+  "local_photo": "data\\linkedin_photos\\gauri-agarwal__usr-zNksow79uCoDXaa.jpg"
+}

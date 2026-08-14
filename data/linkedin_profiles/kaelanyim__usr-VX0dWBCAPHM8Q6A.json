@@ -1,0 +1,96 @@
+{
+  "luma_user_id": "usr-VX0dWBCAPHM8Q6A",
+  "csv_name": "Kaelan Yim",
+  "csv_linkedin": "https://www.linkedin.com/in/kaelanyim",
+  "enriched_at": "2026-08-12T19:11:36.241764+00:00",
+  "batch_id": "sd_msqgoa0o2hh62sia9d",
+  "profile": {
+    "id": "kaelanyim",
+    "name": "Kaelan Yim",
+    "city": "San Francisco Bay Area",
+    "country_code": "US",
+    "position": null,
+    "about": "go to my website -&gt; gyatt.now/blog",
+    "current_company": {
+      "link": "https://www.linkedin.com/company/cambridgeaisafety?trk=public_profile_topcard-current-company",
+      "name": "Cambridge AI Safety Hub",
+      "company_id": "cambridgeaisafety",
+      "location": null
+    },
+    "experience": null,
+    "url": "https://br.linkedin.com/in/kaelanyim",
+    "educations_details": "University of California, Berkeley",
+    "education": null,
+    "avatar": "https://media.licdn.com/dms/image/v2/D5603AQH599SNUGdHaw/profile-displayphoto-scale_200_200/B56ZifIVI_HkAc-/0/1755016418729?e=2147483647&v=beta&t=5Aprp8bDzrxOAYbxCn__1bKCBX2q1UYkA0wsIQtHkzs",
+    "volunteer_experience": [
+      {
+        "info": "I served at my local LifeMoves, a non-profit organization providing individuals with interim housing services and the assistance they need to return to self-sufficiency. Housing is a fundamental human right. Please treat others the way you wish to be treated in return.",
+        "subtitle": "LifeMoves",
+        "title": "Volunteer"
+      },
+      {
+        "subtitle": "Millbrae Bible Church",
+        "title": "Volunteer"
+      }
+    ],
+    "followers": 964,
+    "connections": 500,
+    "current_company_company_id": "cambridgeaisafety",
+    "current_company_name": "Cambridge AI Safety Hub",
+    "publications": [
+      {
+        "title": "Automated transcript analysis for detecting flaws in agentic benchmarks",
+        "date": "July 29, 2026",
+        "description": "via MARS 4"
+      },
+      {
+        "title": "Density bounds of packing",
+        "subtitle": "MIT SIGTBD",
+        "date": "April 10, 2026"
+      },
+      {
+        "title": "Density bounds of packing",
+        "subtitle": "CMU SIGBOVIK",
+        "date": "April 10, 2026"
+      }
+    ],
+    "projects": [
+      {
+        "title": "SL1",
+        "description": "World record low-space research probe collecting atmospheric bacteria samples"
+      }
+    ],
+    "location": null,
+    "input_url": "https://www.linkedin.com/in/kaelanyim",
+    "linkedin_id": "kaelanyim",
+    "activity": null,
+    "linkedin_num_id": "990500488",
+    "banner_image": "https://media.licdn.com/dms/image/v2/D5616AQG-7jmDxzD-Sw/profile-displaybackgroundimage-shrink_200_800/B56ZifJZvRHMAc-/0/1755016699216?e=2147483647&v=beta&t=4JCUCJ0Yy16GdBe8wp74QdB0Z7lu5sHzALeuQ5-2dJ8",
+    "honors_and_awards": [
+      {
+        "title": "Competitions",
+        "publication": "-",
+        "date": null,
+        "description": "Caltech Hacktech (1st place) Falling Walls Lab SF (1st, invited to speak in Berlin as US representative) Flare x Google (2nd place) Yale YQuantum (2nd place) Berkeley Trading Invitational (3rd overall, 2nd poker) ByteDance Trae (3rd + won a pair of Meta Ray-Bans) G-Research Quant Challenge (3rd place) Wells Fargo DSS (finalist, top 3 algo) SCU Hack for Humanity (finalist) Liner AI x SBC (1st place) Haas Rising C-Suites (3rd place) Really good at some instrument\u2026 Show more"
+      },
+      {
+        "title": "Presidential Award for Educational Excellence",
+        "publication": "Donald Trump",
+        "date": null,
+        "description": null
+      }
+    ],
+    "similar_profiles": [],
+    "default_avatar": false,
+    "memorialized_account": false,
+    "bio_links": [],
+    "first_name": "Kaelan",
+    "last_name": "Yim",
+    "influencer": false,
+    "timestamp": "2026-08-12T19:07:33.982Z",
+    "input": {
+      "url": "https://www.linkedin.com/in/kaelanyim"
+    }
+  },
+  "local_photo": "data\\linkedin_photos\\kaelanyim__usr-VX0dWBCAPHM8Q6A.jpg"
+}

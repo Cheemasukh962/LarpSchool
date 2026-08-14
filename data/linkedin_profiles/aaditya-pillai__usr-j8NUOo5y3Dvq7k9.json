@@ -1,0 +1,128 @@
+{
+  "luma_user_id": "usr-j8NUOo5y3Dvq7k9",
+  "csv_name": "Aaditya Pillai",
+  "csv_linkedin": "https://www.linkedin.com/in/aaditya-pillai",
+  "enriched_at": "2026-08-12T19:25:08.260875+00:00",
+  "batch_id": "sd_msqh7u7r1xzwli6vdk",
+  "profile": {
+    "id": "aaditya-pillai",
+    "name": "Aaditya Pillai",
+    "city": "Santa Clara, California, United States",
+    "country_code": "US",
+    "position": null,
+    "about": null,
+    "current_company": {
+      "link": "https://www.linkedin.com/company/safebeatrx?trk=public_profile_topcard-current-company",
+      "name": "SafeBeat Rx",
+      "company_id": "safebeatrx",
+      "location": null
+    },
+    "experience": null,
+    "url": "https://pl.linkedin.com/in/aaditya-pillai",
+    "educations_details": "UC San Diego",
+    "education": [
+      {
+        "title": "UC San Diego",
+        "url": "https://www.linkedin.com/school/ucsandiego/",
+        "start_year": "2024",
+        "end_year": "2028",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      },
+      {
+        "start_year": "2017",
+        "end_year": "2024",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      }
+    ],
+    "avatar": "https://static.licdn.com/aero-v1/sc/h/9c8pery4andzj6ohjkjp54ma2",
+    "followers": 601,
+    "connections": 500,
+    "current_company_company_id": "safebeatrx",
+    "current_company_name": "SafeBeat Rx",
+    "location": "Santa Clara",
+    "input_url": "https://www.linkedin.com/in/aaditya-pillai",
+    "linkedin_id": "aaditya-pillai",
+    "activity": [
+      {
+        "interaction": "Aaditya Pillai shared this",
+        "link": "https://www.linkedin.com/posts/aaditya-pillai_36-hours-in-lamaybe-5-hours-of-sleep-activity-7455679203355590658-WoGy",
+        "title": "36 hours in LA. Maybe 5 hours of sleep. By the end of the weekend, we placed 2nd overall at LA Hacks and won the Fetch.ai Best Use of ASI:One prize. We built around a simple but urgent reality: Disasters like building collapses don\u2019t just trap people, they create conditions where safely reaching those in need becomes the biggest challenge. We built RIIS, a system designed for the moments when responders can\u2019t safely enter yet. An autonomous rover navigates unstable environments, detects survivors, establishes voice contact, and generates structured triage reports using a multi agent AI pipeline. We also reconstruct the entire scene in 3D using Gaussian Splatting, so responders can understand and plan before ever stepping inside. Awesome building this with Srinivas Sriram , Krish Kankure , and Varun Sinha . Demo Video: https://lnkd.in/gJ3xHDjP Devpost: https://lnkd.in/gWjiWQgH ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQEFBzbtdnM8Jw/feedshare-shrink_800/B56Z3fkuUOG0Ac-/0/1777572440346?e=2147483647&v=beta&t=Udt3GrHKlFlH8ICuJZR0IXGpNJsKXpYfOjKRwWE7JE0",
+        "id": "5"
+      },
+      {
+        "interaction": null,
+        "link": "https://www.linkedin.com/posts/krishkankure_5-minutes-after-my-differential-equations-activity-7454991709953843200-F_zm",
+        "title": "5 minutes after my differential equations midterm, we got on a bus to Los Angeles. 36 hours later, we placed 2nd overall at LA Hacks and won the Fetch.ai sponsor prize \ud83c\udfc6 We built RIIS. When buildings collapse, people don't die because rescue is impossible. They die because care cannot safely reach them in time. RIIS sends an autonomous rover into the rubble before responders can safely enter. It detects survivors, initiates voice contact, generates structured triage reports using multi-agent AI, and reconstructs the entire scene in 3D via Gaussian Splatting so responders can walk through it in VR before arriving. Built with Varun Sinha , Aaditya Pillai , and Srinivas Sriram . Demo Video: https://lnkd.in/gJ3xHDjP Devpost: https://lnkd.in/gWjiWQgH GitHub: https://lnkd.in/gdJhpi3b ...more ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQHEm_IHmRznoQ/feedshare-shrink_1280/B56Z3VzdIdJ4AM-/0/1777408529153?e=2147483647&v=beta&t=SKK-dq-neeTuqRMafR48xd5uMSUY1ZKyCER2BoLy_tw",
+        "id": "7454991709953843200"
+      },
+      {
+        "interaction": null,
+        "link": "https://www.linkedin.com/posts/srinivas-profile_last-weekend-i-participated-in-diamondhacks-activity-7448814338901102592-EK_j",
+        "title": "Last weekend, I participated in DiamondHacks 2026, where Aaditya Pillai , Krish Kankure , Varun Sinha , and I built LungIQ: a project focused on improving lung health analysis with an interactive AI dashboard. We ended up winning the Health track, which was a great validation of our team's effort and the way we executed our project idea. Over a short time, we worked on: \u2022 building an end-to-end pipeline for analyzing lung-related data \u2022 integrating machine learning models into a usable interface \u2022 thinking through how this could be applied in real-world healthcare settings We learned a lot from this hackathon, especially about building fast, iterating quickly, and communicating technical ideas clearly. Huge thanks to ACM at UC San Diego for hosting this hackathon! Check out our project here: https://lnkd.in/enERZmJr ...more ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQEKBgs5EZsepA/feedshare-shrink_800/B4EZ1.BKkJGYAc-/0/1775935729476?e=2147483647&v=beta&t=ftXbiGz-qAFy-Qla_BXoazI2iI8X_jGGSN-Zu8ARKnU",
+        "id": "7448814338901102592"
+      },
+      {
+        "interaction": "Aaditya Pillai replied to a comment 3mo",
+        "link": null,
+        "title": "Thank you so much Mr. Andrews!",
+        "img": null,
+        "id": null
+      },
+      {
+        "interaction": "Aaditya Pillai liked this",
+        "link": "https://www.linkedin.com/posts/srinivas-profile_what-if-robot-footage-could-become-more-than-activity-7457552416788361216-xKbM",
+        "title": "What if robot footage could become more than video? Proud to share that our team won 2nd place at LA Hacks and Fetch.ai \u2019s Best Use of ASI:One award with RIIS, a project at the intersection of robotics, 3D reconstruction, and VR. After an earthquake collapse, finding survivors is only part of the challenge. Reaching them safely and quickly is just as critical. RIIS sends an autonomous rover into the rubble before responders enter. It detects survivors, initiates voice contact, generates AI-powered triage reports, and reconstructs the scene in 3D using Gaussian Splatting. Responders can then explore that reconstruction in VR before stepping inside. What started as a weekend build has pushed us toward a bigger question: how can spatial AI turn real-world environments into live, reliable, and interactive 3D experiences that teams can deploy, explore, and act on at scale? If you\u2019re working on 3D reconstruction, spatial AI, robotics, or AR/VR, I\u2019d love to connect and talk. Grateful to my teammates Krish Kankure , Aaditya Pillai , and Varun Sinha , and to LA Hacks for an incredible experience. This is just the start.",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQFoZbOrGO7r8g/feedshare-shrink_800/B4EZ35YRwYJ4Ac-/0/1778005385877?e=2147483647&v=beta&t=y0AHqB98YAptAwa5CCpkdsHExTxkuJxZhuC9xVgr36E",
+        "id": "7457552416788361216"
+      },
+      {
+        "interaction": "Aaditya Pillai liked this",
+        "link": "https://www.linkedin.com/posts/issacroy_this-feels-so-surreal-but-im-excited-to-activity-7457077832700284929-QI5l",
+        "title": "This feels so surreal, but I\u2019m excited to share that I\u2019ll be joining Apple as a Software Engineering Intern in Cupertino this summer! I'll be working on the Apple WebKit Developer Productivity team, focusing on the infrastructure, build systems, and tooling that helps hundreds of engineers move faster. Huge thank you to my recruiter, Hillary Sanchez Campo , for making the crazy process feel so human and to Joshua Samuel for his guidance and advice. If you\u2019ll be in the Bay Area this summer, I\u2019d love to connect :) P.S. - Yes, I spent 10 mins biting an Apple into the perfect shape for this",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQEC9tjcVffk_g/feedshare-shrink_800/B56Z3vj0MmKwAc-/0/1777840637137?e=2147483647&v=beta&t=_eqZpE0LRrvNJDCXec7-wRbSxOLMg-vl3YX0x64exGM",
+        "id": "7457077832700284929"
+      },
+      {
+        "interaction": "Aaditya Pillai liked this",
+        "link": "https://www.linkedin.com/posts/varunsinha99_disappointed-to-announce-i-wore-the-same-activity-7456114439331790848-Kg7y",
+        "title": "Disappointed to announce I wore the same shirt at LA Hacks as I did at DiamondHacks . However, happy to announce we placed 2nd overall and won the Fetch.ai Best Use of ASI:One prize. We built RIIS. When a building collapses, survival rates drop with every passing minute, not because rescue is impossible, but because care can't reach the patient in time. The barrier isn't medical capability. It's access. RIIS is a ground robot that enters collapsed structures ahead of human responders, streaming live video to a command dashboard where YOLOv8 runs in real time, drawing skeleton overlays on any survivors it detects. From there a four-agent AI pipeline kicks in automatically. Triage assessment gets generated using ASI-1 Mini, the rover speaks to the patient in their native language via ElevenLabs , and the scene gets reconstructed in 3D so incident commanders can walk through it in VR before anyone steps inside. Really proud of what we built with Krish Kankure , Aaditya Pillai , and Srinivas Sriram . Demo Video: https://lnkd.in/g3WrPzPz Devpost: https://lnkd.in/gXMTBTrc Github: https://lnkd.in/gGsyzYZM",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQHFEzV0ZDIE_A/feedshare-shrink_1280/B56Z3lwjykIsAQ-/0/1777676205447?e=2147483647&v=beta&t=OopCuBOnTP4l9hMuuVC_37_VDKwd4aGRp3T2Mj5N7rA",
+        "id": "7456114439331790848"
+      }
+    ],
+    "linkedin_num_id": "1152959541",
+    "banner_image": "https://static.licdn.com/aero-v1/sc/h/5q92mjc5c51bjlwaj3rs9aa82",
+    "honors_and_awards": [
+      {
+        "title": "SPV Most Promising Young Scientist",
+        "publication": "SPV Market Research",
+        "date": "2022-03-01T00:00:00.000Z",
+        "description": null
+      },
+      {
+        "title": "FIRST Dean's List Semi-Finalist",
+        "publication": "FIRST Tech Challenge",
+        "date": null,
+        "description": null
+      }
+    ],
+    "similar_profiles": [],
+    "default_avatar": true,
+    "memorialized_account": false,
+    "bio_links": [],
+    "first_name": "Aaditya",
+    "last_name": "Pillai",
+    "influencer": false,
+    "timestamp": "2026-08-12T19:22:44.923Z",
+    "input": {
+      "url": "https://www.linkedin.com/in/aaditya-pillai"
+    }
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "luma_user_id": "usr-1ncTLo5GrEyBg23",
+  "csv_name": "Yihan Hong",
+  "csv_linkedin": "https://www.linkedin.com/in/yihan-hon",
+  "enriched_at": "2026-08-12T19:25:08.255146+00:00",
+  "batch_id": "sd_msqh7u7r1xzwli6vdk",
+  "profile": {
+    "id": "yihan-hon",
+    "name": "Yihan Hong",
+    "city": "Los Angeles, California, United States",
+    "country_code": "US",
+    "position": null,
+    "about": "I want to move people - whether that is through music, or through software that makes\u2026",
+    "current_company": {
+      "link": "https://www.linkedin.com/company/july-ai?trk=public_profile_topcard-current-company",
+      "name": "July AI",
+      "company_id": "july-ai",
+      "location": null
+    },
+    "experience": null,
+    "url": "https://lb.linkedin.com/in/yihan-hon",
+    "educations_details": "University of Southern California",
+    "education": [
+      {
+        "title": "University of Southern California",
+        "url": "https://www.linkedin.com/school/university-of-southern-california/",
+        "start_year": "2025-08",
+        "end_year": "2028-05",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      },
+      {
+        "start_year": "2021-09",
+        "end_year": "2025-06",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      }
+    ],
+    "avatar": "https://media.licdn.com/dms/image/v2/D5603AQHaF0uunrbSow/profile-displayphoto-scale_200_200/B56Z4Z7dD3G0Ac-/0/1778551477516?e=2147483647&v=beta&t=CuW3yHoMiAjWYj6aMPhnHeMMFjY5LnQP3lEKi6GHnn8",
+    "languages": [
+      {
+        "subtitle": "Native or bilingual proficiency",
+        "title": "English"
+      },
+      {
+        "subtitle": "Native or bilingual proficiency",
+        "title": "Chinese"
+      },
+      {
+        "subtitle": "Limited working proficiency",
+        "title": "French"
+      }
+    ],
+    "followers": 824,
+    "connections": 500,
+    "current_company_company_id": "july-ai",
+    "current_company_name": "July AI",
+    "projects": [
+      {
+        "title": "Trove",
+        "start_date": "Feb 2026",
+        "description": "The end-to-end, back-of-house platform built for perishable-first businesses. ML forecasting sales demand using XGBoost to automatically fill your inventory, so that you can focus on your business."
+      },
+      {
+        "title": "AiEP (SEP x Microsoft for Startups Hackathon Winner)",
+        "description": "A student management tool for special ed teachers that turns learning goals into personalized worksheets in seconds, saving hours of prep time and improving progress tracking."
+      }
+    ],
+    "location": "Los Angeles",
+    "input_url": "https://www.linkedin.com/in/yihan-hon",
+    "linkedin_id": "yihan-hon",
+    "activity": null,
+    "linkedin_num_id": "931306054",
+    "banner_image": "https://media.licdn.com/dms/image/v2/D5616AQFgZyMM0iZqwQ/profile-displaybackgroundimage-shrink_200_800/B56Z4Z7yv8KoAU-/0/1778551566172?e=2147483647&v=beta&t=Rapj9GRVypr5WwlQkhcnn_YimoTcSD8k7n4e5UT8-U0",
+    "honors_and_awards": [
+      {
+        "title": "Director's Scholarship",
+        "publication": "University of Southern California",
+        "date": "2025-03-01T00:00:00.000Z",
+        "description": null
+      },
+      {
+        "title": "Viterbi Scholar",
+        "publication": "University of Southern California",
+        "date": "2025-03-01T00:00:00.000Z",
+        "description": null
+      }
+    ],
+    "similar_profiles": [],
+    "default_avatar": false,
+    "memorialized_account": false,
+    "bio_links": [
+      {
+        "title": "Portfolio",
+        "link": "https://yihan.dev/"
+      }
+    ],
+    "first_name": "Yihan",
+    "last_name": "Hong",
+    "influencer": false,
+    "timestamp": "2026-08-12T19:22:46.856Z",
+    "input": {
+      "url": "https://www.linkedin.com/in/yihan-hon"
+    }
+  },
+  "local_photo": "data\\linkedin_photos\\yihan-hon__usr-1ncTLo5GrEyBg23.jpg"
+}

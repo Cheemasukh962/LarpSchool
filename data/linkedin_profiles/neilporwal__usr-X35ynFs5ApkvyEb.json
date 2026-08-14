@@ -1,0 +1,174 @@
+{
+  "luma_user_id": "usr-X35ynFs5ApkvyEb",
+  "csv_name": "Neil Porwal",
+  "csv_linkedin": "https://www.linkedin.com/in/neilporwal",
+  "enriched_at": "2026-08-12T19:13:35.735983+00:00",
+  "batch_id": "sd_msqguuzo2o546dm49e",
+  "profile": {
+    "id": "neilporwal",
+    "name": "Neil Porwal",
+    "city": "United States",
+    "country_code": "US",
+    "position": null,
+    "about": null,
+    "current_company": {
+      "link": "https://www.linkedin.com/company/d.-e.-shaw-&-co.?trk=public_profile_topcard-current-company",
+      "name": "The D. E. Shaw Group",
+      "company_id": "d.-e.-shaw-&-co.",
+      "location": null
+    },
+    "experience": null,
+    "url": "https://www.linkedin.com/in/neilporwal",
+    "people_also_viewed": [
+      {
+        "profile_link": "https://www.linkedin.com/in/geiger",
+        "name": "Mark Geiger",
+        "about": "CCLD Networks",
+        "location": "29K followers Atlanta, GA"
+      },
+      {
+        "profile_link": "https://www.linkedin.com/in/scott-kuhlman-mba-5843603",
+        "name": "Scott Kuhlman, MBA",
+        "about": "HealthSearch Partners",
+        "location": "28K followers Asheville, NC"
+      },
+      {
+        "profile_link": "https://www.linkedin.com/in/bernie-o-sullivan-pe-64610729",
+        "name": "Bernie O'Sullivan, PE",
+        "about": "Utility Pole Solutions Inc.",
+        "location": "28K followers Las Vegas, NV"
+      },
+      {
+        "profile_link": "https://www.linkedin.com/in/adrian-almeida-s",
+        "name": "Adrian Almeida",
+        "about": "I LOVE PRODUCE LLC",
+        "location": "30K followers Greater Boston"
+      },
+      {
+        "profile_link": "https://www.linkedin.com/in/richgarboski",
+        "name": "Rich Garboski",
+        "about": "eTech.TV",
+        "location": "30K followers New York, NY"
+      },
+      {
+        "profile_link": "https://www.linkedin.com/in/patrickwilsonrealestate",
+        "name": "Patrick Wilson",
+        "about": "Patrick Wilson",
+        "location": "27K followers Destin, FL"
+      },
+      {
+        "profile_link": "https://www.linkedin.com/in/nancy-washburne-a9324a29",
+        "name": "Nancy Washburne",
+        "about": "Nanmar International, Inc.",
+        "location": "29K followers East Lansing, MI"
+      },
+      {
+        "profile_link": "https://in.linkedin.com/in/shalini-ramachari-81954b29",
+        "name": "Shalini Ramachari",
+        "about": "Sansar Tec",
+        "location": "32K followers Bengaluru"
+      },
+      {
+        "profile_link": "https://www.linkedin.com/in/alina-vohra",
+        "name": "Alina Vohra",
+        "about": "Robert Half",
+        "location": "31K followers United States"
+      }
+    ],
+    "educations_details": "Carnegie Mellon University School of Computer Science",
+    "education": [
+      {
+        "title": "Carnegie Mellon University School of Computer Science",
+        "url": "https://www.linkedin.com/school/cmuscs/",
+        "end_year": "2028-05",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      }
+    ],
+    "avatar": "https://media.licdn.com/dms/image/v2/D5603AQELNzEth2yo0g/profile-displayphoto-scale_200_200/B56Z9pryztKgAc-/0/1784184519384?e=2147483647&v=beta&t=hikG4o3QzvtBZ7K1oxVsgNGiuC0VSzb8WfzIPV5_an0",
+    "volunteer_experience": [
+      {
+        "cause": "Education",
+        "duration": "Aug 2021 \u00b7 - Present \u00b7 \n\n5 years 1 month",
+        "duration_short": "- Present",
+        "info": "Previously CEO and CFO.",
+        "start_date": "Aug 2021",
+        "subtitle": "Steel City Codes",
+        "title": "Advisory Board Member"
+      }
+    ],
+    "followers": 802,
+    "connections": 500,
+    "current_company_company_id": "d.-e.-shaw-&-co.",
+    "current_company_name": "The D. E. Shaw Group",
+    "location": null,
+    "input_url": "https://www.linkedin.com/in/neilporwal",
+    "linkedin_id": "neilporwal",
+    "activity": null,
+    "linkedin_num_id": "839594058",
+    "banner_image": "https://static.licdn.com/aero-v1/sc/h/5q92mjc5c51bjlwaj3rs9aa82",
+    "honors_and_awards": [
+      {
+        "title": "1st Place Overall: Jane Street Market Making Challenge",
+        "publication": "CMU Quant Club",
+        "date": null,
+        "description": null
+      },
+      {
+        "title": "2026 Ramp Builders Cup Finalist",
+        "publication": "Ramp USA",
+        "date": null,
+        "description": null
+      },
+      {
+        "title": "2x AIME Qualifier",
+        "publication": "Mathematical Association of America",
+        "date": null,
+        "description": null
+      },
+      {
+        "title": "Bank of America Student Leader",
+        "publication": "Bank of America",
+        "date": null,
+        "description": null
+      },
+      {
+        "title": "International DECA Finalist (Top 15)",
+        "publication": "DECA Inc.",
+        "date": null,
+        "description": null
+      },
+      {
+        "title": "National Junior Science and Humanities Symposium Finalist",
+        "publication": "U.S. Department of Defense",
+        "date": null,
+        "description": null
+      },
+      {
+        "title": "USA Biology Olympiad Semifinalist and Honorable Mention (Top 125)",
+        "publication": "Center for Excellence in Education",
+        "date": null,
+        "description": null
+      },
+      {
+        "title": "USA Computing Olympiad Gold",
+        "publication": "USA Computing Olympiad",
+        "date": null,
+        "description": null
+      }
+    ],
+    "similar_profiles": [],
+    "default_avatar": false,
+    "memorialized_account": false,
+    "bio_links": [],
+    "first_name": "Neil",
+    "last_name": "Porwal",
+    "influencer": false,
+    "timestamp": "2026-08-12T19:12:38.784Z",
+    "input": {
+      "url": "https://www.linkedin.com/in/neilporwal"
+    }
+  },
+  "local_photo": "data\\linkedin_photos\\neilporwal__usr-X35ynFs5ApkvyEb.jpg"
+}

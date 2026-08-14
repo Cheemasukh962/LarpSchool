@@ -1,0 +1,520 @@
+{
+  "luma_user_id": "usr-txAjBGntycqbK7x",
+  "csv_name": "Alp Niksarli",
+  "csv_linkedin": "https://www.linkedin.com/in/alpniksarli",
+  "enriched_at": "2026-08-12T19:25:08.267182+00:00",
+  "batch_id": "sd_msqh7u7r1xzwli6vdk",
+  "profile": {
+    "id": "alpniksarli",
+    "name": "Alp Niksarli",
+    "city": "San Francisco, California, United States",
+    "country_code": "US",
+    "position": null,
+    "about": "AI/ML Engineering - harness for long running agents and RL environments for post-training",
+    "current_company": {
+      "link": "https://www.linkedin.com/company/google?trk=public_profile_topcard-current-company",
+      "name": "Google",
+      "company_id": "google",
+      "location": null
+    },
+    "experience": null,
+    "url": "https://bh.linkedin.com/in/alpniksarli",
+    "educations_details": "Davidson College",
+    "education": [
+      {
+        "title": "Davidson College",
+        "url": "https://www.linkedin.com/school/davidson-college/",
+        "start_year": "2023-08",
+        "end_year": "2027-05",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      },
+      {
+        "start_year": "2018-09",
+        "end_year": "2023-05",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      }
+    ],
+    "avatar": "https://media.licdn.com/dms/image/v2/D4E03AQEz528N2e1LPQ/profile-displayphoto-shrink_200_200/B4EZZQnbSkHcAY-/0/1745109235234?e=2147483647&v=beta&t=fQbe36d9LwJHv5WKut0bNkVN0P9m7mhxvrb0PqQshAI",
+    "courses": [
+      {
+        "subtitle": "DIG 395",
+        "title": "Adv. Full Stack Development"
+      },
+      {
+        "subtitle": "CSC 250",
+        "title": "Computer Organization"
+      },
+      {
+        "subtitle": "DIG 245",
+        "title": "Critical Web Design"
+      },
+      {
+        "subtitle": "CSC 110",
+        "title": "Data Science & Society"
+      },
+      {
+        "subtitle": "CSC 221",
+        "title": "Data Structures"
+      },
+      {
+        "subtitle": "CSC 374",
+        "title": "Deep Learning"
+      },
+      {
+        "subtitle": "CSC 220",
+        "title": "Discrete Structures"
+      },
+      {
+        "subtitle": "DIG 250",
+        "title": "Game Development"
+      },
+      {
+        "subtitle": "CSC 363",
+        "title": "Human Computer Interaction"
+      },
+      {
+        "subtitle": "MAT 150",
+        "title": "Linear Algebra"
+      },
+      {
+        "subtitle": "MAT 210",
+        "title": "Mathematical Modeling"
+      },
+      {
+        "subtitle": "CSC 312",
+        "title": "Software Design"
+      },
+      {
+        "subtitle": "ECO 204",
+        "title": "Stats & Basic Econometrics"
+      },
+      {
+        "subtitle": "CSC 324",
+        "title": "Theory of Computation"
+      }
+    ],
+    "languages": [
+      {
+        "subtitle": "Native or bilingual proficiency",
+        "title": "English"
+      },
+      {
+        "subtitle": "Limited working proficiency",
+        "title": "Spanish"
+      },
+      {
+        "subtitle": "Native or bilingual proficiency",
+        "title": "Turkish"
+      }
+    ],
+    "certifications": [
+      {
+        "meta": "Issued Dec 2025",
+        "subtitle": "CodeSignal",
+        "title": "Susquehanna Coding Assessment (600/600)",
+        "credential_url": null,
+        "credential_id": null
+      },
+      {
+        "meta": "Issued Oct 2025",
+        "subtitle": "CodeSignal",
+        "title": "Uber Pre-Screen (600/600)",
+        "credential_url": null,
+        "credential_id": null
+      },
+      {
+        "meta": "Issued Sep 2025",
+        "subtitle": "CodeSignal",
+        "title": "Tiktok General Coding Assessment (600/600)",
+        "credential_url": null,
+        "credential_id": null
+      }
+    ],
+    "volunteer_experience": [
+      {
+        "duration": "2026 \u00b7 - \n2026 \u00b7 \nless than a year",
+        "duration_short": "- \n2026",
+        "start_date": "2026",
+        "subtitle": "Comma Capital",
+        "title": "Fellow"
+      },
+      {
+        "cause": "Children",
+        "duration": "Mar 2025 \u00b7 - Present \u00b7 \n\n1 year 6 months",
+        "duration_short": "- Present",
+        "start_date": "Mar 2025",
+        "subtitle": "THOMPSON Child & Family Focus",
+        "title": "AI Developer"
+      },
+      {
+        "cause": "Health",
+        "duration": "Sep 2023 \u00b7 - \nMay 2024 \u00b7 \n9 months",
+        "duration_short": "- \nMay 2024",
+        "start_date": "Sep 2023",
+        "subtitle": "Mental Health America of Central Carolinas",
+        "title": "Wordpress Developer"
+      },
+      {
+        "cause": "Education",
+        "duration": "Feb 2023 \u00b7 - \nJun 2023 \u00b7 \n5 months",
+        "duration_short": "- \nJun 2023",
+        "info": "Initiated efforts to mentor high school students and guide them with their college placement exams who have been affected by the huge earthquake in southern Turkey.",
+        "start_date": "Feb 2023",
+        "subtitle": "National Earthquake Educational Assistance",
+        "title": "Exam Mentor"
+      },
+      {
+        "cause": "Science and Technology",
+        "duration": "Oct 2021 \u00b7 - \nFeb 2022 \u00b7 \n5 months",
+        "duration_short": "- \nFeb 2022",
+        "start_date": "Oct 2021",
+        "subtitle": "Coding for Everyone",
+        "title": "Instructor"
+      },
+      {
+        "cause": "Education",
+        "duration": "Jun 2021 \u00b7 - \nJul 2021 \u00b7 \n2 months",
+        "duration_short": "- \nJul 2021",
+        "start_date": "Jun 2021",
+        "subtitle": "English 4 Fun",
+        "title": "Project Leader"
+      },
+      {
+        "cause": "Science and Technology",
+        "duration": "Oct 2020 \u00b7 - \nApr 2021 \u00b7 \n7 months",
+        "duration_short": "- \nApr 2021",
+        "start_date": "Oct 2020",
+        "subtitle": "The Euler Project",
+        "title": "English Translator"
+      },
+      {
+        "cause": "Children",
+        "duration": "Dec 2020 \u00b7 - \nFeb 2021 \u00b7 \n3 months",
+        "duration_short": "- \nFeb 2021",
+        "start_date": "Dec 2020",
+        "subtitle": "Funglish Project",
+        "title": "Educator"
+      },
+      {
+        "duration": "Sep 2020 \u00b7 - \nDec 2020 \u00b7 \n4 months",
+        "duration_short": "- \nDec 2020",
+        "start_date": "Sep 2020",
+        "subtitle": "RC CIP Leadership Training Program",
+        "title": "Leadership Trainee"
+      },
+      {
+        "cause": "Children",
+        "duration": "Mar 2019 \u00b7 - \nApr 2019 \u00b7 \n2 months",
+        "duration_short": "- \nApr 2019",
+        "start_date": "Mar 2019",
+        "subtitle": "Ayval\u0131k Spring CIP",
+        "title": "Volunteer"
+      },
+      {
+        "cause": "Human Rights",
+        "duration": "Dec 2018 \u00b7 - \nMar 2019 \u00b7 \n4 months",
+        "duration_short": "- \nMar 2019",
+        "start_date": "Dec 2018",
+        "subtitle": "\u00c7orbada Tuzun Olsun Derne\u011fi",
+        "title": "Student Volunteer"
+      }
+    ],
+    "followers": 2839,
+    "connections": 500,
+    "current_company_company_id": "google",
+    "current_company_name": "Google",
+    "publications": [
+      {
+        "title": "Identification of Books That are Suitable for Middle School Students Using Artificial Neural Networks",
+        "subtitle": "arXiv",
+        "date": "November 9, 2023"
+      }
+    ],
+    "patents": [
+      {
+        "title": "Techniques for Detecting the Amount of Salt in Concrete Structures",
+        "date_issued": "March 20, 2025",
+        "patents_id": "WO2025058589"
+      }
+    ],
+    "projects": [
+      {
+        "title": "GrotN",
+        "start_date": "Apr 2024",
+        "description": "AI copilot for rental search, raised $10k+"
+      },
+      {
+        "title": "CourseCatch",
+        "start_date": "Jan 2025",
+        "description": "Notifying Davidson students about their desired classes and hybrid recommendation algorithm for next class, used by more than half the campus"
+      },
+      {
+        "title": "Scrapista",
+        "start_date": "Feb 2021",
+        "description": "Python framework for web crawling infrastructure"
+      },
+      {
+        "title": "Biolob",
+        "start_date": "Aug 2021",
+        "description": "Chatbot with speech recognition to provide people psychological support"
+      },
+      {
+        "title": "Chat Rooms",
+        "start_date": "Apr 2021",
+        "description": "WhatsApp-like multi-room chatting app"
+      }
+    ],
+    "organizations": [
+      {
+        "title": "Limitless Makers",
+        "membership_type": "Student",
+        "start_date": "Jul 2021",
+        "end_date": "Sep 2021",
+        "description": "Limitless Makers is a summer camp for which students gather from all around Turkey. In this program we have researched, learnt and produced upon modern technologies. In addition, we got a chance to listen to business owner speakers.",
+        "membership_number": null
+      }
+    ],
+    "location": "San Francisco",
+    "input_url": "https://www.linkedin.com/in/alpniksarli",
+    "linkedin_id": "alpniksarli",
+    "activity": [
+      {
+        "interaction": "Liked by Alp Niksarli",
+        "link": "https://www.linkedin.com/posts/bryantbarr_davidson-college-president-doug-hicks-recently-activity-7493367359504637953-vJkO",
+        "title": "Davidson College President Doug Hicks recently wrote in Fortune (see the first comment below) that a liberal arts education makes graduates \"AI\u2026",
+        "img": "https://static.licdn.com/aero-v1/sc/h/53n89ecoxpr1qrki1do3alazb",
+        "id": "7493367359504637953"
+      },
+      {
+        "interaction": "Liked by Alp Niksarli",
+        "link": "https://tr.linkedin.com/posts/didenaz-polat-69684b1a4_enerjisa-m%C3%BC%C5%9Fteri-%C3%A7%C3%B6z%C3%BCmleri-b%C3%BCnyesinde-enerji-activity-7493255036001521664-bLhT",
+        "title": "Enerjisa M\u00fc\u015fteri \u00c7\u00f6z\u00fcmleri b\u00fcnyesinde, Enerji Verimlili\u011fi departman\u0131nda ger\u00e7ekle\u015ftirdi\u011fim yaz staj\u0131m\u0131 tamamlam\u0131\u015f bulunuyorum. \ud83c\udf89 Staj s\u00fcrecim\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4D22AQEE8_DtGAzsuQ/feedshare-image-high-res/B4DZ_1jt1YJwAU-/0/1786531210088?e=2147483647&v=beta&t=F_zX1csNP1OuXv5yJUfyzjAkm1rF1G7K7h29ZpxY7Nk",
+        "id": "7493255036001521664"
+      },
+      {
+        "interaction": "Liked by Alp Niksarli",
+        "link": "https://www.linkedin.com/posts/dorukdegerli_first-trip-around-the-sun-with-linkedin-activity-7493104262504341504-mEqI",
+        "title": "first trip around the sun with LinkedIn",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQFU9AFKWPOGdg/feedshare-shrink_800/B56Z_zanqtH0Ac-/0/1786495270280?e=2147483647&v=beta&t=psPAoH3O2Hguju_rjIbrXHSmqdx6HV5oAQek4yWgG_8",
+        "id": "7493104262504341504"
+      },
+      {
+        "interaction": "Liked by Alp Niksarli",
+        "link": "https://www.linkedin.com/posts/elizabethsbrigham_tedx-ted-goodspace-activity-7492953150669291520-zosh",
+        "title": "\ud83d\udea8 I'm so excited to share that Davidson College will be hosting an independent TEDx event on Friday, February 19, 2027! \ud83d\udea8 This year, we are\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQG9cfKfBD11Nw/feedshare-image-high-res/B4EZ_xRMC7HYAY-/0/1786459243155?e=2147483647&v=beta&t=0x38GB-z-e2NIeArkT3tFqovfliaPDhBYodww5yqmaI",
+        "id": "7492953150669291520"
+      },
+      {
+        "interaction": "Liked by Alp Niksarli",
+        "link": "https://www.linkedin.com/posts/arslanfatih_joining-cursor-activity-7492663299331801088-xaYD",
+        "title": "I\u2019m excited to share that I\u2019m joining Cursor (soon to be part of SpaceX) to work on Cloud Agents. I\u2019ll still be managing state, but agents this time\u2026",
+        "img": "https://media.licdn.com/dms/image/sync/v2/D4D27AQGvjwKE4UvtJA/articleshare-shrink_800/B4DZ_tJRLqGwAY-/0/1786390058074?e=2147483647&v=beta&t=hX0vDpAMWWvj0nPTPW4FSoWeSiDy5RUeOjXardCBUsU",
+        "id": "7492663299331801088"
+      },
+      {
+        "interaction": "Liked by Alp Niksarli",
+        "link": "https://tr.linkedin.com/posts/swipelinetr_2012den-bu-yana-google-deepmind-b%C3%BCnyesinde-activity-7491046384511541248-yRkI",
+        "title": "2012'den bu yana Google DeepMind b\u00fcnyesinde yapay zeka ara\u015ft\u0131rmalar\u0131na y\u00f6neticilik dahil olmak \u00fczere \u00e7e\u015fitli pozisyonlarda katk\u0131 sa\u011flayan, 2025'te\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4D22AQFYYLZnvSp9Sw/feedshare-image-high-res/B4DZ_WK_Y0IcAU-/0/1786004633442?e=2147483647&v=beta&t=dZpRQqCihh5vRsWQa7DVPLpjYz9pR5Dy_QJlLleVMo4",
+        "id": "7491046384511541248"
+      },
+      {
+        "interaction": "Liked by Alp Niksarli",
+        "link": "https://www.linkedin.com/posts/thervivek_the-lionel-messi-of-google-just-left-be-activity-7491361501312884736-XzmD",
+        "title": "the Lionel Messi of Google just left > be Jeff Dean > join Google in 1999. Employee #30 > build mapreduce, then bigtable, then spanner > don\u2019t stop,\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5610AQHWfyzWAGpdWA/image-shrink_800/B56Z_aplb7IMAg-/0/1786079762435?e=2147483647&v=beta&t=n5G_YbridXohuU7yfJn-HPTczMfl9_dWfo0H5FOWnWA",
+        "id": "7491361501312884736"
+      },
+      {
+        "interaction": "Liked by Alp Niksarli",
+        "link": "https://www.linkedin.com/posts/globalturksai_koray-kavukcuoglu-will-lead-google-deepmind-activity-7490844015852974082-DaR1",
+        "title": "koray kavukcuoglu will lead Google DeepMind reporting directly to Sundar Pichai. Previously the unit's CTO, he retains his role as Google's Chief AI\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQGRHncm3Pbkyw/feedshare-image-high-res/B56Z_TS8HpHAAY-/0/1785956385478?e=2147483647&v=beta&t=PZ4lAHr5edqqwZ0uIMUYiVmsSQZtBiQt8a-ejuMzE2I",
+        "id": "7490844015852974082"
+      },
+      {
+        "interaction": "Liked by Alp Niksarli",
+        "link": "https://www.linkedin.com/posts/emreokcular_applied-ai-engineer-digital-natives-activity-7482709041664835586-rbC1",
+        "title": "We\u2019re hiring at OpenAI for AI Deployment Engineers to shape and safely deploy machine intelligence! You\u2019ll work alongside Research, Product, GTM\u2026",
+        "img": "https://media.licdn.com/dms/image/sync/v2/D5627AQGv6M-e3RtdfA/articleshare-shrink_1280_800/B56Z9NdbCOKUAg-/0/1783710986675?e=2147483647&v=beta&t=_DCMLMEH8gXo1dl4Db7gdOE0sBoN_UINqqVhpL9o0Wk",
+        "id": "7482709041664835586"
+      },
+      {
+        "interaction": "Liked by Alp Niksarli",
+        "link": "https://www.linkedin.com/posts/pacisnkubito_as-i-wrap-up-my-internship-at-trane-i-look-activity-7488991578657808384-_a42",
+        "title": "As I wrap up my internship at Trane, I look back and realize how much I learned in 10 weeks. During this experience, I had the opportunity to\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQHMvt5_txy1nQ/feedshare-image-high-res/B56Z.4.J5RIcAU-/0/1785514729367?e=2147483647&v=beta&t=k8tMPCBC_WQRJ8F0Z2tXXzVdzM1qW5OyfF2elW3Qwso",
+        "id": "7488991578657808384"
+      },
+      {
+        "interaction": "Liked by Alp Niksarli",
+        "link": "https://www.linkedin.com/posts/bartu-gokcen-8069002a3_i-am-thrilled-to-share-that-ive-started-activity-7487856505178824704-DS1g",
+        "title": "I am thrilled to share that I\u2019ve started my internship at Nurol Investment Bank I\u2019m grateful for this opportunity and excited to learn, grow, and\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4D22AQG8Rib2kq-l3w/feedshare-image-high-res/B4DZ.o1yp7IwAU-/0/1785244106311?e=2147483647&v=beta&t=MUde-H4kx3CzYhiEPyW8Y0J0s9BPBaSfrUtBulqemFY",
+        "id": "7487856505178824704"
+      },
+      {
+        "interaction": "Liked by Alp Niksarli",
+        "link": "https://www.linkedin.com/posts/mosaicresearch_new-research-from-databricks-shows-that-data-activity-7486592974030766080-Q0Nt",
+        "title": "New research from Databricks shows that data agents can improve accuracy and lower cost at the same time. We evaluated Genie Code against three\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5610AQGCRWSwmY8M9Q/image-shrink_1280/B56Z.W4nm.GcAc-/0/1784942853015?e=2147483647&v=beta&t=0Nh0cdIzeQ0aKBF-hjBaVn7fS0Q1JpxT8-Rtno3fXho",
+        "id": "7486592974030766080"
+      },
+      {
+        "interaction": "Liked by Alp Niksarli",
+        "link": "https://www.linkedin.com/posts/julianeagu_we-found-that-improving-data-agent-quality-activity-7486796733142896640-oZkN",
+        "title": "We found that improving data agent quality also improves efficiency. Sometimes more is less: agents that take long, exploratory random walks are\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5610AQGCRWSwmY8M9Q/image-shrink_1280/B56Z.W4nm.GcAc-/0/1784942853015?e=2147483647&v=beta&t=0Nh0cdIzeQ0aKBF-hjBaVn7fS0Q1JpxT8-Rtno3fXho",
+        "id": "7486796733142896640"
+      },
+      {
+        "interaction": "Liked by Alp Niksarli",
+        "link": "https://www.linkedin.com/posts/richard-noguchi_looking-for-swe-internships-and-new-grad-activity-7486127315123503104-qOB9",
+        "title": "Looking for SWE internships and new grad roles at Ramp? Come meet us \ud83d\udd25 Last week, we had a great time connecting with students at Greylock\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4D22AQEEFVrQUEsJeQ/feedshare-shrink_800/B4DZ.QRHzlGwAc-/0/1784831835759?e=2147483647&v=beta&t=PgRWdMvFmLAPz4uA6pnPbfhd4ftxP0B4ZTlfvqAq5Jg",
+        "id": "7486127315123503104"
+      }
+    ],
+    "linkedin_num_id": "880522755",
+    "banner_image": "https://media.licdn.com/dms/image/v2/D4E16AQHq6u5S84e4sg/profile-displaybackgroundimage-shrink_200_800/B4EZzvnC5zHQAU-/0/1773546516918?e=2147483647&v=beta&t=b8iv3UFQBeM4Z8fniPFJBnm7TD8f33j8T5CmyD9GsI0",
+    "honors_and_awards": [
+      {
+        "title": "Optiver Challenge Winner",
+        "publication": "Ada Hacks",
+        "date": "2025-10-01T00:00:00.000Z",
+        "description": null
+      },
+      {
+        "title": "1st Place Winner - Avinger Impact Fund",
+        "publication": "-",
+        "date": "2024-11-01T00:00:00.000Z",
+        "description": null
+      },
+      {
+        "title": "Best Infosys Hack",
+        "publication": "HackNC",
+        "date": "2024-11-01T00:00:00.000Z",
+        "description": "https://devpost.com/software/pragma-hx4nk6"
+      },
+      {
+        "title": "4th place in ICPC, North America Mid-Atlantic Region",
+        "publication": "ICPC",
+        "date": "2024-10-01T00:00:00.000Z",
+        "description": null
+      },
+      {
+        "title": "Best AI Project with Cloudflare",
+        "publication": "HackHarvard",
+        "date": "2024-10-01T00:00:00.000Z",
+        "description": "https://devpost.com/software/open-context"
+      },
+      {
+        "title": "1st Place Winner",
+        "publication": "VandyHacks",
+        "date": "2024-09-01T00:00:00.000Z",
+        "description": "https://devpost.com/software/spyder-k8qf2o"
+      },
+      {
+        "title": "Best use of Defang",
+        "publication": "VandyHacks",
+        "date": "2024-09-01T00:00:00.000Z",
+        "description": "https://devpost.com/software/spyder-k8qf2o"
+      },
+      {
+        "title": "Audience Choice Winner - Nisbet Venture Fund",
+        "publication": "Hurt Hub@Davidson",
+        "date": "2024-04-01T00:00:00.000Z",
+        "description": null
+      },
+      {
+        "title": "6th place in ICPC, North America Mid-Atlantic Region",
+        "publication": "ICPC",
+        "date": "2023-10-01T00:00:00.000Z",
+        "description": null
+      },
+      {
+        "title": "Best Use of Taipy",
+        "publication": "HopHacks",
+        "date": "2023-09-01T00:00:00.000Z",
+        "description": "https://devpost.com/software/avi-cenna"
+      },
+      {
+        "title": "AP\u00ae Scholar with Distinction",
+        "publication": "College Board",
+        "date": "2023-07-01T00:00:00.000Z",
+        "description": null
+      },
+      {
+        "title": "The Harold L. Scott Award for Outstanding Student Athlete",
+        "publication": "Robert College",
+        "date": "2023-06-01T00:00:00.000Z",
+        "description": null
+      },
+      {
+        "title": "Regional Champion of 54. T\u00dcB\u0130TAK 2204-A Scientific Research Contest for High School Students",
+        "publication": "T\u00dcB\u0130TAK",
+        "date": "2023-04-01T00:00:00.000Z",
+        "description": "1st place in Istanbul under the software category."
+      },
+      {
+        "title": "Winner in Earthquake Prevention and Search & Rescue Technologies Hackathon",
+        "publication": "Entertech Istanbul Teknokent",
+        "date": "2023-03-01T00:00:00.000Z",
+        "description": "The prize was 20,000 Turkish Lira cash which we donated to regions affected severely by the earthquake."
+      },
+      {
+        "title": "Distinguished Humanitarian Award",
+        "publication": "Robert College CIP Office",
+        "date": "2022-10-01T00:00:00.000Z",
+        "description": "Completion of 250+ community service hours"
+      },
+      {
+        "title": "Uber Hackathon Global Finalists Distinction",
+        "publication": "Uber Global Hackathon",
+        "date": "2022-08-01T00:00:00.000Z",
+        "description": "Top 5 teams out of the 782 teams participated globally."
+      },
+      {
+        "title": "AP\u00ae Scholar with Honor",
+        "publication": "College Board",
+        "date": "2022-07-01T00:00:00.000Z",
+        "description": null
+      },
+      {
+        "title": "Honor Certificate",
+        "publication": "Ministry of Education",
+        "date": "2022-06-01T00:00:00.000Z",
+        "description": "Given for national success at table tennis along with a successful academic record."
+      },
+      {
+        "title": "Xerox Award for Innovation and Information Technology",
+        "publication": "University of Rochester",
+        "date": "2022-04-01T00:00:00.000Z",
+        "description": "Award criteria: - Strong interest in innovation and/or information technology and a high level of achievement in this area - Exposure to new technologies outside of school, such as pursuing serious work opportunities in local laboratories or industry - Leading other students to new approaches to old problems (e.g., business plans for fundraising, innovative community service, after-school activities, and best uses of internal communications tools such as chat and blogs)"
+      }
+    ],
+    "similar_profiles": [],
+    "default_avatar": false,
+    "memorialized_account": false,
+    "bio_links": [
+      {
+        "title": "Personal Website",
+        "link": "https://alpniksarli.com/"
+      }
+    ],
+    "first_name": "Alp",
+    "last_name": "Niksarli",
+    "influencer": false,
+    "timestamp": "2026-08-12T19:22:42.954Z",
+    "input": {
+      "url": "https://www.linkedin.com/in/alpniksarli"
+    }
+  },
+  "local_photo": "data\\linkedin_photos\\alpniksarli__usr-txAjBGntycqbK7x.jpg"
+}

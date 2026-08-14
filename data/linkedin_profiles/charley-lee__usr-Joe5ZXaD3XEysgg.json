@@ -1,0 +1,169 @@
+{
+  "luma_user_id": "usr-Joe5ZXaD3XEysgg",
+  "csv_name": "Charley Lee",
+  "csv_linkedin": "https://www.linkedin.com/in/charley-lee",
+  "enriched_at": "2026-08-12T18:59:59.568017+00:00",
+  "batch_id": "sd_msqgcuh41lygyhc91a",
+  "profile": {
+    "id": "charley-lee",
+    "name": "Charley Lee",
+    "city": "San Francisco, California, United States",
+    "country_code": "US",
+    "position": null,
+    "about": null,
+    "current_company": {
+      "link": "https://www.linkedin.com/company/datacurveai?trk=public_profile_topcard-current-company",
+      "name": "Datacurve",
+      "company_id": "datacurveai",
+      "location": null
+    },
+    "experience": null,
+    "url": "https://se.linkedin.com/in/charley-lee",
+    "educations_details": "University of Waterloo",
+    "education": null,
+    "avatar": "https://media.licdn.com/dms/image/v2/D5603AQGhJR3Ifju3AQ/profile-displayphoto-scale_200_200/B56ZnG.9dyJoAY-/0/1759980019969?e=2147483647&v=beta&t=W3ungAE2j5RB2mcSSoIJegbmxyqB-ez_tfJqnWJwqcQ",
+    "followers": 1244,
+    "connections": 500,
+    "current_company_company_id": "datacurveai",
+    "current_company_name": "Datacurve",
+    "location": "San Francisco",
+    "input_url": "https://www.linkedin.com/in/charley-lee",
+    "linkedin_id": "charley-lee",
+    "activity": [
+      {
+        "interaction": "Charley Lee shared this",
+        "link": "https://www.linkedin.com/posts/charley-lee_our-results-for-opus-48-on-deepswe-are-in-activity-7466620726922600448-5fl0",
+        "title": "Our results for Opus 4.8 on DeepSWE are in! Overall, better performance while being cheaper than Opus 4.7",
+        "img": "https://media.licdn.com/dms/image/v2/D4D05AQEKsML_Eb6xxQ/videocover-high/B4DZ57BkN6JYBM-/0/1780180469907?e=2147483647&v=beta&t=dwk2i4c6EKCJ9wYnvLSRl47eMn3B1L4pLRUf-3FZaHs",
+        "id": "48"
+      },
+      {
+        "interaction": "Charley Lee shared this",
+        "link": "https://www.linkedin.com/posts/charley-lee_personal-experience-using-these-models-has-activity-7465151865136259072-N6Qu",
+        "title": "Personal experience using these models has always seemed to not be aligned with existing benchmark numbers. We put a lot of thought into the analysis and in closing the gap. ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQEODEbg1U3tGA/feedshare-shrink_800/B56Z5mAONJKcAc-/0/1779827795302?e=2147483647&v=beta&t=3VuywP2D2kjCxg-5J7aC7B9Crijoxc8cetBBIOXJYq8",
+        "id": "7465151865136259072"
+      },
+      {
+        "interaction": null,
+        "link": "https://www.linkedin.com/posts/y-combinator_datacurve-has-raised-a-15m-series-a-to-provide-activity-7382142661232771072-KJTa",
+        "title": "Datacurve has raised a $15M Series A to provide frontier training data to the world\u2019s leading foundation-model labs, helping to push the boundaries of what AI can do. Instead of traditional data labeling, Datacurve uses a \u201cbounty system\u201d where skilled engineers contribute to hard-to-source datasets and get paid \u2014 over $1M in bounties so far. But co-founder Serena Ge says the real advantage is treating contributors like users, not contractors, creating a platform people actually want to use. As AI models shift from simple datasets to complex RL environments, demand for high-quality post-training data is exploding. Datacurve believes its approach could extend beyond software engineering to fields like finance, marketing, and even medicine. Congrats on the round, Serena, Charley Lee , and team! https://lnkd.in/gPhQnh4a ...more ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQGbMdly7V2Ang/feedshare-shrink_800/B56ZnJ.aqZHQAg-/0/1760030206986?e=2147483647&v=beta&t=8B5uv80LFzpgoZ_fqb3mSVqlnhBD7Bxa1I1TTYhVfSM",
+        "id": "7382142661232771072"
+      },
+      {
+        "interaction": "Charley Lee shared this",
+        "link": "https://www.linkedin.com/posts/charley-lee_proud-of-all-the-progress-made-so-far-but-activity-7382275906670817288-psvH",
+        "title": "Proud of all the progress made so far, but even more excited for what's next.",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQHfD8u1sM9JHQ/feedshare-shrink_800/B56ZnJ2c45I8Ag-/0/1760028120159?e=2147483647&v=beta&t=Hw15dSEcpA2VlK8EUYhq8aSGxet1-izpJhm87uscO00",
+        "id": "7382275906670817288"
+      },
+      {
+        "interaction": "Charley Lee shared this",
+        "link": "https://www.linkedin.com/posts/charley-lee_rsvp-to-datacurve-x-chemistry-hackathon-activity-7361461436126023680-REM4",
+        "title": "Come build!",
+        "img": "https://media.licdn.com/dms/image/sync/v2/D5627AQH8QWiCeEpgFg/articleshare-shrink_800/B56ZibAuMjHkAM-/0/1774309916432?e=2147483647&v=beta&t=f-7m668bCXAwciTnZb2HaSaGANvUL-Z2rQy3Ymz_Pmk",
+        "id": "7361461436126023680"
+      },
+      {
+        "interaction": "Charley Lee shared this",
+        "link": "https://www.linkedin.com/posts/charley-lee_come-work-on-the-frontier-of-ai-capabilities-activity-7358921584260124673-kZCO",
+        "title": "Come work on the frontier of AI capabilities!",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQEVkF2FwErQIQ/feedshare-shrink_800/B56Zh.E7Q7G0Ag-/0/1754461877693?e=2147483647&v=beta&t=-SPrp0qtA3ceGTX29mNfCmi_M2QblQkw906TueLFqNc",
+        "id": "7358921584260124673"
+      },
+      {
+        "interaction": null,
+        "link": "https://www.linkedin.com/posts/jamesshi117_project-loki-early-access-application-activity-7308383237821579264-QYMo",
+        "title": "Today we\u2019re looking for 50 software engineers or masters/PhD students to get paid to solve open source Python issues over the next few days! \ud83d\ude80 In Project Loki, you\u2019ll get to dive into open source library codebases you\u2019ve used and are curious about, but never got to explored deeply. Here\u2019s how it works: - Apply through this form here: https://tally.so/r/w27JBL - (will get back to you within 12 hours) - 10 minute AI technical interview - Assuming last step is successful, a technical coding interview on Hackerrank ...more ...more",
+        "img": "https://media.licdn.com/dms/image/sync/v2/D5627AQEIeRYwHlpZJg/articleshare-shrink_800/articleshare-shrink_800/0/1742454264736?e=2147483647&v=beta&t=hSzClCRTJ2toWKouGAJL3Qdf48N0KWEhqzXY46LUJNk",
+        "id": "7308383237821579264"
+      },
+      {
+        "interaction": null,
+        "link": "https://www.linkedin.com/posts/daniel-zhang-connect_most-software-engineers-build-their-side-activity-7304722524234211328-lpNv",
+        "title": "Most software engineers build their side projects for free\u2026 But you can get paid for yours \ud83d\udc40 Shipd is an invite-only platform that pays devs to create/solve coding problems used to train AI. We\u2019ve paid over $420,000 USD in the past few months and are created by Datacurve, a YC-backed startup. We want to work with you and your side project! Join us to: \u2705 Get paid to improve your personal projects \u2705 Use your repo to push the capabilities of leading AI models \u2705 Earn between $400-$1,600 USD (dependent on project quality + complexity + size) Applications close after we fill 20 spots so grab one quick! Apply here with your project or comment \u201cInterested\u201d (~5min): https://tally.so/r/3xvj8G ...more ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQEuPAfJIodElg/feedshare-shrink_1280/B4EZV.WbYjGYAk-/0/1741581564129?e=2147483647&v=beta&t=0pDdyZTmGwe21JLvNTK4iim7MI903HbpL-jFBjNhDO8",
+        "id": "7304722524234211328"
+      },
+      {
+        "interaction": null,
+        "link": "https://www.linkedin.com/posts/daniel-zhang-connect_the-contributor-platform-behind-frontier-activity-7265517295282671616-UFwe",
+        "title": "If you killed it in high school math, this one\u2019s for you \ud83d\udc47 Shipd.ai is officially accepting applications to fill 30 spots for a Math Quest! What we do: Shipd is an invite-only platform where you get paid to solve math/coding problems used to train AI. We\u2019re created by Datacurve, a YC-backed startup based in San Francisco! Here\u2019s the scoop: solve high school/uni math problems and earn $35-40 USD/hour (adjusted based on location). The only catch is we\u2019re looking for people who are fluent in English and available to solve 10-20 problems/day which may take 2-3 hours! If you\u2019re up for the task, let me know in the comments and I\u2019ll send more info \ud83d\udc40 ...more ...more",
+        "img": "https://media.licdn.com/dms/image/sync/v2/D5627AQH5wpt3QyJzNQ/articleshare-shrink_800/articleshare-shrink_800/0/1728045557350?e=2147483647&v=beta&t=6FkI44ZctfoGyDbgaOhV3nODEYFJVe6nK5qj1N2PYuk",
+        "id": "7265517295282671616"
+      },
+      {
+        "interaction": "Charley Lee commented on a post 6y",
+        "link": "https://www.linkedin.com/posts/rayan-garg_internshipopportunity-internships-highschool-activity-6670869385151967232-YfSr",
+        "title": "Interested! charleylee42@gmail.com",
+        "img": null,
+        "id": "6670869385151967232"
+      },
+      {
+        "interaction": "Charley Lee liked this",
+        "link": "https://www.linkedin.com/posts/gracegong_ai-venturecapital-startups-activity-7478551869670236160-vPR2",
+        "title": "Have you seen billion dollar AI company founders and top VC partners standing outside a door, all trying to figure out a digital lock? I have. Jokes aside, here's what I actually learned at Venture with Grace CEO Club Dinner No. 12. 1. Everyone has something to offer. Billion dollar founders are still human. They have families. They sleep. They eat food. Even in the AI era, what connects people isn't technology. It's time spent together. Empathy still wins. 2. Fully commit. Partners from top VC firms showed up early. Not on time. Early. If it's on your calendar, you show up. Doesn't matter if it's traffic, weather, or World Cup match 40 minutes away. 3. Be a problem solver. I overheard founders helping other founders. Execs breaking down hard concepts for people who needed it. Nobody was selling. Everyone was just... helping. The most successful people in the room were the ones giving something away. Here's the thing. We had founders in that room worth over $6.8B combined. We had partners who've backed some of the most important AI companies on earth. And the biggest takeaway wasn't about AI at all. It was human connection. Many thanks to our amazing partners Chargebee , Nebius , and Findem for making tonight possible. On to the next one. #AI #VentureCapital #Startups #SanFrancisco #worldcup",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQGyqQLkDEYeLA/feedshare-shrink_800/B56Z8knSbaKgAg-/0/1783025708042?e=2147483647&v=beta&t=Wiaq0Nq5jmn1GWxqSbirbMLkXgZkQR2l7-r2HXQo1LM",
+        "id": "7478551869670236160"
+      },
+      {
+        "interaction": "Charley Lee liked this",
+        "link": "https://www.linkedin.com/posts/datacurveai_opus-48-is-now-on-deepswe-on-the-default-activity-7466618089980321792-sGqU",
+        "title": "Opus 4.8 is now on DeepSWE. On the default high thinking effort, it scores 6% higher than Opus 4.7 xhigh, while also lowering average cost per task. 4.8 delivers efficiency gains by solving tasks in fewer steps, directly reducing the total number of input tokens required per task. Check out our full benchmark here: deepswe.datacurve.ai",
+        "img": "https://media.licdn.com/dms/image/v2/D4D05AQEKsML_Eb6xxQ/videocover-high/B4DZ57BkN6JYBM-/0/1780180469907?e=2147483647&v=beta&t=dwk2i4c6EKCJ9wYnvLSRl47eMn3B1L4pLRUf-3FZaHs",
+        "id": "48"
+      },
+      {
+        "interaction": "Charley Lee liked this",
+        "link": "https://www.linkedin.com/posts/first-benchmark-with-many-to-come-exciting-activity-7465167065675419648-HANI",
+        "title": "First benchmark with many to come! Exciting times.",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQEODEbg1U3tGA/feedshare-shrink_800/B56Z5mAONJKcAc-/0/1779827795302?e=2147483647&v=beta&t=3VuywP2D2kjCxg-5J7aC7B9Crijoxc8cetBBIOXJYq8",
+        "id": "7465167065675419648"
+      },
+      {
+        "interaction": "Charley Lee liked this",
+        "link": "https://www.linkedin.com/posts/datacurveai_introducing-deepswe-a-new-long-horizon-agentic-activity-7465138845726998530-wWRT",
+        "title": "Introducing DeepSWE, a new long-horizon agentic coding benchmark. Frontier coding models look close in capability on many public benchmarks, but developers report that the differences feel much larger, especially around reasoning, planning, persistence, and execution over long horizons. DeepSWE solutions are ~5.5x longer than SWE-Bench Pro by lines of code, with 2x longer agent trajectories. Tasks are written from scratch, preventing any pre-training contamination risk. Blog: deepswe.datacurve.ai/blog Repo: https://lnkd.in/gNVKz5Qg Give your own models a spin and let us know what you think!",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQEODEbg1U3tGA/feedshare-shrink_800/B56Z5mAONJKcAc-/0/1779827795302?e=2147483647&v=beta&t=3VuywP2D2kjCxg-5J7aC7B9Crijoxc8cetBBIOXJYq8",
+        "id": "7465138845726998530"
+      },
+      {
+        "interaction": "Charley Lee liked this",
+        "link": "https://www.linkedin.com/posts/ynng_if-opus-46-has-felt-worse-lately-this-may-activity-7449123960232890368-FIER",
+        "title": "If Opus 4.6 has felt worse lately, this may be part of why: On a 100-task swe-bench pro sample, opus 4.6 on high finished behind both sonnet 4.6 and opus 4.5 on the same setting! Turning off adaptive reasoning didn\u2019t seem to change much but max effort did https://lnkd.in/gwMwCBbE",
+        "img": "https://media.licdn.com/dms/image/v2/D5610AQHa_BMXEn6Spw/image-shrink_800/B56Z2CawAHIQAg-/0/1776009544050?e=2147483647&v=beta&t=m6ViqYSariVrbTRjKPxPZikI85DF4RLS3ihXV6AsIic",
+        "id": "46"
+      },
+      {
+        "interaction": "Charley Lee liked this",
+        "link": "https://www.linkedin.com/posts/karimh53_excited-to-share-that-i-started-a-month-ago-activity-7417823060361248768-UDti",
+        "title": "Excited to share that I started a month ago at Datacurve as a Full-Time Software Engineer \ud83e\udd73 Big thanks to James Shi and Albert Cheng for making this happen and for the great conversations that convinced me this was the right move. Looking forward to continuing to build and grow with the team!",
+        "img": "https://media.licdn.com/dms/image/v2/D4D22AQG--dFuw9VKfA/feedshare-shrink_1280/B4DZvEiNuoJsAc-/0/1768528862374?e=2147483647&v=beta&t=eRYoywkOZfWt6-xRJGR8WDrzDgE86x8G1Za0lM52g5A",
+        "id": "7417823060361248768"
+      },
+      {
+        "interaction": "Charley Lee liked this",
+        "link": "https://www.linkedin.com/posts/datacurveai_this-past-thursday-the-datacurve-team-invited-activity-7404222059075235840-lfBS",
+        "title": "This past Thursday, the Datacurve team invited a select group of researchers from OpenAI , Google DeepMind , and others to surf the La Jolla shore. \ud83c\udf0a Special thanks to Chemistry for co-hosting! Our booth at NeurIPS also had the best tote bags. In addition to sharing merch, we had a blast sharing our industry-leading efforts to accelerate the world's best coding models. \ud83d\udc69\u200d\ud83d\udcbb Thanks to everyone who attended! Looking forward to seeing everyone at ICLR '26 in Rio! \u2708\ufe0f \ud83c\udf0e",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQEUFMPam3bD-w/feedshare-shrink_800/B4EZsBsRVGJ0Ag-/0/1765259943357?e=2147483647&v=beta&t=ge8cvPfWFI3fm4Zy_7cMr6KSti9A6rn1EEP4lPF3g_c",
+        "id": "7404222059075235840"
+      }
+    ],
+    "linkedin_num_id": "797839327",
+    "banner_image": "https://static.licdn.com/aero-v1/sc/h/5q92mjc5c51bjlwaj3rs9aa82",
+    "honors_and_awards": null,
+    "similar_profiles": [],
+    "default_avatar": false,
+    "memorialized_account": false,
+    "bio_links": [],
+    "first_name": "Charley",
+    "last_name": "Lee",
+    "influencer": false,
+    "timestamp": "2026-08-12T18:58:41.611Z",
+    "input": {
+      "url": "https://www.linkedin.com/in/charley-lee"
+    }
+  },
+  "local_photo": "data\\linkedin_photos\\charley-lee__usr-Joe5ZXaD3XEysgg.jpg"
+}

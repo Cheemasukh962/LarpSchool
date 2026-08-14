@@ -1,0 +1,248 @@
+{
+  "luma_user_id": "usr-JYas4ZAyTXENnL0",
+  "csv_name": "Gabriel Fagundes",
+  "csv_linkedin": "https://www.linkedin.com/in/gabrielft-me",
+  "enriched_at": "2026-08-12T19:06:01.816624+00:00",
+  "batch_id": "sd_msqgh02428smzgu5m",
+  "profile": {
+    "id": "gabrielft-me",
+    "name": "Gabriel Fagundes Teixeira",
+    "city": "Greater Tampa Bay Area",
+    "country_code": "US",
+    "position": null,
+    "about": "Seeking - summer/fall 2026 internship - long-term cofounder",
+    "current_company": {
+      "link": "https://www.linkedin.com/company/irbc?trk=public_profile_topcard-current-company",
+      "name": "Lyra",
+      "company_id": "irbc",
+      "location": null
+    },
+    "experience": null,
+    "url": "https://pe.linkedin.com/in/Gabrielft-me",
+    "educations_details": "University of South Florida",
+    "education": [
+      {
+        "title": "University of South Florida",
+        "url": "https://www.linkedin.com/school/usouthflorida/",
+        "end_year": "2027",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      },
+      {
+        "start_year": "2025-05",
+        "end_year": "2025-08",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      },
+      {
+        "start_year": "2019-02",
+        "end_year": "2021-12",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      }
+    ],
+    "avatar": "https://media.licdn.com/dms/image/v2/D4E03AQG_YwxZ3WYCrg/profile-displayphoto-scale_200_200/B4EZx6CDLEHwAY-/0/1771573884564?e=2147483647&v=beta&t=qqfBepxUA_dtCEHNZQ7i5SJypz4T9jDR6jg37swxGOk",
+    "languages": [
+      {
+        "subtitle": "-",
+        "title": "English"
+      },
+      {
+        "subtitle": "-",
+        "title": "Portuguese"
+      },
+      {
+        "subtitle": "-",
+        "title": "Spanish"
+      }
+    ],
+    "volunteer_experience": [
+      {
+        "cause": "Science and Technology",
+        "duration": "Feb 2025 \u00b7 - \nDec 2025 \u00b7 \n11 months",
+        "duration_short": "- \nDec 2025",
+        "start_date": "Feb 2025",
+        "subtitle": "Robobulls | University of South Florida",
+        "title": "Lead Hardware Engineer"
+      },
+      {
+        "cause": "Education",
+        "duration": "Oct 2025 \u00b7 - Present \u00b7 \n\n11 months",
+        "duration_short": "- Present",
+        "start_date": "Oct 2025",
+        "subtitle": "Brazil Conference",
+        "title": "Operations Team Member"
+      }
+    ],
+    "followers": 1704,
+    "connections": 500,
+    "current_company_company_id": "irbc",
+    "current_company_name": "Lyra",
+    "publications": [
+      {
+        "title": "(EN | PT) The use of Arduino-based automation in controlling the proliferation of microorganisms.",
+        "subtitle": "Q2 Quartile Journal \u2013 Revista Cient\u00edfica Multidisciplinar N\u00facleo do Conhecimento",
+        "date": "December 26, 2022",
+        "description": "Highly important research for the COVID-19 scenario.The project aimed to test the effectiveness of automation prototypes in minimizing the proliferation of microorganisms between individuals by automating manual processes, such as faucets and door handles.I pitched this project to large microbiology companies in search of sponsorship. Studied electrical circuits and brought the prototypes to life. Founded a team and managed talents. Learned from scratch how to construct a scientific article. Mastered microbiology and data science to provide a research foundation. Practiced and honed skills in persuasion, leadership, and product vision.At 18, right after high school, I achieved a scientific publication in a journal with an impact surpassing 50% of all published research in the field of computer engineering \u2013 comparable to journals ranked within the Q2 quartile. I discovered my passion for research and developed intense perseverance in achieving my goals.PT \u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013Pesquisa extremamente importante para o cen\u00e1rio da pandemia da COVID-19.Um projeto com o objetivo de testar a efic\u00e1cia de prot\u00f3tipos de automa\u00e7\u00e3o na minimiza\u00e7\u00e3o do contato indireto entre indiv\u00edduos, automatizando processos manuais, como torneiras e ma\u00e7anetas.Apresentei este projeto a grandes empresas de microbiologia em busca de patroc\u00ednio. Estudei circuitos el\u00e9tricos e dei vida aos prot\u00f3tipos. Fundei uma equipe e gerenciei talentos. Aprendi do zero como construir um artigo cient\u00edfico. Dominei microbiologia e ci\u00eancia de dados para fornecer uma base de pesquisa. Pratiquei e aprimorei habilidades de persuas\u00e3o, lideran\u00e7a e vis\u00e3o de produto.Aos 18 anos, logo ap\u00f3s o ensino m\u00e9dio, consegui publicar a pesquisa cient\u00edfica num peri\u00f3dico de Qualis B1 \u2013 com um impacto que ultrapassou 50% de toda pesquisa j\u00e1 publicada no campo da engenharia de computa\u00e7\u00e3o. Descobri minha paix\u00e3o por pesquisa cient\u00edfica e desenvolvi uma intensa perseveran\u00e7a em alcan\u00e7ar meus objetivos."
+      }
+    ],
+    "projects": [
+      {
+        "title": "AIPlug",
+        "description": "Built in 24 hours at HackMITA platform that gather Small AI models based on businesses necessities, optimized for local deployment, leveraging both Quad and RAG algorithms.https://plume.hackmit.org/project/urogc-xxbnd-bques-thrlj"
+      },
+      null,
+      null,
+      null,
+      {
+        "title": "Eyrie",
+        "description": "\ud83c\udfc5 Built in 36 hours at HackHarvardPreventing crowd crush before it happens.https://devpost.com/software/eyrie-idxhj8"
+      },
+      null,
+      null,
+      {
+        "title": "SLiM",
+        "description": "Built in 36 hours at ShellHacksSmart LLM Router + Incremental Model trainerLarge Language Models are powerful, but expensive and slow to call repeatedly. Teams often ask the same kinds of questions (emails, bug fixes, summaries), wasting tokens and compute. We wanted to build a system that learns from repetition, automatically training a small language model to handle common queries while routing complex tasks back to a larger LLM.This inspired SLiM \u2014 a framework that reduces cost and latency by auto-promoting common queries into a small specialized model."
+      },
+      null,
+      null,
+      null,
+      {
+        "title": "web_Auction Vault",
+        "description": "https://auctionvault.shop/Full-stack web system privately sold.What I used:- Next js page router (was not familiar with the app router before)- Supabase for Edge Functions, Cron jobs, Auth, Storage- Notification API- Claude Code to generate React Components...I'm developing their app with React Native"
+      }
+    ],
+    "location": null,
+    "input_url": "https://www.linkedin.com/in/gabrielft-me",
+    "linkedin_id": "gabrielft-me",
+    "activity": [
+      {
+        "interaction": "Liked by Gabriel Fagundes Teixeira",
+        "link": "https://www.linkedin.com/posts/y-combinator_the-next-generation-of-startups-will-be-built-activity-7491553772683382786-hD-7",
+        "title": "The next generation of startups will be built by smaller teams than ever before. At Startup School 2026, YC President & CEO Garry Tan explains why\u2026",
+        "img": "https://dms.licdn.com/playlist/vid/v2/D5605AQG5UB2c2G99Eg/thumbnail-shrink_720_1280/B56Z_crlgHHUAg-/0/1786113847835?e=2147483647&v=beta&t=FCV7Gt7VFFPs9BfW-shFnn6G-4SUM6quTAFSvWa4oZo",
+        "id": "7491553772683382786"
+      },
+      {
+        "interaction": "Liked by Gabriel Fagundes Teixeira",
+        "link": "https://www.linkedin.com/posts/mb473_baybuilders-hydradb-developerrelations-activity-7482618621253550080-CBZ9",
+        "title": "One of my favorite moments from the Bay Builders Hackathon had nothing to do with the code our agent wrote. It was finally meeting Harnoor Singh in\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQHwrKu4BxZn-w/feedshare-shrink_800/B56Z9eZ_HwKUAc-/0/1783995298891?e=2147483647&v=beta&t=iHj-YBOHp8yaaVRgP38gXvcttmfvGVUIZAYMmr6Ka2Q",
+        "id": "7482618621253550080"
+      },
+      {
+        "interaction": "Liked by Gabriel Fagundes Teixeira",
+        "link": "https://www.linkedin.com/posts/august-plougheld-lorenzen_goodbye-san-francisco-after-a-week-here-activity-7491138850451320833-kkZ-",
+        "title": "Goodbye San Francisco. After a week here, and spending two days of it at Y Combinator\u2019s Startup School, I'm going back to Copenhagen. I wasn't sure\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQExkHE-Bm9vrA/feedshare-shrink_800/B56Z_Xe0reJ0Ag-/0/1786026612586?e=2147483647&v=beta&t=IkIiJV67PzpBz_V5PA3uoQRMZLOfDQjhnLvHjFk8HJI",
+        "id": "7491138850451320833"
+      },
+      {
+        "interaction": "Liked by Gabriel Fagundes Teixeira",
+        "link": "https://www.linkedin.com/posts/hudsonmcgough_heading-to-sf-later-this-month-to-find-an-activity-7490791249088524289-p8Ll",
+        "title": "Heading to SF later this month to find an internship \ud83d\ude4f\ud83c\udffd. If you're going to be SF that weekend and want to chat, hit me up!",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQFaox3lpg_yqA/feedshare-shrink_800/B56Z_QR9e6KIAc-/0/1785905797379?e=2147483647&v=beta&t=rLCSuY1_dGf3UWC5JCFcc-TBMzMGAs7YnTRuDQ56QDs",
+        "id": "7490791249088524289"
+      },
+      {
+        "interaction": "Liked by Gabriel Fagundes Teixeira",
+        "link": "https://www.linkedin.com/posts/john-licato_getting-ready-for-an-appearance-on-good-day-activity-7490761624572809216-zedc",
+        "title": "Getting ready for an appearance on Good Day Tampa Bay and Tampa Bay Live after that!",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQGDFyzkkOBLmA/feedshare-shrink_800/B4EZ_SIAOhJEAc-/0/1785936741707?e=2147483647&v=beta&t=9qsh635g2Qi83O_rS4B3pRr7H2IVeXKW5d8v7v2Te38",
+        "id": "7490761624572809216"
+      },
+      {
+        "interaction": "Liked by Gabriel Fagundes Teixeira",
+        "link": "https://www.linkedin.com/posts/tom-storey1_its-been-a-month-since-i-landed-in-sf-with-activity-7490588342208634880-YYVz",
+        "title": "It\u2019s been a month since I landed in SF with Iv\u00e1n Mahoney and Gabe McCall to build Clinchr . Here\u2019s what we\u2019ve been up to since: Day 1: Got hit by\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQEN2U_pqlQngw/feedshare-image-high-res/B56Z_PqZc8K8AY-/0/1785895427539?e=2147483647&v=beta&t=S4dzLpMUTaofBx2ejM4wbmYJFoJJwDpI1lcJfgCx0bY",
+        "id": "7490588342208634880"
+      },
+      {
+        "interaction": "Liked by Gabriel Fagundes Teixeira",
+        "link": "https://www.linkedin.com/posts/dmitryzakharov-ai_y-combinator-just-published-their-requests-activity-7486019871789572097-suUM",
+        "title": "Y Combinator just published their Requests for Startups for Fall 2026. I read all of them. Here is what struck me. The theme is not \"AI chatbots\"\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4D22AQFBi-7b50pX8A/feedshare-shrink_1280/B4DZ.OvZvdJsAQ-/0/1784806218985?e=2147483647&v=beta&t=2k3CoIlBFPHNsAknCRLV1i2-SZ1x_mvx_77mcEQU3bc",
+        "id": "7486019871789572097"
+      },
+      {
+        "interaction": "Liked by Gabriel Fagundes Teixeira",
+        "link": "https://www.linkedin.com/posts/noahkostesku_if-theres-one-thing-thats-non-negotiable-activity-7487558877127798784-y-gH",
+        "title": "If there's one thing that's non-negotiable for me, it\u2019s this: always make time for people the whole \"grind in silence\" thing is pretty cope\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQFxxESRgdMHug/feedshare-image-high-res/B56Z.knH0jIMAU-/0/1785173147240?e=2147483647&v=beta&t=QeXphx5a4ghMdQwcUqBKS21ALW6seXcnGIIoch_afGg",
+        "id": "7487558877127798784"
+      },
+      {
+        "interaction": "Liked by Gabriel Fagundes Teixeira",
+        "link": "https://www.linkedin.com/posts/mb473_i-have-been-thinking-about-how-many-important-activity-7490172497938792448-NvTR",
+        "title": "I have been thinking about how many important things slip through the cracks\u2014not because we don\u2019t care, but because work is scattered everywhere. A\u2026",
+        "img": "https://static.licdn.com/aero-v1/sc/h/53n89ecoxpr1qrki1do3alazb",
+        "id": "7490172497938792448"
+      },
+      {
+        "interaction": "Liked by Gabriel Fagundes Teixeira",
+        "link": "https://www.linkedin.com/posts/dmitryzakharov-ai_i-spent-10-hours-comparing-30-accelerators-activity-7488241822901846016-ukDh",
+        "title": "I spent 10 hours comparing 30 accelerators so you don't have to. For roughly the same 12 weeks, you can pay 0% equity or 12%. Almost nobody compares\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4D22AQHhJsYN1qepQw/feedshare-shrink_800/B4DZ.uUJhOIYAc-/0/1785335965657?e=2147483647&v=beta&t=VWMlajKyhgkn9h4G2rfaDEcekYJVOaEGmLPNYMr_OeQ",
+        "id": "10"
+      },
+      {
+        "interaction": "Liked by Gabriel Fagundes Teixeira",
+        "link": "https://www.linkedin.com/posts/veronika-wannack_excited-to-announce-ill-be-living-under-activity-7489474441845059584-eAcL",
+        "title": "Excited to announce I'll be living under a bridge this summer! A very special bridge, though. In San Francisco. At The Bridge by Entrepreneurs\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQHurmkH72zurw/feedshare-shrink_800/B4EZ._1UYcKsAk-/0/1785629853661?e=2147483647&v=beta&t=bg0sjNuB2VuaTEpXNthWkIljCI0pju9Opl-N4sBeVlc",
+        "id": "7489474441845059584"
+      },
+      {
+        "interaction": "Liked by Gabriel Fagundes Teixeira",
+        "link": "https://www.linkedin.com/posts/jia-chen-in_three-things-i-wish-i-knew-before-starting-activity-7489334146474102784-iYh_",
+        "title": "three things i wish i knew before starting a startup. written without ai. i have been in the startup space for about a year and a half now, and i'm\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQF-Ja7U8Nhfqw/feedshare-image-high-res/B56Z.sqeQpKIAY-/0/1785308243479?e=2147483647&v=beta&t=Cxi0T9fCLMEno6RUMjMcn4WFLWv759I5MvTojrNoSkk",
+        "id": "7489334146474102784"
+      },
+      {
+        "interaction": "Liked by Gabriel Fagundes Teixeira",
+        "link": "https://www.linkedin.com/posts/eric-vyacheslav-156273169_stop-embedding-a-codebase-to-make-an-agent-activity-7487568076016693250-L3MW",
+        "title": "Stop embedding a codebase to make an agent understand it. Coding agents grep through files or search a vector index. Both guess at structure, and\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4E10AQE-qY2gBXC6Ow/videocover-high/B4EZ.kvaZSJUAo-/0/1785175323635?e=2147483647&v=beta&t=DcXWFQNaaR5d6SrOE4Y-QIYDkJwW2DVJynYQNUHvplY",
+        "id": "7487568076016693250"
+      }
+    ],
+    "linkedin_num_id": "824681283",
+    "banner_image": "https://media.licdn.com/dms/image/v2/D4E16AQEekQiYmluChw/profile-displaybackgroundimage-shrink_200_800/B4EZ3k16OwJkAU-/0/1777660831211?e=2147483647&v=beta&t=mWupO1v0SHP8sPmOgmfN1FzY9iCt8NIjaxiIeDqhyGA",
+    "honors_and_awards": [
+      {
+        "title": "Venetian ESummer",
+        "publication": "ENTER International",
+        "date": "2022-06-01T00:00:00.000Z",
+        "description": "A full tuition scholarship (about $1000) for a summer program in Venice. ESummer selects young people around the world for an event on business, sustainability, and youth leadership."
+      },
+      {
+        "title": "Bronze Medal | OBR (Brazilian Robotics Olympics)",
+        "publication": "Conselho Nacional de Desenvolvimento Cient\u00edfico e Tecnol\u00f3gico (CNPq)",
+        "date": "2021-06-01T00:00:00.000Z",
+        "description": "The Brazilian Robotics Olympiad was founded as part of an initiative by researchers in the field of robotics to disseminate robotics in Brazilian society. Bronze medals are achieved by about 25% of all candidates"
+      }
+    ],
+    "similar_profiles": [],
+    "default_avatar": false,
+    "memorialized_account": false,
+    "bio_links": [
+      {
+        "title": "Portfolio",
+        "link": "https://gabrielft.me/"
+      }
+    ],
+    "first_name": "Gabriel",
+    "last_name": "Fagundes Teixeira",
+    "influencer": false,
+    "timestamp": "2026-08-12T19:02:01.305Z",
+    "input": {
+      "url": "https://www.linkedin.com/in/gabrielft-me"
+    }
+  },
+  "local_photo": "data\\linkedin_photos\\gabrielft-me__usr-JYas4ZAyTXENnL0.jpg"
+}

@@ -1,0 +1,244 @@
+{
+  "luma_user_id": "usr-0JYnqsadVSvIVAc",
+  "csv_name": "Amritaraj Nair",
+  "csv_linkedin": "https://www.linkedin.com/in/amritnair1",
+  "enriched_at": "2026-08-12T18:56:33.261396+00:00",
+  "batch_id": "sd_msqg8yml2ia5na9bcp",
+  "profile": {
+    "id": "amritnair1",
+    "name": "Amritaraj Nair",
+    "city": "United States",
+    "country_code": "US",
+    "position": null,
+    "about": "amritnair23@gmail.com Feel free to reach out",
+    "current_company": {
+      "link": "https://www.linkedin.com/company/scholars-of-finance?trk=public_profile_topcard-current-company",
+      "name": "Scholars of Finance",
+      "company_id": "scholars-of-finance",
+      "location": null
+    },
+    "experience": null,
+    "url": "https://ru.linkedin.com/in/Amritnair1",
+    "educations_details": "Texas A&M University",
+    "education": [
+      {
+        "title": "Texas A&M University",
+        "url": "https://www.linkedin.com/school/texas-a&m-university/",
+        "start_year": "2025-07",
+        "end_year": "2029-05",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      },
+      {
+        "start_year": "2021-08",
+        "end_year": "2025-05",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      }
+    ],
+    "avatar": "https://media.licdn.com/dms/image/v2/D5603AQGycKsyPs50gA/profile-displayphoto-scale_200_200/B56Znu9b6CG4Ac-/0/1760650707442?e=2147483647&v=beta&t=t7FZTQuG69iTi8QJarSjm8JxFz48QlAITPFrbu_OwTg",
+    "volunteer_experience": [
+      {
+        "cause": "Poverty Alleviation",
+        "duration": "Mar 2020 \u00b7 - Present \u00b7 \n\n6 years 6 months",
+        "duration_short": "- Present",
+        "start_date": "Mar 2020",
+        "subtitle": "ASSOCIATION EMBRACING THE WORLD",
+        "title": "Volunteer"
+      },
+      {
+        "cause": "Poverty Alleviation",
+        "duration": "May 2023 \u00b7 - \nAug 2024 \u00b7 \n1 year 4 months",
+        "duration_short": "- \nAug 2024",
+        "start_date": "May 2023",
+        "subtitle": "The Salvation Army",
+        "title": "Volunteer"
+      }
+    ],
+    "followers": 847,
+    "connections": 500,
+    "current_company_company_id": "scholars-of-finance",
+    "current_company_name": "Scholars of Finance",
+    "projects": [
+      {
+        "title": "Shot Sensei",
+        "start_date": "Apr 2026",
+        "description": "2026 Hook'em Hacks Winner| Most Startup Ready Award | Met with PearVCShot Sensei uses computer vision and interactive AI tools to simulate real pickleball gameplay and training with just a webcam."
+      },
+      null,
+      {
+        "title": "Harbor",
+        "start_date": "Feb 2026",
+        "description": "TidalTAMU 2026 Google Gemini Track 1st Place WinnerUses open source data provided by NASA EOSEM and AI tools to effectively display weather events across the globe and to predict weather patterns using various factors(season, climate, area, etc.)."
+      },
+      null,
+      null,
+      null,
+      {
+        "title": "ClinicalHours",
+        "start_date": "Dec 2025",
+        "description": "Helping hospitals and pre-med students all over the nation to optimize and expedite the volunteering and hiring processes within clinical systems."
+      },
+      {
+        "title": "Agentic AI Based Modeling of Cattle Nutrition Systems",
+        "start_date": "Jun 2025",
+        "description": "Developed a data-driven, agent-based simulation in Python (using the Mesa framework) to model individual cattle nutrition, energy flow, and growth. Unlike traditional deterministic models that rely on population averages, this system simulates each animal as an independent agent with unique biological traits\u2014improving prediction accuracy and reflecting real-world variation.The model tracks energy transformation from feed intake (Gross \u2192 Digestible \u2192 Metabolizable \u2192 Net Energy) and allocates energy hierarchically for maintenance, growth, reproduction, and storage. It integrates data logging, visualization, and environmental impact tracking (e.g., nutrient waste and methane emissions) to evaluate feed efficiency and sustainability.This framework supports researchers and producers in testing feeding and management strategies that enhance productivity while minimizing environmental impact."
+      }
+    ],
+    "organizations": [
+      {
+        "title": "Scholars of Finance - Maroon Fund",
+        "membership_type": "Quantitative Developer",
+        "start_date": "Feb 2026",
+        "end_date": "Present",
+        "description": "Serving as a Quantitative Developer for the Maroon Fund, a student-managed equity fund with $70K AUM operating within Scholars of Finance. Work alongside portfolio managers and analysts to build quantitative tools and models that support thesis-driven investment decisions across public equities.Responsibilities include developing data pipelines and screening frameworks using financial databases, building valuation and factor models to support stock pitch processes, and automating workflow tools that enhance the investment committee's analytical capacity.",
+        "membership_number": null
+      },
+      {
+        "title": "Aggies In Tech",
+        "membership_type": "Member",
+        "start_date": "Oct 2025",
+        "end_date": "Present",
+        "description": "Aggies in Tech is a Texas A&M program tailored for students aiming to build careers in the business technology field. As one of just 40 students selected, I gain access to a unique mix of academic challenge, professional growth, and industry engagement. The program provides resources such as an advanced curriculum and practical internship experiences, and graduates earn the Business of Technology Certificate.",
+        "membership_number": null
+      }
+    ],
+    "location": null,
+    "input_url": "https://www.linkedin.com/in/amritnair1",
+    "linkedin_id": "amritnair1",
+    "activity": [
+      {
+        "interaction": null,
+        "link": "https://www.linkedin.com/posts/shivamkanodia19_chickfila-activity-7490919784918753280-PVxU",
+        "title": "As my internship at Matic comes to an end, I\u2019ve been thinking about how much this summer changed the way I think about product engineering. Over the past few months, I worked with Amritaraj Nair to build PulseMatic, an AI inbox management tool for physicians. We took it from an idea to a working product by understanding where physicians were losing time, identifying the problems worth solving, and laying the foundation for its integration into Matic\u2019s flagship product, Provider AI. That process showed me what software engineering looks like in practice: build, put it in front of the team, listen to what needs to change, and come back with something better each week (shoutout sharematic). Thank you to Calvin Carter for giving me the opportunity to join Matic after our first conversation in April and to contribute alongside such a talented team throughout the summer. Thank you as well to everyone at Matic who invested their time, challenged me to think differently, and made the experience so valuable. #chickfila ...more ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQG87n0dfhePhQ/feedshare-shrink_800/B56Z_UVKFEIMAg-/0/1785973745782?e=2147483647&v=beta&t=yE8YjvpqGmr4jhjwORTUU4c5RpHJ4Jr9iQXxZM0HsaQ",
+        "id": "7490919784918753280"
+      },
+      {
+        "interaction": "Amritaraj Nair shared this",
+        "link": "https://www.linkedin.com/posts/amritnair1_last-week-me-and-sasank-suryadevara-won-activity-7454688337530867712-MaPN",
+        "title": "Last week, me and Sasank Suryadevara won Hook\u2019em Hacks at The University of Texas at Austin . We were then given the opportunity to speak and connect with Khalil Fuller from Pear VC . ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQF7ur-iqcP7Hw/feedshare-image-high-res/B56Z3RFe6WIkAU-/0/1777329368999?e=2147483647&v=beta&t=r7SlGqvPIfLmK4g7A73J38MIPsaNkl26bkJWolZF46I",
+        "id": "7454688337530867712"
+      },
+      {
+        "interaction": null,
+        "link": "https://www.linkedin.com/posts/clinicalhours_premed-medschool-clinicalhours-activity-7439386638062948352-mwEJ",
+        "title": "Most pre-med students don't fail because they lack ambition. They fail because they can't find clinical experience \u2014 or don't know how to use it once they do. We built ClinicalHours to fix the first problem. Today, we're fixing the second. Introducing ClinicalHours Premium \u2014 the pre-med platform that helps you find clinical opportunities AND turn them into a stronger medical school application. Here's what's inside: \u2192 Direct Application Finder \u2014 live volunteer application links to 9,500+ hospitals and clinics. No more dead ends. \u2192 PathFinder AI Matcher \u2014 matches you to the right extracurriculars, experiences, and next steps based on your specific goals. \u2192 AMCAS Activity Writer \u2014 transforms your raw experiences into polished, compelling activity descriptions. \u2192 AAMC Competency Tracker \u2014 see exactly how your experiences stack up against what medical schools actually look for. \u2192 Secondary Essay Coach \u2014 sharper, clearer, more intentional responses. Not just edited \u2014 elevated. Plus an Application Timeline, Letter of Rec Manager, and School List Builder. The hardest part of being a pre-med student shouldn't be finding meaningful clinical experience. We're making sure it isn't. Comment \"Premium\" below \u2014 we'll send you one month of free access. #PreMed #MedSchool #ClinicalHours #Healthcare #MedicalSchool ...more ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D5605AQH_EB_1df8Tbg/videocover-high/B56Zz4CqcDHcBg-/0/1773687978222?e=2147483647&v=beta&t=_lM0jHL_aABtqWdhvI057932HV-Tcm7X9LKYPcY5mDQ",
+        "id": "7439386638062948352"
+      },
+      {
+        "interaction": null,
+        "link": "https://www.linkedin.com/posts/aravind-pillarisetty_1st-hack-google-gemini-track-victory-royale-activity-7426497297875918849-dW4C",
+        "title": "1st Hack! Google Gemini Track Victory Royale \ud83e\udd47\ud83c\udfc6 at TidalTAMU 2026 Amritaraj Nair Raghavsai Tirupati Suhruth Mundla ...more ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQGi1h4eH5oCnA/feedshare-shrink_800/B56ZxA38OiKIAg-/0/1770614932581?e=2147483647&v=beta&t=MNzZ2jZRwGtEz6QmoWOZWPFzKPQ5Z211ChwWZH7gtVc",
+        "id": "7426497297875918849"
+      },
+      {
+        "interaction": "Amritaraj Nair shared this",
+        "link": "https://www.linkedin.com/posts/amritnair1_me-aravind-pillarisetty-suhruth-mundla-activity-7426492115481739264-1fEb",
+        "title": "Me, Aravind Pillarisetty , Suhruth Mundla , and Raghavsai Tirupati won the Google Gemini Track at TidalTAMU 2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQHnbMJxVv_bIg/feedshare-shrink_800/B56ZxAzOhVHIAg-/0/1770613696809?e=2147483647&v=beta&t=S_9UuxKT63ubvsJVpMX3h8aQbwaGz2YmE0JczUpfLfY",
+        "id": "7426492115481739264"
+      },
+      {
+        "interaction": "Amritaraj Nair liked this",
+        "link": "https://www.linkedin.com/posts/mannbellani_im-up-activity-7493176654219972608-9_R4",
+        "title": "i'm up",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQHr_kjAdArk0w/feedshare-shrink_800/B56Z_0cdoUHAAc-/0/1786512530249?e=2147483647&v=beta&t=ySVJFW3nKeClWv4i3bjR3V971yToFalzYb3g457KDZ4",
+        "id": "7493176654219972608"
+      },
+      {
+        "interaction": "Amritaraj Nair liked this",
+        "link": "https://www.linkedin.com/posts/shivamkanodia19_chickfila-activity-7490919784918753280-PVxU",
+        "title": "As my internship at Matic comes to an end, I\u2019ve been thinking about how much this summer changed the way I think about product engineering. Over the past few months, I worked with Amritaraj Nair to build PulseMatic, an AI inbox management tool for physicians. We took it from an idea to a working product by understanding where physicians were losing time, identifying the problems worth solving, and laying the foundation for its integration into Matic\u2019s flagship product, Provider AI. That process showed me what software engineering looks like in practice: build, put it in front of the team, listen to what needs to change, and come back with something better each week (shoutout sharematic). Thank you to Calvin Carter for giving me the opportunity to join Matic after our first conversation in April and to contribute alongside such a talented team throughout the summer. Thank you as well to everyone at Matic who invested their time, challenged me to think differently, and made the experience so valuable. #chickfila",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQG87n0dfhePhQ/feedshare-shrink_800/B56Z_UVKFEIMAg-/0/1785973745782?e=2147483647&v=beta&t=yE8YjvpqGmr4jhjwORTUU4c5RpHJ4Jr9iQXxZM0HsaQ",
+        "id": "7490919784918753280"
+      },
+      {
+        "interaction": "Amritaraj Nair liked this",
+        "link": "https://www.linkedin.com/posts/cyrilsudepally_thoughts-activity-7480643157404200960-xO3r",
+        "title": "Thoughts?",
+        "img": "https://media.licdn.com/dms/image/v2/D4E05AQGWdD8IM84CFg/videocover-high/B4EZ9CVQimHsBM-/0/1783524301220?e=2147483647&v=beta&t=eTspdMaksPxl_OVf6PXxPQ0lMa9mAvovAnbtKOdSJ3M",
+        "id": "7480643157404200960"
+      },
+      {
+        "interaction": "Amritaraj Nair liked this",
+        "link": "https://www.linkedin.com/posts/mannbellani_a-company-left-a-very-strongly-worded-comment-activity-7489421856538550272--NZn",
+        "title": "A company left a very strongly worded comment on my post about open-sourcing their product. I ratioed it. That concludes week 2 of the killstreak. Stats so far : - 9 companies open sourced - 23,000 installs - 8 million views - 1.1k developers in our discord community People kept asking me to put every open source alternative in one place. so i did it: publikhq.com",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQFxJ7mlfSI3Dw/feedshare-shrink_800/B56Z._FfBVLAAc-/0/1785617314321?e=2147483647&v=beta&t=wa2M2GXc6Gfn2_2KKcTUn4pZJK52Mim2lhyZvoQVk0c",
+        "id": "7489421856538550272"
+      },
+      {
+        "interaction": "Amritaraj Nair liked this",
+        "link": "https://www.linkedin.com/posts/fernando-mendoza-berkeley_linkedinpartner-activity-7488631004790919168-AgOI",
+        "title": "Career update: Week 1 down with the Las Vegas Raiders \ud83d\udcbc #LinkedInPartner",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQGXYjGeRdXc2g/feedshare-shrink_800/B56Z.z2Nn2G4Ag-/0/1785428761712?e=2147483647&v=beta&t=Zfk4KOU3hIU-Qx_dsbFoVu9haOO-dXocOK78RR12tOA",
+        "id": "7488631004790919168"
+      },
+      {
+        "interaction": "Amritaraj Nair liked this",
+        "link": "https://www.linkedin.com/posts/vedanth-chamala-416366344_hearing-all-the-brilliant-minds-speak-and-activity-7488070654051635201-_NOP",
+        "title": "Hearing all the brilliant minds speak and getting the chance to meet so many ambitious students at YC Startup School 2026 was a great experience. Amazing to see how transformative this era of Al and innovation is, and will continue to be. San Francisco is such a beautiful city, hope to be back soon \ud83d\ude04\ud83c\udf01 Leaving inspired to learn and build. \"How hard can it be?\" ~ Jensen Huang",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQGAvi-hBe7PCg/feedshare-image-high-res/B56Z.r4jDfGgAU-/0/1785295155738?e=2147483647&v=beta&t=7jKowYoubaLW-usYXhiE7L6zeCMWCKgCR_mD1ob6OBU",
+        "id": "7488070654051635201"
+      },
+      {
+        "interaction": "Amritaraj Nair liked this",
+        "link": "https://www.linkedin.com/posts/ajith-govind_when-i-was-a-kid-i-wanted-to-be-a-fighter-activity-7487950973844287488-i28r",
+        "title": "When I was a kid, I wanted to be a fighter pilot. This Thursday, we are stepping onto an aircraft carrier. The USS Midway in San Diego, for an industry event with 500 business owners. 6 months ago we were knocking on doors in Utah. Now we're being invited into rooms full of the people we built this for. Plumbing, HVAC, Roofing, Electrical - the people who wake up at 5am and run real companies that support real families. 500 industry professionals on one epic aircraft carrier. Honestly just excited to be in a room full of the people we wake up every morning thinking about. If you're going to be there - come say hi \ud83c\udf35 Avinash Seth Christopher",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQEEoeUprwiinQ/feedshare-shrink_800/B56Z.qLu3RGUAg-/0/1785266630436?e=2147483647&v=beta&t=sppdFMuu273r7VmeoY3KuwJainp3S8psKaZ2tgfn1jg",
+        "id": "7487950973844287488"
+      },
+      {
+        "interaction": "Amritaraj Nair liked this",
+        "link": "https://www.linkedin.com/posts/ajith-govind_we-rang-the-gong-yesterday-heres-what-activity-7486080595836489728-eNly",
+        "title": "We rang the gong yesterday!!! Here's what the day looked like: 8am - customer onboarding 8am - growth session 9am - plumbing company demo 10am - internal product session 12pm - customer intro 2pm - growth session 2:30pm - new customer call 3:30pm - all-hands weekly update That's one day. One Wednesday. One of our customers flew in from Salt Lake City this week to spend 3 days with us. Another is flying in today from the East Coast. Our customers don't just use our product. They come visit us. Woke up this morning to find Avinash talking to a customer at 6 am and by the time I was at my desk, we already shipped 2 great features. We shipped relentlessly since January - and fully evolved from an AI answering service to the complete AI revenue engine for the trades. We're going into deeper engagements with select customers to drive even more impact, revenue, and growth. The next few months are going to be wild. This is what it looks like when a small team decides to move fast and never stop. Throwback: Christopher rang the gong on very first day in the office!!!",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQEo-gONgvnamA/feedshare-image-high-res/B56Z.PmnvHKgAU-/0/1784820697241?e=2147483647&v=beta&t=BKqLq0wenbYgbJ0oYdApYQjEvcbh23KOAdnEx7pSQEk",
+        "id": "7486080595836489728"
+      }
+    ],
+    "linkedin_num_id": "1334864767",
+    "banner_image": "https://media.licdn.com/dms/image/v2/D5616AQE0tM2leL9kfg/profile-displaybackgroundimage-shrink_200_800/B56ZnGwSdyKMAU-/0/1759976172834?e=2147483647&v=beta&t=4BcqC6zqXBX6IWNxGzYHjath_RfGEgYlqBNwQVpOZ5A",
+    "honors_and_awards": [
+      {
+        "title": "Aggie Research Scholar",
+        "publication": "Dr. Megha Saiju",
+        "date": "2026-06-01T00:00:00.000Z",
+        "description": "Awarded for outstanding work and research in AI, specifically for my work in AI for Food Sustainability Systems and efforts in the research project titled \u201cFrom Data to Decisions: AI-Driven Research in Veterinary Science for Production and Sustainability\u201d."
+      },
+      {
+        "title": "President's Scholar Award",
+        "publication": "Texas A&M",
+        "date": "2025-08-01T00:00:00.000Z",
+        "description": "Recognized with one of Texas A&M University\u2019s most distinguished merit scholarships, awarded to high-achieving students who demonstrate exemplary academic credentials, intellectual curiosity, strong leadership involvement, and meaningful engagement within the Aggie community. This highly competitive honor reflects a rigorous selection process and highlights students who embody the university\u2019s ideals of excellence, integrity, and service\u2014placing recipients among Texas A&M\u2019s most promising\u2026 Show more"
+      },
+      {
+        "title": "National Merit Finalist",
+        "publication": "National Merit Scholarship Corporation",
+        "date": "2025-04-01T00:00:00.000Z",
+        "description": "Recognized as a National Merit Finalist by the National Merit Scholarship Corporation, an honor awarded to less than 1% of U.S. high school students. Selection is based on exceptional PSAT/NMSQT performance, sustained academic excellence, leadership involvement, and a rigorous application including essays, recommendations, and verification of high academic standing."
+      }
+    ],
+    "similar_profiles": [],
+    "default_avatar": false,
+    "memorialized_account": false,
+    "bio_links": [
+      {
+        "title": "Personal Website",
+        "link": "https://github.com/amritnair"
+      }
+    ],
+    "first_name": "Amritaraj",
+    "last_name": "Nair",
+    "influencer": false,
+    "timestamp": "2026-08-12T18:55:36.066Z",
+    "input": {
+      "url": "https://www.linkedin.com/in/amritnair1"
+    }
+  },
+  "local_photo": "data\\linkedin_photos\\amritnair1__usr-0JYnqsadVSvIVAc.jpg"
+}

@@ -1,0 +1,425 @@
+{
+  "luma_user_id": "usr-dJu7c4hc8GpCaMa",
+  "csv_name": "Savir Singh",
+  "csv_linkedin": "https://www.linkedin.com/in/savirss",
+  "enriched_at": "2026-08-12T19:16:49.718686+00:00",
+  "batch_id": "sd_msqgxyk1xj7v4ip1",
+  "profile": {
+    "id": "savirss",
+    "name": "Savir Singh",
+    "city": "Toronto, Ontario, Canada",
+    "country_code": "CA",
+    "position": null,
+    "about": "Hi, my name is Savir and I'm a second-year Computer Science and Mathematics student at\u2026",
+    "current_company": {
+      "link": "https://ca.linkedin.com/company/kpmg-canada?trk=public_profile_topcard-current-company",
+      "name": "KPMG Canada",
+      "company_id": "kpmg-canada",
+      "location": null
+    },
+    "experience": null,
+    "url": "https://au.linkedin.com/in/savirss",
+    "educations_details": "University of Toronto",
+    "education": [
+      {
+        "title": "University of Toronto",
+        "url": "https://ca.linkedin.com/school/university-of-toronto/",
+        "start_year": "2025-09",
+        "end_year": "2029-04",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      },
+      {
+        "start_year": "2021",
+        "end_year": "2025",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      },
+      {
+        "start_year": "2015",
+        "end_year": "2020",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      }
+    ],
+    "avatar": "https://media.licdn.com/dms/image/v2/D4E03AQEPc5Rth3WEKg/profile-displayphoto-scale_200_200/B4EZ3mrhvwJcAY-/0/1777691665975?e=2147483647&v=beta&t=4_iomfqR4IFs02mdh1WpAmNvVpD2uFJL5OnGX7c6h7M",
+    "courses": [
+      {
+        "subtitle": "MAT240",
+        "title": "Algebra I (Advanced Linear Algebra)"
+      },
+      {
+        "subtitle": "MAT247",
+        "title": "Algebra II (Advanced Linear Algebra)"
+      },
+      {
+        "subtitle": "STA130",
+        "title": "An Introduction to Statistical Reasoning and Data Science"
+      },
+      {
+        "subtitle": "MAT157",
+        "title": "Analysis I (Real Analysis)"
+      },
+      {
+        "subtitle": "CSC258",
+        "title": "Computer Organization"
+      },
+      {
+        "subtitle": "CSC263",
+        "title": "Data Structures and Analysis"
+      },
+      {
+        "subtitle": "CSC148",
+        "title": "Introduction to Computer Science"
+      },
+      {
+        "subtitle": "MAT244",
+        "title": "Introduction to Ordinary Differential Equations"
+      },
+      {
+        "subtitle": "CSC236",
+        "title": "Introduction to the Theory of Computation"
+      },
+      {
+        "subtitle": "CSC165",
+        "title": "Mathematical Expression and Reasoning for Computer Science"
+      },
+      {
+        "subtitle": "MAT237",
+        "title": "Multivariable Calculus with Proofs"
+      },
+      {
+        "subtitle": "ECO101",
+        "title": "Principles of Microeconomics"
+      },
+      {
+        "subtitle": "STA257",
+        "title": "Probability and Statistics I"
+      },
+      {
+        "subtitle": "CSC207",
+        "title": "Software Design"
+      },
+      {
+        "subtitle": "CSC209",
+        "title": "Software Tools and Systems Programming"
+      }
+    ],
+    "languages": [
+      {
+        "subtitle": "Native or bilingual proficiency",
+        "title": "English"
+      },
+      {
+        "subtitle": "Native or bilingual proficiency",
+        "title": "Hindi"
+      },
+      {
+        "subtitle": "Limited working proficiency",
+        "title": "French"
+      }
+    ],
+    "volunteer_experience": [
+      {
+        "cause": "Education",
+        "duration": "2023 \u00b7 - \n2026 \u00b7 \n3 years",
+        "duration_short": "- \n2026",
+        "info": "In October 2023, I founded what later became Canada's #1 math contest preparation platform. Under my leadership, the platform reached 500+ registered students, 700+ community members, and 80+ schools. We've hosted 15+ contests and over 1,400 math problems. I also managed partnerships with Desmos and worked with organizations including the University of Waterloo, Spirit of Math, and MAA. I've written over 10,000 lines of code, built the entire website, and later created a platform store &\u2026 Show more In October 2023, I founded what later became Canada's #1 math contest preparation platform. Under my leadership, the platform reached 500+ registered students, 700+ community members, and 80+ schools. We've hosted 15+ contests and over 1,400 math problems. I also managed partnerships with Desmos and worked with organizations including the University of Waterloo, Spirit of Math, and MAA. I've written over 10,000 lines of code, built the entire website, and later created a platform store & currency. Show less",
+        "start_date": "2023",
+        "subtitle": "Math Contest Repository",
+        "title": "President & Director of Software Development"
+      },
+      {
+        "cause": "Education",
+        "duration": "Feb 2025 \u00b7 - \nMar 2025 \u00b7 \n2 months",
+        "duration_short": "- \nMar 2025",
+        "info": "Invited to judge the entrepreneurship category at the Canadian National Leadership Conference with 1,900+ students.",
+        "start_date": "Feb 2025",
+        "subtitle": "FBL Canada",
+        "title": "Judge - Entrepreneurship Category"
+      },
+      {
+        "cause": "Science and Technology",
+        "duration": "Sep 2023 \u00b7 - \nMar 2025 \u00b7 \n1 year 7 months",
+        "duration_short": "- \nMar 2025",
+        "info": "Authored/uploaded problems and editorial solutions for Canadian Computing Competition, ICPC ECNA, and DMOJ-hosted competitions.",
+        "start_date": "Sep 2023",
+        "subtitle": "DMOJ: Modern Online Judge",
+        "title": "Problem Setter"
+      },
+      {
+        "duration": "Sep 2024 \u00b7 - \nNov 2024 \u00b7 \n3 months",
+        "duration_short": "- \nNov 2024",
+        "info": "Twice yearly, local youth are selected to participate in Halton Regional Police Service's (HRPS) 11-week Police Ethnic and Cultural Education Youth Leadership Program (PEACE). PEACE students work closely with members of the HRPS to improve their cultural proficiency, communication, and leadership skills. Received 23 total volunteer hours and graduated with a certification.",
+        "start_date": "Sep 2024",
+        "subtitle": "Halton Regional Police Service",
+        "title": "PEACE Youth Leadership Program"
+      },
+      {
+        "cause": "Education",
+        "duration": "Sep 2024 \u00b7 - \nJun 2025 \u00b7 \n10 months",
+        "duration_short": "- \nJun 2025",
+        "info": "I was an official school mathematics peer tutor. I initially tutored students in grades 9-12 for the MDM4U course, but was later promoted to tutor for all courses and grades based on my capability and demonstrated effort.",
+        "start_date": "Sep 2024",
+        "subtitle": "Garth Webb Secondary School",
+        "title": "Mathematics Tutor"
+      },
+      {
+        "duration": "Jun 2024 \u00b7 - \nJun 2025 \u00b7 \n1 year 1 month",
+        "duration_short": "- \nJun 2025",
+        "info": "Formerly: Executive Leader (10 months), Member (15 months). As president, I led a team of three other executives to host competitive programming contests, teach algorithmic concepts, help with coursework, and host events/hackathons. Achieved top score in school on every CCC since Grade 10. Created and presented slideshow content to club members, organized the CCC, which is hosted by the University of Waterloo, and hosted school contests. I was also the lead lecturer at the school's\u2026 Show more Formerly: Executive Leader (10 months), Member (15 months). As president, I led a team of three other executives to host competitive programming contests, teach algorithmic concepts, help with coursework, and host events/hackathons. Achieved top score in school on every CCC since Grade 10. Created and presented slideshow content to club members, organized the CCC, which is hosted by the University of Waterloo, and hosted school contests. I was also the lead lecturer at the school's official CS club, meaning I had the responsibility of teaching and explaining data structures, algorithms, and other programming concepts. In addition, I provided homework help with ICS3U and ICS4U courses. Show less",
+        "start_date": "Jun 2024",
+        "subtitle": "Garth Webb Secondary School",
+        "title": "Computer Science Club President & Lead Lecturer"
+      },
+      {
+        "duration": "Sep 2023 \u00b7 - \nJun 2024 \u00b7 \n10 months",
+        "duration_short": "- \nJun 2024",
+        "info": "After being in the club for 15 months, I was made an executive leader. Worked with a team of executives. My role was primarily to develop & present lectures about algorithms and data structures for the Canadian Computing Competition. From 2023-2024, I consistently earned the top score on the CCC at my school.",
+        "start_date": "Sep 2023",
+        "subtitle": "Garth Webb Secondary School",
+        "title": "Computer Science Club Executive & Lead Lecturer"
+      },
+      {
+        "duration": "Sep 2023 \u00b7 - \nJun 2025 \u00b7 \n1 year 10 months",
+        "duration_short": "- \nJun 2025",
+        "info": "Helped to create and present slideshows to members, organized a competition hosted by the University of Waterloo, and managed communications with team members through social media. I presented lessons alongside other lecturers. During our 2023-2024 operations, we achieved a first for our club with 6 of our members receiving Gold awards for the Financial Literacy Competition hosted by the University of Waterloo.",
+        "start_date": "Sep 2023",
+        "subtitle": "Garth Webb Secondary School",
+        "title": "Financial Literacy Club Executive Leader & Co-Lecturer"
+      },
+      {
+        "cause": "Science and Technology",
+        "duration": "Jun 2024 \u00b7 - \nJun 2025 \u00b7 \n1 year 1 month",
+        "duration_short": "- \nJun 2025",
+        "info": "Co-founded WebbHacks, Oakville's builder-focused hackathon at Garth Webb Secondary School. Managed technology-related matters, including developing the website and e-ticket system.",
+        "start_date": "Jun 2024",
+        "subtitle": "WebbHacks",
+        "title": "Co-Founder"
+      },
+      {
+        "duration": "Sep 2021 \u00b7 - \nJun 2023 \u00b7 \n1 year 10 months",
+        "duration_short": "- \nJun 2023",
+        "info": "I helped with a programming contest and helped to teach youth how to code, which is aligned with MCC's vision.",
+        "start_date": "Sep 2021",
+        "subtitle": "My Code Club",
+        "title": "Programming Instructor & Code-A-Thon Assistant"
+      },
+      {
+        "cause": "Science and Technology",
+        "duration": "Sep 2023 \u00b7 - \nJun 2025 \u00b7 \n1 year 10 months",
+        "duration_short": "- \nJun 2025",
+        "info": "Hosted, managed, and developed problems for one-week-long competitive programming competitions intended to prepare participants for the University of Waterloo's Canadian Computing Competition.",
+        "start_date": "Sep 2023",
+        "subtitle": "Garth Webb Computer Science Competition",
+        "title": "President"
+      },
+      {
+        "cause": "Education",
+        "duration": "May 2024 \u00b7 - \nMay 2024 \u00b7 \n1 month",
+        "duration_short": "- \nMay 2024",
+        "info": "In collaboration with Garth Webb and Abbey Park Secondary Schools, I was a student mentor for the Future of Work Ideathon. My role was to: - Facilitate ideation discussion sessions with groups of parents. - Share insights from my area of expertise, highlighting emerging trends. - Help in crafting actionable ideas for parents to support their children\u2019s career readiness. - Encourage innovative thinking and problem-solving among participants",
+        "start_date": "May 2024",
+        "subtitle": "Garth Webb Secondary School",
+        "title": "Future of Work Ideathon Mentor"
+      }
+    ],
+    "followers": 1297,
+    "connections": 500,
+    "current_company_company_id": "kpmg-canada",
+    "current_company_name": "KPMG Canada",
+    "publications": [
+      {
+        "title": "On the Innovations Too Powerful to Share",
+        "subtitle": "savirsingh.com",
+        "date": "June 6, 2025",
+        "description": "With some reflection and logical reasoning, it becomes evident that societal progress (whether technological or cultural) is unlikely to continue indefinitely. At some point, its pace is bound to slow, stagnate, or even regress. While this may seem pessimistic, the causes of such a plateau are not necessarily mysterious. In this paper, I propose that the primary limiting factor of a society is individual selfish behaviour: specifically, the unwillingness of individuals to share transformative discoveries or technologies with the wider population. Importantly, I argue that this pattern is not only observable in real history but also logically deducible through basic thought experiments. I further suggest that although selfishness is deeply rooted, this barrier can be consciously recognized and corrected."
+      }
+    ],
+    "projects": [
+      {
+        "title": "Clonio AI",
+        "start_date": "May 2024",
+        "description": "Built & managed a top 25 AI productivity app. 6,000+ daily active users (beta + alpha). 200 downloads in the first week alone. 1M+ messages processed so far. Get it for 1.99 USD on the App Store today. Available on iOS, macOS, and Apple Vision.Funded by a $3,500 grant provided by the Ontario Ministry of Education. Interviewed by Village Media."
+      },
+      {
+        "title": "Math Contest Repository",
+        "start_date": "Oct 2023",
+        "description": "A math contest problem collection with 1,400+ problems, 5,500+ solution submissions, 500+ registered students, and 700+ community members. We have 400+ POTW subscribers and 300+ study session subscribers. We have run 15 of our own online math competitions so far."
+      },
+      {
+        "title": "Forumle",
+        "start_date": "Apr 2023",
+        "description": "Forums & Group Chat for Individuals & Businesses"
+      },
+      {
+        "title": "Guessoword",
+        "start_date": "Jan 2022",
+        "description": "Collection of brain teasers and online puzzle games."
+      },
+      {
+        "title": "Vibe Lyrics",
+        "start_date": "Nov 2021",
+        "description": "For fun, I grew a YouTube channel from 0 to 280,000+ subscribers in less than 1 week. I used some interesting and innovative (private) strategies to grow the channel. Contact me directly if you want to learn more :)The channel is at https://youtube.com/@vibelyrics. Naturally, it lost subscribers and regular viewers after the project ended. I intend to try the strategy again when I have some free time, and will update this project as needed."
+      },
+      {
+        "title": "BYTEsense",
+        "start_date": "Sep 2023",
+        "description": "BYTEsense is a Replit-hosted project built by me along with three other team members for Hack the North 2023. It is a prototype of a potentially life-changing tool which asks people to enter data after consuming a meal. Users give each meal a rating out of 3, and based on their ratings, BYTEsense will use LLMs, the OpenAI and Cohere APIs, and training data stored in a database to inform users how they will feel after consuming the meal. Our project won 2nd place for the \u201cBest Hack Built on Replit\u201d prize. We were one of 250 teams at Canada\u2019s largest invite-only hackathon.https://github.com/savirsingh/bytesense-htn-project"
+      },
+      {
+        "title": "Volcano Judge",
+        "start_date": "Oct 2022",
+        "description": "Volcano Judge is an online competitive programming judge designed specifically to aid in learning new algorithms and data structures. Supports and has sandboxing for Python and C++."
+      }
+    ],
+    "location": "Toronto",
+    "input_url": "https://www.linkedin.com/in/savirss",
+    "linkedin_id": "savirss",
+    "activity": null,
+    "linkedin_num_id": "1188383913",
+    "banner_image": "https://static.licdn.com/aero-v1/sc/h/5q92mjc5c51bjlwaj3rs9aa82",
+    "honors_and_awards": [
+      {
+        "title": "Department of Computer Science Academic Travel Grant",
+        "publication": "University of Toronto",
+        "date": "2026-07-01T00:00:00.000Z",
+        "description": "Awarded a $400 DCS Academic Travel Grant for Winter 2026 to attend Y Combinator Startup School in San Francisco (total grants for this trip are at $1,100+, covering the entire cost)"
+      },
+      {
+        "title": "Scholarships & Entrance Awards ($18,500)",
+        "publication": "-",
+        "date": "2025-06-01T00:00:00.000Z",
+        "description": "- $12,000 Entrance Scholarship for Bachelor of Computer Science, Honours at Carleton University - $3,500 Western Scholarship of Distinction for Computer Science at Western University - $3,000 Entrance Award for Computer Science, Mathematics and Statistics at the University of Toronto Mississauga Did not accept, in favour of Computer Science + Mathematics at the University of Toronto (St. George)."
+      },
+      {
+        "title": "Silver Medalist (2nd Place)",
+        "publication": "Halton Skills Competition (Coding Division)",
+        "date": "2025-03-01T00:00:00.000Z",
+        "description": "Placed 2nd out of ~30 in the coding division of the Halton Skills Competition 2025, earning a silver medal."
+      },
+      {
+        "title": "Distinction in Sir Isaac Newton Exam 2024",
+        "publication": "University of Waterloo",
+        "date": "2024-06-01T00:00:00.000Z",
+        "description": "Placed among the top 1000 participants in the world in the annual SIN exam run by the UWaterloo Faculty of Science, Department of Physics."
+      },
+      {
+        "title": "Top 8% (Distinction) - Canadian Computing Competition 2024 (Senior Division)",
+        "publication": "CEMC - University of Waterloo",
+        "date": "2024-03-01T00:00:00.000Z",
+        "description": "Rank: 309 out of 3947 participants. Score: 37/75. My previous score was 8/75 in senior."
+      },
+      {
+        "title": "First Place Winner - High School Coding Contest 2023",
+        "publication": "Professional Engineers Ontario - Mississauga Chapter",
+        "date": "2023-11-01T00:00:00.000Z",
+        "description": "I won first place for the third time in the high school coding contest hosted by Professional Engineers Ontario (PEO) - Mississauga Chapter."
+      },
+      {
+        "title": "Top 0.2% on Virtual Stock Market Simulator",
+        "publication": "TD Bank",
+        "date": "2023-10-01T00:00:00.000Z",
+        "description": "As of October 2023, I was ranked among the top 0.2% (top 100 out of nearly 60,000 players) of players in the Free Virtual Stock Market Simulator Game for Students by TD Bank, with a virtual portfolio value exceeding $114,000. The simulator mirrors real stock prices."
+      },
+      {
+        "title": "2nd Place - Best Hack Built on Replit",
+        "publication": "Hack the North 2023",
+        "date": "2023-09-01T00:00:00.000Z",
+        "description": "Built BYTEsense with three other team members. Check out our project at https://github.com/savirsingh/bytesense-htn-project"
+      },
+      {
+        "title": "13th Place in Ontario - Skills Ontario Coding Competition",
+        "publication": "Skills Ontario, Skills Canada",
+        "date": "2023-05-01T00:00:00.000Z",
+        "description": "Represented school board at provincial level programming competition. Ranked 13th place provincially in the coding division. The competition had over 2400 participants."
+      },
+      {
+        "title": "2nd Place Overall - Proco Competitive Programming Hackathon",
+        "publication": "Enriched CS",
+        "date": "2023-05-01T00:00:00.000Z",
+        "description": "Won second place overall in the team round consisting of high school and undergrad competitors, competed with 15+ teams and won a $300 prize."
+      },
+      {
+        "title": "Distinction - Galois Contest 2023",
+        "publication": "CEMC - University of Waterloo",
+        "date": "2023-04-01T00:00:00.000Z",
+        "description": null
+      },
+      {
+        "title": "Gold Medalist - Halton Skills Coding Competition",
+        "publication": "Skills Ontario, Halton District School Board",
+        "date": "2023-03-01T00:00:00.000Z",
+        "description": null
+      },
+      {
+        "title": "Distinction - Canadian Computing Competition (Junior) 2023",
+        "publication": "CEMC - University of Waterloo",
+        "date": "2023-02-01T00:00:00.000Z",
+        "description": "Score: 57/75 Top 23% Rank - 1404/6242 I improved from my 2022 score of 30/75 in junior."
+      },
+      {
+        "title": "Distinction - Cayley Contest 2023",
+        "publication": "CEMC - University of Waterloo",
+        "date": "2023-02-01T00:00:00.000Z",
+        "description": null
+      },
+      {
+        "title": "First Place Winner - High School Coding Contest 2022",
+        "publication": "Professional Engineers Ontario - Mississauga Chapter",
+        "date": "2022-11-01T00:00:00.000Z",
+        "description": "I won first place for the second time in the high school coding contest hosted by Professional Engineers Ontario (PEO) - Mississauga Chapter."
+      },
+      {
+        "title": "First Place Winner - High School Coding Contest 2021",
+        "publication": "Professional Engineers Ontario - Mississauga Chapter",
+        "date": "2021-11-01T00:00:00.000Z",
+        "description": "First Place in PEO-MC High School Coding Contest."
+      },
+      {
+        "title": "1st Place - Year 7 Japanese Award",
+        "publication": "The Rockhampton Grammar School",
+        "date": "2019-11-01T00:00:00.000Z",
+        "description": "Achieved first place, and a grade of 100% in Year 7 Japanese, a compulsory subject at the Rockhampton Grammar School, in a cohort of 80+ students."
+      },
+      {
+        "title": "Top Mark - English",
+        "publication": "The Rockhampton Grammar School",
+        "date": "2018-11-01T00:00:00.000Z",
+        "description": "Achieved the top mark in the English subject area in Year 6 at the Rockhampton Grammar School."
+      },
+      {
+        "title": "Top Mark - Mathematics",
+        "publication": "The Rockhampton Grammar School",
+        "date": "2018-11-01T00:00:00.000Z",
+        "description": "Achieved the top mark in the mathematics subject area in Year 6 at the Rockhampton Grammar School."
+      },
+      {
+        "title": "Top Mark - Social Science",
+        "publication": "The Rockhampton Grammar School",
+        "date": "2018-11-01T00:00:00.000Z",
+        "description": "Achieved the top mark in the social science subject area in Year 6 at the Rockhampton Grammar School."
+      }
+    ],
+    "similar_profiles": [],
+    "default_avatar": false,
+    "memorialized_account": false,
+    "bio_links": [
+      {
+        "title": "Personal Website",
+        "link": "https://www.savirsingh.com/"
+      }
+    ],
+    "first_name": "Savir",
+    "last_name": "Singh",
+    "influencer": false,
+    "timestamp": "2026-08-12T19:15:04.541Z",
+    "input": {
+      "url": "https://www.linkedin.com/in/savirss"
+    }
+  },
+  "local_photo": "data\\linkedin_photos\\savirss__usr-dJu7c4hc8GpCaMa.jpg"
+}

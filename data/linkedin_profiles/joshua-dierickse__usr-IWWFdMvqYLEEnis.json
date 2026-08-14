@@ -1,0 +1,350 @@
+{
+  "luma_user_id": "usr-IWWFdMvqYLEEnis",
+  "csv_name": "Joshua Dierickse",
+  "csv_linkedin": "https://www.linkedin.com/in/joshua-dierickse",
+  "enriched_at": "2026-08-12T19:11:36.236749+00:00",
+  "batch_id": "sd_msqgoa0o2hh62sia9d",
+  "profile": {
+    "id": "joshua-dierickse",
+    "name": "Joshua Dierickse",
+    "city": "Waterloo, Ontario, Canada",
+    "country_code": "CA",
+    "position": null,
+    "about": "\ud83d\udc4b Hi there, I am Joshua Dierickse, a Computer Science student at the University of\u2026",
+    "current_company": {
+      "link": "https://www.linkedin.com/company/meta?trk=public_profile_topcard-current-company",
+      "name": "Meta",
+      "company_id": "meta",
+      "location": null
+    },
+    "experience": null,
+    "url": "https://hu.linkedin.com/in/joshua-dierickse",
+    "educations_details": "University of Waterloo",
+    "education": [
+      {
+        "title": "University of Waterloo",
+        "url": "https://ca.linkedin.com/school/uwaterloo/",
+        "start_year": "2023",
+        "end_year": "2028",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      },
+      {
+        "start_year": "2019",
+        "end_year": "2023",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      }
+    ],
+    "avatar": "https://media.licdn.com/dms/image/v2/D4E03AQF7_B2sAPvrMg/profile-displayphoto-scale_200_200/B4EZgllzMHH8AY-/0/1752977323236?e=2147483647&v=beta&t=KnIzWgzmISiWL8HB8wuC4_AuEC7mv4ZGIPX57o018sE",
+    "courses": [
+      {
+        "subtitle": "-",
+        "title": "CS 136L \u2013 Tools and Techniques for Software Development"
+      },
+      {
+        "subtitle": "-",
+        "title": "CS 145 \u2013 Designing Functional Programs (Advanced Level)"
+      },
+      {
+        "subtitle": "-",
+        "title": "CS 146 \u2013 Elementary Algorithm Design and Data Abstraction (Advanced Level)"
+      },
+      {
+        "subtitle": "-",
+        "title": "CS 240E - Data Structures and Data Management (Enriched)"
+      },
+      {
+        "subtitle": "-",
+        "title": "CS 241 - Foundations of Sequential Programs"
+      },
+      {
+        "subtitle": "-",
+        "title": "CS 245 \u2013 Logic and Computation"
+      },
+      {
+        "subtitle": "-",
+        "title": "CS 246E \u2013 Object-Oriented Software Development (Enriched)"
+      },
+      {
+        "subtitle": "-",
+        "title": "CS 251 - Computer Organization and Design"
+      },
+      {
+        "subtitle": "-",
+        "title": "MATH 135 \u2013 Algebra for Honours Mathematics"
+      },
+      {
+        "subtitle": "-",
+        "title": "MATH 136 \u2013 Linear Algebra 1 for Honours Mathematics"
+      },
+      {
+        "subtitle": "-",
+        "title": "MATH 137 \u2013 Calculus 1 for Honours Mathematics"
+      },
+      {
+        "subtitle": "-",
+        "title": "MATH 138 \u2013 Calculus 2 for Honours Mathematics"
+      },
+      {
+        "subtitle": "-",
+        "title": "MATH 235 \u2013 Linear Algebra 2 for Honours Mathematics"
+      },
+      {
+        "subtitle": "-",
+        "title": "MATH 237 \u2013 Calculus 3 for Honours Mathematics"
+      },
+      {
+        "subtitle": "-",
+        "title": "MATH 239 - Introduction to Combinatorics"
+      },
+      {
+        "subtitle": "-",
+        "title": "PHYS 121 \u2013 Mechanics"
+      },
+      {
+        "subtitle": "-",
+        "title": "PHYS 122 \u2013 Waves, Electricity, and Magnetism"
+      },
+      {
+        "subtitle": "-",
+        "title": "STAT 230 \u2013 Probability"
+      },
+      {
+        "subtitle": "-",
+        "title": "STAT 231 - Statistics"
+      }
+    ],
+    "volunteer_experience": [
+      {
+        "duration": "Jun 2025 \u00b7 - \nSep 2025 \u00b7 \n4 months",
+        "duration_short": "- \nSep 2025",
+        "info": "Dove deep into systems and infrastructure as a Production Engineering Fellow",
+        "start_date": "Jun 2025",
+        "subtitle": "MLH Fellowship",
+        "title": "Production Engineering Fellow"
+      },
+      {
+        "cause": "Education",
+        "duration": "Sep 2021 \u00b7 - \nJun 2023 \u00b7 \n1 year 10 months",
+        "duration_short": "- \nJun 2023",
+        "start_date": "Sep 2021",
+        "subtitle": "Waterloo Collegiate Institute",
+        "title": "Chess Club Executive"
+      },
+      {
+        "cause": "Education",
+        "duration": "Sep 2022 \u00b7 - \nJun 2023 \u00b7 \n10 months",
+        "duration_short": "- \nJun 2023",
+        "start_date": "Sep 2022",
+        "subtitle": "Waterloo Collegiate Institute",
+        "title": "Robotics Club Executive"
+      }
+    ],
+    "followers": 1697,
+    "connections": 500,
+    "current_company_company_id": "meta",
+    "current_company_name": "Meta",
+    "projects": [
+      {
+        "title": "AI Physiotherapist",
+        "start_date": "Aug 2024",
+        "description": "\u2022 Engineered an AI physiotherapist that detects physiotherapy-exercise form using computer vision from TensorFlow.\u2022 Developed a physiotherapy chatbot to give feedback and more information about certain physiotherapy exercises.\u2022 Implemented a beautiful React, TailwindCSS, and MaterialUI frontend, utilizing UI/UX design principles along with colour theory and typography"
+      },
+      null,
+      null,
+      null,
+      {
+        "title": "Cooking AI",
+        "start_date": "Sep 2023",
+        "description": "\u2022 Developed a full-stack web app with an AI cooking assistant, who is knowledgeable on a specific recipe.\u2022 Implemented web scrapping using Puppeteer and Cheerio to scrap data from a specific website\u2019s recipe.\u2022 Built a NodeJS and ExpressJS backend to process recipe data and send API requests to OpenAI Text Davinci 3.\u2022 Created an HTML, CSS, Bootstrap, and EJS frontend with an AI Chat Bot that has speech-to-text andtext-to-speech capabilities, allowing the user to have a conversation with CookingAI."
+      },
+      null,
+      {
+        "title": "Java Chess",
+        "start_date": "May 2022",
+        "description": "\u2022 Implemented a 2 player game of chess using Java Swing\u2019s GUI toolkit, taking advantage of object-orientated programming when creating the chess board and pieces.\u2022 Developed algorithms to prevent illegal moves, allow for unique moves (en passant, pawn promotion, castling), and detect if a position is either checkmate or stalemate."
+      }
+    ],
+    "location": "Waterloo",
+    "input_url": "https://www.linkedin.com/in/joshua-dierickse",
+    "linkedin_id": "joshua-dierickse",
+    "activity": [
+      {
+        "interaction": "Liked by Joshua Dierickse",
+        "link": "https://www.linkedin.com/posts/saiguvvala_excited-to-be-joining-openai-this-fall-as-activity-7492026136428843008-ESxk",
+        "title": "Excited to be joining OpenAI this fall as a Member of Technical Staff Intern. Looking forward to what\u2019s ahead :)",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQE07xX90cRAYg/feedshare-shrink_1280/B4EZ_kGEZoIkAQ-/0/1786238225406?e=2147483647&v=beta&t=Fyf9dVCl7EcCwarPq4DRPag28j0xbaXYG-JTwQp1c0g",
+        "id": "7492026136428843008"
+      },
+      {
+        "interaction": "Liked by Joshua Dierickse",
+        "link": "https://www.linkedin.com/posts/shams-haroon_announcement-a-few-months-ago-i-moved-to-activity-7491589522120634368-b4cD",
+        "title": "announcement: A few months ago, I moved to San Francisco and joined Composio as a Member of Technical Staff. If you're out here in SF, I'd love to\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQE0EHd53hIjgw/feedshare-image-high-res/B56Z_d4.AqG0AU-/0/1786134127377?e=2147483647&v=beta&t=YOgL-mQcu6M2vfl_GslQ1PYDBJSUXwycu83Fr1dpkyw",
+        "id": "7491589522120634368"
+      },
+      {
+        "interaction": "Liked by Joshua Dierickse",
+        "link": "https://www.linkedin.com/posts/aayush-grover-06_a-few-internships-in-i-finally-know-what-activity-7491666765777694720-I_yp",
+        "title": "A few internships in, I finally know what I'm optimizing for. Not the stack. Not the brand name. Not even the problem space. The people. Insanely\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQGJ6tHwR7zMiQ/feedshare-shrink_1280/B56Z_e_OYEGcAM-/0/1786152544333?e=2147483647&v=beta&t=Lj3YORUT-OTNM_arNPcTKlQsHPXbm_XzBhASg3qZTp4",
+        "id": "7491666765777694720"
+      },
+      {
+        "interaction": "Liked by Joshua Dierickse",
+        "link": "https://www.linkedin.com/posts/dieterwhittingham_im-excited-to-share-that-ill-be-joining-activity-7489734531038711808-VgZB",
+        "title": "I'm excited to share that I'll be joining NVIDIA in Santa Clara this fall as a Software Engineer Intern on the TensorRT Infra team! Special thanks\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQHp2NuzmvAdXA/feedshare-shrink_800/B56Z_Dh3wFHYAc-/0/1785691864282?e=2147483647&v=beta&t=9h7W-f59D324b8KuAbWIr_H7Ek3wrtjnBheMqOdOBck",
+        "id": "7489734531038711808"
+      },
+      {
+        "interaction": "Liked by Joshua Dierickse",
+        "link": "https://www.linkedin.com/posts/ang018_excited-to-announce-ive-turned-my-degree-activity-7482674634648133632-RRlH",
+        "title": "Excited to announce I\u2019ve turned my degree 180 to stand here. To those who know me, you might know that I came to UW for mechatronics. You might\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQHyFad4QpjCew/feedshare-shrink_800/B56Z9fM7WaG8Ac-/0/1784008652756?e=2147483647&v=beta&t=ON61EFM0JbNT1rR9ViECGJcOD7xQCwhBhwsW3saP74Y",
+        "id": "7482674634648133632"
+      },
+      {
+        "interaction": "Liked by Joshua Dierickse",
+        "link": "https://www.linkedin.com/posts/chenpeng1919_happy-to-share-that-im-joining-openai-this-activity-7427879012779220992-BexF",
+        "title": "Happy to share that I'm joining OpenAI this summer in San Francisco as a Member of Technical Staff Intern!",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQFmgA2k4EBPtQ/feedshare-shrink_800/B4EZxUgmRaKoAg-/0/1770944359106?e=2147483647&v=beta&t=Drs653msqtZ27atB4L-GecLjdPcNGcv_fk2x2SRkooA",
+        "id": "7427879012779220992"
+      },
+      {
+        "interaction": "Liked by Joshua Dierickse",
+        "link": "https://www.linkedin.com/posts/ergi-sofi_after-over-2-years-at-thescore-my-time-there-activity-7479896976583442432-Da-n",
+        "title": "After over 2 years at theScore, my time there has come to an end due to a recent organizational restructuring that impacted my role and several\u2026",
+        "img": "https://static.licdn.com/aero-v1/sc/h/53n89ecoxpr1qrki1do3alazb",
+        "id": "2"
+      },
+      {
+        "interaction": "Liked by Joshua Dierickse",
+        "link": "https://www.linkedin.com/posts/moayyadshahid_im-thrilled-to-share-i-will-be-joining-shopify-activity-7474615703241674752-jAza",
+        "title": "I'm thrilled to share I will be joining Shopify this fall as a Software Engineer Intern in the Toronto office! I'd like to thank Mikhaila Wuerch and\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQF3POZsZ84vyQ/feedshare-shrink_800/B56Z7srX3CK0Ac-/0/1782087253822?e=2147483647&v=beta&t=SVhOL3dPPNZUgOhOS_b_RMnTVDERnRZUAm6fbbHfE4o",
+        "id": "7474615703241674752"
+      },
+      {
+        "interaction": "Liked by Joshua Dierickse",
+        "link": "https://www.linkedin.com/posts/aryanpatel05_im-thrilled-to-share-that-ill-be-joining-activity-7472619046861991936-Sjyf",
+        "title": "I\u2019m thrilled to share that I\u2019ll be joining Bloomberg in New York City as a Software Engineering Co-op for Fall 2026, where I'll be working on\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQGETanktWsA0g/feedshare-image-high-res/B56Z7OeK5bGcAU-/0/1781580476287?e=2147483647&v=beta&t=dsc6BvZys50OkKZDdhSQet6MDO6ow3t-bB1nrnSwmZY",
+        "id": "7472619046861991936"
+      },
+      {
+        "interaction": "Liked by Joshua Dierickse",
+        "link": "https://www.linkedin.com/posts/ryan-ning_hosted-the-first-of-many-intern-events-in-activity-7467264750423486465-e9Lv",
+        "title": "Hosted the first of many intern events in SF! \u2b50\ufe0f Thank you to everyone that showed up, brought food, or helped me out on the day! Great convos, good\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQG85rnxKf_jdA/feedshare-shrink_800/B56Z6ENtLWH0Ac-/0/1780334647100?e=2147483647&v=beta&t=CtbBofzOyr_UnTUsxbjbClIGAe0OzHMK4GQwSraXXxA",
+        "id": "7467264750423486465"
+      },
+      {
+        "interaction": "Liked by Joshua Dierickse",
+        "link": "https://www.linkedin.com/posts/sachin-ved-gupta_from-outlookcom-to-microsoftcom-im-activity-7467470681367048192-zFDJ",
+        "title": "From @outlook.com to @microsoft.com I\u2019m excited to share that I have joined Microsoft as a Software Engineering Intern this Summer in\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQG78wtClmw3og/feedshare-image-high-res/B56Z6HJAEaJMAU-/0/1780383747505?e=2147483647&v=beta&t=p3xRqzOE5pjCkEwid0TyPJQ-SCdd2WWgvpp8BUEDBWM",
+        "id": "7467470681367048192"
+      },
+      {
+        "interaction": "Liked by Joshua Dierickse",
+        "link": "https://www.linkedin.com/posts/juliafedorin_life-update-i-finally-moved-to-san-francisco-activity-7469440737596772352-8qda",
+        "title": "Life update: I finally moved to San Francisco, California!",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQEPwK3--NnTow/feedshare-shrink_800/B4EZ6jIxKWHoAc-/0/1780853445785?e=2147483647&v=beta&t=6aT_scrCRk1Aq1w5CoBVDlQJkqrt3Sxu_w1hgLekqPY",
+        "id": "7469440737596772352"
+      },
+      {
+        "interaction": "Liked by Joshua Dierickse",
+        "link": "https://www.linkedin.com/posts/zihao-li-193126331_excited-to-join-citadel-securities-this-summer-activity-7469454044063997952-htNs",
+        "title": "Excited to join Citadel Securities this summer as a Quantitative Research Intern at their Miami headquarters! Looking forward to learning from some\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQGkxrRRHFewZw/feedshare-shrink_800/B56Z6i0D8bIQAc-/0/1780848017556?e=2147483647&v=beta&t=w8lhdh2aAscQblm-6UvFMDJl4xnIRHttIQUW4ZCyl4Y",
+        "id": "7469454044063997952"
+      },
+      {
+        "interaction": "Liked by Joshua Dierickse",
+        "link": "https://www.linkedin.com/posts/samuel-gunter_i-am-extremely-excited-to-announce-that-i-activity-7467242525875933184-x1dJ",
+        "title": "I am extremely excited to announce that I have accepted an offer from Verkada as a Software Engineer. Verkada is a security technology company that\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQFJTt_7goJABQ/feedshare-shrink_800/B56Z6D5givIIAg-/0/1780329351615?e=2147483647&v=beta&t=edi_ALC5eAdWldoeQRdOqQMBjoPUBguAzSv2jwVTHAM",
+        "id": "7467242525875933184"
+      },
+      {
+        "interaction": "Liked by Joshua Dierickse",
+        "link": "https://www.linkedin.com/posts/ishaan-agrawal_i-got-rank-26634267-in-last-weeks-leetcode-activity-7468053786847182848-3-yB",
+        "title": "I got rank 266/34,267 in last week's leetcode contest! I finished in 56 minutes + 10 extra minutes of penalty. Q2 - simple 3-dimensional DP Q3 - I\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQHzjSg6cEi3lg/feedshare-shrink_800/B4EZ6PbWLKHoAc-/0/1780522771925?e=2147483647&v=beta&t=RmT6MjCapC53rShwWZ52nFROp_1SprKKBnPiONBJJ74",
+        "id": "26634267"
+      },
+      {
+        "interaction": "Liked by Joshua Dierickse",
+        "link": "https://www.linkedin.com/posts/jordanmadden_im-grateful-to-be-able-to-share-that-i-have-activity-7462913801504432128-GvyR",
+        "title": "I'm grateful to be able to share that I have joined Meta as a Machine Learning Engineer intern this summer in the Bay Area. I'm excited for the\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQHntRkTSnr4hg/feedshare-shrink_1280/B4EZ5Dxaf7HcAM-/0/1779253488076?e=2147483647&v=beta&t=uS0AUWUWJRZ1m9f-uzo90VdzUP_dtj94c6B5jbp4ItA",
+        "id": "7462913801504432128"
+      },
+      {
+        "interaction": "Liked by Joshua Dierickse",
+        "link": "https://www.linkedin.com/posts/harryycheng_super-excited-to-be-joining-the-multimodal-activity-7465798293655244800-mOMT",
+        "title": "Super excited to be joining the Multimodal Intelligence team at Microsoft this summer! Here's a fun video I made on my flight to Redmond :)",
+        "img": "https://media.licdn.com/dms/image/v2/D4E05AQEHcPSh184rMw/videocover-high/B4EZ5tCkmmHUBQ-/0/1779945853244?e=2147483647&v=beta&t=_YAR8gGVW3BhruxrBpn4MBiFf1wURxHEx-gEAN3BlXI",
+        "id": "7465798293655244800"
+      },
+      {
+        "interaction": "Liked by Joshua Dierickse",
+        "link": "https://www.linkedin.com/posts/karthik-valluri_im-excited-to-share-that-im-wrapping-up-activity-7465093557830455297-V68p",
+        "title": "I'm excited to share that I'm wrapping up my Machine Learning Engineering internship at Tesla, where I developed models to forecast congestion across\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQHdfx3Sf11cyg/feedshare-shrink_800/B56Z5lXCD4IYAc-/0/1779816997521?e=2147483647&v=beta&t=T3TcRF0CpCetJ2vVZc1RSpcVGqoUfr52qDcyjIVNnak",
+        "id": "7465093557830455297"
+      },
+      {
+        "interaction": "Liked by Joshua Dierickse",
+        "link": "https://www.linkedin.com/posts/hilary-hy-lee_happy-to-share-that-i-have-started-my-internship-activity-7465183640038133760-4Om_",
+        "title": "Happy to share that I have started my internship with IBM\u2019s Payments Center in the Toronto office! I am looking forward to immerse myself at the\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQFOssVpESYKGA/feedshare-image-high-res/B4EZ5mo9AnHQAU-/0/1779838474722?e=2147483647&v=beta&t=5XBSv7LriQphsYqvxxwTOu877GsTggrA3dPOFmkUuM8",
+        "id": "7465183640038133760"
+      },
+      {
+        "interaction": "Liked by Joshua Dierickse",
+        "link": "https://www.linkedin.com/posts/denniskaydalov_excited-to-be-joining-ramp-as-a-software-activity-7464797346388914176-RKzq",
+        "title": "Excited to be joining Ramp as a Software Engineering Intern this summer in NYC! A huge thanks to Cat Choy, Gloriaivett M., Angela Wu, Habib Rahman\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQGmKCTOuvNLlw/feedshare-shrink_1280/B4EZ5hJoPDKMAM-/0/1779746375229?e=2147483647&v=beta&t=ShRyeJ_TsEIo-SFd9LCioPXOLddRbAD78Rg6nyj1978",
+        "id": "7464797346388914176"
+      }
+    ],
+    "linkedin_num_id": "882692280",
+    "banner_image": "https://media.licdn.com/dms/image/v2/D4E16AQFE6WDWX55gcA/profile-displaybackgroundimage-shrink_200_800/B4EZuQTuWQKgAU-/0/1767652653686?e=2147483647&v=beta&t=Nql7GO6nMMXvAhxKrbr8iX-zjTCRhihCD94pGEitfBY",
+    "honors_and_awards": [
+      {
+        "title": "Professional Institute Legacy Foundation Scholarship Award.",
+        "publication": "Professional Institute Legacy Foundation",
+        "date": "2023-09-01T00:00:00.000Z",
+        "description": "Professional Institute Legacy Foundation $1,500 Scholarship Award."
+      },
+      {
+        "title": "University of Waterloo President's Scholarship of Distinction",
+        "publication": "University of Waterloo",
+        "date": "2023-06-01T00:00:00.000Z",
+        "description": "Scholarship of Distinction valued at $2,000 for achieving a grade of 95% or higher."
+      }
+    ],
+    "similar_profiles": [],
+    "default_avatar": false,
+    "memorialized_account": false,
+    "bio_links": [
+      {
+        "title": "Personal Website",
+        "link": "https://joshuadierickse.me/"
+      }
+    ],
+    "first_name": "Joshua",
+    "last_name": "Dierickse",
+    "influencer": false,
+    "timestamp": "2026-08-12T19:07:39.062Z",
+    "input": {
+      "url": "https://www.linkedin.com/in/joshua-dierickse"
+    }
+  },
+  "local_photo": "data\\linkedin_photos\\joshua-dierickse__usr-IWWFdMvqYLEEnis.jpg"
+}

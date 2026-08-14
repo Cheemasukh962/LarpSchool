@@ -1,0 +1,171 @@
+{
+  "luma_user_id": "usr-AUBQr4rmyEXDTGJ",
+  "csv_name": "Jack Polloway",
+  "csv_linkedin": "https://www.linkedin.com/in/jackpolloway",
+  "enriched_at": "2026-08-12T19:07:22.278142+00:00",
+  "batch_id": "sd_msqgmjx4y9b9cgg4i",
+  "profile": {
+    "id": "jackpolloway",
+    "name": "Jack Polloway",
+    "city": "San Francisco, California, United States",
+    "country_code": "US",
+    "position": null,
+    "about": null,
+    "current_company": {
+      "link": "https://www.linkedin.com/company/mytra-ai?trk=public_profile_topcard-current-company",
+      "name": "Mytra",
+      "company_id": "mytra-ai",
+      "location": null
+    },
+    "experience": null,
+    "url": "https://uk.linkedin.com/in/jackpolloway",
+    "educations_details": "The University of British Columbia",
+    "education": [
+      {
+        "title": "The University of British Columbia",
+        "url": "https://ca.linkedin.com/school/universityofbc/",
+        "start_year": "2023",
+        "end_year": "2027",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      },
+      {
+        "start_year": "2018",
+        "end_year": "2023",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      }
+    ],
+    "avatar": "https://media.licdn.com/dms/image/v2/D5603AQFe7woqA3-9GA/profile-displayphoto-scale_200_200/B56ZsBktGNGgAg-/0/1765257958152?e=2147483647&v=beta&t=KQzaZqq1fZCcY4uJGFoeQToUcq9sNW4mR8LtLHgJbmU",
+    "languages": [
+      {
+        "subtitle": "Native or bilingual proficiency",
+        "title": "English"
+      },
+      {
+        "subtitle": "Professional working proficiency",
+        "title": "French"
+      }
+    ],
+    "followers": 1730,
+    "connections": 500,
+    "current_company_company_id": "mytra-ai",
+    "current_company_name": "Mytra",
+    "projects": [
+      {
+        "title": "Autonomous Pet-Rescue Robot",
+        "description": "Fully autonomous pet-rescue robot with ESP-IDF/FreeRTOS, FFT-based IR tracking, and CNN based computer vision."
+      },
+      {
+        "title": "Quantum AI for Portfolio Risk Management",
+        "description": "\ud83e\udd48 2nd place winners in the GenQ Hackathon Series 2025, Quantum AI in Finance."
+      }
+    ],
+    "location": "San Francisco",
+    "input_url": "https://www.linkedin.com/in/jackpolloway",
+    "linkedin_id": "jackpolloway",
+    "activity": [
+      {
+        "interaction": "Liked by Jack Polloway",
+        "link": "https://www.linkedin.com/posts/johanneslandgraf_its-done-ona-is-now-officially-part-of-activity-7492970038841196544-Ezp1",
+        "title": "It's done: Ona is now officially part of OpenAI! Our mandate at OpenAI centers on two things: Enterprise and Cloud Agents. Enterprise adoption is\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQEikTloGpp-9Q/feedshare-shrink_800/B56Z_xdVJgG4Ac-/0/1786462426667?e=2147483647&v=beta&t=wo7-ml6Ezbbo2c2fhi0Xi5A2gz44GNJK6q9oES43BFY",
+        "id": "7492970038841196544"
+      },
+      {
+        "interaction": "Liked by Jack Polloway",
+        "link": "https://www.linkedin.com/posts/architectlab_executive-interview-with-ebrahim-hussain-activity-7492370336592678912-lBA-",
+        "title": "The world needs far more chip designs than the industry can produce today. AI workloads change every few months, and they are spreading beyond data\u2026",
+        "img": "https://media.licdn.com/dms/image/sync/v2/D5627AQFMBip-BWZFlA/articleshare-shrink_800/B56Z9YnEiKG8AY-/0/1783898067347?e=2147483647&v=beta&t=PLNoKPs9qIegaVkL7JGF_4-Ah5qJGid327R_TvKMjr8",
+        "id": "7492370336592678912"
+      },
+      {
+        "interaction": "Liked by Jack Polloway",
+        "link": "https://www.linkedin.com/posts/emily-golden-b1291435_social-media-specialist-influencer-marketing-activity-7491519726712434690-Xdy8",
+        "title": "The marketing team at Runway continues to grow. I'm looking for a Social Media Specialist to oversee and run our paid creator partnerships including\u2026",
+        "img": "https://media.licdn.com/dms/image/sync/v2/D5627AQFakR3k-hlpaA/articleshare-shrink_1280_800/B56Z_c5BUNH0Ag-/0/1786117363236?e=2147483647&v=beta&t=hGWeh6RYn7AdfcdEwNzSfTf_P9Bgu1SxQs8gJV2iwzY",
+        "id": "7491519726712434690"
+      },
+      {
+        "interaction": "Liked by Jack Polloway",
+        "link": "https://www.linkedin.com/posts/mikebrevoort_last-week-i-shared-that-i-was-off-to-something-activity-7491542306752200705-9OWL",
+        "title": "Last week, I shared that I was off to something new. Well, the old becomes new again! I am reuniting with Johannes Landgraf and the Ona team, joining\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQEf6O7dDO41bQ/feedshare-shrink_800/B4EZ_cuj9YKQAc-/0/1786114622355?e=2147483647&v=beta&t=ljHeUXR0Uw3TU_3uoNO-0Nw_Mh0v-ViaTG8pRITYmQ4",
+        "id": "7491542306752200705"
+      },
+      {
+        "interaction": "Liked by Jack Polloway",
+        "link": "https://www.linkedin.com/posts/jane-street-global_can-you-reverse-engineer-an-asic-we-designed-activity-7491140256742805504-X3AW",
+        "title": "Can you reverse engineer an ASIC? We designed a chip, but we're only giving you the layout \u2014 every metal, routing, and transistor layer, with nothing\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQHx5hCGdFGezQ/feedshare-shrink_800/B4EZ_XgXbhIQAc-/0/1786027014900?e=2147483647&v=beta&t=yAtt22G1-c3fumTOy13yAV2wO-TCtmrir7TGRNtKKF0",
+        "id": "7491140256742805504"
+      },
+      {
+        "interaction": "Liked by Jack Polloway",
+        "link": "https://www.linkedin.com/posts/nicchu_late-night-testing-with-greypoint-industries-activity-7491236047465455616-2J-_",
+        "title": "Late-night testing with Greypoint Industries (YC S26). We\u2019re testing some new features for LEGION, an autonomous drone swarm that geolocates using RF\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQGI0eSDRYsG7Q/feedshare-shrink_800/B4EZ_Y3ej5HoAg-/0/1786049853090?e=2147483647&v=beta&t=UixGvpizRTuHQLlZAxRMaIdAnMe-GGUPKDUX4IHPLa4",
+        "id": "7491236047465455616"
+      },
+      {
+        "interaction": "Liked by Jack Polloway",
+        "link": "https://www.linkedin.com/posts/taylor-patti_component-level-inverse-design-of-transmon-activity-7486438911938875393-opAt",
+        "title": "Check out our new paper on inverse designing transmon qubits with a fast forward pass: https://lnkd.in/gUNimkw6. We demonstrate that even lightweight\u2026",
+        "img": "https://media.licdn.com/dms/image/sync/v2/D5627AQGubpzyuz_WLw/articleshare-shrink_800/B56Z.UrALeG4AY-/0/1784905729318?e=2147483647&v=beta&t=iO2MTe5oM34Ueu8v2QMixaajDAxzDpIcvZSztn9oyGI",
+        "id": "7486438911938875393"
+      },
+      {
+        "interaction": "Liked by Jack Polloway",
+        "link": "https://www.linkedin.com/posts/nvidiarobotics_for-the-isaac-lab-community-join-todays-activity-7490798981002764289-PLSW",
+        "title": "For the Isaac Lab community, join today\u2019s study group at 12:30 PM PT. \ud83d\udc47",
+        "img": "https://static.licdn.com/aero-v1/sc/h/53n89ecoxpr1qrki1do3alazb",
+        "id": "7490798981002764289"
+      },
+      {
+        "interaction": "Liked by Jack Polloway",
+        "link": "https://www.linkedin.com/posts/runwayml_the-runway-ai-summit-is-coming-to-san-francisco-activity-7490821701253902336-YJC7",
+        "title": "The Runway AI Summit is coming to San Francisco this September. A daylong gathering of industry leaders across robotics, autonomous vehicles, life\u2026",
+        "img": "https://dms.licdn.com/playlist/vid/v2/D5605AQHW0pqjQ_6qkw/thumbnail-shrink_720_1280/B56Z_S.mhfGgAg-/0/1785951055711?e=2147483647&v=beta&t=0jXu5UVWNH_pHQWEfcgnqehRVYTkAC6KtYRtstPetZQ",
+        "id": "7490821701253902336"
+      },
+      {
+        "interaction": "Liked by Jack Polloway",
+        "link": "https://www.linkedin.com/posts/rijwal-sangey_im-excited-to-announce-that-i-will-be-joining-activity-7490462471799877632-5FeN",
+        "title": "I'm excited to announce that I will be joining the Low Voltage Power Distribution FW team at Tesla this fall as an Embedded Systems Integration\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQGEO7cDZYVBsA/feedshare-shrink_1280/B56Z_NLjEaG4AM-/0/1785853784761?e=2147483647&v=beta&t=wDSXb_bniHQFInQ1KX-x2rTDA6U8dI5wJ1LNrsKolgo",
+        "id": "7490462471799877632"
+      },
+      {
+        "interaction": "Liked by Jack Polloway",
+        "link": "https://www.linkedin.com/posts/marko-ciric-5541ab27b_ive-just-finished-reading-the-odyssey-this-activity-7489760792041431040-O7t6",
+        "title": "I\u2019ve just finished reading the Odyssey; this 3000-year-old poem about a man\u2019s commute home from work completely parallels the majority of career\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQFIHf_gwpHCUw/feedshare-shrink_800/B56Z_D5vYWHUAc-/0/1785698121675?e=2147483647&v=beta&t=9XTeNhhPYuUb0jVUc8buoPA2OUo0srITwq2lCkiXeFY",
+        "id": "7489760792041431040"
+      },
+      {
+        "interaction": "Liked by Jack Polloway",
+        "link": "https://www.linkedin.com/posts/hokin-deng-b3b160187_thanks-for-spatial-frontier-club-invite-activity-7489135155891240960-crwm",
+        "title": "Thanks for Spatial Frontier Club invite! It\u2019s been a great honor to share recent progresses in video reasoning with everyone!",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQEUgRO78y31Ww/feedshare-shrink_800/B56Z.7Au9RGcAc-/0/1785548960891?e=2147483647&v=beta&t=1B9IaRhyXm4t-K0x8uvEbXlAQFWgzCWB3SPUQc5Trwo",
+        "id": "7489135155891240960"
+      }
+    ],
+    "linkedin_num_id": "1045220933",
+    "banner_image": "https://media.licdn.com/dms/image/v2/D5616AQHE8dldn_31zA/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1734807919331?e=2147483647&v=beta&t=S1FJAJQjx1yEJVD8ePUBzbNRjvHedVNcacafkIx7YIc",
+    "honors_and_awards": null,
+    "similar_profiles": [],
+    "default_avatar": false,
+    "memorialized_account": false,
+    "bio_links": [],
+    "first_name": "Jack",
+    "last_name": "Polloway",
+    "influencer": false,
+    "timestamp": "2026-08-12T19:06:16.695Z",
+    "input": {
+      "url": "https://www.linkedin.com/in/jackpolloway"
+    }
+  },
+  "local_photo": "data\\linkedin_photos\\jackpolloway__usr-AUBQr4rmyEXDTGJ.jpg"
+}

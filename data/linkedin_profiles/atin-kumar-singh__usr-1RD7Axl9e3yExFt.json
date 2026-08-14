@@ -1,0 +1,239 @@
+{
+  "luma_user_id": "usr-1RD7Axl9e3yExFt",
+  "csv_name": "Atin Kumar Singh",
+  "csv_linkedin": "https://www.linkedin.com/in/atin-kumar-singh",
+  "enriched_at": "2026-08-12T18:58:28.965782+00:00",
+  "batch_id": "sd_msqgad6c2eeefcaqas",
+  "profile": {
+    "id": "atin-kumar-singh",
+    "name": "Atin Kumar Singh",
+    "city": "San Francisco Bay Area",
+    "country_code": "US",
+    "position": null,
+    "about": "I\u2019m a CS and Statistics student at UC Davis who likes building real software systems. I\u2019m\u2026",
+    "current_company": {
+      "link": "https://www.linkedin.com/company/huggingface?trk=public_profile_topcard-current-company",
+      "name": "Hugging Face",
+      "company_id": "huggingface",
+      "location": null
+    },
+    "experience": null,
+    "url": "https://nl.linkedin.com/in/Atin-kumar-singh",
+    "educations_details": "University of California, Davis",
+    "education": null,
+    "avatar": "https://media.licdn.com/dms/image/v2/D4D03AQGjUG5ru5UpgQ/profile-displayphoto-shrink_200_200/B4DZcbLJktGcAg-/0/1748507597487?e=2147483647&v=beta&t=h6If637GpfQr15LtpMENoDXSc5mJgg9QTEMEBSVWXIQ",
+    "courses": [
+      {
+        "subtitle": "-",
+        "title": "Recognizing Shapes in Images with OpenCV"
+      }
+    ],
+    "languages": [
+      {
+        "subtitle": "Native or bilingual proficiency",
+        "title": "English"
+      },
+      {
+        "subtitle": "Native or bilingual proficiency",
+        "title": "Hindi"
+      }
+    ],
+    "followers": 1278,
+    "connections": 500,
+    "current_company_company_id": "huggingface",
+    "current_company_name": "Hugging Face",
+    "projects": [
+      {
+        "title": "Minecraft Plugins (SpigotMC)",
+        "description": "https://www.spigotmc.org/resources/authors/atinching.1033978/- Developed custom Java plugins (economy, moderation, QoL systems) deployed on public servers with 17K+ downloads.- Ensured ongoing compatibility and uptime across updates, and handled bugs and support for admins, with 5-star ratings."
+      },
+      {
+        "title": "Reddit Niche Dataset + Classifiers (Hugging Face)",
+        "description": "https://huggingface.co/atin5551\u2022 Designed a Reddit post dataset and classifier using weak supervision and feature engineering, reaching 6K+ downloads.\u2022 Trained a multi-task transformer to predict both content niche and engagement trends with ~80% accuracy.\u2022 Built Python pipelines for cleaning, labeling, and stratified evaluation to ensure robust performance across communities."
+      }
+    ],
+    "location": null,
+    "input_url": "https://www.linkedin.com/in/atin-kumar-singh",
+    "linkedin_id": "atin-kumar-singh",
+    "activity": [
+      {
+        "interaction": "Liked by Atin Kumar Singh",
+        "link": "https://www.linkedin.com/posts/y-combinator_the-best-way-to-learn-how-startups-work-is-activity-7490097268663177217-d1sl",
+        "title": "The best way to learn how startups work is to work at one. On August 15, we're inviting ambitious students to YC HQ to meet more than 50 YC\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5605AQFN24IibpW8Vg/videocover-low/B56Z_IpOT1IcBI-/0/1785777679234?e=2147483647&v=beta&t=jIvwt3q1Gmqc4kgQW9xSvgi5v_z88c8NmJ0WntqHJKo",
+        "id": "7490097268663177217"
+      },
+      {
+        "interaction": "Liked by Atin Kumar Singh",
+        "link": "https://www.linkedin.com/posts/arjun-lak_from-a-berkeley-kayak-to-building-kara-yc-activity-7487962756088811520-LOht",
+        "title": "From a Berkeley Kayak to Building Kara (YC S26) \ud83d\udc8e On the first day of the University of California, Berkeley, I met someone I never imagined I\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQHcgdaWBDRp1A/feedshare-shrink_800/B56Z.qWcqfHIAc-/0/1785269439588?e=2147483647&v=beta&t=8cms-ZVA71o1HGDHRH0L6uh_Y7o7vhVpM1z3TlJnkTw",
+        "id": "7487962756088811520"
+      },
+      {
+        "interaction": "Liked by Atin Kumar Singh",
+        "link": "https://www.linkedin.com/posts/ayaangazali_yc-startup-school-was-genuinely-a-top-3-moment-activity-7487626284802613249-3Agr",
+        "title": "YC Startup School was genuinely a top 3 moment this summer. I met well over 100 people who recognized me and that part still hasn't fully sunk in\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQH3rf3j7ZFF9g/feedshare-image-high-res/B56Z.lkbXbKQAU-/0/1785189218232?e=2147483647&v=beta&t=8bL9hlnHLr85VKxAA9nOUVEOeZXTtKaPpAKPoCtjc-I",
+        "id": "3"
+      },
+      {
+        "interaction": "Liked by Atin Kumar Singh",
+        "link": "https://www.linkedin.com/posts/vikram-penumarti_went-to-y-combinator-startup-school-this-activity-7487899808330895360-YSdH",
+        "title": "Went to Y Combinator Startup School this weekend. Got to meet cool people, attend fun events, and see the world's most influential entrepreneurs\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQFfsWAgrIkYxA/feedshare-image-high-res/B56Z.nOqXCGoAY-/0/1785217068241?e=2147483647&v=beta&t=Ou20G5__TtaytG3lL8hsIReWD2SNf8u389tZXCE92QY",
+        "id": "7487899808330895360"
+      },
+      {
+        "interaction": "Liked by Atin Kumar Singh",
+        "link": "https://www.linkedin.com/posts/himanimanjunath_im-excited-to-share-that-ill-be-joining-activity-7487557841684414464-dcFt",
+        "title": "I'm excited to share that I'll be joining Joby Aviation as a Software Engineering Intern on the Air Taxi Systems team! Big thank you to everyone who\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQEfj85lKyrC3w/feedshare-shrink_1280/B56Z.hSmKzHcAM-/0/1785117434790?e=2147483647&v=beta&t=NP9i83uoFJqvGt6Lmg6FP3W-yN3eOgWT1U9k3uJsulI",
+        "id": "7487557841684414464"
+      },
+      {
+        "interaction": "Liked by Atin Kumar Singh",
+        "link": "https://www.linkedin.com/posts/junhyun-kim-15840128b_had-a-great-time-chatting-with-kulveer-taggar-activity-7487413451657490433-WGZW",
+        "title": "Had a great time chatting with Kulveer Taggar and Christina Gilbert, Y Combinator Visiting Partners, about startups and token management. Always\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQEpHDQkhuZTSQ/feedshare-image-high-res/B56Z.ii2dbJoAU-/0/1785138473233?e=2147483647&v=beta&t=Af9psiP3ZF-G62fSEly7UgL03nma1lgmvoCYFMTyzjs",
+        "id": "7487413451657490433"
+      },
+      {
+        "interaction": "Liked by Atin Kumar Singh",
+        "link": "https://www.linkedin.com/posts/curtischen1_four-years-ago-i-came-to-uc-davis-trying-activity-7477783028317020160-W0KD",
+        "title": "Four years ago, I came to UC Davis trying to find my place. I had no idea what my career would hold, but the community I found here is where I\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQETHntJsPLxQw/feedshare-shrink_800/B56Z79ifgQHcAc-/0/1782370139106?e=2147483647&v=beta&t=XmA2YZcJZU_gUqDDUCfRF3Xag1XgVpOA_wm1imZ3J_E",
+        "id": "7477783028317020160"
+      },
+      {
+        "interaction": "Liked by Atin Kumar Singh",
+        "link": "https://www.linkedin.com/posts/ouck_i-will-be-taking-my-talents-to-bloomberg-activity-7487234745978826753-VYN1",
+        "title": "i will be taking my talents to Bloomberg as a software engineer",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQFa8TGgymXsLA/feedshare-shrink_800/B4EZ.gAVDnHoAc-/0/1785095868887?e=2147483647&v=beta&t=VnVln_4V1vvQZ4ul3DN5OcqEKi7Ybb5BwI6c4kiu2KI",
+        "id": "7487234745978826753"
+      },
+      {
+        "interaction": "Liked by Atin Kumar Singh",
+        "link": "https://www.linkedin.com/posts/alexisaftalion_were-back-standout-yc-p26-is-partnering-activity-7486103263365402626-9EnR",
+        "title": "We're back! Standout (YC P26) is partnering with Y Combinator startup school this weekend. A special Silicon booster (panini cards for tech) will\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4E05AQH9bW7SWsHZOw/videocover-high/B4EZ.P7LHnIcBM-/0/1784826090446?e=2147483647&v=beta&t=rmjURm5J2c-Tb5fAktmyR6NCCbyyhEyrPeYfND1w3rM",
+        "id": "7486103263365402626"
+      },
+      {
+        "interaction": "Liked by Atin Kumar Singh",
+        "link": "https://www.linkedin.com/posts/bhajneekanand_some-quick-summer-updates-gonna-be-at-yc-activity-7487015587424948224-sNoE",
+        "title": "Some quick summer updates. Gonna be at YC Startup School this weekend. Wild that 30k+ people around the world applied, and beyond blessed I get to\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQHUnWczzjsrBg/feedshare-shrink_800/B56Z.c496DIUAc-/0/1785043607459?e=2147483647&v=beta&t=2Y3p11ekGk_n7viL3c_F7h9I1Hkdth8fjfdF2tD8AAo",
+        "id": "7487015587424948224"
+      },
+      {
+        "interaction": "Liked by Atin Kumar Singh",
+        "link": "https://www.linkedin.com/posts/dhyunkim_after-graduating-a-month-ago-from-university-activity-7482478969779404800--Lq-",
+        "title": "After graduating a month ago from University of California, Davis, today is my first day at LinkedIn as a full-time Software Engineer! Glad to be\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQH1QabIUca8rw/feedshare-shrink_800/B56Z9ZfJvpKUAg-/0/1783912767335?e=2147483647&v=beta&t=iHlDzSlN-QXyEBe9OdZhV_H0xn0cJirIGpJPDuyIMhU",
+        "id": "7482478969779404800"
+      },
+      {
+        "interaction": "Liked by Atin Kumar Singh",
+        "link": "https://www.linkedin.com/posts/samarth-hiremath_i-attended-a-cerebral-valley-x-anthropic-activity-7482913068453335040-qgpA",
+        "title": "I attended a Cerebral Valley x Anthropic x ElevenLabs hackathon a while back and built Living Memory: hospitality's version of institutional memory.\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQHkx7QLKl9o6w/feedshare-shrink_800/B56Z9JNLR6HIAc-/0/1783639619328?e=2147483647&v=beta&t=FygR1P0qdIXGDp2PUGJolm3TkRK4xZUrF4coxG-cvug",
+        "id": "7482913068453335040"
+      },
+      {
+        "interaction": "Liked by Atin Kumar Singh",
+        "link": "https://www.linkedin.com/posts/jia-chen-in_internship-vs-a-startup-its-been-a-while-activity-7484215415175335937-Yjb3",
+        "title": "internship vs a startup? it's been a while, but i've recently been reflecting and realize i want to try to more openly share my experiences in the\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQFxjyxWP5fmDw/feedshare-shrink_800/B56Z90AhQHIgAc-/0/1784357721455?e=2147483647&v=beta&t=_fLrNcGjq7Pir4r1DKfPgfsb1X2_6TELqqmlrUtsXGA",
+        "id": "7484215415175335937"
+      },
+      {
+        "interaction": "Liked by Atin Kumar Singh",
+        "link": "https://www.linkedin.com/posts/shenoyvishal_the-past-year-at-rox-has-been-incredible-activity-7478490907982589955-5Qzk",
+        "title": "The past year at Rox has been incredible. I'm honored to build and deploy revenue agents with the most hardcore team, alongside the best customers\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQHKIk7rVeVI9Q/feedshare-image-high-res/B56Z8hOt.mGQAU-/0/1782968934602?e=2147483647&v=beta&t=JfgqI80DjMI13J33ftH7ITAANYFhXnEv5QC-kaPDjHI",
+        "id": "7478490907982589955"
+      },
+      {
+        "interaction": "Liked by Atin Kumar Singh",
+        "link": "https://www.linkedin.com/posts/sudhakhar-katta-77a721232_edgeai-nvidiajetson-computervision-activity-7479223913152180224-vPGE",
+        "title": "Three months ago I was leading a team at AIC building a deepfake detection pipeline. Stacking a CNN with blink detection and frequency analysis\u2026",
+        "img": "https://static.licdn.com/aero-v1/sc/h/53n89ecoxpr1qrki1do3alazb",
+        "id": "7479223913152180224"
+      },
+      {
+        "interaction": "Liked by Atin Kumar Singh",
+        "link": "https://www.linkedin.com/posts/arjun-lak_we-just-made-history-at-y-combinator-excited-activity-7475245999893000192-SFGm",
+        "title": "We just made history at Y Combinator. Excited to announce that Kara (YC S26) is officially part of the Y Combinator S26 batch and the first-ever\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQGfb38DeVqvhA/feedshare-image-high-res/B56Z71ontCGcAU-/0/1782237528534?e=2147483647&v=beta&t=Sxc0-UvhPXwowKBPldDrtYyImFzVJb0_M3qu1xDFpTc",
+        "id": "7475245999893000192"
+      },
+      {
+        "interaction": "Liked by Atin Kumar Singh",
+        "link": "https://www.linkedin.com/posts/junhyun-kim-15840128b_excited-to-share-that-i-got-into-founders-activity-7475655231813361665-oitZ",
+        "title": "Excited to share that I got into Founders, Inc. Off Season II. This summer, I\u2019ll be in San Francisco building Abundance alongside an incredible\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQGPjYEnoExRmQ/feedshare-shrink_1280/B56Z77c0M4GgAQ-/0/1782335095968?e=2147483647&v=beta&t=_2iswWdFXtZWRf6aP4zR95GxZ0uf0GryHbL5M2Jq4sk",
+        "id": "7475655231813361665"
+      },
+      {
+        "interaction": "Liked by Atin Kumar Singh",
+        "link": "https://www.linkedin.com/posts/dhyunkim_my-good-friend-avni-r-called-me-out-activity-7477767976700497920-WDP8",
+        "title": "My good friend Avni R. called me out... She stated: - \"Of all the linkedin posts\" - \"The ones that are like\" - \"X is not known for its tech\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQEpLgaYtwnPzA/feedshare-shrink_800/B56Z8WiiTFKcAg-/0/1782789580643?e=2147483647&v=beta&t=nT1_sa_KHwvBa_s7QgvWaiz9uhbYrsufBnHic9qacz8",
+        "id": "7477767976700497920"
+      }
+    ],
+    "linkedin_num_id": "915765869",
+    "banner_image": "https://media.licdn.com/dms/image/v2/D4D16AQHjSd7hVJM4eA/profile-displaybackgroundimage-shrink_200_800/B4DZcbG99vGcAU-/0/1748506502331?e=2147483647&v=beta&t=W05JdCAPX2_EDGFEKljp4Chq0on_bZ7n0wp7l2C95Jk",
+    "honors_and_awards": [
+      {
+        "title": "1st Place - Snowflake Startup Sprint",
+        "publication": "Snowflake",
+        "date": "2025-10-01T00:00:00.000Z",
+        "description": "Awarded the most promising startup at a startup hackathon-style sprint hosted at the Snowflake headquarters."
+      },
+      {
+        "title": "Finalist at UC Berkeley CalHacks AI Hackathon 2025 (DevTools and Productivity)",
+        "publication": "University of California, Berkeley",
+        "date": "2025-06-01T00:00:00.000Z",
+        "description": "Finished top 9 out of 380 teams at the 2025 edition of the UC Berkeley AI Hackathon. Presented to judges in industry."
+      },
+      {
+        "title": "1st Place - Most Creative Hack",
+        "publication": "AgentHacks",
+        "date": "2025-05-01T00:00:00.000Z",
+        "description": "Awarded as winners of the \"Most Creative Hack\" track at AgentHacks 2025."
+      },
+      {
+        "title": "Dean's Honors List (Winter 2025)",
+        "publication": "University of California, Davis",
+        "date": "2025-03-01T00:00:00.000Z",
+        "description": null
+      },
+      {
+        "title": "Recipient of Mar LeetCoding Challenge",
+        "publication": "LeetCode",
+        "date": "2024-03-01T00:00:00.000Z",
+        "description": "Completed every single data-structures & algorithms problem for every single day in the month of March as part of the March LeetCoding challenge hosted by LeetCode. Solved problems involving sliding windows, linked lists, hash tables etc."
+      },
+      {
+        "title": "UKMT Gold Award",
+        "publication": "UK Maths Trust",
+        "date": "2023-10-01T00:00:00.000Z",
+        "description": "Achieved the highest certificate possible for the international UKMT maths competition."
+      }
+    ],
+    "similar_profiles": [],
+    "default_avatar": false,
+    "memorialized_account": false,
+    "bio_links": [],
+    "first_name": "Atin",
+    "last_name": "Kumar Singh",
+    "influencer": false,
+    "timestamp": "2026-08-12T18:56:43.271Z",
+    "input": {
+      "url": "https://www.linkedin.com/in/atin-kumar-singh"
+    }
+  },
+  "local_photo": "data\\linkedin_photos\\atin-kumar-singh__usr-1RD7Axl9e3yExFt.jpg"
+}

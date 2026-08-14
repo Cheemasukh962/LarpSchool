@@ -1,0 +1,223 @@
+{
+  "luma_user_id": "usr-dFHRZdJt1UjG67B",
+  "csv_name": "Caleb Vergene",
+  "csv_linkedin": "https://www.linkedin.com/in/calebvergene",
+  "enriched_at": "2026-08-12T18:59:59.565131+00:00",
+  "batch_id": "sd_msqgcuh41lygyhc91a",
+  "profile": {
+    "id": "calebvergene",
+    "name": "Caleb Vergene",
+    "city": "Irvine, California, United States",
+    "country_code": "US",
+    "position": null,
+    "about": "calebverg[at]gmail.com.",
+    "current_company": {
+      "link": "https://www.linkedin.com/company/asana?trk=public_profile_topcard-current-company",
+      "name": "Asana",
+      "company_id": "asana",
+      "location": null
+    },
+    "experience": null,
+    "url": "https://www.linkedin.com/in/Calebvergene",
+    "educations_details": "UC Irvine",
+    "education": [
+      {
+        "title": "UC Irvine",
+        "url": "https://www.linkedin.com/school/university-of-california-irvine/",
+        "start_year": "2023-09",
+        "end_year": "2027-06",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      }
+    ],
+    "avatar": "https://media.licdn.com/dms/image/v2/D5603AQE0EqEKGcQaOQ/profile-displayphoto-scale_200_200/B56ZwWqK0nIcAY-/0/1769906679726?e=2147483647&v=beta&t=5ROYo4JNZEC5RwF28GUlsJJYBhPcsYfzq-FLQbdOobI",
+    "certifications": [
+      {
+        "meta": "Issued Jul 2025",
+        "subtitle": "CodeSignal",
+        "title": "General Coding Assessment (600/600)",
+        "credential_url": null,
+        "credential_id": null
+      },
+      {
+        "meta": "Issued May 2023 See credential",
+        "subtitle": "IBM",
+        "title": "Web Development Fundamentals",
+        "credential_url": "https://www.credly.com/badges/1e49d17f-5bfe-4d18-b24f-6b9775045dda/linked_in_profile?trk=public_profile_see-credential",
+        "credential_id": null
+      },
+      {
+        "meta": "Issued Aug 2024 Expires Aug 2027 See credential",
+        "subtitle": "Amazon Web Services (AWS)",
+        "title": "AWS Certified Cloud Practitioner",
+        "credential_url": "https://www.credly.com/badges/711cb95e-2a39-4b85-884a-cb210daa0f1d/linked_in_profile?trk=public_profile_see-credential",
+        "credential_id": null
+      }
+    ],
+    "volunteer_experience": [
+      {
+        "duration": "Jan 2024 \u00b7 - Present \u00b7 \n2 years 8 months",
+        "duration_short": "- Present",
+        "start_date": "Jan 2024",
+        "subtitle": "Sigma Chi Fraternity",
+        "title": "Historian"
+      },
+      {
+        "duration": "Nov 2023 \u00b7 - \nJan 2025 \u00b7 1 year 3 months",
+        "duration_short": "- \nJan 2025",
+        "start_date": "Nov 2023",
+        "subtitle": "Management Information Student Society (MAISS)",
+        "title": "Vice President of Professional Development"
+      }
+    ],
+    "followers": 3528,
+    "connections": 500,
+    "current_company_company_id": "asana",
+    "current_company_name": "Asana",
+    "projects": [
+      {
+        "title": "uci4yearplan.com",
+        "start_date": "Jan 2025",
+        "description": "Interactive data hub for UCI. Schedule your next 4 years at UCI, visualize your academic journey, and stay on track to graduate. Sole developer and designer of this app. Gained 700+ sign-ups, 4000+ visitors, and 19,000+ courses searched."
+      },
+      {
+        "title": "Internity",
+        "start_date": "Jun 2024",
+        "description": "- Engineered a centralized platform for over 12,000 direct internship applications, integrating multiple source websites to streamline the application process, reducing time and effort for users.- Implemented an AI-driven resume screening feature that compares resumes to job descriptions using advanced NLP algorithms, formulating a similarity score and increasing interview chances."
+      },
+      {
+        "title": "ErgoVision",
+        "start_date": "Apr 2024",
+        "description": "- Developing the core computer vision system of our application using OpenCV, Google MediaPipe, and YOLOv5 to track joint pose keyframes on humans, enhancing workplace safety.- Created a model based on joint ROM research to automate REBA and NIOSH tests using PyTorch and TensorFlow, increasing ergonomic assessment efficiency by over 200%."
+      },
+      {
+        "title": "Chlorophyll [Hack MIT 2024]",
+        "start_date": "Sep 2024",
+        "description": "\ud83c\udfc5A generative AI-powered solution designed to mitigate UHI effects by providing urban planners and individuals with a tool to visualize landscapes enhanced with greenery and trees."
+      },
+      null,
+      null,
+      null,
+      {
+        "title": "Moodvie",
+        "start_date": "May 2024",
+        "description": "Get movie suggestions based on your mood\ud83c\udf7f"
+      },
+      {
+        "title": "JournAI",
+        "start_date": "Apr 2024",
+        "description": "JournAI is a web app that allows students to have an interactive, AI-enhanced experience with their school's campus utilizing Google Gemini and FetchAI."
+      }
+    ],
+    "location": "Irvine",
+    "input_url": "https://www.linkedin.com/in/calebvergene",
+    "linkedin_id": "calebvergene",
+    "activity": [
+      {
+        "interaction": "Liked by Caleb Vergene",
+        "link": "https://www.linkedin.com/posts/joshuahartlep_what-is-ai-retrieval-are-we-just-a-chatgpt-activity-7492977712354054146-bQmj",
+        "title": "What is AI Retrieval? Are we just a ChatGPT wrapper? Those were the first questions I had this summer, interning on the AI Retrieval team at Asana\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQGUIgR3b8lSaw/feedshare-image-high-res/B4EZ_xnhIeIAAY-/0/1786465098292?e=2147483647&v=beta&t=cXrAgFpIr3lfUZGH__rjYiLpJtKulDddGwTMNCYbEEw",
+        "id": "7492977712354054146"
+      },
+      {
+        "interaction": "Liked by Caleb Vergene",
+        "link": "https://www.linkedin.com/posts/casey-vergene-b0b59429a_where-has-the-time-gone-my-amazing-summer-activity-7489011631755112448-nnwk",
+        "title": "Where has the time gone??? My amazing summer as an intern at IBM has officially come to an end, and I couldn't be more grateful. \ud83d\udc99\ud83d\udc1d These past\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQHzT17assON-Q/feedshare-image-high-res/B56Z.5PxDGG8AY-/0/1785519346547?e=2147483647&v=beta&t=632qWmk497zeLZEXKH1BAC1kv_exdvopcrciTytsiX4",
+        "id": "7489011631755112448"
+      },
+      {
+        "interaction": "Liked by Caleb Vergene",
+        "link": "https://www.linkedin.com/posts/rishi-potipireddi_aws-amazon-sde-activity-7487914820168536064-KO9m",
+        "title": "I am excited to announce that, following my internship at Qualcomm, I'll be joining Amazon Web Services (AWS) this fall as a Software Development\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQFq2hae7kYeeA/feedshare-shrink_1280/B56Z.nDmpjK4AM-/0/1785214169420?e=2147483647&v=beta&t=n3aGkn_GAhniaajowlb7k5cet1K91CXQpertclJ9HJU",
+        "id": "7487914820168536064"
+      },
+      {
+        "interaction": "Liked by Caleb Vergene",
+        "link": "https://www.linkedin.com/posts/danielnvo_i-am-proud-to-announce-that-i-have-accepted-activity-7482688389897560064-PVio",
+        "title": "I am proud to announce that I have accepted a role at Cadence as a Design Engineer! \ud83c\udf89 Huge thanks to Chirayu Hardikar and Jerome Albert for their\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQHPurweODwAoQ/feedshare-shrink_800/B56Z9fZcQ6IQAg-/0/1784011932983?e=2147483647&v=beta&t=4NhWBTQP2LrtMTf9iH8D6OMZDFUJEDZyeMcomvjQGdM",
+        "id": "7482688389897560064"
+      },
+      {
+        "interaction": "Liked by Caleb Vergene",
+        "link": "https://www.linkedin.com/posts/dbogale_llm-aisafety-healthcare-activity-7477470401586003968-qJ_5",
+        "title": "I\u2019m excited to share that I\u2019ll be joining Rady Children\u2019s Health this summer as a Research Intern, working on LLM safety, bias, and robustness in\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQFHBaSFvMIjVg/feedshare-shrink_800/B4EZ8VPtKDKkAc-/0/1782767866766?e=2147483647&v=beta&t=6CZHQBZwvRwprKOdduNYAMce9IZkUs_O-7kjCI6ujqQ",
+        "id": "7477470401586003968"
+      },
+      {
+        "interaction": "Liked by Caleb Vergene",
+        "link": "https://www.linkedin.com/posts/brianta626_im-hiring-please-join-send-me-a-message-activity-7476699332293967872-4CKW",
+        "title": "I'm hiring. Please join. Send me a message if you are interested or if you know someone that would be a good fit. I'll even waive my $5 Venmo charge\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQFQ-YifVCCeqg/feedshare-shrink_800/B56Z8KSbDvIgAc-/0/1782584029847?e=2147483647&v=beta&t=LPMEB69cXoDOMqwX2_j2pyvT5AE4MqkkTaQ_jUdL_u4",
+        "id": "7476699332293967872"
+      },
+      {
+        "interaction": "Liked by Caleb Vergene",
+        "link": "https://www.linkedin.com/posts/pneppalli_congratulations-to-cursor-and-michael-incredible-activity-7472765290624372736-D85e",
+        "title": "Congratulations to Cursor and Michael. Incredible product. We at Uber Engineering are huge fans!",
+        "img": "https://static.licdn.com/aero-v1/sc/h/53n89ecoxpr1qrki1do3alazb",
+        "id": "7472765290624372736"
+      },
+      {
+        "interaction": "Liked by Caleb Vergene",
+        "link": "https://www.linkedin.com/posts/casey-vergene-b0b59429a_halfway-through-my-internship-at-ibm-ive-activity-7476335551311384576-7SzW",
+        "title": "Halfway through my internship at IBM, I've been reflecting on everything I've learned over the past few weeks. \ud83d\udc1d I've had the opportunity to work\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQGdOvVTsin-Aw/feedshare-image-high-res/B56Z8FHjfPHcAU-/0/1782497297321?e=2147483647&v=beta&t=VSlNCz6sCGEmi1L5ZeNAHDuo15d1BMA2ZvpgVKC8Z9c",
+        "id": "7476335551311384576"
+      },
+      {
+        "interaction": "Liked by Caleb Vergene",
+        "link": "https://www.linkedin.com/posts/tylermaher22_edtech-pretends-to-be-for-students-its-activity-7476340670891237376-kslD",
+        "title": "I'm 22, just graduated UC Irvine, and just got published in EdTech Digest. I talked about how the edtech industry pretends to be \"for students\"\u2026",
+        "img": "https://media.licdn.com/dms/image/sync/v2/D4E27AQFt8oRsVRyR3A/articleshare-shrink_800/B4EZ8Ex2iPJMAY-/0/1782491606708?e=2147483647&v=beta&t=iXRA5vDIQhcLAGUrgyCjY7oaDlIuPXUCQXYpeng1EiE",
+        "id": "7476340670891237376"
+      },
+      {
+        "interaction": "Liked by Caleb Vergene",
+        "link": "https://www.linkedin.com/posts/grace-doane-10aa94305_i-am-so-proud-and-so-grateful-to-work-with-activity-7475273541282742273-6Vgu",
+        "title": "I am so proud and so grateful to work with such wonderful people. With it only being my second week here, I have already learned so much about the\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4D22AQFBlXiLzLH4xg/feedshare-shrink_800/B4DZ71PS01KoAk-/0/1782230888027?e=2147483647&v=beta&t=-ujjo6SJ6eSK03Jx2jal6OVf8wdL-O3J8_zExP78mJM",
+        "id": "7475273541282742273"
+      },
+      {
+        "interaction": "Liked by Caleb Vergene",
+        "link": "https://www.linkedin.com/posts/tylermaher22_i-took-a-selfie-on-stage-at-the-uc-irvine-activity-7472439677866844162-BSVN",
+        "title": "I took a selfie on stage at the UC Irvine graduation. It came out meh. Then I saw myself in the newsletter the next day. See the first shot (thank\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQEek2HH_wXHMw/feedshare-shrink_800/B56Z7NwSRlGsAc-/0/1781568447805?e=2147483647&v=beta&t=Gs5rfOMh9RJ6ZbYQnNnbgW3HbEpS5CmGadHb6Gbi2u8",
+        "id": "7472439677866844162"
+      },
+      {
+        "interaction": "Liked by Caleb Vergene",
+        "link": "https://www.linkedin.com/posts/anvi-mantri-0276b9214_aveva-activity-7471987316090097665-L-R2",
+        "title": "I am excited to share that I am joining AVEVA this summer as an AI Intern in Lake Forest, CA. Thank you to Bonnie Sheets, Brendan Casey, and\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQEaz-etRukNXg/feedshare-shrink_800/B56Z7HU3mxIgBI-/0/1781460597464?e=2147483647&v=beta&t=ZDmHEZgrdDbJ5jP21WT2OEEjPryd_lEc1JUerXmyRTE",
+        "id": "7471987316090097665"
+      }
+    ],
+    "linkedin_num_id": "1217938958",
+    "banner_image": "https://media.licdn.com/dms/image/v2/D5616AQFeBv1WG2Y4bQ/profile-displaybackgroundimage-shrink_200_800/B56Z87KxMmGQAY-/0/1783404106814?e=2147483647&v=beta&t=ohqcNCd5cjfQ4CW8cqvNtpznsyQob-j4lOizEPRTxSM",
+    "honors_and_awards": null,
+    "similar_profiles": [],
+    "default_avatar": false,
+    "memorialized_account": false,
+    "bio_links": [
+      {
+        "title": "Personal Website",
+        "link": "https://www.calebvergene.com/"
+      }
+    ],
+    "first_name": "Caleb",
+    "last_name": "Vergene",
+    "influencer": false,
+    "timestamp": "2026-08-12T18:58:41.519Z",
+    "input": {
+      "url": "https://www.linkedin.com/in/calebvergene"
+    }
+  },
+  "local_photo": "data\\linkedin_photos\\calebvergene__usr-dFHRZdJt1UjG67B.jpg"
+}

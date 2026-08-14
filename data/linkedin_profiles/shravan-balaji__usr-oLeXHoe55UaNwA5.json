@@ -1,0 +1,368 @@
+{
+  "luma_user_id": "usr-oLeXHoe55UaNwA5",
+  "csv_name": "Shravan Balaji",
+  "csv_linkedin": "https://www.linkedin.com/in/shravan-balaji",
+  "enriched_at": "2026-08-12T19:18:07.749780+00:00",
+  "batch_id": "sd_msqh0fwb1tv6mjnbrd",
+  "profile": {
+    "id": "shravan-balaji",
+    "name": "Shravan Balaji",
+    "city": "San Francisco Bay Area",
+    "country_code": "US",
+    "position": null,
+    "about": "I am a student at UC Berkeley pursuing a Simultaneous Degree in Computer Science (at the\u2026",
+    "current_company": {
+      "link": "https://www.linkedin.com/company/millennium-partners?trk=public_profile_topcard-current-company",
+      "name": "Millennium",
+      "company_id": "millennium-partners",
+      "location": null
+    },
+    "experience": null,
+    "url": "https://www.linkedin.com/in/shravan-balaji",
+    "educations_details": "UC Berkeley College of Letters & Science",
+    "education": null,
+    "recommendations_count": 1,
+    "avatar": "https://media.licdn.com/dms/image/v2/D5603AQE9snLgASQEkw/profile-displayphoto-scale_200_200/B56Z3eqzXPJ0Ac-/0/1777557260405?e=2147483647&v=beta&t=ZYAe1hhuxpvM-wTPp2HCnl6MQQxYpiPfhHJXFLBC1Sw",
+    "courses": [
+      {
+        "subtitle": "-",
+        "title": "AP Biology"
+      },
+      {
+        "subtitle": "-",
+        "title": "AP Calculus AB"
+      },
+      {
+        "subtitle": "-",
+        "title": "AP Calculus BC"
+      },
+      {
+        "subtitle": "-",
+        "title": "AP Chemistry"
+      },
+      {
+        "subtitle": "-",
+        "title": "AP Computer Science A"
+      },
+      {
+        "subtitle": "-",
+        "title": "AP French Language and Culture"
+      },
+      {
+        "subtitle": "-",
+        "title": "AP Physics C: Mechanics"
+      },
+      {
+        "subtitle": "-",
+        "title": "AP Psychology"
+      },
+      {
+        "subtitle": "-",
+        "title": "AP United States History"
+      },
+      {
+        "subtitle": "NEU 273",
+        "title": "Advanced Neuroscience Statistical Research (PhD)"
+      },
+      {
+        "subtitle": "BIO 120",
+        "title": "Anatomy & Physiology (DTCC Dual Enrollment)"
+      },
+      {
+        "subtitle": "MCELLBI 102",
+        "title": "Biochemistry"
+      },
+      {
+        "subtitle": "NEU 100A",
+        "title": "Cellular and Molecular Neurobiology"
+      },
+      {
+        "subtitle": "CHEM 3B",
+        "title": "Chemical Structure and Reactivity (II)"
+      },
+      {
+        "subtitle": "CHEM 3A",
+        "title": "Chemical Structure and Relativity (I)"
+      },
+      {
+        "subtitle": "NEU 100B",
+        "title": "Circuit, Systems and Behavioral Neuroscience"
+      },
+      {
+        "subtitle": "COMPSCI 61C",
+        "title": "Computer Architecture and Machine Structures"
+      },
+      {
+        "subtitle": "COMPSCI 61B",
+        "title": "Data Structures and Algorithms"
+      },
+      {
+        "subtitle": "COMPSCI 70",
+        "title": "Discrete Mathematics and Probability Theory"
+      },
+      {
+        "subtitle": "ENGIN 125",
+        "title": "Ethics, Engineering, and Society"
+      },
+      {
+        "subtitle": "DATA C8",
+        "title": "Foundations of Data Science"
+      },
+      {
+        "subtitle": "BIOLOGY 1B",
+        "title": "General Biology"
+      },
+      {
+        "subtitle": "BIOLOGY 1AL",
+        "title": "General Biology Laboratory"
+      },
+      {
+        "subtitle": "BIOLOGY 1A",
+        "title": "General Biology Lecture"
+      },
+      {
+        "subtitle": "NEU C171",
+        "title": "Interface Between Neuroethology & Neural Engineering"
+      },
+      {
+        "subtitle": "COMPSCI 188",
+        "title": "Introduction to Artificial Intelligence"
+      },
+      {
+        "subtitle": "PHYSICS 8A",
+        "title": "Introductory Physics"
+      },
+      {
+        "subtitle": "PHYSICS 8B",
+        "title": "Introductory Physics 2"
+      },
+      {
+        "subtitle": "NEU 162",
+        "title": "Learning and Memory"
+      },
+      {
+        "subtitle": "MATH 54",
+        "title": "Linear Algebra and Differential Equations"
+      },
+      {
+        "subtitle": "COMPSCI 189",
+        "title": "Machine Learning"
+      },
+      {
+        "subtitle": "MATH 53",
+        "title": "Multivariable Calculus"
+      },
+      {
+        "subtitle": "EECS 127",
+        "title": "Optimization Models in Engineering"
+      },
+      {
+        "subtitle": "CHEM 3AL",
+        "title": "Organic Chemistry Laboratory (I)"
+      },
+      {
+        "subtitle": "CHEM 3BL",
+        "title": "Organic Chemistry Laboratory (II)"
+      },
+      {
+        "subtitle": "DATA C100",
+        "title": "Principles and Techniques of Data Science"
+      },
+      {
+        "subtitle": "COMPSCI 61A",
+        "title": "Structure and Interpretation of Computer Programs"
+      },
+      {
+        "subtitle": "ENGLISH R1A",
+        "title": "Visions of Modernity: The Occult and the Colonial Imaginary"
+      }
+    ],
+    "languages": [
+      {
+        "subtitle": "Native or bilingual proficiency",
+        "title": "English"
+      },
+      {
+        "subtitle": "Professional working proficiency",
+        "title": "Hindi"
+      },
+      {
+        "subtitle": "Native or bilingual proficiency",
+        "title": "Telugu"
+      },
+      {
+        "subtitle": "Native or bilingual proficiency",
+        "title": "Kannada"
+      },
+      {
+        "subtitle": "Limited working proficiency",
+        "title": "Sanskrit"
+      },
+      {
+        "subtitle": "Limited working proficiency",
+        "title": "French"
+      },
+      {
+        "subtitle": "Elementary proficiency",
+        "title": "Greek"
+      }
+    ],
+    "certifications": [
+      {
+        "meta": "Issued Feb 2025 Credential ID 317523579OCI2024FNDCFA See credential",
+        "subtitle": "Oracle",
+        "title": "Oracle Cloud Infrastructure 2024 Foundations Associate",
+        "credential_url": "https://catalog-education.oracle.com/pls/certview/sharebadge?id=27571208E95961A46FB926B8550D784AE133AA6F00742294E440BEEABF8851D4&trk=public_profile_see-credential",
+        "credential_id": "317523579OCI2024FNDCFA"
+      },
+      {
+        "meta": "Issued Feb 2025 Credential ID 317523579OMBPHCMCFA1 See credential",
+        "subtitle": "Oracle",
+        "title": "Oracle Fusion Cloud Applications HCM Certified Foundations Associate",
+        "credential_url": "https://catalog-education.oracle.com/pls/certview/sharebadge?id=073B8B5499CFC3CA7804A08A5B29CBD6ECCE0A9A4A40951EA425A3D123333127&trk=public_profile_see-credential",
+        "credential_id": "317523579OMBPHCMCFA1"
+      }
+    ],
+    "recommendations": [
+      "Miguel Tormo \u201cI had the pleasure of mentoring Shravan during his summer internship at Amazon Search. He took on a challenging project that involved implementing a new feature in a large scale distributed system, and successfully delivered it despite the complexity of our internal systems. He demonstrated a strong ability to grasp complex concepts and determination to overcome any challenges along the way. Shravan was great to work with: he communicates clearly and treats feedback as an opportunity to grow. Over the course of the internship, I saw clear progress in both coding quality and problem solving skills. He also prepared and delivered an excellent presentation to the team at the end of his internship. I would gladly work with him again and recommend him without hesitation.\u201d"
+    ],
+    "volunteer_experience": [
+      {
+        "cause": "Education",
+        "duration": "May 2021 \u00b7 - \nAug 2021 \u00b7 \n4 months",
+        "duration_short": "- \nAug 2021",
+        "info": "Over the course of the summer, I volunteered in teaching a number of classes for middle and high school student. The classes I co-instructed include: - Introduction to Computer Science - Introduction to Front-End Development - Introduction to Marine Science - Introduction to 3D Modeling Through this volunteering opportunity, I was also awarded the Gold Presidential Volunteer Service Award.",
+        "start_date": "May 2021",
+        "subtitle": "SMArtSummer",
+        "title": "SMARTSummer Camp Volunteer"
+      }
+    ],
+    "followers": 2120,
+    "connections": 500,
+    "current_company_company_id": "millennium-partners",
+    "current_company_name": "Millennium",
+    "projects": [
+      {
+        "title": "Effectiveness of different concentrations of T4/T4r Bacteriophages in killing E.coli",
+        "start_date": "May 2021",
+        "description": "Conducted a scientific research project titled \"Effectiveness of Different Concentrations of T4/T4r Bacteriophages in Killing E. coli.\" This involved the full biological research process, including inoculating petri dishes, cultivating bacteria, testing various bacteriophage concentrations, and analyzing data to measure cell death and effectiveness of different treatments."
+      }
+    ],
+    "location": null,
+    "input_url": "https://www.linkedin.com/in/shravan-balaji",
+    "linkedin_id": "shravan-balaji",
+    "activity": null,
+    "linkedin_num_id": "1030991682",
+    "banner_image": "https://media.licdn.com/dms/image/v2/D5616AQEp60LUdjOBdg/profile-displaybackgroundimage-shrink_200_800/B56Z3fZotLKkAU-/0/1777569534237?e=2147483647&v=beta&t=c3xFnePAcODY5YBLItgNMquTT-VAFjY2F_lXiufcvDk",
+    "honors_and_awards": [
+      {
+        "title": "Dean's List - College of Computing, Data Science, and Society",
+        "publication": "UC Berkeley",
+        "date": "2026-01-01T00:00:00.000Z",
+        "description": "Achieved Dean's List in Fall 2025 semester (Top 10% of students in CDSS)"
+      },
+      {
+        "title": "Dean's List - College of Letters and Sciences",
+        "publication": "UC Berkeley",
+        "date": "2026-01-01T00:00:00.000Z",
+        "description": "Achieved Dean's List in Fall 2025 semester (Top 10% of students in L&S)"
+      },
+      {
+        "title": "Climate Science Olympiad Semi Finalist",
+        "publication": "Climate Science Olympiad",
+        "date": "2024-08-01T00:00:00.000Z",
+        "description": "Out of 250,000 students around the world, I placed in the top 3000 to qualify for the Semifinals of the 2024 Climate Science Olympiad, of which I was in the top 500 of the world with a score of 32."
+      },
+      {
+        "title": "Dean's List - College of Letters and Sciences",
+        "publication": "UC Berkeley",
+        "date": "2024-05-01T00:00:00.000Z",
+        "description": "Achieved Dean's List in Spring 2024 semester (Top 10% of students in L&S)"
+      },
+      {
+        "title": "ACS USNCO Delaware Top 5",
+        "publication": "American Chemical Society",
+        "date": "2023-05-01T00:00:00.000Z",
+        "description": "I was placed in the Top 5 scorers of the 2023 USNCO Delaware Local Exam, and was selected to represent Delaware in the National Chemistry Olympiad, which was held at the end of April 2023."
+      },
+      {
+        "title": "USABO Certificate of Merit (Top 225)",
+        "publication": "Center for Excellence in Education",
+        "date": "2023-05-01T00:00:00.000Z",
+        "description": "As part of the USABO Semifinals Examination, with a score of 58.50, I qualified for the Certificate of Merit, placing me in the top 225 of all students in the United States for the Biology Examination."
+      },
+      {
+        "title": "Delaware Mathematics League 1st Place",
+        "publication": "Delaware Mathematics League",
+        "date": "2023-04-01T00:00:00.000Z",
+        "description": "As part of the Regional Mathematics competition, I placed 1st of all the students in the Delaware Mathematics League."
+      },
+      {
+        "title": "Math League Press Bronze Medal",
+        "publication": "The Math League",
+        "date": "2023-04-01T00:00:00.000Z",
+        "description": "As part of the nationwide Math League Press competition, I received a cumulative score of 33/36, giving me a bronze medal and placing me at 9th place in the entire competition."
+      },
+      {
+        "title": "USABO Semifinals Qualifier",
+        "publication": "Center for Excellence in Education",
+        "date": "2023-03-01T00:00:00.000Z",
+        "description": "The USA Biology Olympiad, or USABO, is a prestigious biology competition for high school students in the United States. Launched in 2002, USABO's mission is to recognize and empower up-and-coming life science students through rigorous biology exams and international networking opportunities. This year, with a score of 28, I qualified for the Semifinals round of the USABO, placing me amongst the top 10% of national test-takers."
+      },
+      {
+        "title": "2nd Place in Physical Chemistry",
+        "publication": "HOSA",
+        "date": "2023-01-01T00:00:00.000Z",
+        "description": "I placed 2nd in the statewide HOSA Fusion Chemistry competition."
+      },
+      {
+        "title": "American Invitational Mathematics Examination (AIME) Qualifier",
+        "publication": "Mathematical Association of America",
+        "date": "2023-01-01T00:00:00.000Z",
+        "description": "The American Invitational Mathematics Examination is a selective and prestigious 15-question 3-hour test given since 1983 to those who rank in the top 5% on the AMC 12 high school mathematics examination. Having taken the AMC 12 examination in November 2022, I was qualified for the AIME 2023 examination."
+      },
+      {
+        "title": "NASA TechRise Student Challenge Winner",
+        "publication": "NASA | National Aeronautics and Space Administration",
+        "date": "2023-01-01T00:00:00.000Z",
+        "description": "The TechRise Challenge is a nationwide contest designed to engage students in grades 6-12 in technology, science, and space exploration. This year, 60 teams were selected from across the country, with students challenged to design an experiment to test on a high-altitude balloon. Of all the thousands of teams, my team was selected amongst the top 60 to build a project on the Effect of High Energy Particles and Neutrons on Materials used for Electronic Protection. I am one of the three team\u2026 Show more"
+      },
+      {
+        "title": "United States Presidential Scholar Nominee",
+        "publication": "U.S. Department of Education",
+        "date": "2023-01-01T00:00:00.000Z",
+        "description": "Out of over 3.5 million high school seniors, I was selected in the top 5000 seniors."
+      },
+      {
+        "title": "AP Scholar with Distinction",
+        "publication": "CollegeBoard",
+        "date": "2022-06-01T00:00:00.000Z",
+        "description": "The AP Scholar with Distinction Award is granted to students who receive an average score of at least 3.5 on all AP Exams taken, and scores of 3 or higher on five or more of these exams."
+      },
+      {
+        "title": "USNCO National Top 200",
+        "publication": "American Chemical Society",
+        "date": "2022-03-01T00:00:00.000Z",
+        "description": "The U.S. National Chemistry Olympiad is a multi-tiered competition designed to stimulate and promote achievement in high school chemistry. It is sponsored by the American Chemical Society. Local Chemistry Olympiad competitions are open to all high school students in the United States. I qualified for the National Examination coordinated in the State of Delaware, and was subsequently placed in the Top 200 of all national test-takers in the year of 2022."
+      },
+      {
+        "title": "Gold Presidential Volunteer Service Award",
+        "publication": "SMARTSummer, Inc.",
+        "date": "2021-08-01T00:00:00.000Z",
+        "description": "As a volunteer at SMARTSummer, I volunteered over 100 hours to help elementary and middle school students engage in a summer learning experience, teaching subjects such as computer science, video and game design, marine and cellular biology, and algebra."
+      }
+    ],
+    "similar_profiles": [],
+    "default_avatar": false,
+    "memorialized_account": false,
+    "bio_links": [],
+    "first_name": "Shravan",
+    "last_name": "Balaji",
+    "influencer": false,
+    "timestamp": "2026-08-12T19:17:05.487Z",
+    "input": {
+      "url": "https://www.linkedin.com/in/shravan-balaji"
+    }
+  },
+  "local_photo": "data\\linkedin_photos\\shravan-balaji__usr-oLeXHoe55UaNwA5.jpg"
+}

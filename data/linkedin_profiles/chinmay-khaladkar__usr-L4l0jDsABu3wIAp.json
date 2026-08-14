@@ -1,0 +1,132 @@
+{
+  "luma_user_id": "usr-L4l0jDsABu3wIAp",
+  "csv_name": "Chinmay Khaladkar",
+  "csv_linkedin": "https://www.linkedin.com/in/chinmay-khaladkar",
+  "enriched_at": "2026-08-12T19:26:51.912317+00:00",
+  "batch_id": "sd_msqhb4pfm4l4la4zs",
+  "profile": {
+    "id": "chinmay-khaladkar",
+    "name": "Chinmay Khaladkar",
+    "city": "Palo Alto, California, United States",
+    "country_code": "US",
+    "position": null,
+    "about": null,
+    "current_company": {
+      "link": "https://www.linkedin.com/company/arcalabs-ai?trk=public_profile_topcard-current-company",
+      "name": "ArcaLabs",
+      "company_id": "arcalabs-ai",
+      "location": null
+    },
+    "experience": null,
+    "url": "https://dk.linkedin.com/in/Chinmay-khaladkar",
+    "educations_details": "UC Santa Barbara",
+    "education": null,
+    "avatar": "https://media.licdn.com/dms/image/v2/D5603AQHFmo77bb7lWA/profile-displayphoto-scale_200_200/B56Z8TCZ22KcAc-/0/1782730826174?e=2147483647&v=beta&t=U91y6BIhSHdU6KmSHMPUO-_HfHWWj0PC5N5Q5ld94ak",
+    "followers": 436,
+    "connections": 436,
+    "current_company_company_id": "arcalabs-ai",
+    "current_company_name": "ArcaLabs",
+    "location": "Palo Alto",
+    "input_url": "https://www.linkedin.com/in/chinmay-khaladkar",
+    "linkedin_id": "chinmay-khaladkar",
+    "activity": [
+      {
+        "interaction": "Chinmay Khaladkar shared this",
+        "link": "https://www.linkedin.com/posts/chinmay-khaladkar_seamless-protection-of-tool-secrets-for-ai-activity-7492763346333708289-u9X_",
+        "title": "At ArcaLabs this summer, I've been working with sandboxes for our AI agents and developed a neat system for brokering secret-requiring CLIs to protect from prompt injection. Instead of remote execution, I found a way to avoid transferring files over network/scaling an additional API by utilizing Linux primitives for secret isolation. Read more about it here: https://lnkd.in/gUKEQ2Kp",
+        "img": "https://media.licdn.com/dms/image/sync/v2/D5627AQEHQvbBbLWtdw/articleshare-shrink_1280_800/B56Z_ugbnMJQAg-/0/1786412910669?e=2147483647&v=beta&t=PiwaxvqqIng1AxToM9rNXhgjc1_a5sFZ-aNrOTi3Jyc",
+        "id": "7492763346333708289"
+      },
+      {
+        "interaction": "Chinmay Khaladkar commented on a post 5mo",
+        "link": "https://www.linkedin.com/posts/agastyasandhuja_im-happy-to-share-that-im-starting-a-new-activity-7437620998817939457-fsHR",
+        "title": "\ud83c\udf89 Excited for you",
+        "img": null,
+        "id": "7437620998817939457"
+      },
+      {
+        "interaction": "Chinmay Khaladkar commented on a post 11mo",
+        "link": "https://www.linkedin.com/posts/im-happy-to-share-that-im-starting-a-new-activity-7373102840250032128-1INK",
+        "title": "Congratulations! \ud83c\udf89",
+        "img": null,
+        "id": "7373102840250032128"
+      },
+      {
+        "interaction": "Chinmay Khaladkar liked this",
+        "link": "https://www.linkedin.com/posts/tanuj-siripurapu_a-facilities-team-can-know-exactly-which-activity-7492973108816158720--Nfe",
+        "title": "A facilities team can know exactly which building needs attention and still fail to secure funding from the Board. Not because the project is unimportant. Because the people holding the purse need a different level of proof. They need to know: What will this investment change? What will it cost? How confident should we be in the outcome? When budgets are tight, a facilities proposal cannot stop at \u201cthe HVAC system is aging\u201d or \u201cthis building is using too much energy.\u201d Those facts matter, but they are not yet a capital plan. A stronger proposal starts with the building\u2019s operating history: Utility costs. Meter trends. Equipment runtime. Maintenance history. Weather, schedules, and occupancy. Then it compares the choices. Repair or replace. Optimize controls or phase an upgrade. Add solar or continue buying power from the grid. The goal is to show what each option changes, what it costs, and what risks remain. This is where Edviro helps. We connect bills, meters, building systems, schedules, and capital planning tools so facilities and finance teams can compare capital scenarios with the same evidence. The work can only begin when the person approving the budget can see why the project matters. What evidence has helped your facilities team get a capital project approved?",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQG8o2-6WTZnGQ/feedshare-shrink_800/B56Z_vsfUrHIAc-/0/1786432845525?e=2147483647&v=beta&t=WaROt8I3Y1W6_tDu6r0-OH8HKYF1IcLUNZzvreVvwwA",
+        "id": "7492973108816158720"
+      },
+      {
+        "interaction": "Chinmay Khaladkar liked this",
+        "link": "https://www.linkedin.com/posts/chinmay-khaladkar_seamless-protection-of-tool-secrets-for-ai-activity-7492763346333708289-u9X_",
+        "title": "At ArcaLabs this summer, I've been working with sandboxes for our AI agents and developed a neat system for brokering secret-requiring CLIs to protect from prompt injection. Instead of remote execution, I found a way to avoid transferring files over network/scaling an additional API by utilizing Linux primitives for secret isolation. Read more about it here: https://lnkd.in/gUKEQ2Kp",
+        "img": "https://media.licdn.com/dms/image/sync/v2/D5627AQEHQvbBbLWtdw/articleshare-shrink_1280_800/B56Z_ugbnMJQAg-/0/1786412910669?e=2147483647&v=beta&t=PiwaxvqqIng1AxToM9rNXhgjc1_a5sFZ-aNrOTi3Jyc",
+        "id": "7492763346333708289"
+      },
+      {
+        "interaction": "Chinmay Khaladkar liked this",
+        "link": "https://www.linkedin.com/posts/datnguy3n_hackathon-retirement-recruitingseason-activity-7490813917129003008-pLTl",
+        "title": "Good news for every hackathon team in the Bay Area: I'm retiring. After 9 wins, the scene is finally safe again. Sponsors can relax. Prize pools will go to new families. Why now? Recruiting season. Somewhere out there is a HackerRank OA with my name on it, and you can't graph-traverse your way out of a binary tree question. I checked. To my teammates: you were the real ones. To the judges: the project was never working probably. Am I done forever? The GOAT retired twice and came back both times. I'm just saying. Long story short: it's over. Thanks to Bryan Pham , Laksh Goyal , Nathaniel Oliver , Pranav Sagar , Sukhman Cheema , Tyler hwang , James Hansen , Vivaan Srivastava for being my primary teammates, if you need hackathon guys these are the guys. #Hackathon #Retirement #RecruitingSeason #LeetCode #SoftwareEngineering #ItsOver",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQEWWgIDg3VhjA/feedshare-shrink_480/B56Z_RD5tZJoAg-/0/1785918889026?e=2147483647&v=beta&t=hXhWOaNcKNBBDoT95GtRn1-qI4vkW8_9FdVVDuqLKEA",
+        "id": "7490813917129003008"
+      },
+      {
+        "interaction": "Chinmay Khaladkar liked this",
+        "link": "https://www.linkedin.com/posts/arcalabs-ai_your-mds-comment-takes-ten-seconds-getting-activity-7489089497629073409-noa1",
+        "title": "Your MD\u2019s comment takes ten seconds. Getting the page can take hours. You already know what is wrong with the page. Saying it is the easy part. Then it goes down the chain, and somebody opens the file, hunts for the objects, moves them, and sends it back around. The fix was half a minute of work. The wait was everything else. In ArcaLabs the comment is the instruction. Click the spot on the page, say what you want, and hit apply. The agent goes into the file and saves the change in a new version of the file. Book a demo and comment on a page of your own: https://lnkd.in/gGQqc5bU",
+        "img": "https://media.licdn.com/dms/image/v2/D5605AQG1D55OSdouuQ/videocover-high/B56Z.6XLsOGcBM-/0/1785538068964?e=2147483647&v=beta&t=MqnV3Uv9Z7W2OHIVOCN3g4NqJ1SkzZF9Oltz1b7v73U",
+        "id": "7489089497629073409"
+      },
+      {
+        "interaction": "Chinmay Khaladkar liked this",
+        "link": "https://www.linkedin.com/posts/chipagents-ai_agenticai-activity-7488230991933890560-___0",
+        "title": "Today, we\u2019re proud to announce an additional $60 million in Series A2 financing, bringing total funding to $134 million just six months after its initial Series A close. This milestone follows exceptional momentum: \u2022 6\u00d7 ARR growth in the first half of 2026 \u2022 Deployment across more than 120 semiconductor companies \u2022 One of the industry\u2019s largest commercial deployments of #AgenticAI for chip design and verification The future of semiconductor design will be AI-native. We are grateful to B Capital , Bessemer Venture Partners , Micron Ventures , MediaTek , Ericsson , ScOp Venture Capital , and other investors, as well as our customers, partners, and team members helping turn this vision into production reality. Read the Reuters exclusive: https://lnkd.in/gX4zdSyQ",
+        "img": "https://media.licdn.com/dms/image/v2/D5605AQFfTYMHuAyJXA/videocover-high/B56Z.uKY31KoBQ-/0/1785333388386?e=2147483647&v=beta&t=NcmdVKLPCGH5buwSOlI6JsxHL8lpIhbvI5udEXgL4E0",
+        "id": "7488230991933890560"
+      },
+      {
+        "interaction": "Chinmay Khaladkar liked this",
+        "link": "https://www.linkedin.com/posts/vik-li-1b11762_ventures-6x-arr-activity-7488519063909085185-pJ1x",
+        "title": "Ericsson #Ventures has tripled down on ChipAgents at its $60M Series A2. We first invested in the company in May 2025 because we believed agentic AI could transform one of the most complex engineering domains in the world: semiconductor design and verification. Since then, the company has delivered exceptional momentum: two follow-on financings in just over a year, \ud83d\ude80 #6x #ARR growth in the first half of 2026, and 120+ deployments across semiconductor companies. Today, ChipAgents announced a $60M Series A2 led by B Capital ( Daisy Cai ), bringing total Series A funding to over $130M. The speed of execution, customer adoption, and investor interest have been remarkable. What makes this even more exciting is how the company is evolving beyond the agentic workflow layer. With #Renoir , its domain-specialized #model and agent system for chip design, ChipAgents is building toward customized, secure, and production-grade AI systems for semiconductor customers. Its expanded collaboration with NVIDIA further strengthens this ambition, leveraging NVIDIA AI software and accelerated computing to advance model training, optimization, and deployment. Proud to continue supporting William Yang Wang and the whole ChipAgents team as they build the agentic AI platform and domain-specialized model layer for the next generation of chip engineering. Also been a great pleasure continue working with other co-investors Matter Venture Partners Bessemer Venture Partners , Micron Ventures , ScOp Venture Capital , MediaTek , Samsung Ventures",
+        "img": "https://media.licdn.com/dms/image/v2/D4D22AQFH-y5U3UqW2w/feedshare-shrink_1280/B4DZ.yQaKRIwAU-/0/1785402074033?e=2147483647&v=beta&t=z5wpSKjjIf5AfOKJSffWQvRKgAv33BZqxvPNe-sA9dA",
+        "id": "7488519063909085185"
+      },
+      {
+        "interaction": "Chinmay Khaladkar liked this",
+        "link": "https://www.linkedin.com/posts/arcalabs-ai_arcalabs-now-works-across-microsoft-365-activity-7487923363605127168-16oQ",
+        "title": "ArcaLabs now works across Microsoft 365. Connect SharePoint, OneDrive and Outlook, and the agent works on your firm's own files and correspondence instead of copies of them. Point it at a folder and the source documents come into the deal. Mail on a live process lands on the right deal on its own, message and attachments together. What comes back is native Office. Comps in Excel with live formulas and sources on the cells, memos in Word, decks on your template. Available now. Request a demo at www.arcalabs.ai",
+        "img": "https://media.licdn.com/dms/image/v2/D4D05AQFFdhaX8feRQw/videocover-low/B4DZ.pymKmJMBI-/0/1785260041918?e=2147483647&v=beta&t=7TvWhXqMxrlvhM19xhEfT41XAYUdXvfeIbB64JDWjss",
+        "id": "365"
+      },
+      {
+        "interaction": "Chinmay Khaladkar liked this",
+        "link": "https://www.linkedin.com/posts/arcalabs-ai_were-excited-to-announce-our-partnership-activity-7487698720126324736-idbR",
+        "title": "We\u2019re excited to announce our partnership with Egnyte . ArcaLabs now works directly on the content your firm keeps in Egnyte \u2014 models, memos and decks built from your own governed files, every figure traced to its source.",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQF0ABCwswcGxA/feedshare-shrink_800/B56Z.mmT3YHIAg-/0/1785206488876?e=2147483647&v=beta&t=ok1y4R1CpRijNjTfrHOmyLoiO5gTmTuXmdIqE5SKhAM",
+        "id": "7487698720126324736"
+      }
+    ],
+    "linkedin_num_id": "1138452996",
+    "banner_image": "https://static.licdn.com/aero-v1/sc/h/5q92mjc5c51bjlwaj3rs9aa82",
+    "honors_and_awards": null,
+    "similar_profiles": [],
+    "default_avatar": false,
+    "memorialized_account": false,
+    "bio_links": [
+      {
+        "title": "Blog",
+        "link": "https://github.com/cxnmai"
+      }
+    ],
+    "first_name": "Chinmay",
+    "last_name": "Khaladkar",
+    "influencer": false,
+    "timestamp": "2026-08-12T19:25:18.256Z",
+    "input": {
+      "url": "https://www.linkedin.com/in/chinmay-khaladkar"
+    }
+  },
+  "local_photo": "data\\linkedin_photos\\chinmay-khaladkar__usr-L4l0jDsABu3wIAp.jpg"
+}

@@ -1,0 +1,489 @@
+{
+  "luma_user_id": "usr-jcOHbfmAromajCk",
+  "csv_name": "Shaghayegh (Sherry) Moradirad",
+  "csv_linkedin": "https://www.linkedin.com/in/shadirad",
+  "enriched_at": "2026-08-12T19:16:49.720522+00:00",
+  "batch_id": "sd_msqgxyk1xj7v4ip1",
+  "profile": {
+    "id": "shadirad",
+    "name": "Shaghayegh M.",
+    "city": "United States",
+    "country_code": "US",
+    "position": null,
+    "about": null,
+    "current_company": {
+      "link": "https://www.linkedin.com/company/openai?trk=public_profile_topcard-current-company",
+      "name": "OpenAI",
+      "company_id": "openai",
+      "location": null
+    },
+    "experience": null,
+    "url": "https://cz.linkedin.com/in/shadirad",
+    "people_also_viewed": [
+      {
+        "profile_link": "https://tr.linkedin.com/in/sema-sarioglu",
+        "name": "Sema S.",
+        "about": "Miniclip",
+        "location": "486 followers \u0130zmir, T\u00fcrkiye"
+      },
+      {
+        "profile_link": "https://ch.linkedin.com/in/goksubayrak",
+        "name": "G\u00f6ksu Bayrak",
+        "about": "ETH Z\u00fcrich",
+        "location": "628 followers Z\u00fcrich Metropolitan Area"
+      },
+      {
+        "profile_link": "https://www.linkedin.com/in/abdallatieph-sabbagh",
+        "name": "Abdallatieph Sabbagh",
+        "about": "Columbia University",
+        "location": "637 followers New York, NY"
+      },
+      {
+        "profile_link": "https://pt.linkedin.com/in/abdulrahman-badr-regulatory",
+        "name": "Abdulrahman Badr",
+        "about": "Syensqo",
+        "location": "2K followers Lisbon Metropolitan Area"
+      },
+      {
+        "profile_link": "https://tr.linkedin.com/in/muhammet-fatih-%C3%B6zt%C3%BCrk-e25261208",
+        "name": "Muhammet Fatih \u00d6zt\u00fcrk",
+        "about": "Kuveyt Turk Participation Bank",
+        "location": "1K followers Istanbul, T\u00fcrkiye"
+      },
+      {
+        "profile_link": "https://nl.linkedin.com/in/taylan-utku-d%C3%BCzg%C3%BCn-80b7701ba",
+        "name": "Taylan Utku D\u00fczg\u00fcn",
+        "about": "Leiden University",
+        "location": "762 followers Netherlands"
+      },
+      {
+        "profile_link": "https://www.linkedin.com/in/cekayan",
+        "name": "Ceyhun Efe Kayan",
+        "about": "Drexel University",
+        "location": "429 followers Philadelphia, PA"
+      },
+      {
+        "profile_link": "https://tr.linkedin.com/in/idrisa-mbaraka",
+        "name": "Idrisa Mbaraka R. Mikugo",
+        "about": "NEVA SOLAR A\u015e",
+        "location": "351 followers Konya, T\u00fcrkiye"
+      },
+      {
+        "profile_link": "https://tr.linkedin.com/in/egemengover",
+        "name": "Egemen Gover",
+        "about": "ODT\u00dc \u0130vmer",
+        "location": "722 followers Ankara, T\u00fcrkiye"
+      },
+      {
+        "profile_link": "https://nl.linkedin.com/in/doruk-ece-7b3759173",
+        "name": "Doruk Ece",
+        "about": "\u00c7ekinmez Legal Solutions",
+        "location": "99 followers Rotterdam"
+      }
+    ],
+    "educations_details": "Stanford University",
+    "education": [
+      {
+        "start_year": "2022-08",
+        "end_year": "2022-12",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      },
+      {
+        "start_year": "2024-02",
+        "end_year": "2024-04",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      },
+      {
+        "start_year": "2023-09",
+        "end_year": "2023-12",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      },
+      {
+        "start_year": "2022-01",
+        "end_year": "2022-04",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      },
+      {
+        "start_year": "2021-02",
+        "end_year": "2021-04",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      }
+    ],
+    "recommendations_count": 3,
+    "avatar": "https://media.licdn.com/dms/image/v2/D4D03AQHZQA-e4hDx2g/profile-displayphoto-shrink_200_200/B4DZawmYWBG4Ac-/0/1746719576200?e=2147483647&v=beta&t=7JLJESbpVhhxXvwBLgpAbHSkWxrNhNY5umRf2lkzEV8",
+    "courses": [
+      {
+        "subtitle": "MIT 6.006",
+        "title": "Algorithms"
+      },
+      {
+        "subtitle": "CS110",
+        "title": "Data Structures and Algorithms"
+      },
+      {
+        "subtitle": "CS154",
+        "title": "Differential Equations"
+      },
+      {
+        "subtitle": "-",
+        "title": "Distributed Systems"
+      },
+      {
+        "subtitle": "CS156",
+        "title": "Finding Patterns in Data with Machine Learning"
+      },
+      {
+        "subtitle": "HSTAR-Y0001",
+        "title": "Introduction to Mathematical Thinking"
+      },
+      {
+        "subtitle": "CS229",
+        "title": "Machine Learning"
+      },
+      {
+        "subtitle": "SS111",
+        "title": "Modern Economic Thought"
+      },
+      {
+        "subtitle": "-",
+        "title": "Network and Operating Systems"
+      },
+      {
+        "subtitle": "-",
+        "title": "Object-Oriented Systems Design"
+      },
+      {
+        "subtitle": "CS164",
+        "title": "Optimization Methods"
+      },
+      {
+        "subtitle": "NS110U",
+        "title": "Physics of the Universe"
+      },
+      {
+        "subtitle": "SS112",
+        "title": "Political Science and Social Change"
+      },
+      {
+        "subtitle": "CS114",
+        "title": "Probability and Statistics"
+      },
+      {
+        "subtitle": "CS110",
+        "title": "Problem Solving with Data Structures and Algorithms"
+      },
+      {
+        "subtitle": "IL181.010",
+        "title": "Quantum Information"
+      },
+      {
+        "subtitle": "NS125",
+        "title": "Research Methods"
+      },
+      {
+        "subtitle": "CS111",
+        "title": "Single and Multivariable Calculus"
+      },
+      {
+        "subtitle": "CS162",
+        "title": "Software Development: Building Powerful Applications"
+      },
+      {
+        "subtitle": "NS162",
+        "title": "Statistical Mechanics"
+      },
+      {
+        "subtitle": "CS113",
+        "title": "Theory and Applications of Linear Algebra"
+      },
+      {
+        "subtitle": "SOM-Y0010",
+        "title": "Writing in the Sciences"
+      }
+    ],
+    "certifications": [
+      {
+        "meta": "Issued Jun 2013",
+        "subtitle": "Iran Language Institute",
+        "title": "Graduation Certificate from Young Adult's English Program",
+        "credential_url": null,
+        "credential_id": null
+      },
+      {
+        "meta": "Issued Feb 2020 Expires Feb 2022",
+        "subtitle": "ETS",
+        "title": "TOEFL",
+        "credential_url": null,
+        "credential_id": null
+      },
+      {
+        "subtitle": "HarvardX - An Online Learning Initiative by Harvard University through edX",
+        "title": "CS50AI",
+        "credential_url": null,
+        "credential_id": null
+      },
+      {
+        "subtitle": "HarvardX",
+        "title": "CS50x",
+        "credential_url": null,
+        "credential_id": null
+      },
+      {
+        "subtitle": "USERN SBMU Office",
+        "title": "First Aid Certification",
+        "credential_url": null,
+        "credential_id": null
+      },
+      {
+        "subtitle": "Sololearn",
+        "title": "Intermediate Python",
+        "credential_url": null,
+        "credential_id": null
+      },
+      {
+        "subtitle": "Sharif University of Technology",
+        "title": "Organizational Behavior",
+        "credential_url": null,
+        "credential_id": null
+      },
+      {
+        "subtitle": "Sololearn",
+        "title": "Python Data Structures",
+        "credential_url": null,
+        "credential_id": null
+      },
+      {
+        "meta": "See credential",
+        "subtitle": "365 Careers",
+        "title": "R Programming for Statistics and Data Science 2022",
+        "credential_url": "https://www.udemy.com/certificate/UC-25154c6b-4b60-4394-98f5-9847d32204b5/?trk=public_profile_see-credential",
+        "credential_id": null
+      },
+      {
+        "subtitle": "Sololearn",
+        "title": "SQL",
+        "credential_url": null,
+        "credential_id": null
+      }
+    ],
+    "recommendations": [
+      "Mario Estevez-Cruz \u201cShaghayegh joined my team as an intern, and worked on a time-bound project for 3 months. During this short amount of time, I got to witness first-hand her strong SWE foundation skills, ability to quickly learn new technologies, and see the growth in her confidence to converse technically with senior engineers within my team. I also saw her effectiveness in communicating the problem area, solution, and potential enhancements to less technical individuals such as Directors and Senior Managers during her final project presentation. She not only fully delivered the initial project scope, but went above and beyond in suggesting alternative solutions to parts of the initial project plan that provided even more impact despite the fact that it would add more work and potentially impact the delivery of her project. Shaghayegh exceeded my expectations, as she delivered a fully working tool that is now currently used to lower operational costs in our platform and lower resource utilization costs. It was a joy having her work in my team. She has huge potential with her current technical skills, amazing work etiquette, willingness to learn, receptiveness to feedback and ability to work well with others. I recommended her for a conversion at the end of her internship, and really hope to see her at LinkedIn again after she graduates.\u201d",
+      "Qazale Khalafi \u201cI've known shaghayegh for 8 years. she is always trying her best to learn new things. She is a genius and also a responsible, honest and hardworking girl. I would strongly recommend her for any position or career she chooses to pursue and I have no doubt she will be successful in her future endeavors.\u201d"
+    ],
+    "volunteer_experience": [
+      {
+        "duration": "Feb 2026 \u00b7 - \nFeb 2026 \u00b7 1 month",
+        "duration_short": "- \nFeb 2026",
+        "start_date": "Feb 2026",
+        "subtitle": "TreeHacks",
+        "title": "Judge"
+      },
+      {
+        "duration": "Sep 2025 \u00b7 - \nSep 2025 \u00b7 1 month",
+        "duration_short": "- \nSep 2025",
+        "info": "Served as a judge at HackMIT, one of the most renowned undergraduate hackathons globally, hosted by MIT.",
+        "start_date": "Sep 2025",
+        "subtitle": "HackMIT",
+        "title": "Judge"
+      },
+      {
+        "duration": "Apr 2026 \u00b7 - \nApr 2026 \u00b7 1 month",
+        "duration_short": "- \nApr 2026",
+        "start_date": "Apr 2026",
+        "subtitle": "HackPrinceton",
+        "title": "Judge"
+      },
+      {
+        "duration": "Oct 2025 \u00b7 - \nOct 2025 \u00b7 1 month",
+        "duration_short": "- \nOct 2025",
+        "start_date": "Oct 2025",
+        "subtitle": "Cal Hacks",
+        "title": "Judge"
+      },
+      {
+        "duration": "Jul 2025 \u00b7 - \nJul 2025 \u00b7 1 month",
+        "duration_short": "- \nJul 2025",
+        "info": "Together with the other judges we reviewed 150 projects in under 4 hours for over $50k in prizes and provided detailed feedback for each project",
+        "start_date": "Jul 2025",
+        "subtitle": "Hack United",
+        "title": "Hackathon Judge"
+      },
+      {
+        "cause": "Education",
+        "duration": "Sep 2022 \u00b7 - \nDec 2022 \u00b7 4 months",
+        "duration_short": "- \nDec 2022",
+        "info": "Sponsored by Taiwan's Ministry of Education and partnered with National Taiwan University (NTU), ICL is dedicated to improving the English abilities of Taiwanese children, particularly in rural areas. During my four months in Taipei, I was able to support this mission by meeting with students weekly and engaging students in their local communities.",
+        "start_date": "Sep 2022",
+        "subtitle": "International Companions for Learning (ICL)",
+        "title": "English Trainer"
+      },
+      {
+        "duration": "Jun 2025 \u00b7 - \nJul 2025 \u00b7 2 months",
+        "duration_short": "- \nJul 2025",
+        "info": "- Evaluated projects at Code4Hope 2025 (with prizes over 160k USD), assessing their problem definitions, technical approach, and demo presentations to identify strengths and improvement areas. - Delivered in-depth review of each team\u2019s solution\u2014highlighting innovation, feasibility, and user impact\u2014to help participants refine their ideas and technology choices.",
+        "start_date": "Jun 2025",
+        "subtitle": "Code4Hope",
+        "title": "Hackathon Judge"
+      },
+      {
+        "duration": "Jul 2025 \u00b7 - Present \u00b7 \n1 year 2 months",
+        "duration_short": "- Present",
+        "start_date": "Jul 2025",
+        "subtitle": "Girls Give Forward",
+        "title": "Mentor"
+      },
+      {
+        "duration": "Sep 2020 \u00b7 - \nDec 2020 \u00b7 4 months",
+        "duration_short": "- \nDec 2020",
+        "info": "Contributed to the Persian translation of The Feynman Lectures on Physics.",
+        "start_date": "Sep 2020",
+        "subtitle": "Zharfa Student Society",
+        "title": "Editor and Translator"
+      },
+      {
+        "duration": "Jul 2026 \u00b7 - Present \u00b7 \n2 months",
+        "duration_short": "- Present",
+        "start_date": "Jul 2026",
+        "subtitle": "HackMIT",
+        "title": "Judge"
+      }
+    ],
+    "followers": 5359,
+    "connections": 500,
+    "current_company_company_id": "openai",
+    "current_company_name": "OpenAI",
+    "projects": [
+      {
+        "title": "Group Streak - APM Duolingo",
+        "start_date": "Sep 2023",
+        "description": "I designed a feature to improve daily active user (DAU) metric for a language learning app product management role. Feature released by Duolingo and increased major KPIs including \"daily lessons completed\" by 22%."
+      },
+      {
+        "title": "Tatham's Puzzle Solver",
+        "start_date": "Jul 2022",
+        "description": "Hack the Galaxy by Rapyd's Puzzle 12: Arrow Maze"
+      },
+      {
+        "title": "LifeGrid"
+      }
+    ],
+    "organizations": [
+      {
+        "title": "Girls Who Code",
+        "membership_type": "-",
+        "membership_number": null
+      },
+      {
+        "title": "Google Developer's Student Club",
+        "membership_type": "-",
+        "membership_number": null
+      },
+      {
+        "title": "Rewriting the Code",
+        "membership_type": "-",
+        "membership_number": null
+      },
+      {
+        "title": "Women in Product",
+        "membership_type": "-",
+        "membership_number": null
+      }
+    ],
+    "location": null,
+    "input_url": "https://www.linkedin.com/in/shadirad",
+    "linkedin_id": "shadirad",
+    "activity": null,
+    "linkedin_num_id": "772202993",
+    "banner_image": "https://media.licdn.com/dms/image/v2/C5616AQF61SvUGWccig/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1652118033489?e=2147483647&v=beta&t=yIAhz9sZqm8gjerl-XfUi7I6_PhMbuDKWjaJ0-cHmWY",
+    "honors_and_awards": [
+      {
+        "title": "Mahsa Amini Graduate Fellowship",
+        "publication": "Columbia Engineering | The Fu Foundation School of Engineering and Applied Science",
+        "date": "2026-03-01T00:00:00.000Z",
+        "description": null
+      },
+      {
+        "title": "Tandon School of Engineering Graduate Merit Scholarship",
+        "publication": "NYU",
+        "date": "2026-02-01T00:00:00.000Z",
+        "description": null
+      },
+      {
+        "title": "GHC Kamala Scholarship 2024",
+        "publication": "AnitaB.org",
+        "date": "2024-05-01T00:00:00.000Z",
+        "description": "Awarded the AnitaB.org Scholarship to attend the Grace Hopper Celebration 2024 as part of the Kamala Scholars 2024 cohort."
+      },
+      {
+        "title": "Google Generation Scholarship",
+        "publication": "Google",
+        "date": "2023-07-01T00:00:00.000Z",
+        "description": "An award of $10,000 recognizing distinguished students pursuing computer science or a related field. This scholarship acknowledges academic excellence and leadership."
+      },
+      {
+        "title": "Grace Hopper Scholarship",
+        "publication": "AnitaB",
+        "date": "2023-06-01T00:00:00.000Z",
+        "description": "GHC Student Scholarship is a full scholarship awarded to a select group of students to attend the 2023 Grace Hopper Celebration of Women in Computing (GHC)."
+      },
+      {
+        "title": "Women In Tech Fund",
+        "publication": "Last Mile Education Fund",
+        "date": "2022-01-01T00:00:00.000Z",
+        "description": null
+      },
+      {
+        "title": "Monbukagakusho (MEXT) Scholarship Finalist",
+        "publication": "-",
+        "date": "2020-10-01T00:00:00.000Z",
+        "description": "After three competitive stages of document check, examination (including Mathematics, Physics, Chemistry, English and Japanese) and an interview, the Embassy of Japan in Iran recommended me to Japan's Ministry of Education, Culture, Sports, Science and Technology (MEXT) for undergraduate studies in Japan."
+      },
+      {
+        "title": "President's Admission Scholarship",
+        "publication": "University of Calgary",
+        "date": "2020-04-01T00:00:00.000Z",
+        "description": "President's Admission Scholarships are offered to students admitted to the University of Calgary directly from high school with an admission average of 95.0% or higher. - Received two years in a row."
+      },
+      {
+        "title": "Biology Olympiad Finalist",
+        "publication": "-",
+        "date": null,
+        "description": "- Advanced to national final round two years in a row - Ranked 10 in Talayiha nation-wide exam"
+      },
+      {
+        "title": "Full ride scholarship",
+        "publication": "Minerva University",
+        "date": null,
+        "description": null
+      },
+      {
+        "title": "High School's Top Student Award",
+        "publication": "F. Ehsanpour, Principal of Farzanegan High School (Exceptional Talents)",
+        "date": null,
+        "description": "Acquired the first rank among sophomores."
+      }
+    ],
+    "similar_profiles": [],
+    "default_avatar": false,
+    "memorialized_account": false,
+    "bio_links": [],
+    "first_name": "Shaghayegh",
+    "last_name": "M.",
+    "influencer": false,
+    "timestamp": "2026-08-12T19:15:02.588Z",
+    "input": {
+      "url": "https://www.linkedin.com/in/shadirad"
+    }
+  },
+  "local_photo": "data\\linkedin_photos\\shadirad__usr-jcOHbfmAromajCk.jpg"
+}

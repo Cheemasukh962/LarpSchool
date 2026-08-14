@@ -1,0 +1,155 @@
+{
+  "luma_user_id": "usr-oabUqYhBAKpPWnB",
+  "csv_name": "Yax Patel",
+  "csv_linkedin": "https://www.linkedin.com/in/yax-patel-",
+  "enriched_at": "2026-08-12T19:25:08.254780+00:00",
+  "batch_id": "sd_msqh7u7r1xzwli6vdk",
+  "profile": {
+    "id": "yax-patel-",
+    "name": "Yax Patel",
+    "city": "San Francisco, California, United States",
+    "country_code": "US",
+    "position": null,
+    "about": "Hey, I'm Yax. I'm an incoming Member of Technical Staff (Intern) at OpenAI and\u2026",
+    "current_company": {
+      "link": "https://www.linkedin.com/company/openai?trk=public_profile_topcard-current-company",
+      "name": "OpenAI",
+      "company_id": "openai",
+      "location": null
+    },
+    "experience": null,
+    "url": "https://de.linkedin.com/in/Yax-patel-",
+    "educations_details": "McMaster University",
+    "education": [
+      {
+        "title": "McMaster University",
+        "url": "https://ca.linkedin.com/school/mcmaster-university/",
+        "start_year": "2022-09",
+        "end_year": "2027-05",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      },
+      {
+        "start_year": "2018",
+        "end_year": "2022",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      }
+    ],
+    "avatar": "https://media.licdn.com/dms/image/v2/D4D03AQFiaWNlEPI4pw/profile-displayphoto-scale_200_200/B4DZ6j6ISzIYAc-/0/1780866386316?e=2147483647&v=beta&t=d3MKa0NUoGZGfrPnN-J8QiKYA7EejYuj1QJtidC_nws",
+    "followers": 2476,
+    "connections": 500,
+    "current_company_company_id": "openai",
+    "current_company_name": "OpenAI",
+    "location": "San Francisco",
+    "input_url": "https://www.linkedin.com/in/yax-patel-",
+    "linkedin_id": "yax-patel-",
+    "activity": [
+      {
+        "interaction": "Yax Patel shared this",
+        "link": "https://www.linkedin.com/posts/yax-patel-_openai-chatgpt-internship-activity-7426988788901429248-iXKx",
+        "title": "I'm excited to share that I'll be joining OpenAI this summer in San Francisco as a Member of Technical Staff Intern. I'll be working toward safe AGI and helping bring frontier AI into products used by hundreds of millions of people. After a year of building systems and infrastructure at NVIDIA , I'm ready for what's next. Thank you to the friends, family, and mentors who helped me get here. I wouldn't be in this position without you. If you're in SF this summer, let's connect. #OpenAI #ChatGPT #Internship #ArtificialIntelligence #newjob #Technology ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D4E05AQE0faVWW4GwSA/videocover-high/B4EZxDfly3G0Bc-/0/1770658882312?e=2147483647&v=beta&t=JOdyqUZ2O-rTvoe1cKJ08l9sNepswaA7mnSkGj4Hi8k",
+        "id": "7426988788901429248"
+      },
+      {
+        "interaction": "Yax Patel replied to a comment 1mo",
+        "link": "https://www.linkedin.com/posts/yax-patel-_activity-7476342338878111745-Dm9X",
+        "title": "Saras Agrawal goated team",
+        "img": null,
+        "id": "7476342338878111745"
+      },
+      {
+        "interaction": "Yax Patel reacted on this",
+        "link": "https://www.linkedin.com/posts/ekaumsingh_im-super-excited-to-share-that-ill-be-joining-activity-7492669185513181185-PGdI",
+        "title": "I\u2019m super excited to share that I\u2019ll be joining Microsoft this fall as a Software Engineer Intern in Redmond! \ud83c\udf89 Big thank you to my recruiters, Eva Larson and Bryan Elwin , for your kindness and support in a smooth recruiting experience :) If anyone else is in Seattle this fall, hit me up!",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQG-rvMgu54yqw/feedshare-image-high-res/B56Z_tO622KsAU-/0/1786391539397?e=2147483647&v=beta&t=NXjZsk5hrT_fbeF11qk1ur2Mjkxp5IImyEuDF-kGK0Q",
+        "id": "7492669185513181185"
+      },
+      {
+        "interaction": "Yax Patel liked this",
+        "link": "https://www.linkedin.com/posts/rishi-shah-7915a7309_machinelearning-gpucomputing-research-activity-7491206929063571456-e2i6",
+        "title": "A public benchmark certified 2,638 AI-generated GPU kernels as correct. I checked them with a stricter test and majority of them are not. Here is how I ended up there, because it started somewhere else entirely. I wrote the first native Blackwell tcgen05 training backward for the gated-linear-recurrence family, including the reverse-state stage that is usually run in Triton. One recurrence, five models: fix the gates and you get linear attention, GLA, Mamba-2/SSD, Kimi Delta Attention, and full gated DeltaNet. A single backward trains all of them. The standard check is an approximate-equality test on a few random inputs at one fixed shape. It is cheap and reproducible, which is why everyone uses it. But a kernel can pass that and still quietly return an ordinary number where the real answer is a NaN, or give a different result on every run, or break the moment the input shape changes. So I wrote twelve adversarial gates instead: NaN and infinity handling, determinism across repeats, behavior at shapes I had not tested, whether the accumulator really stays in fp32. Several of them need no tolerance at all, so there is no threshold to argue about. Then I got curious what would happen if I pointed the same battery at other people's kernels. 62.1% carry a contract violation. 39.5% fail a tolerance-free gate, meaning no choice of threshold can excuse them. Head to head, 1,487 pass KernelBench and fail mine, against 14 going the other way. The disagreement is almost entirely one-directional, which suggests a blind spot in what the standard check probes rather than two checks tuned to different strictness. The obvious objection is that I just built a harsher referee, so I tried to make that falsifiable four ways: a 7/7 positive control on kernels I can independently vouch for, a threshold calibration sweep with clean separation on every gate, 98.5% agreement with KernelBench's own correctness code, and a stratified hand-audit. On the kernel itself, the goal was never to be fastest. It was to get the reverse-state stage running native on the tensor cores at all, general across the family, and verified end to end. Speed is future work. The preprint is on Zenodo and I want it on arXiv, but as a first-time submitter I need an endorsement from an established arXiv author in computer science. If that is you, or if you know someone it might be, I would be grateful for a message or an introduction. Link to the paper in the comments. #MachineLearning #GPUComputing #Research",
+        "img": "https://media.licdn.com/dms/image/v2/D5605AQHQTTUct59UwA/videocover-high/B56Z_Yc.odGgBM-/0/1786042904215?e=2147483647&v=beta&t=dRFso6kQf651xJIdrvzDJY7oQmPWUxMeMcded-nFIFE",
+        "id": "7491206929063571456"
+      },
+      {
+        "interaction": "Yax Patel liked this",
+        "link": "https://www.linkedin.com/posts/sanja-fidler-2846a1a_nvidia-spatial-intelligence-lab-sil-activity-7488958169793064961-x0W0",
+        "title": "It's surreal to write this post. It's been 8 years ago, when my life completely changed. All I knew about NVIDIA at the time was this magical box -- the GPU \u2014 that was producing our papers at University of Toronto. I entered the world of NVIDIA on May 6, 2018 by Jensen\u2019s invitation. And behind the magical box, the magical universe unveiled. The universe of some of the smartest and kindest people I've ever met. People that became my dearest collaborators, colleagues, and friends. A place where a mission unites people and clears all artificial boundaries between teams. A place nurtured by a leader so unique in so many ways that it's almost hard to believe he exists. A place that became more than work, it became my home. We grew the team grounds up, with gravity in Toronto and expanding globally over the years. The mission of the team was to develop new technologies for simulation to power the creation and modeling of virtual worlds. And I couldn't be prouder of what we have achieved. Together, we've learned how to become a research lab in industry. Transitioning from conceptual work we discussed in papers, several of which won best paper awards, to technology that shipped in production and made a real world difference. NuRec, Cosmos, Alpamayo, and OmniDreams are some of the efforts I'm most proud the team has led or contributed to, and so many research works we developed through the years that have empowered them. I'd like to thank everyone for this wonderful journey, especially Jensen Huang , Rev Lebaredian , Bill Dally and Xinzhou Wu who mentored and supported me and the team through the years. But most of all I'd like to thank my team. They\u2019ve made the NVIDIA Spatial Intelligence Lab ( https://lnkd.in/g5DamEbk ) a magical place, a frontier lab in the 3D AI domain, and a kind and collaborative environment where people care about each other and support themselves to drive impact. I couldn't be prouder of what we accomplished and the leaders they have all become. I\u2019ve made the difficult decision to leave NVIDIA. I'm leaving with more love for NVIDIA, so much more than what I came in with. I'll miss you all dearly, and can't wait to see how you continue to change the world \ud83d\udc9a World models is where the next breakthrough lies, and it is around the corner. Our vision started with GameGAN in 2020, where AI reproduced a PacMan game. It was immediately clear this will be the technology to change the game for robotics. DriveGAN (2021) was our first driving simulator fully trained from data. Then came videoLDM (2023) that changed the game for video generation efficiency, Cosmos (2025) as an open world simulation platform for Physical AI, and finally OmniDreams (2026) where for the first time we demonstrated real time interactive driving in a fully AI generated world. I\u2019m super excited for what\u2019s to come.",
+        "img": "https://media.licdn.com/dms/image/sync/v2/D5627AQFNI7U5ncgN8g/articleshare-shrink_800/B56Z6plRh0GcAY-/0/1780961581618?e=2147483647&v=beta&t=3UiLvETk3X7YLDCEocLNHnXomWBd5gL5cAkmi_ogIps",
+        "id": "7488958169793064961"
+      },
+      {
+        "interaction": "Yax Patel liked this",
+        "link": "https://www.linkedin.com/posts/shubhamsaboo_this-is-insaneopenai-open-sourced-a-codex-activity-7481896884777930753-TFbh",
+        "title": "This is insane...OpenAI open-sourced a Codex plugin for Claude Code \ud83e\udd2f You can now run Codex inside Claude Code. Code reviews, task delegation, full session handoffs. Two rival agents in one terminal. 100% Open Source. 25,000+ GitHub stars already. Until now the two tools lived in isolation. Claude Code writes the patch, and if you want Codex's opinion, you open another terminal, paste the diff, and explain the whole context again. The plugin adds /codex slash commands directly into your Claude Code session: \u2022 codex:review runs a full Codex code review on your current work, same quality as running it in Codex directly \u2022 codex:adversarial-review makes Codex actively challenge your implementation, tradeoffs, and hidden assumptions before you open a PR \u2022 codex:rescue hands a stuck task to Codex when Claude hits a wall \u2022 codex:transfer moves your entire Claude Code session into Codex mid-conversation, context intact Claude can invoke Codex on its own. If it gets stuck during a hard debugging session, it spins up a Codex subagent without you asking. There's also a review gate. Turn it on and Claude cannot finish a task until Codex reviews the change and clears it. A built-in second pair of eyes on every patch. It runs through your local Codex CLI, so your existing ChatGPT subscription covers it. OpenAI shipping an official plugin for a competitor's product tells you where this is heading. Link to the GitHub repo in the comments. ____ 100+ AI Agents, Agent Skills, and Agent teams (free and open-source with 118,000+ stars): https://lnkd.in/dW6b_dEn \u267b\ufe0f Repost to share it with your network. Follow me at Shubham Saboo for more such AI Agent, Loop Engineering and Agent Skill workflows.",
+        "img": "https://media.licdn.com/dms/image/v2/D5610AQHNTqeNsmtWNQ/image-shrink_1280/B56Z9UJkMgKEAc-/0/1783823222054?e=2147483647&v=beta&t=82H8gSxqYmMwhFjpBacOHqReOWf4PGp4Zsj5ITJDphM",
+        "id": "7481896884777930753"
+      },
+      {
+        "interaction": "Yax Patel reacted on this",
+        "link": "https://www.linkedin.com/posts/someshkarthi_i-am-happy-to-share-that-i-have-joined-bloomberg-activity-7480038676173910016-Tvme",
+        "title": "I am happy to share that I have joined Bloomberg as a full-time Software Engineer in New York City! Thank you to everyone who supported me on this journey.",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQHYeU9ZP_s_bw/feedshare-shrink_1280/B56Z85viMbKcAQ-/0/1783380191889?e=2147483647&v=beta&t=QH7maLGW5GTtvN8LKNuVJIqQbavtf6-O4F8YNF_qOZ4",
+        "id": "7480038676173910016"
+      },
+      {
+        "interaction": "Yax Patel liked this",
+        "link": "https://www.linkedin.com/posts/openai-for-business_today-were-introducing-a-limited-preview-activity-7476326250391949312-ZH8f",
+        "title": "Today we\u2019re introducing a limited preview of the GPT-5.6 model family: Sol, Terra, and Luna. GPT-5.6 Sol is our strongest model yet for software engineering, computer use, professional knowledge work, scientific research, and cybersecurity. Terra delivers competitive GPT-5.5 performance at 2x lower cost, while Luna is our most cost-efficient model. Together, the GPT-5.6 family gives organizations and developers more choice in how they balance intelligence, speed, and cost. Learn more: https://lnkd.in/eYiKri9U",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQGkn3sflgBK_Q/feedshare-shrink_800/B56Z8E_G4uKgAc-/0/1782495081002?e=2147483647&v=beta&t=P3ROWb-VQnuN5SDQdj0Q47vhE3jJ1H81gwm6fMWSZIU",
+        "id": "7476326250391949312"
+      },
+      {
+        "interaction": "Yax Patel reacted on this",
+        "link": "https://www.linkedin.com/posts/jwaterman_students-applications-for-greylock-techfair-activity-7475674197910872064-4TmS",
+        "title": "Students - Applications for Greylock Techfair are open! Sneak peek at this year's lineup: OpenAI , Cognition , Ramp , Baseten , Braintrust , Listen Labs , Harvey , Glean , Nuro , LlamaIndex , Snorkel AI , Cogent , Netic , Opal Security \u2014 and many more! Techfair is an invite-only university recruiting and networking event giving top technical students direct access to founders, leaders, and hiring teams from 40+ startups. Explore internships and full-time roles, make lasting connections, and get an early look at the next generation of category-defining companies. Since 2014, past attendees have gone on to join companies they first discovered at Techfair\u2014 including Stripe, Figma, Databricks, Discord, and more. \ud83d\udc49 Learn more and apply by July 12th: https://lnkd.in/gJGwQvYG Spots are limited \u2014 rolling approvals until capacity is met.",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQFPmDZjbZHViA/feedshare-shrink_800/B56Z77uEeAIMAc-/0/1782339619020?e=2147483647&v=beta&t=FQevmM2knyQvlNRtSf_q4_zM4ydG1SM3pl8NJWHgrA8",
+        "id": "7475674197910872064"
+      }
+    ],
+    "linkedin_num_id": "882331611",
+    "banner_image": "https://media.licdn.com/dms/image/v2/D4E16AQFmcL5AeF0CZQ/profile-displaybackgroundimage-shrink_200_800/B4EZxH0NnsKsAU-/0/1770731396180?e=2147483647&v=beta&t=dtJE3Z3j0J8KgQoZNQZM9fJHrABThppnvIAg9FU-xvA",
+    "honors_and_awards": [
+      {
+        "title": "Junior Design Finalist at McMaster Engineering Competition 2022",
+        "publication": "McMaster",
+        "date": "2022-11-01T00:00:00.000Z",
+        "description": null
+      },
+      {
+        "title": "Engineering Award of Excellence",
+        "publication": "-",
+        "date": "2022-09-01T00:00:00.000Z",
+        "description": null
+      },
+      {
+        "title": "Euclid Contest School Champion Medal",
+        "publication": "CEMC Waterloo",
+        "date": "2022-06-01T00:00:00.000Z",
+        "description": null
+      },
+      {
+        "title": "Won overall at PTC Code Against Covid",
+        "publication": "Project Tech Conferences",
+        "date": "2021-02-01T00:00:00.000Z",
+        "description": null
+      }
+    ],
+    "similar_profiles": [],
+    "default_avatar": false,
+    "memorialized_account": false,
+    "bio_links": [],
+    "first_name": "Yax",
+    "last_name": "Patel",
+    "influencer": false,
+    "timestamp": "2026-08-12T19:22:42.799Z",
+    "input": {
+      "url": "https://www.linkedin.com/in/yax-patel-"
+    }
+  },
+  "local_photo": "data\\linkedin_photos\\yax-patel-__usr-oabUqYhBAKpPWnB.jpg"
+}

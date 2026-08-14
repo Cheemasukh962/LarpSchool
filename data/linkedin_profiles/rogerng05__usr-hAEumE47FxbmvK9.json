@@ -1,0 +1,338 @@
+{
+  "luma_user_id": "usr-hAEumE47FxbmvK9",
+  "csv_name": "Hiep Nguyen",
+  "csv_linkedin": "https://www.linkedin.com/in/rogerng05",
+  "enriched_at": "2026-08-12T19:06:01.827212+00:00",
+  "batch_id": "sd_msqgh02428smzgu5m",
+  "profile": {
+    "id": "rogerng05",
+    "name": "Roger Nguyen",
+    "city": "Greater Seattle Area",
+    "country_code": "US",
+    "position": null,
+    "about": "Roger Nguyen is an honors student at Villanova University, pursuing a major in Computer\u2026",
+    "current_company": {
+      "link": "https://www.linkedin.com/company/microsoft?trk=public_profile_topcard-current-company",
+      "name": "Microsoft",
+      "company_id": "microsoft",
+      "location": null
+    },
+    "experience": null,
+    "url": "https://ru.linkedin.com/in/rogerng05",
+    "educations_details": "Villanova University",
+    "education": null,
+    "avatar": "https://media.licdn.com/dms/image/v2/D4E03AQEQth6Z4M52Sw/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1725425307354?e=2147483647&v=beta&t=3ctZeP-5wMByacxQARMYyk9x9ptLuaWaaJ9UXnuIDv0",
+    "languages": [
+      {
+        "subtitle": "Full professional proficiency",
+        "title": "English"
+      },
+      {
+        "subtitle": "Elementary proficiency",
+        "title": "Spanish"
+      }
+    ],
+    "certifications": [
+      {
+        "meta": "Issued Sep 2024 Credential ID TV3UMWMM8BYM See credential",
+        "subtitle": "Stanford Online",
+        "title": "Algorithms Specialization",
+        "credential_url": "https://www.coursera.org/account/accomplishments/specialization/certificate/TV3UMWMM8BYM?trk=public_profile_see-credential",
+        "credential_id": "TV3UMWMM8BYM"
+      },
+      {
+        "meta": "Issued May 2024 Credential ID hiepnguyen2005-ljaads See credential",
+        "subtitle": "freeCodeCamp",
+        "title": "JavaScript Algorithms and Data Structures",
+        "credential_url": "https://freecodecamp.org/certification/hiepnguyen2005/javascript-algorithms-and-data-structures?trk=public_profile_see-credential",
+        "credential_id": "hiepnguyen2005-ljaads"
+      },
+      {
+        "meta": "Issued Jan 2024 Credential ID hiepnguyen2005-rwd See credential",
+        "subtitle": "freeCodeCamp",
+        "title": "Responsive Web Design",
+        "credential_url": "https://freecodecamp.org/certification/hiepnguyen2005/responsive-web-design?trk=public_profile_see-credential",
+        "credential_id": "hiepnguyen2005-rwd"
+      },
+      {
+        "meta": "Issued Dec 2023 Credential ID 8f125711f5d340aa9a1eed5b64e2d429 See credential",
+        "subtitle": "MITx Courses",
+        "title": "X Series: Computational Thinking using Python",
+        "credential_url": "https://credentials.edx.org/credentials/8f125711f5d340aa9a1eed5b64e2d429/?trk=public_profile_see-credential",
+        "credential_id": "8f125711f5d340aa9a1eed5b64e2d429"
+      },
+      {
+        "meta": "Issued Oct 2023 Credential ID 3WEQVA4XF8VE See credential",
+        "subtitle": "Google",
+        "title": "Google Data Analytics Professional Certificate",
+        "credential_url": "https://www.coursera.org/account/accomplishments/specialization/certificate/3WEQVA4XF8VE?trk=public_profile_see-credential",
+        "credential_id": "3WEQVA4XF8VE"
+      },
+      {
+        "meta": "Issued Sep 2023 Credential ID bf8d3944-bbcf-45a3-afda-88cee5ca54a8 See credential",
+        "subtitle": "CS50",
+        "title": "CS50\u2019s Introduction to Computer Science",
+        "credential_url": "https://certificates.cs50.io/bf8d3944-bbcf-45a3-afda-88cee5ca54a8.pdf?size=letter&trk=public_profile_see-credential",
+        "credential_id": "bf8d3944-bbcf-45a3-afda-88cee5ca54a8"
+      },
+      {
+        "meta": "Issued Jul 2023 See credential",
+        "subtitle": "Australia-Vietnam Leadership Dialogue",
+        "title": "RISE UP - SDGs Competition 2023 - Honorary Award",
+        "credential_url": "https://drive.google.com/file/d/1yxBWrTtuCmWmLJ-MMcK17ukIyKrM_ZHW/view?trk=public_profile_see-credential",
+        "credential_id": null
+      },
+      {
+        "meta": "Issued Jun 2023 Credential ID 5cf1e75d-25e6-4c5b-9860-d8255ae026c9 See credential",
+        "subtitle": "CS50",
+        "title": "CS50\u2019s Introduction to Programming with Python",
+        "credential_url": "https://certificates.cs50.io/5cf1e75d-25e6-4c5b-9860-d8255ae026c9.pdf?size=letter&trk=public_profile_see-credential",
+        "credential_id": "5cf1e75d-25e6-4c5b-9860-d8255ae026c9"
+      },
+      {
+        "meta": "Issued Sep 2022 See credential",
+        "subtitle": "UNESCO",
+        "title": "UNESCO Digital Skill Training: Mobile Application Development 2022",
+        "credential_url": "https://drive.google.com/file/d/1yDg_wlMhptx370FMav4WUDz7ZjlQYl8C/view?trk=public_profile_see-credential",
+        "credential_id": null
+      },
+      {
+        "meta": "Issued Jun 2022 See credential",
+        "subtitle": "U.S. Department of State",
+        "title": "English for STEM (Massive Open Online Courses)",
+        "credential_url": "https://drive.google.com/file/d/1ZWspUvWynweLgOaI5G0zVmaYqyp659oa/view?usp=sharing&trk=public_profile_see-credential",
+        "credential_id": null
+      }
+    ],
+    "volunteer_experience": [
+      {
+        "cause": "Social Services",
+        "duration": "Sep 2023 \u00b7 - \nOct 2023 \u00b7 \n2 months",
+        "duration_short": "- \nOct 2023",
+        "info": "St. Thomas of Villanova Day of Service (2023): Drexel Neumann Academy in Chester, PA Service and Justice Experiences, SJEs (Fall 2023): Habitat for Humanity of Marion-Dillon County, SC",
+        "start_date": "Sep 2023",
+        "subtitle": "Villanova University",
+        "title": "Volunteer"
+      },
+      {
+        "cause": "Science and Technology",
+        "duration": "Oct 2020 \u00b7 - \nJul 2022 \u00b7 \n1 year 10 months",
+        "duration_short": "- \nJul 2022",
+        "info": "\u2022 Managed 60 members in writing astronomical posts to a Facebook page of 10,000 followers and organizing activities such as training and bonding meetings, star-gazing sessions, and annual events. \u2022 Assigned and oversaw tasks progress during educational events as the Head Organizer of: o \u2018PIONEER\u2019 \u2013 an offline astronomy fair for 80+ primary-school-aged children. o \u2018ASCENSION\u2019 \u2013 an online course with the theme \u2018Space Race\u2019 for 100+ primary-school-age children. \u2022 Directed the content\u2026 Show more \u2022 Managed 60 members in writing astronomical posts to a Facebook page of 10,000 followers and organizing activities such as training and bonding meetings, star-gazing sessions, and annual events. \u2022 Assigned and oversaw tasks progress during educational events as the Head Organizer of: o \u2018PIONEER\u2019 \u2013 an offline astronomy fair for 80+ primary-school-aged children. o \u2018ASCENSION\u2019 \u2013 an online course with the theme \u2018Space Race\u2019 for 100+ primary-school-age children. \u2022 Directed the content team in designing and hosting lectures about constellations and the Solar system and interactive virtual games in \u2018ASCELLA\u2019, an online course for 70+ primary-school-aged children. Show less",
+        "start_date": "Oct 2020",
+        "subtitle": "Amstronomy",
+        "title": "President, Member of Expertise and Content Team"
+      },
+      {
+        "cause": "Education",
+        "duration": "Jun 2022 \u00b7 - \nJan 2023 \u00b7 \n8 months",
+        "duration_short": "- \nJan 2023",
+        "info": "Khan Academy is a 501(c)(3) nonprofit organization offering exercises, instructional videos, and a personalized learning dashboard that empower learners to study at their own pace. \u2022 Translated secondary mathematics videos, exercises from English to local language. \u2022 Joined in group meetings for work updates and introductions, tutorials, workshops, team-building activities.",
+        "start_date": "Jun 2022",
+        "subtitle": "Khan Academy",
+        "title": "Translator"
+      },
+      {
+        "cause": "Education",
+        "duration": "Jan 2023 \u00b7 - \nJan 2023 \u00b7 \n1 month",
+        "duration_short": "- \nJan 2023",
+        "info": "By organizing volunteer tourism programs, Volunteer for Education (V.E.O) provides practical support activities such as job skills training, informal teaching, and developing tourism experiences in local areas. \u2022 Designed lesson plans and created ideas for activities for the lesson. \u2022 Travelled to Lo Lo Chai, Ha Giang province to teach a lecture and organize activities for 20+ local ethnic minority children.",
+        "start_date": "Jan 2023",
+        "subtitle": "Volunteer For Education",
+        "title": "Member of Teaching team"
+      },
+      {
+        "cause": "Education",
+        "duration": "May 2022 \u00b7 - \nOct 2022 \u00b7 \n6 months",
+        "duration_short": "- \nOct 2022",
+        "info": "TEDx HUS is a non-profit organization founded by VNU University of Science to organize events in the format of a TED conference. This year, our event \u2018TEDx HUS 2022: The Citadel\u2019 raises the question: \u2018How can people step out of their comfort zones to pursue greater aspirations while keeping the ideal of life unshakable in the face of social reality?\u2019 \u2022 Developed a roadmap of ideas throughout the operation of TEDx HUS Studio and TEDx HUS. \u2022 Followed up with science \u2013 technology guest\u2026 Show more TEDx HUS is a non-profit organization founded by VNU University of Science to organize events in the format of a TED conference. This year, our event \u2018TEDx HUS 2022: The Citadel\u2019 raises the question: \u2018How can people step out of their comfort zones to pursue greater aspirations while keeping the ideal of life unshakable in the face of social reality?\u2019 \u2022 Developed a roadmap of ideas throughout the operation of TEDx HUS Studio and TEDx HUS. \u2022 Followed up with science \u2013 technology guest speaker and his speech about \u2018Academic Integrity \u2013 Never too late\u2019. \u2022 Supported other committee members and 100+ guests and attendees in the event. Show less",
+        "start_date": "May 2022",
+        "subtitle": "TEDxHUS",
+        "title": "Curation Member"
+      },
+      {
+        "cause": "Education",
+        "duration": "Sep 2021 \u00b7 - \nJun 2022 \u00b7 \n10 months",
+        "duration_short": "- \nJun 2022",
+        "info": "Fulbright Buddies aims to connect high school students across the country to Fulbright University Vietnam and support them throughout the application process. \u2022 Hosted webinars to offer tips to apply and share posts about admission announcement on social media. \u2022 Supported prospective applicants on getting information about admission through Zalo and Facebook groups.",
+        "start_date": "Sep 2021",
+        "subtitle": "Fulbright University Vietnam",
+        "title": "Assistant to Admission Board @ Volunteer Fulbright Buddies"
+      },
+      {
+        "cause": "Poverty Alleviation",
+        "duration": "Jan 2021 \u00b7 - \nMay 2021 \u00b7 \n5 months",
+        "duration_short": "- \nMay 2021",
+        "info": "Hanoi Food Rescue aims to raise community awareness about food savings by taking leftovers from hotels, restaurants, and households and sharing with people in need. \u2022 Took leftovers from restaurants, households to share with patients, home for orphans or disadvantaged people.",
+        "start_date": "Jan 2021",
+        "subtitle": "Hanoi Food Rescue",
+        "title": "Volunteer"
+      },
+      {
+        "cause": "Education",
+        "duration": "May 2021 \u00b7 - \nMay 2021 \u00b7 \n1 month",
+        "duration_short": "- \nMay 2021",
+        "info": "Hocmai.vn is an online learning platform built by HOCMAI Education INC - an organization specializing in providing quality online courses for students from grades 1 to 12 in Vietnam. \u2022 Prepared content and acted as a guest speaker on the 10,000-viewer livestream on Facebook and Youtube called \u2018Tips for effective entrance exams\u2019.",
+        "start_date": "May 2021",
+        "subtitle": "HOCMAI Education Inc.",
+        "title": "Guest Speaker"
+      },
+      {
+        "cause": "Education",
+        "duration": "Nov 2020 \u00b7 - \nApr 2021 \u00b7 \n6 months",
+        "duration_short": "- \nApr 2021",
+        "info": "High School Help Kit support 9th\u00ac graders during the preparation for the entrance exam. This aims to counsel students with useful study materials and advice and create a student forum for long-term communication and support. \u2022 Met 1-on-1 and talked to prospective Mathematics and Physics students in \u2018Unboxing day 2020 \u2013 Apricus\u2019 and \u2018Maska 21\u2013 Solarmonia\u2019 events.",
+        "start_date": "Nov 2020",
+        "subtitle": "High School Help Kit",
+        "title": "Guest Speaker"
+      }
+    ],
+    "followers": 3496,
+    "connections": 500,
+    "current_company_company_id": "microsoft",
+    "current_company_name": "Microsoft",
+    "projects": [
+      {
+        "title": "TradeWise",
+        "start_date": "Aug 2024",
+        "description": "\u2022 Developed a stock portfolio management website, featuring real-time prices from Twelve Data, historical data visualization with ApexCharts, and automated news scraping from NewsAPI, boosting tracking efficiency by 40%\u2022 Implemented deep learning-based stock predictions (LSTM) and a chatbot for personalized investment consulting"
+      },
+      {
+        "title": "ScholarPilot",
+        "start_date": "Feb 2025",
+        "description": "\u2022 Built an AI multi-agent system that extracts and summarizes academic papers, providing metadata and key insights with an interactive context-aware QnA system using Groq API and RAG pipeline.\u2022 Awarded Best AI Agent Project at Columbia DevFest 2025, recognized for its ability to streamline research through intelligent agent collaboration and contextual retrieval, reducing topic-based paper tracking time by 30%."
+      },
+      {
+        "title": "Shelfie",
+        "start_date": "Oct 2024",
+        "description": "\u2022 Collaborated with 2 developers to build a bookshelf platform with search engine and personalized recommendations, featuring Google Books API and OAuth login, deployed on Render, improving user engagement by 30%\u2022 Integrated an interactive Material UI-designed chatbot for in-depth user queries, delivering more tailored advice"
+      },
+      null,
+      {
+        "title": "ResuMate",
+        "start_date": "Sep 2024",
+        "description": "\u2022 Deployed an AI-powered web application providing eligibility check, personalized resume and job compatibility feedback, and suggested improvement, extracting PDF resumes to text, saving 80% of manual assessment time.\u2022 Integrated an interactive Material UI-designed chatbot for in-depth user queries, delivering more tailored advice."
+      },
+      null,
+      null,
+      {
+        "title": "Vintage Tennis",
+        "start_date": "Apr 2024",
+        "description": "\u2022 Designed a tennis-themed social media platform using React, enabling post creation, content searching, sorting with UUID-based user authentication and streamlining user experience with Bootstrap loading animations.\u2022 Enhanced interactivity with local image uploads and real-time updates via Supabase, saving data fetch time by 25%, and trained an emotion detection model to label content for better social awareness."
+      },
+      {
+        "title": "Multi-Dimensional Sentiment Analysis",
+        "start_date": "Feb 2024",
+        "description": "\u2022 Collaborated with 2 AI4ALL Ignite Fellows to construct an emotion-predictive model from 20,000 sentences.\u2022 Implemented a Random Forest Classifier combining features of raw sentiment score, text vectorization, scaled text length, and word count, achieving an accuracy of 0.8605 and an F1-score of 0.8587."
+      },
+      null,
+      null,
+      {
+        "title": "Coinventor",
+        "start_date": "Oct 2023",
+        "description": "\u2022 Developed a mobile app with 4 members that converts between currencies with the present rate from Currency API.\u2022 Managed the GitHub repository and designed a user-friendly UI implementing Android Studio."
+      },
+      {
+        "title": "Positive vs. Negative",
+        "start_date": "Sep 2023",
+        "description": "\u2022 Developed a dynamic web using the framework Python/Flask for scaling up and SQLite for storing users\u2019 portfolios.\u2022 Implemented Transformers model for sentiment analysis and hashing for users\u2019 privacy."
+      },
+      {
+        "title": "Vietnamese Fake News Detection Based on Tokenization from Pre-trained Models and Word Embeddings BiLSTM Model",
+        "start_date": "Jul 2023",
+        "description": "\u2022 Discovered tokenization process from Bartpho model, collaborated on training dataset of ReINTEL containing 10,000+ labeled examples, and achieved promising results with 0.9583 accuracy and 0.8684 F1 score.\u2022 Delivered the final report and designed beamers for presentation in the following sections: the tokenization process, results, and discussion."
+      }
+    ],
+    "organizations": [
+      {
+        "title": "Rimor Community",
+        "membership_type": "Founder & Coordinator",
+        "start_date": "Apr 2021",
+        "end_date": "Apr 2021",
+        "description": "Rimor Community is the first and only library-based community in Hanoi where everyone can share books on studying abroad, such as exam preparation books, career guides, etc. \u2022 Initiated the idea of building a library-based community that supports students in preparing for studying abroad. \u2022 Acted as the Head Organizer of \u201840 days to entrance exams\u2019, an event aiming to share our experience on how to study for the high school entrance exam during the last 40 days, which attracted 30+ parents and students.o Liaised with guest speakers and finalized on content for the event. o Oversaw the team\u2019s operation on logistics and media.",
+        "membership_number": null
+      }
+    ],
+    "location": null,
+    "input_url": "https://www.linkedin.com/in/rogerng05",
+    "linkedin_id": "rogerng05",
+    "activity": [
+      {
+        "interaction": "Roger Nguyen liked this",
+        "link": "https://www.linkedin.com/posts/abdelhadi-azzouni-a4218748_definitely-been-my-experience-too-add-to-activity-7490060279561494528-Tuu2",
+        "title": "Definitely been my experience too. Add to that: the choice of harness can make it upto 2x worse - Claude Code for eg is notoriously token maxing compared to Codex or Cursor. ...more ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQGlT1nZvxDzFA/feedshare-image-high-res/B4EZ_IKIoOKUAU-/0/1785769528384?e=2147483647&v=beta&t=f4eHYlloGkzXlvjENIoXmJA9j7UBhsRRHDkERt4_3BM",
+        "id": "7490060279561494528"
+      }
+    ],
+    "linkedin_num_id": "982340302",
+    "banner_image": "https://media.licdn.com/dms/image/v2/D4D16AQGEbULTefYY3g/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1698415870174?e=2147483647&v=beta&t=cT15GRbCfj2rGnANvYEd6IFTUjDRwvUY-lByyx12hC4",
+    "honors_and_awards": [
+      {
+        "title": "Top 2 (Silver Medal, Site), ICPC Mid-Atlantic USA Region \u2013 Division 1",
+        "publication": "ICPC Foundation",
+        "date": "2025-11-01T00:00:00.000Z",
+        "description": null
+      },
+      {
+        "title": "Top 3 (Bronze Medal, Site), ICPC Mid-Atlantic USA Region \u2013 Division 1",
+        "publication": "ICPC Foundation",
+        "date": "2024-11-01T00:00:00.000Z",
+        "description": null
+      },
+      {
+        "title": "Finalist, Villanova ChatGPT Sustainability Challenge",
+        "publication": "-",
+        "date": "2023-11-01T00:00:00.000Z",
+        "description": null
+      },
+      {
+        "title": "Third Prize, Vietnam Economics Olympiad (VEO)",
+        "publication": "Vietnam Economics Olympiad",
+        "date": "2023-07-01T00:00:00.000Z",
+        "description": null
+      },
+      {
+        "title": "Bronze Medal, International Olympiad on Astronomy and Astrophysics (IOAA)",
+        "publication": "International Olympiad on Astronomy and Astrophysics (IOAA)",
+        "date": "2022-08-01T00:00:00.000Z",
+        "description": null
+      },
+      {
+        "title": "Silver Medal, AI \u2013 JAM US Silicon Valley",
+        "publication": "AI \u2013 JAM US Silicon Valley",
+        "date": "2022-07-01T00:00:00.000Z",
+        "description": "\u2022 Participated with 4 other members and worked on the topic \u2018Study of optical properties of Terbium phosphate (TbPO4) to apply into identification of cancer cells\u2019. \u2022 Recorded the experiment, presented the final part and edited for the group's presentation video, and wrote the conclusion and extension sections for the project\u2019s paper."
+      },
+      {
+        "title": "Valedictorian, Entrance exams to HUS High School for Gifted Students (Mathematics \u2013 Computer Science)",
+        "publication": "HUS High School for Gifted Students",
+        "date": "2020-07-01T00:00:00.000Z",
+        "description": null
+      },
+      {
+        "title": "Gold Medal \u2013 Top scorer, Hanoi Open Mathematics Competition",
+        "publication": "Hanoi Department of Education and Training",
+        "date": "2019-04-01T00:00:00.000Z",
+        "description": null
+      }
+    ],
+    "similar_profiles": [],
+    "default_avatar": false,
+    "memorialized_account": false,
+    "bio_links": [
+      {
+        "title": "Portfolio",
+        "link": "https://rogerng05.netlify.app/"
+      }
+    ],
+    "first_name": "Roger",
+    "last_name": "Nguyen",
+    "influencer": false,
+    "timestamp": "2026-08-12T19:01:56.563Z",
+    "input": {
+      "url": "https://www.linkedin.com/in/rogerng05"
+    }
+  },
+  "local_photo": "data\\linkedin_photos\\rogerng05__usr-hAEumE47FxbmvK9.jpg"
+}

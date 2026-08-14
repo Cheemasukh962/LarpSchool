@@ -1,0 +1,66 @@
+{
+  "luma_user_id": "usr-hYmo8mZPSUjLfyE",
+  "csv_name": "Harris Song",
+  "csv_linkedin": "https://www.linkedin.com/in/harris-song",
+  "enriched_at": "2026-08-12T19:06:01.823174+00:00",
+  "batch_id": "sd_msqgh02428smzgu5m",
+  "profile": {
+    "id": "harris-song",
+    "name": "Harris Song",
+    "city": "Los Angeles Metropolitan Area",
+    "country_code": "US",
+    "position": null,
+    "about": "harris.song@ucla.edu",
+    "current_company": {
+      "link": "https://www.linkedin.com/company/google?trk=public_profile_topcard-current-company",
+      "name": "Google",
+      "company_id": "google",
+      "location": null
+    },
+    "experience": null,
+    "url": "https://be.linkedin.com/in/Harris-song",
+    "educations_details": "UCLA",
+    "education": null,
+    "avatar": "https://media.licdn.com/dms/image/v2/D5603AQE6GS-h8OP9rQ/profile-displayphoto-scale_200_200/B56ZlBGSUyJ4AY-/0/1757733791857?e=2147483647&v=beta&t=B0nYKGIlsdBvrWY9LdlA20jI3_frWJoyqI_qCbemvY8",
+    "volunteer_experience": [
+      {
+        "duration": "Sep 2024 \u00b7 - Present \u00b7 \n\n2 years",
+        "duration_short": "- Present",
+        "info": "Supporting UCLA's hackathon at lahacks.com",
+        "start_date": "Sep 2024",
+        "subtitle": "LA Hacks",
+        "title": "Organizer"
+      }
+    ],
+    "followers": 728,
+    "connections": 500,
+    "current_company_company_id": "google",
+    "current_company_name": "Google",
+    "location": null,
+    "input_url": "https://www.linkedin.com/in/harris-song",
+    "linkedin_id": "harris-song",
+    "activity": null,
+    "linkedin_num_id": "565940619",
+    "banner_image": "https://media.licdn.com/dms/image/v2/D5616AQHdv_Q4u99yqw/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1727033396288?e=2147483647&v=beta&t=yYMflcEYO7mHSnz4yni8mfrHUA0giAUwWrCC_gnlffY",
+    "honors_and_awards": [
+      {
+        "title": "FIRST Tech Challenge Winning Alliance Captain (1 of 7000+)",
+        "publication": "FIRST Robotics",
+        "date": null,
+        "description": "Won Worlds"
+      }
+    ],
+    "similar_profiles": [],
+    "default_avatar": false,
+    "memorialized_account": false,
+    "bio_links": [],
+    "first_name": "Harris",
+    "last_name": "Song",
+    "influencer": false,
+    "timestamp": "2026-08-12T19:02:12.275Z",
+    "input": {
+      "url": "https://www.linkedin.com/in/harris-song"
+    }
+  },
+  "local_photo": "data\\linkedin_photos\\harris-song__usr-hYmo8mZPSUjLfyE.jpg"
+}

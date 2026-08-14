@@ -1,0 +1,68 @@
+{
+  "luma_user_id": "usr-cStOPO5QJjopiBn",
+  "csv_name": "maruthi",
+  "csv_linkedin": "https://www.linkedin.com/in/maruthivemula",
+  "enriched_at": "2026-08-12T19:12:29.394635+00:00",
+  "batch_id": "sd_msqgtpzbeylkhkm9p",
+  "profile": {
+    "id": "maruthivemula",
+    "name": "Maruthi V.",
+    "city": "Concord, North Carolina, United States",
+    "country_code": "US",
+    "position": null,
+    "about": null,
+    "current_company": {
+      "location": null
+    },
+    "experience": null,
+    "url": "https://lb.linkedin.com/in/Maruthivemula",
+    "education": null,
+    "avatar": "https://media.licdn.com/dms/image/v2/D4E03AQHjwI8EB4XWyQ/profile-displayphoto-shrink_200_200/B4EZZ4b5noHQAY-/0/1745777302331?e=2147483647&v=beta&t=4jP-QYTBEE8J_SAmzZUT9YTSia2wihzJL-THB3OxjT0",
+    "followers": 1303,
+    "connections": 500,
+    "publications": [
+      {
+        "title": "Advanced Dental Implant System Classification with Pre-trained CNN Models and Multi-branch Spectral Channel Attention Networks",
+        "subtitle": "Acadlore Transactions on AI and Machine Learning",
+        "date": "May 15, 2024"
+      },
+      {
+        "title": "Cryptocurrency Price Prediction with LSTM and Transformer Models Leveraging Momentum and Volatility Technical Indicators",
+        "subtitle": "2023 IEEE 3rd International Conference on Data Science and Computer Application (ICDSCA)",
+        "date": "January 24, 2024"
+      },
+      {
+        "title": "Doxorubicin Efficacy Prediction for Glioblastomas Using Deep Learning and Differnetial Equations",
+        "subtitle": "Intelligence-Based Medicine",
+        "date": "October 4, 2023"
+      },
+      {
+        "title": "Advancing Sleep Stage Classification with EEG Signal Analysis: LSTM Optimization Using Puffer Fish Algorithm and Explainable AI",
+        "subtitle": "International Journal of Electrical and Electronics Research (IJEER)"
+      },
+      {
+        "title": "Optimizing Software Vulnerability Detection with MDSADNet: A Multi-Scale Convolutional Approach Enhanced by Mantis-Inspired Optimization",
+        "subtitle": "Information Dynamics and Applications"
+      }
+    ],
+    "location": "Concord",
+    "input_url": "https://www.linkedin.com/in/maruthivemula",
+    "linkedin_id": "maruthivemula",
+    "activity": null,
+    "linkedin_num_id": "920082946",
+    "banner_image": "https://media.licdn.com/dms/image/v2/D4E16AQEx02PIMD1WXQ/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1714510798074?e=2147483647&v=beta&t=PAzx-dYPbV-X70d2PKJX2JWq6K-n0BnP7bP4hn14gCU",
+    "honors_and_awards": null,
+    "similar_profiles": [],
+    "default_avatar": false,
+    "memorialized_account": false,
+    "bio_links": [],
+    "first_name": "Maruthi",
+    "last_name": "V.",
+    "influencer": false,
+    "timestamp": "2026-08-12T19:11:42.834Z",
+    "input": {
+      "url": "https://www.linkedin.com/in/maruthivemula"
+    }
+  },
+  "local_photo": "data\\linkedin_photos\\maruthivemula__usr-cStOPO5QJjopiBn.jpg"
+}

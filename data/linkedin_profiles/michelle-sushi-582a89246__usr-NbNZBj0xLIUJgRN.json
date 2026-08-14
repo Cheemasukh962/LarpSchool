@@ -1,0 +1,42 @@
+{
+  "luma_user_id": "usr-NbNZBj0xLIUJgRN",
+  "csv_name": "Michelle Su",
+  "csv_linkedin": "https://www.linkedin.com/in/michelle-sushi-582a89246",
+  "enriched_at": "2026-08-12T19:13:35.727555+00:00",
+  "batch_id": "sd_msqguuzo2o546dm49e",
+  "profile": {
+    "id": "michelle-sushi-582a89246",
+    "name": "Michelle Su",
+    "city": "Sudbury, Massachusetts, United States",
+    "country_code": "US",
+    "position": null,
+    "about": null,
+    "current_company": {
+      "location": null
+    },
+    "experience": null,
+    "url": "https://au.linkedin.com/in/Michelle-sushi-582a89246",
+    "education": null,
+    "avatar": "https://static.licdn.com/aero-v1/sc/h/9c8pery4andzj6ohjkjp54ma2",
+    "followers": 1007,
+    "connections": 500,
+    "location": "Sudbury",
+    "input_url": "https://www.linkedin.com/in/michelle-sushi-582a89246",
+    "linkedin_id": "michelle-su-582a89246",
+    "activity": null,
+    "linkedin_num_id": "1023877106",
+    "banner_image": "https://static.licdn.com/aero-v1/sc/h/5q92mjc5c51bjlwaj3rs9aa82",
+    "honors_and_awards": null,
+    "similar_profiles": [],
+    "default_avatar": true,
+    "memorialized_account": false,
+    "bio_links": [],
+    "first_name": "Michelle",
+    "last_name": "Su",
+    "influencer": false,
+    "timestamp": "2026-08-12T19:12:58.166Z",
+    "input": {
+      "url": "https://www.linkedin.com/in/michelle-sushi-582a89246"
+    }
+  }
+}

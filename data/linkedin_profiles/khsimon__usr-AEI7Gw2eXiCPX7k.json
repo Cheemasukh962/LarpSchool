@@ -1,0 +1,283 @@
+{
+  "luma_user_id": "usr-AEI7Gw2eXiCPX7k",
+  "csv_name": "Kaiden Simon",
+  "csv_linkedin": "https://www.linkedin.com/in/khsimon",
+  "enriched_at": "2026-08-12T19:11:36.242075+00:00",
+  "batch_id": "sd_msqgoa0o2hh62sia9d",
+  "profile": {
+    "id": "khsimon",
+    "name": "Kaiden Simon",
+    "city": "San Diego Metropolitan Area",
+    "country_code": "US",
+    "position": null,
+    "about": "I'm Kaiden, an incoming freshman studying CS at UC Santa Cruz. I enjoy learning and\u2026",
+    "current_company": {
+      "link": "https://www.linkedin.com/company/global-water-works?trk=public_profile_topcard-current-company",
+      "name": "Global Water Works",
+      "company_id": "global-water-works",
+      "location": null
+    },
+    "experience": null,
+    "url": "https://vn.linkedin.com/in/Khsimon",
+    "educations_details": "University of California, Santa Cruz",
+    "education": [
+      {
+        "title": "University of California, Santa Cruz",
+        "url": "https://www.linkedin.com/school/ucsc/",
+        "start_year": "2026-06",
+        "end_year": "2030-07",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      },
+      {
+        "start_year": "2023-01",
+        "end_year": "2024-01",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      }
+    ],
+    "recommendations_count": 1,
+    "avatar": "https://media.licdn.com/dms/image/v2/D5603AQH-yvSRG1y0Sw/profile-displayphoto-scale_200_200/B56Z1mbKGrIMAY-/0/1775539890009?e=2147483647&v=beta&t=8lzasY3fvOapkCPcq6CqlMlN__siNQkQ0i3_OITyw7Q",
+    "courses": [
+      {
+        "subtitle": "MATH140",
+        "title": "CALCULUS/ANALYTIC GEOMETRY 1"
+      },
+      {
+        "subtitle": "MATH141",
+        "title": "CALCULUS/ANALYTIC GEOMETRY 2"
+      },
+      {
+        "subtitle": "CINE100",
+        "title": "CINEMA 100"
+      },
+      {
+        "subtitle": "MATH200",
+        "title": "INTRODUCTION TO LINEAR ALGEBRA"
+      },
+      {
+        "subtitle": "CSCI114",
+        "title": "PROGRAMMING FUNDAMENTALS II"
+      },
+      {
+        "subtitle": "CSCI112",
+        "title": "Programming Fundamentals I"
+      },
+      {
+        "subtitle": "SPAN101",
+        "title": "Spanish 1"
+      },
+      {
+        "subtitle": "SPAN102",
+        "title": "Spanish 2"
+      }
+    ],
+    "certifications": [
+      {
+        "subtitle": "Finxter",
+        "title": "Building Complex Multi-Agent Teams and Systems with LangGraph",
+        "credential_url": null,
+        "credential_id": null
+      },
+      {
+        "subtitle": "Udemy",
+        "title": "Video Segmentation with Python using Deep Learning",
+        "credential_url": null,
+        "credential_id": null
+      }
+    ],
+    "recommendations": [
+      "Mary Conley Eggert \u201cI was so fortunate to meet Kaiden through our local DesPlaines River Watershed meeting in Lake County, Illinois. His knowledge of the environment and passion for surfing prompted him to develop Erosia (erosion tracking software), which he kindly let us use to help us quickly see erosion challenges across our County. We subsequently tapped him and his partner Gunoo Shin to guide us in the automation of lake monitoring, which we're confident will save countless hours AND increase the timeliness, consistency and accuracy of our reporting. If you have a dream for using AI to accomplish your goals in a more time-efficient and thorough manner, I encourage you contact Kaiden. He's become our go-to for \"AI\" questions, and he makes working on AI projects fun and easy.\u201d"
+    ],
+    "followers": 699,
+    "connections": 500,
+    "current_company_company_id": "global-water-works",
+    "current_company_name": "Global Water Works",
+    "publications": [
+      {
+        "title": "Deep learning enables fully automated cineCT-based assessment of regional right ventricular function",
+        "subtitle": "European Heart Heart Journal - Imaging Methods and Practice",
+        "date": "February 6, 2026",
+        "description": "We developed and evaluated a fully automated pipeline consisting of two deep learning methods to automate volumetric and regional strain analysis of the RV from contrast-enhanced, ECG-gated cineCT images. The Right Heart Blood Segmenter (RHBS) is a 3D high resolution configuration of nnU-Net to define the endocardial boundary, while the Right Ventricular Wall Labeler (RVWL) is a 3D point cloud-based deep learning method to label the free and septal walls. We trained our models using a diverse cohort of patients with different RV phenotypes and tested in an independent cohort of patients with aortic stenosis undergoing TAVR."
+      }
+    ],
+    "projects": [
+      {
+        "title": "Twilio Conversational RAG Voice Agent",
+        "start_date": "Jan 2026",
+        "description": "Scalable voice agent I built using AssemblyAI for transcription and turn detection, and Speechmatics for Text to Speech. Stores data in Qdrant."
+      },
+      {
+        "title": "Auto YT",
+        "description": "A python project made for automating the creation and uploading of r/AskReddit Youtube videos."
+      },
+      null,
+      null,
+      {
+        "title": "Jacob (Version 2)",
+        "description": "An AI-powered visualization studio. Describe a concept in plain language and the app decides the best way to show it: a clean whiteboard diagram, an animated Manim video, or an interactive 2D/3D graph, then builds it for you in real time."
+      }
+    ],
+    "location": null,
+    "input_url": "https://www.linkedin.com/in/khsimon",
+    "linkedin_id": "khsimon",
+    "activity": [
+      {
+        "interaction": null,
+        "link": "https://www.linkedin.com/posts/jia-chen-in_consistency-and-reliability-are-two-qualities-activity-7491870859343622144-Qhmm",
+        "title": "consistency and reliability are two qualities that are really hard to beat. someone can legitimately keep showing up (with even just a bit of a learning curve) and those traits carry a person forward nicely.",
+        "img": null,
+        "id": "7491870859343622144"
+      },
+      {
+        "interaction": null,
+        "link": "https://www.linkedin.com/posts/khsimon_y-combinator-startup-school-was-no-joke-activity-7487622517575077889-Uh9T",
+        "title": "Y Combinator startup school was no joke. I got to hear from top voices like Sam Altman, Alexandr Wang, Jensen Huang, and so many more. In my opinion, though, the best part of the event was the fact you could literally just walk up to some of the most cracked engineers on the planet and strike up a conversation about literally anything. I got to meet so many incredible people working on things ranging from rockets to literal clones of human brains to simulate how they may respond to marketing material. Super grateful to all the cool people I met. If I didn\u2019t get the chance to talk to you, I hope I get the chance in the future. ...more",
+        "img": null,
+        "id": "7487622517575077889"
+      },
+      {
+        "interaction": null,
+        "link": "https://www.linkedin.com/posts/khsimon_ycsus-yc-sf-activity-7485475456968720384-O_AZ",
+        "title": "I\u2019ll be in SF 1 extra day after YC Start Up School (Monday). I\u2019m looking to spend the day meeting and learning from cracked engineers, founders, etc. I\u2019m also looking to meet with you if you are cracked at growth. Connect and shoot me a message and we\u2019ll find a time to meet up and talk #ycsus #yc #sf #bayarea #ycstartupschool",
+        "img": null,
+        "id": "7485475456968720384"
+      },
+      {
+        "interaction": "Kaiden Simon shared this",
+        "link": "https://www.linkedin.com/posts/khsimon_use-ai-correctly-and-you-can-save-lives-activity-7475327282589409280-7fiV",
+        "title": "Use AI correctly, and you can save lives. When I worked with bioengineers at UCSD, we were able to find a proper use of AI that allowed clinicians to easily see how much strain a heart disease patient\u2019s heart went through in a matter of seconds instead of the hours it initially took when they had to do things manually. That process is now patent pending. Just like how we were able to transform an originally very time consuming task in cardiology, you can change the entire trajectory of your business. By combining software engineering with the natural language processing capabilities of LLMs, you can now implement interconnected systems that allow you to focus more of your bandwidth on your customers\u2014not paperwork, lead scoring, and qualifying. ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQEuFmqe8qG4lA/feedshare-shrink_1280/B56Z72yjYTKEAQ-/0/1782256908044?e=2147483647&v=beta&t=0TKepPdgqpmtSNvYKRqd6__1H1KG3UeWAa4BWsabhIM",
+        "id": "7475327282589409280"
+      },
+      {
+        "interaction": "Kaiden Simon shared this",
+        "link": "https://www.linkedin.com/posts/khsimon_business-owners-heres-a-quick-tutorial-activity-7474942460985638912-qM0t",
+        "title": "Business owners, here\u2019s a quick tutorial on how to light cash on fire. 1. Bring in an AI consultant and speak with them without your employees who will end up using these tools in the room. They will be thrilled to spend extra effort learning a new process instead of having a say on how the workflow will operate (gasoline) 2. Don\u2019t spend time validating your AI outputs. Let your tools generate slop and incorrect information. Who cares if it makes your clients angry? (light the match) 3. Let yourself get trampled by your competitors by thinking that you\u2019re ahead because you automated your emails, follow-up, and appointment scheduling. (throw the match in the gasoline) Even if these all seem like common sense things to not do, I unfortunately see business owners make these mistakes all the time. They aren\u2019t purposely trying to. The problem is that they simply don\u2019t have the bandwidth to make sure AI is being implemented into their business the right way. ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQHpfmc-xLhB4Q/feedshare-shrink_1280/B56Z7xUjrpK0AM-/0/1782165158912?e=2147483647&v=beta&t=S5TpArF7E-iStWZFFlnhj91u4SyTZheaQW644GLhp2s",
+        "id": "7474942460985638912"
+      },
+      {
+        "interaction": "Kaiden Simon shared this",
+        "link": "https://www.linkedin.com/posts/khsimon_benchmark-your-ai-tools-business-owners-activity-7473850081926893568-3Tui",
+        "title": "Benchmark your AI tools. Business owners, if you\u2019re using AI to code, that\u2019s great. Who isn\u2019t? But if you are, PLEASE don\u2019t \u201cvibe check\u201d things like RAG. just because your chatbot gets 3 easy questions correct doesn\u2019t mean your tool is good. Unless you test your app 100 times on metrics like faithfulness and context recall, you will never see where your RAG fails, and how frequently it fails. That means your blindly serving information to your clients without knowing how often it\u2019s right. ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQFzklsZOzrIOA/feedshare-shrink_1280/B56Z7hzCzTJAAM-/0/1781904715188?e=2147483647&v=beta&t=mv63ig2iUleygFHWLyn4jPVlOxLBP-4rwpuTe409J08",
+        "id": "7473850081926893568"
+      },
+      {
+        "interaction": "Kaiden Simon shared this",
+        "link": "https://www.linkedin.com/posts/khsimon_ai-execs-csuite-activity-7473484284717101058-qjJ5",
+        "title": "Your employees aren\u2019t using your AI tools. I got off the phone with an AI consultant the other day and what he told me was shocking. Execs and owners push for AI tool use by their employees. Their employees smile, nod, and go back to how they did it before. Here\u2019s the brutal truth: AI adoption is great, until you think about the extra bandwidth your employees have to spend learning how to use them. If the AI tool your paying for doesn\u2019t seemlessly integrate with your employees\u2019 current flow, consider your money wasted. #ai #execs #csuite #executive #ceo #businessowner #SMB #efficiency #coo ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQGvA0oBVlVHaw/feedshare-image-high-res/B56Z7cmWwXIUAU-/0/1781817503165?e=2147483647&v=beta&t=dU6yEpv4mO_7VG7sgqfcuqmizYR-fvUD86uuXBq7980",
+        "id": "7473484284717101058"
+      },
+      {
+        "interaction": "Kaiden Simon shared this",
+        "link": "https://www.linkedin.com/posts/khsimon_businessowner-ceo-csuite-activity-7473124629189009408-Tj3P",
+        "title": "Do this before your competitors steamroll you. If you think you're ahead of your competitors because you have an email reply agent, you\u2019re going to get steamrolled. While you celebrate the fact that you don\u2019t have to read entire PDFs anymore, your competitor just built custom software that: 1. conducts deep research on prospects 2. qualifies them 3. generates tailored cold call scripts 4. Clones their voice 5. builds a digital twin of them to practice pitching on. It\u2019s not your fault. As a business owner, your job is to keep things running. You don\u2019t have the bandwidth to dive deep enough into tech to know that what I described was even possible. That\u2019s where we come in. As highly technical builders, we are opening our calendar to sit down with you, talk about your operations, and tell you what is humanly possible with the current tech out there. $0 cost. Connect with me and comment \u201cLEARN\u201d. #businessowner #ceo #csuite #business #executive #cfo #coo #cmon ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQE5JSsBeQdunw/feedshare-image-high-res/B56Z7XfP7rIQAU-/0/1781731753961?e=2147483647&v=beta&t=LtdQ3oeuThjcjU9DA3QK9iL_OgO_fQRu68dsJjT80_M",
+        "id": "7473124629189009408"
+      },
+      {
+        "interaction": "Kaiden Simon shared this",
+        "link": "https://www.linkedin.com/posts/khsimon_5-to-20-hours-down-to-5-minutes-that-activity-7472720890003185665-ZFdR",
+        "title": "5 to 20+ hours. Down to 5 minutes. That was our client's data workflow before and after they came to us. Go out to a lake. Collect water quality data. Clean the messy entries by hand. Build the Excel graphs. Upload everything to a map. So much manual cleaning that mistakes kept creeping in. We didn't tell them to use ChatGPT and call it a day. We rebuilt the entire system. Now they drag and drop their Excel files. The tool cleans the data, builds the graphs, updates the map. Done. They're non-technical. So the whole thing had to feel like nothing changed for them, except the 20 hours. This is what most people miss about AI in their business. It's not the chatbot. It's not the automated email. It's about combining the power of AI and software engineering to create systems that automate internal operations on the macro-scale scale. What's the one process in your business that's still eating hours every week? ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQEjUy9GYUlGWA/feedshare-image-high-res/B56Z7RwDa_JAAY-/0/1781635495829?e=2147483647&v=beta&t=4gCPF85yprJyMnK2FOkJxLeWuawOe7hIwMa5xnpXvuE",
+        "id": "20"
+      },
+      {
+        "interaction": "Kaiden Simon replied to a comment 2w",
+        "link": null,
+        "title": "Yashasree Gadipalli Likewise!",
+        "img": null,
+        "id": null
+      },
+      {
+        "interaction": "Kaiden Simon liked this",
+        "link": "https://www.linkedin.com/posts/huge-props-to-artificial-societies-for-doing-activity-7493261566688219136-7beA",
+        "title": "Huge props to Artificial Societies for doing this. They put their models on the line and tried to predict what our webinar audience would say before they said it. I was genuinely impressed with the accuracy of their predictions. It wasn't obvious to me beforehand that people would have given the answers they gave. Cool tech, and a great idea Rizwan Iqbal to test it out live",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQGeoM9hkeXG7w/feedshare-shrink_800/B4EZ_rktJCHMAc-/0/1786363696327?e=2147483647&v=beta&t=glzxFK-sVnNdmTl01mdBcIuqz7FfxKL9xblxVVtItt0",
+        "id": "7493261566688219136"
+      },
+      {
+        "interaction": "Kaiden Simon liked this",
+        "link": "https://www.linkedin.com/posts/y-combinator_input-the-tumor-output-the-vaccine-gamgee-activity-7492989463275675648-67Nx",
+        "title": "Input the tumor. Output the vaccine. Gamgee Technologies is building software that turns a dog\u2019s tumor and healthy DNA into a personalized mRNA cancer vaccine design. Founder Paul Steven Conyngham spent 17 years in machine learning and had no biology background. When his dog Rosie was dying of cancer, he taught himself genomics, designed a vaccine around her tumor mutations, and coordinated the entire path from sequencing through manufacture and administration. Several of Rosie\u2019s tumors shrank by 50-75%. Doing it by hand took a year and cost around $20,000. Gamgee\u2019s target is a vaccine design in 48 hours at an end-to-end cost of $2,000. More than 300 dogs are already on the waitlist, and the company is preparing a clinician-led trial in 30 dogs to evaluate safety, immune response, and clinical outcomes. https://www.gamgee.io Congrats on the launch, Paul! \ud83d\ude80 https://lnkd.in/gbmFc2Kj",
+        "img": "https://media.licdn.com/dms/image/v2/D5605AQEFSjSsBr8CNg/videocover-high/B56Z_wudN.GcBM-/0/1786450146416?e=2147483647&v=beta&t=_QNf8BLiUwd0DlhQTbueYDUYExEJIQHqSEPbvqizCA0",
+        "id": "7492989463275675648"
+      },
+      {
+        "interaction": "Kaiden Simon liked this",
+        "link": "https://www.linkedin.com/posts/snelson22_voiceai-conversationalai-ai-activity-7492580566031245313-P2_W",
+        "title": "Excited to welcome Bland to the Telarus CX portfolio - and even more excited to have the team joining us this week at Telarus Partner Summit in Dallas! Bland brings enterprise-grade Voice AI built for high-stakes, regulated environments, with dedicated, self-hosted infrastructure designed to give customers greater privacy, control, and data sovereignty. And with 500M+ AI-powered calls already placed, they\u2019re bringing serious production scale to use cases across customer support, sales, and operational workflows. Welcome to the Telarus family - we\u2019re excited for what\u2019s ahead! Geoff Chretien Isaiah N. Granet Sobhan Nejad Noah Kravitz Terina Delacasas Brent Wilford Michael Baillargeon Josh Lupresto, CISSP Jason Stein Phillip Brekke Anton Loon Sean Kane Tim Basa Dan Foster #VoiceAI #ConversationalAI #AI #CustomerExperience #CX #ContactCenter #EnterpriseAI #TechnologyAdvisors #Telarus #TelarusPartnerSummit #BlandAI",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQFJvW_-mx2g7Q/feedshare-shrink_800/B56Z_dCXmJH0Ac-/0/1786119813761?e=2147483647&v=beta&t=S6Q_HlF-EnXW07FdM_MEVkVw_caEhNlPY5eWCKlxT9M",
+        "id": "7492580566031245313"
+      },
+      {
+        "interaction": "Kaiden Simon liked this",
+        "link": "https://www.linkedin.com/posts/gabriel-birnbaum-57ba3314a_were-hiring-interns-at-yn-and-ill-be-at-activity-7492676798145761280-Gynn",
+        "title": "We're hiring interns at Y/n and I'll be at the YC Startup Internship Expo on Aug 15 in SF! If you're interested in building the future of entertainment, come meet us there. Link to sign up: https://yc.link/r/vUFmXOmj",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQHQeXQulY1cZQ/feedshare-shrink_1280/B56Z_tV2BZGUAM-/0/1786393354585?e=2147483647&v=beta&t=a3tjj9GDKKomUdx_J45hxEmMJolxFt7BQbjL-SXdyQU",
+        "id": "7492676798145761280"
+      },
+      {
+        "interaction": "Kaiden Simon liked this",
+        "link": "https://www.linkedin.com/posts/jia-chen-in_consistency-and-reliability-are-two-qualities-activity-7491870859343622144-Qhmm",
+        "title": "consistency and reliability are two qualities that are really hard to beat. someone can legitimately keep showing up (with even just a bit of a learning curve) and those traits carry a person forward nicely.",
+        "img": null,
+        "id": "7491870859343622144"
+      },
+      {
+        "interaction": "Kaiden Simon liked this",
+        "link": "https://www.linkedin.com/posts/ronald-van-loon-5411a_ai-conversationalai-enterpriseai-activity-7491410661240115200-E24L",
+        "title": "A 49-year-old father lost his voice to a stroke. AI gave it back to him. Not a robotic imitation. His own voice, rebuilt. Last November, James lost his ability to speak. His kids missed his laugh. His wife missed hearing him say her name. Then Bland, an AI voice company, used just 5 seconds of old footage to recreate his voice with its new Speech v3 Human Speech Engine. His tone. His emotion. Even his laugh. The first thing James said was: \u201cI got my voice back.\u201d For business leaders, the significance goes far beyond an impressive AI demo. Voice is becoming the next major interface between people and AI. As speech models become more realistic, they could reshape customer service, healthcare, accessibility and sales. Bland says Speech v3 was trained on more than 100 million real human conversations and ranks 1st on Audio Realism benchmarks. But the benchmark isn\u2019t the most important part. The real opportunity is building AI experiences that don\u2019t just automate communication, but preserve the qualities that make communication feel human. Because as AI becomes more capable, trust, authenticity, and emotional connection may become the real differentiators. As voice AI becomes nearly indistinguishable from human speech, where\u2019s the biggest opportunity to use it without losing the human connection? Video: Bland #AI #ConversationalAI #EnterpriseAI #ArtificialIntelligence #CustomerExperience #Technology",
+        "img": "https://media.licdn.com/dms/image/v2/D4D05AQE93TIebohSOg/videocover-high/B4DZ_bWPkrKIBQ-/0/1786091471232?e=2147483647&v=beta&t=CU_qQVypYrvCuTk0UMscXTaWPMCcc-ppSytdv5Eu07g",
+        "id": "7491410661240115200"
+      },
+      {
+        "interaction": "Kaiden Simon liked this",
+        "link": "https://www.linkedin.com/posts/design-arena-ai_breaking-bland-speech-v3-by-bland-debuts-activity-7490448636447760384-BfsN",
+        "title": "BREAKING: Bland Speech v3 by Bland debuts as the most human-sounding TTS model on our newest evaluation: Audio Realism Bench. Traditional speech benchmarks increasingly struggle to separate frontier systems that all sound clean, fluent, and intelligible. Audio Realism Bench instead asks a harder question: when two voices read the same transcript, which one sounds more like a real person? Vetted native speakers evaluate recordings blindly across phone agents, conversational assistants, and spoken explainers, judging the subtle qualities that define human-like speech. We also place real human recordings directly into the evaluation pool, testing whether evaluators can distinguish TTS models from actual human speech. Bland Speech v3 takes the top spot in our initial rankings, followed by MAI-Voice-2 by Microsoft AI and Grok TTS by SpaceXAI , all demonstrating important steps toward voice systems capable of sustaining genuinely human-feeling interactions. Thank you to the teams at Bland , Cartesia , OpenAI , smallest.ai , and SpaceXAI for aiding with initial integration. We're excited to see how this leaderboard continues to develop. See the full methodology here: https://lnkd.in/gTKt5Tp6 .",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQFGD95RTiJdhg/feedshare-shrink_800/B56Z_NrWCOJ8Ac-/0/1785862119805?e=2147483647&v=beta&t=gkIDgPurHWF4MfIzciUvrxb_WhwZiW2xL4DoresqhfA",
+        "id": "7490448636447760384"
+      },
+      {
+        "interaction": "Kaiden Simon liked this",
+        "link": "https://www.linkedin.com/posts/hasantoxr_ok-this-is-genuinely-impressive-bland-just-activity-7490453434916069376-f0_U",
+        "title": "Ok this is genuinely impressive. Bland just launched a new TTS model called Bland TTS V3, and it's the first AI voice I've heard that actually sounds like a person on the other end of the line. The pauses land in the right places. It says names without butchering them. Numbers come out the way a human would say them, not one digit at a time. There's actual emotion in it. That's the stuff every other voice model gets wrong the second you put it on a real call. Build with it: studio.bland.ai/signup",
+        "img": "https://media.licdn.com/dms/image/v2/D5605AQHjUbalRPm0-g/videocover-high/B56Z_NvrTfJkBM-/0/1785863257182?e=2147483647&v=beta&t=kWYOWppleF0h4KVJwEESOI9O6vvxaq_KvOi7ILjEfys",
+        "id": "7490453434916069376"
+      }
+    ],
+    "linkedin_num_id": "1330542191",
+    "banner_image": "https://media.licdn.com/dms/image/v2/D5616AQE4M_C2SZ1byw/profile-displaybackgroundimage-shrink_200_800/B56Z.3PcWxIMAU-/0/1785485706902?e=2147483647&v=beta&t=5yJEtyUh06LaW7OZRhADr_0Vpy5O51Yq7wVAUu7r8qk",
+    "honors_and_awards": [
+      {
+        "title": "People's choice award",
+        "publication": "International Erosion Control Association (IECA)",
+        "date": "2025-02-01T00:00:00.000Z",
+        "description": "My team's presentation at the International Erosion Control Association Conference (IECA) (The world's largest erosion control conference) was selected by industry professionals, PhDs, and industry experts as the best presentation"
+      },
+      {
+        "title": "BRONCO STABLE AWARD",
+        "publication": "Lisa Barnette",
+        "date": null,
+        "description": "Nominated by my engineering teacher for helping students in class with their projects and educating students about how to make projects with AI"
+      }
+    ],
+    "similar_profiles": [],
+    "default_avatar": false,
+    "memorialized_account": false,
+    "bio_links": [],
+    "first_name": "Kaiden",
+    "last_name": "Simon",
+    "influencer": false,
+    "timestamp": "2026-08-12T19:07:30.997Z",
+    "input": {
+      "url": "https://www.linkedin.com/in/khsimon"
+    }
+  },
+  "local_photo": "data\\linkedin_photos\\khsimon__usr-AEI7Gw2eXiCPX7k.jpg"
+}

@@ -1,0 +1,123 @@
+{
+  "luma_user_id": "usr-eXClwAqiRDCHFIG",
+  "csv_name": "Abhilash Chowdhary",
+  "csv_linkedin": "https://www.linkedin.com/in/abhilashchowdhary",
+  "enriched_at": "2026-08-12T18:55:27.672610+00:00",
+  "batch_id": "sd_msqg7js7a7y0irwot",
+  "profile": {
+    "id": "abhilashchowdhary",
+    "name": "Abhilash Chowdhary",
+    "city": "San Francisco, California, United States",
+    "country_code": "US",
+    "position": null,
+    "about": "Love building things. A software engineer with vast experience in shipping products\u2026",
+    "current_company": {
+      "link": "https://www.linkedin.com/company/crustdata?trk=public_profile_topcard-current-company",
+      "name": "Crustdata",
+      "company_id": "crustdata",
+      "location": null
+    },
+    "experience": null,
+    "url": "https://ua.linkedin.com/in/abhilashchowdhary",
+    "people_also_viewed": [
+      {
+        "profile_link": "https://www.linkedin.com/in/sihagrahul91",
+        "name": "Rahul S.",
+        "about": "Stanford University",
+        "location": "25K followers San Francisco Bay Area"
+      },
+      {
+        "profile_link": "https://www.linkedin.com/in/aishvaryav",
+        "name": "Aishvarya Singh",
+        "about": "Scaler AI Labs",
+        "location": "13K followers San Francisco Bay Area"
+      },
+      {
+        "profile_link": "https://www.linkedin.com/in/pandianraju",
+        "name": "Pandian Raju",
+        "about": "Rubrik",
+        "location": "3K followers Palo Alto, CA"
+      },
+      {
+        "profile_link": "https://www.linkedin.com/in/neil-ge-162426b0",
+        "name": "Neil Ge",
+        "about": "Google",
+        "location": "3K followers Sunnyvale, CA"
+      },
+      {
+        "profile_link": "https://www.linkedin.com/in/swapneelnaphade17",
+        "name": "Swapneel Uday Naphade",
+        "about": "Corvus Robotics",
+        "location": "4K followers San Francisco Bay Area"
+      },
+      {
+        "profile_link": "https://www.linkedin.com/in/krishnavishal",
+        "name": "Vishal Krishna",
+        "about": "Microsoft",
+        "location": "3K followers New York City Metropolitan Area"
+      },
+      {
+        "profile_link": "https://www.linkedin.com/in/satya-umd",
+        "name": "Satya Amarapalli",
+        "about": "General Motors",
+        "location": "2K followers San Francisco Bay Area"
+      },
+      {
+        "profile_link": "https://ca.linkedin.com/in/zihanwang1",
+        "name": "Zihan Wang",
+        "about": "Okta, Inc.",
+        "location": "6K followers Canada"
+      },
+      {
+        "profile_link": "https://in.linkedin.com/in/vivek651",
+        "name": "Vivek Singh",
+        "about": "BlackRock",
+        "location": "4K followers Gurugram"
+      },
+      {
+        "profile_link": "https://www.linkedin.com/in/karankalra20",
+        "name": "Karan Kalra",
+        "about": "Adobe",
+        "location": "5K followers San Jose, CA"
+      }
+    ],
+    "educations_details": "Y Combinator",
+    "education": null,
+    "avatar": "https://media.licdn.com/dms/image/v2/D5603AQE-Si3YAvrTqA/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1691741738656?e=2147483647&v=beta&t=IfUaU3Eoo_QSDZE4V103RvNSEB-lYq3CoQ7D_AOCCzY",
+    "followers": 22602,
+    "connections": 500,
+    "current_company_company_id": "crustdata",
+    "current_company_name": "Crustdata",
+    "publications": [
+      {
+        "title": "Terrain Aided Navigation for Autonomous Underwater Vehicles with Local Gaussian Processes",
+        "date": "July 10, 2017",
+        "description": "Navigation of autonomous underwater vehicles (AUVs) in the subsea environment is particularly challenging due to the unavailability of GPS because of the rapid attenuation of electromagnetic waves in water. As a result, the AUV requires alternative methods for position estimation. This thesis describes a terrain-aided navigation approach for an AUV where, with the help of a prior depth map, the AUV localizes itself using altitude measurements from a multibeam DVL. The AUV simultaneously builds a probabilistic depth map of the seafloor as it moves to unmapped locations. The main contribution of this thesis is a new, scalable, and on-line terrain-aided navigation solution for AUVs which does not require the assistance of a support surface vessel. Simulation results on synthetic data and experimental results from AUV field trials in Panama City, Florida are also presented."
+      }
+    ],
+    "location": "San Francisco",
+    "input_url": "https://www.linkedin.com/in/abhilashchowdhary",
+    "linkedin_id": "abhilashchowdhary",
+    "activity": null,
+    "linkedin_num_id": "206294800",
+    "banner_image": "https://media.licdn.com/dms/image/v2/D4D16AQFyjB5aiHP5Yw/profile-displaybackgroundimage-shrink_200_800/B4DZYQ.iOZHwAY-/0/1744041551978?e=2147483647&v=beta&t=418zwT-9ohpKYylT94p-kEgCcdpwBf0GHjoTavvPwhM",
+    "honors_and_awards": null,
+    "similar_profiles": [],
+    "default_avatar": false,
+    "memorialized_account": false,
+    "bio_links": [
+      {
+        "title": "Company Website",
+        "link": "https://crustdata.com/?utm_source=linkedin&utm_medium=organic_social&utm_campaign=abhilash_bio"
+      }
+    ],
+    "first_name": "Abhilash",
+    "last_name": "Chowdhary",
+    "influencer": false,
+    "timestamp": "2026-08-12T18:54:30.817Z",
+    "input": {
+      "url": "https://www.linkedin.com/in/abhilashchowdhary"
+    }
+  },
+  "local_photo": "data\\linkedin_photos\\abhilashchowdhary__usr-eXClwAqiRDCHFIG.jpg"
+}

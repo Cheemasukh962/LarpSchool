@@ -1,0 +1,320 @@
+{
+  "luma_user_id": "usr-3gAYhejjnUc1xMr",
+  "csv_name": "Ashutosh Sundresh",
+  "csv_linkedin": "https://www.linkedin.com/in/asund",
+  "enriched_at": "2026-08-12T18:58:28.964202+00:00",
+  "batch_id": "sd_msqgad6c2eeefcaqas",
+  "profile": {
+    "id": "asund",
+    "name": "Ashutosh Sundresh",
+    "city": "Los Angeles, California, United States",
+    "country_code": "US",
+    "position": null,
+    "about": "Interested in infrastructure and systems broadly (PLs, compilers, operating systems\u2026",
+    "current_company": {
+      "link": "https://www.linkedin.com/company/brainco-ai?trk=public_profile_topcard-current-company",
+      "name": "Brain Co.",
+      "company_id": "brainco-ai",
+      "location": null
+    },
+    "experience": null,
+    "url": "https://www.linkedin.com/in/Asund",
+    "educations_details": "UCLA",
+    "education": [
+      {
+        "title": "UCLA",
+        "url": "https://www.linkedin.com/school/ucla/",
+        "start_year": "2024",
+        "end_year": "2028",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      },
+      {
+        "end_year": "2026",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      },
+      {
+        "start_year": "2021",
+        "end_year": "2024",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      }
+    ],
+    "avatar": "https://media.licdn.com/dms/image/v2/D5603AQE5EAqxb_CI6g/profile-displayphoto-scale_200_200/B56Z.kSxHyJoAc-/0/1785167813771?e=2147483647&v=beta&t=vb-ieDHZt_pIGJSpo53JiIuRSClXutFDfglJ9C5HbcI",
+    "courses": [
+      {
+        "subtitle": "COM SCI 180",
+        "title": "Algorithms and Complexity"
+      },
+      {
+        "subtitle": "COM SCI 174A",
+        "title": "Computer Graphics"
+      },
+      {
+        "subtitle": "EC ENGR C247B",
+        "title": "Deep Learning (Graduate)"
+      },
+      {
+        "subtitle": "ENGR 1ML",
+        "title": "Engineering Design: Machine Learning"
+      },
+      {
+        "subtitle": "ENGR 1RK",
+        "title": "Engineering Design: Rocket Engineering"
+      },
+      {
+        "subtitle": "COM SCI 111",
+        "title": "Operating Systems Principles"
+      },
+      {
+        "subtitle": "MATH 170E",
+        "title": "Probability"
+      },
+      {
+        "subtitle": "COM SCI 35L",
+        "title": "Software Construction"
+      },
+      {
+        "subtitle": "COM SCI 188",
+        "title": "Special Courses: Artificial Intelligence for Human Interaction"
+      },
+      {
+        "subtitle": "COM SCI 188",
+        "title": "Special Courses: Robotics"
+      }
+    ],
+    "certifications": [
+      {
+        "meta": "Issued Feb 2025",
+        "subtitle": "Susquehanna International Group",
+        "title": "Technology Discovery Day",
+        "credential_url": null,
+        "credential_id": null
+      },
+      {
+        "meta": "Issued Mar 2023",
+        "subtitle": "Minist\u00e8re de l'\u00c9ducation nationale",
+        "title": "DELF B1",
+        "credential_url": null,
+        "credential_id": null
+      }
+    ],
+    "volunteer_experience": [
+      {
+        "duration": "Oct 2024 \u00b7 - Present \u00b7 \n\n1 year 11 months",
+        "duration_short": "- Present",
+        "info": "Handling sponsorships, send inquiries to ashutosh@lahacks.com. Built web dashboards, hacker application site, and statistical plagiarism detection tool for Southern California\u2019s largest hackathon.",
+        "start_date": "Oct 2024",
+        "subtitle": "LA Hacks",
+        "title": "Organizer"
+      },
+      {
+        "duration": "Sep 2025 \u00b7 - \nDec 2025 \u00b7 \n4 months",
+        "duration_short": "- \nDec 2025",
+        "start_date": "Sep 2025",
+        "subtitle": "Upsilon Pi Epsilon at UCLA",
+        "title": "Undergraduate Tutor"
+      },
+      {
+        "duration": "Jan 2025 \u00b7 - \nJun 2026 \u00b7 \n1 year 6 months",
+        "duration_short": "- \nJun 2026",
+        "start_date": "Jan 2025",
+        "subtitle": "VEST at UCLA",
+        "title": "Founding Member"
+      },
+      {
+        "duration": "Jan 2025 \u00b7 - \nMay 2025 \u00b7 \n5 months",
+        "duration_short": "- \nMay 2025",
+        "info": "Built ground control and thermal vacuum chamber (TVAC) software for UCLA ELFIN CubeSat (Experimental Space Physics Group).",
+        "start_date": "Jan 2025",
+        "subtitle": "UCLA ELFIN CubeSat",
+        "title": "Ground Software Engineer"
+      }
+    ],
+    "followers": 2419,
+    "connections": 500,
+    "current_company_company_id": "brainco-ai",
+    "current_company_name": "Brain Co.",
+    "publications": [
+      {
+        "title": "Effects of Short-Term Rental Services on the Housing Crisis of Major Cities",
+        "subtitle": "Ceteris Paribus, Shri Ram College of Commerce",
+        "date": "December 29, 2024"
+      }
+    ],
+    "projects": [
+      {
+        "title": "MiniR (Embedded R-Like Programming Language)",
+        "start_date": "Jan 2026",
+        "description": "A from-scratch R-like interpreter and REPL (C++20) intended for Casio fx-CP400 family of calculators, including a custom lexer, expression parser, and evaluator that support R-style vectors, matrices, data.frames, subsetting, recycling rules, NA/NaN/Inf semantics, and many core builtins. Designed a compact runtime with attribute-aware values and lightweight containers tuned for constrained embedded environments, plus a simple desktop CLI/REPL interface that can also be embedded as a library."
+      },
+      {
+        "title": "3D First-Person Pac-Man",
+        "start_date": "Dec 2025",
+        "description": "A 3D first-person Pac-Man game (Three.js, TypeScript, Vite) with dual-camera rendering (main view + minimap) in a single render pass. Implemented post-processing pipeline with dynamic bloom effects, procedural environment maps for real-time reflections, spatial audio, and ghost AI with pathfinding across multiple behavioral states."
+      },
+      {
+        "title": "ResumeIDE (LaTeX Desktop Editor)",
+        "start_date": "Nov 2025",
+        "description": "A desktop LaTeX resume editor (Rust, Tauri, Tokio, TypeScript) with live PDF preview. Implemented async backend for real-time LaTeX compilation, Monaco Editor integration with syntax highlighting, system requirement detection with guidance, and cross-platform desktop deployment with native performance."
+      }
+    ],
+    "location": "Los Angeles",
+    "input_url": "https://www.linkedin.com/in/asund",
+    "linkedin_id": "asund",
+    "activity": [
+      {
+        "interaction": "Liked by Ashutosh Sundresh",
+        "link": "https://www.linkedin.com/posts/umadevi-sundresh-870ab45_the-mathematics-behind-sudoku-wwwearnmathcom-activity-7485376973524103168-LRGE",
+        "title": "I always thought Sudoku was just a fun way to pass the time. Then I learned that every completed Sudoku grid is one of more than 6.67 sextillion\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4D10AQFtFjeJZSpeJw/image-shrink_800/B4DZ.FmsmYH0Ak-/0/1784652941957?e=2147483647&v=beta&t=qZTjJOQl_XfLPVZVSRjLbtUYaRWZu9G0JJyqMxCBK20",
+        "id": "7485376973524103168"
+      },
+      {
+        "interaction": "Liked by Ashutosh Sundresh",
+        "link": "https://www.linkedin.com/posts/d-zhou_i-will-be-joining-databricks-as-a-software-activity-7474845076586864641-o-WG",
+        "title": "I will be joining Databricks as a Software Engineer Intern in SF this summer! I am really grateful for the opportunity and excited to learn lots.",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQHRRcjj1RUtZQ/feedshare-image-high-res/B56Z7ZZyZbGUAU-/0/1781763876738?e=2147483647&v=beta&t=jmjDorl51DmvtnYQcYYQLsGNf5D5pgYq-eKTKXVWtt8",
+        "id": "7474845076586864641"
+      },
+      {
+        "interaction": "Shared by Ashutosh Sundresh",
+        "link": "https://www.linkedin.com/posts/asund_ill-be-joining-brain-co-as-the-first-early-career-activity-7468837303486976000-0toR",
+        "title": "I'll be joining Brain Co. as the first early-career hire on the AI Platform team this summer! Brain Co. is building AI applications for the world's\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQG-ItjEa7eRCw/feedshare-image-high-res/B56Z6aj8zsGsAU-/0/1780709576145?e=2147483647&v=beta&t=vq9UBnHOyvFYMZfVh5wGEuaTA4hm9UBDn2GV696feog",
+        "id": "7468837303486976000"
+      },
+      {
+        "interaction": "Liked by Ashutosh Sundresh",
+        "link": "https://www.linkedin.com/posts/theodore-drews-0a6748366_engineering-mechanicalengineering-internship-activity-7467768761748594688-byrf",
+        "title": "After careful consideration, I\u2019m excited to share that I\u2019ve accepted a Project Engineer Intern position with Xcel Mechanical Systems! I\u2019m looking\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQEUCaD2t1ywBg/feedshare-shrink_800/B56Z6LYHeKG8Ac-/0/1780454815840?e=2147483647&v=beta&t=4I5FezGul6G6afg51miss5R_hn2l9jssIZWWf5Efcm4",
+        "id": "7467768761748594688"
+      },
+      {
+        "interaction": "Liked by Ashutosh Sundresh",
+        "link": "https://www.linkedin.com/posts/kleinerperkinsfellows_welcome-to-summer-2026-activity-7465824657015943169-EjVB",
+        "title": "Welcome to summer 2026 \u2600\ufe0f",
+        "img": "https://media.licdn.com/dms/image/v2/D5605AQGRIq4KShE_Mg/videocover-high/B56Z5vv7wiIIBM-/0/1779991298477?e=2147483647&v=beta&t=E3coVvSX200C79ST4yNLtgDX6KFaY3lbSzBafHIcpqU",
+        "id": "2026"
+      },
+      {
+        "interaction": "Liked by Ashutosh Sundresh",
+        "link": "https://www.linkedin.com/posts/aatishn_after-a-rewarding-journey-at-harvey-im-activity-7462518715528630272-uh8h",
+        "title": "After a rewarding journey at Harvey, I\u2019m excited to share I'm joining Kleiner Perkins as a Partner to back the next generation of AI-native founders!\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQF4_8_m7TZLUw/feedshare-image-high-res/B4EZ4.JZMKI0AU-/0/1779159110888?e=2147483647&v=beta&t=rCCg1nXKV6HK8lWIOJj7Pr0xfacv2HRJk9QJpXzJSgY",
+        "id": "7462518715528630272"
+      },
+      {
+        "interaction": "Liked by Ashutosh Sundresh",
+        "link": "https://www.linkedin.com/posts/dashton-_brain-co-landed-on-the-list-of-the-most-activity-7455757103312523265-q6wU",
+        "title": "\ud83c\udfc6 Brain Co. landed on the list of the most talent-dense AI companies in the world! The names alongside us are humbling. Given we've done no\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQE1jFH8Pjj64g/feedshare-shrink_1280/B56Z3grlFxJ4AM-/0/1777591013971?e=2147483647&v=beta&t=yu1rNepC79sjJwZbFUgJ1bFGqgvlWgSG412jL0yFBds",
+        "id": "7455757103312523265"
+      },
+      {
+        "interaction": "Liked by Ashutosh Sundresh",
+        "link": "https://www.linkedin.com/posts/harvey-ai_much-of-legal-work-runs-on-word-documents-activity-7442224965409546240-KdMs",
+        "title": "Much of legal work runs on Word documents, but .docx documents have a huge amount of complexity to handle. As Aadil Manazir and Scott Werwath\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQH9QX1F3UsCVA/feedshare-shrink_800/B56Z0frsAMKcAc-/0/1774353039795?e=2147483647&v=beta&t=EjaLzdt2IJuOqyRG3KVX9YAU_uorRG76KL3igR8jNbc",
+        "id": "7442224965409546240"
+      },
+      {
+        "interaction": "Liked by Ashutosh Sundresh",
+        "link": "https://www.linkedin.com/posts/jon-ouyang_intern-google-summer2026-activity-7436831263732297729-hy_L",
+        "title": "I'll be joining Google DeepMind this summer as a Software Engineer Intern in Mountain View, reporting directly to Logan Kilpatrick! It was an\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQF_qUl6ASMb1w/feedshare-image-high-res/B56ZzTuoMzIYAU-/0/1773078742057?e=2147483647&v=beta&t=CNy462IeW5ZqicSoXjlKBBGqV8ufvvRBRqGbw8mTwfQ",
+        "id": "7436831263732297729"
+      },
+      {
+        "interaction": "Liked by Ashutosh Sundresh",
+        "link": "https://www.linkedin.com/posts/rachitkataria_i-almost-didnt-apply-to-kp-fellows-that-activity-7429895019353841664-UtYF",
+        "title": "I almost didn't apply to KP Fellows. That would've been the biggest mistake of my career. And I almost let imposter syndrome make that decision for\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQH5_Kl00n7cGw/feedshare-image-high-res/B56ZxjnMuKHUAU-/0/1771197746442?e=2147483647&v=beta&t=CxFRkfTY-ROIUJbCFkyNp5jZC4BzfeJOy7gQ-YnlrdA",
+        "id": "7429895019353841664"
+      },
+      {
+        "interaction": "Liked by Ashutosh Sundresh",
+        "link": "https://www.linkedin.com/posts/rafaelsoh_i-recently-left-duke-and-joined-xai-full-activity-7427572149185585153-NUVw",
+        "title": "I recently left Duke and joined xAI full time to build Grok Imagine. Working with the most brilliant engineers and designers to redefine the\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQE1oTG6YkYTaQ/feedshare-shrink_800/B4EZxQJgqfGoAg-/0/1770871196709?e=2147483647&v=beta&t=rmuT7uhNj6UfavR6cLuOvRRQdDMA5WfEUELxQs5OD00",
+        "id": "7427572149185585153"
+      },
+      {
+        "interaction": "Liked by Ashutosh Sundresh",
+        "link": "https://www.linkedin.com/posts/nitinsub_excited-to-announce-our-series-a-alongside-activity-7424863184655757312-4B57",
+        "title": "Excited to announce our Series A alongside some brilliant humans \ud83d\ude80 In the words of Katy Perry, \"told them your dreams and they all started\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQHPUI9lJEUmjQ/feedshare-image-high-res/B4EZwppuJtGwAY-/0/1770225329245?e=2147483647&v=beta&t=6qFPCa-p5twfqbxC4uun6bQzzkalEhW4u_c7Rpi4VEQ",
+        "id": "7424863184655757312"
+      },
+      {
+        "interaction": "Liked by Ashutosh Sundresh",
+        "link": "https://www.linkedin.com/posts/kleinerperkinsfellows_final-call-kp-design-engineering-fellows-activity-7422068112784744448-FRED",
+        "title": "\u23f0 Final Call: KP Design & Engineering Fellows applications close THIS FRIDAY, January 30 at 11:59 PM PST. Don't miss your chance to join an\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQFXpAKUinxl_Q/feedshare-shrink_800/B56ZwB7nUjHQAg-/0/1769558932180?e=2147483647&v=beta&t=F8HbZPEAQpX8JsjNYammyRdPitle4s3mpiHPrQXmzNo",
+        "id": "7422068112784744448"
+      }
+    ],
+    "linkedin_num_id": "934657275",
+    "banner_image": "https://media.licdn.com/dms/image/v2/D5616AQH93HTarIUogA/profile-displaybackgroundimage-shrink_200_800/B56Zv9Zdz8HQAU-/0/1769482870478?e=2147483647&v=beta&t=IM9S9hIbZFM5DfUNUc9lgomyE0JEbvQwN6lxyC9x9ak",
+    "honors_and_awards": [
+      {
+        "title": "USACO Gold",
+        "publication": "United States of America Computing Olympiad",
+        "date": "2026-02-01T00:00:00.000Z",
+        "description": null
+      },
+      {
+        "title": "UCLA Merit Scholarships",
+        "publication": "UCLA",
+        "date": "2025-08-01T00:00:00.000Z",
+        "description": "2025 - Stein Engineering Scholarship 2024 - Shirley and Walter Wang Computer Science Scholarship"
+      },
+      {
+        "title": "William F. Sharpe Technology Fellow",
+        "publication": "UCLA Alumni",
+        "date": "2025-08-01T00:00:00.000Z",
+        "description": null
+      },
+      {
+        "title": "SourceForge Open Source Excellence and Community Leader",
+        "publication": "SourceForge File Hosting",
+        "date": "2022-03-01T00:00:00.000Z",
+        "description": null
+      },
+      {
+        "title": "XDA Recognized Developer",
+        "publication": "XDA Forums for Android Development",
+        "date": "2021-09-01T00:00:00.000Z",
+        "description": "One of ~300 developers selected from the 11 million+ XDA community; youngest Recognized Developer ever (awarded at age 15)"
+      },
+      {
+        "title": "Selected Pre-College Awards",
+        "publication": "-",
+        "date": null,
+        "description": "2023 - International Linguistics Olympiad (IOL), National Training Camp (IIIT Hyderabad) 2023 - Team India, Asia Pacific Linguistics Olympiad (APLO) 2024 - Philippines International Mathematical Olympics, Finals Gold (World Rank 3) 2024 - Hong Kong International Mathematical Olympiad, Finals Bronze"
+      }
+    ],
+    "similar_profiles": [],
+    "default_avatar": false,
+    "memorialized_account": false,
+    "bio_links": [
+      {
+        "title": "Personal Website",
+        "link": "https://ashutoshsundresh.com/"
+      }
+    ],
+    "first_name": "Ashutosh",
+    "last_name": "Sundresh",
+    "influencer": false,
+    "timestamp": "2026-08-12T18:56:40.688Z",
+    "input": {
+      "url": "https://www.linkedin.com/in/asund"
+    }
+  },
+  "local_photo": "data\\linkedin_photos\\asund__usr-3gAYhejjnUc1xMr.jpg"
+}

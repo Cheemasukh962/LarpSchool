@@ -1,0 +1,131 @@
+{
+  "luma_user_id": "usr-nXj5pSTb3BxFsSp",
+  "csv_name": "Samuel Zhang",
+  "csv_linkedin": "https://www.linkedin.com/in/samuelz12",
+  "enriched_at": "2026-08-12T19:16:49.714113+00:00",
+  "batch_id": "sd_msqgxyk1xj7v4ip1",
+  "profile": {
+    "id": "samuelz12",
+    "name": "Samuel Zhang",
+    "city": "San Francisco Bay Area",
+    "country_code": "US",
+    "position": null,
+    "about": null,
+    "current_company": {
+      "link": "https://www.linkedin.com/company/openart-ai?trk=public_profile_topcard-current-company",
+      "name": "OpenArt AI",
+      "company_id": "openart-ai",
+      "location": null
+    },
+    "experience": null,
+    "url": "https://in.linkedin.com/in/samuelz12",
+    "educations_details": "University of Waterloo",
+    "education": null,
+    "recommendations_count": 1,
+    "avatar": "https://media.licdn.com/dms/image/v2/D4E03AQEXQqczTCtM1Q/profile-displayphoto-scale_200_200/B4EZue8SutIsAY-/0/1767898164774?e=2147483647&v=beta&t=e9YafTrSj-Y8Ctv7ASVOE5QSdEU85kC3VXj9HsL9zNk",
+    "recommendations": [
+      "LinkedIn User \u201cSamuel is one of the best engineers I\u2019ve worked with. He learns fast, ships fast, and consistently brings a true startup mentality to his work. We built longcut.ai together, an AI tool that helps people learn from long YouTube videos and is now used by thousands of users worldwide. Samuel wrote the entire codebase for the project and demonstrated excellent product judgment throughout, often proactively making thoughtful product decisions on his own. He is genuinely AI-native and knows how to leverage modern AI coding tools to dramatically increase his velocity and impact. Despite being early in his career, Samuel has already shown the potential to become a strong full-stack engineer and would be a huge asset to any team.\u201d"
+    ],
+    "followers": 2637,
+    "connections": 500,
+    "current_company_company_id": "openart-ai",
+    "current_company_name": "OpenArt AI",
+    "location": null,
+    "input_url": "https://www.linkedin.com/in/samuelz12",
+    "linkedin_id": "samuelz12",
+    "activity": [
+      {
+        "interaction": "Samuel Zhang shared this",
+        "link": "https://www.linkedin.com/posts/samuelz12_introducing-reposeek-the-best-code-your-activity-7462533144223674369-O2ui",
+        "title": "Introducing Reposeek. The best code your agent can write is code it doesn't have to. Most agents start from a blank slate. But the slate is rarely blank. There are already frameworks, starters, and full reference apps sitting on GitHub. The hard part is choosing the right one to start from. Reposeek takes an idea and returns a ranked list of repos with the evidence your agent actually needs: README summaries, quality signals, license, stars, and forks. Give your agent a better first move. reposeek[dot]ai 10 free searches/month. ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D4E05AQFRXJQWS9bZIA/videocover-high/B4EZ44fNxoHcBM-/0/1779064172164?e=2147483647&v=beta&t=Q18ipV-fCSN7JbH8mMj4_biyixLs-wIaqObxLy2ijE8",
+        "id": "7462533144223674369"
+      },
+      {
+        "interaction": null,
+        "link": "https://www.linkedin.com/posts/yasinehsan_people-of-waterloo-i-am-in-your-campus-activity-7420683582026833921-8xL4",
+        "title": "People of Waterloo. I am in your campus. Doing a meetup at 4pm sat. If you are building, Ill hear your pitch. Can potentially invest from a16z sr fund or 5 other funds if you or someone else, wants more full time offers, I can connect you with series A+ founders If you want to drop out, Break into sf tech scene but not sure i am more than happy to talk to you. Come grab tim hortons Coffee and cookies DM me for link ...more ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQHDbP1eLG3waA/feedshare-shrink_1280/B56ZvuQRUpKwAc-/0/1769228801486?e=2147483647&v=beta&t=It86Lq35xI_YOXf7OSF6dQo8pE3-nxH7dJSK-Q0Qc_Q",
+        "id": "7420683582026833921"
+      },
+      {
+        "interaction": "Samuel Zhang shared this",
+        "link": "https://www.linkedin.com/posts/samuelz12_ai-video-summaries-are-solving-the-wrong-activity-7386133757575143424-BmtK",
+        "title": "AI video summaries are solving the wrong problem. You don't need a generic text summary of a 1 hour video. You need the 5 minutes that actually change how you think. Most AI tools compress videos. TLDW extracts the gems. It finds: \u2192 The breakthrough idea buried at 37:42 \u2192 The surprising insight you would've missed \u2192 The quote you'll remember for years No more: \u2192 Watching entire videos just for one insight \u2192 Skipping around aimlessly Just pure value. Zero fluff. What else you get: \u2192 AI chat that answers questions with exact video citations \u2192 Save notes on moments worth remembering \u2192 \"Play All\" mode to watch highlights back-to-back Perfect for podcasts, interviews, etc. It\u2019s free and open source. Built with Zara Zhang & Yiqi Y. Website: https://tldw.us/ Github: https://lnkd.in/gxemWwFs Demo below \ud83d\udc47 ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D5605AQHqCNBM0-1cOw/videocover-high/B56ZoDRO8uHAB8-/0/1760991492027?e=2147483647&v=beta&t=gIUo9KK3qkajAyub7sSaomjKUra-zqCp68GOovP_VhI",
+        "id": "7386133757575143424"
+      },
+      {
+        "interaction": "Samuel Zhang shared this",
+        "link": "https://www.linkedin.com/posts/samuelz12_tired-of-typing-latex-equations-built-activity-7323082388123586560-BWMq",
+        "title": "\ud83e\udd2f Tired of Typing LaTeX Equations? \ud83d\ude80 Built a macOS App for Screenshot-to-LaTeX OCR While web converters exist, I found the workflow slow (screenshot, upload, and copy). To fix this, I built LaTeX OCR, a native macOS menu bar app designed for speed and seamless integration. Why Native is Easier & Faster: - Always Ready: It lives in your menu bar, instantly accessible. - Instant Capture: Use a global shortcut (or menu click) the moment you want to convert an image to LaTeX \u2013 no browser needed. - Streamlined Workflow: Captures, converts, and copies to your clipboard in one go. Much faster than web upload/convert cycles. How it Works: 1. Hit your shortcut & select a region on the screen. 2. The app sends it to the Google Gemini API for highly accurate LaTeX conversion (requires a free API key from Google). 3. The LaTeX code is instantly copied to your clipboard. 4. (It also handles standard text OCR using Apple Vision.) Other Features: - Customizable global keyboard shortcuts. - Recent capture history in the menu bar. - Formatting options for copied text. - Lightweight & Open Source (MIT License). If you want a significantly faster, highly accurate, and more integrated way to get equations into LaTeX compared to web tools, check out the Github: https://lnkd.in/gcdX_Nfy ...more",
+        "img": "https://dms.licdn.com/playlist/vid/v2/D5605AQHPi59tXREJTg/feedshare-video-thumbnail-high/B56ZaDQksQHUCQ-/0/1745958895198?e=2147483647&v=beta&t=7JXWgN7zkkWVQuK3GYZSBJKVHnQmSpSAh4wR3q5dqMY",
+        "id": "7323082388123586560"
+      },
+      {
+        "interaction": "Samuel Zhang commented on a post 2d",
+        "link": "https://www.linkedin.com/posts/philipla_ive-officially-started-my-new-role-at-openart-activity-7492308491576172544-9HsS",
+        "title": "congrats",
+        "img": null,
+        "id": "7492308491576172544"
+      },
+      {
+        "interaction": "Samuel Zhang liked this",
+        "link": "https://www.linkedin.com/posts/philipla_ive-officially-started-my-new-role-at-openart-activity-7492308491576172544-9HsS",
+        "title": "I've officially started my new role at OpenArt AI ! Super excited to be driving growth for a pioneer and leader in the AI content creation space. I've always had crazy ideas for products I wanted to design or stories I wanted to tell, but never had the tools to make them real. OpenArt's platform is now democratizing visual storytelling with amazing creative works coming out of it that never could have existed before. It was an intense one-month job hunt after leaving Meta, but I'm beyond pumped for this new adventure. Thank you to everyone who helped and supported me throughout the process- Colin Feo , Victoria Limary , Roger Luo , Chen \"Michel\" Zou , Kjell Bronder , Catalin Covic , Vivian Qu , Alison Morgenstern , Wacy Su , Yvonne C. , Chris Cooper , Ibe Owunwanne , Jordan Banks, Jeff Shouger , Mikhail Charnysh , Rui Hua , Nick Serjeant, Mark Otero , KC Li , Janie Gu , Mikey Chang , Mathilde Pignol , Alex Khvan , Mahncy Mehrotra , Nina Yan , Grace Ma , Jackie Low, Eddie Chen , Qasim Mian and SO many more (hit the mentions limit!) And here's a small clip I made on OpenArt: me breakdancing... something I wish I could do in real life!!",
+        "img": "https://media.licdn.com/dms/image/v2/D5605AQHMrdZn1wBNAA/videocover-high/B56Z_oG2cFJsBM-/0/1786305539088?e=2147483647&v=beta&t=xGYnwHNLNlYaiJbzCT5Fw7_K9kCfqTift-C61k5hpDs",
+        "id": "7492308491576172544"
+      },
+      {
+        "interaction": "Samuel Zhang liked this",
+        "link": "https://www.linkedin.com/posts/david-liang-012357267_thats-my-quant-life-update-ill-be-joining-activity-7486080206177218560-Ol0O",
+        "title": "that\u2019s my quant! Life update: I\u2019ll be joining Axiom Math as a Research Engineer Intern in Palo Alto this fall, and Susquehanna International Group (SIG) as a Quantitative Trading Intern next summer. I\u2019d like to dedicate this post to my friends and mentors, many of whom I wouldn\u2019t be here without: this is as much their achievement as it is mine. As I wrap up my first year at Waterloo, the best advice I can give to anyone starting in the fall is to be kind and stay true to yourself. Excited for what\u2019s ahead :) A non-exhaustive list of people I\u2019d like to thank: Victor Guo , Parth Sheth , Winston Yu , Vincent Zhong , Chinmay Jindal , Jun Park, Harry Jiang , Austin Jian , David Yang , Alan Cai , Aiden Zhang , Ryan Nguyen , Carolyn Zhu , Lance Yan , Zachary Yu , Patrick He , Eric Song , Nelson Kang , Grace Tan Thank you to Carina Hong , Shubho Sengupta , Taylor Anthony and the Axiom team for believing in me. Lastly, thank you to Molly Weber and Sarah Diehl for making the interview process as smooth as it was.",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQGH47R7WHoKKw/feedshare-shrink_800/B56Z.PTCC2KkAc-/0/1784815559092?e=2147483647&v=beta&t=Gx1g1bDa32TsNXtB-E3xYF3TC-hU6jYW-bEAlCZo6LE",
+        "id": "7486080206177218560"
+      },
+      {
+        "interaction": "Samuel Zhang liked this",
+        "link": "https://www.linkedin.com/posts/davidongchoco_weve-been-meeting-more-and-more-young-builders-activity-7490807106191761409-99Kp",
+        "title": "We've been meeting more and more young builders who want to dive into deep tech. But unlike B2B saas, there's a lot more that goes into building the next big company in robotics, energy infrastructure, material science, biotech, space tech and more. So at Comma Capital , we\u2019ve launched our Deep Tech Fellowship to demystify what it takes to build a deep tech startup for students, new grads and young builders. This September, we\u2019ll have weekly online sessions with top founders, investors and industry leaders that can speak to what it takes to build, fund and grow a deep tech company. Our sessions will cover: \ud83d\udcdd How to take an idea from a lab to your first client \ud83d\udcd0 Building a high-quality supply chain from scratch \ud83d\udcf2 Finding the right co-founders and advisors \ud83d\ude80 How to design a deep tech project to be VC-backable If you\u2019re curious about the mechanics of founding a company in deep tech and want to leave with a realistic, step-by-step roadmap to do so: we look forward to receiving your application. Comment \u2018Deep Tech\u2019 below and I\u2019ll send the link to apply. Deadline: EOD August 24th Shoutout to Cristina Higueras for spearheading this initiative and Aakarsh Agrawal being one of our first Deep Tech Fellows as part of this first cohort and has been exploring space tech with me! Adarsh Bhatt Julia Guo Domantas Meliuk\u0161tis",
+        "img": "https://media.licdn.com/dms/image/v2/D4D22AQHF_fibejrcAA/feedshare-shrink_800/B4DZ_SxXf5IEAc-/0/1785947584908?e=2147483647&v=beta&t=ZAjZDyyhuUyWJap8RdU7VLhrGH8olUHlwpyV3mVfDNY",
+        "id": "7490807106191761409"
+      },
+      {
+        "interaction": "Samuel Zhang liked this",
+        "link": "https://www.linkedin.com/posts/ruiyanhu_i-requested-a-vacation-1-week-into-my-internship-activity-7490440168785489920-0wrP",
+        "title": "I requested a vacation 1 week into my internship I knew where I wanted to break into the ai startup ecosystem and after talking to 4 people, and offering to work for free, I was offered a role. (OpenArt couldn\u2019t legally let me work for free) But the team had grown so much that my start date was moved back a full month. I totally forgot that I had a missions trip lined up and it fell right after the first week of starting. I would have minimal WiFi for 7 days. Try telling that to the boss who just took a chance on a kid who can't legally drink yet. But I knew, if OpenArt AI was really the right place for me to be, it would work out. Shoutout Shawal Fida for somehow saying yes. In the last 4 months our team has Grown our Instagram from 60k to nearly 400k followers Reached our yearly 1 billion impression goal in just 3 months Helped scale OpenArt\u2019s ARR to over 100 million I am so grateful to be a part of one of the fastest growing companies and work towards Coco Mao \u2019s vision of democratizing story telling. Stay tuned for more to come \ud83d\ude80",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQH5y_XWwz68kA/feedshare-shrink_800/B56Z_JNJwrKIAc-/0/1785787097271?e=2147483647&v=beta&t=AY2uiJfdqwllFDFq8JMUDx-u-VwBUX3sqXbCSfPFVj4",
+        "id": "1"
+      },
+      {
+        "interaction": "Samuel Zhang liked this",
+        "link": "https://www.linkedin.com/posts/emily--yee_months-of-planning-means-smooth-sailing-on-activity-7485755652590465024-lmKW",
+        "title": "Months of planning means smooth sailing on event day, right? As Co-Commissioner leading this year\u2019s \ud835\uddea\ud835\uddee\ud835\ude01\ud835\uddf2\ud835\uddff\ud835\uddf9\ud835\uddfc\ud835\uddfc \ud835\uddd8\ud835\uddfb\ud835\uddf4\ud835\uddf6\ud835\uddfb\ud835\uddf2\ud835\uddf2\ud835\uddff\ud835\uddf6\ud835\uddfb\ud835\uddf4 \ud835\uddd6\ud835\uddfc\ud835\uddfa\ud835\uddfd\ud835\uddf2\ud835\ude01\ud835\uddf6\ud835\ude01\ud835\uddf6\ud835\uddfc\ud835\uddfb (WEC), the answer was surprisingly\u2026 YES (mostly). This weekend, I hosted the WEC alongside my amazing co-commissioner Eileen Kuang , welcoming over 150 students across 6 different competition streams, with the winners advancing to the Ontario Engineering Competition (OEC)! With an event of this scale, little hiccups are always expected. From super gluing the kiddie pool to serving 200+ hungry engineers, I couldn't have asked for a better team to handle it. \ud835\udde0\ud835\ude06 \ud835\uddef\ud835\uddf6\ud835\uddf4\ud835\uddf4\ud835\uddf2\ud835\ude00\ud835\ude01 \ud835\ude01\ud835\uddee\ud835\uddf8\ud835\uddf2\ud835\uddee\ud835\ude04\ud835\uddee\ud835\ude06 \ud835\uddf3\ud835\uddff\ud835\uddfc\ud835\uddfa \ud835\uddf9\ud835\uddf2\ud835\uddee\ud835\uddf1\ud835\uddf6\ud835\uddfb\ud835\uddf4 \ud835\uddea\ud835\uddd8\ud835\uddd6? \ud835\udde6\ud835\ude01\ud835\uddfc\ud835\uddfd \ud835\ude00\ud835\uddfd\ud835\uddff\ud835\uddf6\ud835\uddfb\ud835\ude01\ud835\uddf6\ud835\uddfb\ud835\uddf4 \ud835\ude02\ud835\uddfd \ud835\udff2 \ud835\uddf3\ud835\uddf9\ud835\uddf6\ud835\uddf4\ud835\uddf5\ud835\ude01\ud835\ude00 \ud835\uddfc\ud835\uddf3 \ud835\ude00\ud835\ude01\ud835\uddee\ud835\uddf6\ud835\uddff\ud835\ude00. In the beginning, I was running from room to room, trying to check on the competitions, food and judges all at once. I quickly realized: 1. That isn't physically possible 2. I have an incredible team for a reason Once I stepped back and trusted our prep work, everything ran smoothly. The team completely owned their roles, solved problems instantly, and crushed it. I learned that being a good leader isn't about trying to manage every moving part. Instead, it's about building a system that works and trusting your team to execute. HUGE thank you to the awesome directors: Lennart , Jane, Kai , Steven , Awais , Angela Zhao , Jacob , Shagun , Doris , Angela Zhou , Elaine , Julie , Kian , Kennice , Mikayla , Amariah BIGGEST thank you to the VPXs Anupra and Lauren for the constant support and guidance! And thank you to all the judges for your dedication and expertise!",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQHgs2gnyQSdhg/feedshare-shrink_800/B56Z.K_F6OHYAg-/0/1784743223697?e=2147483647&v=beta&t=Z4hsZkLhZjpzTYZDLh62_XQ1Vcx-t5OVv7Vg17ycQlI",
+        "id": "7485755652590465024"
+      },
+      {
+        "interaction": "Samuel Zhang liked this",
+        "link": "https://www.linkedin.com/posts/alin22_hey-everyone-im-heading-to-la-for-the-first-activity-7489356857472630784-zmCj",
+        "title": "hey everyone, i'm heading to LA for the first time on sunday and love to meet any cool people there! hmu if you're doing anything cool like: - building businesses/startups/clothing brand - artists/videographers/creatives/music artists - content creator - chill person w good vibes don't know a single person there yet, but excited!",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQGFfSNhFVjUEg/feedshare-image-high-res/B56Z..KX8IGsAY-/0/1785601819515?e=2147483647&v=beta&t=FcLs9S-IgjKTmb6mdZUlYfH8Vz5AInwxNsDEDQuBlho",
+        "id": "7489356857472630784"
+      }
+    ],
+    "linkedin_num_id": "869844344",
+    "banner_image": "https://media.licdn.com/dms/image/v2/D4E16AQEaS0GSjcBXbg/profile-displaybackgroundimage-shrink_200_800/B4EZtG0Lo7IoAU-/0/1766419643967?e=2147483647&v=beta&t=E5thS_IidFRih4swsAvDTuhfOyrk-MRSeJrUObkftfQ",
+    "honors_and_awards": null,
+    "similar_profiles": [],
+    "default_avatar": false,
+    "memorialized_account": false,
+    "bio_links": [],
+    "first_name": "Samuel",
+    "last_name": "Zhang",
+    "influencer": false,
+    "timestamp": "2026-08-12T19:15:02.425Z",
+    "input": {
+      "url": "https://www.linkedin.com/in/samuelz12"
+    }
+  },
+  "local_photo": "data\\linkedin_photos\\samuelz12__usr-nXj5pSTb3BxFsSp.jpg"
+}

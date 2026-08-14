@@ -1,0 +1,288 @@
+{
+  "source": "crustdata",
+  "recovered_from": "brightdata_failed_private",
+  "luma_user_id": "usr-BBOVP6nVk56NqV2",
+  "csv_name": "Ishaan Pandey",
+  "csv_linkedin": "https://www.linkedin.com/in/ish-cs",
+  "clean_linkedin": "https://www.linkedin.com/in/ish-cs",
+  "enriched_at": "2026-08-14T18:07:59.937250+00:00",
+  "person_data": {
+    "basic_profile": {
+      "current_title": "Founder",
+      "first_name": null,
+      "headline": "Founder   |   CS @ Berkeley",
+      "languages": [
+        "English (Native or bilingual proficiency)",
+        "Hindi (Native or bilingual proficiency)",
+        "German (Limited working proficiency)",
+        "Irish (Limited working proficiency)"
+      ],
+      "last_name": null,
+      "location": {
+        "city": "",
+        "continent": "North America",
+        "country": "United States",
+        "full_location": null,
+        "raw": "San Francisco Bay Area",
+        "state": "California"
+      },
+      "name": "Ishaan Pandey",
+      "normalized_title": {
+        "confident": true,
+        "department": "Executive Leadership",
+        "matched_title": "Founder",
+        "similarity": 0.9998999834060669,
+        "sub_department": "Founder & Entrepreneurship Leadership"
+      },
+      "professional_network_name": "Ishaan Pandey",
+      "profile_picture_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/person/a0c8c97b20524afb92a08e9ca9f6dc2d5a69f479ceb39ad33f72e1e0517e011d.jpg",
+      "summary": "Founder"
+    },
+    "education": {
+      "schools": [
+        {
+          "activities_and_societies": "",
+          "degree": "",
+          "description": "",
+          "end_year": 2025,
+          "field_of_study": "",
+          "institute_logo_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/company/c1dda595068ee85ec13e4eb6f40c441391de15b2fdaa6bb43c2aa95c70a4814d.jpg",
+          "institute_logo_url": "https://media.licdn.com/dms/image/v2/C4E0BAQGAJ0jZFeAjzg/company-logo_400_400/company-logo_400_400/0/1631347042003?e=1787788800&v=beta&t=l2iMhBPNMw3O02axFK4Al493vFS703nRQBNPRk3-zpk",
+          "location": {
+            "city": "",
+            "continent": "Europe",
+            "country": "Ireland",
+            "raw": "Blackrock, Leinster, Ireland",
+            "state": ""
+          },
+          "professional_network_id": "5891514",
+          "school": "Blackrock College",
+          "start_year": 2019
+        },
+        {
+          "activities_and_societies": "",
+          "degree": "",
+          "description": "",
+          "end_year": 2029,
+          "field_of_study": "Computer Science, Economics",
+          "institute_logo_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/company/426acda7e092299f46c701d6bff10de72de3254f3dcec2e4abca75957537ee81.jpg",
+          "institute_logo_url": "https://media.licdn.com/dms/image/v2/D560BAQGwjF_5CYj_JQ/company-logo_400_400/company-logo_400_400/0/1732135669731/uc_berkeley_logo?e=1787788800&v=beta&t=SHX9mxX9Cu72dxbFIwG8YQyR-UMYSgjlhnoUj3XwXiI",
+          "location": {
+            "city": "Berkeley",
+            "continent": "North America",
+            "country": "United States",
+            "raw": "Berkeley, California, United States",
+            "state": "California"
+          },
+          "professional_network_id": "2517",
+          "school": "University of California, Berkeley",
+          "start_year": 2025
+        }
+      ]
+    },
+    "experience": {
+      "employment_details": {
+        "current": [
+          {
+            "company_description": "A network for entrepreneurs building in stealth. Submit your information here so investors can find you:harmonic.ai/get-discovered",
+            "company_professional_network_profile_url": "https://linkedin.com/company/18583501",
+            "company_profile_picture_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/company/713a8ec1241326ce65bba2e8e4669985db31fc0a799ad8a77017ef6543103219.jpg",
+            "company_website_domain": "harmonic.ai",
+            "crustdata_company_id": 6040342,
+            "description": "",
+            "employment_type": "Full-time",
+            "end_date": null,
+            "function_category": "",
+            "is_default": true,
+            "location": {
+              "raw": ""
+            },
+            "name": "Stealth Startup",
+            "position_id": 2897309591,
+            "professional_network_id": "18583501",
+            "seniority_level": "Owner / Partner",
+            "start_date": "2026-04-01T00:00:00+00:00",
+            "title": "Founder",
+            "years_at_company": "Less than 1 year",
+            "years_at_company_raw": 0.0
+          },
+          {
+            "company_description": "Our mission is to provide a community for exchanging ideas, understanding the startup process, and molding the next entrepreneurial minded consultants.",
+            "company_professional_network_profile_url": "https://linkedin.com/company/18513379",
+            "company_profile_picture_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/company/036952a4fc0b7c288f6eba50e6c1b356f5fce868b658bf9b0cde8a8724216a3b.jpg",
+            "company_website_domain": "entrepreneursatberkeley.com",
+            "crustdata_company_id": 1306550,
+            "description": "",
+            "employment_type": "",
+            "end_date": null,
+            "function_category": "",
+            "is_default": false,
+            "location": {
+              "raw": "San Francisco Bay Area"
+            },
+            "name": "Entrepreneurs@Berkeley",
+            "position_id": 2843454301,
+            "professional_network_id": "18513379",
+            "seniority_level": "Senior",
+            "start_date": "2026-01-01T00:00:00+00:00",
+            "title": "Fellow",
+            "years_at_company": "Less than 1 year",
+            "years_at_company_raw": 0.0
+          }
+        ],
+        "past": [
+          {
+            "company_description": "Move beyond deflection. Deliver real resolutions with self-improving AI agents that learn, adapt, and outperform, on every channel, on any platform.",
+            "company_professional_network_profile_url": "https://linkedin.com/company/418095",
+            "company_profile_picture_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/company/b909225c9cce38aff85a8740cd7961aa4f4ca2267f88c0dc855bac625644e48f.jpg",
+            "company_website_domain": "zdsk.co",
+            "crustdata_company_id": 662491,
+            "description": "",
+            "employment_type": "Contract",
+            "end_date": "2026-05-01T00:00:00+00:00",
+            "function_category": "Engineering",
+            "is_default": false,
+            "location": {
+              "raw": ""
+            },
+            "name": "Zendesk",
+            "position_id": 2858509056,
+            "professional_network_id": "418095",
+            "seniority_level": "Entry Level",
+            "start_date": "2026-01-01T00:00:00+00:00",
+            "title": "Software Engineer",
+            "years_at_company": "Less than 1 year",
+            "years_at_company_raw": 0.0
+          },
+          {
+            "company_description": "Producing online media content.",
+            "company_professional_network_profile_url": "https://linkedin.com/company/107174273",
+            "company_profile_picture_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/company/52c7aa11b61bb199a0ee50bb448ea4ffeaffd292287e28d471682dab1f00221e.jpg",
+            "company_website_domain": "saltyy.store",
+            "crustdata_company_id": 6445701,
+            "description": "Media and creator management",
+            "employment_type": "Self-employed",
+            "end_date": "2025-12-01T00:00:00+00:00",
+            "function_category": "",
+            "is_default": false,
+            "location": {
+              "raw": ""
+            },
+            "name": "Saltyy",
+            "position_id": 2491763243,
+            "professional_network_id": "107174273",
+            "seniority_level": "Owner / Partner",
+            "start_date": "2020-07-01T00:00:00+00:00",
+            "title": "Founder",
+            "years_at_company": "6 to 10 years",
+            "years_at_company_raw": 5.0
+          },
+          {
+            "company_description": "",
+            "company_professional_network_profile_url": "https://linkedin.com/company/106873460",
+            "company_profile_picture_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/company/9dda2f77c6862ccaf9fa8092b91cec1a0ba6d44b344b7068ad706148d72d23d8.jpg",
+            "company_website_domain": null,
+            "crustdata_company_id": 23158159,
+            "description": "Creative and social media strategy to serve local businesses",
+            "employment_type": "Self-employed",
+            "end_date": "2024-07-01T00:00:00+00:00",
+            "function_category": "",
+            "is_default": false,
+            "location": {
+              "raw": ""
+            },
+            "name": "Hive Media",
+            "position_id": 2587230915,
+            "professional_network_id": "106873460",
+            "seniority_level": "Owner / Partner",
+            "start_date": "2023-07-01T00:00:00+00:00",
+            "title": "Founder",
+            "years_at_company": "1 to 2 years",
+            "years_at_company_raw": 1.0
+          },
+          {
+            "company_description": "A problem isn't truly solved until it's solved for all. Googlers build products that help create opportunities for everyone, whether down the street or across the globe. Bring your insight, imagination and a healthy disregard for the impossible. Bring everything that makes you unique. Together, we can build for everyone.Check out our career opportunities at goo.gle/3DLEokh",
+            "company_professional_network_profile_url": "https://linkedin.com/company/1441",
+            "company_profile_picture_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/company/25c2a61d60d5c9d91ca96db58d37461cd9665c025ad413b8e9dbccecf979fc24.jpg",
+            "company_website_domain": "goo.gle",
+            "crustdata_company_id": 4926893,
+            "description": "AI-powered local business discovery workflow for Google Maps",
+            "employment_type": "",
+            "end_date": "2022-10-01T00:00:00+00:00",
+            "function_category": "",
+            "is_default": false,
+            "location": {
+              "raw": ""
+            },
+            "name": "Google",
+            "position_id": 2775028901,
+            "professional_network_id": "1441",
+            "seniority_level": "Entry Level",
+            "start_date": "2022-10-01T00:00:00+00:00",
+            "title": "OneWeek Program",
+            "years_at_company": "Less than 1 year",
+            "years_at_company_raw": 0.0
+          }
+        ]
+      }
+    },
+    "professional_network": {
+      "connections": 2259,
+      "current_title": "Founder",
+      "followers": 2222,
+      "headline": "Founder   |   CS @ Berkeley",
+      "location": {
+        "city": "",
+        "continent": "North America",
+        "country": "United States",
+        "raw": "San Francisco Bay Area",
+        "state": "California"
+      },
+      "metadata": {
+        "last_scraped_source": null
+      },
+      "name": "Ishaan Pandey",
+      "profile_picture_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/person/a0c8c97b20524afb92a08e9ca9f6dc2d5a69f479ceb39ad33f72e1e0517e011d.jpg",
+      "pronoun": "",
+      "summary": "Founder"
+    },
+    "skills": {
+      "professional_network_skills": [
+        "Product Design",
+        "Data-driven Decision Making",
+        "Presentation Skills",
+        "Cross-functional Collaborations",
+        "Team Building",
+        "Strategic Communications",
+        "Sales Management",
+        "Research Skills",
+        "Start-up Leadership",
+        "Social Media Marketing",
+        "Team Leadership",
+        "Collaborative Problem Solving",
+        "Data Analysis",
+        "Model United Nations",
+        "Public Speaking",
+        "Debate",
+        "Project Management",
+        "Strategic Planning",
+        "Business Ownership",
+        "Video Production",
+        "Start-ups Management",
+        "Social Media"
+      ]
+    },
+    "social_handles": {
+      "dev_platform_identifier": {
+        "profile_url": null
+      },
+      "professional_network_identifier": {
+        "profile_url": "https://www.linkedin.com/in/ish-cs"
+      },
+      "twitter_identifier": {
+        "slug": ""
+      }
+    },
+    "crustdata_person_id": 173615283
+  }
+}

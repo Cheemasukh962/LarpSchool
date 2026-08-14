@@ -1,0 +1,270 @@
+{
+  "luma_user_id": "usr-xGv4IDcvuySAoid",
+  "csv_name": "Akshaj Molukutla",
+  "csv_linkedin": "https://www.linkedin.com/in/akshajmolukutla",
+  "enriched_at": "2026-08-12T19:25:08.265014+00:00",
+  "batch_id": "sd_msqh7u7r1xzwli6vdk",
+  "profile": {
+    "id": "akshajmolukutla",
+    "name": "Akshaj Molukutla",
+    "city": "Berkeley, California, United States",
+    "country_code": "US",
+    "position": null,
+    "about": "I like making products that help people :) akshajmolukutla@berkeley.edu",
+    "current_company": {
+      "link": "https://www.linkedin.com/company/idaho-national-laboratory?trk=public_profile_topcard-current-company",
+      "name": "Idaho National Laboratory",
+      "company_id": "idaho-national-laboratory",
+      "location": null
+    },
+    "experience": null,
+    "url": "https://my.linkedin.com/in/akshajmolukutla",
+    "educations_details": "UC Berkeley College of Computing, Data Science, and Society",
+    "education": null,
+    "avatar": "https://media.licdn.com/dms/image/v2/D5603AQGJ9I5HLUyXEQ/profile-displayphoto-shrink_200_200/B56ZT9LSd4GQAc-/0/1739414382727?e=2147483647&v=beta&t=IsvUEuonKNGCbY7DaX16UwNkKIdDT8S5Nt-CO7_BcDg",
+    "languages": [
+      {
+        "subtitle": "Native or bilingual proficiency",
+        "title": "Telugu"
+      },
+      {
+        "subtitle": "Elementary proficiency",
+        "title": "Hindi"
+      },
+      {
+        "subtitle": "Native or bilingual proficiency",
+        "title": "English"
+      }
+    ],
+    "followers": 2869,
+    "connections": 500,
+    "current_company_company_id": "idaho-national-laboratory",
+    "current_company_name": "Idaho National Laboratory",
+    "publications": [
+      {
+        "title": "Role of Cigarette Butt in poor plant growth and nitrate levels",
+        "subtitle": "Journal of Student Research",
+        "date": "November 30, 2023"
+      }
+    ],
+    "projects": [
+      {
+        "title": "LDT Compliance Copilot",
+        "start_date": "Jul 2025",
+        "description": "An AI agent that uses NVIDIA NeMo + LangChain to parse FDA/CLIA regulations and generate compliance gap reports in seconds."
+      },
+      {
+        "title": "Drinking Water Quality in Parks",
+        "start_date": "Oct 2024",
+        "description": "- Developed a Python application to test the waters, upload data, and share results on ESRI ArcGIS Story Maps with REST API.- Implemented Azure OpenAI for a user-friendly experience, optimized API calls, resulting in a 40% increase in data collection.- Used SQL to manage large datasets, execute complex queries in filtering water quality metrics, and join multi-source tables.- Ran community awareness events teaching over 1,000 citizens to test local parks\u2019 drinking water quality using test strips."
+      },
+      {
+        "title": "VideoMods",
+        "start_date": "Apr 2025",
+        "description": "Created AI Agent inputs MP4s and analyzes file and transcript to output a 2-3 sentence summary using Fireworks AI API"
+      }
+    ],
+    "organizations": [
+      {
+        "title": "Contra Costa County Tobacco Prevention Coalition",
+        "membership_type": "Member",
+        "start_date": "Jun 2022",
+        "end_date": "Present",
+        "description": "- Spoke in front of city and county officials regarding tobacco legislature- Won for Dave Pitman Outstanding Community Advocate Award",
+        "membership_number": null
+      },
+      {
+        "title": "CourAGE Youth Health Coalition",
+        "membership_type": "Member",
+        "start_date": "Aug 2019",
+        "end_date": "Jun 2024",
+        "description": "-Collaborated with youth across Contra Costa County creating presentations advocating against substance use, including for a conference at UC Berkeley to engage middle school youth in learning the harmful effects of different substances",
+        "membership_number": null
+      },
+      {
+        "title": "Campaign for Tobacco-Free Kids",
+        "membership_type": "National Youth Ambassador",
+        "start_date": "Jun 2020",
+        "end_date": "Oct 2021",
+        "membership_number": null
+      }
+    ],
+    "location": "Berkeley",
+    "input_url": "https://www.linkedin.com/in/akshajmolukutla",
+    "linkedin_id": "akshajmolukutla",
+    "activity": [
+      {
+        "interaction": null,
+        "link": "https://www.linkedin.com/posts/y-combinator_kara-yc-s26-engineers-ultra-high-purity-activity-7493033516008603648-FZZ1",
+        "title": "Kara (YC S26) engineers ultra-high-purity diamond wafers and components for the next generation of hardware. Modern hardware is getting more powerful, smaller, and hotter. AI accelerators in data centers throttle and deliver less compute when heat builds up. High-power RF and lasers lose performance. Aircraft and spacecraft carry heavy cooling systems. Heat is becoming a hard limit on performance. Kara is engineering the hardest material to push that limit. They grow ultra-high-purity diamond wafers and components that transfer heat 5x faster than copper while weighing 60% less. They're already shipping diamond wafers under pilot agreements and purchase orders for data centers, aerospace, and quantum systems. The three founders are best friends from UC Berkeley. Aarin Jhaveri is a fifth-generation diamantaire who has worked across the supply chain and sold millions worth of diamonds. Anuveer Chadha is a chemical engineer who built diamond quantum sensing and advanced materials systems at Berkeley National Lab with the Department of Defense and Department of Energy. Arjun Lakhanpal brings AI/ML experience from Amazon and thermal management research from Berkeley\u2019s Space Sciences Lab. Diamond is their unfair advantage: they know how to grow, control, and engineer it far beyond jewelry. Silicon transformed computing when we learned to manufacture it with extreme purity and control. Kara is doing the same with diamond. Today, their ultra-high-purity diamond pulls heat away from silicon chips. Tomorrow, Kara\u2019s control over purity and defects unlocks diamond as the ultimate semiconductor. Kara is building the diamond computing era. If you\u2019re building hardware where heat, power density or weight is becoming the limit, reach out at founders@karalabs.ai Congrats on the launch, Aarin, Anuveer, and Arjun! \ud83d\ude80 https://lnkd.in/g-uigUBs",
+        "img": "https://media.licdn.com/dms/image/v2/D5605AQHk3W0UzL7CzQ/videocover-high/B56Z_xVOhvHIBU-/0/1786460312858?e=2147483647&v=beta&t=EAAKV1ABdzZH4qEw0I2FzvhjWVOkhq0Ne3WStEZyM1c",
+        "id": "7493033516008603648"
+      },
+      {
+        "interaction": null,
+        "link": "https://www.linkedin.com/posts/y-combinator_kara-yc-s26-engineers-ultra-high-purity-activity-7493033516008603648-FZZ1",
+        "title": "Kara (YC S26) engineers ultra-high-purity diamond wafers and components for the next generation of hardware. Modern hardware is getting more powerful, smaller, and hotter. AI accelerators in data centers throttle and deliver less compute when heat builds up. High-power RF and lasers lose performance. Aircraft and spacecraft carry heavy cooling systems. Heat is becoming a hard limit on performance. Kara is engineering the hardest material to push that limit. They grow ultra-high-purity diamond wafers and components that transfer heat 5x faster than copper while weighing 60% less. They're already shipping diamond wafers under pilot agreements and purchase orders for data centers, aerospace, and quantum systems. The three founders are best friends from UC Berkeley. Aarin Jhaveri is a fifth-generation diamantaire who has worked across the supply chain and sold millions worth of diamonds. Anuveer Chadha is a chemical engineer who built diamond quantum sensing and advanced materials systems at Berkeley National Lab with the Department of Defense and Department of Energy. Arjun Lakhanpal brings AI/ML experience from Amazon and thermal management research from Berkeley\u2019s Space Sciences Lab. Diamond is their unfair advantage: they know how to grow, control, and engineer it far beyond jewelry. Silicon transformed computing when we learned to manufacture it with extreme purity and control. Kara is doing the same with diamond. Today, their ultra-high-purity diamond pulls heat away from silicon chips. Tomorrow, Kara\u2019s control over purity and defects unlocks diamond as the ultimate semiconductor. Kara is building the diamond computing era. If you\u2019re building hardware where heat, power density or weight is becoming the limit, reach out at founders@karalabs.ai Congrats on the launch, Aarin, Anuveer, and Arjun! \ud83d\ude80 https://lnkd.in/g-uigUBs",
+        "img": "https://media.licdn.com/dms/image/v2/D5605AQHk3W0UzL7CzQ/videocover-high/B56Z_xVOhvHIBU-/0/1786460312858?e=2147483647&v=beta&t=EAAKV1ABdzZH4qEw0I2FzvhjWVOkhq0Ne3WStEZyM1c",
+        "id": "7493033516008603648"
+      },
+      {
+        "interaction": null,
+        "link": "https://www.linkedin.com/posts/y-combinator_buildbox-yc-s26-finds-user-facing-agent-activity-7490140692002861056-szJk",
+        "title": "Buildbox (YC S26) finds user-facing agent failures hidden behind successful traces and evals. The most expensive agent failures rarely look like errors. An agent can pass its evals and look healthy in traces while still failing to help users complete important tasks. They ask again, redirect the agent, try a workaround, or give up. Teams usually uncover these patterns after they\u2019ve already affected customers. Buildbox is agent analytics built around user outcomes. We find where important journeys break down, show how often it happens and who it affects, and connect those failures to activation, conversion, and retention. Buildbox then tests better agent behaviors and product experiences, giving teams evidence-backed fixes to review and ship. Founders Mark Nour and Trishala Jain met at UC Berkeley and have been building together for the past three years. Across teams at Netflix, Google, Amazon, and MongoDB, they saw the same pattern: companies had plenty of signals & observability, but finding the issues that actually mattered and turning them into a fix still took a lot of manual detective work. Congrats on the launch, Mark and Trishala! \ud83d\ude80 https://lnkd.in/g-BEkwhg",
+        "img": "https://media.licdn.com/dms/image/v2/D5605AQHuRZ_P1Eb7QA/videocover-high/B56Z_JKL.nGQBM-/0/1785786320900?e=2147483647&v=beta&t=tIrDurr8TosCsKxX3_v3HuJAxqgDyl1ffW6X8I048wY",
+        "id": "7490140692002861056"
+      },
+      {
+        "interaction": null,
+        "link": "https://www.linkedin.com/posts/y-combinator_arden-yc-p26-is-the-ai-native-platform-activity-7457853961367101441-5NP4",
+        "title": "Arden (YC P26) is the AI-native platform for audit teams. At every public company, auditing still runs on spreadsheets and screenshots. Audit teams have to prove the company's controls are working, document how processes run, scope what to test, track issues, and report findings. They do all this work manually, and it's repeated every quarter. SOX compliance alone costs almost $2M a year at a public company, with most of that going to busywork. It's slow, expensive, and broken. Arden is rebuilding audit from the ground up with AI. Their platform works in your existing stack, with direct integrations and computer-use AI agents to capture screenshots from legacy systems that external auditors require. From there, Arden tests controls, documents processes, and produces audit-ready workpapers with full traceability. Auditors stay in the loop for review and judgement. If you work in audit, SOX, or accounting and want to spend less time on manual work, book a demo at ardentech.ai or reach out to founders@ardentech.ai Congrats on the launch, Aryaman Khanna and David Lomelin ! https://lnkd.in/gZ4smQZU",
+        "img": "https://media.licdn.com/dms/image/v2/D5605AQEX9DM5OiV-BA/videocover-high/B56Z3.elipKcBM-/0/1778090928844?e=2147483647&v=beta&t=dYAt7LujmkOo4m37GtAXMwih2N3KyKeJud9YCZF5peE",
+        "id": "7457853961367101441"
+      },
+      {
+        "interaction": null,
+        "link": "https://www.linkedin.com/posts/aryaman-khanna-210a9121b_arden-yc-p26-is-backed-by-y-combinator-activity-7450643893903208448-OBBq",
+        "title": "Arden (YC P26) is backed by Y Combinator. A few weeks ago, we got kicked out of three audit firms in one afternoon. David Lomelin and I were trying to talk to every internal auditor we could find. I scraped 800 contacts and set up a cold outbound sequence that accidentally sent them all at once. Berkeley banned my inbox by the end of the day. Email wasn\u2019t an option anymore, so we figured we\u2019d just show up in person. We grabbed boxes of Insomnia Cookies and walked into audit firms in SF\u2019s Financial District. Most places turned us away. Two teenagers with cookies in audit firm lobbies, nobody knew whether to laugh or call security. We even tried pretending to be DoorDash drivers. But a few people actually sat down with us. What they described blew our minds, internal audit teams doing months of spreadsheet work that software should've killed years ago. The opportunity was way bigger than we realized. We applied to YC three weeks past the deadline. David and I didn\u2019t think they'd even open it. Five days later, we were in the interview telling them what we'd seen. We might be the only 19 year olds losing sleep over SOX compliance. Every public company spends millions of dollars on it and nobody's fixed it. We\u2019re building Arden, the AI-native platform for modern audit teams. If you're in internal audit or know someone who is, I'd love to connect.",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQH0WlqWT5AySg/feedshare-shrink_800/B56Z2YBI1hHgAg-/0/1776371929222?e=2147483647&v=beta&t=MaYtEbK1TI3wkijcgEMvG-KL1gFWyXjxr8DWCGQxvos",
+        "id": "7450643893903208448"
+      },
+      {
+        "interaction": null,
+        "link": "https://www.linkedin.com/posts/raghav-subramaniam_just-had-dinner-with-y-combinator-partner-activity-7430850201080430592-KSNl",
+        "title": "Just had dinner with Y Combinator partner Jared Friedman Loved talking about startups, agency, what's next for frontier models + the next clawdbots of the world, and how to encourage just building Thanks again to Ishika Gupta , Kelvin Chang , Maheshwar Murugesan , Ami Yoshimura \ud83c\udf75 for helping make this happen Super cool being with Nathan Shatz , Zayd Humayun , Edward Lee , Wonji Seo , Ayan Chandrasekaran , Jainam Patel , William Furge , Karen Vera Sanchez , and Pedro Almeida !",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQGuykRa18gvOQ/feedshare-shrink_800/B56Zx.u4X0JMAg-/0/1771652745007?e=2147483647&v=beta&t=_rgsjpFodUMtKyWsRtOedrU_q8hSsUJm9GGVLS7K5qs",
+        "id": "7430850201080430592"
+      },
+      {
+        "interaction": null,
+        "link": "https://www.linkedin.com/posts/y-combinator_lance-yc-w26-builds-ai-agents-for-hotel-activity-7426671312443531264-NnIK",
+        "title": "Lance (YC W26) builds AI agents for hotel operations that manage guest communication, sales workflows, and on-property execution end-to-end. They\u2019re already working with leading hotel groups in the US operating 50+ hotels across major brands. Hotels still run on phone calls for everything: towels, late checkout, maintenance, parking, and directions. Every request triggers a manual workflow, someone responds, gathers details, routes the task, tracks it down, and follows up. That model breaks when teams run lean. With 65% of hotels reporting staffing shortages, the front desk becomes the bottleneck. During peak periods or after hours, hotels miss up to 40% of inbound requests because the operation does not scale. Lance fixes this by handling guest communication 24/7, qualifying and responding to sales and booking inquiries, and coordinating real on-property execution. The system collects the right details, routes work automatically, escalates when needed, and supports multiple languages. Lance integrates with hotel systems and can take action through vision-based computer-use agents, so requests are resolved faster without handoffs. Every interaction is tracked and visible so staff stays in control, while Lance Pad connects housekeeping, maintenance, and service teams in real time, replaces walkie-talkies with structured communication, and ensures every request moves from intake \u2192 action \u2192 completion. Lance is being built with deep experience across AI, engineering, and hospitality. Caleb Chan built voice and AI agent systems at Google and Salesforce. Gatik Trivedi built voice models at Knowtex and worked on prediction models at Stanford. And Gavin Brennen brings engineering and product expertise coupled with growing up around Marriott hotel operations. If you\u2019re a hotel owner, operator, or management group looking for faster guest service, fewer front desk interruptions, and more scalable operations, book a demo at lance.live or reach out to founders@lance.live . Congrats on the launch Caleb, Gatik, and Gavin! https://lnkd.in/dj5a2FJq",
+        "img": "https://media.licdn.com/dms/image/v2/D4D05AQEkzgS-nBGLvw/videocover-high/B4DZxDDMk3J8BY-/0/1770651445143?e=2147483647&v=beta&t=ATuVuZTt30rYGCUBA4jmUhhAmVePEjoFpH9vW9F6OXg",
+        "id": "7426671312443531264"
+      },
+      {
+        "interaction": "Akshaj Molukutla shared this",
+        "link": "https://www.linkedin.com/posts/akshajmolukutla_ldt-compliance-ai-agent-activity-7358165821967257600-RZao",
+        "title": "Built an AI compliance agent in 2 hours at the NVIDIA AI Agent Builder Hackathon \u2014 my first hackathon ever. Using LangChain, Llama 3.3.1, Brev.dev , and NVIDIA's API, my teammates Siddharth Veerapaneni , Ainur (Ann) N. , and I created a tool that lets users upload Laboratory Developed Test (LDT) documents and instantly checks them for FDA compliance \u2014 especially in light of the updated July 5th regulations. The agent supports multi-session workflows (think ChatGPT but task-specific) and offers real-time insights for regulatory teams. \ud83c\udfa5 Check out the demo here: https://lnkd.in/gK9N6qa7 As someone new to hackathons, this experience was inspiring. I got the chance to meet engineers and builders I\u2019ve looked up to \u2014 including Carter Abdallah \u2014 and left with even more drive to keep building at the intersection of AI, healthcare, and compliance. What made it even more special? I met my teammates for the first time at the event. Despite having just two hours and no prior collaboration, we clicked instantly and built something we\u2019re truly proud of. Huge thanks to NVIDIA and the Brev.dev (Acquired by NVIDIA) team for organizing, and shoutout to all the mentors who helped us bring this to life. Can't wait for the next one! #Hackathon #AI #LangChain #NVIDIA #LLMs #BrevDev #HealthcareTech #RegulatoryTech #FirstHackathon",
+        "img": "https://media.licdn.com/dms/image/sync/v2/D5627AQFTWCdH1hEjDQ/articleshare-shrink_480/B56Zhx1ACSG4As-/0/1754256376242?e=2147483647&v=beta&t=CIBnc4UzmUB-WJS8GIEKXKhQtXKycmMJ3dyNzyITzAo",
+        "id": "7358165821967257600"
+      },
+      {
+        "interaction": "Akshaj Molukutla shared this",
+        "link": "https://www.linkedin.com/posts/akshajmolukutla_drinking-water-quality-in-parks-activity-7123774915547172864-bWh7",
+        "title": "Good afternoon! Please check out this ArcGIS Storymaps I created for a project on testing your local parks' drinking water quality. It is extremely important to know how safe the water that you're drinking is.",
+        "img": null,
+        "id": "7123774915547172864"
+      },
+      {
+        "interaction": "Akshaj Molukutla commented on a post 22h",
+        "link": "https://www.linkedin.com/posts/y-combinator_kara-yc-s26-engineers-ultra-high-purity-activity-7493033516008603648-FZZ1",
+        "title": "This is one of the coolest startups I've seen, I love it",
+        "img": null,
+        "id": "7493033516008603648"
+      },
+      {
+        "interaction": "Akshaj Molukutla commented on a post 1w",
+        "link": "https://www.linkedin.com/posts/y-combinator_buildbox-yc-s26-finds-user-facing-agent-activity-7490140692002861056-szJk",
+        "title": "This is a superteam!! Congrats on the launch\ud83d\udd25",
+        "img": null,
+        "id": "7490140692002861056"
+      },
+      {
+        "interaction": "Akshaj Molukutla commented on a post 1w",
+        "link": "https://www.linkedin.com/posts/y-combinator_buildbox-yc-s26-finds-user-facing-agent-activity-7490140692002861056-szJk",
+        "title": "Thanks for telling me why my users are angry with me :)",
+        "img": null,
+        "id": "7490140692002861056"
+      },
+      {
+        "interaction": "Akshaj Molukutla liked this",
+        "link": "https://www.linkedin.com/posts/y-combinator_osseus-yc-s26-is-the-intelligent-development-activity-7492935388328521730-DbZR",
+        "title": "Osseus (YC S26) is the intelligent development platform for robotics, bringing CI/CD across the mechanical, electrical, and software stack. The age of robots will not be unlocked by better AI models alone. Robot development still involves slow coordination across tools, teams, suppliers, requirements, and testing. Osseus makes this process agentic, compressing the iteration cycle and driving its avoidable cost to zero. Replace a drive motor and the bracket, wiring, electronics, firmware, requirements, and tests may all need to change. Each team sees its part, but nobody sees the complete impact until integration fails. Osseus connects into the tools a robotics team already uses (CAD, ECAD, GitHub, Jira, docs, test runs) and crafts a live dependency graph of the entire robot. It automatically maps each extracted requirement to the components, decisions, tests, and evidence that verify it. When something changes, Osseus traces the downstream impact, runs the relevant tests and simulations, prepares the hardware and software fixes on reviewable branches, and reruns validation before engineers approve and merge them. The Osseus Marketplace brings nearby component availability and lead times into the same design process. Builders can find compatible parts to buy or rent, compare their engineering tradeoffs, and keep prototypes moving. Teams and individuals can also monetize unused components by listing them. Founders Anish Mariathasan and Ayush Patel are Imperial College London engineering and computer science graduates. Between them, they have conducted robotics research at Imperial, ML research at a Harvard-HKU lab, and built agentic systems at Apple. If you build robots professionally or as a hobbyist, join the waitlist at https://osseus.ai , or email founders@osseus.ai ! Congrats on the launch, Anish and Ayush! \ud83d\ude80 https://lnkd.in/gp3_Mdin",
+        "img": "https://media.licdn.com/dms/image/v2/D5605AQG_ozmK3yBX9Q/videocover-high/B56Z_wqvwuHIBM-/0/1786449202183?e=2147483647&v=beta&t=Y5VOiEAfyF7HJcoLhGSr-92C88uzsujMKxX3Yvyfic0",
+        "id": "7492935388328521730"
+      },
+      {
+        "interaction": "Akshaj Molukutla reacted on this",
+        "link": "https://www.linkedin.com/posts/y-combinator_kara-yc-s26-engineers-ultra-high-purity-activity-7493033516008603648-FZZ1",
+        "title": "Kara (YC S26) engineers ultra-high-purity diamond wafers and components for the next generation of hardware. Modern hardware is getting more powerful, smaller, and hotter. AI accelerators in data centers throttle and deliver less compute when heat builds up. High-power RF and lasers lose performance. Aircraft and spacecraft carry heavy cooling systems. Heat is becoming a hard limit on performance. Kara is engineering the hardest material to push that limit. They grow ultra-high-purity diamond wafers and components that transfer heat 5x faster than copper while weighing 60% less. They're already shipping diamond wafers under pilot agreements and purchase orders for data centers, aerospace, and quantum systems. The three founders are best friends from UC Berkeley. Aarin Jhaveri is a fifth-generation diamantaire who has worked across the supply chain and sold millions worth of diamonds. Anuveer Chadha is a chemical engineer who built diamond quantum sensing and advanced materials systems at Berkeley National Lab with the Department of Defense and Department of Energy. Arjun Lakhanpal brings AI/ML experience from Amazon and thermal management research from Berkeley\u2019s Space Sciences Lab. Diamond is their unfair advantage: they know how to grow, control, and engineer it far beyond jewelry. Silicon transformed computing when we learned to manufacture it with extreme purity and control. Kara is doing the same with diamond. Today, their ultra-high-purity diamond pulls heat away from silicon chips. Tomorrow, Kara\u2019s control over purity and defects unlocks diamond as the ultimate semiconductor. Kara is building the diamond computing era. If you\u2019re building hardware where heat, power density or weight is becoming the limit, reach out at founders@karalabs.ai Congrats on the launch, Aarin, Anuveer, and Arjun! \ud83d\ude80 https://lnkd.in/g-uigUBs",
+        "img": "https://media.licdn.com/dms/image/v2/D5605AQHk3W0UzL7CzQ/videocover-high/B56Z_xVOhvHIBU-/0/1786460312858?e=2147483647&v=beta&t=EAAKV1ABdzZH4qEw0I2FzvhjWVOkhq0Ne3WStEZyM1c",
+        "id": "7493033516008603648"
+      },
+      {
+        "interaction": "Akshaj Molukutla liked this",
+        "link": "https://www.linkedin.com/posts/kratikagrawal_six-trillion-dollars-will-be-spent-online-activity-7492975256257622016-QwpS",
+        "title": "Six trillion dollars will be spent online this year. By 2030, a lot of it won\u2019t be spent by people. It\u2019ll be spent by the AI agents they send. Today we\u2019re launching Kinect AI . Every brand now has two customers: people and their agents. Kinect is one platform that sells to both. Every conversation, every journey, every order feeds back into making your brand smarter. Across brands on Kinect today, shoppers who engage convert at 6x the rate of those who don\u2019t. Live the same day. Want to see it on your store? Link in comments.",
+        "img": "https://media.licdn.com/dms/image/v2/D4E05AQHQI_oHTw4ypg/videocover-high/B4EZ_xlIyPHYBM-/0/1786464486160?e=2147483647&v=beta&t=z1ZQ3IpEtR6TZ2f5m_zx8j1igC_GvdFg1DdoHgAn6pg",
+        "id": "7492975256257622016"
+      },
+      {
+        "interaction": "Akshaj Molukutla liked this",
+        "link": "https://www.linkedin.com/posts/yuvan-sundrani_im-fly-out-to-a-cities-to-onboard-customers-activity-7492988446073065472-iP2H",
+        "title": "I'm fly out to a cities to onboard customers in person. We could do this over Zoom. Most companies would. But sitting next to someone while they set up your product for the first time is a completely different experience. You see where they hesitate. You hear the questions they'd never type out in a Slack message. You catch the small things that turn into big problems later. Every time I've done this, I leave with 10x more context than I would have gotten on a call. At Autosana we have a rule: if a customer is getting started with us and we can be there in person, we will be. It doesn't scale. That's the point. The customers who feel taken care of from day one are the ones who stay, expand, and refer you to everyone they know. Compound interest but for trust \ud83e\udef6",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQFVw5SeI877vg/feedshare-shrink_800/B4EZ_xxSdBHkAg-/0/1786467657848?e=2147483647&v=beta&t=thUdA178HtihFU4HSZrbW4okAd3KMZOOEorSNGCn0A4",
+        "id": "7492988446073065472"
+      },
+      {
+        "interaction": "Akshaj Molukutla liked this",
+        "link": "https://www.linkedin.com/posts/aayushgupta04_im-excited-to-share-that-driftwood-was-part-activity-7492989275106365440-l8cq",
+        "title": "I'm excited to share that Driftwood was part of the first a16z speedrun alpha cohort! I spent the summer building it alongside some of the smartest founders I've met. Driftwood creates and sends every prospect a personalized demo, and over the course of the program I went from pre-idea to paying customers. Special shoutouts to Katia Ameri , Andrew Chen , Jordan Mazer , and the rest of the a16z speedrun team for betting on us.",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQF9QcixbQbveA/feedshare-shrink_800/B56Z_xyCKWGQAc-/0/1786467853478?e=2147483647&v=beta&t=CxO0jTF_iBIk8SwNV2NhLrrBV90R-yJ5GLYG3a0cFoA",
+        "id": "7492989275106365440"
+      },
+      {
+        "interaction": "Akshaj Molukutla liked this",
+        "link": "https://www.linkedin.com/posts/y-combinator_jcode-is-the-most-parallelizable-coding-agent-activity-7492623300955623426-EVWI",
+        "title": "Jcode is the most parallelizable coding agent. It is: > 20x more RAM efficient than Claude Code > spawns 63x faster than Codex CLI > SOTA on coding benchmarks > more customizable than pi > supports all your APIs and logins > has built-in memory > fully open source Here's a video of founder Jeremy Huang coding with 20 agents in parallel. \ud83d\ude80 https://lnkd.in/gp4BRmhX",
+        "img": "https://media.licdn.com/dms/image/v2/D5605AQH1r6urYQ7YRg/videocover-high/B56Z_qUQNBKABM-/0/1786342608447?e=2147483647&v=beta&t=POS-UuXn3LrDN0INvLfZ4LdgTSkaFYY_vn2DG4Huzws",
+        "id": "7492623300955623426"
+      }
+    ],
+    "linkedin_num_id": "898558289",
+    "banner_image": "https://media.licdn.com/dms/image/v2/D5616AQGx7pvXgz69wQ/profile-displaybackgroundimage-shrink_200_800/B56ZcyEXFKHoAY-/0/1748891694068?e=2147483647&v=beta&t=fJdZBJDRRWZfdRqky7qkB6TWRsF2S4kcfiy5ncj8YKQ",
+    "honors_and_awards": [
+      {
+        "title": "Dave Pitman Outstanding Community Advocate Award",
+        "publication": "Contra Costa Tobacco Prevention Coalition",
+        "date": "2023-11-01T00:00:00.000Z",
+        "description": "Given to the most dedicated and engaged member of the Contra Costa County Tobacco Prevention Coalition."
+      },
+      {
+        "title": "Contra Costa County Science & Engineering Fair",
+        "publication": "Bay Area LEEDS",
+        "date": "2023-03-01T00:00:00.000Z",
+        "description": "3rd Place: Cigarette Butts\u2019 Role in Poor Plant Growth and Nitrate Levels (Environmental Science Senior Division)"
+      },
+      {
+        "title": "Contra Costa County Science & Engineering Fair",
+        "publication": "Bay Area LEEDS",
+        "date": "2022-03-01T00:00:00.000Z",
+        "description": "2nd Place: Effects of e-cigarettes on locomotive behavior on F2 and reproductive behavior on F1 Generation on Drosophila melanogaster (Biology Senior Division)"
+      },
+      {
+        "title": "California State Science Fair",
+        "publication": "University of Southern California",
+        "date": "2021-03-01T00:00:00.000Z",
+        "description": "Honorable Mention: Effects of e-cigarette liquid on the lifespan of Drosophila melanogaster (Toxicology Senior Division)"
+      },
+      {
+        "title": "Contra Costa County Science & Engineering Fair",
+        "publication": "Bay Area LEEDS",
+        "date": "2021-03-01T00:00:00.000Z",
+        "description": "1st Place: Effects of e-cigarette liquid on the lifespan of Drosophila melanogaster (Biology Senior Division)"
+      }
+    ],
+    "similar_profiles": [],
+    "default_avatar": false,
+    "memorialized_account": false,
+    "bio_links": [],
+    "first_name": "Akshaj",
+    "last_name": "Molukutla",
+    "influencer": false,
+    "timestamp": "2026-08-12T19:22:41.123Z",
+    "input": {
+      "url": "https://www.linkedin.com/in/akshajmolukutla"
+    }
+  },
+  "local_photo": "data\\linkedin_photos\\akshajmolukutla__usr-xGv4IDcvuySAoid.jpg"
+}

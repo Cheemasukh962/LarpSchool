@@ -1,0 +1,204 @@
+{
+  "luma_user_id": "usr-gA8sCNrkZEQP259",
+  "csv_name": "Ashwin K",
+  "csv_linkedin": "https://www.linkedin.com/in/ashwinkal",
+  "enriched_at": "2026-08-12T18:58:28.964691+00:00",
+  "batch_id": "sd_msqgad6c2eeefcaqas",
+  "profile": {
+    "id": "ashwinkal",
+    "name": "Ashwin Kaliyaperumal",
+    "city": "Seattle, Washington, United States",
+    "country_code": "US",
+    "position": null,
+    "about": null,
+    "current_company": {
+      "link": "https://www.linkedin.com/company/bild-ai?trk=public_profile_topcard-current-company",
+      "name": "Bild AI",
+      "company_id": "bild-ai",
+      "location": null
+    },
+    "experience": null,
+    "url": "https://it.linkedin.com/in/ashwinkal",
+    "educations_details": "University of Washington",
+    "education": [
+      {
+        "title": "University of Washington",
+        "url": "https://www.linkedin.com/school/university-of-washington/",
+        "start_year": "2024-07",
+        "end_year": "2028-08",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      },
+      {
+        "start_year": "2020-09",
+        "end_year": "2024-06",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      }
+    ],
+    "avatar": "https://media.licdn.com/dms/image/v2/D5603AQGEEVGlOUiL7A/profile-displayphoto-scale_200_200/B56Z9YtrriIUAc-/0/1783899800172?e=2147483647&v=beta&t=gIuD7XKN0br_-uvxeT6wx6uEaCZTOIfBpOWhdcAWvaE",
+    "certifications": [
+      {
+        "meta": "Issued Dec 2024 See credential",
+        "subtitle": "IBM",
+        "title": "2024 Qiskit Fall Fest Mentor",
+        "credential_url": "https://www.credly.com/badges/61b6bbdb-fed7-4d05-9dae-b4bd8928e14c/public_url?trk=public_profile_see-credential",
+        "credential_id": null
+      },
+      {
+        "meta": "Issued Sep 2023 See credential",
+        "subtitle": "IBM",
+        "title": "Qiskit Global Summer School 2023 - Quantum Excellence",
+        "credential_url": "https://www.credly.com/badges/9375e806-f72b-4f0f-bf33-35268b4d1afa?trk=public_profile_see-credential",
+        "credential_id": null
+      },
+      {
+        "meta": "Issued Feb 2023 See credential",
+        "subtitle": "Microsoft",
+        "title": "Qubit x Qubit Quantum Winter School 2023",
+        "credential_url": "https://www.credly.com/badges/c2a38635-9d83-4521-908f-50325e126cf4?trk=public_profile_see-credential",
+        "credential_id": null
+      },
+      {
+        "meta": "Issued Jul 2021",
+        "subtitle": "IBM",
+        "title": "Qiskit Global Summer School 2021 - Certificate of Quantum Excellence",
+        "credential_url": null,
+        "credential_id": null
+      },
+      {
+        "meta": "Issued May 2021",
+        "subtitle": "IBM",
+        "title": "Qubit x Qubit - Introduction to Quantum Computing Course",
+        "credential_url": null,
+        "credential_id": null
+      }
+    ],
+    "followers": 278,
+    "connections": 274,
+    "current_company_company_id": "bild-ai",
+    "current_company_name": "Bild AI",
+    "publications": [
+      {
+        "title": "An Environmental Qubit: Quantum Computing and Its Applications in Climate Change Solutions",
+        "subtitle": "Kindle Direct Publishing",
+        "date": "September 8, 2023"
+      }
+    ],
+    "projects": [
+      {
+        "title": "Quantum Optimization Algorithm To Efficiently Route Public Transportation In Cities",
+        "start_date": "May 2022",
+        "description": "Cars are one of the biggest polluters of greenhouse gases and to reduce their impact on the environment, there needs to be a nation-wide shift towards the use of public transportation - specifically the use of buses. Designing new bus routes can help buses arrive more frequently on time, especially during rush hour, which is an incentive for people to use buses. The Urban Transit Routing Problem (UTRP) is an NP-hard optimization problem, solved with heuristic algorithms that output approximate solutions, that focuses on constructing bus routes from an existing road network. The purpose of this project is to use quantum computing to solve the UTRP by minimizing a road network\u2019s average travel time (ATT), a measure of the average travel time for all passengers to travel between all pairs of bus stops. My engineering goal was to use quantum computing, which has a theoretical advantage over heuristics in solving NP-hard problems, to produce routes with a lower ATT than heuristics for Mandl\u2019s Swiss benchmark and existing bus routes in downtown Seattle. My algorithm achieved an ATT of 10.11 minutes for the benchmark, which is an improvement over current UTRP solvers. Additionally, my algorithm decreased the ATT in a section of downtown Seattle by 53%. This research supported my engineering goals by showing the feasibility of using quantum computers to develop routes with a lower ATT than both classical heuristic methods for a benchmark and existing bus routes in downtown Seattle."
+      },
+      {
+        "title": "Duck Like - A Duck Life Remake",
+        "start_date": "Jan 2024",
+        "description": "Co-led scrum meetings for team of 4, developed game using Unity and C# with object-oriented programming, used Github to centralize code and work asynchronously"
+      },
+      {
+        "title": "Finding Patterns Between Level 2 Minutiae and Distance of the Minutiae from the Fingerprint Core",
+        "start_date": "Nov 2022",
+        "description": "Created AI computer vision (OpenCV) algorithm to analyze fingerprint minutiae; developed statistical model of minutiae frequency vs radius from core"
+      }
+    ],
+    "location": "Seattle",
+    "input_url": "https://www.linkedin.com/in/ashwinkal",
+    "linkedin_id": "ashwinkal",
+    "activity": [
+      {
+        "interaction": "Ashwin Kaliyaperumal shared this",
+        "link": "https://www.linkedin.com/posts/ashwinkal_a-draft-of-my-blog-post-on-combinatorial-activity-7419554380053524481-SyGZ",
+        "title": "A draft of my blog post on combinatorial optimization problems and potential quantum computing solutions in the pharmaceutical industry is now on the Iff.bio website - https://iff.bio/blog.html . I describe the drug-discovery pipeline, and the various tracks of getting a compound to market, and talk about classical and quantum algorithms for molecular docking, clinical trial design, supply chain optimization, and the dynamic filling drug optimization problem. I focused on problems that quantum algorithms and QPU's could potentially provide a speedup for over classical solutions. Thank you so much to Samarth Sandeep and Kirk McGregor for their guidance and help throughout writing this blog post, and I\u2019m looking forward to working more on using quantum computing for Molecular Docking and learning more about pharma-related combinatorial optimization problems! ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQEALx-FZlEZNw/feedshare-shrink_800/B56ZveNYuyIQAk-/0/1768959611080?e=2147483647&v=beta&t=fGwyjVk6RRiFJIvAxzcU3ybTV2-MZ_u3NcqHqmv2ynM",
+        "id": "7419554380053524481"
+      },
+      {
+        "interaction": "Ashwin Kaliyaperumal liked this",
+        "link": "https://www.linkedin.com/posts/vincentyangnu_this-past-weekend-i-had-the-supa-cool-opportunity-activity-7490022664573747200-q9sW",
+        "title": "This past weekend I had the supa cool opportunity to attend YC startup school! As much as I would love to say how this event was the springboard for a startup- I think the biggest prize I got to take home is the talks helping me decide what I want to do in the future. I got to meet some really cool people as well! Just like stealth startups tho, let me cook a bit before I drop my next updates :)",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQHYMJQcd1U5GA/feedshare-image-high-res/B56Z_Hn6MxK0AY-/0/1785760556490?e=2147483647&v=beta&t=msVVmSq3WLzJ_bHq6g5fHiS_IWfc2Jx74zrRHksctyU",
+        "id": "7490022664573747200"
+      },
+      {
+        "interaction": "Ashwin Kaliyaperumal liked this",
+        "link": "https://www.linkedin.com/posts/hoaio_qac-quantumsoftware-quantumcloud-activity-7487005699604959233-L4Vp",
+        "title": "It was a great week at the IEEE World Congress on SERVICES 2026 in Sydney earlier this July, and I'm still thinking about the insightful conversations. I had the honour of giving an invited talk at the IEEE Quantum Software 2026 Symposium: \"When Quantum Meets AI in the Cloud: A Software Systems Perspective on Resource Orchestration.\" My argument was simple: Quantum advantage will not arrive through hardware advancement alone. It will also depend on the quantum software systems and cloud services that decide what runs where, when, and at what cost. That layer still feels wide open to me, and it may be where our community can move most quickly. Two of our papers at the congress approach that problem from different ends: - QBugLM (IEEE QSW 2026) starts with the developer, asking whether LLM agents can genuinely debug quantum programs. We give the community an agentic benchmark framework to measure what these agents can actually do in finding and repairing bugs for quantum software. - QCOEM (IEEE CLOUD 2026) starts with the platform, treating quantum cloud orchestration as a multi-objective problem where fidelity, waiting time, and cost rarely agree. Here we solve those trade-offs with evolutionary optimisation, which complements the deep reinforcement learning angle we took earlier in DRLQ and QFOR. Both point toward what we are building at QuantumAI.Cloud (QAC) intersection: quantum as a cloud resource, and AI as the layer that helps developers and orchestrators reason about it. \ud83c\udf89 Huge thanks to the organisers, my supervisor Muhammad Usman , my co-authors and students Tam Pham and Andrew Pham , who together did the great work. Still early days for us at QAC, but that is exactly what makes it worth doing. #QAC #QuantumSoftware #QuantumCloud #QBugLM #QCOEM",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQE50i7kxQEq5g/feedshare-shrink_800/B56Z.cwAYgKMAc-/0/1785041259214?e=2147483647&v=beta&t=YOfBVlFXJg_lyIgmrm-_RRF85Wz1XnX4CL515FyB7Zg",
+        "id": "7487005699604959233"
+      },
+      {
+        "interaction": "Ashwin Kaliyaperumal liked this",
+        "link": "https://www.linkedin.com/posts/erich-hardy-bbb051337_some-people-see-business-travel-and-think-activity-7480936348787335168-8hjQ",
+        "title": "Some people see business travel and think, \u201cThat must be nice.\u201d What they don\u2019t see are the 5:00 a.m. departures, working from hotel rooms, customer dinners, long days, and the work waiting the moment you get home. I left Tuesday morning at 5:00 a.m., flew to Nebraska, went straight to the hotel, and got to work. That evening I met with a couple of potential clients over dinner, and the next day I had the opportunity to build relationships at the Cornhusker Classic. Now it\u2019s 5:00 a.m. CST, and I\u2019m on my way back to Las Vegas. As soon as I land, I\u2019m jumping straight into six back to back meetings. The grind creates the opportunity. Every early flight, every customer conversation, every mile traveled, and every meeting is another chance to earn trust, solve problems, and help others succeed. I\u2019m grateful to be part of the team at Bild AI that\u2019s building something special, and I\u2019m excited for what\u2019s ahead.",
+        "img": null,
+        "id": "7480936348787335168"
+      },
+      {
+        "interaction": "Ashwin Kaliyaperumal liked this",
+        "link": "https://www.linkedin.com/posts/samarth-sandeep-81a02487_it-was-truly-a-pleasure-i-got-all-sorts-activity-7488381446634754050-HYMz",
+        "title": "It was truly a pleasure, I got all sorts of interesting questions from \"What is a quantum computer, really?\" to questions about me personally, like \"Do you still see building a seawater powered car as viable?\" Always a good time with students and an even better time at Aggie Square :)",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQH31Rs-Zn0HjA/feedshare-shrink_800/B4EZ.wSu5KIAAc-/0/1785369129445?e=2147483647&v=beta&t=fLNhkFhG3cJw0_gT3Ks7PrRtBeZQv_U9LnpnLe0iCzo",
+        "id": "7488381446634754050"
+      },
+      {
+        "interaction": "Ashwin Kaliyaperumal liked this",
+        "link": "https://www.linkedin.com/posts/ifftech_ceo-samarth-sandeep-was-in-los-angeles-at-activity-7489080136869310466-viEc",
+        "title": "CEO Samarth Sandeep was in Los Angeles at the Qubits Ventures ' \"Quantum Biology: The Next Frontier of Computing, Life, and Intelligence\" Conference at University of Southern California last week. He was proud to speak on a panel titled \"Lab to Life: Building Companies at the Intersection of Quantum and Biology\" alongside: -Nanoscience inventor, founder, and scientist Paul Weiss of UCLA , Nanotrace , Entropic Biosciences, Inc. and Greenbox Venturelabs -Quantum biology scientist and founder Nirosha J. Murugan of Wilfrid Laurier University and HelioFlux -Physicist and COO Alessandro Lodesani of the Quantum Biology Institute -Bioinformatician and head of chemistry Brian L. Ross, Ph.D. of the Quantum Biology Institute Thank you to the moderator and host Nardo Manaloto for the invite and for continuing to invest in this space at the intersection of quantum mechanics, information science, and technologies and bioscience.",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQGShw9zvqz-4w/feedshare-shrink_800/B56Z.6Os1oHIAc-/0/1785535843968?e=2147483647&v=beta&t=eDVVZ65SlFj8jpDupFRSmqq5X3XMy2W6ATeLLtO9tl8",
+        "id": "7489080136869310466"
+      },
+      {
+        "interaction": "Ashwin Kaliyaperumal liked this",
+        "link": "https://www.linkedin.com/posts/erich-hardy-bbb051337_another-successful-week-in-the-books-at-bild-activity-7478473608755978240-bJBC",
+        "title": "Another successful week in the books at Bild AI This week, I had the opportunity to present more demos than any week since joining the company. More importantly, every conversation reinforced why I\u2019m so excited to be part of this team. I\u2019m fortunate to work alongside some of the most talented, creative, and intelligent people I\u2019ve met in my career. Every day we\u2019re challenging each other to think differently, listening to customer feedback, and pushing ourselves to build the most effective solution possible for the Division 8 industry. Our mission is simple: help distributors and manufacturers do more with the teams they already have, allowing them to pursue more opportunities, improve efficiency, and grow their businesses without adding unnecessary overhead. Watching that vision come to life alongside this team has been incredibly rewarding. I\u2019m excited to see where the journey takes us next. If you\u2019re in the Division 8 industry and are looking for ways to help your team accomplish more with the same resources, I\u2019d love to connect and hear about the challenges you\u2019re trying to solve.",
+        "img": null,
+        "id": "7478473608755978240"
+      },
+      {
+        "interaction": "Ashwin Kaliyaperumal liked this",
+        "link": "https://www.linkedin.com/posts/erich-hardy-bbb051337_ai-division8-bildai-activity-7476516337612169216-Dtz1",
+        "title": "Another successful week in the books, and I\u2019m grateful for the momentum. One thing that\u2019s become clear over the past several weeks is that the conversation around AI in the door, frame, and hardware industry has changed. AT DHI conNextions Conference & Exhibition Nashville. AI wasn\u2019t just one topic, it was part of nearly every discussion. What\u2019s been most rewarding isn\u2019t just booking meetings or welcoming new customers. It\u2019s hearing distributors and manufacturers ask the same question: \u201cHow can we help our teams work smarter without sacrificing accuracy?\u201d After 25+ years in this industry, it\u2019s exciting to be part of technology that\u2019s helping answer that question. Every conversation has reinforced that this industry is ready to embrace innovation that creates real value. A sincere thank you to everyone who\u2019s taken the time to meet with us, ask questions, and share your feedback. The relationships in this industry continue to be its greatest strength. If you\u2019ve been hearing the buzz around AI but aren\u2019t sure how it applies to your business, I\u2019d love to show you how Bild AI is helping distributors and manufacturers streamline estimating, improve accuracy, and empower their teams. Reach out, I\u2019d be happy to schedule a personalized demo and learn more about your business. #ai #division8 #bildai #technolgy",
+        "img": null,
+        "id": "7476516337612169216"
+      },
+      {
+        "interaction": "Ashwin Kaliyaperumal liked this",
+        "link": "https://www.linkedin.com/posts/anshu-agg_universityofwashington-uwalumni-computerscience-activity-7476682892635529217-qi8S",
+        "title": "Last week, I walked the stage at the University of Washington \u2019s commencement ceremony. As I stood there, I thought about how different my journey ended up being from what I originally expected. When I started studying computer science, I never imagined I would complete my degree two years early and head directly into a full time role at Amazon . But looking back, what stands out most isn\u2019t any single achievement. Over the past two years, I completed my private pilot flight training, competed nationally on a Bollywood fusion dance team, founded and grew UW\u2019s intercollegiate competitive cricket club, and contributed to research at the Programmable Matter Lab. What connected all of these experiences wasn\u2019t a master plan but a mindset of growth and learning. I\u2019ve realized that some of the most meaningful opportunities in college (and in life) come from saying yes to things before you feel fully qualified for them. Joining a dance workshop. Taking on a challenging course load. Starting an organization that didn\u2019t exist. Exploring a field you know little about. Many of the skills and opportunities that shaped my journey came from pursuing interests that initially had nothing to do with my career, and developing those skills through various learning experiences. For students and early-career professionals, my biggest takeaway is this: Your growth is often determined less by the opportunities available to you and more by your willingness to step into unfamiliar situations and learn. The people who grow the fastest aren\u2019t always the ones with the clearest roadmap. They\u2019re the ones who stay curious, keep showing up, and consistently put themselves in environments where they can learn. I\u2019m incredibly grateful to my family, friends, peers, and professors who challenged me, supported me, and helped me grow along the way. This July, I\u2019ll be starting my full-time role at Amazon. I\u2019m excited for the next chapter and, more importantly, for all the new things I\u2019ll get to learn. Here\u2019s to staying curious. #UniversityOfWashington #UWAlumni #ComputerScience #TechCareers #Amazon #ContinuousLearning #GrowthMindset #SoftwareEngineering #Innovation",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQG9XW_AvcgHQw/feedshare-image-high-res/B56Z8KDeFMLAAU-/0/1782580109925?e=2147483647&v=beta&t=uhVkQpAipRfx9UNxRsfVfMeO30P660vniETSvI3Bil4",
+        "id": "7476682892635529217"
+      }
+    ],
+    "linkedin_num_id": "1004686601",
+    "banner_image": "https://static.licdn.com/aero-v1/sc/h/5q92mjc5c51bjlwaj3rs9aa82",
+    "honors_and_awards": [
+      {
+        "title": "Regeneron Top 300 Semifinalist",
+        "publication": "Society for Science",
+        "date": "2024-01-01T00:00:00.000Z",
+        "description": "https://www.societyforscience.org/regeneron-sts/2024-scholars/"
+      },
+      {
+        "title": "AP Scholar with Distinction",
+        "publication": "College Board",
+        "date": "2022-06-01T00:00:00.000Z",
+        "description": "The AP Scholar with Distinction Award is granted to students who receive an average score of at least 3.5 on all AP Exams taken, and scores of 3 or higher on five or more of these exams."
+      }
+    ],
+    "similar_profiles": [],
+    "default_avatar": false,
+    "memorialized_account": false,
+    "bio_links": [],
+    "first_name": "Ashwin",
+    "last_name": "Kaliyaperumal",
+    "influencer": false,
+    "timestamp": "2026-08-12T18:56:41.432Z",
+    "input": {
+      "url": "https://www.linkedin.com/in/ashwinkal"
+    }
+  },
+  "local_photo": "data\\linkedin_photos\\ashwinkal__usr-gA8sCNrkZEQP259.jpg"
+}

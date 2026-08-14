@@ -1,0 +1,269 @@
+{
+  "luma_user_id": "usr-5zXhc1rmsjfR7CO",
+  "csv_name": "Megan Yap",
+  "csv_linkedin": "https://www.linkedin.com/in/megan-qz-yap",
+  "enriched_at": "2026-08-12T19:12:29.398494+00:00",
+  "batch_id": "sd_msqgtpzbeylkhkm9p",
+  "profile": {
+    "id": "megan-qz-yap",
+    "name": "Megan Yap",
+    "city": "Ithaca, New York, United States",
+    "country_code": "US",
+    "position": null,
+    "about": "designing &amp; building cool things. highlights are lingofable (language learning\u2026",
+    "current_company": {
+      "link": "https://www.linkedin.com/company/google?trk=public_profile_topcard-current-company",
+      "name": "Google",
+      "company_id": "google",
+      "location": null
+    },
+    "experience": null,
+    "url": "https://cz.linkedin.com/in/megan-qz-yap",
+    "educations_details": "Cornell University",
+    "education": [
+      {
+        "title": "Cornell University",
+        "url": "https://www.linkedin.com/school/cornell-university/",
+        "start_year": "2023-08",
+        "end_year": "2026-12",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      },
+      {
+        "start_year": "2021-08",
+        "end_year": "2023-05",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      },
+      {
+        "start_year": "2012-01",
+        "end_year": "2020-12",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      }
+    ],
+    "avatar": "https://media.licdn.com/dms/image/v2/D5603AQG1iCvsrzFEqQ/profile-displayphoto-scale_200_200/B56Z6BnLaxHcAg-/0/1780290992061?e=2147483647&v=beta&t=DzmEgNf98jUln2SaCJVeZwbjMMd10y5CCzRS6EE_hag",
+    "courses": [
+      {
+        "subtitle": "CS3410",
+        "title": "Computer System Organization and Programming"
+      },
+      {
+        "subtitle": "CS3110",
+        "title": "Data Structures and Functional Programming"
+      },
+      {
+        "subtitle": "CS4700",
+        "title": "Foundations of Artificial Intelligence"
+      },
+      {
+        "subtitle": "CS4820",
+        "title": "Introduction to Analysis of Algorithms"
+      },
+      {
+        "subtitle": "CS4320",
+        "title": "Introduction to Database Systems"
+      },
+      {
+        "subtitle": "CS2110",
+        "title": "Object-Oriented Programming and Data Structures"
+      },
+      {
+        "subtitle": "INFO3350",
+        "title": "Text Mining History and Literature"
+      }
+    ],
+    "languages": [
+      {
+        "subtitle": "Native or bilingual proficiency",
+        "title": "English"
+      },
+      {
+        "subtitle": "Limited working proficiency",
+        "title": "Chinese"
+      },
+      {
+        "subtitle": "Elementary proficiency",
+        "title": "Korean"
+      }
+    ],
+    "followers": 1733,
+    "connections": 500,
+    "current_company_company_id": "google",
+    "current_company_name": "Google",
+    "projects": [
+      {
+        "title": "GCal Wrapped",
+        "start_date": "Apr 2025",
+        "description": "Developed product strategy and designs for calendar analytics platform, focusing on viral potential and shareability for a Gen Z audience. 10K users across 200+ universities."
+      },
+      null,
+      {
+        "title": "SG Booths",
+        "start_date": "Aug 2022",
+        "description": "Built mobile application from inception to launch, allowing artists and creators to track upcoming \u201cmakers' markets\u201d in Singapore\u2019s emerging creative space. Recognized an untapped market need and partnered with local creative organizations to develop product strategy, achieving over 300 App Store downloads within the first two weeks of release.Tech stack: React Native, Firebase"
+      }
+    ],
+    "location": "Ithaca",
+    "input_url": "https://www.linkedin.com/in/megan-qz-yap",
+    "linkedin_id": "megan-qz-yap",
+    "activity": [
+      {
+        "interaction": "Megan Yap shared this",
+        "link": "https://www.linkedin.com/posts/megan-qz-yap_shipping-your-side-projects-from-0-1-activity-7490841682817593344-awAA",
+        "title": "Last week, I led a UX Workshop at work ( Google !) on how to ship your side projects as a designer, with 400+ viewers \u2014 with how fast AI is evolving, it's now easier than ever to build and create. But many designers are still super intimidated by the technical side of things or don't know how to get started. I've shipped several consumer side projects to 13k+ users, and have learned a lot along the way \u2014 so here's a practical step-by-step guide on how to ship 0-1, modified from my workshop slides! \ud83d\udca11: Ideation Brainstorming with AI can be pretty awesome. I'm NOT saying to let AI take over your idea; you should definitely use your own creativity. But it can be a fantastic resource for expanding on your thoughts! \ud83c\udfa8 2: Designing I always design first in Figma \u2014 but in my opinion, the no. 1 mistake is letting yourself get stuck in the weeds and endlessly iterating because you want your designs to be perfect. Figure out if your goal is shipping or creating a \"perfect\" product. \ud83e\udd16 3: Where to build? Vibe coding platforms (Lovable, Replit) are visual first and auto-configure your infrastructure for you, but are not great for complexity. I strongly prefer coding agents (Claude, Codex) for full flexibility and because MCPs instantly solve the problem of configuring/setting up infrastructure etc. \ud83e\uddd1\u200d\ud83d\udcbb 4: Setting up You can send a prompt like: \"I'm not very technical but I want to build ABC. Help me figure out my tech stack, feasibility of each feature, and how to set up the necessary infrastructure.\" Ask your agent to connect MCPs to automate the setup! Remember, you can ask for step-by-step instructions for literally anything at any point in time. \ud83d\udd28 5: Building! Ask your agent to create a plan with multiple stages of development (e.g. MVP features, then auth, then nice-to-have features). For each stage, have a self-contained prompt that can be pasted into a new session to kick off development. Makes this super easy! \ud83e\udeb2 6: Testing & bug-bashing 1. \"Spin up multiple subagents to do a comprehensive audit of each part of the codebase.\" 2. \"Use Playwright to walk through my user flows and ensure the flows operate as intended.\" 3. \"Imagine you're XYZ. Simulate using the app and give me a report.\" \ud83d\ude80 7: Time to deploy Again, you can just ask your agent for step-by-step instructions. Popular options are Vercel and Cloudflare. With MCPs, you can get your project off localhost in 1 minute \u2014 you will need to do this to share your projects with other people. \ud83e\udd94 8: Adding analytics! I think analytics are so helpful and teach you so much about how to optimize and improve. I absolutely love PostHog \u2014 you can watch session replays of users interacting with your UI, create custom insights (not just vanity metrics like MAU), etc. \ud83c\udf10 9: GTM Figure out where your target users are. Post on social media, do cold outreach etc. More than ever, it's also really important that you show up in LLM summaries. Ask your agent to optimize this (+ do regular SEO) for you. ...more",
+        "img": null,
+        "id": "0"
+      },
+      {
+        "interaction": null,
+        "link": "https://www.linkedin.com/posts/florian-boelter_megan-yaps-portfolio-reminded-me-how-much-activity-7460268645525372930-pkm1",
+        "title": "Megan Yap \u2019s portfolio reminded me how much room there still is for personality on the web. And honestly, I wish more designers leaned into that. There\u2019s a little mascot wandering around the screen that you can drag around. A visitor card interaction where you leave your own signature. Tiny playful moments everywhere that reward curiosity and make the whole thing feel deeply personal. None of it feels gimmicky though. That\u2019s the important part. Because underneath all the experimentation, the fundamentals are extremely strong. The storytelling is clear, the interaction design is thoughtful, the projects are real, and the craft level holds everything together. That\u2019s why this works. Will this land well with a hiring manager in a large enterprise org? Nah. But it doesn\u2019t want to. Portfolios need positioning and should be opinionated. This is how you can craft something memorable. In Megan's case I even have a visitor card to show for it! My full Portfolio Showcase in the comments \u2193 ...more ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D4D22AQEdm3p2H1ARNg/feedshare-shrink_800/B4DZ4gyyTVKcAc-/0/1778666648632?e=2147483647&v=beta&t=eJ4sobzhxdaQYgC9u-eLEWX__uoW307W1YSlo-5yHQc",
+        "id": "7460268645525372930"
+      },
+      {
+        "interaction": null,
+        "link": "https://www.linkedin.com/posts/caroline-zhu-cu2026_tambr-multi-voice-reader-app-app-store-activity-7456815726599843840-gbxp",
+        "title": "I spend WAY too much time reading on my phone -- easily 10+ hours some days, usually squinting at size-10 text in the dark. At some point, I realized I\u2019d rather be listening to stories instead. But most audio tools make dialogue sound completely robotic. So I built Tambr (pronounced \u201ctimbre\u201d lol). Tambr turns any text into a multi-voice audiobook. Paste, upload, or link anything, and each character gets a distinct voice, with age, gender, region inferred from the story so your characters actually feel real. Just launched today on Product Hunt + I\u2019d really appreciate your support: \u2022 Upvote on Product Hunt: tinyurl.com/tambrproduct \u2022 Download and leave a review on the App Store: https://lnkd.in/es9WiX5R Shoutout to Sennet S. , Nikhil S. , and Abigail So for all the late-night building sessions \ud83e\udebb\ud83e\udebb ...more ...more",
+        "img": "https://media.licdn.com/dms/image/sync/v2/D4E27AQHgVWqw39yOfw/articleshare-shrink_800/B4EZ3vsoddIwAI-/0/1777842948650?e=2147483647&v=beta&t=hjDLKAqVRFR8E3l-JAiJQuDgPtKy6cZ3UYJURGVeKvY",
+        "id": "7456815726599843840"
+      },
+      {
+        "interaction": "Megan Yap shared this",
+        "link": "https://www.linkedin.com/posts/megan-qz-yap_i-just-revamped-my-portfolio-with-claude-activity-7454919815753838592-loAp",
+        "title": "I just revamped my portfolio with Claude Code, and over 1,000 people have created their own personal visitor card there in the past week! Come check it out and leave your mark \ud83c\udf31 The process: 1. Design main screens in Figma and note down interaction ideas 2. Use Figma and Cloudflare MCP to build working MVP with Claude Code 3. Brainstorm additional easter eggs and iterate with Claude 4. Use iterative testing loops with Claude Code and Playwright to test edge cases and functionality 5. Build an admin moderation page because people keep submitting questionable visitor cards \ud83d\ude2d 6. Keep on iterating and polishing (thanks to a lot of helpful feedback from Design Meetup !) 7. Add random fun things like visitor gallery stats and pet hat stats \ud83d\udc52 \ud83d\udd17 https://meganyap.me/ ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D4E05AQF-UMjg01m9Vw/videocover-high/B4EZ3UyBOSJUBM-/0/1777391378615?e=2147483647&v=beta&t=Qa_wq5armD6dm3_-uaVRe8gc06MtzksBAs-VWASaqKM",
+        "id": "7454919815753838592"
+      },
+      {
+        "interaction": "Megan Yap shared this",
+        "link": "https://www.linkedin.com/posts/megan-qz-yap_did-you-know-that-cornell-has-a-secret-supply-activity-7451396822851375104-jgxo",
+        "title": "Did you know that Cornell has a secret supply chain running through the Strait of Hormuz??? Well neither did Khai Xin Kuan and I! We just built an INSANE conspiracy news agent that delivers your news by creating a crazy conspiracy theory using two distinct recent events. One is always based on your interests, and the other is a new topic \u2014 so you're also learning with every single news drop \ud83d\udc40 Built this for the Ara (YC P26) Hackathon. The news stories are actually crazy, we might turn this into a real iMessage bot that texts you a new conspiracy every morning and evening! Sven Myhre Adi S. DayDreamers Production Chinat Yu MentorMates ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQG5I-xcD9WNZg/feedshare-shrink_800/B4EZ2it66fGYAc-/0/1776551441495?e=2147483647&v=beta&t=ezGD9bjoBxwY07X5QTMAlo7CmrpUf-jdFJbLTQe6bGQ",
+        "id": "7451396822851375104"
+      },
+      {
+        "interaction": "Megan Yap shared this",
+        "link": "https://www.linkedin.com/posts/megan-qz-yap_after-5-months-and-countless-late-night-lock-in-activity-7440449062585307136-16q3",
+        "title": "After 5 months and countless late night lock-in sessions, Simon Ilincev and I have finally launched Lingofable on the App Store!! Language learning textbooks are often super dull, and memorizing vocab through flashcards means you don't know how to use it in an actual sentence. On the other hand, Lingofable is all about learning naturally through curated stories from fantasy and romance to Reddit-style r/AmITheJerk posts \ud83d\udc40 We utilize research-backed methods to ensure that your library is at a perfect i+1 level, which has been proven to be the most effective for language acquisition! In other words, this is literally the fastest and most enjoyable way for you to improve. If you're learning a language, we'd love for you to try it out! Link is in the first comment :) ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQGbVbjqRUT5xA/feedshare-shrink_800/B4EZ0HI_qXJEAc-/0/1773941292052?e=2147483647&v=beta&t=Ga2HG_UhtVUfPSfwiB-gyeLsNqtC5AUp5snYIvny41k",
+        "id": "5"
+      },
+      {
+        "interaction": null,
+        "link": "https://www.linkedin.com/posts/simon-ilincev_its-been-heads-down-this-semester-and-super-activity-7439346639028432896-D-nh",
+        "title": "It's been heads-down this semester, and super excited to announce that five months, 100k+ lines of code, and a successful beta later, Megan Yap and I have launched Lingofable to the App Store! Lingofable teaches languages through easy, engaging stories from fantasy to Reddit-style threads. It's backed by decades of language-acquisition research on \"comprehensible input\" and supported by Cornell faculty. Live on the App Store \ud83d\udc49: https://lnkd.in/eEpBGR55 Landing page with info and language-specific waitlists @ lingofable.com . Currently we just support Spanish, but more languages are coming over the next few weeks! ...more ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQFZKYBL6oQaRg/feedshare-shrink_800/B4EZz3eWJhJ4Ag-/0/1773678453932?e=2147483647&v=beta&t=pTRe6IgagLs7tl6CiXXdbsfTV01ZBI8beWoYLcs-HCQ",
+        "id": "7439346639028432896"
+      },
+      {
+        "interaction": "Megan Yap shared this",
+        "link": "https://www.linkedin.com/posts/megan-qz-yap_lingofable-language-learning-through-stories-activity-7425555541344780288-Nz0D",
+        "title": "We've been learning languages the wrong way. I've heard so many of my friends say that they have a language learning streak of 300+ but still can't string together a single sentence. They feel like they've been learning for years, but when they try to follow a real-world conversation (let alone participate!) or watch a TV show without subtitles, they still feel like they're lost. Because of this, a lot of people think that they're just not cut out for language learning, but that's not true at all. The problem is actually that most apps and textbooks drill you solely on isolated sentences like \"the boy eats the apple\", which not only lack context, but are also kinda boring \ud83d\ude2d So as linguistics students at Cornell, Simon Ilincev and I decided to build Lingofable: an app that helps you learn languages through immersion in stories exactly at your level. 1\ufe0f\u20e3 Read what you're actually interested in, from fantasy & sci-fi to r/AmITheJerk-style Reddit threads \ud83d\udc40 ngl reading drama is the best way to remember past-tense verbs 2\ufe0f\u20e3 The stories automatically adapt to your proficiency, backed by Stephen Krashen's i+1 principle for comprehensible input 3\ufe0f\u20e3 Tap to get instant definitions and translations without breaking your flow 4\ufe0f\u20e3 Save new words to your favorite SRS platforms (like Anki) to review later I\u2019m currently using it to get my Spanish ready for a trip to Costa Rica! Honestly, it's been so much more fun learning through Lingofable rather than fruitlessly trying to find interesting content online that\u2019s not too easy but also not too hard. We're officially opening the waitlist today! Come and join us as an early tester \ud83e\udee1 \ud83d\udc47 Link to the waitlist is in the first comment! #Lingofable #LanguageLearning ...more",
+        "img": null,
+        "id": "7425555541344780288"
+      },
+      {
+        "interaction": "Megan Yap shared this",
+        "link": "https://www.linkedin.com/posts/megan-qz-yap_google-googlestudents-googleinterns-activity-7424916951086379009-G1G3",
+        "title": "I'm excited to share that I'll be joining Google this summer as a User Experience Design Intern in San Francisco! \ud83c\udf06\ud83c\udf01 Thank you so much to Ross DesChamps , my recruiter, for such a smooth and enjoyable interview experience, as well as to my friends and mentors who have supported me throughout this journey \ud83e\udef6 Super thrilled to be working with Patrick Chan , Nathan Roberts , and the rest of the team! I'm looking forward to a summer filled with lots of learning, exploring, and creating. Also \u2014 if you're going to be in SF/the Bay Area in the summer and want to meet up, let me know! #Google #GoogleStudents #GoogleInterns ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQHcCPaWsAHHQQ/feedshare-shrink_1280/B4EZwgt5NsJ4Ac-/0/1770075428262?e=2147483647&v=beta&t=vg4-VTXaEnFXtQCZ_YLfQjAYnhWe5G8udOto1Tb6QOo",
+        "id": "7424916951086379009"
+      },
+      {
+        "interaction": "Megan Yap replied to a comment 1d",
+        "link": null,
+        "title": "Mika Labadan Thank you Mika!!!",
+        "img": null,
+        "id": null
+      },
+      {
+        "interaction": "Megan Yap replied to a comment 2d",
+        "link": null,
+        "title": "Zara Y. says you!!!",
+        "img": null,
+        "id": null
+      },
+      {
+        "interaction": "Megan Yap replied to a comment 5d",
+        "link": null,
+        "title": "Glad you think so!! Thank you :)",
+        "img": null,
+        "id": null
+      },
+      {
+        "interaction": "Megan Yap liked this",
+        "link": "https://www.linkedin.com/posts/sivana-terr%C3%B3n-gonz%C3%A1lez-48593b29a_this-summer-i-had-the-opportunity-to-attend-activity-7493308897357713408-g1Tp",
+        "title": "This summer, I had the opportunity to attend the XX International Summer Space School in Samara, Russia! Here at Samara State Aerospace University , I led an international, cross-disciplinary team of students, researchers, and PhD-level scientists in designing a SamSat-LED 3U CubeSat mission. Our team focused on designing an LED-based optical backup communication payload using Manchester encoding. I worked through the full engineering pipeline, supervising and contributing to the link budget analysis, power budgeting, solar panel sizing, and apparent magnitude calculations to assess optical downlink feasibility. Furthermore, we built an FSM-based health monitoring architecture integrating battery, temperature, and solar subsystems. The program wrapped up with a technical defense of our design, which was a great test of how well we understood and designed our own system! Beyond the payload work, this program not only gave me a broader exposure to satellite engineering (mission design, subsystems, attitude control, and small-sat operations) but also the chance to lead and learn alongside an incredible group of researchers, scientists, and engineers from around the world! Reminding us that international and multidisciplinary collaboration is fundamental for the future of space exploration. Thanks, Ohana Berger and Angelo Espinoza , for your endless support in this experience! I am so grateful for this opportunity and for the chance to grow as an engineer and a leader. I can\u2019t wait to carry these lessons into my next chapter. Fun little fact... the last photo in this post has an old Soviet propaganda poster that says \"NO! Save it for the nanosatellite!\", and honestly, it's the most accurate summary of our power budget discussions jeje...",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQFg-Gj3DoNhwA/feedshare-image-high-res/B56Z_2UussJMAU-/0/1786544057446?e=2147483647&v=beta&t=alJ2VfIT9nYcX2JtXWNekI-7ys4F1PgRqg6-W02Hbrc",
+        "id": "7493308897357713408"
+      },
+      {
+        "interaction": "Megan Yap liked this",
+        "link": "https://www.linkedin.com/posts/kennethkuh_grok-bot-this-is-a-special-one-to-me-marking-activity-7493025378425335808--q_X",
+        "title": "Grok Bot This is a special one to me, marking a bit of a pivot from Cursor to building with SpaceXAI The night before launch, after sending in my last PR, I found myself thinking about how fortunate I am to be surrounded by such an ambitious team. We tell each other to log off, yet every time I check Slack everyone\u2019s still online \ud83d\udc40. Getting to be part of this product + its branding from the very beginning has been a rollercoaster to say the least. From landing the name and icon, going through probably 200+ sketches, all the way to shipping the final app icon. Shout out to the team Justin Jay Wang Luke Barker Peng Zheng John Bai Tyler Howarth Keith Ahn Chang Liu manuel mu\u00f1oz solera Benji Taylor Jason Ginsberg Thank you all. https://x.ai/bot",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQGaqN6XEnVkzg/feedshare-shrink_800/B56Z_yS3WJGsAg-/0/1786476462969?e=2147483647&v=beta&t=onzT0ocyt9CRwuJnVenttwCn74O8gJDWqhUi5OR5i8A",
+        "id": "7493025378425335808"
+      },
+      {
+        "interaction": "Megan Yap liked this",
+        "link": "https://www.linkedin.com/posts/liam-du_were-looking-for-a-small-group-of-great-activity-7492982484419211264-P6xQ",
+        "title": "We\u2019re looking for a small group of great UGC creators to work with Wellspoken. You\u2019ll create short-form talking-head content for TikTok, Reels, and Shorts, with 2 videos posted per day. We\u2019re selective about who we work with. We care much more about whether you\u2019re great on camera and understand what makes content work than how many followers you have. - $2,000/month guaranteed base pay - Performance bonuses up to $1,000 per video (60 videos a month) - Remote and flexible - No minimum follower count If you\u2019re a strong creator and want to make a lot of content, learn quickly, and have meaningful upside when your videos perform, please apply here. \ud83d\udc49 https://lnkd.in/ekmi96Ea Know someone who\u2019d be great? Send this to them.",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQHddvqIRDVUHw/feedshare-shrink_800/B4EZ_xr3ZCHkAc-/0/1786466236275?e=2147483647&v=beta&t=QizcsLi77hedu-Sf4cLklm_CPtLhN9AoSEnk4JD6K24",
+        "id": "7492982484419211264"
+      },
+      {
+        "interaction": "Megan Yap liked this",
+        "link": "https://www.linkedin.com/posts/tise-faith-alatise_first-launch-at-clay-grateful-for-allan-activity-7492983570316152832-979i",
+        "title": "First launch at Clay! Grateful for Allan Yu , Ian Cox , Nick DiLallo , Raschin Fatemi , Nefaur Khandker , Emily Zhong , Graham Cantor-Cooke , Kausar Mukadam , Samuel Swarr , \ud83d\udcbb Vin\u00edcius Baggio Fuentes and Weston Clarke",
+        "img": "https://dms.licdn.com/playlist/vid/v2/D4E10AQEs9kWiu_Db4g/thumbnail-scale_720_1280/B4EZ_xo2j8HoAE-/0/1786465460526?e=2147483647&v=beta&t=_wzMvms1IQBaxaTA9OlSkco0UOxHFHTrGqcWqSBREpM",
+        "id": "7492983570316152832"
+      },
+      {
+        "interaction": "Megan Yap liked this",
+        "link": "https://www.linkedin.com/posts/aaron-gorbaty_wearecisco-entryleveltalent-earlyincareer-activity-7492665035740151809-8swS",
+        "title": "Hi everyone! It hasn\u2019t even been a month since I started working full time at Splunk - a Cisco company, but I already have a few proud moments I\u2019d love to share. First off, I participated in and won my first hackathon! With a lot of help from Yesha Dave and Shivani Ahuja , we were able to create a POC incident triage skill for CI/CD failures. I also had the opportunity to stay with my friend, former Splunktern roommate, and now fellow full-time Splunker, David Huang , in Seattle! While there, I got to visit both the Cisco and Splunk offices and grab a couple beers after work with the team in Seattle ( Raman Arora , Eric Zhang , Wasiq M. , Iden Alba and Kiera Jost ) and meet some of the amazing people who truly make Splunk possible, like Ari Brown and Cecelia Redding . It\u2019s been such a great experience coming back to Splunk and starting this new chapter of my career. Thank you to everyone who has welcomed me back and made these first few weeks so memorable. I truly couldn\u2019t have asked for a better organization to be a part of or a better place to start my career. Excited for everything ahead! #WeAreCisco , #EntryLevelTalent , #EarlyinCareer",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQHGWK9Uwq-M8A/feedshare-image-high-res/B4EZ_tLG27HwAU-/0/1786390549230?e=2147483647&v=beta&t=Pf-0xOAMhLMs4tBQjh2pGFDPurROQe0oMmbkU-Nj4bU",
+        "id": "7492665035740151809"
+      },
+      {
+        "interaction": "Megan Yap liked this",
+        "link": "https://www.linkedin.com/posts/chenchow_day-2-of-usapps-amazing-to-see-usapps-2026-activity-7492232661214617600-IBdV",
+        "title": "Day 2 of USAPPS . Amazing to see USAPPS 2026 happened smoothly. Congrats and thank you to core committee - Henry Tan , Aizat Hazlee, Benedict Lim , Malatthy Umashankar , Miyna Shamshudin, Haidah Saad , Lim Hui Yi , as well as all the facilitators, speakers, supporters etc for making it happen! Thanks to Chan Leong Teng for all the guidance, support and sponsor as well. Thanks to Kian-Ming Ong and Qi Hong YAW for the sponsorship too, as well as Taylor's University Sunway University Kenanga Group for all the support too, as well as all the strategic partners, including National Assembly of Malaysian Students in the United States of America (NAMSA) and many others (listed in the pictures). Prof Datuk Dr Hong Tat Ewe (President & CEO of Universiti Tunku Abdul Rahman (UTAR) ) came over to share on Top Rising Star Program, sponsored by Creador Foundation , which ensures that every high potential students will have opportunities to at least apply to their dream universities. When we first started this initiative back in 2006, the current batch of students were not even borned yet. So, it is interesting to see this journey that encompasses 20 years, with hundreds of facilitators and thousands of students who have crossed through the door of USAPPS. May the students find it useful, able to dream bigger and hopefully achieve their dreams. Good luck to all students applying this year. Congrats to all the students of Class of 2030, who will be going to US universities within next few days or weeks. All the best! Thanks for spending 2 precious days of your final few days in Malaysia with USAPPS. Thanks to many facilitators who are currently studying in US universities, who take time off their precious summer break to be with USAPPS too. During the university booths segment, for my alma mater Cornell, Wesley Yeo , Neshay Aqueel , Henry Tan and myself are at the booth. Another incoming student to Cornell, Lee Hui Hui shared during USAPPS too.",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQHzb_Iaq_PrAA/feedshare-shrink_1280/B56Z_nB1KSHcAM-/0/1786287444887?e=2147483647&v=beta&t=5-cCqP58W4ERt3H13X6TAe1fs7fqTzBfrdKiGTFCo9A",
+        "id": "2"
+      },
+      {
+        "interaction": "Megan Yap liked this",
+        "link": "https://www.linkedin.com/posts/yuvraj-sarda_openais-internal-models-colluded-in-secret-activity-7492026327382990849-4E4e",
+        "title": "The OpenAI\u2013HuggingFace security incident is THE MOST insane thing that has happened this year. It\u2019s almost science fiction and Twitter is going absolutely wild about it. But the rest of the world is dangerously unaware. I wrote an article explaining what happened, with non-technical readers in mind: https://lnkd.in/g7gj-QFw",
+        "img": "https://media.licdn.com/dms/image/sync/v2/D5627AQEox0Hi7tbUeA/articleshare-shrink_800/B56Z_kFvbdJ8AY-/0/1786238139647?e=2147483647&v=beta&t=XdoMd6jASvvBhodMX-ikb00MCIpYdl1qTgv3ALlCb-Y",
+        "id": "7492026327382990849"
+      }
+    ],
+    "linkedin_num_id": "1026928550",
+    "banner_image": "https://media.licdn.com/dms/image/v2/D5616AQHUwwfYrvbbBg/profile-displaybackgroundimage-shrink_200_800/B56Z6BA2kvIUAQ-/0/1780280945239?e=2147483647&v=beta&t=UtHwbuL4eGa_Kf-NX4Zc7C5MYfqYxULPtVyqj2gaxWU",
+    "honors_and_awards": null,
+    "similar_profiles": [],
+    "default_avatar": false,
+    "memorialized_account": false,
+    "bio_links": [
+      {
+        "title": "Portfolio",
+        "link": "https://meganyap.me/"
+      }
+    ],
+    "first_name": "Megan",
+    "last_name": "Yap",
+    "influencer": false,
+    "timestamp": "2026-08-12T19:12:15.616Z",
+    "input": {
+      "url": "https://www.linkedin.com/in/megan-qz-yap"
+    }
+  },
+  "local_photo": "data\\linkedin_photos\\megan-qz-yap__usr-5zXhc1rmsjfR7CO.jpg"
+}

@@ -1,0 +1,218 @@
+{
+  "source": "crustdata",
+  "recovered_from": "brightdata_failed_private",
+  "luma_user_id": "usr-jcfmTStxw3FRiIV",
+  "csv_name": "Nikash Bhardwaj",
+  "csv_linkedin": "https://www.linkedin.com/in/nikash-bhardwaj",
+  "clean_linkedin": "https://www.linkedin.com/in/nikash-bhardwaj",
+  "enriched_at": "2026-08-14T18:07:59.937250+00:00",
+  "person_data": {
+    "basic_profile": {
+      "current_title": "Student Researcher",
+      "first_name": null,
+      "headline": "CS @ CMU",
+      "languages": [],
+      "last_name": null,
+      "location": {
+        "city": "San Francisco",
+        "continent": "North America",
+        "country": "United States",
+        "full_location": null,
+        "raw": "San Francisco, California, United States",
+        "state": "California"
+      },
+      "name": "Nikash Bhardwaj",
+      "normalized_title": {
+        "confident": true,
+        "department": "Education & Research",
+        "matched_title": "Student Researcher",
+        "similarity": 0.9998999834060669,
+        "sub_department": "Research & Laboratory Science"
+      },
+      "professional_network_name": "Nikash Bhardwaj",
+      "profile_picture_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/person/73ffcf8c0fb0d54967f2b29174faa27c4ce775955ed0fa85be3baabc13e96b18.jpg",
+      "summary": ""
+    },
+    "education": {
+      "schools": [
+        {
+          "activities_and_societies": "",
+          "degree": "Bachelor of Science - BS",
+          "description": "",
+          "end_year": null,
+          "field_of_study": "Computer Science",
+          "institute_logo_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/company/7a363ce2c145e772fb259d70d1813ee65b206bc78964727c70b66e37471332b2.jpg",
+          "institute_logo_url": "https://media.licdn.com/dms/image/v2/C560BAQH0rMqWuDcNzA/company-logo_400_400/company-logo_400_400/0/1656670432790/carnegie_mellon_university_logo?e=1777507200&v=beta&t=HnH4JM1m-meKONvUHzXma56hdStznby0i5-YrjBhMec",
+          "location": {
+            "city": "Pittsburgh",
+            "continent": "North America",
+            "country": "United States",
+            "raw": "Pittsburgh, Pennsylvania, United States",
+            "state": "Pennsylvania"
+          },
+          "professional_network_id": "3147",
+          "school": "Carnegie Mellon University",
+          "start_year": null
+        }
+      ]
+    },
+    "experience": {
+      "employment_details": {
+        "current": [
+          {
+            "company_description": "The Robotics Institute at Carnegie Mellon University brings together the top scientific minds, intent on solving humanity\u2019s toughest challenges through robotics. Encompassing the practical and the theoretical, we push the boundaries of collaboration to develop interdisciplinary solutions touching nearly every aspect of human life \u2014 making things safer, more efficient and more productive. We educate, mentor and empower the brightest and most ambitious roboticists to anticipate the future, and then to build the robotics we need to take us there.",
+            "company_professional_network_profile_url": "https://linkedin.com/company/28772091",
+            "company_profile_picture_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/company/45dcdfba7d2e236f1b50230b32dd02932d8c37e54f1236f86cf40284a62f52a3.jpg",
+            "company_website_domain": "cmu.edu",
+            "crustdata_company_id": 6132095,
+            "description": "",
+            "employment_type": "",
+            "end_date": null,
+            "function_category": "Research",
+            "is_default": true,
+            "location": {
+              "raw": "Pittsburgh, PA"
+            },
+            "name": "Carnegie Mellon University Robotics Institute",
+            "position_id": 2811326312,
+            "professional_network_id": "28772091",
+            "seniority_level": "In Training",
+            "start_date": "2024-08-01T00:00:00+00:00",
+            "title": "Student Researcher",
+            "years_at_company": "3 to 5 years",
+            "years_at_company_raw": 2.0
+          },
+          {
+            "company_description": "The Robotics Institute at Carnegie Mellon University brings together the top scientific minds, intent on solving humanity\u2019s toughest challenges through robotics. Encompassing the practical and the theoretical, we push the boundaries of collaboration to develop interdisciplinary solutions touching nearly every aspect of human life \u2014 making things safer, more efficient and more productive. We educate, mentor and empower the brightest and most ambitious roboticists to anticipate the future, and then to build the robotics we need to take us there.",
+            "company_professional_network_profile_url": "https://linkedin.com/company/28772091",
+            "company_profile_picture_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/company/45dcdfba7d2e236f1b50230b32dd02932d8c37e54f1236f86cf40284a62f52a3.jpg",
+            "company_website_domain": "cmu.edu",
+            "crustdata_company_id": 6132095,
+            "description": "",
+            "employment_type": "",
+            "end_date": null,
+            "function_category": "Research",
+            "is_default": false,
+            "location": {
+              "raw": "Pittsburgh, Pennsylvania, United States"
+            },
+            "name": "Carnegie Mellon University Robotics Institute",
+            "position_id": 2811326312,
+            "professional_network_id": "28772091",
+            "seniority_level": "Entry Level",
+            "start_date": "2024-08-01T00:00:00+00:00",
+            "title": "Undergraduate Researcher",
+            "years_at_company": "3 to 5 years",
+            "years_at_company_raw": 2.0
+          }
+        ],
+        "past": [
+          {
+            "company_description": "We are the top research institution in the world for artificial intelligence and machine learning graduate programs.The Machine Learning Department (MLD) at Carnegie Mellon University launched the world's first Ph.D. program in Machine Learning in 2002, and this program continues to grow each year. We have students from 16 different countries with diverse backgrounds who have joined the program with either a bachelor's degree or a master's. Some of our students have experience in the industry and have made the decision to go back to school. A sampling of the backgrounds of our current students includes computer science, math sciences, engineering, automation, business economics, computational biology, finance and neuroscience.In 2015 we added a 5th year MS program and also a Statistics & Machine Learning undergraduate major.In August 2014 we opened our Master's degree in Machine Learning as a terminal degree. We also offer a secondary Masters's degree in Machine Learning, available only to current Carnegie Mellon Ph.D. students and CMU staff at the Pittsburgh campus.In January 2012 we launched an undergraduate minor in Machine Learning, available to Carnegie Mellon undergraduate students.Our faculty are world renowned in the field of Machine Learning and include (6) AAAI Fellows, (4) ACM Fellows (4) IEEE Fellows, and are recognized for their constant contributions to the fields of Machine Learning, Robotics, Artificial Intelligence, Statistics and Computer Science. Our students have been the recipients of numerous awards as well and our graduates go on to contribute in numerous fields, teach at top-notch universities or gain employment at places like Google, Amazon, Facebook, Yahoo Research, etc.Find us on Facebook, Twitter, Instagram, LinkedIn, Medium, GitHub and Youtube as @mldcmu",
+            "company_professional_network_profile_url": "https://linkedin.com/company/11475075",
+            "company_profile_picture_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/company/29e34b624c2550ae68732ae0d75710d440ddbd5b81de4b53f49bcbcf03827781.jpg",
+            "company_website_domain": "cmu.edu",
+            "crustdata_company_id": 6087585,
+            "description": "TA for 10-718: Machine Learning in Practice",
+            "employment_type": "",
+            "end_date": "2026-05-01T00:00:00+00:00",
+            "function_category": "",
+            "is_default": true,
+            "location": {
+              "raw": "Pittsburgh, PA"
+            },
+            "name": "Machine Learning Department at CMU",
+            "position_id": 2811328106,
+            "professional_network_id": "11475075",
+            "seniority_level": "Entry Level",
+            "start_date": "2026-01-01T00:00:00+00:00",
+            "title": "Teaching Assistant",
+            "years_at_company": "Less than 1 year",
+            "years_at_company_raw": 0.0
+          },
+          {
+            "company_description": "We are the top research institution in the world for artificial intelligence and machine learning graduate programs.The Machine Learning Department (MLD) at Carnegie Mellon University launched the world's first Ph.D. program in Machine Learning in 2002, and this program continues to grow each year. We have students from 16 different countries with diverse backgrounds who have joined the program with either a bachelor's degree or a master's. Some of our students have experience in the industry and have made the decision to go back to school. A sampling of the backgrounds of our current students includes computer science, math sciences, engineering, automation, business economics, computational biology, finance and neuroscience.In 2015 we added a 5th year MS program and also a Statistics & Machine Learning undergraduate major.In August 2014 we opened our Master's degree in Machine Learning as a terminal degree. We also offer a secondary Masters's degree in Machine Learning, available only to current Carnegie Mellon Ph.D. students and CMU staff at the Pittsburgh campus.In January 2012 we launched an undergraduate minor in Machine Learning, available to Carnegie Mellon undergraduate students.Our faculty are world renowned in the field of Machine Learning and include (6) AAAI Fellows, (4) ACM Fellows (4) IEEE Fellows, and are recognized for their constant contributions to the fields of Machine Learning, Robotics, Artificial Intelligence, Statistics and Computer Science. Our students have been the recipients of numerous awards as well and our graduates go on to contribute in numerous fields, teach at top-notch universities or gain employment at places like Google, Amazon, Facebook, Yahoo Research, etc.Find us on Facebook, Twitter, Instagram, LinkedIn, Medium, GitHub and Youtube as @mldcmu",
+            "company_professional_network_profile_url": "https://linkedin.com/company/11475075",
+            "company_profile_picture_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/company/29e34b624c2550ae68732ae0d75710d440ddbd5b81de4b53f49bcbcf03827781.jpg",
+            "company_website_domain": "cmu.edu",
+            "crustdata_company_id": 6087585,
+            "description": "TA for 10-605/805: Machine Learning with Large Datasets",
+            "employment_type": "",
+            "end_date": "2025-12-01T00:00:00+00:00",
+            "function_category": "",
+            "is_default": true,
+            "location": {
+              "raw": "Pittsburgh, Pennsylvania, United States"
+            },
+            "name": "Machine Learning Department at CMU",
+            "position_id": 2811322360,
+            "professional_network_id": "11475075",
+            "seniority_level": "Entry Level",
+            "start_date": "2025-08-01T00:00:00+00:00",
+            "title": "Teaching Assistant",
+            "years_at_company": "Less than 1 year",
+            "years_at_company_raw": 0.0
+          },
+          {
+            "company_description": "Carnegie Mellon is known worldwide for our broad view of computer science. We build upon the strong foundations our history has provided and act quickly to explore new directions. We are fearless in pushing the frontiers of our field. Computer Science at Carnegie Mellon is also distinctive for our research style, educational programs, commitment to diversity, culture and organizational structure. It is the union of all these factors \u2014 not just one of them \u2014 that truly distinguishes us from other programs.MISSIONSince our inception over 50 years ago, the Computer Science Department\u2019s mission has remained steadfast: to lead in computer science research and education that has real-world impact \u2014 to push the frontiers of the field and produce the next generation\u2019s leaders.",
+            "company_professional_network_profile_url": "https://linkedin.com/company/18604892",
+            "company_profile_picture_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/company/345ebb4064d4d1d63e2e6bd23204574e2e1858cad6e3b0833980a852d632dbc2.jpg",
+            "company_website_domain": "cmu.edu",
+            "crustdata_company_id": 6539404,
+            "description": "",
+            "employment_type": "",
+            "end_date": "2025-01-01T00:00:00+00:00",
+            "function_category": "Research",
+            "is_default": false,
+            "location": {
+              "raw": "Pittsburgh, Pennsylvania, United States"
+            },
+            "name": "Computer Science Department, Carnegie Mellon",
+            "position_id": 2811317527,
+            "professional_network_id": "18604892",
+            "seniority_level": "Entry Level",
+            "start_date": "2024-01-01T00:00:00+00:00",
+            "title": "Undergraduate Researcher",
+            "years_at_company": "1 to 2 years",
+            "years_at_company_raw": 1.0
+          }
+        ]
+      }
+    },
+    "professional_network": {
+      "connections": 907,
+      "current_title": "Student Researcher",
+      "followers": 906,
+      "headline": "CS @ CMU",
+      "location": {
+        "city": "San Francisco",
+        "continent": "North America",
+        "country": "United States",
+        "raw": "San Francisco, California, United States",
+        "state": "California"
+      },
+      "metadata": {
+        "last_scraped_source": null
+      },
+      "name": "Nikash Bhardwaj",
+      "profile_picture_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/person/73ffcf8c0fb0d54967f2b29174faa27c4ce775955ed0fa85be3baabc13e96b18.jpg",
+      "pronoun": "",
+      "summary": ""
+    },
+    "skills": {
+      "professional_network_skills": []
+    },
+    "social_handles": {
+      "dev_platform_identifier": {
+        "profile_url": null
+      },
+      "professional_network_identifier": {
+        "profile_url": "https://www.linkedin.com/in/nikash-bhardwaj"
+      },
+      "twitter_identifier": {
+        "slug": ""
+      }
+    },
+    "crustdata_person_id": 536677688
+  }
+}

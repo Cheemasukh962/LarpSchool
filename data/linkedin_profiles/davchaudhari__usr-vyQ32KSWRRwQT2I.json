@@ -1,0 +1,201 @@
+{
+  "luma_user_id": "usr-vyQ32KSWRRwQT2I",
+  "csv_name": "David Chaudhari",
+  "csv_linkedin": "https://www.linkedin.com/in/davchaudhari",
+  "enriched_at": "2026-08-12T19:01:42.780811+00:00",
+  "batch_id": "sd_msqgese9ztya3e3uk",
+  "profile": {
+    "id": "davchaudhari",
+    "name": "David Chaudhari",
+    "city": "New York City Metropolitan Area",
+    "country_code": "US",
+    "position": null,
+    "about": null,
+    "current_company": {
+      "link": "https://www.linkedin.com/company/google?trk=public_profile_topcard-current-company",
+      "name": "Google",
+      "company_id": "google",
+      "location": null
+    },
+    "experience": null,
+    "url": "https://lb.linkedin.com/in/davchaudhari",
+    "people_also_viewed": [
+      {
+        "profile_link": "https://www.linkedin.com/in/joymvogo",
+        "name": "Joy Mvogo CPCU, ARM, AU, AIS",
+        "about": "Builders",
+        "location": "28K followers Atlanta, GA"
+      },
+      {
+        "profile_link": "https://www.linkedin.com/in/davidsellsmiami",
+        "name": "Dr. David Garcia D.B.A",
+        "about": "Dazz Capital Ventures, LLC",
+        "location": "24K followers Miami, FL"
+      },
+      {
+        "profile_link": "https://www.linkedin.com/in/glenn-wilkinson-nestle",
+        "name": "Glenn Wilkinson",
+        "about": "Nestl\u00e9",
+        "location": "30K followers Greater Cleveland"
+      },
+      {
+        "profile_link": "https://www.linkedin.com/in/jason-clark-21938a29",
+        "name": "Jason Clark",
+        "about": "MX",
+        "location": "31K followers Lehi, UT"
+      },
+      {
+        "profile_link": "https://www.linkedin.com/in/joshheuchan",
+        "name": "Josh Heuchan",
+        "about": "FloodGate Medical Inc",
+        "location": "29K followers Tampa, FL"
+      },
+      {
+        "profile_link": "https://www.linkedin.com/in/ryan-bass-4a030829",
+        "name": "Ryan Bass",
+        "about": "Imperial PFS",
+        "location": "30K followers Phoenix, AZ"
+      },
+      {
+        "profile_link": "https://www.linkedin.com/in/robert-e-watson-3ab65028",
+        "name": "Robert E. Watson",
+        "about": "Pros & Heroes",
+        "location": "22K followers San Antonio, Texas Metropolitan Area"
+      },
+      {
+        "profile_link": "https://www.linkedin.com/in/michaelhyatt",
+        "name": "Michael Hyatt",
+        "about": "Full Focus",
+        "location": "42K followers Franklin, TN"
+      },
+      {
+        "profile_link": "https://www.linkedin.com/in/jennlongbine",
+        "name": "Jenn Longbine",
+        "about": null,
+        "location": "32K followers Portland, OR"
+      }
+    ],
+    "educations_details": "Massachusetts Institute of Technology",
+    "education": [
+      {
+        "title": "Massachusetts Institute of Technology",
+        "url": "https://www.linkedin.com/school/mit/",
+        "end_year": "2026-12",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      }
+    ],
+    "avatar": "https://media.licdn.com/dms/image/v2/D4E03AQHuotSsYGRW7g/profile-displayphoto-scale_200_200/B4EZuqncQ9LcAc-/0/1768094025381?e=2147483647&v=beta&t=HfCeO60_Ni7kmKXGlTyddf1JgDy2cbn86WCjwx1M9yA",
+    "courses": [
+      {
+        "subtitle": "6.3950",
+        "title": "AI Decision Making and Society (G)"
+      },
+      {
+        "subtitle": "6.8301",
+        "title": "Advances in Computer Vision"
+      },
+      {
+        "subtitle": "6.1910",
+        "title": "Computation Structures"
+      },
+      {
+        "subtitle": "6.1800",
+        "title": "Computer System Engineering"
+      },
+      {
+        "subtitle": "6.1220",
+        "title": "Design and Analysis of Algorithms"
+      },
+      {
+        "subtitle": "6.102",
+        "title": "Elements of Software Construction"
+      },
+      {
+        "subtitle": "6.8200",
+        "title": "Sensorimotor Learning (G)"
+      },
+      {
+        "subtitle": "6.1060",
+        "title": "Software Performance Engineering"
+      },
+      {
+        "subtitle": "6.5940",
+        "title": "TinyML and Efficient Deep Learning (G)"
+      }
+    ],
+    "languages": [
+      {
+        "subtitle": "Native or bilingual proficiency",
+        "title": "English"
+      },
+      {
+        "subtitle": "Native or bilingual proficiency",
+        "title": "Gujarati"
+      },
+      {
+        "subtitle": "Limited working proficiency",
+        "title": "Spanish"
+      }
+    ],
+    "volunteer_experience": [
+      {
+        "duration": "Jan 2025 \u00b7 - \nFeb 2025 \u00b7 \n2 months",
+        "duration_short": "- \nFeb 2025",
+        "start_date": "Jan 2025",
+        "subtitle": "MIT EECS",
+        "title": "Teaching Assistant (Intro to Deep Learning)"
+      },
+      {
+        "duration": "Feb 2024 \u00b7 - \nMay 2025 \u00b7 \n1 year 4 months",
+        "duration_short": "- \nMay 2025",
+        "start_date": "Feb 2024",
+        "subtitle": "MIT EECS",
+        "title": "Fundamentals of Programming Learning Assistant (6.101)"
+      }
+    ],
+    "followers": 856,
+    "connections": 500,
+    "current_company_company_id": "google",
+    "current_company_name": "Google",
+    "projects": [
+      {
+        "title": "LLM Serving Systems Evaluation",
+        "start_date": "Jan 2026",
+        "description": "- Built a rigorous evaluation framework comparing Hugging Face (sequential) and VLLM (continuous batching) on Modal GPUs.- Designed a length-aware microbatch scheduler that reduced short-request E2E P99 latency by 93% under mixed workloads."
+      },
+      {
+        "title": "Tool-Use Faithfulness",
+        "start_date": "Dec 2025",
+        "description": "- Investigated tool-use faithfulness in Qwen2.5-7B, identifying systematic failure modes where models claim tool use while internally preferring contradictory outputs.- Used teacher-forced log-probability analysis to validate robustness across prompt formats."
+      }
+    ],
+    "location": null,
+    "input_url": "https://www.linkedin.com/in/davchaudhari",
+    "linkedin_id": "davchaudhari",
+    "activity": null,
+    "linkedin_num_id": "689991914",
+    "banner_image": "https://media.licdn.com/dms/image/v2/C4D16AQF7rzP7KlAWcQ/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1660432807928?e=2147483647&v=beta&t=FPBAIi1bumDnMQ7y9OB_BGhWTdHhcwpi7iYByXKhuwE",
+    "honors_and_awards": [
+      {
+        "title": "QuestBridge Scholar",
+        "publication": "QuestBridge",
+        "date": "2021-03-01T00:00:00.000Z",
+        "description": null
+      }
+    ],
+    "similar_profiles": [],
+    "default_avatar": false,
+    "memorialized_account": false,
+    "bio_links": [],
+    "first_name": "David",
+    "last_name": "Chaudhari",
+    "influencer": false,
+    "timestamp": "2026-08-12T19:00:18.827Z",
+    "input": {
+      "url": "https://www.linkedin.com/in/davchaudhari"
+    }
+  },
+  "local_photo": "data\\linkedin_photos\\davchaudhari__usr-vyQ32KSWRRwQT2I.jpg"
+}

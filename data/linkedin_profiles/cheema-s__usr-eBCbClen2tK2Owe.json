@@ -1,0 +1,246 @@
+{
+  "luma_user_id": "usr-eBCbClen2tK2Owe",
+  "csv_name": "Sukhman Cheema",
+  "csv_linkedin": "https://www.linkedin.com/in/cheema-s",
+  "enriched_at": "2026-08-12T18:55:27.657173+00:00",
+  "batch_id": "sd_msqg7js7a7y0irwot",
+  "profile": {
+    "id": "cheema-s",
+    "name": "Sukhman Cheema",
+    "city": "Sacramento, California, United States",
+    "country_code": "US",
+    "position": null,
+    "about": "\"Remember a man is great not because he hasn't failed, A man is great because failure\u2026",
+    "current_company": {
+      "link": "https://www.linkedin.com/company/tryyaria-ai?trk=public_profile_topcard-current-company",
+      "name": "Aria AI",
+      "company_id": "tryyaria-ai",
+      "location": null
+    },
+    "experience": null,
+    "url": "https://tr.linkedin.com/in/Cheema-s",
+    "educations_details": "University of California, Davis",
+    "education": [
+      {
+        "start_year": "2023-08",
+        "end_year": "2025-05",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      },
+      {
+        "start_year": "2023-08",
+        "end_year": "2025-05",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      }
+    ],
+    "avatar": "https://media.licdn.com/dms/image/v2/D5603AQEYhasZ00IXIg/profile-displayphoto-scale_200_200/B56Z1VeB9iKkAY-/0/1775255430314?e=2147483647&v=beta&t=dZhjykhtgMm2QW3k7tntERTbcX7y1J0jyv37vRGDpPs",
+    "followers": 970,
+    "connections": 500,
+    "current_company_company_id": "tryyaria-ai",
+    "current_company_name": "Aria AI",
+    "projects": [
+      {
+        "title": "Aside AI",
+        "start_date": "Jun 2026",
+        "description": "Aside AI is a Raspberry Pi wearable with a camera and mic that narrates a room in real time using swappable personalities. Helped build the pipeline between the hardware and software. This meant I helped resolve issues with the computer vision, Python translation system, the microcomputer structure, and the external design. Built at the UC Berkeley AI Hackathon.We Also Won Deepgram sponsor prize. During the hackathon alone brought in 20k views and 100 follows organically across different social media platforms to promote the product."
+      },
+      null,
+      null,
+      null,
+      {
+        "title": "Recco",
+        "start_date": "Jun 2026",
+        "description": "Recco is a camera first AI networking assistant. Point your phone at a room and it recognizes the people in frame, surfacing each person's role, what they build, and a one line reason to talk to them. You can filter the crowd by voice (\"show me AI founders\") and draft a warm, personalized opener in one tap"
+      },
+      null,
+      null,
+      null,
+      {
+        "title": "SafeHaven",
+        "start_date": "May 2026",
+        "description": "A privacy first crisis support platform for domestic violence survivors, disguised as everyday utility apps (calculator, news reader, weather) so it stays invisible on a monitored phone. Behind the disguise, it offers encrypted evidence journaling, one-tap SOS alerts with location to trusted contacts, real-time friend-gated messaging, and 24/7 trauma-informed AI support."
+      },
+      null,
+      null,
+      {
+        "title": "dAdvisor",
+        "start_date": "Feb 2026",
+        "description": "A web app that helps UC Davis undergraduates plan a major change. Students pick their current and target majors, check off completed courses, assign remaining requirements to quarters, and get an estimate of the courses, units, and time left to graduate in the new major."
+      },
+      null,
+      {
+        "title": "Semi-autonomous Rover",
+        "start_date": "Dec 2024",
+        "description": "Developed 10+ semi-autonomous Rovers in collaboration with the Engineering Club. These Rovers featured object detection by integrating C++ with hardware sensors for a community college STEM Day, an initiative designed to showcase engineering possibilities to high school students. Which I helped organize by facilitating outreach for 200+ first-generation students."
+      },
+      {
+        "title": "Dprotein",
+        "description": "DProtein is a full stack web app that helps UC Davis students find high protein dining options nearby, ranking dining hall menu items by distance and protein content with live route guidance, favorites, and a day/meal availability tracker. Built with a FastAPI + PostgreSQL backend on Railway and a React + TypeScript + Tailwind frontend on Vercel.(Might be out of credits so API is not working)"
+      },
+      {
+        "title": "Yoga Pose Corrector",
+        "description": "A computer vision app that classifies yoga poses and gives real time form correction"
+      },
+      {
+        "title": "Zeno (Tier Zero)",
+        "description": "Zeno is a voice and vision-powered IT support agent that resolves common Tier-1 tickets before they ever reach a human."
+      }
+    ],
+    "location": "Sacramento",
+    "input_url": "https://www.linkedin.com/in/cheema-s",
+    "linkedin_id": "cheema-s",
+    "activity": [
+      {
+        "interaction": "Liked by Sukhman Cheema",
+        "link": "https://www.linkedin.com/posts/bhajneekanand_i-mcd-in-front-of-800-interns-at-amazons-activity-7493146460318781441-V6hI",
+        "title": "I MC'd in front of 800 interns at Amazon's Ready to Launch event and had a fireside chat with Panos Panay, SVP of Devices, Alexa, and Leo. We talked\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQEwV9F9XNBCFg/feedshare-shrink_800/B56Z_0A_r2HUAc-/0/1786505330204?e=2147483647&v=beta&t=ygCsrTO3wqZllg9FtZEDpssAOqPRuP_8SNe5L6J9ucY",
+        "id": "800"
+      },
+      {
+        "interaction": "Liked by Sukhman Cheema",
+        "link": "https://www.linkedin.com/posts/marie-adant_i-personally-found-my-job-at-corgi-yc-s24-activity-7493082586605318144-1WcD",
+        "title": "I personally found my job at Corgi (YC S24) by going to an in-person recruiting event instead of applying online, and it quite literally changed my\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQHCuRM1PBpxdA/feedshare-shrink_800/B56Z_y8iN1H0Ag-/0/1786487384063?e=2147483647&v=beta&t=RZrj46pwL3wpBwnzo7TC-KmEP2ZF52fJ81195ljmorY",
+        "id": "7493082586605318144"
+      },
+      {
+        "interaction": "Liked by Sukhman Cheema",
+        "link": "https://www.linkedin.com/posts/jason-lum7_bloomberg-is-hiring-20-interns-location-activity-7492565423419183104-nR_T",
+        "title": "Bloomberg is hiring 20+ interns! \ud83d\udccd Location: US, CAD, UK \ud83d\udcb0 Pay: $28.46/hour \ud83d\udcc5 Date: Summer 2027 PS. Sharing our resume template to help you land\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQFD9ln3UivhUQ/feedshare-shrink_800/B56Z_rwjTHHcAc-/0/1786366801341?e=2147483647&v=beta&t=94eblbe0XgfImqynOO-9jBdl2UupSb4DFOGW-oF1v38",
+        "id": "20"
+      },
+      {
+        "interaction": "Liked by Sukhman Cheema",
+        "link": "https://www.linkedin.com/posts/rathodkunj_thats-a-wrap-on-my-summer-as-a-software-activity-7492973070920556545-5COS",
+        "title": "That's a wrap on my summer as a software engineering intern on Microsoft Fabric Platform team in Redmond. Over 12 weeks I shipped a few features on\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQGfMTaP1TcazQ/feedshare-shrink_800/B56Z_xjSJ8H4Ac-/0/1786463986906?e=2147483647&v=beta&t=WbEGVZoxuIgGS5icEhi0ZvzPnL_c0YdNDFgacSgCPmc",
+        "id": "7492973070920556545"
+      },
+      {
+        "interaction": "Liked by Sukhman Cheema",
+        "link": "https://www.linkedin.com/posts/aravd_jarvis-im-struggling-to-learn-gradient-activity-7492855357195816960-CAQM",
+        "title": "\"Jarvis, I'm struggling to learn gradient descent, can you teach me?\" \"Pulling up your whiteboard rn\" \ud83e\udd2f Was in SF the past few days... Linked w/\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQEc3n2jbLIBeg/feedshare-image-high-res/B56Z_v4OtsGsAU-/0/1786435923167?e=2147483647&v=beta&t=wRhlUJHo3ERWHB41AizAAfikqHVg-HQ5UUh8U73iBWg",
+        "id": "7492855357195816960"
+      },
+      {
+        "interaction": "Liked by Sukhman Cheema",
+        "link": "https://www.linkedin.com/posts/adilnoor_new-voices-on-wednesday-heads-may-well-be-activity-7492838303411666944-GAdc",
+        "title": "New voices on Wednesday. Heads may well be turned \ud83d\udc40",
+        "img": "https://media.licdn.com/dms/image/v2/D5610AQGTpYG64eYmFg/image-shrink_800/B56Z_sZ3uwGUAg-/0/1786377633480?e=2147483647&v=beta&t=06RUbmIZB8tDDkIWuRiD6jeW8pa963m8JEK1tNejYY0",
+        "id": "7492838303411666944"
+      },
+      {
+        "interaction": "Liked by Sukhman Cheema",
+        "link": "https://www.linkedin.com/posts/merabikhachidze_newbeginnings-semiconductorindustry-semiconductors-activity-7492770687275716610-4fY8",
+        "title": "I'm happy to share that I recently started a new position as a Customer Engineer II at Applied Materials, supporting etch systems on-site at\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQGhkds0bU1VDg/feedshare-shrink_800/B56Z_urO87GcAc-/0/1786415738972?e=2147483647&v=beta&t=wMtwKYJwPnjBOGJIHxby1zyHQ6X1Zh-zEIioy30-CDg",
+        "id": "7492770687275716610"
+      },
+      {
+        "interaction": "Liked by Sukhman Cheema",
+        "link": "https://www.linkedin.com/posts/saarthshah_were-hiring-for-5-roles-and-im-personally-activity-7492657647503151105-E1_5",
+        "title": "We're hiring for 5 roles and I'm personally reviewing every application. Read the post to see how to apply. Over the last year we've scaled past $2M\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQHTKe26QtH27w/feedshare-image-high-res/B56Z_tEbVWGUAY-/0/1786388788816?e=2147483647&v=beta&t=a31N5_OyLbxsOat-ki5NZZZYPKC8_hj-RMnYKUS6eGg",
+        "id": "5"
+      },
+      {
+        "interaction": "Liked by Sukhman Cheema",
+        "link": "https://www.linkedin.com/posts/lakshgoyal_open-weight-models-are-supposed-to-close-activity-7492633367000080384-d3pH",
+        "title": "Open weight models are supposed to close the gap with the frontier labs. And the weights really are open. The alignment is not. Nobody ships a list\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQEFum-_VpfzZQ/feedshare-image-high-res/B56Z_ovr9EHYAU-/0/1786316243010?e=2147483647&v=beta&t=VB68cdhJAAyRuVKlRnHtpv1PQ5UrOfoISvELRANK64Y",
+        "id": "7492633367000080384"
+      },
+      {
+        "interaction": "Liked by Sukhman Cheema",
+        "link": "https://www.linkedin.com/posts/datnguy3n_softwareengineering-internship-sandiego-activity-7492635663457050624-yY81",
+        "title": "For the rest of the summer, I'll be in San Diego as a Software Engineer Intern at Netra, a funded startup building drone detection for public safety.\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQGagYEbtqF3kg/feedshare-shrink_800/B56Z_swbiIGsAg-/0/1786383547473?e=2147483647&v=beta&t=Nm93u0P-QgP-Z-tR90gNffCcC51No2YbWcnokVy59kk",
+        "id": "7492635663457050624"
+      },
+      {
+        "interaction": "Liked by Sukhman Cheema",
+        "link": "https://www.linkedin.com/posts/supratik-panuganti-4732532a4_un-retired-from-hackathons-to-come-back-and-activity-7492283108118147072-3D6Z",
+        "title": "Un-retired from hackathons to come back and win Grokathon, hosted by xAI the bet we made was that AI is finally smart enough to reverse engineer\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQGXgE5QfpT-5Q/feedshare-shrink_800/B56Z_nvxx6GsAc-/0/1786299492042?e=2147483647&v=beta&t=uq77DQYv-_okOvSLuFHaUFuTL9wTG0h-VHGPXuO4kIk",
+        "id": "7492283108118147072"
+      },
+      {
+        "interaction": "Liked by Sukhman Cheema",
+        "link": "https://www.linkedin.com/posts/christophercarew_these-are-just-a-few-of-the-companies-that-activity-7489517707336237056-Vhef",
+        "title": "These are just a few of the companies that are not sponsoring Venture Week this year. If you\u2019re interested in reaching business founders & investors\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQEJdlVUUjzPBg/feedshare-shrink_800/B56Z_AcqoYKwAc-/0/1785640168215?e=2147483647&v=beta&t=xcf1ArvVGkusuWVuTqB7t0HqiQIJS2v-svFI0WvYNHY",
+        "id": "7489517707336237056"
+      },
+      {
+        "interaction": "Liked by Sukhman Cheema",
+        "link": "https://www.linkedin.com/posts/ethar-hussein_swe-tech-hustle-activity-7491740484852166656-G0gV",
+        "title": "People have dm\u2019ed me about how I made it to Disney+ as SWE. I had interviews with Google, Apple, Amazon, Goldman Sachs, PayPal, Disney+, etc. Here\u2019s\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQFV2O8buYUCPg/feedshare-image-high-res/B56Z_gCRYCH0AU-/0/1786170120563?e=2147483647&v=beta&t=xUbGbJgNuNrrlkeTA90d7TQud4VmZLqw7cihu_EgWpM",
+        "id": "7491740484852166656"
+      },
+      {
+        "interaction": "Liked by Sukhman Cheema",
+        "link": "https://www.linkedin.com/posts/ameenneami_were-hiring-for-the-fall-at-friedmannai-activity-7491555965763387394-VCvJ",
+        "title": "We're hiring for the fall at FriedmannAI You'll work across the stack on an AI-native financial planning platform, as we work with some of the\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4D22AQHLwELyqEwDtA/feedshare-shrink_800/B4DZ_dac91JAAc-/0/1786126127473?e=2147483647&v=beta&t=pjpwu_UNnu3g7dEayKZMRN6QvFFL2Yc-WH2l27c85lo",
+        "id": "7491555965763387394"
+      },
+      {
+        "interaction": "Liked by Sukhman Cheema",
+        "link": "https://www.linkedin.com/posts/jacksaltel_pre-festival-prep-at-founders-inc-come-activity-7491603475940896768-O4HD",
+        "title": "pre-festival prep at Founders Inc come find Vovy \ud83d\udc40",
+        "img": "https://media.licdn.com/dms/image/v2/D5605AQGB4SN7kPofGg/videocover-high/B56Z_eFoFNKoBM-/0/1786137447274?e=2147483647&v=beta&t=2XItQNzXEvy8eq4U_auJW9y6486KjxsQVg8cG4Gwhk0",
+        "id": "7491603475940896768"
+      },
+      {
+        "interaction": "Liked by Sukhman Cheema",
+        "link": "https://www.linkedin.com/posts/austinnasso_careers-activity-7491552342459432960-bi0w",
+        "title": "I applied to 172 jobs this month and only heard back from ONE. They were asking for a LOT. They told me I\u2019d be expected to constantly be shipping.\u2026",
+        "img": "https://media.licdn.com/dms/image/sync/v2/D5627AQEo4q4A7nRy-Q/articleshare-shrink_800/B56Z_TRuVZG0AY-/0/1785956067230?e=2147483647&v=beta&t=VSxR-mEFiTWn2nfgbvxgMGGt92SHa700RlwRLJt1VbM",
+        "id": "7491552342459432960"
+      },
+      {
+        "interaction": "Liked by Sukhman Cheema",
+        "link": "https://www.linkedin.com/posts/sakshamagg27_were-hiring-growth-interns-what-youll-activity-7491522446257180672-MLdj",
+        "title": "We\u2019re hiring growth interns! What you\u2019ll do: > Make the numbers go up. > Own creator partnerships, UGC, content, etc. > Invent and execute growth\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQGG3c-obfaMBw/feedshare-shrink_800/B56Z_c795mJ8Ac-/0/1786118135959?e=2147483647&v=beta&t=AfRUA9uQK9kXxwgBqC1KnD9PpezRNvj1wYNnKPq2GIw",
+        "id": "7491522446257180672"
+      },
+      {
+        "interaction": "Liked by Sukhman Cheema",
+        "link": "https://www.linkedin.com/posts/nileshs22_ycombinator-yc-ai-activity-7491339143759781888-UBcQ",
+        "title": "Excited to share that I\u2019ve been selected to attend the Y Combinator Startup Internship Expo in San Francisco on August 15! I'm looking forward to\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQFly3btbpxBwg/feedshare-shrink_800/B56Z_aVQaWJoAc-/0/1786074433494?e=2147483647&v=beta&t=XUyRT4cGYRbtsmdqoKOqJTae93t6B-FxF5oIFJalcRE",
+        "id": "7491339143759781888"
+      },
+      {
+        "interaction": "Liked by Sukhman Cheema",
+        "link": "https://www.linkedin.com/posts/vinay-kumar-godavarti_google-agenticai-networking-activity-7490641421994225664-thX6",
+        "title": "Had a blast at the Build with Gemini 2.0 hackathon in Sacramento! Our team went in with one mindset \u201cWinners Win\u201dand we brought it home! We built an\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQFATF3w_Hr-Pw/feedshare-shrink_800/B56Z_QapGzHcAc-/0/1785908073137?e=2147483647&v=beta&t=SyRXSixW74zNCxROCqS4wsViH9SgJtkYcqyfxYKb6Hg",
+        "id": "7490641421994225664"
+      }
+    ],
+    "linkedin_num_id": "1409298697",
+    "banner_image": "https://media.licdn.com/dms/image/v2/D5616AQFnOhXvuZsicg/profile-displaybackgroundimage-shrink_200_800/B56Z9sM0KELAAU-/0/1784226726889?e=2147483647&v=beta&t=V8tj5EAPyfv8mxL7I_F6-WDJUQHl1cJM6WmULiqXid4",
+    "honors_and_awards": null,
+    "similar_profiles": [],
+    "default_avatar": false,
+    "memorialized_account": false,
+    "bio_links": [],
+    "first_name": "Sukhman",
+    "last_name": "Cheema",
+    "influencer": false,
+    "timestamp": "2026-08-12T18:54:30.890Z",
+    "input": {
+      "url": "https://www.linkedin.com/in/cheema-s"
+    }
+  },
+  "local_photo": "data\\linkedin_photos\\cheema-s__usr-eBCbClen2tK2Owe.jpg"
+}

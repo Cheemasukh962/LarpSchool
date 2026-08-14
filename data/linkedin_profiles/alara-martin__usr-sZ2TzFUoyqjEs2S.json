@@ -1,0 +1,80 @@
+{
+  "luma_user_id": "usr-sZ2TzFUoyqjEs2S",
+  "csv_name": "Alara Martin",
+  "csv_linkedin": "https://www.linkedin.com/in/alara-martin",
+  "enriched_at": "2026-08-12T18:55:27.683499+00:00",
+  "batch_id": "sd_msqg7js7a7y0irwot",
+  "profile": {
+    "id": "alara-martin",
+    "name": "Alara Martin",
+    "city": "San Francisco Bay Area",
+    "country_code": "US",
+    "position": null,
+    "about": "alaram [at] berkeley [dot] edu",
+    "current_company": {
+      "link": "https://www.linkedin.com/company/stanfordaide?trk=public_profile_topcard-current-company",
+      "name": "Stanford AI Development and Evaluation (AIDE) Lab",
+      "company_id": "stanfordaide",
+      "location": null
+    },
+    "experience": null,
+    "url": "https://kr.linkedin.com/in/alara-martin",
+    "educations_details": "University of California, Berkeley",
+    "education": [
+      {
+        "title": "University of California, Berkeley",
+        "url": "https://www.linkedin.com/school/uc-berkeley/",
+        "start_year": "2026",
+        "end_year": "2030",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      },
+      {
+        "start_year": "2022",
+        "end_year": "2026",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      },
+      {
+        "start_year": "2024",
+        "end_year": "2026",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      },
+      {
+        "start_year": "2023",
+        "end_year": "2024",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      }
+    ],
+    "avatar": "https://media.licdn.com/dms/image/v2/D5603AQHUpx_tYRr5hQ/profile-displayphoto-scale_200_200/B56Zn1cM7LIsAY-/0/1760759438204?e=2147483647&v=beta&t=fSsLT4PucXitYuVuPM4elkkf9bylGmzD2mUnvlNSNLw",
+    "followers": 336,
+    "connections": 338,
+    "current_company_company_id": "stanfordaide",
+    "current_company_name": "Stanford AI Development and Evaluation (AIDE) Lab",
+    "location": null,
+    "input_url": "https://www.linkedin.com/in/alara-martin",
+    "linkedin_id": "alara-martin",
+    "activity": null,
+    "linkedin_num_id": "1177714153",
+    "banner_image": "https://static.licdn.com/aero-v1/sc/h/5q92mjc5c51bjlwaj3rs9aa82",
+    "honors_and_awards": null,
+    "similar_profiles": [],
+    "default_avatar": false,
+    "memorialized_account": false,
+    "bio_links": [],
+    "first_name": "Alara",
+    "last_name": "Martin",
+    "influencer": false,
+    "timestamp": "2026-08-12T18:54:40.877Z",
+    "input": {
+      "url": "https://www.linkedin.com/in/alara-martin"
+    }
+  },
+  "local_photo": "data\\linkedin_photos\\alara-martin__usr-sZ2TzFUoyqjEs2S.jpg"
+}

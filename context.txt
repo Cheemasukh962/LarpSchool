@@ -1,0 +1,205 @@
+LarpSchool — project context (read this before continuing)
+
+Last updated: 2026-08-14
+Owner: Sukhman Cheema (linkedin.com/in/cheema-s, Luma usr-eBCbClen2tK2Owe)
+Repo: https://github.com/Cheemasukh962/LarpSchool.git
+Workspace: this folder. Python scripts + precomputed JSON/CSV. No React app yet.
+
+================================================================================
+WHAT THIS IS
+================================================================================
+
+A floor game for the YC Startup Internship Expo.
+
+Event: Saturday Aug 15, 2026, Dogpatch HQ, San Francisco
+Luma: https://luma.com/yc-meetup-1244?tk=tPX7lX
+Event id: evt-mqy1btILJGEqgAD
+~1,348 going on Luma. Confirmed guests with LinkedIn: 795.
+Ticket key: tPX7lX
+
+Product is TWO LOOPS, one token wallet. Do not add student-vs-company Groq
+fights (API cost). Do not fold the Nowadays dining challenge into this game.
+
+1) LARP BATTLE (people vs people)
+   Confirmed expo guests only (~795). Each person is pre-scored ONCE (O(n)).
+   A fight compares two flex_scores and stitches a templated compliment + roast.
+   No Groq required for v1. Optional live roast later if a Groq key is pasted.
+
+2) SLOTS (company quiz as the other loop)
+   Company intel becomes quiz/content, not Groq opponents.
+   Question bank already exists (was built for a Crossy Road prototype).
+   Slots are the likely v1 instead of Crossy Road physics.
+   Spin is a token sink (unlocks / rerolls / cosmetics). Not internships, not fake merch.
+
+Not v1:
+- Company matching via Groq
+- Pairwise precompute (~315k) or vs-51-companies (~40k)
+- Wiring extra expo APIs for flavor
+- Crossy Road physics if slots ship first
+- Fight UI / slot UI / /api/larp  (NONE OF THIS IS BUILT YET)
+
+Nowadays dining challenge (SEPARATE, do not fold in):
+- Real prize: intern interview + dinner Expo night
+- Deadline was Fri Aug 14 11:59pm PDT
+- React + Tailwind + Supabase
+- Page: https://www.nowadays.ai/careers/yc
+- User chose LarpSchool first; dining finder later
+
+================================================================================
+SCORING (DONE — already run on all 795)
+================================================================================
+
+Engine: scripts/larp_engine.py
+Pre-score: python scripts/prescore_battlers.py
+Outputs:
+  data/battlers.json          ranked cards + compliments/roasts
+  data/csv/12_larp_scores.csv same, flat CSV
+
+flex_score (0-100) is who wins. larp_index is a roast badge, not the winner.
+Battle: higher flex_score wins. Tie -> lower larp_index, then name.
+Deterministic seed from sorted ids. Zero API cost after preload.
+
+BARS (current, after owner feedback):
+
+  School    32   T0=32  T1=22  T2=14  HS=4  none=0
+  Work      32   FAANG-tier=32 (EQUALS T0 school)
+                 other prestige shop=24
+                 named founder=20
+                 named company=16
+                 stealth=6
+                 some job history=10
+  Presence  26   log10(followers+1)*6.5 + 3 personal site, cap 26
+  Projects  10   described writeups * 2 cap 8 + hackathon cap 2
+                 LAST ON PURPOSE — not everyone posts projects on LinkedIn
+
+School T0: MIT, Stanford, Harvard, Caltech, CMU, Berkeley, Waterloo, Princeton,
+Yale, Columbia, Penn/Wharton, ETH, Oxford, Cambridge, IIT (bombay/delhi/madras/kanpur).
+T1: GT, UIUC, UCLA, UCSD, Michigan, UW, Cornell, Duke, Northwestern, Rice, JHU,
+Brown, NYU, UT Austin, Imperial, Chicago.
+T2: Davis, Purdue, any other college.
+
+FAANG-tier work (hits 32, same max as T0 school):
+Google, Meta, Apple, Amazon, Microsoft, Netflix, Nvidia, OpenAI, Anthropic,
+DeepMind, Tesla, SpaceX, Stripe, Jane Street, Citadel, Two Sigma, Palantir,
+Databricks, Goldman, Bloomberg.
+
+Design rules the owner locked:
+- School HIGH, presence HIGH, projects LAST (unfair as a main stat).
+- School is the most updated LinkedIn field. Score school from the SCHOOL FIELD
+  ONLY. Never from headline/projects/about. (First pass matched "MIT-licensed"
+  in a project and tagged Kookmin as T0. Also tagged a Davis student T0 because
+  current_company was Berkeley.)
+- Work from current company + job companies, not stuffed headlines.
+  "Anthropic x Cerebral Valley alum" in a bio is not an Anthropic job.
+- Davis + Apple MUST beat Berkeley with nothing. That is working:
+  Benedict N. (Davis, Apple) flex 66 vs Asmi Sawant (Berkeley, no job) flex 50.
+- Berkeley + Google still wins the room. Fair.
+
+Owner snapshot after this scoring:
+  Sukhman Cheema  #437  flex 60  T2 Davis  school 14 / work 16 (Aria AI) /
+                  presence 22 / projects 8
+  Abhilash (Crustdata) still beats Sukhman on the work bar (prestige shop 24).
+  Jai Relan (Waterloo T0) is a photo-finish vs Sukhman under current weights.
+  Stanford Stripe intern Madhuhaas Gottimukkala is #4 flex 93.
+
+To re-score after weight changes:
+  python scripts/prescore_battlers.py
+
+Do not mix failed/low-confidence enrichments into yc-expo-guests-linkedin-confirmed.csv.
+That CSV is the source of truth for who can fight.
+
+================================================================================
+DATA ALREADY ON DISK
+================================================================================
+
+Guests
+  yc-expo-guests-linkedin-confirmed.csv     795 confirmed (SOURCE OF TRUTH)
+  yc-expo-guests.csv                        full Luma dump
+  yc-expo-guests-needs-match.csv
+  yc-expo-guests-still-unmatched.csv
+  yc-expo-guests-web-matched.csv
+  yc-expo-guests-web-matched-high.csv
+
+Bright Data LinkedIn enrich
+  data/linkedin_profiles/*.json             ~758 done
+  37 originally failed (hidden/private). Do not pretend those 37 are complete.
+  Many student profiles have experience: null but still have school, company,
+  projects, photos. Bright Data wins on projects/posts. Weak on student jobs.
+
+Crustdata
+  data/crustdata_profiles/                  retry of Bright Data failures
+  32/37 recovered (30 original URLs + Hans hansvador + Zuny zuny-molano-92b084120)
+  5 still empty:
+    Hari Gangadharan (/in/No)
+    Kaustubh Bhal
+    Matt Wong (mattwong_ca)
+    Rithika SridharBabu
+    Saanvi Skanda Subramanian
+  Crustdata wins on JOBS (indexed enrich, 1 credit/match).
+  Live person enrich + social posts were 403 on this plan.
+  Credits were low (~56 left after bakeoff + 37 retry). Do not blow remaining
+  credits backfilling 756 empty-experience profiles.
+
+Photos
+  data/linkedin_photos/                     ~657 saved (~14 MB)
+  data/linkedin-photos-manifest.json
+
+Companies / quiz
+  data/yc-expo-companies.json               51 companies + Mount
+  data/crossy-questions.json                133 questions (feed slots)
+
+Scores
+  data/battlers.json
+  data/csv/12_larp_scores.csv
+  data/csv/00_coverage_report.csv … 11_crustdata_failed_retry.csv
+
+Scripts
+  scripts/larp_engine.py                    cards, scores, roast/compliment, battle()
+  scripts/prescore_battlers.py              run this to refresh battlers.json
+  scripts/enrich_linkedin_brightdata.py     needs BRIGHTDATA_API_KEY in env
+  scripts/download_linkedin_photos.py
+  scripts/export_enrichment_csvs.py
+  scripts/generate_crossy_questions.py
+  scripts/generate_company_canvas.py
+  scripts/crustdata_bakeoff.py              needs CRUSTDATA_API_KEY in env
+  scripts/crustdata_retry_failed.py         needs CRUSTDATA_API_KEY in env
+
+================================================================================
+SECRETS — NEVER COMMIT
+================================================================================
+
+.gitignore already blocks .env
+Keys were pasted in chat earlier. They are NOT in this repo. Rotate if still live.
+
+  BRIGHTDATA_API_KEY / BRIGHTDATA_API_TOKEN
+  CRUSTDATA_API_KEY
+  GROQ key (optional, not required for v1 battles)
+
+Do not write keys to disk. Do not put them in context.txt, JSON, or CSV.
+
+================================================================================
+NEXT BUILD (when asked)
+================================================================================
+
+1. Fight UI on data/battlers.json
+   Pick two people (search / QR / LinkedIn / name), show four bars, verdict,
+   winner compliment + loser roast. Share a token into the wallet.
+
+2. Slot machine using data/crossy-questions.json
+   Same token wallet. Company intel as quiz content.
+
+3. Do not start Groq per fight. Templates are enough.
+   Do not start the Nowadays dining app until LarpSchool floor loop works.
+
+================================================================================
+SCORING GOTCHAS (do not regress)
+================================================================================
+
+- school_tier() uses the school field only. Passing the whole profile blob
+  false-positives "mit" inside "MIT-licensed".
+- FAANG work equals T0 school. A named company that is not FAANG is 16, not 32.
+  Hugging Face / Cursor / YC booths are other-prestige 24, not Apple.
+- Presence is a WIN bar. Do not tax followers on larp_index.
+- Projects capped at 10 so a Davis shipper cannot outscore Stanford+Stripe
+  just by posting more LinkedIn project writeups.
+)

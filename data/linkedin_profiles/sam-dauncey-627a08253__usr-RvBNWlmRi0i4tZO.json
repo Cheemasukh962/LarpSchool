@@ -1,0 +1,172 @@
+{
+  "luma_user_id": "usr-RvBNWlmRi0i4tZO",
+  "csv_name": "Sam Dauncey",
+  "csv_linkedin": "https://www.linkedin.com/in/sam-dauncey-627a08253",
+  "enriched_at": "2026-08-12T19:16:49.712035+00:00",
+  "batch_id": "sd_msqgxyk1xj7v4ip1",
+  "profile": {
+    "id": "sam-dauncey-627a08253",
+    "name": "Sam Dauncey",
+    "city": "United Kingdom",
+    "country_code": "GB",
+    "position": null,
+    "about": "I\u2019m currently building retrieval models with reinforcement learning at SID.ai in San\u2026",
+    "current_company": {
+      "link": "https://www.linkedin.com/company/sidai?trk=public_profile_topcard-current-company",
+      "name": "SID.ai",
+      "company_id": "sidai",
+      "location": null
+    },
+    "experience": null,
+    "url": "https://kw.linkedin.com/in/sam-dauncey-627a08253",
+    "educations_details": "ETH Z\u00fcrich",
+    "education": [
+      {
+        "title": "ETH Z\u00fcrich",
+        "url": "https://ch.linkedin.com/school/eth-zurich/",
+        "start_year": "2024-09",
+        "end_year": "2028-09",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      },
+      {
+        "start_year": "2022-08",
+        "end_year": "2023-05",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      },
+      {
+        "start_year": "2020",
+        "end_year": "2024",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      }
+    ],
+    "avatar": "https://media.licdn.com/dms/image/v2/D5603AQEs2M-5HbXwxw/profile-displayphoto-scale_200_200/B56ZyxFhsuGoAc-/0/1772497542280?e=2147483647&v=beta&t=j387UIdBdkJwG3pl3e1aZBsHVCkJR28tSnKr_vdqEb0",
+    "followers": 239,
+    "connections": 232,
+    "current_company_company_id": "sidai",
+    "current_company_name": "SID.ai",
+    "location": null,
+    "input_url": "https://www.linkedin.com/in/sam-dauncey-627a08253",
+    "linkedin_id": "sam-dauncey-627a08253",
+    "activity": [
+      {
+        "interaction": "Liked by Sam Dauncey",
+        "link": "https://www.linkedin.com/posts/bolamalek_announcing-baseten-for-model-labs-activity-7488282304419704832-gv-9",
+        "title": "Over the past year, we've all been amazed by what new models let us do. Not just the largest models built for large-scale reasoning and coding, but\u2026",
+        "img": "https://media.licdn.com/dms/image/sync/v2/D4E27AQE7_D0RQFzF3A/articleshare-shrink_800/B4EZ.u03VVJkAY-/0/1785344525629?e=2147483647&v=beta&t=ub4R4xlwE57IgS6rpc8VMd_T5jiMaUuCKR8zEHLh_UU",
+        "id": "7488282304419704832"
+      },
+      {
+        "interaction": "Liked by Sam Dauncey",
+        "link": "https://www.linkedin.com/posts/lotteseifert_excited-to-be-a-launch-partner-for-baseten-activity-7488294921355841536-yZEY",
+        "title": "Excited to be a launch partner for Baseten Labs! We believe that the future is multi-model (and multi-modal). That's why we're partnering with\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQF2EEMaN5X1DA/feedshare-shrink_800/B56Z.vEjKLG0Ao-/0/1785348633842?e=2147483647&v=beta&t=25ZBPuZVgh4P2RONzm9tnLZ4qqkOy3TDhhtm3NgSU_4",
+        "id": "7488294921355841536"
+      },
+      {
+        "interaction": "Liked by Sam Dauncey",
+        "link": "https://www.linkedin.com/posts/lotteseifert_main-takeaways-of-max-rumpf-speech-at-the-activity-7478209854977957889-CK7u",
+        "title": "Main takeaways of Max Rumpf speech at the AI Engineer Worlds Fair yesterday: Search is finally having it's \"Bitter Lesson\" moment. By turning\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQHpsgdQ-rJA2g/feedshare-shrink_800/B4EZ8fjRI8K4Ac-/0/1782940767488?e=2147483647&v=beta&t=a8WH08CKTJ2Ll6ZxLfJh9uFpwB0_wyrKBJ7q68MCmzM",
+        "id": "7478209854977957889"
+      },
+      {
+        "interaction": "Liked by Sam Dauncey",
+        "link": "https://www.linkedin.com/posts/turbopuffer_training-sid-1-to-beat-gpt-5-at-search-with-activity-7462932531043024896-3TzE",
+        "title": "SID-1 is an agentic search model by SID.ai \u2192 1.9x recall over RAG + rerank \u2192 24x faster, 99% cheaper than GPT-5.1 trained using large-scale RL on\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4E10AQGCAL37o1S6hQ/image-shrink_800/B4EZ5GpmHpIAAk-/0/1779301769998?e=2147483647&v=beta&t=_LRpXX9GsbscWIg3fiVqQJQB5-eRt8Fex7zzKn459U8",
+        "id": "1"
+      },
+      {
+        "interaction": "Liked by Sam Dauncey",
+        "link": "https://www.linkedin.com/posts/softwaredoug_wrote-about-the-emergence-of-agentic-search-activity-7459964458673700864-RMuq",
+        "title": "Wrote about the emergence of agentic search models (LLMs trained to the search task) and why I'm such a believer they'll be more revolutionary to\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQGexpZ3nJZtNg/feedshare-shrink_800/B4EZ4ceJTjKgAc-/0/1778594125322?e=2147483647&v=beta&t=U80AGv_aQtfbJXkt9RxZ2R4XxUJxCFnon0JQEKhA0zw",
+        "id": "7459964458673700864"
+      },
+      {
+        "interaction": "Liked by Sam Dauncey",
+        "link": "https://www.linkedin.com/posts/softwaredoug_guest-speaker-announcement-max-rumpf-of-activity-7459954492478988288-8-tn",
+        "title": "\ud83d\udce2 Guest Speaker announcement Max Rumpf of SID.ai Since my last cohort, agentic search models have arrived. I once joked gerbils handle search\u2026",
+        "img": "https://static.licdn.com/aero-v1/sc/h/53n89ecoxpr1qrki1do3alazb",
+        "id": "7459954492478988288"
+      },
+      {
+        "interaction": "Liked by Sam Dauncey",
+        "link": "https://www.linkedin.com/posts/softwaredoug_the-uncomfortable-question-in-search-will-activity-7457072836440948737-Hqs4",
+        "title": "The uncomfortable question in search: Will agents replace our thick search APIs? Do we need query understanding, rerankers, etc with agents driving\u2026",
+        "img": "https://static.licdn.com/aero-v1/sc/h/53n89ecoxpr1qrki1do3alazb",
+        "id": "7457072836440948737"
+      },
+      {
+        "interaction": "Liked by Sam Dauncey",
+        "link": "https://www.linkedin.com/posts/lotteseifert_congrats-sam-dauncey-on-his-presentation-activity-7457137284182708224-629K",
+        "title": "Congrats, Sam Dauncey on his presentation at ICLR in Rio! Sam dropped out of his AI PhD at ETH to join SID.ai as a research engineer last summer\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4D22AQECzXVAVLSJHw/feedshare-shrink_800/B4DZ30S1vpHgAc-/0/1777920074021?e=2147483647&v=beta&t=F1DzDSlRy7Y_NG5qfz4DsDBBuJUCb7mxY_Vv3zvdrw8",
+        "id": "7457137284182708224"
+      },
+      {
+        "interaction": "Liked by Sam Dauncey",
+        "link": "https://www.linkedin.com/posts/frederic-berdoz_iclr2026-icml2026-ai-activity-7455951246915534849-sRle",
+        "title": "#ICLR2026 in Rio ended two days ago, where I presented three papers on LLM reasoning and alignment. 1) Can we train LLMs to reflect individual\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQHZTtFQg97RKA/feedshare-shrink_800/B4EZ3jcJIyHcAc-/0/1777637300311?e=2147483647&v=beta&t=lXC81HslBmvIW8LDCIRjr1xSZ7rS_uOcnKUmfR8XzAE",
+        "id": "7455951246915534849"
+      },
+      {
+        "interaction": "Liked by Sam Dauncey",
+        "link": "https://www.linkedin.com/posts/maximiliandavid_we-just-released-sid-1-our-first-frontier-activity-7404875140951343104-Fd7J",
+        "title": "We just released SID-1: Our first frontier AI model It's designed to be extremely good at only one task: retrieval. SID-1 is 1.9x more likely to\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQE2OpZ3uTIQhw/feedshare-shrink_800/B56ZsKtt4pI0Ag-/0/1765411316691?e=2147483647&v=beta&t=7Rh9JNG0Kqmk6x-ZZp74vpU9zuP4WRLRDDrEj6VBeWM",
+        "id": "1"
+      },
+      {
+        "interaction": "Liked by Sam Dauncey",
+        "link": "https://www.linkedin.com/posts/bartonbrandon_biorthogonal-neural-network-approach-to-two-dimensional-activity-7358424645517107202-qB1-",
+        "title": "\ud83d\udca1 New preprint! \ud83d\udcc3 \"Biorthogonal Neural Network Approach to Two-Dimensional Non-Hermitian Systems\" (https://lnkd.in/gDF4jfQY) Excited to share our\u2026",
+        "img": "https://media.licdn.com/dms/image/sync/v2/D5627AQHscFwlh-67Iw/articleshare-shrink_800/B56Zh5dpT7H0AI-/0/1754384471647?e=2147483647&v=beta&t=ejd-mYduLjdCRTIbvWlvf4vPwDm7yh6TZ8KgSd1psQE",
+        "id": "7358424645517107202"
+      },
+      {
+        "interaction": "Liked by Sam Dauncey",
+        "link": "https://www.linkedin.com/posts/zeno-kujawa_im-happy-to-share-that-our-paper-neural-activity-7344369374448742400-VS58",
+        "title": "I\u2019m happy to share that our paper \u201cNeural Algorithmic Reasoning with Multiple Correct Solutions\u201d (with John Poole, Dobrik Georgiev, Danilo Numeroso\u2026",
+        "img": "https://static.licdn.com/aero-v1/sc/h/53n89ecoxpr1qrki1do3alazb",
+        "id": "7344369374448742400"
+      },
+      {
+        "interaction": "Liked by Sam Dauncey",
+        "link": "https://www.linkedin.com/posts/philipjoubert_let-me-introduce-you-to-stanford-cs-153-activity-7336215166629429248-PjHp",
+        "title": "Let me introduce you to Stanford CS 153: A class with such comically good guest speakers that I wouldn't be surprised if half the students drop out.\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4D22AQGprXT6w4QxLA/feedshare-image-high-res/B4DZc940WkHkAs-/0/1749089994784?e=2147483647&v=beta&t=SlKX7JDRlZpQipoHx2Q6-kFdR9MpGF4CkmhK8NeKxwo",
+        "id": "153"
+      },
+      {
+        "interaction": "Liked by Sam Dauncey",
+        "link": "https://www.linkedin.com/posts/bartonbrandon_interpretable-scaling-behavior-in-sparse-activity-7335396139061444610-bAiC",
+        "title": "\ud83d\ude80 I\u2019m excited to share our latest work: \u201cInterpretable Scaling Behavior in Sparse Subnetwork Representations of Quantum States\u201d \ud83d\udcc4\u2026",
+        "img": "https://media.licdn.com/dms/image/sync/v2/D5627AQGdWrSxE1vFvw/articleshare-shrink_800/B56ZcyKtQ.HEAM-/0/1748893357375?e=2147483647&v=beta&t=qC-5wSrgoeCzZ1Ai8fbK5abyTTd9TBq49fquPby9BKs",
+        "id": "7335396139061444610"
+      }
+    ],
+    "linkedin_num_id": "1050583423",
+    "banner_image": "https://media.licdn.com/dms/image/v2/D5616AQF__BTW3ltcEA/profile-displaybackgroundimage-shrink_200_800/B56ZyxEpCGKEAU-/0/1772497311149?e=2147483647&v=beta&t=yFk8dqR8ARtWoT6TrRThvSAkgJi3UbaUdzRag-FW0jc",
+    "honors_and_awards": null,
+    "similar_profiles": [],
+    "default_avatar": false,
+    "memorialized_account": false,
+    "bio_links": [],
+    "first_name": "Sam",
+    "last_name": "Dauncey",
+    "influencer": false,
+    "timestamp": "2026-08-12T19:15:08.392Z",
+    "input": {
+      "url": "https://www.linkedin.com/in/sam-dauncey-627a08253"
+    }
+  },
+  "local_photo": "data\\linkedin_photos\\sam-dauncey-627a08253__usr-RvBNWlmRi0i4tZO.jpg"
+}

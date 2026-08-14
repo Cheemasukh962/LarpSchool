@@ -1,0 +1,77 @@
+{
+  "luma_user_id": "usr-dRzO2YtsHTtf2xb",
+  "csv_name": "Alexander Moening",
+  "csv_linkedin": "https://www.linkedin.com/in/alexander-moening-212602281",
+  "enriched_at": "2026-08-12T19:25:08.266133+00:00",
+  "batch_id": "sd_msqh7u7r1xzwli6vdk",
+  "profile": {
+    "id": "alexander-moening-212602281",
+    "name": "Alexander Moening",
+    "city": "Cincinnati Metropolitan Area",
+    "country_code": "US",
+    "position": null,
+    "about": null,
+    "current_company": {
+      "link": "https://www.linkedin.com/company/cintas?trk=public_profile_topcard-current-company",
+      "name": "Cintas",
+      "company_id": "cintas",
+      "location": null
+    },
+    "experience": null,
+    "url": "https://nl.linkedin.com/in/alexander-moening-212602281",
+    "educations_details": "Carnegie Mellon University",
+    "education": [
+      {
+        "title": "Carnegie Mellon University",
+        "url": "https://www.linkedin.com/school/carnegie-mellon-university/",
+        "start_year": "2024-08",
+        "end_year": "2028-05",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      },
+      {
+        "start_year": "2020-08",
+        "end_year": "2024-05",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      }
+    ],
+    "avatar": "https://media.licdn.com/dms/image/v2/D4D03AQFYIWcz3n_ykg/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1687974536668?e=2147483647&v=beta&t=qr2APWvH7LdtzETQHbuQcs9CHfvOyJq7WCr6UO8-sXw",
+    "volunteer_experience": [
+      {
+        "cause": "Health",
+        "duration": "Aug 2021 \u00b7 - \nDec 2021 \u00b7 5 months",
+        "duration_short": "- \nDec 2021",
+        "info": "I guided visitors and patients through the hospital during COVID-19 to whatever location they needed to go. This required communication with the front desk for visitor authorization and knowledge of wheelchair transport.",
+        "start_date": "Aug 2021",
+        "subtitle": "Saint Elizabeth Health Care",
+        "title": "Hospital Guide"
+      }
+    ],
+    "followers": 150,
+    "connections": 149,
+    "current_company_company_id": "cintas",
+    "current_company_name": "Cintas",
+    "location": null,
+    "input_url": "https://www.linkedin.com/in/alexander-moening-212602281",
+    "linkedin_id": "alexander-moening-212602281",
+    "activity": null,
+    "linkedin_num_id": "1151100590",
+    "banner_image": "https://static.licdn.com/aero-v1/sc/h/5q92mjc5c51bjlwaj3rs9aa82",
+    "honors_and_awards": null,
+    "similar_profiles": [],
+    "default_avatar": false,
+    "memorialized_account": false,
+    "bio_links": [],
+    "first_name": "Alexander",
+    "last_name": "Moening",
+    "influencer": false,
+    "timestamp": "2026-08-12T19:22:55.515Z",
+    "input": {
+      "url": "https://www.linkedin.com/in/alexander-moening-212602281"
+    }
+  },
+  "local_photo": "data\\linkedin_photos\\alexander-moening-212602281__usr-dRzO2YtsHTtf2xb.jpg"
+}

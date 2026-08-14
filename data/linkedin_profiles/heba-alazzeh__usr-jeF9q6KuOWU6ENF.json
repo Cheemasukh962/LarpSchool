@@ -1,0 +1,439 @@
+{
+  "luma_user_id": "usr-jeF9q6KuOWU6ENF",
+  "csv_name": "Heba Alazzeh",
+  "csv_linkedin": "https://www.linkedin.com/in/heba-alazzeh",
+  "enriched_at": "2026-08-12T19:06:01.824812+00:00",
+  "batch_id": "sd_msqgh02428smzgu5m",
+  "profile": {
+    "id": "heba-alazzeh",
+    "name": "Heba Alazzeh",
+    "city": "Burlingame, California, United States",
+    "country_code": "US",
+    "position": null,
+    "about": "Hi I\u2019m Heba! I\u2019m a Computer Science student at UC Berkeley who is passionate about\u2026",
+    "current_company": {
+      "link": "https://www.linkedin.com/company/google?trk=public_profile_topcard-current-company",
+      "name": "Google",
+      "company_id": "google",
+      "location": null
+    },
+    "experience": null,
+    "url": "https://nz.linkedin.com/in/heba-alazzeh",
+    "educations_details": "University of California, Berkeley",
+    "education": [
+      {
+        "title": "University of California, Berkeley",
+        "url": "https://www.linkedin.com/school/uc-berkeley/",
+        "start_year": "2025-08",
+        "end_year": "2026-12",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      },
+      {
+        "start_year": "2023-06",
+        "end_year": "2025-05",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      },
+      {
+        "start_year": "2021-08",
+        "end_year": "2023-06",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      }
+    ],
+    "recommendations_count": 4,
+    "avatar": "https://media.licdn.com/dms/image/v2/D5603AQEBorN8J3vn3Q/profile-displayphoto-scale_200_200/B56Zzzy23OH8AY-/0/1773616721731?e=2147483647&v=beta&t=G3EJVZl4tNichq5mG7Du-8RJNNQmDDpgn9fPVC2DIpA",
+    "courses": [
+      {
+        "subtitle": "Grade Received: A",
+        "title": "CIS 110 - Introduction to CIS"
+      },
+      {
+        "subtitle": "Grade Received: A",
+        "title": "CIS 117 - Python Programming"
+      },
+      {
+        "subtitle": "Grade Received: A",
+        "title": "CIS 254 - Intro to Object-Oriented Program Design"
+      },
+      {
+        "subtitle": "Grade Received: A",
+        "title": "CIS 255 - Programming Methods: Java"
+      },
+      {
+        "subtitle": "Grade Received: A",
+        "title": "CIS 256 - (CS2) Data Structures: Java"
+      },
+      {
+        "subtitle": "Grade Received: A",
+        "title": "CIS 262 - Discrete Math. for Comp Science"
+      },
+      {
+        "subtitle": "Grade Received: A",
+        "title": "CIS 264 - Comp Org & Systems Programming"
+      },
+      {
+        "subtitle": "Grade Received: A",
+        "title": "CIS 278 - Prgm Methods: C++"
+      },
+      {
+        "subtitle": "Grade Received: A",
+        "title": "CIS 279 - (CS2) Data Structures: C++"
+      },
+      {
+        "subtitle": "Grade Received: A",
+        "title": "CIS 502 - Applied Python Programming"
+      },
+      {
+        "subtitle": "Grade Received: A",
+        "title": "CS106A - Stanford Introduction to Programming"
+      },
+      {
+        "subtitle": "Grade Received: A",
+        "title": "MATH 225 - Path to Calculus"
+      },
+      {
+        "subtitle": "Grade Received: A",
+        "title": "MATH 251 - Calculus 1 / Analytical Geometry"
+      },
+      {
+        "subtitle": "Grade Received: A",
+        "title": "MATH 252 - Calculus 2 / Analytical Geometry"
+      },
+      {
+        "subtitle": "Grade Received: A",
+        "title": "MATH 253 - Calculus 3 /Analytic Geometry"
+      },
+      {
+        "subtitle": "Grade Received: A",
+        "title": "MATH 270 - Linear Algebra"
+      },
+      {
+        "subtitle": "Grade Received: A",
+        "title": "MATH 275 - Ordinary Differential Equations"
+      },
+      {
+        "subtitle": "Grade Received: A",
+        "title": "PHYS 250 - Physics with Calculus 1"
+      },
+      {
+        "subtitle": "Grade Received: A",
+        "title": "PHYS 260 - Physics with Calculus II"
+      },
+      {
+        "subtitle": "Grade Received: A",
+        "title": "PHYS 270 - Physics with Calculus III"
+      }
+    ],
+    "languages": [
+      {
+        "subtitle": "Native or bilingual proficiency",
+        "title": "English"
+      },
+      {
+        "subtitle": "Native or bilingual proficiency",
+        "title": "Arabic"
+      },
+      {
+        "subtitle": "Professional working proficiency",
+        "title": "Spanish"
+      }
+    ],
+    "certifications": [
+      {
+        "meta": "Issued Dec 2024 Credential ID 7RLERO98U8Q1 See credential",
+        "subtitle": "Google",
+        "title": "Crash Course on Python",
+        "credential_url": "https://www.coursera.org/account/accomplishments/verify/7RLERO98U8Q1?trk=public_profile_see-credential",
+        "credential_id": "7RLERO98U8Q1"
+      },
+      {
+        "meta": "Issued Dec 2024 Credential ID D7Q61T5FNNK4 See credential",
+        "subtitle": "Google",
+        "title": "Introduction to Git and GitHub",
+        "credential_url": "https://www.coursera.org/account/accomplishments/verify/D7Q61T5FNNK4?trk=public_profile_see-credential",
+        "credential_id": "D7Q61T5FNNK4"
+      },
+      {
+        "meta": "Issued Dec 2024 Credential ID 07VLFZY0ET64 See credential",
+        "subtitle": "Google",
+        "title": "Troubleshooting and Debugging Techniques",
+        "credential_url": "https://www.coursera.org/account/accomplishments/verify/07VLFZY0ET64?trk=public_profile_see-credential",
+        "credential_id": "07VLFZY0ET64"
+      },
+      {
+        "meta": "Issued Dec 2024 Credential ID VIAN4AVJSP1E See credential",
+        "subtitle": "Google",
+        "title": "Using Python to Interact with the Operating System",
+        "credential_url": "https://www.coursera.org/account/accomplishments/verify/VIAN4AVJSP1E?trk=public_profile_see-credential",
+        "credential_id": "VIAN4AVJSP1E"
+      },
+      {
+        "meta": "Issued Nov 2024",
+        "subtitle": "Stanford University",
+        "title": "Certificate of Completion | Stanford Science Small Groups",
+        "credential_url": null,
+        "credential_id": null
+      },
+      {
+        "meta": "Issued Aug 2024",
+        "subtitle": "CCOP Stanford University",
+        "title": "Certificate Of Completion | Stanford University's CCOP",
+        "credential_url": null,
+        "credential_id": null
+      },
+      {
+        "meta": "Issued Jun 2024",
+        "subtitle": "Code in Place",
+        "title": "Certificate Of Completion | Stanford University's Code in Place",
+        "credential_url": null,
+        "credential_id": null
+      },
+      {
+        "meta": "Issued Jun 2024 Credential ID 63607529 See credential",
+        "subtitle": "CITI Program",
+        "title": "Responsible Conduct of Research for Engineers",
+        "credential_url": "https://www.citiprogram.org/verify/?wae662b20-fbbb-4d75-a2e3-d45fe659286f-63607529&trk=public_profile_see-credential",
+        "credential_id": "63607529"
+      },
+      {
+        "meta": "Issued Jun 2024 Expires Jun 2027 Credential ID 63607528 See credential",
+        "subtitle": "CITI Program",
+        "title": "Group 2: IRB Nonmedical Research (All Nonmedical Investigators and Staff)",
+        "credential_url": "https://www.citiprogram.org/verify/?w51dce2c8-5abb-499a-861f-bfc21a81cc19-63607528&trk=public_profile_see-credential",
+        "credential_id": "63607528"
+      },
+      {
+        "meta": "Issued Jun 2024 Expires Jun 2027 Credential ID 63608644 See credential",
+        "subtitle": "CITI Program",
+        "title": "IRB Administration",
+        "credential_url": "https://www.citiprogram.org/verify/?wed082484-2172-4ece-b3a4-4bba6788364a-63608644&trk=public_profile_see-credential",
+        "credential_id": "63608644"
+      }
+    ],
+    "recommendations": [
+      "Kiana Partovi \u201cWorking alongside my co-founder and co-host Heba has been such an incredible experience. She is one of the most organized, intentional, proactive, and on-top-of-it people I\u2019ve ever worked with. Everything Heba does is thoughtful, elevated, and held to such a high standard and it genuinely shows in every part of what we\u2019ve built. What I admire most is how she balances big-picture vision with the small details that make things work. Whether it\u2019s shaping the direction of our panels or making sure every piece comes together seamlessly, she shows up with clarity and care every single time. Heba brings not just vision, but the energy and execution to actually make things happen. She has a way of turning ideas into something real so seamlessly, and being in sync with her throughout this process has made everything feel so natural. I couldn\u2019t have asked for a better partner to build this with. I am so grateful to be doing this alongside her.\u201d",
+      "Sebrianne F. \u201cI had the pleasure of working with Heba when she was our student assistant at SMCCCD ITS. She is highly motivated, energetic and always open to learning new things and solving problems. Any task I gave her was completed cleanly, quickly and professionally. She has a very rare and inspiring aptitude to learn and grow, and I give her my highest recommendation.\u201d"
+    ],
+    "volunteer_experience": [
+      {
+        "duration": "Oct 2023 \u00b7 - Present \u00b7 \n\n2 years 11 months",
+        "duration_short": "- Present",
+        "start_date": "Oct 2023",
+        "subtitle": "Second Harvest of Silicon Valley",
+        "title": "Volunteer"
+      },
+      {
+        "duration": "Jul 2024 \u00b7 - \nDec 2024 \u00b7 \n6 months",
+        "duration_short": "- \nDec 2024",
+        "info": "Developed and maintained the mosque\u2019s website, improving communication and engagement within the community. Provided technical support and training to staff and volunteers, enhancing their digital literacy and website management skills.",
+        "start_date": "Jul 2024",
+        "subtitle": "Yaseen Foundation @ Belmont",
+        "title": "Software Engineer | Website Developer"
+      },
+      {
+        "cause": "Science and Technology",
+        "duration": "Apr 2024 \u00b7 - \nSep 2024 \u00b7 \n6 months",
+        "duration_short": "- \nSep 2024",
+        "info": "- Participate in the development, design, and maintenance of the organization's website. - Ensure the website is functional, user-friendly, and optimized for performance. - Maintain accuracy of content and alignment with organizational branding and objectives. - Coordinate website projects and initiatives in collaboration with the director to ensure successful delivery and quality outcomes. - Collaborate closely with other departments to align website goals with overall\u2026 Show more - Participate in the development, design, and maintenance of the organization's website. - Ensure the website is functional, user-friendly, and optimized for performance. - Maintain accuracy of content and alignment with organizational branding and objectives. - Coordinate website projects and initiatives in collaboration with the director to ensure successful delivery and quality outcomes. - Collaborate closely with other departments to align website goals with overall organizational objectives. Show less",
+        "start_date": "Apr 2024",
+        "subtitle": "The Medica Zone",
+        "title": "Website Management Department Intern"
+      }
+    ],
+    "followers": 15914,
+    "connections": 500,
+    "current_company_company_id": "google",
+    "current_company_name": "Google",
+    "publications": [
+      {
+        "title": "LeRAAT: LLM-Enabled Real-Time Aviation Advisory Tool",
+        "subtitle": "Arxiv",
+        "date": "March 5, 2025",
+        "description": "In aviation emergencies, high-stakes decisions must be made in an instant. Pilots rely on quick access to precise, context-specific information -- an area where emerging tools like large language models (LLMs) show promise in providing critical support. This paper introduces LeRAAT, a framework that integrates LLMs with the X-Plane flight simulator to deliver real-time, context-aware pilot assistance. The system uses live flight data, weather conditions, and aircraft documentation to generate recommendations aligned with aviation best practices and tailored to the particular situation. It employs a Retrieval-Augmented Generation (RAG) pipeline that extracts and synthesizes information from aircraft type-specific manuals, including performance specifications and emergency procedures, as well as aviation regulatory materials, such as FAA directives and standard operating procedures. We showcase the framework in both a virtual reality and traditional on-screen simulation, supporting a wide range of research applications such as pilot training, human factors research, and operational decision support. Accepted to ECAI 2025"
+      }
+    ],
+    "projects": [
+      {
+        "title": "MTC Job Alert Slack Bot",
+        "start_date": "Aug 2026",
+        "description": "Designed and built a Python-based Slack bot that automates internship and job-alert discovery for a student tech club. The bot polls multiple public job-listing sources hourly via GitHub Actions, de-duplicates postings using a persistent state file, applies configurable keyword and company-blocklist filters (excluding defense-industry employers), and delivers formatted alerts to Slack via the Bot API - all running serverlessly at zero cost."
+      },
+      {
+        "title": "Syllabus Seeker",
+        "start_date": "Dec 2024",
+        "description": "\ud83d\ude80 Empowering Students with Easy Access to Course SyllabiI built Syllabus Seeker, a modern web application designed to help students search, share, and access course syllabi seamlessly. With features like advanced search filters, syllabus uploads, and a clean, responsive interface, the platform enhances academic collaboration and resource sharing.Key Highlights:\ud83d\udd0d Search Functionality: Fuzzy search by school, course, or professor name with year filters.\ud83d\udcc4 Syllabus Management: Upload, preview, and download syllabi (PDF, DOC, or text).\ud83c\udf19 User Experience: Dark/Light mode toggle, intuitive design, and fully responsive layout.Tech Stack:Frontend: Next.js, TypeScript, TailwindCSSBackend: Prisma ORM, PostgreSQL (via Neon)Infrastructure: Deployed on VercelCheck it out here: https://syllabus-seeker.vercel.app/"
+      },
+      {
+        "title": "CSM Girls Who Code Club Website V2",
+        "start_date": "Aug 2024"
+      },
+      {
+        "title": "Mineral-X Subsurface Visualization Tool",
+        "start_date": "Jun 2024",
+        "description": "This tool is designed to load, process, and visualize 3D subsurface data from multiple anisotropic and isotropic CSV files. The tool allows users to toggle between different visualization modes: standard view, interactive slicing, and structure identification."
+      },
+      {
+        "title": "Mingly",
+        "start_date": "Apr 2024",
+        "description": "Software Engineer | Team Lead- Spearheaded the development efforts for Mingley, a social networking app designed to facilitate spontaneous and meaningful connections among users with shared interests or goals.- Led a team of 15 individuals through the entire software development lifecycle, from conception to deployment, within an agile environment.- Oversaw the development of both the mobile application and desktop version of the platform, ensuring seamless integration and user experience across multiple platforms.- Managed a timeline, successfully progressing in development.- Recruited and onboarded a teams, from UI/UX designers, to front-end and back-end engineers.- Utilized a diverse tech stack, including SwiftUI, Firebase, Azure Cloud, .NET, HTML, CSS.- Cultivated an environment of flexibility and continuous learning, encouraging cross-team collaboration and the refinement of skills among team members."
+      },
+      {
+        "title": "Crochet Of The Day Website",
+        "start_date": "Mar 2024",
+        "description": "Developing an innovative \"Crochet of the Day\" website, offering a daily selection of crochet patterns. The platform features user-friendly navigation, interactive contribution options, and a vibrant community where users can like and contribute patterns. Designed for accessibility, the website includes dropdown menus for easy exploration of all patterns, popular picks, and new arrivals. Demonstrates proficiency in web development and a commitment to fostering creativity and community engagement through technology."
+      },
+      {
+        "title": "Bulldog Bistro",
+        "start_date": "Apr 2024",
+        "description": "Bulldog BistroBulldog Bistro is a Python game developed using Pygame, loosely inspired by the classic restaurant management game Diner Dash. In this game, players take on the role of the mischievous CSM mascot rival, attempting to dine and dash by stealing Bulldog Burgers from unsuspecting students within a limited time frame.DescriptionBulldog Bistro brings a twist to the traditional restaurant management genre by putting you in the shoes of the cunning CSM mascot rival. With loose inspiration from Diner Dash, your goal is to navigate the bustling cafeteria, and snatch as many Bulldog Burgers as possible within a tight 30-second window.FeaturesPlay as the Rival Mascot: Assume the role of the mischievous CSM mascot rival on a daring mission to dine and dash.Sneak and Steal: Use arrow keys to navigate the cafeteria, strategically colliding with students' trays to snatch Bulldog Burgers.Scoring System: Accumulate points by successfully stealing burgers while evading detection.Time-Based Challenge: Race against the clock with a 30-second time limit, adding intensity and excitement to your escapades.##(art created by Heba Alazzeh :) )InstallationInstall Python and Pygame if you haven't already.Clone the repository to your local machine.Navigate to the project directory.Run the game by executing the main.py file.UsageControl the Mascot Rival: Use WASD keys to navigate the cafeteria and strategically collide with students' trays to steal burgers.Score Points: Accumulate points by successfully snatching Bulldog Burgers.Beat the Clock: Race against time to devour as many burgers as possible within the 30-second time limit.Challenge Yourself: Test your stealth and agility as you strive to outsmart the students and staff in your quest for delicious burgers!Enjoy the thrilling and mischievous gameplay of Bulldog Bistro as you embark on a daring adventure to dine and dash through the cafeteria!"
+      },
+      null,
+      {
+        "title": "CSM Girls Who Code Club Website",
+        "start_date": "Apr 2024",
+        "description": "The CSM Girls Who Code Club website is a platform dedicated to promoting diversity and inclusion in the field of computer science. It serves as the online presence for the Girls Who Code club at CSM, providing information about the club, its mission, events, and opportunities for members.Key Features:About Section: Learn about the mission and values of the Girls Who Code club.Team Section: Meet the passionate individuals behind the club.Events Section: Stay updated on upcoming events and activities.Contact Us Section: Connect with the club and submit inquiries through a contact form.Membership Signup: Interested individuals can easily join the club through the website.Technologies Used:HTML5CSS3JavaScriptBootstrap FrameworkWeb3Forms API for form submissions"
+      },
+      {
+        "title": "AI Chat With Websites",
+        "start_date": "Mar 2024",
+        "description": "This project enables users to interact with websites through a chat interface powered by conversational AI. Leveraging Streamlit, an open-source app framework for Machine Learning and Data Science projects, users can engage in conversations with websites in a natural language format.Features:Conversational Interface: The user interacts with the website by typing messages into the chat interface.Context-Aware Responses: The system generates responses based on the context of the conversation, providing relevant and meaningful answers.Web Scraping: The system extracts text content from the specified website URL using web scraping techniques.Natural Language Processing: Conversational AI models process user inputs and generate appropriate responses, simulating human-like interactions.Dynamic Session Management: The system maintains a chat history and session state, enabling seamless continuation of conversations across interactions.Implementation Details:Language and Frameworks: Implemented using Python programming language and Streamlit framework.Libraries: Utilizes various libraries such as langchain, langchain_openai, langchain_core, and dotenv for natural language processing, web scraping, and conversational AI functionalities.Vectorization: Converts text data into vector representations using Chroma and OpenAIEmbeddings for efficient processing and context understanding.Conversational Chains: Implements conversational chains to handle user queries, retrieve relevant information, and generate responses based on context and history.User Interface: Provides a simple and intuitive user interface using Streamlit's chat_input and chat_message components for text input and display.Usage:Enter the URL of the website you want to interact with in the sidebar.Type your message in the chat input box and press Enter to send.The system will generate responses based on the conversation context and display them in the chat interface"
+      },
+      {
+        "title": "CSM Computer Science Club Website",
+        "start_date": "Nov 2023",
+        "description": "A project to develop a website for our Computer Science Club. This exciting initiative features an AI chatbot, gallery, about us, team, initiatives, and contact sections. It's a hands-on experience where I'm applying my skills to create innovative solutions."
+      }
+    ],
+    "organizations": [
+      {
+        "title": "Reboot Scholars",
+        "membership_type": "Member",
+        "start_date": "Mar 2025",
+        "end_date": "Present",
+        "membership_number": null
+      },
+      {
+        "title": "Rewriting The Code",
+        "membership_type": "Member",
+        "start_date": "Jan 2025",
+        "end_date": "Present",
+        "membership_number": null
+      },
+      {
+        "title": "ColorStack",
+        "membership_type": "Member",
+        "start_date": "Aug 2024",
+        "end_date": "Present",
+        "membership_number": null
+      },
+      {
+        "title": "Girls Who Code",
+        "membership_type": "President",
+        "start_date": "Apr 2024",
+        "end_date": "Present",
+        "membership_number": null
+      }
+    ],
+    "location": "Burlingame",
+    "input_url": "https://www.linkedin.com/in/heba-alazzeh",
+    "linkedin_id": "heba-alazzeh",
+    "activity": [
+      {
+        "interaction": "Shared by Heba Alazzeh",
+        "link": "https://www.linkedin.com/posts/heba-alazzeh_goldman-sachs-is-hiring-analysts-across-activity-7493352650327879681-z1eG",
+        "title": "\ud83c\udf89 Goldman Sachs is HIRING analysts across data, marketing, operations, and trade analytics! \ud83c\udf89 Associate Data Engineer Dallas\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQEa22JwT1nD-g/feedshare-image-high-res/B56Z_28iDdKkAU-/0/1786554491437?e=2147483647&v=beta&t=zGrKfQxBw0wWZ3t1wNq72wmAZJK_eG0pIz7e3mz3E-w",
+        "id": "7493352650327879681"
+      },
+      {
+        "interaction": "Liked by Heba Alazzeh",
+        "link": "https://www.linkedin.com/posts/computingdatasciencesociety_ucberkeley-ai-datascience-activity-7493057207173865472-NnWy",
+        "title": "We\u2019re excited to welcome the community for an open house at the Barbara and Gerson Bakar Gateway on Aug. 25! \ud83c\udf89 Explore the new state-of-the-art\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4E10AQHqOppUVqappg/image-shrink_800/B4EZ_yv04XHkAk-/0/1786484051848?e=2147483647&v=beta&t=EIUGfgKI2ExGYfjxNonW0yRJ7kwLLXHLUPJ5jLRFREA",
+        "id": "7493057207173865472"
+      },
+      {
+        "interaction": "Liked by Heba Alazzeh",
+        "link": "https://www.linkedin.com/posts/kaycie-bell_hi-linkedln-family-allow-me-to-reintroduce-activity-7492619750376833024-huXX",
+        "title": "Hi Linkedln Family! Allow me to reintroduce myself, my name is Kaycie Bell and I am a Spelman Woman! On May 18th, 2026 I proudly graduated from the\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQE400vZVsKciA/feedshare-image-high-res/B4EZ_sh1cQJEAY-/0/1786379721405?e=2147483647&v=beta&t=yh3qHU1HfRbyY4dx1WM5M4rSjwoVRwZJrDaWiwMSo0w",
+        "id": "7492619750376833024"
+      },
+      {
+        "interaction": "Liked by Heba Alazzeh",
+        "link": "https://www.linkedin.com/posts/yasseen-elzarka_im-excited-to-share-that-i-have-completed-activity-7491908559266324480-vffy",
+        "title": "I\u2019m excited to share that I have completed my summer internship with Chevron as a Process Engineering Intern! This summer, I had the opportunity to\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQHl-bKxBdZnpw/feedshare-image-high-res/B56Z_iX7jgJoAU-/0/1786209352487?e=2147483647&v=beta&t=p7uPtfxJa92c8pavYpEfUWHU_0wJNf489_e4eKAY4gY",
+        "id": "7491908559266324480"
+      },
+      {
+        "interaction": "Shared by Heba Alazzeh",
+        "link": "https://www.linkedin.com/posts/heba-alazzeh_ai-engineering-candidates-five-teams-activity-7492996062597496832-AqSp",
+        "title": "\ud83d\udccc AI engineering candidates: five teams are HIRING across internship, GenAI, analytics, and agentic systems! \ud83d\udccc Intel | AI Software Engineering\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQHKg80AXeh4VQ/feedshare-shrink_800/B56Z_x4N6TGsAc-/0/1786469474559?e=2147483647&v=beta&t=GEFNnz8_KAXIq8KSjS2AolpW008_bV9JmhIuQ83Bhso",
+        "id": "7492996062597496832"
+      },
+      {
+        "interaction": "Liked by Heba Alazzeh",
+        "link": "https://www.linkedin.com/posts/oluwatobilobaadesanya_yc-ycombinator-activity-7492738713077108736-ZVYM",
+        "title": "Happy to share that I will be attending the Y Combinator Startup Internship Expo! #YC #YCombinator",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQGM3Pg6zBoQ1w/feedshare-shrink_800/B56Z_uOKEMJkAg-/0/1786408116840?e=2147483647&v=beta&t=8GCWSqQnb_iVgUALz_GqBvSmumqeNCvCF88xnWyxPKw",
+        "id": "7492738713077108736"
+      },
+      {
+        "interaction": "Liked by Heba Alazzeh",
+        "link": "https://www.linkedin.com/posts/adame05_just-finished-up-my-last-week-at-doordash-activity-7492637186505285632-Fwmy",
+        "title": "Just finished up my last week at DoorDash as a Software Engineering Intern and it was definitely bittersweet! Had a great time learning about storage\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQFAThAWqnD7qg/feedshare-shrink_800/B4EZ_sx0OCIgAk-/0/1786383911157?e=2147483647&v=beta&t=pa1-rc7-lV1MlAA5iO45fhT_EAqt_oWhKUh1XNcn05A",
+        "id": "7492637186505285632"
+      },
+      {
+        "interaction": "Liked by Heba Alazzeh",
+        "link": "https://www.linkedin.com/posts/kris-medeiros_colorstack-stackedupsummit-mlt-activity-7492624492175810562-Qdt2",
+        "title": "Two summits, one week. ColorStack Stacked Up and the Management Leadership for Tomorrow (MLT) Summer Seminar back-to-back, and I'm still processing\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQGZlrJ5kFnxmA/feedshare-shrink_800/B56Z_pHEkdGQAc-/0/1786322374241?e=2147483647&v=beta&t=ILOg6lad2w7YTOeUoec7JhBVsexdhX9zfSNpLdktBBY",
+        "id": "7492624492175810562"
+      },
+      {
+        "interaction": "Liked by Heba Alazzeh",
+        "link": "https://www.linkedin.com/posts/jasleengarcha_rewritingthecode-datadog-womenintech-activity-7492692591763795968-m6Qt",
+        "title": "I had such a great time visiting the Datadog office with Rewriting the Code! \ud83d\udc36\ud83d\udc9c It was really meaningful getting to connect with other women in\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQHoqFz4iPdcMw/feedshare-image-high-res/B4EZ_tkNKVIMAU-/0/1786397120008?e=2147483647&v=beta&t=EcDjoBEejFlYMAVmcq5ZTL1MInIZ9U0-7Dec_s7OLFM",
+        "id": "7492692591763795968"
+      }
+    ],
+    "linkedin_num_id": "1168667296",
+    "banner_image": "https://media.licdn.com/dms/image/v2/D5616AQGc0RlgXSiGdA/profile-displaybackgroundimage-shrink_200_800/B56Z_AdGC0HAAQ-/0/1785640280517?e=2147483647&v=beta&t=mOeGflTrgi4V6T4xV69NkkQDdqEYY4PP_82owNHg2Cg",
+    "honors_and_awards": [
+      {
+        "title": "Dean\u2019s List",
+        "publication": "College Of San Mateo",
+        "date": null,
+        "description": null
+      },
+      {
+        "title": "Summa Cum Laude (4.0) 3x Computer Science, Physics, Mathematics",
+        "publication": "College of San Mateo",
+        "date": null,
+        "description": null
+      }
+    ],
+    "similar_profiles": [],
+    "default_avatar": false,
+    "memorialized_account": false,
+    "bio_links": [],
+    "first_name": "Heba",
+    "last_name": "Alazzeh",
+    "influencer": false,
+    "timestamp": "2026-08-12T19:02:00.051Z",
+    "input": {
+      "url": "https://www.linkedin.com/in/heba-alazzeh"
+    }
+  },
+  "local_photo": "data\\linkedin_photos\\heba-alazzeh__usr-jeF9q6KuOWU6ENF.jpg"
+}

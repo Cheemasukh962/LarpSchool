@@ -1,0 +1,190 @@
+{
+  "luma_user_id": "usr-zHgcou5pxxWtyMG",
+  "csv_name": "Sanjay Mukhyala",
+  "csv_linkedin": "https://www.linkedin.com/in/sanjay-mukhyala-559423272",
+  "enriched_at": "2026-08-12T19:16:49.715577+00:00",
+  "batch_id": "sd_msqgxyk1xj7v4ip1",
+  "profile": {
+    "id": "sanjay-mukhyala-559423272",
+    "name": "Sanjay Mukhyala",
+    "city": "San Francisco Bay Area",
+    "country_code": "US",
+    "position": null,
+    "about": "sanjay-mukhyala.com. sanjay-mukhyala [at] berkeley [dot] edu Talk to me about\u2026",
+    "current_company": {
+      "link": "https://www.linkedin.com/company/prologis?trk=public_profile_topcard-current-company",
+      "name": "Prologis",
+      "company_id": "prologis",
+      "location": null
+    },
+    "experience": null,
+    "url": "https://www.linkedin.com/in/Sanjay-mukhyala-559423272",
+    "educations_details": "University of California, Berkeley",
+    "education": null,
+    "avatar": "https://media.licdn.com/dms/image/v2/D4E03AQGqb7ReAkUPtQ/profile-displayphoto-scale_200_200/B4EZ8U4lXgKwAc-/0/1782761806724?e=2147483647&v=beta&t=OyamgyzBktJvCnafH9CGYowWJkei_82DMI4JKUevU_E",
+    "volunteer_experience": [
+      {
+        "cause": "Education",
+        "duration": "May 2022 \u00b7 - \nAug 2024 \u00b7 \n2 years 4 months",
+        "duration_short": "- \nAug 2024",
+        "info": "Worked with children of varying ages to promote scientific understanding, inclusion, education, and more. Volunteered over 275 hours.",
+        "start_date": "May 2022",
+        "subtitle": "CuriOdyssey",
+        "title": "Volunteer"
+      }
+    ],
+    "followers": 2248,
+    "connections": 500,
+    "current_company_company_id": "prologis",
+    "current_company_name": "Prologis",
+    "location": null,
+    "input_url": "https://www.linkedin.com/in/sanjay-mukhyala-559423272",
+    "linkedin_id": "sanjaymukhyala",
+    "activity": [
+      {
+        "interaction": "Sanjay Mukhyala shared this",
+        "link": "https://www.linkedin.com/posts/sanjaymukhyala_machinelearning-sportsanalytics-featureengineering-activity-7490888571722256384-u5ZM",
+        "title": "I still haven't won my FPL league ever, so I've been thinking about why most free fantasy sports models eventually hit a ceiling. Nearly all of them reduce the problem to predicting player performance. But fantasy games aren\u2019t prediction problems, they\u2019re decision problems, and no two managers are solving the same one. This fantasy ML tool conditions the model on the manager\u2019s constraints from the very beginning. Imagine two Fantasy Premier League managers with the exact same squad before a gameweek. One says: \u201cCaptain Haaland, don\u2019t sell Palmer, and play a 3-5-2.\u201d The other wants to maximize expected points. Most optimizers begin with the same underlying reasoning and only apply those preferences as filters afterward. A constraint-conditioned model treats these as fundamentally different optimization problems from the start. That changes everything: - Constraint-aware player embeddings learn player relationships based on the active constraint set. - Automated feature discovery searches for interactions that matter under the current constraints instead of assuming one global feature space. - Dynamic feature engineering learns which features should be emphasized, or even constructed, for each manager\u2019s specific decision problem. Recent work such as LLM-FE ( https://lnkd.in/g89bT55m ) showed that feature engineering can be discovered iteratively rather than relying entirely on handcrafted rules. I\u2019m exploring a similar idea, but instead of searching for globally useful features, the search itself is conditioned on the manager\u2019s constraints, allowing the learned representations and features to adapt to the optimization problem being solved rather than one predictive objective. The goal isn\u2019t just better player predictions, it\u2019s a decision engine that adapts its reasoning to the manager instead of forcing every manager through the same optimization pipeline. Hopefully you don\u2019t lose your fantasy league this year because your model thinks exactly like everyone else\u2019s. Read this for more: https://lnkd.in/gCSY_-VW . Code: https://lnkd.in/gC6sHqB7 #MachineLearning #SportsAnalytics #FeatureEngineering #OpenSource #FantasySports ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQFHXMjr0_esVQ/feedshare-shrink_800/B56Z_T7dfNJgAc-/0/1785967008177?e=2147483647&v=beta&t=HW0PwDGgL2KrqBSRFbgu9goVGYbvZ80tT8DqjTVYHNY",
+        "id": "7490888571722256384"
+      },
+      {
+        "interaction": null,
+        "link": "https://www.linkedin.com/posts/sanjaymukhyala_opensource-aiengineering-claude-activity-7485419360610672640-Cg9_",
+        "title": "We keep making models smarter, but we haven't completely solved context. Every assistant has its own version of you. ChatGPT remembers one set of conversations. Claude remembers another. Cursor knows what happened in your codebase but not your goals. None of them share context, and none of them reliably understand what you're focused on this week. The result is strange. Your AI can help you solve really hard technical tasks, but it still asks you to explain your project pivot for the tenth time. I don't think context should belong to the model, it should belong to the user. So, I spun up Cortex. Cortex is a local-first context layer that sits above AI models. It continuously builds an evolving understanding of your long-term identity and your short-term context (projects, priorities, goals, workflows, and preferences) and makes that available to whichever assistant you're using. Instead of every model maintaining its own incomplete memory, your context becomes portable. Switch models. Start a new conversation. Try a new AI product \u2192 Your context comes with you. Inspired by Anthropic's Workspace research ( https://lnkd.in/gWzsB5pb ), Cortex extends the idea of a J-space beyond a single model. Instead of each AI building its own partial understanding of you, they all reference the same evolving workspace of your projects, goals, and preferences - similar to how a model's J-space acts as a shared workspace for the concepts it is actively reasoning about. Still early (only two integrations), but I'm excited to see where this goes and what tools I'll add in the future. I'd love feedback. See a longer description and demo here: https://lnkd.in/gR7FnH9f Codebase: https://lnkd.in/g-iy8BEs #OpenSource #AIEngineering #Claude ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQGM5ZACmPXfKA/feedshare-shrink_1280/B56Z.GNPleKAAQ-/0/1784663046816?e=2147483647&v=beta&t=bk-g276kxRSKrWhF61DQ2TtTek0Jedg5MJ3j3Cqihu4",
+        "id": "7485419360610672640"
+      },
+      {
+        "interaction": "Sanjay Mukhyala shared this",
+        "link": "https://www.linkedin.com/posts/sanjaymukhyala_opensource-aiengineering-claude-activity-7485419360610672640-Cg9_",
+        "title": "We keep making models smarter, but we haven't completely solved context. Every assistant has its own version of you. ChatGPT remembers one set of conversations. Claude remembers another. Cursor knows what happened in your codebase but not your goals. None of them share context, and none of them reliably understand what you're focused on this week. The result is strange. Your AI can help you solve really hard technical tasks, but it still asks you to explain your project pivot for the tenth time. I don't think context should belong to the model, it should belong to the user. So, I spun up Cortex. Cortex is a local-first context layer that sits above AI models. It continuously builds an evolving understanding of your long-term identity and your short-term context (projects, priorities, goals, workflows, and preferences) and makes that available to whichever assistant you're using. Instead of every model maintaining its own incomplete memory, your context becomes portable. Switch models. Start a new conversation. Try a new AI product \u2192 Your context comes with you. Inspired by Anthropic's Workspace research ( https://lnkd.in/gWzsB5pb ), Cortex extends the idea of a J-space beyond a single model. Instead of each AI building its own partial understanding of you, they all reference the same evolving workspace of your projects, goals, and preferences - similar to how a model's J-space acts as a shared workspace for the concepts it is actively reasoning about. Still early (only two integrations), but I'm excited to see where this goes and what tools I'll add in the future. I'd love feedback. See a longer description and demo here: https://lnkd.in/gR7FnH9f Codebase: https://lnkd.in/g-iy8BEs #OpenSource #AIEngineering #Claude ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQGM5ZACmPXfKA/feedshare-shrink_1280/B56Z.GNPleKAAQ-/0/1784663046816?e=2147483647&v=beta&t=bk-g276kxRSKrWhF61DQ2TtTek0Jedg5MJ3j3Cqihu4",
+        "id": "7485419360610672640"
+      },
+      {
+        "interaction": "Sanjay Mukhyala shared this",
+        "link": "https://www.linkedin.com/posts/sanjaymukhyala_your-planner-doesnt-know-where-your-project-activity-7478170448791441408-oAa5",
+        "title": "Your planner doesn\u2019t know where your project actually is. Every software project starts with a roadmap. A week later, the roadmap is already outdated. You\u2019ve rewritten architecture, discovered new problems, abandoned features, and changed priorities, but your planner still reasons from the original plan. While watching YC's Paper Club series, I came across Scaling Self-Play with Self-Guidance ( Luke Bailey , https://lnkd.in/eWrkCxjD ), which showed how a small model outperformed a 100x larger model in trajectory-based development using asymmetric self-play instead of symmetric self-play. One idea stuck with me: instead of blindly generating the next step, generate several candidates and have a second model judge which one best advances the current state. I wondered if software planning has the same problem, so I built Frontier. Instead of planning from the end goal, Frontier reconstructs where your project actually is. It analyzes your GitHub repository (commit history, file changes, README, issues, and recent development trajectory) to infer the current frontier of the project. It then generates multiple candidate next tasks and scores them before recommending the single highest-leverage thing to work on next. To evaluate the idea, I compared Frontier against a baseline planner that only receives the project goal and deadline. Across simulated planning trajectories... - Frontier maintained substantially higher task alignment - Accumulated significantly more planning reward See a longer description and demo here: https://lnkd.in/eSjn7emn . The biggest improvements I saw using it came from recommending tasks that better matched the current trajectory of development, unblocked future work, and maintained momentum. This is still an early prototype, but I'd love feedback. My code lives at https://lnkd.in/eT9swAds . Some insights from testing are attached. ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQHfSXT0C9aGig/feedshare-shrink_800/B4EZ8fMZWLKoAg-/0/1782934771592?e=2147483647&v=beta&t=0UVWlLz7BRgbB8Cg9RkbfUPKSCL9tgvorgD2zzczsYw",
+        "id": "7478170448791441408"
+      },
+      {
+        "interaction": null,
+        "link": "https://www.linkedin.com/posts/aryaman-khanna-210a9121b_arden-yc-p26-is-backed-by-y-combinator-activity-7450643893903208448-OBBq",
+        "title": "Arden (YC P26) is backed by Y Combinator. A few weeks ago, we got kicked out of three audit firms in one afternoon. David Lomelin and I were trying to talk to every internal auditor we could find. I scraped 800 contacts and set up a cold outbound sequence that accidentally sent them all at once. Berkeley banned my inbox by the end of the day. Email wasn\u2019t an option anymore, so we figured we\u2019d just show up in person. We grabbed boxes of Insomnia Cookies and walked into audit firms in SF\u2019s Financial District. Most places turned us away. Two teenagers with cookies in audit firm lobbies, nobody knew whether to laugh or call security. We even tried pretending to be DoorDash drivers. But a few people actually sat down with us. What they described blew our minds, internal audit teams doing months of spreadsheet work that software should've killed years ago. The opportunity was way bigger than we realized. We applied to YC three weeks past the deadline. David and I didn\u2019t think they'd even open it. Five days later, we were in the interview telling them what we'd seen. We might be the only 19 year olds losing sleep over SOX compliance. Every public company spends millions of dollars on it and nobody's fixed it. We\u2019re building Arden, the AI-native platform for modern audit teams. If you're in internal audit or know someone who is, I'd love to connect. ...more ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQH0WlqWT5AySg/feedshare-shrink_800/B56Z2YBI1hHgAg-/0/1776371929222?e=2147483647&v=beta&t=MaYtEbK1TI3wkijcgEMvG-KL1gFWyXjxr8DWCGQxvos",
+        "id": "7450643893903208448"
+      },
+      {
+        "interaction": null,
+        "link": "https://www.linkedin.com/posts/johnzeratsky_applications-for-character-labs-g6-are-activity-7439725612229095424-2Gv_",
+        "title": "\ud83d\udea8 Applications for Character Labs G6 are due in 3 weeks!! The program for this group will be radically different from before, and we think it's going to be much more effective. Can't wait to run it down live with the next group of founders! \ud83d\udc49 If you're at inception/idea stage and interested in working with us, please take a look at character.vc/labs \u2014 and let me know if you have any questions! Here's what's changing for G6, and why: 1. All-new Sales Sprint and Marketing Sprints. Many founders in our portfolio are now finding and signing customers in weeks, not months \u2014 often well before they have a \"finished\" product ready to sell. We reverse-engineered their techniques and designed new sprints to help every founder start selling uncomfortably fast. ( Jake posted a preview of these new sprints a couple weeks ago. Link in comments!) 2. All-new Pitch Sprint. Founders in our portfolio have raised from a16z, First Round, Index, Obvious, Bessemer, General Catalyst, and other elite investors. We completely revamped our Pitch Sprint to capture the most important lessons from the founders who've had the most success in fundraising. We previewed this on a free webinar last month (link in comments) and we're pumped to fold it into the G6 program! 3. Demo Day! The biggest change EVER to Character Labs. For the first six groups, we provided bespoke support to each team as they were ready to raise, thinking it was a better experience. I think we were wrong on this one \u2014 by encouraging founders to raise at the same time, we can help them more AND provide a better experience to investors (who can meet 15 great founders in one place instead of being inundated by emails from us). Caveat: Our first-ever demo day (for G5) is in a couple of weeks, so we reserve the right to be wrong again and change course :) \ud83d\udc47 Bottom line, we are incredibly excited about these changes and think G6 will be the best ever. But more than that \u2014 we are just so eager to meet and work with this next group of founders. Because Character Labs is a special program. Biased of course, but I really think that's true. We believe it's the best way to get started and build momentum in the early days of founding of a startup. If this resonates, we'd love to meet you. Let's talk. If not for Labs, maybe we find another way to work together. If not for G6, maybe another time. But please, check out what's new in the comments, head over to character.vc/labs , and get in touch if you are interested in working together! ...more ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQGagm5T576GQg/feedshare-image-high-res/B56Zz83A7WIMAY-/0/1773768807463?e=2147483647&v=beta&t=O6KDMherSWReW_wvMRD-4SxwKm8jDsiJZYQ6-wQ4MVg",
+        "id": "7439725612229095424"
+      },
+      {
+        "interaction": null,
+        "link": "https://www.linkedin.com/posts/caleb-chan-327b14239_ive-noticed-something-strange-about-people-activity-7436818088790233088-m-LP",
+        "title": "I\u2019ve noticed something strange about people who end up building interesting things. Early on, they sound a little delusional. Not loud or arrogant. Usually pretty calm. But they\u2019ll say things that don\u2019t quite match reality yet. They\u2019ll talk about the company they\u2019re building when it\u2019s just three people and a prototype. They\u2019ll assume they can get meetings with people far above their level. They\u2019ll make plans that seem a bit too big for where they currently are. If you\u2019re standing next to them, it can feel slightly uncomfortable. Like they\u2019re getting ahead of themselves. And maybe they are. But over time I realized something. -------------- The people who sound the most \u201crealistic\u201d rarely start anything difficult. They wait until the path looks obvious. Until the odds make sense. Until they feel qualified. By that point, the interesting opportunities are usually gone. The people who start things earlier seem to operate differently. They assume things might work before there\u2019s much evidence. Which sounds like delusion. -------------- But there\u2019s a second part you notice if you watch them long enough. They\u2019re extremely disciplined. They keep showing up long after the idea stops feeling exciting. They keep fixing things that break. They keep pushing through the awkward early phase where nothing really works yet. The delusion is what lets them start. The discipline is what keeps them going long enough for reality to slowly catch up. Most people try to choose one. They either stay realistic, or they dream. The people who end up building amazing things somehow do both. So if you\u2019re going to be wrong about something, you might as well be wrong in the optimistic direction. Be delusional enough to believe it will work. Then disciplined enough to make sure it does. ...more ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQG17edaXwAlwg/feedshare-shrink_1280/B4EZzHJ3gUJcAM-/0/1772867779247?e=2147483647&v=beta&t=lEtJwXrQIyrg7Dht13pretxw9wGDVNENZqt1MnWhNnM",
+        "id": "7436818088790233088"
+      },
+      {
+        "interaction": null,
+        "link": "https://www.linkedin.com/posts/mark-h-shi_i-just-got-arrested-for-making-breefly-activity-7428601807448494080-JMbh",
+        "title": "I just got arrested. For making breefly too good. Apparently you\u2019re not supposed to let students understand a 2-hour lecture in 70 minutes. Breefly now embeds directly inside: \u2022 YouTube \u2022 Canvas \u2022 Panopto Which means the moment you open a lecture, it\u2019s already there. No more downloading videos or uploading urls. The authorities are still investigating how productivity increased 200%. If you don\u2019t hear from me again, you know why: https://www.breefly.org/ ...more ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQHsVK4ukxQ97w/feedshare-image-high-res/B56Zxex.sUH8AU-/0/1771116686466?e=2147483647&v=beta&t=4U2NEnIeB_1UiSd36KiPGFR2QEYO2978eXOSWcDfp38",
+        "id": "7428601807448494080"
+      },
+      {
+        "interaction": null,
+        "link": "https://www.linkedin.com/posts/sanjaymukhyala_breefly-college-activity-7428590365953224704-zjv1",
+        "title": "College is a canvas. There\u2019s no single way to navigate it anymore, especially with how much support there is almost every path forward. You can go super deep into academics, explore new fields, build projects, test ideas, and pivot without the same level of risk people had even a decade ago. But a lot of people treat college like a checklist instead of an opportunity to experiment. Being in an environment like this teaches you control over how you navigate spending your time and identifying what you prioritize. Being at UC Berkeley and building breefly for just two semesters made it Cliqk for me. Trying more things = some success = more mistakes = more honesty in what I actually value. Because this is probably the lowest-risk, highest-optionality period of your life, use it. Build things. Explore aggressively. Try things you\u2019re not even qualified for yet. The canvas is bigger than most people realize. #breefly #college ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQEAH51mT6eKRw/feedshare-shrink_800/B56ZxenkmJG4Ag-/0/1771113958477?e=2147483647&v=beta&t=pLgcOXDiBLDvgHWHiP7Rlfcu17wz8oI2bSzup4byeYc",
+        "id": "7428590365953224704"
+      },
+      {
+        "interaction": "Sanjay Mukhyala liked this",
+        "link": "https://www.linkedin.com/posts/nandita-paranjape_mlt-mltcareerprep-mltsummerseminar-activity-7492666914570162176-NJgD",
+        "title": "This past weekend, I had the opportunity to attend the Management Leadership for Tomorrow (MLT) Summer Seminar at Deloitte University! I am especially appreciative of how many opportunities there were to grow and learn. The table talks and networking fair were valuable for gaining industry insights. My team also placed third in the FICO case workshop! Beyond the professional side, the highlight of this trip was definitely the community. I met so many incredible people and made great memories. Huge thank you to Deloitte University for hosting us, to MLT for organizing this event, to the partners that attended, and to everyone I met along the way. I'm so grateful for the whole experience, and I'm looking forward to staying in touch with everybody. #MLT #MLTCareerPrep #MLTSummerSeminar #DeloitteUniversity",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQG_1Sf-51hlJA/feedshare-image-high-res/B56Z_tM10fKcAU-/0/1786390995776?e=2147483647&v=beta&t=Wj749xfuOSq98EnWgRbSTHNd6fpO4BX4CfRAzLCD2yY",
+        "id": "7492666914570162176"
+      },
+      {
+        "interaction": "Sanjay Mukhyala liked this",
+        "link": "https://www.linkedin.com/posts/meghana-vin_and-thats-a-wrap-on-my-summer-at-crusoe-activity-7491685700245839872-EpTu",
+        "title": "And that\u2019s a wrap on my summer at Crusoe! This summer, I had the opportunity to architect an autonomous API discovery and security assessment tool. The system discovers APIs across Crusoe\u2019s environment, safely tests them for potential security vulnerabilities, and uses a team of AI agents to investigate, validate, and surface findings. One of my favorite parts of the project was figuring out how to combine traditional security tooling with AI agents in a way that was reliable, safe, and actually useful to security engineers. Beyond the technical work, I learned so much about building for real-world environments, approaching open-ended problems, and taking an idea from early architecture all the way to a working system. I\u2019m incredibly grateful to Aaron M. , Pranit Garud , and everyone I worked with for the mentorship and support throughout the summer, and to Kathleen Merto and Jordan Freitas for running such an incredible program. Thank you to my co-interns and everyone at Crusoe who made this such a memorable experience!",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQErCFZEKmY9kg/feedshare-shrink_800/B56Z_fQceVJ0Ac-/0/1786157058477?e=2147483647&v=beta&t=xQn5hSzyHno_L1kX29G2eUjlIDiepUfjHrCgvt53tr0",
+        "id": "7491685700245839872"
+      },
+      {
+        "interaction": "Sanjay Mukhyala liked this",
+        "link": "https://www.linkedin.com/posts/seandorje_today-were-announcing-na%C3%AFve-has-raised-activity-7491177276122935297-KQNP",
+        "title": "Today, we\u2019re announcing Na\u00efve has raised a $28.5 million Series A to build autonomous company infrastructure. This round was led by Nexus, with participation from Y Combinator, Zetta, Liquid 2, and more. Dennis Zax & I have been building together since we were 14. We sold our first company as teenagers, dropped out of Berkeley, joined Y Combinator, and spent the last several years thinking about what the world looks like when agents can fully run businesses. Coding agents can now ship an app in an afternoon. But turning that app into a real operating business still takes months. Developers manually stitch together payments, incorporation, email, phone numbers, compute, memory, databases, authentication, and dozens of other services \u2014 infra built for human operators, not autonomous agents. Na\u00efve is rebuilding and unifying the entire business stack for agents. Today, thousands of developers write a single config file, and Na\u00efve provisions everything their agents need behind one API: > Real-world Identity: KYC/KYB, LLC formation, Email, Phone, Virtual Cards > Cloud: Database, Hosting, Compute, Storage, Auth > Serverless Agents: Hermes, Claude Code, Codex, Vetta > Orchestration: Task Management, Interagent Communication, Scheduling > Inference / Model Routing > Memory: One context layer that grows with the entire company. > 10k+ Tool Gateway: Stripe, Github, Quickbooks, Higgsfield, Browser, etc. > Governance: Enforce capability policies, audit logs, HITL approval With this new capital, we\u2019re investing deeply into our new lab with four research areas: serverless agents, inference, brain, and agent workforce orchestration. Our early benchmarks can start an agent in 2.3 milliseconds using 1.2MB, reduce inference costs several-fold, and achieve stronger memory recall with 11x fewer tokens per query. In this next decade, agent spend is set to scale into the trillions as companies completely run on agents that finish work autonomously. Our vision with our research is to make each token do more, so autonomous companies can become a cost-efficient reality. Thank you to all our investors including: Abhishek Sharma (Partner @ Nexus) Andrew Miklas , Diana Hu (Partners @ YC) Apoorva Pandhi (GP @ Zetta VP) Raj Singh (GP @ Z21 Ventures) Jimmy Cho (Investor, DEEPCORE (Softbank)) Michael Ma (Partner, Liquid 2 Ventures) Vijay Krishnan (Co-Founder of Turing) Gokul Rajaram JD Sherman (Former Hubspot President) Allison Pickens (Former Gainsight COO) Tim Zheng (Founder of Apollo) Robert Chatwani (President @ Docusign) Zach Sims (Founder of Codeacademy) Gert Lanckriet (Head of ML @ Amazon) Eric Ciarla (Co-Founder of Firecrawl) We\u2019re now hiring benchmark-breakers who want to push the frontier of agent business infrastructure. Learn more and start building at usenaive.ai . Thank you Ram Iyer , TechCrunch for covering our news: https://lnkd.in/e3uVqfAE",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQEP0r6GZ0kciQ/feedshare-shrink_800/B4EZ_YCCKmHwAc-/0/1786035840258?e=2147483647&v=beta&t=WK5afsfnjR18xxVRNWb0mSSHCOHT2-Bpg0-Eu5OoVM8",
+        "id": "7491177276122935297"
+      },
+      {
+        "interaction": "Sanjay Mukhyala liked this",
+        "link": "https://www.linkedin.com/posts/y-combinator_the-best-way-to-learn-how-startups-work-is-activity-7490097268663177217-d1sl",
+        "title": "The best way to learn how startups work is to work at one. On August 15, we're inviting ambitious students to YC HQ to meet more than 50 YC startups. Meet founders and engineers directly, hear what they\u2019re building, participate in AI coding challenges, interview on site, collect swag, and find internships, co-ops, and new-grad roles. The companies attending are working across AI, robotics, biotech, defense, developer tools, and more. Apply to join: https://lnkd.in/g3w3-7em",
+        "img": "https://media.licdn.com/dms/image/v2/D5605AQFN24IibpW8Vg/videocover-low/B56Z_IpOT1IcBI-/0/1785777679234?e=2147483647&v=beta&t=jIvwt3q1Gmqc4kgQW9xSvgi5v_z88c8NmJ0WntqHJKo",
+        "id": "7490097268663177217"
+      },
+      {
+        "interaction": "Sanjay Mukhyala liked this",
+        "link": "https://www.linkedin.com/posts/kellypoonn_ibm-austin-summer-carousel-activity-7488982485901406208-YnBR",
+        "title": "I found a second home in Austin this summer \ud83d\udc1d\ud83d\udc99 This was my first summer away from home, and the IBM community has truly made me feel so welcomed and inspired. My intern team and I spent the summer developing platform-specific social media strategies for IBM Bob. Here's a look at what we accomplished: - Built the Influencer Intelligence Hub (IIH), a dashboard built with IBM Bob that consolidates 500+ Excel sheets of external influencers and IBM Social League members into a single, searchable platform - Competed in the ATX Summer Bobathon and Watsonx Challenge - Created Bob Tweets & Bob Brain with IBM Bob, AI tools that brainstorm content ideas based on trending tech and AI topics for IBM's socials - Published 6 videos across TikTok and Instagram, garnering 443k+ impressions and 10k+ total engagements - Drove 45k+ impressions on X through ideating and publishing Bob Feature of the Week, a weekly series on the IBM X account, and Git Trivia on the IBM Developer X account - Tackled Reddit, a historically challenging platform, and sparked conversations about IBM Bob in the r/mainframe subreddit - Pitched and produced an Intern Day in The Life for the @lifeatibm account on Instagram, utilizing Instagram's new feature, Individual Carousel Captions - Developed story-driven, emotional content ideas showcasing IBM Bob and conducted outreach to IBMers about projects they've built with Bob - Conceptualized Bob & Brew, a social-first meetup designed to create authentic conversations around Bob, pitching the first event at SF Tech Week I first want to start by thanking my amazing managers, Shelby Jackson and Jordan Lopez . Thank you for pushing us to execute our ideas and create tangible content that will live online forever. Your support and guidance this summer made all the difference; I couldn't have asked for better mentors. Another big thank you to Spencer Barnardo for fostering a tight-knit community for us MCC interns and being a major reason we all got so close. And of course, a huge shoutout to my amazing co-interns Kashish Lalmohammed and Taylor Radney . I'm truly blessed to have worked with the most passionate and inspiring people who made me excited to come into work every day. Thank you to everyone at IBM who made Austin feel like home this summer.",
+        "img": null,
+        "id": "7488982485901406208"
+      },
+      {
+        "interaction": "Sanjay Mukhyala liked this",
+        "link": "https://www.linkedin.com/posts/devishijha_today-were-launching-cardinal-revenue-activity-7488624571755974656-TKcU",
+        "title": "Today we're launching Cardinal - Revenue Agents for High-Growth Companies. Cardinal is the AI Revenue Platform where companies like Deepgram, Giga, and Mintlify design how they sell. As products get faster to build, how you bring them to market becomes the advantage. The GTM teams that experiment, iterate, and find new ways to sell are the ones that win. 1. Connect your tools: Native integrations across the stack you already use. 2. Build revenue agents: Describe the play in plain language, and Cardinal runs it: \"If someone gets promoted, send them a cake as congrats\" \"If a prospect publishes a new engineering blog, email them with my take on it\" \"Follow up with people who used my product in the first week but dropped off\" 3. Keep what wins: See which agents actually produce revenue, then turn the winners into systems your whole team runs. Design how you sell with Cardinal.",
+        "img": "https://media.licdn.com/dms/image/v2/D5605AQEnYskRsLaWSw/videocover-high/B56Z.r0LccK4BM-/0/1785294014697?e=2147483647&v=beta&t=bgDRmYVbfsMX9ct4WM53aB1A7ql0-SXTH4sjzmNsSg4",
+        "id": "7488624571755974656"
+      }
+    ],
+    "linkedin_num_id": "1117800789",
+    "banner_image": "https://media.licdn.com/dms/image/v2/D4E16AQEgfCLAdM7MvA/profile-displaybackgroundimage-shrink_200_800/B4EZ8U4WJbHoAU-/0/1782761743320?e=2147483647&v=beta&t=BPzfC_AG5078I5juFjpVv5wPkT75rzrhXJq7ucadwaY",
+    "honors_and_awards": [
+      {
+        "title": "Berkeley Math Tournament Calculus and Algebra Honorable Mention",
+        "publication": "UC Berkeley",
+        "date": "2024-11-01T00:00:00.000Z",
+        "description": "Honorable scoring in UC Berkeley's BMT Algebra (2024) and Calculus (2023)."
+      },
+      {
+        "title": "President\u2019s Volunteer Service Award (Gold)",
+        "publication": "AmeriCorps Program and Points of Light Foundation",
+        "date": "2024-04-01T00:00:00.000Z",
+        "description": "250 hours of service."
+      },
+      {
+        "title": "American Invitational Mathematics Exam Qualifier",
+        "publication": "Mathematical Association of America",
+        "date": "2023-12-01T00:00:00.000Z",
+        "description": "Top 5% of AMC 12 takers."
+      }
+    ],
+    "similar_profiles": [],
+    "default_avatar": false,
+    "memorialized_account": false,
+    "bio_links": [
+      {
+        "title": "Personal Website",
+        "link": "https://sanjay-mukhyala.com/"
+      }
+    ],
+    "first_name": "Sanjay",
+    "last_name": "Mukhyala",
+    "influencer": false,
+    "timestamp": "2026-08-12T19:15:02.213Z",
+    "input": {
+      "url": "https://www.linkedin.com/in/sanjay-mukhyala-559423272"
+    }
+  },
+  "local_photo": "data\\linkedin_photos\\sanjay-mukhyala-559423272__usr-zHgcou5pxxWtyMG.jpg"
+}

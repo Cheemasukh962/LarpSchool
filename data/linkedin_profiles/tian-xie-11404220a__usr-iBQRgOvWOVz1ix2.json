@@ -1,0 +1,159 @@
+{
+  "luma_user_id": "usr-iBQRgOvWOVz1ix2",
+  "csv_name": "Tian Xie",
+  "csv_linkedin": "https://www.linkedin.com/in/tian-xie-11404220a",
+  "enriched_at": "2026-08-12T19:22:34.862058+00:00",
+  "batch_id": "sd_msqh2468i57o0acas",
+  "profile": {
+    "id": "tian-xie-11404220a",
+    "name": "Tian Xie",
+    "city": "Claremont, California, United States",
+    "country_code": "US",
+    "position": null,
+    "about": "Hello! My name is Tian Xie, and I am a engineering student studying at Harvey Mudd\u2026",
+    "current_company": {
+      "location": null
+    },
+    "experience": null,
+    "url": "https://ua.linkedin.com/in/tian-xie-11404220a",
+    "educations_details": "Harvey Mudd College",
+    "education": [
+      {
+        "title": "Harvey Mudd College",
+        "url": "https://www.linkedin.com/school/harvey-mudd-college/",
+        "start_year": "2023-09",
+        "end_year": "2027-05",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      }
+    ],
+    "avatar": "https://static.licdn.com/aero-v1/sc/h/9c8pery4andzj6ohjkjp54ma2",
+    "followers": 587,
+    "connections": 500,
+    "location": "Claremont",
+    "input_url": "https://www.linkedin.com/in/tian-xie-11404220a",
+    "linkedin_id": "tian-xie-11404220a",
+    "activity": [
+      {
+        "interaction": "Liked by Tian Xie",
+        "link": "https://www.linkedin.com/posts/zhitao-gao_physicalai-robotics-manufacturing-activity-7487462489060888576-AeKo",
+        "title": "Europe's largest robotics funding round didn't go to a software app\u2014it went to a German physical AI platform. Neura Robotics just secured a $1.4B\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4E10AQF9e_eAjUBNEw/image-shrink_800/B4EZ.jPcmwKEAg-/0/1785150163699?e=2147483647&v=beta&t=iQdWATSRVIWfiqVy0n2VwTfiHXjxsbBhjkTYm1H6v_I",
+        "id": "7487462489060888576"
+      },
+      {
+        "interaction": "Liked by Tian Xie",
+        "link": "https://www.linkedin.com/posts/the-linux-foundation_newton-nvidiagtc-activity-7439436436765917184-dPLU",
+        "title": "Announcing the general availability of #Newton 1.0. The open-source, extensible physics engine supercharges robot learning through robust\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5610AQFM-vg98idhSg/ads-video-thumbnail_720_1280/B56Zz4v_ODKAAg-/0/1773699855994?e=2147483647&v=beta&t=iFv1bPFV7Dj_eqmOjA5_SjVXN2zsbdAjhARQ47v46s8",
+        "id": "7439436436765917184"
+      },
+      {
+        "interaction": "Liked by Tian Xie",
+        "link": "https://www.linkedin.com/posts/bonifaciob_proud-to-share-that-ive-been-promoted-to-activity-7425997789307908096-osTb",
+        "title": "Proud to share that I've been promoted to Firmware Engineer II at Samsara. I think this quote sums up my current position: \"The more I learn, the\u2026",
+        "img": "https://static.licdn.com/aero-v1/sc/h/53n89ecoxpr1qrki1do3alazb",
+        "id": "7425997789307908096"
+      },
+      {
+        "interaction": "Liked by Tian Xie",
+        "link": "https://www.linkedin.com/posts/kevinwoodrobotics_kevin-wood-robotics-ai-activity-7416208281720860672-T9vv",
+        "title": "I finally reached 50k subs, half way to my 100k milestone. Big thanks to everyone who has supported me along the way. I hope to provide more value to\u2026",
+        "img": "https://media.licdn.com/dms/image/sync/v2/D4E27AQEIIKna5tAEMw/articleshare-shrink_800/B4EZqicO4AHEAI-/0/1763661901969?e=2147483647&v=beta&t=SR5Ggo-Xx5hlGT-m60HZjKmFg4MiWw8tKPf_urU4QbY",
+        "id": "7416208281720860672"
+      },
+      {
+        "interaction": "Liked by Tian Xie",
+        "link": "https://www.linkedin.com/posts/ryotaro-yamada-281160184_neurips2025-activity-7410115885929168897-Brvs",
+        "title": "Merry Christmas!! This is my third (and last) piece from #NeurIPS2025 coverage. Where top fresh AI researchers want to work, from NeurIPS I asked\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQFqU0DGUTYtRA/feedshare-shrink_800/B56ZtYFHP5GsAg-/0/1766709298767?e=2147483647&v=beta&t=d62yz1p4PEr2VTPaXN2PJx7DTYSzQUFNhygKfv9uvL4",
+        "id": "7410115885929168897"
+      },
+      {
+        "interaction": "Liked by Tian Xie",
+        "link": "https://www.linkedin.com/posts/andyxuai_is-rl-for-materials-science-the-next-frontier-activity-7408177402406723584-dq-z",
+        "title": "Is RL for materials science the next frontier? I\u2019m excited to announce PLaID++, our generative model for materials discovery which *crushes*\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQGvkDsNdrCXfg/feedshare-shrink_800/B56Zs8iFThJUAg-/0/1766247127260?e=2147483647&v=beta&t=iPD-VaFFmYcJfDep8YDmM1aHjg-UEd13WpY-QnHlyrI",
+        "id": "7408177402406723584"
+      },
+      {
+        "interaction": "Liked by Tian Xie",
+        "link": "https://www.linkedin.com/posts/symbotic_saccchicago2025-sacc-veterantalent-activity-7396925580933382144--jCE",
+        "title": "Are you at #SACCChicago2025? Make sure to meet the Symbotic team while you\u2019re there! We\u2019re looking for proven leaders ready to take on challenges in\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4E10AQEP94yqisdysg/image-shrink_1280/B4EZqcon0KGcAQ-/0/1763564486350?e=2147483647&v=beta&t=BNX66NlqpQUDuFmdYLejjNZ-JUkGi6Na78fzkW1ZWRQ",
+        "id": "7396925580933382144"
+      },
+      {
+        "interaction": "Liked by Tian Xie",
+        "link": "https://www.linkedin.com/posts/after-nearly-a-decade-im-leaving-microsoft-activity-7386783321520877568-x60b",
+        "title": "After nearly a decade I\u2019m leaving Microsoft. So grateful for the spectacular friends, mentors, collaborators, managers, and open source contributors\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQEGmIQE2kYmBg/feedshare-image-high-res/B4EZoMgQ..HMAo-/0/1761146381291?e=2147483647&v=beta&t=qergpzUz3_uWdjRfY_hVxYqWuNfky5ckpXi8C_YdG8U",
+        "id": "7386783321520877568"
+      },
+      {
+        "interaction": "Liked by Tian Xie",
+        "link": "https://www.linkedin.com/posts/nathaniel-truong_im-happy-to-share-that-i-will-be-spending-activity-7333563953488314369-CgfZ",
+        "title": "I'm happy to share that I will be spending this summer in Boston with Mass. Eye and Ear as a clinical research assistant. I am looking forward to\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQGOST1Ca0WdGQ/feedshare-shrink_800/B56ZcYNjh3HUAs-/0/1748457896453?e=2147483647&v=beta&t=-MgRUQEg5PthSQZmm4PF6XpodbVjUVxuXKo9FOWUw54",
+        "id": "7333563953488314369"
+      },
+      {
+        "interaction": "Liked by Tian Xie",
+        "link": "https://www.linkedin.com/posts/vivi-huang-45254223b_the-past-weekend-i-had-the-privilege-to-activity-7332920781657559042-y4D1",
+        "title": "The past weekend, I had the privilege to participate in the Toyota Innovation Challenge, where my team and I programmed an Automated Guided Vehicle\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQH6sW5mHItCjw/feedshare-shrink_1280/B56ZcPEku4GoAk-/0/1748304547275?e=2147483647&v=beta&t=ESBaGQZj8Z-D6Z6naDEQUS7DWGJXIpISBvczaCUHP2I",
+        "id": "7332920781657559042"
+      },
+      {
+        "interaction": "Liked by Tian Xie",
+        "link": "https://www.linkedin.com/posts/kevinwoodrobotics_icra2025-activity-7331571640859869186-rx-f",
+        "title": "Watch til the end for the backflip! DEEP Robotics #ICRA2025",
+        "img": "https://dms.licdn.com/playlist/vid/v2/D5605AQFyjU271CFYdQ/feedshare-video-thumbnail-high/B56Zb75VvWHcCU-/0/1747982895456?e=2147483647&v=beta&t=ZJDm6JGwLy5xWqSH5t4SLTWvnmlB1m8kc1az0dyXQJM",
+        "id": "7331571640859869186"
+      },
+      {
+        "interaction": "Liked by Tian Xie",
+        "link": "https://www.linkedin.com/posts/kevinwoodrobotics_i-bet-your-dog-cant-backflip-icra2025-activity-7331321858081939457-NypZ",
+        "title": "I Bet Your Dog Can\u2019t Backflip #ICRA2025 #deeprobotics https://lnkd.in/gKSFeize DEEP Robotics",
+        "img": "https://media.licdn.com/dms/image/sync/v2/D5627AQGQ0Rq5qm9YDw/articleshare-shrink_800/B56Zb4WXPPGsAY-/0/1749166695036?e=2147483647&v=beta&t=qNGzWn9Em3_awcNfZTKpM54dRMqhCiNy2kOb0WY5qDA",
+        "id": "7331321858081939457"
+      },
+      {
+        "interaction": "Liked by Tian Xie",
+        "link": "https://www.linkedin.com/posts/luke-wang-10_excited-to-share-that-ill-be-interning-at-activity-7329269293936705536-DcyD",
+        "title": "Excited to share that I'll be interning at GTS this summer, starting in just a few days! Thank you to everyone who supported me throughout the\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQF_vfyYXmeqpw/feedshare-shrink_800/B56ZbbLlZrGsAk-/0/1747433969850?e=2147483647&v=beta&t=mJ8mNO8EDBZ3gz6L6hQiGw1vS2ankN6O7sMrPprz_X4",
+        "id": "7329269293936705536"
+      },
+      {
+        "interaction": "Liked by Tian Xie",
+        "link": "https://www.linkedin.com/posts/bahadir-adil-19a179323_research-fluidlab-activity-7324212040904904704-M6np",
+        "title": "Excited to share that I\u2019ll be conducting summer research at Harvey Mudd College as part of the FLUID Lab (Fluids for Learning and Understanding\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQG7TPAXEZ-ebg/feedshare-shrink_800/B56ZaTUAYuGoAk-/0/1746228225643?e=2147483647&v=beta&t=u_MDnsJCQ1AcMyCqBL7I9s-L4jOfimdlFtAD8mjZ-II",
+        "id": "7324212040904904704"
+      },
+      {
+        "interaction": "Liked by Tian Xie",
+        "link": "https://www.linkedin.com/posts/sburfal_im-thrilled-to-share-that-ill-be-joining-activity-7313828196913680384-S0gK",
+        "title": "I\u2019m thrilled to share that I'll be joining TSMC in Phoenix this summer as a Lithography Process Engineering Intern! I'm excited to expand my\u2026",
+        "img": "https://dms.licdn.com/playlist/vid/v2/D4D05AQE1vBA5J1aRFw/feedshare-video-thumbnail-high/B4DZX_v9qqH4CY-/0/1743752524617?e=2147483647&v=beta&t=DFOQoWO3QTetdxUmRd1gX_qNHRCSIo-KJGs3h3MXYzI",
+        "id": "7313828196913680384"
+      }
+    ],
+    "linkedin_num_id": "889909792",
+    "banner_image": "https://static.licdn.com/aero-v1/sc/h/5q92mjc5c51bjlwaj3rs9aa82",
+    "honors_and_awards": null,
+    "similar_profiles": [],
+    "default_avatar": true,
+    "memorialized_account": false,
+    "bio_links": [],
+    "first_name": "Tian",
+    "last_name": "Xie",
+    "influencer": false,
+    "timestamp": "2026-08-12T19:18:16.544Z",
+    "input": {
+      "url": "https://www.linkedin.com/in/tian-xie-11404220a"
+    }
+  }
+}

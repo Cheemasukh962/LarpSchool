@@ -1,0 +1,356 @@
+{
+  "luma_user_id": "usr-bQuS9ng57pMMofL",
+  "csv_name": "Farhan Kittur",
+  "csv_linkedin": "https://www.linkedin.com/in/farhan-kittur",
+  "enriched_at": "2026-08-12T19:06:01.812449+00:00",
+  "batch_id": "sd_msqgh02428smzgu5m",
+  "profile": {
+    "id": "farhan-kittur",
+    "name": "Farhan Kittur",
+    "city": "Glastonbury, Connecticut, United States",
+    "country_code": "US",
+    "position": null,
+    "about": null,
+    "current_company": {
+      "link": "https://www.linkedin.com/company/ironsite?trk=public_profile_topcard-current-company",
+      "name": "Ironsite",
+      "company_id": "ironsite",
+      "location": null
+    },
+    "experience": null,
+    "url": "https://dk.linkedin.com/in/Farhan-kittur",
+    "educations_details": "University of Maryland",
+    "education": [
+      {
+        "start_year": "2021",
+        "end_year": "2025",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      }
+    ],
+    "recommendations_count": 1,
+    "avatar": "https://media.licdn.com/dms/image/v2/D4E03AQG1A9YhOWpiLw/profile-displayphoto-scale_200_200/B4EZve0dNxHwAY-/0/1768969852272?e=2147483647&v=beta&t=_fy3OyWut54E8vYfJa2gqhp7SKna0jqwy-t-OBnF2-w",
+    "courses": [
+      {
+        "subtitle": "5100",
+        "title": "AP Biology"
+      },
+      {
+        "subtitle": "4201",
+        "title": "AP Calculus BC/ECE"
+      },
+      {
+        "subtitle": "4180",
+        "title": "AP Computer Science A"
+      },
+      {
+        "subtitle": "4182",
+        "title": "AP Computer Science Principles"
+      },
+      {
+        "subtitle": "1131",
+        "title": "AP English Language and Composition"
+      },
+      {
+        "subtitle": "5171",
+        "title": "AP Physics 1 & 2"
+      },
+      {
+        "subtitle": "2150",
+        "title": "AP United States History"
+      },
+      {
+        "subtitle": "5150",
+        "title": "Advanced Research Mentorships In The Natural Sciences"
+      },
+      {
+        "subtitle": "8400",
+        "title": "Computer Assisted Design"
+      },
+      {
+        "subtitle": "8380",
+        "title": "Web Design and Development"
+      }
+    ],
+    "languages": [
+      {
+        "subtitle": "Professional working proficiency",
+        "title": "French"
+      },
+      {
+        "subtitle": "Limited working proficiency",
+        "title": "Hindi"
+      },
+      {
+        "subtitle": "Native or bilingual proficiency",
+        "title": "English"
+      },
+      {
+        "subtitle": "Limited working proficiency",
+        "title": "Spanish"
+      }
+    ],
+    "certifications": [
+      {
+        "meta": "Issued Jan 2026 Expires Jan 2029 See credential",
+        "subtitle": "Amazon Web Services (AWS)",
+        "title": "AWS Certified Cloud Practitioner",
+        "credential_url": "https://www.credly.com/badges/f22711ba-01ad-4c6d-8dd2-ae1aa8ef36b5/linked_in_profile?trk=public_profile_see-credential",
+        "credential_id": null
+      }
+    ],
+    "recommendations": [
+      "Arun Srinivasan \u201cFarhan was a mentor on a LegoRobotics League for kids in the Glastonbury school system. I was the coach for this team. Farhan, was very focused and able to guide the students on the team and work with them to develop solutions for the tasks that were a part of the challenge. His ability to help the students to break down the problem/task into smaller steps and sequences that allowed for simple solutions. His clarity of thought came through and his ability to guide was outstanding. He has an analytical mind and is able to think through the problem and solution to make sure it\u2019s elegant. Farhan would be a great member of any team that he\u2019s a part of, and he\u2019s able to get involved at the right levels to make sure that he plays to his strengths and share his clarify of thought. \u201d"
+    ],
+    "volunteer_experience": [
+      {
+        "cause": "Children",
+        "duration": "Jul 2023 \u00b7 - \nAug 2023 \u00b7 \n2 months",
+        "duration_short": "- \nAug 2023",
+        "info": "I helped, entertained, and spent time with kids from various backgrounds from ages 10-12 at Glastonbury Parks and Rec's Camp Sunrise",
+        "start_date": "Jul 2023",
+        "subtitle": "Town of Glastonbury, CT",
+        "title": "Childcare Worker"
+      },
+      {
+        "cause": "Children",
+        "duration": "Jun 2023 \u00b7 - \nJun 2025 \u00b7 \n2 years 1 month",
+        "duration_short": "- \nJun 2025",
+        "info": "Taught and supervised kids ages 8-12 at Glastonbury's FIRST Robotics Team's Lego camp. Developed a lesson schedule and managed a team of about 20 volunteers to lead activities for students. Created a python curriculum from scratch for the 7th & 8th graders to have a challenge, taught the students that curriculum, and trained younger volunteers to teach the same.",
+        "start_date": "Jun 2023",
+        "subtitle": "GLASTONBURY ROBOTICS AND ENGINEERING CLUB INC",
+        "title": "Teacher, Volunteer, and Captain of Team"
+      },
+      {
+        "duration": "Sep 2022 \u00b7 - Present \u00b7 \n\n4 years",
+        "duration_short": "- Present",
+        "info": "I participated in various volunteer activities around the Town of Connecticut. This included maintaining stands at town fairs, working at bingo nights, and most notably tutoring students at Smith Middle School for over 40 hours in the 2022-2023 and 2023-2024 school year.",
+        "start_date": "Sep 2022",
+        "subtitle": "Key Club International",
+        "title": "Volunteer"
+      },
+      {
+        "cause": "Children",
+        "duration": "Jan 2025 \u00b7 - \nAug 2025 \u00b7 \n8 months",
+        "duration_short": "- \nAug 2025",
+        "info": "Founded a new organization in the local middle school aimed at teaching kids STEAM concepts. Developed weekly lesson plans and guided students through the engineering process from scratch every week. Taught students Java to program robots, CAD basics to prototype, build fundamentals, and more. Started a FIRST Tech Challenge team out of the STEAM Club over the summer, teaching kids various robot design, assembly, and programming fundamentals as well as leading a team of 5 volunteers to\u2026 Show more Founded a new organization in the local middle school aimed at teaching kids STEAM concepts. Developed weekly lesson plans and guided students through the engineering process from scratch every week. Taught students Java to program robots, CAD basics to prototype, build fundamentals, and more. Started a FIRST Tech Challenge team out of the STEAM Club over the summer, teaching kids various robot design, assembly, and programming fundamentals as well as leading a team of 5 volunteers to run the sessions twice a week. Setup grant applications and laid foundations for the future success of the team as it lies in the hands of the students. Show less",
+        "start_date": "Jan 2025",
+        "subtitle": "GLASTONBURY ROBOTICS AND ENGINEERING CLUB INC",
+        "title": "Team Founder"
+      }
+    ],
+    "followers": 807,
+    "connections": 500,
+    "current_company_company_id": "ironsite",
+    "current_company_name": "Ironsite",
+    "projects": [
+      {
+        "title": "CodeRunner",
+        "start_date": "Dec 2025",
+        "description": "\u2022 Deployed full-stack platform on Oracle Cloud/Vercel with Docker sandboxing, supporting Java, Python, and C\u2022 Built Spring Boot REST API in Java handling concurrent requests with resource cleanup and failure isolation\u2022 Designed multi-layer security: container isolation, resource limits, network restrictions, and execution timeoutsFound here: https://code-runner-eta.vercel.app/https://github.com/DarksharkThe1st/CodeRunner"
+      },
+      {
+        "title": "Splatt",
+        "start_date": "Feb 2026",
+        "description": "\u2022 Built full-stack Spatial Intelligence system with Next.js and FastAPI to win $1K at UMD x IronSite 2026\u2022 Integrated Multimodal Gemini vectorized queries with object poses and 3DGS data for global object tracking\u2022 Migrated app from SCP-based data transfer for online Vast.ai GPU services to Filebin-based HTTPS protocol"
+      },
+      null,
+      null,
+      null,
+      null,
+      {
+        "title": "Rent Swarm",
+        "start_date": "Jan 2026",
+        "description": "\u2022 Won 1st ($2K) in Marshall Wace + Best Use of Gemini API at Hack@Brown 2026, competing with 120+ teams\u2022 Architected 5-agent RAG system to analyze Craigslist listings, flag predatory leases, and draft negotiation emails\u2022 Migrated workflow from vanilla Gemini API to LangChain/LangGraph orchestration with AWS Bedrockknowledge base, enabling cross-agent state control and PDF analysis via Retrieval-Augmented Generation\u2022 Deployed full-stack app to AWS EC2 with Docker containerization and Caddy reverse-proxy, live in 24 hoursAccess here: https://api.rent-swarm.tech/scouthttps://github.com/optimusbuilder/Rent-Swarm"
+      }
+    ],
+    "organizations": [
+      {
+        "title": "GHS FIRST Robotics Team - Galvanized Guardians",
+        "membership_type": "Team Captain Specializing in Programming and Electronics",
+        "start_date": "Sep 2022",
+        "end_date": "Aug 2025",
+        "description": "Led a team of 50+ as Captain and initiated a Robotics club and FTC team in the middle school, Developed Java code for systems, redesigned the vision library currently in use, Developed autonomous robot code, to make robots move intelligently without human control, Setup the foundations for a Java-based Robotics Library to make code plug-and-play ready",
+        "membership_number": null
+      }
+    ],
+    "location": "Glastonbury",
+    "input_url": "https://www.linkedin.com/in/farhan-kittur",
+    "linkedin_id": "farhan-kittur",
+    "activity": [
+      {
+        "interaction": "Farhan Kittur shared this",
+        "link": "https://www.linkedin.com/posts/farhan-kittur_this-year-has-been-a-lot-of-changes-i-walked-activity-7471318173250805760-hJwM",
+        "title": "This year has been a lot of changes. I walked into UMD not knowing a thing about how college would turn out, afraid of leaving home and more concerned that I\u2019d hate the dining food than anything. And then\u2026 it worked out. I pushed myself into every chance I could to build on teams, to challenge myself and try something that I hadn\u2019t before. Here\u2019s what I did: - Did months of research at Algoverse into LLM Bias Steering, running hundreds of experiments on models of all sizes with thousands of prompts to learn why LLMs make decisions the way they do - Developed Testudo AI and now OneClique with the ACM, building an agent system from the ground up and collecting data for our campus search platform - Worked on Leasetudo for UMD\u2019s TerpLabs, building a subleasing platform (pre-release) - Joined UMD\u2019s App Dev club to work for IonQ and build improved UNet models for 13% F1 increases as an ML Engineer - Worked for QuarterMill (startup) for a month to build their MVP as Ingest and Infra Lead, ingesting thousands of documents for a massive graph database. - Attended 6 hackathons all in the Spring Semester, won $3000+ in my first two and kept building from there - And I applied to over 200 jobs, interviewed for a couple, finally ending up at Ironsite And that was just setting the stage for this summer. This summer, I\u2019ve begun an internship as a Software Engineer Intern at Ironsite AI, working at a fast growing startup with engineers from Google Deepmind, Etched, Apple, and more, to build a product that\u2019s for the boots, not the suits. It\u2019s a mission I\u2019m passionate about, and I can\u2019t wait to be a part of it. I\u2019m also in San Francisco, so I\u2019m taking every opportunity I can get to venture into the startup world I can get. I already attended two hackathons in the last few days at WeaveHacks and Cursor x A16Z Night. I\u2019ll be attending YC Startup School, YC\u2019s internship fair, paper review nights, and nearly every luma event under the sun. The summer has just begun, but I\u2019m ready to take it far. Thank you to Jeffrey Ju , Christopher Yung , Ben Gold , Max Mona , and the rest of the team at Ironsite for welcoming me in this summer. Looking forward to building for the built world! ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQEwWqTR-l9oBQ/feedshare-image-high-res/B56Z690R.LIQAU-/0/1781301061455?e=2147483647&v=beta&t=G3r59cLoNo7s9SJfPjfZBNzfjm-YJlzGrXFQbDZnajE",
+        "id": "7471318173250805760"
+      },
+      {
+        "interaction": null,
+        "link": "https://www.linkedin.com/posts/farhan-kittur_bitcamp2026-terpai-umd-activity-7449165723270082560-UATh",
+        "title": "Every student at UMD uses AI. The question is whether they're learning anything from it. We built TerpTutor for the Cloudforce x Microsoft TerpAI track at Bitcamp 2026 \u2014 and it flips the script on how AI works in education. Most AI tools give students answers. TerpTutor is structurally incapable of doing that. It wraps UMD's TerpAI with Socratic prompting that forces students to think through problems step by step. But that's not the product. The product is what happens next. After every tutoring session, TerpTutor extracts a learning fingerprint \u2014 a structured map of what you know and what you don't. Then it finds another student whose strengths fill your gaps. It schedules your study session. And it moderates it by voice \u2014 two students sit together, say \"Hey Terp,\" and an AI facilitator guides the conversation so you teach each other. The AI makes itself unnecessary. The more students teach peers, the less they need the AI. That's not a bug. That's the product. Built with TerpAI, Next.js, ElevenLabs, and the Web Speech API. 17 API endpoints. 6 phases. Zero databases. One hackathon weekend. #Bitcamp2026 #TerpAI #UMD #Hackathon #EdTech #AI ...more",
+        "img": null,
+        "id": "7449165723270082560"
+      },
+      {
+        "interaction": "Farhan Kittur shared this",
+        "link": "https://www.linkedin.com/posts/farhan-kittur_im-incredibly-proud-to-see-2170-achieving-activity-7440102241140801536-4zBk",
+        "title": "I'm incredibly proud to see 2170 achieving such great success just a year after the end of my captaincy. These wins are no doubt the result of the hard work I've both seen in person and heard about in the midst of countless texts between friends, and there is no doubt in my mind that 2170 earned this. Congratulations Sai Abishek Jeyackumar on the Engineering Inspiration award, Alexander Herren on the Woody Flowers award, and the rest of the team on all the wins this competition! This is just one event of many in a season where I know 2170 will crush it. Go Guardians Go! ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQHzUc8x4Tgq6A/feedshare-shrink_800/B4EZz8NeioJUAc-/0/1773757917926?e=2147483647&v=beta&t=KOq_hgoOHtqOHedZQfX7d8Mz3I_0qnwNolSMKbgBCHI",
+        "id": "2170"
+      },
+      {
+        "interaction": "Farhan Kittur shared this",
+        "link": "https://www.linkedin.com/posts/farhan-kittur_umdxironsite-agenticai-langchain-activity-7433260720307363841-UpKt",
+        "title": "Another weekend, another hackathon, and another win! This weekend at the UMD x Ironsite hackathon, my team and I tackled a problem different from most. Instead of working with clean, usable data, what if you had to solve spatial intelligence in the messy, real environment of a construction site? With Splatt, we did just that. Our team built a multimodal system that allows you to map out scenes in videos graphically in 2D and 3D, tracking camera paths, calculating object locations, and developing semantic vector databases on scenes for user queries. How, you might ask? By using the same tech as the Superman movies, constructing 4D models of scenes from 2D videos over time. Our technique, Gaussian Splatting, allows us to track information about camera paths using a model we optimize on every video run. We then used LangChain and multimodal Gemini-2.5-flash to feed in frames of these videos and collect descriptions and lists of objects with positions relative to the camera marked by timestamp in a Supabase vector database for rapid querying. We brought those results together, combining camera positions and object-to-camera positions to define global positions for every object and build our 4D Graph as well as our 2D Map representing the objects\u2019 positions through time. In all, building Splatt was messy and rough, just like the scenes we had to reconstruct, but it\u2019s because of the team I had and our willingness to brave through that that we made it out with our win. Thanks to Ian Coutinho , Mohammad Sadiq , @Vishal-Shah, and Aneesh Reddy for teaming up with me. This may be the Discrete Mathematicians\u2019 first hackathon together, but it won\u2019t be our last by a long shot, and we\u2019ll be back at it again soon! If you want to check out our app, here are the links: Devpost: https://lnkd.in/eNbHFGfq GitHub: https://lnkd.in/egeagWcj App Demo: https://lnkd.in/emUJNRER #UMDxIronsite #AgenticAI #LangChain #GeminiAPI #SoftwareEngineering #3DGS ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQHrMABkiwFXNQ/feedshare-shrink_800/B56ZyMpXEEIgAk-/0/1771886179309?e=2147483647&v=beta&t=xU4PByJ3BU6ovWNScOJLeWqVB7to6wqjXfkJb27kKCI",
+        "id": "7433260720307363841"
+      },
+      {
+        "interaction": "Farhan Kittur shared this",
+        "link": "https://www.linkedin.com/posts/farhan-kittur_cr-frontend-activity-7427018576961765376-y4_-",
+        "title": "What would you do if you were suddenly free of all work, expectations, exams, and quizzes? That was the question I faced nearly 40 days ago at the start of my Winter Break. While this past semester at UMD I\u2019d been busy building AI agents and backend APIs, I wanted a project that was purely on my own to master Spring Boot and Docker. . Introducing CodeRunner, a full-stack platform for remote code execution. In this project, I dove straight into my work, mastering the Spring Boot Ecosystem, taking my java knowledge from GUIs in my CS classes to build robust MVC architecture with automated testing for a RESTful API. However, there were challenges I faced along the way: 1. Secure Sandboxing: To isolate untrusted code, I utilized Docker containerization, eventually implementing a Docker-in-Docker solution to both contain the Spring Boot API as well as manage execution environments. 2. Fault Tolerant Design: Transitioning from my native machine to a docker instance to a VM in Oracle Cloud, I needed a system that could handle failure. To accomplish this, I built a multi-threaded execution engine with process monitoring to prevent runaway processes and system deadlocks. 3. DevOps and Deployment: To deploy my app, I initially experimented with Railway and Fly.io , but a Docker-in-Docker solution didn\u2019t mesh well with serverless platforms. Then, I found Oracle Cloud and Vercel. Deployment here was arduous. I spent days configuring VCN network groups, collecting SSL certificates, and connecting the frontend and backend, but seeing that first \u201cSuccess\u201d made all that effort all the more worth it. CodeRunner may end today as a personal project, but the skills it imprinted upon me, whether that\u2019s container orchestration or real system design, are invaluable, and will never be forgotten. This is only one step in my journey, and I will take these tools with me into my upcoming semester at UMD. Check out the live frontend here: https://lnkd.in/eKu_A63w . #SoftwareEngineering #SpringBoot #Docker #CloudComputing #UMD #OracleCloud ...more",
+        "img": null,
+        "id": "7427018576961765376"
+      },
+      {
+        "interaction": "Farhan Kittur shared this",
+        "link": "https://www.linkedin.com/posts/farhan-kittur_hackatbrown-agenticai-langchain-activity-7424485595285995522-J46o",
+        "title": "What a weekend at Hack@Brown. In my first formal hackathon, my team and I walked out with over $2,000, two track wins, and some incredible connections. We built RentSwarm, a multi-agent system that gives power back to renters. It uses five specialized agents to automate the housing search: 1. The Scout: Bypasses anti-bot filters with BrowserBase to filter Craigslist listings. 2. The Forecaster: Predicts \u2018true cost of living\u2019 beyond the sticker price on utilities, commute, and more. 3. The Negotiator: Uses RAG to cross-reference real negotiation tactics to get your best deal. 4. The Lawyer: Flags predatory lease policies by analyzing PDFs page-by-page via RAG. 5. The Chat: A centralized guide that synthesizes info from other agents. To make this more than a simple \u2018Gemini Wrapper\u2019, we used Next, TypeScript, LangChain, and LangGraph to create a multi-agent ecosystem. I focused on the cross-agent integration and cloud infrastructure, migrating our workflow to LangChain x Gemini, architecting a knowledge base with AWS Bedrock and S3 buckets, and containerizing the stack with Docker on AWS EC2. We went from nothing to a live, user-accessible domain in 24 hours. At the end, we took home the two awards: 1. Marshall Wace - Beyond the Prompt: Building Intelligent Generative Systems (1st, $2000) 2. MLH\u2019s Best Use of Gemini API (Google Swag Kit) Huge thanks to Dylan G. and the Marshall Wace team for the insightful technical conversations and for sponsoring our track. Thanks to Hack@Brown and Major League Hacking for organizing the event, and most importantly, thanks to my incredible teammates Selin Ozsaracoglu , Maanya Chugh , and Ol\u00fawaf\u1eb9r\u00e0\u0144mi Oy\u00e8l\u00f9d\u00e9 for bringing the energy that got us our win. Check out our project: Live Link: https://lnkd.in/eGDnF-6x Devpost: https://lnkd.in/eXRC8cFe GitHub: https://lnkd.in/etuJ7h7x App Demo: https://lnkd.in/eDK2HDRs #HackAtBrown #AgenticAI #LangChain #AWS #GeminiAPI #SoftwareEngineering #MLH ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQFw8Z2rc2mo2Q/feedshare-shrink_800/B4EZwhGQRtKgAk-/0/1770081815612?e=2147483647&v=beta&t=0r4HnRu0w8vIjpstQAqQiaKi5Xr45C27pzRuaYCSP9A",
+        "id": "7424485595285995522"
+      },
+      {
+        "interaction": "Farhan Kittur shared this",
+        "link": "https://www.linkedin.com/posts/farhan-kittur_aws-certified-cloud-practitioner-was-issued-activity-7422913769476976640-GgzL",
+        "title": "I\u2019m excited to share that I am now an AWS Certified Cloud Practitioner! While I\u2019ve spent weeks working on projects currently deployed to Vercel and Oracle Cloud, these past two weeks I sat down to learn about AWS technologies and the expectations around them, solidifying my knowledge of how these technologies work under the hood. I look forward to applying what I\u2019ve learned in upcoming projects both here at UMD, and also in my own time. Huge thanks to Amazon Web Services (AWS) for the certification, and freeCodeCamp for the excellent educational content! ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D4E10AQEvmAiAiAIyhw/image-shrink_800/B4EZwN8vjNJAAk-/0/1769760553558?e=2147483647&v=beta&t=914iobE-PgTRfl8SjiLboopAXfAj9nVspjLkQndwEn0",
+        "id": "7422913769476976640"
+      },
+      {
+        "interaction": "Farhan Kittur shared this",
+        "link": "https://www.linkedin.com/posts/farhan-kittur_since-january-of-this-past-year-ive-had-activity-7366817000465072130-Fav-",
+        "title": "Since January of this past year, I've had the ambition to and the pleasure of starting up a robotics program in my town's local middle school. It began when a student approached me saying that there simply wasn't enough STEAM education at the middle school level in Glastonbury. The fact of the matter was, working with lego robots isn't enough for 7th & 8th graders. I knew something had to change, so I took matters into my own hands. With the help of Dana Kinel , as well as Jesse Wang , Sai Abishek Jeyackumar , Ilakkiya Tamilarasu , Aadhya Raj, and Garvit Singh, we brought the parts, designed the curriculum, and prepared engaging lessons every Monday for months of the school year. Students learned topics from Java fundamentals to OnShape basics, although we still found time to enjoy the yummy remnants of our monthly challenges. Then, this summer, I began an unofficial FIRST Tech Challenge team in the middle school. This team, while not having the funds to compete yet, has learned Java & build techniques under my guidance, as well as the guidance of my fellow student volunteers. Over this time, I taught twice a week for two hours each, but I also aimed to push the students to have their own mobility in solving problems. Of course, all good things come to an end, so now that I'm heading off to UMD, I'm leaving this program in very capable hands. In all, I got to work with an incredible group of students, and I look forward to seeing what success this program has beyond my departure from Glastonbury. Go Galactic Guardians! ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQF_gXtM6-9iww/feedshare-shrink_800/B4EZju.c4QGUAg-/0/1756356006598?e=2147483647&v=beta&t=KMQnf32YEgLlvPdTmXeeGyJl2VEb_rxhKFw9YxrxKRM",
+        "id": "7366817000465072130"
+      },
+      {
+        "interaction": "Farhan Kittur shared this",
+        "link": "https://www.linkedin.com/posts/farhan-kittur_this-past-summer-ive-been-taking-part-in-activity-7365442777209339904-w1Ik",
+        "title": "This past summer, I've been taking part in CodePath's Technical Interview Prep Advanced class. While I'd originally signed up not even knowing if the class would have any impact on my summer, the amount of support and growth I experienced during my time blew me away. As someone who knows Data Structures and Algorithms thanks to my time at GHS, the most valuable part of the program for me wasn't necessarily the lectures (although Tosin's and other instructors' explanations were spectacular and engaging), but the time spent working in teams with other students, collaborating to solve challenging questions together. We struggled, debated, and debugged endlessly, but we did it together, and that made it all the more worth it. I was able to take my lone leet-coding skills into an environment where it's not just my lone brain churning away, and that wouldn't have been remotely possible without joining CodePath. I thank my instructors, Tech Fellows, and fellow students for the incredible journey, and I hope that CodePath can continue to help more students like it did for me! ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQGIfSNNjP9HzQ/feedshare-image-high-res/B4EZjaw0tQHoAo-/0/1756016889327?e=2147483647&v=beta&t=kd_PmCIwf4sDYEbkyXepz3mcoZiY76t5lBERiP_MFE8",
+        "id": "7365442777209339904"
+      },
+      {
+        "interaction": "Farhan Kittur commented on a post 2w",
+        "link": "https://www.linkedin.com/posts/maya-l_ycombinator-ycstartupschool-activity-7485385739539501057-OZEN",
+        "title": "IN",
+        "img": null,
+        "id": "7485385739539501057"
+      },
+      {
+        "interaction": "Farhan Kittur liked this",
+        "link": "https://www.linkedin.com/posts/om-patil34_smurfitwestrock-internship-activity-7491553789443919872-pR-p",
+        "title": "Today, I wrapped up my internship at Smurfit Westrock , and I'm incredibly grateful for an amazing summer of learning and growth! This summer, I had the opportunity to join the Data Refinery Team, where I worked on AI agents to make business processes more efficient. I contributed to projects across both the location and consumer domains of the business, developing Python tools, SQL scripts, and process workflows to support data management and automation. Beyond the technical experience, I gained a deeper understanding of Smurfit Westrock's business operations and supply chain systems, seeing firsthand how AI solutions depend just as much on business context as they do on technology. I also enjoyed connecting with professionals across Smurfit Westrock, including North America CFO Juan Pablo Perez Chavez , and appreciated the opportunity to hear about his experiences and advice over lunch. Huge thanks to David Weber , Keith F. , Blake Campbell , Cynthia Mu\u00f1iz , Nadia Gargiulo , Matthew Gardner , Samuel Pettit , Sarah Elahi, CDMP, Courtney Bockrath , and many more who supported me throughout my experience. Thank you again to everyone who made this summer so memorable! #SmurfitWestrock #Internship",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQEEpZLOO0JQTA/feedshare-shrink_800/B4EZ_dYeZ6HsAk-/0/1786125608821?e=2147483647&v=beta&t=ad2jMCv1c7D6JYryFZ77duYU9s3RmYADEuKc80kUO6Q",
+        "id": "7491553789443919872"
+      },
+      {
+        "interaction": "Farhan Kittur liked this",
+        "link": "https://www.linkedin.com/posts/somewhere-in-the-usa-3-am-wake-up-is-a-habit-activity-7491516078548946945-fM0O",
+        "title": "Somewhere in the USA 3 AM wake-up is a habit, 4 AM start time is a standard, and a 12-hour work day is required. A foreman reminds his crew to stay focused, then grins and tells them, \"let's get hot.\" Somewhere in the USA, a superintendent echoes, \u201cyou are your brothers\u2019 and sisters\u2019 keeper. Safety got us here, and looking out for one another gets us home.\u201d Somewhere in the USA, the energy we consume is searched for and found, in the oil and wind fields of west Texas. The stadiums we gather in and the schools we learn in are built. Traveling from the dazzling skyline of San Francisco, to the sprawling plains of Abilene, the lush greenery of Appalachia, and into the heart of DC, all in a week's time. It changes your perspective on what it means to be a builder in this country. I've seen the common thread from site to site, crew to crew: pride, grit, purpose. Somewhere in the USA, the world around us is being built, whether right in front of our very eyes or 3,000 miles away, by early mornings, by making the impossible possible, by people, on a team, showing up to do their part. Getting to witness this firsthand is an honor. And we haven't scratched the surface yet. Somewhere new in the USA, I'll be tomorrow. And the next day. And every day after.",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQGeEnZ0tgyaRg/feedshare-shrink_800/B56Z_c2JOtKAAg-/0/1786116609305?e=2147483647&v=beta&t=kdzNMkQb8J2irC81OqkLXmxUvo_-FUHJgW6IzSdCUC4",
+        "id": "3"
+      },
+      {
+        "interaction": "Farhan Kittur liked this",
+        "link": "https://www.linkedin.com/posts/60hrs-ago-me-and-sujay-chava-built-senta-activity-7490501987646709761-L5m-",
+        "title": "<60hrs ago me and Sujay Chava built Senta Flew out to LA bc our advisor and mentor Yash Vagal told us we had to come. Thank you Gold House for supporting Asian American founders.",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQGf9I1bYyrpNw/feedshare-image-high-res/B56Z_Ob2SDKYAU-/0/1785874835024?e=2147483647&v=beta&t=oOpnstLvtK3F0d2sfkphIMlcrNEn6jutCKGozwR7cGc",
+        "id": "7490501987646709761"
+      },
+      {
+        "interaction": "Farhan Kittur liked this",
+        "link": "https://www.linkedin.com/posts/kash-setty-21aa78290_ycstartupschool-ycombinator-sanfrancisco-activity-7490038519944527872-C8EJ",
+        "title": "sf was a reminder that the best stuff is built in person. so i went. i spent the last week at Y Combinator startup school events, hosting and attending, with some of the most talented builders i\u2019ve met. average age of startup school? 18-20. where was everyone at? Corgi cafe. youngest intern @ GitHub ? 16. here\u2019s the sauce: \u2022 jachacks at Founders, Inc. , inc: helped throw a hackathon with Jaseci Labs . builders from stanford, mit, and berkeley shipping with support from NVIDIA and Google DeepMind . building near the shore was something i've never done. \u2022 internapalooza with Cory Levy : joined 20,000+ technical interns and founders of companies like Etched , Whop , and Cal AI . with speakers like sam altman @ OpenAI and Zach Yadegari ,. loved talking to him backstage. Z Fellows lesson: all it takes is one hope. \u2022 Google DeepMind 's yc event: met Ruoyu Zhang and David Dai . highlight of the day: comparing google's ai race with current day space-tech. \u2022 Mintlify + LemonLime + Respan : shoutout to the mintlify team ( Justin Torre and Marco Dewey ) for putting together a high-caliber event. met great people in deep-tech and agriculture. appreciated Jordan Zietz as well for throwing at the office, and swung by fav uiuc alum Andy Li and Frank Chen at the pearl. scary that tech is only becoming younger. but more than events, sometimes you got to lock yourself in a room, stop networking, and start creating - Darsh Poddar @ Autumn AI (YC W26) all love to Shivam Sharma + Lakshan Veer Abimanyu Ramakrishnamoorthy :) if we met and you want to chat, let\u2019s keep the conversation going. daily reminder: altman at the age 19 had an interview with a top ceo and but was too young to rent a car. what can you do without a car? back to hustling \ud83e\uddbe \ud83c\udfc3\u200d\u2642\ufe0f #ycstartupschool #ycombinator #sanfrancisco #zfellows",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQFAol6pNr9MxQ/feedshare-shrink_800/B4EZ_H2V1JIQAg-/0/1785764339288?e=2147483647&v=beta&t=DSaftQZYJzsTkLbrl8wNMC6x1Bh-k_pUt0HH3f6mCKY",
+        "id": "7490038519944527872"
+      },
+      {
+        "interaction": "Farhan Kittur liked this",
+        "link": "https://www.linkedin.com/posts/worth-minds_worthminds-theworthy100-cloudtechnology-activity-7488900605881511936-6QYW",
+        "title": "Delivery without alignment is just an outcome with an expiration date. Introducing \ud835\uddde\ud835\uddee\ud835\ude03\ud835\uddf6\ud835\ude01\ud835\uddee \ud835\uddd6\ud835\uddf5\ud835\uddf5\ud835\uddee\ud835\uddef\ud835\uddff\ud835\uddf6\ud835\uddee, Senior Customer Solutions Manager at \ud835\uddd4\ud835\uddfa\ud835\uddee\ud835\ude07\ud835\uddfc\ud835\uddfb \ud835\uddea\ud835\uddf2\ud835\uddef \ud835\udde6\ud835\uddf2\ud835\uddff\ud835\ude03\ud835\uddf6\ud835\uddf0\ud835\uddf2\ud835\ude00, whose enterprise engagements compress months of change into 48-hour sprints, whose workshops have reached \ud835\udff2\ud835\udfec\ud835\udfec+ \ud835\ude00\ud835\ude01\ud835\ude02\ud835\uddf1\ud835\uddf2\ud835\uddfb\ud835\ude01\ud835\ude00, and whose thesis comes down to what happens after the room empties. Kavita came to cloud through project management, an atypical route that shaped her differently. She earned certifications many technical professionals treat as optional (\ud835\udde3\ud835\udde0\ud835\udde3, \ud835\udde6\ud835\uddf0\ud835\uddff\ud835\ude02\ud835\uddfa, \ud835\udde6\ud835\uddd4\ud835\uddd9\ud835\uddf2 \ud835\uddd4\ud835\uddf4\ud835\uddf6\ud835\uddf9\ud835\uddf2, \ud835\uddd4\ud835\uddea\ud835\udde6 \ud835\uddee\ud835\uddff\ud835\uddf0\ud835\uddf5\ud835\uddf6\ud835\ude01\ud835\uddf2\ud835\uddf0\ud835\ude01\ud835\ude02\ud835\uddff\ud835\uddf2), because to her they were foundational: the scaffolding for making anything happen inside a complex organisation. That instinct became her north star before she ever set foot in a cloud engagement. Her first enterprise AI engagement recalibrated everything. A customer's team was locked in manual investigations consuming thousands of hours annually. She brought cross-functional teams together, applied generative AI frameworks, and structured space for rapid experimentation. According to Kavita, investigation time dropped \ud835\udff2\ud835\udfec% and detection accuracy improved \ud835\udff0\ud835\udfec% within \ud835\udff0\ud835\udff4 \ud835\uddf5\ud835\uddfc\ud835\ude02\ud835\uddff\ud835\ude00. She looks toward universities after every engagement, delivering a workshop framework that has hit \ud835\udff5\ud835\udff4% \ud835\ude00\ud835\uddee\ud835\ude01\ud835\uddf6\ud835\ude00\ud835\uddf3\ud835\uddee\ud835\uddf0\ud835\ude01\ud835\uddf6\ud835\uddfc\ud835\uddfb at institutions including \ud835\uddda\ud835\uddf2\ud835\uddfc\ud835\uddff\ud835\uddf4\ud835\uddf6\ud835\uddee \ud835\udde7\ud835\uddf2\ud835\uddf0\ud835\uddf5. She calls the practice \ud835\ude24\ud835\ude30\ud835\ude2f\ud835\ude37\ud835\ude26\ud835\ude33\ud835\ude28\ud835\ude26\ud835\ude2f\ud835\ude24\ud835\ude26 \ud835\ude22\ud835\ude33\ud835\ude24\ud835\ude29\ud835\ude2a\ud835\ude35\ud835\ude26\ud835\ude24\ud835\ude35\ud835\ude36\ud835\ude33\ud835\ude26: aligning stakeholders before acceleration. Her conviction is exact. \"\ud835\ude1a\ud835\ude31\ud835\ude26\ud835\ude26\ud835\ude25 \ud835\ude38\ud835\ude2a\ud835\ude35\ud835\ude29\ud835\ude30\ud835\ude36\ud835\ude35 \ud835\ude22\ud835\ude2d\ud835\ude2a\ud835\ude28\ud835\ude2f\ud835\ude2e\ud835\ude26\ud835\ude2f\ud835\ude35 \ud835\ude24\ud835\ude33\ud835\ude26\ud835\ude22\ud835\ude35\ud835\ude26\ud835\ude34 \ud835\ude35\ud835\ude29\ud835\ude26 \ud835\ude2a\ud835\ude2d\ud835\ude2d\ud835\ude36\ud835\ude34\ud835\ude2a\ud835\ude30\ud835\ude2f \ud835\ude30\ud835\ude27 \ud835\ude31\ud835\ude33\ud835\ude30\ud835\ude28\ud835\ude33\ud835\ude26\ud835\ude34\ud835\ude34.\" We are proud to feature her in \ud835\udde7\ud835\uddf5\ud835\uddf2 \ud835\uddea\ud835\uddfc\ud835\uddff\ud835\ude01\ud835\uddf5\ud835\ude06 \ud835\udfed\ud835\udfec\ud835\udfec, celebrating leaders who understand that the point of speed is what alignment makes possible. Read the full feature article on our website: https://lnkd.in/gUcgpJG5 #worthminds #theworthy100 #CloudTechnology #EnterpriseAI #AWS #ConvergenceArchitecture Kavita Chhabria",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQGqrRWjnWQ_1g/feedshare-shrink_1280/B56Z.3raxTLAAM-/0/1785493040460?e=2147483647&v=beta&t=1xlVA58Tl1n5UkDj4q0mSDovUj4p-Cl_jcpJohSXpgM",
+        "id": "7488900605881511936"
+      },
+      {
+        "interaction": "Farhan Kittur liked this",
+        "link": "https://www.linkedin.com/posts/yuvan-sundrani_heres-what-we-shipped-recently-autosana-activity-7487955135235710977-aSSG",
+        "title": "Here's what we shipped recently @ Autosana (YC S25) : - Chrome extension support: You can now use Autosana to test your Chrome extensions end to end. - Run Caching v2: Flows that previously passed now run 5-8x faster and cost significantly less. - No signup required: Go to autosana.ai , tap \"get started\" and run your first flow without even creating an account. Cheers :)",
+        "img": "https://dms.licdn.com/playlist/vid/v2/D4E05AQEY1T1oRstTig/thumbnail-shrink_720_1280/B4EZ.qPcxFIgAg-/0/1785267607361?e=2147483647&v=beta&t=9Un-yTSkUr6F4-IvDtTZ4cDakTfhYVezW_i4oR8cTlc",
+        "id": "7487955135235710977"
+      },
+      {
+        "interaction": "Farhan Kittur liked this",
+        "link": "https://www.linkedin.com/posts/department-of-computer-science-umd_three-university-of-maryland-computer-science-activity-7485444964273909760-v3-X",
+        "title": "Three University of Maryland computer science students received CMNS Alumni Network Endowed Undergraduate Awards to support their research, conference travel and career development. Raghav Thind is attending the Summer@EPFL research fellowship in Switzerland, where he is continuing his development as a research scientist. Nghia Truong used the funding to present his first-author paper at the 2026 IEEE International Conference on Acoustics, Speech, and Signal Processing in Barcelona. This summer, he is also studying transformer attention and helping build a multimedia quiz system designed to challenge artificial intelligence systems. Priya Tyagi is continuing her work in the Spatial Biology Lab, where she is exploring how machine learning and imaging data could be used to predict tissue measurements, potentially reducing the time and cost of biological research. Read more: https://lnkd.in/eseFfV6C",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQGozWq5KTxuxg/feedshare-shrink_800/B4EZ.Gkh2oJkAg-/0/1784669150942?e=2147483647&v=beta&t=Lyc3OSrfeEA2oF-FPyk27hVvMUAwGZa_s7lqvFRODso",
+        "id": "7485444964273909760"
+      },
+      {
+        "interaction": "Farhan Kittur liked this",
+        "link": "https://www.linkedin.com/posts/construction-doesnt-have-a-labor-problem-activity-7488639580846534656-Zzd1",
+        "title": "Construction doesn\u2019t have a labor problem. It has a black box problem. The first project I ran on my own, my boss handed me a budget and said, \u201cThis budget is your box. Live inside it. Plan the work, work the plan.\u201d Then he gave me a stack of spreadsheets and wished me luck. The budget was never the problem. The problem was that the spreadsheets assumed the job would go exactly as planned. They didn\u2019t account for the excavation delays and compressed anchor bolt install, the design info that showed up late, or the underground fire water tank that became a five-month out-of-sequence delay. The production reports told me weekly where I was. They never told me why I got there. That\u2019s the black box of construction: everything that happens between production reports. It\u2019s the gap between what happened and why it happened. The decisions, constraints, delays, and coordination challenges that no spreadsheet captures. Without visibility into that work, uncertainty compounds week over week until we get to the end of the job asking, How did we get here? or How are we going to finish strong? It sits between the estimate and the final cost, yesterday\u2019s production and today\u2019s, hours worked and work actually installed. Inside it are the decisions, delays, rework, and coordination failures that decide whether a crew succeeds or struggles. Yet we still try to run operations with accounting tools: hours in, quantities out. Then we wonder why productivity is so hard to improve. Last week our team was at the CII Elevate Summit in Denver. What stuck with me was a question that kept coming up: do we actually understand how work happens on site, not just what it costs? Because once you understand the why, everything downstream gets better: estimating, scheduling, forecasting, and the daily calls superintendents have to make. And crews spend less time fighting problems they didn\u2019t create. Construction has never lacked hardworking people. We\u2019ve always had exceptional builders. What we\u2019ve lacked is visibility into the black box between planning and production. It\u2019s time we stopped asking our people to outperform with bad information and started giving them better information instead. (That water tank taught me a lot about not giving up, I\u2019ve been using that skill a lot these days)",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQGfBY4xBdpPOg/feedshare-image-high-res/B56Z.z5kb_JgAY-/0/1785429641586?e=2147483647&v=beta&t=5e7BimUnqngdKG8-zXZBmjX1RWzDsdp3oj4tKeD-k3E",
+        "id": "7488639580846534656"
+      },
+      {
+        "interaction": "Farhan Kittur liked this",
+        "link": "https://www.linkedin.com/posts/ayoni-chakraborty-8300883a4_so-fortunate-to-have-participated-in-and-activity-7478917140553584640-GMym",
+        "title": "So fortunate to have participated in and been nominated for this year's American Legion Auxiliary Laurel Girl's State. I was able to participate in this amazing state government simulation and meet so many wonderful junior girls. My deepest thanks to my school and my American Legion post to sponsor me for this wonderful event.",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQF9f0mGioHwrw/feedshare-image-high-res/B56Z8pzgUyIoAU-/0/1783112795743?e=2147483647&v=beta&t=Js8PjPfi7YYnI84J6zlfSmuawDr0EBZQQ0FvTSq4Cgs",
+        "id": "7478917140553584640"
+      }
+    ],
+    "linkedin_num_id": "1119357317",
+    "banner_image": "https://media.licdn.com/dms/image/v2/D4E16AQGtvEbK_jE8BA/profile-displaybackgroundimage-shrink_200_800/B4EZvk.M2nKoAU-/0/1769073070176?e=2147483647&v=beta&t=b_kFs1jgOUdtQ8Q2w6_yOd-3GjNUQshVoXPCuJBDfYo",
+    "honors_and_awards": [
+      {
+        "title": "Bronze Medal in Le Grand Concourse 2023",
+        "publication": "The American Association of Teachers of French",
+        "date": "2023-04-01T00:00:00.000Z",
+        "description": "Qualified for a Bronze medal in a national French test taken by select students"
+      },
+      {
+        "title": "CT Colt Award for Excellence",
+        "publication": "Glastonbury World Language Honor Society",
+        "date": "2022-05-01T00:00:00.000Z",
+        "description": "An award given for excellence in French"
+      },
+      {
+        "title": "Mu Alpha Theta Induction",
+        "publication": "-",
+        "date": null,
+        "description": null
+      }
+    ],
+    "similar_profiles": [],
+    "default_avatar": false,
+    "memorialized_account": false,
+    "bio_links": [
+      {
+        "title": "Other",
+        "link": "https://github.com/Darksharkthe1st"
+      }
+    ],
+    "first_name": "Farhan",
+    "last_name": "Kittur",
+    "influencer": false,
+    "timestamp": "2026-08-12T19:01:58.526Z",
+    "input": {
+      "url": "https://www.linkedin.com/in/farhan-kittur"
+    }
+  },
+  "local_photo": "data\\linkedin_photos\\farhan-kittur__usr-bQuS9ng57pMMofL.jpg"
+}

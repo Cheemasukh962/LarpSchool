@@ -1,0 +1,318 @@
+{
+  "luma_user_id": "usr-fk1kLHogw0YDEu5",
+  "csv_name": "ARYAN",
+  "csv_linkedin": "https://www.linkedin.com/in/aryan-pandit",
+  "enriched_at": "2026-08-12T18:58:28.959888+00:00",
+  "batch_id": "sd_msqgad6c2eeefcaqas",
+  "profile": {
+    "id": "aryan-pandit",
+    "name": "Aryan Pandit",
+    "city": "Los Angeles Metropolitan Area",
+    "country_code": "US",
+    "position": null,
+    "about": "Software Engineer | Backend Systems | AI/LLM Engineering | Cloud Infrastructure I\u2026",
+    "posts": [
+      {
+        "title": "Running Multiple Isolated Hermes Agent Profiles on a Single VPS Using Docker",
+        "attribution": "Introduction Hermes Agent is an open-source autonomous AI agent runtime developed by Nous Research, the research lab\u2026",
+        "link": "https://www.linkedin.com/pulse/running-multiple-isolated-hermes-agent-profiles-single-aryan-pandit-cspyc",
+        "created_at": "2026-06-03T00:00:00.000Z",
+        "interaction": "4 - 5 Comments",
+        "id": "7467652000227364864"
+      },
+      {
+        "title": "The Architecture Behind Reliable Multi-Agent AI: A Deep Dive into Intent Classification",
+        "attribution": "Why intent classification matters Most modern AI systems already understand language well. Models can interpret\u2026",
+        "link": "https://www.linkedin.com/pulse/architecture-behind-reliable-multi-agent-ai-deep-dive-aryan-pandit-0dbyc",
+        "created_at": "2026-05-04T00:00:00.000Z",
+        "interaction": "1 -",
+        "id": "7456814652505608192"
+      },
+      {
+        "title": "The Blueprint Method: A Structured Approach for Complex Tasks with Language Models",
+        "attribution": "Large language models like GPT-4 or Claude provide context windows ranging from 128k to 200k tokens. For many\u2026",
+        "link": "https://www.linkedin.com/pulse/blueprint-method-structured-approach-complex-tasks-language-pandit-mepcc",
+        "created_at": "2026-02-10T00:00:00.000Z",
+        "interaction": "2 - 3 Comments",
+        "id": "7426780528030281728"
+      }
+    ],
+    "current_company": {
+      "link": "https://www.linkedin.com/company/cloud2labs?trk=public_profile_topcard-current-company",
+      "name": "Cloud2 labs",
+      "company_id": "cloud2labs",
+      "location": null
+    },
+    "experience": null,
+    "url": "https://mx.linkedin.com/in/aryan-pandit",
+    "educations_details": "California State University, Fullerton",
+    "education": [
+      {
+        "title": "California State University, Fullerton",
+        "url": "https://www.linkedin.com/school/california-state-university-fullerton/",
+        "start_year": "2024-08",
+        "end_year": "2026-06",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      },
+      {
+        "start_year": "2019-07",
+        "end_year": "2023-06",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      }
+    ],
+    "avatar": "https://media.licdn.com/dms/image/v2/D4D03AQEYgSkDidSIvw/profile-displayphoto-scale_200_200/B4DZoeqcsuIgAc-/0/1761451036068?e=2147483647&v=beta&t=QUPwWYH4OEd2JyhH3oMi8gDGhQ93po3ETRsCfWigGAY",
+    "certifications": [
+      {
+        "meta": "Issued Dec 2024 Credential ID few2yoaigd5p See credential",
+        "subtitle": "FinOps Foundation",
+        "title": "Introduction to FinOps",
+        "credential_url": "http://verify.skilljar.com/c/few2yoaigd5p?trk=public_profile_see-credential",
+        "credential_id": "few2yoaigd5p"
+      },
+      {
+        "meta": "Issued Nov 2024 See credential",
+        "subtitle": "Google",
+        "title": "Prepare Data for ML APIs on Google Cloud Skill Badge",
+        "credential_url": "https://www.credly.com/badges/03d50db9-5447-4606-9de6-fce4a95c510d/linked_in_profile?trk=public_profile_see-credential",
+        "credential_id": null
+      },
+      {
+        "meta": "Issued Sep 2024 See credential",
+        "subtitle": "Google",
+        "title": "Prompt Design in Vertex AI Skill Badge",
+        "credential_url": "https://www.credly.com/badges/5130b242-a8fa-4749-8dc3-46edf971ff10/linked_in_profile?trk=public_profile_see-credential",
+        "credential_id": null
+      },
+      {
+        "meta": "Issued Sep 2022 See credential",
+        "subtitle": "Amazon Web Services (AWS)",
+        "title": "AWS Academy Graduate - AWS Academy Machine Learning Foundations",
+        "credential_url": "https://www.credly.com/badges/8d161682-8a21-4bc1-83b6-6d1ef97368fe/linked_in_profile?trk=public_profile_see-credential",
+        "credential_id": null
+      },
+      {
+        "meta": "Issued Nov 2021 See credential",
+        "subtitle": "Cisco",
+        "title": "CCNA: Switching, Routing, and Wireless Essentials",
+        "credential_url": "https://www.credly.com/badges/a9adab2e-983a-44a0-ba51-56967ad0cefc?source=linked_in_profile&trk=public_profile_see-credential",
+        "credential_id": null
+      },
+      {
+        "meta": "Issued Sep 2021 See credential",
+        "subtitle": "IBM",
+        "title": "Docker Essentials: A Developer Introduction",
+        "credential_url": "https://www.credly.com/badges/269168dc-2836-471f-81dd-8f1771ea825a?source=linked_in_profile&trk=public_profile_see-credential",
+        "credential_id": null
+      },
+      {
+        "meta": "Issued Sep 2021 See credential",
+        "subtitle": "VMware",
+        "title": "IT Academy: Cloud and Virtualization Concepts",
+        "credential_url": "https://www.credly.com/badges/65751e1d-284a-4e0e-b474-a47bde96f79d?source=linked_in_profile&trk=public_profile_see-credential",
+        "credential_id": null
+      },
+      {
+        "meta": "Issued Sep 2021 See credential",
+        "subtitle": "VMware",
+        "title": "IT Academy: Network Virtualization Concepts",
+        "credential_url": "https://www.credly.com/badges/b053356a-2305-4cf4-8a28-7ec895bcef20?source=linked_in_profile&trk=public_profile_see-credential",
+        "credential_id": null
+      },
+      {
+        "meta": "Issued Nov 2020 See credential",
+        "subtitle": "Cisco",
+        "title": "CCNA Routing and Switching: Introduction to Networks",
+        "credential_url": "https://drive.google.com/file/d/1-PLgv6MhhDTM7-MPpng7FR6xwuGGIXZo/view?usp=sharing&trk=public_profile_see-credential",
+        "credential_id": null
+      },
+      {
+        "meta": "Issued Jul 2020 See credential",
+        "subtitle": "Amazon Web Services (AWS)",
+        "title": "AWS Academy Cloud Foundations",
+        "credential_url": "https://drive.google.com/file/d/1-mI6kii4KvJy3o22sDxa7tkUHcYAk0sd/view?usp=sharing&trk=public_profile_see-credential",
+        "credential_id": null
+      }
+    ],
+    "followers": 360,
+    "connections": 341,
+    "current_company_company_id": "cloud2labs",
+    "current_company_name": "Cloud2 labs",
+    "projects": [
+      {
+        "title": "MultiDoc-RAG",
+        "start_date": "Dec 2025",
+        "description": "\u2022 Built a document-intelligence platform that ingests up to 500 PDFs asynchronously via Redis/RQ workers, indexes chunks and embeddings into pgvector-backed PostgreSQL, and returns grounded AI answers with source citations in 4 to 7 seconds\u2022 Designed a token-budget reservation system with commit semantics so concurrent multi-document queries don't overshoot daily limits, enabling reliable multi-agent document analysis at scale\u2022 Implemented observability endpoints tracking usage, latency, and failures across the full pipeline, making the system debuggable in production rather than a black boxPython \u2022 FastAPI \u2022 LangGraph \u2022 pgvector \u2022 PostgreSQL \u2022 Redis \u2022 RQ \u2022 React \u2022 Docker \u2022 OpenAI API"
+      },
+      {
+        "title": "Overleaf MCP Server",
+        "start_date": "Nov 2025",
+        "description": "\u2022 Built a production-ready MCP server that connects AI assistants with Overleaf, letting users edit LaTeX files directly from chat without copy-paste or manual formatting fixes\u2022 Engineered a section-aware parsing system that detects and updates specific LaTeX sections using regex and structured markers, preserving templates, formatting, and document structure\u2022 Serving 300+ website visitors with 20+ real beta users who actively use the tool for resumes, research papers, and academic writing workflows\u2022 Implemented full Overleaf Git API integration by cloning the user\u2019s Overleaf project, applying safe edits, committing changes, and pushing updates back to Overleaf in real time\u2022 Added read, list, and update MCP tools enabling AI assistants to fetch files, analyze content, replace sections, and keep LaTeX documents synchronized with conversation context\u2022 Built a public roadmap with planned productivity features such as section summaries, AI rewriting tools, and multi-file project updates based on community feedbackPython \u2022 FastMCP \u2022 Git \u2022 API Integration \u2022 LaTeX \u2022 Developer Productivity \u2022 AI Integration"
+      },
+      {
+        "title": "md2LLM",
+        "start_date": "Mar 2026",
+        "description": "\u2022 Built a local-first platform managing the full LLM fine-tuning lifecycle, from Markdown ingestion and dataset generation to hardware-aware training routing and local inference through Ollama.\u2022 Implemented note quality scoring via frontmatter parsing and structured JSONL training pair generation, automating the data preparation step that most developers do manually.\u2022 Supports 3 training paths (Apple Silicon MLX, NVIDIA Unsloth, Google Colab) with automatic hardware detection, removing the biggest barrier to entry for local LLM fine-tuning.Python \u2022 FastAPI \u2022 React \u2022 Vite \u2022 Ollama \u2022 Hugging Face \u2022 MLX \u2022 Unsloth"
+      },
+      {
+        "title": "MCP Server for Google Sheets (Python, Google APIs)",
+        "start_date": "Apr 2025",
+        "description": "\u2022 Enabled seamless read and write automation using Python and the Google Sheets API improving data operations speed by 40% across multiple spreadsheets.\u2022 Delivered reliable batch updates via structured tools handling CSV and list-based inputs to reduce manual edits by 80% for large sheet datasets.\u2022 Secured cross-platform connectivity with service-account authentication ensuring 100% credential isolation for all automation workflows."
+      },
+      {
+        "title": "Key-Word Based Retrieval (Collaborated with IBM)",
+        "start_date": "Jan 2023",
+        "description": "1. Developed a search engine that displayed cases for specific keywords using React, Node, and IBM Cloud for deployment.2. Used government and consumer APIs for data retrieval and Selenium for scraping websites without APIs, enhancing user output.3. Injected scraped data into MySQL and implemented caching and indexing to optimize I/O operations and enhance search results.4. Developed a filtering algorithm to store frequent queries in the database, reducing API calls and improving retrieval efficiency."
+      }
+    ],
+    "location": null,
+    "input_url": "https://www.linkedin.com/in/aryan-pandit",
+    "linkedin_id": "aryan-pandit",
+    "activity": [
+      {
+        "interaction": "Liked by Aryan Pandit",
+        "link": "https://www.linkedin.com/posts/dhyanpatel12_ckad-certified-kubernetes-application-developer-activity-7491257189848903680-A78m",
+        "title": "Ending the AWS Cloud Support Engineer Internship on high note by clearing Certified Kubernetes Application Developer (CKAD) today. This year, I\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4D10AQGmbgH7xJs1Dw/image-shrink_1280/B4DZ_ZKuN9JwAg-/0/1786054894833?e=2147483647&v=beta&t=i_wFBde4fS3WcXpa9WzLcc4vsWMl7W46XRVM1uQGbgg",
+        "id": "7491257189848903680"
+      },
+      {
+        "interaction": "Liked by Aryan Pandit",
+        "link": "https://www.linkedin.com/posts/y-combinator_you-dont-have-one-agent-anymore-and-every-activity-7490436467354202112-jiLa",
+        "title": "You don't have one agent anymore. And every one of them wants its own OAuth into everything, while most connectors stop at one account per service:\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5605AQFSKNmUQ4uqJw/videocover-high/B56Z_NMYnGHABQ-/0/1785854006418?e=2147483647&v=beta&t=BB46OTIIXj_BPhuSObqoWlMUBc6sN5YOJD5HfZtpQP4",
+        "id": "7490436467354202112"
+      },
+      {
+        "interaction": "Liked by Aryan Pandit",
+        "link": "https://www.linkedin.com/posts/ryankicks_yc-startup-internship-expo-activity-7488690524611334144-2oES",
+        "title": "I\u2019m excited to be hosting an internship expo for 2027\u2014 50+ companies lined up and pop ups with Corgi, Replit, Dedalus and\u2026",
+        "img": "https://media.licdn.com/dms/image/sync/v2/D5627AQEKev2nn_5Mmw/articleshare-shrink_800/B56Z7b16jdIMAY-/0/1781804806611?e=2147483647&v=beta&t=ypk3J8US3DnIVa-_qVMpoS90Ct9ZxBItgd9rzZJtPn0",
+        "id": "7488690524611334144"
+      },
+      {
+        "interaction": "Liked by Aryan Pandit",
+        "link": "https://www.linkedin.com/posts/camdenhulse_today-were-launching-treena-the-coding-activity-7488646252197216256-yrYV",
+        "title": "today we're launching treena. the coding environment with no laptop in the loop.",
+        "img": "https://media.licdn.com/dms/image/v2/D5605AQGQi6jaYwbS1A/videocover-high/B56Z.0EBChKEBM-/0/1785432385100?e=2147483647&v=beta&t=KN7X1RMk4foHlAkC6wjDh4CdzjO8ucN6FClyiVcow1g",
+        "id": "7488646252197216256"
+      },
+      {
+        "interaction": "Liked by Aryan Pandit",
+        "link": "https://www.linkedin.com/posts/vincenttodd_we-just-hit-1m-organic-lifetime-views-7-activity-7484638952927223808-McjC",
+        "title": "we just hit 1m organic lifetime views 7 months ago we had 100k lifetime views as much as I've loved growing my network and meeting founders and\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQFwB6QqL7HmDA/feedshare-shrink_800/B56Z97Hd.FHYAc-/0/1784476983832?e=2147483647&v=beta&t=nf5xNWilsOj48h26FabXeQtkT-c4rMRH4uYj1D0Ob-g",
+        "id": "7"
+      },
+      {
+        "interaction": "Liked by Aryan Pandit",
+        "link": "https://www.linkedin.com/posts/vincenttodd_bryan-johnson-is-looking-for-somebody-to-activity-7483202858008387584-rnCJ",
+        "title": "Bryan Johnson is looking for somebody to help him create a Longevity Garden. If there has ever been somebody I've wanted to meet, it's Bryan I'm\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQEbPuj8Bmpl_g/feedshare-shrink_1280/B56Z9mtWJjHYAQ-/0/1784134591561?e=2147483647&v=beta&t=bcEbmTDNA1Wn_avk9kVKQ912fOpQ3zstQxSqSiza2rE",
+        "id": "7483202858008387584"
+      },
+      {
+        "interaction": "Liked by Aryan Pandit",
+        "link": "https://www.linkedin.com/posts/vincenttodd_over-the-past-4-weeks-our-summer-externs-activity-7483260413703245825-6G6g",
+        "title": "over the past 4 weeks our summer Externs Vick Mahindru and Henry Nguyen led by Jose G. Cruz-Lopez and Allyson Keightley built the wildly popular\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQGjPE08tYD2Xg/feedshare-image-high-res/B56Z9nhsALIgAU-/0/1784148313055?e=2147483647&v=beta&t=dewZuC_GvBbDZlvrOF4EJhWFvvJ7SKbBB4XiBIvduWM",
+        "id": "4"
+      },
+      {
+        "interaction": "Liked by Aryan Pandit",
+        "link": "https://www.linkedin.com/posts/andreyavtomonov_ktx-just-hit-1-on-the-official-spider-20-activity-7482871278639460353-st2e",
+        "title": "ktx just hit #1 on the official Spider 2.0-Lite leaderboard. Spider 2.0-Lite is a real enterprise text-to-SQL benchmark: messy schemas, multiple\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQFi3hlK87c58g/feedshare-shrink_800/B4EZ9h_x0sKIAc-/0/1784055537272?e=2147483647&v=beta&t=6scj_JYE67zhFzeL56O9OsdpO4gS5iUwi80JAwbKL3A",
+        "id": "1"
+      },
+      {
+        "interaction": "Liked by Aryan Pandit",
+        "link": "https://www.linkedin.com/posts/vincenttodd_is-it-worth-it-to-apply-to-y-combinator-activity-7482082723520774145-l1GG",
+        "title": "is it worth it to apply to Y Combinator? I genuinely don't have a reason to apply other than for fun don't even know if I want to be part of a\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQEm0yxzxQxdbA/feedshare-shrink_800/B56Z9WylsgIQAc-/0/1783867530502?e=2147483647&v=beta&t=Ccb4VtS8afyzrsXl1WiKd_avkJCkKhq8C3K1RAJjfWA",
+        "id": "7482082723520774145"
+      },
+      {
+        "interaction": "Liked by Aryan Pandit",
+        "link": "https://www.linkedin.com/posts/tchaudhari2106_buildwithaip-palantir-foundry-activity-7480397625163358208-Mng7",
+        "title": "\ud83c\udf93 My degree taught me the fundamentals. It couldn't teach me what shipped last month. That gap between what gets taught and what gets built is\u2026",
+        "img": "https://static.licdn.com/aero-v1/sc/h/53n89ecoxpr1qrki1do3alazb",
+        "id": "7480397625163358208"
+      },
+      {
+        "interaction": "Liked by Aryan Pandit",
+        "link": "https://www.linkedin.com/posts/adityarohit_apis-ai-integrations-activity-7480349388654018560-4-h6",
+        "title": "Every AI agent demo shows the happy path, AI Agent picks a tool and formats parameters, calls the API. Gets 200 OK. Crowd applauds. The part nobody\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQGH0YK5JdHkTg/feedshare-shrink_800/B56Z8.KIQnKUAg-/0/1783454270823?e=2147483647&v=beta&t=AFTjkGikji6uZQa8fZNem4rb-aSEd0TWf-Sz2fucukI",
+        "id": "7480349388654018560"
+      },
+      {
+        "interaction": "Liked by Aryan Pandit",
+        "link": "https://www.linkedin.com/posts/yadneya-joshi-920299198_opentowork-aiengineering-llmsecurity-activity-7480335657257578497-5zgZ",
+        "title": "Last week I spent time diving into AI security and applied several of these concepts to TaxSense. Tax documents mean SSNs, income figures, and other\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQGHkvExVTlzPg/feedshare-shrink_800/B56Z899pAvGcAc-/0/1783450997185?e=2147483647&v=beta&t=ol1xwgsp-pHsM0POlBrxEFkjGBowQsLjXBCkfmUBYh0",
+        "id": "7480335657257578497"
+      },
+      {
+        "interaction": "Liked by Aryan Pandit",
+        "link": "https://www.linkedin.com/posts/dhyanpatel12_adding-a-new-colour-to-my-aws-certification-activity-7479059659354501120-OPfv",
+        "title": "Adding a new colour to my AWS certification honeycomb today with the AWS Certified Security Specialty certification. It feels special to realize I\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQFmUyDAGVHBaA/feedshare-shrink_800/B56Z8r1ILSGsAg-/0/1783146775745?e=2147483647&v=beta&t=Na4JFfLA1dTNmlOEStgoyFwFxAZHFXcsd7Cba6oZaE4",
+        "id": "7479059659354501120"
+      },
+      {
+        "interaction": "Liked by Aryan Pandit",
+        "link": "https://www.linkedin.com/posts/nikki-kothapalli_excited-to-share-that-y-combinator-is-flying-activity-7478608273001037825-Sv6V",
+        "title": "Excited to share that Y Combinator is flying me out for AI Startup School 2026! Out of 30,000+ applicants, I'm incredibly grateful for the\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQE0yFqClrcUgQ/feedshare-shrink_800/B56Z8laIVCKUAk-/0/1783039035090?e=2147483647&v=beta&t=e4vStXrx4MWjaMsH_9BvG13JOeV3MxNuFsJc0Cp5Tdc",
+        "id": "7478608273001037825"
+      },
+      {
+        "interaction": "Liked by Aryan Pandit",
+        "link": "https://www.linkedin.com/posts/danielwlam_im-heading-to-y-combinators-startup-school-activity-7478470041844232192-TQp6",
+        "title": "I'm heading to Y Combinator's Startup School in San Francisco this July! YC selects a group of founders and builders from over 30,000 applicants\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQF9sdqNJMdgpg/feedshare-shrink_800/B56Z8hs8zLGUAc-/0/1782976859694?e=2147483647&v=beta&t=FJzG9Fs6o6-1iPkzHCYOtFUMt7W9tsE0h_uCTXBsDLo",
+        "id": "7478470041844232192"
+      },
+      {
+        "interaction": "Liked by Aryan Pandit",
+        "link": "https://www.linkedin.com/posts/luca-martial_anthropic-just-published-its-data-teams-activity-7468648318986952704-YK5a",
+        "title": "Anthropic just published its data team's playbook for self-serve analytics. We reverse-engineered it and open-sourced the result. Here's how to set\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQFqF9yEn1j9ZQ/feedshare-shrink_800/B4EZ6VlBt9JIAc-/0/1780625972424?e=2147483647&v=beta&t=rD7yWhE-FysLLAm6EqMqYFka0k3B9XP-ExdqmO1T9gQ",
+        "id": "7468648318986952704"
+      },
+      {
+        "interaction": "Liked by Aryan Pandit",
+        "link": "https://www.linkedin.com/posts/erfanhesami_introduction-to-ktx-the-open-source-context-activity-7468693148328898560-oRIF",
+        "title": "\ud835\uddf8\ud835\ude01\ud835\ude05, \ud835\ude01\ud835\uddf5\ud835\uddf2 \ud835\uddfc\ud835\uddfd\ud835\uddf2\ud835\uddfb-\ud835\ude00\ud835\uddfc\ud835\ude02\ud835\uddff\ud835\uddf0\ud835\uddf2 \ud835\uddf0\ud835\uddfc\ud835\uddfb\ud835\ude01\ud835\uddf2\ud835\ude05\ud835\ude01 \ud835\uddf9\ud835\uddee\ud835\ude06\ud835\uddf2\ud835\uddff \ud835\ude01\ud835\uddf5\ud835\uddee\ud835\ude01 \ud835\uddf0\ud835\uddfc\ud835\uddfa\ud835\uddef\ud835\uddf6\ud835\uddfb\ud835\uddf2\ud835\ude00 \ud835\ude00\ud835\uddf2\ud835\uddfa\ud835\uddee\ud835\uddfb\ud835\ude01\ud835\uddf6\ud835\uddf0 \ud835\uddf1\ud835\uddf2\ud835\uddf3\ud835\uddf6\ud835\uddfb\ud835\uddf6\ud835\ude01\ud835\uddf6\ud835\uddfc\ud835\uddfb\ud835\ude00 \ud835\uddee\ud835\uddfb\ud835\uddf1\u2026",
+        "img": "https://media.licdn.com/dms/image/sync/v2/D5627AQEUCeXZHfxWhA/articleshare-shrink_800/B56Z6WyNRqJsAY-/0/1780646205448?e=2147483647&v=beta&t=TyKvuMp3dc_tDECpb8a9cLTA5tZTfNRipVfrlCFS1hw",
+        "id": "7468693148328898560"
+      },
+      {
+        "interaction": "Shared by Aryan Pandit",
+        "link": "https://www.linkedin.com/posts/aryan-pandit_excited-to-be-mentioned-here-for-contributing-activity-7478122771202539521-2B4o",
+        "title": "Excited to be mentioned here for contributing the Google Drive source to ktx. Kaelio (YC X25) ktx is an open-source context layer that helps data\u2026",
+        "img": "https://static.licdn.com/aero-v1/sc/h/53n89ecoxpr1qrki1do3alazb",
+        "id": "7478122771202539521"
+      }
+    ],
+    "linkedin_num_id": "881172344",
+    "banner_image": "https://media.licdn.com/dms/image/v2/D4D16AQHa7jrl-zZE3g/profile-displaybackgroundimage-shrink_200_800/B4DZojd1azJMAY-/0/1761531616509?e=2147483647&v=beta&t=rsBdOc9J4pthNxepUbh9Wdngsk87LVTPIa1w3cfKXqw",
+    "honors_and_awards": null,
+    "similar_profiles": [],
+    "default_avatar": false,
+    "memorialized_account": false,
+    "bio_links": [],
+    "first_name": "Aryan",
+    "last_name": "Pandit",
+    "influencer": false,
+    "timestamp": "2026-08-12T18:56:44.778Z",
+    "input": {
+      "url": "https://www.linkedin.com/in/aryan-pandit"
+    }
+  },
+  "local_photo": "data\\linkedin_photos\\aryan-pandit__usr-fk1kLHogw0YDEu5.jpg"
+}

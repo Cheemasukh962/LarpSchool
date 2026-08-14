@@ -1,0 +1,48 @@
+{
+  "luma_user_id": "usr-6xwGJDnZZp6GFmX",
+  "csv_name": "Aktan Azat",
+  "csv_linkedin": "https://www.linkedin.com/in/aktanazat",
+  "enriched_at": "2026-08-12T19:25:08.265417+00:00",
+  "batch_id": "sd_msqh7u7r1xzwli6vdk",
+  "profile": {
+    "id": "aktanazat",
+    "name": "Aktan Azat",
+    "city": "San Francisco, California, United States",
+    "country_code": "US",
+    "position": null,
+    "about": null,
+    "current_company": {
+      "link": "https://www.linkedin.com/company/crescendocx?trk=public_profile_topcard-current-company",
+      "name": "Crescendo",
+      "company_id": "crescendocx",
+      "location": null
+    },
+    "experience": null,
+    "url": "https://ae.linkedin.com/in/aktanazat",
+    "education": null,
+    "avatar": "https://media.licdn.com/dms/image/v2/D5603AQEfbhltKPCVqA/profile-displayphoto-scale_200_200/B56Zvs47s3K4AY-/0/1769205908490?e=2147483647&v=beta&t=R11GA1wLQJI3jE_cHucHWJqFq8ZHVIrmwiG-vYxkyik",
+    "followers": 826,
+    "connections": 500,
+    "current_company_company_id": "crescendocx",
+    "current_company_name": "Crescendo",
+    "location": "San Francisco",
+    "input_url": "https://www.linkedin.com/in/aktanazat",
+    "linkedin_id": "aktanazat",
+    "activity": null,
+    "linkedin_num_id": "958363659",
+    "banner_image": "https://static.licdn.com/aero-v1/sc/h/5q92mjc5c51bjlwaj3rs9aa82",
+    "honors_and_awards": null,
+    "similar_profiles": [],
+    "default_avatar": false,
+    "memorialized_account": false,
+    "bio_links": [],
+    "first_name": "Aktan",
+    "last_name": "Azat",
+    "influencer": false,
+    "timestamp": "2026-08-12T19:22:44.595Z",
+    "input": {
+      "url": "https://www.linkedin.com/in/aktanazat"
+    }
+  },
+  "local_photo": "data\\linkedin_photos\\aktanazat__usr-6xwGJDnZZp6GFmX.jpg"
+}

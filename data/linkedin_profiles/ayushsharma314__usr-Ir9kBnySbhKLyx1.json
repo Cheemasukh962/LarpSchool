@@ -1,0 +1,349 @@
+{
+  "luma_user_id": "usr-Ir9kBnySbhKLyx1",
+  "csv_name": "Ayush Sharma",
+  "csv_linkedin": "https://www.linkedin.com/in/ayushsharma314",
+  "enriched_at": "2026-08-12T18:59:59.553340+00:00",
+  "batch_id": "sd_msqgcuh41lygyhc91a",
+  "profile": {
+    "id": "ayushsharma314",
+    "name": "Ayush Sharma",
+    "city": "San Francisco Bay Area",
+    "country_code": "US",
+    "position": null,
+    "about": null,
+    "current_company": {
+      "link": "https://www.linkedin.com/company/proofpoint?trk=public_profile_topcard-current-company",
+      "name": "Proofpoint",
+      "company_id": "proofpoint",
+      "location": null
+    },
+    "experience": null,
+    "url": "https://uk.linkedin.com/in/Ayushsharma314",
+    "people_also_viewed": [
+      {
+        "profile_link": "https://in.linkedin.com/in/arif-ali-mansuri",
+        "name": "Arif Ali Mansuri",
+        "about": "NTT DATA North America",
+        "location": "2K followers Noida"
+      },
+      {
+        "profile_link": "https://www.linkedin.com/in/shrutigarg30",
+        "name": "Shruti Garg",
+        "about": "Google",
+        "location": "2K followers United States"
+      },
+      {
+        "profile_link": "https://www.linkedin.com/in/ballaneypranav",
+        "name": "Pranav Ballaney",
+        "about": "Purdue University",
+        "location": "2K followers West Lafayette, IN"
+      },
+      {
+        "profile_link": "https://uk.linkedin.com/in/samarth-mathur-a8813b174",
+        "name": "Samarth Mathur",
+        "about": "Arm",
+        "location": "2K followers Cambridge"
+      },
+      {
+        "profile_link": "https://in.linkedin.com/in/aarushgupta212",
+        "name": "Aarush Gupta",
+        "about": "Atlassian",
+        "location": "2K followers Bengaluru"
+      },
+      {
+        "profile_link": "https://in.linkedin.com/in/nabin-chandra-agrahari-b14b66170",
+        "name": "Nabin Chandra Agrahari",
+        "about": "Finzy",
+        "location": "1K followers Bengaluru"
+      },
+      {
+        "profile_link": "https://in.linkedin.com/in/nishant-sachdeva",
+        "name": "Nishant Sachdeva",
+        "about": "Indian Institute of Technology, Hyderabad",
+        "location": "2K followers Hyderabad"
+      },
+      {
+        "profile_link": "https://in.linkedin.com/in/ridayumnahmed",
+        "name": "Rida Yumn Ahmed (MBA)",
+        "about": "Alumni For Liberty",
+        "location": "14K followers India"
+      },
+      {
+        "profile_link": "https://in.linkedin.com/in/s-aditya-684595171",
+        "name": "S Aditya",
+        "about": "Rippling",
+        "location": "2K followers Jamshedpur"
+      },
+      {
+        "profile_link": "https://www.linkedin.com/in/suhas-thalanki",
+        "name": "Suhas Thalanki",
+        "about": "Databricks",
+        "location": "4K followers United States"
+      }
+    ],
+    "educations_details": "University of Illinois Urbana-Champaign",
+    "education": null,
+    "avatar": "https://media.licdn.com/dms/image/v2/D5603AQGyWu5-4_PBmg/profile-displayphoto-scale_200_200/B56Z6VoIbBGsAc-/0/1780626787605?e=2147483647&v=beta&t=Zr6Pc7YdFUhCSWBT6CmQ0bsW64ZrzW6YYdE_s7OphbU",
+    "languages": [
+      {
+        "subtitle": "Native or bilingual proficiency",
+        "title": "English"
+      }
+    ],
+    "certifications": [
+      {
+        "meta": "Issued Jan 2021",
+        "subtitle": "Trinity College London",
+        "title": "Grade 3 Guitar Rock & Pop",
+        "credential_url": null,
+        "credential_id": null
+      },
+      {
+        "meta": "Issued Dec 2020",
+        "subtitle": "Kaggle",
+        "title": "Python",
+        "credential_url": null,
+        "credential_id": null
+      },
+      {
+        "meta": "Issued Nov 2020",
+        "subtitle": "Kaggle",
+        "title": "Intro to Machine Learning",
+        "credential_url": null,
+        "credential_id": null
+      },
+      {
+        "meta": "Issued Oct 2020 See credential",
+        "subtitle": "The New York Academy of Sciences",
+        "title": "Young Member of the New York Academy of Sciences",
+        "credential_url": "https://www.youracclaim.com/badges/8031b048-fd29-4a23-9cc4-0d5a9c1dae46?source=linked_in_profile&trk=public_profile_see-credential",
+        "credential_id": null
+      },
+      {
+        "meta": "Issued Sep 2020 Credential ID a7a0-42adfae0cce5 See credential",
+        "subtitle": "CS50",
+        "title": "Gold Certificate of CS50 Puzzle Day 2020",
+        "credential_url": "https://cs50.harvard.edu/certificates/4217086d-20f4-45c8-a7a0-42adfae0cce5?trk=public_profile_see-credential",
+        "credential_id": "a7a0-42adfae0cce5"
+      },
+      {
+        "meta": "Issued Apr 2020 Credential ID 394cd533ea27 See credential",
+        "subtitle": "CS50",
+        "title": "Gold Certificate of CS50x Puzzle Day 2020",
+        "credential_url": "https://cs50.harvard.edu/certificates/7e8a55b0-5de5-4197-9f28-394cd533ea27?trk=public_profile_see-credential",
+        "credential_id": "394cd533ea27"
+      },
+      {
+        "meta": "Issued Dec 2019 Credential ID UC-HPR11IP4 See credential",
+        "subtitle": "Udemy",
+        "title": "Git: Become and Expert in Git and Github",
+        "credential_url": "https://www.linkedin.com/ude.my/UC-HPR11IP4?trk=public_profile_see-credential",
+        "credential_id": "UC-HPR11IP4"
+      },
+      {
+        "meta": "Issued Dec 2019 Credential ID UC-N1458S3K See credential",
+        "subtitle": "Udemy",
+        "title": "Introduction to Python Programming",
+        "credential_url": "https://www.linkedin.com/ude.my/UC-N1458S3K?trk=public_profile_see-credential",
+        "credential_id": "UC-N1458S3K"
+      },
+      {
+        "meta": "Issued Jul 2019",
+        "subtitle": "Technothlon, IIT Guwahati",
+        "title": "Silver Certificate",
+        "credential_url": null,
+        "credential_id": null
+      },
+      {
+        "meta": "Issued Jun 2019 Credential ID 196IN1445011 27/04/2004 See credential",
+        "subtitle": "Cambridge Assessment English",
+        "title": "C2 Proficiency - Score 201",
+        "credential_url": "https://www.cambridgeenglish.org/exams-and-tests/business-higher/?trk=public_profile_see-credential",
+        "credential_id": "196IN1445011 27/04/2004"
+      }
+    ],
+    "followers": 1321,
+    "connections": 500,
+    "current_company_company_id": "proofpoint",
+    "current_company_name": "Proofpoint",
+    "location": null,
+    "input_url": "https://www.linkedin.com/in/ayushsharma314",
+    "linkedin_id": "ayushsharma314",
+    "activity": [
+      {
+        "interaction": "Ayush Sharma shared this",
+        "link": "https://www.linkedin.com/posts/ayushsharma314_excited-to-announce-that-i-was-accepted-to-activity-7467274273569746946-pB1W",
+        "title": "Excited to announce that I was accepted to Y Combinator Startup School \ud83c\udf89 YC is flying builders out from around the world for a two-day event in SF, with speakers including Sam Altman, Jensen Huang, Boris Cherny, and more, plus $25,000 in credits. Would love to connect with anyone else going! Applications are still open, apply here: https://lnkd.in/ggj4Ci_K If I know you personally, reach out for a referral \ud83c\udf81 ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQE6qmPbBawq6A/feedshare-shrink_800/B56Z6EWYenJMAc-/0/1780336920879?e=2147483647&v=beta&t=tmS7mkGyxT-YWvR6OVf4qh0c61cILlC2rb5cBZ0DkNY",
+        "id": "7467274273569746946"
+      },
+      {
+        "interaction": "Ayush Sharma shared this",
+        "link": "https://www.linkedin.com/posts/ayushsharma314_from-silicon-valley-hackathons-to-full-time-activity-7465793978043453441-nmzY",
+        "title": "Didn\u2019t expect to find myself in a University of Cincinnati article, but here we are \ud83d\ude80 A year ago, right after Origin Ventures Office of Entrepreneurship iVenture 11 summer session, two friends and I booked one-way flights to San Francisco with zero connections and barely a plan. We ended up living out of a sketchy basement Airbnb, surviving on caffeine, toast, and the belief that if we put ourselves in the right rooms long enough, something would happen. In 21 days, that trip somehow turned into this: \u2022 Won the world\u2019s largest smart glasses hackathon at Y Combinator \u2022 Had investors offer us $500k to keep building \u2022 Connected with founders who offered us internships on the spot \u2022 Made friends with some of the smartest, most ambitious people from around the world Most opportunities in life are on the other side of simply deciding to take the leap and show up. If you\u2019re a builder working on a startup, or someone who wants to work at one, take the trip to SF, it\u2019ll pay for itself. https://lnkd.in/g5WNTviG Shoutout Pratyush Srivastava and Aleksandar Ilijevski for agreeing to share a cold, dingy basement studio with absolutely no guarantee any of this would work out \ud83d\ude4c ...more",
+        "img": "https://media.licdn.com/dms/image/sync/v2/D5627AQFs_8fNTlYVMA/articleshare-shrink_800/B56Z5vOhRqIQAY-/0/1779982538747?e=2147483647&v=beta&t=WnRPmTIQ1LflJuLypCAvqvnx7Jiag4cAnNpC8Xg5FZg",
+        "id": "7465793978043453441"
+      },
+      {
+        "interaction": null,
+        "link": "https://www.linkedin.com/posts/satyamsi_surreal-moment-seeing-the-news-of-proofpoints-activity-7428222095970709504-hvxH",
+        "title": "Surreal moment. Seeing the news of Proofpoint 's acquisition of Acuvity featured across the NYSE trading floor was a powerful reminder of how far we\u2019ve come. From a bold idea to relentless execution - that continues as Proofpoint . Acuvity was built to secure AI-native workflows. Proofpoint is the trusted leader in protecting people and defending data. Now unified, we\u2019re delivering the platform needed for a world where humans and AI agents operate side by side. Grateful to everyone who has supported Acuvity , especially our team and customers who trusted us early and pushed us to be better. Proud of what we built and what we achieved. It\u2019s the result of hard work, time sacrificed, and dedication of all who backed us. Onward. Building better together with Proofpoint . ...more ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQEKOrADx8epBQ/feedshare-shrink_800/B4EZxZYnONI0Ag-/0/1771026151021?e=2147483647&v=beta&t=WuPtjUVilpwhlqjaeB_mTwU2a7I2-Gidt2mll2mwzYI",
+        "id": "7428222095970709504"
+      },
+      {
+        "interaction": null,
+        "link": "https://www.linkedin.com/posts/acuvity_2000-followers-when-we-came-out-of-activity-7420498321691037697-_OIz",
+        "title": "2,000 followers! \ud83d\ude4c When we came out of stealth, we set out to build the industry's most comprehensive AI security and governance platform. The traction has been humbling. Huge customer wins, ARR growth, and seeing security leaders recognize that AI and agent security requires purpose-built solutions, not retrofitted ones. Thanks to everyone following along, security leaders, our customers and partners for pushing their organizations to take AI security seriously. We're just getting started. \ud83d\ude80 acuvity.ai ...more ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQFNH65ecijSCg/feedshare-shrink_1280/B4EZvrnzTBI8Ag-/0/1769184659715?e=2147483647&v=beta&t=CB4hPf8-rRQC_DlcTXfWupVxI68TqgNnscDQ3FDws7A",
+        "id": "7420498321691037697"
+      },
+      {
+        "interaction": null,
+        "link": "https://www.linkedin.com/posts/acuvity_chatgpt-aisecurity-cybersecurity-activity-7404192060955783168-6Tl5",
+        "title": "OpenAI 's ChatGPT just turned 3 years old, and what have we learned? A LOT. \ud83d\ude05 We traced the full arc, from the first jailbreaks and prompt injection experiments in late 2022, through the plugin era and its third-party risks, to the memory feature that let attackers plant instructions persisting across sessions, and finally to today's autonomous agents browsing the web and taking actions on your behalf. Three years in, the security community knows what it's up against, but these aren't easy problems to solve. Get the breakdown in our latest blog: https://lnkd.in/dn4jqC98 #chatgpt #aisecurity #cybersecurity ...more ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D4D22AQHnMlHRkBKBYA/feedshare-shrink_800/B4DZsD5cU4J4Ak-/0/1765296948949?e=2147483647&v=beta&t=tmMjHurenOodHukXHEYed5MXrkC1qmFvhdgw-Uk3olU",
+        "id": "7404192060955783168"
+      },
+      {
+        "interaction": "Ayush Sharma shared this",
+        "link": "https://www.linkedin.com/posts/ayushsharma314_huge-update-everyones-talking-about-ai-activity-7381380476403421185-6dsh",
+        "title": "HUGE update- Everyone\u2019s talking about AI, but almost no one\u2019s ready for what it\u2019s breaking in security. We just launched the 2025 State of AI Security Report, surveying 275 security and IT leaders across industries, and the results show just how fast enterprise security is being rewritten: \u2022 70% don\u2019t have optimized AI governance \u2022 Half expect data breaches through AI tools this year \u2022 CIOs now lead AI security \u2014 CISOs rank fourth \u2022 AI supply chain security tops the 2025 budget list \u2022 Runtime is both the #1 vulnerability and the least prepared phase Traditional \u201cshift-left\u201d approaches don\u2019t fit this new reality anymore. Proud to be a part of the amazing team at Acuvity , where we\u2019re building security for the AI era. Full report: https://lnkd.in/ge2Du-9y Press coverage: https://lnkd.in/gjcw_MHw ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQGmLxk82NdrCg/feedshare-shrink_800/B56Zm_tFZbIYAg-/0/1759857891807?e=2147483647&v=beta&t=K_vO2dxunIx_x5A_qpR0yP7liTS06LXOrRhPHJUIPws",
+        "id": "7381380476403421185"
+      },
+      {
+        "interaction": null,
+        "link": "https://www.linkedin.com/posts/ayushsharma314_most-internships-end-with-a-final-presentation-activity-7368659013242134528-irIS",
+        "title": "Most internships end with a final presentation, mine started with one. Right after winning the Mentra YC Hackathon, Satyam Sinha (CEO of Acuvity ) reached out, curious how we built the project. One convo turned into a challenge: tackle a core problem at Acuvity and, if we could wow the team, the internship would be ours. Two weeks of heads-down building and several iterations later, we gave it our all in a final presentation. I\u2019m excited to share that I\u2019m officially joining Acuvity as an Engineering Intern. I\u2019ll be building and optimizing proprietary AI workflows to detect application-signature changes; speeding things up and helping expanding the range of AI providers Acuvity supports. Huge thanks again to Satyam Sinha for the opportunity! Pumped to work with an absolutely cracked team and help build the next generation of AI cybersecurity \ud83d\ude80 ...more",
+        "img": null,
+        "id": "7368659013242134528"
+      },
+      {
+        "interaction": "Ayush Sharma shared this",
+        "link": "https://www.linkedin.com/posts/ayushsharma314_ycombinator-mentralive-arglasses-activity-7350913303293931520-8YQg",
+        "title": "Ever wish you knew exactly who you're connecting with\u2014before even saying hello? This weekend, we won the Mentra Live hackathon at Y Combinator \ud83d\ude80 24 hours, 100+ hackers, and one winning team: Sauron Sauron is a smart glasses app built on top of MentraOS that leverages real-time facial recognition to instantly provide detailed professional insights about the people around you. Here's a teaser on what's coming next. Stay tuned. Aleksandar Ilijevski Pratyush Srivastava Douglas Duhaime Joshua France #ycombinator #mentralive #arglasses ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D5605AQF82YNyEOKRHw/feedshare-thumbnail_720_1280/B56ZgM3EXsGUA0-/0/1752562421957?e=2147483647&v=beta&t=K29flejDmPNUEvRKAuzyiy74y7YJTIXpbeAoG0D-aQY",
+        "id": "7350913303293931520"
+      },
+      {
+        "interaction": null,
+        "link": "https://www.linkedin.com/posts/manuedakara_another-successful-iventure-accelerator-reunion-activity-7345886908218003456-Ii18",
+        "title": "Another successful iVenture Accelerator reunion at the Gandhi Residence. Many thanks to Ravin and Sonal Gandhi for hosting the Origin Ventures Office of Entrepreneurship crew at their home. Ravin hosted a panel of judges including: Andrew Annacone , Managing Partner at TechNexus Noah Isserman PhD , Co-founder at iVenture Accelerator Paul Couston , CEO at Ascent Integrated Tech (iV3) Companies from cohorts as far back as 2 got rapid-fire feedback from the crew in an event that has become an annual convening of our awesome community. Thanks again to Ravin and family :) ...more ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQHn4G_dSnoeOQ/feedshare-shrink_800/B56ZfHVL6THUAg-/0/1751395917422?e=2147483647&v=beta&t=pa1LitkQXTm3NEwBus-ahj1jP2DL5QdG36-rHR1SW8A",
+        "id": "7345886908218003456"
+      },
+      {
+        "interaction": "Ayush Sharma reacted on this",
+        "link": "https://www.linkedin.com/posts/fdguglielmo_a-lot-can-change-in-a-year-this-time-a-activity-7492096139035537408-ScIp",
+        "title": "A lot can change in a year. This time a year ago, I was wrapping up my internship at Handshake, excited to be coming back full time as an iOS engineer. Two months later, I became one of the founding members of the FDE team, a team that has since grown to over 20 engineers and has gone international. I distinctly remember asking Matt Greenberg when given the offer to join: \u201cSo like, what does an FDE even do\u201d Which I still think is a totally valid question. I\u2019ve spoken with many other FDEs around the bay and it looks different at every company. FDE at Handshake is the perfect firehose of technical and operational complexity combined with the benefit of building \ud835\ude2f\ud835\ude30\ud835\ude35 \ud835\ude2b\ud835\ude36\ud835\ude34\ud835\ude35 \ud835\ude38\ud835\ude2a\ud835\ude35\ud835\ude29, but \ud835\ude30\ud835\ude2f the frontier of AI. It feels like the exact kind of role that gives you 3 years of engineering experience in 1. The last 10 months building this team has been incredible, and I\u2019m grateful to have had such tremendous growth this year. I have an unlimited amount of people to thank, but shoutout to Shaashwat Sharma and Avery Yip who supported my development during the early days, Jon Rahoi for convincing me to dive 10 toes deep when I was unsure about the transition, Alden Roberts for the trust and guidance in getting our team to the next level, and most importantly to Calum Crawford for being my perfect half in building this team together. Truly would not be possible without these folks. A lot can happen in a year, and we\u2019ve barely cracked the surface. Let\u2019s keep building!",
+        "img": null,
+        "id": "7492096139035537408"
+      },
+      {
+        "interaction": "Ayush Sharma liked this",
+        "link": "https://www.linkedin.com/posts/y-combinator_openvector-yc-s26-is-an-ai-that-turns-any-activity-7489019550286409728-5D9g",
+        "title": "OpenVector (YC S26) is an AI that turns any camera into an autonomous worker. Every important business moment happens in the physical world \u2014 someone tailgates, a production cycle stalls, a worker skips a safety step, or a customer arrives. And every camera on the planet only records it for later. For physical operations, the best technology available was a human staring at a monitor. So Andrey Gizdov (PhD dropout at Harvard) and Vishal Urlam (CMU engineer) built OpenVector. No new hardware or expensive setups, just an app. You simply describe your task in plain English, and OpenVector auto-builds a custom AI model for it and watches your feeds 24/7 in real-time. OpenVector also does something no standard camera system can: it operates a computer just like a human based on what it sees. It automatically integrates with legacy systems to make a call, send an email, update your POS or CRM, or trigger a webhook the second an event happens. OpenVector is already live and seeing use cases tracking production cycles, ensuring good manufacturing practices, and catching physical design errors across security, retail, and logistics. There are over 1 billion cameras worldwide, and almost all of them stop at seeing. Until today. OpenVector enables any camera to do real work. Congrats on the launch, Andrey and Vishal! \ud83d\ude80 https://lnkd.in/g4Yy_SMb",
+        "img": "https://media.licdn.com/dms/image/v2/D5605AQFHQwTEAV5-rg/videocover-high/B56Z.5G6TGHABM-/0/1785517040822?e=2147483647&v=beta&t=QWENwuZbr1Ta0qNpco-aSSuoNRFm1kS3xm4WioGBmbk",
+        "id": "7489019550286409728"
+      },
+      {
+        "interaction": "Ayush Sharma liked this",
+        "link": "https://www.linkedin.com/posts/proofpoint-softwareengineer-qaengineering-activity-7491137746544214017-8Fhe",
+        "title": "I\u2019m thrilled to share that I have stepped into a new role as Software Engineer III at Proofpoint ! \ud83d\ude80 A huge thank you to Vinaykumar Muralidharan for his unwavering trust in my work and for supporting my professional growth. I am incredibly grateful for your guidance. I also want to express my sincere appreciation to Amitesh Anand for ensuring such a smooth onboarding experience and making the transition seamless. \ud83c\udf1f Thrilled for this next chapter with a fantastic team! #Proofpoint #SoftwareEngineer #QAEngineering #QualityAssurance #NewRole #CareerGrowth #Gratitude",
+        "img": "https://media.licdn.com/dms/image/v2/D4D22AQFXR4tGnJAsJw/feedshare-shrink_1280/B4DZ_XeFYEKMAM-/0/1786026415847?e=2147483647&v=beta&t=Uhq5fLIfBciGZSM0yhEF2V8eIxijWboDSEC2x2NIAyc",
+        "id": "7491137746544214017"
+      },
+      {
+        "interaction": "Ayush Sharma reacted on this",
+        "link": "https://www.linkedin.com/posts/kastanday_starting-july-6th-im-joining-cloudflare-activity-7475981666633687040-Unni",
+        "title": "Starting July 6th, I'm joining Cloudflare Workers AI to make the GPUs return tokens! Workers AI offers the best gateway to any AI model, both closed and open source. Literally, it's my dream come true. I'm a huge CF fan. I routinely reach for their compute primitives. The developer platform is so feature-complete and efficient that it's primed for success with agents. I'm extremely excited to work alongside the greats from Vite VoidZero (acquired by Cloudflare) , Replicate and Astro. Extra special thanks to Michelle Chen for helping me find a home at Workers AI.",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQEqw0WJohVRlQ/feedshare-shrink_1280/B56Z8AFtKJG0AM-/0/1782412924987?e=2147483647&v=beta&t=Ud8N00WvkH9e1aPj24UyPB2jX7aoALnyVj6P3ev1DwQ",
+        "id": "7475981666633687040"
+      },
+      {
+        "interaction": "Ayush Sharma liked this",
+        "link": "https://www.linkedin.com/posts/tjbyun_capcutcreativecampusus-activity-7468387354639028224-hnwu",
+        "title": "Recruiters form a first impression in 7 seconds on LinkedIn. Your headshot is doing most of the work and a lot of yours aren't working. For most of you students and young professionals, I'll bet you either have the classic campus business center photo taken under fluorescent lights, the headshot your aspiring photographer homie took for free, or (God forbid) your high school senior portrait is still up there. \ud83d\ude2d I fixed mine in just 2 minutes using CapCut 's instant AI headshot template completely for free (lowkey made me a little more handsome \ud83e\udd2d) I literally used a template prompt and it generated me a clean, professional headshot without having to mess around figuring it out myself. If you're looking to get a headshot makeover, try out CapCut's instant AI headshot template on mobile using this link below! https://lnkd.in/gKx5NbYW Or on desktop using this link below (scroll down to \"photo\" tab for inspiration) https://lnkd.in/grQyuYaC #CapCutCreativeCampusUS",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQFwlO6CuizKjA/feedshare-shrink_800/B56Z6T9bNAJwAc-/0/1780598813823?e=2147483647&v=beta&t=d2M6CRjdKPMuR9nRN8p8c0w4cBanKVhrmxO8AteoNn0",
+        "id": "7468387354639028224"
+      }
+    ],
+    "linkedin_num_id": "808312941",
+    "banner_image": "https://media.licdn.com/dms/image/v2/D5616AQGOZXQZzGNeyg/profile-displaybackgroundimage-shrink_200_800/B56Z6VeSU8KQAQ-/0/1780624205437?e=2147483647&v=beta&t=MregbmKiGD0cuQE3Vj_aGyzb9x9DOqByVwAkQWwY8_4",
+    "honors_and_awards": [
+      {
+        "title": "3rd Rank in CORE14",
+        "publication": "CORE14 National Level Programming Competition",
+        "date": "2021-01-01T00:00:00.000Z",
+        "description": "Secured third position among four hundred participants"
+      },
+      {
+        "title": "AP Scholar",
+        "publication": "CollegeBoard",
+        "date": "2021-01-01T00:00:00.000Z",
+        "description": "Granted to students who receive scores of 3 or higher on three or more AP Exams."
+      },
+      {
+        "title": "Blue Tie Award",
+        "publication": "Delhi Public School, Nerul",
+        "date": "2021-01-01T00:00:00.000Z",
+        "description": "Secured more than 90% for three consecutive years out of 344 students"
+      },
+      {
+        "title": "Gold Medal of Excellence in International Mathematics Olympiad",
+        "publication": "Science Olympiad Foundation",
+        "date": "2021-01-01T00:00:00.000Z",
+        "description": null
+      },
+      {
+        "title": "Gold Medal of Excellence in National Science Olympiad",
+        "publication": "Science Olympiad Foundation",
+        "date": "2021-01-01T00:00:00.000Z",
+        "description": null
+      },
+      {
+        "title": "Google Code-In",
+        "publication": "Google",
+        "date": "2020-01-01T00:00:00.000Z",
+        "description": "Participant of the 2020 Google Code-In Completed 20+ tasks, covering multiple organizations. Certificate - https://drive.google.com/drive/folders/1CHyeFeFHQGha7qN07NhafWc5MdOBqjwu?usp=sharing"
+      },
+      {
+        "title": "International Rank 6 in International English Olympiad",
+        "publication": "Science Olympiad Foundation",
+        "date": "2020-01-01T00:00:00.000Z",
+        "description": null
+      },
+      {
+        "title": "Science and Mathematics Talent Search Olympiad",
+        "publication": "Delhi Public School Society",
+        "date": "2019-05-01T00:00:00.000Z",
+        "description": "Finalist for the 3rd and final level of SMTE (Science and Mathematics Talent Examination) conducted by DPS Eductation Society. One of the 120 students selected for the all India SMTE camp conducted in Mathura."
+      },
+      {
+        "title": "Bronze Medal",
+        "publication": "State Level Dr. Homi Bhabha Balvaidnyanik Competition (Young Scientist Exam)",
+        "date": "2019-01-01T00:00:00.000Z",
+        "description": "Bagged Bronze medal among 700000+ participants in the competition, which involved three levels of screening and successful completion of a research project on increasing the productivity of native variety of rice."
+      },
+      {
+        "title": "High Distinction",
+        "publication": "International Chemistry Quiz (ANCQ)",
+        "date": "2019-01-01T00:00:00.000Z",
+        "description": "Bagged High Distinction among 35000+ participants from 20 countries"
+      }
+    ],
+    "similar_profiles": [],
+    "default_avatar": false,
+    "memorialized_account": false,
+    "bio_links": [],
+    "first_name": "Ayush",
+    "last_name": "Sharma",
+    "influencer": false,
+    "timestamp": "2026-08-12T18:58:38.492Z",
+    "input": {
+      "url": "https://www.linkedin.com/in/ayushsharma314"
+    }
+  },
+  "local_photo": "data\\linkedin_photos\\ayushsharma314__usr-Ir9kBnySbhKLyx1.jpg"
+}

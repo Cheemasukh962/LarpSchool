@@ -1,0 +1,48 @@
+{
+  "luma_user_id": "usr-v8fGTfOSlaQkOJA",
+  "csv_name": "Ethan Lai",
+  "csv_linkedin": "https://www.linkedin.com/in/ethanlai29",
+  "enriched_at": "2026-08-12T19:06:01.809356+00:00",
+  "batch_id": "sd_msqgh02428smzgu5m",
+  "profile": {
+    "id": "ethanlai29",
+    "name": "Ethan Lai",
+    "city": "Irvine, California, United States",
+    "country_code": "US",
+    "position": null,
+    "about": "interested in physical ai, robotics, and world models ethanlai [at] stanford [dot]\u2026",
+    "current_company": {
+      "location": null
+    },
+    "experience": null,
+    "url": "https://jp.linkedin.com/in/Ethanlai29",
+    "education": null,
+    "avatar": "https://media.licdn.com/dms/image/v2/D5603AQF4nbjphnX8dg/profile-displayphoto-scale_200_200/B56ZeRUKEwH8AY-/0/1750489670580?e=2147483647&v=beta&t=G659tch3wEzOv8yBR0RuVrCqO4HE6nNWzNe3BQHNzxI",
+    "followers": 8000,
+    "connections": 500,
+    "location": "Irvine",
+    "input_url": "https://www.linkedin.com/in/ethanlai29",
+    "linkedin_id": "ethanlai29",
+    "activity": null,
+    "linkedin_num_id": "1322020835",
+    "banner_image": "https://media.licdn.com/dms/image/v2/D4E16AQHgurz72xHMAw/profile-displaybackgroundimage-shrink_200_800/B4EZgJgfDUGcAU-/0/1752506170091?e=2147483647&v=beta&t=5s7qjQQ7sY2phazf7vRf7Ta1v1GB_dxwmrAalfZ8j40",
+    "honors_and_awards": null,
+    "similar_profiles": [],
+    "default_avatar": false,
+    "memorialized_account": false,
+    "bio_links": [
+      {
+        "title": "Personal Website",
+        "link": "https://ethan-website-liart.vercel.app/"
+      }
+    ],
+    "first_name": "Ethan",
+    "last_name": "Lai",
+    "influencer": false,
+    "timestamp": "2026-08-12T19:02:04.732Z",
+    "input": {
+      "url": "https://www.linkedin.com/in/ethanlai29"
+    }
+  },
+  "local_photo": "data\\linkedin_photos\\ethanlai29__usr-v8fGTfOSlaQkOJA.jpg"
+}

@@ -1,0 +1,542 @@
+{
+  "luma_user_id": "usr-8NPA2Wiv91FSKhO",
+  "csv_name": "Rishabh Sahoo",
+  "csv_linkedin": "https://www.linkedin.com/in/rishabhsahoo",
+  "enriched_at": "2026-08-12T19:14:53.874282+00:00",
+  "batch_id": "sd_msqgwa7g10oeo6g7qx",
+  "profile": {
+    "id": "rishabhsahoo",
+    "name": "Rishabh Sahoo",
+    "city": "San Jose, California, United States",
+    "country_code": "US",
+    "position": null,
+    "about": "Freshman at UIUC studying Computer Science",
+    "current_company": {
+      "link": "https://www.linkedin.com/company/disruption-lab-at-gies?trk=public_profile_topcard-current-company",
+      "name": "Disruption Lab at Gies",
+      "company_id": "disruption-lab-at-gies",
+      "location": null
+    },
+    "experience": null,
+    "url": "https://br.linkedin.com/in/rishabhsahoo",
+    "people_also_viewed": [
+      {
+        "profile_link": "https://www.linkedin.com/in/liam-ozdil-976943200",
+        "name": "Liam Ozdil",
+        "about": "Medtronic",
+        "location": "1K followers Dallas, TX"
+      },
+      {
+        "profile_link": "https://www.linkedin.com/in/chenyi-liu128",
+        "name": "Celine (Chenyi) Liu",
+        "about": "Nomura",
+        "location": "777 followers New York, NY"
+      },
+      {
+        "profile_link": "https://www.linkedin.com/in/nidhi-satyadev",
+        "name": "Nidhi Satyadev",
+        "about": "Clay",
+        "location": "3K followers New York City Metropolitan Area"
+      },
+      {
+        "profile_link": "https://www.linkedin.com/in/jos%C3%A9-marqu%C3%A9z-eit-2771201a9",
+        "name": "Jos\u00e9 Marqu\u00e9z, EIT",
+        "about": "Thornton Tomasetti",
+        "location": "3K followers Greater Chicago Area"
+      },
+      {
+        "profile_link": "https://www.linkedin.com/in/hillel-engel",
+        "name": "Hillel Engel",
+        "about": "Ashpa Management",
+        "location": "3K followers Lakewood, NJ"
+      },
+      {
+        "profile_link": "https://www.linkedin.com/in/katheryn-antinucci-830216132",
+        "name": "Katheryn Antinucci",
+        "about": "IonQ",
+        "location": "954 followers Annapolis, MD"
+      },
+      {
+        "profile_link": "https://www.linkedin.com/in/aylah-iqbal-127409176",
+        "name": "Aylah Iqbal",
+        "about": "PwC",
+        "location": "692 followers New York, NY"
+      },
+      {
+        "profile_link": "https://jo.linkedin.com/in/alim-ahmed-khan-62533217b",
+        "name": "Alim Ahmed Khan",
+        "about": "Grand Arabia",
+        "location": "2K followers Amman, Jordan"
+      },
+      {
+        "profile_link": "https://www.linkedin.com/in/dhanyasreeprem",
+        "name": "Dhanya Prem",
+        "about": "NI (National Instruments)",
+        "location": "849 followers Austin, TX"
+      },
+      {
+        "profile_link": "https://www.linkedin.com/in/ricardo-arancibia-pmp-prince-2-practitioner-71948877",
+        "name": "Ricardo Arancibia, PMP, PRINCE 2 Practitioner",
+        "about": "Phi Beta Sigma Fraternity, Inc.",
+        "location": "1K followers Houston, TX"
+      }
+    ],
+    "educations_details": "University of Illinois Urbana-Champaign",
+    "education": [
+      {
+        "start_year": "2026-07",
+        "end_year": "2026-07",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      }
+    ],
+    "avatar": "https://media.licdn.com/dms/image/v2/D5603AQHp4yoT6psppw/profile-displayphoto-scale_200_200/B56ZlvI0D5G4Ac-/0/1758506206529?e=2147483647&v=beta&t=eYD0EZkKCFoN4p0bwWaqRzDUL3ZG4AoXeI5Lrq80rmY",
+    "languages": [
+      {
+        "subtitle": "Native or bilingual proficiency",
+        "title": "English"
+      },
+      {
+        "subtitle": "Native or bilingual proficiency",
+        "title": "Oriya"
+      },
+      {
+        "subtitle": "Professional working proficiency",
+        "title": "Spanish"
+      },
+      {
+        "subtitle": "Native or bilingual proficiency",
+        "title": "Hindi"
+      }
+    ],
+    "certifications": [
+      {
+        "meta": "Issued Jan 2025 See credential",
+        "subtitle": "Microsoft",
+        "title": "Career Essentials in Generative AI by Microsoft and LinkedIn",
+        "credential_url": "https://www.linkedin.com/learning/certificates/1c54e4ab018d2d996ebbab72f3a1f2054accef226bdb0522ed22ffff46073d58?trk=public_profile_see-credential",
+        "credential_id": null
+      },
+      {
+        "meta": "Issued Dec 2024 See credential",
+        "subtitle": "LinkedIn",
+        "title": "Ethics in the Age of Generative AI",
+        "credential_url": "https://www.linkedin.com/learning/certificates/701db13112212484766313a4fe4be90eb5dfbd80480034447d25ba5ee4bf8fce?trk=public_profile_see-credential",
+        "credential_id": null
+      },
+      {
+        "meta": "Issued Dec 2024 See credential",
+        "subtitle": "LinkedIn",
+        "title": "Generative AI: The Evolution of Thoughtful Online Search",
+        "credential_url": "https://www.linkedin.com/learning/certificates/c1415c291ad6660baa508fe8db5d9a69d6623d2b5e8b866e06a691d7a74f051b?trk=public_profile_see-credential",
+        "credential_id": null
+      },
+      {
+        "meta": "Issued Dec 2024 See credential",
+        "subtitle": "LinkedIn",
+        "title": "Learning Microsoft 365 Copilot and Business Chat",
+        "credential_url": "https://www.linkedin.com/learning/certificates/f4f5e2c0fe93baa12a69a509a8e523c6e559a05cd5e250bbe75b35955c239843?trk=public_profile_see-credential",
+        "credential_id": null
+      },
+      {
+        "meta": "Issued Dec 2024 See credential",
+        "subtitle": "LinkedIn",
+        "title": "Streamlining Your Work with Microsoft Copilot",
+        "credential_url": "https://www.linkedin.com/learning/certificates/3c3067180f4df85e86f154b274726ddf26de68e65f58e6f67747ae68e637544a?trk=public_profile_see-credential",
+        "credential_id": null
+      },
+      {
+        "meta": "Issued Dec 2024 See credential",
+        "subtitle": "LinkedIn",
+        "title": "What Is Generative AI?",
+        "credential_url": "https://www.linkedin.com/learning/certificates/ebfd1cdc4654e96614b6b4079787a43af65a005c7bf605c44c895ecfdaffed2c?trk=public_profile_see-credential",
+        "credential_id": null
+      }
+    ],
+    "volunteer_experience": [
+      {
+        "cause": "Education",
+        "duration": "Aug 2020 \u00b7 - \nJun 2023 \u00b7 \n2 years 11 months",
+        "duration_short": "- \nJun 2023",
+        "info": "I am a mathematics tutor currently tutoring a 1st grader.",
+        "start_date": "Aug 2020",
+        "subtitle": "Mathemartist",
+        "title": "Mathematics Tutor"
+      },
+      {
+        "cause": "Children",
+        "duration": "Aug 2021 \u00b7 - \nAug 2022 \u00b7 \n1 year 1 month",
+        "duration_short": "- \nAug 2022",
+        "info": "I am tutoring elementary school students.",
+        "start_date": "Aug 2021",
+        "subtitle": "Tutoring Young Minds",
+        "title": "Mathematics Tutor"
+      },
+      {
+        "cause": "Children",
+        "duration": "Jan 2022 \u00b7 - Present \u00b7 \n\n4 years 8 months",
+        "duration_short": "- Present",
+        "start_date": "Jan 2022",
+        "subtitle": "OSACAL",
+        "title": "Youth Volunteer"
+      },
+      {
+        "cause": "Education",
+        "duration": "Apr 2023 \u00b7 - Present \u00b7 \n\n3 years 5 months",
+        "duration_short": "- Present",
+        "start_date": "Apr 2023",
+        "subtitle": "Schoolhouse.world",
+        "title": "Senior Tutor"
+      }
+    ],
+    "followers": 2444,
+    "connections": 500,
+    "current_company_company_id": "disruption-lab-at-gies",
+    "current_company_name": "Disruption Lab at Gies",
+    "location": "San Jose",
+    "input_url": "https://www.linkedin.com/in/rishabhsahoo",
+    "linkedin_id": "rishabhsahoo",
+    "activity": [
+      {
+        "interaction": "Liked by Rishabh Sahoo",
+        "link": "https://www.linkedin.com/posts/safi-shamsi_115-days-ago-graphify-labs-yc-s26-did-activity-7487884785852370944-qqjk",
+        "title": "115 days ago, Graphify Labs (YC S26) did not exist. This morning, it is one of the five most-starred open source projects in Y Combinator 's\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQGdviyLw8Nm6Q/feedshare-shrink_800/B4EZ.pPh2RJ0Ag-/0/1785250848514?e=2147483647&v=beta&t=rAGJP2NiECbFlEva8NxOMWm3R-8jIwCP5Zeukluck4Q",
+        "id": "7487884785852370944"
+      },
+      {
+        "interaction": "Liked by Rishabh Sahoo",
+        "link": "https://www.linkedin.com/posts/hendrix-liu-7a015822b_besides-our-zip-code-moving-to-sf-for-yc-activity-7489062372481884160-9k3O",
+        "title": "Besides our zip code, moving to SF for YC also changed the ceiling on what we thought we were allowed to build. Our original plan was to move back to\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5610AQErMxEuhokJlg/image-shrink_1280/B56Z.5.igoKoAc-/0/1785531607601?e=2147483647&v=beta&t=9CJQB4ZaIg1YYDJkmW5olBSCOwUDkbRioGtOWv3YNdY",
+        "id": "7489062372481884160"
+      },
+      {
+        "interaction": "Liked by Rishabh Sahoo",
+        "link": "https://www.linkedin.com/posts/mfarhanh_before-apple-i-washed-dishes-for-money-activity-7488628234549633024-wPbT",
+        "title": "Before Apple, I washed dishes for money. When Apple called, they flew me to California three times, and on those visits I had ten interviews and a\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQELszZIxTjjDQ/feedshare-shrink_1280/B56Z.mNuVZKIAM-/0/1785200043946?e=2147483647&v=beta&t=SmR0RuIDls54CSGYkpml6as-graefTnYlxrZeafwLJI",
+        "id": "7488628234549633024"
+      },
+      {
+        "interaction": "Liked by Rishabh Sahoo",
+        "link": "https://www.linkedin.com/posts/gsdv_y-combinator-startup-school-just-ended-activity-7487328975539679233-72kj",
+        "title": "Y Combinator Startup School just ended! I got to hear from people shaping the AI industry: Sam Altman, Jensen Huang, Boris Cherny, Jeff Dean, Garry\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQEF-dCk6vs0lg/feedshare-shrink_800/B56Z.hWBxcHcAc-/0/1785118334411?e=2147483647&v=beta&t=RMIAwXJn4rf5C9_RwTcU_pX-pMyw4xkH9zm4IZ6vXtw",
+        "id": "7487328975539679233"
+      },
+      {
+        "interaction": "Liked by Rishabh Sahoo",
+        "link": "https://www.linkedin.com/posts/noah-j-kang_starting-this-summer-without-an-internship-activity-7477519138957983744-YxKW",
+        "title": "Starting this summer without an internship, I was determined to land something before fall to free up the next two semesters for graduate coursework\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQGuOqGCtxVffg/feedshare-shrink_800/B56Z8V8B5JKEAc-/0/1782779486111?e=2147483647&v=beta&t=Je42lzkkS8qAxv4wOGDDBuNIvHzuXAdbAvyQZ4hG7rc",
+        "id": "7477519138957983744"
+      },
+      {
+        "interaction": "Liked by Rishabh Sahoo",
+        "link": "https://www.linkedin.com/posts/eshwar-rajasekar97_excited-to-announce-that-ive-started-as-activity-7472430788253249536-TaZd",
+        "title": "Excited to announce that I\u2019ve started as a Software Engineer Intern this summer at Adobe. Thank you to everyone who helped me get here and looking\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQGjr5Uzx9GS1Q/feedshare-shrink_1280/B56Z7NoNKCGgAM-/0/1781566330130?e=2147483647&v=beta&t=mNouLDIIHJKdXz4kaOg4V8svtj-nc-P3Q1M80TXjP3U",
+        "id": "7472430788253249536"
+      },
+      {
+        "interaction": "Liked by Rishabh Sahoo",
+        "link": "https://www.linkedin.com/posts/manan-d-patel_im-excited-to-announce-that-i-will-be-joining-activity-7460002190317981697-fJJG",
+        "title": "I'm excited to announce that I will be joining Visa as a software engineering intern this summer! Big thank you to everyone who helped me get here\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQGE7UV-ctf4VQ/feedshare-shrink_800/B56Z1khqZYKEAc-/0/1775508042174?e=2147483647&v=beta&t=HsttVvqQltgIoAI5kzGQuzgR66J5NL1XPcAr2ZpqRMI",
+        "id": "7460002190317981697"
+      },
+      {
+        "interaction": "Liked by Rishabh Sahoo",
+        "link": "https://www.linkedin.com/posts/joshuasilver_im-thrilled-to-announce-that-rainforest-activity-7432424519463587840-RdwM",
+        "title": "\ud83d\udce3 I\u2019m thrilled to announce that Rainforest has joined forces with PayPal to launch a brand new embedded payments integration! By giving end\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4E05AQGwR3MpINBX_g/videocover-high/B4EZyRol6MIMBY-/0/1771969877271?e=2147483647&v=beta&t=98yg8LRqaSH90MXZwbN_24mgfg2rBDQ_6o7dbvd6lgQ",
+        "id": "7432424519463587840"
+      },
+      {
+        "interaction": "Liked by Rishabh Sahoo",
+        "link": "https://www.linkedin.com/posts/snehilkakani_starting-college-as-a-computer-science-student-activity-7427472464491827200-KKI9",
+        "title": "Starting college as a computer science student, I didn\u2019t expect my biggest frustration to be my own laptop. As I\u2019ve juggled a steadily increasing\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQEa3wQQP5MKdw/feedshare-shrink_800/B56ZxOu2THJ4Ag-/0/1770847430419?e=2147483647&v=beta&t=j4CbZ7o7LAVGTM1Fr7VJ8rmEqd1NuLCEZbrgOh3sjr4",
+        "id": "7427472464491827200"
+      },
+      {
+        "interaction": "Liked by Rishabh Sahoo",
+        "link": "https://www.linkedin.com/posts/anuraag-aravindan_im-excited-to-share-that-i-will-be-joining-activity-7381486120792084480-T_AZ",
+        "title": "I'm excited to share that I will be joining Optiver as a Quantitative Trading Intern this summer in Chicago!",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQHsFLLs1eKXkA/feedshare-shrink_800/B56ZnBOgsQJ4Ag-/0/1759883431105?e=2147483647&v=beta&t=9nNJkutTFnv8SX4-sAKeVa6szpC0UDrR9sUeOdqFEys",
+        "id": "7381486120792084480"
+      },
+      {
+        "interaction": "Liked by Rishabh Sahoo",
+        "link": "https://www.linkedin.com/posts/%7Eechi_im-hiring-the-worlds-best-full-stack-engineers-activity-7372362943889416192-JSeK",
+        "title": "i'm hiring the world's best full stack engineers in NYC to change the way researchers (quants, data scientists) do work. if you've taken a product\u2026",
+        "img": "https://static.licdn.com/aero-v1/sc/h/53n89ecoxpr1qrki1do3alazb",
+        "id": "7372362943889416192"
+      }
+    ],
+    "linkedin_num_id": "869711507",
+    "banner_image": "https://media.licdn.com/dms/image/v2/D5616AQEa4UYCoryDAQ/profile-displaybackgroundimage-shrink_200_800/B56ZlvIvabJoAU-/0/1758506186817?e=2147483647&v=beta&t=QkcLATmaCyqM4N7WR9r-nz0ot-Bz-mBehOO_e1RP-6E",
+    "honors_and_awards": [
+      {
+        "title": "National Merit Scholarship Semifinalist",
+        "publication": "National Merit Scholarship Corporation",
+        "date": "2024-08-01T00:00:00.000Z",
+        "description": null
+      },
+      {
+        "title": "AP Scholar with Distinction",
+        "publication": "College Boart",
+        "date": "2024-07-01T00:00:00.000Z",
+        "description": null
+      },
+      {
+        "title": "Featured with High Merit in Celebrating Art Spring 2024",
+        "publication": "Celebrating Art",
+        "date": "2024-04-01T00:00:00.000Z",
+        "description": null
+      },
+      {
+        "title": "Featured with High Merit in Celebrating Art Summer 2023",
+        "publication": "Celebrating Art",
+        "date": "2023-07-01T00:00:00.000Z",
+        "description": null
+      },
+      {
+        "title": "Lynbrook Red White and Blue Award in Communication",
+        "publication": "Lynbrook High School",
+        "date": "2023-04-01T00:00:00.000Z",
+        "description": null
+      },
+      {
+        "title": "Featured with High Merit in Celebrating Art Summer 2022",
+        "publication": "Celebrating Art",
+        "date": "2022-08-01T00:00:00.000Z",
+        "description": null
+      },
+      {
+        "title": "1st Prize Winner Advanced in Helix Hacks III",
+        "publication": "Helix Hacks",
+        "date": "2022-07-01T00:00:00.000Z",
+        "description": null
+      },
+      {
+        "title": "Winner in Agriculture Category at OSA Hackathon 2022",
+        "publication": "OSA",
+        "date": "2022-07-01T00:00:00.000Z",
+        "description": null
+      },
+      {
+        "title": "2nd place at Autonomous Vehicle Expo",
+        "publication": "Autonomous Vehicle Expo",
+        "date": "2022-04-01T00:00:00.000Z",
+        "description": null
+      },
+      {
+        "title": "Taught Game Dev Classes at Mountain View Library",
+        "publication": "-",
+        "date": "2022-04-01T00:00:00.000Z",
+        "description": null
+      },
+      {
+        "title": "Taught Game Dev Classes with OSACAL Youth",
+        "publication": "OSACAL Youth",
+        "date": "2022-04-01T00:00:00.000Z",
+        "description": null
+      },
+      {
+        "title": "Taught Web Dev Classes at Sunnyvale Library",
+        "publication": "-",
+        "date": "2022-04-01T00:00:00.000Z",
+        "description": null
+      },
+      {
+        "title": "Taught Web Dev Classes with OSACAL Youth",
+        "publication": "-",
+        "date": "2022-04-01T00:00:00.000Z",
+        "description": null
+      },
+      {
+        "title": "Hosted OSACAL Spelling Bee with 80+ participants",
+        "publication": "OSACAL Spelling Bee",
+        "date": "2022-03-01T00:00:00.000Z",
+        "description": null
+      },
+      {
+        "title": "Silver Medal At National Online Forensics Tournament Quarter 3 in Impromptu Speech",
+        "publication": "National Online Forensics Tournament",
+        "date": "2022-02-01T00:00:00.000Z",
+        "description": null
+      },
+      {
+        "title": "Winner of Lions Student Speaker Contest at De Anza Lions Club",
+        "publication": "De Anza Lions Club",
+        "date": "2022-02-01T00:00:00.000Z",
+        "description": null
+      },
+      {
+        "title": "Silver Medal At National Online Forensics Tournament Quarter 1 in Impromptu Speech",
+        "publication": "ForesnicsTournament.net",
+        "date": "2021-10-01T00:00:00.000Z",
+        "description": null
+      },
+      {
+        "title": "Winner at Hello Hacks",
+        "publication": "Hello Hacks",
+        "date": "2021-09-01T00:00:00.000Z",
+        "description": null
+      },
+      {
+        "title": "1st Place at Helix Hacks 2",
+        "publication": "Helix Hacks",
+        "date": "2021-08-01T00:00:00.000Z",
+        "description": null
+      },
+      {
+        "title": "1st Place at Homestead Hacks",
+        "publication": "Homestead Hacks",
+        "date": "2021-05-01T00:00:00.000Z",
+        "description": null
+      },
+      {
+        "title": "Published in Celebrating Art Spring 2021 Edition",
+        "publication": "Celebrating Art",
+        "date": "2021-04-01T00:00:00.000Z",
+        "description": null
+      },
+      {
+        "title": "Won Special Mention in Qode Internet Fest",
+        "publication": "Q-Programming Team",
+        "date": "2021-01-01T00:00:00.000Z",
+        "description": null
+      },
+      {
+        "title": "Won Top 15 Award in NextStep Hacks",
+        "publication": "NextStep Hacks",
+        "date": "2020-12-01T00:00:00.000Z",
+        "description": null
+      },
+      {
+        "title": "5th Place in Cupertino Middle School AMC 8 2020",
+        "publication": "Cupertino Middle School",
+        "date": "2020-11-01T00:00:00.000Z",
+        "description": null
+      },
+      {
+        "title": "Honnor Roll in AMC 8 2020",
+        "publication": "Mathematics Association of America",
+        "date": "2020-11-01T00:00:00.000Z",
+        "description": null
+      },
+      {
+        "title": "Most Effort Winner at Art for Hearts Contest",
+        "publication": "-",
+        "date": "2020-11-01T00:00:00.000Z",
+        "description": null
+      },
+      {
+        "title": "Won Most Innovative Hack in Helix Hacks",
+        "publication": "Helix Hacks",
+        "date": "2020-08-01T00:00:00.000Z",
+        "description": null
+      },
+      {
+        "title": "Featured in Celebrating Art Spring 2019",
+        "publication": "Celebrating Art",
+        "date": "2019-01-01T00:00:00.000Z",
+        "description": null
+      },
+      {
+        "title": "Won Most Innovative Project in First Lego League Mountain House High School Meet 2019",
+        "publication": "-",
+        "date": "2019-01-01T00:00:00.000Z",
+        "description": null
+      },
+      {
+        "title": "Won Rising Star award in First Lego League State Innovation Expo 2019",
+        "publication": "FIRST",
+        "date": "2019-01-01T00:00:00.000Z",
+        "description": null
+      },
+      {
+        "title": "Featured in Celebrating Art Spring 2018",
+        "publication": "Celebrating Art",
+        "date": "2018-01-01T00:00:00.000Z",
+        "description": null
+      },
+      {
+        "title": "Was a Golden+ Artist in Picasso Art Contest 2018 (a international art contest)",
+        "publication": "Picasso Art Contest",
+        "date": "2018-01-01T00:00:00.000Z",
+        "description": null
+      },
+      {
+        "title": "Was a Golden+ Artist in Picasso Art Contest 2018 (a international art contest)",
+        "publication": "Picasso Art Contest",
+        "date": "2018-01-01T00:00:00.000Z",
+        "description": null
+      },
+      {
+        "title": "Won Perseverance award in First Lego League State Finals 2018",
+        "publication": "FIRST",
+        "date": "2018-01-01T00:00:00.000Z",
+        "description": null
+      },
+      {
+        "title": "Won Regional Championship in First Lego League Intel Folsom 2018",
+        "publication": "FIRST",
+        "date": "2018-01-01T00:00:00.000Z",
+        "description": null
+      },
+      {
+        "title": "Featured in Celebrating Art Spring 2017",
+        "publication": "Celebrating Art",
+        "date": "2017-01-01T00:00:00.000Z",
+        "description": null
+      },
+      {
+        "title": "Honorable Mention in Russian Math Olympiad (RSM Foundation)",
+        "publication": "RSM Foundation",
+        "date": "2017-01-01T00:00:00.000Z",
+        "description": null
+      },
+      {
+        "title": "Part of Marching Band in Los Gatos Christmas Parade 2017",
+        "publication": "Los Gatos Christmas Parade",
+        "date": "2017-01-01T00:00:00.000Z",
+        "description": null
+      },
+      {
+        "title": "Played the national anthem at a San Jose Giants Game",
+        "publication": "San Jose Giants",
+        "date": "2017-01-01T00:00:00.000Z",
+        "description": null
+      },
+      {
+        "title": "Was a Sparkling Diamond Artist in Picasso Art Contest 2017 (a international art contest)",
+        "publication": "Picasso Art Contest",
+        "date": "2017-01-01T00:00:00.000Z",
+        "description": null
+      },
+      {
+        "title": "Featured in Celebrating Art Spring 2016",
+        "publication": "Celebrating Art",
+        "date": "2016-01-01T00:00:00.000Z",
+        "description": null
+      }
+    ],
+    "similar_profiles": [],
+    "default_avatar": false,
+    "memorialized_account": false,
+    "bio_links": [],
+    "first_name": "Rishabh",
+    "last_name": "Sahoo",
+    "influencer": false,
+    "timestamp": "2026-08-12T19:13:44.412Z",
+    "input": {
+      "url": "https://www.linkedin.com/in/rishabhsahoo"
+    }
+  },
+  "local_photo": "data\\linkedin_photos\\rishabhsahoo__usr-8NPA2Wiv91FSKhO.jpg"
+}

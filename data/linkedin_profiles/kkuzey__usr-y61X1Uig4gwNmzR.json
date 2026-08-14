@@ -1,0 +1,118 @@
+{
+  "luma_user_id": "usr-y61X1Uig4gwNmzR",
+  "csv_name": "Kuzey Kantarcioglu",
+  "csv_linkedin": "https://www.linkedin.com/in/kkuzey",
+  "enriched_at": "2026-08-12T19:12:29.384057+00:00",
+  "batch_id": "sd_msqgtpzbeylkhkm9p",
+  "profile": {
+    "id": "kkuzey",
+    "name": "Kuzey Kantarcioglu",
+    "city": "Stanford, California, United States",
+    "country_code": "US",
+    "position": null,
+    "about": null,
+    "current_company": {
+      "location": null
+    },
+    "experience": null,
+    "url": "https://tr.linkedin.com/in/Kkuzey",
+    "educations_details": "Stanford University",
+    "education": [
+      {
+        "title": "Stanford University",
+        "url": "https://www.linkedin.com/school/stanford-university/",
+        "start_year": "2024",
+        "end_year": "2028",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      },
+      {
+        "start_year": "2019",
+        "end_year": "2024",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      }
+    ],
+    "avatar": "https://media.licdn.com/dms/image/v2/D4D03AQGHJLqCuJyP0w/profile-displayphoto-shrink_200_200/B4DZT3H0qvGcAc-/0/1739312811120?e=2147483647&v=beta&t=_HENa6eZu22SZ8AT_fYG3kBU-YNLF3DPXA18ij5puz4",
+    "languages": [
+      {
+        "subtitle": "-",
+        "title": "Turkish"
+      },
+      {
+        "subtitle": "-",
+        "title": "English"
+      },
+      {
+        "subtitle": "-",
+        "title": "Japanese"
+      },
+      {
+        "subtitle": "-",
+        "title": "German"
+      },
+      {
+        "subtitle": "-",
+        "title": "Italian"
+      }
+    ],
+    "followers": 2914,
+    "connections": 500,
+    "projects": [
+      {
+        "title": "Geometry-Aware Positional Embeddings for 3D Object Reconstruction",
+        "start_date": "Apr 2026",
+        "description": "We developed a geometry-aware Transformer pipeline for reconstructing 3D objects from sparse 2D views.Most 2D-to-3D reconstruction systems treat image patches mainly as visual tokens with 2D positional information. Our project studied whether adding explicit camera geometry helps a Transformer reason about how those patches correspond to 3D space. We compared standard 2D positional embeddings, learned View-ID embeddings, camera-pose embeddings, and ray-aware embeddings while keeping the encoder, fusion module, decoder, dataset, and evaluation protocol fixed.Our strongest model augmented each ViT patch token with the camera origin and per-patch viewing ray before multi-view Transformer fusion. This let the model treat each patch as a camera-grounded 3D observation rather than just a location in an image grid.We evaluated on a controlled ShapeNetCore subset of approximately 2,000 objects across K={1,2,4,8,16} input views, predicting 2,048-point surface point clouds and measuring Chamfer Distance and F-score. Geometry-aware embeddings achieved the best performance across all view counts, with the largest gains in sparse-view settings: 17% lower Chamfer error at K=1 and 22% lower Chamfer error at K=2 compared to the 2D positional baseline."
+      },
+      {
+        "title": "From Text to Torque: Improving RL Tracking of Text-Generated Humanoid Motions",
+        "start_date": "Mar 2026",
+        "description": "Text-conditioned motion generators can synthesize plausible humanoid trajectories, but these kinematic references may not be dynamically feasible for torque-controlled robots. We study this gap using KimoLab, which connects Kimodo text-generated Unitree G1 motions to MuJoCo Warp PPO tracking.Across walking, waving, tapping the head, squatting, and harder generated prompts, we find that termination design strongly affects whether PPO observes enough of the reference to learn stable tracking. Gesture-like motions and walking remain learnable under strict termination, but one squat reference seed collapses to short episodes under default strict thresholds.A gradual termination curriculum localizes the failure boundary, and direct calibrated-threshold training recovers full-horizon squat tracking from scratch. Adaptive threshold calibration selects the successful threshold automatically, while simple reference smoothing and initial-pose holds do not rescue strict training."
+      },
+      null,
+      {
+        "title": "Language Learning as a Sequential Decision-Making Problem",
+        "start_date": "Jan 2026",
+        "description": "Built an adaptive language tutoring system that frames exercise selection as a partially observable Markov decision process (POMDP). Using the Duolingo SLAM dataset with ~4.8M token-level interactions, we calibrated a simulated learner through maximum likelihood estimation of an item response theory model, then trained and compared six tutoring policies: PPO, DQN, MPC, LinUCB, curriculum-based sequencing, and random baselines.Our best model using PPO achieved the strongest cost-adjusted reward by dynamically balancing cheap practice modules with more expensive, higher-effectiveness exercises. Model predictive control matched PPO\u2019s final proficiency but required higher cost, showing that long-horizon planning improves adaptive tutoring decisions over myopic or hand-designed curricula."
+      },
+      {
+        "title": "Pi Invaders",
+        "start_date": "Mar 2025",
+        "description": "A ground\u2011up re\u2011creation of Space Invaders that runs on a 1 GHz RISC\u2011V Mango Pi without an OS.Derek, Zach and I integrate low-level libraries relating to GPIO, UART, I\u00b2C, PCM, DMA, I\u00b2S, SPI and more to enable users to shoot using microphone input, move the spaceship in real time through an accelerometer and hear audio play as aliens get destroyed. The game loop is kept responsive in real-time through interrupt\u2011driven, lock\u2011free queues. The result is an arcade\u2011style game with multimodal inputs driven entirely by low\u2011level C and direct register pokes."
+      },
+      null,
+      null,
+      {
+        "title": "MatchaVibe - AI-Enhanced Zoom Meetings and Guided Meditation",
+        "start_date": "Feb 2025",
+        "description": "At TreeHacks 2025, my team and I built MatchaVibe, a real-time engagement platform that transforms Zoom meetings into dynamic, emotionally responsive experiences. Inspired by the philosophy of ichi-go ichi-e (one time, one meeting), we focused on making remote conversations more meaningful and immersive. We integrated Zoom\u2019s API with multimodal AI models Groq, OpenAI, Gemini, and ElevenLabs to analyze live speech, gestures, and sentiment. The system responds with a personalized AI avatar and dynamic meeting environments powered by Luma AI. Our backend tracked user attention, mood, and behavior to adapt the tone and atmosphere of the meeting in real time."
+      },
+      {
+        "title": "Trumpet Controlled Nerf Turret",
+        "start_date": "Nov 2024",
+        "description": "Chisa and I built a real-time, audio-responsive turret system that rotates and fires a Nerf gun based on trumpet notes. We integrated a Raspberry Pi 5 with a stepper motor and solenoid actuator, processing microphone input using FFT to detect specific frequencies. Each note triggered a unique hardware action, rotating the turret clockwise, counterclockwise, or firing. The project involved low-level GPIO programming with lgpio, mechanical integration using 3D-printed parts, and real-time audio signal processing in Python."
+      }
+    ],
+    "location": "Stanford",
+    "input_url": "https://www.linkedin.com/in/kkuzey",
+    "linkedin_id": "kkuzey",
+    "activity": null,
+    "linkedin_num_id": "730881429",
+    "banner_image": "https://media.licdn.com/dms/image/v2/D4D16AQHg9FX5Ris8ag/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1723937468045?e=2147483647&v=beta&t=Q2_0GldozX_ilXQzyn0G2DSFoxLNF8GVJLhiUPIKS_g",
+    "honors_and_awards": null,
+    "similar_profiles": [],
+    "default_avatar": false,
+    "memorialized_account": false,
+    "bio_links": [],
+    "first_name": "Kuzey",
+    "last_name": "Kantarcioglu",
+    "influencer": false,
+    "timestamp": "2026-08-12T19:11:46.176Z",
+    "input": {
+      "url": "https://www.linkedin.com/in/kkuzey"
+    }
+  },
+  "local_photo": "data\\linkedin_photos\\kkuzey__usr-y61X1Uig4gwNmzR.jpg"
+}

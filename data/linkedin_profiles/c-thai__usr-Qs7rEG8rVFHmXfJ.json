@@ -1,0 +1,86 @@
+{
+  "luma_user_id": "usr-Qs7rEG8rVFHmXfJ",
+  "csv_name": "Christopher Thai",
+  "csv_linkedin": "https://www.linkedin.com/in/c-thai",
+  "enriched_at": "2026-08-12T18:59:59.571916+00:00",
+  "batch_id": "sd_msqgcuh41lygyhc91a",
+  "profile": {
+    "id": "c-thai",
+    "name": "Christopher Thai",
+    "city": "Sacramento, California, United States",
+    "country_code": "US",
+    "position": null,
+    "about": "c.thai@yale.edu chrthai@ucdavis.edu",
+    "current_company": {
+      "link": "https://www.linkedin.com/school/uc-davis/?trk=public_profile_topcard-current-company",
+      "name": "University of California, Davis",
+      "location": null
+    },
+    "experience": null,
+    "url": "https://ca.linkedin.com/in/c-thai",
+    "educations_details": "Yale University",
+    "education": [
+      {
+        "title": "Yale University",
+        "url": "https://www.linkedin.com/school/yale-university/",
+        "start_year": "2026",
+        "end_year": "2030",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      },
+      {
+        "start_year": "2022",
+        "end_year": "2026",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      }
+    ],
+    "avatar": "https://media.licdn.com/dms/image/v2/D5603AQGQhOK-Pn75ew/profile-displayphoto-scale_200_200/B56Z9ARVZDIQAc-/0/1783489714260?e=2147483647&v=beta&t=rvLyKOGPoCbB3iy2HP4-CuDdnDIZ9cr8dPDCm7KHJI0",
+    "followers": 97,
+    "connections": 96,
+    "current_company_name": "University of California, Davis",
+    "location": "Sacramento",
+    "input_url": "https://www.linkedin.com/in/c-thai",
+    "linkedin_id": "c-thai",
+    "activity": [
+      {
+        "interaction": "Liked by Christopher Thai",
+        "link": "https://www.linkedin.com/posts/vivianhliu_had-an-awesome-time-at-y-combinator-startup-activity-7488266191086649344-Rocj",
+        "title": "Had an awesome time at Y Combinator Startup School this weekend, especially getting to spend it with girls I admire and look up to, Srishti Boral\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQH7uM9lU1IR-g/feedshare-shrink_800/B56Z.uqahvGcAg-/0/1785341783572?e=2147483647&v=beta&t=nmBSwxiSPdpvsCEG9795H4GVrrI9WkvHZZPmQyqr4fE",
+        "id": "7488266191086649344"
+      },
+      {
+        "interaction": "Liked by Christopher Thai",
+        "link": "https://www.linkedin.com/posts/inderpreetsinghucla_im-thrilled-to-announce-that-i-will-be-interning-activity-7467820592910548992-h_WW",
+        "title": "I\u2019m thrilled to announce that I will be interning at Tesla on the Plastics team this Fall Quarter and at SpaceX on the Starship Structures Test team\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQFIKh9wUYnnZg/feedshare-shrink_800/B56Z6MHQcaGkAc-/0/1780467173387?e=2147483647&v=beta&t=W9s1TkQBdKewxUN56ngCQd_YHyCCWSiwsrqjTLAaJbo",
+        "id": "7467820592910548992"
+      }
+    ],
+    "linkedin_num_id": "1330214730",
+    "banner_image": "https://media.licdn.com/dms/image/v2/D5616AQHyZa5K37Fucw/profile-displaybackgroundimage-shrink_200_800/B56Z6B6HmdKMAY-/0/1780295957296?e=2147483647&v=beta&t=zb-ZgcjLfbsxgmyROALCbQg9769l1ZlYeVgAG9SlIzQ",
+    "honors_and_awards": [
+      {
+        "title": "NASA Space Apps Challenge",
+        "publication": "NASA",
+        "date": "2024-10-01T00:00:00.000Z",
+        "description": "1st Place & Global Nominee"
+      }
+    ],
+    "similar_profiles": [],
+    "default_avatar": false,
+    "memorialized_account": false,
+    "bio_links": [],
+    "first_name": "Christopher",
+    "last_name": "Thai",
+    "influencer": false,
+    "timestamp": "2026-08-12T18:58:37.758Z",
+    "input": {
+      "url": "https://www.linkedin.com/in/c-thai"
+    }
+  },
+  "local_photo": "data\\linkedin_photos\\c-thai__usr-Qs7rEG8rVFHmXfJ.jpg"
+}

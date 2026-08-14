@@ -1,0 +1,256 @@
+{
+  "luma_user_id": "usr-Bz7PK5KLYKUco5o",
+  "csv_name": "Ka\u2019ren Mkrtchyan",
+  "csv_linkedin": "https://www.linkedin.com/in/karenmkr",
+  "enriched_at": "2026-08-12T19:11:36.244777+00:00",
+  "batch_id": "sd_msqgoa0o2hh62sia9d",
+  "profile": {
+    "id": "karenmkr",
+    "name": "Ka'ren Mkrtchyan",
+    "city": "Los Angeles Metropolitan Area",
+    "country_code": "US",
+    "position": null,
+    "about": null,
+    "current_company": {
+      "link": "https://www.linkedin.com/company/spacex?trk=public_profile_topcard-current-company",
+      "name": "SpaceX",
+      "company_id": "spacex",
+      "location": null
+    },
+    "experience": null,
+    "url": "https://it.linkedin.com/in/Karenmkr",
+    "educations_details": "University of Southern California",
+    "education": [
+      {
+        "title": "University of Southern California",
+        "url": "https://www.linkedin.com/school/university-of-southern-california/",
+        "end_year": "2027-12",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      },
+      {
+        "end_year": "2027-12",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      },
+      {
+        "end_year": "2023-07",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      }
+    ],
+    "avatar": "https://media.licdn.com/dms/image/v2/D5603AQEQRsQTS-bsHw/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1728849103957?e=2147483647&v=beta&t=soJwPaldKLqwyulEAxsOiOLIaYavZLF_t0tKK-J8Hns",
+    "certifications": [
+      {
+        "meta": "Issued Jun 2025 Credential ID too broke to buy ...",
+        "subtitle": "Harvard University",
+        "title": "CS50 Cult (CS50, CS50AI, CS50SQL)",
+        "credential_url": null,
+        "credential_id": "too broke to buy ..."
+      },
+      {
+        "meta": "Issued May 2025 Expires May 2028 Credential ID 69691605 See credential",
+        "subtitle": "CITI Program",
+        "title": "Biomedical Human Subjects",
+        "credential_url": "https://www.citiprogram.org/verify/?wad313c80-4bb8-44b9-8c03-bc987393354c-69691605&trk=public_profile_see-credential",
+        "credential_id": "69691605"
+      },
+      {
+        "meta": "Issued May 2025 Expires May 2028 Credential ID 69691606 See credential",
+        "subtitle": "CITI Program",
+        "title": "Research HIPAA",
+        "credential_url": "https://www.citiprogram.org/verify/?wcc2984f3-f8d5-4379-a404-62a3c571721f-69691606&trk=public_profile_see-credential",
+        "credential_id": "69691606"
+      }
+    ],
+    "volunteer_experience": [
+      {
+        "duration": "Sep 2024 \u00b7 - Present \u00b7 \n\n2 years",
+        "duration_short": "- Present",
+        "info": "Founding board member",
+        "start_date": "Sep 2024",
+        "subtitle": "Armenian Engineers & Scientists Association",
+        "title": "Events chair"
+      },
+      {
+        "duration": "Sep 2022 \u00b7 - \nJun 2023 \u00b7 \n10 months",
+        "duration_short": "- \nJun 2023",
+        "start_date": "Sep 2022",
+        "subtitle": "FIRST",
+        "title": "Engineering Lead at team 696"
+      }
+    ],
+    "followers": 729,
+    "connections": 500,
+    "current_company_company_id": "spacex",
+    "current_company_name": "SpaceX",
+    "publications": [
+      {
+        "title": "Mechanistic Analysis Of Universality: Numerical Comparison Circuits Across Transformer Architectures",
+        "subtitle": "ICLR",
+        "date": "March 18, 2026",
+        "description": "We study the internal circuit structures of pretrained transformers on numerical comparison tasks and whether these circuits are universal across models of different families and size."
+      },
+      {
+        "title": "Elimination LArTPC Simulation Uncertainty With Modifcations to TPC Wire Waveforms",
+        "subtitle": "iNSPIRE",
+        "date": "September 11, 2024",
+        "description": "This paper introduces a novel approach to reducing systematic uncertainties in LArTPC detector simulations, which arise from known detector effects that are challenging and computationally intensive to model. The proposed method involves modifying simulated waveforms based on observed discrepancies in ionization signals from the TPC between actual data and simulations. This approach reduces the sensitivity to detailed detector modeling and decreases the computational resources required for accurate simulations."
+      }
+    ],
+    "location": null,
+    "input_url": "https://www.linkedin.com/in/karenmkr",
+    "linkedin_id": "karenmkr",
+    "activity": [
+      {
+        "interaction": "Ka'ren Mkrtchyan shared this",
+        "link": "https://www.linkedin.com/posts/karenmkr_summit-won-audience-choice-at-troylabs-pitch-activity-7477401751894261760-CSwY",
+        "title": "Summit won audience choice at TroyLabs pitch night \ud83c\udfd4\ufe0f\ud83c\udfd4\ufe0f I keep thinking about how unlikely that sentence sounded a semester ago. I first met my co-founders Lucas Rival and Joseph Choi at USC's incubator LavaLab , where we spent nine weeks getting humbled. We pivoted more than any other team in the cohort. We found the idea for Summit after I tried to find my dad's business by asking ChatGPT for the best contractors. His story and his company weren't showing up in the fastest growing sales platform. We came back from spring break with two weeks left before demo day, and our pitch was so scrappy that we were almost blocked from the stage. The number of late nights and Red Bulls we went through... but it worked. We pitched, landed our first paying customer, and left LavaLab with something real. The following semester we got into Troylabs, USC's premier startup accelerator. The accelerator was a different game. We grew the team, got more chances to pitch in front of people who write actual checks, and Summit started feeling less like a project and more like a company. A huge part of that was the cracked TroyLabs people who joined us: Jennifer Zhang , Mihika Deshmukh, Matthew Wong , Carter Davis , Melanie Lee , Bryan Ramirez-Gonzalez , Maia Rocha , Dilen Kakar , and Mandy Guo . Nine people who bet on the future of marketing and made it real. Then pitch night came, and we walked away with the win. The check that came with it was technically the first money Summit has ever raised. We're now at 10x the monthly revenue we left LavaLab with. Our habit of pivoting never stopped, so we are still shipping new features. Couldn't have asked for better co-founders, teammates, and mentors!",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQH5AvGZTfU17A/feedshare-image-high-res/B56Z7_9lL8G4AU-/0/1782410794651?e=2147483647&v=beta&t=qfTG_ansWfGtYN9wRAiw2WLGKQSdR5KbHBqUMzIINhY",
+        "id": "7477401751894261760"
+      },
+      {
+        "interaction": "Ka'ren Mkrtchyan shared this",
+        "link": "https://www.linkedin.com/posts/karenmkr_mechanistic-analysis-of-universality-numerical-activity-7456573126278127616-AGEr",
+        "title": "Spent the last few days at ICLR 2026 in Rio \ud83c\udde7\ud83c\uddf7 We asked: when different LLMs learn the same task, do they solve it the same way internally? Spoiler: no. Qwen models use tight, localized circuits. Llama and Gemma distribute the same computation across way more components. The deeper takeaway: we're building increasingly powerful systems and still barely know what's happening inside them. Mech interp is one of the more honest attempts to fix that. Grateful to my co-authors Arya Bhardia , Julian Ramirez , and Syd Verma ! Paper: https://lnkd.in/ggKqPWKS see y'all at ACL \ud83d\udc4b",
+        "img": null,
+        "id": "7456573126278127616"
+      },
+      {
+        "interaction": null,
+        "link": "https://www.linkedin.com/posts/davit-kharatyan-6395a4198_gmw2026-smartmoneytalks-financialeducation-activity-7440375482111381504-Ukiv",
+        "title": "Global Money Week 2026 is in full swing in Armenia \ud83c\udde6\ud83c\uddf2 Great to see the initiative gaining strong visibility across different channels including national TV. Today, Armenuhi Mkrtchyan and Araks Manucharyan joined the \u201cAravot Luso\u201d program on Armenian Public TV to present the key messages and upcoming activities of the week. Proud to be part of the team driving this nationwide effort to make financial education more visible, accessible, and engaging. #GMW2026 #SmartMoneyTalks #FinancialEducation #Armenia",
+        "img": "https://media.licdn.com/dms/image/v2/D4D22AQEDxUxnuN3FHg/feedshare-image-high-res/B4DZ0GGEr5GoAc-/0/1773923748981?e=2147483647&v=beta&t=yBbWKJ1rpwyvh8BljKWLVp_Z77s3Ugi2Qsciyr8XWrI",
+        "id": "7440375482111381504"
+      },
+      {
+        "interaction": "Ka'ren Mkrtchyan shared this",
+        "link": "https://www.linkedin.com/posts/karenmkr_whats-the-best-way-to-write-a-linkedin-activity-7409683342570397696-uod6",
+        "title": "\u201cWhat\u2019s the best way to write a LinkedIn post?\u201d I asked ChatGPT. But while some of us are asking AI for writing advice, millions are asking it for best meal delivery services, astrology apps, or healthy sour candies. As AI becomes the new gateway to discovery, traditional SEO is fading. Companies now need new tools to keep their products on the top shelf of AI-generated responses. That's why we are building Summit through USC's premier incubator, LavaLab . Summit gives users the insights and actions they need to thrive in the age of AI search. Huge thanks to my teammates Joseph Choi , Lucas Rival , and Mohamed Amir Mamoon for all your hard work and great memories; our mentors Charles Gao , Bodie Currier , Xinyue Ma , and Rakshith Thuraga for all your energy and expertise; and the LavaLab E-board for making this semester exceptional. Last week we had the opportunity to pitch our product to 200+ attendees and three judges: Alex Leiman , Baylor Adams , and James Carlin . Now we are polishing our product, adding new features, and onboarding our first clients.",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQF47vXhcoqIOg/feedshare-shrink_800/B56ZtR7udBJoAg-/0/1766606171132?e=2147483647&v=beta&t=QyMROW5nG63IqB62uL30h5keBmVChCOg0s6oG4KzR5A",
+        "id": "7409683342570397696"
+      },
+      {
+        "interaction": "Ka'ren Mkrtchyan shared this",
+        "link": "https://www.linkedin.com/posts/karenmkr_thank-you-bodie-currier-and-our-other-exceptional-activity-7402938230288875520-j6EN",
+        "title": "Thank you Bodie Currier , and our other exceptional mentors Xinyue Ma , Charles Gao , Rakshith Thuraga for bringing your experience, energy, and passion into our team! Grateful to work with greatest PM Lucas Rival , toughest designer Joseph Choi , and most cracked dev Mohamed Amir Mamoon on Summit.",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQF09Td3ZGbP3A/feedshare-shrink_800/B56ZrwsWweIYAg-/0/1764974751563?e=2147483647&v=beta&t=jfYWnx9WRht8QSpfEmg2caYglVP4T23gY_WVabMWKFA",
+        "id": "7402938230288875520"
+      },
+      {
+        "interaction": null,
+        "link": "https://www.linkedin.com/posts/usclavalab_make-the-most-of-your-college-friends-because-activity-7389348043629899776-gV0D",
+        "title": "Make the most of your college friends, because you might be stuck with them for a while. At least, that\u2019s what the brilliant Steve Johnson (Head of design @ Netflix ) told us today during his unforgettable visit to LavaLab . But taking advantage of college years wasn\u2019t the only wisdom that Steve shared as he dutifully answered a barrage of questions. Here are my top 3 takeaways: 1. Storytelling is your delta. When asked about how to stand out in today\u2019s market, it wasn't any hard skill, but persuasion. If you can clearly articulate your vision and captivate an audience, you become invincible. This is what distinguishes great leaders and designers in today's market. Don't just do the work -- sell the vision. 2. Risky business is good business. Impactful achievements are made through bold action, not repeating old successes. You need to adopt a risk mindset and be willing to fail early and often, especially during your college years. It's cheesy but true: if you want a shot at breaking through the noise \u2014 both as a person and a company \u2014 you have to put something on the line. 3. Birds of a feather stick together. Steve described how throughout his career he has surrounded himself with the same friends and co-workers that drive success in every role. You will probably meet you lifelong co-workers and co-founders in college, if not right after. The most valuable thing you gain from college is the people you meet, so never stop meeting people. At Lavalab we share the very same belief in the importance of finding your co-founders in college. We couldn't be more thankful for your time and wisdom today, Steve Johnson !",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQEszMnD_1WYMg/feedshare-image-high-res/B56ZovIppiG4Ao-/0/1761727390599?e=2147483647&v=beta&t=IcWSHStdEpykxyp60LTRWcUsSlfREvcyXbqmVHgK710",
+        "id": "7389348043629899776"
+      },
+      {
+        "interaction": "Ka'ren Mkrtchyan shared this",
+        "link": "https://www.linkedin.com/posts/karenmkr_nothing-like-watching-a-bot-we-coded-in-a-activity-7318051208353460224-XpBq",
+        "title": "Nothing like watching a bot we coded in a day make 400 on bitcoin. Great pleasure working with the Gary team!",
+        "img": "https://media.licdn.com/dms/image/v2/D4D22AQEP92ia_vZV6A/feedshare-shrink_800/B4DZY7OuecHsAg-/0/1744750438910?e=2147483647&v=beta&t=1_lX6cNpZodQWyS6kd05wLIRXeuoRpDKAEUca6069Bs",
+        "id": "7318051208353460224"
+      },
+      {
+        "interaction": "Ka'ren Mkrtchyan shared this",
+        "link": "https://www.linkedin.com/posts/karenmkr_calhacks11-activity-7253920017090543616-3IgK",
+        "title": "I am excited to announce RoadSpice, an AI travel companion I developed with Robert Garabetian and Andre Matevosyan during #Calhacks11 hackathon. RoadSpice uses Google Maps, Gemini, and user preferences to construct the perfect road trip. Check it out at: https://lnkd.in/gb_2Xhrp",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQGZ_XkZX72gTw/feedshare-shrink_800/feedshare-shrink_800/0/1729469302183?e=2147483647&v=beta&t=w4nm7dM6hc3jqv_SHP1qF9CtwRvODJtVy0ANfqv06N4",
+        "id": "7253920017090543616"
+      },
+      {
+        "interaction": "Ka'ren Mkrtchyan shared this",
+        "link": "https://www.linkedin.com/posts/karenmkr_most-work-and-fun-i-ever-put-into-a-single-activity-6927404141623267328-GXIJ",
+        "title": "Most work and fun I ever put into a single project. Really proud of the entire team and can't wait for what more we will accomplish",
+        "img": "https://media.licdn.com/dms/image/v2/C5622AQHWaMtWaT_FwA/feedshare-shrink_800/feedshare-shrink_800/0/1649290146569?e=2147483647&v=beta&t=gY2q1IaJmskp6hEQTIbOtmyNF0LwU0ZjxRo-omp0QwM",
+        "id": "6927404141623267328"
+      },
+      {
+        "interaction": "Ka'ren Mkrtchyan commented on a post 3w",
+        "link": "https://www.linkedin.com/posts/hiyk-pogosyan-1b985a303_great-meeting-everyone-activity-7483676511149907968-gT6A",
+        "title": "Holy linkedin IPO",
+        "img": null,
+        "id": "7483676511149907968"
+      },
+      {
+        "interaction": "Ka'ren Mkrtchyan liked this",
+        "link": "https://www.linkedin.com/posts/liam-beaubien_i-just-wrapped-up-my-summer-internship-at-activity-7491998274879385600-geE-",
+        "title": "I just wrapped up my summer internship at Shield AI as an Advanced Manufacturing Engineering Intern on X-Bat! \u2708\ufe0f I got the opportunity to work in an incredibly fast-paced engineering environment and gain experience across much more than just manufacturing. I was able to work on DFM and manufacturing readiness, prototype builds, installation sequencing, GD&T and drawing reviews, tooling, process development, and cross-functional problem solving between design and manufacturing for multiple subsystems. One of my biggest takeaways from this summer was getting to experience engineering in a startup environment. I really enjoyed being able to work across so many different areas, learn new systems quickly, and see how designs move from CAD and early prototypes toward hardware that can actually be built and integrated. A huge thank you to Daniel King , Cesar Daou , and the entire Manufacturing team for all of the mentorship and time spent teaching me throughout the summer. Thank you as well to Aurelien Stamper and Jae Jung and for giving me the opportunity to join the team, and to all of the other interns I got to work alongside and learn from. I learned a ton during my time at Shield AI and am very grateful for the experience and everyone I got to work with!",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQEkqU6XM0fuXA/feedshare-shrink_800/B56Z_jsuOOGcAc-/0/1786231581172?e=2147483647&v=beta&t=mk35-VhXfe_nbFCktUieiGhnfuQ_LJNgQMhOw6TUm3k",
+        "id": "7491998274879385600"
+      },
+      {
+        "interaction": "Ka'ren Mkrtchyan liked this",
+        "link": "https://www.linkedin.com/posts/friedman-ari_early-careers-anduril-activity-7491523641763913728-qENN",
+        "title": "\ud83d\udd25 Anduril 2027 Summer Internship Postings are LIVE! \ud83d\udd25 #recruitingszn at Anduril Industries has officially kicked off!! \ud83d\ude80 Are you ready to take what you\u2019ve learned in the classroom and deploy it onto mission-critical, real-world technology? At Anduril, you will work on high-impact projects, write code that gets deployed to the field, and help design hardware that solves some of the toughest national security challenges of our time. We are opening applications for our priority engineering pipelines: \ud83d\udcbb Software Engineering \ud83d\udee0\ufe0f Mechanical Engineering \ud83d\udd0cElectrical Engineering \u2699\ufe0f Manufacturing Engineering \ud83d\udcca Beyond Engineering: We are also gearing up to launch internships in Business, Operations, Finance, and other critical areas. Be sure to bookmark our careers page and check back soon as these roles go live! \u2728Our locations include Costa Mesa, Atlanta, Seattle, Boston, Reston, Fort Collins, and many more. We want to hear from you if: \ud83d\udc49\ud83c\udffb You are deeply passionate about defense tech and aligned with our mission. \ud83d\udc49\ud83c\udffb You can demonstrate your \"hunger to build\"\u2014 whether that\u2019s through personal projects, hackathons, robotics clubs, or backyard engineering. Stop studying the future. Come build it with us. Ready to take the leap? Check out the comments section on this post for the open roles. We\u2019ll be reviewing applications on a rolling basis. A member of the recruiting team will reach out directly if there is a potential fit. Check out our early careers site for more information about our internship program: https://lnkd.in/g9MR2gP9 #Anduril #DefenseTech #EngineeringInternships #SoftwareEngineering #HardwareEngineering #TechJobs #EarlyCareer",
+        "img": "https://media.licdn.com/dms/image/sync/v2/D4E27AQHkITFCtFywvA/articleshare-shrink_800/B56Z5ULSk5GoAQ-/0/1779528708742?e=2147483647&v=beta&t=SHzwCnKRAzbn9ofOq0WWs8ce-VYFJSIYMV719L3QcDc",
+        "id": "7491523641763913728"
+      },
+      {
+        "interaction": "Ka'ren Mkrtchyan liked this",
+        "link": "https://www.linkedin.com/posts/whitney-kamena-8540a32a8_rocketbootcamphereicome-spacex-aerospaceengineering-activity-7491164945343160320-Fzwo",
+        "title": "Before I ever worked on propulsion hardware, I hid in my car during lunch breaks to watch Starship launches on my phone. At the time, I was working long nights waiting tables, taking classes at Dallas College , and trying to save enough money to keep moving toward an engineering degree. On launch days, I would duck into my tiny car, pull up Tim Dodd Everyday Astronaut livestream, and watch SpaceX send another rocket into the sky. I remember wondering what it must feel like to be part of something so transcendent. Those launches were more than something interesting to watch. They gave me a picture of the kind of work I wanted to spend my life pursuing. They fueled the stubborn part of me that refused to stop, even when college felt financially out of reach and the path into aerospace seemed impossibly far away. Today, I am incredibly proud and grateful to share that I will be spending Fall 2026 at SpaceX as an Engineering Intern with the Build Reliability team within Booster Propulsion Systems at Starbase. It is difficult to put into words what this opportunity means to the version of me sitting in that car. This is not a finish line, and I am not arriving as a finished engineer. I have been given the opportunity to spend a semester learning from an extraordinary team and doing what I love most: working closely with hardware, contributing wherever I can, and continuing to build the engineer I plan to become. To my husband, my family, and every professor, mentor, teammate, and friend who helped me keep going, thank you. I did not make it here alone, and I will never forget the people who helped me believe this was possible. I am proud of that girl years ago who refused to give up, grateful for everyone who helped her keep moving, and I'm ready to learn everything I can. See you soon, Starbase. \ud83d\ude80 #RocketBootCampHereICome #SpaceX #AerospaceEngineering #Propulsion #Engineering #Internship #Starship Special thanks to these mentors: Andrew Hays Navid Mansoory Julio C\u00e9sar Benavides Lauren Savage Jorge Levario L Herrera Jason Perez Jos\u00e9 Gra\u00f1a-Otero Frank K. Lu Nik Cooper Liwei Zhang Sandy Barker Gautam Nandakumar Thank you to to Rachel Whipple for giving me the opportunity to work on her incredible team. And thank you to Isabelle Lee and Christina Knighton for such a smooth onboarding process! The University of Texas at Arlington UT Arlington Mechanical and Aerospace Engineering UT Arlington College of Engineering AIAA UT Arlington AIAA",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQET69_ykgrekg/feedshare-shrink_1280/B56Z_UyJq9KEAM-/0/1785981344737?e=2147483647&v=beta&t=bqoYMV5zWQyZ5ACGLeeu724SbfzjDsragTRquVAwgFQ",
+        "id": "7491164945343160320"
+      },
+      {
+        "interaction": "Ka'ren Mkrtchyan liked this",
+        "link": "https://www.linkedin.com/posts/ben-berry-93a5598_updated-pitch-reel-for-skyweaver-the-solution-activity-7490391698011955200-T0J7",
+        "title": "Updated pitch reel for Skyweaver: The solution for scalable heavy lift that turns a hardware problem into a software problem! Skyweaver DARPA Lift Challenge",
+        "img": "https://dms.licdn.com/playlist/vid/v2/D5605AQFB_2jACMkoPg/thumbnail-shrink_720_1280/B56Z_M3g01KEAg-/0/1785848534534?e=2147483647&v=beta&t=-PqnyDhtKdy6hEAGDWwHu0qg6b0ZyawSk9RjciLnSPA",
+        "id": "7490391698011955200"
+      },
+      {
+        "interaction": "Ka'ren Mkrtchyan liked this",
+        "link": "https://www.linkedin.com/posts/mblingo_waymo-roles-referral-opportunities-us-activity-7486072099984474112-Hzzw",
+        "title": "Waymo Roles Referral Opportunities! \ud83d\udccd U.S. | Full-time & Summer 2027 Internships | New Grad Roles & Internships If you\u2019re interested in working in autonomous vehicles, AI, robotics, or tech, there are some great openings right now. Check out the open roles here: https://lnkd.in/e2XgnbDz Looking for a referral? \u2714\ufe0f Like this post + comment waymo \u2714\ufe0f Follow me for more curated opportunities and job resources Students looking for opportunities, check out Starteryou . Always happy to help people break into great companies. \ud83d\ude80",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQEyXh5C4bEsdA/feedshare-shrink_1280/B4EZ.LkoBDKQAM-/0/1784753062271?e=2147483647&v=beta&t=-qOL8DRL6IF5Op4B9QyB4YsPZNyBZEgdfl7XOXnsvBc",
+        "id": "7486072099984474112"
+      },
+      {
+        "interaction": "Ka'ren Mkrtchyan liked this",
+        "link": "https://www.linkedin.com/posts/deep-origin_rd-innovation-internship-deep-origin-activity-7488576543712223232-WE7O",
+        "title": "We're taking on a new group of R&D interns at our Yerevan office this September, and we'd love for you to apply! Six months, paid, part-time, onsite. We'll get to the requirements \u2014 but first, the part that's more fun to talk about: what you'd actually be working on (yes, we expect interns to do real, meaningful work). Deep Origin builds computational drug discovery infrastructure. AI, scientific computing, and quantum chemistry, all pointed at the same stubborn problem: discovery programs run for years, and most of them fail anyway. We're trying to get that down to months. It's a big goal, and we're not shy about saying it's hard. A few programs and product areas we're proud of: \ud83e\uddea Advanced Research + Invention Agency (ARIA) picked us \u2014 together with Arctoris \u2014 for its AI Scientist program. That's an autonomous research agent working on endometriosis, a condition affecting roughly 190 million people that still has no approved disease-modifying drug. And the agent does its thinking out loud: 10,539 papers pulled into an evidence lake, 323 candidate targets extracted, eventually narrowed to 3. The dead ends get published too, which is the part we like most. \ud83e\uddea We're building predictive ADME-Tox models through the Advanced Research Projects Agency for Health (ARPA-H) Catalyst program. \ud83e\uddea And we're building a platform for the future of drug discovery. Balto, DO Patent, and DO Studio are all live and free to try. Feel free to poke around before you apply, it's a great way to quickly explore the problem spaces we're working in. Here's how we think about internships: they are equally about learning and contributing. So you'll get a dedicated mentor, code review on everything you write, weekly seminars and tech talks from engineers and researchers across the company, and a genuine shot at co-authoring a paper. The projects are real ones, not busywork invented to keep you occupied. And for the people it works out with, there's a full-time offer at the end. To view the requirements and full job description check out the link below! https://lnkd.in/gDMffy-Y",
+        "img": "https://media.licdn.com/dms/image/sync/v2/D5627AQFZjGS1hcVR7A/articleshare-shrink_1280_800/B56Z.zEZEPKEAk-/0/1785415701822?e=2147483647&v=beta&t=DQL1Ut_Mvt3RRkxUYi5-IPvEOUXh0EBwqjl9LaJuxrI",
+        "id": "7488576543712223232"
+      },
+      {
+        "interaction": "Ka'ren Mkrtchyan liked this",
+        "link": "https://www.linkedin.com/posts/yuzunakudo_this-summer-i-had-the-incredible-opportunity-activity-7488403338485657600-etxd",
+        "title": "This summer, I had the incredible opportunity to participate in NASA - National Aeronautics and Space Administration \u2019s Student Airborne Research Program (SARP)! Over the course of the program, I flew aboard several NASA research aircraft, including the Langley G-III equipped with GCAS and AWP, the Langley G-V with HSRL-2, and the Armstrong G-III with UAVSAR. Seeing these instruments operate in the field was one of the highlights of the summer. I also participated in fieldwork around Galveston Bay, collecting data with the University of Houston\u2019s mobile air quality laboratory and research vessel and launching weather balloons equipped with radiosondes and ozonesondes. Another highlight was working with some of my peers to prepare and deliver a weather forecast briefing for SARP flight operations. This gave me a firsthand look at how meteorology, instrumentation, and mission planning come together during an airborne campaign. For my research project, I used airborne LiDAR observations from AWP and HALO to investigate mountain wave signatures in the atmosphere. This project introduced me to atmospheric dynamics from a remote sensing perspective and made me especially excited about the potential of airborne LiDAR to observe processes that may be difficult to fully resolve using models or satellites alone! SARP was incredibly impactful in helping me clarify the direction I hope to take in Earth science and remote sensing, but more than anything, I am grateful to my mentors, program staff, and everyone in SARP East and West who made this experience so meaningful. A special shout-out to my Atmosphere East group: Hannah Akel , Zayna Haider , Samantha (Sammy) Lee , Matthew Simpson , and Kiaya McCuin! Thank you to my faculty mentors, Mary Angelique G. Demetillo and Dan Goldberg , my graduate mentor, Leo Bloxham , and the AWP and HALO PIs, Kristopher Bedka and Amin Nehrir , for their guidance and support throughout my project. Finally, thank you to Cynthia Hall , Ya\u00edtza Luna-Cruz, Ph.D., Joelle Hopkins , ECR, and everyone who supported the program. I am incredibly thankful for this summer and so excited to carry these experiences forward!",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQFwfWODbsvK1g/feedshare-shrink_800/B4EZ.wnI5xKUAc-/0/1785374478732?e=2147483647&v=beta&t=trbUoiPUpKB77xYNUDTZV-C0bwSTbHC1Gfz7G9PwWvc",
+        "id": "7488403338485657600"
+      },
+      {
+        "interaction": "Ka'ren Mkrtchyan liked this",
+        "link": "https://www.linkedin.com/posts/ariatedjarati_if-you-want-to-see-your-electronics-land-activity-7488238517458784256-9WaO",
+        "title": "If you want to see your electronics land intact onboard a starship in the middle of the ocean and then continue to work for 12 hours send me your resume and portfolio because I\u2019m looking for winter & spring interns!",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQFuzMrGhaY5fA/feedshare-shrink_800/B56Z.uRQJLJgAc-/0/1785335186256?e=2147483647&v=beta&t=4tyyE4OJDWF-kyFR-yWcJgpdo-iFyR4n893pQkYYzsg",
+        "id": "7488238517458784256"
+      }
+    ],
+    "linkedin_num_id": "901520575",
+    "banner_image": "https://media.licdn.com/dms/image/v2/D5616AQEafTUVKcqPvw/profile-displaybackgroundimage-shrink_200_800/B56ZoojW31KwAU-/0/1761616952015?e=2147483647&v=beta&t=UVGeJmGuzZIGUrdgBwrQR48lvoqj0NrCH_eEuaVeAFY",
+    "honors_and_awards": null,
+    "similar_profiles": [],
+    "default_avatar": false,
+    "memorialized_account": false,
+    "bio_links": [
+      {
+        "title": "Personal Website",
+        "link": "https://karen-mkrtchyan.notion.site/hi-i-am-karen"
+      }
+    ],
+    "first_name": "Ka'ren",
+    "last_name": "Mkrtchyan",
+    "influencer": false,
+    "timestamp": "2026-08-12T19:07:31.506Z",
+    "input": {
+      "url": "https://www.linkedin.com/in/karenmkr"
+    }
+  },
+  "local_photo": "data\\linkedin_photos\\karenmkr__usr-Bz7PK5KLYKUco5o.jpg"
+}

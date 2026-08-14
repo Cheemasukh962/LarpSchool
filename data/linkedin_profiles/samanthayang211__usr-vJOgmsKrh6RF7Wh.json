@@ -1,0 +1,401 @@
+{
+  "luma_user_id": "usr-vJOgmsKrh6RF7Wh",
+  "csv_name": "Samantha Yang",
+  "csv_linkedin": "https://www.linkedin.com/in/samanthayang211",
+  "enriched_at": "2026-08-12T19:16:49.711616+00:00",
+  "batch_id": "sd_msqgxyk1xj7v4ip1",
+  "profile": {
+    "id": "samanthayang211",
+    "name": "Samantha Yang",
+    "city": "San Francisco Bay Area",
+    "country_code": "US",
+    "position": null,
+    "about": "Hiii, I'm Samantha \ud83d\udc4b The girl who collects ambassadorships like infinity stones \ud83d\udc8e \u2026",
+    "current_company": {
+      "link": "https://www.linkedin.com/company/insta360?trk=public_profile_topcard-current-company",
+      "name": "Insta360",
+      "company_id": "insta360",
+      "location": null
+    },
+    "experience": null,
+    "url": "https://ua.linkedin.com/in/samanthayang211",
+    "educations_details": "University of California, Berkeley",
+    "education": [
+      {
+        "title": "University of California, Berkeley",
+        "url": "https://www.linkedin.com/school/uc-berkeley/",
+        "start_year": "2023",
+        "end_year": "2027",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      },
+      {
+        "start_year": "2025-05",
+        "end_year": "2025-08",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      },
+      {
+        "start_year": "2019",
+        "end_year": "2023",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      }
+    ],
+    "avatar": "https://media.licdn.com/dms/image/v2/D4E03AQFV-ra3L-XkvA/profile-displayphoto-scale_200_200/B4EZewGaDrHsAY-/0/1751006161180?e=2147483647&v=beta&t=G22KU-waeQ8T6pqGTA_m52aEXMnk_ioInSilNJra0uA",
+    "courses": [
+      {
+        "subtitle": "ENGIN 183A",
+        "title": "A. Richard Newton Lecture Series"
+      },
+      {
+        "subtitle": "UGBA 159",
+        "title": "Becoming a Changemaker"
+      },
+      {
+        "subtitle": "PHYSICS 98BC",
+        "title": "Berkeley Connect"
+      },
+      {
+        "subtitle": "ENGIN 183B",
+        "title": "Berkeley Method of Entrepreneurship (BMoE) Bootcamp"
+      },
+      {
+        "subtitle": "MATH 1A",
+        "title": "Calculus I"
+      },
+      {
+        "subtitle": "MATH 1B",
+        "title": "Calculus II"
+      },
+      {
+        "subtitle": "SOCIOL 180E",
+        "title": "Comparative Perspectives on U.S. and European Societies: Education"
+      },
+      {
+        "subtitle": "CS 61B",
+        "title": "Data Structures"
+      },
+      {
+        "subtitle": "CS 70",
+        "title": "Discrete Mathematics and Probability Theory"
+      },
+      {
+        "subtitle": "UGBA 195A",
+        "title": "Entreprenuership"
+      },
+      {
+        "subtitle": "UGBA 102A",
+        "title": "Financial Accounting"
+      },
+      {
+        "subtitle": "UGBA 122",
+        "title": "Financial Information Analysis"
+      },
+      {
+        "subtitle": "DATA C8",
+        "title": "Foundations of Data Science"
+      },
+      {
+        "subtitle": "THEATER 10",
+        "title": "Fundamentals of Acting I"
+      },
+      {
+        "subtitle": "PSYCH N162",
+        "title": "Human Happiness"
+      },
+      {
+        "subtitle": "UGBA 120AA",
+        "title": "Intermediate Financial Accounting 1"
+      },
+      {
+        "subtitle": "CS 188",
+        "title": "Introduction to Artificial Intelligence"
+      },
+      {
+        "subtitle": "PSYCH N110",
+        "title": "Introduction to Biological Psychology"
+      },
+      {
+        "subtitle": "COGSCI 1",
+        "title": "Introduction to Cognitive Science"
+      },
+      {
+        "subtitle": "ASAMST 20A",
+        "title": "Introduction to the History of Asians in the United States"
+      },
+      {
+        "subtitle": "PSYCH C143/LINGUIS C146",
+        "title": "Language Acquisition"
+      },
+      {
+        "subtitle": "LINGUIS C142",
+        "title": "Language and Thought"
+      },
+      {
+        "subtitle": "UGBA 105",
+        "title": "Leading People"
+      },
+      {
+        "subtitle": "MATH 54",
+        "title": "Linear Algebra and Differential Equations"
+      },
+      {
+        "subtitle": "UGBA 102B",
+        "title": "Managerial Accounting"
+      },
+      {
+        "subtitle": "COGSCI 180",
+        "title": "Mind, Brain, and Identity"
+      },
+      {
+        "subtitle": "UGBA 135",
+        "title": "Personal Financial Management"
+      },
+      {
+        "subtitle": "DATA C100",
+        "title": "Principles & Techniques of Data Science"
+      },
+      {
+        "subtitle": "COGSCI 132",
+        "title": "Rhythms of the Brain: from Neuronal Communication to Function"
+      },
+      {
+        "subtitle": "SOCIOL 150",
+        "title": "Social Psychology"
+      },
+      {
+        "subtitle": "SOCIOL 111AC",
+        "title": "Sociology of the Family"
+      },
+      {
+        "subtitle": "ENGIN 183",
+        "title": "Special Topics in Technology Innovation and Entrepreneurship: Next Generation AI-assisted Product Development"
+      },
+      {
+        "subtitle": "CS 61A",
+        "title": "Structure and Interpretation of Computer Programs"
+      },
+      {
+        "subtitle": "CS10",
+        "title": "The Beauty and Joy of Computing"
+      },
+      {
+        "subtitle": "CS 160",
+        "title": "User Interface Design and Development"
+      }
+    ],
+    "languages": [
+      {
+        "subtitle": "Native or bilingual proficiency",
+        "title": "Cantonese"
+      },
+      {
+        "subtitle": "Limited working proficiency",
+        "title": "Mandarin"
+      },
+      {
+        "subtitle": "Professional working proficiency",
+        "title": "Taishanese"
+      },
+      {
+        "subtitle": "Native or bilingual proficiency",
+        "title": "English"
+      },
+      {
+        "subtitle": "Limited working proficiency",
+        "title": "Spanish"
+      }
+    ],
+    "certifications": [
+      {
+        "meta": "Issued Jun 2026 Credential ID 68befd6182ae04f2b70d9b5b See credential",
+        "subtitle": "Skeepers",
+        "title": "Skeepers Influencer Foundations - Certificate of Achievement",
+        "credential_url": "https://mycourse.app/bRTTY9Dk4Mm6Wk27Y?trk=public_profile_see-credential",
+        "credential_id": "68befd6182ae04f2b70d9b5b"
+      },
+      {
+        "meta": "Issued Aug 2025 Credential ID ot4dgx3hz6yu See credential",
+        "subtitle": "Anthropic",
+        "title": "Certificate of completion: AI Fluency for students",
+        "credential_url": "https://verify.skilljar.com/c/ot4dgx3hz6yu?trk=public_profile_see-credential",
+        "credential_id": "ot4dgx3hz6yu"
+      },
+      {
+        "meta": "Issued Aug 2025 See credential",
+        "subtitle": "IBM",
+        "title": "IBM Z Xplore - Concepts",
+        "credential_url": "https://www.credly.com/badges/25ad97fe-1835-4278-bbe4-1d9f40c44584/linked_in_profile?trk=public_profile_see-credential",
+        "credential_id": null
+      }
+    ],
+    "followers": 2718,
+    "connections": 500,
+    "current_company_company_id": "insta360",
+    "current_company_name": "Insta360",
+    "location": null,
+    "input_url": "https://www.linkedin.com/in/samanthayang211",
+    "linkedin_id": "samanthayang211",
+    "activity": [
+      {
+        "interaction": null,
+        "link": "https://www.linkedin.com/posts/peggy-wang-ai_things-have-been-a-little-quiet-since-we-activity-7480687603319603200-iKob",
+        "title": "Things have been a little quiet since we were heads down building but\u2026excited to finally announce the launch of SparkChat on the iOS App Store! Social media has become more media and less social. When I open up Facebook and Instagram, I don\u2019t see any of my friends on there anymore - it\u2019s one third ads, one third content from strangers, and one third AI slop. My friends are no longer on social media - I either meet up with them IRL or catch up with them in group chats. SparkChat is the social group chat app that actually helps you actually hang out with your friends. My college group chat kept a monthly dinner going for a decade, and we still spend two weeks every month going back and forth on finding a time and a restaurant. SparkChat fixes that. It uses AI and our group's social memory to find the best time and place for us to meet, based on everyone's schedules, locations, and food preferences. Then it books the reservation and adds it to our calendars. After a decade of apps built to keep us on our phones, I hope SparkChat helps us touch grass and see our friends more. Very grateful for our early investors and supporters, especially Y Combinator and our group partners Garry Tan and Christopher Golda . Y\u2019all are the best :) Plz try it out and send us any/all feedback! \ud83d\udc47",
+        "img": "https://media.licdn.com/dms/image/v2/D5605AQFACtbyX2QocA/videocover-high/B56Z9C9qkVHcBU-/0/1783534893391?e=2147483647&v=beta&t=G7DD68F5gjG39XssI0btYMcBcqhodjtn9T40zEMa-9E",
+        "id": "7480687603319603200"
+      },
+      {
+        "interaction": null,
+        "link": "https://www.linkedin.com/posts/angelinannguyen_claudeai-anthropic-hbsa-activity-7454388299487641600-5FHU",
+        "title": "HBSA and the Claude Ambassadors had the pleasure of bringing Claude\u2019s first hackathon of the semester. Our theme was \u201cLoving Grace\u201d an ode to Anthropic\u2019s mission to drive ethical AI use. Our contestants spent just four hours using Claude code to build projects that encapsulated this goal and they definitely delivered. Shout out to all the winners and contestants for all their hard work. Special thanks to guest speakers and judges David Bloom , Derek Wang , Jennifer Wang , and Paul Borowick for making this event possible. Along with Gyan Bhambhani , Marcus Wong , Samantha Yang , and the rest of the Haas Business Student Association (HBSA) team for helping us host this event as well as University of California, Berkeley, Haas School of Business and Berkeley Haas Entrepreneurship for providing us the venue, turnout was wonderful. #claudeAI #anthropic #HBSA #Hackwithclaude",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQGhhLcQpO1NgQ/feedshare-shrink_800/B4EZ3NOpx3JUAc-/0/1777264664260?e=2147483647&v=beta&t=Cobl_60bhaPnzyrOsMh9-xsPUYYO62Q5NOeUxXyxEGY",
+        "id": "7454388299487641600"
+      },
+      {
+        "interaction": null,
+        "link": "https://www.linkedin.com/posts/marcus-mh-wong_ai-safety-anthropic-activity-7440075808297349120-_w0Z",
+        "title": "We just wrapped another Builder Club meeting with Alicia L. from the Safeguards team at Anthropic! Alicia shared her journey from Cal student to Anthropic contractor. She broke down what safety and policy work actually looks like day to day, including the technical concepts she picked up along the way. To give folks more depth into what safety work looks like at an AI company, we ran a hands-on data labeling exercise and dove into how Anthropic thinks about when policies get triggered based on prompts. There's a lot more nuance there than most people expect, and that part sparked some great discussion. Safety and policy is one of the most underrated areas in AI right now. Huge thanks to Alicia for making it so approachable and for being so open about her path. Got another awesome speaker coming in April. Stay tuned \ud83d\udc40 thanks to team Emma Shen Angelina Nguyen Samantha Yang as always #AI #Safety #Anthropic #UCBerkeley #ClaudeBuilderClub #BuilderCommunity",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQHzVwBhbQxp9g/feedshare-shrink_800/B56Zz_GQGgJwAc-/0/1773806355859?e=2147483647&v=beta&t=_KvNfaDHR4O6_PZHjp8s_GgtmSmIFnMGq1g6-n_NlAs",
+        "id": "7440075808297349120"
+      },
+      {
+        "interaction": null,
+        "link": "https://www.linkedin.com/posts/angelinannguyen_claudecode-claudeai-anthropic-activity-7435195064299180032-__6d",
+        "title": "Last week UC Berkeley's Claude Builder Club had the pleasure of hosting our first Intro to Claude Code workshop in tandem with UC Berkeley Alumn Dickson Tsai , member of the Claude Code technical staff at Anthropic. Special shout out to Dickson for teaching out club ways to streamline Claude Code use and even teaching us sneaky tricks to visualize CS170 better. Overall a great event, so stick around to see what other guest speakers we have in store this semester! Special thanks to my fellow ambassadors Samantha Yang , Marcus Wong , and Emma Shen for putting this event together and the UC Berkeley Sutardja Center for Entrepreneurship and Technology (SCET) for providing the club such an amazing space. #claudecode #claudeai #anthropic #berkeleyclaude",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQEZKsUroMejNQ/feedshare-image-high-res/B56Zy8efASG4AU-/0/1772688636330?e=2147483647&v=beta&t=FVrIUOwIVXnv-lPGnPPw4wq32lW8Bu38MNhvm8rnUtY",
+        "id": "7435195064299180032"
+      },
+      {
+        "interaction": null,
+        "link": "https://www.linkedin.com/posts/andyjhu_notion-notioncampusleader-ucberkeley-activity-7427441861323157504-t4SO",
+        "title": "Last week, I had the opportunity to host a Notion workshop at UC Berkeley alongside an amazing team of campus leaders. We walked students through Notion basics and built a complete workspace together \u2014 from a semester dashboard and weekly planner to a 2026 goals tracker. What I enjoyed most was seeing everyone personalize their setups and start building systems they could actually use for school and everyday life. Huge thanks to UC Berkeley Sutardja Center for Entrepreneurship and Technology (SCET) for providing the space and making this event possible! Grateful to everyone who attended and participated, and to the Notion Community Team for continuing to support student communities around the world! #Notion #NotionCampusLeader #UCBerkeley",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQHtzWtnL-4L6g/feedshare-shrink_800/B56ZxOTAzsIYAs-/0/1770840133921?e=2147483647&v=beta&t=656cuXQimEy8SIsj5iM0EItEqGqeCXjyjkN7yErg-ZY",
+        "id": "7427441861323157504"
+      },
+      {
+        "interaction": null,
+        "link": "https://www.linkedin.com/posts/marcus-mh-wong_claude-claudepartner-ai-activity-7425583496598855680-wxkG",
+        "title": "First Claude Builder Club meeting of the spring \u2705 This past Wednesday, we brought together 150+ Berkeley students to showcase what Claude can do. The energy was incredible; people from different majors and backgrounds all experimented with AI tools, many for the first time. We ran a quick prompting exercise in which teams would make and present a creative project in under 15 minutes. We were blown away by folks who went from prompt to fully-fledged games and short films by the end of the session. Wild to see how fast you can go from concept to demo with Claude. We have more events planned throughout the semester: workshops, hackathons, and demo nights. If you're at Berkeley and want to build, follow @claudeatucberkeley on Instagram for updates on our upcoming meetings. Thanks to the UC Berkeley Sutardja Center for Entrepreneurship and Technology (SCET) for the space, and to the ambassador team for making this possible. Emma Shen , Angelina Nguyen , Samantha Yang , Mason Arditi #Claude #ClaudePartner #AI #ArtificialIntelligence #UCBerkeley",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQFtPdZSZBGTVg/feedshare-shrink_800/B56Zwz41qnJQAg-/0/1770397064383?e=2147483647&v=beta&t=H796Mj2rq0pX_rqpW0ghHhkDFX8PaJ9rVvNPxO-40Lc",
+        "id": "7425583496598855680"
+      },
+      {
+        "interaction": "Samantha Yang shared this",
+        "link": "https://www.linkedin.com/posts/samanthayang211_backtowork-school-activity-7419491757937172481-XPLr",
+        "title": "Guess who's back in the Bayyyyy!!!\ud83e\udd2d Perhaps missed it a little...but I think it missed me too\ud83d\ude02 #backtowork #school",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQFs5JgO-2TDDw/feedshare-image-high-res/B56ZvdSCjDHMAU-/0/1768944052895?e=2147483647&v=beta&t=4JNxBfgwZZzahaDclweVkKt2TWJNxVtx1ozQZqbibxE",
+        "id": "7419491757937172481"
+      },
+      {
+        "interaction": "Samantha Yang shared this",
+        "link": "https://www.linkedin.com/posts/samanthayang211_mindset-studentlife-selfcare-activity-7415531574131081218-c-WJ",
+        "title": "I\u2019m dropping out of Berkeley. Before you judge me, let me explain. This past semester nearly broke me. I burned out not once, but twice. I was taking five classes and trying to do everything \u201cthe right way\u201d attending every lecture, lab, and discussion. I studied every single day and night. After classes, I\u2019d hunt for empty lecture halls or lounge seats just to keep studying until 9 or 10 pm. Weekends weren\u2019t breaks, they were catch-up days. On top of that, I was juggling clubs, extracurriculars, ambassador roles, networking events, mixers, socials, and trying to build real connections. Even the fun stuff took time and energy. And somehow, I still tried to show up for my friends the people who\u2019ve supported me through everything. This isn\u2019t a flex. It\u2019s just the reality of trying to do everything you care about at once. It\u2019s hard. Now I\u2019m on winter break. Yesterday, I was back home in Florida at an arcade with my hometown friends. We laughed, yapped, smiled, and acted like nothing had changed. And for the first time in a while, my body and mind felt\u2026 calm. I realized how much I missed that feeling and how important it is to savor it. So no, I\u2019m not actually dropping out of Berkeley. But I am dropping the lie that grinding 24/7 makes you successful. If you don\u2019t rest, your body will force you to. Burnout isn\u2019t a badge of honor. It\u2019s a warning sign. You don\u2019t need to disappear to be impressive. Take breaks. Touch grass. Protect your mind. It\u2019s survival. And honestly? It might be the reason you don\u2019t give up entirely. Take care of yourself. You deserve it. \ud83d\udc9b Comment \"BREAK\" if you also need to take a break and a chill pill\ud83d\ude24\u270a\ufe0f #mindset #studentlife #selfcare #WorkLifeBalance",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQGNSTVnTDEE5g/feedshare-image-high-res/B56Zuj9gDwHkAs-/0/1767982368246?e=2147483647&v=beta&t=p_XAa_nEiLfrhITxI8XXSnQp9eUySJdcCnQINRT1lpk",
+        "id": "7415531574131081218"
+      },
+      {
+        "interaction": "Samantha Yang shared this",
+        "link": "https://www.linkedin.com/posts/samanthayang211_happy-new-yearrr-aka-my-annual-activity-7412675252499185665-32V5",
+        "title": "HAPPY NEW YEARRR!!! \ud83c\udf89\ud83c\udf8a\u2728\ufe0f (aka my annual LinkedIn disappearance apology) If you're wondering where I went\u2026 no, I didn't quit. I simply got jumped by finals, deadlines, life, and vibes.\ud83d\ude14 End of semester hit HELLA HARD...exams, catching up on weeks of schoolwork, and honestly just trying to stay alive \ud83d\ude2d so LinkedIn had to take a brief intermission.\ud83d\ude2c Buttttt we're back. Rested(ish). Motivated(again). And entering 2026 with way more clarity, confidence, and chaotic ambition. Huge thank you to everyone who's followed along, supported, commented, or watched me treat LinkedIn like a personal diary in 2025 \ud83e\udef6 this little corner of the internet means more to me than you know. 2026 = more building, more creating, more learning, more doing. Stay tuned!!! I promise the grind + the yapping are returning. Happy New Year bestiessss \ud83d\ude1a\ud83e\udd42\u2728",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQFtIl75WMXFqg/feedshare-image-high-res/B56Zt8NCDRJsAo-/0/1767315356990?e=2147483647&v=beta&t=Tmyif9gKeyRL3AHQDJHCRKpNYM-45Siu7eOQRDQZ8v4",
+        "id": "7412675252499185665"
+      },
+      {
+        "interaction": "Samantha Yang commented on a post 1w",
+        "link": "https://www.linkedin.com/posts/fardeenkhimani_rounds-just-raised-xm-to-kill-facebook-activity-7490151569171107840-cJDY",
+        "title": "\ud83d\udd25\ud83d\udd25\ud83d\udd25",
+        "img": null,
+        "id": "7490151569171107840"
+      },
+      {
+        "interaction": "Samantha Yang commented on a post 2w",
+        "link": "https://www.linkedin.com/posts/adish-jain_were-hiring-for-four-in-person-roles-in-activity-7487915307299414016-Un3L",
+        "title": "Growth intern!",
+        "img": null,
+        "id": "7487915307299414016"
+      },
+      {
+        "interaction": "Samantha Yang replied to a comment 3w",
+        "link": null,
+        "title": "Julia Li RESEARCHING RNNNN",
+        "img": null,
+        "id": null
+      },
+      {
+        "interaction": "Samantha Yang liked this",
+        "link": "https://www.linkedin.com/posts/giulio-greco-03628141a_yes-this-is-a-real-photo-of-the-forgegui-activity-7491146067435233280-YO9p",
+        "title": "Yes, this is a real photo of the ForgeGUI Team. We are growing ~100K creators every 9 days, and we're hiring. If you want to join one of the fastest growing consumer seed stage startups right now as a engineer, send me a DM. We want ambitious, hard working, exceptional people to join us on our mission turning 1B players into Creators. Niko Bonatsos Michael Fertik Sheel Tyle Cory Levy Patrick Finnegan",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQG57KYHWgHO8Q/feedshare-shrink_800/B56Z_T3FwpJ8Ac-/0/1785965863565?e=2147483647&v=beta&t=-78KgcIuzhwIT9NkrKnP4hVtoJ4ykU8XUuUhnKDZX5s",
+        "id": "7491146067435233280"
+      },
+      {
+        "interaction": "Samantha Yang liked this",
+        "link": "https://www.linkedin.com/posts/who-did-this-activity-7490841013276774400-ymm2",
+        "title": "Who did this \ud83d\udc40",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQFHPEgObV4YxA/feedshare-shrink_1280/B56Z_TQNW1J8AM-/0/1785955669675?e=2147483647&v=beta&t=_PR3wKCcwFKdwmWy-9uR9idijQeUbX0LFaUd3HcyQm4",
+        "id": "7490841013276774400"
+      },
+      {
+        "interaction": "Samantha Yang liked this",
+        "link": "https://www.linkedin.com/posts/imagineartai_today-were-launching-the-imagineart-ambassadorship-activity-7490392431876780032-uhrh",
+        "title": "Today we're launching the ImagineArt Ambassadorship Program! The next era of creativity won't be built in one office. It'll be built by creators everywhere; on campuses, in studios, in communities like yours. So we're handing you the keys. If you're a student, a community builder, someone who sees where GenAI is heading and wants to build at the very front of it, this is for you. You bring the community. We bring the access to everything we ship, funding for your events, and the stage to be seen. This is your shot to lead the AI-art movement in your corner of the world. We've got very limited seats, apply fast! Link in the comment's section.",
+        "img": "https://media.licdn.com/dms/image/v2/D4D22AQHr3b9VTBc5Sw/feedshare-shrink_800/B4DZ_M4OY.I4Ac-/0/1785848719470?e=2147483647&v=beta&t=19aNU_h4nVTQfDqO35g_g0fJzyrkuKn8CE4FoC9tGFQ",
+        "id": "7490392431876780032"
+      },
+      {
+        "interaction": "Samantha Yang reacted on this",
+        "link": "https://www.linkedin.com/posts/fardeenkhimani_rounds-just-raised-xm-to-kill-facebook-activity-7490151569171107840-cJDY",
+        "title": "Rounds just raised $XM to kill Facebook After lots of debugging and a few all-nighters, I'm excited to announce that we've helped Peggy Wang , founder of SparkChat, hire her first engineer to beat Zuck Gotchu didn't I... But this is a mission worth your attention. Peggy is out to create the future of social media by helping people meet up IRL more Peggy + more are hiring, check out roles on Rounds",
+        "img": "https://media.licdn.com/dms/image/v2/D5605AQE-pX1pFLdAxw/videocover-high/B56Z_JdHphJcBM-/0/1785791283821?e=2147483647&v=beta&t=5UTBUC__QT77_3xLnpImWlgyZ7CgweQoQMovmsRNH10",
+        "id": "7490151569171107840"
+      },
+      {
+        "interaction": "Samantha Yang liked this",
+        "link": "https://www.linkedin.com/posts/katie-chen-71540724a_retired-grandmachen-stillabaddietho-activity-7490059017898061826-eS2c",
+        "title": "I am officially retiring from ragebaiting Hi, my name is Katie. EX-Cluely, ABG CMO. I once brought in over 14 million hate posts in a single day, reached Times Square, and even got on the news. Then I did it two more times, one with a minor, and hooked up with someone in Hawaii. Except... none of that actually happened. I just twisted the words to piss more people off. A month ago, I thought ragebait meant attention, and attention meant economy. Then reality hit. I lost deals. I lost VC interest. Especially in a B2B to B2C market... When you're funny, people don't take you seriously. And when you sexualize yourself for attention, business partners don't just ignore it. It shapes your reputation. It changes how people evaluate you before you've even opened your mouth. The lesson I learned is simple: Attention isn't the asset. Trust is. Since retiring from ragebaiting, I've closed more deals than ever. The best founders know how to go viral, have fun, AND still make sure their business is what people remember. Hi, my name is Katie. A 1X exit founder building a UGC agency. Influencer on LinkedIn and Instagram. 'Follow' Katie Chen to join my road to a million. Until next time, Katie Out. #Retired #GrandmaChen #StillABaddieTho",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQFflWK9shGRPw/feedshare-image-high-res/B56Z.0mqwwHUAY-/0/1785441464565?e=2147483647&v=beta&t=q97Fj_SF19KztYl6x-lgW8ksZfTJM8g4ajcxbVPlpCI",
+        "id": "7490059017898061826"
+      },
+      {
+        "interaction": "Samantha Yang liked this",
+        "link": "https://www.linkedin.com/posts/katie-chen-71540724a_byealfonsopleaseremembermewhenyoubecomefamous-activity-7488971742762151937-uVmt",
+        "title": "I fired my BEST employee today I know it sounds stupid. My company might go down. But here's why: \ud83e\udef4Meet Alfonso. He's 21. A college dropout from Indonesia. When we met, he was broke. Fast forward to today... He single-handedly generated over 250 million views for our company in the past week. He helped build a business doing $20k+ per month I've never met someone who learns and adapts this quickly. Especially someone who started with absolutely NOTHING. Then a few weeks ago, he asked to talk. He told me he wanted to build something of his own. On the side, he'd started a YouTube channel. It exploded. 3 million followers in ONE MONTH. (wtf?!) I couldn't believe it. As a founder, every instinct tells you to convince your best people to stay Offer more money. More equity. A bigger title. But I realized something: Keeping him would've been great for my business... ...and bad for his future. So I fired my best employee. Not because he wasn't valuable. Because he was. Too valuable to spend his life building someone else's dream. Today, we still talk every week We exchange ideas, critique each other's content, and push each other to build bigger things. The best managers don't just build companies. They build people. And sometimes the greatest compliment an employee can give you is becoming someone who no longer needs you. Everyone should have an Alfonso in their life. And if you're lucky enough to hire one... Don't measure success by how long you keep them. Measure success by how far they go after they leave. This is your reminder to work so DAM HARD your boss is forced to fire you to pursue their own dreams (lol), I share my business and content lessons on LI everyday, Im Katie Chen , 1x founder, and founder of the only UGC agency that targets conversions, not views drop a 'follow', and hit me up for a chat Until Next Time, Katie Out. #ByeAlfonsoPleaseRememberMeWhenYouBecomeFamous",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQHJLQYbMXyQRQ/feedshare-image-high-res/B56Z8_b4zkIQAY-/0/1783475703456?e=2147483647&v=beta&t=xF8s8-LrCxEWY9PwLDJV0n7A5BuKhMeoU-NH02NV9ao",
+        "id": "7488971742762151937"
+      },
+      {
+        "interaction": "Samantha Yang liked this",
+        "link": "https://www.linkedin.com/posts/walterstevenp_falcon2026-activity-7488287431851405312-hOoO",
+        "title": "I'm excited to be speaking at #FalCon2026 ( https://lnkd.in/g6M6ewzq ), alongside some of the brightest minds in cybersecurity. Looking forward to the conversations, sharing insights, and collaboration with industry peers as we explore the future of security. \ud83c\udfa4 Session: BK-1277 - Full Coverage or False Confidence: Kubernetes Blind Spots Sensors deployed. Dashboards green, and attackers still walking through the gaps. We'll explore the Kubernetes blind spots visibility alone can't catch, and how to close them. \ud83d\udccd Aug. 31 \u2013 Sept. 3 | Las Vegas",
+        "img": "https://media.licdn.com/dms/image/v2/D5610AQHMTigOirz9iw/image-shrink_800/B56Z.u9uHNKIAg-/0/1785346843406?e=2147483647&v=beta&t=331Q-dfXUAXLBm0MXY-MUySIojRP5hWYSRwFsUzBxr4",
+        "id": "7488287431851405312"
+      },
+      {
+        "interaction": "Samantha Yang liked this",
+        "link": "https://www.linkedin.com/posts/jessica-lam12_me-hyping-up-the-linkedin-friends-ive-never-activity-7488307381618192384-ObjP",
+        "title": "Me hyping up the LinkedIn friends I\u2019ve never met IRL:",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQExJOXwXMdHpw/feedshare-shrink_800/B56Z.h1rIKKMAg-/0/1785126630129?e=2147483647&v=beta&t=LTf5M2niPX8UtclpIanSAuGqsxQ00Hz4xdbdGg_Etto",
+        "id": "7488307381618192384"
+      }
+    ],
+    "linkedin_num_id": "1146131996",
+    "banner_image": "https://media.licdn.com/dms/image/v2/D4E16AQH7IqWKgTwCfg/profile-displaybackgroundimage-shrink_200_800/B4EZib2kkCGUAc-/0/1754961433855?e=2147483647&v=beta&t=4aolxK-0q7Fn83aLI72k7CRLbHlfVWG5kxs7Rhq6Rbs",
+    "honors_and_awards": null,
+    "similar_profiles": [],
+    "default_avatar": false,
+    "memorialized_account": false,
+    "bio_links": [],
+    "first_name": "Samantha",
+    "last_name": "Yang",
+    "influencer": false,
+    "timestamp": "2026-08-12T19:15:03.643Z",
+    "input": {
+      "url": "https://www.linkedin.com/in/samanthayang211"
+    }
+  },
+  "local_photo": "data\\linkedin_photos\\samanthayang211__usr-vJOgmsKrh6RF7Wh.jpg"
+}

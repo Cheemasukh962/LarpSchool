@@ -1,0 +1,256 @@
+{
+  "source": "crustdata",
+  "recovered_from": "brightdata_failed_private",
+  "luma_user_id": "usr-PRfFD0nEyVNXi7R",
+  "csv_name": "Yogya Mehrotra",
+  "csv_linkedin": "https://www.linkedin.com/in/yogyamehrotra",
+  "clean_linkedin": "https://www.linkedin.com/in/yogyamehrotra",
+  "enriched_at": "2026-08-14T18:07:59.937250+00:00",
+  "person_data": {
+    "basic_profile": {
+      "current_title": "Undergraduate Researcher",
+      "first_name": null,
+      "headline": "SWE Intern @ Northrop Grumman | CS/Math @ UCSD",
+      "languages": [],
+      "last_name": null,
+      "location": {
+        "city": "San Ramon",
+        "continent": "North America",
+        "country": "United States",
+        "full_location": null,
+        "raw": "San Ramon, California, United States",
+        "state": "California"
+      },
+      "name": "Yogya Mehrotra",
+      "normalized_title": {
+        "confident": true,
+        "department": "Education & Research",
+        "matched_title": "Undergraduate Researcher",
+        "similarity": 0.9998999834060669,
+        "sub_department": "Research & Laboratory Science"
+      },
+      "professional_network_name": "Yogya Mehrotra",
+      "profile_picture_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/person/081ba92ec459f8f2e20084d30f56b3db852e4f8073fb49744dba1b49d50cb486.jpg",
+      "summary": ""
+    },
+    "education": {
+      "schools": [
+        {
+          "activities_and_societies": "",
+          "degree": "",
+          "description": "",
+          "end_year": null,
+          "field_of_study": "",
+          "institute_logo_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/company/996ef7c9b5c0c8f1123b9fa50eef9be1762e941e350951a6262164568e4e8348.jpg",
+          "institute_logo_url": "https://media.licdn.com/dms/image/v2/C4D0BAQEpn-2k-VT9pA/company-logo_400_400/company-logo_400_400/0/1656441882273/dougherty_valley_high_school_1_logo?e=1786579200&v=beta&t=UXrf4wmZGXO9K4f9CwHb8I-8dHk2ZP8sPLaJEFaMnYM",
+          "location": {
+            "city": "San Ramon",
+            "continent": "North America",
+            "country": "United States",
+            "raw": "San Ramon, California, United States",
+            "state": "California"
+          },
+          "professional_network_id": "40740302",
+          "school": "Dougherty Valley High School",
+          "start_year": null
+        },
+        {
+          "activities_and_societies": "",
+          "degree": "Bachelor of Science - BS",
+          "description": "",
+          "end_year": null,
+          "field_of_study": "Computer Engineering",
+          "institute_logo_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/company/62f8aa3ecba2cf937c816c934cd8b4761d3920c5c0a0fc8cfd417173f66048f6.jpg",
+          "institute_logo_url": "https://media.licdn.com/dms/image/v2/C4E0BAQEEdPQHFbiGrg/company-logo_400_400/company-logo_400_400/0/1656436364797?e=1772064000&v=beta&t=jj9vyI-d6pcPhYvcj0_anta42X5S8Z453pRhEm-UtOQ",
+          "location": {
+            "city": "",
+            "continent": "North America",
+            "country": "United States of America",
+            "raw": "Santa Cruz, United States",
+            "state": "California"
+          },
+          "professional_network_id": "2841",
+          "school": "University of California, Santa Cruz",
+          "start_year": null
+        },
+        {
+          "activities_and_societies": "",
+          "degree": "Bachelor of Science - BS",
+          "description": "",
+          "end_year": null,
+          "field_of_study": "Math-CS",
+          "institute_logo_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/company/8c65fb112c5dfd79dac841574b7d2e8df18e8d5df7c57818d0e2768ed04740ef.jpg",
+          "institute_logo_url": "https://media.licdn.com/dms/image/v2/C560BAQHQYa-3EY_aaQ/company-logo_400_400/company-logo_400_400/0/1630633790917/university_of_california_at_san_diego_logo?e=1786579200&v=beta&t=bV8vk-OxefrPRjpkglKbBzZLvVO8BevIM0MThRqCL94",
+          "location": {
+            "city": "San Diego",
+            "continent": "North America",
+            "country": "United States",
+            "raw": "La Jolla, California, United States",
+            "state": "California"
+          },
+          "professional_network_id": "3382",
+          "school": "UC San Diego",
+          "start_year": null
+        }
+      ]
+    },
+    "experience": {
+      "employment_details": {
+        "current": [
+          {
+            "company_description": "Recognized as one of the top 15 research universities worldwide, our culture of collaboration sparks discoveries that advance society and drive economic impact. Everything we do is dedicated to ensuring our students have the opportunity to become changemakers, equipped with the multidisciplinary tools needed to accelerate answers to our world\u2019s most pressing issues.",
+            "company_professional_network_profile_url": "https://linkedin.com/company/3382",
+            "company_profile_picture_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/company/8c65fb112c5dfd79dac841574b7d2e8df18e8d5df7c57818d0e2768ed04740ef.jpg",
+            "company_website_domain": "ucsd.edu",
+            "crustdata_company_id": 1411299,
+            "description": "Hao AI Lab\nDiffusion Models",
+            "employment_type": "",
+            "end_date": null,
+            "function_category": "Research",
+            "is_default": true,
+            "location": {
+              "raw": ""
+            },
+            "name": "University of California San Diego",
+            "position_id": 2973441986,
+            "professional_network_id": "3382",
+            "seniority_level": "Entry Level",
+            "start_date": "2026-07-01T00:00:00+00:00",
+            "title": "Undergraduate Researcher",
+            "years_at_company": "Less than 1 year",
+            "years_at_company_raw": 0.0
+          },
+          {
+            "company_description": "We are a close-knit community of big thinkers collaborating to keep the world safe. Our passion, creativity and expertise bring next-level technology solutions to life in autonomous systems, cyber, C4ISR, strike, space, and logistics and modernization for our customers around the globe. On the Northrop Grumman team, you\u2019ll join our pursuit of excellence immersed in a dynamic culture of innovation and respect. Your unique perspective will help achieve our shared vision for the future of global security. Every step of the way, you'll be supported by world-class training, employee resource groups and a comprehensive benefits package that enables greater health and happiness for you and your family.  Worldwide and across disciplines, we\u2019re challenging what\u2019s possible for technology to protect people and places from undersea to outer space and into cyberspace. And we see the impact of our performance every day. We are Northrop Grumman, and we work on what matters\u2014now, you too can make a difference. Explore opportunities in engineering, IT, manufacturing, business management, cybersecurity and more at jobs.northropgrumman.com/careers. Northrop Grumman is an Equal Opportunity Employer, making decisions without regard to race, color, religion, creed, sex, sexual orientation, gender identity, marital status, national origin, age, veteran status, disability, or any other protected class. For our complete EEO and pay transparency statement, please visit http://www.northropgrumman.com/EEO. U.S. Citizenship is required for all positions with a government clearance and certain other restricted positions.Our careers site can be found at jobs.northropgrumman.com/careers. If you are contacted about a job at Northrop Grumman, please verify the email came from the domain @ngc.com before engaging with that contact. If you are contacted by a Northrop Grumman recruiter on LinkedIn, please that their profile includes the verified check mark to ensure the contact is legitimate.",
+            "company_professional_network_profile_url": "https://linkedin.com/company/1412",
+            "company_profile_picture_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/company/6065685bd2a1b12baa765b5ccc8d2f4f1e7fb9f5eee71e37cbc2bd83e9a361e2.jpg",
+            "company_website_domain": "northropgrumman.com",
+            "crustdata_company_id": 681001,
+            "description": "Summer 2026\nMission Systems - NIC Manufacturing Operations",
+            "employment_type": "Internship",
+            "end_date": null,
+            "function_category": "Engineering",
+            "is_default": true,
+            "location": {
+              "raw": "San Diego, CA"
+            },
+            "name": "Northrop Grumman",
+            "position_id": 2868782718,
+            "professional_network_id": "1412",
+            "seniority_level": "Entry Level",
+            "start_date": "2026-06-01T00:00:00+00:00",
+            "title": "Software Engineer",
+            "years_at_company": "Less than 1 year",
+            "years_at_company_raw": 0.0
+          }
+        ],
+        "past": [
+          {
+            "company_description": "The RISE Lab is UC Berkeley's latest 5-year computer science research labIn the RISE Lab, we develop technologies that enable applications to make low-latency decisions on live data with strong security.",
+            "company_professional_network_profile_url": "https://linkedin.com/company/17932505",
+            "company_profile_picture_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/company/c417df82a4143a21c5244dff9c731d51e15110efa393fd9cb6a5674e5846f846.jpg",
+            "company_website_domain": "berkeley.edu",
+            "crustdata_company_id": 2015122,
+            "description": "Coding Agents",
+            "employment_type": "",
+            "end_date": "2026-06-01T00:00:00+00:00",
+            "function_category": "Research",
+            "is_default": false,
+            "location": {
+              "raw": ""
+            },
+            "name": "Berkeley RISE Lab",
+            "position_id": 2883280468,
+            "professional_network_id": "17932505",
+            "seniority_level": "Entry Level",
+            "start_date": "2026-03-01T00:00:00+00:00",
+            "title": "Undergraduate Researcher",
+            "years_at_company": "Less than 1 year",
+            "years_at_company_raw": 0.0
+          },
+          {
+            "company_description": "The Baskin School of Engineering at UC Santa Cruz is deeply committed to addressing the most important engineering challenges posed by our modern world. Faculty and students pursue novel  research guided by a mission to create positive societal impact. We offer forward-looking, interdisciplinary programs and engage in visionary research that improves the world and our place in it through bold and socially responsible innovation. From AgTech and climate solutions to genomics and more, we create solutions that transform communities, industries, and the world.Baskin Engineering's interdisciplinary programs emphasize entrepreneurial thinking and thought leadership with a focus on engineering for social good. The school's multiple centers and institutes allow for innovative research opportunities, fostering partnerships among academia, industry, and government. For more info, visit engineering.ucsc.edu.",
+            "company_professional_network_profile_url": "https://linkedin.com/company/15097438",
+            "company_profile_picture_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/company/68acca2a1a2d9688c6cffd4d33afe0b02533e47b5067e19f7df03fbb5d457ff0.jpg",
+            "company_website_domain": "ucsc.edu",
+            "crustdata_company_id": 6084522,
+            "description": "CSE 12",
+            "employment_type": "Part-time",
+            "end_date": "2026-04-01T00:00:00+00:00",
+            "function_category": "",
+            "is_default": false,
+            "location": {
+              "raw": "Santa Cruz, CA"
+            },
+            "name": "University of California, Santa Cruz - Jack Baskin School of Engineering",
+            "position_id": 2821626018,
+            "professional_network_id": "15097438",
+            "seniority_level": "Entry Level",
+            "start_date": "2026-01-01T00:00:00+00:00",
+            "title": "Group Tutor",
+            "years_at_company": "Less than 1 year",
+            "years_at_company_raw": 0.0
+          },
+          {
+            "company_description": "Meet qualified sales leads in person, host a 100 person conference in 90 days, build a community, build self-sustaining top of funnel, and nurture middle of funnel by automating conference production with Venu AI.Contact us now at venu3d.com.",
+            "company_professional_network_profile_url": "https://linkedin.com/company/72043281",
+            "company_profile_picture_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/company/42a0f34cc31902d1b0854285efac1b5bb434eff9a553c6ebb510cd6f10b6d49a.jpg",
+            "company_website_domain": "venu3d.com",
+            "crustdata_company_id": 3115530,
+            "description": "YC (W21)",
+            "employment_type": "Part-time",
+            "end_date": "2025-10-01T00:00:00+00:00",
+            "function_category": "Engineering",
+            "is_default": false,
+            "location": {
+              "raw": "San Jose, California, United States"
+            },
+            "name": "Venu AI",
+            "position_id": 2697911224,
+            "professional_network_id": "72043281",
+            "seniority_level": "Entry Level",
+            "start_date": "2025-07-01T00:00:00+00:00",
+            "title": "Software Engineer",
+            "years_at_company": "Less than 1 year",
+            "years_at_company_raw": 0.0
+          }
+        ]
+      }
+    },
+    "professional_network": {
+      "connections": 945,
+      "current_title": "Undergraduate Researcher",
+      "followers": 940,
+      "headline": "SWE Intern @ Northrop Grumman | CS/Math @ UCSD",
+      "location": {
+        "city": "San Ramon",
+        "continent": "North America",
+        "country": "United States",
+        "raw": "San Ramon, California, United States",
+        "state": "California"
+      },
+      "metadata": {
+        "last_scraped_source": null
+      },
+      "name": "Yogya Mehrotra",
+      "profile_picture_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/person/081ba92ec459f8f2e20084d30f56b3db852e4f8073fb49744dba1b49d50cb486.jpg",
+      "pronoun": "",
+      "summary": ""
+    },
+    "skills": {
+      "professional_network_skills": []
+    },
+    "social_handles": {
+      "dev_platform_identifier": {
+        "profile_url": null
+      },
+      "professional_network_identifier": {
+        "profile_url": "https://www.linkedin.com/in/yogyamehrotra"
+      },
+      "twitter_identifier": {
+        "slug": ""
+      }
+    },
+    "crustdata_person_id": 247956399
+  }
+}

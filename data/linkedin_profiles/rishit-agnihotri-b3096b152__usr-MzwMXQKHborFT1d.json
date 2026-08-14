@@ -1,0 +1,232 @@
+{
+  "luma_user_id": "usr-MzwMXQKHborFT1d",
+  "csv_name": "Rishit Agnihotri",
+  "csv_linkedin": "https://www.linkedin.com/in/rishit-agnihotri-b3096b152",
+  "enriched_at": "2026-08-12T19:14:53.875852+00:00",
+  "batch_id": "sd_msqgwa7g10oeo6g7qx",
+  "profile": {
+    "id": "rishit-agnihotri-b3096b152",
+    "name": "Rishit Agnihotri",
+    "city": "Pleasanton, California, United States",
+    "country_code": "US",
+    "position": null,
+    "about": "Hello! I\u2019m a freshman at the University of California, Santa Cruz, pursuing a bachelor\u2019s\u2026",
+    "current_company": {
+      "link": "https://www.linkedin.com/company/letsbai?trk=public_profile_topcard-current-company",
+      "name": "bAI",
+      "company_id": "letsbai",
+      "location": null
+    },
+    "experience": null,
+    "url": "https://nl.linkedin.com/in/rishit-agnihotri-b3096b152",
+    "educations_details": "University of California, Santa Cruz",
+    "education": [
+      {
+        "title": "University of California, Santa Cruz",
+        "url": "https://www.linkedin.com/school/ucsc/",
+        "start_year": "2025-07",
+        "end_year": "2029-06",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      },
+      {
+        "start_year": "2021-08",
+        "end_year": "2025-06",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      }
+    ],
+    "avatar": "https://media.licdn.com/dms/image/v2/D5603AQFjso6asSOm0A/profile-displayphoto-scale_200_200/B56Z486U9pGsAc-/0/1779138384969?e=2147483647&v=beta&t=kExQySg7rJWV2TFVTQmiiXvOWjFrY7AxUU3SMEwF_4s",
+    "certifications": [
+      {
+        "meta": "Issued Jan 2026",
+        "subtitle": "Anthropic",
+        "title": "Introduction to Model Context Protocol",
+        "credential_url": null,
+        "credential_id": null
+      },
+      {
+        "meta": "Issued Sep 2025 See credential",
+        "subtitle": "Amazon Web Services (AWS)",
+        "title": "AWS CloudQuest: Cloud Practitioner",
+        "credential_url": "https://www.credly.com/badges/525af1ed-d1ff-4874-bf8c-59e2611ed050/public_url?trk=public_profile_see-credential",
+        "credential_id": null
+      },
+      {
+        "meta": "Issued Jun 2025 See credential",
+        "subtitle": "Codecademy",
+        "title": "Computer Science Career Path",
+        "credential_url": "https://www.codecademy.com/profiles/RishitAgnihotri/certificates/05009c20e9174378acd37e6c2d0fbfc4?trk=public_profile_see-credential",
+        "credential_id": null
+      },
+      {
+        "meta": "Issued Jan 2024 See credential",
+        "subtitle": "Python Developer",
+        "title": "[PCEP-30-02] PCEP\u2122 \u2013 Certified Entry-Level Python Programmer",
+        "credential_url": "https://www.credly.com/badges/85de692f-0cbc-4735-867c-1f87062b2dcd/linked_in_profile?trk=public_profile_see-credential",
+        "credential_id": null
+      },
+      {
+        "meta": "Issued May 2023",
+        "subtitle": "Cisco Networking Academy",
+        "title": "Cisco Cloud Computing and Security (CSPP)",
+        "credential_url": null,
+        "credential_id": null
+      },
+      {
+        "meta": "Issued Nov 2022 See credential",
+        "subtitle": "Cisco",
+        "title": "Introduction to Cybersecurity",
+        "credential_url": "https://www.credly.com/badges/8bdde805-045c-44b1-a2ee-4d6b99649625/linked_in_profile?trk=public_profile_see-credential",
+        "credential_id": null
+      }
+    ],
+    "volunteer_experience": [
+      {
+        "cause": "Children",
+        "duration": "Apr 2024 \u00b7 - \nApr 2024 \u00b7 1 month",
+        "duration_short": "- \nApr 2024",
+        "info": "Cabin Counselor",
+        "start_date": "Apr 2024",
+        "subtitle": "Exploring New Horizons",
+        "title": "Student Counselor"
+      }
+    ],
+    "followers": 1015,
+    "connections": 500,
+    "current_company_company_id": "letsbai",
+    "current_company_name": "bAI",
+    "projects": [
+      {
+        "title": "Web Scraping Cost Simulations",
+        "start_date": "Nov 2025",
+        "description": "- Simulated large-scale data extraction costs with 94\\% accuracy using NumPy, enabling precise API cost predictions for LLM usage.- Automated reporting by integrating LLMs to translate raw simulation logs into clear, natural-language patterns in key API rates."
+      },
+      {
+        "title": "ScholarAPI",
+        "start_date": "Jul 2025",
+        "description": "Developed ScholarAPI, a FastAPI service that improved research paper discovery and summarization efficiency by integrating arXiv search with AI-powered summaries and citation formatting, enhancing user access to academic insights through secure API key authentication and rate limiting."
+      },
+      {
+        "title": "GenZPost",
+        "start_date": "Jun 2025",
+        "description": "LinkedGen.xyz generates high-performing LinkedIn posts in seconds using AI. Just input your topic/keywords, and it delivers:How It Works:User Input: Describe your post idea (e.g., \"Tips for remote work productivity\").AI Processing: Our fine-tuned LLM (GPT-4) crafts human-like drafts.Customization: Edit tone, length, or add personal anecdotes before publishing.Tech Stack:Next.js (App Router) + Tailwind CSS (Styling)Supabase (Auth + Database)OpenAI API (GPT-4 for content generation)Vercel (Hosting)"
+      },
+      {
+        "title": "SpeakEase",
+        "start_date": "Mar 2025",
+        "description": "SpeakEase marked a meaningful step in addressing language barriers through personalized, AI-powered learning. Developed to support non-native English speakers, SpeakEase offers an interactive and conversational platform that adapts to the user's language level, helping them practice English in real-world contexts while building confidence through dialogue and quizzes.In collaboration with a developer peer, we built the platform\u2019s backend and AI integration. I focused on implementing the AI components, using a customized wrapper to create a chatbot capable of natural language interaction. This system dynamically adjusted its responses based on user input, offering tailored language support and improving engagement. My partner developed the user authentication system and frontend UI using Mongoose and React, enabling smooth onboarding and an intuitive user experience.To further personalize the learning process, we added a quiz-generation feature that creates practice questions based on each user's conversational history. This reinforced key vocabulary and grammar structures, providing a complete learning loop. The system was designed to scale, with architecture ready to support multilingual features in future iterations.SpeakEase showcased the power of AI in education, bridging communication gaps while blending machine learning with human-centered design. It stands as a testament to how accessible, thoughtful technology can drive meaningful impact for language learners around the world."
+      },
+      null,
+      {
+        "title": "Monify",
+        "start_date": "Aug 2024",
+        "description": "Monify marked my first major initiative aimed at enhancing financial literacy among high school students. Designed as a comprehensive budgeting tool, it empowers students to track their spending, set financial goals, and manage their budgets with an intuitive and user-friendly interface.For backend development, I utilized Flask and PyCharm, leveraging Flask-SQLAlchemy with PostgreSQL to ensure secure and efficient data management. This implementation allowed users to store, retrieve, and modify financial data seamlessly, providing a structured and reliable system for expense tracking. During testing phases, an isolated PostgreSQL instance was employed to evaluate database performance, optimize queries, and enhance overall system efficiency.On the frontend, I incorporated Tailwind CSS to create a modern, responsive UI, ensuring an accessible and visually appealing experience across various devices. The design prioritized ease of use, allowing students to quickly input, analyze, and adjust their financial habits.Monify gained traction within the Pleasanton Unified School District, with over 50 students participating in the initial testing phase. This project not only reinforced the importance of financial education in high schools but also demonstrated the potential of technology-driven solutions in fostering responsible financial habits among students.For more details and additional projects, visit my portfolio."
+      },
+      {
+        "title": "PrimeStats",
+        "start_date": "Feb 2023",
+        "description": "PrimeStats was designed as a centralized sports platform for Cross Country and Track athletes, providing a real-time feed of sports news, healthy recipes, and personal goal tracking. Developed using React and Visual Studio Code, the platform served as a daily resource for student-athletes looking to stay informed, improve their nutrition, and set personal fitness goals.To keep the project small-scale and efficient, I integrated Google Firebase for lightweight data storage and user authentication, ensuring a seamless experience for athletes to track their personal notes and progress. Additionally, I incorporated local APIs to provide daily healthy recipes, offering nutritional recommendations tailored for endurance athletes.The platform gained popularity within the Pleasanton Unified School District, supporting student-athletes throughout a full Cross Country and Track season. However, due to financial limitations in securing a dedicated domain and database hosting, the project was eventually phased out. Despite this, PrimeStats demonstrated the value of accessible, digital resources for student-athletes, reinforcing the potential of technology in promoting sports engagement and wellness.For more details on my work, visit my portfolio."
+      }
+    ],
+    "location": "Pleasanton",
+    "input_url": "https://www.linkedin.com/in/rishit-agnihotri-b3096b152",
+    "linkedin_id": "rishit-agnihotri-b3096b152",
+    "activity": [
+      {
+        "interaction": "Liked by Rishit Agnihotri",
+        "link": "https://www.linkedin.com/posts/stevenpshepard_vaxonspace-starburst-iai-activity-7492894358648639489-JGWO",
+        "title": "Really enjoyed presenting at the Starburst and IAI - Israel Aerospace Industries Demo Day, marking the culmination of our six-month cohort. I shared\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQGev4smD5TFkQ/feedshare-image-high-res/B56Z_wbtrXJYAY-/0/1786445225234?e=2147483647&v=beta&t=wwAL_dVw4yNDI3dYoljgKSqpxsk8yaIKLMxIXMk9fc4",
+        "id": "7492894358648639489"
+      },
+      {
+        "interaction": "Liked by Rishit Agnihotri",
+        "link": "https://www.linkedin.com/posts/european-startup-embassy_europeanstartupembassy-ventureweek-sanfrancisco-activity-7492661217409355776-JcF6",
+        "title": "Founders, this one isn't for you. Sorry. We love you\ud83d\udc9a. Come back next week. Thursday night our rooftop is VCs, LPs and angel investors only, and\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQG_eyyZX61xmg/feedshare-shrink_800/B56Z_tHrAwGcAc-/0/1786389639822?e=2147483647&v=beta&t=-nQK6SGmDOdZqfa7beurzoAgcSgg9sxNk8Rmn7fWybM",
+        "id": "7492661217409355776"
+      },
+      {
+        "interaction": "Liked by Rishit Agnihotri",
+        "link": "https://www.linkedin.com/posts/shreyanphadke_what-if-you-could-give-claude-your-memories-activity-7492764516544339968-LQgB",
+        "title": "What if you could give Claude your memories? Well now you might be able to... Introducing Timeslicer MCP Timeslicer is a desktop app that shows\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5605AQEb8GpxcnY8VA/videocover-high/B56Z_ulk0uJYBM-/0/1786414258081?e=2147483647&v=beta&t=WKQ3QNAJerfFXg2F5DTLZxVBwuJtBszj1jQaeqDPulw",
+        "id": "7492764516544339968"
+      },
+      {
+        "interaction": "Liked by Rishit Agnihotri",
+        "link": "https://www.linkedin.com/posts/rishit-agnihotri-b3096b152_there-is-no-point-in-being-the-smartest-in-activity-7492020587616366592-WufR",
+        "title": "There is no point in being the smartest in the room. Why? A person who believes themselves to know more than everyone faces one cold truth: They are\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQFc7LO7fqObLA/feedshare-shrink_800/B56Z_kBBPgKAAc-/0/1786236900652?e=2147483647&v=beta&t=9mbyFAFtcxFuPAARKZuGTskuA0_FvneRVVmibk_Y7Mk",
+        "id": "7492020587616366592"
+      },
+      {
+        "interaction": "Shared by Rishit Agnihotri",
+        "link": "https://www.linkedin.com/posts/rishit-agnihotri-b3096b152_there-is-no-point-in-being-the-smartest-in-activity-7492020587616366592-WufR",
+        "title": "There is no point in being the smartest in the room. Why? A person who believes themselves to know more than everyone faces one cold truth: They are\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQFc7LO7fqObLA/feedshare-shrink_800/B56Z_kBBPgKAAc-/0/1786236900652?e=2147483647&v=beta&t=9mbyFAFtcxFuPAARKZuGTskuA0_FvneRVVmibk_Y7Mk",
+        "id": "7492020587616366592"
+      },
+      {
+        "interaction": "Liked by Rishit Agnihotri",
+        "link": "https://www.linkedin.com/posts/gurvansh-singh_clicks-from-events-this-week-murder-activity-7491583766260264960-2buu",
+        "title": "\ud83d\udcf8 Clicks from events this week - \ud83d\udc80Murder Mystery Party - \ud83c\udfad Interactive Neuroart Exhibition - \ud83e\udde1 Orange themed GTM leaders event",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQHn0rcD8-gI-Q/feedshare-image-high-res/B56Z_dztVFHYAU-/0/1786132747955?e=2147483647&v=beta&t=QCvJIq82INkcZ4NDLX6btymbkMrbd6UWORtLuai8a_o",
+        "id": "7491583766260264960"
+      },
+      {
+        "interaction": "Liked by Rishit Agnihotri",
+        "link": "https://www.linkedin.com/posts/tomkrcha_introducing-ai-pen-in-pendev-draw-vectors-activity-7491478258253709312-fKHN",
+        "title": "Introducing AI Pen in pen.dev Draw vectors with agents, refine b\u00e9ziers manually. Multipoint rotate, scale & multipath editing included. Download\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5605AQFRDJndCUP04Q/videocover-high/B56Z_bV.GpIMBM-/0/1786091402086?e=2147483647&v=beta&t=-yes00vlLZCK11cCdo_fqaFqizVU6frWApt4oBxszzE",
+        "id": "7491478258253709312"
+      },
+      {
+        "interaction": "Liked by Rishit Agnihotri",
+        "link": "https://www.linkedin.com/posts/robmay_job-losses-in-july-and-negative-revisions-activity-7491483614828814336-QL6A",
+        "title": "https://lnkd.in/gceKURV3 - Yeah because all this government protectionism isn't helping. Let's get back to free markets.",
+        "img": "https://media.licdn.com/dms/image/sync/v2/D5627AQHV6Zl7AYiaiA/articleshare-shrink_1280_800/B56Z_bmeZ4JsAg-/0/1786095724783?e=2147483647&v=beta&t=nIWOVkhb3icYdAfOVou5qKIUYPQm8DymrQucjFgdRpg",
+        "id": "7491483614828814336"
+      },
+      {
+        "interaction": "Liked by Rishit Agnihotri",
+        "link": "https://www.linkedin.com/posts/jsebastianscott_last-week-i-wrote-about-how-its-hard-to-activity-7491366771376185344-K5AF",
+        "title": "Last week I wrote about how it\u2019s hard to find cracked GTM engineers. So I made a list of places where you can find one: You just have to be\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4D22AQHpovND3vg5WA/feedshare-image-high-res/B4DZ_afLmHHQAU-/0/1786077035304?e=2147483647&v=beta&t=GtoC9tqQ_h_TVhJeqMY7JFpLiSjdrX3eJUGT5s5ZbKk",
+        "id": "7491366771376185344"
+      },
+      {
+        "interaction": "Liked by Rishit Agnihotri",
+        "link": "https://www.linkedin.com/posts/synopsi_i-wrote-down-everything-i-have-learned-about-activity-7491262184010825730-eS_X",
+        "title": "I wrote down everything I have learned about distributing and growing Vaultaire without paid ads, influencers or ugc. https://lnkd.in/emPjMFCW",
+        "img": "https://static.licdn.com/aero-v1/sc/h/53n89ecoxpr1qrki1do3alazb",
+        "id": "7491262184010825730"
+      },
+      {
+        "interaction": "Liked by Rishit Agnihotri",
+        "link": "https://www.linkedin.com/posts/vladimiracincurova_irl-events-are-becoming-the-new-gtm-engine-activity-7490813218412523520-ZeUo",
+        "title": "IRL EVENTS are becoming the new GTM engine for startups! \ud83d\ude80 SF is now heavily operating on real life meetings (aka IRL) and I've seen how much\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQFfKlXy60h-cA/feedshare-shrink_800/B56Z_S27NKGUAc-/0/1785949041765?e=2147483647&v=beta&t=Mp8U7XbqMypcxy5GfZSWe8F7DMqZlMx2rLaVY7wv5MU",
+        "id": "7490813218412523520"
+      }
+    ],
+    "linkedin_num_id": "617497236",
+    "banner_image": "https://media.licdn.com/dms/image/v2/D5616AQHsi20kRK6qAw/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1719353742018?e=2147483647&v=beta&t=CEjgRzabX3efQH33yQh666NRzxxjD0a28IxF3wnr0IU",
+    "honors_and_awards": null,
+    "similar_profiles": [],
+    "default_avatar": false,
+    "memorialized_account": false,
+    "bio_links": [],
+    "first_name": "Rishit",
+    "last_name": "Agnihotri",
+    "influencer": false,
+    "timestamp": "2026-08-12T19:14:40.683Z",
+    "input": {
+      "url": "https://www.linkedin.com/in/rishit-agnihotri-b3096b152"
+    }
+  },
+  "local_photo": "data\\linkedin_photos\\rishit-agnihotri-b3096b152__usr-MzwMXQKHborFT1d.jpg"
+}

@@ -1,0 +1,301 @@
+{
+  "luma_user_id": "usr-RTG9sPLA7uX6vAX",
+  "csv_name": "Sanjana Taware",
+  "csv_linkedin": "https://www.linkedin.com/in/sanjana-taware-2880a5168",
+  "enriched_at": "2026-08-12T19:16:49.715191+00:00",
+  "batch_id": "sd_msqgxyk1xj7v4ip1",
+  "profile": {
+    "id": "sanjana-taware-2880a5168",
+    "name": "Sanjana Taware",
+    "city": "San Francisco, California, United States",
+    "country_code": "US",
+    "position": null,
+    "about": "I\u2019m an undergraduate at UC Berkeley studying Electrical Engineering, Computer Science\u2026",
+    "current_company": {
+      "link": "https://www.linkedin.com/company/bair-lab?trk=public_profile_topcard-current-company",
+      "name": "Berkeley Artificial Intelligence Research",
+      "company_id": "bair-lab",
+      "location": null
+    },
+    "experience": null,
+    "url": "https://ar.linkedin.com/in/sanjana-taware-2880a5168",
+    "people_also_viewed": [
+      {
+        "profile_link": "https://www.linkedin.com/in/abigail-greene-a19215116",
+        "name": "Abigail Greene",
+        "about": "Heartmoor Design Build, LLC",
+        "location": "38 followers Charlottesville, VA"
+      },
+      {
+        "profile_link": "https://www.linkedin.com/in/lindsay-parlberg-8b2b43b5",
+        "name": "Lindsay Parlberg",
+        "about": "RTI International",
+        "location": "129 followers Raleigh-Durham-Chapel Hill Area"
+      },
+      {
+        "profile_link": "https://www.linkedin.com/in/lindsay-maus",
+        "name": "Lindsay Maus, MPH, CIC, CPH",
+        "about": "Carilion Clinic",
+        "location": "206 followers Roanoke, VA"
+      },
+      {
+        "profile_link": "https://www.linkedin.com/in/murphyamelia22",
+        "name": "Amelia Murphy, MPH, MBA",
+        "about": "Chapman Consulting",
+        "location": "1K followers Washington, DC"
+      },
+      {
+        "profile_link": "https://ae.linkedin.com/in/michelle-nader",
+        "name": "Michelle Nader",
+        "about": "PwC",
+        "location": "858 followers Dubai, United Arab Emirates"
+      },
+      {
+        "profile_link": "https://www.linkedin.com/in/maha-hassan-mph",
+        "name": "Maha H.",
+        "about": "Maryland Department of Health",
+        "location": "3K followers Washington DC-Baltimore Area"
+      },
+      {
+        "profile_link": "https://www.linkedin.com/in/erica-belfi",
+        "name": "Erica Belfi",
+        "about": "Colorado Independent Drivers United",
+        "location": "333 followers Denver Metropolitan Area"
+      },
+      {
+        "profile_link": "https://www.linkedin.com/in/kristin-scanlon-78711686",
+        "name": "Kristin Scanlon",
+        "about": "NorthShore University HealthSystem",
+        "location": "151 followers Fort Lauderdale, FL"
+      },
+      {
+        "profile_link": "https://www.linkedin.com/in/alison-fedoris-leslie-phd-lcsw-7405a267",
+        "name": "Alison Fedoris Leslie, PhD, LCSW",
+        "about": "Do and Hope, LLC",
+        "location": "331 followers Philadelphia, PA"
+      },
+      {
+        "profile_link": "https://www.linkedin.com/in/ivytrann",
+        "name": "Ivy Tran",
+        "about": "Influential",
+        "location": "1K followers New York City Metropolitan Area"
+      }
+    ],
+    "educations_details": "UC Berkeley College of Engineering",
+    "education": [
+      {
+        "title": "UC Berkeley College of Engineering",
+        "url": "https://www.linkedin.com/school/berkeleyengineering/",
+        "start_year": "2023-09",
+        "end_year": "2027-05",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      }
+    ],
+    "avatar": "https://media.licdn.com/dms/image/v2/D5603AQG-vfp2CKHQHg/profile-displayphoto-scale_200_200/B56ZgBiUu3GUAY-/0/1752372432463?e=2147483647&v=beta&t=8yYV8TiwoTKk9106ZZBO3gdiY6j9fpEM9OJVXFWLYQY",
+    "languages": [
+      {
+        "subtitle": "-",
+        "title": "English"
+      },
+      {
+        "subtitle": "-",
+        "title": "Marathi"
+      },
+      {
+        "subtitle": "-",
+        "title": "Hindi"
+      },
+      {
+        "subtitle": "-",
+        "title": "Spanish"
+      }
+    ],
+    "volunteer_experience": [
+      {
+        "duration": "Jan 2017 \u00b7 - \nJan 2023 \u00b7 \n6 years 1 month",
+        "duration_short": "- \nJan 2023",
+        "info": "+Led multiple community and global volunteer projects as a member of Sewa International\u2019s -Lead Program. +Raised $5,000 dollars in funding through a dance recital fundraiser, Natya Sewa Dance Showcase, for the Sewa Girls Hygiene Project.",
+        "start_date": "Jan 2017",
+        "subtitle": "SEWA International USA",
+        "title": "Intern"
+      },
+      {
+        "duration": "Jun 2025 \u00b7 - \nAug 2025 \u00b7 \n3 months",
+        "duration_short": "- \nAug 2025",
+        "info": "Featured in New York Magazine",
+        "start_date": "Jun 2025",
+        "subtitle": "Nucleate Dojo",
+        "title": "SF DojoHouse Member"
+      }
+    ],
+    "followers": 2183,
+    "connections": 500,
+    "current_company_company_id": "bair-lab",
+    "current_company_name": "Berkeley Artificial Intelligence Research",
+    "projects": [
+      {
+        "title": "Proteosurf - Accepted to Y Combinator S25",
+        "start_date": "Jun 2025",
+        "description": "Cursor for Biologic Discovery"
+      },
+      {
+        "title": "Biometric Watch - Hands-On PCB Engineering",
+        "start_date": "Jan 2025",
+        "description": "Designed and fabricated a wrist-worn device capable of continuously monitoring heart rate, blood oxygen saturation (SpO2), and skin temperature using Ki-CAD."
+      },
+      {
+        "title": "Use of CRISPR EvoCAS-9 Variant as a Diagnostic Procedure in Identifying Prion Disease Genetic Lineage Passing",
+        "start_date": "Feb 2021",
+        "description": "Bioengineering High School Competition at UC Berkeley"
+      },
+      {
+        "title": "Using Anti-Glioma Liposomes to Inhibit Complement Assisted Glioma Development",
+        "start_date": "Feb 2020",
+        "description": "Bioengineering High School Competition at UC Berkeley"
+      }
+    ],
+    "location": "San Francisco",
+    "input_url": "https://www.linkedin.com/in/sanjana-taware-2880a5168",
+    "linkedin_id": "sanjana-taware-2880a5168",
+    "activity": [
+      {
+        "interaction": null,
+        "link": "https://www.linkedin.com/posts/carolyn-wang-jy_excited-to-share-recon-a-new-reasoning-synthesis-activity-7466527967905562624-XRCE",
+        "title": "Excited to share RECON, a new reasoning synthesis approach for user modeling! We use action reconstruction as a scoring criterion for synthesized traces, producing more causally faithful reasoning and better downstream action prediction. The core idea: post-hoc rationalization \u2260 good reasoning. Check out our work below :3 \ud83d\udcdd preprint: https://lnkd.in/gcCGvkHU \ud83c\udf10 project page: https://lnkd.in/gRh3Xb_4 \ud835\udd4f original post: https://lnkd.in/guqfKC5Z Alan Zhu *, Mihran Miroyan *, Andrew Zhou , Lisa Dunlap , Narges Norouzi , Joseph Gonzalez ...more ...more",
+        "img": null,
+        "id": "7466527967905562624"
+      },
+      {
+        "interaction": null,
+        "link": "https://www.linkedin.com/posts/jiachenlian_speech-healthcare-education-activity-7394452412075315201-H8Gs",
+        "title": "\ud83d\ude80 Bay Area Speech AI for Healthcare & Education Workshop @ UC Berkeley We\u2019re excited to announce that Berkeley Speech Group will be hosting the first Bay Area Speech AI for Healthcare and Education Workshop at UC Berkeley on November 21st, 12:00PM\u20137 PM! This event brings together researchers, clinicians, and technologists to share state-of-the-art progress in Speech AI \u2014 including our own group\u2019s latest breakthroughs across multiple dimensions \u2014 and to discuss the future of AI-powered healthcare and education. In partnership with UCSF Multitudes , we\u2019ll also showcase our latest AI-supported demo for children\u2019s language screening, developed to support California\u2019s universal K-2 language screening initiative. \ud83d\udd2c Keynote & Highlights Gopala Krishna Anumanchipalli and I\u2019ll be giving a keynote talk on the latest advances in speech and language disorders, bridging AI research, healthcare, and education, with a look at where we are now \u2014 and where the field is heading. We\u2019ll also present ongoing research across several major directions: 1. Universal AI Battery for Kids\u2019 Language Function \u2014 Modular AI for scalable, automated K-2 language screening integrated with UCSF Multitudes. 2. Dysfluency Modeling \u2014 A general AI framework for speech-language disorders, and its clinical translation to Primary Progressive Aphasia 3. Modern AI Solutions for Dyslexia 4. Modern AI Solutions for Semantic Variant Primary Progressive Aphasia (svPPA) 5. Universal Articulatory Speech Language Disorder Analysis 6. Foundation AI Models for Speech Healthcare: 6.1 Universal Phonetic Encoder 6.2 Speech Generation as Articulatory Robot Planning 6.3 Automatic Long-Form Disordered Speech Processing 7. Agentic AI for Speech Language Disorders 8. Universal Language Screening Product Showcase \ud83d\udd17 More info: https://lnkd.in/gDbuQxXt \ud83d\udce9 Interested in joining (in-person or online)? If you\u2019re at Berkeley or beyond, either major in or just interested in speech AI for healthcare and education, or discuss future collaborations. Please attend it! Feel free to DM me or fill out the interest form ( https://lnkd.in/g2nMKGt3 ). Attendance is by invitation only. Location is TBD. We also welcome external speakers to contribute talks at this workshop, alongside our internal presentations. Please feel free to contact me if you\u2019re interested in participating. Credit to all amazing organizers Celine Chen Maggie Dong Anaisha Das Rohit Mekkoth Chenxu Guo Harrison Li Cathy Sheng Sarika Pasumarthy Sanjana Taware Minggang Li Saaketh Kanduri Ayush Ghosh Akshay Anand #Speech #Healthcare #Education #AIHealth ...more ...more",
+        "img": null,
+        "id": "7394452412075315201"
+      },
+      {
+        "interaction": "Sanjana Taware shared this",
+        "link": "https://www.linkedin.com/posts/sanjana-taware-2880a5168_a-huge-thank-you-to-the-uc-berkeley-eecs-activity-7377785941874135041-hbS3",
+        "title": "A huge thank you to the UC Berkeley EECS Department for providing me a scholarship to attend the 2025 Tapia Conference for Diversity in Computing, all the way in Dallas. While the keynote speakers and events were very interesting, I found the best takeaway from this experience was getting a chance to connect with other college students and professionals from across the country. From line dancing with other undergrads to learning about the work being done at national labs, I had a blast exploring and learning (I even got a custom balloon, try to guess what it is)! ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQGDsTLMZVcVrg/feedshare-image-high-res/B56ZmMpNZ7I8Ao-/0/1759001240612?e=2147483647&v=beta&t=RZlfCSTjNk8ZXXU61OvoQ3-ENGViJblqEmCZ_XVnTFw",
+        "id": "7377785941874135041"
+      },
+      {
+        "interaction": "Sanjana Taware shared this",
+        "link": "https://www.linkedin.com/posts/sanjana-taware-2880a5168_nucleate-dojohouse-sf-biotech-meetup-luma-activity-7358683225671524352-py-w",
+        "title": "This Summer I've had the amazing opportunity to be a member of the Nucleate DojoHouse in SF, a co-living house for ambitious undergraduates in biotech. I've met and learned from some really inspiring people! In an effort to continue this, my housemates and I are organizing an informal meet-up geared towards undergrad and grad students in biotech and related industries in the Bay Area. \u200bIf you're passionate about biotech and the life sciences feel free to check it out! https://lu.ma/1qxj2dso ...more",
+        "img": "https://media.licdn.com/dms/image/sync/v2/D5627AQH-GprGG3ptdg/articleshare-shrink_1280_800/B56Zh9J8sUHUAc-/0/1776284364752?e=2147483647&v=beta&t=5xGTUA39a1KeWAkDmJcDS5oSRLTFIKpCDYzwDeeZtsY",
+        "id": "7358683225671524352"
+      },
+      {
+        "interaction": "Sanjana Taware shared this",
+        "link": "https://www.linkedin.com/posts/sanjana-taware-2880a5168_have-you-ever-started-reading-a-research-activity-7353338553403129857-W3-d",
+        "title": "Have you ever started reading a research paper and realized you could barely comprehend the abstract? As one of the top three finalists in the Creativity Track at the UC Berkeley AI Hackathon 2025, myself, Evan Chisholm , Sai Rithvik Kotla , Chakshan Kothakota , and Dimple Amitha Garuadapuri tried to address this issue. We believe that oftentimes there is a comprehension barrier in academic research papers that are not generally written to explain something to a novice. As student researchers, we understood the feeling of being unable to make it past the abstract when trying to understand a complex paper. We wanted to change that, making research more accessible and providing different avenues of understanding. This is where the idea for README AI came from. Watch, understand, implement - research made accessible README AI takes in a research paper and\u2026 - Creates a clean tailored explainer video with a voice-over (akin to 3Blue1Brown or Khan Academy Videos) with targeted and accurate animations grounded in the research paper you\u2019re trying to understand - Highlights key concepts of the paper with text citations on a web interface - Generates a quiz for users to test their understanding of the concepts from the paper - Hosts a library of your analyzed papers and educational videos to reference past materials You can check out our work here!: https://lnkd.in/gkcBmG4W Huge thank you to the CalHacks team for hosting this amazing event. I had an incredible time meeting and collaborating with my teammates over the course of 24 hours to bring a tool that I would use on a daily basis to life. Our next step is to make this available to students. If you\u2019re interested in what we're creating or passionate about accessible EdTech, we would love to hear from you! ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQGtceDEIzISFQ/feedshare-shrink_1280/B56ZgxOcirHcAs-/0/1753172527593?e=2147483647&v=beta&t=GoNRzycDWrGEdZIzqw0ejgys-YzeJNhEFay3oOxTrcQ",
+        "id": "7353338553403129857"
+      },
+      {
+        "interaction": "Sanjana Taware liked this",
+        "link": "https://www.linkedin.com/posts/anthea-guo_we-just-launched-activity-7493309049875304449--c7T",
+        "title": "We just launched! \u2600\ufe0f",
+        "img": "https://media.licdn.com/dms/image/v2/D5605AQHYruPN3pgfEQ/videocover-high/B56Z_2T0rbJMBM-/0/1786543824437?e=2147483647&v=beta&t=iaTesvUkaXLgbzZealy1yHg_uR0OjJIwkIUcNkZzmM8",
+        "id": "7493309049875304449"
+      },
+      {
+        "interaction": "Sanjana Taware reacted on this",
+        "link": "https://www.linkedin.com/posts/shikhakathrani_last-week-i-wrapped-up-my-12-week-summer-activity-7493308603097874432-bTCb",
+        "title": "Last week, I wrapped up my 12-week Summer 2026 internship at Amazon! This summer, I worked on the Post-Silicon Validation & Bringup team for Amazon Leo , where I designed and built a generic, data-driven serial C2C communication protocol test engine on an STM32 microcontroller, helping validate our modem ASIC's communication capabilities. Building the system gave me the chance to work across embedded firmware, low-level debugging, hardware bringup, and post-silicon validation. I spent a lot of time working through race conditions, timing, and latency issues, tackling signal integrity and power integrity, and thinking through architectural tradeoffs around how to keep firmware scalable and maintainable. After seeing firsthand the challenges of hardware reliability and validation, I'm proud to have built a solution that makes testing more scalable, repeatable, and efficient across PVT corners. I'm also incredibly proud to have contributed, even in a small way, to Amazon Leo's mission to expand access to fast, reliable internet. Reliable connectivity is still out of reach for many people, businesses, and communities around the world, so working alongside engineers building a low-Earth-orbit satellite network to help close that gap made the experience especially meaningful. None of this would have been possible without the people who supported me throughout the summer. Thank you to my manager Prasaanthan Yoganathan , my mentor Jimit Patel , my onboarding buddy Morgan Pothoff , and everyone else on the team for the time, patience, technical guidance, feedback, and encouragement you gave me along the way.",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQEmRGC-4Lb-cA/feedshare-shrink_800/B56Z_2UdhkHMAc-/0/1786543987660?e=2147483647&v=beta&t=6_37GY-l_FVodzwPSig7nComEpneaavpOg_kzy7u2Ro",
+        "id": "12"
+      },
+      {
+        "interaction": "Sanjana Taware liked this",
+        "link": "https://www.linkedin.com/posts/raj-patel2004_human-archive-yc-w26-is-a-leader-in-the-activity-7492999497267105792-I1D6",
+        "title": "Human Archive (YC W26) is a leader in the physical AI data race. Today, alongside our latest research, we\u2019re sharing how our business works to push the frontier. 0:40 \u2014 HA-SLAM: The strongest publicly benchmarked results for egocentric SLAM. 2:02 \u2014 HA-HAND: Millimeter-level 3D hand tracking from head-mounted stereo. 2:58 \u2014 HA-Ego-500: The largest open-source action annotation dataset, setting a new gold standard for annotation granularity and accuracy. This is just the beginning. Let\u2019s learn from humans. Thread below.",
+        "img": "https://media.licdn.com/dms/image/v2/D5605AQEBFIYvrPmk2g/videocover-high/B56Z_x7PfZJkBM-/0/1786470271595?e=2147483647&v=beta&t=18HH-clLhFhOYauP5KjQ97GZ7uD9Tj3KMIUQ55chkmM",
+        "id": "7492999497267105792"
+      },
+      {
+        "interaction": "Sanjana Taware liked this",
+        "link": "https://www.linkedin.com/posts/anuveerchadha_spreading-the-word-at-fms-diamonds-are-cool-activity-7492346717485502464-TYj-",
+        "title": "Spreading the word at FMS: diamonds are cool. Literally. We\u2019re commercializing diamond heat spreaders to pull heat out of high-power chips, helping them run cooler, push harder, and last longer. \ud83d\udc8e",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQFdzV5YHrgfBw/feedshare-shrink_800/B56Z_opn6XKoAc-/0/1786314654448?e=2147483647&v=beta&t=W7kBs0wMmMXq2Q-bOCiGqUVsUzDJKK9_qMiVymYg5rs",
+        "id": "7492346717485502464"
+      },
+      {
+        "interaction": "Sanjana Taware liked this",
+        "link": "https://www.linkedin.com/posts/abby-oneill_back-at-unit-1-where-i-lived-as-a-first-year-activity-7491681008874860544-RSpi",
+        "title": "Back at Unit 1, where I lived as a first-year, to participate in an opinionated discussion aptly titled \u201cWhat Really Matters\u201d to this year\u2019s CS Kickstart program with Stella Kaval and Mallika Reddy . CS Kickstart has changed my professional trajectory in so many ways: from majoring in computer science, to starting research at Cal (thanks Jennifer Grannen :D), publishing our first poster with the hopes of meeting THE Professor Colleen Lewis , and getting guidance from so many people who helped me navigate applying to grad school (including our great advisor Audrey Raya Sillers ). Most importantly, the program introduced me to Mallika and Stella. Obligatory friend brag: one started med school this week, and the other has now hit a year of killing it at Meta. Our final message to first-years was short and sweet: Invest in the people you want to grow with. And try to remember that there is no such thing as a \u201cbest path.\u201d Shoutout to the lead directors Emma Lee , Jaclyn Huynh , Hanna Tran and all of leadership and the volunteers this yr. I think a large reason CSK \"works\" is because it is student-led. Check out the program and consider contributing to its future: https://lnkd.in/ge5mkPgZ",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQE8XPF-ZK2xfQ/feedshare-shrink_800/B56Z_dHmllGcAg-/0/1786121186133?e=2147483647&v=beta&t=6Hlb8nZnPfKYZwtRQxY_8vX79VHXrM96SLri9Wk1gNs",
+        "id": "1"
+      },
+      {
+        "interaction": "Sanjana Taware liked this",
+        "link": "https://www.linkedin.com/posts/reva-patel_honored-to-share-that-i-received-the-deans-activity-7491547276788621312-__gG",
+        "title": "Honored to share that I received the Dean's Prize for Excellence in Research from UCLA's Division of Life Sciences for my work on ATAD2 Inhibition as a Strategy Against Advanced Breast Cancer! This research is part of my ongoing senior honors thesis in Dr. Tanya Stoyanova's lab at UCLA, where I'm investigating ATAD2 as a therapeutic target for advanced and treatment-resistant breast cancers. Still very much a work in progress, and I couldn't be more excited about where it's headed. This year I had the privilege of presenting my work at multiple conferences, including the LABEST conference, UCLA\u2019s Undergraduate Research Week, and the MCDB Research Poster Session, with each experience pushing me to communicate my work more clearly and connect with other researchers. Thank you to Dr. Tanya Stoyanova , my mentor Diana Argiles Castillo , and everyone who has supported my journey this far!",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQE-KrDLJhmFqQ/feedshare-shrink_800/B56Z_ag941GsAc-/0/1786077504209?e=2147483647&v=beta&t=YwMcuD5RUCzHjnSpvprnkBvPD51N3m7mOv_WGfgessk",
+        "id": "7491547276788621312"
+      },
+      {
+        "interaction": "Sanjana Taware liked this",
+        "link": "https://www.linkedin.com/posts/morgan-m-stanton_endometriosis-fibroids-nsf-activity-7491122744294559744-WOtJ",
+        "title": "So pleased to share that Opal Therapeutics has been awarded a $1.25 million SBIR Phase II award from the National Science Foundation (NSF) to accelerate the future of women's health drug discovery \ud83d\ude4b\ud83c\udffd\u200d\u2640\ufe0f . \ud83e\uddea Women\u2019s health has entered a new era driven by deep science, enabling technologies, and a growing recognition of the tremendous commercial opportunity in developing better therapies for conditions such as endometriosis and uterine fibroids. Our patient-derived \"uterus-in-a-dish\" platform enables pharmaceutical and biotech companies to evaluate therapeutics directly in human uterine tissue models, helping identify the right drug candidates earlier and reduce reliance on animal models. The NSF award allows us to expand our infrastructure and meet the growing demands of our and biotech/pharma partners. \u270f\ufe0f See the full award details in our press release here: https://lnkd.in/gjF7nNfp I'm incredibly grateful to our team and advisors to get to this point. Amber Cramer , Aabid Shariff, Jennifer Madrigal , Arpitha Rao , Anika Mittal , Carolyn Kreuzkamp , Jean-Charles NEEL #endometriosis #fibroids #nsf #womenshealth #drugdiscovery",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQFYyTfO2AVbXQ/feedshare-shrink_800/B56Z_XQcXOHYAc-/0/1786022840036?e=2147483647&v=beta&t=81kL2IGHOgZbV9Qq719uFI1b72ikI8dH-aczWE6P8rA",
+        "id": "7491122744294559744"
+      },
+      {
+        "interaction": "Sanjana Taware liked this",
+        "link": "https://www.linkedin.com/posts/jonathan-littman-0619325_meet-sarah-goody-and-viplove-rahate-two-activity-7490394862912135169-rfDM",
+        "title": "Meet Sarah Goody and Viplove Rahate , two gifted UC Berkeley students I\u2019m happy to host this Wednesday at SHACK15 . Sarah founded the youth-led Climate NOW at just 14-years-old. She\u2019s become a national a voice on climate issues and concussions. Profiled by Good Morning America, CNN and NBC, she\u2019s written for Teen Vogue and Business Insider. We connected because we both got our start at the Redwood High Bark paper. Sarah received the Princess Diana Award in 2020, the highest honor for youth philanthropic efforts. Viplove and I met at Shack15. He\u2019s a young, smart engineer with a curious mindset. He\u2019s interning at Google on the Agent Monetization team. This fall he\u2019ll intern at Tesla\u2019s Vehicle Software team. He\u2019s excited about \u201cbuilding things people actually use.\u201d Sarah is majoring in legal studies with a minor in public policy, while Viplove is studying Electrical Engineering, Computer Science and Industrial Engineering and Operations Research. Meet Sarah and Viplove at the Shack15 Community Tea this Wednesday, August 5 at 3pm. Two talented University of California, Berkeley students already making waves out in the world. They\u2019ve never met., and I\u2019m thrilled to bring them to meet my pals & colleagues for inspiring conversations. See you Wednesday!",
+        "img": "https://media.licdn.com/dms/image/v2/D4D22AQELpT583dxh2Q/feedshare-shrink_1280/B4DZ_K6PPgH0AM-/0/1785815692530?e=2147483647&v=beta&t=dv4WcsM7lOg18PM47xmehG6w9Mi8-HynKFaAHa4_fl4",
+        "id": "7490394862912135169"
+      }
+    ],
+    "linkedin_num_id": "669076808",
+    "banner_image": "https://media.licdn.com/dms/image/v2/D5616AQH_O_KWxPMlAQ/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1705180409579?e=2147483647&v=beta&t=YL5GUcuEj9Lp1DRMCczZvLeOOhgxQ9p2ZHw6AT_q-4E",
+    "honors_and_awards": [
+      {
+        "title": "README.AI - UC Berkeley AI Hackathon 2025 Creativity Track Finalist",
+        "publication": "Cal Hacks",
+        "date": "2025-06-01T00:00:00.000Z",
+        "description": null
+      },
+      {
+        "title": "EduGap - Cal Hacks Hackathon Berkeley House Fund Winner",
+        "publication": "Cal Hacks",
+        "date": "2024-10-01T00:00:00.000Z",
+        "description": "Created application, EduGap, integrated with Google Classroom to create custom RAG models for student tutoring and teacher feedback Integrated Gemini, ChromaDB, Django, and Sklearn to create functional MVP, pitched to Cal House Fund VC"
+      },
+      {
+        "title": "Cal Alumni Association Leadership Award",
+        "publication": "Cal Alumni Association",
+        "date": "2024-01-01T00:00:00.000Z",
+        "description": null
+      },
+      {
+        "title": "health{hacks} First Place - Human Performance and Digital Fitness Track",
+        "publication": "health{hacks}",
+        "date": "2022-08-01T00:00:00.000Z",
+        "description": "Designed Nutri&Me, a platform that uses data to optimize and personalize nutrition for students on college campuses nationwide at Health Hackathon."
+      }
+    ],
+    "similar_profiles": [],
+    "default_avatar": false,
+    "memorialized_account": false,
+    "bio_links": [
+      {
+        "title": "Personal Website",
+        "link": "https://sanjanataware.github.io/"
+      }
+    ],
+    "first_name": "Sanjana",
+    "last_name": "Taware",
+    "influencer": false,
+    "timestamp": "2026-08-12T19:15:02.084Z",
+    "input": {
+      "url": "https://www.linkedin.com/in/sanjana-taware-2880a5168"
+    }
+  },
+  "local_photo": "data\\linkedin_photos\\sanjana-taware-2880a5168__usr-RTG9sPLA7uX6vAX.jpg"
+}

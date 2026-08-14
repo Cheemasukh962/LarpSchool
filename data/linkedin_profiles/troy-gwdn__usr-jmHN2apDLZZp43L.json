@@ -1,0 +1,439 @@
+{
+  "luma_user_id": "usr-jmHN2apDLZZp43L",
+  "csv_name": "Troy Gunawardene",
+  "csv_linkedin": "https://www.linkedin.com/in/troy-gwdn",
+  "enriched_at": "2026-08-12T19:22:34.865092+00:00",
+  "batch_id": "sd_msqh2468i57o0acas",
+  "profile": {
+    "id": "troy-gwdn",
+    "name": "Troy Gunawardene",
+    "city": "San Francisco, California, United States",
+    "country_code": "US",
+    "position": null,
+    "about": "Hi, I'm Troy! Growing up, I always found myself putting together my talents in\u2026",
+    "posts": [
+      {
+        "title": "HackJPS - Personal Recap and Many Thanks",
+        "attribution": "HackJPS is the official hackathon of my (former) high school, John P. Stevens High School.",
+        "link": "https://www.linkedin.com/pulse/hackjps-personal-recap-many-thanks-troy-gunawardene-rotee",
+        "created_at": "2024-12-18T00:00:00.000Z",
+        "interaction": "6 - 3 Comments",
+        "id": "7274854643455725568"
+      }
+    ],
+    "current_company": {
+      "link": "https://www.linkedin.com/company/eclubneu?trk=public_profile_topcard-current-company",
+      "name": "NU Entrepreneurs Club",
+      "company_id": "eclubneu",
+      "location": null
+    },
+    "experience": null,
+    "url": "https://pl.linkedin.com/in/troy-gwdn",
+    "educations_details": "Northeastern University",
+    "education": [
+      {
+        "title": "Northeastern University",
+        "url": "https://www.linkedin.com/school/northeastern-university/",
+        "start_year": "2024-09",
+        "end_year": "2028-06",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      },
+      {
+        "start_year": "2026",
+        "end_year": "2026",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      },
+      {
+        "start_year": "2020-09",
+        "end_year": "2024-06",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      },
+      {
+        "start_year": "2020-06",
+        "end_year": "2020-12",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      }
+    ],
+    "recommendations_count": 1,
+    "avatar": "https://media.licdn.com/dms/image/v2/D4E03AQElfHpdQhLLAg/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1720968781302?e=2147483647&v=beta&t=nn3_oB3gPMu52pVJUGNwXTu8iXIotgXe4DLPM2kdcnw",
+    "courses": [
+      {
+        "subtitle": "CS2500",
+        "title": "Accelerated Fundamentals of Computer Science 1"
+      },
+      {
+        "subtitle": "CS2510",
+        "title": "Accelerated Fundamentals of Computer Science 2"
+      },
+      {
+        "subtitle": "CS50x",
+        "title": "CS50x Introduction to Computer Science"
+      },
+      {
+        "subtitle": "CS4973",
+        "title": "Cloud Computing"
+      },
+      {
+        "subtitle": "CS1800",
+        "title": "Discrete Structures"
+      },
+      {
+        "subtitle": "ACCT1200",
+        "title": "Financial Accounting and Reporting"
+      },
+      {
+        "subtitle": "FINA2201",
+        "title": "Financial Management"
+      },
+      {
+        "subtitle": "CS1200",
+        "title": "First Year Seminar for Computer Science"
+      },
+      {
+        "subtitle": "ENGW1111",
+        "title": "First-Year Writing"
+      },
+      {
+        "subtitle": "CS3500",
+        "title": "Object-Oriented Design"
+      },
+      {
+        "subtitle": "ECON1115",
+        "title": "Principles of Macroeconomics"
+      },
+      {
+        "subtitle": "ECON1116",
+        "title": "Principles of Microeconomics"
+      },
+      {
+        "subtitle": "-",
+        "title": "\u200bAP Computer Science A"
+      },
+      {
+        "subtitle": "-",
+        "title": "\u200bAP Computer Science Principles"
+      },
+      {
+        "subtitle": "-",
+        "title": "\u200bAP Physics 1"
+      },
+      {
+        "subtitle": "-",
+        "title": "\u200bAP Physics C"
+      },
+      {
+        "subtitle": "-",
+        "title": "\u200bAP Research"
+      },
+      {
+        "subtitle": "-",
+        "title": "\u200bAP Seminar"
+      },
+      {
+        "subtitle": "-",
+        "title": "\u200bAP Spanish Language"
+      },
+      {
+        "subtitle": "-",
+        "title": "\u200bAP US Government"
+      },
+      {
+        "subtitle": "-",
+        "title": "\u200bAP US History"
+      },
+      {
+        "subtitle": "-",
+        "title": "\u200bAP World History"
+      }
+    ],
+    "languages": [
+      {
+        "subtitle": "Native or bilingual proficiency",
+        "title": "English"
+      },
+      {
+        "subtitle": "Full professional proficiency",
+        "title": "Spanish"
+      },
+      {
+        "subtitle": "Limited working proficiency",
+        "title": "Sinhalese"
+      },
+      {
+        "subtitle": "Limited working proficiency",
+        "title": "Chinese"
+      }
+    ],
+    "certifications": [
+      {
+        "meta": "Issued Jun 2025 See credential",
+        "subtitle": "Amazon Web Services (AWS)",
+        "title": "AWS Academy Graduate - AWS Academy Cloud Web Application Builder",
+        "credential_url": "https://www.credly.com/badges/3b72c9e1-540e-4466-8071-ba20a9583dd9/public_url?trk=public_profile_see-credential",
+        "credential_id": null
+      },
+      {
+        "meta": "Issued Jun 2025 See credential",
+        "subtitle": "Northeastern University",
+        "title": "Entrepreneurship & Innovation Experiential Workshop",
+        "credential_url": "https://northeastern.badgr.com/public/assertions/NRB-22m2R_uxkSFjpMxDSw?trk=public_profile_see-credential",
+        "credential_id": null
+      },
+      {
+        "meta": "Issued Jan 2025 See credential",
+        "subtitle": "Northeastern University",
+        "title": "AI in the Workplace",
+        "credential_url": "https://api.badgr.io/public/assertions/1ut37BzTRquNPkH5gGXd5w?identity__email=gunawardene.t%40northeastern.edu&trk=public_profile_see-credential",
+        "credential_id": null
+      },
+      {
+        "meta": "Issued Jan 2025 See credential",
+        "subtitle": "D'Amore-McKim School of Business at Northeastern University",
+        "title": "Leveraging AI for Business",
+        "credential_url": "https://api.badgr.io/public/assertions/M29PFDRcRKChzWEcMuz6cA?trk=public_profile_see-credential",
+        "credential_id": null
+      },
+      {
+        "meta": "Issued Jan 2024",
+        "subtitle": "New Jersey Department of Education",
+        "title": "New Jersey State Seal of Biliteracy",
+        "credential_url": null,
+        "credential_id": null
+      },
+      {
+        "meta": "Issued Dec 2023 Credential ID 3296648-70DF46",
+        "subtitle": "ACTFL",
+        "title": "AAPPL Certificate for Spanish",
+        "credential_url": null,
+        "credential_id": "3296648-70DF46"
+      }
+    ],
+    "recommendations": [
+      "Hannah Piersol \u201cI had the pleasure of working alongside Troy on the NEFAC website project through Code4Community. Troy is one of the most driven, hard-working, and intelligent software engineers I\u2019ve had the opportunity to work with. He consistently brought a high level of professionalism and reliability to our team, delivering high-quality code and going above and beyond to support the project\u2019s success. His technical expertise is top-notch, and he\u2019s also a great team player. I would gladly work with him again and highly recommend him for any software engineering role.\u201d"
+    ],
+    "volunteer_experience": [
+      {
+        "duration": "Jan 2025 \u00b7 - \nMay 2025 \u00b7 \n5 months",
+        "duration_short": "- \nMay 2025",
+        "info": "Helped coordinate Perplexity AI's outreach at Northeastern and in Boston through marketing campaigns and word-of-mouth strategies. Was a top-five performing strategist on the East Coast.",
+        "start_date": "Jan 2025",
+        "subtitle": "Perplexity",
+        "title": "Campus Strategist"
+      },
+      {
+        "duration": "May 2025 \u00b7 - Present \u00b7 \n\n1 year 4 months",
+        "duration_short": "- Present",
+        "info": "Co-founded the only official collegiate organization for students of Sri Lankan heritage in New England",
+        "start_date": "May 2025",
+        "subtitle": "Sri Lankan Students Association at Northeastern University",
+        "title": "Founder, Operations Chair"
+      },
+      {
+        "cause": "Science and Technology",
+        "duration": "Sep 2024 \u00b7 - Present \u00b7 \n\n2 years",
+        "duration_short": "- Present",
+        "info": "Operations mentor for my former robotics team at John P. Stevens High School in addition to the HackJPS hackathon organizing team, preserving and furthering the initiatives I started when I was in high school",
+        "start_date": "Sep 2024",
+        "subtitle": "FIRST",
+        "title": "Mentor"
+      },
+      {
+        "duration": "Apr 2025 \u00b7 - Present \u00b7 \n\n1 year 5 months",
+        "duration_short": "- Present",
+        "start_date": "Apr 2025",
+        "subtitle": "Asian Leadership Initiative",
+        "title": "Hackathon Co-Director"
+      },
+      {
+        "duration": "2022 \u00b7 - \nDec 2024 \u00b7 \n2 years",
+        "duration_short": "- \nDec 2024",
+        "info": "Since my sophomore year of high school, I have been serving as an assistant instructor at classes for all age groups in the Edison dojo. At local tournaments, I volunteered to help run the divisions and set up / clean up. This responsibility also includes duties pertaining to the maintenance of the dojo. Though new commitments (including college) made it difficult to perform these responsibilities from 2024 onwards, I still volunteer at classes or gradings whenever I visit. For details\u2026 Show more Since my sophomore year of high school, I have been serving as an assistant instructor at classes for all age groups in the Edison dojo. At local tournaments, I volunteered to help run the divisions and set up / clean up. This responsibility also includes duties pertaining to the maintenance of the dojo. Though new commitments (including college) made it difficult to perform these responsibilities from 2024 onwards, I still volunteer at classes or gradings whenever I visit. For details about my experience as a student/athlete/competitor, see the Experience section on my profile. Show less",
+        "start_date": "2022",
+        "subtitle": "AMERICAN SHUKOKAI KARATE UNION INC",
+        "title": "Assistant Instructor & Tournament Volunteer"
+      }
+    ],
+    "followers": 2094,
+    "connections": 500,
+    "current_company_company_id": "eclubneu",
+    "current_company_name": "NU Entrepreneurs Club",
+    "location": "San Francisco",
+    "input_url": "https://www.linkedin.com/in/troy-gwdn",
+    "linkedin_id": "troy-gwdn",
+    "activity": [
+      {
+        "interaction": "Troy Gunawardene shared this",
+        "link": "https://www.linkedin.com/posts/troy-gwdn_yc-sus-census-activity-7485891960092770305-P_bM",
+        "title": "I might have your name on a list. If you're attending Y Combinator Startup School, that is. But whether you are or not, aren't you curious about how this cohort of talented students and interns was selected from over 30,000 applicants? I was, so this week I assembled a list of 600+ verified Startup School attendees and ran the numbers. Would you have guessed that 32% of attendees are high school students? Also, the top three schools represented in the sample aren't Ivy Leagues - they're Georgia Tech, Stanford, and UIUC. And maybe Computer Science still isn't dead, because an overwhelming 56% of attendees are CS majors. You can see a bunch more insights in the report below. Comment if there are any questions I missed that you want answered! I might release a more detailed report in my Discord server for Startup School attendees and builders, see the last slide for the link! I'm planning to share other resources and opportunities there over time. ...more",
+        "img": null,
+        "id": "7485891960092770305"
+      },
+      {
+        "interaction": "Troy Gunawardene shared this",
+        "link": "https://www.linkedin.com/posts/troy-gwdn_everyones-gatekeeping-their-yc-startup-school-activity-7479909398048305152-78xY",
+        "title": "Everyone's gatekeeping their YC Startup School group chats. You can join mine right now, no strings attached... Y Combinator 's Startup School is bringing together some incredibly talented, high-signal young people from around the world in SF later this month. And yet it remains so hard to leverage that network; there's no searchable directory you get access to, and no official forum in which you can connect with other attendees. There are unofficial groups, but their entire premise is built on exclusivity - someone needs to be convinced that you're worth enough to be let in, regardless of if you've been accepted to the actual event! At the same time, I noticed that so many accomplished individuals - builders, researchers, founders, and otherwise - didn't apply or are still waiting to hear back, and for that reason it would be valuable to build a community that caters to a broader range of high-achievers in the long term. I want to fix these gaps. I've been building inclusive communities online since middle school, when I once made a Google Classroom with hundreds of classmates and posted about local news, events, important information, etc. It was literally called \"As Much Of Town As Possible\". I didn't want to leave anyone behind. And so, I've created a Discord server that anyone can join. My vision is that it'll be active long after Startup School as folks share events, ideas, and opportunities. We've already got biotech founders, VCs, and even the youngest ever YC hackathon winner. If you *are* attending Startup School, you can self-verify to automatically access the relevant channels and (soon) a directory of attendees! You don't need to hope that someone will read your comment. You don't need to wait for someone to accept your request. You can just join. Why wait? Find my comment below for the link! ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQHhjaGdsXv5Kg/feedshare-shrink_800/B56Z832ggJIMAc-/0/1783348464392?e=2147483647&v=beta&t=0D0VWL5ciOXn04OKYiWyesAjYxgsx72s8bdhdnJPpyw",
+        "id": "7479909398048305152"
+      },
+      {
+        "interaction": "Troy Gunawardene shared this",
+        "link": "https://www.linkedin.com/posts/troy-gwdn_want-to-intern-or-co-op-at-a-yc-startup-activity-7475562540475916288-9AGF",
+        "title": "Want to intern or co-op at a YC startup? I can refer you... I just got invited to Y Combinator 's Startup Internship Expo taking place at their office this August! More than 50 YC startups will be present and conducting on-site interviews for internship, co-op, and new grad roles. There'll also be technical challenges (with prizes), great food, and several insightful talks and workshops. Applications are still open - I'll leave the link in the comments. P.S., I have a referral link for this one too, so reach out if we know each other! ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQEgDDQcmJInXg/feedshare-image-high-res/B56Z75q5u_GQAU-/0/1782305234080?e=2147483647&v=beta&t=lxdTC5qx8wiqCibs4kXoCKjW-a3tL42rmUx8vPEo1Ng",
+        "id": "7475562540475916288"
+      },
+      {
+        "interaction": "Troy Gunawardene shared this",
+        "link": "https://www.linkedin.com/posts/troy-gwdn_all-my-friends-are-too-busy-so-im-building-activity-7474447980973015040-f-Ut",
+        "title": "All my friends are too busy, so I'm building AI agents to play Minecraft with me instead. I'm at the Y Combinator office right now for HUD 's RSI and RL Environments hackathon - my ninth YC hackathon so far - and I decided to build something fun that'd also teach me more about these technologies. A few years ago, I saw a viral video about AI-powered Minecraft bots that \"simulated civilization.\" They formed \"cultures\" and waged \"wars.\" This piqued my curiosity immediately, and hasn't left my mind since. I thought it would be incredible to simulate factions of intelligent agents roaming an open world, gathering resources, dividing tasks, and achieving goals together. To my dismay, the project was closed-source, and no further updates have come out of it since that original demo. By 2026 standards, the technology available at the time that project was made is already aging. Multimodal LLMs, tool calling, structured output, reasoning, and the exponential improvement of the models overall make this project even more feasible than before - indeed, I think I can do better than the original if I continue beyond this hackathon! So far, the agents are capable of: - Navigating, fighting, gathering resources, and other basic abilities - Long and short-term planning and goals - Communicating with each other (or humans) to share info or divide tasks - Social intelligence - remembering good/bad interactions, holding grudges, etc. - \"Imagining\" and building complex structures Anyways, I'm posting this before the hackathon is even over for two reasons: 1. There's a Most Viral track \ud83d\ude05 2. I'd love to have humans play alongside my agents! If you'd like to play with the agents, comment or DM and I'll share access to a test server very shortly. ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D5605AQHZe5wQL-BV_w/videocover-high/B56Z7qSz19JQBY-/0/1782047261336?e=2147483647&v=beta&t=k0sP3mZIuTDPyz2o45J5oIhjF2mjGQMweVSTffFvV7c",
+        "id": "7474447980973015040"
+      },
+      {
+        "interaction": "Troy Gunawardene shared this",
+        "link": "https://www.linkedin.com/posts/troy-gwdn_you-can-move-your-chats-between-claude-code-activity-7469040438952230912-PE2Z",
+        "title": "You can move your chats between Claude Code, Codex, and Cursor now. Here\u2019s how. Recently, I wanted to resume working on a project I had started a few months ago in Cursor. Having gotten more accustomed to Claude Code, I wanted to use Claude Code instead of Cursor moving forward. However, my Cursor chats held context that I couldn\u2019t port into Claude, making for a rough handoff. The great thing about writing software in 2026 is there's no reason to wait for solutions to your problems. I vibe coded an MVP by lunchtime on a random Sunday when I felt like it. My initial challenge of porting Cursor chats to Claude Code was solved. But then I got ambitious: I wanted to implement the opposite migration path, as well as add support for other coding agents. This required some creativity - telling Claude to \u201cadd Codex support, make no mistakes\u201d would be futile, because it had no way to verify its work without me manually attempting migrations and visually confirming everything looked correct over and over. So then I built my own end-to-end verification loop for CLI development. The end result was that Claude could add support for other agents without any intervention on my part! This became a distinct project that deserves a separate writeup. In the meantime, try out agent-migrator. You can install it with one command: uv tool install agent-migrator Then, in any project directory where you\u2019ve used Claude Code CLI, Codex CLI, Gemini CLI, or Cursor IDE, simply run: agent-migrator Pick your source and target agents, select the chats you want to migrate, and submit. The chats you started with one coding agent instantly become visible to another - a useful ability considering Claude\u2019s rather disappointing uptime, and the fact that a different company releases the latest \u201cmost powerful\u201d coding model every two weeks. It\u2019s open source. Check out the repo at the link in the comments! I even included a Claude Code plugin that auto-migrates your chat when you start hitting API errors. ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D5605AQHGB36PIvIwSw/videocover-high/B56Z6dMCvjGsBU-/0/1780753643144?e=2147483647&v=beta&t=hTPlDE3wh_nAZ0IukAGuzCF-_7cn_TqlOg7uEzoxm8Y",
+        "id": "7469040438952230912"
+      },
+      {
+        "interaction": "Troy Gunawardene shared this",
+        "link": "https://www.linkedin.com/posts/troy-gwdn_i-got-the-shiny-orange-ticket-and-maybe-activity-7465050366120873984-LxNw",
+        "title": "I got the shiny orange ticket! And maybe I can get you one too... I'm so excited to share that out of 30,000+ applicants, I've been accepted to Y Combinator 's Startup School taking place this summer! I'm looking forward to a weekend of learning from industry leaders, attending hands-on demos, and of course, networking. As part of my acceptance, I received a referral link! It's not a guaranteed acceptance, just a bump in the queue. To keep my referrals high-signal, I want to offer this to folks in my network who are pushing themselves to build and learn. If you're interested, comment or DM me about something interesting you've built in the past year. It could be a side project, a hackathon submission, or something else entirely - especially something you chose to create on your own initiative! Also, I'd love to get to know anyone else who's attending! ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQFY47v0lmXbTg/feedshare-shrink_800/B4EZ5j4WWnHUAg-/0/1779792176967?e=2147483647&v=beta&t=bz-Flmk_uUaU0UvPH6sC-yN0U6dJij50hAwtPPL46vI",
+        "id": "7465050366120873984"
+      },
+      {
+        "interaction": "Troy Gunawardene shared this",
+        "link": "https://www.linkedin.com/posts/troy-gwdn_won-another-yc-hackathon-and-this-time-i-activity-7463604618795659264-b8mh",
+        "title": "Won another YC Hackathon, and this time I met Garry Tan ! Last Saturday I was at my fourth Y Combinator hackathon, where we were tasked with using Garry Tan's \"AI brain\" framework, GBrain. GBrain ingests knowledge in any format, recalling information coherently over long periods of time and large volumes of data. It's meant to act as an extension of yourself or the sum of all your organization's knowledge. For this project, my teammate Holly T. leaned into her research experience in the medical field, ultimately identifying the problem we aimed to solve: junior radiologists need a way to improve their ability to analyze scans even when senior colleagues aren't available to assess their work. We didn't just guess that this problem existed. We first spoke to Yuva Krishnapillai , a Stanford-based brain researcher and founder whose insights offered initial validation for our idea. During the event, we even managed to chat with Dr. Micha\u0142 Nedoszytko MD, PhD , the cardiologist who famously won at Anthropic 's global hackathon. After we demoed what we had built by that point, we asked upfront if he would find the product useful if we completed it and he were our target user, and he said yes! Filled with confidence, we doubled down on implementing a few points of feedback he had offered, and soon enough we submitted our project. We demoed live on stage, and then eagerly waited for the judges to deliberate. As someone who's been to several YC hackathons, this one held more weight than usual since Garry himself was among the judges. Eventually, it was time for the winners to be announced. Team after team walked onstage and posed for photos - and then they called up our team, Cortex! We thought we misheard the announcer for a moment, and then rushed to the stage. Turns out we were a winner in the GBrain track! This time around I didn't win cash... but I did get to exchange contact info with Garry! And he gave us signed hats. In any case, this hackathon was the first time I explored GStack and GBrain, as well as the first time I built anything for the healthcare industry. The whole experience was very inspiring, and I'm looking forward to the next hackathon. Thanks once again to my teammate Holly and to the event organizers! P.S. I have some other exciting YC-related news to share in the coming days \ud83d\udc40 ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQHiVkijLnk0zg/feedshare-image-high-res/B56Z5P03x7HUAU-/0/1779455721268?e=2147483647&v=beta&t=2BeIvT7uYT_INsotjnZ2vWrDMUj_YzvW7aHJBRi8GGo",
+        "id": "7463604618795659264"
+      },
+      {
+        "interaction": "Troy Gunawardene shared this",
+        "link": "https://www.linkedin.com/posts/troy-gwdn_were-building-a-team-of-superheroes-at-northeastern-activity-7461056577907703808-jaIS",
+        "title": "We're building a team of superheroes at Northeastern. You should apply. NU Entrepreneurs Club is the largest student org at Northeastern University . For close to two decades, it's been a driving force behind our university's renowned entrepreneurial spirit. In the coming year, my co-president Khushi Shah and I will be making some big changes. We're refining our programs to be more tightly scoped towards supporting builders, creating founders, and providing tailored mentorship for participants. We are taking some risks: programs that have been around for many years are being restructured, we'll be refactoring our branding, and we're making adjustments to how we operate internally, all at once. In our club's long history, there have been few moments like this. We can't do it alone. We need many self-motivated, passionate, and talented people on our team. That includes: - Builders, founders, and/or those with VC experience to run our core programs - CS/technical folks who can drive AI-adoption and data tracking via custom-built projects that use current technology - not only update our website! - Growth-oriented people who can leverage our combined network to secure speakers, judges, partnerships, and more through warm intros and cold outreach - Content creators who can come up with great ideas and produce attention-grabbing media - Operators who know how to make big things happen and own the execution of various events - Designers who can iterate on our brand guide and use professional tools like Figma or Illustrator - Photographers who'll be responsible for capturing some of the largest student-run events on campus - Community builders who can make E-Club memorable and fun for everyone involved On top of that, we're even allowing for you to pitch your own role if it doesn't exist yet. This is your chance to leave a lasting impact on campus. The work we'll do together this fall will set a precedent for years to come. The roles (with descriptions) and application form are in the comments. The deadline is next Friday, May 22nd. Don't miss out on E-Club 2.0! P.S. if you have questions, are on the fence about applying, or just want to (re)connect, don't hesitate to send me a DM! If we haven't connected yet, just leave a comment so I know you're interested in E-Club :) ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQHLidNZypMfOg/feedshare-shrink_800/B56Z4rcio3JIAc-/0/1778845364090?e=2147483647&v=beta&t=Ag-kbNfvaJG9lkmatLAviOMcvtUch58Ak63ztH6S93w",
+        "id": "7461056577907703808"
+      },
+      {
+        "interaction": "Troy Gunawardene shared this",
+        "link": "https://www.linkedin.com/posts/troy-gwdn_ive-started-going-to-hackathons-every-single-activity-7458893560977862656-2Ixu",
+        "title": "I've started going to hackathons every single weekend while I'm in SF. It's not about stacking up wins. Every hackathon is an opportunity to broaden your horizons, both in terms of technical experience and meeting new people. Most hackathons will encourage participants to build projects that relate to a given niche, or that utilize specific technologies. Those events are great for pushing yourself out of your comfort zone; before coming to SF, I had never built projects involving voice agents, edge inference, ChatGPT addons, Meta glasses, prediction markets, generative video, and the list goes on. Nothing was stopping me from exploring those technologies on my own, but hackathons forced me to actually become competent in them within a short time frame. Moreover, hackathons are an excellent source of inspiration as a prospective entrepreneur. I've found that attending these events keeps me ahead of the curve in terms of emerging technologies and the types of problems they can solve. Generally, I think there's a lot of overlap between good hackathon ideas and good startup ideas - the winning projects usually have identified a genuine pain point felt by real people which they've solved using innovative technology. Having to build useful, demoable products within a single day (or even just a few hours!) each weekend helps me train that entrepreneurial muscle as I explore my own ideas and come across new problems to solve. On the non-technical side, hackathons are also an excellent way to meet interesting people and push yourself out of your comfort zone. Outside of college-affiliated hackathons, I often find that I'm among the youngest in the room, but that's not a bad thing! At those events, I'm often surrounded by startup founders, senior engineers, top researchers, and serious builders who I can always learn something from. Simultaneously, I sometimes still run into people younger than myself - even high school students - who inspire me through their boldness and creativity. In the same vein, hackathons are an easy way to get noticed. Some of my best-performing posts on LinkedIn have been about hackathons I've gone to, and the projects I've built have made me much more noticeable. Of course, the people you make an impression on when you demo at these events can be highly valuable, too - consider TreeHacks , HackMIT , or the various Y Combinator hackathons I've gone to recently, for example! Anyways, I'm heading to yet another hackathon today over at UC Berkeley, and some bigger ones later this month. If you'd like to team up at a hackathon in the bay sometime, send me a message! And if a detailed breakdown about my hackathon strategies would be useful, do let me know. Pictured below: my most recent hackathon teammate Pablo Ram\u00edrez Ortiz (a startup founder from Ecuador!) and I at Beta Fund 's 'Builders of Tomorrow' hackathon last weekend. ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQFIyRdNEQZ2KA/feedshare-shrink_800/B56Z4Ml0CUIsAc-/0/1778327699874?e=2147483647&v=beta&t=4fOgWnLlzx3_tF5JdlRPct_Uy7GEH6wq01Gh042o_hk",
+        "id": "7458893560977862656"
+      },
+      {
+        "interaction": "Troy Gunawardene commented on a post 1w",
+        "link": "https://www.linkedin.com/posts/ryankicks_yc-startup-internship-expo-activity-7488690524611334144-2oES",
+        "title": "Excited to be attending!",
+        "img": null,
+        "id": "7488690524611334144"
+      },
+      {
+        "interaction": "Troy Gunawardene liked this",
+        "link": "https://www.linkedin.com/posts/sia-mittal-9291a2264_financialliteracy-communityimpact-education-activity-7486238051715850240-Yl3R",
+        "title": "I'm incredibly grateful for the opportunity to have served as an Ambassador for the Schiffer Family Financial Literacy Program this year. Through this experience, I had the privilege of working with students at North Brunswick Township High School and Franklin High School, helping them build a stronger understanding of personal finance and the importance of financial literacy at a young age. A special thank you to the Schiffer team of ambassadors, program directors Ron Richter and Luke Greeley, PhD , and especially Anna Wingerter and Ted Olswfski who I worked closely with throughout the program. Their passion for expanding financial education made this experience both rewarding and inspiring. It was exciting to engage with students, answer their questions, and hopefully make a small impact on how they think about budgeting, saving, investing, and making informed financial decisions. Financial literacy is a life skill, and I'm proud to have contributed to an initiative that empowers the next generation with the knowledge and confidence to make smarter financial choices. Thank you to everyone involved for making this such a meaningful experience. I look forward to continue expanding the Schiffer program and to support initiatives that promote education and community impact. #FinancialLiteracy #CommunityImpact #Education #Leadership #Volunteer #SchifferFinancialLiteracy #FinancialEducation #GivingBack",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQFtVH_6Jkdt5A/feedshare-shrink_800/B4EZ.R11mzHMAc-/0/1784858237718?e=2147483647&v=beta&t=tHphgDaHc54_7dPYmky9Ae8KL-Taq15i2XHt4n_xbC0",
+        "id": "7486238051715850240"
+      },
+      {
+        "interaction": "Troy Gunawardene liked this",
+        "link": "https://www.linkedin.com/posts/clevy_robert-w-dropped-out-of-harvard-at-21-with-activity-7493161831444660224-OK53",
+        "title": "Robert W. dropped out of Harvard at 21 with $10,000 in a bank account. Three years later Etched has raised $1B+, is valued over $10B, and has signed $1B+ in customer contracts. He's 24. His explanation for why it worked: \"We were absolutely not the best people in the world to solve this. We were the only people willing to.\" More below in this talk he gave to hundreds of interns.",
+        "img": "https://media.licdn.com/dms/image/v2/D5605AQFp-ZBZWXiJlA/videocover-high/B56Z_0Of8sGQBM-/0/1786508915370?e=2147483647&v=beta&t=vug78maudfbwFXsUB7yQxkkrCji3dDhLlFFmonTZYP8",
+        "id": "21"
+      },
+      {
+        "interaction": "Troy Gunawardene liked this",
+        "link": "https://www.linkedin.com/posts/krish-bansal2_my-time-at-northeastern-university-officially-activity-7493157025023963136-pVWD",
+        "title": "My time at Northeastern University officially came to a close this past April. Looking back, I\u2019m walking away most grateful for the friends and mentors I met along the way, and for a co-op program that actually let me get out there and explore different industries. Being able to test-drive different roles gave me the exact exposure I needed to figure out what I wanted to do. After all that exploring, I\u2019m excited to share that I\u2019ve moved out to San Francisco to return to Salesforce as a full-time Software Engineer! I really loved my time here previously, and getting to come back and work with a team I genuinely enjoy being around is an amazing feeling. A big thanks to everyone who supported me over the last few years. I'm really looking forward to what lies ahead. Futureforce: Salesforce University Recruiting",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQGxsc7FTBUBAw/feedshare-shrink_800/B56Z_0Kl5uK0Ac-/0/1786507849121?e=2147483647&v=beta&t=_aoLGGuaTa387xNLYO7nB7iy5VV2VhjXkhJUfg90TQw",
+        "id": "7493157025023963136"
+      },
+      {
+        "interaction": "Troy Gunawardene liked this",
+        "link": "https://www.linkedin.com/posts/clevy_sam-altman-x-cory-levy-at-internapalooza-activity-7492951794579513344-olf2",
+        "title": "had a great surprise conversation with Sam Altman the other day in front of hundreds of Silicon Valley interns We talked about: - turning down Goldman Sachs and dropping out of Stanford - how he got Peter Thiel and Paul Graham to take 19-year-old Sam seriously - advice for young people - the version of ChatGPT he is looking most forward to...and more https://lnkd.in/gDvS_ZEB",
+        "img": "https://media.licdn.com/dms/image/sync/v2/D5627AQEIKKa1LbxfPw/articleshare-shrink_800/B56Z_xPqRFJYAY-/0/1786458843578?e=2147483647&v=beta&t=bMLWMAjn2Dv_woLj18gqPq4to3WUKpGtjJ_2ZM2Adek",
+        "id": "7492951794579513344"
+      },
+      {
+        "interaction": "Troy Gunawardene liked this",
+        "link": "https://www.linkedin.com/posts/mehr-anand_northeastern-nucoop-networkconnector-activity-7492925268928528384-yPw6",
+        "title": "\ud83c\udf09 Our first NYC Co-op Connector event is officially in the books! Alongside fellow Connectors Amina Rashid , Logan Frith , and Dharmika Pendyam , we helped host Northeastern University 's first co-op gathering in NYC at Pier 1, Brooklyn Bridge Park - and 30+ Huskies showed up with the Manhattan skyline and Brooklyn Bridge as our backdrop. Watching people who had never met before connect, swap co-op stories, and build community together was such a special reminder of how far Northeastern's network reaches, even off campus. We're already planning our next one - so if you're a Northeastern student on co-op in NYC, reach out ASAP. We're putting together a Partiful for the next gathering and want you on the list! Thank you to Christine Tibbetts for helping us with this program! #Northeastern #NUCoop #NetworkConnector #NYC",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQElieKT2Sk9Sg/feedshare-shrink_800/B4EZ_w3ztHK0Ac-/0/1786452594467?e=2147483647&v=beta&t=B5HxR6a0AorfyiK0laWocCzstEsYE1VKhir_ivmD3XE",
+        "id": "7492925268928528384"
+      },
+      {
+        "interaction": "Troy Gunawardene reacted on this",
+        "link": "https://www.linkedin.com/posts/annabelle-davis-827a3b28a_its-been-a-busy-summer-i-started-it-off-activity-7492661094872678400-QS0l",
+        "title": "It\u2019s been a busy summer. I started it off studying abroad in Switzerland at FHNW Basel with 15 other designers, under the instruction of Mark Laughlin and with support from our wonderful program assistant, Lauren Violette . I had an incredible time and learned so much about typography, design, and how I approach creative work. I\u2019ve spent the rest of the summer interning at Interplanetary Help Desk , a 501(c)(3) nonprofit, where I\u2019ve worked across social media and graphic design while also helping negotiate paid marketing partnerships and sponsorships. More recently, I joined Northeastern\u2019s Entrepreneurship Club (E-Club) as Design Director. I\u2019m excited to work alongside such a talented team and help shape the visual identity of Northeastern\u2019s largest business club this semester. And finally, after a lot of work, I finished and published my portfolio! Check it out: annabelledavis.xyz It\u2019s been a full summer, and it looks like it\u2019ll be an equally busy fall as I begin searching for co-op opportunities in the design and marketing space. If you know of a team, role, or opportunity you think I\u2019d be a good fit for, I\u2019d love to hear about it.",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQFtpICKCqzy0A/feedshare-shrink_800/B56Z_tHirpKsAc-/0/1786389605583?e=2147483647&v=beta&t=ICeznrPBYWGD6p6GRvaIQcAo-BtANaeP4RLfmojYKYw",
+        "id": "7492661094872678400"
+      },
+      {
+        "interaction": "Troy Gunawardene liked this",
+        "link": "https://www.linkedin.com/posts/digarchitecture_golfouting-acementorprogram-acementornj-activity-7492641947078283264-ijIP",
+        "title": "DIG Architecture has a longstanding connection to ACE Mentor Program of NJ and was proud to support last week\u2019s 15th Annual Golf Outing at Lake Mohawk Golf Club! \u26f3 DIG Associate Principal & Senior Project Manager LoriAnne Jones, AIA, NOMA is not only an ACE NJ Board Member, but also a mentor with the Middlesex Team at John P. Stevens High School . With beautiful weather and great company, LoriAnne enjoyed a day on the links alongside friends, colleagues, and fellow Middlesex Team leaders. \ud83e\udd1d Another great day of golf supporting an even better cause: supporting the next generation of AEC professionals! \ud83d\udc77\u200d\u2640\ufe0f #golfouting #ACEMentorProgram #ACEMentorNJ #mentorship #MentorshipMatters #futurearchitects #healthcaredesign #schooldesign #civicdesign #seniorlivingdesign #aviationdesign #njarchitects #phillyarchitects #nycarchitects",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQFFB_gwFSEdLw/feedshare-shrink_800/B4EZ_s2JN1K0Ac-/0/1786385044698?e=2147483647&v=beta&t=zM-2Cr_Y6vfDxTzgCpewZ2Ne7pDbsnlPYRzthzBaUlw",
+        "id": "7492641947078283264"
+      },
+      {
+        "interaction": "Troy Gunawardene liked this",
+        "link": "https://www.linkedin.com/posts/ameyab_workshop-build-your-eval-foundations-luma-activity-7492699386934804480-sVeW",
+        "title": "Seattle folks working on AI agents: we\u2019re hosting a hands-on workshop on August 25 focused on building strong eval foundations. If you\u2019re an AI engineer, ML practitioner, or technical PM trying to understand what your agent is actually doing, how to measure quality, and how to improve it across iterations, this is for you. We\u2019ll cover how to: \u2022 Observe agent behavior step by step \u2022 Build evals that measure what matters \u2022 Score runs and track quality over time \u2022 Turn production behavior into a practical eval workflow No prior eval experience is required. Just bring a laptop. We already have an incredible group registered, including AI builders, engineers, and product leaders from companies building some of the most exciting AI products today, plus founders from across the PNW AI community. \ud83d\udccd RailSpur rooftop, Seattle \ud83d\udcc5 Tuesday, August 25 \u23f0 3 to 6 PM Plus drinks, networking, and a pretty great view of the Seattle skyline and Puget Sound. Register here: luma.com/seattle-workshop If you know someone in Seattle building agents who would get value from this, send it their way.",
+        "img": "https://media.licdn.com/dms/image/sync/v2/D5627AQGBQiezd-sbyQ/articleshare-shrink_800/B56Z_UW8x8GcAY-/0/1785974214077?e=2147483647&v=beta&t=SYncCkMPRKZmJoIyAAVVPhA9n6kCkmeOHFKHEcsfxxI",
+        "id": "7492699386934804480"
+      }
+    ],
+    "linkedin_num_id": "1075692590",
+    "banner_image": "https://media.licdn.com/dms/image/v2/D5616AQGb2nPN9DVfTg/profile-displaybackgroundimage-shrink_200_800/B56Z5Nu3NCG0AU-/0/1779420591188?e=2147483647&v=beta&t=b4eOJv2Cc9M5gGWBPrAEATuPMok23EG_CH7BEHuSY0I",
+    "honors_and_awards": [
+      {
+        "title": "HackMIT 2025 - Entertainment Track Winner",
+        "publication": "HackMIT",
+        "date": "2025-09-01T00:00:00.000Z",
+        "description": null
+      },
+      {
+        "title": "Dean's List",
+        "publication": "Khoury College of Computer Sciences at Northeastern University",
+        "date": "2025-01-01T00:00:00.000Z",
+        "description": "Placed on Dean's List for Fall 2024"
+      },
+      {
+        "title": "President's Volunteer Service Award - Gold",
+        "publication": "The White House & AmeriCorps",
+        "date": "2023-01-01T00:00:00.000Z",
+        "description": "Issued by the White House via AmeriCorps in recognition of my completion of 250+ volunteer hours within one year."
+      }
+    ],
+    "similar_profiles": [],
+    "default_avatar": false,
+    "memorialized_account": false,
+    "bio_links": [
+      {
+        "title": "Personal Website",
+        "link": "https://troys.page/"
+      }
+    ],
+    "first_name": "Troy",
+    "last_name": "Gunawardene",
+    "influencer": false,
+    "timestamp": "2026-08-12T19:18:21.880Z",
+    "input": {
+      "url": "https://www.linkedin.com/in/troy-gwdn"
+    }
+  },
+  "local_photo": "data\\linkedin_photos\\troy-gwdn__usr-jmHN2apDLZZp43L.jpg"
+}

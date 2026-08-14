@@ -1,0 +1,110 @@
+{
+  "luma_user_id": "usr-go13YYnhqnbShk3",
+  "csv_name": "Elvin Li",
+  "csv_linkedin": "https://www.linkedin.com/in/li-elvin",
+  "enriched_at": "2026-08-12T19:01:42.793607+00:00",
+  "batch_id": "sd_msqgese9ztya3e3uk",
+  "profile": {
+    "id": "li-elvin",
+    "name": "Elvin Li",
+    "city": "Dallas-Fort Worth Metroplex",
+    "country_code": "US",
+    "position": null,
+    "about": "MS CS @ Stanford BS Math &amp; CS @ UCSD Interests - Roles: software\u2026",
+    "current_company": {
+      "link": "https://www.linkedin.com/company/amazon-web-services?trk=public_profile_topcard-current-company",
+      "name": "Amazon Web Services (AWS)",
+      "company_id": "amazon-web-services",
+      "location": null
+    },
+    "experience": null,
+    "url": "https://qa.linkedin.com/in/Li-elvin",
+    "educations_details": "Stanford University",
+    "education": [
+      {
+        "title": "Stanford University",
+        "url": "https://www.linkedin.com/school/stanford-university/",
+        "start_year": "2026",
+        "end_year": "2028",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      },
+      {
+        "start_year": "2022",
+        "end_year": "2026",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      },
+      {
+        "start_year": "2019",
+        "end_year": "2022",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      }
+    ],
+    "avatar": "https://media.licdn.com/dms/image/v2/D5603AQEIWDTtGzk42Q/profile-displayphoto-scale_200_200/B56Z3Y.R.MHAAY-/0/1777461705695?e=2147483647&v=beta&t=OfOfqa8l7G8NRi00fy3s3kLw7ueekqCNNWRF856Cvy0",
+    "languages": [
+      {
+        "subtitle": "Native or bilingual proficiency",
+        "title": "English"
+      }
+    ],
+    "followers": 378,
+    "connections": 368,
+    "current_company_company_id": "amazon-web-services",
+    "current_company_name": "Amazon Web Services (AWS)",
+    "publications": [
+      {
+        "title": "Self-Supervised Anomaly Detection Framework for Intrusion Detection",
+        "subtitle": "AAAI",
+        "date": "February 10, 2025",
+        "description": "First Author, Accepted as Oral Paper"
+      },
+      {
+        "title": "Continual Anomaly Detection for Enhanced Learning in intrusion detection systems",
+        "subtitle": "Computer Networks Journal",
+        "description": "First Author"
+      },
+      {
+        "title": "Dynamic Defense Selection for Enhancing Machine Learning-based Intrusion Detection Against Adversarial Attacks",
+        "subtitle": "IEEE",
+        "description": "Best Paper Award"
+      },
+      {
+        "title": "Rigorous Evaluation of Machine Learning-Based Intrusion Detection Against Adversarial Attacks",
+        "subtitle": "IEEE",
+        "description": "Second Author"
+      }
+    ],
+    "location": null,
+    "input_url": "https://www.linkedin.com/in/li-elvin",
+    "linkedin_id": "li-elvin",
+    "activity": [
+      {
+        "interaction": "Liked by Elvin Li",
+        "link": "https://www.linkedin.com/posts/terrytkim_im-excited-to-announce-that-im-starting-activity-7458885999981543425-ywTu",
+        "title": "I\u2019m excited to announce that I\u2019m starting a new position as a full-time R&D Systems Engineer Abbott! I\u2019m excited to work under Goutham P. and the\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQHxYJHYdgLScg/feedshare-shrink_800/B4EZ4M8jwkKAAc-/0/1778333662558?e=2147483647&v=beta&t=4kOrm7fdH6H2b7abVd4uWEVZMrcceY207tzNQ8eo9AI",
+        "id": "7458885999981543425"
+      }
+    ],
+    "linkedin_num_id": "1105478864",
+    "banner_image": "https://media.licdn.com/dms/image/v2/D5616AQGug9UKUGElAg/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1684608608933?e=2147483647&v=beta&t=l8nKTROT3peoDpKwS-UXBnwKXVN96OyUcpb5e3Ffboc",
+    "honors_and_awards": null,
+    "similar_profiles": [],
+    "default_avatar": false,
+    "memorialized_account": false,
+    "bio_links": [],
+    "first_name": "Elvin",
+    "last_name": "Li",
+    "influencer": false,
+    "timestamp": "2026-08-12T19:00:18.294Z",
+    "input": {
+      "url": "https://www.linkedin.com/in/li-elvin"
+    }
+  },
+  "local_photo": "data\\linkedin_photos\\li-elvin__usr-go13YYnhqnbShk3.jpg"
+}

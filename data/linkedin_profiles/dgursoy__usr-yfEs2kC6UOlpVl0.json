@@ -1,0 +1,337 @@
+{
+  "luma_user_id": "usr-yfEs2kC6UOlpVl0",
+  "csv_name": "Deniz Gursoy",
+  "csv_linkedin": "https://www.linkedin.com/in/dgursoy",
+  "enriched_at": "2026-08-12T19:01:42.783546+00:00",
+  "batch_id": "sd_msqgese9ztya3e3uk",
+  "profile": {
+    "id": "dgursoy",
+    "name": "Deniz Gursoy",
+    "city": "United States",
+    "country_code": "US",
+    "position": null,
+    "about": "Electrical Engineering &amp; Computer Science student at Penn passionate about robotics\u2026",
+    "current_company": {
+      "link": "https://www.linkedin.com/company/spacex?trk=public_profile_topcard-current-company",
+      "name": "SpaceX",
+      "company_id": "spacex",
+      "location": null
+    },
+    "experience": null,
+    "url": "https://de.linkedin.com/in/dgursoy",
+    "educations_details": "University of Pennsylvania",
+    "education": null,
+    "avatar": "https://static.licdn.com/aero-v1/sc/h/9c8pery4andzj6ohjkjp54ma2",
+    "languages": [
+      {
+        "subtitle": "Native or bilingual proficiency",
+        "title": "Turkish"
+      },
+      {
+        "subtitle": "Professional working proficiency",
+        "title": "Spanish"
+      }
+    ],
+    "certifications": [
+      {
+        "meta": "Issued May 2026",
+        "subtitle": "Y Combinator",
+        "title": "2026 YC Startup School Attendee",
+        "credential_url": null,
+        "credential_id": null
+      },
+      {
+        "meta": "Issued Apr 2026",
+        "subtitle": "Goldman Sachs",
+        "title": "2026 Engineering Possibilities Summit Attendee",
+        "credential_url": null,
+        "credential_id": null
+      },
+      {
+        "meta": "Issued Jul 2025 See credential",
+        "subtitle": "LinkedIn",
+        "title": "AutoCAD 2026 Essential Training",
+        "credential_url": "https://www.linkedin.com/learning/certificates/3303849b18c93f590ee7398fae22afa2ac8f9d503210a38e4436264b0a42ab51?trk=public_profile_see-credential",
+        "credential_id": null
+      },
+      {
+        "meta": "Issued Jul 2025 See credential",
+        "subtitle": "LinkedIn",
+        "title": "AWS Certified Data Engineer Associate (DEA-C01) Cert Prep",
+        "credential_url": "https://www.linkedin.com/learning/certificates/274ed55a2e091a43338238483a4638ed3fe2d8c51638266376bba7fe85db4c30?trk=public_profile_see-credential",
+        "credential_id": null
+      },
+      {
+        "meta": "Issued Jul 2025 See credential",
+        "subtitle": "LinkedIn",
+        "title": "C Programming for Embedded Applications",
+        "credential_url": "https://www.linkedin.com/learning/certificates/fd77cf2f0ab7ea2eb1658fa70aae8eb2c460e60f03439b8ecc3c5052547b377b?trk=public_profile_see-credential",
+        "credential_id": null
+      },
+      {
+        "meta": "Issued Jul 2025 See credential",
+        "subtitle": "LinkedIn",
+        "title": "Learning Altium",
+        "credential_url": "https://www.linkedin.com/learning/certificates/3d06b8f8a1f50389f1663debdc088634f4b5e08eb90288e4f0fa71d3559f82a9?trk=public_profile_see-credential",
+        "credential_id": null
+      },
+      {
+        "meta": "Issued Jul 2025 See credential",
+        "subtitle": "LinkedIn",
+        "title": "Learning Verilog for FPGA Development",
+        "credential_url": "https://www.linkedin.com/learning/certificates/94abda3dc9c280d885250f334d5428331c5a76438f0f84d4de40ceb4f3d4168c?trk=public_profile_see-credential",
+        "credential_id": null
+      },
+      {
+        "meta": "Issued Jul 2024 Credential ID 63704142 See credential",
+        "subtitle": "CITI Program",
+        "title": "Responsible Conduct of Research",
+        "credential_url": "https://www.linkedin.com/www.citiprogram.org/verify/?w7922a250-323c-4edd-8bba-b0a3af3ea850-63704142&trk=public_profile_see-credential",
+        "credential_id": "63704142"
+      },
+      {
+        "meta": "Issued Jul 2024 Credential ID 63704142 See credential",
+        "subtitle": "CITI Program",
+        "title": "Responsible Conduct of Research in Engineering",
+        "credential_url": "https://www.linkedin.com/www.citiprogram.org/verify/?w7922a250-323c-4edd-8bba-b0a3af3ea850-63704142&trk=public_profile_see-credential",
+        "credential_id": "63704142"
+      },
+      {
+        "meta": "Issued Jul 2022",
+        "subtitle": "Inspirit AI",
+        "title": "AI Scholar Participant",
+        "credential_url": null,
+        "credential_id": null
+      }
+    ],
+    "followers": 2921,
+    "connections": 500,
+    "current_company_company_id": "spacex",
+    "current_company_name": "SpaceX",
+    "publications": [
+      {
+        "title": "Molecular Mechanisms of Perfluoroalkyl Substances Integration into Phospholipid Membranes",
+        "subtitle": "American Chemical Society, Langmuir",
+        "date": "April 2, 2025"
+      }
+    ],
+    "projects": [
+      {
+        "title": "Token-Efficient Browser Agents via Reinforcement Fine-Tuning",
+        "start_date": "Jun 2026",
+        "description": "YC HUD Frontier/RSI RL Environments Hackathon"
+      },
+      {
+        "title": "AI-Powered Assistive Wearable for Visually Impaired",
+        "start_date": "Nov 2025"
+      },
+      {
+        "title": "FPGA-Accelerated Algorithmic Trading Agent",
+        "start_date": "Jul 2025",
+        "description": "- Developed a complete, end-to-end deep reinforcement learning (DRL) system to perform high-frequency trading on cryptocurrency markets. The project successfully demonstrated a hybrid hardware/software approach to achieve ultra-low latency decision-making.-Engineered a profitable trading strategy by training a Multi-Layer Perceptron (MLP) based Proximal Policy Optimization (PPO) agent on historical price data, resulting in a 36.4% return on investment and an annualized Sharpe Ratio of 0.78 in backtesting.-Identified the neural network inference as the primary computational bottleneck and designed a hardware accelerator in C++ for High-Level Synthesis (HLS), creating a hardware-equivalent model optimized for parallel execution on an FPGA.-Architected and validated the full system integration, proving that the hardware acceleration approach could reduce decision-making latency from ~316 microseconds in software to a conceptual ~2 microseconds in hardware, yielding a potential ~158x performance speedup critical for high-frequency applications."
+      },
+      {
+        "title": "Expense Tracker \u2013 Full-Stack Financial Management Application",
+        "start_date": "Aug 2025",
+        "description": "A modern, AI-powered web app for managing finances with advanced analytics, gamification, and smart financial insights.-Built a complete full-stack application using React.js (functional components, hooks, Context API) and Node.js/Express with a modular, service-oriented backend architecture.-Designed an intuitive, mobile-responsive UI with Tailwind CSS-Developed interactive dashboards using Recharts to visualize income/expense trends, budget utilization, savings goals, and personalized financial metrics in real-time.-Integrated AI and predictive analytics modules, enabling automatic expense categorization, subscription detection, bill forecasting, and anomaly detection to flag unusual spending patterns.-Engineered a gamified experience with 8+ achievement types, level-up system, streak tracking, and habit-building challenges, driving long-term financial engagement.-Implemented robust authentication via JWT tokens, with profile image upload (Multer), password security (bcrypt), and protected client-side routes.-Created smart features like budget warnings, personalized recommendations, and contextual alerts for financial events and spending behavior.-Enabled data export (XLSX) for reports, plus persistent storage via MongoDB/Mongoose with real-time frontend/backend data sync."
+      },
+      {
+        "title": "Interactive Dashboard Builder | Full-Stack Web Application",
+        "start_date": "Jul 2025",
+        "description": "A full-stack Business Intelligence web application designed to empower users to transform raw data into insightful, customizable, and shareable reports.-Architected and developed a full-stack web application from scratch, enabling users to upload raw CSV data and instantly render dynamic, interactive data visualizations using D3.js.-Engineered a dynamic frontend with React and TypeScript, implementing a responsive drag-and-drop canvas with the react-dnd library that allows for complete user customization of dashboard layouts.-Implemented a secure REST API backend using Node.js and Express.js with multiple endpoints to handle full user authentication, including registration with password hashing via bcrypt.js and login credential verification.-Designed and managed the database schema with Prisma ORM, successfully enabling persistence for user accounts and complex dashboard layouts (stored as serialized JSON) in a SQLite database.-Integrated jspdf and html2canvas to build a high-value PDF export feature, allowing users to generate and download tangible, shareable reports directly from their custom-built dashboards."
+      }
+    ],
+    "location": null,
+    "input_url": "https://www.linkedin.com/in/dgursoy",
+    "linkedin_id": "dgursoy",
+    "activity": [
+      {
+        "interaction": "Deniz Gursoy shared this",
+        "link": "https://www.linkedin.com/posts/dgursoy_i-am-excited-to-have-begun-working-at-spacex-activity-7466344700212486144-MW1s",
+        "title": "I am excited to have begun working at SpaceX this summer as an Automation and Controls Engineering Intern on the Raptor team! I am looking forward to the rest of this summer and the growth & learning opportunities ahead. If you are in the Los Angeles area, feel free to reach out!",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQE-txlY_kQZ4w/feedshare-shrink_800/B4EZ53I8TWGUAc-/0/1780115293628?e=2147483647&v=beta&t=JsrKlpVp_TSyXo7wXGvIQRmrwYJsoP10KpRGvA7KNdM",
+        "id": "7466344700212486144"
+      },
+      {
+        "interaction": null,
+        "link": "https://www.linkedin.com/posts/penn-hyperloop_engineering-tunneling-pennengineering-activity-7446385928467771392-7eKy",
+        "title": "Penn Hyperloop is proud to announce that the team placed 2nd overall at The Boring Company 's 2026 Not-A-Boring Competition in Texas. Representing the University of Pennsylvania , our team engineered a Tunnel Boring Machine that successfully excavated more than twice the distance of the 3rd place competitor. This year presented unprecedented operational hurdles. A heavy rain storm flooded the dig site and made the severe weather conditions a major challenge for our build and execution. Despite the extreme environment, our functionally diverse team adapted on the fly, maintained a flawless record with zero safety incidents, and kept the machine moving forward. We are incredibly happy with this result and the sheer perseverance our team showed in the mud and the rain. This achievement reaffirms Penn Hyperloop's commitment to bringing real world, hands on engineering challenges to campus. Designing, building, and operating a complex machine under extreme conditions demonstrates the power of interdisciplinary, student-led innovation and pushes the boundaries of what university teams can accomplish. Special thanks to our 2026 sponsors and partners for making this effort possible: Rohan Amin , Mack Institute for Innovation Management , Cadence : Financial and component sponsorship @ Siemens , AutomationDirect , North Shore Safety : Electrical components Master Builders Solutions : Advanced chemical solutions JD Fields & Company, Inc. : Structural steel pipe donations Badger Infrastructure Solutions : Hydrovac truck services Alabama Specialty Products : Custom components The Wharton School , Jerome Fisher M&T Program , Penn Engineering : Institutional support We'd like to thank our faculty advisors Siddharth Deliwala and Lei Gu along with the entire Electrical and Systems Engineering at Penn for all of their support! Penn Hyperloop looks forward to continuing its mission of driving forward engineering excellence through ambitious, applied projects at the University of Pennsylvania. #engineering #tunneling #PennEngineering #wharton #PennHyperloop #boringcompany #notaboringcompetition #realengineering",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQGZzKJpG3cX2Q/feedshare-shrink_800/B4EZ1bghFtIQAc-/0/1775356751127?e=2147483647&v=beta&t=vMbXHrjkf-6RqR8dxbbhOsLkdNrPsmZER46p8PqZ_Gk",
+        "id": "7446385928467771392"
+      },
+      {
+        "interaction": "Deniz Gursoy shared this",
+        "link": "https://www.linkedin.com/posts/dgursoy_i-had-a-great-time-representing-penn-ieee-activity-7441863629232046080-je0K",
+        "title": "I had a great time representing Penn IEEE at the Region 1 & 2 Student Activities Conference at Rowan University this past weekend! Between the workshops, connecting with student branches from across the region, and competing in the SumoBot competition, it was a really full and rewarding weekend. Proud to have represented our chapter alongside some of my best friends and I look forward to bringing that momentum back to our club on campus. I would also like to thank our advisors Shreyas Muthusamy , Yanfu Ou , and Siddharth Deliwala !",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQGd_JLL9Q0DNw/feedshare-shrink_800/B56Z0YqUW4HwAc-/0/1774235240496?e=2147483647&v=beta&t=gWsx7a6io_ns8RFOHWFFMmLOlWjShIcXNQfS1VXiqo0",
+        "id": "7441863629232046080"
+      },
+      {
+        "interaction": "Deniz Gursoy shared this",
+        "link": "https://www.linkedin.com/posts/dgursoy_uassar-dronetech-autonomoussystems-activity-7357858714516635649-RhfD",
+        "title": "This weekend marked the end of an amazing 6 weeks, where I had the opportunity to work as a Robotics Engineering Intern at Syracuse University. Alongside my team members, Alex Ross , Alessandro Terrinoni , Rayhan Rinzan , and Kaidan Willey, we built an Unmanned Air System \u2013 Synthetic Aperture Radar (UAS-SAR) which culminated in a final event hosted by the MIT BeaverWorks Summer Institute. Over the past few weeks, I had the opportunity to build and program a drone-mounted radar system. At the in-person capstone event at MIT, we flew the UAS we developed and processed radar returns to generate real-time SAR images. \u2705 What we did: We were challenged to form a clear image of a special concealed scene. We successfully identified the overall scene and distinguished individual objects in the scene. We also located a single, unique challenge object that was present in the scene. \ud83d\udd27 What we built: \ud83d\udd39 A multirotor drone integrated with a PulsON 440 SAR sensor and onboard navigation systems \ud83d\udd39 Real-time data collection and motion-compensated SAR image reconstruction using the backprojection algorithm \ud83c\udfaf Key skills & techniques I gained: \ud83d\udd39 Embedded systems programming (working with BLDC motors, ESCs, and microcontrollers) \ud83d\udd39 Designing and tuning a complete powertrain \ud83d\udd39 Applying multirotor dynamics and 6-degrees-of-freedom motion modeling to real-time flight control \ud83d\udd39 Developing and applying Python-based SAR signal processing pipelines, including a backprojection algorithm for SAR image formation, coherent pulse integration and phase center alignment, and time and range alignment algorithms to synchronize radar and motion capture data \ud83d\udd39 Processing radar return data into interpretable 2D imagery, accounting for Doppler effects and sampling resolution \ud83e\udde0 Beyond technical growth, I learned how to navigate the unpredictability of integrating hardware, software, and algorithms, like fixing misaligned motion capture data. These moments taught me how to think critically under pressure and approach engineering problems with precision and adaptability. I\u2019d like to say a huge thank you to my teammates for their dedication, creativity, and perseverance through every challenge we faced together. A special thanks to Anthony Terrinoni for his support and guidance throughout the project, Syracuse University College of Engineering and Computer Science for giving us the opportunity to build these drones, and to Massachusetts Institute of Technology for hosting us and holding the BeaverWorks program. I\u2019m excited to continue learning and working with autonomy, imaging, and systems engineering in the future! #UASSAR #DroneTech #AutonomousSystems #SAR #RemoteSensing #SignalProcessing #MotionCapture #EmbeddedSystems #Backprojection #ROS #PX4 #STEM #SyracuseUniversity #MIT #BeaverWorks",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQEIBz4swXOqdg/feedshare-shrink_800/B4EZhxdb0fHEAg-/0/1754250208629?e=2147483647&v=beta&t=3CJw6d0BnoY8Af_awiyntriAWB2NS3URs4MP-t2GSxo",
+        "id": "7357858714516635649"
+      },
+      {
+        "interaction": "Deniz Gursoy shared this",
+        "link": "https://www.linkedin.com/posts/dgursoy_regeneronisef-activity-7333172348658806784-oNKI",
+        "title": "I am incredibly grateful for the opportunity to represent Central New York at the 2025 Regeneron International Science and Engineering Fair (ISEF) in Columbus, Ohio\u2014the world\u2019s largest international science competition for pre-college students. Presenting my project, a \"Molecular Dynamics Study of Interfacial Interaction Between Perfluoroalkyl Substances and the Lipid Bilayer Membrane\u201d, to expert scientists, researchers, professors and some of the world\u2019s most inspiring young scientists, engineers, and innovators was a humbling and empowering experience. My project explored how different PFAS chemicals penetrate lipid bilayer membranes to better understand their potential health impacts. Beyond the competition, what stood out the most to me was the community. With over 60 countries represented, I had the honor of meeting brilliant individuals from around the world at ISEF. The passion and purpose I encountered here was truly unmatched. I want to express my heartfelt gratitude to Dr. Size Zheng and Dr. Benjamin Hsiao for their unwavering support, guidance, and mentorship, and to Stony Brook University for providing the resources that made this journey possible. A special thanks goes to Society for Science , Regeneron , and the Museum of Science & Technology (MOST) for enabling me to participate in this opportunity. Sharing my work at #RegeneronISEF alongside international peers dedicated to addressing real-world challenges has strengthened my interest in utilizing science as a tool for meaningful social impact!",
+        "img": "https://media.licdn.com/dms/image/v2/D4D22AQE7CpwhWy3IAQ/feedshare-shrink_800/B4DZcSpWTgIAAg-/0/1748364523001?e=2147483647&v=beta&t=kdYuclHDFhJaIB0RZfc5w3PGY-UCsmR8ayA0Tir0YbY",
+        "id": "7333172348658806784"
+      },
+      {
+        "interaction": "Deniz Gursoy shared this",
+        "link": "https://www.linkedin.com/posts/dgursoy_molecular-mechanisms-of-perfluoroalkyl-substances-activity-7313703155467210753-Y-7c",
+        "title": "I am super excited to share my latest publication! This research has been an incredibly rewarding journey, and I\u2019m grateful for the opportunity to contribute to this field. I am extremely thankful for the guidance and support of my mentors, Dr. Size Zheng and Dr. Benjamin Hsiao throughout this process. Their guidance, support, and mentorship has been instrumental in shaping both this work and my growth as a researcher.",
+        "img": "https://media.licdn.com/dms/image/sync/v2/D4D27AQGvZi55osyiFA/articleshare-shrink_800/B4DZX5rEmfG8AQ-/0/1743650573055?e=2147483647&v=beta&t=gr4pvBM8pGPmEwUamcQiHidqhyoH__jmuIyfS9H1Odk",
+        "id": "7313703155467210753"
+      },
+      {
+        "interaction": "Deniz Gursoy liked this",
+        "link": "https://www.linkedin.com/posts/rushendra-sidibomma_had-an-incredible-week-at-yc-twice-over-activity-7475945756487630848-ZbRq",
+        "title": "Had an incredible week at YC, twice over. First up, an AMA session with Jared Friedman and Saarth Shah for all the YC summer interns. Saarth shared some really honest takes on what it's actually like to build and run a company in the early stages, the chaos, the uncertainty, and how YC became a reliable answer to almost every problem that came up. The kind of stuff you don't find in blog posts. Thank you Ryan Choi for organizing the event and getting all the interns into a room! Then came the HUD Hackathon. The challenge was build RL environments for the future. Our team built CartScout, a browser agent that scours e-commerce sites to find exactly what a user is looking for. Browser agents have always been held back by slow speeds and huge context windows. So we built our own memory compression layer to strip out unnecessary noise and boost efficiency. We also did post-training on a Qwen 8B model using GRPO and improved its capabilities by 6%. Not bad for a one-day build. Had an amazing time working on this hack with Shiva Raisinghani , Zhengxiang Wang , and Deniz Gursoy . One of those hackathons where you leave genuinely excited about what you made. Grateful for the YC community for creating spaces like this. \ud83d\ude4c",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQFlKaPujpNRKw/feedshare-image-high-res/B4EZ7_lBt0HoAU-/0/1782404360629?e=2147483647&v=beta&t=cdQOOgZwEXoRgXoHzSmp7O37ff0zg7SWSh98XEljMv4",
+        "id": "7475945756487630848"
+      },
+      {
+        "interaction": "Deniz Gursoy liked this",
+        "link": "https://www.linkedin.com/posts/a-startups-success-depends-heavily-on-its-activity-7466157386970382336-SL05",
+        "title": "A startup's success depends heavily on its team. You can have the sharpest idea, the cleanest pitch deck, the most promising market, none of which matters if the people building it together are not actually together. Real team spirit is not something you can force into existence. It grows quietly, through long nights debugging the same problem, through wins shared without keeping score, through the small moments of trust that compound over months and years. And here's what is remarkable about it: when a team really has it, you do not have to advertise it. People feel it. Investors feel it in the room. Candidates feel it in interviews. Customers feel it on calls. Lately, even people we have just met have been telling us they can sense it. There is something different about how our team works together. That energy is hard to fake and impossible to buy. It is also, in my experience, one of the most underrated competitive advantages a startup has. To the team I get to work with every day, thank you for making that feeling real!!",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQH3c-pFI364eQ/feedshare-shrink_800/B4EZ5zoPcNHQAc-/0/1780056390901?e=2147483647&v=beta&t=tjNMlPW0OvzeqGYelc0nJAbS7IKtrC2ohMsZDQSpbTc",
+        "id": "7466157386970382336"
+      },
+      {
+        "interaction": "Deniz Gursoy liked this",
+        "link": "https://www.linkedin.com/posts/raphael-kalatzis_blessed-to-share-that-i-have-graduated-from-activity-7463705356846649344-JsDY",
+        "title": "Blessed to share that I have graduated from the University of Pennsylvania with a B.S.E. and M.S.E. in mechanical engineering. Excited and looking forward to joining the McKinsey & Company team in Houston. Thanks very much to all those who have challenged me, supported me, and helped me navigate this path. Journey continues!",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQFiukpJStD7zA/feedshare-image-high-res/B4EZ5RoeKjIkAU-/0/1779486024697?e=2147483647&v=beta&t=k0swuLiFKSj_Be2771BGX3iziQ05XUV53QsN5AFMSQs",
+        "id": "7463705356846649344"
+      },
+      {
+        "interaction": "Deniz Gursoy liked this",
+        "link": "https://www.linkedin.com/posts/jishnuu-sk_we-won-the-y-combinator-call-my-agent-hackathon-activity-7462224927262273537-FLmT",
+        "title": "We won the Y Combinator Call My Agent Hackathon. My teammate Benjamin L. and I built Chief, the first overhearing agent built to work as a chief of staff in live interactions. It listens locally, has intelligent context to your past interactions, and surfaces facts and tool actions when it's necessary. Under the hood, our vision is a customizable framework for overhearing agents. The inspiration came from a report I wrote in a cold email to Penn's Chris Callison-Burch . In a recent paper, he and Andrew Zhu describe a new way of communicating with AI, coined overhearing agents. The thesis is that the traditional chat interface isn't always the best mode. We built Chief for these cases: think high-stakes VC calls, doctor-patient interactions, even casual conversations. Chief runs on four prongs in a continuous loop: the ears, the memory, the decision, the hands. The hands is the action layer with an expandable suite of tool integrations (email, calendar, pull a doc, place a side call), that acts only on the user's own commitments via speaker identity supermemory, and runs on an approval hierarchy so irreversible actions need a yes. Latency was also a big consideration so that retrieval, belief updates, and actions all run in background threads off the hot path. There were plenty of other design choices we'd love to talk about and we are very open to advice and input from those in the space. Code: https://lnkd.in/eDgSZ5hP Demo: https://lnkd.in/eJ-4uE97 Paper: https://lnkd.in/eJRra2GW Thanks to the sponsors for hosting: AgentPhone , Google DeepMind , Stripe , Moss (YC F25) , supermemory , AgentMail (YC S25) , Browser Use , Sponge (YC W26) .",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQGuBoLAtdjtHw/feedshare-shrink_800/B4EZ48mBmYIkAk-/0/1779133061879?e=2147483647&v=beta&t=re_JF9fH-jHoq680BqcwwodZijONR855RRvRyDRStbo",
+        "id": "7462224927262273537"
+      }
+    ],
+    "linkedin_num_id": "1285842278",
+    "banner_image": "https://media.licdn.com/dms/image/v2/D4E16AQFOv2NKbw6CRQ/profile-displaybackgroundimage-shrink_200_800/B4EZl5T2nSHIAU-/0/1758676872591?e=2147483647&v=beta&t=VLqqBXqOI5mYVD92Y-8ceLdjvIldVeme-CJcMhXZnGo",
+    "honors_and_awards": [
+      {
+        "title": "2026 Not-A-Boring Competition - 2nd Place Winners",
+        "publication": "The Boring Company",
+        "date": "2026-04-01T00:00:00.000Z",
+        "description": null
+      },
+      {
+        "title": "2026 GE Aerospace L.I.F.T. Summit Selectee",
+        "publication": "GE Aerospace",
+        "date": "2026-03-01T00:00:00.000Z",
+        "description": "Selected as one of fewer than 100 students out of 3,800+ applicants (top ~2.6%) to attend GE Aerospace's invite-only Leaders Innovating Flight for Tomorrow (L.I.F.T.) Summit, a competitive three-day recruiting event at GE Aerospace headquarters in Cincinnati connecting top university engineering students with company leaders, employee resource groups, and early career program members."
+      },
+      {
+        "title": "Class of 2025 Commencement Speaker (Valedictorian)",
+        "publication": "Fayetteville-Manlius Senior High School",
+        "date": "2025-06-01T00:00:00.000Z",
+        "description": null
+      },
+      {
+        "title": "2025 American Chemical Society of Central New York Section Award",
+        "publication": "Central New York Science and Engineering Fair",
+        "date": "2025-03-01T00:00:00.000Z",
+        "description": "Given to the student who demonstrates excellence in understand/use of chemistry principles"
+      },
+      {
+        "title": "2025 Regeneron International Science and Engineering Fair (ISEF) Finalist",
+        "publication": "Central New York Science and Engineering Fair",
+        "date": "2025-03-01T00:00:00.000Z",
+        "description": "Acceptance rate to ISEF from Central New York Science and Engineering Fair was ~3%"
+      },
+      {
+        "title": "2025 Regeneron US Metric Association Award",
+        "publication": "Central New York Science and Engineering Fair",
+        "date": "2025-03-01T00:00:00.000Z",
+        "description": "Given to the student who demonstrates excellence in quantitative measurement using SI system"
+      },
+      {
+        "title": "3rd Place in Lockheed Martin's CodeQuest Competition",
+        "publication": "Lockheed Martin",
+        "date": "2025-03-01T00:00:00.000Z",
+        "description": "Competed against ~20 teams in the advanced division in a state-wide meet at Owego, NY."
+      },
+      {
+        "title": "2x National Spanish Exam Gold Medal Recipient",
+        "publication": "American Association of Teachers of Spanish and Portuguese",
+        "date": "2025-02-01T00:00:00.000Z",
+        "description": "Scored in the 90th percentile or higher out of all test-takers in the USA"
+      },
+      {
+        "title": "National Merit Scholarship Finalist",
+        "publication": "College Board",
+        "date": "2025-01-01T00:00:00.000Z",
+        "description": "~1% percent of entrants go on to become finalists"
+      },
+      {
+        "title": "Syracuse.com's Best & Brightest Award Winner",
+        "publication": "Syracuse.com",
+        "date": "2024-11-01T00:00:00.000Z",
+        "description": "Recognizing 23 high-achieving high school seniors across 10 counties in Central New York for academic excellence, extracurricular involvement, and community contributions. Selected through a competitive process including essays, recommendations, and personal narratives."
+      },
+      {
+        "title": "MIT Undergraduate Research Technology Conference Presenter",
+        "publication": "Massachusetts Institute of Technology",
+        "date": "2024-10-01T00:00:00.000Z",
+        "description": "Presented a research poster of my findings from my computational study of the interaction between PFAS chemicals and human cell membranes"
+      },
+      {
+        "title": "AP Scholar with Distinction Winner",
+        "publication": "College Board",
+        "date": "2024-07-01T00:00:00.000Z",
+        "description": "Granted to students who receive an average score of at least 3.5 on all AP Exams taken, and scores of 3 or higher on five or more of these exams"
+      },
+      {
+        "title": "2024 Bank of America Student Leaders Selectee",
+        "publication": "Bank of America",
+        "date": "2024-04-01T00:00:00.000Z",
+        "description": null
+      },
+      {
+        "title": "5th in Cornell High School Coding Competition",
+        "publication": "Cornell University",
+        "date": "2024-04-01T00:00:00.000Z",
+        "description": "Tied for 5th place out of 100 total teams participating from Cornell Tech and Cornell Ithaca"
+      },
+      {
+        "title": "National Rural and Small Town Recognition Program Awardee",
+        "publication": "College Board",
+        "date": "2024-01-01T00:00:00.000Z",
+        "description": "~10% of rural/small-town students receive this recognition based on their PSAT score + GPA"
+      },
+      {
+        "title": "1st Place MIT Beaverworks Autonomous Racecar Grand Prix (International Division)",
+        "publication": "Massachusetts Institute of Technology",
+        "date": "2023-08-01T00:00:00.000Z",
+        "description": "In the division of international teams (Syracuse University, Japan, and Greece), my team and I placed first."
+      },
+      {
+        "title": "3rd Place in MIT Beaver Works Autonomous Race Car Grand Prix (Full Division)",
+        "publication": "Massachusetts Institute of Technology",
+        "date": "2023-08-01T00:00:00.000Z",
+        "description": "11 teams of 5 students competed on MIT's campus including one team from Greece and one team from Japan."
+      }
+    ],
+    "similar_profiles": [],
+    "default_avatar": true,
+    "memorialized_account": false,
+    "bio_links": [],
+    "first_name": "Deniz",
+    "last_name": "Gursoy",
+    "influencer": false,
+    "timestamp": "2026-08-12T19:00:15.871Z",
+    "input": {
+      "url": "https://www.linkedin.com/in/dgursoy"
+    }
+  }
+}

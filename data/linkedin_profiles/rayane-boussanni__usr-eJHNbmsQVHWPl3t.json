@@ -1,0 +1,185 @@
+{
+  "luma_user_id": "usr-eJHNbmsQVHWPl3t",
+  "csv_name": "Rayane Boussanni",
+  "csv_linkedin": "https://www.linkedin.com/in/rayane-boussanni",
+  "enriched_at": "2026-08-12T19:14:53.872620+00:00",
+  "batch_id": "sd_msqgwa7g10oeo6g7qx",
+  "profile": {
+    "id": "rayane-boussanni",
+    "name": "Rayane Boussanni",
+    "city": "San Francisco, California, United States",
+    "country_code": "US",
+    "position": null,
+    "about": "sidequest maxxing",
+    "current_company": {
+      "link": "https://www.linkedin.com/company/composiohq?trk=public_profile_topcard-current-company",
+      "name": "Composio",
+      "company_id": "composiohq",
+      "location": null
+    },
+    "experience": null,
+    "url": "https://pk.linkedin.com/in/Rayane-boussanni",
+    "educations_details": "Carleton University",
+    "education": [
+      {
+        "title": "Carleton University",
+        "url": "https://ca.linkedin.com/school/carleton-university/",
+        "start_year": "2023",
+        "end_year": "2027",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      },
+      {
+        "start_year": "2021-09",
+        "end_year": "2023-06",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      }
+    ],
+    "avatar": "https://media.licdn.com/dms/image/v2/D5603AQHOijL4xtNl7w/profile-displayphoto-shrink_200_200/B56ZaiFt8pGUAY-/0/1746476130935?e=2147483647&v=beta&t=ACPDcj1pfL4ZDRMGIUSk57pRXJpQPvsgtYkfhkdE7Ho",
+    "certifications": [
+      {
+        "meta": "Issued Jan 2026",
+        "subtitle": "Amazon Web Services (AWS)",
+        "title": "AWS Technical Essentials",
+        "credential_url": null,
+        "credential_id": null
+      },
+      {
+        "meta": "Issued Oct 2023 See credential",
+        "subtitle": "freeCodeCamp",
+        "title": "Scientific Computing with Python",
+        "credential_url": "https://freecodecamp.org/certification/fcced6d7653-f444-4038-a59a-1474a0bf4c72/scientific-computing-with-python-v7?trk=public_profile_see-credential",
+        "credential_id": null
+      }
+    ],
+    "followers": 1119,
+    "connections": 500,
+    "current_company_company_id": "composiohq",
+    "current_company_name": "Composio",
+    "projects": [
+      {
+        "title": "champanzee.tech",
+        "start_date": "Jan 2026",
+        "description": "Gamified survey experience. \ud83e\udd48 in Surveymonkey challenge @ uOttaHack 8"
+      }
+    ],
+    "location": "San Francisco",
+    "input_url": "https://www.linkedin.com/in/rayane-boussanni",
+    "linkedin_id": "rayane-boussanni",
+    "activity": [
+      {
+        "interaction": "Liked by Rayane Boussanni",
+        "link": "https://www.linkedin.com/posts/kshitij-jhunjhunwala11_been-a-long-time-coming-but-im-excited-activity-7493338338519756801-RH4z",
+        "title": "Been a long time coming, but I'm excited to announce that I moved to San Francisco and joined Composio as a Member of Technical staff a couple of\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQEQql3GtCATCg/feedshare-shrink_800/B56Z_2vg1jKEAc-/0/1786551078626?e=2147483647&v=beta&t=fSbE26EJ-OsMG5PKTMLIrMIAInKry99vphv1JDCJA88",
+        "id": "7493338338519756801"
+      },
+      {
+        "interaction": "Liked by Rayane Boussanni",
+        "link": "https://www.linkedin.com/posts/muhammad-salameh_spent-the-last-2-days-diving-deep-into-cortex-activity-7493085961476640768-OH2e",
+        "title": "Spent the last 2 days diving deep into Cortex XDR by Palo Alto Networks \u2014 completed \u201cCortex XDR: Investigation and Analysis.\u201d It was amazing to\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQGJcCh772ST0Q/feedshare-shrink_1280/B56Z_zJ.eHIsAM-/0/1786490906712?e=2147483647&v=beta&t=70YCvF_4rQZGEOcrVjOvc7ONCCat5ZdPsVGAi8KCKGc",
+        "id": "2"
+      },
+      {
+        "interaction": "Liked by Rayane Boussanni",
+        "link": "https://www.linkedin.com/posts/connor-loi_were-hiring-founding-engineers-for-replicas-activity-7492979648671236097-mX2u",
+        "title": "We're hiring Founding Engineers for Replicas in SF. The future of engineering is building alongside tens, if not thousands, of cloud agents. What\u2026",
+        "img": "https://static.licdn.com/aero-v1/sc/h/53n89ecoxpr1qrki1do3alazb",
+        "id": "7492979648671236097"
+      },
+      {
+        "interaction": "Liked by Rayane Boussanni",
+        "link": "https://www.linkedin.com/posts/hayden-choi9_excited-to-share-ill-be-joining-wealthsimple-activity-7493018429151395841-4miu",
+        "title": "Excited to share I'll be joining Wealthsimple this fall as a Software Engineering Intern! Thank you to my recruiter Eileen W. and my interviewers\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQGkJXOeKy4Wow/feedshare-shrink_800/B56Z_dOfwAJ0Ac-/0/1786122999446?e=2147483647&v=beta&t=Bcnd_yzmYZ2hjXeIBSPsCRStemTAhTIepkntHXjPG9o",
+        "id": "7493018429151395841"
+      },
+      {
+        "interaction": "Liked by Rayane Boussanni",
+        "link": "https://www.linkedin.com/posts/yuyan-duan_everyone-talks-about-agent-improvement-loops-activity-7492625828128854016-e7Xb",
+        "title": "Everyone talks about agent improvement loops, but fewer can point to where the learning loop actually closes. That was the premise behind our latest\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQFiXzJ5P1IO3Q/feedshare-shrink_800/B56Z_e2esAK8Ag-/0/1786150254003?e=2147483647&v=beta&t=vE0f8hg_Bg7FvvTJaiUx7_FmPm0x5Zpze1-KZg35KF4",
+        "id": "7492625828128854016"
+      },
+      {
+        "interaction": "Liked by Rayane Boussanni",
+        "link": "https://www.linkedin.com/posts/archit--mishra_another-fun-post-from-ai4-this-was-a-debate-activity-7492395034936279040-BXgF",
+        "title": "Another fun post from Ai4, this was a debate I had about non-deterministic vs deterministic workflows and how enterprises need to start transitioning\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQEeISLIRCCXxg/feedshare-shrink_800/B56Z_pVlBeGQAc-/0/1786326177420?e=2147483647&v=beta&t=R-lYunaAL-yeStyVxA8AIJkDxlcZl_rnkOZ-XDa_alA",
+        "id": "7492395034936279040"
+      },
+      {
+        "interaction": "Liked by Rayane Boussanni",
+        "link": "https://www.linkedin.com/posts/jobran-hammad_ottawa-youthottawa-charitygolf-activity-7492199256938786816-8bjF",
+        "title": "Thank you to Mayor Mark Sutcliffe for inviting me to speak at and serve as MC for the 26th Mayor\u2019s Charity Golf Tournament. It was a privilege to be\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQG-byFvJRlw9w/feedshare-shrink_800/B56Z_krnFOHcAc-/0/1786248065586?e=2147483647&v=beta&t=O2d9XHfL7PNfSJIq3J0dl7WO2cCyHgAuKQ_4WE5WEso",
+        "id": "7492199256938786816"
+      },
+      {
+        "interaction": "Liked by Rayane Boussanni",
+        "link": "https://www.linkedin.com/posts/archit--mishra_fun-photo-from-ai4-at-the-venetian-with-chris-activity-7491571302374367232-Ljns",
+        "title": "Fun photo from Ai4 at The Venetian with Chris Yeh and Jeremiah Owyang, both extremely sharp leaders from Blitzscaling Ventures. Refreshing to see\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4D22AQEMY6D7R0Eqkg/feedshare-shrink_800/B4DZ_doZSPJwAg-/0/1786129783563?e=2147483647&v=beta&t=jP1CsA9s58b610R21x5TCvkRqPcHyM10K6eAnopoVNw",
+        "id": "7491571302374367232"
+      },
+      {
+        "interaction": "Liked by Rayane Boussanni",
+        "link": "https://www.linkedin.com/posts/kaavee315_enterpriseai-aiagents-opensource-activity-7491516009921531904-PaI1",
+        "title": "The first company I ever joined was Rubrik, which Arvind Jain co-founded. I was on his team, and it\u2019s where I learned how to build systems and\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5605AQGkInh3VjNu_Q/videocover-high/B56Z_ZZHjTHcBM-/0/1786058727086?e=2147483647&v=beta&t=rX3SzwCFfSyDOECYj9xtg_NsyBJbib1dSkZoSTNxcsU",
+        "id": "7491516009921531904"
+      },
+      {
+        "interaction": "Liked by Rayane Boussanni",
+        "link": "https://www.linkedin.com/posts/shams-haroon_announcement-a-few-months-ago-i-moved-to-activity-7491589522120634368-b4cD",
+        "title": "announcement: A few months ago, I moved to San Francisco and joined Composio as a Member of Technical Staff. If you're out here in SF, I'd love to\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQE0EHd53hIjgw/feedshare-image-high-res/B56Z_d4.AqG0AU-/0/1786134127377?e=2147483647&v=beta&t=YOgL-mQcu6M2vfl_GslQ1PYDBJSUXwycu83Fr1dpkyw",
+        "id": "7491589522120634368"
+      },
+      {
+        "interaction": "Shared by Rayane Boussanni",
+        "link": "https://www.linkedin.com/posts/rayane-boussanni_ive-been-working-at-a-really-cool-startup-activity-7491565080753360896-RrvI",
+        "title": "i've been working at a really cool startup in sf alongside some really smart people as an intern for the past month today, i'm happy to announce\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQFTmU2IrcHPdg/feedshare-image-high-res/B56Z_a.iDOHYAU-/0/1786085259286?e=2147483647&v=beta&t=KTjz7Uh2aAmDUTSKaSxNrxrnmFY5XFWjBx9RnT0eBGo",
+        "id": "7491565080753360896"
+      }
+    ],
+    "linkedin_num_id": "1202516232",
+    "banner_image": "https://media.licdn.com/dms/image/v2/D5616AQEr5qBF1B0-wg/profile-displaybackgroundimage-shrink_200_800/B56Z8nMGeSIgAQ-/0/1783068912385?e=2147483647&v=beta&t=H-mL9T1LKiWQA402DgpzJqlnJd5ULvRF7Bunq6SaEy4",
+    "honors_and_awards": [
+      {
+        "title": "4x Dean's Honors List",
+        "publication": "Heritage College",
+        "date": null,
+        "description": null
+      },
+      {
+        "title": "Entrance scholarship worth 16 000$",
+        "publication": "Carleton University",
+        "date": null,
+        "description": null
+      }
+    ],
+    "similar_profiles": [],
+    "default_avatar": false,
+    "memorialized_account": false,
+    "bio_links": [
+      {
+        "title": "Portfolio",
+        "link": "https://r.boussanni.com/"
+      }
+    ],
+    "first_name": "Rayane",
+    "last_name": "Boussanni",
+    "influencer": false,
+    "timestamp": "2026-08-12T19:13:47.038Z",
+    "input": {
+      "url": "https://www.linkedin.com/in/rayane-boussanni"
+    }
+  },
+  "local_photo": "data\\linkedin_photos\\rayane-boussanni__usr-eJHNbmsQVHWPl3t.jpg"
+}

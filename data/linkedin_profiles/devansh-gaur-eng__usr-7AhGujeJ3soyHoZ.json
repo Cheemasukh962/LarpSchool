@@ -1,0 +1,211 @@
+{
+  "luma_user_id": "usr-7AhGujeJ3soyHoZ",
+  "csv_name": "Devansh Gaur",
+  "csv_linkedin": "https://www.linkedin.com/in/devansh-gaur-eng",
+  "enriched_at": "2026-08-12T19:01:42.785112+00:00",
+  "batch_id": "sd_msqgese9ztya3e3uk",
+  "profile": {
+    "id": "devansh-gaur-eng",
+    "name": "Devansh Gaur",
+    "city": "San Francisco Bay Area",
+    "country_code": "US",
+    "position": null,
+    "about": "gaurdevansh8[at]gmail[dot].com",
+    "current_company": {
+      "link": "https://www.linkedin.com/company/zeon-systems?trk=public_profile_topcard-current-company",
+      "name": "Zeon Systems",
+      "company_id": "zeon-systems",
+      "location": null
+    },
+    "experience": null,
+    "url": "https://bh.linkedin.com/in/Devansh-gaur-eng",
+    "educations_details": "University of Waterloo",
+    "education": null,
+    "avatar": "https://media.licdn.com/dms/image/v2/D5603AQHrf7uJDFlCnQ/profile-displayphoto-scale_200_200/B56Z_HWeP2GcAc-/0/1785755987517?e=2147483647&v=beta&t=mLfZI_24-TMA-quShGKQLoDU4nR7ZKvKThdrcPCOkKI",
+    "volunteer_experience": [
+      {
+        "cause": "Science and Technology",
+        "duration": "May 2023 \u00b7 - \nAug 2023 \u00b7 \n4 months",
+        "duration_short": "- \nAug 2023",
+        "info": "As a Junior Instructor, at UBC Geering Up I worked with young students to develop foundational skills critical for success in STEM-related courses. My role involved creating and leading interactive lessons that introduced concepts in science, technology, engineering, and mathematics in an engaging and accessible way. I tailored my teaching approach to suit the learning styles of each student, incorporating hands-on activities, problem-solving exercises, and collaborative projects to\u2026 Show more As a Junior Instructor, at UBC Geering Up I worked with young students to develop foundational skills critical for success in STEM-related courses. My role involved creating and leading interactive lessons that introduced concepts in science, technology, engineering, and mathematics in an engaging and accessible way. I tailored my teaching approach to suit the learning styles of each student, incorporating hands-on activities, problem-solving exercises, and collaborative projects to foster a deep understanding and enthusiasm for STEM subjects. By providing guidance and encouragement, I aimed to inspire the next generation of innovators and help them build confidence in their abilities. This experience allowed me to develop my leadership and communication skills while making a positive impact on students\u2019 educational journeys. Show less",
+        "start_date": "May 2023",
+        "subtitle": "UBC Geering Up Engineering Outreach",
+        "title": "Junior Instructor"
+      },
+      {
+        "cause": "Education",
+        "duration": "Jan 2023 \u00b7 - \nJun 2024 \u00b7 \n1 year 6 months",
+        "duration_short": "- \nJun 2024",
+        "info": "As a educator, I designed and delivered a creative and engaging presentation for a group of grade 6 students, focusing on the health risks and social impacts of vaping. My role involved researching the topic, crafting a unique presentation that was both informative and age-appropriate, and using interactive elements to capture the attention of young students. I aimed to educate and empower the students to make informed decisions by presenting complex health information in a way that was\u2026 Show more As a educator, I designed and delivered a creative and engaging presentation for a group of grade 6 students, focusing on the health risks and social impacts of vaping. My role involved researching the topic, crafting a unique presentation that was both informative and age-appropriate, and using interactive elements to capture the attention of young students. I aimed to educate and empower the students to make informed decisions by presenting complex health information in a way that was accessible and relatable. The experience not only enhanced my communication and presentation skills but also deepened my commitment to promoting health education among youth. Show less",
+        "start_date": "Jan 2023",
+        "subtitle": "Fraser Health Authority",
+        "title": "V.A.P.E. Ambassador"
+      }
+    ],
+    "followers": 1437,
+    "connections": 500,
+    "current_company_company_id": "zeon-systems",
+    "current_company_name": "Zeon Systems",
+    "projects": [
+      {
+        "title": "6 Degrees of Freedom Robotic Arm",
+        "description": "A custom-built 6-degree-of-freedom robotic arm engineered from scratch to test advanced kinematics and motor control systems.Tech Stack: SolidWorks, C++, Numpy, Matplotlib, Closed-Loop Control\u2022 Designed and assembled a 6-axis robotic arm with a 0.5kg payload capacity, optimizing torque transmission and selecting specific off-the-shelf actuators to ensure stable lifting.\u2022 Implemented Inverse Kinematics (IK) algorithms to dynamically calculate joint angles, enabling precise end-effector positioning in 3D space.\u2022 Programmed a closed-loop control system for stepper motors, tuning custom acceleration profiles to eliminate mechanical judder and achieve smooth point-to-point motion."
+      },
+      {
+        "title": "Clinical Prior Authorization RAG Pipeline",
+        "description": "A RAG pipeline that automates clinical data extraction from unstructured EHR notes into schema-validated Prior Authorization JSON.Tech Stack: Python, Gemini 2.5 Flash, Gemini Embeddings, Pydantic, NumPy\u2022 Built a RAG pipeline that chunks raw EHR text (500-char windows, 100-char overlap), embeds via Gemini's embedding API, and retrieves the most clinically relevant context across 4 patient files using multi-query cosine similarity.\u2022 Designed a Pydantic-enforced extraction layer powered by Gemini 2.5 Flash that converts unstructured clinical notes \u2014 including OCR artifacts, inconsistent abbreviations, and duplicates \u2014 into schema-validated JSON with null-safe graceful failure on missing data.\u2022 Engineered multi-query retrieval across diagnosis, failed medications, and lab values with chunk deduplication, enabling structured PA field extraction from messy provider notes that would typically require 15+ minutes of manual clinical staff review per patient."
+      },
+      {
+        "title": "Hawking.ai - EMG Communication Platform",
+        "description": "An autonomous communication platform designed to transform raw biological signals into context-aware, conversational-speed speech.Tech Stack: Ganglion Board (LSL), FastAPI, React, Gemini 2.0 Flash, ElevenLabs\u2022 Engineered an EMG-based communication platform that translates 3 discrete biosignals into semantic grid navigation, boosting user speech rates to 25 WPM (compared to traditional 1-2 WPM limits).\u2022 Built a FastAPI WebSocket server integrated with Gemini 2.0 Flash to process real-time sentence predictions, achieving sub-250ms latency for fluid, conversational-speed text generation.\u2022 Integrated the ElevenLabs API into a React/TypeScript frontend to synthesize custom biological voices from 10-second audio samples, restoring personal vocal identity for the user."
+      },
+      {
+        "title": "Neuroplay - BCI Gaming Interface",
+        "description": "An interactive gaming interface controlled entirely by brain activity, built to explore non-invasive BCI applications.Tech Stack: OpenBCI, PyTorch, Signal Processing (FFT):\u2022 Engineered an EEG-controlled gaming system using an OpenBCI Ganglion to decode SSVEP and motor-imagery, enabling hands-free gameplay.\u2022 Built a signal processing pipeline using Fast Fourier Transform (FFT) and bandpass filters to isolate alpha and beta waves, successfully reducing raw noise and improving signal clarity.\u2022 Trained a custom PyTorch neural network to classify 4-channel signals, establishing a 70% baseline accuracy on test data for real-time inference.\u2022 Designing a dry-electrode headset configuration that minimized impedance and motion artifacts, maintaining signal integrity during active gaming sessions."
+      }
+    ],
+    "location": null,
+    "input_url": "https://www.linkedin.com/in/devansh-gaur-eng",
+    "linkedin_id": "devansh-gaur-eng",
+    "activity": [
+      {
+        "interaction": null,
+        "link": "https://www.linkedin.com/posts/bronte-kolar_weve-spent-the-last-year-building-a-layer-activity-7476400746297548800-K89L",
+        "title": "We\u2019ve spent the last year building a layer that lets any model run experiments in the physical world on robots. Now we want you to try! Zeon Systems is opening its doors for a 24-hour AI x Science hackathon on July 25\u201326 in San Francisco, co-hosted with Bay Area Lab Automators and Worldwide Studios . There will be three hardware tracks: - Track A: Close the Loop - AI scientists running real experiments on robots. - Track B: Physical Integration with OPENSHELF - Track C: Open Dexterity Challenge Everyone is welcome (no robotics experience needed). Space is limited, so sign up quickly at the link in the comments! ...more ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQEWGYTRWjhZYw/feedshare-shrink_1280/B56Z8GC3PFHIAM-/0/1782512841986?e=2147483647&v=beta&t=dkBBesI2-ZN0iSUma_eyD3OdR5CjZFCX7V_yev9eAhQ",
+        "id": "7476400746297548800"
+      },
+      {
+        "interaction": "Devansh Gaur shared this",
+        "link": "https://www.linkedin.com/posts/devansh-gaur-eng_this-summer-ill-be-in-san-francisco-automating-activity-7458621960743190528-Qndf",
+        "title": "This summer i'll be in San Francisco automating the universe of experiments with Bront\u00eb Kolar and Tahir D'Mello at Zeon Systems ( Y Combinator X25). We're building robotics that run science 24/7, the kind with perception, control, and manipulation systems that turn natural language into real lab work. The result: scientists think more and pipette less, while AI agents finally get a real-world endpoint to act on. Huge thanks to Annie Du for the assist! Looking forward to putting science on autopilot \ud83e\uddea\ud83d\ude80 if you're in SF this summer, let's grab coffee \u2615 ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQG8g78XliSKKg/feedshare-shrink_800/B56Z4JZAN3KMAc-/0/1778274048693?e=2147483647&v=beta&t=shUUpcwqlSS7_cEb2anwJsvZhrYltZLNqIRxqXrlXOI",
+        "id": "7458621960743190528"
+      },
+      {
+        "interaction": "Devansh Gaur shared this",
+        "link": "https://www.linkedin.com/posts/devansh-gaur-eng_robotics-uwaterloo-systemsdesign-activity-7423571240361299968-NSmC",
+        "title": "I tried to reverse-engineer the Tesla Optimus wrist for a 6DOF robotic arm. I learned very quickly why that team is so smart. I spent the last 8 weeks figuring out the entire stack, from CAD to code. Here is the breakdown of the build: The Design (SolidWorks & Plastic): Designed the mechanical assembly in SolidWorks. The gap between simulation and reality is humbling. I learned that \"theoretical fit\" usually means \"grab the sandpaper.\" The Code (The \"Math\" Phase): Moving from theory to hardware involved significant technical hurdles. I had to write the firmware in Arduino and build the robotics software from scratch. The biggest headache: Resolving singularities in the inverse kinematics (preventing the math from breaking and the arm from locking up) took rounds of debugging. The Hardware (Fighting Physics): You don't realize how much you don't know until you have to troubleshoot in real-time. Spent days mitigating PWM jitter just to get the servos to hold a stable position without shaking. The Future (Tesla & BCI): Currently working on a wrist design inspired by the Tesla Optimus and a custom 3-finger gripper. Next Phase: Transitioning into biomedical applications. I\u2019m going to hook this up to my OpenBCI Ganglion Board to translate EEG signals into gripper commands. Building this reminded me that the fastest way to learn isn't reading the textbook, it's breaking things and fixing them. I haven\u2019t finalized my Summer 2026 internship yet. If you need an engineer who can handle the full stack from Mechanical Design to Python, let\u2019s chat. \ud83e\udee1 #Robotics #UWaterloo #SystemsDesign #BCI #Mechatronics #Engineering #6DOF ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D5605AQGJuHHyFdmFww/feedshare-thumbnail_720_1280/B56ZwXSqZrIoA8-/0/1769917296442?e=2147483647&v=beta&t=KMhxJEML-CyEuBbxXixuLdDguvPytIE-evn3qCs6E2A",
+        "id": "7423571240361299968"
+      },
+      {
+        "interaction": "Devansh Gaur shared this",
+        "link": "https://www.linkedin.com/posts/devansh-gaur-eng_generativeai-neurotech-hackathon-activity-7419098804878045184-6ftA",
+        "title": "This weekend, we built a voice for those who have lost theirs. Stephen Hawking was limited to speaking at roughly one word per minute. Technology has improved since then, but accessibility hasn't kept pace.This weekend at NexHacks , my team and I built \ud835\udddb\ud835\uddee\ud835\ude04\ud835\uddf8\ud835\uddf6\ud835\uddfb\ud835\uddf4 \ud835\uddd4\ud835\udddc to close that gap. Using EMG signals and Generative AI, we engineered a high-fidelity neuro-linguistic interface that enables motor-impaired users to communicate at 25 words per minute, an order of magnitude faster than traditional assistive systems, restoring genuine agency rather than merely enabling output. \ud835\udddb\ud835\uddfc\ud835\ude04 \ud835\uddf6\ud835\ude01 \ud835\ude04\ud835\uddfc\ud835\uddff\ud835\uddf8\ud835\ude00 Users communicate via minimal, intentional muscle activations (Right, Down, Select) captured through EMG and mapped onto a semantic grid. Raw signals are \"denoised\", low-pass filtered, baseline-corrected, and personalized using per-user activation thresholds to reliably separate intent from noise. These commands are streamed in real time to Gemini 2.0 Flash, which predicts intended words using conversational context rather than character-by-character input, and spoken aloud via ElevenLabs, which clones the user\u2019s original voice. The result is not just faster text entry, but a conversational interface that restores agency by translating intent directly into natural speech. \ud835\udde8\ud835\uddfb\ud835\uddf1\ud835\uddf2\ud835\uddff \ud835\ude01\ud835\uddf5\ud835\uddf2 \ud835\uddf5\ud835\uddfc\ud835\uddfc\ud835\uddf1: The system runs on a low-latency, event-driven architecture designed to operate in real time. EMG signals are captured via OpenBCI Ganglion over LSL, processed for intent detection, and routed through a FastAPI + WebSockets backend that coordinates inference, prediction, and audio output. Everything is containerized with Docker to ensure reproducibility and deployment readiness. Latency was treated as a first-class constraint, anything that introduced perceptible delay was redesigned or removed. \ud835\udde7\ud835\uddf2\ud835\uddf0\ud835\uddf5 \ud835\ude00\ud835\ude01\ud835\uddee\ud835\uddf0\ud835\uddf8 Gemini 2.0 Flash \u2014 real-time contextual word generation Eleven Labs \u2014 voice cloning and natural speech output WoodWide AI \u2014 EMG denoising and intent detection OpenBCI Ganglion + LSL \u2014 real-time EMG signal capture FastAPI + WebSockets \u2014 low-latency system orchestration React + TypeScript \u2014 responsive, minimal UI Docker \u2014 production-ready deployment Huge props to the team Aditya Mahes Ryan Zhou Vanshdeep Sehrawat for grinding through the weekend to make this happen. \ud83d\udd17 Devpost: https://lnkd.in/e9uYGrkB \ud83d\udd17 Video demo: https://lnkd.in/etadx4gu #GenerativeAI #NeuroTech #Hackathon #CMU #OpenBCI ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D4E05AQGvgirlkbMwCg/videocover-high/B4EZvXvBK1GsBY-/0/1768850987426?e=2147483647&v=beta&t=omNYt8b7o-wFHJwWUC_K0lBB86j7wvlvPeyAcrsMWIA",
+        "id": "7419098804878045184"
+      },
+      {
+        "interaction": "Devansh Gaur shared this",
+        "link": "https://www.linkedin.com/posts/devansh-gaur-eng_swarmhackathon-robotics-engineering-activity-7382879764606406656-Hzb7",
+        "title": "Last weekend, we didn't just participate in the SWARM Hackathon...we took 3rd place with the development of one of the largest functional robot swarms in the competition! Our challenge: Design and build a swarm of autonomous robots capable of mimicking natural collective behaviour. Throughout the weekend our team: - Assembled and programmed a coordinated robot swarm from scratch -Integrated custom PCB boards, 3D-printed chassis, and embedded systems -Developed swarm intelligence in ROS1 using Python -Enabled dynamic communication and multi-agent coordination Our Approach: We engineered a small-scale swarm capable of distributed sensing and communication, with each robot designed to operate semi-autonomously while contributing to a shared objective. The vision: a collective system capable of exploring unknown terrains more efficiently than any single rover could. The Reality Check? Let\u2019s just say our swarm had\u2026 commitment issues. Despite endless hours of debugging, soldering, and testing, our robots decided to move one at a time \u2014 a polite but not-so-effective formation. Still, the experience was nothing short of amazing. From troubleshooting PCB connections to fine-tuning our ROS nodes, every challenge taught us something new about robotics, systems integration, and teamwork under pressure. Huge thanks to my incredible teammates, for your relentless drive, creativity, and humour throughout the chaos! We may not have built the perfect swarm (yet), but we built the foundation for something greater. Next time, our swarm will actually swarm. #SWARMHackathon #Robotics #Engineering #Hackathon #SwarmRobotics #Innovation #Teamwork #UWaterloo #LearningByDoing #STEM ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQE8tEKhfvF_TA/feedshare-shrink_800/B56ZnVCBYkHAAg-/0/1760215701890?e=2147483647&v=beta&t=9Ec4Go06bY4kuBHc-BPGzEwUZd0TxlXuiPeZVxzXDck",
+        "id": "7382879764606406656"
+      },
+      {
+        "interaction": "Devansh Gaur commented on a post 19h",
+        "link": "https://www.linkedin.com/posts/y-combinator_belvedir-yc-s26-is-making-private-ai-models-activity-7493063706931548160-SBOZ",
+        "title": "coolest guy in waterloo",
+        "img": null,
+        "id": "7493063706931548160"
+      },
+      {
+        "interaction": "Devansh Gaur liked this",
+        "link": "https://www.linkedin.com/posts/isabel-groten_a-60yr-old-soldering-iron-wires-stripped-activity-7493089025612775425-OzbG",
+        "title": "A 60yr old soldering iron, wires stripped from old electronics, 1 paper clip, 3 pen springs, a couple circuitry pieces, and an Arduino. That\u2019s all you need to make a pulse oximeter. For the past couple weeks I have been modeling, 3D printing, soldering, building, and calibrating my own pulse oximeter, which I am proud to say can monitor your blood oxygen and heart rate with 95% accuracy! Using a red and infrared LED, a photodiode measures light absorbance depending on the oxygen saturation and blood flow. The oxygenated vs deoxygenated hemoglobin in your blood absorb red and infrared light differently, which allows the device to estimate blood oxygen saturation, and the pulsatile blood flow allows it to determine heart rate. Simple enough, right? While it may seem technically simple, the most challenging part (and most valuable lesson) wasn\u2019t simply getting the device to work. It was the continual iterations and problem solving to make the mechanical design, software, and technical pieces all work in tandem. During the project, I went through four different designs, two sets of hardware, and was constantly adjusting the system because the real engineering challenge wasn\u2019t it\u2019s creation, it was making the system reliable and repeatable. In the end, this project took me from someone who had never touched a soldering iron and couldn\u2019t tell the difference between a transistor vs resistor, to someone who troubleshooted circuits and code to make a biomedical device on her own. And this is just the beginning.",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQHcV8Pu_ZLpbA/feedshare-image-high-res/B56Z_zMvGEGcAU-/0/1786491630244?e=2147483647&v=beta&t=zMsvNBUBkXFwMfx2mWN549xl2NBxNfv5ggHsEkBkMzg",
+        "id": "7493089025612775425"
+      },
+      {
+        "interaction": "Devansh Gaur liked this",
+        "link": "https://www.linkedin.com/posts/y-combinator_belvedir-yc-s26-is-making-private-ai-models-activity-7493063706931548160-SBOZ",
+        "title": "Belvedir (YC S26) is making private AI models cheap and easy, so the world can have trillions of them. In the past year, many big companies started paying millions of dollars to make internal private AI models. These models are cheaper, better, faster, and protect the company\u2019s data from frontier labs. But right now these models are still only realistic for big companies since they\u2019re really difficult and expensive to build. Belvedir makes private AI models autonomously with less than 5 minutes of setup, so that private AI can finally be accessible to startups and eventually everyone. Belvedir is live with 10 companies who are seeing up to 10x lower inference costs and 2x improved performance on benchmarks. Congrats on the launch, Zachary Yu ! \ud83d\ude80 https://lnkd.in/gaG7KT7K",
+        "img": "https://media.licdn.com/dms/image/v2/D5605AQFs45m76VzjpA/videocover-high/B56Z_xXcqSHcBM-/0/1786460898214?e=2147483647&v=beta&t=6TSfa03s7xArw8UxqAYtvuIzr1v9Xxb1g9XZEMgmeaE",
+        "id": "7493063706931548160"
+      },
+      {
+        "interaction": "Devansh Gaur liked this",
+        "link": "https://www.linkedin.com/posts/saiguvvala_excited-to-be-joining-openai-this-fall-as-activity-7492026136428843008-ESxk",
+        "title": "Excited to be joining OpenAI this fall as a Member of Technical Staff Intern. Looking forward to what\u2019s ahead :)",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQE07xX90cRAYg/feedshare-shrink_1280/B4EZ_kGEZoIkAQ-/0/1786238225406?e=2147483647&v=beta&t=Fyf9dVCl7EcCwarPq4DRPag28j0xbaXYG-JTwQp1c0g",
+        "id": "7492026136428843008"
+      },
+      {
+        "interaction": "Devansh Gaur liked this",
+        "link": "https://www.linkedin.com/posts/konstantinos-chasiotis_unfollowing-everyone-on-linkedin-except-this-activity-7492530136827772930-yRXs",
+        "title": "Unfollowing everyone on Linkedin except this guy.",
+        "img": "https://media.licdn.com/dms/image/v2/D4D22AQHaKilFj5nDvw/feedshare-image-high-res/B4DZ_rQdMiGwAU-/0/1786358388051?e=2147483647&v=beta&t=Vi5NNcXh-J_ulyP1iNsMJbj5G2RnHpagfyXlpr3vKVA",
+        "id": "7492530136827772930"
+      },
+      {
+        "interaction": "Devansh Gaur liked this",
+        "link": "https://www.linkedin.com/posts/jenhsunhuang_nvidia-ai-factory-compute-is-becoming-an-activity-7492701460766527488-IDue",
+        "title": "A new asset class is being born. AI factories are becoming investable infrastructure. The capital markets are mobilizing to build the infrastructure of intelligence.",
+        "img": null,
+        "id": "7492701460766527488"
+      },
+      {
+        "interaction": "Devansh Gaur liked this",
+        "link": "https://www.linkedin.com/posts/y-combinator_neuromorphic-yc-s26-is-building-embodiment-agnostic-activity-7492595738292404224-8jP-",
+        "title": "Neuromorphic (YC S26) is building embodiment-agnostic robot brains that make any robot fast to deploy and easy to manage through natural interfaces like Slack, email, and phone. Starting with wet labs! Deploying robots today is slow, expensive, and engineering-intensive. Most systems are built around a specific body and environment, making them difficult to adapt when the task or hardware changes. Programming and managing them also requires specialized technical knowledge, keeping automation out of many physical industries. Neuromorphic packages sensors, compute, and software into a \u201cbrain\u201d that can be attached to different robot bodies. An onboard LLM orchestrator turns natural-language instructions into workflows made up of reusable robotic skills, such as navigating, picking up an object, opening a refrigerator, or inspecting an area. Sensor-based safety loops monitor every action to ensure reliable execution. Within a week of the initial conversation, the team signed a contract with a leading biotechnology company and deployed a robot in their wet lab, capable of operating autonomously 24/7 and already completing over 1500 tasks. Founders Cem Seref Toker and Ege Do\u011fanay were teammates doing high school robotics (FIRST Robotics Competition) when they reached out to Vatan Aksoy Tezer for mentorship and robotics advice. Together, they spent 3 years winning robotics competitions and have kept close ties ever since, before founding Neuromorphic together. Neuromorphic\u2019s goal is to make deploying a robot as straightforward as onboarding a new employee: show it around, tell it what to do, and have it start working from day one. Are you operating in a wet lab, biotech, or physical industry? You can reach out to Cem, Ege, and Vatan through founders@neuromorphic.vision to get more robots next to you! Congrats on the launch, Cem, Ege, and Vatan! \ud83d\ude80 https://lnkd.in/gGhPGzsx",
+        "img": "https://media.licdn.com/dms/image/v2/D5605AQG9-s8swzWeZw/videocover-high/B56Z_qRSCuKoBM-/0/1786341830321?e=2147483647&v=beta&t=htlKdkETVgaaN28KGTLEbj71wYmc-dQK8j8t0vXjsVM",
+        "id": "7492595738292404224"
+      },
+      {
+        "interaction": "Devansh Gaur liked this",
+        "link": "https://www.linkedin.com/posts/adam-turaj_still-feels-a-little-surreal-to-say-this-activity-7491584535348817920-sy4j",
+        "title": "Still feels a little surreal to say this, but I\u2019ll be joining Zipline as an Electrical Engineer Intern this fall! Zipline has been a dream company of mine for a while, so I\u2019m really happy to finally have the chance to be part of the team. I\u2019m super grateful to everyone who helped me get here, and to the Zipline team for making the interview process so smooth and enjoyable. Really excited to spend the next four months in San Francisco, meet a bunch of awesome people, and hopefully build some pretty cool stuff.",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQEtcLuTx8b9_g/feedshare-shrink_800/B56Z_d0b9EJoAc-/0/1786132938798?e=2147483647&v=beta&t=W-f8kJDu-4HjupNzLjiKff17jLs47xncttLxOUC0pxQ",
+        "id": "7491584535348817920"
+      },
+      {
+        "interaction": "Devansh Gaur liked this",
+        "link": "https://www.linkedin.com/posts/j-hawkins_extremely-proud-to-announce-that-i-switched-activity-7491146555262013440-vrIH",
+        "title": "extremely proud to announce that i switched from Fable 5 to Sonnet 4.6 for a small task and it saved me $0.37",
+        "img": "https://media.licdn.com/dms/image/v2/D4E10AQGEN_ILTMniBQ/image-shrink_1280/B4EZ_XmBWcHMAg-/0/1786028496681?e=2147483647&v=beta&t=2R9sjc1VWGsfeWOby7dbCeXOoO-yD_jY-0p4HmCMFXw",
+        "id": "7491146555262013440"
+      }
+    ],
+    "linkedin_num_id": "1288296463",
+    "banner_image": "https://media.licdn.com/dms/image/v2/D5616AQF9FhUH3eKtsA/profile-displaybackgroundimage-shrink_200_800/B56Z_HWoukGQAQ-/0/1785756028058?e=2147483647&v=beta&t=TLu56cYHkkOMsjc0azbA6E7EljrRS1ntphQR8zQ_NKs",
+    "honors_and_awards": [
+      {
+        "title": "2nd Place UBC Physics \"Lightbox\" Event",
+        "publication": "UBC Physics Olympics",
+        "date": "2025-03-01T00:00:00.000Z",
+        "description": "Engineered a precision optical assembly using adjustable mirrors and Fresnel lenses to maximize light transmission from a multi-source enclosure. The system concentrated ambient photons into a single high-intensity output beam, earning the project second place in BC"
+      },
+      {
+        "title": "1st Place; Provincial Taekwondo Sparring Champion",
+        "publication": "BC World Taekwondo Federation",
+        "date": "2024-10-01T00:00:00.000Z",
+        "description": "Secured 1st place in competitive Taekwondo sparring. Balancing rigorous martial arts training with my high school academics established the baseline discipline, focus, and time management skills I now rely on to handle complex hardware builds and my engineering coursework."
+      },
+      {
+        "title": "UBC Future Global Leaders, Neuroanatomy: The Human Brain",
+        "publication": "UBC Future Global Leaders",
+        "date": "2024-08-01T00:00:00.000Z",
+        "description": "A two-week, pre-university program that includes rigorous academic content taught at a first-year university level and workshops that help highschool students hone their academic skills and develop their mental health and emotional awareness as they prepare for university."
+      },
+      {
+        "title": "2nd place UBC Physics Olympics; \"Cool It Down\" Event",
+        "publication": "UBC Physics Olympics",
+        "date": "2024-03-01T00:00:00.000Z",
+        "description": "Engineered a custom flywheel and stepper motor mechanism to power a Peltier cooler for the UBC Physics Olympics. The system optimized heat transfer efficiency to rapidly cool a copper target, securing 2nd place in British Columbia."
+      }
+    ],
+    "similar_profiles": [],
+    "default_avatar": false,
+    "memorialized_account": false,
+    "bio_links": [],
+    "first_name": "Devansh",
+    "last_name": "Gaur",
+    "influencer": false,
+    "timestamp": "2026-08-12T19:00:16.797Z",
+    "input": {
+      "url": "https://www.linkedin.com/in/devansh-gaur-eng"
+    }
+  },
+  "local_photo": "data\\linkedin_photos\\devansh-gaur-eng__usr-7AhGujeJ3soyHoZ.jpg"
+}

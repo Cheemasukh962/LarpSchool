@@ -1,0 +1,187 @@
+{
+  "luma_user_id": "usr-rjEMz8P04MqXFrn",
+  "csv_name": "Charvee Trehan",
+  "csv_linkedin": "https://www.linkedin.com/in/charvee-trehan-4bb793388",
+  "enriched_at": "2026-08-12T19:26:51.911584+00:00",
+  "batch_id": "sd_msqhb4pfm4l4la4zs",
+  "profile": {
+    "id": "charvee-trehan-4bb793388",
+    "name": "Charvee Trehan",
+    "city": "United States",
+    "country_code": "US",
+    "position": null,
+    "about": "Founder &amp; Engineer specializing in Brain-Computer Interfaces (BCI), digital signal\u2026",
+    "current_company": {
+      "link": "https://www.linkedin.com/company/cgen-neurosync?trk=public_profile_topcard-current-company",
+      "name": "CGEN-NeuroSync",
+      "company_id": "cgen-neurosync",
+      "location": null
+    },
+    "experience": null,
+    "url": "https://ph.linkedin.com/in/charvee-trehan-4bb793388",
+    "educations_details": "Stanford University",
+    "education": [
+      {
+        "title": "Stanford University",
+        "url": "https://www.linkedin.com/school/stanford-university/",
+        "start_year": "2026-06",
+        "end_year": "2026-08",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      },
+      {
+        "start_year": "2026-06",
+        "end_year": "2026-08",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      }
+    ],
+    "avatar": "https://media.licdn.com/dms/image/v2/D5603AQG9XCl1hypiiA/profile-displayphoto-scale_200_200/B56Z9fMCS3HcAc-/0/1784008422394?e=2147483647&v=beta&t=ocNA7BK_T3RakpbRISklz1JWQr93odYC1zvhwVSOFqc",
+    "languages": [
+      {
+        "subtitle": "Native or bilingual proficiency",
+        "title": "English"
+      },
+      {
+        "subtitle": "Limited working proficiency",
+        "title": "Latin"
+      },
+      {
+        "subtitle": "Native or bilingual proficiency",
+        "title": "Hindi"
+      },
+      {
+        "subtitle": "Limited working proficiency",
+        "title": "French"
+      }
+    ],
+    "followers": 684,
+    "connections": 500,
+    "current_company_company_id": "cgen-neurosync",
+    "current_company_name": "CGEN-NeuroSync",
+    "publications": [
+      {
+        "title": "EE&Innovation",
+        "subtitle": "ResearchGate",
+        "date": "July 7, 2026",
+        "description": "EE&Innovation outlines and describes the interdisciplinary convergence of Electrical Engineering (EE) with biomedicine, environmental science, and artificial intelligence. By analyzing historical milestones, contemporary methodologies, and emerging technological trends, this work establishes a unified framework for cross-modal engineering innovation aimed at addressing complex global challenges."
+      }
+    ],
+    "location": null,
+    "input_url": "https://www.linkedin.com/in/charvee-trehan-4bb793388",
+    "linkedin_id": "charvee-trehan-4bb793388",
+    "activity": [
+      {
+        "interaction": "Charvee Trehan shared this",
+        "link": "https://www.linkedin.com/posts/charvee-trehan-4bb793388_i-am-excited-to-share-that-i-have-been-selected-activity-7491929708306116608-x3uQ",
+        "title": "I am excited to share that I have been selected to attend the Y Combinator Internship Expo on August 15! Going into my junior year, I\u2019m looking forward to connecting with founders, learning about cutting-edge tech, and discovering summer internship opportunities to build at early-stage YC startups. I'm honored to be part of this year's selective cohort. A big thank you to the team at Y Combinator for hosting this! If you\u2019re also attending, I would love to connect! ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQFFRsmSHcGXOg/feedshare-shrink_800/B56Z_iuXe9KEAc-/0/1786215234875?e=2147483647&v=beta&t=cY-0hbLPs8KJ518SO-YDaXTkgrRrt4iVUAXkq-x5XWs",
+        "id": "7491929708306116608"
+      },
+      {
+        "interaction": "Charvee Trehan shared this",
+        "link": "https://www.linkedin.com/posts/charvee-trehan-4bb793388_the-release-of-cgen-neurosync-activity-7482672784385613824-LaZB",
+        "title": "CGEN NeuroSync: Closed-Loop BCI for Instant Workspace Adaptation I'm incredibly excited to announce the public release of CGEN NeuroSync. If you are a developer, creator, or technical builder, you know how exhausting \"The Prompting Tax\" is, the constant, manual context-switching and UI coordination required to get digital help tools to cooperate. CGEN NeuroSync completely eliminates that blockage. By utilizing a non-invasive, closed-loop Brain-Computer Interface (BCI), our system translates neural intent into instant workspace execution. Essentially, no manual prompting and no workflow lag. To make this seamless, I engineered a dual-agent framework that achieves an unprecedented sub 50ms edge processing latency: 1. Agent Synapse: Real-time biological noise/muscle artifact filtering and continuous calibration. 2. Agent CGEN: The dynamic UI/UX workspace adaptation engine. Watch the full video here to see the full architectural breakdown: https://lnkd.in/g3AHQMt5 LIVE Website - running full-stack pipeline (Fast API + JS) and streaming real-time visualizations: https://lnkd.in/gRFpWYxv ...more",
+        "img": "https://media.licdn.com/dms/image/sync/v2/D5627AQGYm7PI7XKd-g/articleshare-shrink_800/B56Z9fKwz6IQAY-/0/1784008086566?e=2147483647&v=beta&t=nrrjMQsAGH948A3GCOAqxprRXGeeKqOPzZViyjRcRzg",
+        "id": "7482672784385613824"
+      },
+      {
+        "interaction": "Charvee Trehan shared this",
+        "link": "https://www.linkedin.com/posts/charvee-trehan-4bb793388_eeinnovation-publiread-activity-7480363261285117952-1Idr",
+        "title": "Most engineering frameworks treat hardware, Artificial Intelligence, and biology as completely separate departments. However, the biggest breakthroughs over the next decade will happen exclusively at their intersection. To prove it, I spent the last few months digging into the history, methodologies, and emerging trends of cross-modal engineering. Today, I\u2019m excited to officially share my research paper: \"EE&Innovation\". In this work, I break down: - The Convergence: How Electrical Engineering serves as the foundational architecture bridging biomedical telemetry and modern AI systems. - Historical Paradigms: What past hardware constraints can teach us about optimizing current resource-heavy deep-tech models. - Future Trends: Why the future of innovation belongs to interdisciplinary polymaths building at the absolute baseline of physical and digital systems. Whether you're building deep tech, researching neural architectures, or scaling hardware, I'd love to get your eyes on this and hear your feedback. Read the full open-access paper on ResearchGate here: https://lnkd.in/ggSuubrY If you want to support my independent research directly, you can grab the full published version on Publiread for $7 here: https://lnkd.in/g4ZujqeZ #DeepTech #ElectricalEngineering #ArtificialIntelligence #BiomedicalEngineering #Innovation ...more",
+        "img": "https://media.licdn.com/dms/image/sync/v2/D5627AQG_5g7TBfXdtQ/articleshare-shrink_800/B56Z8.V8nKIMAY-/0/1783457371172?e=2147483647&v=beta&t=iwzuUJhexXpJhNbe2wqFgeq9ShHsz9fDUXPvr8NNbZ0",
+        "id": "7480363261285117952"
+      },
+      {
+        "interaction": "Charvee Trehan shared this",
+        "link": "https://www.linkedin.com/posts/charvee-trehan-4bb793388_participating-in-this-program-was-an-incredible-activity-7479019777454174208-jzVQ",
+        "title": "Participating in this program was an incredible opportunity to dive deep into the vital engineering and infrastructure that power our community every day. Through hands-on facility tours and lab demonstrations, I gained a profound understanding of how complex water, wastewater, and recycling systems operate behind the scenes. For me, learning about this engineering isn't just about understanding the technical side; it's about community impact. Gaining this knowledge, I feel much better equipped to advocate for local sustainability, contribute to informed conversations about our shared resources, and support the critical systems that keep our neighborhood thriving. Thank you to the DSRSD staff for opening your doors and investing in community education! ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQF21ObM0RWPyA/feedshare-shrink_1280/B4EZ8ElkGTH8AM-/0/1782488384189?e=2147483647&v=beta&t=Hi0fJKwKIEX3I9qV2DZz_WENwhE_OyXQCx4rEBEtb0s",
+        "id": "7479019777454174208"
+      },
+      {
+        "interaction": "Charvee Trehan liked this",
+        "link": "https://www.linkedin.com/posts/angela-wu-7b993b347_yygs-yaleyoungglobalscholars-yale-activity-7492970301744611330-BxRd",
+        "title": "I\u2019m incredibly grateful to share that I had the opportunity to participate in the Yale Young Global Scholars (YYGS) program at Yale University this summer! \ud83d\udc99 With over 14,000 applicants globally, I\u2019m incredibly grateful to have been among the 13% selected to participate in the program. Over two weeks, I learned alongside an inspiring community of students from around the world, challenged my perspectives, and experienced what it means to learn in a truly global and interdisciplinary environment. Throughout the program, I explored global issues through seminars, lectures, breakout discussions, and a final capstone project. From thought-provoking research about wealth and resource inequality to discussing and learning about global challenges from perspectives far beyond my own, YYGS pushed me to think more critically, ask better questions, and approach issues with greater nuance. A huge thank you to Sherry Huang , Joshua Z. , Liam Heraty , Lauren Johnson, Batyrkhan Kanash , and Liza S. for creating such an engaging and supportive environment. I\u2019m also incredibly grateful to the YYGS program staff Zeva Manvi , Gaye Kim , Alexus Jade Coney for making the PLE (Politics, Law and Economics) track such a welcoming and memorable experience. Your guidance has made this experience incredibly meaningful, and I\u2019m so grateful for everything you\u2019ve done to make these two weeks extraordinary! But really, the most memorable part of YYGS was the people. I met students with remarkable passion, brilliant ideas, and an endless curiosity about the world, each using their talents to create change in their communities, pursue research, and make an impact. Their perspectives, stories, and ambitions inspired me to think bigger and challenge myself to do more. I\u2019m incredibly grateful for the people I met, the lessons I learned, and the memories I\u2019ll carry with me. I can\u2019t wait to take what I\u2019ve learned from this experience and do something with it! \ud83d\udc99 Thank you, YYGS, for an unforgettable summer! #YYGS #YaleYoungGlobalScholars #Yale #GlobalScholars #SummerProgram #Leadership",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQG0W933A6viBw/feedshare-shrink_800/B56Z_xgxsXJkAc-/0/1786463330127?e=2147483647&v=beta&t=CLOezMpMr8kda3t29NfSyaonWVnmLw5ayVCdez5d4Jg",
+        "id": "7492970301744611330"
+      },
+      {
+        "interaction": "Charvee Trehan liked this",
+        "link": "https://www.linkedin.com/posts/marie-adant_i-personally-found-my-job-at-corgi-yc-s24-activity-7493082586605318144-1WcD",
+        "title": "I personally found my job at Corgi (YC S24) by going to an in-person recruiting event instead of applying online, and it quite literally changed my life. This is why I'm super excited to partner with Y Combinator 's Internship Expo this Saturday, August 15th, from 10 am to 5 pm. There will be over 50 of YC's top startups, on-site interviews, coding challenges, food trucks, and YC merch. If you're a talented young person looking to break into startups, take this as your sign. Spots are limited and acceptance-only, so apply using the link below + drop a comment once you've applied so I can refer you: https://yc.link/r/FUmXCywS",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQHCuRM1PBpxdA/feedshare-shrink_800/B56Z_y8iN1H0Ag-/0/1786487384063?e=2147483647&v=beta&t=RZrj46pwL3wpBwnzo7TC-KmEP2ZF52fJ81195ljmorY",
+        "id": "7493082586605318144"
+      },
+      {
+        "interaction": "Charvee Trehan liked this",
+        "link": "https://www.linkedin.com/posts/rohan-nagashetti-632b16324_i-didnt-know-what-to-expect-when-applying-activity-7492988702575546368-ebn8",
+        "title": "I didn't know what to expect when applying for YC's Internship Expo as an incoming freshman. This feels surreal, but I'm super enthusiastic to meet ambitious founders, builders, and creatives. Thank you Vatsal Shah for the referral, and thank you YC for this opportunity. If you're going to the expo or are in the Bay Area for the next few weeks, I'd love to connect.",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQHg9QktkkP3NA/feedshare-shrink_800/B56Z_xxhNYH4Ag-/0/1786467718361?e=2147483647&v=beta&t=exAte1HseC13lzaTI5dYV4Fwo5lmVpVf2BRW4aQZEoc",
+        "id": "7492988702575546368"
+      },
+      {
+        "interaction": "Charvee Trehan liked this",
+        "link": "https://www.linkedin.com/posts/pratyush-srivastava-336255260_heading-to-the-yc-internship-fair-in-the-activity-7492993757877886976-ByZX",
+        "title": "Heading to the YC Internship Fair in the Bay Area this weekend! Big thanks to Y Combinator for giving me the opportunity to be part of it. Really excited to connect with other builders, check out some awesome startups, and meet new people. If you\u2019re attending or around the Bay, let\u2019s connect!",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQG67p2cAu6uyQ/feedshare-shrink_800/B56Z_x2HfWGUAg-/0/1786468923696?e=2147483647&v=beta&t=P6YnrZ7P6wsnKEmEFTrphovDagF2laF4msz9-W0bInE",
+        "id": "7492993757877886976"
+      },
+      {
+        "interaction": "Charvee Trehan liked this",
+        "link": "https://www.linkedin.com/posts/mahin-bharathwaj-344b8a31b_me-and-tanush-chokshi-won-1st-placeat-the-activity-7492631845193326592-Ywdz",
+        "title": "Me and Tanush Chokshi won 1st place at the The Knowledge Society (TKS) Open build Competition. TKS brought together 50 of the most cracked high schoolers from across the Bay Area to meet, share ideas, hear from founders and investors, and showcase what they\u2019ve been building. It was an incredible night surrounded by ambitious young builders!",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQEIPQQtGESNhg/feedshare-shrink_800/B56Z_ss77FG4Ac-/0/1786382631516?e=2147483647&v=beta&t=q3zP96d3lENP2JqB5xyjnSmhVu2OTImgIHBH26B6_cc",
+        "id": "7492631845193326592"
+      }
+    ],
+    "linkedin_num_id": "1602421775",
+    "banner_image": "https://static.licdn.com/aero-v1/sc/h/5q92mjc5c51bjlwaj3rs9aa82",
+    "honors_and_awards": [
+      {
+        "title": "1st Place @ Next Gen Open Build",
+        "publication": "The Knowledge Society",
+        "date": "2026-08-01T00:00:00.000Z",
+        "description": "For the development of Jobless.ai"
+      },
+      {
+        "title": "Top 4 @ MarinHacks Hackathon",
+        "publication": "MarinHacks",
+        "date": "2026-08-01T00:00:00.000Z",
+        "description": "Top 10% - 4/40 Developed a fully autonomous, hands-free safety monitor that listens for audio signs of distress and can alert others with live location, logs the incident to a separate security dashboard with CSV export."
+      },
+      {
+        "title": "Y Combinator Internship Expo Attendee",
+        "publication": "Y Combinator",
+        "date": "2026-08-01T00:00:00.000Z",
+        "description": "Selected through a competitive application process as a rising junior to connect directly with founders and hiring managers across Y Combinator startups. For the development of CGEN-NeuroSync."
+      },
+      {
+        "title": "British Biology Olympiad Bronze Award",
+        "publication": "United Kingdom Biology Competitions",
+        "date": "2026-02-01T00:00:00.000Z",
+        "description": "Competed against thousands of students internationally, placing in the top percentage for advanced biological problem-solving."
+      },
+      {
+        "title": "Debate Awards",
+        "publication": "National Speech and Debate Association",
+        "date": "2025-01-01T00:00:00.000Z",
+        "description": "'24-'25 Semi-Finalist at the UC Berkeley Policy Debate Tournament (5th Speaker Overall) Quarter Finalist at the Peninsula Policy Debate Tournament in LA"
+      }
+    ],
+    "similar_profiles": [],
+    "default_avatar": false,
+    "memorialized_account": false,
+    "bio_links": [],
+    "first_name": "Charvee",
+    "last_name": "Trehan",
+    "influencer": false,
+    "timestamp": "2026-08-12T19:25:16.075Z",
+    "input": {
+      "url": "https://www.linkedin.com/in/charvee-trehan-4bb793388"
+    }
+  },
+  "local_photo": "data\\linkedin_photos\\charvee-trehan-4bb793388__usr-rjEMz8P04MqXFrn.jpg"
+}

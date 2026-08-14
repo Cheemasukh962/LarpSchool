@@ -1,0 +1,239 @@
+{
+  "luma_user_id": "usr-BK5Fzg8kJrzOk3o",
+  "csv_name": "Bradley Tsou",
+  "csv_linkedin": "https://www.linkedin.com/in/bradleytsou",
+  "enriched_at": "2026-08-12T18:59:59.560252+00:00",
+  "batch_id": "sd_msqgcuh41lygyhc91a",
+  "profile": {
+    "id": "bradleytsou",
+    "name": "Bradley Tsou",
+    "city": "San Jose, California, United States",
+    "country_code": "US",
+    "position": null,
+    "about": "Anti-hallucinator bradley_tsou[at]berkeley.edu Fav quote: play\u2026",
+    "current_company": {
+      "link": "https://www.linkedin.com/company/medimpact?trk=public_profile_topcard-current-company",
+      "name": "MedImpact Healthcare Systems, Inc.",
+      "company_id": "medimpact",
+      "location": null
+    },
+    "experience": null,
+    "url": "https://se.linkedin.com/in/bradleytsou",
+    "educations_details": "University of California, Berkeley",
+    "education": [
+      {
+        "start_year": "2024-06",
+        "end_year": "2024-07",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      }
+    ],
+    "avatar": "https://static.licdn.com/aero-v1/sc/h/9c8pery4andzj6ohjkjp54ma2",
+    "languages": [
+      {
+        "subtitle": "Native or bilingual proficiency",
+        "title": "Chinese"
+      },
+      {
+        "subtitle": "-",
+        "title": "English"
+      }
+    ],
+    "followers": 1499,
+    "connections": 500,
+    "current_company_company_id": "medimpact",
+    "current_company_name": "MedImpact Healthcare Systems, Inc.",
+    "projects": [
+      {
+        "title": "Guardian (Calhacks 12.0 Winner)",
+        "start_date": "Oct 2025",
+        "description": "Guardian helps users stay financially secure with instant alerts, simple explanations, and peace of mind in under a second. As sole frontend engineer, I designed and developed a sleek React + Figma interface integrating five AI systems (Anthropic, Bright Data, OpenAI, Fetch, FishAudio) into one seamless experience with a voice-first experience/emphasis for elderly users' ease (easier to digest content and info).How It Works:Guardian\u2019s modular system combines AI-powered anomaly detection with natural-language and voice technology to identify and explain risky transactions in seconds:A Python Flask backend runs an unsupervised anomaly-detection model (SHAP-based) that flags abnormal purchases based on features like spending pattern, frequency, and location.Bright Data\u2019s web-scraping API enriches the model with live merchant-reputation signals and consumer complaint trends. When risk is detected, Anthropic\u2019s Claude generates a simple, empathetic explanation tailored for seniors, and Fish Audio converts it into a calm, humanlike voice alert.Fetch.ai agents automate next steps like dispute preparation or double-charge checks.The React + Figma interface presents everything visually: a readable transcript, risk level, and two large action buttons, \u201cMark Safe\u201d or \u201cBlock\u201d, keeping users in control.Relevance/Impact:Guardian addresses a growing crisis of financial fraud, affecting over 75% of Americans. By merging machine learning with accessible design, it empowers vulnerable populations, especially seniors, to protect their money independently. The platform not only prevents fraud but also restores confidence in digital finance through instant transparency and emotional reassurance.APIs/Platforms/Tools:React, Python Flask, Bright Data, Claude (Anthropic), Fish Audio, Fetch.ai, Django, SQL, Render, Figma, CSS3, JavaScript, WhiteNoise, Cursor.Recognition:1st Place Winner, Bright Data API Track at CalHacks 12.0 (3000+ participants, 700+ projects, $2000 prize)."
+      },
+      {
+        "title": "Orca (Weavehacks)",
+        "start_date": "Jun 2026",
+        "description": "Four worker LLMs play an abstract Minecraft-lite tech-tree game (wood \u2192 stone \u2192 iron \u2192... \u2192 portal \u2192 dragon). A fifth model \u2014 Orca, the manager \u2014 never touches the controls. Between episodes it reads the team's trace, decides who should do what, coaches each worker in plain language, and keeps an edit only if it measurably helps. Orca's delegation policy is a bandit; the workers improve verbally (they rewrite their own how-to memory). Our model of two learners and two timescales is exactly what kills the instability that sinks naive multi-agent RL.The headline: train Orca on seeds {A, T2, T3}, freeze it, then test on never-seen seeds {B, C}. The full system roughly triples both baselines on the held-out seeds \u2014 and shows no gap between training and held-out performance. It generalized and it didn't just use \"brute force\" to memorize the map.my role:RL env and Reward Systems Engineer: Owned the full environment/reward layer in a simulated Minecraft-style DAG world; drove team invalid-action rate from 0.3 to 0.06 Engineered a 35-region multi-layer world graph with bearing-only perception and a coordinate-leak invariant, a full crafting tech tree, superadditive cooperative combat (solo ~20% vs. coordinated ~85% success) to incentivize delegation, and survival mechanics (hunger, death/respawn, day/night)Implemented a seeded world generator and a full-DAG scripted oracle that reaches end-state on all 5 seeds, and a winnability validator and greedy baseline establishing the ground-truth benchmark the learned manager is measured against; delivered 320+ passing tests across env/reward suite with zero regressions thru a green-main integration gate, proving manager learns coordination, not memorizing maps (.87 mean frontier vs .31 baselines)"
+      },
+      {
+        "title": "TETHER (SBHacks, TwelveLabs Showcase Invitational)",
+        "start_date": "Jan 2026",
+        "description": "Built \u201cT-ETHER,\u201d a video learning tool featuring semantic indexing and key-moment discovery. Served as lead frontend engineer (and supporting full-stack), designing and implementing core UI and UX in Figma/React for quick navigation, interactive exploration, and structured takeaways. Integrated TwelveLabs\u2019 APIs: Marengo for multimodal searches to locate key moments, Pegasus for instant higher-level generative summary and comprehension. Invited afterwards (out of 39 other projects) to present at TwelveLabs\u2019 developer webinar showcase series."
+      }
+    ],
+    "organizations": [
+      {
+        "title": "Unified Climate Action",
+        "membership_type": "Project Manager",
+        "start_date": "Mar 2023",
+        "end_date": "Jun 2025",
+        "membership_number": null
+      }
+    ],
+    "location": "San Jose",
+    "input_url": "https://www.linkedin.com/in/bradleytsou",
+    "linkedin_id": "bradleytsou",
+    "activity": [
+      {
+        "interaction": "Liked by Bradley Tsou",
+        "link": "https://www.linkedin.com/posts/alyssaluoo_film-generativeai-aifilmmaking-activity-7493066524639784960-8grC",
+        "title": "i spent my summer leading a global cohort of 20 filmmakers \ud83d\udcfd\ufe0f a lot of the discourse about generative AI is written by people who haven't watched\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQGXVlOBadA8IQ/feedshare-shrink_800/B56Z_y4TJZGUAc-/0/1786486273295?e=2147483647&v=beta&t=qdSE9A7CaLMRHSLQ-dDp9YKo0wLqFIQZ2tH6CE2gmk4",
+        "id": "7493066524639784960"
+      },
+      {
+        "interaction": "Liked by Bradley Tsou",
+        "link": "https://www.linkedin.com/posts/aditya-oberai-362564287_humana-teamhumana-internship-activity-7491967602785898496-kWSL",
+        "title": "I\u2019m excited to share that I recently wrapped up my internship as a Data Engineer Intern at Humana! During my internship, I had the opportunity to\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQHk2Fpcrno0Zw/feedshare-image-high-res/B56Z_jQ0tQGQAU-/0/1786224269094?e=2147483647&v=beta&t=MsipfvH9yxjMiyiIoxu6nxUe_ClJ-AMxBWjGzBl-rJY",
+        "id": "7491967602785898496"
+      },
+      {
+        "interaction": "Liked by Bradley Tsou",
+        "link": "https://www.linkedin.com/posts/aryan-achuthan_chess-quant-trading-activity-7485515023671382016-pdv_",
+        "title": "Magnus Carlsen wrecked me, mating me dead center of the board. Got the chance to attend IMC's US Chess Academy as one of 24 top college players\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQFSswygC25m_A/feedshare-shrink_800/B56Z.HkPXZHYAc-/0/1784685852890?e=2147483647&v=beta&t=ryIBR7RoJBX-NiKMBOXcNMcXBeTlPBvpZiGZv6NPYHU",
+        "id": "7485515023671382016"
+      },
+      {
+        "interaction": "Liked by Bradley Tsou",
+        "link": "https://www.linkedin.com/posts/bryan-xia-b64622325_this-summer-the-jane-street-academy-for-activity-7491963483601784832-TNnm",
+        "title": "This summer, the Jane Street Academy for Math and Programming (AMP) gave me five incredible weeks immersed in combinatorics, number theory\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQGg4c5UdAKEbA/feedshare-shrink_800/B4EZ_KjJxrGoAc-/0/1785809640781?e=2147483647&v=beta&t=NJ9p4cdp5M8PWVwZ0WV9WqJSw-CMxJfOim1iabbLBK0",
+        "id": "7491963483601784832"
+      },
+      {
+        "interaction": "Liked by Bradley Tsou",
+        "link": "https://www.linkedin.com/posts/hailie-atkinson_wearecisco-cisco-intern-activity-7491644358522441728-JV_j",
+        "title": "12 weeks at Cisco, and my contribution is a bot named after myself. In my defense, HAIL-E was a very natural acronym, and nobody stopped me. It\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQEYSskVrzusGQ/feedshare-image-high-res/B56Z_eDFvzJ8AU-/0/1786136780378?e=2147483647&v=beta&t=8mdyMfuI5EYFOghvDjGmq_RB2XgyaVyE5TWNWC9cWCQ",
+        "id": "7491644358522441728"
+      },
+      {
+        "interaction": "Liked by Bradley Tsou",
+        "link": "https://www.linkedin.com/posts/jasminetntu_nvidia-intern-womeninstem-activity-7490138805971296256-xB16",
+        "title": "Hello, everyone! (^-^)/ I\u2019m happy to share that my software engineering internship at NVIDIA is officially over. It\u2019s been 6 months of deadlines\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQEi5KzjJuZ7QQ/feedshare-shrink_800/B56Z_JRin2HUAc-/0/1785788247060?e=2147483647&v=beta&t=Yl86dK2SqQbWUcEBOy9g1m1DGb1Zqxj9ikJ3PbJxI0I",
+        "id": "7490138805971296256"
+      },
+      {
+        "interaction": "Liked by Bradley Tsou",
+        "link": "https://www.linkedin.com/posts/garyying_my-good-friend-from-openai-you-guys-know-activity-7487522265043988480-Me4v",
+        "title": "My good friend from OpenAI (you guys know him as Sam Altman) gave me a wake up call today at Y Combinator Startup School. I wanted to share it\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQERPL58vjcBGQ/feedshare-image-high-res/B56Z.hEZiXKAAU-/0/1785113715936?e=2147483647&v=beta&t=wm2rWHW5qUZKqg3q9C55f1hSKzME9aOcbMFXO_cfjkE",
+        "id": "7487522265043988480"
+      },
+      {
+        "interaction": "Liked by Bradley Tsou",
+        "link": "https://www.linkedin.com/posts/austin-huguenard_one-of-the-last-places-i-expected-my-georgia-activity-7490534638965202944-MmHp",
+        "title": "One of the last places I expected my Georgia Tech computer science education and coding interview prep to pay off was on national television. But\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4E05AQE3hz5yi7jh5g/videocover-high/B4EZ_O5hlxKsBU-/0/1785882617433?e=2147483647&v=beta&t=MnBMXP8Kvpz-2L3wITlHbu6l0qJdLBgiup3is7KgCvU",
+        "id": "7490534638965202944"
+      },
+      {
+        "interaction": "Liked by Bradley Tsou",
+        "link": "https://www.linkedin.com/posts/marissa-dzio_our-project-the-strata-brings-together-activity-7490121183296663552-5ept",
+        "title": "Our project \u2018The Strata\u2019 brings together a little coffee shop Berkeley architecture students love and the Sedona rocky cliffs we marvel. As part of\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQEfhiXjqG3cKg/feedshare-shrink_800/B56Z_JBfYmGsAg-/0/1785784039329?e=2147483647&v=beta&t=Z7igLTuaq0bQPGTxb__TzCeQrfZvWrfTLWLwMm5sspA",
+        "id": "7490121183296663552"
+      },
+      {
+        "interaction": "Liked by Bradley Tsou",
+        "link": "https://www.linkedin.com/posts/alyssaluoo_honestly-ive-always-struggled-with-commitment-activity-7490103888281251840-4UGo",
+        "title": "honestly, i've always struggled with commitment, especially when it comes to work \ud83d\ude2c this summer, i've taken on tasks and shipped projects that the\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQHAj0ePFIdcyA/feedshare-image-high-res/B56Z_Ixy7WJkAY-/0/1785779925310?e=2147483647&v=beta&t=3SKRHlBqGNSHnYi7Mmmmv9ks_g1FjyOGiBsD3r7gy5A",
+        "id": "7490103888281251840"
+      },
+      {
+        "interaction": "Liked by Bradley Tsou",
+        "link": "https://www.linkedin.com/posts/sennaikaffl_i-didnt-fully-appreciate-one-of-the-united-activity-7489707848172679168-FZM6",
+        "title": "I didn't fully appreciate one of the United States' greatest strengths until I spent significant time outside the country. Over the past couple\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQGAbHNJS3StLQ/feedshare-image-high-res/B56Z_BeW5HG4AU-/0/1785657389558?e=2147483647&v=beta&t=R5mtVgJd9Fw9DuC-mRe4yA4w_qQQ5xFLkn0vevO7gTI",
+        "id": "7489707848172679168"
+      },
+      {
+        "interaction": "Liked by Bradley Tsou",
+        "link": "https://www.linkedin.com/posts/nomanas_computervision-machinelearning-opensource-activity-7488601983738634240-qMO1",
+        "title": "Over the past few months, I\u2019ve been working on a project that reconstructs an entire Rubik\u2019s Cube solve from ordinary phone video. Today\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5605AQGfkeDWps7p3A/videocover-high/B56Z.zbvxQIMBQ-/0/1785421829845?e=2147483647&v=beta&t=lWnAAplZH3FOrhiCyQsCbHDWFgoqOGV9vJmll-p3lT0",
+        "id": "7488601983738634240"
+      },
+      {
+        "interaction": "Liked by Bradley Tsou",
+        "link": "https://www.linkedin.com/posts/sennaikaffl_deveval-hire-engineers-who-can-think-with-activity-7488620694013132801-MjYy",
+        "title": "Today, CodeArena becomes DevEval. New name, new home: deveval.com. The traditional coding interview changed the day every candidate gained access\u2026",
+        "img": "https://media.licdn.com/dms/image/sync/v2/D4E27AQFjaLbspjWxgw/articleshare-shrink_1280_800/B4EZ.pd81nHMAg-/0/1785254629373?e=2147483647&v=beta&t=3BW2k9TUZ1utR31oIRHr_IhlYrNwTmhSFXYAysri7Nk",
+        "id": "7488620694013132801"
+      },
+      {
+        "interaction": "Liked by Bradley Tsou",
+        "link": "https://www.linkedin.com/posts/rithvik-sabnekar-1971a3266_goated-team-activity-7487595145945591808-YO2I",
+        "title": "Goated team",
+        "img": "https://static.licdn.com/aero-v1/sc/h/53n89ecoxpr1qrki1do3alazb",
+        "id": "7487595145945591808"
+      },
+      {
+        "interaction": "Liked by Bradley Tsou",
+        "link": "https://www.linkedin.com/posts/saketh-baddam_im-17-and-i-moved-to-san-francisco-alone-activity-7486186551190671360-dFGr",
+        "title": "I'm 17, and I moved to San Francisco alone to fix the thing that killed my best friend. Two years ago, he died in a building collapse in India\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQHZog7KvIUS8A/feedshare-image-high-res/B56Z.RG_0MIUAU-/0/1784845958876?e=2147483647&v=beta&t=2d4DWsbTYjQXSj8OPsHe4Myb1Xl48ZPbn9VBeu5tE6M",
+        "id": "17"
+      },
+      {
+        "interaction": "Liked by Bradley Tsou",
+        "link": "https://www.linkedin.com/posts/alyssaluoo_excited-to-be-speaking-at-herfrontiers-ai-activity-7483181723074080769-DBJ9",
+        "title": "Excited to be speaking at HerFrontier's AI Summit! \ud83c\udfa4 I'll be sharing how Flick, an AI filmmaking startup, uses AI-powered workflows for UX\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQHri8zWIOZSTA/feedshare-image-high-res/B56Z9maH5jG4AU-/0/1784129552480?e=2147483647&v=beta&t=2U0HD4VONYtmIT8jQ6srmBdWCn_0wiybijW6g5QNG2M",
+        "id": "7483181723074080769"
+      },
+      {
+        "interaction": "Liked by Bradley Tsou",
+        "link": "https://www.linkedin.com/posts/caseywoo_anthony-bourdain-opened-his-first-savings-activity-7484985762246098946-OM31",
+        "title": "Anthony Bourdain opened his first savings account at 44 years old. Before that, he was the executive chef at Les Halles, a French brasserie in\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4D10AQEkPVJTNL52kw/image-shrink_800/B4DZ.AC0IwI0Ag-/0/1784559650099?e=2147483647&v=beta&t=EuHk7hZEQxWwJm_GsDDn3rsQkLf8p7huuY_AdBtoMTo",
+        "id": "7484985762246098946"
+      },
+      {
+        "interaction": "Liked by Bradley Tsou",
+        "link": "https://www.linkedin.com/posts/maya-l_ycombinator-ycstartupschool-activity-7485385739539501057-OZEN",
+        "title": "We're hosting the biggest YC Startup School afterparty. Last year, we had 1,000+ people RSVP. Now, Vercel, Warp, Browserbase, and Reducto are\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5605AQGWsj0ubJBfWA/videocover-high/B56Z.FuoG5HcBM-/0/1784655022843?e=2147483647&v=beta&t=ovrijv6e_JSYsaBBZz-bObCJzeUGnG74TwHllghOpn8",
+        "id": "7485385739539501057"
+      },
+      {
+        "interaction": "Liked by Bradley Tsou",
+        "link": "https://www.linkedin.com/posts/team-handshake_we-gave-our-summer-interns-48-hours-and-one-activity-7485378044686209024--3HI",
+        "title": "We gave our summer interns 48 hours and one question: what's broken in a student's journey, and how would you fix it? Then we got out of their way.\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQFDDwkOV-Zd8A/feedshare-image-high-res/B4EZ.FnqO3KIAU-/0/1784653195755?e=2147483647&v=beta&t=5LWX2M7Di2oijK2ymEz5t7hgkZE8q03uXcbwHRCJP5U",
+        "id": "48"
+      }
+    ],
+    "linkedin_num_id": "1302001571",
+    "banner_image": "https://media.licdn.com/dms/image/v2/D5616AQFi2yCBMHL26g/profile-displaybackgroundimage-shrink_200_800/B56Z.LKDzUIgAQ-/0/1784746098527?e=2147483647&v=beta&t=XwkRnnL6jIFm7pdaopbiSg8Sr_m0ZzK1_Qcss91K6rc",
+    "honors_and_awards": [
+      {
+        "title": "Certificate of Distinction on the AMC 12B",
+        "publication": "American Mathematics Competitions",
+        "date": "2023-11-01T00:00:00.000Z",
+        "description": "Placed top 1.5% of test takers, 21222 students across 1732 schools"
+      },
+      {
+        "title": "CM Pianist Level 10",
+        "publication": "MTAC",
+        "date": "2021-02-01T00:00:00.000Z",
+        "description": "Completed CM Level 10 for Piano"
+      }
+    ],
+    "similar_profiles": [],
+    "default_avatar": true,
+    "memorialized_account": false,
+    "bio_links": [],
+    "first_name": "Bradley",
+    "last_name": "Tsou",
+    "influencer": false,
+    "timestamp": "2026-08-12T18:58:36.414Z",
+    "input": {
+      "url": "https://www.linkedin.com/in/bradleytsou"
+    }
+  }
+}

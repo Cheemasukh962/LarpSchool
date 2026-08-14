@@ -1,0 +1,376 @@
+{
+  "luma_user_id": "usr-z37yKePnJNGujVi",
+  "csv_name": "Julia Hudea",
+  "csv_linkedin": "https://www.linkedin.com/in/julia-hudea-aa582414a",
+  "enriched_at": "2026-08-12T19:11:36.238340+00:00",
+  "batch_id": "sd_msqgoa0o2hh62sia9d",
+  "profile": {
+    "id": "julia-hudea-aa582414a",
+    "name": "Julia Hudea",
+    "city": "Vancouver, British Columbia, Canada",
+    "country_code": "CA",
+    "position": null,
+    "about": null,
+    "current_company": {
+      "link": "https://www.linkedin.com/company/parrotapp?trk=public_profile_topcard-current-company",
+      "name": "Parrot",
+      "company_id": "parrotapp",
+      "location": null
+    },
+    "experience": null,
+    "url": "https://fr.linkedin.com/in/Julia-hudea-aa582414a",
+    "people_also_viewed": [
+      {
+        "profile_link": "https://ca.linkedin.com/in/acolel",
+        "name": "Amanda Colella-Centazzo",
+        "about": "Boston Scientific",
+        "location": "807 followers Toronto, ON"
+      },
+      {
+        "profile_link": "https://ca.linkedin.com/in/priya-menon707",
+        "name": "Priya Menon",
+        "about": "Boston Scientific",
+        "location": "394 followers Mississauga, ON"
+      },
+      {
+        "profile_link": "https://ca.linkedin.com/in/meagan-woolsey-931b67135",
+        "name": "Meagan Woolsey",
+        "about": "Vesalius Cardiovascular Inc.",
+        "location": "244 followers Vancouver, BC"
+      },
+      {
+        "profile_link": "https://ca.linkedin.com/in/azeen-m",
+        "name": "Azeen Moradipour",
+        "about": "Boston Scientific",
+        "location": "424 followers Toronto, ON"
+      },
+      {
+        "profile_link": "https://ca.linkedin.com/in/allieblokker",
+        "name": "Allie Blokker",
+        "about": "Kardium Inc.",
+        "location": "437 followers Vancouver, BC"
+      },
+      {
+        "profile_link": "https://ca.linkedin.com/in/fgbada",
+        "name": "Feyi G.",
+        "about": "Kadant Carmanah Design",
+        "location": "645 followers Vancouver, BC"
+      },
+      {
+        "profile_link": "https://www.linkedin.com/in/hanna-qin-0127",
+        "name": "Hanna Qin",
+        "about": "Sila Nanotechnologies Inc.",
+        "location": "803 followers San Jose, CA"
+      },
+      {
+        "profile_link": "https://ca.linkedin.com/in/yinzexu",
+        "name": "Yinze Xu, P.Eng",
+        "about": "Boston Scientific",
+        "location": "821 followers Mississauga, ON"
+      },
+      {
+        "profile_link": "https://ca.linkedin.com/in/steven-kinio-phd-56202559",
+        "name": "Steven Kinio, PhD",
+        "about": "Boston Scientific",
+        "location": "207 followers Mississauga, ON"
+      },
+      {
+        "profile_link": "https://ca.linkedin.com/in/germanruvalcaba",
+        "name": "German Ruvalcaba Alvarez",
+        "about": "Boston Scientific",
+        "location": "277 followers Toronto, ON"
+      },
+      {
+        "profile_link": "https://ca.linkedin.com/in/nadiradjafri",
+        "name": "Nadira D.",
+        "about": "ConeTec",
+        "location": "953 followers Vancouver, BC"
+      },
+      {
+        "profile_link": "https://ca.linkedin.com/in/ijourard",
+        "name": "Isaac Jourard, P.Eng., MSBME",
+        "about": "Profound Medical Inc.",
+        "location": "379 followers Toronto, ON"
+      },
+      {
+        "profile_link": "https://ca.linkedin.com/in/emily-rae-372449187",
+        "name": "Emily Rae",
+        "about": "Flosonics Medical",
+        "location": "373 followers Greater Toronto Area, Canada"
+      },
+      {
+        "profile_link": "https://ca.linkedin.com/in/ktjwong",
+        "name": "Karen Wong, P. Eng",
+        "about": "Verathon",
+        "location": "490 followers Canada"
+      },
+      {
+        "profile_link": "https://ca.linkedin.com/in/elise-tremblay-80120351",
+        "name": "Elise Tremblay",
+        "about": "CISSS de la Mont\u00e9r\u00e9gie-Est",
+        "location": "347 followers Montreal, QC"
+      },
+      {
+        "profile_link": "https://ca.linkedin.com/in/alaa-heshmati-718068135",
+        "name": "Alaa Heshmati",
+        "about": "Verathon Medical (Canada) ULC",
+        "location": "642 followers Vancouver, BC"
+      },
+      {
+        "profile_link": "https://ca.linkedin.com/in/gordonxgray",
+        "name": "Gordon Gray",
+        "about": "Myant Inc.",
+        "location": "756 followers Greater Toronto Area, Canada"
+      },
+      {
+        "profile_link": "https://ca.linkedin.com/in/ryan-vadori",
+        "name": "Ryan Vadori, Ph.D.",
+        "about": "Vital Bio",
+        "location": "678 followers Guelph, ON"
+      },
+      {
+        "profile_link": "https://ca.linkedin.com/in/jennifer-chan-p-eng-722b1b5b",
+        "name": "Jennifer Chan, P. Eng.",
+        "about": "Boston Scientific",
+        "location": "315 followers Greater Toronto Area, Canada"
+      },
+      {
+        "profile_link": "https://ca.linkedin.com/in/hosein-bahari",
+        "name": "Hosein Bahari",
+        "about": "Alberta Health Services",
+        "location": "422 followers Edmonton, AB"
+      }
+    ],
+    "educations_details": "Y Combinator",
+    "education": [
+      {
+        "start_year": "2022-09",
+        "end_year": "2025-05",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      },
+      {
+        "start_year": "2015-09",
+        "end_year": "2020-05",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      }
+    ],
+    "avatar": "https://static.licdn.com/aero-v1/sc/h/9c8pery4andzj6ohjkjp54ma2",
+    "languages": [
+      {
+        "subtitle": "-",
+        "title": "English"
+      },
+      {
+        "subtitle": "-",
+        "title": "Romanian"
+      },
+      {
+        "subtitle": "-",
+        "title": "French"
+      }
+    ],
+    "volunteer_experience": [
+      {
+        "duration": "May 2018 \u00b7 - \nSep 2019 \u00b7 \n1 year 5 months",
+        "duration_short": "- \nSep 2019",
+        "info": "Organized events to expose students to emerging medical technologies with talks and workshops. Fostered collaboration between engineering, science, medicine and other faculties through networking events.",
+        "start_date": "May 2018",
+        "subtitle": "UBC Technology in Medicine Club",
+        "title": "Co-President"
+      },
+      {
+        "duration": "May 2020 \u00b7 - \nMar 2023 \u00b7 \n2 years 11 months",
+        "duration_short": "- \nMar 2023",
+        "start_date": "May 2020",
+        "subtitle": "Greater Vancouver Food Bank",
+        "title": "Food Distribution Volunteer"
+      },
+      {
+        "cause": "Health",
+        "duration": "Jun 2017 \u00b7 - \nAug 2017 \u00b7 \n3 months",
+        "duration_short": "- \nAug 2017",
+        "info": "Assisted the nurses in the Post Anesthetic Care Unit. Restocked supplies such as towels, blankets, pillows, etc. Escorted families from the waiting room to PACU when their child was out of surgery.",
+        "start_date": "Jun 2017",
+        "subtitle": "BC Children's Hospital, Vancouver",
+        "title": "PACU Volunteer"
+      },
+      {
+        "cause": "Children",
+        "duration": "May 2014 \u00b7 - \nJan 2015 \u00b7 \n9 months",
+        "duration_short": "- \nJan 2015",
+        "info": "Organized and supervised various events for families (i.e. face painting, playdates in the park, Christmas community party). Displayed a positive and responsible attitude as a mentor to kids (10 and under) and helped resolve conflict to create a safe and fun environment for kids.",
+        "start_date": "May 2014",
+        "subtitle": "Parent Link Centre",
+        "title": "Leader in Training"
+      },
+      {
+        "cause": "Arts and Culture",
+        "duration": "Apr 2014 \u00b7 - \nAug 2014 \u00b7 \n5 months",
+        "duration_short": "- \nAug 2014",
+        "info": "Assisted with art projects and activities for children visiting the Museum.",
+        "start_date": "Apr 2014",
+        "subtitle": "Glenbow Museum",
+        "title": "Discovery Room Assistant"
+      }
+    ],
+    "followers": 882,
+    "connections": 500,
+    "current_company_company_id": "parrotapp",
+    "current_company_name": "Parrot",
+    "location": "Vancouver",
+    "input_url": "https://www.linkedin.com/in/julia-hudea-aa582414a",
+    "linkedin_id": "julia-hudea-aa582414a",
+    "activity": [
+      {
+        "interaction": null,
+        "link": "https://www.linkedin.com/posts/gabrielbenchimol_parrot-yc-f25-launched-the-tiktok-for-activity-7417604001078255616-AC2M",
+        "title": "\ud83d\udc26 Parrot (YC F25) Launched the TikTok for Learning Any Language You Want.",
+        "img": "https://media.licdn.com/dms/image/v2/D4E05AQEOhdGYvhXx3g/videocover-high/B4EZvCJ.ncGkBY-/0/1768488962652?e=2147483647&v=beta&t=LmGgFTU9GYHA47Su4MnOrmh6QTrjcj4eZfZM1byqZvU",
+        "id": "7417604001078255616"
+      },
+      {
+        "interaction": null,
+        "link": "https://www.linkedin.com/posts/amirhanna1_parrot-just-crossed-100000-downloads-on-activity-7398057205033365504-zAqw",
+        "title": "Parrot just crossed 100,000 downloads on the App Store in under 8 months. That\u2019s the equivalent of filling Wembley Stadium at full capacity with people who chose to learn Spanish with Parrot. \ud83c\uddec\ud83c\udde7\ud83e\udd9c More languages coming soon ;) What\u2019s even crazier is how they found us. From Apple\u2019s own analytics: 1. 85.3% of our downloads (94,295 people) came from App Store Search 2. And we don\u2019t rank for \u201clearn Spanish,\u201d \u201clanguage learning,\u201d or any major keyword yet... 3. Meaning, the overwhelming majority of people typed \u201cParrot\u201d directly into the search bar People aren\u2019t stumbling onto Parrot. They\u2019re looking for it by name. That\u2019s real brand pull. That\u2019s movement-level awareness. And it\u2019s all before we\u2019ve even scratched the surface of ASO or SEO, or LLM SEO. Onwards. \ud83e\udd9c\ud83d\udc99 Parrot (YC F25) ...more ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQGEpS5OBoNk7Q/feedshare-shrink_800/B56Zqst0zAJkAg-/0/1763834285983?e=2147483647&v=beta&t=HXkdlz8yqktaCaAa0LLsaRXuPph9hDiJovY8AnEueac",
+        "id": "100000"
+      },
+      {
+        "interaction": null,
+        "link": "https://www.linkedin.com/posts/amirhanna1_parrot-yc-f25-went-from-0-79k-mrr-in-activity-7396944951231668224-2XXL",
+        "title": "Parrot (YC F25) went from $0 \u2192 $79K MRR in just 8.5 months. With 3,000+ active trials and 7,300+ customers, we\u2019ll cross $1M ARR in the next few days. As software becomes easier to build, the real competitive edge shifts to distribution, viral loops, and brand. We launched Parrot\u2019s subscription in March, fully bootstrapped, and grew our creator network from 8 creators to 39 amazing creators producing content for Parrot. The inflection point hit in October when we expanded our creator network, and things have been compounding ever since. What's a growth strategy that you've been gatekeeping? ...more ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQGeDfOs-qS3SQ/feedshare-shrink_800/B56Zqc6O6bIcAo-/0/1763569103499?e=2147483647&v=beta&t=62WmF6VfFXjGfzGs5_xE-D3dkbp9zt_lgfp3QW5RSV4",
+        "id": "0"
+      },
+      {
+        "interaction": "Julia Hudea shared this",
+        "link": "https://www.linkedin.com/posts/julia-hudea-aa582414a_the-top-startups-to-watch-from-y-combinator-activity-7394794173477998592-LSVC",
+        "title": "Huge thank you to Dasha and Forbes for featuring Parrot and sharing our story. Grateful to be highlighted alongside so many incredible founders and companies! ...more",
+        "img": "https://media.licdn.com/dms/image/sync/v2/D5627AQHnkD63v_QKLQ/articleshare-shrink_800/B4EZ5tv095GUAQ-/0/1779957715856?e=2147483647&v=beta&t=2uOM7TAO8DbgDANHqs0KRj8lm37Vlg2ukGx4eNKs86M",
+        "id": "7394794173477998592"
+      },
+      {
+        "interaction": null,
+        "link": "https://www.linkedin.com/posts/amirhanna1_we-entered-yc-with-16k-mrr-100-bootstrapped-activity-7392720340617056256-wbpO",
+        "title": "We entered YC with $16K MRR. 100% bootstrapped. Today, we\u2019re at $75K MRR, a 4.7\u00d7 increase in just 6 weeks ( and $1.1M in annualized run rate) and on track to double before the end of the year. It\u2019s been wild watching Parrot evolve from a scrappy experiment into a product people genuinely love using daily. Every day, new users tell us the same thing: \u201cIt doesn\u2019t feel like I\u2019m studying. I\u2019m just scrolling.\u201d That\u2019s exactly the point. We\u2019re building the first language app designed for the way people actually spend time on their phones, swiping through short, entertaining videos. Except this time, it\u2019s productive scrolling. We\u2019re just getting started. The retention is improving, the love is real, and the growth is compounding. Super excited to keep talking to users and making Parrot 100x better. ...more ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQEW5oHQBfpioQ/feedshare-shrink_800/B56Zpg3.gqKAAg-/0/1762561878440?e=2147483647&v=beta&t=5j1kadjv4zZsfXs2qEs7hD-kcBI-JDonpgqMU0-7R-w",
+        "id": "100"
+      },
+      {
+        "interaction": "Julia Hudea shared this",
+        "link": "https://www.linkedin.com/posts/julia-hudea-aa582414a_its-a-dream-come-true-to-get-into-yc-but-activity-7389001173489344513-7y6e",
+        "title": "It\u2019s a dream come true to get into YC but the best part of it all is getting to work on a product I strongly believe in. Language learning shouldn\u2019t be just a mindless game, it can be fun while also being effective. Every learner feedback call is confirmation that we are moving in the right direction and it\u2019s the best part of every day for me. I can\u2019t wait to see what the future holds for Parrot! ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D5605AQESb66qvSf7gw/videocover-high/B56ZorrOtUHkBI-/0/1761669348022?e=2147483647&v=beta&t=4Ko3v1s4PVTJj9R9YXk6Shdrca-HNh3RHaA20w5sMsw",
+        "id": "7389001173489344513"
+      },
+      {
+        "interaction": null,
+        "link": "https://www.linkedin.com/posts/amirhanna1_why-would-we-compete-with-a-14b-giant-activity-7383570750370344960-8BQ3",
+        "title": "\u201cWhy would we compete with a $14B giant?\u201d \u201cHow did Duolingo make hundreds of millions and still get no one fluent?\u201d \u201cAnother language app? Isn\u2019t there thousands of those?\u201d Those were my exact questions when my co-founder Erik Dahl told me he wanted to build another language app. At first, I wasn\u2019t convinced. But after working with Erik on a few startups, I knew one thing about him: if he\u2019s obsessed with an idea, it\u2019s probably worth exploring. Then Julia Hudea joined, we met in a university entrepreneurship class at The University of British Columbia . We\u2019d both worked on things that could\u2019ve worked but didn\u2019t matter to us. This one did. Before writing any code, we: 1. Downloaded 52 language learning apps and used every single one for a few hours. 2. Interviewed 65 language learners across Reddit, Discord, and our circles. 3. Found the comprehensible input method, the most research-backed approach to learning a language (listen first, speak later). We built a simple MVP, just a video player with captions, and took it to students. 60% paid for early access. That moment flipped my skepticism into conviction. Fast forward, Parrot is now growing super fast, joined Y Combinator 's Fall 2025 batch, and some learners spending 1hr+ on the app. What started as doubt turned into a mission: to connect people by breaking down language barriers. To make learning a language feel as natural and addictive as scrolling TikTok . ...more ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQETwqVgUqWCiA/feedshare-shrink_800/B56Zne2dcBKMAg-/0/1760380445756?e=2147483647&v=beta&t=Up3pezMRvcVnSKt1e3A5Aw1t3Jo82roCBizR0dQBz84",
+        "id": "7383570750370344960"
+      },
+      {
+        "interaction": "Julia Hudea shared this",
+        "link": "https://www.linkedin.com/posts/julia-hudea-aa582414a_check-out-what-were-doing-at-parrot-activity-7372458146046337024-bEdb",
+        "title": "Check out what we're doing at Parrot!",
+        "img": "https://media.licdn.com/dms/image/v2/D5605AQFqh-CjfffLow/videocover-high/B56ZlAFpa4KUB8-/0/1757716895799?e=2147483647&v=beta&t=IE-efve3frkAABEIJ-NOkRg3cV9mI1UuUwgheXTUq_Q",
+        "id": "7372458146046337024"
+      },
+      {
+        "interaction": null,
+        "link": "https://www.linkedin.com/posts/amirhanna1_tldr-apple-just-gave-us-the-best-marketing-activity-7371323735011704832-hUjD",
+        "title": "TL;DR Apple just gave us the best marketing campaign we could ask for. They showed the world that cross-language connection matters - and we\u2019re here for the people who want to do it without training wheels. Apple just announced real-time translation through AirPods. It\u2019s an incredible leap forward in tech - the kind of innovation that inspires us at Parrot. But here\u2019s what it doesn\u2019t do: It doesn\u2019t help you really understand native speakers. It doesn\u2019t help you respond with confidence. It doesn\u2019t make you fluent - it makes you dependent. And that\u2019s why I\u2019m more excited than ever about what we\u2019re building. At Parrot (YC F25) , we help people actually acquire languages - not just translate it. Because fluency isn\u2019t just about survival. It\u2019s about connection. Culture. Confidence. Being able to feel what someone\u2019s saying - not just hear it filtered through an algorithm. Apple\u2019s innovation is a rising tide. It will make the world more curious, more connected, more multilingual. And we\u2019re here for the people who see that future and say: \ud83e\udd9c \u201cI want to speak the language myself.\u201d ...more ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQFMIFSEP_jLJQ/feedshare-shrink_800/B56Zkwz4IEH8Ak-/0/1757460530027?e=2147483647&v=beta&t=RHvAt7ykUovp6CBYFnT4B9Bt1_u9-8CNDvXNk6QR60Y",
+        "id": "7371323735011704832"
+      },
+      {
+        "interaction": "Julia Hudea commented on a post 1mo",
+        "link": "https://www.linkedin.com/posts/amirhanna1_why-would-we-compete-with-a-6b-giant-activity-7475676740581740545-Ugyy",
+        "title": "Parrot nest looking real good!!",
+        "img": null,
+        "id": "7475676740581740545"
+      },
+      {
+        "interaction": "Julia Hudea liked this",
+        "link": "https://www.linkedin.com/posts/sean-obannon_this-post-got-us-a-founding-gtm-hire-in-under-activity-7490834939978883072-Fw9P",
+        "title": "This post got us a founding GTM hire in under 4 days. So let's run it back - we're hiring software engineers. Cranston prepares tax returns for CPA firms with AI. We booked 106 demos in 30 days with a product that I built from scratch. The technical problems here are hard, and nobody else is solving them. The ideal candidate has shipped full applications solo, is deeply technical and can reason about large systems from first principles, and is a power-user of AI tools like Claude Code and Codex. The role is based in SF with a flexible in-person schedule. Please reach out if you're interested or know someone who might be! https://lnkd.in/ehrtDtwk",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQHA7ZsOPzzoug/feedshare-shrink_1280/B4EZ_TKro_JEAM-/0/1785954221483?e=2147483647&v=beta&t=Q81lvUiX7U0Yftvn0fW2VkeNcEB7YtA3MGc4QDZjI1M",
+        "id": "7490834939978883072"
+      },
+      {
+        "interaction": "Julia Hudea liked this",
+        "link": "https://www.linkedin.com/posts/denizgulbaharli_i-came-back-from-my-first-work-conference-activity-7486460897557626880-QMUk",
+        "title": "I came back from my first work conference with exactly one photo, and it is of the hotel room \ud83e\udd26\u200d\u2640\ufe0f That's because SupeTank isn't a normal conference. There's no booth to stand behind, you pitch directly to sitting superintendents. There was no time for photos. It makes me extremely happy to say that Socra Education 's mission and product resonated. We got an overwhelming number of yeses when we asked whether superintendents would refer us to their teams for a pilot \ud83d\ude80 One superintendent even told us Socra was exactly the product he came all the way to see! Superintendents have a thankless job, and it's an especially hard one right now. That they still make time to engage with founders building toward meeting their learners' needs says everything about why they do this work. The other half of it was the founders. It's not very often I'm surrounded by people who have made education their life's work and who have such a clear vision for where it should head. I'll inevitably miss names here, but thank you to Dr Jasminka Criley, MD, FACP, FHM , Lemi-Ola Erinkitola , Stephanie (Batory) Brown, Aman Sahota , Stuart Criley , and Demetra Mallios for all the conversations. And thank you to Tiffany Law for convincing me we are not too early to get value out of this, Whitney Ballantine , Doug Roberts , and the rest of the Institute for Education Innovation team for bringing it all together.",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQHyS73fzWNfYw/feedshare-image-high-res/B56Z.VAg0IJoAY-/0/1784911367997?e=2147483647&v=beta&t=5icImpI4b-wHht3SnbtWqcXYIZK9WB-qQtx4OekHmDo",
+        "id": "7486460897557626880"
+      },
+      {
+        "interaction": "Julia Hudea liked this",
+        "link": "https://www.linkedin.com/posts/angelica-iacovelli-490a8a1a7_excited-to-share-that-nucleo-won-1st-place-activity-7485007530642038784-pmq7",
+        "title": "Excited to share that Nucleo won 1st place in the Medical Imaging category at the Nebius AI Discovery Award! At Nucleo (YC F25) we're building AI that turns CT and MRI scans into structured, clinically useful data in seconds, from body composition assessment to tumor detection and measurement, and more. The goal is to give physicians objective, reproducible insight from scans they already have, without the manual work. This recognition, and the compute that comes with it, helps us push our models further and faster. Grateful to the Nebius team for the support, and so proud of what our small team is building, especially my co-founder Luca",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQHRORz3fXL-lA/feedshare-shrink_800/B4EZ.AWr80J0Ag-/0/1784564859061?e=2147483647&v=beta&t=obXvfyZoiWK_uviayiNY6PMRKNwpBM5h4cYlPFRmLi4",
+        "id": "7485007530642038784"
+      },
+      {
+        "interaction": "Julia Hudea liked this",
+        "link": "https://www.linkedin.com/posts/amirhanna1_noora-just-hit-a-365-day-streak-on-parrot-activity-7483551041217523713-eJTm",
+        "title": "Noora just hit a 365-day streak on parrot. for an entire year, we were part of her day, every single day. and it shows. her spanish is genuinely impressive. this is why we\u2019re building parrot. our goal is to help 1 billion people become fluent in a language. every minute spent learning replaces a minute of mindless scrolling on platforms designed to keep your attention so they can sell more ads. for 12 months, Noora chose progress instead. we\u2019re incredibly proud to have played a small part in her journey. 365 days down. just getting started \ud83e\udd9c",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQFMnUO6OeVWFQ/feedshare-shrink_800/B56Z9oE.cLG4Ac-/0/1784157562889?e=2147483647&v=beta&t=5RFoLCG7tSddISrv_sBexgXTsp6b0noiAX-CJIdao9s",
+        "id": "365"
+      },
+      {
+        "interaction": "Julia Hudea liked this",
+        "link": "https://www.linkedin.com/posts/parrotapp_noora-just-hit-a-365-day-streak-on-parrot-activity-7483189241863229440-ii7f",
+        "title": "Noora just hit a 365-day streak on parrot. for an entire year, we were part of her day, every single day. and it shows. her spanish is genuinely impressive. this is why we\u2019re building parrot. our goal is to help 1 billion people become fluent in a language. every minute spent learning replaces a minute of mindless scrolling on platforms designed to keep your attention so they can sell more ads. for 12 months, Noora chose progress instead. we\u2019re incredibly proud to have played a small part in her journey. 365 days down. just getting started \ud83e\udd9c",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQHA47RGgJe87g/feedshare-shrink_800/B56Z9mg93IGgAc-/0/1784131346242?e=2147483647&v=beta&t=TOKBNtAO3Q80g1KhQJdCZy_0lcq93XveVX9mYBZDamE",
+        "id": "365"
+      },
+      {
+        "interaction": "Julia Hudea liked this",
+        "link": "https://www.linkedin.com/posts/amirhanna1_why-would-we-compete-with-a-6b-giant-activity-7475676740581740545-Ugyy",
+        "title": "\u201cWhy would we compete with a $6B giant?\u201d That was the question I asked Erik Dahl and Julia Hudea asking when we started Parrot (YC F25) . So before building, we interviewed 186 Duolingo users to understand what they loved, what kept them coming back, and where they still felt stuck. The pattern was surprisingly clear: people loved the streaks, the ease, and the fun - but many still didn\u2019t feel like they could understand real people speaking. That became the bet behind Parrot: make learning languages feel as natural and addictive as scrolling TikTok, but built around real native videos and comprehensible input. ---- 1. We've helped hundreds of people replace some of their scrolling habits with the dream to learn a second language, and actually speak it 2. We've tripled our 2025 revenue and on track to 7x by the end of the year 3. We're hiring for our founding engineer position (link in the comments) 4. Grown to over 400K users 5. The Parrot Nest and the team located in the heart of San Francisco Erik Dahl Julia Hudea",
+        "img": "https://media.licdn.com/dms/image/v2/D5605AQGzT9F3Hszkjw/videocover-high/B56Z77wSgqGgBQ-/0/1782340210591?e=2147483647&v=beta&t=HAAVH4dyW2clZWj679_SRdlbUw0fCa3a7NTPZvMa2uA",
+        "id": "7475676740581740545"
+      },
+      {
+        "interaction": "Julia Hudea liked this",
+        "link": "https://www.linkedin.com/posts/samheutmaker_were-releasing-halo-desktop-its-the-best-activity-7475246678300659714-ekmS",
+        "title": "We\u2019re releasing HALO Desktop it's the best way to find bugs in your agents import traces from Langfuse or Arize & have HALO create a report with failure modes give the report to your favorite coding agent to build it runs locally on your machine. 100% free and open source GitHub: https://lnkd.in/epSQjuw3",
+        "img": "https://media.licdn.com/dms/image/v2/D4E05AQHHYBtmltq3GQ/videocover-high/B4EZ71pNE9H8BQ-/0/1782237682842?e=2147483647&v=beta&t=oj4uWhPRVF_4wjl3EfKCVp4LqJm17LT0F_UhYzktLWs",
+        "id": "7475246678300659714"
+      }
+    ],
+    "linkedin_num_id": "605209373",
+    "banner_image": "https://media.licdn.com/dms/image/v2/D5616AQFqMYYLriY_kg/profile-displaybackgroundimage-shrink_200_800/B56Zy_1RL5JMAY-/0/1772744939088?e=2147483647&v=beta&t=prhzywXzYh9eBWFxQnNtx_j6wWYBKYePdaTeUTaIU-A",
+    "honors_and_awards": [
+      {
+        "title": "Capstone Design Award",
+        "publication": "-",
+        "date": "2020-05-01T00:00:00.000Z",
+        "description": null
+      },
+      {
+        "title": "GEYER Family Award in Biomedical Engineering",
+        "publication": "-",
+        "date": "2020-01-01T00:00:00.000Z",
+        "description": "The award is curated by the UBC School of Biomedical Engineering and recognizes biomedical engineering undergraduate students \u201cwith an entrepreneurial spirit, an interest in the local biomedical engineering industry and demonstrated leadership and communication skills.\u201d https://www.bme.ubc.ca/mech-student-receives-geyer-family-award-in-biomedical-engineering/"
+      }
+    ],
+    "similar_profiles": [],
+    "default_avatar": true,
+    "memorialized_account": false,
+    "bio_links": [],
+    "first_name": "Julia",
+    "last_name": "Hudea",
+    "influencer": false,
+    "timestamp": "2026-08-12T19:07:29.409Z",
+    "input": {
+      "url": "https://www.linkedin.com/in/julia-hudea-aa582414a"
+    }
+  }
+}

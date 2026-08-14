@@ -1,0 +1,139 @@
+{
+  "luma_user_id": "usr-yi4Nkb5cVrfk6ar",
+  "csv_name": "Kiruthika Marikumaran",
+  "csv_linkedin": "https://www.linkedin.com/in/kiruthika-star14",
+  "enriched_at": "2026-08-12T19:11:36.260098+00:00",
+  "batch_id": "sd_msqgoa0o2hh62sia9d",
+  "profile": {
+    "id": "kiruthika-star14",
+    "name": "Kiruthika Marikumaran",
+    "city": "San Ramon, California, United States",
+    "country_code": "US",
+    "position": null,
+    "about": "I'm obsessed with building things, anything from products and companies to ideas that\u2026",
+    "current_company": {
+      "link": "https://www.linkedin.com/company/widgetfactory?trk=public_profile_topcard-current-company",
+      "name": "Widget Factory",
+      "company_id": "widgetfactory",
+      "location": null
+    },
+    "experience": null,
+    "url": "https://no.linkedin.com/in/Kiruthika-star14",
+    "educations_details": "UC San Diego Jacobs School of Engineering",
+    "education": [
+      {
+        "title": "UC San Diego Jacobs School of Engineering",
+        "url": "https://www.linkedin.com/school/university-of-california-san-diego---jacobs-school-of-engineering/",
+        "start_year": "2025-09",
+        "end_year": "2026-12",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      },
+      {
+        "start_year": "2023-09",
+        "end_year": "2025-06",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      },
+      {
+        "start_year": "2019-08",
+        "end_year": "2023-06",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      }
+    ],
+    "avatar": "https://media.licdn.com/dms/image/v2/D5603AQHPlu36V0PXDg/profile-displayphoto-scale_200_200/B56Z3Xu6uyH0AY-/0/1777440895452?e=2147483647&v=beta&t=8yXPx1ycIwfDLKmrXWsE3GmBzMHthsjbCNXmEK0S7QA",
+    "followers": 972,
+    "connections": 500,
+    "current_company_company_id": "widgetfactory",
+    "current_company_name": "Widget Factory",
+    "projects": [
+      {
+        "title": "Late Afternoon Momentum Prediction with XGBoost",
+        "start_date": "Jun 2025",
+        "description": "Built an ML trading bot with XGBoost that achieved 60\u201379% directional accuracy in the 4\u20135 PM window across equities using momentum, volume, and volatility features."
+      },
+      {
+        "title": "Study Spark",
+        "start_date": "May 2025",
+        "description": "Created a full-stack AI learning platform using LangChain, FAISS, and FastAPI to enable real-time Q&A and adaptive quiz generation from PDFs."
+      },
+      {
+        "title": "Blackjack AI",
+        "start_date": "Apr 2025",
+        "description": "Trained a Blackjack-playing agent using custom implementations of Monte Carlo, Temporal Difference, and Q-Learning under both fixed and epsilon-greedy policies. Evaluated policies through simulated trajectories, state-action value tracking, and reward-based updates with discounting and dynamic learning rates."
+      },
+      {
+        "title": "MemoLens",
+        "start_date": "Apr 2025",
+        "description": "Designed a safety + productivity system for construction sites integrating YOLOv8 detection, face recognition, and Whisper-based voice transcription into hands-free workflows."
+      },
+      {
+        "title": "ClimaCloset",
+        "start_date": "Jan 2025",
+        "description": "Built a smart wardrobe platform with ESP32 sensors, weather APIs, and secure device pairing, featuring an interactive UI with chatbot, AI-driven outfit recommendations, and text-to-image generation for personalized user engagement."
+      },
+      {
+        "title": "Sleep Buddy",
+        "start_date": "Sep 2024",
+        "description": "Built a full-stack web app to enhance college students sleep quality by delivering smart alarm scheduling, dynamic sleep tracking analytics, and wellness tools like meditation, music, and journaling, improving user engagement with personalized insights and routines."
+      },
+      {
+        "title": "Triton Marketplace",
+        "start_date": "Sep 2023",
+        "description": "Built a e-commerce platform for UCSD students with Google OAuth authentication, user profiles, and post management tools. Ensured secure item listings with contact-sharing options & seamless controls."
+      },
+      {
+        "title": "Baby Moniter",
+        "start_date": "Jul 2023",
+        "description": "Built a child safety system with real-time noise monitoring, secure parent-specific accounts, and alert notifications to enhance responsiveness and data privacy."
+      },
+      {
+        "title": "Recycling Bin",
+        "start_date": "Jul 2023",
+        "description": "Built a smart recycling bin with automatic lid, real-time waste classification, and dynamic LED feedback to improve sorting efficiency and user engagement."
+      },
+      {
+        "title": "Gemstone Personality Test",
+        "description": "Developed an interactive personality quiz with dynamic scoring, responsive input handling, and real-time visual feedback to deliver personalized gemstone results."
+      }
+    ],
+    "location": "San Ramon",
+    "input_url": "https://www.linkedin.com/in/kiruthika-star14",
+    "linkedin_id": "kiruthika-star14",
+    "activity": [
+      {
+        "interaction": "Liked by Kiruthika Marikumaran",
+        "link": "https://www.linkedin.com/posts/pavankumarny_if-you-want-to-build-a-startup-go-work-activity-7484744277198282752-7933",
+        "title": "If you want to build a startup, Go work for a startup instead, here's why: The biggest hack to become successful in the startup space, Is not\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQHXsCOgqR6R4A/feedshare-shrink_800/B4EZ98nP4zKIAc-/0/1784502094066?e=2147483647&v=beta&t=kSENxVXoWyLC4VDFRIPSNUbeSJX2qqoqVCeuc3e2JkU",
+        "id": "7484744277198282752"
+      },
+      {
+        "interaction": "Liked by Kiruthika Marikumaran",
+        "link": "https://www.linkedin.com/posts/anurag-chaudhari-b88228294_im-excited-to-share-that-i-have-joined-squarepoint-activity-7477654711060545536-Zz_a",
+        "title": "I\u2019m excited to share that I have joined Squarepoint, a global quantitative hedge fund, as a Software Developer Intern! I am incredibly grateful for\u2026",
+        "img": "https://static.licdn.com/aero-v1/sc/h/53n89ecoxpr1qrki1do3alazb",
+        "id": "7477654711060545536"
+      }
+    ],
+    "linkedin_num_id": "1274121547",
+    "banner_image": "https://static.licdn.com/aero-v1/sc/h/5q92mjc5c51bjlwaj3rs9aa82",
+    "honors_and_awards": null,
+    "similar_profiles": [],
+    "default_avatar": false,
+    "memorialized_account": false,
+    "bio_links": [],
+    "first_name": "Kiruthika",
+    "last_name": "Marikumaran",
+    "influencer": false,
+    "timestamp": "2026-08-12T19:08:21.564Z",
+    "input": {
+      "url": "https://www.linkedin.com/in/kiruthika-star14"
+    }
+  },
+  "local_photo": "data\\linkedin_photos\\kiruthika-star14__usr-yi4Nkb5cVrfk6ar.jpg"
+}

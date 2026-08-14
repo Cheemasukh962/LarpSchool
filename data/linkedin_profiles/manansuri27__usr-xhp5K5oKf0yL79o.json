@@ -1,0 +1,280 @@
+{
+  "luma_user_id": "usr-xhp5K5oKf0yL79o",
+  "csv_name": "Manan Suri",
+  "csv_linkedin": "https://www.linkedin.com/in/manansuri27",
+  "enriched_at": "2026-08-12T19:12:29.390653+00:00",
+  "batch_id": "sd_msqgtpzbeylkhkm9p",
+  "profile": {
+    "id": "manansuri27",
+    "name": "Manan Suri",
+    "city": "College Park, Maryland, United States",
+    "country_code": "US",
+    "position": null,
+    "about": "University of Maryland PhD candidate in Computer Science, contributing to cutting-edge\u2026",
+    "current_company": {
+      "link": "https://www.linkedin.com/company/meta?trk=public_profile_topcard-current-company",
+      "name": "Meta",
+      "company_id": "meta",
+      "location": null
+    },
+    "experience": null,
+    "url": "https://ar.linkedin.com/in/manansuri27",
+    "people_also_viewed": [
+      {
+        "profile_link": "https://in.linkedin.com/in/saurabhagrawal0",
+        "name": "Saurabh Agrawal",
+        "about": "Cake Corner",
+        "location": "30K followers Rajasthan, India"
+      },
+      {
+        "profile_link": "https://in.linkedin.com/in/05khushboo",
+        "name": "Khushboo Gupta",
+        "about": "Shri Mata Vaishno Devi University",
+        "location": "30K followers Jaipur"
+      },
+      {
+        "profile_link": "https://in.linkedin.com/in/vikram-dhanewad-65700371",
+        "name": "Vikram Dhanewad",
+        "about": "EPAM Systems",
+        "location": "27K followers Hyderabad"
+      },
+      {
+        "profile_link": "https://in.linkedin.com/in/deepakchannelpro",
+        "name": "Deepak Kumar",
+        "about": "ChannelPro Communications",
+        "location": "29K followers Ahmedabad"
+      },
+      {
+        "profile_link": "https://in.linkedin.com/in/sainiamit60",
+        "name": "Amit Saini",
+        "about": "Dit school of engineering,Greater Noida",
+        "location": "27K followers Noida"
+      },
+      {
+        "profile_link": "https://ca.linkedin.com/in/farooqarahim",
+        "name": "Farooq A Rahim",
+        "about": "Zynapse",
+        "location": "27K followers Toronto, ON"
+      },
+      {
+        "profile_link": "https://in.linkedin.com/in/rohit-samudralwar-22613012b",
+        "name": "Rohit Samudralwar",
+        "about": "Amazon",
+        "location": "13K followers Pune Division"
+      },
+      {
+        "profile_link": "https://in.linkedin.com/in/sneha-gupta-89830357",
+        "name": "Sneha Gupta",
+        "about": "Carousell",
+        "location": "15K followers Bengaluru"
+      },
+      {
+        "profile_link": "https://in.linkedin.com/in/kakul-luthra-8865a389",
+        "name": "Kakul Luthra",
+        "about": "Salesforce",
+        "location": "41K followers Hyderabad"
+      }
+    ],
+    "educations_details": "University of Maryland",
+    "education": [
+      {
+        "title": "University of Maryland",
+        "url": "https://www.linkedin.com/school/university-of-maryland/",
+        "start_year": "2024",
+        "end_year": "2028",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      },
+      {
+        "start_year": "2020",
+        "end_year": "2024",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      },
+      {
+        "start_year": "2019",
+        "end_year": "2020",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      }
+    ],
+    "avatar": "https://media.licdn.com/dms/image/v2/D4D03AQFqt4UZ7MuIrw/profile-displayphoto-scale_200_200/B4DZoTLyi7HYAY-/0/1761258449538?e=2147483647&v=beta&t=JOWOFG2IVnUMSOx_bgK0wDjQHZQxSdpKS5qf_2SK2GI",
+    "languages": [
+      {
+        "subtitle": "Native or bilingual proficiency",
+        "title": "Hindi"
+      },
+      {
+        "subtitle": "Professional working proficiency",
+        "title": "English"
+      }
+    ],
+    "followers": 5155,
+    "connections": 500,
+    "current_company_company_id": "meta",
+    "current_company_name": "Meta",
+    "projects": [
+      {
+        "title": "Article \u2014 Comprehensive NLP Suite for Web Article Analysis",
+        "description": "\u2217 Developed an innovative tool for extracting and structuring information from web articles, utilizing heuristic techniquesand a wide array of NLP techniques such as Entity Recognition, N-gram analysis, keyword extraction, extractivesummarization and text classification for comprehensive article analysis.\u2217 Incorporated advanced features like similar data mining, media bias detection, factuality checks and querying withLanguage representation models, providing a powerful content verification apparatus and enabling a broad range ofmedia research applications."
+      },
+      {
+        "title": "Covidya",
+        "description": "Due to COVID-19 public health emergency , there has been a steady increase in the demand for hospital beds , stretchers , and mattresses to expand health care capacity in local hospitals and health care systems. Keeping this increased demand in mind , it would be a boon to general public they can get all the info related to COVID just by a click. As our site provides all the relevant information regarding beds, oxygen cylinders, essential medicines , vaccination data etc it would be a boon for the users."
+      },
+      null,
+      null,
+      {
+        "title": "Exploring the Microscopic World",
+        "description": "Used a user friendly and cost effective paper microscope- foldscope to analyze different microscopic samples and study different ecosystems such as a garden pond. I used a simple tool and innovated in terms of adding new techniques to optimize on the simple tool available to me. Some microscopic organisms discovered include rotifers, vorticella and different ciliates. In addition to that we also worked with plan and arthropod samples and observed multiple details."
+      },
+      {
+        "title": "Project Asatya",
+        "description": "Asatya is a browser extension that bundles a suite of tools to fight disinformation on the web. These inform the user of a news report's reliability, media bias and objectivity using sophisticated Machine Learning Models. The extension summarises the report for the user's convenience, and suggests similar verified articles."
+      }
+    ],
+    "organizations": [
+      {
+        "title": "K.R. Mangalam World School Model United Nations (Vikaspuri)",
+        "membership_type": "Director General",
+        "membership_number": null
+      },
+      {
+        "title": "TED Ed Club",
+        "membership_type": "Founding President and Club Leader",
+        "membership_number": null
+      }
+    ],
+    "location": "College Park",
+    "input_url": "https://www.linkedin.com/in/manansuri27",
+    "linkedin_id": "manansuri27",
+    "activity": [
+      {
+        "interaction": "Liked by Manan Suri",
+        "link": "https://www.linkedin.com/posts/umdscience_redditama-ai-machinelearning-activity-7493296206039674880-CUiI",
+        "title": "Computer Science Assistant Professor Sarah Wiegreffe aims to increase the transparency, reliability and safety of language models. Ask her anything\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQHSohWn4ftYrw/feedshare-shrink_800/B4EZ_2JL_RKwAc-/0/1786541032334?e=2147483647&v=beta&t=RGlfWXPZosNbukFxkAqy-SPGIA96fFBxFLwn9IrdhkM",
+        "id": "7493296206039674880"
+      },
+      {
+        "interaction": "Liked by Manan Suri",
+        "link": "https://www.linkedin.com/posts/haw-shiuan-chang-95172874_phdpositions-hiringphd-universityofarizona-activity-7493036984525836288-U2Yw",
+        "title": "I'm excited to share that I'll be joining the College of Information Science at the University of Arizona\ud83c\udf35 as an Assistant Professor in Fall\u2026",
+        "img": "https://static.licdn.com/aero-v1/sc/h/53n89ecoxpr1qrki1do3alazb",
+        "id": "7493036984525836288"
+      },
+      {
+        "interaction": "Liked by Manan Suri",
+        "link": "https://www.linkedin.com/posts/hartmanmax_meta-metainterns-activity-7493001826548506625-j4PB",
+        "title": "Last week, I completed my internship at Meta working on Facebook Comment Ranking. I had the opportunity to work on training engagement models and\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQGX4vdyCRs6ZQ/feedshare-image-high-res/B56Z_x9c2LJkAY-/0/1786470847347?e=2147483647&v=beta&t=6sAnGR0qJtTIBBVoa2Gf9T4MnD4yb8a575X1Od92yk0",
+        "id": "7493001826548506625"
+      },
+      {
+        "interaction": "Liked by Manan Suri",
+        "link": "https://www.linkedin.com/posts/ravid-shwartz-ziv-8bb18761_i-love-how-they-are-trying-to-cure-cancer-activity-7492953846999298049-q3f0",
+        "title": "I love how they are trying to cure cancer as PR \ud83d\ude0e",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQEqGI3WpIs6hw/feedshare-shrink_800/B4EZ_xR0iYHYAg-/0/1786459409026?e=2147483647&v=beta&t=yQVzr6x-_cODj-AlQ0zP4TNXhkt1zZGcr1sTE2LXWm0",
+        "id": "7492953846999298049"
+      },
+      {
+        "interaction": "Liked by Manan Suri",
+        "link": "https://www.linkedin.com/posts/rauchg_if-youre-not-reading-the-code-whether-explicitly-activity-7492281174875193344-diDL",
+        "title": "If you\u2019re not reading the code, whether explicitly or through agentic inquiry, one or more of these is true: \u25cb You\u2019re a beginner \u25cb Software is\u2026",
+        "img": "https://static.licdn.com/aero-v1/sc/h/53n89ecoxpr1qrki1do3alazb",
+        "id": "7492281174875193344"
+      },
+      {
+        "interaction": "Liked by Manan Suri",
+        "link": "https://www.linkedin.com/posts/clementdelangue_meta-is-back-activity-7492526673343696896-KuIV",
+        "title": "Meta is back!",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQHi64ZyAmmF_g/feedshare-shrink_800/B4EZ_rNTdPIgAc-/0/1786357561932?e=2147483647&v=beta&t=eai-wFGwIO-dj-FZjlozgipAYTnkil_JKaBugITxCwE",
+        "id": "7492526673343696896"
+      },
+      {
+        "interaction": "Liked by Manan Suri",
+        "link": "https://www.linkedin.com/posts/tianqi-chen-679a9856_kdd2026-xgboost-activity-7492580215643308032-vLXp",
+        "title": "Our paper \"XGBoost: A Scalable Tree Boosting System\" received the Test of Time Award at #KDD2026! The honor belongs to the entire community that made\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQHu4yIA0rKhcg/feedshare-shrink_800/B56Z_r.AQhKYAg-/0/1786370327817?e=2147483647&v=beta&t=jD770ccA49KDU83QKEWW8rT9oYZ7N4wLfazh57mZ-uo",
+        "id": "7492580215643308032"
+      },
+      {
+        "interaction": "Shared by Manan Suri",
+        "link": "https://www.linkedin.com/posts/manansuri27_cybersecurity-ai-llm-activity-7492747287903817728-Bx-P",
+        "title": "In July, an autonomous agent powered by OpenAI's models escaped its evaluation sandbox and breached Hugging Face's production infrastructure chaining\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQG6pY9G4WyBvA/feedshare-shrink_800/B56Z_uV9JMKoAg-/0/1786410161210?e=2147483647&v=beta&t=JYZmhym_qp3PPzRBlvF9QzNYh29eU6_RhU4tVmWJytA",
+        "id": "7492747287903817728"
+      },
+      {
+        "interaction": "Liked by Manan Suri",
+        "link": "https://www.linkedin.com/posts/the-artificial-analysis-report-on-muse-glimmer-activity-7492702674530885633-kpwL",
+        "title": "The Artificial Analysis report on Muse Glimmer (high) is now live: https://lnkd.in/e2Ent-Cs Muse Glimmer scores 35 on the Artificial Analysis\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQGJXtgO7DfsEQ/feedshare-shrink_800/B4EZ_ttX21KkAc-/0/1786399523053?e=2147483647&v=beta&t=X5hFmEwxkWvjqugFYbLdxlM42qnXlZJsPi6hKrNWSdU",
+        "id": "7492702674530885633"
+      },
+      {
+        "interaction": "Liked by Manan Suri",
+        "link": "https://www.linkedin.com/posts/mattdeitke_well-be-releasing-an-open-weight-version-activity-7492604549023604736-Qlsj",
+        "title": "We'll be releasing an open weight version of Muse Spark 1.2 soon and are releasing Muse Glimmer today! \ud83c\udf1f The Muse Spark 1.2 model will be an open\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQF84w6s2S7Zyg/feedshare-shrink_1280/B56Z_sUIufG4AM-/0/1786376129826?e=2147483647&v=beta&t=KRNg51ICeeNYg_F_eZ2bkMWNnEPGjYNJ5jf8Xv3Nl-8",
+        "id": "7492604549023604736"
+      },
+      {
+        "interaction": "Liked by Manan Suri",
+        "link": "https://www.linkedin.com/posts/to-understand-whether-were-making-genuine-activity-7491152023187382272-ta6-",
+        "title": "To understand whether we're making genuine progress on reasoning, we entered our AI models in five international STEM Olympiad competitions this\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQHlhszNxls3Fw/feedshare-shrink_800/B4EZ_XrD2SH0Ac-/0/1786029818219?e=2147483647&v=beta&t=7z2FtaSrA9hbyENqPcWQv_m2PFSKP9bm5p0PEcZ9PHQ",
+        "id": "7491152023187382272"
+      },
+      {
+        "interaction": "Liked by Manan Suri",
+        "link": "https://www.linkedin.com/posts/zwcolin_today-is-my-last-full-time-day-as-a-research-activity-7491614539134889984-plIM",
+        "title": "Today is my last full-time day as a Research Scientist Intern at Meta Superintelligence Labs! I hope I could've had many more summers here :) Super\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQFSDGdplypb2g/feedshare-shrink_800/B56Z_ePtY1K8Ac-/0/1786140092395?e=2147483647&v=beta&t=7YvpppWSvfEZDSDknzfX8Q8_QhGVzl8zvMq3m-gjgYI",
+        "id": "7491614539134889984"
+      }
+    ],
+    "linkedin_num_id": "628902636",
+    "banner_image": "https://media.licdn.com/dms/image/v2/D5616AQGxx8KUCiFDBQ/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1724802784906?e=2147483647&v=beta&t=1_UCkiBmSBeqX8_q08o7ncz6RtAkUwUBKuNS9xbopSg",
+    "honors_and_awards": [
+      {
+        "title": "First Prize - Tech for Good Hackathon",
+        "publication": "-",
+        "date": "2021-01-01T00:00:00.000Z",
+        "description": "Project Asatya, a browser extension that tackles fake news by using Machine Learning to predict credibility, objectivity and media bias. We also suggest similar news items and summarise the given articles. The hackathon saw a participation of 3000 students from over 36 countries. The hackathon was organised by Open Weaver and Enactus."
+      },
+      {
+        "title": "Kishor Vaigyanik Protsahan Yojna (KVPY)",
+        "publication": "Department of Science and Technology",
+        "date": null,
+        "description": "AIR: 159"
+      },
+      {
+        "title": "Student of the Year (2019)",
+        "publication": "The Times of India",
+        "date": null,
+        "description": null
+      }
+    ],
+    "similar_profiles": [],
+    "default_avatar": false,
+    "memorialized_account": false,
+    "bio_links": [
+      {
+        "title": "Personal Website",
+        "link": "https://manansuri.com/"
+      }
+    ],
+    "first_name": "Manan",
+    "last_name": "Suri",
+    "influencer": false,
+    "timestamp": "2026-08-12T19:11:43.885Z",
+    "input": {
+      "url": "https://www.linkedin.com/in/manansuri27"
+    }
+  },
+  "local_photo": "data\\linkedin_photos\\manansuri27__usr-xhp5K5oKf0yL79o.jpg"
+}

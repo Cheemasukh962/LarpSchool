@@ -1,0 +1,195 @@
+{
+  "source": "crustdata",
+  "recovered_from": "brightdata_failed_private",
+  "luma_user_id": "usr-UEIuvbu7rxM8JFF",
+  "csv_name": "Samanyu Goyal",
+  "csv_linkedin": "https://www.linkedin.com/in/samanyu-goyal-the-great",
+  "clean_linkedin": "https://www.linkedin.com/in/samanyu-goyal-the-great",
+  "enriched_at": "2026-08-14T18:07:59.937250+00:00",
+  "person_data": {
+    "basic_profile": {
+      "current_title": "Founder",
+      "first_name": null,
+      "headline": "building @ YC",
+      "languages": [],
+      "last_name": null,
+      "location": {
+        "city": "San Ramon",
+        "continent": "North America",
+        "country": "United States",
+        "full_location": null,
+        "raw": "San Ramon, California, United States",
+        "state": "California"
+      },
+      "name": "Samanyu Goyal",
+      "normalized_title": {
+        "confident": true,
+        "department": "Executive Leadership",
+        "matched_title": "Co-Founder",
+        "similarity": 0.9998999834060669,
+        "sub_department": "Founder & Entrepreneurship Leadership"
+      },
+      "professional_network_name": "Samanyu Goyal",
+      "profile_picture_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/person/44923c332caefd5047aad23263bfd27148e4b5d35988d0721ee808f729fccfc9.jpg",
+      "summary": "Researching foundational models rn @ some secret places \ud83e\udd2b"
+    },
+    "education": {
+      "schools": [
+        {
+          "activities_and_societies": "",
+          "degree": "",
+          "description": "",
+          "end_year": null,
+          "field_of_study": "",
+          "institute_logo_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/company/49ffb0fa674359bd085807363ccfb3350671bec52819ddb4905a3d5b1b0cfa22.jpg",
+          "institute_logo_url": "https://media.licdn.com/dms/image/v2/D560BAQF6yinxdK6d2w/company-logo_400_400/B56Zed2gwwGQAc-/0/1750700002923/california_high_school_logo?e=1776297600&v=beta&t=1uVUgpDQXcqOS2KOTJLa7mRNhiVDzrgvJCFQYP3nu3I",
+          "location": {
+            "city": "San Ramon",
+            "continent": "North America",
+            "country": "United States",
+            "raw": "San Ramon, California, United States",
+            "state": "California"
+          },
+          "professional_network_id": "12903385",
+          "school": "California High School (San Ramon CA.)",
+          "start_year": null
+        }
+      ]
+    },
+    "experience": {
+      "employment_details": {
+        "current": [
+          {
+            "company_description": "Helping Stealth Startups to Launch, Hire & Scale.Here Recruiters Usually List Stealth Roles for early stage startups and job seekers can connect and consider those roles.",
+            "company_professional_network_profile_url": "https://linkedin.com/company/91313799",
+            "company_profile_picture_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/company/dae0fc8bc135eb65d3627a617e17987ec31fb0b52f8d49d2149079814515a8ef.jpg",
+            "company_website_domain": "linkedin.com",
+            "crustdata_company_id": 5513884,
+            "description": "creating AI lab on applicable foundational models",
+            "employment_type": "",
+            "end_date": null,
+            "function_category": "",
+            "is_default": true,
+            "location": {
+              "raw": ""
+            },
+            "name": "Stealth",
+            "position_id": 2873301417,
+            "professional_network_id": "91313799",
+            "seniority_level": "Owner / Partner",
+            "start_date": "2025-11-01T00:00:00+00:00",
+            "title": "Founder",
+            "years_at_company": "Less than 1 year",
+            "years_at_company_raw": 0.0
+          },
+          {
+            "company_description": "We strive to inspire underrepresented communities and make education free and accessible around the world. We create tech-related courses for students internationally, helping them learn complex concepts that should never feel out of reach just because of a price tag. We believe education should be an opportunity for everyone, not a privilege.2,500+ Students \u2022 117+ Countries \u2022 10,000+ Minutes Taught \u2022 Nationally Recognized by the House of Representatives \u2022 Featured on DanvilleSanRamon",
+            "company_professional_network_profile_url": "https://linkedin.com/company/102561603",
+            "company_profile_picture_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/company/cccb7d7b5dce50d34154100bfc295b6868a1c21762b73c43fc31c1c4c8a80386.jpg",
+            "company_website_domain": "codewithpurpose.org",
+            "crustdata_company_id": 8986608,
+            "description": "5k students, 150 countries\ncodewithpurpose.org",
+            "employment_type": "",
+            "end_date": null,
+            "function_category": "",
+            "is_default": true,
+            "location": {
+              "raw": ""
+            },
+            "name": "CodeWithPurpose",
+            "position_id": 2873307265,
+            "professional_network_id": "102561603",
+            "seniority_level": "Owner / Partner",
+            "start_date": "2025-01-01T00:00:00+00:00",
+            "title": "Co-Founder",
+            "years_at_company": "1 to 2 years",
+            "years_at_company_raw": 1.0
+          },
+          {
+            "company_description": "We strive to inspire underrepresented communities and make education free and accessible around the world. We create tech-related courses for students internationally, helping them learn complex concepts that should never feel out of reach just because of a price tag. We believe education should be an opportunity for everyone, not a privilege.2,500+ Students \u2022 117+ Countries \u2022 10,000+ Minutes Taught \u2022 Nationally Recognized by the House of Representatives \u2022 Featured on DanvilleSanRamon",
+            "company_professional_network_profile_url": "https://linkedin.com/company/102561603",
+            "company_profile_picture_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/company/cccb7d7b5dce50d34154100bfc295b6868a1c21762b73c43fc31c1c4c8a80386.jpg",
+            "company_website_domain": "codewithpurpose.org",
+            "crustdata_company_id": 8986608,
+            "description": "2k students, 110 countries",
+            "employment_type": "",
+            "end_date": null,
+            "function_category": "",
+            "is_default": false,
+            "location": {
+              "raw": ""
+            },
+            "name": "CodeWithPurpose",
+            "position_id": 2873307265,
+            "professional_network_id": "102561603",
+            "seniority_level": "Vice President",
+            "start_date": "2025-01-01T00:00:00+00:00",
+            "title": "President",
+            "years_at_company": "1 to 2 years",
+            "years_at_company_raw": 1.0
+          }
+        ],
+        "past": [
+          {
+            "company_description": "A network for entrepreneurs building in stealth. Submit your information here so investors can find you:harmonic.ai/get-discovered",
+            "company_professional_network_profile_url": "https://linkedin.com/company/18583501",
+            "company_profile_picture_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/company/713a8ec1241326ce65bba2e8e4669985db31fc0a799ad8a77017ef6543103219.jpg",
+            "company_website_domain": "harmonic.ai",
+            "crustdata_company_id": 6040342,
+            "description": "built agentic layer ontop of LinkedIn 4 figure exit",
+            "employment_type": "",
+            "end_date": "2025-11-01T00:00:00+00:00",
+            "function_category": "",
+            "is_default": false,
+            "location": {
+              "raw": ""
+            },
+            "name": "Stealth Startup",
+            "position_id": 2873310170,
+            "professional_network_id": "18583501",
+            "seniority_level": "Owner / Partner",
+            "start_date": "2024-10-01T00:00:00+00:00",
+            "title": "Founder",
+            "years_at_company": "1 to 2 years",
+            "years_at_company_raw": 1.0
+          }
+        ]
+      }
+    },
+    "professional_network": {
+      "connections": 142,
+      "current_title": "Founder",
+      "followers": 0,
+      "headline": "building @ YC",
+      "location": {
+        "city": "San Ramon",
+        "continent": "North America",
+        "country": "United States",
+        "raw": "San Ramon, California, United States",
+        "state": "California"
+      },
+      "metadata": {
+        "last_scraped_source": null
+      },
+      "name": "Samanyu Goyal",
+      "profile_picture_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/person/44923c332caefd5047aad23263bfd27148e4b5d35988d0721ee808f729fccfc9.jpg",
+      "pronoun": "",
+      "summary": "Researching foundational models rn @ some secret places \ud83e\udd2b"
+    },
+    "skills": {
+      "professional_network_skills": []
+    },
+    "social_handles": {
+      "dev_platform_identifier": {
+        "profile_url": null
+      },
+      "professional_network_identifier": {
+        "profile_url": "https://www.linkedin.com/in/samanyu-goyal"
+      },
+      "twitter_identifier": {
+        "slug": ""
+      }
+    },
+    "crustdata_person_id": 104891400
+  }
+}

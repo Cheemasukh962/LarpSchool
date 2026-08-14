@@ -1,0 +1,72 @@
+{
+  "luma_user_id": "usr-0k9DE3PfhKQcdpV",
+  "csv_name": "Aaron Zhu",
+  "csv_linkedin": "https://www.linkedin.com/in/alwaysacing",
+  "enriched_at": "2026-08-12T18:55:27.669322+00:00",
+  "batch_id": "sd_msqg7js7a7y0irwot",
+  "profile": {
+    "id": "alwaysacing",
+    "name": "Aaron Zhu",
+    "city": "Los Altos, California, United States",
+    "country_code": "US",
+    "position": null,
+    "about": "hi. i'm a freshman @ cmu obsessed with building and engineering current #1\u2026",
+    "current_company": {
+      "link": "https://www.linkedin.com/company/pingo-ai?trk=public_profile_topcard-current-company",
+      "name": "Pingo",
+      "company_id": "pingo-ai",
+      "location": null
+    },
+    "experience": null,
+    "url": "https://za.linkedin.com/in/alwaysacing",
+    "educations_details": "Carnegie Mellon University",
+    "education": [
+      {
+        "title": "Carnegie Mellon University",
+        "url": "https://www.linkedin.com/school/carnegie-mellon-university/",
+        "end_year": "2030-05",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      },
+      {
+        "start_year": "2022-08",
+        "end_year": "2026-06",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      }
+    ],
+    "avatar": "https://media.licdn.com/dms/image/v2/D5603AQEo3AE6f1X-rg/profile-displayphoto-scale_200_200/B56Z2PG5jTHkAg-/0/1776222450157?e=2147483647&v=beta&t=-If9Zi7gEJHL9wKdF-cpa61p71IjfwhcDjuXW7qbTh0",
+    "followers": 2278,
+    "connections": 500,
+    "current_company_company_id": "pingo-ai",
+    "current_company_name": "Pingo",
+    "location": "Los Altos",
+    "input_url": "https://www.linkedin.com/in/alwaysacing",
+    "linkedin_id": "alwaysacing",
+    "activity": null,
+    "linkedin_num_id": "917583933",
+    "banner_image": "https://static.licdn.com/aero-v1/sc/h/5q92mjc5c51bjlwaj3rs9aa82",
+    "honors_and_awards": [
+      {
+        "title": "USACO Platinum",
+        "publication": "United States of America Computing Olympiad",
+        "date": "2023-12-01T00:00:00.000Z",
+        "description": null
+      }
+    ],
+    "similar_profiles": [],
+    "default_avatar": false,
+    "memorialized_account": false,
+    "bio_links": [],
+    "first_name": "Aaron",
+    "last_name": "Zhu",
+    "influencer": false,
+    "timestamp": "2026-08-12T18:54:29.270Z",
+    "input": {
+      "url": "https://www.linkedin.com/in/alwaysacing"
+    }
+  },
+  "local_photo": "data\\linkedin_photos\\alwaysacing__usr-0k9DE3PfhKQcdpV.jpg"
+}

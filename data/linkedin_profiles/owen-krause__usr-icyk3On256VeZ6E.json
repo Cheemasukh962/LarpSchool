@@ -1,0 +1,214 @@
+{
+  "luma_user_id": "usr-icyk3On256VeZ6E",
+  "csv_name": "Owen Krause",
+  "csv_linkedin": "https://www.linkedin.com/in/owen-krause",
+  "enriched_at": "2026-08-12T19:13:35.740941+00:00",
+  "batch_id": "sd_msqguuzo2o546dm49e",
+  "profile": {
+    "id": "owen-krause",
+    "name": "Owen Krause",
+    "city": "Corvallis, Oregon, United States",
+    "country_code": "US",
+    "position": null,
+    "about": null,
+    "current_company": {
+      "link": "https://www.linkedin.com/company/zeddotdev?trk=public_profile_topcard-current-company",
+      "name": "Zed Industries",
+      "company_id": "zeddotdev",
+      "location": null
+    },
+    "experience": null,
+    "url": "https://ch.linkedin.com/in/owen-krause",
+    "educations_details": "Oregon State University",
+    "education": [
+      {
+        "title": "Oregon State University",
+        "url": "https://www.linkedin.com/school/oregon-state-university/",
+        "start_year": "2023",
+        "end_year": "2027",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      },
+      {
+        "start_year": "2019",
+        "end_year": "2023",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      }
+    ],
+    "avatar": "https://media.licdn.com/dms/image/v2/D5603AQFSeobMjDm7tQ/profile-displayphoto-scale_200_200/B56Z8sQzECHIAc-/0/1783154029172?e=2147483647&v=beta&t=VO7deAjBKc-k3prmguyOCws6-WZT5hZeo_OSwIUKTI8",
+    "followers": 579,
+    "connections": 500,
+    "current_company_company_id": "zeddotdev",
+    "current_company_name": "Zed Industries",
+    "projects": [
+      {
+        "title": "BeaverHacks Platform \u2013 Lead Developer",
+        "description": "Architected and developed a comprehensive hackathon management platform from the ground up as VP of BeaverHacks at Oregon State University. Built a production grade monorepo with 5 deployed applications serving 700+ participants and judges.Technical Implementation:\u2022 Monorepo architecture with shared authentication, database, UI components, and file storage packages\u2022 Next.js 15, TypeScript, React, PostgreSQL, Prisma ORM, Better Auth, Tailwind CSS\u2022 Cloud file storage integration (Vercel Blob) for resume uploads and project media\u2022 Role-based access control for participants, judges, sponsors, and administratorsLeadership: Led development teams of ~10 students for judge and career platforms while independently building main hackathon website"
+      },
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      {
+        "title": "DeepMaker",
+        "description": "Developed a decentralized market-making protocol that enables users to pool assets and provide liquidity on DeepBook (Sui's native decentralized exchange).\u2022 Architect liquidity provision vaults that accrue passive yield using Move smart contracts\u2022 Designed trading engine that utilized vault funds to market make on DeepBook\u2022 Top 50 finalist out of 600+ projects at Sui Overflow 2025, voted 3rd place in DeFi track, and winner of University Student Track"
+      },
+      {
+        "title": "Online Arbitrage Bots",
+        "description": "\u2022 Developed automation software for online arbitrage, scaling to 250+ subscribers at $5k MRR\u2022 Automated product sourcing reducing manual research from 5 hours to minutes daily\u2022 Leveraged to scale personal arbitrage business to $500,000+ in revenue through 9x increased purchasing efficiency"
+      }
+    ],
+    "location": "Corvallis",
+    "input_url": "https://www.linkedin.com/in/owen-krause",
+    "linkedin_id": "owen-krause",
+    "activity": [
+      {
+        "interaction": null,
+        "link": "https://www.linkedin.com/posts/opentowork-graduation-oregonstate-activity-7472484231567458304-FXp-",
+        "title": "I\u2019ve always held high expectations for myself, but looking back at where this journey began at 17, I am incredibly proud of how those expectations became a reality. For me, college wasn't a straight line. I wasn't afraid to pivot early on to find the perfect fit, transferring to Oregon State University and exploring international perspectives in Singapore. Every step was about raising the bar. Now I\u2019ve reached the next checkpoint: I have officially graduated from OSU with a B.S. in Business Analytics (Cum Laude) and received the Award for Outstanding Achievement in Business Analytics, an honor awarded to just 3 graduating students in the major this year. I knew I wanted to leave a real impact here, and I\u2019m walking away having accomplished exactly what I set out to do: Served as Chief Marketing Officer for BeaverHacks, driving marketing strategy to scale it into the largest hackathon in Oregon with nearly 500 attendees. Awarded a Certificate of Excellence as President of the Business Analytics Club, and drove community engagement as the PR Officer for the Taekwondo Club. Won multiple developer prizes at hackathons, analyzed real-world data funnels, and traveled to San Francisco with an incredible group of driven peers where I attended a major cybersecurity conference and an array of tech events. I\u2019m happy to say that my team started a movement and I expect it to live on among those who succeed me. Every pivot was an investment in building a versatile, high-impact skill set. Thank you to the incredible mentors, friends, and family who stood by me as I chased down these goals. I am officially #OpenToWork and looking for full-time opportunities in Business Analytics, Data Analysis, or Growth/Marketing Analytics. If your team is looking for a strategic, data-driven builder who thrives on high standards, let\u2019s connect! #Graduation #OregonState #BusinessAnalytics #DataAnalytics #TechLeadership #ClassOf2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQFre725K-LmBQ/feedshare-image-high-res/B56Z7OYvJ2IoAU-/0/1781579051909?e=2147483647&v=beta&t=pyrJQyrhLnUNUgc-l-jpM-sR2zywYp0Vaf0Br_wJ8Go",
+        "id": "7472484231567458304"
+      },
+      {
+        "interaction": null,
+        "link": "https://www.linkedin.com/posts/havelkonda_two-years-ago-i-had-a-dream-a-dream-that-activity-7462905129462140929-6yTd",
+        "title": "Two years ago, I had a dream. A dream that we could build something that would change people's lives for the better. Every moment of my life for the last 2 years has been dedicated to that mission. The numbers speak for themselves: nearly 500 attendees, 70 volunteers, $20,000 in prizes, backed by incredible sponsors and a community that believed in us before it was certain. We've made an impact, not just at Oregon State, but across the Pacific Northwest. Owen Krause , Caleb Chia , Violette Davis, Joshua Chilango . They're family. They stood by me through situations most people could never face. The sleepless nights, the early mornings, driving 10+ hours down to San Francisco to secure sponsors (with no plan whatsoever). They believed in the vision when no one else did. I asked them to sacrifice so much, with no proof that it would work out, and they showed up every time, because they had the same dream. To the rest of my team \u2014 my officers, my devs, my interns: thank you for trusting me. The goals I set, the dreams I have \u2014 they aren't realistic. They're ambitious. But that's what makes winning so worth it. Because even when it seemed impossible, it was your faith that brought us this far. Thank you to our industry partners, NVIDIA , Google , C1 , MarkIII , and Trimble Inc. To every judge, volunteer, and staff member, thank you for giving your time and expertise to make this real. To Oregon State Athletics , I walked past Reser Stadium every day for two years on my way to campus, and every day, I knew I had to host our event in the Toyota club. Thank you for helping me bring that dream to life. To Melissa Ward , Forrest Masters , Steve Niemi , Peter Rizk , and Aaron Babcock : every email thread, every text, every last-minute meeting. You were in the trenches with me every single day, fighting to build something meaningful for our community. To those who are scared to start: never let anyone tell you what's not possible. Because two years ago, the Hackathon Club was a small online club nobody had heard of. Today, it's BeaverHacks , Oregon\u2019s Largest Hackathon. So many people told me it was impossible, that OSU simply didn\u2019t have what it took. But to that I say, what\u2019s impossible today will be the reality of tomorrow. I\u2019ll see you all next year at BeaverHacks 2027. Let\u2019s keep building tomorrow together.",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQGMldpkoSAMiw/feedshare-shrink_800/B56Z5GQpbrHsAc-/0/1779295230583?e=2147483647&v=beta&t=ePxZbVjFEAQ23sEzdcr1zybRQcI2Xea4QuVrKuNR45w",
+        "id": "7462905129462140929"
+      },
+      {
+        "interaction": null,
+        "link": "https://www.linkedin.com/posts/oregon-state-hackathon-club_beaverhacks-is-built-around-giving-students-activity-7462213140651536384-we3u",
+        "title": "BeaverHacks is built around giving students the opportunity to push themselves beyond what\u2019s possible, and a major part of that comes from support from the industry. We\u2019d like to take a moment to recognize the professionals who gave their time at BeaverHacks 2026 to support the next generation of builders. Huge thank you to Google , NVIDIA , MarkIII , C1 , and Trimble Inc. for sponsoring the event, and to the professionals from these companies who showed up to judge, mentor, and table throughout the weekend: Will T. , Arun Arumugam, Michael Johnson , Graham Steele , Ethan E. , Amanda Butler , Andy Lin, Melissa Bailey, Will Garrison , and Michael Burton . We also want to thank our additional judges and mentors, including Alexander Ulbrich , Chris Schuermyer , Jim Slavik , Meet Shah , Lord Amdal , Robert Blackey , Sisavath Virasak , Lauren Schwartz , and many more for taking the time to support our students and community by judging projects. And a very special thank you to Steve Niemi and Peter Rizk for working closely with our team behind the scenes to help make BeaverHacks 2026 possible.",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQFxfuSGJwWQLA/feedshare-shrink_800/B56Z48bS13HwAc-/0/1779130249577?e=2147483647&v=beta&t=CiNyqUl0gzFrJDRoj1kPW8cUxi3AMRunvehQXRPNEz8",
+        "id": "7462213140651536384"
+      },
+      {
+        "interaction": "Owen Krause shared this",
+        "link": "https://www.linkedin.com/posts/owen-krause_joining-the-beaverhacks-team-my-freshman-activity-7457616892615348224-p2vw",
+        "title": "joining the BeaverHacks team my freshman year was the best decision I made in college. we started with no playbook and a stupid amount of ambition. going from 0 to 1 meant cold emailing sponsors who never replied, running events nobody showed up to, and figuring out stuff with no guide like how to transfer and distribute 300 burritos. we took a lot of risks. some failed miserably. in fact, last year Havel Konda and I covered thousands out of pocket when the club went into debt. but sometimes the stars would just align and we'd do the impossible. three years later, we ran the biggest student hackathon in Oregon. 450+ registrations and projects that genuinely blew me away. extremely grateful for Violette Davis who is graduating this year. building BeaverHacks means more to me than I can put into words and you and and the rest of the team made it possible.",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQFG8GA2BWzEAA/feedshare-shrink_800/B56Z35hDWDIYAc-/0/1778007685086?e=2147483647&v=beta&t=lA-oOfx9fpKagOsbOyzSJRjIQEeDnH-pm-oStQZp98Y",
+        "id": "7457616892615348224"
+      },
+      {
+        "interaction": null,
+        "link": "https://www.linkedin.com/posts/oregon-state-hackathon-club_beaverhacks-2026-kicks-off-in-less-than-24-activity-7456122211201093632-K8RK",
+        "title": "BeaverHacks 2026 kicks off in less than 24 hours, and we\u2019re excited to bring together hundreds of students, builders, and innovators for an unforgettable experience. Huge thanks to our sponsors and partners for making this possible, including Steve Niemi and NVIDIA AI We\u2019ll see you all very soon\u2026",
+        "img": null,
+        "id": "2026"
+      },
+      {
+        "interaction": null,
+        "link": "https://www.linkedin.com/posts/oregon-state-hackathon-club_dont-miss-out-on-the-biggest-coding-event-activity-7453257746059239425--2vh",
+        "title": "Don't miss out on the biggest coding event of the year. Register now at beaverhacks.org",
+        "img": "https://media.licdn.com/dms/image/v2/D5605AQGHnSyr9aFlXw/videocover-high/B56Z29KXFWIsBQ-/0/1776995108082?e=2147483647&v=beta&t=RwvzC_tQswG0gUQD_kqYGBXmMJuqfpL7A78io1Jfj1k",
+        "id": "7453257746059239425"
+      },
+      {
+        "interaction": null,
+        "link": "https://www.linkedin.com/posts/oregon-state-hackathon-club_date-has-been-changed-may-2nd-3rd-activity-7449623718689169409-7b5V",
+        "title": "DATE HAS BEEN CHANGED -> May 2nd - 3rd. Oregon\u2019s Largest Hackathon is back \u2014 and spots are limited. Join 500+ hackers for a weekend of building, learning, and competing at Reser Stadium. In-person attendees only. \ud83d\udcb0 $20K+ prize pool \ud83c\udf7d\ufe0f Free meals provided \ud83e\udd1d Sponsored by companies like Nvidia, NordVPN, and more... Register now: https://beaverhacks.org/",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQFkgjM02dzVFw/feedshare-image-high-res/B56Z2JhTDTK4AU-/0/1776128700873?e=2147483647&v=beta&t=ymMUOdbEldgrF7LY6puUOkTPsRXFiwIxzbNvOwltdI4",
+        "id": "7449623718689169409"
+      },
+      {
+        "interaction": null,
+        "link": "https://www.linkedin.com/posts/we-won-the-ghost-track-at-the-deep-agents-activity-7443735577243332608-uzxx",
+        "title": "\ud83c\udfc6 We won the Ghost track at the Deep Agents Hackathon by building an AI-powered data collection and labeling tool. My teammates Owen Krause , Havel Konda and Caleb Chia and I competed in a non-collegiate hackathon inside the Amazon Web Services (AWS) Loft in San Francisco, alongside industry professionals. Our project, CRWL, is an autonomous web research tool. Drop a topic. Parallel Claude agents crawl the web from every angle, coordinate through a shared Postgres database, and hand you back a clean labeled dataset. The core idea: agents don\u2019t need a central controller. They synchronize through shared state. Ghost gave us a managed Postgres instance in a single command, and the rest fell into place. The perfect way to close out the week. Thank you to Tiger Data (creators of TimescaleDB) for hosting the track. \ud83d\udd17 Check out CRWL: GitHub \u2192 https://lnkd.in/gsfNpApZ Devpost \u2192 https://lnkd.in/g2DFF3E6",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQF5PQyAFBBDbw/feedshare-shrink_800/B56Z012By8KcAg-/0/1774724851775?e=2147483647&v=beta&t=he5xCJVSTB7PnOPMMQKFC64AF7-3XOam7NdKMNFKM4k",
+        "id": "7443735577243332608"
+      },
+      {
+        "interaction": null,
+        "link": "https://www.linkedin.com/posts/some-people-see-spring-break-as-time-to-relax-activity-7443407867338002432-LTE-",
+        "title": "Some people see spring break as time to relax by stepping away from tech, but I disagree, I relax by diving further into it. That's why I optimized my entire spring break around a visit to my hometown, San Francisco, the most technical city in the world. Fellow BeaverHacks organizers Havel Konda , Caleb Chia , Owen Krause and I drove down together. Here's how the week actually went: I found free RSAC 2026 passes through a Tailscale event listed on Luma . Over the next few days that unlocked many opportunities. We sat in on panels and keynotes from many speakers, such as the CEO of SentinelOne , heard a former Google security lead walk through how his team used AI-powered offensive tooling to red-team organizations in real time, and attended a dinner where we got to hear from cybersecurity experts on where AI attacks are actually heading. On the expo floor we got to talk to teams from tons of amazing companies like GitLab and ServiceNow . We attended a Stanford University seminar on AI agents and payments, to hear Illia Polosukhin (co-author of the original Transformer paper and founder of NEAR) talk about securing agentic commerce, alongside many other amazing speakers figuring out what the internet looks like in the next five years. We attended a Y Combinator AI Founders Night where we listened to a YC founder talk about how to optimize content creation. We met up with lots of amazing people. Including a founder of a VC startup that's revolutionizing the world of AI companions, and we were able to have insightful conversations with other developers while visiting the Google and Meta HQs. Today I'm closing the week at the Amazon Web Services (AWS) loft for a Deep Agents Hackathon. At the end of the day, I came here and did all these things because I love this. The connections and networking opportunities were a bonus, I'm just happy to be somewhere that feels like home, with people like me. Normally, it feels like we're the only technical enthusiasts around, but this week, everyone around us spoke the same language. (Honorable mention: We checked out the computer history museum and a creative code exhibition. Both were amazing, I recommend both if you get the chance.)",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQEk_6V4gOlYUw/feedshare-image-high-res/B56Z0xL_8iK8AU-/0/1774646722724?e=2147483647&v=beta&t=IESbU3XOwbftTJRLAXv84hPjjWx05iI9Xa5oAEgchi0",
+        "id": "7443407867338002432"
+      },
+      {
+        "interaction": "Owen Krause liked this",
+        "link": "https://www.linkedin.com/posts/omer-kandemir_internship-roblox-softwareengineering-activity-7491925241573556224-YKaC",
+        "title": "\u26a1 Roblox is hiring Software Engineer Interns for Summer 2027 This is not a shadowing role. Interns take ownership of real production projects, work alongside experienced engineers, and build for a platform used by millions of people. \ud83d\udccc [Summer 2027] Software Engineer Intern @ Roblox \ud83d\udccd San Mateo, CA (On-site) \ud83d\udcb0 $62/hour + benefits \ud83d\udee0\ufe0f Go, Node.js, Ruby, Python, C++, Lua, Swift, C#, Java, ML frameworks, distributed systems, 3D experiences What you'll do: - Own a project from implementation through deployment - Work across engineering, product, design, data, and DevOps - Build scalable, real-time experiences and developer tooling - Present work to leaders and peers Best fit for CS students excited by high-scale product engineering and real-time systems. Apply here: https://lnkd.in/g8-Pw6ND #Internship #Roblox #SoftwareEngineering #CSCareers #OfferPilot",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQEA04hleo3IIQ/feedshare-shrink_800/B56Z_iqTvBKAAc-/0/1786214170161?e=2147483647&v=beta&t=xkpyZ0Ys2N4OJpwdBVfoDLdxzzMl-EVh-dau4NoQ4wM",
+        "id": "7491925241573556224"
+      },
+      {
+        "interaction": "Owen Krause liked this",
+        "link": "https://www.linkedin.com/posts/thinkingmachinesai_the-future-worth-building-is-human-activity-7481456245737132032-gL3E",
+        "title": "We're building AI that people and organizations can shape and make their own. AI should extend our will and judgment instead of neglecting it; enabling that is the technical challenge we are working to solve. https://lnkd.in/g63akA_F",
+        "img": "https://media.licdn.com/dms/image/sync/v2/D5627AQHS4CjCM32Bpg/articleshare-shrink_800/B56Z9M9JMlHUAY-/0/1783702525173?e=2147483647&v=beta&t=BI1EhGxJFJAXMh-D2AqyC-QsHKq5sq41gM3k3bER6xo",
+        "id": "7481456245737132032"
+      },
+      {
+        "interaction": "Owen Krause liked this",
+        "link": "https://www.linkedin.com/posts/kaitlyn-khayat_coinbase-next-gen-networking-2026-activity-7490922848207728640-zZq9",
+        "title": "\ud83d\udea8 Applications are open. Coinbase's Emerging Talent team is hosting an invitational networking night for the next generation's top builders. Come meet our team and take your first step towards our 2027 internship. Wednesday, September 2 | 6:00 PM | San Francisco Spots are limited. Applications close Wednesday, August 19 at 11:59 PM PT. \ud83d\udc49 https://lnkd.in/gRbg-uvt",
+        "img": null,
+        "id": "2026"
+      },
+      {
+        "interaction": "Owen Krause liked this",
+        "link": "https://www.linkedin.com/posts/ashleycperez_google-gemini-event-ambassador-application-activity-7490883944612188160-yEV0",
+        "title": "\u2728 Calling all #students and non-students looking for an exciting Event Ambassador role! \u2728 We\u2019re hiring #event staff for Google Gemini campus events across the U.S! Events will run for (2) days from mid-September to mid-October. We\u2019re looking for experienced, outgoing, and energetic event staff to help manage the event flow and lead AI-related activation elements. If you think you\u2019d be a good fit, apply today: https://lnkd.in/e7qp-eiU If you have any questions, please reach out to geminitourrecruitment@youthmarketing.com",
+        "img": "https://media.licdn.com/dms/image/sync/v2/D4E27AQHMpUyr3Yp5jw/articleshare-shrink_1280_800/B4EZ.blPSwIAAg-/0/1785021658667?e=2147483647&v=beta&t=doevITbH8NGMU3eq2dce4eiXxlTk-cERUSY_cSIJyxE",
+        "id": "7490883944612188160"
+      },
+      {
+        "interaction": "Owen Krause liked this",
+        "link": "https://www.linkedin.com/posts/vishalkathuria_software-engineer-research-infrastructure-activity-7485207624582348800-0hZ1",
+        "title": "Sharing an opportunity for my distributed systems friends who enjoy the challenge of building at scale and want to help accelerate frontier model research. https://lnkd.in/dR54pUyE",
+        "img": "https://media.licdn.com/dms/image/sync/v2/D5627AQF7wOEzZDQAkw/articleshare-shrink_800/B56Z9JsCAkGUAY-/0/1783647707598?e=2147483647&v=beta&t=M0HuesPQkJV1n5soCTT-_maq1CkmxuMA5lqB6QLbNns",
+        "id": "7485207624582348800"
+      },
+      {
+        "interaction": "Owen Krause liked this",
+        "link": "https://www.linkedin.com/posts/columbiabank_meet-erika-and-wesley-two-members-of-our-activity-7478540102399418369-l7pg",
+        "title": "Meet Erika and Wesley, two members of our 2026 internship class. Erika Ayriyan is studying Economics at the University of California, Irvine and hopes to build a career in banking focused on helping people achieve their financial goals. Fluent in Armenian, Russian and English, she enjoys connecting with people from different backgrounds and spending time on the tennis court. Wesley Holland is studying Economics at Oregon State University with a Finance minor. Drawn to wealth management and investment research, he's passionate about building relationships, staying active and making an impact in the communities he serves. Both chose Columbia Bank for the opportunity to learn, grow and gain hands-on experience within a relationship-driven culture. We're excited to have Erika and Wesley on the team this summer and look forward to seeing what they accomplish. Member FDIC",
+        "img": "https://media.licdn.com/dms/image/v2/D5610AQHDjYQ9HP-6sg/image-shrink_800/B56Z8kclpJG0Ag-/0/1783022902449?e=2147483647&v=beta&t=iivBpTd52tNev0mA82CQkN3EdWdKetkrtp8IzkOlsy4",
+        "id": "7478540102399418369"
+      },
+      {
+        "interaction": "Owen Krause liked this",
+        "link": "https://www.linkedin.com/posts/anita-williamson_attention-college-students-interested-activity-7482827738903433216-Sn6p",
+        "title": "\ud83d\udce2 Attention college students interested in Software Engineering! Hudson River Trading is NOW hiring for a Software Engineering Internship - C++ or Python - Summer 2027! Quick overview: \u2139\ufe0f \ud835\uddd4\ud835\uddef\ud835\uddfc\ud835\ude02\ud835\ude01 Hudson River Trading : A quantitative trading firm that designs and deploys automated trading strategies. \ud83d\udcca \ud835\uddd6\ud835\uddfc\ud835\uddfa\ud835\uddfd\ud835\uddee\ud835\uddfb\ud835\ude06 \ud835\udddb\ud835\uddf6\ud835\uddf4\ud835\uddf5\ud835\uddf9\ud835\uddf6\ud835\uddf4\ud835\uddf5\ud835\ude01\ud835\ude00: Known for high-frequency trading across global equities, futures, options, and currencies. \ud83d\udcb5 \ud835\udde6\ud835\uddee\ud835\uddf9\ud835\uddee\ud835\uddff\ud835\ude06: $145 hourly \ud83d\udccd \ud835\uddea\ud835\uddf5\ud835\uddf2\ud835\uddff\ud835\uddf2: New York, NY +4 \u2705 Application link: https://lnkd.in/gt_QXKvA \ud83d\udd0e \ud835\udde6\ud835\ude01\ud835\uddee\ud835\ude06 \ud835\ude02\ud835\uddfd \ud835\ude01\ud835\uddfc \ud835\uddf1\ud835\uddee\ud835\ude01\ud835\uddf2 on the latest SWE Internships: https://lnkd.in/gew_uZB7",
+        "img": "https://media.licdn.com/dms/image/v2/D5610AQEJ-NmEnOM-mQ/image-shrink_1280/B56Z9hYKQKGQAg-/0/1784045152766?e=2147483647&v=beta&t=tiZfVFQN3CcYLiBUvRGO0gFB3yovqCSWGE8g3UuW3IA",
+        "id": "7482827738903433216"
+      },
+      {
+        "interaction": "Owen Krause liked this",
+        "link": "https://www.linkedin.com/posts/heba-alazzeh_notion-is-hiring-new-grad-software-engineers-activity-7485046987369877504-ZzDB",
+        "title": "\ud83c\udf93 Notion is hiring new-grad software engineers! Software Engineer, New Grad $126K-$146K/yr https://lnkd.in/gFb-Atfv Software Engineer, New Grad (AI) $126K-$146K/yr https://lnkd.in/gn4PctRv More new-grad software opportunities are coming - follow to keep them on your radar. \ud83d\ude80",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQEuULyGGR6vFw/feedshare-shrink_1280/B56Z.A6k28IUAM-/0/1784574270286?e=2147483647&v=beta&t=vVyOWmf9omr0AHUox211Dfh8s80YNaEB_M2qjHjhVXo",
+        "id": "7485046987369877504"
+      },
+      {
+        "interaction": "Owen Krause liked this",
+        "link": "https://www.linkedin.com/posts/aiturgantalant_nvidia-is-hiring-new-grads-and-software-activity-7483981226697969664-vBgg",
+        "title": "\ud83d\ude80 NVIDIA is hiring new grads and software interns! System Software Engineer, Dynamo-Triton Inference Server - New College Grad 2026 Remote - US https://lnkd.in/g_nvvnyM Systems Software Engineer, Autonomous Systems Mapping - New College Graduate 2026 Onsite - Santa Clara, CA https://lnkd.in/gZHEXD7x Software Engineering Intern Onsite - Santa Clara, CA https://lnkd.in/gtHGAZj4 Software Engineer, TensorRT Specialized Platforms - New College Grad 2025 Onsite - Santa Clara, CA https://lnkd.in/gJTaCHqD Follow along for AI systems openings aimed at interns and new graduates. \ud83d\udc40",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQH9QIgch99Jyw/feedshare-shrink_800/B56Z9xxRZwIgAc-/0/1784320186571?e=2147483647&v=beta&t=IpXLr19Nl86VTZzU5FsLgWVQaB-SySbtDYCyS38bf9Y",
+        "id": "7483981226697969664"
+      }
+    ],
+    "linkedin_num_id": "1216446803",
+    "banner_image": "https://static.licdn.com/aero-v1/sc/h/5q92mjc5c51bjlwaj3rs9aa82",
+    "honors_and_awards": null,
+    "similar_profiles": [],
+    "default_avatar": false,
+    "memorialized_account": false,
+    "bio_links": [],
+    "first_name": "Owen",
+    "last_name": "Krause",
+    "influencer": false,
+    "timestamp": "2026-08-12T19:12:38.955Z",
+    "input": {
+      "url": "https://www.linkedin.com/in/owen-krause"
+    }
+  },
+  "local_photo": "data\\linkedin_photos\\owen-krause__usr-icyk3On256VeZ6E.jpg"
+}

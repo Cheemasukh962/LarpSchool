@@ -1,0 +1,205 @@
+{
+  "luma_user_id": "usr-zvDJFzAGi1i6pPj",
+  "csv_name": "krypoto",
+  "csv_linkedin": "https://www.linkedin.com/in/jiace-zhao",
+  "enriched_at": "2026-08-12T19:12:29.383635+00:00",
+  "batch_id": "sd_msqgtpzbeylkhkm9p",
+  "profile": {
+    "id": "jiace-zhao",
+    "name": "Jiace Zhao",
+    "city": "United States",
+    "country_code": "US",
+    "position": null,
+    "about": "Call me by JC. Google Scholar:\u2026",
+    "current_company": {
+      "link": "https://www.linkedin.com/company/singularity-voices?trk=public_profile_topcard-current-company",
+      "name": "Singularity Voices",
+      "company_id": "singularity-voices",
+      "location": null
+    },
+    "experience": null,
+    "url": "https://eg.linkedin.com/in/jiace-zhao",
+    "educations_details": "\u7f8e\u56fd\u52a0\u5dde\u5927\u5b66\u4f2f\u514b\u5229\u5206\u6821",
+    "education": [
+      {
+        "start_year": "2026-07",
+        "end_year": "2026-07",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      }
+    ],
+    "avatar": "https://media.licdn.com/dms/image/v2/D5603AQH_kcFJVPDruA/profile-displayphoto-scale_200_200/B56Z9ABDMgIUAg-/0/1783485445849?e=2147483647&v=beta&t=sXMaL3AL01XcEyEFYMk4uomjHrDXQsbVy68PBWdVw0s",
+    "languages": [
+      {
+        "subtitle": "Native or bilingual proficiency",
+        "title": "\u4e2d\u6587"
+      },
+      {
+        "subtitle": "Full professional proficiency",
+        "title": "\u82f1\u8bed"
+      },
+      {
+        "subtitle": "Limited working proficiency",
+        "title": "\u897f\u73ed\u7259\u8bed"
+      }
+    ],
+    "followers": 1091,
+    "connections": 500,
+    "current_company_company_id": "singularity-voices",
+    "current_company_name": "Singularity Voices",
+    "publications": [
+      {
+        "title": "Co-author",
+        "date": "November 1, 2025",
+        "description": "Training computer use agents requires full-featured OS sandboxes with GUI environments, which consume substantial hardware resources as the number of sandboxes scales. Stochastic errors arising from diverse software execution within these sandboxes further demand robust infrastructure design and reliable error recovery. We present OSGym, a scalable OS environment infrastructure for computer use agents, built around these key optimization strategies: (1) Decentralized OS state management, which isolates failures to individual replicas and significantly enhances overall system reliability; (2) Hardware-aware OS replica orchestration, which addresses CPU-bounded scaling bottlenecks and substantially reduces compute overhead; (3) KVM virtualization with copy-on-write disk management, which shares a common bootable disk across VM instances and provisions only instance-specific modifications, reducing physical disk consumption by 88% and increasing disk provisioning speed by 37 times; and (4) Robust container pool with multi-layer fault recovery. Together, these optimizations yield strong scalability and resource efficiency: OSGym manages over a thousand OS replicas under constrained resources, supports parallel trajectory generation at 1420 multi-turn trajectories per minute, and reduces per-replica cost to 0.2-0.3 USD per day, a 90% reduction over standard deployment. Our experiments validate OSGym across end-to-end pipelines for data collection and training for computer use agents. We believe OSGym establishes a new foundation for scalable, general-purpose computer use agent research."
+      },
+      {
+        "title": "Author",
+        "subtitle": "Applied and Computational Engineering",
+        "date": "February 16, 2025",
+        "description": "This paper proposes using the YOLO object detection algorithm to accurately and efficiently detect nuts and screws using a custom-built 6-DOF robotic arm equipped with a gripper and a depth camera running the YOLO v10 object detection model in real-time, addressing the challenges of traditional detection methods in fast-paced production environments. This capability enables subsequent robot control to dynamically adjust actions based on precise component localization. Dynamic control in robotic automation has traditionally depended on model-based approaches, where performance depends on accurate system modeling. However, as systems grow more complex, precise modeling becomes increasingly challenging, often leading to suboptimal control. To address these limitations, we propose an Adaptive Robust Learning (ARL) Control algorithm. By integrating a Disturbance Observer (DOB) within the ILC framework, the ARL Control algorithm enhances adaptability and robustness, compensating for real-time disturbances. This work highlights the potential of combining advanced control algorithms with state-of-the-art visual recognition in robotics, paving the way for robust learning solutions in dynamic environments."
+      }
+    ],
+    "projects": [
+      {
+        "title": "next.clingword.com",
+        "start_date": "Jun 2025",
+        "description": "- Reached 20K+ users in under two months.- AI-powered vocab-learning app."
+      },
+      {
+        "title": "Muyujici (\u6728\u9c7c\u8bb0\u8bcd)",
+        "description": "Built a minimalist vocabulary-learning app centered on repetition and audio reinforcement.Instead of overwhelming users with complex features, Muyujici repeatedly displays and automatically pronounces words to strengthen visual and auditory memory. The product turns vocabulary memorization into a simple, focused daily habit.App Store: https://apps.apple.com/us/app/%E6%9C%A8%E9%B1%BC%E8%AE%B0%E8%AF%8D/id6760446641"
+      },
+      {
+        "title": "sacademe.org",
+        "description": "Built an AI-powered learning platform that transforms complex concepts into interactive visual explanations, making challenging topics easier to understand and explore.Animation Framework: Manim"
+      }
+    ],
+    "location": null,
+    "input_url": "https://www.linkedin.com/in/jiace-zhao",
+    "linkedin_id": "jiace-zhao",
+    "activity": [
+      {
+        "interaction": "Liked by Jiace Zhao",
+        "link": "https://www.linkedin.com/posts/ayan--mammadli_spent-the-weekend-in-san-francisco-for-y-activity-7487619865701216256-9S-T",
+        "title": "Spent the weekend in San Francisco for Y Combinator Startup School. Really enjoyed hearing from keynote speakers Jensen Huang, Sam Altman, Boris\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQGryfofi1Xgtw/feedshare-image-high-res/B56Z.lekNpG0AY-/0/1785187685870?e=2147483647&v=beta&t=f-_XJCkI83DWLgV8SGz8xN9h7DWPvJN-9-QJ4QrcaDI",
+        "id": "7487619865701216256"
+      },
+      {
+        "interaction": "Liked by Jiace Zhao",
+        "link": "https://www.linkedin.com/posts/im-excited-to-share-that-ive-graduated-activity-7479892800470196224-KQ0P",
+        "title": "I\u2019m excited to share that I\u2019ve graduated from the University of California, Berkeley with a B.S. in Chemical Biology and a B.A. in Computer Science.\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQGxVmsowRoMMA/feedshare-image-high-res/B56Z83q3tYKUAY-/0/1783345413370?e=2147483647&v=beta&t=ay1dPq4JUd4uVnJ2Rd3OWI2mEvt7FGS4R39P2w5YURM",
+        "id": "7479892800470196224"
+      },
+      {
+        "interaction": "Liked by Jiace Zhao",
+        "link": "https://www.linkedin.com/posts/jennyhuynh23_i-moved-from-stanford-to-sf-and-my-first-activity-7487318331528617984-qLD5",
+        "title": "I moved from Stanford to SF and my first stop is Y Combinator. I attended YC\u2019s Startup School as I navigate my path as not only a content creator\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQE_kTGsYA0MLw/feedshare-shrink_800/B56Z.hMWBbKAAc-/0/1785115796346?e=2147483647&v=beta&t=EMqvfeZqHFc9Sx5rtAtBD4OTinLIuTSnUyJSaXcd4BU",
+        "id": "7487318331528617984"
+      },
+      {
+        "interaction": "Liked by Jiace Zhao",
+        "link": "https://www.linkedin.com/posts/rachel-d-995b91208_spent-this-weekend-at-yc-startup-school-activity-7487382136316915713-JiSt",
+        "title": "Spent this weekend at YC Startup School, and it was easily one of the most inspiring events I've been to. I met so many talented builders from\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQF2Ig967Aj4CQ/feedshare-shrink_800/B56Z.iGX09HYAk-/0/1785131009111?e=2147483647&v=beta&t=8EGG-5o6PIDVln2UVCg-9AsF2OaskLUtlfkSAaFoJCM",
+        "id": "7487382136316915713"
+      },
+      {
+        "interaction": "Liked by Jiace Zhao",
+        "link": "https://www.linkedin.com/posts/olivia-zura_this-summer-i-became-a-physicist-to-be-activity-7483244768265805824-UB4r",
+        "title": "This summer, I became a physicist! To be more precise, a student research assistant with the Physics & X-Ray Science Group at Berkeley Lab. Kiet\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQFRqoP3u3p2dg/feedshare-shrink_800/B56Z9nTdgnIMAc-/0/1784144582982?e=2147483647&v=beta&t=zNbO5QW4wiXpC0kWOlNcNIRhAP6D79mwYiviKLZlEak",
+        "id": "7483244768265805824"
+      },
+      {
+        "interaction": "Liked by Jiace Zhao",
+        "link": "https://www.linkedin.com/posts/ricki-yan_happy-to-share-that-i-have-graduated-from-activity-7481301439298887681-A2dA",
+        "title": "Happy to share that I have graduated from \u590d\u65e6\u5927\u5b66 with a Double Degree in Data Science & Economics, ranked #1 in my cohort and awarded the National\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQHAjki4HNBWPQ/feedshare-image-high-res/B56Z9LrqQRG4AY-/0/1783681164646?e=2147483647&v=beta&t=kM8r6GEAyF9203mxBZtLV3eiwDSaVwJhAEKBQ2Ery-k",
+        "id": "7481301439298887681"
+      },
+      {
+        "interaction": "Liked by Jiace Zhao",
+        "link": "https://www.linkedin.com/posts/elsa-cai_psa-if-youre-an-early-stage-founder-or-activity-7482914149836931074-98uV",
+        "title": "PSA: If you're an early-stage founder or someone with a startup idea. Keep reading bc I'm going to change your life. Starting a company has never\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQGTEhnSimrnQw/feedshare-shrink_800/B56Z9imxFzKgAc-/0/1784065758062?e=2147483647&v=beta&t=i7rtoqWRdX36SFWiLEYCs03taza0F8RU0Dvdsw_cE9A",
+        "id": "7482914149836931074"
+      },
+      {
+        "interaction": "Liked by Jiace Zhao",
+        "link": "https://www.linkedin.com/posts/andy-wang-duke2027_asugsv-summit-po-shen-loh-it-is-easy-activity-7452918604012052480-Pxpl",
+        "title": "ASU+GSV Summit Po-Shen Loh \u201cIt is easy to find someone kind and genuine and teach them math and science. But it is much harder to find someone\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQEezCe5-PmcwQ/feedshare-shrink_800/B4EZ24V9KyJkAc-/0/1776914262658?e=2147483647&v=beta&t=D6Wwf4P_0NkBDI7Wf0o65ti14f-zRqMVxJBdl56NSSg",
+        "id": "7452918604012052480"
+      },
+      {
+        "interaction": "Liked by Jiace Zhao",
+        "link": "https://www.linkedin.com/posts/diyatulasikumar_four-years-ago-i-didnt-know-much-about-activity-7478094173041008640-ti4B",
+        "title": "Four years ago, I didn\u2019t know much about what it meant to pursue astronomy as a career, but I knew I had a passion for learning about the universe.\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQFYxLNAUGZmUg/feedshare-shrink_800/B56Z8eHBU2LAAk-/0/1782916585636?e=2147483647&v=beta&t=qgd829K2YRRlkTEBUr97KbHmnW3oU1uLRFuCzAp84NE",
+        "id": "7478094173041008640"
+      },
+      {
+        "interaction": "Liked by Jiace Zhao",
+        "link": "https://www.linkedin.com/posts/jean-darbo-855a62381_we-just-pulled-off-the-biggest-marketing-activity-7478909426771390464-NUy7",
+        "title": "We just pulled off the biggest marketing stunt In Silicon Valley history 0 budget 652 emails sent 1 robot This is what scrappy Gen-Z guerilla\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5605AQFfY9gIjw7qYA/videocover-high/B56Z8pscAEGoBM-/0/1783110946293?e=2147483647&v=beta&t=NOLIrjPOJrprrPjHnJSANKaka8vQnUJ8P_1EAmvJRBI",
+        "id": "7478909426771390464"
+      },
+      {
+        "interaction": "Liked by Jiace Zhao",
+        "link": "https://www.linkedin.com/posts/dawson-chen-letterbook_i-faked-my-yale-graduation-borrowed-a-stole-activity-7480244344382234624-P470",
+        "title": "I faked my Yale graduation. Borrowed a stole, put on a suit, and took photos with my friends. I was supposed to graduate this June. But 3 years\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQGzvAMIXLoQEQ/feedshare-image-high-res/B56Z82T1GkG8AU-/0/1783322596245?e=2147483647&v=beta&t=kSSlTGOD1tqUNzsJ_NWREWuqXCEVnYLoHnZRnWBUilE",
+        "id": "7480244344382234624"
+      },
+      {
+        "interaction": "Liked by Jiace Zhao",
+        "link": "https://www.linkedin.com/posts/james-leung-dev_i-just-graduated-from-the-university-of-cambridge-activity-7479995308089851904-hCLM",
+        "title": "I just graduated from the University of Cambridge with the top-scoring dissertation in the year (90%)! It was titled \"Towards Automated Mechanistic\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQGE2dwj0kd7kw/feedshare-shrink_800/B4EZ85IF9fIsAc-/0/1783369850973?e=2147483647&v=beta&t=bPNT2kSGE1zIp6MPc5WVQIgdmb0fuiP_UgtntKtzrFE",
+        "id": "7479995308089851904"
+      },
+      {
+        "interaction": "Liked by Jiace Zhao",
+        "link": "https://www.linkedin.com/posts/ryan-xie-a0a295269_a-little-freaking-late-pardon-my-language-activity-7480262602162515968-tOv3",
+        "title": "A little freaking late (pardon my language)... but I'm really excited to share that I'll be attending the University of California, Berkeley this\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQEVaMJPCq3ZNg/feedshare-image-high-res/B4EZ887KmJIsAU-/0/1783433576177?e=2147483647&v=beta&t=FSvHeTiGeIbdHHl90a4mBuuYJdn0aTiKUHOFKpdiBN0",
+        "id": "7480262602162515968"
+      },
+      {
+        "interaction": "Liked by Jiace Zhao",
+        "link": "https://www.linkedin.com/posts/william-wei-zhu_in-2011-jelani-nelson-taped-a-math-puzzle-activity-7480244352791916544-2VMf",
+        "title": "In 2011, Jelani Nelson taped a math puzzle to bulletin boards across Addis Ababa, capital of Ethiopia: \"700 people enter a room and each shakes\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQEMkew-4Xjpxw/feedshare-shrink_800/B4EZ8p4difIsAc-/0/1783114095907?e=2147483647&v=beta&t=IW13Md541Mc7yxIA4FjzfRl1tRI_yqx8YsEqrXWDgrk",
+        "id": "2011"
+      },
+      {
+        "interaction": "Liked by Jiace Zhao",
+        "link": "https://www.linkedin.com/posts/dtransformer_diis-dtransformer-eazohackathon-activity-7475699308948897792-Wppc",
+        "title": "No code. No experience required. No \u201cI\u2019m not technical enough.\u201d Just vibe coding \u2013 and the belief that an idea worth building is one that makes\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5605AQEjf8iV5NYypQ/videocover-high/B56Z76HIOsJoBM-/0/1782312645494?e=2147483647&v=beta&t=SSOG4e2myhnKWNXo51F2R2f5sYS97WLx0I7vcKih0jY",
+        "id": "7475699308948897792"
+      }
+    ],
+    "linkedin_num_id": "1552005358",
+    "banner_image": "https://media.licdn.com/dms/image/v2/D5616AQF7bOzjWM9QzA/profile-displaybackgroundimage-shrink_200_800/B56Z3Am43lIUAU-/0/1777052916514?e=2147483647&v=beta&t=Q18S-qo6_GTSvPNd9WRqVkc_m5cfO6kA1rt9Wfk0zk0",
+    "honors_and_awards": null,
+    "similar_profiles": [],
+    "default_avatar": false,
+    "memorialized_account": false,
+    "bio_links": [],
+    "first_name": "Jiace",
+    "last_name": "Zhao",
+    "influencer": false,
+    "timestamp": "2026-08-12T19:11:45.815Z",
+    "input": {
+      "url": "https://www.linkedin.com/in/jiace-zhao"
+    }
+  },
+  "local_photo": "data\\linkedin_photos\\jiace-zhao__usr-zvDJFzAGi1i6pPj.jpg"
+}

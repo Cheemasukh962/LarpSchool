@@ -1,0 +1,282 @@
+{
+  "source": "crustdata",
+  "recovered_from": "brightdata_failed_private",
+  "luma_user_id": "usr-WbWF9wR2m4ax0Cg",
+  "csv_name": "Shixing Yu",
+  "csv_linkedin": "https://www.linkedin.com/in/shixing-yu-029401182",
+  "clean_linkedin": "https://www.linkedin.com/in/shixing-yu-029401182",
+  "enriched_at": "2026-08-14T18:07:59.937250+00:00",
+  "person_data": {
+    "basic_profile": {
+      "current_title": "Research Scientist",
+      "first_name": null,
+      "headline": "PhD @ Cornell",
+      "languages": [],
+      "last_name": null,
+      "location": {
+        "city": "Haidian District",
+        "continent": "Asia",
+        "country": "China",
+        "full_location": null,
+        "raw": "Haidian District, Beijing, China",
+        "state": "Beijing"
+      },
+      "name": "Shixing Y.",
+      "normalized_title": {
+        "confident": true,
+        "department": "Education & Research",
+        "matched_title": "Research Scientist",
+        "similarity": 0.9998999834060669,
+        "sub_department": "Research & Laboratory Science"
+      },
+      "professional_network_name": "Shixing Y.",
+      "profile_picture_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/person/64ac8ae8897b9ebd17477daa2451c47a005e0d059fa891d6389cbe8bc5f6dac6.jpg",
+      "summary": ""
+    },
+    "education": {
+      "schools": [
+        {
+          "activities_and_societies": "",
+          "degree": "Bachelor\u2019s Degree",
+          "description": "",
+          "end_year": 2021,
+          "field_of_study": "Computer Science",
+          "institute_logo_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/company/a971dd968c95a755476e5d8d5d338f33014a38604f0fa89feab0840aef732595.jpg",
+          "institute_logo_url": "https://media.licdn.com/dms/image/v2/C560BAQFNJ0xtCpaTmA/company-logo_400_400/company-logo_400_400/0/1630659985593/peking_university_logo?e=1787184000&v=beta&t=KCRyi2PN5nHKwPhxqXpSsdPtyFYABRwgr60Ptn39VlM",
+          "location": {
+            "city": "Beijing",
+            "continent": "Asia",
+            "country": "China",
+            "raw": "\u5317\u4eac, China",
+            "state": ""
+          },
+          "professional_network_id": "20289",
+          "school": "Peking University",
+          "start_year": 2017
+        },
+        {
+          "activities_and_societies": "",
+          "degree": "Master's degree",
+          "description": "",
+          "end_year": 2023,
+          "field_of_study": "Electrical and Computer Engineering",
+          "institute_logo_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/company/3bde6085b0ab16563e9961b6d9f98cac770ee6b16604fa9c6f31e30960896f99.jpg",
+          "institute_logo_url": "https://media.licdn.com/dms/image/v2/C560BAQEREeDg1PACXA/company-logo_400_400/company-logo_400_400/0/1630670868977/theuniversityoftexasataustin__logo?e=1787184000&v=beta&t=ydVZL23gF26bsWL0-FmxjMLm4wUD2g5em4A1eQQixg8",
+          "location": {
+            "city": "Austin",
+            "continent": "North America",
+            "country": "United States",
+            "raw": "Austin, Texas, United States",
+            "state": "Texas"
+          },
+          "professional_network_id": "3162",
+          "school": "The University of Texas at Austin",
+          "start_year": 2021
+        },
+        {
+          "activities_and_societies": "",
+          "degree": "Doctor of Philosophy - PhD",
+          "description": "LLM mech interp",
+          "end_year": 2028,
+          "field_of_study": "Computer Engineering",
+          "institute_logo_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/company/a62fca8ee50cfd46e59efc9b849bab4585508d476ccfa8e582eb60504750532a.jpg",
+          "institute_logo_url": "https://media.licdn.com/dms/image/v2/C560BAQE8SOXGRyv7LA/company-logo_400_400/company-logo_400_400/0/1631339899678?e=1787184000&v=beta&t=CFEcIXWVyX6HvYU1UCgqb7yZmF0cWXTbEa6plH4Zz1A",
+          "location": {
+            "city": "Ithaca",
+            "continent": "North America",
+            "country": "United States",
+            "raw": "Ithaca, New York, United States",
+            "state": "New York"
+          },
+          "professional_network_id": "3523",
+          "school": "Cornell University",
+          "start_year": 2023
+        }
+      ]
+    },
+    "experience": {
+      "employment_details": {
+        "current": [
+          {
+            "company_description": "Meta's mission is to build the future of human connection and the technology that makes it possible. Our technologies help people connect, find communities, and grow businesses. When Facebook launched in 2004, it changed the way people connect. Apps like Messenger, Instagram and WhatsApp further empowered billions around the world. Now, Meta is moving beyond 2D screens toward immersive and intelligent experiences like virtual reality, wearables and AI to help build the next evolution in social technology.To help create a safe and respectful online space, we encourage constructive conversations on this page. Please note the following:\u2022 Start with an open mind. Whether you agree or disagree, engage with empathy.\u2022 Comments violating our Community Standards will be removed or hidden. Please treat everybody with respect.\u2022 Keep it constructive. Use your interactions here to learn about and grow your understanding of others.\u2022 Our moderators are here to uphold these guidelines for the benefit of everyone, every day.\u2022 If you are seeking support for issues related to your Facebook account, please reference our Help Center (https://www.facebook.com/help) or Help Community (https://www.facebook.com/help/community).For a full listing of our jobs, visit https://www.metacareers.com",
+            "company_professional_network_profile_url": "https://linkedin.com/company/10667",
+            "company_profile_picture_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/company/e84581be93525861b5db4eb0eee09ca9073b125906137ab22c99ba7079969e29.jpg",
+            "company_website_domain": "metacareers.com",
+            "crustdata_company_id": 6033736,
+            "description": "MSL",
+            "employment_type": "",
+            "end_date": null,
+            "function_category": "Research",
+            "is_default": true,
+            "location": {
+              "raw": "\u95e8\u6d1b\u5e15\u514b, CA"
+            },
+            "name": "Meta",
+            "position_id": 2917660873,
+            "professional_network_id": "10667",
+            "seniority_level": "Entry Level",
+            "start_date": "2026-01-01T00:00:00+00:00",
+            "title": "Research Scientist",
+            "years_at_company": "Less than 1 year",
+            "years_at_company_raw": 0.0
+          }
+        ],
+        "past": [
+          {
+            "company_description": "Meta's mission is to build the future of human connection and the technology that makes it possible. Our technologies help people connect, find communities, and grow businesses. When Facebook launched in 2004, it changed the way people connect. Apps like Messenger, Instagram and WhatsApp further empowered billions around the world. Now, Meta is moving beyond 2D screens toward immersive and intelligent experiences like virtual reality, wearables and AI to help build the next evolution in social technology.To help create a safe and respectful online space, we encourage constructive conversations on this page. Please note the following:\u2022 Start with an open mind. Whether you agree or disagree, engage with empathy.\u2022 Comments violating our Community Standards will be removed or hidden. Please treat everybody with respect.\u2022 Keep it constructive. Use your interactions here to learn about and grow your understanding of others.\u2022 Our moderators are here to uphold these guidelines for the benefit of everyone, every day.\u2022 If you are seeking support for issues related to your Facebook account, please reference our Help Center (https://www.facebook.com/help) or Help Community (https://www.facebook.com/help/community).For a full listing of our jobs, visit https://www.metacareers.com",
+            "company_professional_network_profile_url": "https://linkedin.com/company/10667",
+            "company_profile_picture_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/company/e84581be93525861b5db4eb0eee09ca9073b125906137ab22c99ba7079969e29.jpg",
+            "company_website_domain": "metacareers.com",
+            "crustdata_company_id": 6033736,
+            "description": "Multimodality LLM RL post training",
+            "employment_type": "Internship",
+            "end_date": "2025-08-01T00:00:00+00:00",
+            "function_category": "Research",
+            "is_default": false,
+            "location": {
+              "raw": "\u4f2f\u7075\u683c\u59c6, CA"
+            },
+            "name": "Meta",
+            "position_id": 2637675816,
+            "professional_network_id": "10667",
+            "seniority_level": "In Training",
+            "start_date": "2025-05-01T00:00:00+00:00",
+            "title": "Research Scientist Intern",
+            "years_at_company": "Less than 1 year",
+            "years_at_company_raw": 0.0
+          },
+          {
+            "company_description": "Every company has a mission. What's ours? To empower every person and every organization to achieve more. We believe technology can and should be a force for good and that meaningful innovation contributes to a brighter world in the future and today. Our culture doesn\u2019t just encourage curiosity; it embraces it. Each day we make progress together by showing up as our authentic selves. We show up with a learn-it-all mentality. We show up cheering on others, knowing their success doesn't diminish our own. We show up every day open to learning our own biases, changing our behavior, and inviting in differences. Because impact matters. Microsoft operates in 190 countries and is made up of approximately 228,000 passionate employees worldwide.",
+            "company_professional_network_profile_url": "https://linkedin.com/company/1035",
+            "company_profile_picture_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/company/9324c3b16231718d7c6eb941352a0d023399e165e909e62565063a93a97dc9bb.jpg",
+            "company_website_domain": "microsoft.com",
+            "crustdata_company_id": 2110301,
+            "description": "Domain specific LLM SFT",
+            "employment_type": "Internship",
+            "end_date": "2023-12-01T00:00:00+00:00",
+            "function_category": "Research",
+            "is_default": false,
+            "location": {
+              "raw": "Beijing"
+            },
+            "name": "Microsoft",
+            "position_id": 2215056955,
+            "professional_network_id": "1035",
+            "seniority_level": "In Training",
+            "start_date": "2023-07-01T00:00:00+00:00",
+            "title": "Research Intern",
+            "years_at_company": "Less than 1 year",
+            "years_at_company_raw": 0.0
+          },
+          {
+            "company_description": "The California Institute of Technology (Caltech) is a world-renowned science and engineering research and education institution, where extraordinary faculty, students and staff seek answers to complex questions, discover new knowledge, lead innovation, and transform our future.Caltech's 124-acre campus is located in Pasadena, California.",
+            "company_professional_network_profile_url": "https://linkedin.com/company/4992",
+            "company_profile_picture_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/company/98106e6c5c635e855fcab2b808eef63d2d4afaf8e5f8041df5c8f4d34d3cc293.jpg",
+            "company_website_domain": "caltech.edu",
+            "crustdata_company_id": 1099594,
+            "description": "Automated theorem proving LLM",
+            "employment_type": "Internship",
+            "end_date": "2022-12-01T00:00:00+00:00",
+            "function_category": "Research",
+            "is_default": false,
+            "location": {
+              "raw": "\u5e15\u8428\u8fea\u7eb3, CA"
+            },
+            "name": "Caltech",
+            "position_id": 2215842081,
+            "professional_network_id": "4992",
+            "seniority_level": "In Training",
+            "start_date": "2022-09-01T00:00:00+00:00",
+            "title": "Research Intern",
+            "years_at_company": "Less than 1 year",
+            "years_at_company_raw": 0.0
+          },
+          {
+            "company_description": "Since its founding in 1993, NVIDIA (NASDAQ: NVDA) has been a pioneer in accelerated computing. The company\u2019s invention of the GPU in 1999 sparked the growth of the PC gaming market, redefined computer graphics, ignited the era of modern AI and is fueling the creation of the metaverse. NVIDIA is now a full-stack computing company with data-center-scale offerings that are reshaping industry.",
+            "company_professional_network_profile_url": "https://linkedin.com/company/3608",
+            "company_profile_picture_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/company/704b0587845fc304917d96d6632146626a12810554d3212df5580cd8235d9c6b.jpg",
+            "company_website_domain": "nvidia.com",
+            "crustdata_company_id": 6034612,
+            "description": "Efficient ML architecture design",
+            "employment_type": "Internship",
+            "end_date": "2022-09-01T00:00:00+00:00",
+            "function_category": "Research",
+            "is_default": false,
+            "location": {
+              "raw": "\u5723\u514b\u9c81\u65af, CA"
+            },
+            "name": "NVIDIA",
+            "position_id": 2215055712,
+            "professional_network_id": "3608",
+            "seniority_level": "In Training",
+            "start_date": "2022-06-01T00:00:00+00:00",
+            "title": "Research Scientist Intern",
+            "years_at_company": "Less than 1 year",
+            "years_at_company_raw": 0.0
+          },
+          {
+            "company_description": "A wellspring of innovation, the school occupies a 1,232-acre campus near downtown Berkeley. UC Berkeley, also known as Cal, was established in 1868 as the flagship of today\u2019s 10-campus University of California.",
+            "company_professional_network_profile_url": "https://linkedin.com/company/2517",
+            "company_profile_picture_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/company/426acda7e092299f46c701d6bff10de72de3254f3dcec2e4abca75957537ee81.jpg",
+            "company_website_domain": "berkeley.edu",
+            "crustdata_company_id": 1313972,
+            "description": "Efficient Machine Learning algorithm (Pruning, Quantization, distillation)",
+            "employment_type": "Internship",
+            "end_date": "2020-12-01T00:00:00+00:00",
+            "function_category": "Research",
+            "is_default": false,
+            "location": {
+              "raw": "\u4f2f\u514b\u5229, CA"
+            },
+            "name": "University of California, Berkeley",
+            "position_id": 2215839322,
+            "professional_network_id": "2517",
+            "seniority_level": "In Training",
+            "start_date": "2020-07-01T00:00:00+00:00",
+            "title": "Research Intern",
+            "years_at_company": "Less than 1 year",
+            "years_at_company_raw": 0.0
+          }
+        ]
+      }
+    },
+    "professional_network": {
+      "connections": 693,
+      "current_title": "Research Scientist",
+      "followers": 707,
+      "headline": "PhD @ Cornell",
+      "location": {
+        "city": "Haidian District",
+        "continent": "Asia",
+        "country": "China",
+        "raw": "Haidian District, Beijing, China",
+        "state": "Beijing"
+      },
+      "metadata": {
+        "last_scraped_source": null
+      },
+      "name": "Shixing Y.",
+      "profile_picture_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/person/64ac8ae8897b9ebd17477daa2451c47a005e0d059fa891d6389cbe8bc5f6dac6.jpg",
+      "pronoun": "",
+      "summary": ""
+    },
+    "skills": {
+      "professional_network_skills": [
+        "Computer Vision",
+        "PyTorch for Deep learning"
+      ]
+    },
+    "social_handles": {
+      "dev_platform_identifier": {
+        "profile_url": null
+      },
+      "professional_network_identifier": {
+        "profile_url": "https://www.linkedin.com/in/shixing-y-029401182"
+      },
+      "twitter_identifier": {
+        "slug": ""
+      }
+    },
+    "crustdata_person_id": 109273824
+  }
+}

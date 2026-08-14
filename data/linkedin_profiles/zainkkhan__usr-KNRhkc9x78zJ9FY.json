@@ -1,0 +1,246 @@
+{
+  "luma_user_id": "usr-KNRhkc9x78zJ9FY",
+  "csv_name": "Zain",
+  "csv_linkedin": "https://www.linkedin.com/in/zainkkhan",
+  "enriched_at": "2026-08-12T19:25:08.257031+00:00",
+  "batch_id": "sd_msqh7u7r1xzwli6vdk",
+  "profile": {
+    "id": "zainkkhan",
+    "name": "Zain Khan",
+    "city": "Surrey, British Columbia, Canada",
+    "country_code": "CA",
+    "position": null,
+    "about": "ctrl+c ctrl+v specialist",
+    "current_company": {
+      "link": "https://ca.linkedin.com/company/leap-tools?trk=public_profile_topcard-current-company",
+      "name": "Leap Tools",
+      "company_id": "leap-tools",
+      "location": null
+    },
+    "experience": null,
+    "url": "https://fi.linkedin.com/in/Zainkkhan",
+    "educations_details": "University of Waterloo",
+    "education": [
+      {
+        "title": "University of Waterloo",
+        "url": "https://ca.linkedin.com/school/uwaterloo/",
+        "start_year": "2025-09",
+        "end_year": "2030-04",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      },
+      {
+        "start_year": "2020-09",
+        "end_year": "2025-06",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      }
+    ],
+    "avatar": "https://media.licdn.com/dms/image/v2/D5603AQFpPpBMXe2_Aw/profile-displayphoto-scale_200_200/B56Z3.0KJHGUAc-/0/1778096583727?e=2147483647&v=beta&t=tFawPGSTmjIQItu7tipmnNv2CDnWysxRfeOemxjMHjI",
+    "languages": [
+      {
+        "subtitle": "Full professional proficiency",
+        "title": "English"
+      },
+      {
+        "subtitle": "Professional working proficiency",
+        "title": "Urdu"
+      },
+      {
+        "subtitle": "Limited working proficiency",
+        "title": "Pahari"
+      },
+      {
+        "subtitle": "Limited working proficiency",
+        "title": "Punjabi"
+      }
+    ],
+    "volunteer_experience": [
+      {
+        "cause": "Children",
+        "duration": "Jul 2024 \u00b7 - \nJun 2025 \u00b7 \n1 year",
+        "duration_short": "- \nJun 2025",
+        "info": "as a code sensei, I taught coding to kids aged 5-14 using microsoft makecode, js and C#. helped them debug their projects and kept things fun and collaborative.",
+        "start_date": "Jul 2024",
+        "subtitle": "Code Ninjas",
+        "title": "Instructor"
+      },
+      {
+        "cause": "Health",
+        "duration": "Sep 2021 \u00b7 - \nSep 2024 \u00b7 \n3 years 1 month",
+        "duration_short": "- \nSep 2024",
+        "info": "volunteered for 3 years helping coordinate the annual run. directed participants along routes, kept energy up, and worked with a team of 20+ volunteers to keep everything running smooth.",
+        "start_date": "Sep 2021",
+        "subtitle": "Terry Fox Foundation",
+        "title": "Volunteer"
+      }
+    ],
+    "followers": 915,
+    "connections": 500,
+    "current_company_company_id": "leap-tools",
+    "current_company_name": "Leap Tools",
+    "projects": [
+      {
+        "title": "the extension",
+        "start_date": "Mar 2026",
+        "description": "built a browser agent that turns natural-language requests into real Chrome extensions.instead of manually editing websites or writing extension boilerplate, you just describe what you want, and it generates the extension files for you."
+      },
+      null,
+      null,
+      null,
+      {
+        "title": "toothfairy",
+        "start_date": "Feb 2026",
+        "description": "built an AI dental assistant that can analyze dental X-rays, isolate individual teeth, and help dentists connect findings to patient history.uses computer vision + AI copilots to make dental imaging faster, clearer, and more explainable."
+      },
+      null,
+      null,
+      null,
+      {
+        "title": "otto",
+        "start_date": "Jan 2026",
+        "description": "built jarvis but for developers -- > really cool, check it out.won 1st place for the livekit track @ nexhacks hosted at carnegie mellon university (1500+ hackers, 1M+ in prizes)"
+      },
+      null,
+      null,
+      null,
+      {
+        "title": "sketchy",
+        "start_date": "Dec 2025",
+        "description": "draw your website as a sketch and watch it become a whole site, deployable to vercel & github."
+      },
+      null,
+      null,
+      null,
+      {
+        "title": "school arcade project",
+        "start_date": "Dec 2023",
+        "description": "made a whole arcade from scratch. was quite fun :)"
+      },
+      null,
+      {
+        "title": "media->ascii",
+        "start_date": "Sep 2023",
+        "description": "ever wanted to convert something to ascii? check out the site (try the live camera mode, its really cool)"
+      }
+    ],
+    "location": "Surrey",
+    "input_url": "https://www.linkedin.com/in/zainkkhan",
+    "linkedin_id": "zainkkhan",
+    "activity": [
+      {
+        "interaction": null,
+        "link": "https://www.linkedin.com/posts/aidanjeon_we-built-cursor-for-dentists-check-it-out-activity-7442285468664238080-0dkp",
+        "title": "We built cursor for dentists, check it out :) Cursor has an ai agent that has context on an entire codebase. Why can't dentists have an agent that has context on previous patient procedures, x-rays, & visits to streamline workflows? Once an x-ray + patient profile is uploaded, our ML segmentation pipeline segments teeth for ai-analysis + maps them onto a 3-d model (using 3.js), saving a lot of time! Dentists can ask our ai assistant (toothfairy) for more context on specific teeth + treatments + previous states of the tooth. More features: - clinical notes (from previous clinic visits) + treatment plans - pdf export generator w/ info on visit summaries, treatment plans, & clinical assessments/findings - side-to-side comparisons w/ previous x-rays to visualize how conditions have progressed Built w/ Michelle Jeon , Abe Kuk , Zain Khan in 36 hours! \ud83d\udd17 Links: Github: https://lnkd.in/eVAxHkKR Devpost: https://lnkd.in/emugVRBN ...more ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D4E05AQG17u6KbzlQiw/videocover-high/B4EZ0hPBPlGQBY-/0/1774379096184?e=2147483647&v=beta&t=ln0J8kkUP1EWdDmZ6K0GYMqoHOpH25vz4wsazqQt2bY",
+        "id": "7442285468664238080"
+      },
+      {
+        "interaction": null,
+        "link": "https://www.linkedin.com/posts/abdullahrajput1_nexhacks-cmu-activity-7420233385903689728-mRS5",
+        "title": "at 4pm this saturday, we had no idea what we were going to build at NexHacks (1500+ hackers) 24 hours later we were up a $1000 and 1st place winners of the most competitive track ( LiveKit )\ud83c\udfc6 we built otto to help developers automate (ottomate) their workflow. huge thanks once again to Shayne Parmelee , Sushrut Athavale & Chris Wilson at LiveKit for helping us iterate and ship this product in <24 hours. loved touring cmu + upitt (pics below) and shoutout Ali Imran , Aidan Jeon , & Zain Khan for making this a memorable hackathon. many more to come. #nexhacks #cmu ...more ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQEiKbn3RKcRTA/feedshare-shrink_800/B4EZvn28SRJAAk-/0/1769121499242?e=2147483647&v=beta&t=L56BecPyNvtZlu5ZTtKGEdJNwf1YOfqyp9InqnB56Yg",
+        "id": "7420233385903689728"
+      },
+      {
+        "interaction": null,
+        "link": "https://www.linkedin.com/posts/aidanjeon_carnegiemellon-uwaterloo-nexhacks-activity-7420013439344877568-UH8H",
+        "title": "went from slippin on black ice at waterloo to slippin on cash at nexhacks (hosted @ carnegie mellon u, 1500+ hackers). having been fascinated with tony stark\u2019s jarvis, we ended up creating a jarvis for developers (otto), helping sync workflows and revolutionize productivity. fortunately, we came out 1st for the LiveKit sponsor track! (stay tuned for future developments) big s/o to my goated teammates: Abdullah R. , Zain Khan , Ali Imran and huge thanks to the LiveKit team ( Shayne Parmelee , Sushrut Athavale and many more). also, huge thanks to the organizers and many of the cracked builders i interacted with. lastly, 2 things: bruno mars album is dropping soon and im looking for internships this summer :) (here\u2019s me tweaking out and sleeping on a usb cable) #carnegiemellon #uwaterloo #nexhacks ...more ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQGZ-zM6pZKaNg/feedshare-image-high-res/B4EZvku5HgGgAU-/0/1769069059337?e=2147483647&v=beta&t=SlVBH5En3EeQLOc9fZyK17tNabPaipccpFMUY9hBEkY",
+        "id": "7420013439344877568"
+      },
+      {
+        "interaction": null,
+        "link": "https://www.linkedin.com/posts/ali-intelligence_nexhacks-livekit-voiceai-activity-7419934859785138176-UH3d",
+        "title": "My GitHub, Gmail, and Calendar now report to me. Not the other way around. This weekend at NexHacks, my team and I decided to built otto, a Jarvis for developers that turns your professional workflow into a conversation, leading us to win 1st Place for the LiveKit Track @ NexHacks (Hosted at Carnegie Mellon University , 1500+ hackers). From sleeping at 6 in the morning and doing the demo video at the very last second to walking up the stage and achieving first, we made it. Extremely proud to walk away with this achievement. Huge shoutout to my teammates: Abdullah R. , Aidan Jeon , Zain Khan and thanks to Shayne Parmelee , Sushrut Athavale , and the team at LiveKit for all their wonderful feedback. #NexHacks #LiveKit #VoiceAI #BuildInPublic #SoftwareEngineering ...more ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQG0HvSiLi4Uhw/feedshare-shrink_800/B4EZvjnUAWHoAg-/0/1769050292684?e=2147483647&v=beta&t=BxaXuQiUheiB6VwKzCKoFgWh7aa9s28BscxbPzWRT-Y",
+        "id": "7419934859785138176"
+      },
+      {
+        "interaction": "Zain Khan shared this",
+        "link": "https://www.linkedin.com/posts/zainkkhan_wemadeit-activity-7420011663237586944-XrfY",
+        "title": "Went from chasing deer to chasing the bag \ud83d\udcb8 This weekend we built otto, a Jarvis for developers, where we caught the dub \ud83e\udd47 for the Livekit Track @ NexHacks (Hosted at Carnegie Mellon University with over 1500+ hackers ) We also got to tour CMU, meet hella cracked people, explore pittsburgh and get some celebratory eats. Proud to walk away with this one. Huge shoutout to my boys Abdullah R. , Aidan Jeon , Ali Imran for the hard work + immeasurable fun and thanks to Shayne Parmelee , Sushrut Athavale , and the team at LiveKit for all the feedback. #wemadeit ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQHHqEbhC3jb6w/feedshare-shrink_1280/B4EZvktRURHwAc-/0/1769068631627?e=2147483647&v=beta&t=M6CZrncZDTgNSR0Nyd0W2lGgmrDdxT6FSbhf5bacfwY",
+        "id": "7420011663237586944"
+      },
+      {
+        "interaction": "Zain Khan liked this",
+        "link": "https://www.linkedin.com/posts/rababb-pannu_im-excited-to-share-that-ill-be-working-activity-7490798778526904320-4Fgm",
+        "title": "I'm excited to share that I'll be working as an AI Engineering Intern at Presto Phoenix, Inc. this fall! I'll also be working part time for Presto leading up to my coop term, developing the technology behind Dairy Queen 's AI drive-thru! Thank you to Livingstone Inbaraj, Andrew Ballinger, and Krishna K. Gupta for a smooth interview process, and I'm looking forward to working for Presto!",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQG879k8mr9ZQg/feedshare-image-high-res/B56Z_Qtg5YK8AU-/0/1785913020335?e=2147483647&v=beta&t=O5LrZhv43PErQS6Gd11PYSgziIQwNsWSE0nCh0yk23g",
+        "id": "7490798778526904320"
+      },
+      {
+        "interaction": "Zain Khan liked this",
+        "link": "https://www.linkedin.com/posts/jamie-seoh_calling-all-students-apply-to-hack-the-north-activity-7487152174716698624-tGsR",
+        "title": "Calling all students: apply to Hack the North ! This year, I'm organizing logistics for HTN, and if there's one thing I learned, it's to try new things and just do it. I know most of you are passionate builders; HTN is truly the place to pour your lifetime of craftsmanship into a weekend of excitement, learning, and empowerment. Think you don't have a place at the event? Don't worry, that's what 90% of hackers think when they apply; chances are, you are underestimating yourself. Press that apply button, share your hacker signal, and have a chance to participate in Canada's biggest hackathon! Hacker applications close TONIGHT (jk its tomorrow but your soft deadline should be TONIGHT). Use apply.hackthenorth.com .",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQHPC5rWnM6iHw/feedshare-shrink_800/B56Z.e1OjgGUAc-/0/1785076181726?e=2147483647&v=beta&t=IcUrTOStpp54zwHyIjJzIbKpfEsJpoI3hbLtCYS1eKY",
+        "id": "7487152174716698624"
+      },
+      {
+        "interaction": "Zain Khan liked this",
+        "link": "https://www.linkedin.com/posts/mike-mitc_this-month-i-joined-leap-tools-as-an-enterprise-activity-7483526792327192576-JAFz",
+        "title": "This month I joined Leap Tools as an Enterprise Account Executive. After years selling B2B software across the property world -- VendorPM , Loopio , Property Vista -- I've moved to where the built world meets the consumer. Roomvo lets a shopper see products in their own space before they buy: flooring, rugs, tile, paint, countertops, wall coverings, furniture, d\u00e9cor. When brands and retailers put that into the purchase journey, conversion moves in a way you can measure. It's the first product I've sold that a shopper actually Feels -- that was worth moving for. First order of business: Las Vegas Market | ANDMORE\u00ae , July 26\u201330. I'm new to this industry and will be walking the floor to learn from the people who live it. If you'll be there, I'd genuinely like to meet -- send me a message.",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQFbfUlBTtmXUQ/feedshare-shrink_1280/B56Z9rT9bbGoAM-/0/1784211822906?e=2147483647&v=beta&t=wtzZ5ynavskR2JbS_vfJoNheU0DGXRQ1j4fb95woSpM",
+        "id": "7483526792327192576"
+      },
+      {
+        "interaction": "Zain Khan liked this",
+        "link": "https://www.linkedin.com/posts/jvngyn_wait-so-youre-telling-me-that-this-man-has-activity-7481420858847125504-tyWf",
+        "title": "wait so you\u2019re telling me that this man has to first knock out the birthplace of modern football, his home country, superstar Kane, and his bestie Jude then this man has to (likely) play and retire the greatest football player of all time in Messi with Argentina but then to win the whole thing, he\u2019d (potentially) have to play his generational rival and the superteam tournament favorite that is France? how can you not root for Norway, i am team Haaland, \u54c8\u5b9d all the way",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQHzHD-4EaBlBQ/feedshare-shrink_800/B56Z9NYoRVGoAc-/0/1783709730162?e=2147483647&v=beta&t=LRjwsxqT7v2NQoDose8c0WKnroTCKo6CfdH7g7hvZkw",
+        "id": "7481420858847125504"
+      },
+      {
+        "interaction": "Zain Khan liked this",
+        "link": "https://www.linkedin.com/posts/brianna-lin_mastermindsummit-mortgagetech-mortgageleadership-activity-7477792606937227265-PzG5",
+        "title": "The Copperlane (YC W26) team just spent a week under the 100\u00b0F Vegas sun to see where the future of mortgage is heading at Mastermind Summit . \ud83c\udfb2 Here's what we're noticing: 1. This industry is more complex than it looks from the outside, and that complexity isn't going away. For any technology to actually be useful to lenders, you have to start from the value it delivers to them. Earning a place in someone's workflow is harder than building the tech itself. 2. The devil is in the details. Many tech tools make big promises and can deliver on typical clean files. The real challenge is being able to handle the complexity of messier files, because that's where most of the real work and cost actually sit. 3. Trust is the real adoption barrier, and in such a regulated industry, lenders don't want a black box. They want to see why a decision was made and have an audit trail behind it. Explainability and transparency are key. Conversations like these shape what we're building at Copperlane. Our AI LOA Penny is designed to handle the incomplete and complex files. We've built Penny with safety first, and she's designed to show her full reasoning so lenders can trust what she's doing. Meet with us: https://lnkd.in/gW5z4R_i #MastermindSummit #MortgageTech #MortgageLeadership #MortgageAI #Copperlane #Mortgage copperlane.ai",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQFUYosjW2ktJg/feedshare-shrink_800/B4EZ8Z0usWJIAk-/0/1782844682826?e=2147483647&v=beta&t=QUnUro-pGyXwSQ-AFx13ZSmI_T5udrUx0TkCEq1t-50",
+        "id": "7477792606937227265"
+      },
+      {
+        "interaction": "Zain Khan liked this",
+        "link": "https://www.linkedin.com/posts/ramzi-khatib-3a5796332_alhamdulillah-i-am-excited-to-be-joining-activity-7480081113558970368-5MS_",
+        "title": "Alhamdulillah I am excited to be joining TD as a Software Engineering Intern this Fall! Thank you to everyone involved in the recruitment process, I appreciate the opportunity and can't wait to get started!",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQFL9hiv66et7w/feedshare-shrink_800/B56Z86WIfqIQAg-/0/1783390309211?e=2147483647&v=beta&t=2-HS8gbjZb9W20dvDDoBc7xe97F6TxJ0g4ZZGouEH2o",
+        "id": "7480081113558970368"
+      },
+      {
+        "interaction": "Zain Khan liked this",
+        "link": "https://www.linkedin.com/posts/zacharyyu_i-am-returning-to-y-combinator-to-build-belvedir-activity-7476359689585491968-fRHv",
+        "title": "I am returning to Y Combinator to build Belvedir .",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQFypwizCEeU0g/feedshare-shrink_800/B56Z8FdhTrG0Ac-/0/1782503053467?e=2147483647&v=beta&t=ymmJn7v2S23hmZKHmD5lIBCtSFB6uNqtVfK740gKebk",
+        "id": "7476359689585491968"
+      },
+      {
+        "interaction": "Zain Khan liked this",
+        "link": "https://www.linkedin.com/posts/the-most-expensive-email-in-my-inbox-is-from-activity-7473769008744448000-A6GB",
+        "title": "The most expensive email in my inbox is from February 2024. A Cursor co-founder reached out to bring me onto their founding team. It didn't work out. This week, SpaceX acquired Cursor for $60 billion. Proximity to a $60 billion outcome teaches you something money can't: opportunity isn't random nor fair. It's a surface area. Success and the version of you that just missed it are often separated by just a few millimeters. Most people would file that under regret. I file it under proof. Because luck isn't random. Luck is a surface area - something that\u2019s fully under your control. A Cursor co-founder emailed me because my surface was already big enough to catch his attention. That wasn't luck. That was consistency and showing up. I didn't convert that one. But the lesson wasn't \"get luckier.\" It was \"get bigger\" Build more. Say it louder. Be so good they can\u2019t ignore you. So now I'm obsessed with a different kind of millimeter. At Lucent (YC W26) , we build AI that watches your product's session replays 24/7 and detects where users are struggling. The next $60 billion door doesn't open for the person waiting beside it. It opens for the person whose surface area is so large the door has no choice but to find them. Building it now. Different door. My name on it this time.",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQEzICQuF0nAsg/feedshare-image-high-res/B56Z7gpUBoIMAY-/0/1781885387436?e=2147483647&v=beta&t=AK8-xmripq_zkvo2yx69QkG9Rhzk2VTNPCGsMZkCX_Y",
+        "id": "7473769008744448000"
+      }
+    ],
+    "linkedin_num_id": "1274397045",
+    "banner_image": "https://media.licdn.com/dms/image/v2/D5616AQHpvFlIbXljuQ/profile-displaybackgroundimage-shrink_200_800/B56Z3.01HQKQAY-/0/1778096755747?e=2147483647&v=beta&t=6py1sdyV5RmmLcArTR92yNHEESx9i149ESy07X9v6rY",
+    "honors_and_awards": null,
+    "similar_profiles": [],
+    "default_avatar": false,
+    "memorialized_account": false,
+    "bio_links": [
+      {
+        "title": "Personal Website",
+        "link": "https://zainkhan.dev/"
+      }
+    ],
+    "first_name": "Zain",
+    "last_name": "Khan",
+    "influencer": false,
+    "timestamp": "2026-08-12T19:23:25.288Z",
+    "input": {
+      "url": "https://www.linkedin.com/in/zainkkhan"
+    }
+  },
+  "local_photo": "data\\linkedin_photos\\zainkkhan__usr-KNRhkc9x78zJ9FY.jpg"
+}

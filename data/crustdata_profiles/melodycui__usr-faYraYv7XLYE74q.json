@@ -1,0 +1,283 @@
+{
+  "source": "crustdata",
+  "recovered_from": "brightdata_failed_private",
+  "luma_user_id": "usr-faYraYv7XLYE74q",
+  "csv_name": "Melody Ciu",
+  "csv_linkedin": "https://www.linkedin.com/in/melodycui",
+  "clean_linkedin": "https://www.linkedin.com/in/melodycui",
+  "enriched_at": "2026-08-14T18:07:59.937250+00:00",
+  "person_data": {
+    "basic_profile": {
+      "current_title": "Software Engineer Intern",
+      "first_name": null,
+      "headline": "CS @ Berkeley",
+      "languages": [],
+      "last_name": null,
+      "location": {
+        "city": "Cupertino",
+        "continent": "North America",
+        "country": "United States",
+        "full_location": null,
+        "raw": "Cupertino, California, United States",
+        "state": "California"
+      },
+      "name": "Melody Cui",
+      "normalized_title": {
+        "confident": true,
+        "department": "Engineering & Technology",
+        "matched_title": "Software Engineer Intern",
+        "similarity": 0.9998999834060669,
+        "sub_department": "Software Engineering"
+      },
+      "professional_network_name": "Melody Cui",
+      "profile_picture_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/person/9f4dde91b9fbef84581cfdb908bb61133048a02b887e23714c1cd34ecca7448c.jpg",
+      "summary": "interested in a lot of things\nhere's my substack: ferittingz.substack.com"
+    },
+    "education": {
+      "schools": [
+        {
+          "activities_and_societies": "Berkeley Finance Club, Microfinance at Berkeley, Plextech, Cal Esports, Course Staff",
+          "degree": "Computer Science",
+          "description": "",
+          "end_year": null,
+          "field_of_study": "",
+          "institute_logo_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/company/bfc50b06a825796349562b35c4ab4395f789479b362b604efe664e5ae9840a89.jpg",
+          "institute_logo_url": "https://media.licdn.com/dms/image/v2/D560BAQENG0S2ZrvPzA/company-logo_400_400/company-logo_400_400/0/1725472632440/computingdatasciencesociety_logo?e=1788393600&v=beta&t=DR6yErskHcKZwRdeeDpwO0l20ZcUReg0EJEV5rkeRrQ",
+          "location": {
+            "city": "Berkeley",
+            "continent": "North America",
+            "country": "United States",
+            "raw": "Berkeley, California, United States",
+            "state": "California"
+          },
+          "professional_network_id": "18571264",
+          "school": "UC Berkeley College of Computing, Data Science, and Society",
+          "start_year": null
+        },
+        {
+          "activities_and_societies": "",
+          "degree": "Medill-Northwestern Journalism Institute",
+          "description": "",
+          "end_year": null,
+          "field_of_study": "",
+          "institute_logo_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/company/7d323a90d2577c5c454fc41a36185c591348e1278fa3d90d2337629d5380806d.jpg",
+          "institute_logo_url": "https://media.licdn.com/dms/image/v2/C4E0BAQH-sXOOSUF3aA/company-logo_400_400/company-logo_400_400/0/1631319371681?e=1788393600&v=beta&t=iIvVysl40OZjO6UWmgj4prGsVK9eKOd_qqvSBLW0-Bs",
+          "location": {
+            "city": "Evanston",
+            "continent": "North America",
+            "country": "United States",
+            "raw": "Evanston, Illinois, United States",
+            "state": "Illinois"
+          },
+          "professional_network_id": "3196",
+          "school": "Northwestern University",
+          "start_year": 2022
+        },
+        {
+          "activities_and_societies": "El Estoque (high school newspublication), won national journalism awards",
+          "degree": "Student",
+          "description": "",
+          "end_year": null,
+          "field_of_study": "",
+          "institute_logo_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/company/beaf72d58d278473342dcc0447465119169f42af476cd72985f49ff63699dab6.jpg",
+          "institute_logo_url": "https://media.licdn.com/dms/image/v2/C4E0BAQHDk5V7PB484Q/company-logo_400_400/company-logo_400_400/0/1630600412469?e=1788393600&v=beta&t=ldYyJJSwz4azJgSw9iXRNBX2-pINimp1UKDPFNUu3GE",
+          "location": {
+            "city": "Cupertino",
+            "continent": "North America",
+            "country": "United States",
+            "raw": "Cupertino, California, United States",
+            "state": "California"
+          },
+          "professional_network_id": "34215031",
+          "school": "Monta Vista High School",
+          "start_year": null
+        }
+      ]
+    },
+    "experience": {
+      "employment_details": {
+        "current": [
+          {
+            "company_description": "Okta secures AI.Okta is The World\u2019s Identity Company. Freeing everyone to safely use any technology\u2014anywhere, on any device or app.",
+            "company_professional_network_profile_url": "https://linkedin.com/company/926041",
+            "company_profile_picture_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/company/750b4d2e91251ac9d60d1e28010582c2bc4f4ade0409e65d892aa08ec232d7d5.jpg",
+            "company_website_domain": "okta.com",
+            "crustdata_company_id": 631363,
+            "description": "",
+            "employment_type": "Internship",
+            "end_date": null,
+            "function_category": "Engineering",
+            "is_default": true,
+            "location": {
+              "raw": "San Francisco, CA"
+            },
+            "name": "Okta",
+            "position_id": 2924456680,
+            "professional_network_id": "926041",
+            "seniority_level": "In Training",
+            "start_date": "2026-05-01T00:00:00+00:00",
+            "title": "Software Engineer Intern",
+            "years_at_company": "Less than 1 year",
+            "years_at_company_raw": 0.0
+          }
+        ],
+        "past": [
+          {
+            "company_description": "",
+            "company_professional_network_profile_url": "https://linkedin.com/company/1586",
+            "company_profile_picture_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/company/50c0868b767f02f1f5ed3285bbd5b6db93df0ef3c6f00194dba9ed7e337b8f33.jpg",
+            "company_website_domain": "aboutamazon.com",
+            "crustdata_company_id": 6034577,
+            "description": "Alexa AI Team",
+            "employment_type": "Internship",
+            "end_date": "2025-08-01T00:00:00+00:00",
+            "function_category": "",
+            "is_default": false,
+            "location": {
+              "raw": "Boston, Massachusetts, United States"
+            },
+            "name": "Amazon",
+            "position_id": 2547067755,
+            "professional_network_id": "1586",
+            "seniority_level": "In Training",
+            "start_date": "2025-05-01T00:00:00+00:00",
+            "title": "SDE Intern",
+            "years_at_company": "Less than 1 year",
+            "years_at_company_raw": 0.0
+          },
+          {
+            "company_description": "UC Berkeley\u2019s College of Computing, Data Science, and Society brings together world-leading faculty from across disciplines to empower students to engage as leaders, creators, and change agents in an increasingly data-rich world.The college is the realization of a vision that hundreds of faculty and students have helped shape and continue to build. It represents a new and dynamic teaching and discovery environment that emphasizes rigorous education, hands-on research opportunities, and an understanding of the human and social implications of data.",
+            "company_professional_network_profile_url": "https://linkedin.com/company/18571264",
+            "company_profile_picture_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/company/bfc50b06a825796349562b35c4ab4395f789479b362b604efe664e5ae9840a89.jpg",
+            "company_website_domain": "berkeley.edu",
+            "crustdata_company_id": 1557652,
+            "description": "",
+            "employment_type": "",
+            "end_date": "2025-06-01T00:00:00+00:00",
+            "function_category": "",
+            "is_default": false,
+            "location": {
+              "raw": ""
+            },
+            "name": "UC Berkeley Division of Computing, Data Science, and Society",
+            "position_id": 2547065910,
+            "professional_network_id": "18571264",
+            "seniority_level": "Entry Level",
+            "start_date": "2025-01-01T00:00:00+00:00",
+            "title": "Data 88s Tutor",
+            "years_at_company": "Less than 1 year",
+            "years_at_company_raw": 0.0
+          },
+          {
+            "company_description": "Prudential Financial (NYSE:PRU) was founded on the belief that financial security should be within reach for everyone, and for over 150 years, we have helped our customers reach their potential and tackle life's challenges for now and future generations to come. Today, we are one of the world\u2019s largest financial services institutions, offering individual and institutional clients a wide array of financial products and services. With operations in the United States, Asia, Europe and Latin America, we are known for delivering on our promises to our customers, and are recognized as a trusted brand and one of the world\u2019s most admired companies. We also have one of the most recognized and trusted brand symbols: The Rock\u00ae, an icon of strength, stability, expertise and innovation.  We measure our long-term success on our ability to deliver value for shareholders, meet customer needs, and attract and develop the best talent in our industry. We offer an inclusive work environment where employees can develop to their full potential, and give back to the communities where we live and work. (Pru.us/disclaimer)",
+            "company_professional_network_profile_url": "https://linkedin.com/company/1852",
+            "company_profile_picture_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/company/ad6b0696146238c9d60e60e99c341aa5b64321532ae8f7abde8ca7045fcd7b63.jpg",
+            "company_website_domain": "prudential.com",
+            "crustdata_company_id": 682228,
+            "description": "",
+            "employment_type": "Internship",
+            "end_date": "2024-08-01T00:00:00+00:00",
+            "function_category": "",
+            "is_default": false,
+            "location": {
+              "raw": "Newark, New Jersey, United States"
+            },
+            "name": "Prudential Financial Services",
+            "position_id": 2408561210,
+            "professional_network_id": "1852",
+            "seniority_level": "Strategic",
+            "start_date": "2024-06-01T00:00:00+00:00",
+            "title": "Audit Enablement and Strategy",
+            "years_at_company": "Less than 1 year",
+            "years_at_company_raw": 0.0
+          },
+          {
+            "company_description": "Paratus Capital was a \u2018traditional search fund\u2019 raised to identify, acquire, and subsequently operate a niche, value-add business operating in the U.S. lower middle market. The intended acquisition was to yield a 35% base case IRR to investors over a 5-year hold period. Having not secured an acquisition that satisfied the group\u2019s investment criteria within the allotted timeframe and budget, the fund was shut down.",
+            "company_professional_network_profile_url": "https://linkedin.com/company/11754361",
+            "company_profile_picture_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/company/6f01699d92571073483796353de287797930d5e4edbee058c153b2e1c5d49236.jpg",
+            "company_website_domain": "paratus-capital.com",
+            "crustdata_company_id": 4904648,
+            "description": "",
+            "employment_type": "",
+            "end_date": "2024-01-01T00:00:00+00:00",
+            "function_category": "",
+            "is_default": false,
+            "location": {
+              "raw": ""
+            },
+            "name": "Paratus Capital",
+            "position_id": 2268940851,
+            "professional_network_id": "11754361",
+            "seniority_level": "Entry Level",
+            "start_date": "2023-10-01T00:00:00+00:00",
+            "title": "Analyst",
+            "years_at_company": "Less than 1 year",
+            "years_at_company_raw": 0.0
+          },
+          {
+            "company_description": "Chipotle Mexican Grill, Inc. (NYSE: CMG) is cultivating a better world by serving responsibly sourced, classically-cooked, real food with wholesome ingredients without artificial colors, flavors or preservatives. Chipotle has over 3,800 restaurants in the United States, Canada, the United Kingdom, France, Germany, Kuwait, and United Arab Emirates and it is the only restaurant company of its size that owns and operates all its restaurants in North America and Europe. With over 130,000 employees passionate about providing a great guest experience, Chipotle is a longtime leader and innovator in the food industry. Chipotle is committed to making its food more accessible to everyone while continuing to be a brand with a demonstrated purpose as it leads the way in digital, technology and sustainable business practices. For more information or to place an order online, visit CHIPOTLE.COM.",
+            "company_professional_network_profile_url": "https://linkedin.com/company/163025",
+            "company_profile_picture_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/company/7aa9c4920affc63875fc07c6199f496bc32c202e2edac276e69a8948d7646ea5.jpg",
+            "company_website_domain": "chipotle.com",
+            "crustdata_company_id": 681952,
+            "description": "",
+            "employment_type": "Part-time",
+            "end_date": "2023-06-01T00:00:00+00:00",
+            "function_category": "",
+            "is_default": false,
+            "location": {
+              "raw": ""
+            },
+            "name": "Chipotle Mexican Grill",
+            "position_id": 2260909211,
+            "professional_network_id": "163025",
+            "seniority_level": "Entry Level",
+            "start_date": "2022-06-01T00:00:00+00:00",
+            "title": "Service Crew",
+            "years_at_company": "1 to 2 years",
+            "years_at_company_raw": 1.0
+          }
+        ]
+      }
+    },
+    "professional_network": {
+      "connections": 679,
+      "current_title": "Software Engineer Intern",
+      "followers": 685,
+      "headline": "CS @ Berkeley",
+      "location": {
+        "city": "Cupertino",
+        "continent": "North America",
+        "country": "United States",
+        "raw": "Cupertino, California, United States",
+        "state": "California"
+      },
+      "metadata": {
+        "last_scraped_source": null
+      },
+      "name": "Melody Cui",
+      "profile_picture_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/person/9f4dde91b9fbef84581cfdb908bb61133048a02b887e23714c1cd34ecca7448c.jpg",
+      "pronoun": "She/Her",
+      "summary": "interested in a lot of things\nhere's my substack: ferittingz.substack.com"
+    },
+    "skills": {
+      "professional_network_skills": [
+        "burritos",
+        "Confluence",
+        "Data Storytelling"
+      ]
+    },
+    "social_handles": {
+      "dev_platform_identifier": {
+        "profile_url": null
+      },
+      "professional_network_identifier": {
+        "profile_url": "https://www.linkedin.com/in/melodycui"
+      },
+      "twitter_identifier": {
+        "slug": ""
+      }
+    },
+    "crustdata_person_id": 115808153
+  }
+}

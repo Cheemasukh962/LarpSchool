@@ -1,0 +1,285 @@
+{
+  "luma_user_id": "usr-ls6u8AJV8x1s1P9",
+  "csv_name": "Anagha Ramaswamy",
+  "csv_linkedin": "https://www.linkedin.com/in/anagha-ramaswamy-124899266",
+  "enriched_at": "2026-08-12T18:56:33.263058+00:00",
+  "batch_id": "sd_msqg8yml2ia5na9bcp",
+  "profile": {
+    "id": "anagha-ramaswamy-124899266",
+    "name": "Anagha Ramaswamy",
+    "city": "Stanford, California, United States",
+    "country_code": "US",
+    "position": null,
+    "about": "anaghars [at] stanford [dot] edu",
+    "current_company": {
+      "link": "https://www.linkedin.com/company/stanfordxr?trk=public_profile_topcard-current-company",
+      "name": "Stanford XR",
+      "company_id": "stanfordxr",
+      "location": null
+    },
+    "experience": null,
+    "url": "https://lb.linkedin.com/in/anagha-ramaswamy-124899266",
+    "educations_details": "Stanford University",
+    "education": [
+      {
+        "title": "Stanford University",
+        "url": "https://www.linkedin.com/school/stanford-university/",
+        "start_year": "2024",
+        "end_year": "2028",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      },
+      {
+        "start_year": "2010",
+        "end_year": "2024-03",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      }
+    ],
+    "avatar": "https://media.licdn.com/dms/image/v2/D5603AQHEINNLkRAk3Q/profile-displayphoto-scale_200_200/B56Z9y7f.wHYAc-/0/1784339630357?e=2147483647&v=beta&t=Plh9Z5KEgHRy6Hi4N0QphDmiLTwtIBdAtXF5gHU94eg",
+    "languages": [
+      {
+        "subtitle": "Native or bilingual proficiency",
+        "title": "English"
+      },
+      {
+        "subtitle": "Native or bilingual proficiency",
+        "title": "Malayalam"
+      },
+      {
+        "subtitle": "Native or bilingual proficiency",
+        "title": "Tamil"
+      },
+      {
+        "subtitle": "Limited working proficiency",
+        "title": "French"
+      },
+      {
+        "subtitle": "Elementary proficiency",
+        "title": "Arabic"
+      },
+      {
+        "subtitle": "Limited working proficiency",
+        "title": "Hindi"
+      }
+    ],
+    "certifications": [
+      {
+        "meta": "Issued Oct 2023 Credential ID 5AjsDe5NZQXmKvR79 See credential",
+        "subtitle": "Forage",
+        "title": "Verizon - Cloud Platform Job Simulation",
+        "credential_url": "https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Verizon%20Communications%20Inc./aNJGnRtgfiK5fQqcR_Verizon_69nuWPStuL3De3nH2_1696840762077_completion_certificate.pdf?trk=public_profile_see-credential",
+        "credential_id": "5AjsDe5NZQXmKvR79"
+      }
+    ],
+    "volunteer_experience": [
+      {
+        "info": "Raised $450+ for Gulf for Good at pop ups & flea markets; Currently liaising with TFG to organize field trips for students to visit stores & learn about sustainability & thrifting",
+        "subtitle": "Thrift for Good",
+        "title": "Volunteer"
+      },
+      {
+        "info": "Digitally designed learning resources for students with special needs based on age groups + certificates & flashcards for events",
+        "subtitle": "Al Noor Rehabilitation & Welfare Association for People of Determination",
+        "title": "Learning resource volunteer"
+      }
+    ],
+    "followers": 1264,
+    "connections": 500,
+    "current_company_company_id": "stanfordxr",
+    "current_company_name": "Stanford XR",
+    "projects": [
+      {
+        "title": "Reading vs. Writing a Near-Oracle Internal Verifier: How RL Design Determines Whether a Correctness Probe Is Safe (224R Spring 2026 Honorable Mention)",
+        "start_date": "Apr 2026",
+        "description": "A near-oracle linear probe of correctness emerges in the hidden states of an outcome-RL\u2019d Qwen2.5-0.5B trained on Countdown arithmetic (replicated at 1.5B). We show that the same probe occupies four roles in an RL system whose outcomes diverge sharply. As a read-only deployment selector it delivers large gains (best-of-16 +12.1 pp; selective abstention 98% at 50% coverage). On the vanilla checkpoint it is causally inert under activation-addition steering. As the RL reward it catastrophically Goodharts (\u221225 pp), and the directly-optimized direction itself becomes measurably causal post-hoc while a near-orthogonal correctness-correlated control stays null. As a bounded-access hybrid it is empiri\u0002cally safe, and as a policy-gradient baseline it is safe by construction (a design we propose but do not run). The unifying principle is a reader/writer asymmetry: the less policy-gradient access the probe receives, the better the outcome. This bounds how interpretability artifacts (correctness, refusal, or deception directions) should be wired into RL training loops, especially in the verifier-free settings where such an internal predictor is often the only signal available."
+      },
+      null,
+      {
+        "title": "Multi-Modal Human Activity Recognition with Hybrid Deep Learning Models",
+        "start_date": "Jan 2026",
+        "description": "A cross-dataset HAR pipeline addressing a common deployment failure: models achieving 94%+ accuracy within a single dataset often collapse under device placement or subject pool shift. Trained exclusively on KU-HAR and evaluated on UCI HAR, the project benchmarks classical baselines against deep architectures including CNN, LSTM, and TCN. Adding gradient reversal training to a temporal convolutional encoder brings up cross-dataset accuracy from 36.77% to 50.78% and F1 from 0.269 to 0.487, surpassing classical model under distribution shift and isolating domain adaptation as the primary mechanism for closing any gap in transfer."
+      },
+      null,
+      {
+        "title": "The Anatomy of a Hit",
+        "start_date": "Jan 2026",
+        "description": "studied whether Billboard Hot 100 hits are converging in sound and lyrics, and when that trend started. Analyzing 4,801 songs from 1970 to 2023, the project processed audio through librosa (tempo, energy, loudness, and five other features) and lyrics through Genius scraping and NLP methods including lexical diversity, sentiment analysis, and LDA topic modeling. The key finding is a decoupling around 2016: audio production kept homogenizing while lyrical diversity recovered to levels last seen in the 1970s. That recovery traces back to genre shifts, with hip-hop and Latin music expanding their share of the charts, rather than individual songs becoming more varied. Meanwhile sonic convergence accelerated, with the 2020s showing the smallest acoustic range on record and near-perfect similarity to the 2010s. Hierarchical clustering showed pre and post digital era split, with the 1990s marking the hinge point between the two regimes."
+      },
+      null,
+      {
+        "title": "Boop",
+        "start_date": "Feb 2026",
+        "description": "Boop is a multimodal AI platform built at TreeHacks 2026 to help new parents understand their baby's needs in real time. The core feature is a cry classifier using a CNN-LSTM ensemble trained on spectrogram and MFCC features, achieving 74% accuracy across 11 cry categories and optimized to ONNX for low-latency mobile inference. Beyond the classifier, the platform layers in a Claude-powered context-aware pediatric assistant for adaptive daily check-ins, diaper health tracking, and automated research retrieval from trusted pediatric sources."
+      },
+      null,
+      null,
+      {
+        "title": "Stack Knight",
+        "start_date": "Nov 2025",
+        "description": "2D Platformer Game built on Unity using C# scripting; participated in CS42SI Game Jam Fall 2025"
+      },
+      null,
+      null,
+      {
+        "title": "Modif.AI",
+        "start_date": "Feb 2025",
+        "description": "Modif.AI dynamically reconfigures websites in real time to improve accessibility, supporting instant adjustments like font scaling, high-contrast rendering, and hands-free navigation. It leverages DOM analysis, vector-based preference profiling, and predictive similarity matching to automatically apply learned modifications across structurally related sites"
+      },
+      null,
+      null,
+      {
+        "title": "5-Layer CNN Bird Classification Model",
+        "start_date": "Sep 2024",
+        "description": "Developed a PyTorch-based 5 layered convolutional neural network to classify 20 bird species from image data, incorporating data augmentation, label smoothing, and dropout to prevent overfitting; evaluated model performance using Matplotlib to identify and rectify class imbalances, Awarded ACMLab Best Onboarding Project (Model + Paper) among 29 participating teams"
+      }
+    ],
+    "location": "Stanford",
+    "input_url": "https://www.linkedin.com/in/anagha-ramaswamy-124899266",
+    "linkedin_id": "anagha-ramaswamy-124899266",
+    "activity": [
+      {
+        "interaction": "Liked by Anagha Ramaswamy",
+        "link": "https://www.linkedin.com/posts/william--meyer_im-thrilled-to-announce-that-ill-be-joining-activity-7490959792316895232-IAJu",
+        "title": "I'm thrilled to announce that I'll be joining SpaceX this fall as an intern on the Starship Launch Mount Team in Starbase, TX! \ud83d\ude80 I'm deeply honored\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQGseTbYbIDlbQ/feedshare-shrink_800/B4EZ_U8PFAJsAc-/0/1785983988408?e=2147483647&v=beta&t=PJHUcq0Cc58F0pH9JPc9v4s5lfbavZWT6ZWB7H8YeGo",
+        "id": "7490959792316895232"
+      },
+      {
+        "interaction": "Liked by Anagha Ramaswamy",
+        "link": "https://www.linkedin.com/posts/george-melookaran-bb000536_yesterday-we-hosted-an-adobe-career-chat-activity-7489051270994071552-_VfH",
+        "title": "Yesterday we hosted an Adobe Career Chat with university students, featuring guest speaker Rebecca Hare! The discussion was so energizing, hearing\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQF7VHCL4PtNlw/feedshare-shrink_800/B56Z.50cMsJsAc-/0/1785528961558?e=2147483647&v=beta&t=kxmxk5Qa9UyJrDQT3_4YZ5Tk9CA4CwCL_Qks9rOYm5U",
+        "id": "7489051270994071552"
+      },
+      {
+        "interaction": "Liked by Anagha Ramaswamy",
+        "link": "https://www.linkedin.com/posts/crowdstrike_happy-national-intern-day-our-interns-activity-7488609354628173824-3rOx",
+        "title": "Happy National Intern Day! \ud83c\udf89 Our interns are not just learning the mission, they are living it. This summer, our intern class has been embedded\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4E10AQEvwaeZlGTo1w/image-shrink_800/B4EZ.wgD3wJUAg-/0/1785372623445?e=2147483647&v=beta&t=W5zDyNtL3W78VhGAD4mAAXBXqRAF6Yhk0hpiIWCzkqM",
+        "id": "7488609354628173824"
+      },
+      {
+        "interaction": "Liked by Anagha Ramaswamy",
+        "link": "https://www.linkedin.com/posts/anthropicresearch_discovering-cryptographic-weaknesses-with-activity-7487919735586787328-XR72",
+        "title": "New Anthropic research: Discovering cryptographic weaknesses with Claude. Claude Mythos Preview has helped our researchers find weaknesses in\u2026",
+        "img": "https://media.licdn.com/dms/image/sync/v2/D4E27AQEzVba92o_gSQ/articleshare-shrink_800/B4EZ.puSH9IUAY-/0/1785258911158?e=2147483647&v=beta&t=uEw0NCccgTA45li3bAUKAI1k62Ibk7nM3frXXmTke98",
+        "id": "7487919735586787328"
+      },
+      {
+        "interaction": "Liked by Anagha Ramaswamy",
+        "link": "https://www.linkedin.com/posts/y-combinator_waddle-labs-builds-agents-that-control-robots-activity-7487562453304758272-chkE",
+        "title": "Waddle Labs builds agents that control robots. Connect their API to your robot, type a prompt, and their agents will write code to complete the task\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5605AQGQt_WfRrsPrQ/videocover-high/B56Z.kZNuIG8BQ-/0/1785169505393?e=2147483647&v=beta&t=_TXohnMeeP7Ufg4qJlmLyk4eJJLAKdeHtqxIUgQr3dc",
+        "id": "7487562453304758272"
+      },
+      {
+        "interaction": "Liked by Anagha Ramaswamy",
+        "link": "https://www.linkedin.com/posts/y-combinator_good-morning-startup-school-activity-7486802378881605632-YRXX",
+        "title": "good morning startup school",
+        "img": "https://media.licdn.com/dms/image/v2/D5605AQFdBFlhRQT20A/videocover-high/B56Z.Z3EboJgBM-/0/1784992779342?e=2147483647&v=beta&t=r6PSOX90emzorlakmHIZTT-uhiiAPPV2ektHmshyruM",
+        "id": "7486802378881605632"
+      },
+      {
+        "interaction": "Liked by Anagha Ramaswamy",
+        "link": "https://www.linkedin.com/posts/dakshg_introducing-model-inversion-greptile-detects-activity-7485348485127397376-nFTk",
+        "title": "Introducing model inversion. Greptile detects if your PR was generated using GPT or Claude models, and uses the other model for review. Rohan and\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5610AQELwJjBY-Napw/videocover-high/B56Z.FMuwBIQAo-/0/1784646143657?e=2147483647&v=beta&t=g-viNapiY7BS0Gb2IPLkf4I5VPhJ-Li9har5NJdvJz8",
+        "id": "7485348485127397376"
+      },
+      {
+        "interaction": "Liked by Anagha Ramaswamy",
+        "link": "https://www.linkedin.com/posts/ariannatan_hello-world-im-on-the-hunt-for-crack-activity-7472673315200077824-z31T",
+        "title": "hello world. i'm on the hunt for crack... ...ed profiles. specifically: > canadian > looking for an out from the traditional path > highly\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQFDSHe3eYYnqg/feedshare-shrink_800/B4EZ7RExxtKwAc-/0/1781624152460?e=2147483647&v=beta&t=Mkujag4xIavk5Bo7BfbT6cjnC56YhY2t9PLzcVCffMU",
+        "id": "7472673315200077824"
+      },
+      {
+        "interaction": "Liked by Anagha Ramaswamy",
+        "link": "https://www.linkedin.com/posts/vansh-gadhia_second-year-at-stanford-is-officially-wrapped-activity-7473399303235850241-T6av",
+        "title": "Second year at Stanford is officially wrapped, and it exceeded every expectation. This year I got to go much deeper into the intersection of\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQGWwNm83iZjhw/feedshare-shrink_800/B56Z7bZEAeK4Ag-/0/1781797241640?e=2147483647&v=beta&t=DyT_hof56LP_1ruYDJc_NAPTB_KCeIfFaJCL1zMLI8w",
+        "id": "7473399303235850241"
+      },
+      {
+        "interaction": "Liked by Anagha Ramaswamy",
+        "link": "https://www.linkedin.com/posts/bridgewater-associates_we-ran-our-first-ai-innovation-hackathon-activity-7471281771544821760-5Exi",
+        "title": "We ran our first AI Innovation Hackathon to find the most incredible inventors. Builders ready to join us at the frontier of AI and investing. 24\u2026",
+        "img": "https://dms.licdn.com/playlist/vid/v2/D4E05AQF3LlTX1HGC8Q/thumbnail-shrink_720_1280/B4EZ69TGbvIAAs-/0/1781292365216?e=2147483647&v=beta&t=71haL6_s_VOK7JrxJdfeE5x7Cq4HxYoS_-VbEFgUzSw",
+        "id": "7471281771544821760"
+      },
+      {
+        "interaction": "Liked by Anagha Ramaswamy",
+        "link": "https://www.linkedin.com/posts/ben-anantachaisophon_two-years-ago-i-wasnt-sure-i-could-keep-activity-7467875910663352320-GBEj",
+        "title": "Two years ago, I wasn't sure I could keep up at Stanford. Today, I\u2019m deeply honored to receive one of its top academic awards. When I arrived at\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQEspEoLSQwchg/feedshare-shrink_800/B56Z6M5j5eKwAc-/0/1780480361494?e=2147483647&v=beta&t=2yilOPuqNGaWaU7BsoYpEDVufzT8VSQTGd66QAPBfew",
+        "id": "7467875910663352320"
+      },
+      {
+        "interaction": "Liked by Anagha Ramaswamy",
+        "link": "https://www.linkedin.com/posts/taarush-grover-69b428208_excited-to-share-that-i-will-be-joining-fanduel-activity-7470249541791846401-dKoK",
+        "title": "Excited to share that I will be joining FanDuel this summer as a Product Management Intern in New York! Thank you to Abigail K., Jack Pugliese\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQGeCa71HHc6vA/feedshare-shrink_800/B56Z6uoX1RJQAc-/0/1781046280328?e=2147483647&v=beta&t=yEUDKv-rYATL5FHDhRYkixed_nUqDt79E6l2EJOGY2o",
+        "id": "7470249541791846401"
+      },
+      {
+        "interaction": "Liked by Anagha Ramaswamy",
+        "link": "https://www.linkedin.com/posts/maanitgoel_by-all-projections-of-emissions-reductions-activity-7410310986722783232-PpvK",
+        "title": "By all projections of emissions reductions over the coming decades, it has become evident that reaching net-zero will require carbon removal, CDR, to\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQHRXRUrTJ-usw/feedshare-shrink_1280/B56Zta2krqJYAs-/0/1766755814634?e=2147483647&v=beta&t=QPBLOuMvuriezzI7oE0KjxBNynqgApp6l9g2wYP0teE",
+        "id": "7410310986722783232"
+      },
+      {
+        "interaction": "Liked by Anagha Ramaswamy",
+        "link": "https://www.linkedin.com/posts/president-jon-levin_this-weekend-bts-brought-their-record-breaking-activity-7462955944293863424-UdPl",
+        "title": "This weekend, BTS brought their record-breaking \"Arirang\" world tour to Stanford. Over three days, 150,000 fans \u2014 from our campus community and\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQECHMWtV9X1eQ/feedshare-image-high-res/B56Z5G.4GHIQAY-/0/1779307349306?e=2147483647&v=beta&t=YWSmcQxO0ReSL4XOPWo-Uf5yUNVMY1BuESaWbPXxsR4",
+        "id": "7462955944293863424"
+      },
+      {
+        "interaction": "Liked by Anagha Ramaswamy",
+        "link": "https://www.linkedin.com/posts/joshuahartlep_excited-to-share-that-ill-be-joining-asana-activity-7454499658950852608-MQnE",
+        "title": "Excited to share that I\u2019ll be joining Asana this summer in New York City as a Software Engineer Intern on the AI Retrieval team! I\u2019m looking forward\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQESg5nS-HSXiQ/feedshare-shrink_800/B4EZ2zdGcKGkAc-/0/1776832243767?e=2147483647&v=beta&t=yw7mTpo3pkpsNve0t5fCGosMNqe2BmpUkIuFZtqkUNQ",
+        "id": "7454499658950852608"
+      },
+      {
+        "interaction": "Liked by Anagha Ramaswamy",
+        "link": "https://www.linkedin.com/posts/maanitgoel_launching-burrow-an-intelligent-pdf-viewer-activity-7452971064336338944-Ku2p",
+        "title": "\ud83d\udd2c Launching Burrow, an Intelligent PDF Viewer for Research & Learning \ud83d\udcd6 I want to be able to read any scientific or nonfiction text, from Darwin's\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQFv8q9g1oZknw/feedshare-shrink_800/B56Z25FsHHKwAc-/0/1776926769909?e=2147483647&v=beta&t=He6BuC96iuFz3BZPiP8MsFno7_WJL_-M6nz-m3W5kEE",
+        "id": "7452971064336338944"
+      }
+    ],
+    "linkedin_num_id": "1095063148",
+    "banner_image": "https://media.licdn.com/dms/image/v2/D4D16AQGMV62QlPAsOA/profile-displaybackgroundimage-shrink_200_800/B4DZaPYtEOGcAY-/0/1746162341260?e=2147483647&v=beta&t=kY59MHfkYaUDVBqsF-Wny_m6-pPfr48aPUH3i6EkiXs",
+    "honors_and_awards": [
+      {
+        "title": "Honorable Mention - CS224R Spring 2026",
+        "publication": "-",
+        "date": "2026-06-01T00:00:00.000Z",
+        "description": "1 our of 3 default project + extension awards among 200+ projects (graduate level course)"
+      },
+      {
+        "title": "Hamdan bin Rashid Al Maktoum Award for Distinguished Academic Performance",
+        "publication": "United Arab Emirates Ministry of Education",
+        "date": null,
+        "description": "Recognized for outstanding academic achievement, exceptional leadership skills, innovation, and active participation in extracurricular, scientific, or social projects."
+      }
+    ],
+    "similar_profiles": [],
+    "default_avatar": false,
+    "memorialized_account": false,
+    "bio_links": [],
+    "first_name": "Anagha",
+    "last_name": "Ramaswamy",
+    "influencer": false,
+    "timestamp": "2026-08-12T18:55:38.362Z",
+    "input": {
+      "url": "https://www.linkedin.com/in/anagha-ramaswamy-124899266"
+    }
+  },
+  "local_photo": "data\\linkedin_photos\\anagha-ramaswamy-124899266__usr-ls6u8AJV8x1s1P9.jpg"
+}

@@ -1,0 +1,160 @@
+{
+  "luma_user_id": "usr-WniFNsDSESuoXnN",
+  "csv_name": "Isaac Zhi Kang Puah",
+  "csv_linkedin": "https://www.linkedin.com/in/isaac-puah",
+  "enriched_at": "2026-08-12T19:07:22.275526+00:00",
+  "batch_id": "sd_msqgmjx4y9b9cgg4i",
+  "profile": {
+    "id": "isaac-puah",
+    "name": "Isaac Puah",
+    "city": "Sunnyvale, California, United States",
+    "country_code": "US",
+    "position": null,
+    "about": null,
+    "current_company": {
+      "link": "https://uk.linkedin.com/company/indicolabs?trk=public_profile_topcard-current-company",
+      "name": "Indico Labs",
+      "company_id": "indicolabs",
+      "location": null
+    },
+    "experience": null,
+    "url": "https://au.linkedin.com/in/isaac-puah",
+    "educations_details": "University of California, Berkeley",
+    "education": [
+      {
+        "title": "University of California, Berkeley",
+        "url": "https://www.linkedin.com/school/uc-berkeley/",
+        "start_year": "2025-08",
+        "end_year": "2027-06",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      },
+      {
+        "start_year": "2023",
+        "end_year": "2025",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      }
+    ],
+    "avatar": "https://media.licdn.com/dms/image/v2/D5603AQGrCx35BTe1Mw/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1724512964962?e=2147483647&v=beta&t=s7T-A5uYCSZYZ1L5k2wEHICr9eKRPtUF_bYYvxKDdH4",
+    "certifications": [
+      {
+        "meta": "Issued Jun 2025",
+        "subtitle": "Infineon Technologies",
+        "title": "AI Powered Drone",
+        "credential_url": null,
+        "credential_id": null
+      }
+    ],
+    "followers": 365,
+    "connections": 359,
+    "current_company_company_id": "indicolabs",
+    "current_company_name": "Indico Labs",
+    "projects": [
+      {
+        "title": "Autonomous Parking Spot Detection Drone",
+        "start_date": "Apr 2025",
+        "description": "Built a drone system using Infineon PSoC 6 and Raspberry Pi to autonomously detect empty parking spots using radar sensing and computer vision."
+      }
+    ],
+    "location": "Sunnyvale",
+    "input_url": "https://www.linkedin.com/in/isaac-puah",
+    "linkedin_id": "isaac-puah",
+    "activity": [
+      {
+        "interaction": "Isaac Puah shared this",
+        "link": "https://www.linkedin.com/posts/isaac-puah_it-was-a-pleasure-working-with-you-aayush-activity-7367841032811532288-MkKP",
+        "title": "It was a pleasure working with you Aayush! I had a great time collaborating with the team to design and build our autonomous parking drone from scratch \u2014 from constructing the drone frame and integrating the Pixhawk flight controller + GPS, to leveraging Infineon\u2019s PSoC 6 AI kit for real-time detection. Grateful to have worked alongside such talented teammates and thankful to Infineon Technologies and Professor Saied Rafati for making this possible. ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D4D22AQH6kYsQF0Q8SA/feedshare-shrink_800/B4DZjIcD29GkAk-/0/1755709462370?e=2147483647&v=beta&t=2ZlGgXsNEOsnPGEZTaf-FYIX8n90ksnqgGAWcfgpKj8",
+        "id": "7367841032811532288"
+      },
+      {
+        "interaction": "Isaac Puah shared this",
+        "link": "https://www.linkedin.com/posts/isaac-puah_ucbeecs-transferstudent-engineering-activity-7332681541971591170-I6uz",
+        "title": "Just committed to UC Berkeley EECS. Grateful, excited, and ready. The journey from De Anza to here wasn\u2019t always smooth, but every challenge taught me something. I\u2019m thankful for the people who supported me, pushed me, and believed in me along the way. I\u2019m looking forward to the next chapter \u2014 to build, to learn, and to keep growing. #UCBeecs #TransferStudent #Engineering #GrowthMindset #UCBound #BerkeleyBound #EECS #TransferStudent #EngineeringJourney #Gratitude #UCBerkeley ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQFYwgJWdQn3lA/feedshare-image-high-res/B56ZcLrAZvHoA0-/0/1748247513001?e=2147483647&v=beta&t=5Lsi_FJjNbu74wNnw1-1UwyKGwdTpj769wHEFHcv9kI",
+        "id": "7332681541971591170"
+      },
+      {
+        "interaction": "Isaac Puah commented on a post 1mo",
+        "link": "https://www.linkedin.com/posts/zain-karu-5006b6322_im-happy-to-share-that-im-starting-a-new-activity-7470421594373464065-NSXQ",
+        "title": "Congratulations! \ud83c\udf89",
+        "img": null,
+        "id": "7470421594373464065"
+      },
+      {
+        "interaction": "Isaac Puah liked this",
+        "link": "https://www.linkedin.com/posts/ethan-zhu-8a84052a8_excited-to-wrap-up-my-summer-2026-internship-activity-7493185127473360896-Oic7",
+        "title": "Excited to wrap up my summer 2026 internship at the Scalable and Ubiquitous Networking Lab (Sun Lab) at University of Georgia. Over the past 2 months, I worked on RadioLens, an extended reality (XR) system for measuring, visualizing, and modeling wireless networks in physical spaces. I built across the stack: from collecting spatial Wi-Fi measurements on a Meta Quest 3 and developing mixed-reality visualizations to integrating ray-tracing models for analysis and optimization. Along the way, I learned a ton about building real world software systems at the intersection of XR, computer vision, machine learning, human-computer-interaction, and had the opportunity to contribute to our paper on the system. Massive thanks to Professor Haijian Sun , Professor Zhenlin An , and the rest of the SunLab team who helped me along the way. Pictured below is the RadioLens system overview.",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQGTMq6DCNaD1g/feedshare-shrink_800/B4EZ_0kKsOKwAc-/0/1786514549914?e=2147483647&v=beta&t=iYndxYnb5mbCbE1sqT-eALh4lgkFL4Qacq5nmwtygQA",
+        "id": "2026"
+      },
+      {
+        "interaction": "Isaac Puah liked this",
+        "link": "https://www.linkedin.com/posts/weishuz_amazon-softwareengineering-ai-activity-7493063473887608832-0pU_",
+        "title": "Excited to share that I\u2019ll be joining Amazon this fall as a Software Development Engineer Intern in Culver City! I\u2019m especially looking forward to learning more about the latest work in AI agents, generative AI, and AI-powered content creation, and exploring how these technologies can enable new creative workflows and experiences. A special thank you to Rumjhum H. for guiding me through the recruiting process and Keith McManimen for the great conversations during the interview process. Looking forward to joining Amazon and learning from the people building at the frontier of AI and software engineering. #Amazon #SoftwareEngineering #AI #GenerativeAI #SDE #Internship",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQHXWtyuoGNPpg/feedshare-image-high-res/B56Z_y1hUFG4AU-/0/1786485544468?e=2147483647&v=beta&t=PcLBaN-GpGtLeoLoltBNKA2lfALmrvZE9Fv9q2ewe9g",
+        "id": "7493063473887608832"
+      },
+      {
+        "interaction": "Isaac Puah liked this",
+        "link": "https://www.linkedin.com/posts/hazel-warner-514732256_over-the-past-few-months-ive-been-thinking-activity-7490131432527548417-VyZT",
+        "title": "Over the past few months, I\u2019ve been thinking a lot about the people and experiences that made my time at the University of California, Berkeley so meaningful. In May, I graduated with a B.A. in Psychology, along with minors in Global Poverty & Practice and Public Policy. I'm so thankful for the professors, mentors, and peers who challenged me, supported me, and helped shape both my personal and professional growth at Berkeley. A special thank you to Dr. Colette Auerswald for her mentorship and encouragement, and to Tessa Stapp and the entire Youth & Allies Against Homelessness (YAAH) Lab for their dedication to ending youth homelessness through community-engaged research. Thank you as well to my incredible Youth Equity Discovery Initiative (YEDI) mentors, Marieka Schotland, Ph.D. , Dr. Amia Nash Chambers , Paula S. Nordstrom Miranda, MS , and Evelyn Riley , for fostering such a supportive community and showing me what equitable, youth-centered leadership truly looks like. I'm also grateful to the amazing team at UC Berkeley's PATH to Care Center, where I had the opportunity to support survivor-centered services while contributing to research addressing the intersection of sexual violence and student homelessness. This experience strengthened my commitment to trauma-informed, compassionate, and equity-driven work. The Global Poverty & Practice minor provided me invaluable opportunities to connect classroom learning with community-engaged practice. Through coursework and the practicum I completed last summer at Solid Ground , I developed a deeper understanding of the structural causes of poverty and homelessness, which continue to shape how I approach this work. I'm excited to share that I've accepted a full-time position at Solid Ground as the Administrative Services & Referral Coordinator. I'm grateful for the opportunity to return to Solid Ground and continue supporting our community, connecting people with critical resources, and learning alongside such a dedicated team. Thank you to everyone who has been part of this journey. I'm excited for this next chapter and look forward to continuing to grow as a researcher, advocate, and community partner!",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQHZajh6dMe-Xg/feedshare-image-high-res/B56Z_JKpUgJgAU-/0/1785786439247?e=2147483647&v=beta&t=mjTp3FOd5KLDm_Rx0cscQq6Y-RT9lWE5KyntwutO3j4",
+        "id": "7490131432527548417"
+      },
+      {
+        "interaction": "Isaac Puah liked this",
+        "link": "https://www.linkedin.com/posts/indicolabs_massive-thank-you-to-our-summer-2026-interns-activity-7490394899805196288-eS6F",
+        "title": "Massive thank you to our Summer 2026 interns \ud83d\udc99 Ally Zheng , Diego Vanegas , and Isaac Puah - we really enjoyed having you in the office with us. Thanks for the hard work, the odd questions, and the good chats. The office feels strange without you guys today. Wishing you the best of luck with everything you do! Come back to say hi when you're next in London.",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQFA2McwyOilfw/feedshare-shrink_800/B4EZ_MiRKwJIAc-/0/1785842963859?e=2147483647&v=beta&t=RYYVnq_JPOAGTSbVT7mzkiSCVN4--jG3SbKNUnnKm-4",
+        "id": "2026"
+      },
+      {
+        "interaction": "Isaac Puah liked this",
+        "link": "https://www.linkedin.com/posts/jingimin_mlcertificate-activity-7490255511695806465-Y8q2",
+        "title": "Excited to share that I completed Break Through Tech AI\u2019s 9-week Machine Learning Foundations course from Cornell University through eCornell and earned my certificate. The program focused on applying machine learning to real-world problems and preparing fellows for industry AI projects. Along the way, I strengthened my foundation in data preparation, model training, and evaluation using Pandas, NumPy, scikit-learn, and Keras. I also went beyond traditional ML by building a RAG chatbot and an MCP tool, which gave me hands-on experience connecting language models with external knowledge and tools. Grateful for everything I learned and excited to keep building more practical AI systems. https://lnkd.in/ey3B7XQN #BreakThroughTechAI #MachineLearning #ArtificialIntelligence #RAG #MCP #CornellTech",
+        "img": null,
+        "id": "7490255511695806465"
+      },
+      {
+        "interaction": "Isaac Puah liked this",
+        "link": "https://www.linkedin.com/posts/jia-yi-chew-58353b334_throwback-nutritionstudent-foodproduction-activity-7489594178599997441-FHbX",
+        "title": "Throwback to our Quantitative Food Production project! \ud83c\udf2f\ud83c\udf4b Our team successfully planned, prepared, and sold 25 sets of kimbap with homemade limeade. It was a rewarding experience that strengthened my understanding of food production, teamwork, time management, and the importance of turning classroom knowledge into real-world practice. Grateful for the opportunity to learn through doing and looking forward to more hands-on experiences ahead! #Throwback #NutritionStudent #FoodProduction #Teamwork #HandsOnLearning",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQElDvAm3okaog/feedshare-image-high-res/B4EZ_BiODpI0AU-/0/1785658401276?e=2147483647&v=beta&t=WMeeBUUiBbUXmP1HEWJauXxRpj_8tDT31KBF2lPr6Yw",
+        "id": "7489594178599997441"
+      },
+      {
+        "interaction": "Isaac Puah liked this",
+        "link": "https://www.linkedin.com/posts/adambaker64_quirks-ny-is-flying-by-so-quickly-im-out-activity-7488633078962237440-S9am",
+        "title": "Quirks NY is flying by so quickly! I\u2019m out of chocolate frogs, but I have plenty of stickers left. Come and say hi at stand \u201cMini C\u201d",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQHpzJFmQkQjcQ/feedshare-shrink_800/B4EZ.z4FVbJIAc-/0/1785429255091?e=2147483647&v=beta&t=TRhFQMi2d2qtV0kIcltlQAgvI8OSDPZK7hL7PMeHdzE",
+        "id": "7488633078962237440"
+      },
+      {
+        "interaction": "Isaac Puah liked this",
+        "link": "https://www.linkedin.com/posts/natacha-crooks-a439a92a_excited-to-have-officially-received-tenure-activity-7486984957601435648-2F61",
+        "title": "Excited to have officially received tenure last month at UC Berkeley Electrical Engineering & Computer Sciences (EECS) . Extremely grateful to my current and former students/collaborators. Matthew Burke , Florian Suri-Payer , Audrey Cheng , Shubham Mishra , Micah M. , Reginald Frank , Adewumi Sunkanmi D. Neil Giridharan , David Chu, Soujanya Ponnapalli , Suyash Gupta , Diogo Antunes). Your hard work, dedication and talent is humbling. To my closest colleagues, thank you for supporting junior faculty in the way that you do at Berkeley. For always taking time despite your incredibly busy schedule when I needed advice. And for always making sure my input felt valued, even when you radically disagreed. I look forward to future disagreements! PS: several of the aforementioned students are graduating and looking for industrial research and academic jobs. Hire them, you won't regret it :-).",
+        "img": null,
+        "id": "7486984957601435648"
+      }
+    ],
+    "linkedin_num_id": "1130288899",
+    "banner_image": "https://media.licdn.com/dms/image/v2/D5616AQFAoasqGIhF1g/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1687407736581?e=2147483647&v=beta&t=iPUo4OVW3olqQZTKXblngp-Ojk0ZGS3eQfk6RwEpo-s",
+    "honors_and_awards": null,
+    "similar_profiles": [],
+    "default_avatar": false,
+    "memorialized_account": false,
+    "bio_links": [],
+    "first_name": "Isaac",
+    "last_name": "Puah",
+    "influencer": false,
+    "timestamp": "2026-08-12T19:06:17.031Z",
+    "input": {
+      "url": "https://www.linkedin.com/in/isaac-puah"
+    }
+  },
+  "local_photo": "data\\linkedin_photos\\isaac-puah__usr-WniFNsDSESuoXnN.jpg"
+}

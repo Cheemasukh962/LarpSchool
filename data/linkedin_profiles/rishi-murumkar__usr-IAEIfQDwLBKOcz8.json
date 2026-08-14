@@ -1,0 +1,184 @@
+{
+  "luma_user_id": "usr-IAEIfQDwLBKOcz8",
+  "csv_name": "Rishi Murumkar",
+  "csv_linkedin": "https://www.linkedin.com/in/rishi-murumkar",
+  "enriched_at": "2026-08-12T19:14:53.875496+00:00",
+  "batch_id": "sd_msqgwa7g10oeo6g7qx",
+  "profile": {
+    "id": "rishi-murumkar",
+    "name": "Rishi Murumkar",
+    "city": "Mountain View, California, United States",
+    "country_code": "US",
+    "position": null,
+    "about": "Hi, I\u2019m Rishi Murumkar, a Computer Science student at UC Irvine with a passion for\u2026",
+    "current_company": {
+      "link": "https://www.linkedin.com/company/amazon-web-services?trk=public_profile_topcard-current-company",
+      "name": "Amazon Web Services (AWS)",
+      "company_id": "amazon-web-services",
+      "location": null
+    },
+    "experience": null,
+    "url": "https://cn.linkedin.com/in/rishi-murumkar",
+    "educations_details": "UC Irvine Donald Bren School of Information and Computer Sciences",
+    "education": null,
+    "avatar": "https://media.licdn.com/dms/image/v2/D5603AQE47lsUGi33uA/profile-displayphoto-shrink_200_200/B56ZdS02cFGoAk-/0/1749441275938?e=2147483647&v=beta&t=XMOHvdFPzKnY8nepMnGq4KCkeMA5apKaraHi5lJNK-o",
+    "certifications": [
+      {
+        "meta": "Issued May 2025 Credential ID UC-9fc20641-5575-4b64-96d0-f57590664fb1 See credential",
+        "subtitle": "Udemy",
+        "title": "Scrum Master Certification 2025 + Agile Scrum Certification",
+        "credential_url": "https://uci.udemy.com/certificate/UC-9fc20641-5575-4b64-96d0-f57590664fb1/?trk=public_profile_see-credential",
+        "credential_id": "UC-9fc20641-5575-4b64-96d0-f57590664fb1"
+      },
+      {
+        "meta": "Issued Apr 2025 Credential ID UC-bbd0de59-17f6-4ff0-b664-76f8923ceb8d See credential",
+        "subtitle": "Udemy",
+        "title": "Advanced Computer Programming in Python and JavaScript",
+        "credential_url": "https://www.udemy.com/certificate/UC-bbd0de59-17f6-4ff0-b664-76f8923ceb8d/?trk=public_profile_see-credential",
+        "credential_id": "UC-bbd0de59-17f6-4ff0-b664-76f8923ceb8d"
+      },
+      {
+        "meta": "Issued Apr 2025 See credential",
+        "subtitle": "ASU+GSV Summit",
+        "title": "AI SHOW @ ASU+GSV 2025 Speaker",
+        "credential_url": "https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/140795718?trk=public_profile_see-credential",
+        "credential_id": null
+      }
+    ],
+    "followers": 802,
+    "connections": 500,
+    "current_company_company_id": "amazon-web-services",
+    "current_company_name": "Amazon Web Services (AWS)",
+    "publications": [
+      {
+        "title": "3D Lidar-Based Object Conditions in Adverse Weather Conditions",
+        "subtitle": "National High School Journal of Science",
+        "date": "February 18, 2024",
+        "description": "This research focuses on the critical task of lidar-based 3D object detection for autonomous driving, specifically evaluating the performance of convolutional neural networks under adverse weather conditions. The paper examines two leading models, PointPillar and SECOND, both trained on the KITTI dataset in clear weather. Initially, these models achieved average precision values of 51.86% and 70.02%, respectively, under standard conditions. However, when tested on the Canadian Adverse Driving Dataset (CADC) with snowfall, their precision dropped to nearly 0%, highlighting the challenge of object detection in real-world weather conditions. Retraining the models on CADC improved their precision to 48.43% and 49.51%, but resulted in a 0% precision on the KITTI dataset. This study stresses the importance of retraining models for specific environmental conditions to ensure reliable performance in autonomous driving applications."
+      }
+    ],
+    "location": "Mountain View",
+    "input_url": "https://www.linkedin.com/in/rishi-murumkar",
+    "linkedin_id": "rishi-murumkar",
+    "activity": [
+      {
+        "interaction": "Liked by Rishi Murumkar",
+        "link": "https://www.linkedin.com/posts/annsh-navle_amazon-aws-softwareengineering-activity-7492669066898468864-CMUt",
+        "title": "I recently completed my Software Development Engineer Internship at Amazon Web Services (AWS), where I worked on the Amazon Athena team! Over the\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQFsmrmVvMmpUA/feedshare-image-high-res/B56Z_tOz3sGsAo-/0/1786391510732?e=2147483647&v=beta&t=8XT_hleH_DYZAIYRpm9b1TW4m7wb6uu-zPhttLacmHo",
+        "id": "7492669066898468864"
+      },
+      {
+        "interaction": "Liked by Rishi Murumkar",
+        "link": "https://www.linkedin.com/posts/allenlai03_adversity-is-the-prettiest-tattoo-allen-activity-7492361394789683200-gUuP",
+        "title": "I'm scared of public speaking. So I decided to give a TEDx talk \ud83c\udfa4 My talk is about two things I believe deeply: prioritizing yourself first, and\u2026",
+        "img": "https://media.licdn.com/dms/image/sync/v2/D5627AQF1DMg4j0bnqw/articleshare-shrink_800/B56Z_o2aVyKcAY-/0/1786318006532?e=2147483647&v=beta&t=7QmZemhc9Lundb0rSfspuk8kWUf7x57vn5PlTEsb7ZA",
+        "id": "7492361394789683200"
+      },
+      {
+        "interaction": "Liked by Rishi Murumkar",
+        "link": "https://www.linkedin.com/posts/johnghu_we-just-crossed-500m-made-for-creators-on-activity-7490421325438803968-8s7Y",
+        "title": "We just crossed $500M made for Creators on Stan!!!! It\u2019s crazy that I started this in my dorm room and now we\u2019ve made over 500 MILLION $$$ for our\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5610AQEV6q4rCJeIMw/image-shrink_800/B56Z_NSe5RJoAs-/0/1785855603049?e=2147483647&v=beta&t=tkC-2uxxG2nDs_pInRWIDi6mS6HG42R6XWQGDSOMd7I",
+        "id": "7490421325438803968"
+      },
+      {
+        "interaction": "Liked by Rishi Murumkar",
+        "link": "https://www.linkedin.com/posts/reducto-ai_were-excited-to-welcome-abhigyan-arya-to-activity-7491538056445849600-2ISq",
+        "title": "We're excited to welcome Abhigyan Arya to the Engineering team \ud83d\udc9c He's another Opennote founder joining us through our recent acquisition and is a\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQE0-ejcNpaJCA/feedshare-shrink_800/B56Z_dKKeZHcAg-/0/1786121857681?e=2147483647&v=beta&t=WaBYOr1_TSEi-7BD6gBpaSqznI9Q1VcwJbjwG8bbIx0",
+        "id": "7491538056445849600"
+      },
+      {
+        "interaction": "Liked by Rishi Murumkar",
+        "link": "https://www.linkedin.com/posts/pranay-macherla_one-post-300k-impressions-two-weeks-ago-activity-7491588985232744448-XoIG",
+        "title": "One post. 300K impressions. Two weeks ago, I committed to actually showing up consistently. I joined Intern Insider because I needed accountability\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQGNrr9P1VE-Tg/feedshare-image-high-res/B56Z_d0s5WKoAU-/0/1786133008290?e=2147483647&v=beta&t=yj8DkydcsYnFXsixh0zBTF3jgcXyTmUSqWUMYLXl8-Y",
+        "id": "7491588985232744448"
+      },
+      {
+        "interaction": "Liked by Rishi Murumkar",
+        "link": "https://www.linkedin.com/posts/pranay-macherla_i-swear-ive-already-applied-to-every-internship-activity-7490889854441136128-sTuI",
+        "title": "\u201cI swear I\u2019ve already applied to every internship.\u201d Then TikTok posted three more product roles this week. One of the questions I get most is how I\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQGy7xdTA8nBCw/feedshare-image-high-res/B56Z_T8oC8J8AU-/0/1785967313972?e=2147483647&v=beta&t=m8ez6YLGEkwL91w6r5bplVCY4eW-p-dgd2WKNvP2XLg",
+        "id": "7490889854441136128"
+      },
+      {
+        "interaction": "Liked by Rishi Murumkar",
+        "link": "https://www.linkedin.com/posts/ethan-le-_fun-woohoo-activity-7489020897903951872-LTI5",
+        "title": "I am excited to announce that I will be joining Intel this fall as an SoC AI Validation Intern in Folsom, CA! Looking forward to working with the\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQG4Wp8yVq2h9g/feedshare-shrink_1280/B56Z.5Y0ibKwAM-/0/1785521720022?e=2147483647&v=beta&t=3h7VSkgON8B_-R0zeKt5a1r-Xu2lg46kZANidq_9AqE",
+        "id": "7489020897903951872"
+      },
+      {
+        "interaction": "Liked by Rishi Murumkar",
+        "link": "https://www.linkedin.com/posts/pranay-macherla_18-years-old-no-internships-one-amazon-activity-7489064465737392128-KQiQ",
+        "title": "18 years old, no internships, one Amazon application Most students think recruiting starts in spring. By spring, the competitive roles are\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQEnr-QAX7VCnA/feedshare-shrink_800/B56Z.6AcXnJgAc-/0/1785532107029?e=2147483647&v=beta&t=Fs3r-ZISJRP-2smdUUj18jxxv5klLjW9_8YWGoJpOlk",
+        "id": "7489064465737392128"
+      },
+      {
+        "interaction": "Liked by Rishi Murumkar",
+        "link": "https://www.linkedin.com/posts/mattgarman_q2-showed-strong-momentum-at-amazon-web-services-activity-7488724319188185088-ZmBo",
+        "title": "Q2 showed strong momentum at Amazon Web Services (AWS). We grew 37% YoY on a very large base, our fastest growth in 18 quarters, as customers moved\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQHVGMWI-vCkjg/feedshare-image-high-res/B4EZ.1LFgrHwAY-/0/1785451010459?e=2147483647&v=beta&t=BcYG6qX5n1Ik40ENIr8ymaQ1RHE_xMRbY2LpeBKJlJM",
+        "id": "7488724319188185088"
+      },
+      {
+        "interaction": "Liked by Rishi Murumkar",
+        "link": "https://www.linkedin.com/posts/johnghu_age-1-move-to-the-us-with-my-single-immigrant-activity-7488247071402000386-h52y",
+        "title": "Age 1: Move to the US with my single immigrant mom. Age 12: Get bullied for being the only Asian at school. Age 17: Take on student loans to pay\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5610AQH3rOfn4-5i2A/image-shrink_800/B56Z.uY_36GgAg-/0/1785337217218?e=2147483647&v=beta&t=1N7lfSOv2AAozZIYKt2RjqLowDnp_yAu3E6ViZNhQfY",
+        "id": "1"
+      },
+      {
+        "interaction": "Liked by Rishi Murumkar",
+        "link": "https://www.linkedin.com/posts/pranay-macherla_no-internship-this-summer-heres-one-secret-activity-7487995314315014144-1JS3",
+        "title": "No internship this summer? Here's one secret that will put you ahead of the competition: Ambassadorships I've done two, DoorDash and Amazon\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4D22AQE0xQr4zXyj6A/feedshare-shrink_800/B4DZ.q0DcSIYAc-/0/1785277201193?e=2147483647&v=beta&t=LF1R8hfdUMVGcxjCK7gjVZn1DYj8B2SyNGBEg6WX9p8",
+        "id": "7487995314315014144"
+      },
+      {
+        "interaction": "Liked by Rishi Murumkar",
+        "link": "https://www.linkedin.com/posts/rishi-potipireddi_aws-amazon-sde-activity-7487914820168536064-KO9m",
+        "title": "I am excited to announce that, following my internship at Qualcomm, I'll be joining Amazon Web Services (AWS) this fall as a Software Development\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQFq2hae7kYeeA/feedshare-shrink_1280/B56Z.nDmpjK4AM-/0/1785214169420?e=2147483647&v=beta&t=n3aGkn_GAhniaajowlb7k5cet1K91CXQpertclJ9HJU",
+        "id": "7487914820168536064"
+      },
+      {
+        "interaction": "Liked by Rishi Murumkar",
+        "link": "https://www.linkedin.com/posts/pranay-macherla_just-apply-if-youre-in-college-without-activity-7486178379797495808-gBY5",
+        "title": "Just apply. If you're in college without an internship, that's my whole advice My experience: Of every internship I've ever gotten an interview\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQF1nUMBoCLLow/feedshare-shrink_800/B56Z.ObU82IQAg-/0/1784800956513?e=2147483647&v=beta&t=S2LaTx15ljz0QE7bPHhNwEKC1DfO1LUH-PHWh8nFjH0",
+        "id": "7486178379797495808"
+      }
+    ],
+    "linkedin_num_id": "1122744758",
+    "banner_image": "https://media.licdn.com/dms/image/v2/D5616AQGz0JkO5-puPg/profile-displaybackgroundimage-shrink_200_800/B56ZXlfcU1GUAU-/0/1743311980624?e=2147483647&v=beta&t=NrAa4s72DC3TKlf6CvnFBlaHcUiZr9Tx-wJMdqBdy1A",
+    "honors_and_awards": [
+      {
+        "title": "UC Regent's Scholar",
+        "publication": "University of California Board of Regents",
+        "date": "2024-03-01T00:00:00.000Z",
+        "description": "Prestigious scholarship awarded to undergraduate students within the UC system, recognizing exceptional academic achievement and leadership potential."
+      }
+    ],
+    "similar_profiles": [],
+    "default_avatar": false,
+    "memorialized_account": false,
+    "bio_links": [
+      {
+        "title": "Portfolio",
+        "link": "https://rishi-portfolio-psi.vercel.app/"
+      }
+    ],
+    "first_name": "Rishi",
+    "last_name": "Murumkar",
+    "influencer": false,
+    "timestamp": "2026-08-12T19:13:47.018Z",
+    "input": {
+      "url": "https://www.linkedin.com/in/rishi-murumkar"
+    }
+  },
+  "local_photo": "data\\linkedin_photos\\rishi-murumkar__usr-IAEIfQDwLBKOcz8.jpg"
+}

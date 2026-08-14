@@ -1,0 +1,398 @@
+{
+  "source": "crustdata",
+  "recovered_from": "brightdata_failed_private",
+  "luma_user_id": "usr-L1wgO2IenOc1SLi",
+  "csv_name": "Kanishk Krishna",
+  "csv_linkedin": "https://www.linkedin.com/in/ kanishk-krishna16",
+  "clean_linkedin": "https://www.linkedin.com/in/kanishk-krishna16",
+  "enriched_at": "2026-08-14T18:07:59.937250+00:00",
+  "person_data": {
+    "basic_profile": {
+      "current_title": "FDE (Forward Deployed Engineer) Intern",
+      "first_name": null,
+      "headline": "Incoming CS @ UC Berkeley | Founder @ ClassLens",
+      "languages": [],
+      "last_name": null,
+      "location": {
+        "city": "San Ramon",
+        "continent": "North America",
+        "country": "United States",
+        "full_location": null,
+        "raw": "San Ramon, California, United States",
+        "state": "California"
+      },
+      "name": "Kanishk Krishna",
+      "normalized_title": {
+        "confident": true,
+        "department": "Engineering & Technology",
+        "matched_title": "Forward Deployed Software Engineer Intern",
+        "similarity": 0.8871999979019165,
+        "sub_department": "Software Engineering"
+      },
+      "professional_network_name": "Kanishk Krishna",
+      "profile_picture_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/person/a2ebf77c6eeea4a175290284fe5cb5c1937f2644d046208ce63fa607f06dc92d.jpg",
+      "summary": "Hey! I'm an Incoming freshman at UC Berkeley studying Computer Science. I am an entrepreneur focused on product development, using existing tools to solve a specifics pain points in edtech, finance, and healthcare."
+    },
+    "education": {
+      "schools": [
+        {
+          "activities_and_societies": "",
+          "degree": "",
+          "description": "",
+          "end_year": 2026,
+          "field_of_study": "",
+          "institute_logo_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/company/49ffb0fa674359bd085807363ccfb3350671bec52819ddb4905a3d5b1b0cfa22.jpg",
+          "institute_logo_url": "https://media.licdn.com/dms/image/v2/D560BAQF6yinxdK6d2w/company-logo_400_400/B56Zed2gwwGQAc-/0/1750700002923/california_high_school_logo?e=1786579200&v=beta&t=rhAANe0cutECPO7QIGbHQrDwC8UWTk7nqNicjbkw1ek",
+          "location": {
+            "city": "San Ramon",
+            "continent": "North America",
+            "country": "United States",
+            "raw": "San Ramon, California, United States",
+            "state": "California"
+          },
+          "professional_network_id": "12903385",
+          "school": "California High School (San Ramon CA.)",
+          "start_year": 2022
+        },
+        {
+          "activities_and_societies": "",
+          "degree": "Bachelor of Arts",
+          "description": "",
+          "end_year": 2030,
+          "field_of_study": "Computer Science",
+          "institute_logo_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/company/426acda7e092299f46c701d6bff10de72de3254f3dcec2e4abca75957537ee81.jpg",
+          "institute_logo_url": "https://media.licdn.com/dms/image/v2/D560BAQGwjF_5CYj_JQ/company-logo_400_400/company-logo_400_400/0/1732135669731/uc_berkeley_logo?e=1786579200&v=beta&t=2x5BoFk94F2pRNRHqkQ0VwEvv91UvKYLiNho_x9OBP0",
+          "location": {
+            "city": "Berkeley",
+            "continent": "North America",
+            "country": "United States",
+            "raw": "Berkeley, California, United States",
+            "state": "California"
+          },
+          "professional_network_id": "2517",
+          "school": "University of California, Berkeley",
+          "start_year": 2026
+        }
+      ]
+    },
+    "experience": {
+      "employment_details": {
+        "current": [
+          {
+            "company_description": "AlphaBitCore provides the essential virtualization layer for enterprise AI. We empower large organizations to adopt and scale artificial intelligence by ensuring every deployment is safe, controlled, and governed for mission-critical environments.",
+            "company_professional_network_profile_url": "https://linkedin.com/company/111238241",
+            "company_profile_picture_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/company/8f6ed31342f7d66c9c49a89b7534839d1a720ea7c1b1a4b93f23bd58a6e6bf84.jpg",
+            "company_website_domain": "alphabitcore.com",
+            "crustdata_company_id": 20088917,
+            "description": "Nexus is AlphaBitCore's AI gateway, monitoring every request a company sends to an AI model, checking whether that model is appropriate, and recording a full audit trail for banks and insurers. Designed a Python benchmarking script proving Nexus outperforms 5+ competing gateways on logging quality, time to first token, and latency. Resolved 15+ infrastructure and authentication bugs, and audited 18+ workflows on our wealth-management system.",
+            "employment_type": "",
+            "end_date": null,
+            "function_category": "Engineering",
+            "is_default": true,
+            "location": {
+              "raw": ""
+            },
+            "name": "AlphaBitCore",
+            "position_id": 2954692197,
+            "professional_network_id": "111238241",
+            "seniority_level": "In Training",
+            "start_date": "2026-06-01T00:00:00+00:00",
+            "title": "FDE (Forward Deployed Engineer) Intern",
+            "years_at_company": "Less than 1 year",
+            "years_at_company_raw": 0.0
+          },
+          {
+            "company_description": "",
+            "company_professional_network_profile_url": null,
+            "company_profile_picture_permalink": "",
+            "company_website_domain": null,
+            "crustdata_company_id": null,
+            "description": "ClassLens is a live classroom streaming tool built for English as a Second Language students who cannot follow the visual and auditory parts of instruction at once. Teachers livestream from any camera, including an iPhone, and students join on their own devices to get real-time translated captions, new vocabulary alerts, 3D diagrams, and AI explanations of whiteboard content. Shipped in 4 weeks using LiveKit, GroqCloud's Llama vision model, and Google Translate across 10+ languages, then secured a principal endorsement, a district IT demo, a Z Fellows interview, and a planned integration with UC Berkeley's Askademia.",
+            "employment_type": "",
+            "end_date": null,
+            "function_category": "",
+            "is_default": false,
+            "location": {
+              "raw": ""
+            },
+            "name": "ClassLens",
+            "position_id": 2938266194,
+            "professional_network_id": "",
+            "seniority_level": "Owner / Partner",
+            "start_date": "2026-02-01T00:00:00+00:00",
+            "title": "Founder",
+            "years_at_company": "Less than 1 year",
+            "years_at_company_raw": 0.0
+          }
+        ],
+        "past": [
+          {
+            "company_description": "",
+            "company_professional_network_profile_url": "https://linkedin.com/company/130664400",
+            "company_profile_picture_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/company/c94aac7b4b7f8706ff761d69c0577f07b3a1f9813fc7e2cc7693c968da33cbf4.jpg",
+            "company_website_domain": "uncircuit.com",
+            "crustdata_company_id": 32582362,
+            "description": "Unicircuit is a YC S26 behavioral assessment platform that evaluates how candidates actually think and work rather than how they interview. Designed and shipped the company's former landing page, built an outreach pipeline that contacted 30+ leads across YC founders and HR tech partners including Greenhouse, Ashby, and HackerRank, and developed a mock assessment game for prospect CrustData.",
+            "employment_type": "",
+            "end_date": "2026-07-01T00:00:00+00:00",
+            "function_category": "Engineering",
+            "is_default": false,
+            "location": {
+              "raw": ""
+            },
+            "name": "UnCircuit",
+            "position_id": 2955473480,
+            "professional_network_id": "130664400",
+            "seniority_level": "In Training",
+            "start_date": "2026-06-01T00:00:00+00:00",
+            "title": "FDE (Forward Deployed Engineer) Intern",
+            "years_at_company": "Less than 1 year",
+            "years_at_company_raw": 0.0
+          },
+          {
+            "company_description": "revolutionizing clubs.",
+            "company_professional_network_profile_url": "https://linkedin.com/company/107512617",
+            "company_profile_picture_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/company/beefedcad7f6d02530c2d215d8b2d0c11c29f702d0fe29fd90526674a67c9d22.jpg",
+            "company_website_domain": "clubly.space",
+            "crustdata_company_id": 7616571,
+            "description": "Clubly is an AI-native platform eliminating the weekly administrative work of running a high school club, generating slideshows, summarizing meetings, emailing absentees, planning events, and tracking attendance from a single prompt. Cold-emailed and negotiated 6 months of free API access worth $3,000+ to keep Clubly free for all students. Scaled to 60+ clubs across 3 high schools and 26,000+ Instagram views.",
+            "employment_type": "",
+            "end_date": "2026-06-01T00:00:00+00:00",
+            "function_category": "",
+            "is_default": false,
+            "location": {
+              "raw": ""
+            },
+            "name": "Clubly",
+            "position_id": 2674160405,
+            "professional_network_id": "107512617",
+            "seniority_level": "CXO",
+            "start_date": "2025-06-01T00:00:00+00:00",
+            "title": "Co-Founder & CTO",
+            "years_at_company": "1 to 2 years",
+            "years_at_company_raw": 1.0
+          },
+          {
+            "company_description": "California High School is a comprehensive, National Blue Ribbon, fully WASC-accredited 9-12 public school of more than 2000 students, serving the rapidly growing community of San Ramon.",
+            "company_professional_network_profile_url": "https://linkedin.com/company/12903385",
+            "company_profile_picture_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/company/49ffb0fa674359bd085807363ccfb3350671bec52819ddb4905a3d5b1b0cfa22.jpg",
+            "company_website_domain": "calhigh.net",
+            "crustdata_company_id": 1916456,
+            "description": "Cal High Data Science Club is a student organization teaching machine learning to students with no programming background. Designed a curriculum taking someone from zero to a working model, leading 15+ lessons on Python, NumPy, and TensorFlow. About 75 students built linear regression and K-means clustering models on public Kaggle datasets.",
+            "employment_type": "",
+            "end_date": "2025-08-01T00:00:00+00:00",
+            "function_category": "",
+            "is_default": false,
+            "location": {
+              "raw": ""
+            },
+            "name": "California High School (San Ramon CA.)",
+            "position_id": 2524436648,
+            "professional_network_id": "12903385",
+            "seniority_level": "Vice President",
+            "start_date": "2023-08-01T00:00:00+00:00",
+            "title": "President of Cal High Data Science Cub",
+            "years_at_company": "3 to 5 years",
+            "years_at_company_raw": 2.0
+          },
+          {
+            "company_description": "",
+            "company_professional_network_profile_url": null,
+            "company_profile_picture_permalink": "",
+            "company_website_domain": null,
+            "crustdata_company_id": null,
+            "description": "Samsung Solve For Tomorrow is a national competition where high school teams identify a community problem and design a STEM solution.  Co-founded and led California High School's team for 3 consecutive years, interviewing affected users before building each prototype. Won California State Finalist all 3 years for the following proposals: a voice-activated glucose tracker for elderly diabetics (presented to San Ramon Valley Board), a bamboo survival kit, and emotion-sensing glasses for the blind. Securing $7,500 in classroom funding across all 3 projects.",
+            "employment_type": "",
+            "end_date": "2025-08-01T00:00:00+00:00",
+            "function_category": "Engineering",
+            "is_default": false,
+            "location": {
+              "raw": ""
+            },
+            "name": "Samsung Solve for Tomorrow Competition (SSFT)",
+            "position_id": 2524436647,
+            "professional_network_id": "",
+            "seniority_level": "Vice President",
+            "start_date": "2022-09-01T00:00:00+00:00",
+            "title": "President and Software Engineer",
+            "years_at_company": "3 to 5 years",
+            "years_at_company_raw": 2.0
+          },
+          {
+            "company_description": "Through teaching and collaborative research, the Harvard John A. Paulson School of Engineering and Applied Sciences (SEAS) discovers, designs and creates novel technologies and approaches to societal challenges\u2014in service to the world, the nation, and our community. We bridge disciplines, both within engineering and the applied sciences and beyond, to prepare broadly trained leaders, to advance foundational science, and to achieve translational impact.SEAS is where engineering, foundational science and the liberal arts converge. Through education and research, we address global challenges and serve society.We offer undergraduate degree programs in Applied Mathematics, Biomedical Engineering, Computer Science, Environmental Science and Engineering, Mechanical Engineering, Electrical Engineering, and Engineering Sciences.Our doctoral and master\u2019s degree programs lie at the interfaces of engineering, the applied sciences, and technology.Graduate students may work towards a Master of Science (M.S.), Master of Engineering (M.E.), and Doctor of Philosophy (Ph.D.) degree in the following subjects\u2014Applied Mathematics, Applied Physics, Computer Science, Computational Science and Engineering, Data Science, and Engineering Sciences (with specialties in four areas).Those students earning a degree in Engineering Sciences can specialize in one of the following areas:    * Bioengineering    * Electrical Engineering    * Environmental Science and Engineering    * Materials Science and Mechanical EngineeringIn keeping with the interdisciplinary nature of modern research, we do not have traditional academic departments and do not award degrees by specific research area.",
+            "company_professional_network_profile_url": "https://linkedin.com/company/1711270",
+            "company_profile_picture_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/company/e33312801928bdfb259a6893f82f04216158c264f63f7aac687dab603c60bb41.jpg",
+            "company_website_domain": "harvard.edu",
+            "crustdata_company_id": 1477305,
+            "description": "Rove Miles is a YC W24 startup building a single travel currency anyone can earn without a credit card and redeem across 140+ airlines. Admitted at a ~15% acceptance rate, then reverse-engineered Rove's recommendation system in Python and Flask using the Amadeus API to identify the top 5 most point-efficient ways to fly. Presented the work and its B2B applications to Rove's co-founder, earning a verbal return offer.",
+            "employment_type": "",
+            "end_date": "2025-07-01T00:00:00+00:00",
+            "function_category": "",
+            "is_default": false,
+            "location": {
+              "raw": ""
+            },
+            "name": "Harvard John A. Paulson School of Engineering and Applied Sciences",
+            "position_id": 2653709179,
+            "professional_network_id": "1711270",
+            "seniority_level": "In Training",
+            "start_date": "2025-06-01T00:00:00+00:00",
+            "title": "Summer Intern @ Rove Miles (YC W24) | HUVTSP '25",
+            "years_at_company": "Less than 1 year",
+            "years_at_company_raw": 0.0
+          },
+          {
+            "company_description": "Aspiring Scholars Directed Research Program (ASDRP) is a 501(c)(3) nonprofit summer program that provides opportunities for high school students throughout the Bay Area, especially those who are underrepresented in STEM or who are socioeconomically disadvantaged, to conduct high-level novel scientific research. Students participate in research projects across various subjects in STEM, including chemistry, biology, computational modeling, computer science, and much more.ASDRP provides students with research mentors and over $200,000 worth of research equipment in our research laboratory. Students are matched with research mentors who have experience in academia or industry in their particular field; together, they design a research project. These projects are not science experiments in which the results are known a priori, but rather are original research projects that expand current scientific knowledge. Students execute research projects, learn scientific reading and writing skills, write research papers on their results, undergo mock peer-review, publish their research papers in the ASDRP Communications online journal, and give poster presentations at the end-of-summer expo. We follow up with students from ASDRP to help place them into university research laboratories and industry internships in subsequent summers. The inaugural cohort of ASDRP started in summer 2018.Please see fremontstem.org/asdrp for details.",
+            "company_professional_network_profile_url": "https://linkedin.com/company/29019510",
+            "company_profile_picture_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/company/3ba46d7461b40d970a3bf70d7c3202b362dfe4176786345e6c4b4b11f9e0ea31.jpg",
+            "company_website_domain": "asdrp.org",
+            "crustdata_company_id": 1106642,
+            "description": "ASDRP is a Nonprofit research institution in Fremont where high school students run original STEM research under academic and industry mentors, admitting ~12% of applicants. Led a team of 4 to build an Internet of Things (IoT) system monitoring deep freezers storing irreplaceable soft-tissue samples, calling staff within seconds of a temperature spike using Python and PagerDuty. Developed 3 preprocessing algorithms filtering glare, opacity, and brightness to read freezer displays from images, then presented to lab advisors and deep-freezer manufacturers at ASDRP's Exposition.",
+            "employment_type": "",
+            "end_date": "2025-05-01T00:00:00+00:00",
+            "function_category": "Engineering",
+            "is_default": false,
+            "location": {
+              "raw": "Fremont, CA"
+            },
+            "name": "Aspiring Scholars Directed Research Program (ASDRP)",
+            "position_id": 2524445835,
+            "professional_network_id": "29019510",
+            "seniority_level": "Senior",
+            "start_date": "2024-05-01T00:00:00+00:00",
+            "title": "Software Engineer/Product Expert",
+            "years_at_company": "1 to 2 years",
+            "years_at_company_raw": 1.0
+          },
+          {
+            "company_description": "",
+            "company_professional_network_profile_url": null,
+            "company_profile_picture_permalink": "",
+            "company_website_domain": null,
+            "crustdata_company_id": null,
+            "description": "Led and taught Python and Object Oriented Programming principles to 50 low-income students in India",
+            "employment_type": "",
+            "end_date": "2024-02-01T00:00:00+00:00",
+            "function_category": "",
+            "is_default": false,
+            "location": {
+              "raw": ""
+            },
+            "name": "Project Udaan",
+            "position_id": 2524436642,
+            "professional_network_id": "",
+            "seniority_level": "Entry Level",
+            "start_date": "2023-09-01T00:00:00+00:00",
+            "title": "Programming Tutor",
+            "years_at_company": "Less than 1 year",
+            "years_at_company_raw": 0.0
+          },
+          {
+            "company_description": "We're an award-winning, student-run, high school robotics club located in the East Bay Area, California.",
+            "company_professional_network_profile_url": "https://linkedin.com/company/34690340",
+            "company_profile_picture_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/company/7060ef3416d48283dd7c54913678062d4167495ce59188d4635e0790324e2abc.jpg",
+            "company_website_domain": "calhighrobotics.org",
+            "crustdata_company_id": 22419934,
+            "description": "Led catapult design in a team of 6, creating a novel mechanism to launch triballs into their goals for the VEX Over-Under Competition, and rebuilt the design based on competition feedback. Applied gear ratios, dimensional analysis, pneumatics, pistons, tension forces, and c-channels to construct the robot, and strengthened its drivetrain with custom column supports and shafts. Our team earned the Design Award.",
+            "employment_type": "",
+            "end_date": "2024-02-01T00:00:00+00:00",
+            "function_category": "Engineering",
+            "is_default": false,
+            "location": {
+              "raw": ""
+            },
+            "name": "California High School Robotics",
+            "position_id": 2524436649,
+            "professional_network_id": "34690340",
+            "seniority_level": "Entry Level",
+            "start_date": "2023-06-01T00:00:00+00:00",
+            "title": "Hardware Engineer",
+            "years_at_company": "Less than 1 year",
+            "years_at_company_raw": 0.0
+          },
+          {
+            "company_description": "A wellspring of innovation, the school occupies a 1,232-acre campus near downtown Berkeley. UC Berkeley, also known as Cal, was established in 1868 as the flagship of today\u2019s 10-campus University of California.",
+            "company_professional_network_profile_url": "https://linkedin.com/company/2517",
+            "company_profile_picture_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/company/426acda7e092299f46c701d6bff10de72de3254f3dcec2e4abca75957537ee81.jpg",
+            "company_website_domain": "berkeley.edu",
+            "crustdata_company_id": 1313972,
+            "description": "Studied supervised, unsupervised, imitation, and reinforcement learning through programming labs on classification, regression, and neural networks. Used curve fitting and gradient descent to tune weights and biases, then built neural network agents with peers that learned to play the game Overcooked.",
+            "employment_type": "",
+            "end_date": "2023-08-01T00:00:00+00:00",
+            "function_category": "",
+            "is_default": false,
+            "location": {
+              "raw": ""
+            },
+            "name": "University of California, Berkeley",
+            "position_id": 2524436646,
+            "professional_network_id": "2517",
+            "seniority_level": "In Training",
+            "start_date": "2023-07-01T00:00:00+00:00",
+            "title": "Software Student | Berkeley AI4ALL & Data Science Bootcamp",
+            "years_at_company": "Less than 1 year",
+            "years_at_company_raw": 0.0
+          },
+          {
+            "company_description": "A wellspring of innovation, the school occupies a 1,232-acre campus near downtown Berkeley. UC Berkeley, also known as Cal, was established in 1868 as the flagship of today\u2019s 10-campus University of California.",
+            "company_professional_network_profile_url": "https://linkedin.com/company/2517",
+            "company_profile_picture_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/company/426acda7e092299f46c701d6bff10de72de3254f3dcec2e4abca75957537ee81.jpg",
+            "company_website_domain": "berkeley.edu",
+            "crustdata_company_id": 1313972,
+            "description": "Accepted into the DoseNet RadWatch Program, where I wired BME-680 and radiation sensors to Raspberry Pi computers via GPIO pins and wrote Python to collect, process, and visualize PM2.5 and radiation trends through Node-RED. Published an NPM package of reusable Node-RED nodes letting any user record air quality and radiation data without writing code.",
+            "employment_type": "",
+            "end_date": "2023-08-01T00:00:00+00:00",
+            "function_category": "Engineering",
+            "is_default": false,
+            "location": {
+              "raw": "Berkeley, CA"
+            },
+            "name": "University of California, Berkeley",
+            "position_id": 2524436645,
+            "professional_network_id": "2517",
+            "seniority_level": "In Training",
+            "start_date": "2023-06-01T00:00:00+00:00",
+            "title": "Software Engineer Intern | DoseNet Berkeley Department of Nuclear Engineering",
+            "years_at_company": "Less than 1 year",
+            "years_at_company_raw": 0.0
+          }
+        ]
+      }
+    },
+    "professional_network": {
+      "connections": 522,
+      "current_title": "FDE (Forward Deployed Engineer) Intern",
+      "followers": 0,
+      "headline": "Incoming CS @ UC Berkeley | Founder @ ClassLens",
+      "location": {
+        "city": "San Ramon",
+        "continent": "North America",
+        "country": "United States",
+        "raw": "San Ramon, California, United States",
+        "state": "California"
+      },
+      "metadata": {
+        "last_scraped_source": null
+      },
+      "name": "Kanishk Krishna",
+      "profile_picture_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/person/a2ebf77c6eeea4a175290284fe5cb5c1937f2644d046208ce63fa607f06dc92d.jpg",
+      "pronoun": "He/Him",
+      "summary": "Hey! I'm an Incoming freshman at UC Berkeley studying Computer Science. I am an entrepreneur focused on product development, using existing tools to solve a specifics pain points in edtech, finance, and healthcare."
+    },
+    "skills": {
+      "professional_network_skills": []
+    },
+    "social_handles": {
+      "dev_platform_identifier": {
+        "profile_url": null
+      },
+      "professional_network_identifier": {
+        "profile_url": "https://www.linkedin.com/in/kanishk-krishna16"
+      },
+      "twitter_identifier": {
+        "slug": ""
+      }
+    },
+    "crustdata_person_id": 79281750
+  }
+}

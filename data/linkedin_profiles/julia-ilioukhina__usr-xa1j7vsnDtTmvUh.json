@@ -1,0 +1,460 @@
+{
+  "luma_user_id": "usr-xa1j7vsnDtTmvUh",
+  "csv_name": "julia ilioukhina",
+  "csv_linkedin": "https://www.linkedin.com/in/julia-ilioukhina",
+  "enriched_at": "2026-08-12T19:11:36.238805+00:00",
+  "batch_id": "sd_msqgoa0o2hh62sia9d",
+  "profile": {
+    "id": "julia-ilioukhina",
+    "name": "julia ilio.",
+    "city": "San Francisco Bay Area",
+    "country_code": "US",
+    "position": null,
+    "about": "\ud83d\udc8c jilioukh@uwaterloo.ca",
+    "current_company": {
+      "link": "https://www.linkedin.com/company/notionhq?trk=public_profile_topcard-current-company",
+      "name": "Notion",
+      "company_id": "notionhq",
+      "location": null
+    },
+    "experience": null,
+    "url": "https://at.linkedin.com/in/julia-ilioukhina",
+    "educations_details": "University of Waterloo",
+    "education": null,
+    "avatar": "https://media.licdn.com/dms/image/v2/D4E03AQFtRYGlK_ZVIQ/profile-displayphoto-scale_200_200/B4EZyxlSTcGcAY-/0/1772505868405?e=2147483647&v=beta&t=3H8myQNqcNqfU8Iiqjr8AfKSDLEXAwokFMvSSHtjUHg",
+    "certifications": [
+      {
+        "meta": "Issued Sep 2021",
+        "subtitle": "Queen's University",
+        "title": "Engineering Innovation (App Development)",
+        "credential_url": null,
+        "credential_id": null
+      },
+      {
+        "meta": "Issued Aug 2021",
+        "subtitle": "Gymnastics Ontario",
+        "title": "Rhythmic Foundations",
+        "credential_url": null,
+        "credential_id": null
+      },
+      {
+        "meta": "Issued Aug 2021",
+        "subtitle": "Lifesaving Society Ontario",
+        "title": "Standard First Aid with CPR-C",
+        "credential_url": null,
+        "credential_id": null
+      },
+      {
+        "meta": "Issued May 2021",
+        "subtitle": "Gymnastics Ontario",
+        "title": "Gymnastics Introduction",
+        "credential_url": null,
+        "credential_id": null
+      },
+      {
+        "meta": "Issued Sep 2020",
+        "subtitle": "Queen's University",
+        "title": "Web Programming",
+        "credential_url": null,
+        "credential_id": null
+      },
+      {
+        "meta": "Issued Jul 2020",
+        "subtitle": "Queen's University",
+        "title": "Student to Entrepreneur",
+        "credential_url": null,
+        "credential_id": null
+      },
+      {
+        "meta": "Issued Apr 2020",
+        "subtitle": "Queen's University",
+        "title": "Writing Compelling Fiction",
+        "credential_url": null,
+        "credential_id": null
+      },
+      {
+        "subtitle": "Lifesaving Society Ontario",
+        "title": "Bronze Star, Bronze Medallion, Bronze Cross, Emergency First Aid",
+        "credential_url": null,
+        "credential_id": null
+      },
+      {
+        "subtitle": "Gymnastics Ontario",
+        "title": "Gymnastics Theory",
+        "credential_url": null,
+        "credential_id": null
+      }
+    ],
+    "volunteer_experience": [
+      {
+        "duration": "Feb 2026 \u00b7 - Present \u00b7 \n7 months",
+        "duration_short": "- Present",
+        "info": "sponsorships \ud83d\udcb8",
+        "start_date": "Feb 2026",
+        "subtitle": "Hack the North",
+        "title": "Organizing Team"
+      },
+      {
+        "duration": "Mar 2024 \u00b7 - \nDec 2024 \u00b7 10 months",
+        "duration_short": "- \nDec 2024",
+        "info": "~400 members, working with AWS employees to host technical workshops and hosting a large-scale conference at the Toronto AWS office",
+        "start_date": "Mar 2024",
+        "subtitle": "AWS Cloud Clubs UW",
+        "title": "AWS Club Founder and President"
+      },
+      {
+        "duration": "Dec 2020 \u00b7 - \nJan 2023 \u00b7 2 years 2 months",
+        "duration_short": "- \nJan 2023",
+        "info": "teaching python & html/css",
+        "start_date": "Dec 2020",
+        "subtitle": "Caution Tape Robotics Club",
+        "title": "Programming Instructor"
+      },
+      {
+        "duration": "Jan 2020 \u00b7 - \nDec 2020 \u00b7 1 year",
+        "duration_short": "- \nDec 2020",
+        "start_date": "Jan 2020",
+        "subtitle": "York Stars Rhythmic Gymnastics Club",
+        "title": "Coaching Assistant"
+      }
+    ],
+    "followers": 2370,
+    "connections": 500,
+    "current_company_company_id": "notionhq",
+    "current_company_name": "Notion",
+    "projects": [
+      {
+        "title": "\ud83c\udf1f\ud83d\udecd\ufe0fWinner: Mijiji Marketplace MCP - HackMIT Most Technically Complex MCP",
+        "start_date": "Sep 2025",
+        "description": "MCP that autonomously sells items online through generating listings, posting to marketplaces, and negotiating deals without human input through browser-use agents. Used Python, FastMCP, Anthropic, Poke MCP, Browser-use, and Ngrok."
+      },
+      {
+        "title": "\ud83c\udf1f\ud83e\udd91Winner: SqWiTS Game - Western SheHacks Best Overall and Best Use of AI on Databricks",
+        "start_date": "May 2025",
+        "description": "Squid Game-themed phone usage punishment app. Players see their chances of survival based on a Random Forest Classifier ML model fully trained from scratch on an AWS cluster. Lose all 3 lives and face Squid Game-inspired punishments: computer vision forcing players to physically gather people into frame, an AI-generated roast song, or an automated email to a contact of choice. Created with Procreate (hand-drawn guards), React, Vite, TypeScript, Tailwind CSS, Custom CSS animations, Websockets, Python (Pandas, pyttsx3, speech_recognition, and SMTP server), OpenCV & YOLOV5, APIs (Dropbox, Replicate, OpenAI, Replicate, Minimax), Databricks (Hive Metastore, Notebook, MLFlow, AWS Infrastructure), Spark SQL, Postman, Flask, Vercel hosting\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b\u200b"
+      },
+      {
+        "title": "\ud83c\udf1f\ud83e\udebfWinner: Flock $tocks - Technova Best Overall and Best use of PropelAuth",
+        "start_date": "Apr 2025",
+        "description": "Tinder but for stocks with live debates! After login, you\u2019ll see stocks based on your preferences and income, one at a time. 3D advisors representing viewpoints on capitalism, female empowerment, and sustainability argue about a particular stock to help users make informed investment choices. Users control which advisor speaks by toggling between them with a joystick. After you are finished, personalized investment profiles and graphic dashboards are created for the stocks you \"matched\" with. To build this we used React, Tailwind CSS, Python, Flask, ElevenLabs, OpenAI, Whisper, Streamlit, Spline, PropelAuth, and Elegoo."
+      },
+      {
+        "title": "Linguini",
+        "start_date": "Jan 2025",
+        "description": "Linguini was built with the T3 stack using Next.js, React, Tailwind, TypeScript, and tRPC for all the endpoints that handled gameplay, groups, leaderboards, and authentication. The word and category data came from a large WordNet hypernym dataset that was cleaned in Python and loaded into a Postgres database hosted on Neon. A daily CRON job generated a new random seed so everyone saw the same category order each day. Gameplay, login with JWTs, and group actions were all handled through custom SQL tables and tRPC API routes. The whole project was deployed on Vercel and Neon.Dm to play the game we temporarily stopped the cron job."
+      },
+      {
+        "title": "Raiinet",
+        "start_date": "Jan 2025",
+        "description": "RAIInet is a full C++ recreation of the strategy game where two players control hidden links on an 8\u00d78 board and interact through movement, downloads, and cell effects. The project uses an MVC architecture with both text and XWindow-based graphic displays that pull state from a central controller. Abilities are implemented using decorator patterns for links and cells, enabling features such as diagonal movement, board rotation, and teleporter cells without modifying core classes. The system also includes pixel-art rendering through jpeglib, dual point-of-view displays, a GameStats layer for efficient state transfer, and a comprehensive test suite covering a wide range of edge cases."
+      },
+      {
+        "title": "\u26c3 Counterfactual Regret Minimization Algorithm to Approximate Nash Equilibrium for a Game with Missing Information",
+        "start_date": "Sep 2024",
+        "description": "Python recursive probability engine to avoid regret over time, converging to the most optimal strategies for poker-like games."
+      },
+      {
+        "title": "\u2615\ufe0fVR Tea with Iroh - HackMIT Submission",
+        "start_date": "Sep 2024",
+        "description": "Built a VR environment where you can chat and share a cup of tea with a realistic animated 3D Unlce Iroh. He also remembers all your past conversations. The scenery as well as the music change based on your mood (the songs are written on the spot!). We used Unity, C#, Python, Vapi, ElevenLabs, Whisper, Suno API, and Convex for the server."
+      },
+      {
+        "title": "\ud83d\udd1fMIPS Assembly Compiler Built in Scala",
+        "start_date": "Sep 2024",
+        "description": "Part of Waterloo's enriched version of the Foundations to Sequential Programs Course. Built a fully functional compiler in Scala for a custom language with a maximal munch scanner for tokenization, input parsing into trees, context analysis, optimizing IR, and machine code generation with garbage collection."
+      },
+      {
+        "title": "\ud83c\udf31HydroPal - HawkHacks Submission",
+        "start_date": "May 2024",
+        "description": "HydroPal is an interactive app designed to monitor and encourage water intake by growing a virtual plant. As users drink water, the plant grows; if they don't, it shrinks. Reaching the maximum daily plant size rewards users with Metis tokens, which can be used to unlock in-app decorations or gift points to friends. The frontend is built with React, JavaScript, and CSS, while the backend leverages Python, Flask, and YOLO for real-time water tracking. Blockchain integration is achieved through Solidity smart contracts on the Sepolia testnet, with MongoDB managing user data."
+      },
+      {
+        "title": "\ud83d\udc82\u200d\u2642\ufe0fFraud Guardian - Scotiabank x Tangerine Hackathon Submission",
+        "start_date": "Apr 2024",
+        "description": "Fraud Guardian is a web application built in only 4 hours! It detects job posting scams by analyzing text from descriptions or screenshots. The frontend is built with Next.js and styled using Tailwind CSS, HTML, and SCSS. The backend leverages Python and Flask, integrating Amazon Textract for text extraction from images and the OpenAI API for scam analysis. The platform supports both English and Spanish, providing scam detection and detailed feedback across languages."
+      },
+      {
+        "title": "\ud83d\udc19Octoprotect - 4 Month Design Project",
+        "description": "OctoProtect is an anti-theft system using bluetooth accelerometers to detect and notify users when their belongings are touched via an app, push notifications, and an alert system. The frontend is crafted with React Native and Redux, while the backend is built on Golang, Gin, GORM, and secured with JWT and Bcrypt hashing. The firmware, written in C using Nordic nRF52840 and Zephyr RTOS, ensures swift response, paired with software developed in Python. The device is housed in custom 3D printed casings. Our deployment strategy involves Docker and GitLab CI/CD."
+      },
+      {
+        "title": "\ud83d\udc40SocialEye - Hack the North Submission",
+        "start_date": "Sep 2023",
+        "description": "SocialEye is a smart security system integrated with social media for enhanced interactivity and accessibility. It records and stores footage securely, accessible through Discord commands. Built with a Raspberry Pi and Python, it runs on a Repl server hosting a Flask web server and Discord bot. The system processes video data, stores it in Google Cloud, and presents it through an HTML/CSS frontend, redefining home security."
+      },
+      {
+        "title": "\ud83c\udf1f\u2b55\ufe0fWinner: Terra Taskers - Web3Apps - Best Sustainability Hack and Best use of Circle",
+        "start_date": "Aug 2023",
+        "description": "Created a global social media feed and payment reward system to encourage individuals to complete environmentally friendly tasks from their weekly checklist & post them. We built it using HTML/CSS, Javascript, Flask framework, Python, deta.space (for data storage), Circle API, and we made the payout system with FLOW crypto tokens."
+      },
+      {
+        "title": "\ud83c\udf1f\ud83c\udf33Winner: Upleafed - SHAD Month-Long Challenge Best Prototype",
+        "start_date": "Jul 2022",
+        "description": "We created a device to improve wellness and connectivity in workplaces. It comes in the form of a 3D printed tree whose leaves glow red. Employees can go on an app which includes a list of tasks such as \"go on a 30 minute walk with a coworker\". Once they have completed the task, they submit that they have done so and a leaf on the tree changes from red to green. Once the entire tree glows green, the entire workplace earns health-related discounts and benefits. This device was created by using Arduino, HTML/CSS/SASS, Flask, Tinkercad, and Python."
+      },
+      {
+        "title": "\ud83e\uddbeMechatronics Activities",
+        "start_date": "Jul 2022",
+        "description": "Soldering PCBs, assembling a lawnmower from scratch, coding a defibrillator on a TI, autonomous robot"
+      },
+      {
+        "title": "\ud83d\udcc8Analyzing the Efficacy of an LSTM Model in Daily Stock Predictions",
+        "start_date": "Mar 2022",
+        "description": "Built a Python LSTM model. Historical stock prices were used to train and test the model. To test the accuracy, the predicted values were compared with the historical prices. This was done through finding regression models of the curves of best fit, correlation coefficients, coefficients of determination, measures of central tendency, standard deviations, root mean square deviations, mean absolute percentage errors, z-scores, and outliers."
+      },
+      {
+        "title": "\ud83c\udf1f\ud83d\udc5fWinner: TSLA - A Device that Aids Individuals with Temperature Sensory Loss Caused by Diabetic Neuropathy",
+        "start_date": "Dec 2021",
+        "description": "Displayed at the York Region Science and Technology Fair. This project received a certificate of distinction.The TSLA is a device that was created with an ELEGOO circuit. Its purpose is to reduce the likelihood of frostbite occurring in an individual with peripheral neuropathy. This device can be inserted into an individual\u2019s shoe. It sends out a warning when the temperature inside of the shoe is dangerously low. The temperature of the toes is also displayed in an app and on an LCD. Diabetic individuals with peripheral neuropathy will thus be safer when they go outside in the cold weather."
+      },
+      {
+        "title": "\ud83d\udcbbReplica of Front-End for Google Search, Google Image Search, and Google Advanced Search",
+        "start_date": "Jun 2021",
+        "description": "cs student canon event of taking Harvard's CS50Languages used: HTML/CSS, SASS"
+      },
+      {
+        "title": "\ud83c\udf1f\ud83d\ude34Winner: Improving the CPAP Machine for Sleep Apnea Patients",
+        "start_date": "Dec 2020",
+        "description": "Displayed at the York Region Science and Technology Fair. A silver medal was rewarded for this project.My research and data collection were focused on how effective the CPAP machine is and why so many individuals with sleep apnea do not use this treatment. First, I observed the sleep patterns of sleep apnea patients. I then conducted interviews to figure out what the main concerns are about the CPAP machine. Based on my results, I constructed a model which is as beneficial as the original machine but also addresses many of the concerns which make this machine have such low social acceptance. The new design for the CPAP includes thin rubber tubing that wraps around the face and a small straw-like structure that leads into the nose. This machine is easy to remove, easy to adjust, the tubing is longer (thus allowing the patient to place the machine further away), there is less skin irritation due to minimal contact with the face, prevents claustrophobia, prevents eye irritation, and prevents mask leaks (since the mask is replaced by tubing)."
+      },
+      {
+        "title": "\ud83d\udcb0BudgetMaster - JamHacks Submission",
+        "start_date": "May 2021",
+        "description": "A platform to help university students manage their finances built with HTML/CSS and JavaScript."
+      },
+      {
+        "title": "\ud83d\udd79\ufe0fNIM",
+        "start_date": "Dec 2020",
+        "description": "The computer is guaranteed to win if the payer goes first and wins whenever possible if the player goes second. This was coded in Java."
+      },
+      {
+        "title": "\ud83c\udf45Pomodoro App",
+        "start_date": "Jun 2020",
+        "description": "Created an app with React Native that can motivate students to study by making them work for 25 minute intervals, followed by a 5 minute break. This cycle is repeated until the workload is completed."
+      }
+    ],
+    "location": null,
+    "input_url": "https://www.linkedin.com/in/julia-ilioukhina",
+    "linkedin_id": "julia-ilioukhina",
+    "activity": [
+      {
+        "interaction": "Liked by julia ilio.",
+        "link": "https://www.linkedin.com/posts/osherac_excited-to-meet-new-people-and-build-something-activity-7492943741343674368-6mPA",
+        "title": "Excited to meet new people and build something really cool! If you're looking for a teammate, message me \ud83d\ude42",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQEx1zDTOaoSew/feedshare-shrink_800/B56Z_xIoMXKoAg-/0/1786456999295?e=2147483647&v=beta&t=EwmqWetdWi-PK5HNUPVaX1v5xcdeE8gr1Cap6y9wocE",
+        "id": "7492943741343674368"
+      },
+      {
+        "interaction": "Liked by julia ilio.",
+        "link": "https://www.linkedin.com/posts/rundoo_independentretail-paint-pos-activity-7491569326211371008-wZfS",
+        "title": "Rundoo just crossed the border. \ud83c\udde8\ud83c\udde6 Alpine Design Co., a Benjamin Moore dealer in Cornwall, Ontario, went live on Rundoo on August 4, 2026, running\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4D10AQHbgNkYhmpHbA/image-shrink_800/B4DZ_dmm14IcAg-/0/1786129313877?e=2147483647&v=beta&t=VEmWsNJB--9mZ6ZnUG3Lb6LcfHdILUjRkCnJEPQyXew",
+        "id": "7491569326211371008"
+      },
+      {
+        "interaction": "Liked by julia ilio.",
+        "link": "https://www.linkedin.com/posts/andrewshum8_i-am-excited-to-share-that-mirai-is-officially-activity-7491189071260639232-oEmG",
+        "title": "I am excited to share that Mirai is officially backed by a16z speedrun. When people buy a home, they are not just buying the property. They are\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQHSNQdOedTTDw/feedshare-shrink_800/B56Z_YMwxTGQAc-/0/1786038652567?e=2147483647&v=beta&t=V2tVNKjbN_cEyPvJ3ZsrCuPgTCZlZIFNU-Dt7EJje0o",
+        "id": "7491189071260639232"
+      },
+      {
+        "interaction": "Liked by julia ilio.",
+        "link": "https://www.linkedin.com/posts/amitojsingh366_i-completed-my-first-ever-ctf-now-that-the-activity-7490062685833887744-KytV",
+        "title": "I completed my first ever CTF! Now that the application deadline for Hack the North has passed, I can post about it. I finished all 17 Hack the\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQHitzpGWWwGaA/feedshare-image-high-res/B56Z_HAHrhIMAU-/0/1785750125530?e=2147483647&v=beta&t=Egcw_vzG7xaBlB0mEu4ENVKw-HrZJT4rZIwJ-Kp3OD8",
+        "id": "7490062685833887744"
+      },
+      {
+        "interaction": "Liked by julia ilio.",
+        "link": "https://www.linkedin.com/posts/melody-cao-h04_newgrad-firstdayofwork-lifechanges-activity-7487378533955026944-4ogL",
+        "title": "It's happening!!! Back in May, I graduated from Harvard University with a Bachelor's degree in Computer Science and Economics. Two days ago, I\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQHlNUM7PtoTug/feedshare-image-high-res/B56Z.iDF4ZG4AU-/0/1785130148560?e=2147483647&v=beta&t=oD2DdDwtMlcfhRkU5I39SEEZ2CF2_I_5uXs3XW6MJPE",
+        "id": "7487378533955026944"
+      },
+      {
+        "interaction": "Liked by julia ilio.",
+        "link": "https://www.linkedin.com/posts/rosalie-wessels_lifeatnotion-activity-7488683810977665024-2Q1x",
+        "title": "This summer, I'm working at Notion! As a Notion user for all of high school and college, I've really enjoyed the opportunity to work on a product\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQEYifd5ogW8QQ/feedshare-shrink_800/B56Z.0mOJ_HAAc-/0/1785441351246?e=2147483647&v=beta&t=32fJCZBU_yhe6hPFmp9rr4Y0QKG2kki-XDygheOi5os",
+        "id": "7488683810977665024"
+      },
+      {
+        "interaction": "Liked by julia ilio.",
+        "link": "https://www.linkedin.com/posts/sophie-yang_excited-to-share-a-little-bit-on-what-ive-activity-7488006532945686529-Qkpl",
+        "title": "excited to share a little bit on what i've been working on :)",
+        "img": "https://static.licdn.com/aero-v1/sc/h/53n89ecoxpr1qrki1do3alazb",
+        "id": "7488006532945686529"
+      },
+      {
+        "interaction": "Liked by julia ilio.",
+        "link": "https://www.linkedin.com/posts/notionhq_its-a-bad-day-to-be-a-notification-notion-activity-7483224846009708544-E3-n",
+        "title": "It\u2019s a bad day to be a notification\u2026 Notion Agent can now manage your Inbox. From chat, it can catch you up on what\u2019s important, then mark\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4E05AQFIhhYHbJQ8Ng/videocover-high/B4EZ9nBTOAJIBM-/0/1784139824185?e=2147483647&v=beta&t=o8Tnmv6VpnusPgsnUGfn7sLqBxnFNfFk_yz1cTij8XA",
+        "id": "7483224846009708544"
+      },
+      {
+        "interaction": "Liked by julia ilio.",
+        "link": "https://www.linkedin.com/posts/kallie-zhang_im-excited-to-announce-i-joined-omenai-as-activity-7477398560548732928-edcc",
+        "title": "I\u2019m excited to announce I joined OmenAI as a Mechatronics Intern\u2014and that Omen has raised $41.5M for our Series A + Seed! Omen predicts failures on\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQFLGujEqYTVIw/feedshare-shrink_800/B56Z8UOXciIQAg-/0/1782750738604?e=2147483647&v=beta&t=6P4--IV8Pw3kG2JvZEbXcgTjHV476nGdliewalpNiH4",
+        "id": "7477398560548732928"
+      },
+      {
+        "interaction": "Liked by julia ilio.",
+        "link": "https://www.linkedin.com/posts/ian-korovinsky_its-a-bad-day-to-be-a-gpu-excited-to-announce-activity-7475003883161808896-QuCO",
+        "title": "It's a bad day to be a GPU - excited to announce Baseten's Series F! If you want to build the inference or post-training tooling behind the largest\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQHpFiwHnBaR5w/feedshare-shrink_800/B56Z7yMbF1G0Ac-/0/1782179803842?e=2147483647&v=beta&t=Hj5vssxemWuTmCnUqj_Ia64NxdLz3FR0AKJsx7FQ37A",
+        "id": "7475003883161808896"
+      }
+    ],
+    "linkedin_num_id": "1004238639",
+    "banner_image": "https://media.licdn.com/dms/image/v2/D4D16AQEQkwlug2UwZA/profile-displaybackgroundimage-shrink_200_800/B4DZywTATtGQAU-/0/1772484298804?e=2147483647&v=beta&t=S6YPfjCJi86ocJXiSRZObml7VJemM_s-UNRkFdjGoZk",
+    "honors_and_awards": [
+      {
+        "title": "conferences, programs, & hackathons",
+        "publication": "-",
+        "date": "2025-01-01T00:00:00.000Z",
+        "description": "Philly: Susquehanna Discovery, OpenAI Leadership Exchange, Citadel Boundless, Grace Hopper Boston: HackMIT (x2), Harvard WeCode (Recieved WiCS Innovation Scholarship Funding) New York: Jane Street WiSE, Jane Street WiSE Reunion, Jane Street Insight SF: Interaction Co Weekend, xAI Event, YC AI startup school Toronto/Waterloo: AWS Student Conference speaker/organizer, Hack the North, Technova (WINNER), Web3Apps (WINNER), HawkHacks, Build (UWs startup accelerator), Scotiabank Hacks\u2026 Show more"
+      },
+      {
+        "title": "scholarship offers",
+        "publication": "-",
+        "date": "2023-09-01T00:00:00.000Z",
+        "description": "Chancellor's Scholarship (48k) - Queens University National Computer Science Faculty Entrance (30k) - University of Western Ontario Kothari Family Entrance Scholarship (15k) - University of Waterloo Colonel Hugh Heasley Engineering Scholarship (10k) - University of Waterloo Principal's Scholarship for Commerce, Computing, and Engineering (7k x 3) President's Scholarship of Distinction for SE, CS, and BBA/BCS (5k x 3) - University of Waterloo"
+      },
+      {
+        "title": "Top Student Award (5 Years in a Row) - Graduated with a 99.7%",
+        "publication": "-",
+        "date": "2023-08-01T00:00:00.000Z",
+        "description": "highest academic average"
+      },
+      {
+        "title": "Lieutenant Governor's Community Volunteer Award",
+        "publication": "-",
+        "date": "2023-06-01T00:00:00.000Z",
+        "description": "1 per school for volunteerism"
+      },
+      {
+        "title": "Euclid Contest Certificate of Distinction",
+        "publication": "University of Waterlooo",
+        "date": "2023-01-01T00:00:00.000Z",
+        "description": null
+      },
+      {
+        "title": "5th at the AGG (Gymnastics) World Cup in Malaysia",
+        "publication": "-",
+        "date": "2022-10-01T00:00:00.000Z",
+        "description": null
+      },
+      {
+        "title": "5th at the Canadian Improv Games",
+        "publication": "-",
+        "date": "2022-05-01T00:00:00.000Z",
+        "description": null
+      },
+      {
+        "title": "1st in School and Certificate of Distinction for the Canadian Computing Challenge",
+        "publication": "University of Waterloo and Academy for Gifted Children - P.A.C.E.",
+        "date": "2022-04-01T00:00:00.000Z",
+        "description": null
+      },
+      {
+        "title": "JOT Nationals Health Sciences and Management Top Performer Award and Exam Distinction",
+        "publication": "-",
+        "date": "2022-02-01T00:00:00.000Z",
+        "description": "Business roleplay competition"
+      },
+      {
+        "title": "7th at FBLA SLC",
+        "publication": "-",
+        "date": "2022-01-01T00:00:00.000Z",
+        "description": "Business roleplay competition"
+      },
+      {
+        "title": "Award of Excellence in Entrepreneurship",
+        "publication": "-",
+        "date": "2022-01-01T00:00:00.000Z",
+        "description": "Business roleplay competitions such as DECA, JOT, and FBLA."
+      },
+      {
+        "title": "Best Prototype for the Design Challenge",
+        "publication": "SHAD Memorial",
+        "date": "2022-01-01T00:00:00.000Z",
+        "description": "More details in the projects section"
+      },
+      {
+        "title": "National Theatre School Festival Awards",
+        "publication": "-",
+        "date": "2022-01-01T00:00:00.000Z",
+        "description": "Awards received: best cast (2023), best adaptation (2022), outstanding production (2022)"
+      },
+      {
+        "title": "2nd at the Four Continents International Gymnastics Competition",
+        "publication": "-",
+        "date": "2021-05-01T00:00:00.000Z",
+        "description": null
+      },
+      {
+        "title": "First in School for the AMC 10",
+        "publication": "-",
+        "date": "2021-01-01T00:00:00.000Z",
+        "description": null
+      },
+      {
+        "title": "Pascal Mathematics Contest Certificate of Distinction",
+        "publication": "University of Waterloo",
+        "date": "2020-10-01T00:00:00.000Z",
+        "description": null
+      },
+      {
+        "title": "Award of Excellence in Technology",
+        "publication": "Academy for Gifted Children - P.A.C.E.",
+        "date": "2019-01-01T00:00:00.000Z",
+        "description": "Awarded for my accomplishments in VEX EDR robotics."
+      },
+      {
+        "title": "Multiple Diamond, Platinum, Overall Excellence, and Overall Winner Awards for dance competitions across Ontario (such as Bedazzled and Candance)",
+        "publication": "-",
+        "date": "2019-01-01T00:00:00.000Z",
+        "description": null
+      },
+      {
+        "title": "1st for SSAF Ultimate Frisbee",
+        "publication": "SSAF",
+        "date": null,
+        "description": null
+      },
+      {
+        "title": "Citizenship Award (Received 5 Years in a Row)",
+        "publication": "-",
+        "date": null,
+        "description": "Awarded to students who show high involvement in the school through volunteerism."
+      },
+      {
+        "title": "Female Athlete of the Year (Received 3 Years in a Row)",
+        "publication": "Academy for Gifted Children - P.A.C.E.",
+        "date": null,
+        "description": null
+      },
+      {
+        "title": "Silver Award at the Commonwealth Essay Writing Competition (Received Twice)",
+        "publication": "Royal Commonwealth Society",
+        "date": null,
+        "description": null
+      }
+    ],
+    "similar_profiles": [],
+    "default_avatar": false,
+    "memorialized_account": false,
+    "bio_links": [],
+    "first_name": "julia",
+    "last_name": "ilio.",
+    "influencer": false,
+    "timestamp": "2026-08-12T19:07:33.859Z",
+    "input": {
+      "url": "https://www.linkedin.com/in/julia-ilioukhina"
+    }
+  },
+  "local_photo": "data\\linkedin_photos\\julia-ilioukhina__usr-xa1j7vsnDtTmvUh.jpg"
+}

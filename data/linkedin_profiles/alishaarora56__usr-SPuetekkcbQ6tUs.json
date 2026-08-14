@@ -1,0 +1,312 @@
+{
+  "luma_user_id": "usr-SPuetekkcbQ6tUs",
+  "csv_name": "Alisha Arora",
+  "csv_linkedin": "https://www.linkedin.com/in/alishaarora56",
+  "enriched_at": "2026-08-12T18:56:33.257301+00:00",
+  "batch_id": "sd_msqg8yml2ia5na9bcp",
+  "profile": {
+    "id": "alishaarora56",
+    "name": "Alisha Arora",
+    "city": "San Francisco Bay Area",
+    "country_code": "US",
+    "position": null,
+    "about": "I'm a Systems Design Engineering student at the University of Waterloo. Currently, I'm\u2026",
+    "current_company": {
+      "link": "https://www.linkedin.com/company/tesla-motors?trk=public_profile_topcard-current-company",
+      "name": "Tesla",
+      "company_id": "tesla-motors",
+      "location": null
+    },
+    "experience": null,
+    "url": "https://hu.linkedin.com/in/alishaarora56",
+    "people_also_viewed": [
+      {
+        "profile_link": "https://ca.linkedin.com/in/katie-mahoney-3821a910b",
+        "name": "Katie Mahoney",
+        "about": "We Are Young (WAY)",
+        "location": "609 followers Halifax, NS"
+      },
+      {
+        "profile_link": "https://ca.linkedin.com/in/aashi-grover",
+        "name": "Aashi Grover",
+        "about": "Accenture",
+        "location": "2K followers Greater Ottawa Metropolitan Area"
+      },
+      {
+        "profile_link": "https://ca.linkedin.com/in/jianglin-lin",
+        "name": "Laura L.",
+        "about": "University of Toronto - Rotman School of Management",
+        "location": "380 followers Toronto, ON"
+      },
+      {
+        "profile_link": "https://ca.linkedin.com/in/zawaar-ali",
+        "name": "Zawaar Ali Alwani",
+        "about": "The Knowledge Society (TKS)",
+        "location": "336 followers Ottawa, ON"
+      },
+      {
+        "profile_link": "https://www.linkedin.com/in/navidnathoo",
+        "name": "Navid Nathoo",
+        "about": "Zero",
+        "location": "16K followers San Francisco Bay Area"
+      },
+      {
+        "profile_link": "https://bd.linkedin.com/in/waeza-masnoon-667932b0",
+        "name": "Waeza Masnoon",
+        "about": "Clifton Group",
+        "location": "2K followers Chattogram, Bangladesh"
+      },
+      {
+        "profile_link": "https://www.linkedin.com/in/clairedu",
+        "name": "Claire Du",
+        "about": "Tesla",
+        "location": "2K followers Stanford, CA"
+      },
+      {
+        "profile_link": "https://ca.linkedin.com/in/farahelsiss",
+        "name": "Farah El Siss",
+        "about": "Uottawa Baja SAE",
+        "location": "1K followers Canada"
+      },
+      {
+        "profile_link": "https://ca.linkedin.com/in/jeremybryantedmonton",
+        "name": "Jeremy Bryant",
+        "about": "Varme Energy",
+        "location": "1K followers Edmonton, AB"
+      },
+      {
+        "profile_link": "https://ca.linkedin.com/in/jasontresreyes",
+        "name": "Jason Tres Reyes",
+        "about": "BorderGuard",
+        "location": "601 followers Greater Toronto Area, Canada"
+      }
+    ],
+    "educations_details": "University of Waterloo",
+    "education": [
+      {
+        "start_year": "2020-09",
+        "end_year": "2024-05",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      }
+    ],
+    "avatar": "https://media.licdn.com/dms/image/v2/D4E03AQESi85RJsQExQ/profile-displayphoto-shrink_200_200/B4EZdNnMv7G4AY-/0/1749353812049?e=2147483647&v=beta&t=zMxY8LzWAM9NEE77yhHz5Y1gIz8f95RlwAJx92wfY4w",
+    "certifications": [
+      {
+        "meta": "Issued Jan 2026",
+        "subtitle": "Citadel",
+        "title": "Selected Participant Women's Datathon",
+        "credential_url": null,
+        "credential_id": null
+      },
+      {
+        "meta": "Issued May 2025",
+        "subtitle": "Y Combinator",
+        "title": "AI Startup School Participant - San Francisco",
+        "credential_url": null,
+        "credential_id": null
+      },
+      {
+        "meta": "Issued Apr 2025",
+        "subtitle": "Vector Institute",
+        "title": "Green AI Bootcamp - Vector Institute",
+        "credential_url": null,
+        "credential_id": null
+      },
+      {
+        "meta": "Issued Oct 2021 See credential",
+        "subtitle": "IBM",
+        "title": "Python for Data Science and AI",
+        "credential_url": "https://www.credly.com/badges/695ef654-921b-4d9f-b130-921962774206?source=linked_in_profile&trk=public_profile_see-credential",
+        "credential_id": null
+      }
+    ],
+    "volunteer_experience": [
+      {
+        "cause": "Economic Empowerment",
+        "duration": "Apr 2022 \u00b7 - \nDec 2023 \u00b7 \n1 year 9 months",
+        "duration_short": "- \nDec 2023",
+        "info": "Collaborated with a global community of young AI leaders on initiatives advancing the ethical development and application of AI across industries. Served as a judge for the 2022 Smart Toy Awards in Dubai, an initiative supported by Dubai Cares and the World Economic Forum, evaluating AI-powered toys for responsible innovation and child safety.",
+        "start_date": "Apr 2022",
+        "subtitle": "World Economic Forum",
+        "title": "AI Youth Council Member"
+      },
+      {
+        "cause": "Science and Technology",
+        "duration": "May 2021 \u00b7 - \nMay 2022 \u00b7 \n1 year 1 month",
+        "duration_short": "- \nMay 2022",
+        "info": "As a part of the Tech4SickKids initiative I served as a youth voice in the advisory council. Our goal was to fundraise, and allocate over $25 million to build big-data solutions to support youth at the hospital of Sick Kids. I organized events including an auction and tech-awareness event to spread awareness as well as collect sponsorships to continue the mission of leveraging tech to support the children at Sick Kids.",
+        "start_date": "May 2021",
+        "subtitle": "SickKids Foundation",
+        "title": "Advisory Council Member"
+      }
+    ],
+    "followers": 5764,
+    "connections": 500,
+    "current_company_company_id": "tesla-motors",
+    "current_company_name": "Tesla",
+    "publications": [
+      {
+        "title": "From Principles to Practice: Translating Human-AI Interaction Research into Effective Human-Centred AI Product Design",
+        "subtitle": "International Conference on Human-Computer Interaction",
+        "date": "October 9, 2025"
+      }
+    ],
+    "location": null,
+    "input_url": "https://www.linkedin.com/in/alishaarora56",
+    "linkedin_id": "alishaarora56",
+    "activity": [
+      {
+        "interaction": "Liked by Alisha Arora",
+        "link": "https://www.linkedin.com/posts/fei-fei-li-4541247_when-scenix-joined-world-labs-we-said-spatial-activity-7487903224914423809-OpsZ",
+        "title": "When SceniX joined World Labs, we said spatial intelligence was never only about perceiving and generating virtual and physical worlds, but also\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5605AQF6mq8GRTWugA/videocover-high/B56Z.pgQVCGUBU-/0/1785255237378?e=2147483647&v=beta&t=TDoljCHnTPj-almrGPjRk27rCHt6cN50RBA_75x3CgI",
+        "id": "7487903224914423809"
+      },
+      {
+        "interaction": "Liked by Alisha Arora",
+        "link": "https://www.linkedin.com/posts/udaykumarraju_im-excited-to-share-that-im-stepping-into-activity-7483625848621895680-_8Tx",
+        "title": "I\u2019m excited to share that I\u2019m stepping into the CTO, Compute role at OpenAI. My first 12 months at OpenAI have been incredibly rewarding. Our\u2026",
+        "img": "https://static.licdn.com/aero-v1/sc/h/53n89ecoxpr1qrki1do3alazb",
+        "id": "7483625848621895680"
+      },
+      {
+        "interaction": "Liked by Alisha Arora",
+        "link": "https://www.linkedin.com/posts/patrick-llgc_the-economy-of-autonomy-activity-7483469566887612416-Ojl6",
+        "title": "Autonomous driving is no longer the hottest topic in AI, but its most important chapter still lies ahead. The piece explores a simple but important\u2026",
+        "img": "https://media.licdn.com/dms/image/sync/v2/D5627AQFzrplnlqiFag/articleshare-shrink_800/B56Z9hk6qvHUAY-/0/1784048496152?e=2147483647&v=beta&t=BTfHKrWk4GRUT7yyrMu0btIqC6LU-kWp2J97vk63E7c",
+        "id": "7483469566887612416"
+      },
+      {
+        "interaction": "Liked by Alisha Arora",
+        "link": "https://www.linkedin.com/posts/shwetha-krishnamurthy_the-state-of-open-source-llm-inference-activity-7483053651616350208-OgwH",
+        "title": "New post: a very high-level map of the open-source LLM serving stack, written up from my own learning over the past few months (including benchmarks\u2026",
+        "img": "https://media.licdn.com/dms/image/sync/v2/D5627AQHx7DQf91P2-A/articleshare-shrink_800/B56Z9kh6itKgAY-/0/1784098041121?e=2147483647&v=beta&t=-IKbVLavWB4bMf_7m2G8YwlCgry9ya5cZrGnzouvxXc",
+        "id": "7483053651616350208"
+      },
+      {
+        "interaction": "Liked by Alisha Arora",
+        "link": "https://www.linkedin.com/posts/my-first-publication-as-first-author-just-activity-7483016473301495808-Wmge",
+        "title": "My first publication as first author just came out at HCII 2026, written while I was doing a full-time SWE internship. \u201cFrom Principles to Practice:\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQHoVIW2svtAcw/feedshare-shrink_1280/B56Z9kD1ElGsAM-/0/1784090153498?e=2147483647&v=beta&t=BDLA2d7oXLwCnHjzCKncmngiXo55tcTmDiocR5l43dU",
+        "id": "7483016473301495808"
+      },
+      {
+        "interaction": "Liked by Alisha Arora",
+        "link": "https://www.linkedin.com/posts/natalie-abboud_last-month-i-graduated-from-stanford-university-activity-7482826284587327489-8iyQ",
+        "title": "Last month I graduated from Stanford University Four years on the Farm went faster than I ever expected. I'm grateful for the professors who\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQEgCVZZRlrfFw/feedshare-image-high-res/B56Z9d3HtiG4AU-/0/1783986158829?e=2147483647&v=beta&t=hPilAvFzC-1rdtH8MrK-lSOa_7UqnKCqM2I7w1E0kaQ",
+        "id": "7482826284587327489"
+      },
+      {
+        "interaction": "Liked by Alisha Arora",
+        "link": "https://www.linkedin.com/posts/dew-bhaumik-55309a212_really-excited-to-share-that-ive-recently-activity-7480748140501823488-9Z3p",
+        "title": "Really excited to share that I've recently graduated from the Mechatronics Engineering program at the University of Waterloo and will be returning to\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5605AQGpz3T6PNeViA/videocover-high/B56Z9D0vCyH4BM-/0/1783549327896?e=2147483647&v=beta&t=RVBd_ql6LYSof92vuWPA2QPpxKxoTT4AYtxwErvfCTE",
+        "id": "7480748140501823488"
+      },
+      {
+        "interaction": "Liked by Alisha Arora",
+        "link": "https://www.linkedin.com/posts/achieving-near-linear-training-scalability-activity-7475994614554853376-GU-S",
+        "title": "\"Just add more GPUs\" is rarely the full answer. In our latest Pinterest Engineering blog post, we share how we improved multi-node training\u2026",
+        "img": "https://media.licdn.com/dms/image/sync/v2/D5627AQEWjlR1uuxq5g/articleshare-shrink_1280_800/B56Z8AFkQFG0Ag-/0/1782412889579?e=2147483647&v=beta&t=oALW9T9qb-ksVQmdzEfM-jETXsKD_t9N8D6O8e39me8",
+        "id": "7475994614554853376"
+      },
+      {
+        "interaction": "Liked by Alisha Arora",
+        "link": "https://www.linkedin.com/posts/car1zhang_last-summer-i-turned-down-my-uwaterloo-cs-activity-7475216282934648833-t-KR",
+        "title": "Last summer I turned down my UWaterloo CS offer and moved to NYC to live in the Probook office as engineer #4. Two signals made the decision\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQGl0yoETwlumQ/feedshare-shrink_800/B4EZ71NmGiHsAc-/0/1782230443516?e=2147483647&v=beta&t=SzEJkAAv4-J4R4CnGx91yiGZWZAYDtrM-V1xueM0sIQ",
+        "id": "7475216282934648833"
+      }
+    ],
+    "linkedin_num_id": "683462216",
+    "banner_image": "https://media.licdn.com/dms/image/v2/D5616AQElNS7Gq4rtFQ/profile-displaybackgroundimage-shrink_200_800/B56Z9JQajMKcAc-/0/1783640468157?e=2147483647&v=beta&t=ymSBCNtSyO4Vw7K_S2J8fS-X1hs3lKt9Cc40aTwqSmI",
+    "honors_and_awards": [
+      {
+        "title": "Rising Star in AI - Women in AI North America",
+        "publication": "Women in AI",
+        "date": "2025-06-01T00:00:00.000Z",
+        "description": null
+      },
+      {
+        "title": "Pearl Sullivan Scholarship",
+        "publication": "University of Waterloo",
+        "date": "2025-03-01T00:00:00.000Z",
+        "description": "Recipient of the Hack the North award in honour of the First Female University of Waterloo Dean of Engineering."
+      },
+      {
+        "title": "Recipient of Project Management Institute Future 50",
+        "publication": "Project Management Institute",
+        "date": "2023-05-01T00:00:00.000Z",
+        "description": "Awarded in the \"The Pioneers\" category, as a Future 50 Recipient. https://www.pmi.org/future-50/2023-honorees/alisha-arora"
+      },
+      {
+        "title": "Global AI Ambassador resprenting Canada",
+        "publication": "SwissCognitive",
+        "date": "2023-03-01T00:00:00.000Z",
+        "description": null
+      },
+      {
+        "title": "Canada's Top 100 Most Powerful Women",
+        "publication": "WXN",
+        "date": "2022-11-01T00:00:00.000Z",
+        "description": null
+      },
+      {
+        "title": "Young AI Pioneer by Microsoft Canada",
+        "publication": "Microsoft",
+        "date": "2022-06-01T00:00:00.000Z",
+        "description": null
+      },
+      {
+        "title": "Teens tackling bullying award CBC kids",
+        "publication": "CBC Kids",
+        "date": "2022-02-01T00:00:00.000Z",
+        "description": "https://www.cbc.ca/kidsnews/post/its-pink-shirt-day.-heres-how-3-teens-are-tackling-bullying-in-their-commun"
+      },
+      {
+        "title": "CDL Apprentice",
+        "publication": "Creative Destruction Lab",
+        "date": "2021-11-01T00:00:00.000Z",
+        "description": "CDL is a startup accelerator for seed-stage science-and technology-based companies. I attended monthly sessions where I shadowed and networked with top VC's and investors during their startup pitch meetings. Mentors include Andrew Fursman, Dawn Bell, Chris Hadfield, Michael Hyatt, Eva Lau, Steve Mann, Ozge Yeloglu."
+      },
+      {
+        "title": "Emerson Collective Grant Recipient",
+        "publication": "Emerson Collective",
+        "date": "2021-08-01T00:00:00.000Z",
+        "description": "Grants from Emerson Collective received to support our work with The HopeSisters."
+      },
+      {
+        "title": "Distinction Award from Premier of Ontario Doug Ford",
+        "publication": "-",
+        "date": "2020-07-01T00:00:00.000Z",
+        "description": "I had the chance to meet Premier Doug Ford and received a certificate on behalf of Canada\u2019s Premier for my community work with The HopeSisters."
+      },
+      {
+        "title": "Princess Diana Award",
+        "publication": "Diana Award",
+        "date": "2020-06-01T00:00:00.000Z",
+        "description": "Received the Diana Award, for my work regarding The HopeSisters and AI for mental health."
+      }
+    ],
+    "similar_profiles": [],
+    "default_avatar": false,
+    "memorialized_account": false,
+    "bio_links": [
+      {
+        "title": "Personal Website",
+        "link": "https://www.alishaarora.net/"
+      }
+    ],
+    "first_name": "Alisha",
+    "last_name": "Arora",
+    "influencer": false,
+    "timestamp": "2026-08-12T18:55:38.845Z",
+    "input": {
+      "url": "https://www.linkedin.com/in/alishaarora56"
+    }
+  },
+  "local_photo": "data\\linkedin_photos\\alishaarora56__usr-SPuetekkcbQ6tUs.jpg"
+}

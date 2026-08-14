@@ -1,0 +1,235 @@
+{
+  "source": "crustdata",
+  "recovered_from": "brightdata_failed_private",
+  "luma_user_id": "usr-WxtlXdmutzVFmCW",
+  "csv_name": "Vedant Singh",
+  "csv_linkedin": "https://www.linkedin.com/in/vedant-rs",
+  "clean_linkedin": "https://www.linkedin.com/in/vedant-rs",
+  "enriched_at": "2026-08-14T18:07:59.937250+00:00",
+  "person_data": {
+    "basic_profile": {
+      "current_title": "Co-Founder & CTO",
+      "first_name": null,
+      "headline": "Co-Founder & CTO @ Morsa",
+      "languages": [],
+      "last_name": null,
+      "location": {
+        "city": "",
+        "continent": "North America",
+        "country": "United States",
+        "full_location": null,
+        "raw": "San Francisco Bay Area",
+        "state": "California"
+      },
+      "name": "Vedant S.",
+      "normalized_title": {
+        "confident": true,
+        "department": "Executive Leadership",
+        "matched_title": "Cofounder/CTO",
+        "similarity": 0.9972000122070312,
+        "sub_department": "Founder & Entrepreneurship Leadership"
+      },
+      "professional_network_name": "Vedant S.",
+      "profile_picture_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/person/bfe00d9761ea97b3b3fc93d69ae20caba17ab375e3935d274e405d8a9c4851c0.jpg",
+      "summary": "helping manufacturing facilities produce more @ Morsa. say hi: founders@morsa.ai"
+    },
+    "education": {
+      "schools": [
+        {
+          "activities_and_societies": "AIR 30 @ COMPUDON Olympiad\n#2 @ COFAS International",
+          "degree": "High School Diploma",
+          "description": "",
+          "end_year": 2025,
+          "field_of_study": "",
+          "institute_logo_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/company/a2d1aa8799f68d68e3bc442ee6d48fdafe14c55822ae16f90cd74ecd26e44ea3.jpg",
+          "institute_logo_url": "https://media.licdn.com/dms/image/v2/D4D0BAQExyz2Qt6B0Lg/company-logo_400_400/company-logo_400_400/0/1701667898678/citymontessorischool_logo?e=1787788800&v=beta&t=NKLP43UJLJTo3dq91-yM2_5hbGdbFdr08XgWS5Iqf5c",
+          "location": {
+            "city": "",
+            "continent": "Asia",
+            "country": "India",
+            "raw": "India",
+            "state": ""
+          },
+          "professional_network_id": "960208",
+          "school": "City Montessori School",
+          "start_year": 2021
+        },
+        {
+          "activities_and_societies": "",
+          "degree": "Bachelor of Science",
+          "description": "",
+          "end_year": 2029,
+          "field_of_study": "Computer Science",
+          "institute_logo_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/company/01a886408c4389bfdbdb16cceb0b8965438771ea15b23b677e5e48ceb6ce6e58.jpg",
+          "institute_logo_url": "https://media.licdn.com/dms/image/v2/D560BAQH2XPEu-_xgrg/company-logo_400_400/company-logo_400_400/0/1688401344849/san_jose_state_university_logo?e=1787788800&v=beta&t=p8ikM_JZf-Qhp4EKFcM1iC94GdPG9l4RNuLydqFDDYs",
+          "location": {
+            "city": "San Jose",
+            "continent": "North America",
+            "country": "United States",
+            "raw": "San Jose, California, United States",
+            "state": "California"
+          },
+          "professional_network_id": "157344",
+          "school": "San Jos\u00e9 State University",
+          "start_year": 2025
+        }
+      ]
+    },
+    "experience": {
+      "employment_details": {
+        "current": [
+          {
+            "company_description": "We're an applied AI lab engineering the next generation of human-machine coordination. We build agents that reason, act, and physically verify that real-world work actually got done. Our first product is Morsa, an autonomous chief of staff for manufacturing that coordinates people, vendors, and machines over the channels they already use.Our research focuses on making autonomous agents trustworthy enough to act with no human in the loop. Our interests span model alignment, reward hacking and specification gaming, faithful reasoning, hallucination and calibration, context engineering, and physically-grounded verification.",
+            "company_professional_network_profile_url": "https://linkedin.com/company/116884287",
+            "company_profile_picture_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/company/3ca90d40441ad59b59bc270264bbfc4d36f8a6f363883dc5597bfe2e75871ac4.jpg",
+            "company_website_domain": "trylunar.ai",
+            "crustdata_company_id": 32624545,
+            "description": "building the last piece of manufacturing \"software\".\n\nbacked by jsv",
+            "employment_type": "",
+            "end_date": null,
+            "function_category": "",
+            "is_default": true,
+            "location": {
+              "raw": ""
+            },
+            "name": "Morsa",
+            "position_id": 2916334116,
+            "professional_network_id": "116884287",
+            "seniority_level": "CXO",
+            "start_date": "2026-01-01T00:00:00+00:00",
+            "title": "Co-Founder & CTO",
+            "years_at_company": "Less than 1 year",
+            "years_at_company_raw": 0.0
+          },
+          {
+            "company_description": "Jackson Square Ventures invests in early stage software businesses that will be leaders in markets that matter in 10 years.",
+            "company_professional_network_profile_url": "https://linkedin.com/company/3484100",
+            "company_profile_picture_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/company/8dcb62187a2b7b841a9d067995f2b54a5b46ead4a86802ff9a0286cde5df42bc.jpg",
+            "company_website_domain": "jsv.com",
+            "crustdata_company_id": 992285,
+            "description": "",
+            "employment_type": "",
+            "end_date": null,
+            "function_category": "",
+            "is_default": false,
+            "location": {
+              "raw": ""
+            },
+            "name": "Jackson Square Ventures",
+            "position_id": 2932217620,
+            "professional_network_id": "3484100",
+            "seniority_level": "Owner / Partner",
+            "start_date": "2026-01-01T00:00:00+00:00",
+            "title": "Founder In Residence",
+            "years_at_company": "Less than 1 year",
+            "years_at_company_raw": 0.0
+          }
+        ],
+        "past": [
+          {
+            "company_description": "The International Space Apps Challenge is an international mass collaboration focused on space exploration that takes place over 48-hours in cities around the world. The event embraces collaborative problem solving with a goal of producing relevant open-source solutions to address global needs applicable to both life on Earth and life in space. This year we have over 25 challenges in four areas: Earth, Outer Space, Humans and Robotics. NASA is leading this global collaboration along with a number of government collaborators and over 100 local organizing teams across the globe.",
+            "company_professional_network_profile_url": "https://linkedin.com/company/9425220",
+            "company_profile_picture_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/company/ce0876b44e0708cadb72b74c29888fc12727524bab19b5a570832bb97158efa1.jpg",
+            "company_website_domain": "spaceappschallenge.org",
+            "crustdata_company_id": 6138791,
+            "description": "",
+            "employment_type": "",
+            "end_date": "2025-10-01T00:00:00+00:00",
+            "function_category": "",
+            "is_default": false,
+            "location": {
+              "raw": ""
+            },
+            "name": "NASA International Space Apps Challenge",
+            "position_id": 2750026544,
+            "professional_network_id": "9425220",
+            "seniority_level": "Senior",
+            "start_date": "2025-05-01T00:00:00+00:00",
+            "title": "Tech Lead",
+            "years_at_company": "Less than 1 year",
+            "years_at_company_raw": 0.0
+          },
+          {
+            "company_description": "There's a place in tech for everyone.We want all students to have the skills to use code as a means of creativity and making real, practical changes to their world.",
+            "company_professional_network_profile_url": "https://linkedin.com/company/512973",
+            "company_profile_picture_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/company/465e38872a4269d7ba595138707bcc2279f8b4249c40ce6afa99be5cb4116403.jpg",
+            "company_website_domain": "codeday.org",
+            "crustdata_company_id": 6132774,
+            "description": "",
+            "employment_type": "Full-time",
+            "end_date": "2025-07-01T00:00:00+00:00",
+            "function_category": "",
+            "is_default": false,
+            "location": {
+              "raw": "Lucknow, Uttar Pradesh, India"
+            },
+            "name": "CodeDay",
+            "position_id": 2750035380,
+            "professional_network_id": "512973",
+            "seniority_level": "Senior",
+            "start_date": "2025-04-01T00:00:00+00:00",
+            "title": "Tech Lead",
+            "years_at_company": "Less than 1 year",
+            "years_at_company_raw": 0.0
+          }
+        ]
+      }
+    },
+    "professional_network": {
+      "connections": 2014,
+      "current_title": "Co-Founder & CTO",
+      "followers": 2313,
+      "headline": "Co-Founder & CTO @ Morsa",
+      "location": {
+        "city": "",
+        "continent": "North America",
+        "country": "United States",
+        "raw": "San Francisco Bay Area",
+        "state": "California"
+      },
+      "metadata": {
+        "last_scraped_source": null
+      },
+      "name": "Vedant S.",
+      "profile_picture_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/person/bfe00d9761ea97b3b3fc93d69ae20caba17ab375e3935d274e405d8a9c4851c0.jpg",
+      "pronoun": "He/Him",
+      "summary": "helping manufacturing facilities produce more @ Morsa. say hi: founders@morsa.ai"
+    },
+    "skills": {
+      "professional_network_skills": [
+        "Engineering Leadership",
+        "Technical Project Leadership",
+        "Rust (Programming Language)",
+        "Python (Programming Language)",
+        "TypeScript",
+        "JavaScript",
+        "OpenGL Shading Language (GLSL)",
+        "Java",
+        "C++",
+        "C (Programming Language)",
+        "Three.js",
+        "Svelte",
+        "Next.js",
+        "React.js",
+        "react-three-fiber",
+        "Tailwind CSS",
+        "HTML",
+        "Cascading Style Sheets (CSS)",
+        "Actix",
+        "FastAPI"
+      ]
+    },
+    "social_handles": {
+      "dev_platform_identifier": {
+        "profile_url": null
+      },
+      "professional_network_identifier": {
+        "profile_url": "https://www.linkedin.com/in/vedant-rs"
+      },
+      "twitter_identifier": {
+        "slug": ""
+      }
+    },
+    "crustdata_person_id": 421647919
+  }
+}

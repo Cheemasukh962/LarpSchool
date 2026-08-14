@@ -1,0 +1,122 @@
+{
+  "luma_user_id": "usr-rm1aF9bw8fXZQgQ",
+  "csv_name": "Justin Young",
+  "csv_linkedin": "https://www.linkedin.com/in/justinthielyoung",
+  "enriched_at": "2026-08-12T19:11:36.240742+00:00",
+  "batch_id": "sd_msqgoa0o2hh62sia9d",
+  "profile": {
+    "id": "justinthielyoung",
+    "name": "Justin Young",
+    "city": "San Francisco, California, United States",
+    "country_code": "US",
+    "position": null,
+    "about": null,
+    "current_company": {
+      "link": "https://www.linkedin.com/company/sixtyfourai?trk=public_profile_topcard-current-company",
+      "name": "Sixtyfour",
+      "company_id": "sixtyfourai",
+      "location": null
+    },
+    "experience": null,
+    "url": "https://fr.linkedin.com/in/justinthielyoung",
+    "educations_details": "UC San Diego",
+    "education": [
+      {
+        "title": "UC San Diego",
+        "url": "https://www.linkedin.com/school/ucsandiego/",
+        "start_year": "2023",
+        "end_year": "2027",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      },
+      {
+        "start_year": "2010",
+        "end_year": "2023",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      },
+      {
+        "start_year": "2021",
+        "end_year": "2023",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      }
+    ],
+    "avatar": "https://media.licdn.com/dms/image/v2/D5603AQF0sHtLm2NFog/profile-displayphoto-scale_200_200/B56Z6nIu8UGgAc-/0/1780920545833?e=2147483647&v=beta&t=UdIWmPb-IsKuBm5Pq-RepKXPG12BZ8LA-GRp8_-1BIg",
+    "languages": [
+      {
+        "subtitle": "Native or bilingual proficiency",
+        "title": "English"
+      },
+      {
+        "subtitle": "Limited working proficiency",
+        "title": "Mandarin"
+      },
+      {
+        "subtitle": "Native or bilingual proficiency",
+        "title": "Tagalog"
+      }
+    ],
+    "volunteer_experience": [
+      {
+        "cause": "Education",
+        "duration": "2024 \u00b7 - \n2025 \u00b7 \n1 year",
+        "duration_short": "- \n2025",
+        "start_date": "2024",
+        "subtitle": "ASES Manila",
+        "title": "Partnerships Officer"
+      }
+    ],
+    "followers": 1408,
+    "connections": 500,
+    "current_company_company_id": "sixtyfourai",
+    "current_company_name": "Sixtyfour",
+    "location": "San Francisco",
+    "input_url": "https://www.linkedin.com/in/justinthielyoung",
+    "linkedin_id": "justinthielyoung",
+    "activity": null,
+    "linkedin_num_id": "943985414",
+    "banner_image": "https://static.licdn.com/aero-v1/sc/h/5q92mjc5c51bjlwaj3rs9aa82",
+    "honors_and_awards": [
+      {
+        "title": "Guest Panel Judge, Pitch Finals",
+        "publication": "Technology & Entrepreneurship Center at Harvard",
+        "date": "2024-07-01T00:00:00.000Z",
+        "description": null
+      },
+      {
+        "title": "Finalist",
+        "publication": "Young Tycoons Business Challenge",
+        "date": "2022-08-01T00:00:00.000Z",
+        "description": "Collaborated with two classmates to place in the top 30 out of ~12,000 global teams in an international competition. Developed a next-generation art and collectibles marketplace concept that merged physical pieces with digital twins via NFTs, enabling new revenue streams for artists and galleries through verified digital ownership and provenance. Led market research into NFT and fine art trading volumes to validate demand, uncover user pain points, and identify key growth levers."
+      },
+      {
+        "title": "XSEL Award",
+        "publication": "Xavier School",
+        "date": "2022-03-01T00:00:00.000Z",
+        "description": "Recognized for exceptional academic achievement in the 11th grade."
+      },
+      {
+        "title": "Provost Honors",
+        "publication": "UC San Diego",
+        "date": null,
+        "description": null
+      }
+    ],
+    "similar_profiles": [],
+    "default_avatar": false,
+    "memorialized_account": false,
+    "bio_links": [],
+    "first_name": "Justin",
+    "last_name": "Young",
+    "influencer": false,
+    "timestamp": "2026-08-12T19:07:30.765Z",
+    "input": {
+      "url": "https://www.linkedin.com/in/justinthielyoung"
+    }
+  },
+  "local_photo": "data\\linkedin_photos\\justinthielyoung__usr-rm1aF9bw8fXZQgQ.jpg"
+}

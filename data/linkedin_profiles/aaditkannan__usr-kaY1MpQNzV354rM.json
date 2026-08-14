@@ -1,0 +1,327 @@
+{
+  "luma_user_id": "usr-kaY1MpQNzV354rM",
+  "csv_name": "Aadit Kannan",
+  "csv_linkedin": "https://www.linkedin.com/in/aaditkannan",
+  "enriched_at": "2026-08-12T18:55:27.666647+00:00",
+  "batch_id": "sd_msqg7js7a7y0irwot",
+  "profile": {
+    "id": "aaditkannan",
+    "name": "Aadit Kannan",
+    "city": "San Francisco Bay Area",
+    "country_code": "US",
+    "position": null,
+    "about": "MechE/EECS at UC Berkeley, passionate about robotics, semiconductors, and\u2026",
+    "current_company": {
+      "link": "https://www.linkedin.com/school/uc-berkeley/?trk=public_profile_topcard-current-company",
+      "name": "University of California, Berkeley",
+      "location": null
+    },
+    "experience": null,
+    "url": "https://ca.linkedin.com/in/aaditkannan",
+    "educations_details": "UC Berkeley College of Engineering",
+    "education": [
+      {
+        "title": "UC Berkeley College of Engineering",
+        "url": "https://www.linkedin.com/school/berkeleyengineering/",
+        "end_year": "2028-05",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      },
+      {
+        "start_year": "2023-07",
+        "end_year": "2023-07",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      },
+      {
+        "start_year": "2022-06",
+        "end_year": "2022-07",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      },
+      {
+        "start_year": "2023-05",
+        "end_year": "2025-06",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      },
+      {
+        "start_year": "2024-06",
+        "end_year": "2025-06",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      }
+    ],
+    "recommendations_count": 2,
+    "avatar": "https://media.licdn.com/dms/image/v2/D5603AQERkwl2of3OsQ/profile-displayphoto-scale_200_200/B56ZrrvDJ0LoAY-/0/1764891571651?e=2147483647&v=beta&t=0dSZ0tqkOrQFasyFB9hsuAHBON5EHgoRVBWQiSjaEaY",
+    "courses": [
+      {
+        "subtitle": "CHEM1A",
+        "title": "Chem 1A"
+      },
+      {
+        "subtitle": "ENGIN7",
+        "title": "Introduction to Computer Programming and Numerical Methods (Python/MATLAB)"
+      },
+      {
+        "subtitle": "-",
+        "title": "Linear Algebra"
+      },
+      {
+        "subtitle": "ENGIN 29",
+        "title": "Manufacturing Design and Communication"
+      },
+      {
+        "subtitle": "Math 53",
+        "title": "Multivariable Calculus"
+      },
+      {
+        "subtitle": "Physics 7B",
+        "title": "Physics Electricity and Magnetism"
+      },
+      {
+        "subtitle": "PHYSICS7A",
+        "title": "Physics Mechanics"
+      }
+    ],
+    "languages": [
+      {
+        "subtitle": "Native or bilingual proficiency",
+        "title": "English"
+      }
+    ],
+    "recommendations": [
+      "Pranit Minocha \u201cAadit is highly skilled, mature, and reliable. You can trust him to understand and complete his projects with ease. He was a great intern at Nymble and he's a very intelligent young professional who has a lot of potential and a great future ahead of him.\u201d",
+      "Raghav Gupta \u201cI supervised Aadit during his internship at Nymble, where he served as a technical support intern. Aadit's proficiency in diagnosing and resolving technical issues, both in software and hardware, greatly contributed to the smooth operation of our cooking robots. His proactive approach and passion for his work make him a valuable asset to any team. I highly recommend Aadit for his outstanding technical skills and ability to collaborate effectively with others.\u201d"
+    ],
+    "volunteer_experience": [
+      {
+        "cause": "Education",
+        "duration": "Aug 2021 \u00b7 - \nMay 2025 \u00b7 \n3 years 10 months",
+        "duration_short": "- \nMay 2025",
+        "info": "Lab assistant helping middle school students operate CO2 laser cutters, 3D printers, CNCs, and vinyl cutters.",
+        "start_date": "Aug 2021",
+        "subtitle": "49ers STEM Leadership Institute",
+        "title": "Mentor and Lab Assistsnt"
+      },
+      {
+        "cause": "Social Services",
+        "duration": "Aug 2021 \u00b7 - \nOct 2023 \u00b7 \n2 years 3 months",
+        "duration_short": "- \nOct 2023",
+        "info": "Volunteered as a dinner server for underserved families at Family Supportive Housing in San Jose.",
+        "start_date": "Aug 2021",
+        "subtitle": "Family Supportive Housing",
+        "title": "Dinner Server"
+      },
+      {
+        "cause": "Education",
+        "duration": "May 2019 \u00b7 - \nJul 2022 \u00b7 \n3 years 3 months",
+        "duration_short": "- \nJul 2022",
+        "info": "Tutored K-8 students in entry-level Python programming and Scratch at a local afterschool program.",
+        "start_date": "May 2019",
+        "subtitle": "TULIP KIDS, INC.",
+        "title": "Tutor"
+      },
+      {
+        "cause": "Social Services",
+        "duration": "Aug 2023 \u00b7 - \nJul 2025 \u00b7 \n2 years",
+        "duration_short": "- \nJul 2025",
+        "info": "Volunteered in the cafeteria to serve lunch.",
+        "start_date": "Aug 2023",
+        "subtitle": "California Scholarship Federation",
+        "title": "Lunch Server"
+      },
+      {
+        "cause": "Science and Technology",
+        "duration": "Dec 2023 \u00b7 - \n2024 \u00b7 \n1 year",
+        "duration_short": "- \n2024",
+        "info": "Provided technical support to multiple teams and contributed to the smooth operation of the robotics competition at FIRST Tech Challenge.",
+        "start_date": "Dec 2023",
+        "subtitle": "FIRST",
+        "title": "Field Technical Advisor"
+      }
+    ],
+    "followers": 1189,
+    "connections": 500,
+    "current_company_name": "University of California, Berkeley",
+    "projects": [
+      {
+        "title": "Project Portfolio",
+        "description": "Full project portfolio and technical details available on my personal website."
+      }
+    ],
+    "location": null,
+    "input_url": "https://www.linkedin.com/in/aaditkannan",
+    "linkedin_id": "aaditkannan",
+    "activity": [
+      {
+        "interaction": "Liked by Aadit Kannan",
+        "link": "https://www.linkedin.com/posts/jane-street-global_can-you-reverse-engineer-an-asic-we-designed-activity-7491140256742805504-X3AW",
+        "title": "Can you reverse engineer an ASIC? We designed a chip, but we're only giving you the layout \u2014 every metal, routing, and transistor layer, with nothing\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQHx5hCGdFGezQ/feedshare-shrink_800/B4EZ_XgXbhIQAc-/0/1786027014900?e=2147483647&v=beta&t=yAtt22G1-c3fumTOy13yAV2wO-TCtmrir7TGRNtKKF0",
+        "id": "7491140256742805504"
+      },
+      {
+        "interaction": "Liked by Aadit Kannan",
+        "link": "https://www.linkedin.com/posts/samuel-matez-1b0b10249_very-excited-for-the-opportunity-to-work-activity-7482829222080634880-vj-H",
+        "title": "Very excited for the opportunity to work on this partnership with Orbit Fab!",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQHXpi55VWcPew/feedshare-shrink_800/B56Z9hXS0wG8Ac-/0/1784044924454?e=2147483647&v=beta&t=H2iJgFLxdPK9pwyvX7GtJPIu9agVLQhul9-WSUS4Lak",
+        "id": "7482829222080634880"
+      },
+      {
+        "interaction": "Liked by Aadit Kannan",
+        "link": "https://www.linkedin.com/posts/fabtwo_new-name-same-mission-atomic-semi-is-now-activity-7479931497060126720-EKRu",
+        "title": "New name, same mission. Atomic Semi is now Fab2. Fab2 prints chips and fabs.",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQF0K74uhnlCVA/feedshare-shrink_800/B56Z84OD_NHIAc-/0/1783354638589?e=2147483647&v=beta&t=0wdDmP1xm3mgoSvonD7Q7OFpRhSbvHsVcshszTyIvjI",
+        "id": "7479931497060126720"
+      },
+      {
+        "interaction": "Liked by Aadit Kannan",
+        "link": "https://www.linkedin.com/posts/neuralink_our-first-transdural-procedure-activity-7477797930259849216-ekyZ",
+        "title": "The dura is the brain's armor: a membrane so tough that a surgeon normally cuts through it with a scalpel. For the first time in our clinical trials,\u2026",
+        "img": "https://dms.licdn.com/playlist/vid/v2/D4E05AQEkOEBv4bRzYQ/thumbnail-shrink_720_1280/B4EZ8Z5WzmIAAk-/0/1782845903178?e=2147483647&v=beta&t=euHoK2UGQoMmFWktJQ5ARWBKUs_7uMh6cXl3jMrVPGg",
+        "id": "7477797930259849216"
+      },
+      {
+        "interaction": "Liked by Aadit Kannan",
+        "link": "https://www.linkedin.com/posts/anthropicresearch_introducing-claude-corps-activity-7470822950859001857-F2d9",
+        "title": "We\u2019re launching Claude Corps, a fellowship program for people early in their careers who are passionate about extending the benefits of AI to\u2026",
+        "img": "https://media.licdn.com/dms/image/sync/v2/D4E27AQE1eI_PPhdmmA/articleshare-shrink_800/B4EZ62xeDQIwAY-/0/1781182882561?e=2147483647&v=beta&t=_jVz2xz3tBX-gjmx_YAyNiwEJ6oIueInWqmknT-ZY2s",
+        "id": "7470822950859001857"
+      },
+      {
+        "interaction": "Liked by Aadit Kannan",
+        "link": "https://www.linkedin.com/posts/anishmampetta_job-post-agility-activity-7458277449727102976-oQKm",
+        "title": "We\u2019re expanding our Mechanical Engineering team and hiring for multiple entry-level roles, including actuators, mechanisms, packaging and analysis\u2026",
+        "img": "https://static.licdn.com/aero-v1/sc/h/53n89ecoxpr1qrki1do3alazb",
+        "id": "7458277449727102976"
+      },
+      {
+        "interaction": "Liked by Aadit Kannan",
+        "link": "https://www.linkedin.com/posts/forbes-magazine_apptronik-the-austin-based-humanoid-robot-activity-7454967792669302784-gIBu",
+        "title": "Apptronik, the Austin-based humanoid robot company that closed a $935 million Series A at a roughly $5.3 billion valuation in February, just stacked\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5610AQG_p6lvQyzHRw/image-shrink_1280/B56Z3Vdm9VIsAc-/0/1777402802288?e=2147483647&v=beta&t=GX-RthvCGx6IeoWzrdcSg7m-I40OlMTsOr90EJV5tac",
+        "id": "7454967792669302784"
+      },
+      {
+        "interaction": "Liked by Aadit Kannan",
+        "link": "https://www.linkedin.com/posts/formulaelectricberkeley_thankyou-formulaelectric-berkeley-activity-7444890650552225792-uyzP",
+        "title": "We\u2019re proud to partner with Isutami International Group to support the development of our Formula Electric vehicle at UC Berkeley. Isutami\u2019s\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQGL5sihOqUO8Q/feedshare-shrink_1280/B56Z1GQl21KYAM-/0/1775000248025?e=2147483647&v=beta&t=OpBZEAjMJ1B2YcyxTcGCwzhmnWD2Gpx6QbH1RBNXEfk",
+        "id": "7444890650552225792"
+      },
+      {
+        "interaction": "Liked by Aadit Kannan",
+        "link": "https://www.linkedin.com/posts/astrodanish_i-never-dreamed-id-be-able-to-work-on-something-activity-7447429595814993920-PC1N",
+        "title": "I never dreamed I'd be able to work on something this cool. I thought I'd need decades of biotech experience or specialized knowledge of the\u2026",
+        "img": "https://static.licdn.com/aero-v1/sc/h/53n89ecoxpr1qrki1do3alazb",
+        "id": "7447429595814993920"
+      },
+      {
+        "interaction": "Liked by Aadit Kannan",
+        "link": "https://www.linkedin.com/posts/ashar-siddiqui-350bb9208_wearelm-activity-7444461782276038656-scqA",
+        "title": "I am excited to share that I will be joining Lockheed Martin as a Software Engineer Intern this summer in Orlando, Florida! A huge thank you to the\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQHwEVe514mLjQ/feedshare-shrink_800/B4EZ1AKirpGkAc-/0/1774897998860?e=2147483647&v=beta&t=lZpG6fWg493scH98p2RGg978iCvWF2DqLHqv20R1rHY",
+        "id": "7444461782276038656"
+      },
+      {
+        "interaction": "Liked by Aadit Kannan",
+        "link": "https://www.linkedin.com/posts/palantir-technologies_weve-launched-a-1-year-internship-program-activity-7439410164954423296-leMI",
+        "title": "We\u2019ve launched a 1-year internship program. For college students looking to make your mark on the real world right now, we recommend you apply\u2026",
+        "img": "https://static.licdn.com/aero-v1/sc/h/53n89ecoxpr1qrki1do3alazb",
+        "id": "1"
+      },
+      {
+        "interaction": "Liked by Aadit Kannan",
+        "link": "https://www.linkedin.com/posts/demishassabis_ten-years-ago-alphagos-legendary-match-activity-7437888861348802561-PLBn",
+        "title": "Ten years ago, AlphaGo\u2019s legendary match in Seoul heralded the start of what is now recognised as the modern era in AI. In 2016, with over 200\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4E05AQE4qhXpNaZTtg/videocover-high/B4EZzisQjLKQBY-/0/1773329785029?e=2147483647&v=beta&t=porhf55M6fQxMpTBVoyCVt9FxAbvy9mENh0Qu2HxNEE",
+        "id": "7437888861348802561"
+      },
+      {
+        "interaction": "Liked by Aadit Kannan",
+        "link": "https://www.linkedin.com/posts/sohrab-rahimi_training-lrms-is-super-hard-for-for-different-activity-7423779592601141248-YpcK",
+        "title": "Training LRMs is super hard for for different reasons but mostly because it usually requires massive labeled datasets. Most organizations do not have\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQGon9mSO0ZpVA/feedshare-shrink_800/B4EZwaQMxGIIAg-/0/1769966980714?e=2147483647&v=beta&t=bDexkjpu-PYk5h6hesT1PFBO2SKc7AB8L4IDBjHUraQ",
+        "id": "7423779592601141248"
+      },
+      {
+        "interaction": "Liked by Aadit Kannan",
+        "link": "https://www.linkedin.com/posts/ellacho_i-am-excited-to-announce-that-i-will-be-joining-activity-7420215665535664128-ejhE",
+        "title": "I am excited to announce that I will be joining Apple as a Battery Manufacturing Design Intern this spring and summer! A huge thank you to my\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQEK_SomxMS3fQ/feedshare-shrink_800/B56Zvnm1L0IsAg-/0/1769117275035?e=2147483647&v=beta&t=qB0rVqAvvxp3IOBa29tMgPjlaSZlii-0HsprUQe82kU",
+        "id": "7420215665535664128"
+      },
+      {
+        "interaction": "Liked by Aadit Kannan",
+        "link": "https://www.linkedin.com/posts/dhruv-kanetkar_y-combinator-is-giving-away-25000-in-activity-7419858733549297664-uGxt",
+        "title": "\ud83d\udea8Y Combinator is giving away $25,000+ in FREE AI and Cloud Credits \ud83d\udea8 YC just rolled out a substantial AI starter pack for students, which\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQE5sB-AJotUpQ/feedshare-shrink_800/B56ZviiMxLJUAg-/0/1769032174887?e=2147483647&v=beta&t=IL0p5D-fAdc8IkGYfPyIdXBDugQE4IEOar9acp0tTo0",
+        "id": "25000"
+      },
+      {
+        "interaction": "Liked by Aadit Kannan",
+        "link": "https://www.linkedin.com/posts/jet-propulsion-laboratory_sentinel-6b-just-sent-back-its-first-look-activity-7406831057808941057-gIyA",
+        "title": "Sentinel-6B just sent back its first look at sea levels. The visualization shows sea level data across a vast stretch of the Eastern Seaboard and\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQFqJlly210jkg/feedshare-shrink_800/B56ZspZmUYJwAg-/0/1765926135514?e=2147483647&v=beta&t=u0VNVsc3cxTBvB6iLRe-Kua788vrj9azeUogZOkK8rw",
+        "id": "7406831057808941057"
+      }
+    ],
+    "linkedin_num_id": "964466895",
+    "banner_image": "https://media.licdn.com/dms/image/v2/D5616AQHH0ABnYhXgCg/profile-displaybackgroundimage-shrink_200_800/B56ZXvZhuDGsAc-/0/1743478202561?e=2147483647&v=beta&t=XzkwnUyuZ-nbnXo4HFnwL0RCVWrEP_vO6zg-HrgA5VU",
+    "honors_and_awards": [
+      {
+        "title": "$5000 GCP - YCombinator x Google Deepmind Hackathon Winner",
+        "publication": "Google Deepmind",
+        "date": "2026-03-01T00:00:00.000Z",
+        "description": "Built Leitmotif (check https://www.aaditkannan.com/projects for more), and won $5k in google cloud API credits."
+      },
+      {
+        "title": "Robot Design Award (x3)",
+        "publication": "FIRST",
+        "date": "2025-02-01T00:00:00.000Z",
+        "description": "Won the robot design award for unique counterbalance design on robot, along with a creative utilization of a telescoping FRC arm, in addition to an overall well designed chassis."
+      },
+      {
+        "title": "Presidential Volunteer Service Award (GOLD)",
+        "publication": "Hack+",
+        "date": "2024-08-01T00:00:00.000Z",
+        "description": "Earned many times I just dislike paperwork. Have volunteered 1000+ hours."
+      },
+      {
+        "title": "Inspire Award",
+        "publication": "FIRST",
+        "date": "2022-11-01T00:00:00.000Z",
+        "description": "Won the inspire award for excellent outreach, and moved on to regional competition."
+      },
+      {
+        "title": "American Society of Civil Engineers, 1st Prize - $150 and Certificate of Achievement",
+        "publication": "American Society of Civil Engineers",
+        "date": "2021-07-01T00:00:00.000Z",
+        "description": "Prototype \u00d8 Flood (2021) Designed a Low-Cost Flood Detection System for Third World Countries that received a Certificate of Achievement from the American Society of Civil Engineers."
+      }
+    ],
+    "similar_profiles": [],
+    "default_avatar": false,
+    "memorialized_account": false,
+    "bio_links": [
+      {
+        "title": "Personal Website",
+        "link": "https://www.aaditkannan.com/"
+      }
+    ],
+    "first_name": "Aadit",
+    "last_name": "Kannan",
+    "influencer": false,
+    "timestamp": "2026-08-12T18:54:44.240Z",
+    "input": {
+      "url": "https://www.linkedin.com/in/aaditkannan"
+    }
+  },
+  "local_photo": "data\\linkedin_photos\\aaditkannan__usr-kaY1MpQNzV354rM.jpg"
+}

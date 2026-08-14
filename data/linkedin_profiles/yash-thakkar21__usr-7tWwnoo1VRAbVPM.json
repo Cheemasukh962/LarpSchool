@@ -1,0 +1,321 @@
+{
+  "luma_user_id": "usr-7tWwnoo1VRAbVPM",
+  "csv_name": "Yash Thakkar",
+  "csv_linkedin": "https://www.linkedin.com/in/yash-thakkar21",
+  "enriched_at": "2026-08-12T19:25:08.254044+00:00",
+  "batch_id": "sd_msqh7u7r1xzwli6vdk",
+  "profile": {
+    "id": "yash-thakkar21",
+    "name": "Yash Thakkar",
+    "city": "San Francisco Bay Area",
+    "country_code": "US",
+    "position": null,
+    "about": "Hi! I'm a rising senior at Princeton studying Computer Science with minors in Robotics\u2026",
+    "current_company": {
+      "link": "https://www.linkedin.com/company/google?trk=public_profile_topcard-current-company",
+      "name": "Google",
+      "company_id": "google",
+      "location": null
+    },
+    "experience": null,
+    "url": "https://se.linkedin.com/in/Yash-thakkar21",
+    "people_also_viewed": [
+      {
+        "profile_link": "https://www.linkedin.com/in/patrycja-klimaszewska-kiiskila-85007729",
+        "name": "Patrycja (Klimaszewska) Kiiskila",
+        "about": "Anthropic",
+        "location": "12K followers Palo Alto, CA"
+      },
+      {
+        "profile_link": "https://www.linkedin.com/in/arq-erick-blanco-98026429",
+        "name": "Arq. Erick Blanco",
+        "about": "CABLA WELDING AND MANUFACTURING",
+        "location": "29K followers Douglas, AZ"
+      },
+      {
+        "profile_link": "https://www.linkedin.com/in/elbert-lechtman-steinberg-724a5828",
+        "name": "Elbert Lechtman Steinberg",
+        "about": "Reshis Chochmah",
+        "location": "34K followers Miami-Fort Lauderdale Area"
+      },
+      {
+        "profile_link": "https://www.linkedin.com/in/kristopher-davis-b9553229",
+        "name": "Kristopher Davis",
+        "about": "Absolute Home Mortgage Corp.",
+        "location": "23K followers Toms River, NJ"
+      },
+      {
+        "profile_link": "https://www.linkedin.com/in/richgarboski",
+        "name": "Rich Garboski",
+        "about": "eTech.TV",
+        "location": "30K followers New York, NY"
+      },
+      {
+        "profile_link": "https://www.linkedin.com/in/jason-clark-21938a29",
+        "name": "Jason Clark",
+        "about": "MX",
+        "location": "31K followers Lehi, UT"
+      },
+      {
+        "profile_link": "https://www.linkedin.com/in/michaelhyatt",
+        "name": "Michael Hyatt",
+        "about": "Full Focus",
+        "location": "42K followers Franklin, TN"
+      },
+      {
+        "profile_link": "https://www.linkedin.com/in/robertjack",
+        "name": "Robbie Jack",
+        "about": "GrowthMarketer",
+        "location": "30K followers Boulder, CO"
+      },
+      {
+        "profile_link": "https://www.linkedin.com/in/bernie-o-sullivan-pe-64610729",
+        "name": "Bernie O'Sullivan, PE",
+        "about": "Utility Pole Solutions Inc.",
+        "location": "28K followers Las Vegas, NV"
+      },
+      {
+        "profile_link": "https://www.linkedin.com/in/aggarwalradhika",
+        "name": "Radhika Aggarwal",
+        "about": "Collective Health",
+        "location": "27K followers San Francisco, CA"
+      }
+    ],
+    "educations_details": "Princeton University",
+    "education": [
+      {
+        "title": "Princeton University",
+        "url": "https://www.linkedin.com/school/princeton-university/",
+        "start_year": "2022-09",
+        "end_year": "2027-05",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      },
+      {
+        "start_year": "2018-08",
+        "end_year": "2022-06",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      }
+    ],
+    "recommendations_count": 4,
+    "avatar": "https://media.licdn.com/dms/image/v2/D4E03AQF7fnI9P3S9Gw/profile-displayphoto-scale_200_200/B4EZ32rsZdIgAY-/0/1777960147146?e=2147483647&v=beta&t=ub2BqbPVLfuYOYSKcUWCxuGf4ikMEDRH3V83Nx9DDGk",
+    "courses": [
+      {
+        "subtitle": "EGR 151",
+        "title": "Foundations of Engineering: Mechanics, Energy, and Waves"
+      },
+      {
+        "subtitle": "EGR 152",
+        "title": "Foundations of Engineering: The Mathematics of Shape and Motion"
+      },
+      {
+        "subtitle": "MOL 214",
+        "title": "Introduction to Cellular and Molecular Biology"
+      },
+      {
+        "subtitle": "ECE 115",
+        "title": "Introduction to Computing: Programming Autonomous Vehicles"
+      },
+      {
+        "subtitle": "HUM 254",
+        "title": "Ways of Knowing (FSI Online)"
+      }
+    ],
+    "languages": [
+      {
+        "subtitle": "Native or bilingual proficiency",
+        "title": "Gujarati"
+      },
+      {
+        "subtitle": "Native or bilingual proficiency",
+        "title": "Hindi"
+      },
+      {
+        "subtitle": "Native or bilingual proficiency",
+        "title": "English"
+      }
+    ],
+    "recommendations": [
+      "Ping Hu \u201cI had the pleasure of managing Yash during his internship at LinkedIn, where he worked on prototyping an off-platform recruiter agent, a highly ambitious project aimed at expanding LinkedIn\u2019s reach for small-business hiring. Yash quickly ramped up, delivering core features such as job posting, applicant retrieval, and candidate recommendations, and went beyond expectations by integrating the prototype with emerging AI tools to create a seamless, chat-driven hiring workflow. What stood out was Yash\u2019s ability to combine technical strength with initiative and creativity, turning an abstract idea into a working prototype with real potential impact. He also contributed to a production-facing project, quickly learning new systems and delivering results under tight timelines. Beyond his technical contributions, Yash brought energy, curiosity, and collaboration that elevated the team. I\u2019m confident Yash has an exciting career ahead. He has the skills, mindset, and drive to make a meaningful impact wherever he goes. \u201d",
+      "Yusi Z. \u201cI had the pleasure of mentoring Yash during his internship summer 2025, and I\u2019m truly impressed by his impact in such a short time. Yash took on a technically demanding project that required mastering an unfamiliar problem space, and he ramped up far faster than anyone expected. Although his work centered on innovation and exploration, it remained grounded in complex systems\u2014spanning areas like MCP, Generative AI, agentic application development, Couchbase, Kafka, and gRPC. Even with the natural hurdles of onboarding and system integration, he consistently delivered ahead of schedule and at a high level of quality. Because of his strong execution, Yash was also trusted with additional projects that touched production foundations\u2014work that had direct value to the team. He approached these with the same focus and curiosity, showing both technical depth and adaptability. Beyond the code, Yash brought energy and positivity to the team. Whether contributing insights in our AI knowledge-sharing Slack channel, joining hackathons, or just sparking great conversations over lunch break, he added to the culture as much as to the technology. Overall, Yash has been an outstanding intern, combining fast learning with strong technical execution. I\u2019m glad I had the opportunity to mentor him and I\u2019m confident he will continue to thrive in whatever he takes on next.\u201d"
+    ],
+    "followers": 4208,
+    "connections": 500,
+    "current_company_company_id": "google",
+    "current_company_name": "Google",
+    "location": null,
+    "input_url": "https://www.linkedin.com/in/yash-thakkar21",
+    "linkedin_id": "yash-thakkar21",
+    "activity": [
+      {
+        "interaction": null,
+        "link": "https://www.linkedin.com/posts/princeton-university_princeton-tigers-shine-bright-at-2026-reunions-activity-7463922708729335808-4l5b",
+        "title": "Princeton Tigers shine bright at 2026 Reunions: https://bit.ly/4dZtB8V",
+        "img": "https://media.licdn.com/dms/image/v2/D4E10AQGoryrEVubE9w/image-shrink_800/B4EZ5UuI1vHQAg-/0/1779537841922?e=2147483647&v=beta&t=MFfcze7bZffuLr-vevdYOJwiNz1VPZtbaBawvkOYCxo",
+        "id": "2026"
+      },
+      {
+        "interaction": "Yash Thakkar shared this",
+        "link": "https://www.linkedin.com/posts/yash-thakkar21_linkedinterns-linkedinlife-activity-7362256035614523393-TGKn",
+        "title": "I\u2019ve had an amazing time this summer working as a Software Engineer Intern at LinkedIn . I got to work on a fun project building an AI recruiting agent using Model Context Protocol (MCP). I picked up not just technical skills but also how to think about product impact and design. But more importantly, I got to meet and work with some incredible people. Big shoutout to my goated mentor, Yusi Z. , and my manager, Ping Hu \u2014 your support and guidance made this internship impactful and memorable. You both created an environment where I could learn & build quickly, while always keeping the bigger picture in mind. To my teammates \u2014 Justin , Hyunsoo, Michael , Yi , Nandakishore , Shuaiyi , Wenxuan , Anastasiya , Neha , Ruochao , Weiping, and others \u2014 thank you for welcoming me. I enjoyed our lunch yaps and had a great time working alongside you all. It was also a blast meeting all the other interns this summer. The program itself was incredible \u2014 from the events to the community, everything made the experience even more fun and memorable. #LinkedInterns #LinkedInLife",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQGlWCmWUYXmvg/feedshare-shrink_800/B4EZiv810PGUAg-/0/1755298621658?e=2147483647&v=beta&t=3HXeJNc2n_FQpT0gVe99T7bhGzHG7qwmGTgElBnCDZk",
+        "id": "7362256035614523393"
+      },
+      {
+        "interaction": null,
+        "link": "https://www.linkedin.com/posts/hriday-unadkat_ycs-ai-startup-school-in-sf-was-pretty-cool-activity-7341307700061904896-JOZB",
+        "title": "YC's AI Startup School in SF was pretty cool, and it was awesome to experience it with my friends Eshaan Govil , Samiksha Gaherwar , Yash Thakkar , and Shivam Kak (and catch up with a few other friends in the SF area, though I need to come back to see a few more!!). I got to hear from speakers like Garry Tan (President & CEO of Y Combinator ); Sam Altman (CEO of OpenAI ); Daniel Lurie \u4e39\u5c3c\u723e\u00b7\u7f85\u5049 (Mayor of San Francisco), Jared Kaplan (CSO & Co-Founder of Anthropic ); John Jumper (Distinguished Scientist of Google DeepMind ); Aravind Srinivas (Co-Founder & CEO of Perplexity AI); Dr. Fei-Fei Li (AI Researcher & Professor of Stanford University & Co-Founder/CEO of World Labs ); Elon Musk (CEO of SpaceX & Tesla ); Satya Nadella (Chairman & CEO of Microsoft ); Andrej Karpathy (Former Director of AI of Tesla); Andrew Ng (Founder of DeepLearning.AI ); Chelsea Finn (Co-Founder of Physical Intelligence & Assistant Professor of Stanford), and Sriram Krishnan (Senior Policy Advisor for AI, The White House ). But more importantly, I got to network with other students, building the future. Whether it be working on drone competitions, building the Canadarm over at MDA space, working on autonomous vehicles, or something completely else, the students I met at the event definitely inspired me to jump right into what makes me passionate: solving problems. And lastly, I started to realize just how crazy the collegiate network is. I was excited to meet many fellow tigers at the event, alumni of Princeton University ! Some notable quips: 1. Sam Altman: \"This is the best time ever to start a company.\" (He might've used an expletive here) 2. Aravind Srinivas: \"We made it mandatory to use at least one AI coding tool at work.\" 3. Elon Musk: \"If the fourth rocket didn\u2019t work, we would have been cooked.\" 4. Satya Nadella: \u201cVibe coding is fantastic.\u201d 5. Andrej Karpathy: \"A computer is telling me what to do? Why don\u2019t you do it? What the hell?\" 6. Chelsea Finn: \"And look at that, our robot can even light a candle on a cake.\" If you attended the conference, I'd love to connect!",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQFksS-dydRVCw/feedshare-image-high-res/B56ZeGQbP5HoA0-/0/1750304147059?e=2147483647&v=beta&t=Uws0qAa11wnV5MEWtFociMn8C7irOicrhLRi_CsfwV0",
+        "id": "7341307700061904896"
+      },
+      {
+        "interaction": "Yash Thakkar shared this",
+        "link": "https://www.linkedin.com/posts/yash-thakkar21_linkedinterns-linkedinlife-activity-7332911728915005440-3db8",
+        "title": "Excited to share that I'm joining LinkedIn as a Software Engineering Intern this summer! I start tomorrow, and couldn't be more thrilled to learn, grow, and build alongside some amazing people. I want to thank my recruiter Charlie Doria and interviewers Benny Chen and Shad Kirmani for the support and great conversations throughout the process! #LinkedInterns #LinkedInLife",
+        "img": "https://dms.licdn.com/playlist/vid/v2/D4E05AQG3ewZd0T3-eg/feedshare-video-thumbnail-high/B4EZcO8WSeHYCU-/0/1748302393790?e=2147483647&v=beta&t=h57fzOdkDwXXTLX8rY66XGMfvPfI0iGl498hcLCWlIQ",
+        "id": "7332911728915005440"
+      },
+      {
+        "interaction": "Yash Thakkar shared this",
+        "link": "https://www.linkedin.com/posts/yash-thakkar21_this-week-i-wrapped-up-my-10-week-journey-activity-7228476981770661888-1VOn",
+        "title": "This week, I wrapped up my 10-week journey at Fidelity Investments ! During my time here, I build a proof of concept focused on analyzing cloud architecture portability. A huge thank you to my manager, Tony Vinson, CCSP , for his invaluable guidance, support, and mentorship throughout this journey. I\u2019m also grateful to my team for their constant support\u2014from answering my questions to providing insights into cloud architecture and security. I also want to give a shoutout to my friends Rahul Rajesh , Akash Puzhakkal , Durval Maia , David M. , Steven Li , and Triem Le, who made this summer special. Excited to see where the next opportunity takes me!",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQH4nt1F9Kj0tg/feedshare-image-high-res/feedshare-image-high-res/0/1723403208596?e=2147483647&v=beta&t=7lCiXElC6ZKlCAsNoTrnk0MJ5slYT5nlVX3KWjW6n4s",
+        "id": "10"
+      },
+      {
+        "interaction": null,
+        "link": "https://www.linkedin.com/posts/princeton-university_born-on-this-day-in-1912-alan-turing-38-activity-7210644776184938496-OBnG",
+        "title": "Born on this day in 1912, Alan Turing *38 is widely recognized for his achievements in the realm of computer sciences and his legacy in LGBTQ communities. He entered Princeton in 1936 following studies at King\u2019s College, Cambridge, and just before the publication of his influential paper, \u201cOn Computable Numbers,\u201d in which he envisioned abstract machines (now called Turing machines) that became the basis of modern computers. After earning his Ph.D. in mathematics from Princeton in 1938, Turing returned to England, where during WWII he was central to the successful effort to decode the German Enigma ciphers, a crucial development in the Allied victory. Turing, an openly gay man when homosexual acts were still criminal acts in the United Kingdom, was convicted of \u201cgross indecency.\" In order to avoid prison, he had to agree to undergo a series of estrogen injections. He died two years later. In 2019, a portrait of Turing by artist Jordan Sokol of Jersey City, NJ was unveiled at Princeton, serving \u201cas a visible expression of Princeton as the welcoming community we are today, even as we continue to strive to become ever more inclusive and diverse in the years ahead.\" The portrait is located in the Lewis Library atrium. \u201cFor those of us in the LGBTQ community, Turing is an enduring icon, and the growing appreciation of his life and his great contributions to the world are a cause for hope and celebration,\" provost Jennifer Rexford .",
+        "img": "https://media.licdn.com/dms/image/v2/D4E10AQEsNKEFbtjbzQ/image-shrink_800/image-shrink_800/0/1719151681753?e=2147483647&v=beta&t=tnT8vVIrDtVik19GO1a6YUbv9XNMVyMpp34szeN2SS4",
+        "id": "1912"
+      },
+      {
+        "interaction": "Yash Thakkar shared this",
+        "link": "https://www.linkedin.com/posts/yash-thakkar21_astrocade-raises-12m-for-ai-based-social-activity-7207154519191748609-9pwO",
+        "title": "Huge congrats to Astrocade on announcing their $12M seed round. It's inspiring to see such an all-star team, backed by top-tier investors, set to revolutionize the gaming world. Excited for what's next!",
+        "img": "https://media.licdn.com/dms/image/sync/v2/D4D27AQEwaAGzDGPwZA/articleshare-shrink_1280_800/articleshare-shrink_1280_800/0/1718114524981?e=2147483647&v=beta&t=R6uvgIRCO6KIVj56BrcWle5WRgR3tupQAJ1Whzp7kVc",
+        "id": "7207154519191748609"
+      },
+      {
+        "interaction": null,
+        "link": "https://www.linkedin.com/posts/luarmour_princeton-startups-ai-activity-7177669234804551682-jDve",
+        "title": "Princeton friends, I\u2019m excited to be back on campus this week to interview Daniel P. Ahn , Founder and CEO of Delfi.co , a Chaac Ventures portfolio company on the forefront of AI risk management for asset managers, banks and financial firms. Join us on Thursday 3/28 5pm at Friend Center to hear about Daniel\u2019s startup journey, his tips for aspiring founders, and what it took to get Delfi off the ground and into the market. Look forward to seeing you there! #princeton #startups #ai #entrepreneurship #innovation #technology #fundraising #venturecapital Princeton University Princeton Engineering Princeton Entrepreneurship Club Prospect Student Ventures Keller Center \ud83d\udc05\ud83d\udc05\ud83d\udc05",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQHJE2uy_5O72g/feedshare-image-high-res/feedshare-image-high-res/0/1711246915486?e=2147483647&v=beta&t=ABq-ClzxTXYBiNBZT79Gky9fPO5ceA6lUjHH_gyUy90",
+        "id": "7177669234804551682"
+      },
+      {
+        "interaction": null,
+        "link": "https://www.linkedin.com/posts/yash-thakkar21_startuptips-venturecapital-founderadvice-activity-7177048688794443777-uLPL",
+        "title": "Excited to share insights from my journey at Chaac Ventures over the past 4 months, where I met with 100+ startup founders across diverse industries, from healthcare to fintech to AI. Here are some key learnings that might be helpful for young founders starting on their journey: \ud83d\udca1Know Your Investor: Not all startups are meant for venture capital. Some businesses thrive better with more traditional investors. Learn the difference and understand if your venture aligns with the expectations of VC returns. \ud83e\udd1d Relationships First: One of the most common pitfalls I\u2019ve observed is the rush to pitch when meeting with VC firms. Instead, take the time to foster a genuine connection. Start with an introductory conversation to understand each other\u2019s visions and values. Building a relationship lays a solid foundation for future collaboration and ensures alignment between your goals and theirs. \ud83d\udcdd Effective Material: Sending materials ahead of meetings can be a game-changer, but it\u2019s crucial to do it right. Keep it concise and impactful \u2013 opt for a sleek one-pager and a visually appealing deck rather than bombarding them with lengthy documents. Remember, respecting the team\u2019s time is key. Make every word count! \ud83c\udfaf Less is More: Founders often fall into the trap of overwhelming investors with extensive research. Remember, simplicity is key. Focus on conveying your core message clearly and succinctly. It\u2019s not about how much you say but rather how effectively you communicate your value proposition. If you are launching, scaling, or looking to join an early-stage tech startup, I would love to connect! Reach out at yash@chaacventures.com . #StartupTips #VentureCapital #FounderAdvice #TechStartup",
+        "img": null,
+        "id": "7177048688794443777"
+      },
+      {
+        "interaction": "Yash Thakkar commented on a post 1d",
+        "link": "https://www.linkedin.com/posts/hriday-unadkat_scholarship-26-activity-7492619665316339712-Lc7l",
+        "title": "Congratulations!",
+        "img": null,
+        "id": "26"
+      },
+      {
+        "interaction": "Yash Thakkar commented on a post 4mo",
+        "link": "https://www.linkedin.com/posts/yusizhang_when-ai-does-the-work-who-does-the-learning-activity-7442367140663521280-th58",
+        "title": "\ud83d\udcaf",
+        "img": null,
+        "id": "7442367140663521280"
+      },
+      {
+        "interaction": "Yash Thakkar liked this",
+        "link": "https://www.linkedin.com/posts/princeton-university_samuel-wright-ii-22s-average-workday-looks-activity-7492643477940518912-0EvM",
+        "title": "Samuel Wright II \u201822's average workday looks a bit like his days as an undergraduate defensive lineman with Princeton Football: workout, practice, film. Instead of preparing for 60 minutes on the gridiron, Wright serves on the pit crew for RFK Racing's No. 60 team, driven by Ryan Preece. As a jackman, he jumps over the wall with a 25-30lb jack to lift the nearly 3,400lb car in 9 seconds or less. An architecture grad from Lawrenceville, GA, Wright carries many of the lessons he learned at Princeton with him on pit row and beyond. \"Princeton taught me that being in the right place doesn't always mean being in an easy place \u2026 Football taught me to keep showing up, keep doing my job, and keep being accountable to the people beside me regardless of what else was happening around me.\" Accountability is a major part of his role race day. \"You have to perform in a matter of seconds, your mistakes are visible, there's constant 'noise' around you, and there are a lot of people depending on you. Princeton taught me how to operate under pressure without needing everything around me to feel comfortable or in order first.\" The pressure came on fast considering this career was never on his radar. While working at an architectural firm after graduation, he received a call from a NASCAR recruiter who had seen his football tape. The size and speed of the All-Ivy defensive lineman as well as ability to be a good teammate met the requirements of the job. \"Team identity, team culture, team chemistry, they spread among all of us before that season. We had one heart, one mind, and we had the same goal in mind,\" said Wright of his time on the undefeated 2018 Ivy League championship Princeton Football team. Wright's love of reading has also been an asset to his performance. In fact, he wanted to be a librarian when he was a kid. In between pit stops, when the adrenaline rush is at a high, you can find Wright getting lost in a book. \"That way when it's time to perform, I can rely on and trust my instincts that I developed in practice instead of overthinking a moment.\" Read a senior year football feature about Sam: https://bit.ly/4q5zXYS",
+        "img": "https://media.licdn.com/dms/image/v2/D4E10AQHVIC081_XtFA/image-shrink_800/B4EZ_s3hGZHsAg-/0/1786385404738?e=2147483647&v=beta&t=uiy9AmWJcGIK19ohu_qijVA3DQRCle0vKc0PAcbgf8A",
+        "id": "7492643477940518912"
+      },
+      {
+        "interaction": "Yash Thakkar reacted on this",
+        "link": "https://www.linkedin.com/posts/hriday-unadkat_scholarship-26-activity-7492619665316339712-Lc7l",
+        "title": "It's truly a great honor to be named a Moorman Scholar! The Moorman Scholarship was established in honor of General Thomas S. Moorman Jr., and his significant contributions to shaping national security space within the United States Air Force and the Department of Defense. I hope to carry his spirit forward in every aspect of my career, and I am absolutely grateful to his family, the National Security Space Association (NSSA) , Booz Allen Hamilton and the broader national security community for their support!",
+        "img": null,
+        "id": "26"
+      },
+      {
+        "interaction": "Yash Thakkar liked this",
+        "link": "https://www.linkedin.com/posts/billfristmd_today-we-say-farewell-to-an-exceptional-activity-7491504646948237312-JCby",
+        "title": "Today, we say farewell to an exceptional young leader who has become an important part of our team. Tristan Collins first joined us as a summer intern between his junior and senior years at Princeton University , returned after his graduation, and later stepped into the role of Executive Assistant. Throughout his time with us, Tristan has distinguished himself as a thoughtful researcher and a curious learner. We will miss having him in Nashville, but I am excited to see what comes next as he begins a new chapter in the world of Irish literature at Trinity College Dublin . Join me in wishing him well on his new adventure.",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQFfCatMZgU8ww/feedshare-shrink_800/B56Z_crx9.JcAk-/0/1786113892516?e=2147483647&v=beta&t=wMbwpaNlZyWFjkMbnRmQIc-YR5F3aOSjpjQ0czuTczQ",
+        "id": "7491504646948237312"
+      },
+      {
+        "interaction": "Yash Thakkar liked this",
+        "link": "https://www.linkedin.com/posts/nicholasmcadam2001_a-few-years-ago-ihad-to-relearn-how-to-activity-7490429049283194880-Zozb",
+        "title": "A few years ago, I had to relearn how to speak. Today, I talk to enterprise customers in New York for a living. Growing up in South Africa, I always believed my future was in sport. I spent years training full-time with the national team, chasing that dream with everything I had. When I came to Princeton, I kept chasing it, training, racing, and coaching every waking moment of the day. Then, during my sophomore year, I was hit by a car while cycling. It derailed my entire life. I went through speech rehab and had to relearn how to walk, how to concentrate, how to think. The basics most people never have to think twice about. For a while, it looked like I might never row again. It took a full year to come back. When I finally did, we won the East Coast Championships, placed second at Nationals, and traveled to Henley Royal Regatta in the UK, where we placed second again. By graduation, I had three paths: go back to a national team environment, go to grad school, or do something completely uncharted. I chose Rilla . Honestly, I didn't even know what the company was. In one interview, someone was throwing a football around in the background. In another, people were shooting each other with Nerf guns. It wasn't until I got the offer that it hit me: oh wow, this is a real company. So I sat down and thought hard about the environment I wanted, the person I wanted to become, the skills I wanted to train. And the more I dug in, the more I realized how well I aligned with Rilla's culture: competitive, resourced, hundreds of people pulling toward the same goal, trusted to do what's right for the team. It reminded me of the locker room. I told myself, it's just a year. Who doesn't want a year in New York? What I found instead was fulfillment I wasn't expecting to find outside of a boat. The same competitive drive I only ever associated with rowing shows up for me here. I'm building toward a goal surrounded by people who push me. And I am still growing. Because at rilla, the learning never stops. I get to keep the parts of sport I loved most: the team, the culture, the singular focus, the autonomy to go after a goal and own how I get there. One year in, and I'm just getting started. Excited for what's next.",
+        "img": "https://media.licdn.com/dms/image/v2/D4E10AQFXpG7fr9QkcA/image-shrink_800/B4EZ_NZhvnJQAg-/0/1785857449180?e=2147483647&v=beta&t=Q-5bKP5AKE_0jj3dJAgvZ-NYFJEA0Uy4j-f-5qFSKo4",
+        "id": "7490429049283194880"
+      },
+      {
+        "interaction": "Yash Thakkar liked this",
+        "link": "https://www.linkedin.com/posts/princetonengineering_congratulations-to-jaime-fern%C3%A1ndez-fisac-activity-7488246016752738304-NLbS",
+        "title": "Congratulations to Jaime Fern\u00e1ndez Fisac and Aleksandra Korolova , who have been elected to the council of the International Association for Safe and Ethical Artificial Intelligence, Inc. The association's mission is to ensure that AI systems operate safely and ethically, benefiting all of humanity. The 25-member Council brings together academic researchers and leaders from government, civil society, industry, and major AI-governance organizations. Read more: https://lnkd.in/gy-NYi6S",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQEYX4GrkbizNw/feedshare-shrink_800/B4EZ.uYEzgKUAc-/0/1785336974818?e=2147483647&v=beta&t=mwuj6p5le0G1yJFTtZto56Ecn7YnYSiBt9LtmdzhWJU",
+        "id": "7488246016752738304"
+      },
+      {
+        "interaction": "Yash Thakkar reacted on this",
+        "link": "https://www.linkedin.com/posts/princeton-university_three-of-the-four-fields-medalists-announced-activity-7486162231194320897-hUcw",
+        "title": "Three of the four Fields Medalists announced today by the International Mathematical Union are Princeton alumni: Yu Deng *15, John Pardon \u201911, who is a former mathematics faculty member, and Jacob Tsimerman *11. The medal, awarded every four years to researchers under 40 years old, is one of the most prestigious awards in mathematics. Christopher Skinner, Princeton professor of mathematics and chair of the department, extended warm congratulations to all of the 2026 Fields Medalists. \u201cThe awarding of the Fields Medal every four years is an opportunity to celebrate some great mathematics,\" he said. \"But it is especially thrilling for the department to have the remarkable works of three of its alums awarded medals this year,\u201d Skinner said. \"Yu Deng *15, Jacob Tsimerman *11 and John Pardon \u201911 are exceptional talents, and we are delighted to see them getting this well-deserved recognition and to bask a little in the glow of their accomplishments.\"",
+        "img": "https://media.licdn.com/dms/image/v2/D4E10AQFXfi90OZxtMA/image-shrink_1280/B4EZ.Qw3KJKQAc-/0/1784840156323?e=2147483647&v=beta&t=mW_iF1wPg0NhALaTNL8R_YRKGSvtyV6TecAjDyzJE_k",
+        "id": "7486162231194320897"
+      },
+      {
+        "interaction": "Yash Thakkar liked this",
+        "link": "https://www.linkedin.com/posts/aidan-ward-0a89a4218_im-excited-to-announce-that-i-have-started-activity-7483378362116227072-5YAj",
+        "title": "I\u2019m excited to announce that I have started my position at Apple as a CoreOS Software Engineer in the Triage Intelligence and Debug Engineering team! As a part of this team, I am bolstering the stability of a wide range of Apple software by identifying the causes of system panics, contributing to their debugging, and optimizing this process with automation. I look forward to advancing my career at Apple through the maintenance and improvement of its operating systems!",
+        "img": null,
+        "id": "7483378362116227072"
+      },
+      {
+        "interaction": "Yash Thakkar reacted on this",
+        "link": "https://www.linkedin.com/posts/sanjanavenkatesh8_last-month-i-had-the-opportunity-to-participate-activity-7478187006678880256-OdXQ",
+        "title": "Last month, I had the opportunity to participate in The Hastings Center\u2019s Summer Undergraduate Bioethics Program. In early June, I joined 17 other undergraduates for five days of intensive discussions, debates, and lectures with scholars from the Hastings Center. We explored topics including disability ethics, sociogenomics, and the use of AI in aging populations. The program gave me a deeper appreciation for the interdisciplinarity and breadth of bioethics, while also serving as an introduction to key approaches and methods in the field. It was also a chance to learn alongside other students who have been thinking seriously about questions in bioethics. Thank you to Julia Kolak, PhD , Richa Venkatraman, and Ava Randel for facilitating the program, as well as to my fellow participants for all of the thought-provoking discussions. I\u2019m excited to stay in touch and continue to explore bioethics in graduate school!",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQFaFaAWms087w/feedshare-shrink_800/B4EZ8fbdFvIsAc-/0/1782938718878?e=2147483647&v=beta&t=Xrdadnj7akPsnn218ocg0SQXAvdfCw8s9gfzr_uyPig",
+        "id": "7478187006678880256"
+      }
+    ],
+    "linkedin_num_id": "837761357",
+    "banner_image": "https://media.licdn.com/dms/image/v2/D4E16AQF2FxULPbm3Dg/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1705626396515?e=2147483647&v=beta&t=wfSiKV-7tbQf1P-MOmnGWSU9BLysNH8JEYf2fWJUpnQ",
+    "honors_and_awards": [
+      {
+        "title": "AP Scholar with Distinction",
+        "publication": "CollegeBoard",
+        "date": "2022-01-01T00:00:00.000Z",
+        "description": null
+      },
+      {
+        "title": "AP Scholar with Honor",
+        "publication": "CollegeBoard",
+        "date": "2021-01-01T00:00:00.000Z",
+        "description": null
+      }
+    ],
+    "similar_profiles": [],
+    "default_avatar": false,
+    "memorialized_account": false,
+    "bio_links": [
+      {
+        "title": "Personal Website",
+        "link": "https://yashthakkar21.github.io/"
+      }
+    ],
+    "first_name": "Yash",
+    "last_name": "Thakkar",
+    "influencer": false,
+    "timestamp": "2026-08-12T19:22:44.271Z",
+    "input": {
+      "url": "https://www.linkedin.com/in/yash-thakkar21"
+    }
+  },
+  "local_photo": "data\\linkedin_photos\\yash-thakkar21__usr-7tWwnoo1VRAbVPM.jpg"
+}

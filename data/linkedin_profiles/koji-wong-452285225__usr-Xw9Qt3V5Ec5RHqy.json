@@ -1,0 +1,208 @@
+{
+  "luma_user_id": "usr-Xw9Qt3V5Ec5RHqy",
+  "csv_name": "Koji Wong",
+  "csv_linkedin": "https://www.linkedin.com/in/koji-wong-452285225",
+  "enriched_at": "2026-08-12T19:11:36.260856+00:00",
+  "batch_id": "sd_msqgoa0o2hh62sia9d",
+  "profile": {
+    "id": "koji-wong-452285225",
+    "name": "Koji Wong",
+    "city": "San Francisco Bay Area",
+    "country_code": "US",
+    "position": null,
+    "about": "Hi, I'm Koji! I'm a junior at Washington University in St. Louis, love to\u2026",
+    "current_company": {
+      "link": "https://www.linkedin.com/company/amazon?trk=public_profile_topcard-current-company",
+      "name": "Amazon",
+      "company_id": "amazon",
+      "location": null
+    },
+    "experience": null,
+    "url": "https://eg.linkedin.com/in/Koji-wong-452285225",
+    "educations_details": "Washington University in St. Louis",
+    "education": [
+      {
+        "start_year": "2020-08",
+        "end_year": "2024-05",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      }
+    ],
+    "avatar": "https://media.licdn.com/dms/image/v2/D5603AQFclvfFqYgs8w/profile-displayphoto-scale_200_200/B56ZzHHG59IkAY-/0/1772867057955?e=2147483647&v=beta&t=NZRwnzj_EnI0894kAdXN3ELr47ufHKKnqJdLCBkK3F4",
+    "languages": [
+      {
+        "subtitle": "Professional working proficiency",
+        "title": "Japanese"
+      }
+    ],
+    "followers": 1603,
+    "connections": 500,
+    "current_company_company_id": "amazon",
+    "current_company_name": "Amazon",
+    "projects": [
+      {
+        "title": "EMT Voice Assistant. ElevenLabs Winner @ Google DevFest WashU 2026",
+        "start_date": "Apr 2026",
+        "description": "Eva is an XR voice assistant for EMTs. Writes ePCRs via voice & video, voice commands, pulls vital patient data (allergies etc) using face rec, and browser use integrations for hospital form-filling"
+      },
+      {
+        "title": "Y Combinator Fullstack Hackathon",
+        "start_date": "Jan 2026",
+        "description": "ai agents for case worker & snap benefits workflows"
+      },
+      {
+        "title": "Generalized AI Sports Cameraman Agent",
+        "start_date": "Jun 2025",
+        "description": "AI cameraman that can smoothly zoom and pan to the main action in sports identified via inference, eliminating the need for manual camerawork."
+      },
+      {
+        "title": "SupaSocial - Official Community Supabase Social Media Starter Template",
+        "start_date": "May 2025",
+        "description": "Accepted into Supabase official community starter templates. 300+ cloners"
+      },
+      {
+        "title": "UnveilAI (Finalist @ Google DevFest)",
+        "start_date": "Apr 2025",
+        "description": "Onboard people to new codebases with AI voice agents"
+      },
+      null,
+      null,
+      null,
+      {
+        "title": "InternX (2nd @ WashU Meta x 8VC hackathon)",
+        "start_date": "Mar 2025",
+        "description": "Streamlining the internship application process. Find alumni, recruiters, and jobs with AI"
+      },
+      null,
+      null,
+      null,
+      {
+        "title": "Bear Eats (Winner @ Hack WashU)",
+        "start_date": "Oct 2024",
+        "description": "Campus dining app. 1st in emerging health & fitness"
+      }
+    ],
+    "location": null,
+    "input_url": "https://www.linkedin.com/in/koji-wong-452285225",
+    "linkedin_id": "koji-wong-452285225",
+    "activity": [
+      {
+        "interaction": null,
+        "link": "https://www.linkedin.com/posts/cheng-george_we-eat-cake-for-breakfast-and-were-shipping-activity-7349836179267051520-DhJ9",
+        "title": "We eat cake for breakfast. And we're shipping 3 new Code Four (YC X25) products this week. And the last product launch will change a 20-year-old video redaction industry. And we're making all of this free (for now). Oh, and we're hiring 1 more full-time engineer. Email me at george@codefour.us or DM me. ...more ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQGZ34XRqR5eRQ/feedshare-shrink_800/B4EZf_c0a3G4Ak-/0/1752337495243?e=2147483647&v=beta&t=VfXRLwAQc7wCxZePrCOZRoS__JPJV29DUtWt8GZoWiI",
+        "id": "7349836179267051520"
+      },
+      {
+        "interaction": null,
+        "link": "https://www.linkedin.com/posts/e-johny_this-past-weekend-i-had-the-opportunity-activity-7318027087452192768-gxPW",
+        "title": "This past weekend, I had the opportunity to compete in the Google DevFest WashU 2025 hackathon! \ud83d\ude80 Out of 42 teams and 113 hackers from 6 different colleges and universities, my team was selected as one of just 10 finalists! \ud83c\udf89 Given 24 hours, a Gemini API key, and the theme \"AI in ___,\" we were challenged to build an innovative AI solution for an industry using Google Gemini. Two hours in, we landed on our idea: AI in Software Engineering. With the rise of engineers relying on AI-generated code (or what many now call \"vibe coders\"), it\u2019s becoming harder to onboard new teammates, pick up where someone else left off, or even just understand existing code. I worked with Sochie Odunlami , Henry Anyimadu , and Koji Wong to build Unveil AI, a full-stack web app that helps engineers (or really anyone) make sense of code. By just uploading a GitHub repo or local directory, you can: \u2022 Get line-by-line explanations of your code \u2022 Ask clarifying questions about specific files or functions \u2022 Even receive a phone call from an AI \u201csenior developer\u201d (powered by Bland AI) who walks you through your codebase Huge shoutout to Isaiah N. Granet for providing us with free Bland AI API tokens, this feature wouldn\u2019t have been possible without him. With mentors, keynote speakers, and judges from Google , Microsoft , McKinsey & Company , Wells Fargo , and the local community, this was a valuable learning opportunity. Thank you Google Developer Group WashU for organizing such a memorable event! \ud83d\ude4c ...more ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQGODDbC5Vhsjw/feedshare-shrink_800/B56ZY7a1etGsAk-/0/1744753616640?e=2147483647&v=beta&t=JMkt04Rl_E5ASi4nOgssd8zxBfGm5oxf6TGWQFARJAI",
+        "id": "7318027087452192768"
+      },
+      {
+        "interaction": null,
+        "link": "https://www.linkedin.com/posts/anyimadu_hackathon-meta-aiagents-activity-7314667341038960640-2Ed5",
+        "title": "\ud83c\udfc6 Proud to have won 2nd place in my first hackathon! Last weekend, Koji Wong , Lotanna Okoli , Tarun Eswar , and I had the opportunity to compete in the Meta x 8VC Llama Stack Hackathon hosted by WashU Skandalaris Center for Interdisciplinary Innovation & Entrepreneurship and McKelvey Build Fellowship . We built Intern-X, a full-stack website that: - Searches the web for recruiters and alumni from your school in your career field - Uses the @ Hunter.io API to find their emails - Uses the Llama stack to generate high-quality, relevant cold emails - Has a seamless, easy-to-use user interface Thank you WashU Skandalaris Center for Interdisciplinary Innovation & Entrepreneurship , Meta , and 8VC for hosting this hackathon! Learn more about our project on our Github: https://lnkd.in/gnEaNmv5 . #Hackathon #Meta #AiAgents #8VC ...more ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQFbWNFFIS2Xzw/feedshare-shrink_800/B56ZYLrKdKGcAg-/0/1743952593388?e=2147483647&v=beta&t=Faw8EEszIeVbUfNeBO1G5uSwuUJ-yNqt5n7GCV2Qy1I",
+        "id": "7314667341038960640"
+      },
+      {
+        "interaction": "Koji Wong liked this",
+        "link": "https://www.linkedin.com/posts/adame05_just-finished-up-my-last-week-at-doordash-activity-7492637186505285632-Fwmy",
+        "title": "Just finished up my last week at DoorDash as a Software Engineering Intern and it was definitely bittersweet! Had a great time learning about storage systems, large scale infrastructure, and AI-forward development. Big thank you to my manager Muneeb Ansari , my mentors Owen Qian and Kane Du , and an incredible intern cohort (cc: Luke Sarausad ) for an unforgettable summer! Looking forward to continuing my studies at Georgia Tech and excited to see what the future holds.",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQFAThAWqnD7qg/feedshare-shrink_800/B4EZ_sx0OCIgAk-/0/1786383911157?e=2147483647&v=beta&t=pa1-rc7-lV1MlAA5iO45fhT_EAqt_oWhKUh1XNcn05A",
+        "id": "7492637186505285632"
+      },
+      {
+        "interaction": "Koji Wong liked this",
+        "link": "https://www.linkedin.com/posts/sonja-wong_as-im-wrapping-up-my-summer-in-sf-i-am-activity-7492640949462806528-lBih",
+        "title": "As I\u2019m wrapping up my summer in SF, I am happy to share that I have won the Uber Intern Hackathon, became a Cursor Campus Lead and won the first Cursor Campus Cup Hackathon! This past weekend was incredible, where I got to meet so many talented campus leads, explore new ways of using Cursor with their engineers and created a super useful tool for campus recruitment for the hackathon (rolling out to Cornell soon!!). Thank you so much Fiona Whittington for this amazing opportunity and this insane weekend, I am so excited to bring Cursor to Cornell/NY this fall - stay tuned!! If any Cornell clubs wanna collab, please reach out anytime!!",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQGMt0-m1UiiYw/feedshare-shrink_800/B56Z_sOB6PGUAc-/0/1786374529142?e=2147483647&v=beta&t=Zy6hAIGrWPJ_VqXMMnadWd2jfSuJgt1D1__6X4iJ67k",
+        "id": "7492640949462806528"
+      },
+      {
+        "interaction": "Koji Wong liked this",
+        "link": "https://www.linkedin.com/posts/camilagn_abf-class-of-2027-cohort-activity-7491955727192928256-4Jya",
+        "title": "So honored and excited to join a non-profit board through this fantastic Kellogg program!",
+        "img": null,
+        "id": "2027"
+      },
+      {
+        "interaction": "Koji Wong liked this",
+        "link": "https://www.linkedin.com/posts/thank-you-chris-so-grateful-for-the-mentorship-activity-7491461637489483777-Cv4h",
+        "title": "Thank you, Chris! So grateful for the mentorship and trust this summer. Gossip Gnome was such a fun project to work on, and it taught me a lot about designing systems that will last. Excited to keep building on what I learned at Uber.",
+        "img": null,
+        "id": "7491461637489483777"
+      },
+      {
+        "interaction": "Koji Wong liked this",
+        "link": "https://www.linkedin.com/posts/sophie-wollitzer_as-my-internship-as-a-technology-intern-at-activity-7491240753336225792-Fgaz",
+        "title": "As my internship as a Technology Intern at Wells Fargo within Wealth & Investment Management Technology comes to an end, I'm incredibly grateful for the experiences, challenges, and opportunities to learn that this internship provided. During this internship, I gained valuable experience contributing to technology solutions that support Wells Fargo's Trust services alongside Sairaj Gunda . Learning how software engineering works within a large organization was an invaluable experience. A special thank you to my manager, Santosh Pol , to Dhinoja Sonal , my intern buddy, and to the rest of my team for their endless guidance, mentorship, and support. I am incredibly thankful to have been part of such a supportive team this summer. Everyone was so kind, welcoming, and willing to share their knowledge. Thank you for making this internship so rewarding, and I look forward to what's next!",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQGTETTvOrpVrA/feedshare-image-high-res/B4EZ_Y7vrXJgAc-/0/1786050968544?e=2147483647&v=beta&t=hiL6oW_Bqt6FI3U_3nCrApTrrNBmYhIakzv_jqxRlE8",
+        "id": "7491240753336225792"
+      },
+      {
+        "interaction": "Koji Wong liked this",
+        "link": "https://www.linkedin.com/posts/completed-my-internship-as-an-amgen-scholar-activity-7491193773457166336-qTqH",
+        "title": "Completed my internship as an Amgen Scholar at Johns Hopkins Medicine , working on neuromuscular speech prosthesis research to help patients with aphonia regain a functional means of spoken communication. Also represented Hopkins at the Amgen North America Symposium at Harvard University . Thank you to Dr. Thakor and Manan Bhatt , the Neuroengineering (NEBI) Lab, Amgen Foundation, Dr. Bohn , and Dr. Hilser for their support. \u2800",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQGyDUmOX4Eq-A/feedshare-shrink_800/B4EZ_WzL1rGoAc-/0/1786015171126?e=2147483647&v=beta&t=a9i5QmPGTyvq8Ww3mwEsPwIGRsvOTuRritCCw13W6PA",
+        "id": "7491193773457166336"
+      },
+      {
+        "interaction": "Koji Wong liked this",
+        "link": "https://www.linkedin.com/posts/lydia-paark_i-met-with-over-20-startups-this-summer-as-activity-7491207540072939520-6QvN",
+        "title": "I met with over 20 startups this summer as a design intern, and here's one lesson that stuck with me. In just 10 weeks, I worked with more than 20 startups and shipped 8 projects. Every week meant switching contexts, learning new industries, and translating complex ideas into designs that founders could trust. My biggest takeaway wasn't about design tools. It was realizing that the best design starts long before the first wireframe. It starts with listening. Every founder had a different way of communicating, a different vision, and different priorities. Learning to ask better questions and understand the \"why\" behind each idea made every design decision stronger. Thank you to my managers, Kelly Nyikes and Samantha Page , for leading our team with constant support, encouragement, and mentorship throughout the entire 10 weeks (YAY!). Special thank you to my past manager, Yannic D. , and my year long past client, Sergiu Celebidachi , for investing/guiding in me through SDA before the internship even began and giving me the confidence to hit the ground running. And thank you to every founder and team I had the chance to work with at WashU Skandalaris Center for Interdisciplinary Innovation & Entrepreneurship , especially the Launchpad founders, SKIP founders, and the TrustedTap team. It was a privilege to help bring your ideas to life. Featured Projects/Pictured at Expo: Kayno Labs ( Jeffrey Christian C. ), Amass Biosystems ( Justin Traenkle ), ReferencePoint ( Eli Abdou ), Netty\u2019s Juicery\u00ae ( Ginette Rhodes ), Blumiin ( Julius Chembo, Ph.D ), SPARC Sports , Brian Lee (SDA), Trusted Tap ( Nwaliweaku Anidi, MPH & Mia Salamone , and ChiChi ( Jillian Wu & Chiara Munzi ). Looking forward to taking everything I learned into my junior year and upcoming future product design internships.",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQE7XaA4pWtU4Q/feedshare-image-high-res/B56Z_Ydi58G0AU-/0/1786043052191?e=2147483647&v=beta&t=Iq1ZwFkvMV9YQao742AVOk7-V5-d3IcdPdk7ix-Ry2Y",
+        "id": "20"
+      }
+    ],
+    "linkedin_num_id": "947229758",
+    "banner_image": "https://media.licdn.com/dms/image/v2/D5616AQHxqBL0CvE0hA/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1721612569065?e=2147483647&v=beta&t=q8leKPGTx2VcQGXSRb_iRxImsjlICRlCf0_PJpjmCic",
+    "honors_and_awards": [
+      {
+        "title": "ElevenLabs Track Winner @ Google DevFest WashU 2026",
+        "publication": "-",
+        "date": "2026-04-01T00:00:00.000Z",
+        "description": "Eva (EMT Voice Assistant) project, our team won $7,680 in tokens from ElevenLabs"
+      },
+      {
+        "title": "2nd place @ WashU Meta x 8VC hackathon",
+        "publication": "8VC",
+        "date": "2025-03-01T00:00:00.000Z",
+        "description": "InternX project, our team won $750 from 8VC"
+      },
+      {
+        "title": "1st place @ HackWashU in emerging health & fitness track",
+        "publication": "Hack WashU",
+        "date": "2024-10-01T00:00:00.000Z",
+        "description": "Bear Eats project, our team won ~$600 in prizes"
+      },
+      {
+        "title": "Samsung Solve For Tomorrow",
+        "publication": "Samsung",
+        "date": "2023-12-01T00:00:00.000Z",
+        "description": "$2,500 grant prize money"
+      },
+      {
+        "title": "National Merit Scholarship Finalist",
+        "publication": "National Merit Scholarship Corporation",
+        "date": "2023-09-01T00:00:00.000Z",
+        "description": "top <1% PSAT score in USA"
+      }
+    ],
+    "similar_profiles": [],
+    "default_avatar": false,
+    "memorialized_account": false,
+    "bio_links": [],
+    "first_name": "Koji",
+    "last_name": "Wong",
+    "influencer": false,
+    "timestamp": "2026-08-12T19:07:29.406Z",
+    "input": {
+      "url": "https://www.linkedin.com/in/koji-wong-452285225"
+    }
+  },
+  "local_photo": "data\\linkedin_photos\\koji-wong-452285225__usr-Xw9Qt3V5Ec5RHqy.jpg"
+}

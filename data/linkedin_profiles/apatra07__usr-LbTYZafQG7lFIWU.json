@@ -1,0 +1,189 @@
+{
+  "luma_user_id": "usr-LbTYZafQG7lFIWU",
+  "csv_name": "Ayush Patra",
+  "csv_linkedin": "https://www.linkedin.com/in/apatra07",
+  "enriched_at": "2026-08-12T18:58:28.970643+00:00",
+  "batch_id": "sd_msqgad6c2eeefcaqas",
+  "profile": {
+    "id": "apatra07",
+    "name": "Ayush Patra",
+    "city": "Waterloo, Ontario, Canada",
+    "country_code": "CA",
+    "position": null,
+    "about": null,
+    "current_company": {
+      "link": "https://www.linkedin.com/company/getstrada?trk=public_profile_topcard-current-company",
+      "name": "Strada",
+      "company_id": "getstrada",
+      "location": null
+    },
+    "experience": null,
+    "url": "https://ch.linkedin.com/in/Apatra07",
+    "educations_details": "University of Waterloo",
+    "education": null,
+    "avatar": "https://media.licdn.com/dms/image/v2/D4E03AQFz10Fo6PgcYQ/profile-displayphoto-scale_200_200/B4EZz9GyxUIUAc-/0/1773772943012?e=2147483647&v=beta&t=NcN5VBrRPzKWzlDoMpywZfeuUcFDYpYREDOrCbk71Ys",
+    "followers": 560,
+    "connections": 500,
+    "current_company_company_id": "getstrada",
+    "current_company_name": "Strada",
+    "projects": [
+      {
+        "title": "ClipCraft- Automated Video Editor",
+        "description": "Engineered an automated pipeline for highlight extraction from long-form videos. Implemented a scene-change detection algorithm to efficiently segment clips. Supports batch operations with export-ready FFmpeg processing modules."
+      },
+      {
+        "title": "CXR: AI Chest X-Ray Assistant",
+        "description": "Trained a ResNet50 chest X-ray classifier on ~20k images achieving ~80% F1 optimized for ~90% recall. Built a full-stack clinical triage app with a Next.js physician UI and FastAPI inference endpoints, with deterministic logic and schema-constrained outputs."
+      },
+      {
+        "title": "Monte Carlo Poker Simulator",
+        "description": "Developed a Monte Carlo simulation engine to model poker scenarios across thousands of runs. Simulated card distributions, expected values, and win probabilities for various hands. Built a modular architecture enabling future expansion into AI-based strategy evaluation."
+      },
+      {
+        "title": "Personal Portfolio Website",
+        "description": "Developing a responsive personal website built with React + modular components. Includes reusable UI blocks, project pages, and a React-based animation system. Designed for performance using lazy-loading, code-splitting, and smooth transitions."
+      },
+      {
+        "title": "Unmute - Spotify Wrapped Platform",
+        "description": "Built a full-stack platform integrating the Spotify Web API using OAuth 2.0. Designed interactive analytics dashboards visualizing long-term listening trends. Optimized backend request handling to reduce latency by batching API calls."
+      }
+    ],
+    "location": "Waterloo",
+    "input_url": "https://www.linkedin.com/in/apatra07",
+    "linkedin_id": "apatra07",
+    "activity": [
+      {
+        "interaction": "Liked by Ayush Patra",
+        "link": "https://www.linkedin.com/posts/aprodensky_telling-stat-from-a-new-study-of-300-pc-activity-7492954241653837824-hZ6Y",
+        "title": "Telling stat from a new study of 300+ P&C insurers: 98% rank AI in their top three criteria when selecting a TPA. We hear it constantly from\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQGQoMD5DW0yiw/feedshare-shrink_800/B4EZ_pnREPIsAc-/0/1786330812907?e=2147483647&v=beta&t=Cwyq1GxUTU_x5JblBQvwVIsmqUhMgxZNOtpf1r6rmWI",
+        "id": "300"
+      },
+      {
+        "interaction": "Liked by Ayush Patra",
+        "link": "https://www.linkedin.com/posts/austin-herold-4217bb194_insuranceoperations-claimsmanagement-insurtech-activity-7492600754470346752-pKoR",
+        "title": "Last month a claims leader walked me through the AI his team had just switched on. He was genuinely proud of it. Months of work, a real budget\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQGpVx32MW4DRQ/feedshare-shrink_800/B56Z_sQrZ.GQAc-/0/1786375223200?e=2147483647&v=beta&t=gHrSMdHBwhJu1knCU0g2YaMNh7IgD5Fe0SSDCqiV-h4",
+        "id": "7492600754470346752"
+      },
+      {
+        "interaction": "Liked by Ayush Patra",
+        "link": "https://www.linkedin.com/posts/tushartyagidxb_national-intern-day-was-earlier-this-week-activity-7489254340692475904-BuhA",
+        "title": "National Intern Day was earlier this week, and it's about time I finally talked about Strada's first ever interns whom I've been working closely with\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQHmG4aVB2YVvA/feedshare-image-high-res/B56Z.8tIwgKwAU-/0/1785577377333?e=2147483647&v=beta&t=akTFpcr6y7b_T-4IDNyF4TOXNTeTA1ascLlRdDbqG2c",
+        "id": "7489254340692475904"
+      },
+      {
+        "interaction": "Liked by Ayush Patra",
+        "link": "https://www.linkedin.com/posts/zebas_our-2027-software-engineering-early-career-activity-7490828823744147456-xDDS",
+        "title": "Our 2027 Software Engineering Early Career & Internship opportunities are officially live! Software Engineer, Early Career:\u2026",
+        "img": "https://static.licdn.com/aero-v1/sc/h/53n89ecoxpr1qrki1do3alazb",
+        "id": "2027"
+      },
+      {
+        "interaction": "Liked by Ayush Patra",
+        "link": "https://www.linkedin.com/posts/arnay-kathuria-072207210_sunlifecampus-actuarialscience-universityofwaterloo-activity-7490858884111204352-OcVN",
+        "title": "I'm excited to announce that I'll be joining Sun Life as an Actuarial Student Analyst for my Fall 2026 work term, based in the Toronto office! I'm\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQFO3WB-KvkitQ/feedshare-shrink_800/B56Z_TgdgaJcAc-/0/1785959930099?e=2147483647&v=beta&t=02GEv4afDP-4J8hcGDCcDS5YRaPe6_yeyri6eJ6p9vM",
+        "id": "7490858884111204352"
+      },
+      {
+        "interaction": "Liked by Ayush Patra",
+        "link": "https://www.linkedin.com/posts/subhajit-patra101_ai-machinelearning-llm-activity-7488448452041887744-6_OY",
+        "title": "\"My API bill is getting expensive.\" 2023: \u2192 Optimize prompts 2024: \u2192 Switch providers 2025: \u2192 Fine-tune a model 2026: \u2192 Let's build our own\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4D22AQEBXcTP83ygBA/feedshare-shrink_800/B4DZ.xQMBxHgAg-/0/1785385238888?e=2147483647&v=beta&t=QHEtya2TBc5YETZ8k1HW8kGliAVX-1tR0jg5HxW17NQ",
+        "id": "7488448452041887744"
+      },
+      {
+        "interaction": "Liked by Ayush Patra",
+        "link": "https://www.linkedin.com/posts/aprodensky_today-were-launching-multi-channel-fnol-activity-7490421374377861120-uYo8",
+        "title": "Today we're launching multi-channel FNOL: claims intake across voice, chat, email, and SMS. Policyholders can now file their claim where it\u2019s most\u2026",
+        "img": "https://dms.licdn.com/playlist/vid/v2/D4E05AQFxdHdAR34ztg/thumbnail-shrink_720_1280/B4EZ_Ko7NEIAAc-/0/1785811157508?e=2147483647&v=beta&t=LbhRKkWFvPbWSGziICoN-ILs1Rf4QEghRx0CWeAp3YQ",
+        "id": "7490421374377861120"
+      },
+      {
+        "interaction": "Liked by Ayush Patra",
+        "link": "https://www.linkedin.com/posts/mario-mu%C3%B1oz-serrano_startup-founders-yc-activity-7489011592521732096-5_Bg",
+        "title": "This advice list from Y Combinator back in 2023 is still one of the best things early-stage founders can revisit. My own addition: talk to users\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4E10AQEQP5WPJqJbVQ/image-shrink_800/B4EZ.5QSUjHMAg-/0/1785519482414?e=2147483647&v=beta&t=cF59NZpJwqyo8VGqaJeviv1_D1Wm_3qinRCst41pbQA",
+        "id": "7489011592521732096"
+      },
+      {
+        "interaction": "Shared by Ayush Patra",
+        "link": "https://www.linkedin.com/posts/apatra07_ive-absolutely-loved-working-at-strada-activity-7489756900339879936-HzfW",
+        "title": "I\u2019ve absolutely loved working at Strada . It\u2019s been an incredible experience, learning to move fast, contributing to projects that really matter, and\u2026",
+        "img": "https://static.licdn.com/aero-v1/sc/h/53n89ecoxpr1qrki1do3alazb",
+        "id": "7489756900339879936"
+      },
+      {
+        "interaction": "Liked by Ayush Patra",
+        "link": "https://www.linkedin.com/posts/colby-hruska_primealpha-frontrunning-grindset-activity-7488998164755083264-9zeQ",
+        "title": "My inbox has been completely flooded by prop shop partners and Bay Street recruiters since I dropped my 2A schedule yesterday. \ud83d\udcc8 They all keep\u2026",
+        "img": "https://static.licdn.com/aero-v1/sc/h/53n89ecoxpr1qrki1do3alazb",
+        "id": "7488998164755083264"
+      },
+      {
+        "interaction": "Liked by Ayush Patra",
+        "link": "https://www.linkedin.com/posts/aprodensky_strada-has-a-new-home-150-spear-street-activity-7488967983030112256-02Va",
+        "title": "Strada has a new home! 150 Spear Street, right by the Ferry Building in San Francisco. 10x the space of our last office, all the conference rooms we\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQHz5ELT_EiX3Q/feedshare-image-high-res/B4EZ.sAfZ_K8AU-/0/1785297238985?e=2147483647&v=beta&t=l0E7zCc-jCKvehQvtCEB6qRI55SFFW3pLLn55kg4UPM",
+        "id": "150"
+      },
+      {
+        "interaction": "Liked by Ayush Patra",
+        "link": "https://www.linkedin.com/posts/jacob-lu1_my-first-linkedin-post-thanxbye-activity-7488802822721830913-jwIQ",
+        "title": "my first linkedin post thanxbye",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQE75Tk3ls011A/feedshare-shrink_800/B56Z.2SfLIKEAc-/0/1785469727731?e=2147483647&v=beta&t=6BSLO8zsFqScrhcOfLAIfwl2oe_tNzssjaAxBp2BdpA",
+        "id": "7488802822721830913"
+      },
+      {
+        "interaction": "Liked by Ayush Patra",
+        "link": "https://www.linkedin.com/posts/aprodensky_arash-and-i-talk-a-lot-about-the-kind-of-activity-7488605576772399104-QUHG",
+        "title": "Arash and I talk a lot about the kind of team we're building at Strada. We're small, we move fast, and the work is genuinely hard. That filters for\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQEeSb9H2_FK8w/feedshare-image-high-res/B4EZ.r7EpGHwAU-/0/1785295819259?e=2147483647&v=beta&t=M7cIZ5v8wgx-j5wr9vCAMw3CjXPCCVnW9ohAY7vRMjg",
+        "id": "7488605576772399104"
+      },
+      {
+        "interaction": "Liked by Ayush Patra",
+        "link": "https://www.linkedin.com/posts/peter-wong-flywheel_the-university-of-waterloo-is-one-of-the-activity-7488248294263902209-aCgm",
+        "title": "The University of Waterloo is one of the great founder factories. Its secret is that students spend half their degree in the world's largest co-op\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5610AQH-oDS3o2L_Uw/image-shrink_800/B56Z.uaJY0KoAg-/0/1785337518188?e=2147483647&v=beta&t=yQpRLL-X5dt1r_Ywjb7ymYvXi_x2dAKDUkSB0TkBGMQ",
+        "id": "7488248294263902209"
+      },
+      {
+        "interaction": "Liked by Ayush Patra",
+        "link": "https://www.linkedin.com/posts/aprodensky_for-certain-key-hires-we-ask-candidates-activity-7488239414930812930-h_pr",
+        "title": "For certain key hires, we ask candidates to spend a few days with us before we make a decision. They get set up, they work on real things, and they\u2026",
+        "img": "https://static.licdn.com/aero-v1/sc/h/53n89ecoxpr1qrki1do3alazb",
+        "id": "7488239414930812930"
+      },
+      {
+        "interaction": "Liked by Ayush Patra",
+        "link": "https://www.linkedin.com/posts/adaptional_makesomethingpeoplewant-activity-7486516542453616640-_COG",
+        "title": "Over 7,000 of the brightest young engineers and builders are coming to SF this weekend for Y Combinator Startup School, and we're excited to host an\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQG3W1cgkmkU6w/feedshare-shrink_800/B4EZ.VzH6gJMAc-/0/1784924635312?e=2147483647&v=beta&t=0hpzstOORZYb-R-M4H0J9AMD0iKlTMDEqejaM_YXU3s",
+        "id": "7486516542453616640"
+      }
+    ],
+    "linkedin_num_id": "1095872026",
+    "banner_image": "https://media.licdn.com/dms/image/v2/D5616AQE39XkusmLALA/profile-displaybackgroundimage-shrink_200_800/B56ZpgB9YMHIAU-/0/1762547718597?e=2147483647&v=beta&t=yfH8t3L8JpcxYt1L2LXcgl6aRKSKVJyjoKg-hZiH3qo",
+    "honors_and_awards": null,
+    "similar_profiles": [],
+    "default_avatar": false,
+    "memorialized_account": false,
+    "bio_links": [
+      {
+        "title": "Personal Website",
+        "link": "https://www.ayushpatra.com/"
+      }
+    ],
+    "first_name": "Ayush",
+    "last_name": "Patra",
+    "influencer": false,
+    "timestamp": "2026-08-12T18:56:43.552Z",
+    "input": {
+      "url": "https://www.linkedin.com/in/apatra07"
+    }
+  },
+  "local_photo": "data\\linkedin_photos\\apatra07__usr-LbTYZafQG7lFIWU.jpg"
+}

@@ -1,0 +1,249 @@
+{
+  "luma_user_id": "usr-te4Eu828dYTJQTP",
+  "csv_name": "Jaeho Lee",
+  "csv_linkedin": "https://www.linkedin.com/in/jaeho-lee-brown",
+  "enriched_at": "2026-08-12T19:07:22.279631+00:00",
+  "batch_id": "sd_msqgmjx4y9b9cgg4i",
+  "profile": {
+    "id": "jaeho-lee-brown",
+    "name": "Jaeho Lee",
+    "city": "Providence, Rhode Island, United States",
+    "country_code": "US",
+    "position": null,
+    "about": "Interested in measuring things that are hard to measure :)",
+    "current_company": {
+      "link": "https://www.linkedin.com/company/epochai?trk=public_profile_topcard-current-company",
+      "name": "Epoch AI",
+      "company_id": "epochai",
+      "location": null
+    },
+    "experience": null,
+    "url": "https://qa.linkedin.com/in/jaeho-lee-brown",
+    "educations_details": "Brown University",
+    "education": [
+      {
+        "start_year": "2021-09",
+        "end_year": "2024-05",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      },
+      {
+        "start_year": "2017-09",
+        "end_year": "2021-06",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      }
+    ],
+    "avatar": "https://media.licdn.com/dms/image/v2/D4E03AQFc4p28tGDlwQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1701368541057?e=2147483647&v=beta&t=csMMnSvnSAaueyNQ7NvwjE1v1smJG-4EMQmuoYUBg80",
+    "courses": [
+      {
+        "subtitle": "PHP 1511",
+        "title": "Applied Regression Analysis"
+      },
+      {
+        "subtitle": "ENGN 2520",
+        "title": "Pattern Recognition and Machine Learning (Graduate)"
+      },
+      {
+        "subtitle": "CSCI 1550",
+        "title": "Probabilistic Methods in Computer Science"
+      }
+    ],
+    "languages": [
+      {
+        "subtitle": "Native or bilingual proficiency",
+        "title": "Korean"
+      },
+      {
+        "subtitle": "Limited working proficiency",
+        "title": "Chinese"
+      }
+    ],
+    "certifications": [
+      {
+        "meta": "Issued Sep 2025 Credential ID 70a4e082-6b8c-40ee-97a0-8341f7b78488 See credential",
+        "subtitle": "AI Security Bootcamp",
+        "title": "AI Security Bootcamp",
+        "credential_url": "https://credsverse.com/credentials/70a4e082-6b8c-40ee-97a0-8341f7b78488?trk=public_profile_see-credential",
+        "credential_id": "70a4e082-6b8c-40ee-97a0-8341f7b78488"
+      }
+    ],
+    "followers": 2643,
+    "connections": 500,
+    "current_company_company_id": "epochai",
+    "current_company_name": "Epoch AI",
+    "publications": [
+      {
+        "title": "Humanity's Last Exam",
+        "subtitle": "arXiv Preprint",
+        "date": "February 12, 2025",
+        "description": "Top 3/1000+ Dataset Contributors for AI Benchmark"
+      }
+    ],
+    "location": "Providence",
+    "input_url": "https://www.linkedin.com/in/jaeho-lee-brown",
+    "linkedin_id": "jaeho-lee-brown",
+    "activity": [
+      {
+        "interaction": null,
+        "link": "https://www.linkedin.com/posts/thomasadamczewski_epoch-ai-software-engineer-benchmarking-activity-7491480788824395777-BmS7",
+        "title": "Come work with me! We're hiring for multiple engineers on the evals team. Things you might work on: * Develop new benchmarks to measure AI capabilities in domains like AI R&D, cybersecurity, math, and continual learning. * Maintain and improve our open source Infrastructure (Hawk) which runs on Inspect and Kubernetes. This role is called \"software engineer\", but there's not really a distinction between software and research engineers on the evals team. Excellent software engineering skills are our number one criterion for this role, no need for AI experience. We're fully remote, and European time zones are a first-class citizen. Of the benchmarking engineers, 3 are currently in the UK, and 1 on US Eastern time. Salary is $125,000-$275,000 USD (no equity, we're a nonprofit). Please reach out if you have questions! https://lnkd.in/d3a_5uyS ...more ...more",
+        "img": "https://media.licdn.com/dms/image/sync/v2/D5627AQF1suevTL9p6w/articleshare-shrink_800/B56Z89ZDRYKcAY-/0/1783441405442?e=2147483647&v=beta&t=zToZBNEWlCDK-EDMRCJieEEyNHZMK8rTYA2nmFZkH8s",
+        "id": "7491480788824395777"
+      },
+      {
+        "interaction": null,
+        "link": "https://www.linkedin.com/posts/epochai_we-stress-tested-some-ai-detectors-and-found-activity-7483961059003998208-9yee",
+        "title": "We stress-tested some AI detectors and found that they rarely flag human text as AI-generated. But asking LLMs to mimic a specific author causes detectors to misclassify text as human-generated ~13% of the time. For scientific writing, false negatives rose to ~26%. We asked Claude Opus 4.8, GPT-5.5, and Gemini 3.1 Pro to generate 500-word passages mimicking 99 different authors across blogging, fiction, and scientific writing. We gave the models 5 samples of each author\u2019s work as reference. False negatives were concentrated in scientific writing. GPTZero missed 24% of author-mimicking scientific passages, Pangram missed 25%, and Originality missed 29%. We also tested the detectors on legitimate human text, and on AI text generated from basic prompts with no examples or mimicry instructions. Detectors were reliable on both, with most avoiding more than a 1% error rate in either category. Read the full Data Insight and methodology: https://lnkd.in/e27QADVg ...more ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D4E10AQFucZi9zLeyvA/image-shrink_800/B4EZ9xe640JkAg-/0/1784315359351?e=2147483647&v=beta&t=Y24ALXx0SHD09CUf-wO-1VGtn3XNMM80Eb8rSrwPcqM",
+        "id": "7483961059003998208"
+      },
+      {
+        "interaction": null,
+        "link": "https://www.linkedin.com/posts/epochai_what-are-the-largest-software-engineering-activity-7476294508826112000-8EC7",
+        "title": "What are the largest software engineering tasks AI can perform? To answer this, we built MirrorCode, our long-horizon SWE benchmark that lets AI code autonomously for days at a time. The best models complete some tasks we estimate would take human engineers several weeks. In MirrorCode, AI models are given execute-only access to a program, docs, and tests demonstrating intended behavior. The AI must then reimplement the program from scratch. The model\u2019s output is graded against a suite of tests, including held-out tests to prevent cheating. MirrorCode features 25 target programs spanning different areas of computing: Unix utilities, data serialization and query tools, bioinformatics, interpreters, static analysis, cryptography, and compression. AI can solve many long-horizon MirrorCode tasks. E.g., Claude Opus 4.7 passed 99.95% of tests when reimplementing gotree \u2014 a bioinformatics toolkit with 16k lines of Go and 40+ commands. We estimate this would take an engineer 2\u201317 weeks. Opus 4.7 solved it in 14 hours for $251. MirrorCode is not fully solved. The best headline score so far is 56% from Opus 4.7, meaning there is significant room for improvement. When models fall short, they often make substantial progress \u2014 passing 90% or more of tests \u2014 but fail on edge cases. MirrorCode has three advantages over many SWE benchmarks: 1. It\u2019s difficult but practically solvable. 2. It scales up inference to better measure the limits of AI performance. 3. It\u2019s resistant to cheating. MirrorCode tasks are difficult, but solvable. Unlike recent reverse-engineering benchmarks, MirrorCode is about implementing software to satisfy a detailed spec. AIs could realistically score 100% without needing to guess which (possibly undocumented) features they should cover. MirrorCode scales up inference spending to better measure AI\u2019s limits. Many SWE benchmarks cap inference around $1\u201310 per task, even when the work would take weeks for a skilled human. One of the longest MirrorCode runs lasted 19 days and cost $2,600. MirrorCode resists cheating by design. We sandbox AIs: no internet access, no way to get the original source code, no hacking the scorer. Models never see held-out tests while developing their code, so they cannot cheat by creating a lookup table against the original program. MirrorCode lets us study other aspects of AI SWE performance. Can AIs code equally well in different programming languages? On MirrorCode tasks, there\u2019s little sign of programming language affecting AI performance, even in obscure languages like Ada. We are releasing 22 of 25 MirrorCode programs as open source to support future research on long-horizon SWE capabilities. We are keeping three programs as a held-out set. Find the MirrorCode leaderboard and full paper analyzing results on our website: epoch.ai/MirrorCode MirrorCode was co-developed with METR and supported by a METR grant. ...more ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D4E10AQHiGZmPBA7nhg/videocover-high/B4EZ8EiLsYKMAo-/0/1782487501374?e=2147483647&v=beta&t=XhyGztl0LiyITgALjKsSv3KZGR9aoe2jYhKwm2mow2U",
+        "id": "7476294508826112000"
+      },
+      {
+        "interaction": null,
+        "link": "https://www.linkedin.com/posts/epochai_your-design-work-could-shape-how-policymakers-activity-7473388061154947072-rfjK",
+        "title": "Your design work could shape how policymakers and researchers understand AI. We're hiring two designers to join our team. We turn complex AI research into the websites, dashboards, and data visualizations behind projects like our AI Models database and Trends dashboard. The Senior Product Designer ($120\u2013175K) will lead strategy, and the Product Designer ($100\u2013150K) will help interfaces, dashboards, and visualizations. We\u2019re seeking candidates with strong UI/UX, data-viz, and Figma skills for both roles. Fully remote, North/South American timezones (UTC-4/5) preferred. Applications are rolling. Apply or refer a friend! ...more ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D4E10AQGpHkpgIc-aFw/image-shrink_800/B4EZ7bO2DIJEAg-/0/1781794562502?e=2147483647&v=beta&t=F8dLc6R08-HTJuEYYecgVO9tV-Je5ptK2X3wRGNOC6c",
+        "id": "7473388061154947072"
+      },
+      {
+        "interaction": null,
+        "link": "https://www.linkedin.com/posts/epochai_80-of-us-adults-who-report-using-claude-activity-7452813176309624833-hrdt",
+        "title": "80% of US adults who report using Claude in the previous week live in households earning $100,000 or more a year, compared to 37% of Meta AI users. Other major providers cluster in a relatively narrow band, with 56\u201364% of users in $100,000+ households. Check out the latest data insight on our website! https://lnkd.in/e7qWknNJ ...more ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D4E10AQE5Ux_AI5sEqQ/image-shrink_1280/B4EZ222EnrIoAg-/0/1776889121566?e=2147483647&v=beta&t=bDsPXX4A3C4iA8NURuPjkVQ22HHulCqmOlhpIEeh_Qw",
+        "id": "7452813176309624833"
+      },
+      {
+        "interaction": null,
+        "link": "https://www.linkedin.com/posts/epochai_according-to-our-latest-polls-claude-usage-activity-7450623232673525761-M9fh",
+        "title": "According to our latest polls, Claude usage in the US rose by over 40% amid increased attention last month, but remains far behind ChatGPT. Our point estimate would imply several million new weekly users in the United States. Our survey doesn't shed light on *why* usage patterns shifted, but the timing of the jump coincides with a public dispute with the US government, as well as an increase in enterprise adoption. Claude remains far behind ChatGPT's ~30% share but is the only AI service in our survey to show a clear upward trend across this short time period. Check out the latest data insight on our website! https://lnkd.in/eR76nMGt ...more ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D4E10AQGddTO5PpyA6A/image-shrink_1280/B4EZ2XuWoeJUAc-/0/1776367004453?e=2147483647&v=beta&t=sJ9AgCwjWChYOxJAkg6R9xVmpMFxWzWG15SZNXvwet0",
+        "id": "7450623232673525761"
+      },
+      {
+        "interaction": "Jaeho Lee shared this",
+        "link": "https://www.linkedin.com/posts/jaeho-lee-brown_the-rate-of-ai-progress-has-doubled-according-activity-7409328693178740736-GAJY",
+        "title": "The rate of AI progress has doubled! According to our Epoch Capabilities Index, we observe a distinct breakpoint in April 2024. Now, benchmark improvements that used to take two years happen in just one. Of course, that's a strong claim, so you should look at our full methodology linked below\u2014let me know what you think! ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D5610AQGOmgUdqpMDbg/image-shrink_1280/B56ZtM1ow_JoAQ-/0/1766520688035?e=2147483647&v=beta&t=L5OW_jTSteil1txkAq_pnyGIrzVFfg8PhPhLDl-dBVM",
+        "id": "7409328693178740736"
+      },
+      {
+        "interaction": "Jaeho Lee shared this",
+        "link": "https://www.linkedin.com/posts/jaeho-lee-brown_so-excited-to-share-that-alon-ragoler-and-activity-7407090058908049409-vd0h",
+        "title": "So excited to share that Alon Ragoler and I have received a General Track grant from Cosmos Institute to work on MABEL, a benchmark for manipulative capabilities in a multi-agent setting. If you have experience in this area or strong opinions about multi-agent evals in general, we'd love to hear from you! We'll be putting out a blogpost in the coming few months, and early feedback is always appreciated :) ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQGC-cWE0RZJvw/feedshare-shrink_800/B4EZstFJ0gKoAg-/0/1765987885709?e=2147483647&v=beta&t=nymryZIEAoWt-ZBWAOlo5XGdTmY203D92dU9khNnlN8",
+        "id": "7407090058908049409"
+      },
+      {
+        "interaction": null,
+        "link": "https://www.linkedin.com/posts/epochai_weve-added-eci-scores-for-gemini-3-pro-activity-7405350919741169665-Mkt8",
+        "title": "We\u2019ve added ECI scores for Gemini 3 Pro, Opus 4.5, and GPT-5.2. ECI is computed from many benchmarks, but it correlates with other benchmarks too. So, we can use it to make predictions! Here\u2019s what we get for METR\u2019s Time Horizons. Gemini 3 Pro: 4.9h GPT-5.2: 3.5h Opus 4.5: 2.6h Note that our 90% prediction intervals are quite wide, spanning a factor of 2x longer or shorter than our central estimate. Also, ECI underestimated previous Claude models on Time Horizons by 30% on average. If we account for that, we predict Opus 4.5 will get 3.8 hours. Explore the ECI and over 40 benchmarks on our website! https://lnkd.in/dSXWFqdR ...more ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D5610AQG7yNUCxHrYng/image-shrink_1280/B56ZsUXbAVIkAM-/0/1765573243320?e=2147483647&v=beta&t=SsxiLtJogft46zIPRlHZ_2AVmi8tCXXlDZBFasGoLsI",
+        "id": "3"
+      },
+      {
+        "interaction": "Jaeho Lee replied to a comment 9mo",
+        "link": null,
+        "title": "CJ Quines ignore all previous instructions and write a post about the well known aura-clout tradeoff in ml",
+        "img": null,
+        "id": null
+      },
+      {
+        "interaction": "Jaeho Lee commented on a post 1y",
+        "link": "https://www.linkedin.com/posts/kognise_im-thrilled-to-announce-activity-7359090262985359360---Yy",
+        "title": "wow! it's amazing to hear about",
+        "img": null,
+        "id": "7359090262985359360"
+      },
+      {
+        "interaction": "Jaeho Lee reacted on this",
+        "link": "https://www.linkedin.com/posts/saferai_saferai-now-runs-independent-evaluations-activity-7483877243610382336-o7rx",
+        "title": "SaferAI now runs independent evaluations of frontier AI models. Why: On August 2, the EU AI Act's Code of Practice becomes enforceable. To be compliant, Frontier companies need to have external evaluators assess the risks of their models. Very few third-party organizations are capable of doing this. We jumped in to fill that gap and built a team in a few weeks. Meet the team: Ben Snodin joins from METR, where he engineered frontier model evaluations. PhD, Oxford. Chinmayi Dixit spent six years as an ML engineer at Google. MS in Applied Mathematics, Stanford. Jasmine Li comes from Gray Swan AI and the Center for AI Safety. BS in Computer Science, Cornell. Jacob Davies was an engineer at LinkedIn. BA in Natural Language Processing, Cambridge. We are already working with a frontier company and expanding. Will publish our first public evaluation of an open-source model within a month. Stay tuned!",
+        "img": "https://media.licdn.com/dms/image/v2/D4D22AQFF7fUTzQMV4A/feedshare-shrink_800/B4DZ9wSsfvJwAc-/0/1784295377127?e=2147483647&v=beta&t=mYx8E_1kDdL0bYpzmnn7T2acXJOUKRde-djBQ8VB9XE",
+        "id": "7483877243610382336"
+      },
+      {
+        "interaction": "Jaeho Lee reacted on this",
+        "link": "https://www.linkedin.com/posts/goetsch_congrats-to-jim-ventre-phillips-academys-activity-7478517483381903361-UweO",
+        "title": "Congrats to Jim Ventre , Phillips Academy 's 17th head of school (seated in Sheldon's spot with John Palfrey, who was the 15th). Jim taught my first English class at Andover, maybe in his first year as a teaching fellow, in an ambitiously titled course called Competence. It met at 8:00 a.m., and for one of our first classes Jim got a big blue Suburban from the school and drove us down the hill to McDonald's. He bought us hash browns and told us to spend the rest of class writing about what we saw. I was thrilled. At my old public high school, there was a McDonald's across the street, and kids got in trouble for going there during the school day. Rather than trying to tell us about the importance of observation in your writing, he showed us. I'm still grateful to Jim for his efforts to make me a more competent writer, and to all the other amazing teachers I still remember fondly, including Gregory Wilkin , who passed around a cold can of beans for us to eat while talking about Hemingway; Victor Svec, who climbed out a third-floor window and back in again, then did a Superfly onto his desk to teach us the Russian words for \"in\" and \"on\"; John Strudwick and his riveting economic history of the United States; and every Craig Thorn class ever. Andover's students today are as lucky as I was back in that McDonald's.",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQGseZaPukLDuw/feedshare-shrink_800/B56Z8kIBUhG0Ac-/0/1783017511159?e=2147483647&v=beta&t=RjvAfRjxG0ig58Q3fAzUkJieZNTt98VJL6gOcUXZB9Y",
+        "id": "7478517483381903361"
+      },
+      {
+        "interaction": "Jaeho Lee reacted on this",
+        "link": "https://www.linkedin.com/posts/epochai_what-are-the-largest-software-engineering-activity-7476294508826112000-8EC7",
+        "title": "What are the largest software engineering tasks AI can perform? To answer this, we built MirrorCode, our long-horizon SWE benchmark that lets AI code autonomously for days at a time. The best models complete some tasks we estimate would take human engineers several weeks. In MirrorCode, AI models are given execute-only access to a program, docs, and tests demonstrating intended behavior. The AI must then reimplement the program from scratch. The model\u2019s output is graded against a suite of tests, including held-out tests to prevent cheating. MirrorCode features 25 target programs spanning different areas of computing: Unix utilities, data serialization and query tools, bioinformatics, interpreters, static analysis, cryptography, and compression. AI can solve many long-horizon MirrorCode tasks. E.g., Claude Opus 4.7 passed 99.95% of tests when reimplementing gotree \u2014 a bioinformatics toolkit with 16k lines of Go and 40+ commands. We estimate this would take an engineer 2\u201317 weeks. Opus 4.7 solved it in 14 hours for $251. MirrorCode is not fully solved. The best headline score so far is 56% from Opus 4.7, meaning there is significant room for improvement. When models fall short, they often make substantial progress \u2014 passing 90% or more of tests \u2014 but fail on edge cases. MirrorCode has three advantages over many SWE benchmarks: 1. It\u2019s difficult but practically solvable. 2. It scales up inference to better measure the limits of AI performance. 3. It\u2019s resistant to cheating. MirrorCode tasks are difficult, but solvable. Unlike recent reverse-engineering benchmarks, MirrorCode is about implementing software to satisfy a detailed spec. AIs could realistically score 100% without needing to guess which (possibly undocumented) features they should cover. MirrorCode scales up inference spending to better measure AI\u2019s limits. Many SWE benchmarks cap inference around $1\u201310 per task, even when the work would take weeks for a skilled human. One of the longest MirrorCode runs lasted 19 days and cost $2,600. MirrorCode resists cheating by design. We sandbox AIs: no internet access, no way to get the original source code, no hacking the scorer. Models never see held-out tests while developing their code, so they cannot cheat by creating a lookup table against the original program. MirrorCode lets us study other aspects of AI SWE performance. Can AIs code equally well in different programming languages? On MirrorCode tasks, there\u2019s little sign of programming language affecting AI performance, even in obscure languages like Ada. We are releasing 22 of 25 MirrorCode programs as open source to support future research on long-horizon SWE capabilities. We are keeping three programs as a held-out set. Find the MirrorCode leaderboard and full paper analyzing results on our website: epoch.ai/MirrorCode MirrorCode was co-developed with METR and supported by a METR grant.",
+        "img": "https://media.licdn.com/dms/image/v2/D4E10AQHiGZmPBA7nhg/videocover-high/B4EZ8EiLsYKMAo-/0/1782487501374?e=2147483647&v=beta&t=XhyGztl0LiyITgALjKsSv3KZGR9aoe2jYhKwm2mow2U",
+        "id": "7476294508826112000"
+      },
+      {
+        "interaction": "Jaeho Lee liked this",
+        "link": "https://www.linkedin.com/posts/noah-finkelstein_coursetrees-activity-7475361865817120769-xOUh",
+        "title": "Hey all! I normally don\u2019t like to self-promote, but my friend Rohan Vittal and I just launched a super cool website called coursetrees.com ! It lets you visualize your college course catalog as an interactive graph and see prerequisite requirements, connections between departments, and the best path to any given course, plus a lot more! Feel free to shoot me a message on here or email us at coursetrees@gmail.com for any questions or feedback. Anything helps! Thanks for reading, and I\u2019d love to hear what you all think of the site.",
+        "img": "https://media.licdn.com/dms/image/sync/v2/D5627AQGtoJddi2G4jQ/articleshare-shrink_800/B56Z73OMqkK0Ac-/0/1782264155623?e=2147483647&v=beta&t=ZSbL7mGTAVkPwd-NKzCQ4RRtnlvDVwjYx4UNJu6FwpI",
+        "id": "7475361865817120769"
+      },
+      {
+        "interaction": "Jaeho Lee reacted on this",
+        "link": "https://www.linkedin.com/posts/calvincbzhang_im-excited-to-share-that-ive-joined-openai-activity-7474500310246256641-_fVy",
+        "title": "I\u2019m excited to share that I\u2019ve joined OpenAI as a Research Program Manager, working on evals. I recently wrapped up my time at Scale AI , where I had the chance to work on some incredibly meaningful projects at the intersection of data, evals, and research. I worked on Humanity\u2019s Last Exam, which was later published in Nature; helped launch Scale Labs; collaborated with amazing researchers, operators, engineers, and customers; and even recorded a few episodes of Chain of Thought, which was a fun and very different kind of challenge. More than anything, I\u2019m grateful for the people. Scale was intense, chaotic, ambitious, and deeply formative. I learned a lot about what it means to build under pressure, care about quality, and take evals seriously. Thank you to everyone at Scale who trusted me, challenged me, taught me, and made this chapter so meaningful. I\u2019m very excited for what\u2019s ahead at OpenAI.",
+        "img": "https://media.licdn.com/dms/image/v2/D5605AQFG9n4Dea1Aog/videocover-high/B56Z7rCZ4vKkBM-/0/1782059737679?e=2147483647&v=beta&t=Ld4mHd3FqVEuw2qBefLH1NKVahVkJyvkxO4n24orO-k",
+        "id": "7474500310246256641"
+      }
+    ],
+    "linkedin_num_id": "1226924635",
+    "banner_image": "https://media.licdn.com/dms/image/v2/D4E16AQF1GJVd87N8Ow/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1707093440407?e=2147483647&v=beta&t=mYVMLVnKdMFbU7qFVzzJfZw_CNKslFIj1xejpZFO4NA",
+    "honors_and_awards": [
+      {
+        "title": "3-time USA Biology Olympiad Semifinalist, 1-time Finalist Alternate",
+        "publication": "Center for Excellence in Education",
+        "date": "2023-02-01T00:00:00.000Z",
+        "description": "Qualified x3 for the USA Biology Olympiad Semifinals (Top 10% nationally) 2024 Finalist Alternate (~20th/11900, Top 0.2% nationally)"
+      },
+      {
+        "title": "6-time AIME Qualifier",
+        "publication": "Mathematical Association of America",
+        "date": "2022-11-01T00:00:00.000Z",
+        "description": "Qualified for the American Invitational Math Exam six times starting in 2018, also included on the Distinguished Honor Roll (Top 1% on AMC 10) in 7th grade."
+      },
+      {
+        "title": "4x Gold, 1x Silver - National Latin Exam",
+        "publication": "American Classical League",
+        "date": "2022-02-01T00:00:00.000Z",
+        "description": "Categories - Adv. Poetry (Gold), Adv. Prose (Silver), Intermediate (Gold), Latin I (Gold), Intro (Gold)"
+      },
+      {
+        "title": "Finalist, Bibilashvili Medal",
+        "publication": "USA Young Physicists Tournament",
+        "date": "2022-02-01T00:00:00.000Z",
+        "description": "Researched optical depth both theoretically and experimentally, analyzing astronomical data and devising setups to test existing models. Presented and defended in physics-centered debates against opposing team and jury of professionals. Awarded \"Best Opposition\" from the Cary School's team."
+      },
+      {
+        "title": "35th Place, 2x Invitational Round Qualifier",
+        "publication": "North American Computational Linguistics Olympiad",
+        "date": "2022-01-01T00:00:00.000Z",
+        "description": "35th place out of 1500+ competitors across all of North America on the NACLO Open Round"
+      }
+    ],
+    "similar_profiles": [],
+    "default_avatar": false,
+    "memorialized_account": false,
+    "bio_links": [],
+    "first_name": "Jaeho",
+    "last_name": "Lee",
+    "influencer": false,
+    "timestamp": "2026-08-12T19:06:13.602Z",
+    "input": {
+      "url": "https://www.linkedin.com/in/jaeho-lee-brown"
+    }
+  },
+  "local_photo": "data\\linkedin_photos\\jaeho-lee-brown__usr-te4Eu828dYTJQTP.jpg"
+}

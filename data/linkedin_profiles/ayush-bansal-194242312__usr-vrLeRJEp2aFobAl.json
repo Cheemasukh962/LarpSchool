@@ -1,0 +1,69 @@
+{
+  "luma_user_id": "usr-vrLeRJEp2aFobAl",
+  "csv_name": "Ayush",
+  "csv_linkedin": "https://www.linkedin.com/in/ayush-bansal-194242312",
+  "enriched_at": "2026-08-12T18:58:28.969619+00:00",
+  "batch_id": "sd_msqgad6c2eeefcaqas",
+  "profile": {
+    "id": "ayush-bansal-194242312",
+    "name": "Ayush Bansal",
+    "city": "Santa Clara, California, United States",
+    "country_code": "US",
+    "position": null,
+    "about": null,
+    "current_company": {
+      "location": null
+    },
+    "experience": [
+      {
+        "subtitle": "-",
+        "description_html": null,
+        "company": "Cupertino High School",
+        "company_logo_url": null
+      }
+    ],
+    "url": "https://ar.linkedin.com/in/Ayush-bansal-194242312",
+    "educations_details": "Cupertino High School",
+    "education": null,
+    "avatar": "https://media.licdn.com/dms/image/v2/D4D03AQECyDsN_4k4qw/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1718245952372?e=2147483647&v=beta&t=Y_gAGQENhuT9_wuGetlJVKxrCrDiQkIm1SPZQcQWPG4",
+    "languages": [
+      {
+        "subtitle": "Native or bilingual proficiency",
+        "title": "English"
+      },
+      {
+        "subtitle": "Elementary proficiency",
+        "title": "Hindi"
+      }
+    ],
+    "followers": 304,
+    "connections": 303,
+    "location": "Santa Clara",
+    "input_url": "https://www.linkedin.com/in/ayush-bansal-194242312",
+    "linkedin_id": "ayush-bansal-194242312",
+    "activity": [
+      {
+        "interaction": "Liked by Ayush Bansal",
+        "link": "https://www.linkedin.com/posts/tengiz-bibilashvili_bryant-yu-is-the-winner-of-the-european-physics-activity-7472673508704174080-HENg",
+        "title": "Bryant Yu is the winner of The European Physics Olympiad - best overall and best in theory! Other results: three gold one silver and one Honorable\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQH7kkH_UXULyA/feedshare-image-high-res/B4EZ7RE3ppJgAU-/0/1781624176517?e=2147483647&v=beta&t=h6OIw8arQfz8wCCdq1sP4GdIQ3AlayclxCDyzJ52-oA",
+        "id": "7472673508704174080"
+      }
+    ],
+    "linkedin_num_id": "1332333184",
+    "banner_image": "https://static.licdn.com/aero-v1/sc/h/5q92mjc5c51bjlwaj3rs9aa82",
+    "honors_and_awards": null,
+    "similar_profiles": [],
+    "default_avatar": false,
+    "memorialized_account": false,
+    "bio_links": [],
+    "first_name": "Ayush",
+    "last_name": "Bansal",
+    "influencer": false,
+    "timestamp": "2026-08-12T18:56:44.496Z",
+    "input": {
+      "url": "https://www.linkedin.com/in/ayush-bansal-194242312"
+    }
+  },
+  "local_photo": "data\\linkedin_photos\\ayush-bansal-194242312__usr-vrLeRJEp2aFobAl.jpg"
+}

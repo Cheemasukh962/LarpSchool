@@ -1,0 +1,359 @@
+{
+  "luma_user_id": "usr-mhqTFWkOSj8txQI",
+  "csv_name": "Sonja Wong",
+  "csv_linkedin": "https://www.linkedin.com/in/sonja-wong",
+  "enriched_at": "2026-08-12T19:18:07.755642+00:00",
+  "batch_id": "sd_msqh0fwb1tv6mjnbrd",
+  "profile": {
+    "id": "sonja-wong",
+    "name": "Sonja Wong",
+    "city": "Ithaca, New York, United States",
+    "country_code": "US",
+    "position": null,
+    "about": "Student at Cornell University pursuing a CS (BS+MS) degree with a Business minor. Native\u2026",
+    "current_company": {
+      "link": "https://www.linkedin.com/company/uber-com?trk=public_profile_topcard-current-company",
+      "name": "Uber",
+      "company_id": "uber-com",
+      "location": null
+    },
+    "experience": null,
+    "url": "https://tr.linkedin.com/in/sonja-wong",
+    "educations_details": "Cornell University",
+    "education": [
+      {
+        "title": "Cornell University",
+        "url": "https://www.linkedin.com/school/cornell-university/",
+        "start_year": "2024-08",
+        "end_year": "2027-05",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      },
+      {
+        "start_year": "2017",
+        "end_year": "2024",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      },
+      {
+        "start_year": "2012-09",
+        "end_year": "2017-07",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      }
+    ],
+    "avatar": "https://media.licdn.com/dms/image/v2/D5603AQHCxSOEHN0Ijg/profile-displayphoto-shrink_200_200/B56ZdCzDpgHoAY-/0/1749172371736?e=2147483647&v=beta&t=VpM5aXvA5omXgJjy3W3LammrYEaU2_LvWzUdps0nKOs",
+    "languages": [
+      {
+        "subtitle": "Native or bilingual proficiency",
+        "title": "English"
+      },
+      {
+        "subtitle": "Native or bilingual proficiency",
+        "title": "Cantonese"
+      },
+      {
+        "subtitle": "Professional working proficiency",
+        "title": "Chinese"
+      },
+      {
+        "subtitle": "Limited working proficiency",
+        "title": "French"
+      },
+      {
+        "subtitle": "Limited working proficiency",
+        "title": "German"
+      },
+      {
+        "subtitle": "Elementary proficiency",
+        "title": "Korean"
+      }
+    ],
+    "certifications": [
+      {
+        "meta": "Issued Jul 2025 Credential ID PWV3FZG68T4N See credential",
+        "subtitle": "IBM",
+        "title": "Generative AI Engineering Professional Certificate",
+        "credential_url": "https://www.coursera.org/account/accomplishments/specialization/PWV3FZG68T4N?trk=public_profile_see-credential",
+        "credential_id": "PWV3FZG68T4N"
+      },
+      {
+        "meta": "Issued Jun 2025 See credential",
+        "subtitle": "IBM",
+        "title": "IBM AI Associate Data Scientist",
+        "credential_url": "https://www.credly.com/badges/987f241b-1dba-4f56-baab-f6ef06ddb186/linked_in_profile?trk=public_profile_see-credential",
+        "credential_id": null
+      },
+      {
+        "meta": "Issued Mar 2023",
+        "subtitle": "Kultusministerkonferenz",
+        "title": "Deutsches Sprachdiplom der Kultusministerkonferenz II (DSD II) - C1",
+        "credential_url": null,
+        "credential_id": null
+      },
+      {
+        "meta": "Issued Jun 2022",
+        "subtitle": "Kultusministerkonferenz",
+        "title": "Deutsches Sprachdiplom der Kultusministerkonferenz I (DSD I) - B1",
+        "credential_url": null,
+        "credential_id": null
+      },
+      {
+        "meta": "Issued Jun 2022 Credential ID EHFLNFR23ZNL See credential",
+        "subtitle": "Coursera",
+        "title": "IBM Machine Learning Professional Certificate",
+        "credential_url": "https://www.coursera.org/account/accomplishments/specialization/certificate/EHFLNFR23ZNL?trk=public_profile_see-credential",
+        "credential_id": "EHFLNFR23ZNL"
+      },
+      {
+        "meta": "Issued Jan 2022",
+        "subtitle": "Trinity College London",
+        "title": "Percussion LTCL Music Diploma",
+        "credential_url": null,
+        "credential_id": null
+      },
+      {
+        "meta": "Issued Sep 2021 Credential ID E3ANK8WRCP2H See credential",
+        "subtitle": "Coursera",
+        "title": "IBM Data Science Professional Certificate",
+        "credential_url": "https://www.coursera.org/account/accomplishments/specialization/certificate/E3ANK8WRCP2H?trk=public_profile_see-credential",
+        "credential_id": "E3ANK8WRCP2H"
+      },
+      {
+        "meta": "Issued Oct 2020",
+        "subtitle": "Trinity College London",
+        "title": "Percussion ATCL Music Diploma",
+        "credential_url": null,
+        "credential_id": null
+      },
+      {
+        "meta": "Issued Jun 2019",
+        "subtitle": "ABRSM",
+        "title": "Violin ABRSM Grade 8 Exam",
+        "credential_url": null,
+        "credential_id": null
+      },
+      {
+        "meta": "Issued Jun 2017",
+        "subtitle": "ABRSM",
+        "title": "Piano ABRSM Grade 8 Exam",
+        "credential_url": null,
+        "credential_id": null
+      }
+    ],
+    "volunteer_experience": [
+      {
+        "cause": "Social Services",
+        "duration": "Jun 2022 \u00b7 - Present \u00b7 \n\n4 years 3 months",
+        "duration_short": "- Present",
+        "info": "Biweekly bread runs (Organiser: breadline) Frequently top 5 bread runners in Hong Kong",
+        "start_date": "Jun 2022",
+        "subtitle": "HandsOn Hong Kong",
+        "title": "Bread runner"
+      }
+    ],
+    "followers": 1847,
+    "connections": 500,
+    "current_company_company_id": "uber-com",
+    "current_company_name": "Uber",
+    "projects": [
+      {
+        "title": "Software Engineer Intern - Ghost Social",
+        "start_date": "Aug 2025",
+        "description": "- Frontend Development (React) and Design (Figma) of Voice AI Product at VC Funded Startup- Animations synced with Agentic AI Audio Generation"
+      }
+    ],
+    "organizations": [
+      {
+        "title": "Art Is Not Limited",
+        "membership_type": "Founder, Director, Social Media / Web Design, Composer, Lyricist, Musician",
+        "start_date": "Mar 2018",
+        "end_date": "Present",
+        "description": "Music non-profit organisation",
+        "membership_number": null
+      }
+    ],
+    "location": "Ithaca",
+    "input_url": "https://www.linkedin.com/in/sonja-wong",
+    "linkedin_id": "sonja-wong",
+    "activity": [
+      {
+        "interaction": "Sonja Wong shared this",
+        "link": "https://www.linkedin.com/posts/sonja-wong_as-im-wrapping-up-my-summer-in-sf-i-am-activity-7492640949462806528-lBih",
+        "title": "As I\u2019m wrapping up my summer in SF, I am happy to share that I have won the Uber Intern Hackathon, became a Cursor Campus Lead and won the first Cursor Campus Cup Hackathon! This past weekend was incredible, where I got to meet so many talented campus leads, explore new ways of using Cursor with their engineers and created a super useful tool for campus recruitment for the hackathon (rolling out to Cornell soon!!). Thank you so much Fiona Whittington for this amazing opportunity and this insane weekend, I am so excited to bring Cursor to Cornell/NY this fall - stay tuned!! If any Cornell clubs wanna collab, please reach out anytime!! ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQGMt0-m1UiiYw/feedshare-shrink_800/B56Z_sOB6PGUAc-/0/1786374529142?e=2147483647&v=beta&t=Zy6hAIGrWPJ_VqXMMnadWd2jfSuJgt1D1__6X4iJ67k",
+        "id": "7492640949462806528"
+      },
+      {
+        "interaction": "Sonja Wong shared this",
+        "link": "https://www.linkedin.com/posts/sonja-wong_it-was-such-a-great-experience-working-with-activity-7450191679908855808-i2CF",
+        "title": "It was such a great experience working with my teammates ( Jonathan Smith , Mathewos Ayelework , Gustavo Aldrey , Harsha Kalivarapu , Epaphras Akinola ) and mentors Bhavya Sree Bombay and Yiying Ding , huge thanks to everyone and to Goldman Sachs for this opportunity. ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D4D22AQGtvcmyVBbGuA/feedshare-shrink_800/B4DZ2Nxxw5HMAg-/0/1776200130111?e=2147483647&v=beta&t=SRv1tEM7QKS9vyPPqF516NKvKRBr1uohYaaUA1IO-Yw",
+        "id": "7450191679908855808"
+      },
+      {
+        "interaction": "Sonja Wong shared this",
+        "link": "https://www.linkedin.com/posts/sonja-wong_i-am-excited-to-announce-that-i-will-be-joining-activity-7402738569989300224-mHKx",
+        "title": "I am excited to announce that I will be joining Jane Street and IMC Trading this winter for their IN FOCUS and Women In Trading & Technology (WiTT) programs respectively! This will be a chance to deepen my understanding of both the engineering and trading sides of quantitative finance, and I look forward to meeting everyone in NYC and Chicago soon. ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQGHMrz9fxUQTA/feedshare-image-high-res/B56Zrtev.YLwAU-/0/1764920852572?e=2147483647&v=beta&t=fY6_FNEghTJo-CiGkKkfVmOSNRG6Z1E0qeanMg3lRqY",
+        "id": "7402738569989300224"
+      },
+      {
+        "interaction": "Sonja Wong shared this",
+        "link": "https://www.linkedin.com/posts/sonja-wong_ibm-internship-artificialintelligence-activity-7364280139288920065-h7dE",
+        "title": "I am grateful to have spent this summer as an intern at IBM working primarily with the Client Engineering (Data & AI) and Technical Sales teams. This experience has been incredibly rewarding, allowing me to develop a wide range of technical and professional skills. During my internship, I developed a Natural Language\u2013to\u2013SQL RAG agent integrated with backend Data Lakehouses for hospital workers\u2019 data enquiries, involving an Agentic AI workflow built with proprietary software and databases. This improved my understanding of AI beyond LLM / ML models and challenged me to think critically and work collaboratively with my mentors and colleagues. I also helped integrate Multi-GNN (Graph Neural Networks) anti-fraud models into production environments for large banking systems, which greatly improved my understanding of both fraud detection and the finance industry. A significant part of my development also came from utilising IBM\u2019s comprehensive modules and professional certifications. Through these resources, I strengthened my skills in AI Engineering, Data Science and improved my knowledge in banking and finance. I also explored topics such as LLM prompt injection vulnerabilities and cloud security, broadening my understanding of threats and innovative defence strategies. I would like to extend my deepest gratitude to Mimi Poon , Y.K. Chiu , Kayton KK Wan , Nan Shi , Tony Yam , Angel Chan and Daniel Lam , for their continuous support and willingness to share their expertise. The opportunity to connect and network with colleagues across different teams has been invaluable, broadening my understanding of the diverse roles within the firm. I am eager to apply all that I have learnt from this internship as I continue to pursue a career at the intersection of technology and financial services. #IBM #internship #artificialintelligence #financialservices #agenticAI ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D4D22AQHmALgcBfbgQw/feedshare-image-high-res/B4DZjIOtBcGkAo-/0/1755705954819?e=2147483647&v=beta&t=1VXunMPIDO7uhEos34p_mdYJwLLvBWxzS7wrfUF2E2w",
+        "id": "7364280139288920065"
+      },
+      {
+        "interaction": "Sonja Wong shared this",
+        "link": "https://www.linkedin.com/posts/sonja-wong_i-am-incredibly-excited-to-announce-that-activity-7323010986691481600-2hTe",
+        "title": "I am incredibly excited to announce that I will be joining IBM as a Data Analytics Intern this summer in the Hong Kong office. Looking forward to returning home before resuming research at Cornell Ann S. Bowers College of Computing and Information Science under David Bindel and competing with Cornell University Autonomous Underwater Vehicle in California in August! ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQHfM3GzUwj-3Q/feedshare-shrink_800/B56ZaCPr8vHsAg-/0/1745941873271?e=2147483647&v=beta&t=PIaNGo9Oyj7wAZtOn3_9jqdlBmb9EM2I9NQUpg-x5Es",
+        "id": "7323010986691481600"
+      },
+      {
+        "interaction": "Sonja Wong shared this",
+        "link": "https://www.linkedin.com/posts/sonja-wong_so-grateful-for-this-amazing-experience-at-activity-7317547322513465347-zk1C",
+        "title": "So grateful for this amazing experience at Millennium and a huge thank you to our mentor, Elif Babao\u011flu , and my teammates Kenza Daoudi , Douae M. , Varija M. and Krishna Patel! Initially, I focused on webscraping financial / sentiment data and API integration of various media platforms, which led to exploratory data analysis and ML financial forecasting after thorough data cleaning. ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQElWOHjuOA_4g/feedshare-shrink_800/B4EZYqysSxHgAg-/0/1744474654157?e=2147483647&v=beta&t=fQ8un1l6qLZij18UIoXT04zQap2LaGkb4vG9nA3IuNs",
+        "id": "7317547322513465347"
+      },
+      {
+        "interaction": "Sonja Wong commented on a post 2h",
+        "link": "https://www.linkedin.com/posts/natalie-cheung-a5b142257_i-am-delighted-to-share-that-i-have-accepted-activity-7493287234436042752-ZblN",
+        "title": "Congrats Natalie!!! So proud of you!!",
+        "img": null,
+        "id": "7493287234436042752"
+      },
+      {
+        "interaction": "Sonja Wong replied to a comment 1d",
+        "link": "https://www.linkedin.com/posts/sonja-wong_activity-7492823165539078144-_C7e",
+        "title": "Stefanie Rivera-Osorio yeppp so locked in \ud83d\udd12",
+        "img": null,
+        "id": "7492823165539078144"
+      },
+      {
+        "interaction": "Sonja Wong liked this",
+        "link": "https://www.linkedin.com/posts/natalie-cheung-a5b142257_i-am-delighted-to-share-that-i-have-accepted-activity-7493287234436042752-ZblN",
+        "title": "I am delighted to share that I have accepted a training contract offer at Herbert Smith Freehills Kramer following the Summer Vacation Scheme. Thank you to everyone in the teams I had the opportunity to sit with, and a huge thank you to my supervisors, Nish Dissanayake and Tamsin Baird , for their kindness, encouragement and guidance throughout the scheme. I really appreciated the opportunity to learn from the best and get involved in the firm\u2019s cutting-edge work. Thank you also to my trainee buddies, Max Robertson , Nancy Reid Oldham , and Becky Portas , for their support throughout the scheme and for always being so welcoming and approachable. I am also very grateful to Serena Read , Rosie Williams , Lauren Abraar , Alina Rudzeins and the entire Early Careers team for organising such an enjoyable and rewarding scheme and for their support throughout the process. Finally, thank you to everyone across the firm who took the time to speak with me and share their experiences. Every conversation gave me new insights into the firm and its people, and I am very grateful for everyone\u2019s generosity with their time and advice. A particular thank you to Emma Deas for giving me the opportunity to join the scheme and for taking the time to speak with me during the experience. Thank you again to everyone who made this opportunity possible. I am incredibly grateful and very excited for this next chapter!",
+        "img": "https://media.licdn.com/dms/image/v2/D4E05AQFgYMtiF7otzQ/videocover-high/B4EZ_2BAwiI0BQ-/0/1786538889438?e=2147483647&v=beta&t=6JU8Ul4n1iAMEENuhHTonkBrIwIgyDFHZUlWJ1FOhPk",
+        "id": "7493287234436042752"
+      },
+      {
+        "interaction": "Sonja Wong liked this",
+        "link": "https://www.linkedin.com/posts/gabrielshores_uber-internship-softwareengineering-activity-7493329588840812546-yXPP",
+        "title": "Just got back from my software engineering internship at Uber \ud83d\ude97\ud83c\udf89 I spent the summer on the Fares team, writing backend services for a critical system that handles pricing for millions of riders and drivers every day. I also focused on aggregating and improving our metrics through creating a metric tracking and alerting system end-to-end, along with Claude agent tools and AI integrations to take a serious chunk out of the issues developers on the team had to chase down. Also spent many of my weekends at hackathons around the Bay, including winning a pair of AirPods Max from Browserbase at a YC hackathon. Thank you to my manager, Sandhya Fernandes , my mentor, Manthan Shah , the Fares team, and my recruiter, Jeremy Gaines , for an impactful summer and for taking me from an Uber Eats driver to an Uber engineer. #Uber #Internship #SoftwareEngineering #NewGrad",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQHwC7wQN3iY1A/feedshare-image-high-res/B56Z_2njQgGsAU-/0/1786548991407?e=2147483647&v=beta&t=hl1dyLyIOgbzSUXSOSM0HyMiMyu5-Xm_UZui1Womo_8",
+        "id": "7493329588840812546"
+      },
+      {
+        "interaction": "Sonja Wong liked this",
+        "link": "https://www.linkedin.com/posts/aaryanm_as-promised-heres-my-full-thoughts-opinions-activity-7493160089978028032-ClMH",
+        "title": "As promised, here's my full thoughts & opinions on my experience at the Cursor Campus Lead Kickoff this last weekend! Spent three days at the Cursor office in SF with the rest of the Fall 2026 Campus Lead cohort. Huge thank you to Fiona for hosting: somehow ~35 people from schools all over the country actually felt like a community by the end of it. We built keyboards, met with partners from Dorm Room Fund and the founders behind Pointer , Autolab & Neural Motion on a rooftop in SF, and ended up at Insomnia Cookies at hours I will not defend. The best parts were outside the agenda, though. I had some of the most fun swapping notes on what everyone's trying to run on their own campuses this fall, figuring out who's dealing with the same club politics back home, meeting people I'd only ever seen as a LinkedIn name. I'm one of the Cal leads, so over the next few months I'll be bringing some of that energy back to Berkeley \u2013 workshops, build nights, collabs with clubs. Club leader at Berkeley looking to collaborate with Cursor to host events for your members and the overall Cal CS/EECS population? Reach out!",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQHlYYlFnA5zjA/feedshare-shrink_800/B56Z_0NYxdKUAg-/0/1786508579518?e=2147483647&v=beta&t=vhMUuCMLzZ5FBpXEgynPMlcA81PP0gGE4O1UiAAgnS0",
+        "id": "7493160089978028032"
+      },
+      {
+        "interaction": "Sonja Wong liked this",
+        "link": "https://www.linkedin.com/posts/adam-rousseau-094746141_grokbot-activity-7492995772087554049-ppPK",
+        "title": "Grok Bot is live! Technical recruiting at Cursor moves so fast that understanding company context is almost the whole job. Every morning at 9am, Grok Bot drops a Slack brief with internal product milestones and competitive intel on places like Anthropic, OpenAI, and Reflection AI. When I get on a call, I already know what shifted overnight. A wrap-up bot pulls from our people tab, ranks what actions still need addressed by EOD, and hands me direct links so candidates do not slip. Interview prep with extremely technical candidates used to be scattered notes. Now Grok Bot sits next to Granola, formats what matters into Ashby, and drafts technical pitches so candidates hear the real P0 work, not a generic pitch. In my first two months that loop is how I ramped on Supercompute topics I did not grow up in. It stitches Slack threads from channels I am not even in, which beat Notion AI for me because the data is already connected. I stopped bouncing between Claude and Notion AI for the same reason. One place that can see Ashby, Slack, and the rest of the stack beats five clever tabs. The quieter win is scorecards. Grok Bot aggregates hiring manager feedback and surfaces where loops stall. That used to cost me hours of manual work. The louder win is closing. One candidate was a violinist. I found that detail, got a Kemence of the black sea, which is a unique instrument similar to the violin, and the close felt personal. Still human judgment on every send. The bots own the prep and the assembly. Grok Bot is live today. Link to try it out is in the comments. SpaceXAI #GrokBot",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQFXYfKZaeNw5A/feedshare-shrink_800/B4EZ_x38fLIYAc-/0/1786469403531?e=2147483647&v=beta&t=yQQHKSynvscJmssKF_a-pW-F4xjZDY6uAKuBpSwFK3E",
+        "id": "7492995772087554049"
+      },
+      {
+        "interaction": "Sonja Wong liked this",
+        "link": "https://www.linkedin.com/posts/mirayajain_this-summer-i-entered-my-software-engineering-activity-7493122317678620672-DUKa",
+        "title": "This summer, I entered my software engineering internship at BlackRock with essentially no knowledge of asset management, and definitely not specialized knowledge about post trade workflows, derivatives operations, and collateral management. By the end of the internship, I had designed and implemented a wide range of backend contributions spanning several MCP tools, a multi-agent orchestration layer, and a custom RAG pipeline - all of which supported transparency into margin calculations for derivatives portfolios. My project gave me hands-on experience building agentic AI systems for a highly regulated environment, where accuracy and explainability matter just as much as functionality. I also focused on soaking up as much as I could about the broader industry by attending firesides and AMAs, coffee chatting with people across the firm - from systematic researchers to portfolio managers, and taking fun courses like Private Markets and Index Investing. More than anything, this internship taught me how to learn fast and build in an unfamiliar, technical domain. Huge thanks to Gururaj Govindarajulu and Raghu Gella as well as the entire Aladdin team for the mentorship and trust to run with my project, and to the fellow interns and analysts for all the SF sidequests. Very grateful for a rewarding summer!!",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQF5gFUrkeNDxw/feedshare-shrink_1280/B56Z_zrClMHIAM-/0/1786499574430?e=2147483647&v=beta&t=qImC2WNSNJ-GtEdxRzxPULMRKZebCG2jacAC3leL8kA",
+        "id": "7493122317678620672"
+      },
+      {
+        "interaction": "Sonja Wong liked this",
+        "link": "https://www.linkedin.com/posts/pneppalli_earlier-this-week-our-uber-engineering-teams-activity-7486887548514979840-Ko7w",
+        "title": "Earlier this week, our Uber Engineering teams came together for Dispatch: an incredible day of collaboration, learning, and connecting across our engineering sites around the world. We had an outstanding fireside chat with Boris Cherny , creator of Claude Code, alongside Uber's Adam Huda . Their conversation explored how AI is fundamentally changing software development, not by replacing engineers, but by enabling them to solve harder problems, move faster, and build in entirely new ways. Having grown up at Uber , one lesson has shaped how I think about building: the biggest impact comes from obsessing over hard, meaningful problems that matter to the business. Some of our best engineers spent years solving problems at Uber scale, open-sourced the technologies they created, and changed the industry in the process. Many later went on to build category-defining companies. It was a privilege to welcome back Samar Abbas (Co-Founder & CEO of Temporal Technologies ), Martin Mao , (Co-Founder & CEO of Chronosphere ), and Vinoth Chandar (Founder & CEO of Onehouse ). Their journeys all reinforce the same idea: don't start with \"I want to build a company.\" Start with \"I want to solve an important problem.\" Stay obsessed with it, keep building, and the rest can follow. Huge thanks to everyone who presented, participated, and helped make Dispatch such an inspiring event. The energy, curiosity, and technical depth across our teams make me incredibly excited for what we'll build next.",
+        "img": "https://media.licdn.com/dms/image/v2/D4D22AQHy32Ac4GGSvg/feedshare-shrink_800/B4DZ.bEirZI4Ag-/0/1785013088868?e=2147483647&v=beta&t=NF7eYOxX2-PMDunp3Np0vFHlxh74tIAnu78l__MXQSo",
+        "id": "7486887548514979840"
+      },
+      {
+        "interaction": "Sonja Wong liked this",
+        "link": "https://www.linkedin.com/posts/nayeli-naranjo_yc-startup-growth-activity-7493011287615037440-ZCPn",
+        "title": "A while back, I traveled to SF and promised myself I'd work for a YC-backed startup. Today, I joined OpenTrade (YC s26) . I'm not a developer; the Fellowship is about building my own brand and helping the company grow while I learn how a YC startup actually operates from the inside. Here's the problem we're obsessed with: most of us have money sitting in an account doing absolutely nothing. Not because we're broke, but because every option looks like a trap, and nobody wants to be the person who got it wrong. Turns out that's basically everyone our age. So instead of another app telling you to \"go learn investing,\" we built a game. OpenTrade: real companies, real market data, fake money. Make the call, find out if you were right, cost yourself nothing. Play your friends. Play ChatGPT. 17 games live already \u2014 Trade a Brainrot, Wallstreet Surfers (outrun Powell), ChartGuessr, and one literally called \"Gamble 30 Seconds.\" Takes a minute to try: https://lnkd.in/gYq6YwAF Feel free to DM if you have any questions #yc #startup - #growth #OpenTrade #sf",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQHIhNJ0vFqDFw/feedshare-shrink_1280/B56Z_yGD3DKAAM-/0/1786473103170?e=2147483647&v=beta&t=wQSGKt_rpFLhLmZGS7DSd5yIbuehiseJMu7qIakjvN0",
+        "id": "7493011287615037440"
+      }
+    ],
+    "linkedin_num_id": "679183272",
+    "banner_image": "https://media.licdn.com/dms/image/v2/D5616AQE4GHUvirFxmw/profile-displaybackgroundimage-shrink_200_800/B56ZoriYqwJ8AU-/0/1761667027815?e=2147483647&v=beta&t=TANlNc0nU_Fh1Nfdfu3RBxyS8UB_Yq_Cvhp_-7CIRDs",
+    "honors_and_awards": [
+      {
+        "title": "Petra Steinwehe Memorial Prize for Outstanding Contribution to the Arts",
+        "publication": "-",
+        "date": "2024-05-01T00:00:00.000Z",
+        "description": "First recipient in 3 years - awarded to a maximum of one student per year who has made significant contributions to the school\u2019s Arts community. - Chair of GSIS Music Ambassadors - Leader of Orchestra (Conductor, Composer, Perucssion Lead) and Band (Battle of the Bands, Songwriter) - Only student awarded Top Mark in the World for GCSE Music - PR and Design Lead"
+      },
+      {
+        "title": "HKGNA Fellowship",
+        "publication": "Hong Kong Generation Next Arts (HKGNA)",
+        "date": "2023-10-01T00:00:00.000Z",
+        "description": "The fellowship is currently awarded to only 2 other students nationwide for distinguished music and community service achievements. HKGNA pays the highest regard for each fellow's individual contribution and talents, aiming to promote artistic excellence and community service. The fellowship program consists of mentoring / guiding economically disadvantaged youth with music development, as well as performing in recitals and concerts."
+      },
+      {
+        "title": "The Harvard Prize Book Award",
+        "publication": "Harvard Club of Hong Kong Education Fund",
+        "date": "2023-02-01T00:00:00.000Z",
+        "description": "Awarded to Top 3 outstanding students in the next-to-graduating class who have achieved academic excellence, possess exceptional personal qualities, and have made a significant contribution to school / community."
+      },
+      {
+        "title": "UKMT Senior Mathematical Challenge - Gold",
+        "publication": "United Kingdom Mathematics Trust",
+        "date": "2023-01-01T00:00:00.000Z",
+        "description": null
+      },
+      {
+        "title": "Outstanding Pearson Learner Awards - Highest Mark in the World for GCSE Music",
+        "publication": "Pearson School Qualifications",
+        "date": "2022-06-01T00:00:00.000Z",
+        "description": null
+      },
+      {
+        "title": "ESF Innofair 2022 Most Creative Award",
+        "publication": "ESF Innofair Committee",
+        "date": "2022-03-01T00:00:00.000Z",
+        "description": "Awarded to the participant that has demonstrated the most creativity and out-of-the-box thinking in their research and ability to overcome challenges. The Innovation Fair (InnoFair) is an annual science fair competition open to Hong Kong students between Y10s to Y13s. In the fair, students are encouraged to explore and investigate genuine interest in their chosen fields of STEM through conducting research and presenting findings in a final exhibition and competition for fellow peers, teachers\u2026 Show more"
+      },
+      {
+        "title": "UKMT Intermediate Mathematics Challenge - Gold",
+        "publication": "United Kingdom Mathematics Trust",
+        "date": "2022-03-01T00:00:00.000Z",
+        "description": null
+      },
+      {
+        "title": "Certificate of Merit, Academic Excellence",
+        "publication": "German Swiss International School",
+        "date": "2021-06-01T00:00:00.000Z",
+        "description": "Received consistently (every term) since Year 8 (2018)"
+      }
+    ],
+    "similar_profiles": [],
+    "default_avatar": false,
+    "memorialized_account": false,
+    "bio_links": [
+      {
+        "title": "Portfolio",
+        "link": "https://sonja-wong.vercel.app/"
+      }
+    ],
+    "first_name": "Sonja",
+    "last_name": "Wong",
+    "influencer": false,
+    "timestamp": "2026-08-12T19:17:02.640Z",
+    "input": {
+      "url": "https://www.linkedin.com/in/sonja-wong"
+    }
+  },
+  "local_photo": "data\\linkedin_photos\\sonja-wong__usr-mhqTFWkOSj8txQI.jpg"
+}

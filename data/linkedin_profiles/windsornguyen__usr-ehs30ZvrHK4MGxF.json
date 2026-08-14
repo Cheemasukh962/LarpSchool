@@ -1,0 +1,300 @@
+{
+  "luma_user_id": "usr-ehs30ZvrHK4MGxF",
+  "csv_name": "Windsor Nguyen",
+  "csv_linkedin": "https://www.linkedin.com/in/windsornguyen",
+  "enriched_at": "2026-08-12T19:25:08.251201+00:00",
+  "batch_id": "sd_msqh7u7r1xzwli6vdk",
+  "profile": {
+    "id": "windsornguyen",
+    "name": "Windsor Nguyen",
+    "city": "Appleton, Wisconsin, United States",
+    "country_code": "US",
+    "position": null,
+    "about": "I'm a senior at Princeton University studying computer science. I'm mainly\u2026",
+    "current_company": {
+      "link": "https://www.linkedin.com/company/dedalus-labs?trk=public_profile_topcard-current-company",
+      "name": "Dedalus Labs",
+      "company_id": "dedalus-labs",
+      "location": null
+    },
+    "experience": null,
+    "url": "https://eg.linkedin.com/in/Windsornguyen",
+    "people_also_viewed": [
+      {
+        "profile_link": "https://www.linkedin.com/in/terence-o-leary-88aa9655",
+        "name": "Terence O'Leary",
+        "about": "St. Lucie Public Schools",
+        "location": "11K followers Fort Pierce, FL"
+      },
+      {
+        "profile_link": "https://www.linkedin.com/in/osamaabusuleiman",
+        "name": "Osama Abusuleiman",
+        "about": "MarVanta Digital Solutions",
+        "location": "7K followers Tampa, FL"
+      },
+      {
+        "profile_link": "https://www.linkedin.com/in/j-p-linstroth-a7694b25",
+        "name": "J P Linstroth",
+        "about": "Palm Beach State College",
+        "location": "5K followers West Palm Beach, FL"
+      },
+      {
+        "profile_link": "https://www.linkedin.com/in/principalryan",
+        "name": "Paul Ryan, M.Ed.",
+        "about": "Harmony Public Schools",
+        "location": "10K followers Sugar Land, TX"
+      },
+      {
+        "profile_link": "https://www.linkedin.com/in/paul-bambrick-santoyo-570a1b5",
+        "name": "Paul Bambrick-Santoyo",
+        "about": "Leverage Leadership Institute",
+        "location": "9K followers Newark, NJ"
+      },
+      {
+        "profile_link": "https://www.linkedin.com/in/adela-jorge-53418b28",
+        "name": "Adela Jorge",
+        "about": "New Haven Public Schools",
+        "location": "6K followers New York City Metropolitan Area"
+      },
+      {
+        "profile_link": "https://www.linkedin.com/in/monteray-brown-frazier-542156125",
+        "name": "Monteray (Brown) Frazier",
+        "about": "RETIRED",
+        "location": "9K followers Atlanta Metropolitan Area"
+      },
+      {
+        "profile_link": "https://www.linkedin.com/in/tommie-morgan-6a5915165",
+        "name": "Tommie Morgan",
+        "about": "JESA H.S.",
+        "location": "15K followers Garland, TX"
+      },
+      {
+        "profile_link": "https://www.linkedin.com/in/paige-r-484161153",
+        "name": "Paige R",
+        "about": "Care Hope College",
+        "location": "5K followers Boynton Beach, FL"
+      }
+    ],
+    "educations_details": "Y Combinator",
+    "education": [
+      {
+        "start_year": "2025-08",
+        "end_year": "2030-05",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      },
+      {
+        "start_year": "2021-09",
+        "end_year": "2025-05",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      }
+    ],
+    "avatar": "https://media.licdn.com/dms/image/v2/D5603AQEuWy8waDW8QA/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1662608450181?e=2147483647&v=beta&t=1UlLS9qzeQDU8DMDs2p4Co47UKXNHiI29d2HIl-wUIM",
+    "courses": [
+      {
+        "subtitle": "COS 597Q",
+        "title": "AI Safety and Alignment"
+      },
+      {
+        "subtitle": "COS 226",
+        "title": "Algorithms and Data Structures"
+      },
+      {
+        "subtitle": "POL 362",
+        "title": "Chinese Politics"
+      },
+      {
+        "subtitle": "COS 320",
+        "title": "Compilers"
+      },
+      {
+        "subtitle": "COS 429",
+        "title": "Computer Vision"
+      },
+      {
+        "subtitle": "POL 302",
+        "title": "Continental Political Thought"
+      },
+      {
+        "subtitle": "ORF 363",
+        "title": "Convex Optimization"
+      },
+      {
+        "subtitle": "ORF 543",
+        "title": "Deep Learning Theory"
+      },
+      {
+        "subtitle": "COS 418",
+        "title": "Distributed Systems"
+      },
+      {
+        "subtitle": "COS 350",
+        "title": "Ethics of Computing"
+      },
+      {
+        "subtitle": "COS 333",
+        "title": "Full-Stack Web Development"
+      },
+      {
+        "subtitle": "EGR 491",
+        "title": "High-Tech Entrepreneurship"
+      },
+      {
+        "subtitle": "COS 217",
+        "title": "Introduction to Programming Systems"
+      },
+      {
+        "subtitle": "ECE 433 / COS 435",
+        "title": "Introduction to Reinforcement Learning"
+      },
+      {
+        "subtitle": "COS 484",
+        "title": "Natural Language Processing"
+      },
+      {
+        "subtitle": "ORF 309",
+        "title": "Probability and Stochastic Systems"
+      },
+      {
+        "subtitle": "FRS 138",
+        "title": "Representation in Documentary Filmmaking"
+      },
+      {
+        "subtitle": "SPA 207S",
+        "title": "Studies in Spanish Language and Style"
+      },
+      {
+        "subtitle": "ECE 434",
+        "title": "Theoretical Machine Learning"
+      },
+      {
+        "subtitle": "COS 423",
+        "title": "Theory of Algorithms"
+      }
+    ],
+    "languages": [
+      {
+        "subtitle": "Native or bilingual proficiency",
+        "title": "Vietnamese"
+      },
+      {
+        "subtitle": "Native or bilingual proficiency",
+        "title": "English"
+      },
+      {
+        "subtitle": "Professional working proficiency",
+        "title": "Spanish"
+      }
+    ],
+    "followers": 3919,
+    "connections": 500,
+    "current_company_company_id": "dedalus-labs",
+    "current_company_name": "Dedalus Labs",
+    "publications": [
+      {
+        "title": "Flash STU: Fast Spectral Transform Units",
+        "subtitle": "arXiv",
+        "date": "September 16, 2024",
+        "description": "We open source a PyTorch implementation of the Spectral Transform Unit (STU) as proposed in Agarwal et al. (2024). We investigate sequence prediction tasks over several modalities including language, robotics, and simulated dynamical systems. We find that for the same parameter count, the STU and its variants outperform the leading state-of-the-art models, such as the Transformer and other leading state space models across various modalities."
+      }
+    ],
+    "location": "Appleton",
+    "input_url": "https://www.linkedin.com/in/windsornguyen",
+    "linkedin_id": "windsornguyen",
+    "activity": [
+      {
+        "interaction": "Liked by Windsor Nguyen",
+        "link": "https://www.linkedin.com/posts/stephaniesgao_last-month-lor%C3%A9al-flew-me-to-paris-to-pitch-activity-7491207627092217856-YFxO",
+        "title": "Last month, L\u2019Or\u00e9al flew me to Paris to pitch a perfume. This month, I created a fragrance line at a infra tech company. Yes, you read that\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQG4hs1l8O49Kw/feedshare-image-high-res/B56Z_Ydo5lJoAU-/0/1786043076447?e=2147483647&v=beta&t=_zW4wvvoGO0thJbx_6uzqoR5jBDLJPt7G9Rk87Kchz4",
+        "id": "7491207627092217856"
+      },
+      {
+        "interaction": "Liked by Windsor Nguyen",
+        "link": "https://www.linkedin.com/posts/adelaiderosene_im-so-thrilled-to-share-i-recently-transitioned-activity-7488371772002578432-DG6s",
+        "title": "I'm so thrilled to share I recently transitioned to a full time role with the UW Odyssey Project as the Odyssey Junior Coordinator! About a year\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQHrP9O-GMQXWw/feedshare-shrink_800/B56Z.wIzcYHcAc-/0/1785366527443?e=2147483647&v=beta&t=4rpZkWmUxV8YDxOeRuftNMzO_bKbwhITA68sThqajuw",
+        "id": "7488371772002578432"
+      },
+      {
+        "interaction": "Liked by Windsor Nguyen",
+        "link": "https://www.linkedin.com/posts/ccecka_cute-layout-representation-and-algebra-activity-7488262138063376384-7T6e",
+        "title": "PyCuTe, the reference implementation for CuTe Layouts, is now available! https://lnkd.in/g9t_iWZR PyCuTe implements everything from the CuTe\u2026",
+        "img": "https://media.licdn.com/dms/image/sync/v2/D5627AQGrxWxIQ_g4Kw/articleshare-shrink_800/B56Zy2gxKtJMAI-/0/1772588569565?e=2147483647&v=beta&t=RaMd2yBxiigH5FijiJpjXWZ8iaB0fc2wExBwkuZLU8I",
+        "id": "7488262138063376384"
+      },
+      {
+        "interaction": "Liked by Windsor Nguyen",
+        "link": "https://www.linkedin.com/posts/akothari_two-weeks-ago-my-dentist-emailed-his-patients-activity-7487881601025167360-S87x",
+        "title": "Two weeks ago my dentist emailed his patients: after decades of work, he was finally retiring. His staff and patients, me included, wrote back\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQGPN2B4IQ_66A/feedshare-shrink_800/B4EZ.pMo3iJQAc-/0/1785250090842?e=2147483647&v=beta&t=r-5yoJIF4h9kxw8TGDM90n9wyFbjSIldP6OEaF9GwjY",
+        "id": "7487881601025167360"
+      },
+      {
+        "interaction": "Liked by Windsor Nguyen",
+        "link": "https://www.linkedin.com/posts/cathydi_trailer-deus-ex-machina-2026-sf-july-activity-7486124060251447296-gvc6",
+        "title": "Trailer: Deus Ex Machina (2026) SF / July 25th / YC startup school afterparty ft. Koyal (YC F25)",
+        "img": "https://media.licdn.com/dms/image/v2/D4E05AQHoZrT9K1f46Q/videocover-high/B4EZ.QOH.wJUA4-/0/1784831053394?e=2147483647&v=beta&t=J774vK0t36fAngdPzliGmqGi2NFT-xWMXjckc45sRTc",
+        "id": "2026"
+      },
+      {
+        "interaction": "Liked by Windsor Nguyen",
+        "link": "https://www.linkedin.com/posts/samalba_some-news-the-mendral-team-is-joining-anthropic-activity-7485355438776111106-K_mO",
+        "title": "Some news: The Mendral team is joining Anthropic. Andrea Luzzardi and I started Mendral (YC W26) to automate the engineering work that isn't your\u2026",
+        "img": "https://static.licdn.com/aero-v1/sc/h/53n89ecoxpr1qrki1do3alazb",
+        "id": "7485355438776111106"
+      },
+      {
+        "interaction": "Liked by Windsor Nguyen",
+        "link": "https://www.linkedin.com/posts/shlokdpatel_the-us-surgeon-general-says-loneliness-activity-7483878172137070592-YpK-",
+        "title": "The U.S. Surgeon General says loneliness is as deadly as smoking 15 cigarettes a day. Indiana University reports that ~50% of older adults in the\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQH1_pt_Domxgw/feedshare-shrink_800/B4EZ9wTiQqJMAc-/0/1784295599208?e=2147483647&v=beta&t=iswGKh8Wyv7OvCcOojhi3DcSnPe-t4a2gxgLpxDfdTk",
+        "id": "7483878172137070592"
+      },
+      {
+        "interaction": "Liked by Windsor Nguyen",
+        "link": "https://www.linkedin.com/posts/mehul-agarwal-a274a0287_were-hosting-the-official-y-combinator-startup-activity-7483222994480263168-F2aN",
+        "title": "We're hosting the official Y Combinator Startup School Afterparty. There's a speakeasy in SF no one has set foot in. We know because we checked\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQG9n_PRcrOrFQ/feedshare-shrink_800/B4EZ9m_qKUKQAg-/0/1784139392317?e=2147483647&v=beta&t=MwLe8kIjvda2qL5CLF1rWqnrjRuwK5lbRIE39bTrgcA",
+        "id": "7483222994480263168"
+      },
+      {
+        "interaction": "Liked by Windsor Nguyen",
+        "link": "https://www.linkedin.com/posts/nick-rabe-eit-084164289_this-week-tessa-edge-and-i-attended-the-activity-7481422687592992768-gKlx",
+        "title": "This week, Tessa Edge and I attended the IDDEA Conference in Altoona, IA. It was a great opportunity to expand our understanding of Bentley Systems\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQFVvIoyZ-f-yA/feedshare-shrink_800/B56Z9NaSo5KUAc-/0/1783710165793?e=2147483647&v=beta&t=fJYhbIxZFGMy56KtGX_Yfj6Y6IXRwom-4P6r3axT97g",
+        "id": "7481422687592992768"
+      },
+      {
+        "interaction": "Liked by Windsor Nguyen",
+        "link": "https://www.linkedin.com/posts/vitus-larrieu-ab8504239_i-spent-the-weekend-biking-around-san-francisco-activity-7472730036068958208-6gwm",
+        "title": "I spent the weekend biking around San Francisco buying hyper specific flower vases. Here's what it taught me about AI B2B SaaS. I kid, but I did\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQFzocxDf8276g/feedshare-image-high-res/B56Z7R4XAIKsAU-/0/1781637675743?e=2147483647&v=beta&t=zuDmjhroYM90neJszjvitV5hhRrZBBm-TuAvosSzQfA",
+        "id": "7472730036068958208"
+      }
+    ],
+    "linkedin_num_id": "820222119",
+    "banner_image": "https://media.licdn.com/dms/image/v2/D5616AQE7jl2uzz4jww/profile-displaybackgroundimage-shrink_200_800/B56ZnplK29J8AU-/0/1760560466150?e=2147483647&v=beta&t=Q-nrCqf09wsACdXKouyzW_p_nNkGYV_aS7Nc8ewVjcY",
+    "honors_and_awards": null,
+    "similar_profiles": [],
+    "default_avatar": false,
+    "memorialized_account": false,
+    "bio_links": [
+      {
+        "title": "Personal Website",
+        "link": "https://www.instagram.com/windsor.nguyen"
+      }
+    ],
+    "first_name": "Windsor",
+    "last_name": "Nguyen",
+    "influencer": false,
+    "timestamp": "2026-08-12T19:22:45.471Z",
+    "input": {
+      "url": "https://www.linkedin.com/in/windsornguyen"
+    }
+  },
+  "local_photo": "data\\linkedin_photos\\windsornguyen__usr-ehs30ZvrHK4MGxF.jpg"
+}

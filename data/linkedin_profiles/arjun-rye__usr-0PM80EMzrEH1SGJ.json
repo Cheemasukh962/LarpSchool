@@ -1,0 +1,124 @@
+{
+  "luma_user_id": "usr-0PM80EMzrEH1SGJ",
+  "csv_name": "Arjun Rai",
+  "csv_linkedin": "https://www.linkedin.com/in/arjun-rye",
+  "enriched_at": "2026-08-12T18:58:28.954711+00:00",
+  "batch_id": "sd_msqgad6c2eeefcaqas",
+  "profile": {
+    "id": "arjun-rye",
+    "name": "Arjun Rai",
+    "city": "San Francisco, California, United States",
+    "country_code": "US",
+    "position": null,
+    "about": "Hello, I am a Computer Science student at Rice University. My interests include AI and\u2026",
+    "current_company": {
+      "link": "https://www.linkedin.com/company/moss-ag?trk=public_profile_topcard-current-company",
+      "name": "moss",
+      "company_id": "moss-ag",
+      "location": null
+    },
+    "experience": null,
+    "url": "https://ru.linkedin.com/in/arjun-rye",
+    "educations_details": "Rice University",
+    "education": null,
+    "avatar": "https://media.licdn.com/dms/image/v2/D4E03AQEcUYZKRypOMw/profile-displayphoto-shrink_200_200/B4EZXOFTzDHcAk-/0/1742919253568?e=2147483647&v=beta&t=tGJJHHUAIIVdE4BKIYTNWvX5JjvDY1LTGQ8YTwwzDpk",
+    "followers": 471,
+    "connections": 471,
+    "current_company_company_id": "moss-ag",
+    "current_company_name": "moss",
+    "projects": [
+      {
+        "title": "BranchBite",
+        "start_date": "May 2025",
+        "description": "A full-stack recipe management platform with AI-powered recipe importing from web and social media, Git-like version control for collaborative editing, and MySQL optimizations enabling fast search across 190K+ recipes. Developed LLM pipelines for grocery list generation and nutrition estimation."
+      },
+      {
+        "title": "Better Search",
+        "description": "An LLM agent to do product research on behalf of the user"
+      }
+    ],
+    "location": "San Francisco",
+    "input_url": "https://www.linkedin.com/in/arjun-rye",
+    "linkedin_id": "arjun-rye",
+    "activity": [
+      {
+        "interaction": "Liked by Arjun Rai",
+        "link": "https://www.linkedin.com/posts/moss-ag_last-week-we-welcomed-friends-families-activity-7491247621735596033-LOgG",
+        "title": "Last week, we welcomed friends, families, and partners of the moss robotics community to celebrate our move to San Francisco and officially warm our\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQHAgAy61Zk67g/feedshare-shrink_800/B4EZ_ZCANNIUAg-/0/1786052609428?e=2147483647&v=beta&t=6eJNABdzZVTEXaAbzzjVYrmsCdojn1d_cWJA7Vsh9N4",
+        "id": "7491247621735596033"
+      },
+      {
+        "interaction": "Liked by Arjun Rai",
+        "link": "https://www.linkedin.com/posts/austin-t-hughes_today-were-announcing-unifys-next-chapter-activity-7475563430112915456-P9HX",
+        "title": "Today we\u2019re announcing Unify\u2019s next chapter. 3 years ago, Connor and I founded Unify ~2 months after ChatGPT\u2019s release, with the deep belief that AI\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4E05AQG-L_1HJzruSQ/videocover-high/B4EZ74ZvBtHABM-/0/1782283959018?e=2147483647&v=beta&t=aE-kP9Gst2RrXpBQ8HKiSz1SFXl6hMEYcu2UACb7OrM",
+        "id": "7475563430112915456"
+      },
+      {
+        "interaction": "Liked by Arjun Rai",
+        "link": "https://www.linkedin.com/posts/cdominguez-rice_productmanagement-capitalone-internships-activity-7472966867033239552-6eeH",
+        "title": "Hello everyone! Excited to share that I was selected to attend Capital One\u2019s Product Summit, taking place today and tomorrow. Looking forward to\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQE437kxUeMNAQ/feedshare-shrink_800/B4EZ7VPxNmHMAc-/0/1781694141530?e=2147483647&v=beta&t=9E0khfyv_f_-pWe5zPaL1Gqbmo7whXr2xvfRiL1QCMo",
+        "id": "7472966867033239552"
+      },
+      {
+        "interaction": "Liked by Arjun Rai",
+        "link": "https://www.linkedin.com/posts/spandan-p_treehacks-google-stanford-activity-7429786353749426178-uuxe",
+        "title": "Wrapped up TreeHacks this past weekend and... we won! Our team placed 2nd in the Cloud AI Track sponsored by Google. After 36 hours of coming up\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQFxoapG5X_hiw/feedshare-shrink_800/B56ZxvnUMXJ4Ak-/0/1771399103598?e=2147483647&v=beta&t=hHQ9a9ZrbC9yQ8FuZgRpjTcdGWwzT0FL3d__7deJKeg",
+        "id": "7429786353749426178"
+      },
+      {
+        "interaction": "Liked by Arjun Rai",
+        "link": "https://www.linkedin.com/posts/ashwin-hao-iyer_im-excited-to-share-that-ive-accepted-an-activity-7389375475359461376-FrYr",
+        "title": "I\u2019m excited to share that I\u2019ve accepted an offer to join the Global Risk & Analytics Team at Wellington Management for my upcoming co-op. A huge\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQFQcC3C5fxhuQ/feedshare-image-high-res/B56ZoxIiUpIYAo-/0/1761760913102?e=2147483647&v=beta&t=Tgq4-wRj8EZh0MuXzvArwd5AKyXEg2hXqHAaXwMyxfo",
+        "id": "7389375475359461376"
+      },
+      {
+        "interaction": "Liked by Arjun Rai",
+        "link": "https://www.linkedin.com/posts/yassin-hafid_i-uploaded-our-entire-investment-memo-on-activity-7387457849171406848-yqj0",
+        "title": "\u201cI uploaded our entire investment memo on this company\u2026 and it was like, perfect.\u201d That\u2019s what a VC told me during one of our pilot reviews last\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQFsPuNTxOQ80g/feedshare-shrink_800/B56ZoS55.iHIAg-/0/1761253762911?e=2147483647&v=beta&t=aiNQX7TJb0klfOXW1ZoQfjEtTQgRQfWM5ML-3u0oHw4",
+        "id": "7387457849171406848"
+      },
+      {
+        "interaction": "Liked by Arjun Rai",
+        "link": "https://www.linkedin.com/posts/blegrand881_so-excited-to-share-my-work-on-an-okra-harvesting-activity-7362913393546047488-q5ya",
+        "title": "So excited to share my work on an Okra Harvesting Robot Prototype Our team was tasked with designing an okra-harvesting robot prototype: the final\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5605AQGP1d9cMId2rg/videocover-high/B56ZivYjYbG4CI-/0/1755289135297?e=2147483647&v=beta&t=G_YCAteWlfce6WL8ONWYqs1Tm7Y47JzqH0366P-P4x4",
+        "id": "7362913393546047488"
+      },
+      {
+        "interaction": "Liked by Arjun Rai",
+        "link": "https://www.linkedin.com/posts/austin-t-hughes_today-im-thrilled-to-share-that-unify-has-activity-7350901973308592128-0Jtr",
+        "title": "Today I\u2019m thrilled to share that Unify has raised a $40M Series B led by Battery with participation from OpenAI, Thrive, Emergence, and others. Our\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQH-tZtlCa0d9g/feedshare-shrink_800/B56ZgKxhjUG4Ag-/0/1752527412325?e=2147483647&v=beta&t=AecUsCoHzHfy67j_IhmrumoukCW8CQgpd3Z9G-IwYMU",
+        "id": "7350901973308592128"
+      },
+      {
+        "interaction": "Liked by Arjun Rai",
+        "link": "https://www.linkedin.com/posts/kunalsrai_creating-robust-evals-is-a-critical-component-activity-7321595704592797696-wOS2",
+        "title": "Creating robust evals is a critical component of building production ready AI Agents. Since we launched AI Agents last year at Unify, we have had to\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQHh2yLALaYmAw/feedshare-shrink_800/B4EZZuIbRBHYAw-/0/1745604443952?e=2147483647&v=beta&t=aCsMY11kWj_K4_W9k3VT19z2JrnZwUWR54Dqz-ClbeQ",
+        "id": "7321595704592797696"
+      }
+    ],
+    "linkedin_num_id": "1397562570",
+    "banner_image": "https://media.licdn.com/dms/image/v2/D4E16AQGW7N5klTODlg/profile-displaybackgroundimage-shrink_200_800/B4EZXOFEfwGwAY-/0/1742919191141?e=2147483647&v=beta&t=zBxZjhRPhcpXeXCpkE-pkM6HMkgrwNstvBGpYBPjRcs",
+    "honors_and_awards": null,
+    "similar_profiles": [],
+    "default_avatar": false,
+    "memorialized_account": false,
+    "bio_links": [],
+    "first_name": "Arjun",
+    "last_name": "Rai",
+    "influencer": false,
+    "timestamp": "2026-08-12T18:56:44.867Z",
+    "input": {
+      "url": "https://www.linkedin.com/in/arjun-rye"
+    }
+  },
+  "local_photo": "data\\linkedin_photos\\arjun-rye__usr-0PM80EMzrEH1SGJ.jpg"
+}

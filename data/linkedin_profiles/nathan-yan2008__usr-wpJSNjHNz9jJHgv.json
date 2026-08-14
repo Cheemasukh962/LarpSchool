@@ -1,0 +1,179 @@
+{
+  "luma_user_id": "usr-wpJSNjHNz9jJHgv",
+  "csv_name": "Nathan Yan",
+  "csv_linkedin": "https://www.linkedin.com/in/nathan-yan2008",
+  "enriched_at": "2026-08-12T19:13:35.733511+00:00",
+  "batch_id": "sd_msqguuzo2o546dm49e",
+  "profile": {
+    "id": "nathan-yan2008",
+    "name": "Nathan Yan",
+    "city": "Mississauga, Ontario, Canada",
+    "country_code": "CA",
+    "position": null,
+    "about": null,
+    "current_company": {
+      "location": null
+    },
+    "experience": null,
+    "url": "https://ae.linkedin.com/in/nathan-yan2008",
+    "educations_details": "University of Waterloo",
+    "education": [
+      {
+        "title": "University of Waterloo",
+        "url": "https://ca.linkedin.com/school/uwaterloo/",
+        "start_year": "2026-06",
+        "end_year": "2031-06",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      }
+    ],
+    "avatar": "https://media.licdn.com/dms/image/v2/D4D03AQFdlIQj9U0P1A/profile-displayphoto-scale_200_200/B4DZ7T4DGDGwAc-/0/1781671147791?e=2147483647&v=beta&t=wDCg6szKNzBsAfz6ug0JXgRDyEDwZuwBZAsnGlBycL4",
+    "followers": 5710,
+    "connections": 500,
+    "location": "Mississauga",
+    "input_url": "https://www.linkedin.com/in/nathan-yan2008",
+    "linkedin_id": "nathan-yan2008",
+    "activity": [
+      {
+        "interaction": "Nathan Yan shared this",
+        "link": "https://www.linkedin.com/posts/nathan-yan2008_anyone-have-robot-arms-in-sf-need-asap-activity-7480784896601366528-hg2F",
+        "title": "Anyone have robot arms in SF? Need ASAP.",
+        "img": "https://media.licdn.com/dms/image/v2/D4D22AQFX5I4LDRvyqw/feedshare-shrink_800/B4DZ9EWOSTJcAc-/0/1783558104665?e=2147483647&v=beta&t=hl42DJ7rtQ3CUNjR1--hSTomRu-os9u8mR1YaEWPg00",
+        "id": "7480784896601366528"
+      },
+      {
+        "interaction": null,
+        "link": "https://www.linkedin.com/posts/shaoming-wu_first-overall-at-canadas-largest-high-school-activity-7472400316701974528-qUfb",
+        "title": "First overall at Canadas largest high school hackathon \ud83c\udfc6 At JAMHacks 10, Ray Tan , Vedant Sheel , Naman Sonawane , and I built PRAL, an autonomous drone system to help marketing teams capture cinematic footage. We were able to get really sick shots of E7/PSE at the University of Waterloo \ud83d\udc40 Demo: https://lnkd.in/g9iACeRi Devpost: https://lnkd.in/gCaUFPWy Shoutout Richard L. Fiona Fang for judging, as well as a big thanks to Andrew Dai , Aileen Gao and the rest of the organizing team for making this possible. Appreciate the air fryers \ud83e\udee1 ...more ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQHkCEGW_7SZRQ/feedshare-shrink_800/B56Z7NMfZ.H8Ac-/0/1781559064880?e=2147483647&v=beta&t=blGqflVc4BtX70S3a_jseAjOV4vTwAR9ISgitvpML0M",
+        "id": "7472400316701974528"
+      },
+      {
+        "interaction": null,
+        "link": "https://www.linkedin.com/posts/aparekh01_i-am-making-a-40-trillion-bet-and-i-am-activity-7469960786434531329-nAeU",
+        "title": "I am making a $40 trillion bet. And I am all in. Jensen Huang said the physical AI industry will be worth $40 trillion in the coming years. You've already seen it. The Doordash robot rolling down your street. The warehouse arm that packed your last Amazon order. This is happening. Fast. But the teams who figure out how to train, iterate, and deploy robots quickly and cheaply? They win. Right now, most can't train, iterate on, and deploy robots QUICKLY and COST-EFFECTIVELY enough \u2014 and fall behind because of it. And that's why we launched Cadenza CLI - the RL environment builder for physical AI infrastructure. Our environments use abstraction to decrease redundant details in data, speeding up fine-tuning/RL processes on your physical AI projects. \u2192 +80% more accurate than current RL pipelines (in the same time) \u2192 +70% more GPU headroom per training run (reducing unnecessary compute costs) \u2192 Already used by robotics developers from ex-OpenAI and NVIDIA teams Faster training. Cheaper iteration. Robots that actually ship. If you're building in physical AI and want to move faster \u2014> DM me. I want to hear what you're working on. ...more ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D5605AQEfQXtubTJHGw/videocover-high/B56Z6qhuClJMBM-/0/1780977427945?e=2147483647&v=beta&t=JNN0qGkOTKkGOvc973VcxVF8K9eWYYn_1I00tRfYq6o",
+        "id": "40"
+      },
+      {
+        "interaction": "Nathan Yan shared this",
+        "link": "https://www.linkedin.com/posts/nathan-yan2008_what-if-your-robot-could-understand-any-object-activity-7456582582667788288-5kc0",
+        "title": "What if your robot could understand any object you describe, just from a phone camera? RADIO-ViPE builds a 3D map from raw monocular video that you can query with natural language. How it works: - A single foundation model (RADIO) extracts dense \"meaning vectors\" per pixel, then they reuse those same vectors three ways: improving optical flow on blank surfaces, adding a semantic loss into the geometry optimizer, and connecting similar keyframes in the factor graph. - Instead of bolting semantics after SLAM (like ConceptGraphs/HOV-SG), the semantic similarity error lives inside the bundle adjustment loss function. When the optimizer adjusts a camera pose, it\u2019s satisfying geometric AND semantic consistency in the same gradient step. - For dynamic scenes (people walking, furniture getting moved), they track how stable each pixel\u2019s semantic embedding is over time. If it is consistently similar across views, then we trust it. Otherwise, we suppress it. (Day 8 of reading interesting VLA/World model papers) ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D4E05AQHbszTLagxeLA/videocover-high/B4EZ3saUuKHMBM-/0/1777787818756?e=2147483647&v=beta&t=98G9hv6jhjafn4hTJf1oZKEZ0UFuVqp0JSFeTpl7fHo",
+        "id": "7456582582667788288"
+      },
+      {
+        "interaction": "Nathan Yan shared this",
+        "link": "https://www.linkedin.com/posts/nathan-yan2008_vlas-are-getting-better-at-understanding-activity-7455366058330439681-ONMV",
+        "title": "VLAs are getting better at understanding language and generating actions, but the bridge between what the model sees and what it does is still surprisingly dumb. Most diffusion-based policies just flatten their visual input into one feature vector and feed it identically across every denoising step. What if instead we matched how the model sees to how it acts? H\u00b3DP does via a hierarchical approach via a: - Depth-aware input where instead of concatenating RGB + depth (which barely helps), they slice the image into separate layers by distance. Each subset of pixels (gripper, target) get their own layer, mid-range and background get theirs. - Multi-scale visual encoder where each depth layer gets encoded via a CNN + VQ codebook into four resolutions: 1\u00d71 (global summary), 3\u00d73, 5\u00d75, and 7\u00d77 (fine spatial detail). - Hierarchical action generation where the diffusion model gets coarse 1\u00d71 features during early denoising (\"move left toward the cup\") and fine 7\u00d77 features during late denoising (\"grip at exactly this angle\"). Results: +27.5% average improvement over baselines across 44 sim tasks, +32.3% over Diffusion Policy in real-world bimanual tasks on a Galaxea R1. (Day 6 of highlighting interesting papers about VLAs) ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D4E05AQEkhJJm91GJWQ/videocover-high/B4EZ3bH37OKMBM-/0/1777497769661?e=2147483647&v=beta&t=I4Uffv5TgJRQXVpKktDdYhKs29dt88kQbRDQY5Yvs10",
+        "id": "7455366058330439681"
+      },
+      {
+        "interaction": "Nathan Yan shared this",
+        "link": "https://www.linkedin.com/posts/nathan-yan2008_what-if-you-combined-a-world-model-and-a-activity-7452504661540077568-Rzky",
+        "title": "What if you combined a world model and a VLA into one system? DAWN is one of the coolest papers doing something similar. Instead of predicting full future images or directly outputting robot actions, DAWN predicts dense pixel motion fields, a 2D vector field telling every pixel in the scene where it should move, and uses it to plan VLA actions. It does this by: - Splitting robot control into two diffusion stages with a Motion Director that predicts how every pixel in the scene should move, and an Action Expert that converts those motion vectors into joint commands. - Making the field pixel-motions trainable from any video source (human demos, YouTube) without action labels. (Day 3 of highlighting interesting CVPR 2026 papers about VLAs) ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D4E05AQEyXaGGGz7sZA/videocover-low/B4EZ2ydenJIwBI-/0/1776815566351?e=2147483647&v=beta&t=46fnPdX4U_A0hdaw6yDPrxv4ZE4rdHkFEU31CMlSg8E",
+        "id": "7452504661540077568"
+      },
+      {
+        "interaction": "Nathan Yan shared this",
+        "link": "https://www.linkedin.com/posts/nathan-yan2008_i-snuck-into-hackprincetons-collegiate-hackathon-activity-7452045046285205505-3jZs",
+        "title": "I snuck into HackPrinceton 's Collegiate hackathon as a high schooler by javascript injecting their website and won 1k. Thanks to Micah Gao , Mihir Malaviya , Hong Cheng Wang for being cool teammates Thanks Henry Wei for helping us through the ideation and building phase Thanks Nishant Jain for being the only other highschooler there lol ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQHppucg6FCIAQ/feedshare-shrink_800/B4EZ2r7eieJMAc-/0/1776705989660?e=2147483647&v=beta&t=sDmHUP0iIzNZvbhqGmUdl_gpZMP7olDF0ocQfB_NUOE",
+        "id": "7452045046285205505"
+      },
+      {
+        "interaction": "Nathan Yan shared this",
+        "link": "https://www.linkedin.com/posts/nathan-yan2008_vision-language-action-models-finally-get-activity-7451071463257722880-8y-o",
+        "title": "Vision language action models finally get to look around on their own. Through the paper SaPaVe, researchers allowed robots to actively move their head-mounted camera to find objects completely out of view. Instead of the usual fixed near-optimal camera setup, SaPaVe adds a 2-DoF active head (pitch + yaw) that the model learns to control semantically from language instructions alone. They accomplished this using: - A two separate action spaces, splitting the final model output into two MLP heads, one for camera movement (2-DoF) and one for manipulation (26-DoF), so the two skills don't interfere during training - ActiveViewPose-200K, a synthetically generated dataset of 200k image-instruction-camera movement triplets built cheaply in simulation A two-stage training strategy where the first train only the camera head on ActiveViewPos and the second trains the manipulation head on real robot data while mixing in camera examples to prevent forgetting - Spatial Knowledge Injection via MapAnything, feeding 3D geometry (depth, camera poses) into the action decoder so the policy stays stable even with viewpoint changes (Day 2 of highlighting interesting CVPR 2026 papers about VLAs) ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D4E05AQFFhebyPq0ynw/videocover-high/B4EZ2eF.l2IcBY-/0/1776473862496?e=2147483647&v=beta&t=hbVjQl9d5G66FG8DVdr-HVkF60PQMDFBiPyl9XH1PyM",
+        "id": "7451071463257722880"
+      },
+      {
+        "interaction": "Nathan Yan shared this",
+        "link": "https://www.linkedin.com/posts/nathan-yan2008_vision-language-action-models-finally-get-activity-7450650741754626048-ruqS",
+        "title": "Vision Language Action models finally get to feel what they're doing. Through the paper ForceVLA2, researchers allowed robots to grab and manipulate objects via force. Instead of the usual 6D position embedding, ForceVLA2 adds 6 more dimensions, 3 force axes (Fx, Fy, Fz) + 3 torque axes (Tx, Ty, Tz) They accomplished this using: - GELLO teleoperation (one of the only teleoperation setups which capture human force) - A force prompt, a text input outlining the subtask and how far along the subtask is (helps with progress understanding and long-horizon problems) - A Mixture-of-experts setup (allows for better contact-rich manipulation using the vision, state, and force inputs) (Day 1 of highlighting interesting CVPR 2026 papers about VLAs) ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D4E05AQEZfrDF7Xxp_g/videocover-high/B4EZ2YHVRtJwBc-/0/1776373554204?e=2147483647&v=beta&t=Ho4ZdqGY5y1wQMwWek-jb3Ltr7B8JNeytmw9xmJqpH8",
+        "id": "7450650741754626048"
+      },
+      {
+        "interaction": "Nathan Yan commented on a post 1h",
+        "link": "https://www.linkedin.com/posts/kuan-yi-wang-443871319_adaption-linkedin-activity-7493172235231481856-mTvR",
+        "title": "sick",
+        "img": null,
+        "id": "7493172235231481856"
+      },
+      {
+        "interaction": "Nathan Yan commented on a post 19h",
+        "link": "https://www.linkedin.com/posts/y-combinator_belvedir-yc-s26-is-making-private-ai-models-activity-7493063706931548160-SBOZ",
+        "title": "bullish on you",
+        "img": null,
+        "id": "7493063706931548160"
+      },
+      {
+        "interaction": "Nathan Yan liked this",
+        "link": "https://www.linkedin.com/posts/ericzuo8_hack-the-north-2026-activity-7493299612196372481-Q-Pi",
+        "title": "Hack the North 2026!",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQH-S6EtLH4u7Q/feedshare-shrink_800/B4EZ_2MSc5J8Ac-/0/1786541844854?e=2147483647&v=beta&t=V8H0C3SwmGYcPgNF5JJHqimE4PjDCPHWN3fK0s8Ufu4",
+        "id": "2026"
+      },
+      {
+        "interaction": "Nathan Yan liked this",
+        "link": "https://www.linkedin.com/posts/kuan-yi-wang-443871319_adaption-linkedin-activity-7493172235231481856-mTvR",
+        "title": "What if an RL agent maximizes its reward by doing the wrong thing-and the evaluator can prove it? For the Adaption Labs AutoScientist Challenge, I built FalsifyRL: an evidence-grounded critic for reward hacking in embodied, multi-agent reinforcement learning. Each example contains a task specification, a declarative proxy reward, and an episode trace. The critic returns a strict JSON diagnosis with responsible agents, evidence steps, a counterexample, and an executable reward patch. The experiment is designed to be falsifiable: - 3,840 deterministic examples in 1,920 reward-matched control/exploit pairs - train, validation, and test scenario families are disjoint - gold labels come from executable validators rather than language-model annotation - predicted reward patches are replayed instead of graded by text similarity - the final model is evaluated on all 640 held-out crossing_navigation cases Using Adaptive Data and AutoScientist, the adapted model reached an AutoScientist best win rate of 0.9643 and improved held-out composite score from 0.0000 to 0.9022, with 98.28% JSON validity. Everything is open and reproducible: Code: https://lnkd.in/gZFFDyKe Dataset: https://lnkd.in/gmzY7-9B Model: https://lnkd.in/gR9sFwQu Live demo: https://lnkd.in/gxfsWvqm Reproducible evaluation: https://lnkd.in/gcEp-T9K Evaluation report: https://lnkd.in/g9ZJUuGz Falsify reward functions before your robots exploit them. #AutoScientistChallenge #AdaptionLabs #ReinforcementLearning #MultiAgentSystems #Robotics #PhysicalAI #AISafety #OpenSourceAI Built for adaption",
+        "img": "https://media.licdn.com/dms/image/v2/D560BAQF-ct97NBvu_Q/company-logo_400_400/B56ZuVechfHYAc-/0/1767739345433/adaption_labs_logo?e=2147483647&v=beta&t=T4hVQrCqs9RwGBDDytrRA47F8QyoRv-BFgRBD2Djsko",
+        "id": "7493172235231481856"
+      },
+      {
+        "interaction": "Nathan Yan liked this",
+        "link": "https://www.linkedin.com/posts/bernardo-rodeirocroll_im-never-working-corporate-again-why-well-activity-7493129133586272256-etbV",
+        "title": "I'm never working corporate again why? well... in June 2025 I joined Alloy as employee #3. there were no customers, no product, no office just Joe 's vision to build a company for the coming wave of robotics the learning curve was steep, there were many late nights and I made many mistakes (sorry Joe for wiping prod before that customer call) but... the wins did come we got our first of many pilots, the product took shape and receipts started flowing and weirdly enough my brains started rewiring no longer I enjoyed the chill corporate meetings, or long coffee chats but rather constant feedback obsessing over customer workflows and wanting to ship really really fast I tell people that I learnt more in 6months than in my entire career. From the outside it may look like building a startup is an art but its a science anyone can learn a science of decision making, growth engineering and psychology and if you are someone wanting to make the jump to startup life then I promise you won't regret it ultimately this is just the beginning of Alloy Robotics ' journey and my own and I can't wait to see how far we can go \ud83d\ude80",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQGyrYNa_tAnnA/feedshare-shrink_800/B56Z_zt19PH0Ag-/0/1786500309799?e=2147483647&v=beta&t=SRiPD9VnF-yrx3PW-jBiijrNEB1foM94mc6W486v2oI",
+        "id": "7493129133586272256"
+      },
+      {
+        "interaction": "Nathan Yan liked this",
+        "link": "https://www.linkedin.com/posts/hugh-phan-b58b85236_attention-all-talented-young-people-dont-activity-7493135626578329600-YeCb",
+        "title": "ATTENTION all talented young people \ud83d\udea8 DONT start a company, it\u2019s an ego trap. lemme explain, but first a bit about me: - 18 years old - 1M followers - built + sold a \u201cstartup\u201d for 5 figures because of my resume, I often get asked why I joined a startup and not build one myself. as a young person, you need to optimise for career growth, not social status. So here\u2019s why it made sense for me to join Alloy: 1. higher leverage. you get capital, distribution, and customers from day 1. 2. master 1 skillset (very important in early career) rather than needing to wear every hat as a founder 3. ship faster, get feedback sooner, and work on problems at a bigger scale you should treat the startup as if it was your own. get genuinely excited about the problem. you\u2019ll discover whether you actually enjoy company-building, or just like the identity of being a founder. with that said, we just raised an AUD$11.5M seed round at AUD$115M valuation with a team of 11. our pre-seed was AUD$4.5M putting us at AUD$16M total raised. BANG! btw hit me up if you\u2019re cracked. always on the lookout for more talent.",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQF88aGrkFLkyw/feedshare-image-high-res/B56Z_z3JOzHUAU-/0/1786502748195?e=2147483647&v=beta&t=fqW2D-Tf1G-ViTRbFCQP7m1up8xyj-Ejetnwu0oPYE4",
+        "id": "7493135626578329600"
+      },
+      {
+        "interaction": "Nathan Yan liked this",
+        "link": "https://www.linkedin.com/posts/josephdharris_today-were-announcing-another-a115m-at-activity-7493064553639882752-y1Id",
+        "title": "Today, we\u2019re announcing another A$11.5m at a A$115m valuation \ud83e\udd16 Bringing our total raised to over A$16m. The round was led by Square Peg , with continued support from Blackbird Airtree , Skip Capital and an incredible group of angels, founders and leaders from Tesla , Waymo , OpenAI , Anthropic and more. The investor support means a lot. But the signal that gave me the confidence to raise again came from our customers. A full day of robot test analysis now takes ten minutes. At Advanced Navigation , that has helped the validation team go from two tests per week to ten. Questions that once took weeks can now be answered the same day. Results like these are why Alloy Robotics has raised again, barely one year after we started. \ud83d\ude80 Since launching publicly late last year, we have deployed Alloy across agriculture, defence, drones, medical devices, industrial systems, maritime robotics and humanoids. And we have learned something important: Robotics teams are not short of data. They are short on memory. The context needed to understand a robot is scattered across logs, images, tickets, code and the heads of individual engineers. When something fails, teams piece that context together manually. When it happens again six months later, much of the investigation starts from scratch. Alloy gives robotics teams and AI agents a shared memory over the data their machines produce. We understand the robot as a complete system across hardware, firmware and software, then bring answers into the tools where engineers already work. The principle is simple: - Every run should make the next one better. - Every test should improve the next design decision. - Every firmware update should carry the context of past fixes and regressions. - Every support ticket should draw on what the fleet has already experienced. That is the compounding loop we are building. This capital lets us move faster: expanding globally, deepening our robotics-specific intelligence and evaluation capabilities, and investing further in implementation and support. Our investment in service and partnership has been our unfair advantage, so we\u2019re doubling down. I\u2019m incredibly proud of the small, deeply technical and customer-obsessed team we have built. And I\u2019m deeply grateful to our partners Jethro Cohen , Tom Humphrey , Jackie Vullinghs and Olivia Sioud (Grivas) , our customers, and everyone who has backed us along the way. Raising capital is a means to an end. Helping teams build safer, better and more reliable machines is the goal. This is our life\u2019s work: accelerating robotic intelligence and, ultimately, robotic abundance. If you\u2019re building and deploying robots, I\u2019d love to talk. If you want to help build this future, we\u2019re hiring.",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQGIjF0ejBQ-cA/feedshare-image-high-res/B56Z_y2gXOJQAU-/0/1786485802887?e=2147483647&v=beta&t=-4dOdxu5ywecjUAcydNjVpxUf0E_cNibdQE8f_K_0vg",
+        "id": "7493064553639882752"
+      },
+      {
+        "interaction": "Nathan Yan liked this",
+        "link": "https://www.linkedin.com/posts/y-combinator_belvedir-yc-s26-is-making-private-ai-models-activity-7493063706931548160-SBOZ",
+        "title": "Belvedir (YC S26) is making private AI models cheap and easy, so the world can have trillions of them. In the past year, many big companies started paying millions of dollars to make internal private AI models. These models are cheaper, better, faster, and protect the company\u2019s data from frontier labs. But right now these models are still only realistic for big companies since they\u2019re really difficult and expensive to build. Belvedir makes private AI models autonomously with less than 5 minutes of setup, so that private AI can finally be accessible to startups and eventually everyone. Belvedir is live with 10 companies who are seeing up to 10x lower inference costs and 2x improved performance on benchmarks. Congrats on the launch, Zachary Yu ! \ud83d\ude80 https://lnkd.in/gaG7KT7K",
+        "img": "https://media.licdn.com/dms/image/v2/D5605AQFs45m76VzjpA/videocover-high/B56Z_xXcqSHcBM-/0/1786460898214?e=2147483647&v=beta&t=6TSfa03s7xArw8UxqAYtvuIzr1v9Xxb1g9XZEMgmeaE",
+        "id": "7493063706931548160"
+      }
+    ],
+    "linkedin_num_id": "1152004260",
+    "banner_image": "https://static.licdn.com/aero-v1/sc/h/5q92mjc5c51bjlwaj3rs9aa82",
+    "honors_and_awards": null,
+    "similar_profiles": [],
+    "default_avatar": false,
+    "memorialized_account": false,
+    "bio_links": [
+      {
+        "title": "Portfolio",
+        "link": "https://nathanyan.vercel.app/"
+      }
+    ],
+    "first_name": "Nathan",
+    "last_name": "Yan",
+    "influencer": false,
+    "timestamp": "2026-08-12T19:12:37.454Z",
+    "input": {
+      "url": "https://www.linkedin.com/in/nathan-yan2008"
+    }
+  },
+  "local_photo": "data\\linkedin_photos\\nathan-yan2008__usr-wpJSNjHNz9jJHgv.jpg"
+}

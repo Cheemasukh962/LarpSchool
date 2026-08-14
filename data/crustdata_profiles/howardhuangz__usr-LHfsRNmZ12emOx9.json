@@ -1,0 +1,589 @@
+{
+  "source": "crustdata",
+  "recovered_from": "brightdata_failed_private",
+  "luma_user_id": "usr-LHfsRNmZ12emOx9",
+  "csv_name": "Howard Huang",
+  "csv_linkedin": "https://www.linkedin.com/in/howardhuangz",
+  "clean_linkedin": "https://www.linkedin.com/in/howardhuangz",
+  "enriched_at": "2026-08-14T18:07:59.937250+00:00",
+  "person_data": {
+    "basic_profile": {
+      "current_title": "Deep Learning Researcher",
+      "first_name": null,
+      "headline": "CS @ UCLA | Research @ MIT | Prev @ Scale AI, Nvidia",
+      "languages": [
+        "Chinese (Native or bilingual proficiency)",
+        "English (Native or bilingual proficiency)",
+        "Russian (Elementary proficiency)",
+        "Spanish (Limited working proficiency)"
+      ],
+      "last_name": null,
+      "location": {
+        "city": "",
+        "continent": "North America",
+        "country": "United States",
+        "full_location": null,
+        "raw": "San Francisco Bay Area",
+        "state": "California"
+      },
+      "name": "Howard Huang",
+      "normalized_title": {
+        "confident": true,
+        "department": "Engineering & Technology",
+        "matched_title": "Deep Learning Researcher",
+        "similarity": 0.9998999834060669,
+        "sub_department": "Machine Learning & AI Engineering"
+      },
+      "professional_network_name": "Howard Huang",
+      "profile_picture_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/person/4db3b196b55e144c12b531a01c60fd13bec8960e26fcd45d8a1534849ba1ee30.jpg",
+      "summary": "I'm an undergrad studying computer science at UCLA. Broadly, my academic interests center around graphs, longevity, drug discovery, gaussian splatting, AR/VR, legged robotics, and artificial intelligence. I have 5 years of software experience, 8 hackathon wins, and have created apps with 30M+ users.\nFeel free to reach out to chat!"
+    },
+    "education": {
+      "schools": [
+        {
+          "activities_and_societies": "App Development Club (President), M-SET Robotics (Captain), Varsity Lincoln Douglas Debate (Captain), Varsity Swim, JV Tennis, Orchestra",
+          "degree": "High School Diploma",
+          "description": "National Merit Finalist, President's Volunteer Service Award Silver (2x), 1560 SAT, 12 APs\n\nDual Enrollment:\n- Foothill College (2020-2022): \n    - CS55A: Cloud Computing in Amazon Web Services\n    - MATH 2A: Differential Equations\n- De Anza College (2021-2021):\n    - MATH 22: Discrete Mathematics\n- Mission College (2021-2021):\n    - MATH-004C: Linear Algebra\n- West Valley College (2021-2021):\n    - MATH-004A: Multivariable Calculus",
+          "end_year": 2022,
+          "field_of_study": "",
+          "institute_logo_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/company/f6f991366d109ef0f4c73c6646f5a3b94069c93e915fcd0be4ff25e77048ac37.jpg",
+          "institute_logo_url": "https://media.licdn.com/dms/image/v2/C560BAQHGH7YR4G9UxQ/company-logo_400_400/company-logo_400_400/0/1631383068350?e=1782950400&v=beta&t=nLDGhw_f42eLXWghSRBhBcVrzeD7o09mmB02v_spHu8",
+          "location": {
+            "city": "",
+            "continent": "North America",
+            "country": "United States",
+            "raw": "United States",
+            "state": ""
+          },
+          "professional_network_id": "121129",
+          "school": "Saratoga High School",
+          "start_year": 2018
+        },
+        {
+          "activities_and_societies": "",
+          "degree": "Startup School",
+          "description": "",
+          "end_year": 2022,
+          "field_of_study": "",
+          "institute_logo_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/company/059f7e6072baf1189ebb67b9fec287348cc541df9931bf3d36c06f9bb5019e96.jpg",
+          "institute_logo_url": "https://media.licdn.com/dms/image/v2/C4D0BAQGPzdBPNxrmEg/company-logo_400_400/company-logo_400_400/0/1673555093250/y_combinator_logo?e=1782950400&v=beta&t=dXnf2XhsHrIXtpXnuTJdo0SlkNmLJxf97pgzE_9jGe4",
+          "location": {
+            "city": "",
+            "continent": "North America",
+            "country": "United States",
+            "raw": "United States",
+            "state": ""
+          },
+          "professional_network_id": "167872",
+          "school": "Y Combinator",
+          "start_year": 2022
+        },
+        {
+          "activities_and_societies": "",
+          "degree": "Master of Science",
+          "description": "",
+          "end_year": null,
+          "field_of_study": "S.M. CSE",
+          "institute_logo_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/company/a8ccfc6e5234882008d4aec193728849d0d037e37727818013d4f96edf310970.jpg",
+          "institute_logo_url": "https://media.licdn.com/dms/image/v2/C4E0BAQF5t62bcL0e9g/company-logo_400_400/company-logo_400_400/0/1631318058235?e=1782950400&v=beta&t=ybMpzo4sG_ZEc6Yk3Jkfga7JXRr0n22ghIv0sQNy19g",
+          "location": {
+            "city": "Cambridge",
+            "continent": "North America",
+            "country": "United States",
+            "raw": "Cambridge, Massachusetts, United States",
+            "state": "Massachusetts"
+          },
+          "professional_network_id": "1646",
+          "school": "Harvard University",
+          "start_year": null
+        },
+        {
+          "activities_and_societies": "Bruin AI, Bruin Quant Traders, Product Space, Bruin Entrepreneurs, Startup Labs, CruX Neurotech, DevX",
+          "degree": "Bachelor of Science",
+          "description": "",
+          "end_year": 2025,
+          "field_of_study": "B.S. Computer Science",
+          "institute_logo_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/company/f7e58bce24a1c3c4c91a59606f86933e9f77bce8442bf48efcc269f4063af056.jpg",
+          "institute_logo_url": "https://media.licdn.com/dms/image/v2/D560BAQEDHp-TpD9AYQ/company-logo_400_400/company-logo_400_400/0/1688403831517/ucla_logo?e=1782950400&v=beta&t=jDRdHsP4ykGJ4UzkHVhIuUtjkFHFvoxeVaVIVVhYBSs",
+          "location": {
+            "city": "Los Angeles",
+            "continent": "North America",
+            "country": "United States",
+            "raw": "Los Angeles, United States",
+            "state": "California"
+          },
+          "professional_network_id": "2477",
+          "school": "UCLA",
+          "start_year": 2022
+        }
+      ]
+    },
+    "experience": {
+      "employment_details": {
+        "current": [
+          {
+            "company_description": "The Massachusetts Institute of Technology (MIT) is a private research university located in Cambridge, Massachusetts.  MIT is devoted to the advancement of knowledge and education of students in areas that contribute to or prosper in an environment of science and technology.",
+            "company_professional_network_profile_url": "https://linkedin.com/company/1503",
+            "company_profile_picture_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/company/c0feefdf442cc8e48b535ec1c41bff07223c51c7554c3c61820d902c09ea5867.jpg",
+            "company_website_domain": "mit.edu",
+            "crustdata_company_id": 1476398,
+            "description": "",
+            "employment_type": "",
+            "end_date": null,
+            "function_category": "Research",
+            "is_default": true,
+            "location": {
+              "raw": "Cambridge, Massachusetts, United States"
+            },
+            "name": "MIT Research Lab of Electronics",
+            "position_id": 2488119914,
+            "professional_network_id": "1503",
+            "seniority_level": "Entry Level",
+            "start_date": "2024-06-01T00:00:00+00:00",
+            "title": "Deep Learning Researcher",
+            "years_at_company": "3 to 5 years",
+            "years_at_company_raw": 2.0
+          },
+          {
+            "company_description": "The UCLA Henry Samueli School of Engineering and Applied Science, established in 1945, offers 28 academic and professional degree programs and has an enrollment of more than 5,000 students. The School's distinguished faculty are leading research to address many of the critical challenges of the 21st century, including renewable energy, clean water, health care, wireless sensing and networking, and cybersecurity. Ranked among the top 10 engineering schools at public universities nationwide, the School is home to nine multimillion-dollar interdisciplinary research centers in wireless sensor systems, nanoelectronics, nanomedicine, renewable energy, customized computing, and the smart grid, all funded by federal and private agencies.",
+            "company_professional_network_profile_url": "https://linkedin.com/company/18108926",
+            "company_profile_picture_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/company/a6c5f45fbd260d763b146d9c292c0ca4e340cfd8df685f4344863ad435c0ee5e.jpg",
+            "company_website_domain": "ucla.edu",
+            "crustdata_company_id": 6093550,
+            "description": "Graphs + Chemical Transition State Prediction & Drug Discovery",
+            "employment_type": "",
+            "end_date": null,
+            "function_category": "Research",
+            "is_default": false,
+            "location": {
+              "raw": "Los Angeles, California, United States"
+            },
+            "name": "UCLA",
+            "position_id": 2144182175,
+            "professional_network_id": "18108926",
+            "seniority_level": "Entry Level",
+            "start_date": "2023-03-01T00:00:00+00:00",
+            "title": "Deep Learning Researcher",
+            "years_at_company": "3 to 5 years",
+            "years_at_company_raw": 3.0
+          }
+        ],
+        "past": [
+          {
+            "company_description": "Scale\u2019s mission is to develop reliable AI systems for the world\u2019s most important decisions. We provide the high-quality data and full-stack technologies that power the world\u2019s leading models, and help enterprises and governments build, deploy, and oversee AI applications that deliver real impact.The Scale Generative AI Platform allows customers to build, evaluate, and control advanced AI agents and applications that continuously improve. The Scale Data Engine provides the technology to collect, curate, and annotate high-quality datasets. Through our Scale Labs, we test models with rigorous benchmarks and novel research to ensure breakthroughs translate into systems people can trust.Scale powers the most advanced LLMs and generative models in the world through RLHF, data generation and model evaluation. We work with industry leaders like Meta, Cisco, DLA Piper, Mayo Clinic, Time Inc., the Government of Qatar, and U.S. government agencies including the Army and Air Force.",
+            "company_professional_network_profile_url": "https://linkedin.com/company/17998520",
+            "company_profile_picture_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/company/93b33e380c590ef0c0c37f6b199a3db8c396a00179523072051649dd4d3971ac.jpg",
+            "company_website_domain": "scale.com",
+            "crustdata_company_id": 629012,
+            "description": "Assisted the training of a GenAI model for solving complex, Olympiad-level competitive programming problems",
+            "employment_type": "Internship",
+            "end_date": "2025-12-01T00:00:00+00:00",
+            "function_category": "Consulting",
+            "is_default": false,
+            "location": {
+              "raw": ""
+            },
+            "name": "Scale AI",
+            "position_id": 2530778655,
+            "professional_network_id": "17998520",
+            "seniority_level": "In Training",
+            "start_date": "2024-11-01T00:00:00+00:00",
+            "title": "Technical Advisor Intern - GenAI",
+            "years_at_company": "1 to 2 years",
+            "years_at_company_raw": 1.0
+          },
+          {
+            "company_description": "Since its founding in 1993, NVIDIA (NASDAQ: NVDA) has been a pioneer in accelerated computing. The company\u2019s invention of the GPU in 1999 sparked the growth of the PC gaming market, redefined computer graphics, ignited the era of modern AI and is fueling the creation of the metaverse. NVIDIA is now a full-stack computing company with data-center-scale offerings that are reshaping industry.",
+            "company_professional_network_profile_url": "https://linkedin.com/company/3608",
+            "company_profile_picture_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/company/704b0587845fc304917d96d6632146626a12810554d3212df5580cd8235d9c6b.jpg",
+            "company_website_domain": "nvidia.com",
+            "crustdata_company_id": 6034612,
+            "description": "",
+            "employment_type": "Internship",
+            "end_date": "2025-09-01T00:00:00+00:00",
+            "function_category": "Engineering",
+            "is_default": false,
+            "location": {
+              "raw": "Santa Clara, CA"
+            },
+            "name": "NVIDIA",
+            "position_id": 2664460788,
+            "professional_network_id": "3608",
+            "seniority_level": "In Training",
+            "start_date": "2025-06-01T00:00:00+00:00",
+            "title": "Software Engineer Intern",
+            "years_at_company": "Less than 1 year",
+            "years_at_company_raw": 0.0
+          },
+          {
+            "company_description": "Connect with top ai talent, tech companies, VCs",
+            "company_professional_network_profile_url": "https://linkedin.com/company/106375768",
+            "company_profile_picture_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/company/088ddc5f3f0869229ad0f685258ed6ebccd218eed30e82bc1382df1830cdb9d8.jpg",
+            "company_website_domain": "ailiance.co",
+            "crustdata_company_id": 6693859,
+            "description": "Building the largest intercollegiate network of AI clubs in North America",
+            "employment_type": "",
+            "end_date": "2025-09-01T00:00:00+00:00",
+            "function_category": "",
+            "is_default": false,
+            "location": {
+              "raw": ""
+            },
+            "name": "Alliance",
+            "position_id": 2674872644,
+            "professional_network_id": "106375768",
+            "seniority_level": "Owner / Partner",
+            "start_date": "2025-03-01T00:00:00+00:00",
+            "title": "Co-Founder",
+            "years_at_company": "Less than 1 year",
+            "years_at_company_raw": 0.0
+          },
+          {
+            "company_description": "Fetch.ai is a decentralized network built to power autonomous AI agents that can discover, connect, collaborate, and transact with other agents seamlessly. The Fetch.ai ecosystem enables developers and users alike to build intelligent, self-operating systems that interact across the digital and real world.At the core of the platform are three integrated products:ASI:One: A family of agentic LLMs that interact with agents from Agentverse to expand their capabilities and perform real-world reasoning. ASI:One includes models like asi1-mini for fast, operational tasks and asi1-extended for deeper, complex reasoning. These models communicate via multi-agent protocols and scale by invoking services from the broader agent network.Agentverse: A developer platform designed for full control and extensibility. Built on the uAgents framework, Agentverse allows developers to create, host, and register agents that are interoperable across the Fetch.ai ecosystem. It provides built-in support for agent-to-agent messaging, payments, discovery, and deep ASI:One integration.Flockx: A no-code agent studio that lets users create personal or business agents without writing code. Flockx offers consumer-facing simplicity, and includes a professional Workbench for small businesses and teams looking to operationalize agent-based workflows. Agents created via Flockx are automatically indexed by ASI:One and published to Agentverse.Together, these components form a composable AI layer where intelligent agents can operate autonomously, reason with large models, and plug into business workflows, decentralized apps, and real-world systems.",
+            "company_professional_network_profile_url": "https://linkedin.com/company/27233415",
+            "company_profile_picture_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/company/f7867dd8e4d4ac976672b0bf9f8140c69839b1d7209d3559f518f58ae3f915ef.jpg",
+            "company_website_domain": "fetch.ai",
+            "crustdata_company_id": 629429,
+            "description": "Quantum Computing + AI",
+            "employment_type": "Contract",
+            "end_date": "2025-06-01T00:00:00+00:00",
+            "function_category": "Consulting",
+            "is_default": false,
+            "location": {
+              "raw": "Los Angeles, California, United States"
+            },
+            "name": "Fetch.AI",
+            "position_id": 2664462673,
+            "professional_network_id": "27233415",
+            "seniority_level": "Entry Level",
+            "start_date": "2025-05-01T00:00:00+00:00",
+            "title": "Quantum Consultant",
+            "years_at_company": "Less than 1 year",
+            "years_at_company_raw": 0.0
+          },
+          {
+            "company_description": "Since its founding in 1993, NVIDIA (NASDAQ: NVDA) has been a pioneer in accelerated computing. The company\u2019s invention of the GPU in 1999 sparked the growth of the PC gaming market, redefined computer graphics, ignited the era of modern AI and is fueling the creation of the metaverse. NVIDIA is now a full-stack computing company with data-center-scale offerings that are reshaping industry.",
+            "company_professional_network_profile_url": "https://linkedin.com/company/3608",
+            "company_profile_picture_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/company/704b0587845fc304917d96d6632146626a12810554d3212df5580cd8235d9c6b.jpg",
+            "company_website_domain": "nvidia.com",
+            "crustdata_company_id": 6034612,
+            "description": "Diffusion models for drug discovery",
+            "employment_type": "Internship",
+            "end_date": "2024-09-01T00:00:00+00:00",
+            "function_category": "Research",
+            "is_default": false,
+            "location": {
+              "raw": "Santa Clara, CA"
+            },
+            "name": "NVIDIA",
+            "position_id": 2333013740,
+            "professional_network_id": "3608",
+            "seniority_level": "In Training",
+            "start_date": "2024-06-01T00:00:00+00:00",
+            "title": "Research Intern",
+            "years_at_company": "Less than 1 year",
+            "years_at_company_raw": 0.0
+          },
+          {
+            "company_description": "GumGum is The Mindset CompanyTM transforming advertising. We deliver results by matching brands with people in the right mindset, in the moments that matter.Powered by the Mindset GraphTM, our AI-driven data engine processes billions of real-time contextual, creative, environmental, and historical signals to match every ad with the most receptive audience. The result is advertising that drives meaningful outcomes for advertisers and publishers, and is more relevant for consumers. Founded in 2008 and headquartered in Santa Monica, GumGum operates in over 19 markets across North America, Europe, Japan, and Australia. Learn more at gumgum.com.",
+            "company_professional_network_profile_url": "https://linkedin.com/company/167379",
+            "company_profile_picture_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/company/a90531634e0d7f502dfc6a438b2710a67d95fa805beb1a98e803a350debffd33.jpg",
+            "company_website_domain": "gumgum.com",
+            "crustdata_company_id": 631574,
+            "description": "Adtech",
+            "employment_type": "Contract",
+            "end_date": "2024-06-01T00:00:00+00:00",
+            "function_category": "Consulting",
+            "is_default": false,
+            "location": {
+              "raw": "Los Angeles, California, United States"
+            },
+            "name": "GumGum",
+            "position_id": 2664461795,
+            "professional_network_id": "167379",
+            "seniority_level": "Entry Level",
+            "start_date": "2024-04-01T00:00:00+00:00",
+            "title": "AI Consultant",
+            "years_at_company": "Less than 1 year",
+            "years_at_company_raw": 0.0
+          },
+          {
+            "company_description": "A non-profit community for people to build, join or invest in revolutionary longevity biotechnology projects.",
+            "company_professional_network_profile_url": "https://linkedin.com/company/89824633",
+            "company_profile_picture_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/company/6de210200a218f0f149060076b68ccf2cd464dd247ab16cff556c26a2a5c7ea5.jpg",
+            "company_website_domain": "longbiofellowship.org",
+            "crustdata_company_id": 1051294,
+            "description": "",
+            "employment_type": "Part-time",
+            "end_date": "2024-04-01T00:00:00+00:00",
+            "function_category": "",
+            "is_default": false,
+            "location": {
+              "raw": ""
+            },
+            "name": "Longevity Biotech Fellowship",
+            "position_id": 2300885222,
+            "professional_network_id": "89824633",
+            "seniority_level": "Senior",
+            "start_date": "2024-01-01T00:00:00+00:00",
+            "title": "Fellow",
+            "years_at_company": "Less than 1 year",
+            "years_at_company_raw": 0.0
+          },
+          {
+            "company_description": "Advantest (TSE: 6857) is the leading manufacturer of automatic test and measurement equipment used in the design and production of semiconductors for applications including 5G communications, the Internet of Things (IoT), autonomous vehicles, high performance computing (HPC) including artificial intelligence (AI) and machine learning, and more. Its leading-edge systems and products are integrated into the most advanced semiconductor production lines in the world. The company also conducts R&D to address emerging testing challenges and applications; develops advanced test-interface solutions for wafer sort and final test; produces scanning electron microscopes essential to photomask manufacturing; and offers system-level test solutions and other test-related accessories. Founded in Tokyo in 1954, Advantest is a global company with facilities around the world and an international commitment to sustainable practices and social responsibility. More information is available at www.advantest.com.",
+            "company_professional_network_profile_url": "https://linkedin.com/company/9843",
+            "company_profile_picture_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/company/2e6df87524a35af1dae46ae58fd7a833800044b4414c5a9db754bf21738fc075.jpg",
+            "company_website_domain": "advantest.com",
+            "crustdata_company_id": 1977757,
+            "description": "",
+            "employment_type": "Internship",
+            "end_date": "2024-03-01T00:00:00+00:00",
+            "function_category": "Engineering",
+            "is_default": false,
+            "location": {
+              "raw": "San Jose, California, United States"
+            },
+            "name": "Verigy",
+            "position_id": 2260564579,
+            "professional_network_id": "9843",
+            "seniority_level": "Entry Level",
+            "start_date": "2023-09-01T00:00:00+00:00",
+            "title": "Machine Learning Engineer",
+            "years_at_company": "Less than 1 year",
+            "years_at_company_raw": 0.0
+          },
+          {
+            "company_description": "Advantest (TSE: 6857) is the leading manufacturer of automatic test and measurement equipment used in the design and production of semiconductors for applications including 5G communications, the Internet of Things (IoT), autonomous vehicles, high performance computing (HPC) including artificial intelligence (AI) and machine learning, and more. Its leading-edge systems and products are integrated into the most advanced semiconductor production lines in the world. The company also conducts R&D to address emerging testing challenges and applications; develops advanced test-interface solutions for wafer sort and final test; produces scanning electron microscopes essential to photomask manufacturing; and offers system-level test solutions and other test-related accessories. Founded in Tokyo in 1954, Advantest is a global company with facilities around the world and an international commitment to sustainable practices and social responsibility. More information is available at www.advantest.com.",
+            "company_professional_network_profile_url": "https://linkedin.com/company/9843",
+            "company_profile_picture_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/company/2e6df87524a35af1dae46ae58fd7a833800044b4414c5a9db754bf21738fc075.jpg",
+            "company_website_domain": "advantest.com",
+            "crustdata_company_id": 1977757,
+            "description": "",
+            "employment_type": "Internship",
+            "end_date": "2023-09-01T00:00:00+00:00",
+            "function_category": "Engineering",
+            "is_default": false,
+            "location": {
+              "raw": "San Jose, California, United States"
+            },
+            "name": "Verigy",
+            "position_id": 2200710421,
+            "professional_network_id": "9843",
+            "seniority_level": "Entry Level",
+            "start_date": "2023-06-01T00:00:00+00:00",
+            "title": "Software Research & Development Engineer",
+            "years_at_company": "Less than 1 year",
+            "years_at_company_raw": 0.0
+          },
+          {
+            "company_description": "We're making social media social again. Poppin is the 1st social media app designed to get people off their phones by facilitating a seamless event discovery experience. Invite your friends, see what they're up to, discover events in your local area, manage your organization & its events, and engage with other users before and after events.Download the app now on the App store!Android users can use our web platform at joinpoppin.com.",
+            "company_professional_network_profile_url": "https://linkedin.com/company/74915673",
+            "company_profile_picture_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/company/fb779bf2337f3f60f7ffbe72a8ac6dc1de56f354db757b956a421f5b750aed1e.jpg",
+            "company_website_domain": "joinpopp.in",
+            "crustdata_company_id": 1032460,
+            "description": "",
+            "employment_type": "Part-time",
+            "end_date": "2023-06-01T00:00:00+00:00",
+            "function_category": "Engineering",
+            "is_default": false,
+            "location": {
+              "raw": "Los Angeles, California, United States"
+            },
+            "name": "Poppin",
+            "position_id": 2187668574,
+            "professional_network_id": "74915673",
+            "seniority_level": "Entry Level",
+            "start_date": "2023-04-01T00:00:00+00:00",
+            "title": "Software Engineer",
+            "years_at_company": "Less than 1 year",
+            "years_at_company_raw": 0.0
+          },
+          {
+            "company_description": "Dimensional (www.dimensional.me) is a life coach in your pocket. Our mobile app combines the world's best personality tests to give users practical guidance to improve their life and relationships.",
+            "company_professional_network_profile_url": "https://linkedin.com/company/65812225",
+            "company_profile_picture_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/company/877a3be3c9313c6a013d68434e83fd6e09ca33b354a4e8bedaa69f0e7185e80c.jpg",
+            "company_website_domain": "dimensional.me",
+            "crustdata_company_id": 3202283,
+            "description": "",
+            "employment_type": "Contract",
+            "end_date": "2023-06-01T00:00:00+00:00",
+            "function_category": "Consulting",
+            "is_default": false,
+            "location": {
+              "raw": "Los Angeles, California, United States"
+            },
+            "name": "Dimensional",
+            "position_id": 2191567159,
+            "professional_network_id": "65812225",
+            "seniority_level": "Strategic",
+            "start_date": "2023-04-01T00:00:00+00:00",
+            "title": "Strategy Consultant",
+            "years_at_company": "Less than 1 year",
+            "years_at_company_raw": 0.0
+          },
+          {
+            "company_description": "Public Comps is a SaaS company that aggregates accurate, clean and timely financial data on public software companies for benchmarking and comps analysis. We pull data from SEC filings so you don't have to!",
+            "company_professional_network_profile_url": "https://linkedin.com/company/40653560",
+            "company_profile_picture_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/company/c5150a8a3ec24c86c54629fc3be95be49c767f43f8978d122f0518f1b274933b.jpg",
+            "company_website_domain": "publiccomps.com",
+            "crustdata_company_id": 2014532,
+            "description": "",
+            "employment_type": "Internship",
+            "end_date": "2023-06-01T00:00:00+00:00",
+            "function_category": "Engineering",
+            "is_default": false,
+            "location": {
+              "raw": "San Francisco, California, United States"
+            },
+            "name": "Public Comps",
+            "position_id": 2144176994,
+            "professional_network_id": "40653560",
+            "seniority_level": "Entry Level",
+            "start_date": "2023-03-01T00:00:00+00:00",
+            "title": "Software Engineer",
+            "years_at_company": "Less than 1 year",
+            "years_at_company_raw": 0.0
+          },
+          {
+            "company_description": "Future VC was established to support talented individuals from backgrounds that are currently under-represented in venture capital, to help them learn about and work in VC, and in doing so improve the inclusiveness of the industry. We provide an eight-week, paid internship with leading Venture Capital funds in Europe and the US. Participants gain the key skills and practical experience necessary to kickstart their careers in VC, including deep-dive masterclasses from worldwide industry experts.",
+            "company_professional_network_profile_url": "https://linkedin.com/company/40666999",
+            "company_profile_picture_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/company/d3c4b73e69322541d5c8c7b6c570876a0631c79148736d0b9f68cc912a42f62a.jpg",
+            "company_website_domain": "futurevc.com",
+            "crustdata_company_id": 983319,
+            "description": "",
+            "employment_type": "",
+            "end_date": "2023-04-01T00:00:00+00:00",
+            "function_category": "",
+            "is_default": false,
+            "location": {
+              "raw": "London, England, United Kingdom"
+            },
+            "name": "Future VC",
+            "position_id": 2173573630,
+            "professional_network_id": "40666999",
+            "seniority_level": "Senior",
+            "start_date": "2023-01-01T00:00:00+00:00",
+            "title": "Venture Fellow",
+            "years_at_company": "Less than 1 year",
+            "years_at_company_raw": 0.0
+          },
+          {
+            "company_description": "",
+            "company_professional_network_profile_url": "https://linkedin.com/company/51683321",
+            "company_profile_picture_permalink": "https://media.licdn.com/dms/image/v2/C4E0BAQHiZDG72bGYPw/company-logo_400_400/company-logo_400_400/0/1630563232486?e=1787788800&v=beta&t=NbOnYowLmG0QFi9CqMxxixv5hp4iBvdK4VJOqaNbFDA",
+            "company_website_domain": null,
+            "crustdata_company_id": null,
+            "description": "\u2022 Co-created the Google Workspace Addon Auto-LaTeX Equations for Google Slides w/ Aayush Gupta & Shreyas Rana \n\u2022 35M+ downloads on Google Workspace Marketplace.",
+            "employment_type": "Part-time",
+            "end_date": "2022-10-01T00:00:00+00:00",
+            "function_category": "Engineering",
+            "is_default": false,
+            "location": {
+              "raw": "Saratoga, CA"
+            },
+            "name": "Auto-LaTeX Equations",
+            "position_id": 1970245783,
+            "professional_network_id": "51683321",
+            "seniority_level": "Entry Level",
+            "start_date": "2021-01-01T00:00:00+00:00",
+            "title": "Software Engineer",
+            "years_at_company": "1 to 2 years",
+            "years_at_company_raw": 1.0
+          },
+          {
+            "company_description": "Aspiring Scholars Directed Research Program (ASDRP) is a 501(c)(3) nonprofit summer program that provides opportunities for high school students throughout the Bay Area, especially those who are underrepresented in STEM or who are socioeconomically disadvantaged, to conduct high-level novel scientific research. Students participate in research projects across various subjects in STEM, including chemistry, biology, computational modeling, computer science, and much more.ASDRP provides students with research mentors and over $200,000 worth of research equipment in our research laboratory. Students are matched with research mentors who have experience in academia or industry in their particular field; together, they design a research project. These projects are not science experiments in which the results are known a priori, but rather are original research projects that expand current scientific knowledge. Students execute research projects, learn scientific reading and writing skills, write research papers on their results, undergo mock peer-review, publish their research papers in the ASDRP Communications online journal, and give poster presentations at the end-of-summer expo. We follow up with students from ASDRP to help place them into university research laboratories and industry internships in subsequent summers. The inaugural cohort of ASDRP started in summer 2018.Please see fremontstem.org/asdrp for details.",
+            "company_professional_network_profile_url": "https://linkedin.com/company/29019510",
+            "company_profile_picture_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/company/3ba46d7461b40d970a3bf70d7c3202b362dfe4176786345e6c4b4b11f9e0ea31.jpg",
+            "company_website_domain": "asdrp.org",
+            "crustdata_company_id": 1106642,
+            "description": "\u2022 Developed Machine Learning Drug Discovery pipeline through the use of virtual chemical libraries to screen protein compounds for chemical activity and bonding. \n\u2022 Utilized Autoencoders (AEs) and Gaussian Mixture Models (GMMs) to rank synthetic accessibility. \n\u2022 Designed a Generative Adversarial Network (GAN) and Reinforcement Learning model (RL) to simulate protein drug candidates with desired properties including solubility, low toxicity, and binding affinity.",
+            "employment_type": "",
+            "end_date": "2022-05-01T00:00:00+00:00",
+            "function_category": "Research",
+            "is_default": false,
+            "location": {
+              "raw": "Fremont, CA"
+            },
+            "name": "Aspiring Scholars Directed Research Program (ASDRP)",
+            "position_id": 2048970074,
+            "professional_network_id": "29019510",
+            "seniority_level": "Entry Level",
+            "start_date": "2021-06-01T00:00:00+00:00",
+            "title": "Deep Learning Researcher",
+            "years_at_company": "Less than 1 year",
+            "years_at_company_raw": 0.0
+          },
+          {
+            "company_description": "Located in western Massachusetts, UMass Amherst is the flagship campus of the five-campus University of Massachusetts system. UMass Amherst is top ranked, nationally-recognized teaching and research institution with a current enrollment of about 28,500 students.",
+            "company_professional_network_profile_url": "https://linkedin.com/company/4508",
+            "company_profile_picture_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/company/94cab5a37b0eeb07ad9f38583dc195da172cc8b26a897978fc8d0d02253e4f9d.jpg",
+            "company_website_domain": "umass.edu",
+            "crustdata_company_id": 887127,
+            "description": "\u2022 Advised by Dr. Margaret Riley\n\u2022 Found bacteriocin cures for plant pathogens Erwinia Amylovora, Ralstonia Solanacearum, and Pseudomonas Syringae. \n\u2022 Screened 221 bacterial strains, performed MICs to test drug concentrations, and purified bacteriocin proteins in crude lysates.",
+            "employment_type": "Internship",
+            "end_date": "2019-08-01T00:00:00+00:00",
+            "function_category": "Research",
+            "is_default": false,
+            "location": {
+              "raw": "Amherst, MA"
+            },
+            "name": "University of Massachusetts Amherst",
+            "position_id": 1510278110,
+            "professional_network_id": "4508",
+            "seniority_level": "Entry Level",
+            "start_date": "2019-06-01T00:00:00+00:00",
+            "title": "Bio Researcher",
+            "years_at_company": "Less than 1 year",
+            "years_at_company_raw": 0.0
+          }
+        ]
+      }
+    },
+    "professional_network": {
+      "connections": 1453,
+      "current_title": "Deep Learning Researcher",
+      "followers": 1815,
+      "headline": "CS @ UCLA | Research @ MIT | Prev @ Scale AI, Nvidia",
+      "location": {
+        "city": "",
+        "continent": "North America",
+        "country": "United States",
+        "raw": "San Francisco Bay Area",
+        "state": "California"
+      },
+      "metadata": {
+        "last_scraped_source": null
+      },
+      "name": "Howard Huang",
+      "profile_picture_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/person/4db3b196b55e144c12b531a01c60fd13bec8960e26fcd45d8a1534849ba1ee30.jpg",
+      "pronoun": "",
+      "summary": "I'm an undergrad studying computer science at UCLA. Broadly, my academic interests center around graphs, longevity, drug discovery, gaussian splatting, AR/VR, legged robotics, and artificial intelligence. I have 5 years of software experience, 8 hackathon wins, and have created apps with 30M+ users.\nFeel free to reach out to chat!"
+    },
+    "skills": {
+      "professional_network_skills": [
+        "Deep Learning",
+        "Computer Vision",
+        "C++",
+        "Python",
+        "MERN Stack",
+        "PostgreSQL",
+        "Java",
+        "Front-end Development",
+        "Amazon Web Services (AWS)"
+      ]
+    },
+    "social_handles": {
+      "dev_platform_identifier": {
+        "profile_url": null
+      },
+      "professional_network_identifier": {
+        "profile_url": "https://www.linkedin.com/in/howardhuangz"
+      },
+      "twitter_identifier": {
+        "slug": ""
+      }
+    },
+    "crustdata_person_id": 1121325
+  }
+}

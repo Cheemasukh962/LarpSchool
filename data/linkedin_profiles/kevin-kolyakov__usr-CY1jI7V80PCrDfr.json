@@ -1,0 +1,257 @@
+{
+  "luma_user_id": "usr-CY1jI7V80PCrDfr",
+  "csv_name": "Kevin Kolyakov",
+  "csv_linkedin": "https://www.linkedin.com/in/kevin-kolyakov",
+  "enriched_at": "2026-08-12T19:11:36.259022+00:00",
+  "batch_id": "sd_msqgoa0o2hh62sia9d",
+  "profile": {
+    "id": "kevin-kolyakov",
+    "name": "Kevin Kolyakov",
+    "city": "Canada",
+    "country_code": "CA",
+    "position": null,
+    "about": "Computer Science student at the University of Waterloo focused on AI systems, developer\u2026",
+    "current_company": {
+      "link": "https://ca.linkedin.com/company/bank-of-montreal?trk=public_profile_topcard-current-company",
+      "name": "BMO",
+      "company_id": "bank-of-montreal",
+      "location": null
+    },
+    "experience": null,
+    "url": "https://sg.linkedin.com/in/Kevin-kolyakov",
+    "educations_details": "University of Waterloo",
+    "education": null,
+    "avatar": "https://media.licdn.com/dms/image/v2/D4E03AQGfplsMcZSfpA/profile-displayphoto-scale_200_200/B4EZz3hxBUIsAY-/0/1773679354144?e=2147483647&v=beta&t=VmH-GoDZlxAeEEzvshstetwMl6qfGrB2EGob8cOyWoA",
+    "courses": [
+      {
+        "subtitle": "-",
+        "title": "AP Computer Science"
+      }
+    ],
+    "certifications": [
+      {
+        "meta": "Issued Jun 2026",
+        "subtitle": "Y Combinator",
+        "title": "Startup School",
+        "credential_url": null,
+        "credential_id": null
+      },
+      {
+        "meta": "Issued Jun 2025 Credential ID 8446",
+        "subtitle": "ICTC-CTIC \ud83c\udde8\ud83c\udde6",
+        "title": "Focus on Information Technology (FIT)",
+        "credential_url": null,
+        "credential_id": "8446"
+      },
+      {
+        "meta": "Issued May 2025 See credential",
+        "subtitle": "Cisco Networking Academy",
+        "title": "Cisco IT Essentials",
+        "credential_url": "https://www.credly.com/badges/ebdefd92-d1f7-4a70-9c4c-977b809dfc4c/public_url?trk=public_profile_see-credential",
+        "credential_id": null
+      },
+      {
+        "meta": "Issued Jun 2021",
+        "subtitle": "The Royal Conservatory of Music",
+        "title": "RCM Grade 8 Certification",
+        "credential_url": null,
+        "credential_id": null
+      }
+    ],
+    "volunteer_experience": [
+      {
+        "cause": "Civil Rights and Social Action",
+        "duration": "Jan 2021 \u00b7 - Present \u00b7 \n\n5 years 8 months",
+        "duration_short": "- Present",
+        "start_date": "Jan 2021",
+        "subtitle": "The 482 Collective",
+        "title": "Fundraising Volunteer"
+      },
+      {
+        "cause": "Social Services",
+        "duration": "Nov 2017 \u00b7 - Present \u00b7 \n\n8 years 10 months",
+        "duration_short": "- Present",
+        "start_date": "Nov 2017",
+        "subtitle": "Out Of The Cold",
+        "title": "Food Server"
+      }
+    ],
+    "followers": 2583,
+    "connections": 500,
+    "current_company_company_id": "bank-of-montreal",
+    "current_company_name": "BMO",
+    "publications": [
+      {
+        "title": "LEGOS-SLEEC: Tool for Formalizing and Analyzing Normative Requirements",
+        "subtitle": "2025 International Conference on Software Engineering",
+        "date": "January 21, 2025",
+        "description": "Systems interacting with humans, such as assistive robots or chatbots, are increasingly integrated into our society. To prevent these systems from causing social, legal, ethical, empathetic, or cultural (SLEEC) harms, normative requirements specify the permissible range of their behaviors. These requirements encompass both functional and non-functional aspects and are defined with respect to time. Typically, these requirements are specified by stakeholders from a broad range of fields, such as lawyers, ethicists, or philosophers, who may lack technical expertise. Because such stakeholders often have different goals, responsibilities, and objectives, ensuring that these requirements are well-formed is crucial. SLEEC DSL, a domain-specific language resembling natural language, has been developed to formalize these requirements as SLEEC rules. In this paper, we present LEGOS-SLEEC, a tool designed to support interdisciplinary stakeholders in specifying normative requirements as SLEEC rules, and in analyzing and debugging their well-formedness. LEGOS-SLEEC is built using four previously published components, which have been shown to be effective and usable across nine case studies. Reflecting on this experience, we have significantly improved the user interface of LEGOS-SLEEC and its diagnostic support, and demonstrate the effectiveness of these improvements using four interdisciplinary stakeholders"
+      }
+    ],
+    "projects": [
+      {
+        "title": "SLEEC IntelliJ Plugin",
+        "start_date": "Jan 2024",
+        "description": "Developed an IntelliJ plugin for the Sleec language, designed to support interdisciplinary teams in specifying normative requirements. The plugin features custom parsing, syntax highlighting, dynamic code completion, and an interactive tool window for analyzing rules and concerns. It bridges technical and non-technical domains, enhancing accessibility and productivity, and was showcased in an academic publication."
+      },
+      {
+        "title": "Mentral AI - Hack the North 2025",
+        "start_date": "Sep 2025",
+        "description": "Developed a GitHub analytics pipeline that ingested commits and PRs, extracted key patterns, and generated engineerstyle mentoring feedback using a Gemini-based RAG workflow.\u2022 Created a TypeScript VS Code extension with real-time voice (WebSockets) and a local server bridge, reducing end-toend response latency by 35% for smoother conversational coding."
+      },
+      {
+        "title": "CraftNova",
+        "start_date": "Sep 2023",
+        "description": "CraftNova is a website dedicated to promoting job transparency and helping Gen Z explore the benefits of blue-collar careers. It offers clear information and opportunities to assist individuals in discovering and building successful career paths in these essential industries."
+      },
+      {
+        "title": "Git Odyssey",
+        "start_date": "Feb 2023",
+        "description": "Grade 12 Computer Science final project teaching users how to use Git through a fun game."
+      },
+      {
+        "title": "Planet Simulation",
+        "start_date": "Nov 2022",
+        "description": "Grade 11 Computer Science final project that simulates celestial objects orbiting each other."
+      }
+    ],
+    "location": null,
+    "input_url": "https://www.linkedin.com/in/kevin-kolyakov",
+    "linkedin_id": "kevin-kolyakov",
+    "activity": [
+      {
+        "interaction": "Kevin Kolyakov shared this",
+        "link": "https://www.linkedin.com/posts/kevin-kolyakov_wow-what-an-event-with-a-lot-of-cool-people-activity-7489740067050106881-9NZN",
+        "title": "Wow! What an event with a lot of cool people at the Y Combinator Startup School in SF! Heard Jensen Huang , Boris Cherny (thanks for the Claude max) and so many more speak which made me excited for my spot in the permanent underclass! Was a pleasure to meet and chat with the folks from Google DeepMind and Logan Kilpatrick as well as many Canadian Startup founders. Met so many awesome people from all over the world that I would not have met otherwise and am honestly inspired by the effort that many people put in. It reminds me that other people are also constantly working towards something they believe in. Thanks Y Combinator for paying for the flight ;) ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQHgdo8rr8uBrg/feedshare-shrink_800/B56Z_DblJqGQAc-/0/1785690215595?e=2147483647&v=beta&t=Nncd2BIBFV8NppgLIxS6hg2Xz0lpiVHV_MoHhc6xGCg",
+        "id": "7489740067050106881"
+      },
+      {
+        "interaction": "Kevin Kolyakov shared this",
+        "link": "https://www.linkedin.com/posts/kevin-kolyakov_i-will-be-in-san-francisco-on-july-2526-activity-7450956381693714433-touc",
+        "title": "I will be in San Francisco on July 25\u201326 for Y Combinator\u2019s Startup School 2026. Grateful to Y Combinator for the opportunity. Excited to learn from leaders like Jensen Huang, Alexandr Wang, Jeff Dean, and to connect with others building in this space If you\u2019re attending, I\u2019d love to connect.\u200b ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQFgGp62I76-Ew/feedshare-shrink_800/B4EZ2cdWSDIMAc-/0/1776446432805?e=2147483647&v=beta&t=dWNd7v-tOCUsfn7VsAs1rQyCG0Bhm96n4YZs_m3FWX8",
+        "id": "2526"
+      },
+      {
+        "interaction": "Kevin Kolyakov shared this",
+        "link": "https://www.linkedin.com/posts/kevin-kolyakov_last-week-i-had-a-great-time-at-uofthacks-activity-7421221717202694144-7GiV",
+        "title": "Last week I had a great time at UofTHacks 13 where I built NowAndThen with my team: Nathan Espejo , Alyssa Hee , and Vicheka Oeun . They were a huge part of this and I genuinely could not have done it without them. We built a mobile app NowAndThen that lets people leave comments, photos, and videos tied to a specific place, then explore nearby memories and replay trails through space and time. It also includes friends, likes, and an AI summary that captures the identity of a location. We used React Native, Node + Express, and MongoDB. Huge thank you to the sponsors for making the event possible, and a special thanks to Brent Wolfram for taking the time for a great coffee chat. Big thank you as well to the organizers and judges for putting on an awesome event! ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQGeHR-VLlzhpg/feedshare-shrink_800/B4EZvyF7Q5GQAg-/0/1769293198984?e=2147483647&v=beta&t=S7m_91ruavJXru4_pMtbql1HJteGmQLeh1o7TEwpyRw",
+        "id": "7421221717202694144"
+      },
+      {
+        "interaction": "Kevin Kolyakov shared this",
+        "link": "https://www.linkedin.com/posts/kevin-kolyakov_htn2025-hackthenorth-activity-7374610258981453825-Gz8H",
+        "title": "Wrapped up a weekend of hacking at Hack the North 2025! We built Mentral AI, a VS Code extension that learns a mentor's style from GitHub and gives code review feedback in that voice. Under the hood, we paired a lightweight analysis engine with AST signals and a compact RAG setup on Gemini, with VAPI handling voice and made it to the final round with Warp! (Without these guys, none of it would have happened Jasiri Wa-Kyendo, Jaskirat Gill , Ekansh Chawla )! Learn more about the project below: DevPost: https://lnkd.in/dbag96kE #HTN2025 #HackTheNorth # ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQHBLJPuPo3JDA/feedshare-shrink_800/B4EZlfg8mYHgAg-/0/1758244097925?e=2147483647&v=beta&t=mBtceb-_PH1FdN-vessSf_etnWOQwALzavUA3rIMbeI",
+        "id": "7374610258981453825"
+      },
+      {
+        "interaction": "Kevin Kolyakov shared this",
+        "link": "https://www.linkedin.com/posts/kevin-kolyakov_icse2025-activity-7324463360408805376-Uyih",
+        "title": "I had an amazing opportunity to share my work at the International Conference on Software Engineering, ( #ICSE2025 ) where I presented my paper, LEGOS-SLEEC: Tool Support for Formalizing and Analyzing Normative Requirements Well-formedness. After the presentation, it was exciting to answer questions from researchers. I am really grateful to Marsha Chechik and Lina Marsso as none of this would have happened without their support and encouragement throughout the entire process. ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQEGA1B2LmT3EQ/feedshare-shrink_800/B4EZaW4m9PHcAg-/0/1746288144754?e=2147483647&v=beta&t=E_wDYOf1q2bXEO3xYBpLypx0n3jGdZeDPcvbShnSE6I",
+        "id": "7324463360408805376"
+      },
+      {
+        "interaction": "Kevin Kolyakov replied to a comment 1w",
+        "link": "https://www.linkedin.com/posts/kevin-kolyakov_activity-7489833524171251712-WF2J",
+        "title": "Shiroth Shiyamalan thanks!",
+        "img": null,
+        "id": "7489833524171251712"
+      },
+      {
+        "interaction": "Kevin Kolyakov replied to a comment 1w",
+        "link": "https://www.linkedin.com/posts/kevin-kolyakov_activity-7489833481435312128-aXQH",
+        "title": "Abdelrahman Abdelkader thanks!",
+        "img": null,
+        "id": "7489833481435312128"
+      },
+      {
+        "interaction": "Kevin Kolyakov replied to a comment 1w",
+        "link": "https://www.linkedin.com/posts/kevin-kolyakov_activity-7489833416717393920-5jCh",
+        "title": "Joe (Beiqiao) Hu it was very fun chatting with you!",
+        "img": null,
+        "id": "7489833416717393920"
+      },
+      {
+        "interaction": "Kevin Kolyakov liked this",
+        "link": "https://www.linkedin.com/posts/alina-rivilis_universalaiawards-ai4-ai42026-activity-7490513415732596736-9aBe",
+        "title": "Live from AI4! \ud83d\ude80 Excited to discover the Universal AI Awards - Miami Chapter, a global initiative recognizing founders, enterprises, researchers, policymakers, and AI leaders driving innovation, responsible AI, and real-world impact. If you're attending AI4, stop by Booth 342, Hall BC to learn more about the AI Awards and the exciting Miami Chapter taking place in December 2026. \ud83d\udccd Visit Booth 342, Hall BC \ud83d\udcc5 AI4 | August 4\u20136 | The Venetian, Las Vegas #UniversalAIAwards #AI4 #AI42026 #ArtificialIntelligence #ResponsibleAI #AILeadership #Innovation #FutureOfAI #Miami #UAIA2026 #knowledgenetworks Knowledge Networks",
+        "img": "https://media.licdn.com/dms/image/v2/D5610AQHO3OYVoFHJdA/image-shrink_800/B56Z_OmQoAG4Ag-/0/1785877564156?e=2147483647&v=beta&t=v8PB-VIy80De4hD-d2wVZIhJLvGpJlgZQWR3CG6g_6k",
+        "id": "7490513415732596736"
+      },
+      {
+        "interaction": "Kevin Kolyakov liked this",
+        "link": "https://www.linkedin.com/posts/wtfobaid_hi-excited-to-announce-ive-been-accepted-activity-7483693874960494592-c2Rn",
+        "title": "Hi. Excited to announce I've been accepted into Y Combinator 's Startup School 26'. Flying to San Francisco on Tuesday, credits to YC. I'm the only person from Pakistan to be accepted and who is doing so. More coming soon, Obaid",
+        "img": "https://media.licdn.com/dms/image/v2/D4D22AQH4KOK3nQWZ8g/feedshare-shrink_800/B4DZ9tr7JHIEAc-/0/1784251659164?e=2147483647&v=beta&t=VeptIvour2piPiG41Qab9JFkjvVSpztJfmwT_aSLUik",
+        "id": "7483693874960494592"
+      }
+    ],
+    "linkedin_num_id": "975767784",
+    "banner_image": "https://media.licdn.com/dms/image/v2/D4E16AQFXTizyAK9zrg/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1725238508780?e=2147483647&v=beta&t=N56wiFOSgcekjRW9EimahXHy36rZNIhryRle4ZA3lJg",
+    "honors_and_awards": [
+      {
+        "title": "Certificate of Achievement for Robotics",
+        "publication": "William Lyon Mackenzie Collegiate Institute",
+        "date": "2025-06-01T00:00:00.000Z",
+        "description": "Certificate of Achievement presented to Kevin Kolyakov for special contribution to, and academic excellence in Robotics within the school"
+      },
+      {
+        "title": "Schulich Leader Nominee",
+        "publication": "The Schulich Foundation",
+        "date": "2025-06-01T00:00:00.000Z",
+        "description": "Certificate of achievement in recognition of the selection as a Schulich leader nominee, demonstrating excellence in the pursuit of STEM"
+      },
+      {
+        "title": "Duke of Edinburgh Gold Award",
+        "publication": "Duke of Edinburgh",
+        "date": "2024-08-01T00:00:00.000Z",
+        "description": "Recognized for outstanding commitment, leadership, and perseverance through community service, skill development, physical fitness, and adventurous challenges."
+      },
+      {
+        "title": "COMC Math Competition Distinction",
+        "publication": "Canadian Math Society",
+        "date": "2024-06-01T00:00:00.000Z",
+        "description": null
+      },
+      {
+        "title": "Cayley Math Competition Distinction",
+        "publication": "University of Waterloo",
+        "date": "2024-06-01T00:00:00.000Z",
+        "description": null
+      },
+      {
+        "title": "Hypatia Math Competition Distinction",
+        "publication": "University of Waterloo",
+        "date": "2024-06-01T00:00:00.000Z",
+        "description": null
+      },
+      {
+        "title": "CCC Honour Roll",
+        "publication": "University of Waterloo",
+        "date": "2023-05-01T00:00:00.000Z",
+        "description": null
+      }
+    ],
+    "similar_profiles": [],
+    "default_avatar": false,
+    "memorialized_account": false,
+    "bio_links": [
+      {
+        "title": "Portfolio",
+        "link": "https://kevin-kolyakov.github.io/"
+      }
+    ],
+    "first_name": "Kevin",
+    "last_name": "Kolyakov",
+    "influencer": false,
+    "timestamp": "2026-08-12T19:07:31.183Z",
+    "input": {
+      "url": "https://www.linkedin.com/in/kevin-kolyakov"
+    }
+  },
+  "local_photo": "data\\linkedin_photos\\kevin-kolyakov__usr-CY1jI7V80PCrDfr.jpg"
+}

@@ -1,0 +1,206 @@
+{
+  "luma_user_id": "usr-sh0BQEvbiRy35Ks",
+  "csv_name": "Aneya Sobalkar",
+  "csv_linkedin": "https://www.linkedin.com/in/aneya-sobalkar",
+  "enriched_at": "2026-08-12T18:56:33.268738+00:00",
+  "batch_id": "sd_msqg8yml2ia5na9bcp",
+  "profile": {
+    "id": "aneya-sobalkar",
+    "name": "Aneya Sobalkar",
+    "city": "Berkeley, California, United States",
+    "country_code": "US",
+    "position": null,
+    "about": "A current AI Engineer at the State Water Resources Control Board and Machine Learning\u2026",
+    "current_company": {
+      "link": "https://www.linkedin.com/company/machine-learning-at-berkeley?trk=public_profile_topcard-current-company",
+      "name": "Machine Learning at Berkeley",
+      "company_id": "machine-learning-at-berkeley",
+      "location": null
+    },
+    "experience": null,
+    "url": "https://se.linkedin.com/in/Aneya-sobalkar",
+    "educations_details": "University of California, Berkeley",
+    "education": [
+      {
+        "title": "University of California, Berkeley",
+        "url": "https://www.linkedin.com/school/uc-berkeley/",
+        "end_year": "2028-05",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      }
+    ],
+    "avatar": "https://media.licdn.com/dms/image/v2/D5603AQEa--5DQhYVqg/profile-displayphoto-scale_200_200/B56Z295y_YJgAY-/0/1777007542420?e=2147483647&v=beta&t=ZSroWzCKHOk3OEXM-6PWJY38o10qib17DI1KY4BLJTQ",
+    "certifications": [
+      {
+        "meta": "Issued May 2024 See credential",
+        "subtitle": "Coursera",
+        "title": "Stanford Machine Learning Specialization - Unsupervised Learning, Recommenders, Reinforcement Learning",
+        "credential_url": "https://www.coursera.org/account/accomplishments/certificate/6XMB2P23BA28?trk=public_profile_see-credential",
+        "credential_id": null
+      },
+      {
+        "meta": "Issued Mar 2024 See credential",
+        "subtitle": "Coursera",
+        "title": "Stanford Machine Learning Specialization - Advanced Learning Algorithms",
+        "credential_url": "https://www.coursera.org/account/accomplishments/certificate/LG6DTV6NJK9R?trk=public_profile_see-credential",
+        "credential_id": null
+      },
+      {
+        "meta": "Issued Feb 2024 See credential",
+        "subtitle": "Coursera",
+        "title": "Stanford Machine Learning Specialization - Supervised Machine Learning: Regression and Classification",
+        "credential_url": "https://www.coursera.org/account/accomplishments/certificate/D9Z8KUQYRAQV?trk=public_profile_see-credential",
+        "credential_id": null
+      }
+    ],
+    "followers": 864,
+    "connections": 500,
+    "current_company_company_id": "machine-learning-at-berkeley",
+    "current_company_name": "Machine Learning at Berkeley",
+    "publications": [
+      {
+        "title": "Exploration of New Models to Enhance Treadmill Usage and Analyze Optimal Use Cases for All Age Groups",
+        "subtitle": "IEEE Xplore",
+        "date": "March 26, 2025"
+      },
+      {
+        "title": "Revisiting Stellar Systems J0946 and V723 Monocerotis: A Study of Mass Gap Black Hole Candidates",
+        "subtitle": "arXiv",
+        "date": "December 9, 2024"
+      }
+    ],
+    "projects": [
+      {
+        "title": "Trixie Travels",
+        "start_date": "Jul 2026",
+        "description": "A voice AI agent (built on Vocal Bridge) that calls travelers directly to deliver trip updates, answer questions about their itinerary, and handle vendor payments with real flight/hotel data, live weather, and persistent memory backing every call. The backend relies on Node.js utilizing native node:sqlite for lightweight, zero-service data persistence across calls. Sabre MCP tools, PayPal Sandbox, and real-time weather APIs power live travel capabilities, payment flows, and environmental context. Additionally, a secure, size- and type-restricted Express endpoint manages travel document uploads like passport scans and itineraries, giving the agent full context during conversations."
+      }
+    ],
+    "location": "Berkeley",
+    "input_url": "https://www.linkedin.com/in/aneya-sobalkar",
+    "linkedin_id": "aneya-sobalkar",
+    "activity": [
+      {
+        "interaction": "Liked by Aneya Sobalkar",
+        "link": "https://www.linkedin.com/posts/timothygao8710_diffusiongemma-explained-activity-7492973134082519041-gu0x",
+        "title": "Spent the last few weeks learning about DiffusionGemma, Google\u2019s new open-weight 26B Diffusion LLM in my free time, and wrote a blog post about\u2026",
+        "img": "https://media.licdn.com/dms/image/sync/v2/D5627AQF7aknbC9hyQg/articleshare-shrink_800/B56Z_zGgJeJcAY-/0/1786489997382?e=2147483647&v=beta&t=7X2JSWhNg-UyeTkw_GT4Q4k8w839vPvlq4ZuB_FLnZE",
+        "id": "7492973134082519041"
+      },
+      {
+        "interaction": "Liked by Aneya Sobalkar",
+        "link": "https://www.linkedin.com/posts/prakratt_how-far-are-we-from-automated-ai-rd-im-activity-7489179464023625729-tfNJ",
+        "title": "How far are we from automated AI R&D? I'm mentoring a SPAR Research project with Advait Yadav to build evaluations for two neglected parts of the\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQG31OiLMYH-Ag/feedshare-shrink_800/B56Z.7pChmG0Ac-/0/1785559525706?e=2147483647&v=beta&t=sVKkeo2-j9zBTu7m_2FgKY4ThkoazEsPWYm15DdlBYE",
+        "id": "7489179464023625729"
+      },
+      {
+        "interaction": "Liked by Aneya Sobalkar",
+        "link": "https://www.linkedin.com/posts/rachel-d-995b91208_spent-this-weekend-at-yc-startup-school-activity-7487382136316915713-JiSt",
+        "title": "Spent this weekend at YC Startup School, and it was easily one of the most inspiring events I've been to. I met so many talented builders from\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQF2Ig967Aj4CQ/feedshare-shrink_800/B56Z.iGX09HYAk-/0/1785131009111?e=2147483647&v=beta&t=8EGG-5o6PIDVln2UVCg-9AsF2OaskLUtlfkSAaFoJCM",
+        "id": "7487382136316915713"
+      },
+      {
+        "interaction": "Liked by Aneya Sobalkar",
+        "link": "https://www.linkedin.com/posts/nyx-iskandar_my-deck-from-y-combinator-startup-school-activity-7487197953992859648-0C8i",
+        "title": "My deck from Y Combinator Startup School 2026!",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQHRRX9P46Goeg/feedshare-shrink_800/B56Z.fe3TOGcAg-/0/1785087096475?e=2147483647&v=beta&t=F0kfqj5mQBQybfqynGef7z0MMgcFV__ObT97Eefi6gw",
+        "id": "7487197953992859648"
+      },
+      {
+        "interaction": "Liked by Aneya Sobalkar",
+        "link": "https://www.linkedin.com/posts/tanmayi-dasari_thrilled-to-share-that-we-won-second-place-activity-7482845120317521920-j4An",
+        "title": "Thrilled to share that we won Second Place at the Claude Build Day Hackathon last month! Tejas Prabhune and I built Sim Francisco, a Census-seeded\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQEJpjWOqk5LBA/feedshare-shrink_800/B56Z9eiOlnGgAg-/0/1783997459032?e=2147483647&v=beta&t=w4aciD70e7u39gxxJFQ_sL9sW3esVNz3d65VWcUorlo",
+        "id": "7482845120317521920"
+      },
+      {
+        "interaction": "Liked by Aneya Sobalkar",
+        "link": "https://www.linkedin.com/posts/rachel-d-995b91208_built-a-raspberry-pi-vision-system-that-learns-activity-7482680940893339648-mM1w",
+        "title": "Built a Raspberry Pi vision system that learns new objects without retraining! The system: \u2022 Uses YOLOv8 to detect the primary object \u2022 Generates\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQFdTzIzPluH1g/feedshare-image-high-res/B56Z9fSqhsG8AY-/0/1784010156675?e=2147483647&v=beta&t=SCu-TwEKfncfCqzNRconmeAkP8kQ_26sPbUhV_qJkvQ",
+        "id": "7482680940893339648"
+      },
+      {
+        "interaction": "Liked by Aneya Sobalkar",
+        "link": "https://www.linkedin.com/posts/sandeep-bajamahal_robotics-icml2026-robotlearning-activity-7482462850423300096-hBHM",
+        "title": "\ud83d\ude80 [\ud835\udddc\ud835\uddd6\ud835\udde0\ud835\udddf \ud835\udde6\ud835\uddfd\ud835\uddfc\ud835\ude01\ud835\uddf9\ud835\uddf6\ud835\uddf4\ud835\uddf5\ud835\ude01] Very excited to have presented our paper, OXE-AugE: A Large-Scale Robot Augmentation of OXE for Scaling\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQFV9J0wilNbiw/feedshare-shrink_800/B56Z9cG8kOKgAc-/0/1783956753952?e=2147483647&v=beta&t=-dAMgCk_QNT5O3EZnB82V4aSsxZYsy63P_2Y60S2-nM",
+        "id": "7482462850423300096"
+      },
+      {
+        "interaction": "Liked by Aneya Sobalkar",
+        "link": "https://www.linkedin.com/posts/sarrah-rose-8a1501365_mat-pref-verifiable-reward-training-improves-activity-7475022999461552129-E79b",
+        "title": "Very excited to share that our paper \u201cMat-Pref: Verifiable-Reward Training Improves Compositional Reasoning in Inorganic Materials\u201d has been accepted\u2026",
+        "img": "https://static.licdn.com/aero-v1/sc/h/53n89ecoxpr1qrki1do3alazb",
+        "id": "7475022999461552129"
+      },
+      {
+        "interaction": "Liked by Aneya Sobalkar",
+        "link": "https://www.linkedin.com/posts/raniya-t_hi-everyone-i-am-deeply-excited-and-grateful-activity-7473800529639415808-AzsP",
+        "title": "Hi everyone! I am deeply excited and grateful to share a few updates: \u25cf On May 16th, I had the privilege of being a student panelist at the 2026\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQGX0Zp_3ogP2A/feedshare-image-high-res/B56Z7U5AhQG4AU-/0/1781688174922?e=2147483647&v=beta&t=OpW0skKd64TrewOriS7yt1Y_Te5HMU9PwJvzPt-_a4Q",
+        "id": "7473800529639415808"
+      },
+      {
+        "interaction": "Liked by Aneya Sobalkar",
+        "link": "https://www.linkedin.com/posts/sandeep-bajamahal_icra2026-robotics-robotlearning-activity-7470490049864863744-wRol",
+        "title": "Excited to have presented MonoDuo: Using One Robot Arm to Learn Bimanual Policies in Vienna at ICRA 2026! Bimanual manipulation is important for\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQEhpjEXxoM1fA/feedshare-shrink_800/B56Z6iGiRmGsAw-/0/1780836083770?e=2147483647&v=beta&t=trsFajAM5tkBOxlvI4bes46vY2J75qRw2KFXYEfgZQ0",
+        "id": "7470490049864863744"
+      },
+      {
+        "interaction": "Liked by Aneya Sobalkar",
+        "link": "https://www.linkedin.com/posts/aakarsh-vermani_antibody-language-models-have-gotten-pretty-activity-7469816816630956033-3ifp",
+        "title": "Antibody language models have gotten pretty good at capturing what an antibody looks like, but they don't model how antibodies get there: affinity\u2026",
+        "img": "https://static.licdn.com/aero-v1/sc/h/53n89ecoxpr1qrki1do3alazb",
+        "id": "7469816816630956033"
+      },
+      {
+        "interaction": "Liked by Aneya Sobalkar",
+        "link": "https://www.linkedin.com/posts/chrm6_i-gave-three-talks-this-semester-and-each-activity-7469526287259422720-UFW2",
+        "title": "I gave three talks this semester, and each one was its own kind of fun. I was the youngest speaker to ever speak at the Hungarian Academy of\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4D22AQFEiuNe_RIjdg/feedshare-shrink_800/B4DZ6kWk04HgAc-/0/1780873842414?e=2147483647&v=beta&t=FeCTvccjqZYjTxvYWSGS9uQCLQ7ziMs5HR8z1r_qdEM",
+        "id": "7469526287259422720"
+      },
+      {
+        "interaction": "Liked by Aneya Sobalkar",
+        "link": "https://www.linkedin.com/posts/ethan-kou-507b25288_im-thrilled-to-announce-that-ive-been-selected-activity-7467303115453534209-rvcC",
+        "title": "I'm thrilled to announce that I've been selected as a 2026 Fellow in the Notable NextGen AI Fellowship! This summer, I'll be diving into the world\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5605AQGSlaQ-rrA6eg/videocover-high/B56Z6EwmB0H0BQ-/0/1780343792759?e=2147483647&v=beta&t=gqojQP3NTnyWuIyZFY2eAeg720XdfwtfOqvI6wbsc00",
+        "id": "7467303115453534209"
+      },
+      {
+        "interaction": "Liked by Aneya Sobalkar",
+        "link": "https://www.linkedin.com/posts/pukaphol-thienpreecha-a92999249_pilarclarkjengabot-smolvla-jenga-hugging-activity-7467079519238053888-bG7h",
+        "title": "Most pizzas I have ever had at a hackathon event (18 slices). Also, feel free to check our github repos! 1. https://lnkd.in/g6YXWhxq The hardware\u2026",
+        "img": "https://media.licdn.com/dms/image/sync/v2/D5627AQEoxeaPjqAoJw/articleshare-shrink_800/B56Z6Bk4TLHkAY-/0/1780290394378?e=2147483647&v=beta&t=USi-Jc5pXegj5aGDpR5_lT5MBSwdH9ujbMZ5yhxuAjg",
+        "id": "7467079519238053888"
+      },
+      {
+        "interaction": "Liked by Aneya Sobalkar",
+        "link": "https://www.linkedin.com/posts/diya-r-609958303_blockchain-ai-web3-activity-7466703181339697154-RVGU",
+        "title": "Excited to share that our team won 1st Place at the Blockchain@UCI Mentorship Program Competition with our project, DataMint AI. DataMint AI is a\u2026",
+        "img": "https://static.licdn.com/aero-v1/sc/h/53n89ecoxpr1qrki1do3alazb",
+        "id": "7466703181339697154"
+      }
+    ],
+    "linkedin_num_id": "1488641410",
+    "banner_image": "https://static.licdn.com/aero-v1/sc/h/5q92mjc5c51bjlwaj3rs9aa82",
+    "honors_and_awards": null,
+    "similar_profiles": [],
+    "default_avatar": false,
+    "memorialized_account": false,
+    "bio_links": [],
+    "first_name": "Aneya",
+    "last_name": "Sobalkar",
+    "influencer": false,
+    "timestamp": "2026-08-12T18:55:43.615Z",
+    "input": {
+      "url": "https://www.linkedin.com/in/aneya-sobalkar"
+    }
+  },
+  "local_photo": "data\\linkedin_photos\\aneya-sobalkar__usr-sh0BQEvbiRy35Ks.jpg"
+}

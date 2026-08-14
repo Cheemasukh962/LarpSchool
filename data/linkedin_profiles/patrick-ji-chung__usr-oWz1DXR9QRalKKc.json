@@ -1,0 +1,227 @@
+{
+  "luma_user_id": "usr-oWz1DXR9QRalKKc",
+  "csv_name": "Patrick Chung",
+  "csv_linkedin": "https://www.linkedin.com/in/patrick-ji-chung",
+  "enriched_at": "2026-08-12T19:14:53.853458+00:00",
+  "batch_id": "sd_msqgwa7g10oeo6g7qx",
+  "profile": {
+    "id": "patrick-ji-chung",
+    "name": "Patrick Chung",
+    "city": "Corona, California, United States",
+    "country_code": "US",
+    "position": null,
+    "about": "Never Give Up",
+    "current_company": {
+      "link": "https://www.linkedin.com/company/ibm?trk=public_profile_topcard-current-company",
+      "name": "IBM",
+      "company_id": "ibm",
+      "location": null
+    },
+    "experience": null,
+    "url": "https://ca.linkedin.com/in/Patrick-ji-chung",
+    "educations_details": "UC San Diego",
+    "education": [
+      {
+        "title": "UC San Diego",
+        "url": "https://www.linkedin.com/school/ucsandiego/",
+        "start_year": "2024-09",
+        "end_year": "2027-06",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      },
+      {
+        "start_year": "2020-01",
+        "end_year": "2024-06",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      },
+      {
+        "start_year": "2021-08",
+        "end_year": "2023-07",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      }
+    ],
+    "avatar": "https://media.licdn.com/dms/image/v2/D5603AQHK_6hd6hp7uA/profile-displayphoto-scale_200_200/B56Zya_sW.KUAc-/0/1772126916785?e=2147483647&v=beta&t=QwGjxxJkUA8ee31mQXcKRc-UnwDqwx64xm0-Q2Y_UPM",
+    "certifications": [
+      {
+        "meta": "Issued Jan 2026 Credential ID A9chb556OR",
+        "subtitle": "Qualcomm",
+        "title": "AI Upskilling Certificate: Technical Foundations",
+        "credential_url": null,
+        "credential_id": "A9chb556OR"
+      }
+    ],
+    "volunteer_experience": [
+      {
+        "duration": "Aug 2017 \u00b7 - \nJun 2024 \u00b7 \n6 years 11 months",
+        "duration_short": "- \nJun 2024",
+        "info": "Led teams of volunteers to partake in food drives, cultural festivals, nature clean-ups, and community beautification.",
+        "start_date": "Aug 2017",
+        "subtitle": "PAVA WORLD",
+        "title": "District Vice President"
+      }
+    ],
+    "followers": 1025,
+    "connections": 500,
+    "current_company_company_id": "ibm",
+    "current_company_name": "IBM",
+    "projects": [
+      {
+        "title": "repolix",
+        "start_date": "Apr 2026",
+        "description": "Open-source local-first codebase Q&A engine. Ask plain-English questions about any Python, JS, or TS repo and get answers cited to exact files and line numbers. Fast, cheap, local. Zero data leaves your machine. PyPI: https://pypi.org/project/repolix/ GitHub: https://github.com/TheAsianFish/repolix"
+      },
+      {
+        "title": "White Static - Narrative Web Game",
+        "start_date": "Dec 2025",
+        "description": "Developed custom narrative engine for browser-based story game, featuring dynamic branching logic, player decisions, and persistent games states.Features sound design (music/sfx), customizability (player states), and replayability (multiple endings/routes).Utilized React and Typescript to bring the game's complex mechanics to life."
+      },
+      {
+        "title": "ISPE UCSD Student Chapter Website",
+        "start_date": "Jan 2026",
+        "description": "Independently designed, developed, and shipped the ISPE UCSD chapter website using Next.js, TypeScript, TailwindCSS, and a headless CMS (Sanity). Architected for non-technical maintainability \u2014 officers can update content without touching code. Driving membership conversion and chapter visibility."
+      },
+      {
+        "title": "SurgeonSight (NexHacks 2026)",
+        "start_date": "Jan 2026",
+        "description": "Real-time AI surgical coach that analyzes technique (hand positioning, grip, instrument use) and provides instant voice feedback. Designed to make high-quality surgical training accessible anywhere with just a webcam.Built with: LiveKit (real-time video), Smallest.ai (low-latency voice), Mastra (AI orchestration), MediaPipe (hand tracking), and Overshoot (visual language model).\ud83c\udfc6 Built at NexHacks 2026"
+      },
+      {
+        "title": "Trading Dashboard",
+        "start_date": "Apr 2025",
+        "description": "Building a full-stack trading dashboard to visualize price data and generate technical signals. React dashboard with scalable backend signals engine for automated analysis.Deployed on AWS with future support for automated trading and Quant logic."
+      },
+      {
+        "title": "Developing..."
+      }
+    ],
+    "location": "Corona",
+    "input_url": "https://www.linkedin.com/in/patrick-ji-chung",
+    "linkedin_id": "patrick-ji-chung",
+    "activity": [
+      {
+        "interaction": "Patrick Chung shared this",
+        "link": "https://www.linkedin.com/posts/patrick-ji-chung_opensource-devtools-buildinpublic-activity-7450905996996255744-stu0",
+        "title": "Getting dropped into an unfamiliar codebase is a pain. It's hard navigating where you need to go. You don't know where anything is, what calls what, or where to even start reading. With internship onboarding coming up this summer, I got tired of waiting for a perfect solution and just built one. repolix - point it at any codebase, ask a plain English question, then get back answers with exact file and line citations. Runs entirely on your machine. pip install repolix repolix index . repolix query \"how does authentication work\" Just shipped 0.2.0 with JavaScript and TypeScript support, so it works across Python, JS, and TS repos. Currently requires an OpenAI key, but local model support via Ollama is next. It's not trying to be everything, just a focused tool to help you understand code you didn't write. Still actively developing. Would genuinely appreciate feedback from anyone who's felt this. GitHub: https://lnkd.in/gpAWpsnx PyPI: https://lnkd.in/gGfunZY9 #opensource #devtools #buildinpublic #softwareengineering #internship #cs #python #typescript ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D5605AQGXMw3_T01ymg/videocover-high/B56Z2aJGtwIYBc-/0/1776407573808?e=2147483647&v=beta&t=NBBZdNCgcvsJetZQr0ToeOl_HSRcHiGxWguo3pwISO8",
+        "id": "7450905996996255744"
+      },
+      {
+        "interaction": "Patrick Chung shared this",
+        "link": "https://www.linkedin.com/posts/patrick-ji-chung_ibm-softwareengineering-internship-activity-7448021956244840448-l7AS",
+        "title": "I\u2019m excited to share that I\u2019ll be joining IBM as an Incoming Software Developer Intern this summer! I\u2019m incredibly grateful for this opportunity, and I'm excited to contribute, learn from talented engineers, and meet amazing people. Huge thanks to everyone who's supported me along the way. If you'll be in the Bay Area this summer and are planning to lock in, hit me up! Excited for what\u2019s ahead! \ud83d\ude80 #IBM #SoftwareEngineering #Internship #SoftwareDeveloper ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQFvLGuo1o-K6w/feedshare-shrink_1280/B56Z1xVowLIUAQ-/0/1775722990985?e=2147483647&v=beta&t=VKD3zTMmUCycm4qtem-a5p6_ApWenEdq6OfcnthUsfI",
+        "id": "7448021956244840448"
+      },
+      {
+        "interaction": null,
+        "link": "https://www.linkedin.com/posts/y-combinator_lyra-is-the-final-meeting-platform-ai-notetakers-activity-7382475034025459712-EnV9",
+        "title": "Lyra is the final meeting platform. AI notetakers clutter meetings. Multiple tabs separate knowledge. Lyra brings meetings and work together in one clean workspace. Work on docs with AI and your team live, no screenshare needed. Create follow-ups, proposals, and tasks as you talk. Everything stays in one shared space with full context across calls. For sales teams: \u2022 Less admin, faster deals \u2022 Proposals drafted live in the meeting \u2022 Ramp-up time halves, pipelines stay accurate For customer success: \u2022 Sales promises carry forward automatically \u2022 Next steps are tracked in real time \u2022 New hires ramp faster with instant account context Meetings finish with outcomes, not notes. Teams get time back. Customers feel the difference. Congrats to Courtne M. , Henry Kwon , and the Lyra team on the launch! https://lnkd.in/giUyeiWP ...more ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D5605AQG-UCP1N5UajQ/videocover-high/B56ZnOwJVnHQCE-/0/1760110373037?e=2147483647&v=beta&t=wVygqZdwAYItkpc2feQvW6uy9U-9oVwc-ht-LUjdJUA",
+        "id": "7382475034025459712"
+      },
+      {
+        "interaction": "Patrick Chung replied to a comment 4mo",
+        "link": null,
+        "title": "Nicolas Dos Santos takes one to know one!",
+        "img": null,
+        "id": null
+      },
+      {
+        "interaction": "Patrick Chung replied to a comment 4mo",
+        "link": null,
+        "title": "IBM Thanks! Looking forward to what's coming next!",
+        "img": null,
+        "id": null
+      },
+      {
+        "interaction": "Patrick Chung liked this",
+        "link": "https://www.linkedin.com/posts/jiayouz_long-story-short-i-survive-activity-7474355437958660096-vOzH",
+        "title": "long story short, I survive\ud83c\udf93",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQEvPfJ-rWKWuQ/feedshare-shrink_800/B56Z7oucXPHUAc-/0/1782020953846?e=2147483647&v=beta&t=NU4UlpL_GDqEC-oxkeYOx5Yd6ERZUas_NEV9dqUG25g",
+        "id": "7474355437958660096"
+      },
+      {
+        "interaction": "Patrick Chung liked this",
+        "link": "https://www.linkedin.com/posts/jiayouz_after-one-and-a-half-years-at-health-canada-activity-7471407334758445056-SqIy",
+        "title": "After one and a half years at Health Canada, things have moved so fast. I\u2019m really glad I had the chance to build meaningful work for the government and contribute to improving efficiency. From optimizing the pipeline to redesigning the app from the perspective of SMEs, I truly learned a lot about how to approach problems, collaborate within a team, and tackle difficulties. Thank you to everyone on the team who supported me along the way \u2014 I truly appreciate it!",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQEDgkfaq9BUaQ/feedshare-shrink_800/B56Z6_FYQyKYAg-/0/1781322319121?e=2147483647&v=beta&t=PwZdkHGaggtV_f6SHN6hrlE9PUsX94KTnKbOMao9CtU",
+        "id": "7471407334758445056"
+      },
+      {
+        "interaction": "Patrick Chung liked this",
+        "link": "https://www.linkedin.com/posts/felix-tong-a3a13a285_i-am-pleased-to-announce-that-i-will-be-joining-activity-7452506749770723328-6r_V",
+        "title": "I am pleased to announce that I will be joining Adobe as a Software Engineer Intern this summer. Following that, I will be traveling down to Los Altos and joining Orbifold AI as a Research Intern this fall. This is an exciting next step, and I\u2019m incredibly grateful for the opportunities ahead. I\u2019m looking forward to learning, growing, and contributing wherever I can. Thanks to all that believed in me.",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQHFAWcRa8uDFg/feedshare-image-high-res/B56Z2yfZYlGgAU-/0/1776816068365?e=2147483647&v=beta&t=BAheGzyrIgs0z8UapYDfcqeD9BR8_wF8QXp8wXHOyUk",
+        "id": "7452506749770723328"
+      }
+    ],
+    "linkedin_num_id": "1264907209",
+    "banner_image": "https://media.licdn.com/dms/image/v2/D4E16AQHZJW2mnm7m7Q/profile-displaybackgroundimage-shrink_200_800/B4EZewXyY_HgAU-/0/1751010716692?e=2147483647&v=beta&t=XyLDcFhgVKxxJ_CIuCROb8-uhpkVfIo5PrpEyraAEbs",
+    "honors_and_awards": [
+      {
+        "title": "Oportun Scholarship",
+        "publication": "Scholarship America",
+        "date": "2025-06-01T00:00:00.000Z",
+        "description": null
+      },
+      {
+        "title": "Vi and Quang Pham \u201806 Alumni Scholarship Award",
+        "publication": "UCSD Financial Aid and Scholarships Office",
+        "date": "2025-06-01T00:00:00.000Z",
+        "description": null
+      },
+      {
+        "title": "California Transportation Foundation Arun Sudhakar Memorial Scholarship Award",
+        "publication": "Caltrans",
+        "date": "2024-10-01T00:00:00.000Z",
+        "description": null
+      },
+      {
+        "title": "AP Capstone Diploma",
+        "publication": "College Board",
+        "date": "2024-07-01T00:00:00.000Z",
+        "description": "Awarded for completion of AP Seminar and AP Research with 4+ scores"
+      },
+      {
+        "title": "AP Scholar with Distinction",
+        "publication": "AP College Board",
+        "date": "2023-07-01T00:00:00.000Z",
+        "description": "Granted for scoring 3+ on 5 or more AP exams, with average 3.5+"
+      },
+      {
+        "title": "President's Volunteer Service Award",
+        "publication": "-",
+        "date": "2023-06-01T00:00:00.000Z",
+        "description": "Recognized for 100+ hours of verified community service"
+      },
+      {
+        "title": "IC3 Digital Literacy Master Certification",
+        "publication": "Certiport",
+        "date": "2023-05-01T00:00:00.000Z",
+        "description": null
+      }
+    ],
+    "similar_profiles": [],
+    "default_avatar": false,
+    "memorialized_account": false,
+    "bio_links": [
+      {
+        "title": "Portfolio",
+        "link": "https://github.com/TheAsianFish"
+      }
+    ],
+    "first_name": "Patrick",
+    "last_name": "Chung",
+    "influencer": false,
+    "timestamp": "2026-08-12T19:13:49.176Z",
+    "input": {
+      "url": "https://www.linkedin.com/in/patrick-ji-chung"
+    }
+  },
+  "local_photo": "data\\linkedin_photos\\patrick-ji-chung__usr-oWz1DXR9QRalKKc.jpg"
+}

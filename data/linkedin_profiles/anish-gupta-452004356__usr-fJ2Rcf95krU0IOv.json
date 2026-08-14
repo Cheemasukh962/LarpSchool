@@ -1,0 +1,226 @@
+{
+  "luma_user_id": "usr-fJ2Rcf95krU0IOv",
+  "csv_name": "Anish Gupta",
+  "csv_linkedin": "https://www.linkedin.com/in/anish-gupta-452004356",
+  "enriched_at": "2026-08-12T18:56:33.269836+00:00",
+  "batch_id": "sd_msqg8yml2ia5na9bcp",
+  "profile": {
+    "id": "anish-gupta-452004356",
+    "name": "Anish Gupta",
+    "city": "United States",
+    "country_code": "US",
+    "position": null,
+    "about": "anishgupta.org",
+    "current_company": {
+      "link": "https://www.linkedin.com/company/project-catalyst1?trk=public_profile_topcard-current-company",
+      "name": "Project Catalyst",
+      "company_id": "project-catalyst1",
+      "location": null
+    },
+    "experience": null,
+    "url": "https://uk.linkedin.com/in/anish-gupta-452004356",
+    "educations_details": "Baskin Engineering at UCSC",
+    "education": [
+      {
+        "title": "Baskin Engineering at UCSC",
+        "url": "https://www.linkedin.com/school/baskinengineering/",
+        "start_year": "2026",
+        "end_year": "2030",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      },
+      {
+        "start_year": "2022",
+        "end_year": "2026",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      },
+      {
+        "start_year": "2024-04",
+        "end_year": "2024-05",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      }
+    ],
+    "avatar": "https://media.licdn.com/dms/image/v2/D5603AQHpE1Qs9T978w/profile-displayphoto-scale_200_200/B56Z2O73..GoAY-/0/1776219554849?e=2147483647&v=beta&t=BfdIdt5lbDhs8KYhh4r6IGdCpvZ68tdyPkPwGXgb00o",
+    "certifications": [
+      {
+        "meta": "Issued Jun 2026 Credential ID pWe8.jKqq.KKLm See credential",
+        "subtitle": "OpenEDG Python Institute",
+        "title": "PCAP\u2122 \u2013 Certified Associate Python Programmer",
+        "credential_url": "https://verify.openedg.org/?id=pWe8.jKqq.KKLm&trk=public_profile_see-credential",
+        "credential_id": "pWe8.jKqq.KKLm"
+      },
+      {
+        "meta": "Issued Jul 2021 Credential ID Hk1j.KTpf.gUGF See credential",
+        "subtitle": "OpenEDG Python Institute",
+        "title": "PCEP \u2013 Certified Entry-Level Python Programmer",
+        "credential_url": "https://verify.openedg.org/?id=Hk1j.KTpf.gUGF&trk=public_profile_see-credential",
+        "credential_id": "Hk1j.KTpf.gUGF"
+      }
+    ],
+    "followers": 387,
+    "connections": 378,
+    "current_company_company_id": "project-catalyst1",
+    "current_company_name": "Project Catalyst",
+    "projects": [
+      {
+        "title": "Global Education Inequality Measurement System (GEIMS)",
+        "start_date": "Feb 2024",
+        "description": "GEIMS (Global Education Inequality Monitoring System) is a data and AI platform that measures and maps education access, learning quality, equity, and resources, turning disparate datasets into actionable insight for ministries, donors, and NGOs. GEIMS harmonizes UNESCO/UIS, World Bank, UNICEF, and national sources to compute a composite sEQI score, surface gaps on interactive maps, and generate country/region scorecards that guide policy, funding, and program design.What GEIMS deliversHarmonized data \u2192 decisions: unified indicators (access, learning, equity, resources) with transparent methodssEQI & scorecards: comparable indices and profiles for countries, regions, and school networks. Unique score through proven formula accuracy. Maps & dashboards: pinpoint need, track progress, and prioritize interventionsAPIs & exports: plug into partner workflows for research, monitoring, and reportingEquity-first analytics: gender parity, rural\u2013urban and wealth gaps, and inclusion metricsWho uses GEIMS?Education ministries, UN-affiliated partners (e.g., UNESCO-linked initiatives, UNICEF country offices), NGOs, and research teamsReach & impact (to date):Data coverage spanning 2M+ schools and 25M+ students (and growing) across multiple regions, with deployments informing resource allocation and program targeting in Africa and beyondBuilt through Project Catalyst (CTO & Founder)Youth-led, privacy-by-design, and open documentation; stack includes React/Next.js + Leaflet for maps and a Python/Postgres pipeline for ingest, harmonization, and analytics"
+      }
+    ],
+    "location": null,
+    "input_url": "https://www.linkedin.com/in/anish-gupta-452004356",
+    "linkedin_id": "anish-gupta-452004356",
+    "activity": [
+      {
+        "interaction": "Anish Gupta shared this",
+        "link": "https://www.linkedin.com/posts/anish-gupta-452004356_im-happy-to-share-that-neev-tamboli-shivansh-activity-7488154482204286976-dLRF",
+        "title": "I'm happy to share that Neev Tamboli , Shivansh Bansal , and I won 1st place in 2 different tracks at the Daytona Hack Sprint! (1st overall and Best Use of Fireworks). We built a continuation of SubStrata, a satellite land-cover classification agent that gets more accurate over time. Aayush Gandhi , Neev Tamboli and I had built this project earlier, but we decided to build on it at this hackathon! Space agencies and research teams often rely on general-purpose land cover models that plateau in accuracy, and improving them typically requires either expensive proprietary retraining or slow, manual review by researchers. Substrata is a space agency oriented land cover classification tool that uses a recursive self-improvement loop between two AI models to push satellite imagery classification accuracy from 42% to 91%. Gemini 3.5 Flash classifies and segments Sentinel-2 and Dynamic World satellite imagery pulled through Google Earth Engine, while a second model audits its output against ground-truth labels, flags discrepancies, and pushes corrections into a persistent memory layer that Gemini references on every subsequent image. At this hackathon, we implemented Fireworks AI to host the vision classifier that scores every satellite patch, alongside using it to power LLM tool calls throughout the pipeline. We rebuilt our scoring system on Braintrust instead of relying on our own math, and the results spoke for themselves: our graph memory approach hit 89% accuracy versus 64% for raw retrieval. We also rebuilt our heuristic panel using CopilotKit, so you can watch the model write out its reasoning live and see the accuracy graph climb in real time as it learns. To make the whole system more resilient, we moved each batch into its own Daytona sandbox, so one bad batch can no longer take the entire pipeline down. Before submitting, we ran everything through CodeRabbit for a final review pass on the code we shipped. Special thanks to Sinan Ozdemir for guiding us through any problem we had! As always, I had a great time building this with Neev and Shivansh, and I can't wait to continue building more things like this in the future. I'm heading to London for the next few weeks but I can't wait to get back and start building! ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQEhNJRrghrdQQ/feedshare-shrink_800/B4EZ.tE0MtJIAc-/0/1785315149599?e=2147483647&v=beta&t=CA_koIvD3qQY8fL3YlafShwqy-kr9mETa1DWmn_EZlk",
+        "id": "7488154482204286976"
+      },
+      {
+        "interaction": "Anish Gupta shared this",
+        "link": "https://www.linkedin.com/posts/anish-gupta-452004356_im-happy-to-share-that-shivansh-bansal-and-activity-7485135719993192449-4u5f",
+        "title": "I'm happy to share that Shivansh Bansal and I won 1st place in 2 tracks at the Loop Engineering Hackathon at the AWS Builder Loft! (Best use of Zero.xyz and best use of Pomerium) We built a self-correcting heart disease classifier, an autonomous ML agent that runs the entire training loop itself with no human in it. The problem: give it a prediction task on the UCI Heart Disease dataset (Cleveland, Hungary, Switzerland, Long Beach VA, ~920 records combined) and it has to collect data, train, evaluate itself, and correct course until it beats the published benchmark, 83.3% baseline, up to 86.9% best-published, with no human choosing the model, tuning hyperparameters, or deciding how to fix a bad result. So instead of running a fixed pipeline, the agent starts deliberately weak. It begins with only the smallest hospital source and has to diagnose on its own whether it's underperforming because it's data-starved, the data shape is wrong, or it picked the wrong model class. Depending on the diagnosis, it pulls in another hospital source live, transforms the data through Nexla, discovers and pays for an enrichment service through Zero.xyz mid-loop, or switches models, then retries. Every autonomous action is gated through Pomerium with a spend ceiling and action allowlist, logged. That autonomy is exactly why Pomerium mattered. Pulling a new data source, spending on an enrichment service, swapping models mid-loop, every one of those is the agent making a call with no human approving it in the moment. Pomerium's spend ceiling, action allowlist, and full audit log are what made it possible to demo that live and prove, after the fact, that the autonomy stayed inside real guardrails. Nothing in the correction path is scripted. The agent doesn't know which fix it needs until it's diagnosed the actual failure, and it doesn't know it needs Zero's marketplace until the loop tells it so, live. I had a great time this weekend building this with Shivansh, and I cant wait to continue working on projects like these in the future! You can also see the demo video here: https://lnkd.in/gQz2idwk ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQGSZxItnidp1g/feedshare-shrink_800/B56Z.CLRWuIMAc-/0/1784595422062?e=2147483647&v=beta&t=jbg8OA2BaVAq-3fRSK4nc9IYqyeLMN8DCWFTXnvEKX4",
+        "id": "7485135719993192449"
+      },
+      {
+        "interaction": "Anish Gupta shared this",
+        "link": "https://www.linkedin.com/posts/anish-gupta-452004356_im-happy-to-share-that-shivansh-bansal-activity-7482866432108818432--JTe",
+        "title": "I'm happy to share that Shivansh Bansal , Aayush Gandhi and I placed 2nd at Owkin's Rewiring Biology Hackathon! We built Discordance, a contradiction-aware knowledge graph for olfactory receptors in cancer, built as an MCP tool suite for Owkin's K Pro. The problem: ask an AI scientist platform a real biology question and you get either a falsely confident single answer or a hedge that says nothing. Neither reflects what's actually in the literature. For OR51E2 in prostate cancer, one 2009 paper shows a ligand suppressing proliferation, a 2014 paper shows the same ligand promoting invasiveness in the same cell line. Both are true. They're measuring different endpoints, not disagreeing. So instead of collapsing that into a hedge, Discordance surfaces the contradiction directly: both claims, both sources, and a hypothesis for why they diverge. Every edge in the graph is weighted by evidence strength. Rules come out confidence-qualified instead of asserted as universal. And when the system hits a genuine deadlock, it doesn't guess. It uses MCP elicitation to pause and ask the researcher. Owkin had zero existing infrastructure for olfactory receptors before this. We built out evidence pulled from primary literature, TCGA, PDB, ChEMBL, and patent data, verified against full text rather than trusting automated extraction. I had a great time this weekend building this, and I can't wait to work with Owkin further to implement this in their software! You can look at the reasoning trace demo here: https://lnkd.in/ggjAZcVF ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQGVCc2DrtT5Sw/feedshare-image-high-res/B56Z9h7WxuG8AU-/0/1784054380606?e=2147483647&v=beta&t=-QGGlTkAYUmd2Y2p7dcO3ObgzfKUoIGWxFuTOov7ldE",
+        "id": "7482866432108818432"
+      },
+      {
+        "interaction": "Anish Gupta shared this",
+        "link": "https://www.linkedin.com/posts/anish-gupta-452004356_im-excited-to-share-that-neev-tamboli-aayush-activity-7479590574963183616--GWx",
+        "title": "I'm excited to share that Neev Tamboli , Aayush Gandhi , and I won 1st place in the Financial Track of Flutter's GenUI Hackathon with our project BatemanAI! The core idea was that everyone's relationship with money looks different, so the app shouldn't show everyone the same dashboard. Using generative UI, BatemanAI builds a personalized financial view based on what each user actually cares about. A college student and someone planning for retirement see completely different information, generated in real time rather than pulled from a fixed template. We also built in a phone component using Twilio. If the agent notices financial risk coming up, like a rent payment landing right when discretionary spending has spiked, it proactively calls the user with a heads up and a plan to fix it. Inbound calls work the same way, so users can manage their finances just by talking to it. Grateful to have built this alongside such a talented team, and thankful to Flutter and the GenUI Hackathon organizers for putting together an incredible event. Looking forward to keeping this project going! ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQGELlnIgnWaXg/feedshare-shrink_800/B56Z8zX_kEGsAg-/0/1783273356569?e=2147483647&v=beta&t=slni7-aqEkvFeIqZNbFFPmTMfFgBM5cu2xhddsdesHM",
+        "id": "7479590574963183616"
+      },
+      {
+        "interaction": "Anish Gupta shared this",
+        "link": "https://www.linkedin.com/posts/anish-gupta-452004356_my-team-and-i-placed-2nd-at-the-bga-quantum-activity-7476099404035239938-b2EI",
+        "title": "My team and I placed 2nd at the BGA Quantum AI Hackathon! We built Cascade, a quantum-powered grid failure simulator that finds the power line combinations standard operators miss. Power grids are designed to survive any single line failure (N-1 security). What operators don't see are the hidden N-2 pairs, which are two lines that are individually safe, but jointly catastrophic. Our sweep found ~600 of them on a 118-bus grid. The fix? A QUBO encoded combinatorial optimization problem, solved with QAOA. Compared to the standard greedy approach, our solution cut people left without power by 8x, and secured 100% of contingencies vs 0% with the current N-1 operator baseline. We also ran the linear solver on real crossbar hardware (xpyQ) and our QAOA circuit on a real IBM quantum computing backend. Beyond the hackathon itself, I want to give a huge thank you to Dilip Vasudevan and Ayushman Dey for their guidance throughout the process, and to Marian Corpus and the BGA team for organizing an incredible dinner. I met so many cool people like Scott Nisbet and Matt Rappaport , who gave me advice that'll stick with me forever. I'm looking forward to more cool events like this in the future! ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D4D22AQEOkozdxCwwZA/feedshare-shrink_800/B4DZ74bCV6K8Ag-/0/1782284298439?e=2147483647&v=beta&t=bXBY_3TOdboFQ_h9kNiMc8htOlrgdKmkF3QFEYzv0pw",
+        "id": "7476099404035239938"
+      },
+      {
+        "interaction": "Anish Gupta shared this",
+        "link": "https://www.linkedin.com/posts/anish-gupta-452004356_excited-to-share-that-our-project-was-featured-activity-7376116066047119360-rKHx",
+        "title": "Excited to share that our project was featured in Ms. Sigamoney\u2019s keynote at the WEEF & GEDC Conference in South Korea! Truly grateful for her support and looking forward to continuing my work with her and the team at UNESCO to create more impactful initiatives like this one. ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D4D22AQGSqGo3A-2vkA/feedshare-image-high-res/B4DZl0j6FQJcAo-/0/1758597199396?e=2147483647&v=beta&t=wLxdlUzvgEvNDB1p2qqwsgHgqHlr_9fq03Ugncs69KI",
+        "id": "7376116066047119360"
+      },
+      {
+        "interaction": null,
+        "link": "https://www.linkedin.com/posts/ranveer-jayaswal-900416305_im-excited-to-share-that-my-team-and-i-earned-activity-7322847181911019520-1xMJ",
+        "title": "I\u2019m excited to share that my team and I earned 2nd Place out of over 120 participants at Stellar Hacks! We developed a deep learning\u2013powered model that leverages Gradient Descent algorithms to analyze text and proactively anticipate and mitigate emotional responses. It was an incredible opportunity to apply our skills in a real-world setting, and we\u2019re especially grateful to organizations like C.R.Y for sponsoring the event. Stellar Hacks pushed us to innovate, collaborate, and grow, and we\u2019re truly thankful for the experience. ...more ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D4D22AQE1o4UijQ0tjw/feedshare-shrink_800/B4DZZ_6sTKHwAg-/0/1745902817514?e=2147483647&v=beta&t=8C4V7lTtEbOyqINciRJZjiHben1C4H_D2sr1dZyG15c",
+        "id": "7322847181911019520"
+      },
+      {
+        "interaction": "Anish Gupta replied to a comment 1w",
+        "link": null,
+        "title": "Fireworks AI Hello! Substrata is made for the purpose of automating land cover classification, but it can be practically applied to other use cases like urban planning, agricultural monitoring, disaster response, and more!",
+        "img": null,
+        "id": null
+      },
+      {
+        "interaction": "Anish Gupta liked this",
+        "link": "https://www.linkedin.com/posts/day-91-3rd-prize-paid-user-at-snowflake-activity-7491700464086900736-iQxb",
+        "title": "Day 91 \u2014 \ud83e\udd49 3rd Prize + Paid User at Snowflake \u00d7 Beta Fund \u00d7 EverMind Hackathon At the VoiceOS (YC P25) \u00d7 a1mobile hackathon, I briefly met Samvrith Bandi . I think we talked for maybe 2 minutes. But I remember thinking: \u201cI want this guy on my team for the next hackathon.\u201d So right there, we found another hackathon, signed up, and just like that, I had my first teammate. When I got to the Today's hackathon, I started looking for more people. I always try to go for the max team size. I know quite a few builders now, but I also love finding people I don\u2019t know yet. Especially first-time hackathon people. I have a strangely high success rate with first-time hackathon teammates. There is a reason my shirt says: \u201cFirst time at a hackathon? Please join me.\u201d Then I met Isha Singh . This time, I actually asked her if she wanted to join the team. Not my usual style, lol. Usually I just say: \u201cYou are in my team.\u201d Then I met Rikin Shah , CSM\u00ae, FOCP AI on the spot too, and he became part of the team. So that was the team: Sam, Isha, Rikin, and me. Then we started building. Sam did not disappoint at all. We divided the work, and his part was basically: \u201cBuild the app.\u201d Not a small task. He single-handedly built a better app than I expected. Not only did he build it, but he also made it work. I already had a feeling he was a GOAT. He proved it. BOY IS KILLING AT 18. ASK ME WHAT I WAS DOING, LEARNING HOW TO USE A MOUSE IN 12TH CLASS. Isha killed every task I gave her. Near the end, we needed to integrate YouTube. None of us had done it before. She figured it out in around 20 minutes. And this was her first hackathon. Not bad for a first one \ud83d\ude04 Ask me \u2014 I lost quite a bit before winning one. What stood out about Rikin was his ability to handle pressure. He kept up with the pace. He stayed objective. He did not bring ego into the room. That matters a lot. In hackathons, pressure exposes people quickly. Some people freeze. Some people argue. Some people drift. Rikin stayed locked in and helped put everything together until the last moment. That is rare. We ended up winning 3rd prize. And even better, we got a paid user. That part matters to me because it means the idea was not just interesting to judges. Someone actually saw value in it. Huge thanks to Samvrith Bandi , Isha Singh , and Rikin Shah , CSM\u00ae, FOCP AI for trusting the process and building hard with me. Hackathons keep reminding me: You don\u2019t always need a team before you arrive. Sometimes you just need to recognize hungry people quickly. Give them trust. Give them ownership. And then run together. I also met some amazing people, I would love to stay in touch. Thank you to all the judges, organizers, and people who heard my pitch when I was asking for a vote, lol Zhining(Angel) Ding , Amishi Gupta , Ujwal C. Gupta, Ujwal C., Jade Zheng , Sachit Parekh , Miranda Tian , Varad Vitthal More , Vihari T. al More, Vihari T., Rohan Khiani , Raj Shah , Abdellahi El Moustapha , Diogo Infante, William C , Sabrina(Xinyi) Li , Sameer Nagar , Pragnaya Priyadarshini , Abhishek Jani , Vishrut Shah , Skand Bajpai , Ana Yoon Faria de Lima , Daniel Niu",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQHlcruWam7Dmw/feedshare-image-high-res/B56Z_fd3wfG4AY-/0/1786160577807?e=2147483647&v=beta&t=UZU5hb7FyYHQLhfnLExe1DkAwWvWU3ViqA7X4zzVv4c",
+        "id": "91"
+      },
+      {
+        "interaction": "Anish Gupta liked this",
+        "link": "https://www.linkedin.com/posts/day-90-looking-for-a-floor-couch-mattress-activity-7490813454606286850-W2qy",
+        "title": "Day 90 \u2014 Looking for a floor, couch, mattress, corner, or anything sleepable \ud83d\ude04 I\u2019m looking for accommodation in SF or Berkely from August 15 to October 15 (or before). Most of my life right now is basically: Reserach\u2192 hackathon \u2192 founder event \u2192 BART confusion \u2192 repeat. I would really appreciate any leads. To be very honest, I can\u2019t pay too much ( <1000) right now. I\u2019m not working at the moment, and my startup is still not revenue-positive. I\u2019m trying to maximize this exploration phase of my life without increasing my expenses through the roof. So if you know someone subletting a room, has a cheap short-term place, an extra mattress, a couch, or a floor that has seen ambitious people sleep on it before \u2014 please let me know \ud83d\ude04 I promise I\u2019m low maintenance. Most days I\u2019ll probably be out building, attending hackathons, or bothering people with startup ideas. Really appreciate any leads, intros, or suggestions. Thank you \ud83d\ude4f",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQFLR6-8fZB5HQ/feedshare-image-high-res/B56Z_S3JBNG0AY-/0/1785949098418?e=2147483647&v=beta&t=CtlvhAEZ7g6pypMNkfOA1V6Sr5gz6cBrnXIVBIzNkHQ",
+        "id": "90"
+      },
+      {
+        "interaction": "Anish Gupta liked this",
+        "link": "https://www.linkedin.com/posts/please-like-comment-and-repost-so-we-can-activity-7490165523939356672-9skY",
+        "title": "Please like, comment and repost so we can win social media award for RocketRide Most promises don't get broken on purpose. Life just moves on. Today, four of us built a personal brain that catches them. It's called Nous. You type \"I wanna meet with Kevin next week for dinner\" and it works out who Kevin is, what you meant, and when it should happen. It connects to your calendar, email, messages, and event streams, so it knows what your week actually looks like and proposes a slot you've got nothing on. One tap books it. Show Nous how you handle something boring, like an invoice, once, and it learns how to handle the next one. But it refuses to act until you approve, which honestly took the most work. The whole thing runs on RocketRide. Every skill Nous learns compiles into a RocketRide pipeline, so the brain never executes anything itself, the engine does. We built a custom RocketRide node and turned their engine into the compilation target for a brain. Take RocketRide away and Nous can remember, but it can't act. FalkorDB is the living memory graph, Guild.ai agents review every skill before it can run, and LaserData streams events in as they happen. It's a second brain that keeps the promises your first one makes. Built at Memory Meets Motion. Thanks to Devnovatee and frontiertower for hosting. Sunny Rodrigues , Abhinav Garg , Kewin Szlezingier , Mansi More , Poushali Deb Purkayastha , Joe Maionchi , Joshua Phillips , Krish Garg , Charlie Gillet , Po-Hsu Lien",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQGZOXsTVG-sgQ/feedshare-shrink_800/B56Z_Jp2q2GQAg-/0/1785794620323?e=2147483647&v=beta&t=nD3wqwSfquVzNXIRhIo5pMxok66orNImDHrsO8kXuIk",
+        "id": "7490165523939356672"
+      },
+      {
+        "interaction": "Anish Gupta liked this",
+        "link": "https://www.linkedin.com/posts/day-83-maybe-it-was-good-we-didnt-win-activity-7489853435622899712-dpA2",
+        "title": "Day 83 \u2014 Maybe it was good we didn\u2019t win. We lost Y Combinator x Medplum Hackathon . My 5 win streak also ended here That sounds strange to say, but the reason is very clear: We did not submit on time. This was one of the strongest teams I have worked with. I'm telling this based on my experience; I've won 10+ and I've never worked with the same people in any of the wins, which allowed me to work with a range of personalities. I can attest this is the best team by a long shot The synergy was strong. The problem was real. The team worked hard. The product was working. But we missed the deadline. And in a hackathon, if you don\u2019t submit, the work does not even enter the arena. That is painful. A part of me said: \u201cDon\u2019t publish this.\u201d Not many people know. And I am probably going to win 2 or 3 hackathons in the upcoming week anyway, so maybe it does not matter. But as I have said before, I value my sleep more than a little bit of embarrassment. I also want whoever is following me to see the real path. Maybe there is some version of me sitting in a small town in Pakistan with big dreams, watching from far away, thinking the journey is all wins, trophies, and clean pictures. It is not. There are hurdles AND mistakes. There are nights where you cannot sleep because you know you could have done better. That is part of the process. Hackathons are not just competitions. They are training grounds for me And this one trained me hard. Because what happens if one day I am running a billion-dollar company? What happens if thousands of people depend on the work? What happens if there is a regulatory report, safety review, customer deadline, investor update, contract milestone, or product launch? If I miss the deadline there, It can affect employees, customers, partners, families, and users. I could have managed the team better. I could have reduced features earlier. I could have protected the final demo path. I could have made the video a priority instead of a last-minute task. I could have said: \u201cStop building. Now we package.\u201d But I didn\u2019t. And that is on me. Maybe I needed this reminder. Winning teaches confidence. Losing teaches systems. I am genuinely grateful I got the opportunity to participate in a YC x Medplum hackathon and learn this lesson in a high-pressure environment. It hurt. And sometimes growth does not feel like a trophy. Sometimes growth feels like a lesson you cannot forget. Thank you to all the sponors who answered our questions all day along, also special thanks to Vishnu Ravi, MD who helped us shape the product. Let's stay in touch everyone ! Reshma Khilnani , Cody Ebberson , Maddy L., Everett Williams, Tim R. Tim R., Bryon Wesley , Vishnu Ravi, MD , Catie Mc Nama, Aanish Sachdev , Shubham Shinde , Diana Hu , Krishay Suresh , Ashvath S. y Suresh, Ashvath S., Sri Raghu Malireddi , Mohamed Ghoweba, MD , Victor Wang , Naomi Carrigan , Deepgram , Moss (YC F25) , Medplum , Side note: still looking for judging opportunities for my O-1 profile. Nothing on my calendar yet, but I\u2019m going to keep asking \ud83d\ude42 Please check following post https://lnkd.in/gpzehRHE",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQETCrkUhDjSmw/feedshare-shrink_1280/B56Z_FOApWGgAM-/0/1785720212321?e=2147483647&v=beta&t=IpEiXs-FzXkOoxHpzd62kVq1Cjmc5kFtZpBBlolZFeI",
+        "id": "83"
+      },
+      {
+        "interaction": "Anish Gupta liked this",
+        "link": "https://www.linkedin.com/posts/day-87-1st-prize-at-auth0-stripe-activity-7488813595959521280-euPg",
+        "title": "Day 87 \u2014 1st Prize at Auth0 \u00d7 Stripe \ud83c\udfc6 Before talking about what we built, I want to talk about the people. I met Prakash shortly after I came to SF. At that time, I was losing hackathons. One day, he was sitting across from me at an event. We didn\u2019t really talk during the hackathon because both of us were focused on our own projects. At the end, I didn\u2019t win. I was very tense. He was packing his stuff, but he stopped and asked: \u201cHow are you doing?\u201d Somehow, the conversation turned into Claude Code tips. Without me even asking properly, he spent almost an hour teaching me. That night, I went home and cried. People who know me know I\u2019m usually a rock-hard dude, but that day hit differently. I had left a stable job, my wife, came to SF, and still had not won after multiple hackathons. There wasn\u2019t any positive signal. I started questioning everything. Yesterday, I saw Prakash Acharya again and told him: \u201cWe\u2019re doing a hackathon tomorrow. I want you on my team. We\u2019re going to win 1st prize.\u201d Gergana Dragoeva Quievy can attest to this \u2014 I literally made a WhatsApp group in the evening and named it: \u201c1st Prize Winner\u201d Maybe that sounds delusional. But sometimes you need to believe before there is evidence. Today, we won 1st prize. Huge thank you to Prakash for believing in me and joining the team. And huge thank you to Garangana for pushing the limits. She was an incredible asset to the team. There are very few people who can match my energy during a hackathon, and honestly, she surpassed it. Thank you both for trusting the process and giving everything. More soon on what we built. Thank you to the judges, organizers, and all the amazing people I met. Let\u2019s stay in touch Mira Sharma , Karishma Mandal. , Adam O'Donnell , Siva Venugopal , Gabriela de Queiroz oz, Arun Kumar , Rikin Shah , CSM\u00ae, FOCP AI , Shreya Gupta , Kareem A. , Javokhir S. , Rohit Vaishali Motdhare , Huda Hajira , Anhadh Sran ., Zubair Zafar Side note: still looking for judging opportunities for my O-1 profile. Nothing on my calendar yet, but I\u2019m going to keep asking \ud83d\ude42 Please check following post https://lnkd.in/gpzehRHE",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQFmusDaP0Zosw/feedshare-image-high-res/B56Z.2cRz2HUAU-/0/1785472294456?e=2147483647&v=beta&t=H81wQq2eVP1SAjG93Pb80s2EXeGa_T9ypuKvwl6-Olc",
+        "id": "87"
+      },
+      {
+        "interaction": "Anish Gupta liked this",
+        "link": "https://www.linkedin.com/posts/daytonaio_last-friday-we-hosted-the-daytona-hacksprint-activity-7487500481418739713-b0B_",
+        "title": "Last Friday we hosted the Daytona HackSprint w/ Braintrust at the WorkOS office in San Francisco, and what an incredible day it was! \ud83d\ude80 A huge thank you to our amazing partners Braintrust , Fireworks AI , ElevenLabs , WorkOS , CodeRabbit , and CopilotKit for helping make this event possible. Most importantly, thank you to all the hackers, judges, mentors, volunteers, and everyone who joined us. The energy, creativity, and technical talent on display were incredible. \ud83c\udfc6 Congratulations to our winners! \ud83e\udd47 1st Prize + Best Use of Fireworks AI \u2014 $3,500 cash + credits SubStrata \u2014 Classifies GEE satellite tiles and feeds predictions into a memory graph, allowing past mistakes to improve future classifications without retraining. Shivansh Bansal , Anish Gupta , Neev Tamboli \ud83e\udd48 2nd Prize \u2014 $1,000 cash + credits Preview Dog \u2014 Automatically generates preview videos for GitHub issues and pull requests, making collaboration faster. Shintaro Morimoto \ud83e\udd49 3rd Prize \u2014 $500 cash + credits Meridian \u2014 An AI phone agent that handles clinic calls, securely reads submitted files, books appointments, and replaces frustrating hold music with real assistance. Nityanth Maramreddy , Ayaan Faisal , Azra Bano \ud83c\udfc5 Best Use of Daytona \u2014 $1,000 cash + credits Katena \u2014 Automates the first layer of defense against reward hacking when building reinforcement learning environments. David Ghiberdic , Justin Stefan Stoica-Tica , David Gvadzabia , Vladimir Necula \ud83c\udf96\ufe0f Best Use of Braintrust \u2014 $500 cash + LEGO set ForkLab \u2014 Replays distributed-agent failures across isolated Daytona environments and uses Braintrust to identify interventions that stop retry cascades. Kabir Koratkar \ud83c\udfc5 Best Use of ElevenLabs VoiceSRE \u2014 Turns support phone calls into resolved incidents by diagnosing issues, patching them in a sandbox, and opening GitHub PRs while you're still on the call. Peyton Li \ud83c\udfc5 Best Use of CodeRabbit \u2014 $1,000 cash Airlock \u2014 Safely quarantines untrusted AI agent tools, observes their behavior in an isolated sandbox, and delivers a verdict before they touch your machine. Nelson Lai \ud83c\udf96\ufe0f Best Use of CopilotKit \u2014 $500 cash + Meta Ray-Ban TryRepo \u2014 Instantly spins up live previews or terminals from GitHub repositories, making hackathon demos effortless. Ken Taniguchi Congratulations to every team that participated. We loved seeing so many creative ideas built in such a short amount of time, and we can't wait for the next one! \ud83c\udf89",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQGSZiVMerq0Vg/feedshare-shrink_800/B4EZ.jyAGeHwAk-/0/1785159223179?e=2147483647&v=beta&t=KF4VXJJFs_XS-8tJNbVayWEoaQb-_dF51ISCu3QuVcM",
+        "id": "7487500481418739713"
+      }
+    ],
+    "linkedin_num_id": "1487027582",
+    "banner_image": "https://media.licdn.com/dms/image/v2/D4D16AQF7xRQT4Odi-w/profile-displaybackgroundimage-shrink_200_800/B4DZcn2OegGkAU-/0/1748720218562?e=2147483647&v=beta&t=kwoiODwlnUJZ6FLPQHxu2I9dvz_PuwEoiEM18EZY1X4",
+    "honors_and_awards": [
+      {
+        "title": "Top 10 @ RunPod Flash x Digital Ocean Hackathon",
+        "publication": "Runpod",
+        "date": "2026-06-01T00:00:00.000Z",
+        "description": null
+      },
+      {
+        "title": "Top 3 Overall (1st in Financial Track) @ Flutter GenUI Hack",
+        "publication": "Flutter",
+        "date": "2026-06-01T00:00:00.000Z",
+        "description": null
+      },
+      {
+        "title": "Top 8 @ Dell x NVIDIA AI Hackathon",
+        "publication": "Entrepreneurs First",
+        "date": "2026-06-01T00:00:00.000Z",
+        "description": null
+      },
+      {
+        "title": "2nd place @ XpyQ x Berkeley Gateway Accelerator Quantum AI Hackathon",
+        "publication": "Berkeley Gateway Association",
+        "date": "2026-05-01T00:00:00.000Z",
+        "description": null
+      },
+      {
+        "title": "AP Scholar with Distinction",
+        "publication": "College Board",
+        "date": "2025-07-01T00:00:00.000Z",
+        "description": null
+      }
+    ],
+    "similar_profiles": [],
+    "default_avatar": false,
+    "memorialized_account": false,
+    "bio_links": [],
+    "first_name": "Anish",
+    "last_name": "Gupta",
+    "influencer": false,
+    "timestamp": "2026-08-12T18:55:43.986Z",
+    "input": {
+      "url": "https://www.linkedin.com/in/anish-gupta-452004356"
+    }
+  },
+  "local_photo": "data\\linkedin_photos\\anish-gupta-452004356__usr-fJ2Rcf95krU0IOv.jpg"
+}

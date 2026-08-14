@@ -1,0 +1,236 @@
+{
+  "luma_user_id": "usr-aiySstZLo1iK8dO",
+  "csv_name": "Utsav Agarwal",
+  "csv_linkedin": "https://www.linkedin.com/in/utsavagar7",
+  "enriched_at": "2026-08-12T19:22:34.868722+00:00",
+  "batch_id": "sd_msqh2468i57o0acas",
+  "profile": {
+    "id": "utsavagar7",
+    "name": "Utsav Agarwal",
+    "city": "Fremont, California, United States",
+    "country_code": "US",
+    "position": null,
+    "about": null,
+    "current_company": {
+      "name": "Faberlens AI",
+      "location": null
+    },
+    "experience": null,
+    "url": "https://be.linkedin.com/in/utsavagar7",
+    "educations_details": "University of Michigan College of Engineering",
+    "education": [
+      {
+        "title": "University of Michigan College of Engineering",
+        "url": "https://www.linkedin.com/school/university-of-michigan-college-of-engineering/",
+        "start_year": "2025-07",
+        "end_year": "2028-04",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      },
+      {
+        "start_year": "2021",
+        "end_year": "2025",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      }
+    ],
+    "avatar": "https://media.licdn.com/dms/image/v2/D5603AQHziPN7IuphZA/profile-displayphoto-scale_200_200/B56ZyrDKuRKAAc-/0/1772396260632?e=2147483647&v=beta&t=mZXG2hN9Imqxnm9OhCo_ND48h2vbGlVatcDmXk1dd1A",
+    "certifications": [
+      {
+        "meta": "Issued Aug 2025 Credential ID AHFH16JFNAIV See credential",
+        "subtitle": "Google",
+        "title": "Connect and Protect: Networks and Network Security",
+        "credential_url": "https://www.coursera.org/account/accomplishments/verify/AHFH16JFNAIV?trk=public_profile_see-credential",
+        "credential_id": "AHFH16JFNAIV"
+      },
+      {
+        "meta": "Issued Jul 2025 Credential ID U9D7OPZ3YGZP See credential",
+        "subtitle": "Google",
+        "title": "Foundations of Cybersecurity",
+        "credential_url": "https://www.coursera.org/account/accomplishments/records/U9D7OPZ3YGZP?trk=public_profile_see-credential",
+        "credential_id": "U9D7OPZ3YGZP"
+      },
+      {
+        "meta": "Issued Jul 2025 Credential ID ZKZFUZ8AYFTH See credential",
+        "subtitle": "Google",
+        "title": "Play It Safe: Manage Security Risks",
+        "credential_url": "https://www.coursera.org/account/accomplishments/records/ZKZFUZ8AYFTH?trk=public_profile_see-credential",
+        "credential_id": "ZKZFUZ8AYFTH"
+      },
+      {
+        "meta": "Issued Jan 2023 Credential ID 475FL3U4OZTL See credential",
+        "subtitle": "DeepLearning.AI",
+        "title": "Generative AI for Software Development",
+        "credential_url": "https://www.coursera.org/account/accomplishments/verify/475FL3U4OZTL?trk=public_profile_see-credential",
+        "credential_id": "475FL3U4OZTL"
+      },
+      {
+        "meta": "Issued Feb 2020 Credential ID H5U8T7J3GKCY See credential",
+        "subtitle": "University of Michigan",
+        "title": "Programming for Everybody (Getting Started with Python)",
+        "credential_url": "https://www.coursera.org/account/accomplishments/records/H5U8T7J3GKCY?trk=public_profile_see-credential",
+        "credential_id": "H5U8T7J3GKCY"
+      },
+      {
+        "meta": "Issued Feb 2020 Credential ID H5U8T7J3GKCY See credential",
+        "subtitle": "University of Michigan",
+        "title": "Programming for Everybody (Getting Started with Python)",
+        "credential_url": "https://www.coursera.org/account/accomplishments/records/H5U8T7J3GKCY?trk=public_profile_see-credential",
+        "credential_id": "H5U8T7J3GKCY"
+      }
+    ],
+    "volunteer_experience": [
+      {
+        "cause": "Education",
+        "duration": "Jun 2022 \u00b7 - \nJun 2025 \u00b7 \n3 years 1 month",
+        "duration_short": "- \nJun 2025",
+        "info": "- Cofounded organization focused on providing access to robotics education to underprivileged areas - Hosted and presented at numerous local workshops - Donated 2 LEGO robotics kits and 2 computers to the Tibetan's Children Village in India and held online sessions to teach them robotics - Donated 1 LEGO robotics kits and 1 computer to a school in Nairobi, Kenya and held robotics teaching sessions with them",
+        "start_date": "Jun 2022",
+        "subtitle": "Robots Without Borders",
+        "title": "Co-Founder, Teacher"
+      }
+    ],
+    "followers": 547,
+    "connections": 500,
+    "current_company_name": "Faberlens AI",
+    "projects": [
+      {
+        "title": "PUSHbulance",
+        "start_date": "Aug 2025",
+        "description": "* Led development of OpenCV logic for an Arduino-based autonomous robot* Integrated ESP32-CAM inputs with real-time control logic to process ~60 FPS camera feeds* Tuned PID control values, color detection, and speed parameters while applying Tensorflow-based vision"
+      },
+      {
+        "title": "EduPrepMe",
+        "start_date": "Aug 2024",
+        "description": "* Developed PyTorch-based RNN model to generate SAT practice papers* Implemented a SQL database schema to support application data storage* Created Java-based backend with MySQL and REST APIs based interface"
+      }
+    ],
+    "location": "Fremont",
+    "input_url": "https://www.linkedin.com/in/utsavagar7",
+    "linkedin_id": "utsavagar7",
+    "activity": [
+      {
+        "interaction": "Utsav Agarwal shared this",
+        "link": "https://www.linkedin.com/posts/utsavagar7_this-past-weekend-i-got-invited-to-go-to-activity-7488455628667953152-EjwV",
+        "title": "This past weekend, I got invited to go to YC Startup School. I had a great time, and am excited to see what comes next.",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQEXDPWUNNXEUQ/feedshare-shrink_800/B56Z.xWtzlKwAc-/0/1785386950095?e=2147483647&v=beta&t=ZJp--Rn_TLW1dzozePmiI08zYMHTGAGD4L3GsbYXUjc",
+        "id": "7488455628667953152"
+      },
+      {
+        "interaction": "Utsav Agarwal shared this",
+        "link": "https://www.linkedin.com/posts/utsavagar7_happy-to-share-that-this-past-weekend-i-activity-7439519199670116352-uMAS",
+        "title": "Happy to share that this past weekend, I worked with Praniil Nagaraj to win the ElevenLabs track at RocketHacks 2026, hosted by MLH and the University of Toledo. Lots of learnings from this one: 1. Don\u2019t rush the beginning We dove straight into building without thinking enough about structure \u2014 file organization, data flow, and how components would connect. That led to avoidable friction later. A bit more upfront planning would have saved us a lot of time. 2. Less is sometimes more We tried to pack in too many features early on. There\u2019s a hard limit to what you can realistically build in 24 hours. Things got much smoother once we focused on a few core problems and built around those. 3. Think beyond the product During judging, we were asked about the business model \u2014 and we didn\u2019t have a great answer. It\u2019s easy to focus purely on building, but viability matters too. Every project needs a story for how they sustain itself. 4. Integration is always harder than expected Individual pieces worked, but connecting everything together took longer than anticipated. Save some time to get things talking to each other. Definitely one of the most intense (and rewarding) builds I\u2019ve done, can't wait for the next one.",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQFkSzaP-SkvRw/feedshare-shrink_800/B56Zz57SgFH8Ac-/0/1773719595462?e=2147483647&v=beta&t=gQOig6mrBTYafKttg_b22Ccyz9Nbnjsxtbbck-TQy1o",
+        "id": "7439519199670116352"
+      },
+      {
+        "interaction": "Utsav Agarwal shared this",
+        "link": "https://www.linkedin.com/posts/utsavagar7_im-excited-to-share-that-i-recently-placed-activity-7434080503265361920-I4bA",
+        "title": "I'm excited to share that I recently placed Top 5 at the inaugural University of Michigan - Stephen M. Ross School of Business x University of Michigan College of Engineering AI Hackathon with Ayush Madhav Kumar , Caleb Kosel , and Sajiv Jampani . We asked a simple question: Shouldn't exam feedback reflect concept mastery instead of just question accuracy? Our solution was an AI-powered, professor-side exam analyzer that turns question-level performance into concept-based competency scores. Given any question, our tool evaluates a student's understanding of: - The core concept being tested - The foundational concepts that may influence their understanding - Any downstream concepts that could be impacted by a gap in understanding It then compiles these insights into structured class/individual level reports that professors can use to gain insights into their class's understanding of the content and provide better, targeted feedback to students. As my first hackathon, this experience was especially impactful. Beyond my first time using the technical skills involved in the project, it challenged me to think critically about potential issues and possible solutions in the educational world. I'm grateful for the team and the experience. Time to carry this momentum forward.",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQGCp9mLHoTbtQ/feedshare-shrink_1280/B56Zyso02RHQAg-/0/1772422909872?e=2147483647&v=beta&t=RXlDrXfbsd_kz57G3POzPXgeNzGOA2GLftKCjic0CwU",
+        "id": "7434080503265361920"
+      },
+      {
+        "interaction": null,
+        "link": "https://www.linkedin.com/posts/eduprepme_studyyourway-eduprepme-satprep-activity-7289213281196556289-X85i",
+        "title": "Say goodbye to the stress of SAT prep and hello to smarter, tailored studying\u2014all for FREE! EduPrepMe\u2019s AI-powered platform helps you tackle the SAT with confidence. Ready to level up your prep game? Visit: eduprepme.com . . #studyyourway #eduprepme #satprep #studysmarter #testprep #learnandgrow #sattips #studytips #collegeprep",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQEetEyaIU-vGw/feedshare-image-high-res/B56ZSh82eRHEA0-/0/1737883871627?e=2147483647&v=beta&t=7qR8rG4mvkv3jF7GLewWEw9Gab1-ya2F6MLuCydqFGc",
+        "id": "7289213281196556289"
+      },
+      {
+        "interaction": null,
+        "link": "https://www.linkedin.com/posts/eduprepme_satprepforall-eduprepme-collegedreams-activity-7274392789654650880-1Mza",
+        "title": "Dreaming of college but worried about SAT prep costs? We\u2019re committed to making sure every student has free, high-quality resources to reach their goals. Join us and take your first step toward success! \ud83c\udf93\ud83d\udcaa Get started at https://www.eduprepme.com/ #SATprepForAll #EduPrepMe #CollegeDreams",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQGBf0bhaHxyNg/feedshare-image-high-res/B56ZPPVsaxHoA0-/0/1734350391979?e=2147483647&v=beta&t=W8pvLG_PnHiV1tXjemOm8SER0GBmKrJx1LcQGUCR9n0",
+        "id": "7274392789654650880"
+      },
+      {
+        "interaction": null,
+        "link": "https://www.linkedin.com/posts/eduprepme_satpreparation-eduprepme-collegebound-activity-7270830182943383552-N7Mc",
+        "title": "Why pay for SAT prep when you can get high-quality, personalized practice for FREE? At EduPrepMe, we\u2019re here to help every student succeed without the big price tag. Ready to start your SAT journey? \ud83d\ude80 Click to learn more at https://eduprepme.com/ ! #satpreparation #eduprepme #collegebound #satprepcourse #satprepclass #satprep #eduprepme #satpreparationclass #satpreparationtest",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQFmle4sAjOXeQ/feedshare-image-high-res/feedshare-image-high-res/0/1733500999678?e=2147483647&v=beta&t=sKhNcy2jw1fsjDljTCVz3SCKXIpMQDcqSxvXV-oJn8I",
+        "id": "7270830182943383552"
+      },
+      {
+        "interaction": "Utsav Agarwal liked this",
+        "link": "https://www.linkedin.com/posts/y-combinator_vestris-yc-s26-runs-the-entire-real-estate-activity-7491206475646754817-PRvZ",
+        "title": "Vestris (YC S26) runs the entire real estate closing process. Title insurance is the thorn in the side of every home purchase in America, and almost nobody who buys it can tell you what it does. Behind the scenes, someone is opening emails one at a time as files and paperwork crawl through, manually copying info from pieces of paper. The \"modern\" software is a decade-old database most small shops can't even afford. So founders Aahil Valliani and Joshua Tang spent months working inside mom-and-pop title shops, closing real files alongside the processors, and built Vestris. It reads every document the moment it lands, pulls county records, drafts the title commitment, and reconciles the closing disclosure. Nothing goes out without a human signing off. Processors are handed a file with the busywork already done, so they can spend their time making judgment calls and the work clients actually remember: walking someone through the biggest purchase of their life. Vestris is already running alongside a shop settling millions in deals a month. Learn more at vestris.ai or reach out at founders@vestris.ai . Congrats on the launch, Aahil and Joshua! \ud83d\ude80 https://lnkd.in/gsMjiUm4",
+        "img": "https://media.licdn.com/dms/image/v2/D5605AQEPcU3jDPLM_Q/videocover-high/B56Z_YB8VeHUBM-/0/1786035824046?e=2147483647&v=beta&t=h9fhFcNQcqmoVcT5F1LOybONvXpvoeTLZOgz1MXVAH0",
+        "id": "7491206475646754817"
+      },
+      {
+        "interaction": "Utsav Agarwal liked this",
+        "link": "https://www.linkedin.com/posts/and-with-that-my-first-defcon-comes-to-a-activity-7492330940816310272-B0Nj",
+        "title": "And with that my first DEFCON comes to a close. It was an absolute blast meeting new friends and visiting the villages they had there! The people here were so welcoming and kind, perfect for my first time. I will say you will meet some people that will absolutely surprise you. A key piece of advice I'll give is to see if you can find any colleagues of some of your professors. You'll get some wild stories, learn something new and have a great time! For example, I met one of the cofounders of Tor and he told me how part of Tor's infrastructure is at my university plus he knows the faculty advisor for our cybersecurity club, Prof. Ensafi. I also met some of Prof. Halderman's colleagues at the Voting Village. I'm glad I went to DEFCON before I graduate this upcoming school year. See you all next year! Hopefully, I'll be handed another free OWASP t-shirt while writing my post.(yes this did actually happen)",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQEW_-pqgsxEaA/feedshare-shrink_800/B56Z_obSa2GUAc-/0/1786310895872?e=2147483647&v=beta&t=gJmakl2IDXo8u4yUxN74NcEkLKnekVDTuSJIbNwi8oo",
+        "id": "7492330940816310272"
+      },
+      {
+        "interaction": "Utsav Agarwal liked this",
+        "link": "https://www.linkedin.com/posts/fwhittington_introducing-the-fall-2026-class-of-cursor-activity-7492355572281823232-z96n",
+        "title": "Introducing the Fall 2026 class of Cursor Campus Leads. Every AI company is launching a new campus ambassador program right now but this one is going to be different. I've used my 8+ years of campus community experience to hand select the best student leaders and instructed them to throw the typical, boring ambassador playbook out the window. We just spent a 3-day weekend together at the Cursor office in San Francisco and I'm fired up. See you all on campus VERY soon!!",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQFXjTkaVwXBBg/feedshare-shrink_800/B56Z_oxsVuHcAc-/0/1786316768930?e=2147483647&v=beta&t=mRZIy-T8ezcv4voFSOCB4P59mIT3ezsGnvFMOjT8JLY",
+        "id": "2026"
+      },
+      {
+        "interaction": "Utsav Agarwal liked this",
+        "link": "https://www.linkedin.com/posts/tomtvaroh_capitalonetechsummit-cots-softwareengineering-activity-7488373011687862272-n0d7",
+        "title": "Over the past few days I had a blast attending Capital One\u2019s July Tech Summit! It was great meeting other students and Capital One associates while learning more about the engineering culture and Tech Internship Program. One thing I hadn\u2019t fully understood before was Capital One\u2019s culture of continuous learning. From their internal colleges, to internal ML slack channels where employees share what they're learning about the field, there are endless opportunities to learn and build community. During one fun activity within the event, we were each given 10 minutes to build a \u201ccatch the cash\u201d game. My ATTC took some creative liberty and brought the idea a little closer to home catching Dave\u2019s Hot Chicken fries. Try to beat my high score through the link in the comments. A huge thank you to Deshae Coleman for coordinating such an engaging event and to Terris Johnson for extending this opportunity to me. I also really appreciated the thoughtful swag box! #CapitalOneTechSummit #COTS #SoftwareEngineering #Tech #Fintech",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQExyubR9ySuBA/feedshare-shrink_1280/B56Z.wLjpVK0AM-/0/1785367247718?e=2147483647&v=beta&t=aU7pMb4gTk4zAJGIpznx6LVY_CFDrwhg3s905yzSgVs",
+        "id": "7488373011687862272"
+      },
+      {
+        "interaction": "Utsav Agarwal liked this",
+        "link": "https://www.linkedin.com/posts/defcon-defcon34-cybersecurity-activity-7491597997936365568-ZCWR",
+        "title": "IYKYK :-) #DEFCON #DEFCON34 #CyberSecurity #BadgeSecurity #EthicalHacking #SecurityResearch #InfoSec",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQEwksKPGzk7Iw/feedshare-image-high-res/B56Z_eArocGQAU-/0/1786136148963?e=2147483647&v=beta&t=DEWi7fQ-ta06HstXTW4n-FMCQlDCsAHuSa9tov4TeWc",
+        "id": "7491597997936365568"
+      },
+      {
+        "interaction": "Utsav Agarwal liked this",
+        "link": "https://www.linkedin.com/posts/cloudvillage-dc_defcon34-activity-7491552495069184000-QVRi",
+        "title": "Huge shoutout to Seth Art for dropping so much knowledge on New AWS IAM Attack Paths and the Framework to Exploit Them today! The APEX PARK energy was unmatched. \ud83d\udd25 #DEFCON34",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQEy9clSvOKYyw/feedshare-image-high-res/B4EZ_dQj18JYAU-/0/1786123534086?e=2147483647&v=beta&t=nldclAbYiT8rzx1673wI9RKXCXc-hEie9zvKSAnlYMQ",
+        "id": "7491552495069184000"
+      },
+      {
+        "interaction": "Utsav Agarwal liked this",
+        "link": "https://www.linkedin.com/posts/riad-benyamna_beyond-grateful-for-the-opportunity-to-attend-activity-7491366221121171457-jWFb",
+        "title": "Beyond grateful for the opportunity to attend the Capital One Tech Summit this past week. Getting to hear from engineers and leaders across the org, learn how they\u2019re approaching tech at scale, and connect with other students just as excited about this space made for a great few days, even virtually. Huge thank you to Terris Johnson for making this happen and for the opportunity.",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQEVuFkNjNiKHQ/feedshare-shrink_800/B56Z_at4OyHIAc-/0/1786080888151?e=2147483647&v=beta&t=jSDDxMdYaoqOzJpLTOeuPEsbXDax5BFju4Zr0Zk2HOo",
+        "id": "7491366221121171457"
+      },
+      {
+        "interaction": "Utsav Agarwal liked this",
+        "link": "https://www.linkedin.com/posts/agargdev_i-am-happy-to-share-that-i-am-starting-a-activity-7490640832434163712-8_uB",
+        "title": "I am happy to share that I am starting a new position at DeepAware AI (YC S25) ! Backed by Y Combinator and NVIDIA , DeepAware is building full-stack Physical AI, with one of the largest robotics fleets in the US including humanoids and quadrupeds. I will be working on developing and integrating autonomous systems across the fleet and at customer deployment sites. Thank you to all my colleagues at VALT Health , proud of what we built together. Excited to be a part of the future of physical AI!",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQGVEtrDXharTg/feedshare-shrink_800/B56Z_QaJJSGsAg-/0/1785907942190?e=2147483647&v=beta&t=R5XP30SzsMVJnIcvGqSHEFVvLsYTA47aQyvlFif-1YE",
+        "id": "7490640832434163712"
+      },
+      {
+        "interaction": "Utsav Agarwal liked this",
+        "link": "https://www.linkedin.com/posts/adamryu_recently-i-had-the-opportunity-to-attend-activity-7490428893192159232-4GnQ",
+        "title": "Recently, I had the opportunity to attend Capital One \u2019s virtual Tech Summit. Over two days, I gained insight into their technology culture, prepared for the upcoming recruiting process, and connected with an incredible group of students and professionals. Thank you to Rian Payne, SHRM-CP , for helping me get to this opportunity, and to everyone who helped make the experience possible! Also, I'm impressed with the swag box. \ud83d\ude0a",
+        "img": "https://media.licdn.com/dms/image/v2/D4D22AQF4jWHi2OnRjQ/feedshare-image-high-res/B4DZ_K_LmuHQAY-/0/1785816989778?e=2147483647&v=beta&t=GLXMmCsL7oX1TyYdNVPjETol0KDrIot52B72ZNQkm8s",
+        "id": "7490428893192159232"
+      }
+    ],
+    "linkedin_num_id": "1077361473",
+    "banner_image": "https://static.licdn.com/aero-v1/sc/h/5q92mjc5c51bjlwaj3rs9aa82",
+    "honors_and_awards": null,
+    "similar_profiles": [],
+    "default_avatar": false,
+    "memorialized_account": false,
+    "bio_links": [],
+    "first_name": "Utsav",
+    "last_name": "Agarwal",
+    "influencer": false,
+    "timestamp": "2026-08-12T19:18:15.964Z",
+    "input": {
+      "url": "https://www.linkedin.com/in/utsavagar7"
+    }
+  },
+  "local_photo": "data\\linkedin_photos\\utsavagar7__usr-aiySstZLo1iK8dO.jpg"
+}

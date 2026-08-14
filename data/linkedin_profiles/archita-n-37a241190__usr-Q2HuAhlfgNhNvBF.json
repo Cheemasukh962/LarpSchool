@@ -1,0 +1,255 @@
+{
+  "luma_user_id": "usr-Q2HuAhlfgNhNvBF",
+  "csv_name": "Archita Nemalikanti",
+  "csv_linkedin": "https://www.linkedin.com/in/archita-n-37a241190",
+  "enriched_at": "2026-08-12T18:58:28.952820+00:00",
+  "batch_id": "sd_msqgad6c2eeefcaqas",
+  "profile": {
+    "id": "archita-n-37a241190",
+    "name": "Archita N",
+    "city": "San Francisco Bay Area",
+    "country_code": "US",
+    "position": null,
+    "about": "Passionate about anything and everything technology. Give me a\u2026",
+    "current_company": {
+      "link": "https://www.linkedin.com/company/apple?trk=public_profile_topcard-current-company",
+      "name": "Apple",
+      "company_id": "apple",
+      "location": null
+    },
+    "experience": null,
+    "url": "https://it.linkedin.com/in/archita-n-37a241190",
+    "people_also_viewed": [
+      {
+        "profile_link": "https://www.linkedin.com/in/aditya8100",
+        "name": "Aditya Deepak",
+        "about": "Meta",
+        "location": "663 followers Austin, TX"
+      },
+      {
+        "profile_link": "https://www.linkedin.com/in/yuankun-li-9781b5115",
+        "name": "Yuankun Li",
+        "about": "Amazon",
+        "location": "5K followers Seattle, WA"
+      },
+      {
+        "profile_link": "https://www.linkedin.com/in/sumeetvarma9",
+        "name": "Sumeet V.",
+        "about": "Databricks",
+        "location": "5K followers Mountain View, CA"
+      },
+      {
+        "profile_link": "https://www.linkedin.com/in/sanjay-kumar-vishwakarma",
+        "name": "Sanjay Vishwakarma",
+        "about": "PsiQuantum",
+        "location": "33K followers Sunnyvale, CA"
+      },
+      {
+        "profile_link": "https://in.linkedin.com/in/richatibrewal",
+        "name": "Richa Tibrewal",
+        "about": "Georgia Institute of Technology",
+        "location": "3K followers Bengaluru"
+      },
+      {
+        "profile_link": "https://www.linkedin.com/in/andaluo",
+        "name": "Anda Luo",
+        "about": "Northeastern University",
+        "location": "5K followers Seattle, WA"
+      },
+      {
+        "profile_link": "https://sg.linkedin.com/in/sanat-anand",
+        "name": "Sanat Anand",
+        "about": "Non-Disclosure Agreement",
+        "location": "7K followers Singapore"
+      },
+      {
+        "profile_link": "https://www.linkedin.com/in/prachihande",
+        "name": "Prachi Hande",
+        "about": "Google",
+        "location": "1K followers Mountain View, CA"
+      },
+      {
+        "profile_link": "https://www.linkedin.com/in/yash-zalavadia",
+        "name": "Yash Zalavadia",
+        "about": "Amazon",
+        "location": "5K followers Austin, TX"
+      },
+      {
+        "profile_link": "https://www.linkedin.com/in/hasan-kamal",
+        "name": "Hasan Kamal",
+        "about": "Google",
+        "location": "2K followers San Francisco Bay Area"
+      }
+    ],
+    "educations_details": "Cornell University",
+    "education": [
+      {
+        "title": "Cornell University",
+        "url": "https://www.linkedin.com/school/cornell-university/",
+        "start_year": "2022",
+        "end_year": "2026",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      },
+      {
+        "start_year": "2018",
+        "end_year": "2022",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      }
+    ],
+    "avatar": "https://media.licdn.com/dms/image/v2/D4E03AQFymdus1bxYNQ/profile-displayphoto-scale_200_200/B4EZz5_UytIEAY-/0/1773720654669?e=2147483647&v=beta&t=Xwgm04V2_cJCyjLxGfPL5Kzi3souJDbygns4FZstxEc",
+    "followers": 1349,
+    "connections": 500,
+    "current_company_company_id": "apple",
+    "current_company_name": "Apple",
+    "projects": [
+      {
+        "title": "CSEvents @ Cornell",
+        "start_date": "2026",
+        "description": "CSEvents is an iOS app for Cornell CS students to discover and track events happening around the CS community \u2014 workshops, hackathons, speaker panels, showcases, and more. instead of digging through listservs and discord servers, it's all in one place, sorted and ready."
+      },
+      {
+        "title": "Nutrivision: A MetaQuest AR/VR Application to Count Calories",
+        "start_date": "Feb 2025",
+        "description": "Presented at Stanford Tree Hacks '25.NutriVision is an AI-powered nutrition tracking tool designed to (1) automatically detect food in real-time using VR/AR glasses and (2) provide accurate calorie and macronutrient analysis to help users effortlessly track their intake. Built on a Flask backend and a React Native frontend, with integrations with YOLOv11 for object detection, OpenAI API for calorie estimation, and USDA Food Database for enhanced nutrient accuracy. The model is deployed using onnxruntime JS to run efficiently on Meta Quest 2, leveraging the live video feed for real-time predictions. PostgreSQL is used for database management to log user consumption trends over time."
+      },
+      null,
+      null,
+      {
+        "title": "NeoHb Medical Device: An Embedded Systems Project",
+        "start_date": "May 2019",
+        "description": "- Developed a compact, wrist-worn device for non-invasive health monitoring.- Used AT-Mega 328 microcontroller and peripheral hardware components such as photodiode array to collect hemoglobin data noninvasively. - Used a peripheral bluetooth hardware module to continuously send over complex THx spectral data to an Android app, which used SQL database and multithreaded algorithms to store and display spectral data to the app\u2019s UI.- Personally invited to present this work to esteemed figures including the Governor of Massachusetts, President of MIT, and the acclaimed Dr. Anthony Fauci, highlighting the project's significant impact and potential in the field of medical technology."
+      }
+    ],
+    "location": null,
+    "input_url": "https://www.linkedin.com/in/archita-n-37a241190",
+    "linkedin_id": "archita-n-37a241190",
+    "activity": [
+      {
+        "interaction": "Archita N shared this",
+        "link": "https://www.linkedin.com/posts/archita-n-37a241190_san-francisco-is-an-intelligent-city-1849-activity-7413051586043871232-TV8B",
+        "title": "san francisco is an intelligent city. 1849: gold rush. 1990: internet revolution. today: artificial intelligence revolution. historically, SF has been a city of people who truly just bet on themselves. it's one of those cities where if you say you're a college dropout, people's eyes light up. (nyc, on the other hand, plays by different rules. it's a city of structure + established pathways) but in SF, the next Facebook is being built right now in a coffee shop on Market Street. and people here will do whatever they can to find them, support them, and believe in them early. that\u2019s what makes this city so special. bet on yourself. move to sf. do that crazy thing. you never know what may happen ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQHhk-1rkwIleQ/feedshare-shrink_1280/B56ZuBzIi3JYAs-/0/1767409224976?e=2147483647&v=beta&t=8xdA9Tnr78POuSNmiV1l6UvnXP62w-wtdX_--uWZW6s",
+        "id": "1849"
+      },
+      {
+        "interaction": "Archita N shared this",
+        "link": "https://www.linkedin.com/posts/archita-n-37a241190_wrapped-up-my-internship-at-apple-over-activity-7409438190912339969-Lb6G",
+        "title": "Wrapped up my internship at Apple. Over the past year, I have grown in ways I can't describe. 1) I am no longer afraid of the command line. You need to hit errors, make mistakes, and debug your way to truly learn. 2) I started committing to Github everyday. No excuses. 3) I developed an intuitive way of thinking about object-oriented programming while building web applications....it's like a flow state. Wow. 4) I fell in love with discussing architecture with my friends. How can we build chatgpt.com from scratch? Google from scratch? Instagram? Beautiful. As we step into 2026, I\u2019m moving on to a new venture and am excited to share more about what I\u2019ll be working on next very soon. Here's to 2025. \ud83c\udf8a ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQECcECRHitnnA/feedshare-image-high-res/B56ZtOcxF6JsAo-/0/1766547724272?e=2147483647&v=beta&t=jn2H_rHPC_XtW6dZSHhr3pTVnbOqmaV-EUan8yfgs20",
+        "id": "7409438190912339969"
+      },
+      {
+        "interaction": "Archita N shared this",
+        "link": "https://www.linkedin.com/posts/archita-n-37a241190_im-excited-to-share-that-ill-be-joining-activity-7314400121473945600-EWvP",
+        "title": "I'm excited to share that I'll be joining Apple this summer as a software engineering intern in the Cupertino office. I'll be working in the HomeLabs special projects team.\ud83c\udf34 Huge thanks to my recruiter, Katherine Esquibel , for the support throughout this process. Additional thanks to my friends and family! If you'll be in the Bay Area this summer, or if you just have a cool startup idea to talk about, reach out!\ud83d\ude42 ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQHHUOLomQGk9A/feedshare-shrink_800/B4EZYH4Jk4HgAk-/0/1743888882492?e=2147483647&v=beta&t=ejsGj7bJidfxQ8ayuPwx8VTCIqLLSxVY_dVTIJ6fN_0",
+        "id": "7314400121473945600"
+      },
+      {
+        "interaction": "Archita N liked this",
+        "link": "https://www.linkedin.com/posts/zkarim28_ibm-internship-program-certificate-was-issued-activity-7493042418049560576-YhSg",
+        "title": "View my verified achievement from IBM .",
+        "img": "https://media.licdn.com/dms/image/v2/D4E10AQG6Gq_iGss6xA/image-shrink_800/B4EZ_yiYL1H8Ag-/0/1786480526349?e=2147483647&v=beta&t=aagzRDrG7scyVOhNnYg6EebX3omTX0kW3DTirxisa00",
+        "id": "7493042418049560576"
+      },
+      {
+        "interaction": "Archita N liked this",
+        "link": "https://www.linkedin.com/posts/lilliesun_this-is-my-official-goodbye-to-being-the-activity-7491192180603224065-ApUU",
+        "title": "This is my official goodbye to being the internet's list girl. It's been a crazy journey spending the last two years convincing anyone who would give me two seconds of their day to listen to a pitch about making lists. Deciding to step away from building a product I personally loved so much wasn't easy but undoubtedly was the right thing to do. As you might have seen, both Conner and I are no longer actively working on Ditto . Unfortunately, after countless experiments and iterations, we came to the understanding that the ceiling this specific product was not large enough to allow us to reach the sheer impact and scale that we hope to achieve in building this company. But don't worry, the app itself is still being maintained, it's still available to download if someone resonates with the concept. Also because thousands of people would literally crash out if we removed the app. I will always be grateful for our fiercely loyal users. So what have we been doing the last few months then? Conner, myself and our incredible team (both new and old!) have been relentlessly working on a brand new app around the thesis of unlocking the stories from your camera roll. The camera roll is an untapped dataset representing the most accurate, high\u2011resolution archive of your life \u2014 every phase, friendship, and micro\u2011era in one place, captured and framed exactly how you saw that moment. Our vision was always much bigger than a form factor. My personal motivation stems from an unwavering belief that it's our job to make the internet a more participatory place. How can it be that our only options to engage with the social products is to lurk and doomscroll, become a full-blown content creator or quit it all together. It's clear that the gap for a new social space could not be wider, more obvious, and more important to get right. I'm super excited to introduce you to our new company Beam Camera Roll but for now, felt like I owed my list girl persona a proper goodbye. I'm also very grateful to have the support of our core team, investors and advisors onboard this new journey with us. So much to come. See ya very soon.",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQEg3fjRzJKI_w/feedshare-image-high-res/B56Z_YPlPDJoAU-/0/1786039393570?e=2147483647&v=beta&t=dGOMeF8mcE_FBEYaXFWQj27t4NM_LppQalQA614WPLc",
+        "id": "7491192180603224065"
+      },
+      {
+        "interaction": "Archita N liked this",
+        "link": "https://www.linkedin.com/posts/catherineyzhou_were-excited-to-share-that-truli-is-backed-activity-7490817467527647232-sM1l",
+        "title": "We\u2019re excited to share that Truli is backed by a16z speedrun . Michael and I started Truli after navigating regulatory compliance for our own supplement. What should have been a straightforward process became hours of digging through FDA regulations, guidance documents, and constantly evolving requirements. As we spoke with other CPG founders, we realized this was an industry-wide problem. Today, the stakes are even higher. Functional ingredients, peptides, GLP-1 products, retailer policies, and increasing scrutiny around product claims are making compliance more complex every year. Yet most teams still rely on manual reviews, disconnected tools, and expensive lawyers or consultants. That\u2019s why we\u2019re building Truli: an AI-native compliance platform that helps food, beverage, and supplement companies stay compliant across the entire product lifecycle. We\u2019re working with leading global CPG brands to modernize compliance, making it an invisible layer that enables innovation rather than a bottleneck that slows it down. We\u2019re incredibly grateful to the entire a16z Speedrun team for believing in our vision. Thank you to Jonathan Lai , Fareed Mosavat , Andrew Chen , Joshua Lu , Kenan Saleh , Marcus Segal , Troy Kirwin , Emily Bennett , Seeam Shahid Noor , Samira Behrouzan , Macy Mills , Lester Chen , Tom Hammer , Lejla Johnsen , Andrew Lee , Jordan Mazer , Jordan Carver , Bella Nazzari , Joe G. , Jacqueline Young , Marigold Vu , and Joan DeGennaro for all of their support. We\u2019re also deeply grateful to every customer, advisor, and regulatory expert who has helped shape what we\u2019re building. If you\u2019re navigating compliance in food, beverage, or supplements, we\u2019d love to chat. We\u2019re just getting started.",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQECbyMIQuRWhQ/feedshare-shrink_800/B56Z_S6yuYGUAg-/0/1785950056087?e=2147483647&v=beta&t=TAHvO8d85u2hfrZqUAwCjSKtvx7xLXqYGpHr2zTEUZ0",
+        "id": "7490817467527647232"
+      },
+      {
+        "interaction": "Archita N liked this",
+        "link": "https://www.linkedin.com/posts/the-wall-street-journal_on-a-recent-summer-sunday-afternoon-brooks-activity-7490486692395630594-BNFH",
+        "title": "On a recent summer Sunday afternoon, Brooks Hiller was hunkered over his laptop at his apartment in Chicago, dialing in to hour three of a marathon series of conference calls on real-estate deals. The 21-year-old isn\u2019t a professional, and he doesn\u2019t make a dime from this work. He is a rising senior at Indiana University\u2019s Kelley School of Business, where he leads a team of 20 undergraduates who manage about $12 million in equity. Those students operate their own real-estate investment business, called Sample Gates Management, named for the Gothic-style limestone arches that are the gateway to the Bloomington campus. Unlike the many student investment clubs that deploy university money or rely on donations, the Indiana group raises funds from third parties and invests in properties across the country, such as apartment developments and industrial parks. \u201cStudents get the experience, the school gets a better education for their students, and the investors are making their money back and get to be a part of the program again,\u201d Hiller said. \u201cI really wanted to be part of that.\u201d The group\u2019s success is emblematic of changes transforming both higher education and the real-estate industry. \ud83d\udd17 Read more: https://on.wsj.com/45apwJZ",
+        "img": "https://media.licdn.com/dms/image/v2/D4E10AQFqCQSuVVR0sA/image-shrink_1280/B4EZ_ON9ULIUAc-/0/1785871193720?e=2147483647&v=beta&t=As8OKQDqOhGMK7pYBVdmze8VQjO0w6phCe9a6klb7Zw",
+        "id": "7490486692395630594"
+      },
+      {
+        "interaction": "Archita N liked this",
+        "link": "https://www.linkedin.com/posts/dimple-amitha-g_lemonade-wsj-womenshealth-activity-7489007236342685696-CzeF",
+        "title": "When life gives you LemonLime make Lemonade \ud83c\udf4b going viral on x for getting a tattoo is crazy, but there's a silver lining: getting your femtech startup mentioned in the Wall Street Journal \ud83e\udd73 \ud83e\udef6\ud83c\udffd #lemonade #wsj #womenshealth #femalefounder #building",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQH6Bxlbueqz2w/feedshare-image-high-res/B4EZ.5MZXEIAAU-/0/1785518463070?e=2147483647&v=beta&t=oYBK28XOhyC6c5HQYb_CV03eB8ZdZiHii14IlduIJVI",
+        "id": "7489007236342685696"
+      },
+      {
+        "interaction": "Archita N liked this",
+        "link": "https://www.linkedin.com/posts/hritika-arjunwadkar-880b97215_hci-uxresearch-artificialintelligence-activity-7485281859921211392-A_RD",
+        "title": "A few weeks ago, I had the opportunity to present our research poster at the EMERGE Conference, Indian Institute of Technology, Bombay Our paper, \"Beyond the Turing Test: Assessing the Authenticity of AI-Generated Qualitative Data in HCI,\" co-authored with Navaneeth Sankar K P , Madhura Regundwar , Taashvi Singh ,and Tanisha Harlalka , explores a question that is becoming increasingly relevant as AI finds its way into the design process: Can AI-generated interview responses ever be considered a substitute for real user research? As designers increasingly use LLMs as \"synthetic users\" for ideation and qualitative research, understanding where AI aligns with and diverges from authentic human experiences becomes critical. Our research explores these boundaries and the implications they have for human-centered design. It was a great experience presenting our work, learning from the incredible research showcased at the conference, and having thoughtful conversations with fellow researchers. Happy to share that this paper has been selected for the first round of ICoRD. Looking forward to seeing where this research goes next! #HCI #UXResearch #ArtificialIntelligence #HumanCenteredDesign #Research #EMERGE #IITBombay",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQHIoFtxn98CoA/feedshare-shrink_800/B56Z.EQKF3HUAc-/0/1784630257831?e=2147483647&v=beta&t=ssTHqMb9UUeM-rgBeX0GGoRzr6MnjGSxhB4wgezSoRg",
+        "id": "7485281859921211392"
+      },
+      {
+        "interaction": "Archita N liked this",
+        "link": "https://www.linkedin.com/posts/enkhbold470_i-got-sick-of-guessing-if-i-was-actually-activity-7485317760349102081-LDyS",
+        "title": "I got sick of guessing if I was actually locked in, so I turned my normal headphones into a brain tracker. (And yes, we did it before GTA 6.) The biggest trap in deep work isn't getting distracted, it's not realizing you lost focus until 45 minutes have passed. So we built NeuroFocus : Snap the sensor onto your existing earpads. Put your headphones on. See your real-time flow state on your screen\u2014zero guessing. Early access is live NOW. Comment below \"big brain\" if you want to test it out on your own setup!",
+        "img": "https://media.licdn.com/dms/image/v2/D5605AQGjkecfiv8hrg/videocover-high/B56Z.D2XraGcBM-/0/1784623500580?e=2147483647&v=beta&t=O6BcSPSYV2EjrX0eA_KJfN2-Z-czJ4oFrNr4D5k-7Rw",
+        "id": "7485317760349102081"
+      }
+    ],
+    "linkedin_num_id": "753050830",
+    "banner_image": "https://media.licdn.com/dms/image/v2/D5616AQHagFgzJe5NMQ/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1680214965623?e=2147483647&v=beta&t=pv2bjb8EkhWSKiGBk0ZKph_tb0xy2U5-vVSFAFPFNW8",
+    "honors_and_awards": [
+      {
+        "title": "YC AI Startup School Attendee",
+        "publication": "Y Combinator",
+        "date": "2025-06-01T00:00:00.000Z",
+        "description": "Top 10% of CS students in the nation"
+      },
+      {
+        "title": "Hackathon, Most Creative App (Fall 2024)",
+        "publication": "Cornell App Dev",
+        "date": "2024-12-01T00:00:00.000Z",
+        "description": "\"Read.ly\": A Full-Stack Social Networking Dating App Connecting Users Through Book Trading\". Designed and constructed the backend using Flask with SQLAlchemy, created multiple RESTful API endpoints, implemented user authentication, and implemented a Tinder-like matching API endpoint."
+      },
+      {
+        "title": "International MCM 2024 Finalist",
+        "publication": "-",
+        "date": "2023-11-01T00:00:00.000Z",
+        "description": "One of few students selected to represent Cornell University at the International Mathematical Modeling Competition."
+      },
+      {
+        "title": "1st Place, Massachusetts Science and Engineering Fair",
+        "publication": "-",
+        "date": "2021-01-01T00:00:00.000Z",
+        "description": null
+      },
+      {
+        "title": "American Junior Academy of Science (AJAS) Delegate",
+        "publication": "-",
+        "date": "2021-01-01T00:00:00.000Z",
+        "description": "Presented research in med-tech to esteemed figures including Dr. Anthony Fauci, NIH Director Dr. Francis Collins, Dr. Cynthia Breazeal, and more."
+      },
+      {
+        "title": "Grand Prize Sanofi Genzyme Award, Massachusetts Science and Engineering Fair",
+        "publication": "-",
+        "date": "2020-05-01T00:00:00.000Z",
+        "description": null
+      }
+    ],
+    "similar_profiles": [],
+    "default_avatar": false,
+    "memorialized_account": false,
+    "bio_links": [],
+    "first_name": "Archita",
+    "last_name": "N",
+    "influencer": false,
+    "timestamp": "2026-08-12T18:56:48.753Z",
+    "input": {
+      "url": "https://www.linkedin.com/in/archita-n-37a241190"
+    }
+  },
+  "local_photo": "data\\linkedin_photos\\archita-n-37a241190__usr-Q2HuAhlfgNhNvBF.jpg"
+}

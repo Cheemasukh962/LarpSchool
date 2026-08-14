@@ -1,0 +1,126 @@
+{
+  "luma_user_id": "usr-oLJREJUdAP40dfw",
+  "csv_name": "MANASA VINOD KUMAR",
+  "csv_linkedin": "https://www.linkedin.com/in/manasavk",
+  "enriched_at": "2026-08-12T19:12:29.391061+00:00",
+  "batch_id": "sd_msqgtpzbeylkhkm9p",
+  "profile": {
+    "id": "manasavk",
+    "name": "Manasa Vinod Kumar",
+    "city": "San Francisco Bay Area",
+    "country_code": "US",
+    "position": null,
+    "about": null,
+    "current_company": {
+      "link": "https://www.linkedin.com/company/hack4impact?trk=public_profile_topcard-current-company",
+      "name": "Hack4Impact",
+      "company_id": "hack4impact",
+      "location": null
+    },
+    "experience": null,
+    "url": "https://ca.linkedin.com/in/manasavk",
+    "educations_details": "University of Maryland",
+    "education": [
+      {
+        "title": "University of Maryland",
+        "url": "https://www.linkedin.com/school/university-of-maryland/",
+        "start_year": "2023-08",
+        "end_year": "2026-12",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      },
+      {
+        "start_year": "2021",
+        "end_year": "2023",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      }
+    ],
+    "avatar": "https://media.licdn.com/dms/image/v2/D4E03AQEL-7QY5dWk1A/profile-displayphoto-scale_200_200/B4EZyNyuE9JgAY-/0/1771905417051?e=2147483647&v=beta&t=KjpphZv4XvYtpARDV9QQf7SK4dwjgDT0pbsxAEgLPmM",
+    "courses": [
+      {
+        "subtitle": "MATH141",
+        "title": "Calculus II"
+      },
+      {
+        "subtitle": "MATH241",
+        "title": "Calculus III - Introduction to multivariable calculus"
+      },
+      {
+        "subtitle": "CMSC250",
+        "title": "Discrete Structures"
+      },
+      {
+        "subtitle": "CMSC216",
+        "title": "Introduction to Computer Systems"
+      },
+      {
+        "subtitle": "MATH240",
+        "title": "Introduction to Linear Algebra"
+      },
+      {
+        "subtitle": "CMSC131",
+        "title": "Object-Oriented Programming I"
+      },
+      {
+        "subtitle": "CMSC132",
+        "title": "Object-Oriented Programming II"
+      }
+    ],
+    "certifications": [
+      {
+        "meta": "Issued Aug 2025",
+        "subtitle": "Cornell University",
+        "title": "Machine Learning Foundations",
+        "credential_url": null,
+        "credential_id": null
+      },
+      {
+        "meta": "Issued May 2022",
+        "subtitle": "Udemy",
+        "title": "Python for Data Science and Machine Learning",
+        "credential_url": null,
+        "credential_id": null
+      },
+      {
+        "meta": "Issued Jul 2021 Credential ID 2PL92N7Q4H4Q See credential",
+        "subtitle": "Yale University",
+        "title": "Financial Markets",
+        "credential_url": "https://www.coursera.org/account/accomplishments/records/2PL92N7Q4H4Q?trk=public_profile_see-credential",
+        "credential_id": "2PL92N7Q4H4Q"
+      },
+      {
+        "meta": "Issued Jul 2021",
+        "subtitle": "Udemy",
+        "title": "The Complete Python Bootcamp",
+        "credential_url": null,
+        "credential_id": null
+      }
+    ],
+    "followers": 701,
+    "connections": 500,
+    "current_company_company_id": "hack4impact",
+    "current_company_name": "Hack4Impact",
+    "location": null,
+    "input_url": "https://www.linkedin.com/in/manasavk",
+    "linkedin_id": "manasavk",
+    "activity": null,
+    "linkedin_num_id": "1061937000",
+    "banner_image": "https://media.licdn.com/dms/image/v2/D4E16AQHIqSaFXEnK-Q/profile-displaybackgroundimage-shrink_200_800/B4EZyNzzGnKIAU-/0/1771905693464?e=2147483647&v=beta&t=9peMS1QuitkONyCazE-Tv2pVzkWiqhHaDEngwNNEH-g",
+    "honors_and_awards": null,
+    "similar_profiles": [],
+    "default_avatar": false,
+    "memorialized_account": false,
+    "bio_links": [],
+    "first_name": "Manasa",
+    "last_name": "Vinod Kumar",
+    "influencer": false,
+    "timestamp": "2026-08-12T19:11:46.832Z",
+    "input": {
+      "url": "https://www.linkedin.com/in/manasavk"
+    }
+  },
+  "local_photo": "data\\linkedin_photos\\manasavk__usr-oLJREJUdAP40dfw.jpg"
+}

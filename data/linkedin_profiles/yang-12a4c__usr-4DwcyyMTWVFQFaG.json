@@ -1,0 +1,206 @@
+{
+  "luma_user_id": "usr-4DwcyyMTWVFQFaG",
+  "csv_name": "Fong Yu Lin",
+  "csv_linkedin": "https://www.linkedin.com/in/yang-12a4c",
+  "enriched_at": "2026-08-12T19:06:01.814919+00:00",
+  "batch_id": "sd_msqgh02428smzgu5m",
+  "profile": {
+    "id": "yang-12a4c",
+    "name": "Fong-Yu Lin",
+    "city": "Fremont, California, United States",
+    "country_code": "US",
+    "position": null,
+    "about": null,
+    "current_company": {
+      "link": "https://www.linkedin.com/company/e4e-ucsd?trk=public_profile_topcard-current-company",
+      "name": "Engineers For Exploration",
+      "company_id": "e4e-ucsd",
+      "location": null
+    },
+    "experience": null,
+    "url": "https://ua.linkedin.com/in/yang-12a4c",
+    "educations_details": "UC San Diego",
+    "education": [
+      {
+        "title": "UC San Diego",
+        "url": "https://www.linkedin.com/school/ucsandiego/",
+        "start_year": "2024-09",
+        "end_year": "2026-06",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      },
+      {
+        "start_year": "2022-09",
+        "end_year": "2024-06",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      },
+      {
+        "start_year": "2019",
+        "end_year": "2022",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      }
+    ],
+    "avatar": "https://media.licdn.com/dms/image/v2/D5603AQEsBelJmi3b4g/profile-displayphoto-shrink_200_200/B56ZZ9x7HQHsAc-/0/1745866962034?e=2147483647&v=beta&t=krNVrAAqPCB-6vb12jqTJ7ka79cYbJD6YcmEmyZLpsk",
+    "followers": 247,
+    "connections": 243,
+    "current_company_company_id": "e4e-ucsd",
+    "current_company_name": "Engineers For Exploration",
+    "location": "Fremont",
+    "input_url": "https://www.linkedin.com/in/yang-12a4c",
+    "linkedin_id": "yang-12a4c",
+    "activity": [
+      {
+        "interaction": "Fong-Yu Lin shared this",
+        "link": "https://www.linkedin.com/posts/yang-12a4c_ubitus-softwareengineering-ai-activity-7371907212278956032-boTL",
+        "title": "\ud83d\ude80 Just wrapped up an incredible 12-week journey as a Software Engineering Intern at Ubitus K.K. in Taiwan! This experience pushed me far beyond my comfort zone and taught me that engineering is about so much more than just coding--it's about solving complex problems and thinking systematically. \ud83d\udd0d Key Achievements: \u2022 Built a semantic search MCP server for our company LLM, achieving 77.8% F1 Score with cross-collection capabilities \u2022 Developed a company-wide prompt injection defense framework that blocked 100% of attacks across 5 AI applications \u2022 Operated the G1 humanoid robot at AI WAVE exhibition, bridging technical implementation with real-world demonstrations \ud83e\udde0 Beyond the Technical: The most transformative part? Deep conversations with manager Vic and mentor Melody about what defines an engineer. They showed me that coding is simply \"\u63cf\u8ff0\u4e8b\u60c5\u7684\u908f\u8f2f\uff0c\u662f\u5c07\u908f\u8f2f\u5177\u8c61\u5316\u7684\u5de5\u5177\" - the description of logical processes; it serves as a tool for concretizing abstract logic. Sometimes the best solution isn't writing more code, but finding the right people and approach to solve the problem. From discussing AI consciousness to exploring philosophical questions about adaptation and existence, this internship expanded my thinking in ways I never expected. I am extremely grateful to the people I met here, especially Ubitus - TP Vic Chiang , for your invaluable insights and creativity, and for teaching me how to tell a story and express ideas fully to listeners. A huge shoutout to my supportive mentor Melody Wang for your guidance and patience. Without Hung-Yi Shih 's and Andy Khoo Yuen Khai 's help, things couldn't have gone this well at the AI WAVE exhibition. Thank you also to Helen Lyu for exposing me to the work in the Marketing and BD team. Thank you to the entire RD/TDG/CNF team for making these 12 weeks the most memorable experience of my life. The insights and perspectives I've gained will carry forward into everything I build next. #Ubitus #SoftwareEngineering #AI #MachineLearning #Internship #Taiwan #TechCareers #PersonalGrowth #Milvus #VectorDB #RAG ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQEdnRt5mllenw/feedshare-image-high-res/B56Zk5GiT4JsAo-/0/1757599640539?e=2147483647&v=beta&t=QwkCe8OJJbB3tmIipoa9XuctuT25UMTzD9A-h4zVJ7M",
+        "id": "7371907212278956032"
+      },
+      {
+        "interaction": "Fong-Yu Lin shared this",
+        "link": "https://www.linkedin.com/posts/yang-12a4c_wave2025-ai-ubitus-activity-7358066111315152896-cX4E",
+        "title": "Thrilled to share my experience representing Ubitus K.K. at Taiwan's largest AI exhibition - #WAVE2025 ! It was an honor to showcase our company's cutting-edge products to such an engaged audience. I had the incredible opportunity to be at the forefront of our showcase, controlling our AI Humanoid with an Apple Vision Pro. This interactive demo wasn't just about handing out snacks; we were actively gathering valuable training data for the robot's future Reinforcement Learning models. The positive energy and interest our booth attracted were fantastic! We demonstrated our suite of AI solutions: \ud83e\udd16 AI Humanoid: An AI companion designed for healthcare settings like Mackey Memorial Hospital, capable of patient interaction, physical support, and specimen delivery. \ud83d\udc33 UbiOne: A dynamic platform for creating and interacting with customizable virtual characters who can chat, dance, and generate images. It supports voice interaction, multilingual communication, and emotional expression, making it perfect for VTubers, customer service, and brand characters. \ud83c\udfa8 UbiArt: A powerful tool for AI-powered image and video generation with 22 style transformations. By combining natural language prompts with the Diffusion model, it can quickly generate unique illustrations and animations. \ud83d\ude0a UbiReal: Our 8K hyper-real avatars. The integration of Unreal Engine and NVIDIA ACE achieves extremely realistic appearance and voice-synchronized expressions, allowing visitors to experience immersive virtual interactions. Interacting with visitors and hearing their feedback on our products was invaluable. Exploring the expo, I observed key industry trends focused on virtual characters, diverse AI agent applications, robotics, and computer vision. It was inspiring to connect with other innovators in the field. A huge thank you to Amy Huang , Andy Khoo Yuen Khai , Helen Lyu, Hung-Yi Shih . Their guidance has been instrumental in my learning journey, providing me with a holistic view of the AI industry, more specifically in the difference between Business Development, Marketing, Sales, and R&D teams. #AI #Ubitus #Internship #AIWAVE #Robotics #GenerativeAI #VirtualCharacters #ReinforcementLearning #AppleVisionPro #TechExpo ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQFn-yMnz9pIsw/feedshare-shrink_800/B56Zh0aIX5HkAk-/0/1754299665384?e=2147483647&v=beta&t=_e7FLfZ1oGuY82quaASb1yZPjZu10RxiUow0fcSZRrI",
+        "id": "7358066111315152896"
+      },
+      {
+        "interaction": "Fong-Yu Lin shared this",
+        "link": "https://www.linkedin.com/posts/yang-12a4c_bideo-activity-7223519577261948928-T_rI",
+        "title": "\ud83d\ude80 Check out our product for the Headstarter AI Hackathon! \ud83d\ude80 Our team, Shamanic, is thrilled to announce our latest project: Bideo, a revolutionary hologram plugin for VRChat. Inspired by a recent conversation, we\u2019ve embarked on creating a platform that allows performers to broadcast themselves as holograms, enhancing virtual events with an immersive experience. \ud83d\udd0d Project Highlights: \u2022 Objective: Build a tool that meets real user needs. \u2022 User Goal: Acquire 20-100 users via LinkedIn, TikTok, and Instagram. \u2022 Metrics Tracking: Using Google Analytics, Posthog, or Hotjar. \ud83d\udca1 Innovative Solution: Leveraging Microsoft Azure Kinect SDK and ArchiTech.ProTV, we are developing a custom shader to project high-quality volumetric video into VRChat without heavy data usage. This will be a game-changer for education, concerts, and virtual events! \ud83d\udee0\ufe0f Tech Stack: \u2022 Unity 2022.3.22.f1 \u2022 C# & Udon \u2022 VRChat Creator Companion \u2022 Azure SDK \u2022 Microsoft Kinect Camera v2 \ud83c\udfaf Target Audience: Thousands of VRChat club owners and performers who will benefit from broadcasting their events as holograms. \ud83d\udd78 Product: Take a look at our landing page for the project! https://lnkd.in/gRNjjJ62 \ud83d\udc3b Shamanicians: Myself, Nicolas Canales , Caleb Onuonga , and Aadil A. #AI #Hackathon #VRChat #Holograms #Innovation #TechCommunity #Headstarter ...more",
+        "img": "https://media.licdn.com/dms/image/sync/v2/D5627AQFL-BMgSlbfCg/articleshare-shrink_800/articleshare-shrink_800/0/1722220906237?e=2147483647&v=beta&t=-L3VkH87tdjuVMzfN_TT0tb9GsQE6qroQ3gK-StL-N8",
+        "id": "7223519577261948928"
+      },
+      {
+        "interaction": "Fong-Yu Lin shared this",
+        "link": "https://www.linkedin.com/posts/yang-12a4c_headstarter-softwareengineering-ai-activity-7216940474173902851-2sjS",
+        "title": "I'm thrilled to announce my acceptance into the Headstarter Software Engineering Fellowship! \ud83c\udf89 Over the next 5 weeks, I'll be: \u2022 Building 5 AI projects \u2022 Tackling a startup's current backlog as my final project \u2022 Meeting real-world business requirements This opportunity will allow me to enhance 5 crucial skills: 1. Vision 2. Personal branding 3. Project management 4. Networking 5. Interview preparation Additional areas of growth include teamwork, meeting deadlines, presentation skills, giving/receiving feedback, and learning how to effectively pitch ideas. I'm eager to dive in and make the most of this experience! \ud83d\udcbb\ud83d\ude80 A huge thank you to Yasin Ehsan \ud83d\ude80 , Faizan Ahmed , and the entire Headstarter AI team for this beautiful opportunity. #Headstarter #SoftwareEngineering #AI #ProfessionalDevelopment ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQHqoQB8kf688g/feedshare-shrink_800/feedshare-shrink_800/0/1720652692586?e=2147483647&v=beta&t=kFrTku4zSn1leQB2Uslzhs9FNs7xwSblD7-uvAJyQr4",
+        "id": "7216940474173902851"
+      },
+      {
+        "interaction": null,
+        "link": "https://www.linkedin.com/posts/yasinehsan_yk-whats-crazy-about-this-fellowship-everyone-activity-7216877610360860672-ZWee",
+        "title": "yk whats crazy about this fellowship, everyone told me not to do it. Or if I did it, to charge $$$$ for it. We did user testing. We knew people would pay 1000+. But I said no. I'll run it for free. My idea from 2022 was if I made it free, the whole world would craze over it. To share my frustration I one day I randomly called Nabeel I told him where I sat. He said \"Yasin, don't think, just do.\" He said founders have an internal gut that you can never say no to. Follow it. I followed it. I did nearly everything myself. Emails. Landing pages. Ig reels (maad cringe lol). But it took off. I wanted it. I didn't expect it. But it feels really good to see so many amazing, hard-working and accomplished people want their part in the fellowship. This will be game changer. 5 ai projects, 5 weeks. Time to shake the world. Build your MOAT at Headstarter Software Fellowship. If you are in or anticipating, let me here the hype below. if you have not yet applied, apply here https://lnkd.in/eYbR9f_r PS pic below is from SF IRL this past weekend. We had engineers from meta, Samsung, amazon, and startup founders who are hiring and interns from uber and salesforce and our past fellows. I gave many of them a resume review ...more ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQHOeTcoLSCtBQ/feedshare-image-high-res/feedshare-image-high-res/0/1720637704085?e=2147483647&v=beta&t=eY5sCrXEQgt4mopJ3k3j6vdUrFwX_lr9Ws2NJCW98KE",
+        "id": "7216877610360860672"
+      },
+      {
+        "interaction": "Fong-Yu Lin shared this",
+        "link": "https://www.linkedin.com/posts/yang-12a4c_i-had-an-incredibly-enriching-summer-experience-activity-7097663381452582912-7NGt",
+        "title": "I had an incredibly enriching summer experience during this impactful internship, where we dedicated our efforts to developing a mobile application aimed at assisting individuals grappling with English as their second language. Credit goes to Prof. Silvia Figueira of Santa Clara University for her nurturing mentorship and the priceless opportunity to gain profound expertise. Gratitude also extends to Prof. Rose-Margaret Ekeng-Itua of Ohlone College and Gabriel Hanzel-Sello of GROWTH SECTOR for providing us with this remarkable chance! ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQEMFM5gyh19aQ/feedshare-shrink_800/feedshare-shrink_800/0/1692206374614?e=2147483647&v=beta&t=XdR2sshSipGmbbodPQcmlMYc8Fq5s6u10yS8c-5K84E",
+        "id": "7097663381452582912"
+      },
+      {
+        "interaction": "Fong-Yu Lin replied to a comment 11mo",
+        "link": "https://www.linkedin.com/posts/yang-12a4c_activity-7372086573405794304-W_nA",
+        "title": "Helen Lyu Thank you Helen!!",
+        "img": null,
+        "id": "7372086573405794304"
+      },
+      {
+        "interaction": "Fong-Yu Lin replied to a comment 11mo",
+        "link": "https://www.linkedin.com/posts/yang-12a4c_activity-7371918256556793856-sKnv",
+        "title": "Kyle Ng Thank you Kyle!",
+        "img": null,
+        "id": "7371918256556793856"
+      },
+      {
+        "interaction": "Fong-Yu Lin liked this",
+        "link": "https://www.linkedin.com/posts/ubitus_ubione-b0511-ubichan-activity-7488551597178822656-iOic",
+        "title": "\ud83c\udf0aAI WAVE SHOW 2026 | Day 1 Highlights AI WAVE SHOW is officially open! \ud83d\udd25 Ubitus is showcasing #UbiOne AI Virtual Human Platform at #B0511 , AI Alliance Zone, together with two AI Character Agent experiences: \u201c #UbiChan : A Day Dating UbiChan\u201d and \u201c #UbiQuest .\u201d From AI characters with personality and memory to an AI RPG with real-time story generation, these interactive and eye-catching experiences have attracted many visitors to stop by, try them out, and exchange ideas. \ud83e\udd17 Visit the #Ubitus booth during the show and experience AI Characters with Soul! \ud83d\udccd AI WAVE SHOW 2026 \ud83d\udccd July 30 \u2013 August 1, 2026 \ud83d\udccd Taipei World Trade Center Hall 1, Area B\uff5cB0511, AI Alliance Zone #Ubitus #AIWAVE2026 #UbiOne #UbiChan #UbiQuest #AIAgent #AICharacters #AIVirtualHuman",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQEIhAe1tHTmyA/feedshare-shrink_800/B56Z.yt_QbG8Ac-/0/1785409828192?e=2147483647&v=beta&t=eXr1YDttdSqeBjoZTE0MvpfrL1euvWSbrb5u6lMOHdg",
+        "id": "7488551597178822656"
+      },
+      {
+        "interaction": "Fong-Yu Lin liked this",
+        "link": "https://www.linkedin.com/posts/jakestasi_this-june-i-graduated-from-the-university-activity-7490931167161143296-Y70b",
+        "title": "This June I graduated from the University of California, Santa Barbara with a B.S. in Applied Statistics & Data Science! After learning the theory and math behind machine learning algorithms and building hands-on projects like applying unsupervised machine learning to cluster players based on their performance and play styles and training CNNs to flag AI images versus real ones, I realized I enjoy the creativity of software engineering and the satisfaction you get when something you've built finally works exactly how you pictured it. With that, I've decided to pursue a Master's in Computer Science at the University of California, Irvine. Thank you UCSB for the best two years of my life, and all the memories and friends I made along the way. On to the next at University of California, Irvine !",
+        "img": "https://media.licdn.com/dms/image/v2/D4D22AQEgbbqsW-sDvQ/feedshare-image-high-res/B4DZ_UiMENJAAU-/0/1785977160200?e=2147483647&v=beta&t=e4z0Xlay_FcQ4lKHcg29WImWydeCzB_ipnhxAVAdvB8",
+        "id": "7490931167161143296"
+      },
+      {
+        "interaction": "Fong-Yu Lin liked this",
+        "link": "https://www.linkedin.com/posts/arya-moghadam-b10414218_with-great-joy-and-pride-and-after-countless-activity-7485209786486161408-pYNC",
+        "title": "With great joy and pride, and after countless late nights and years of hard work, I am thrilled to announce my graduation from UC Santa Barbara with a Bachelor of Science in Statistics and Data Science. None of this would have been possible without the endless support of my incredible family, friends, and amazing professors along the way! Thank you for believing in me every step of the way. I'm also planning to begin my journey toward starting a Master's program in Business Analytics or Statistics/Applied Mathematics at the UC system. I look forward to diving deep into the program, expanding my skill set, and connecting with industry leaders and peers. I guess the tassel was worth the hassle!",
+        "img": "https://media.licdn.com/dms/image/v2/D4D22AQHoejt6UaJmDg/feedshare-shrink_800/B4DZ.DOmENIIAc-/0/1784613069494?e=2147483647&v=beta&t=9HgA6abeF3hKMcn3JmB60LejqmalUIKJRJDCh4vUTuI",
+        "id": "7485209786486161408"
+      },
+      {
+        "interaction": "Fong-Yu Lin liked this",
+        "link": "https://www.linkedin.com/posts/ethngo7_at-runpods-flash-hack-day-in-sf-today-i-activity-7477871800249384960-fwYb",
+        "title": "At Runpod 's Flash Hack Day in SF today, I built a World Cup simulator that can run millions of tournament simulations in parallel on Runpod's Serverless GPU platform. I pulled a the past decade's worth of FIFA match data, about ~43,000 games, and trained a neural network on Colab to predict match outcomes. Then I deployed it on Runpod, where every simulated match is a NN forward pass. Run 1 million tournament simulations, and you're running 100s of millions of inferences across a GPU swarm that scales up from zero, and back down when it's done. Thank you Dean for letting me know this event was happening! Runpod HackerSquad",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQEpKv9DKwlP-Q/feedshare-shrink_800/B56Z8a8xT5G8Ak-/0/1782863566855?e=2147483647&v=beta&t=9ZSiz5wptkOqZTRIPkWELfCTdAdWsm-a7FiGiqbn_5Y",
+        "id": "7477871800249384960"
+      },
+      {
+        "interaction": "Fong-Yu Lin liked this",
+        "link": "https://www.linkedin.com/posts/-serena-li_hi-im-serena-activity-7481827163013373952-d5G3",
+        "title": "I made a StoryMap to introduce myself in a spatial way, because where I was influences who I am today. I first learned about creating a personal resume using StoryMaps from Esri 's Early Careers team during their internship workshop at California GIS (CalGIS) Conference 's student special program. Since then, I have wanted to expand upon my personal website ( https://lnkd.in/gQt5Pi-F ) with a StoryMap. Being a Student Assistant at the Esri User Conference gives me the best opportunity to create and share the StoryMap! Check my StoryMap out: https://lnkd.in/gjGqM2JM",
+        "img": "https://media.licdn.com/dms/image/sync/v2/D5627AQF16-DBiKXI6Q/articleshare-shrink_1280_800/B56Z9N2hRTKgAg-/0/1783717571808?e=2147483647&v=beta&t=mrdlDTwuVBh3hASSj0n9w6_m96JvD_DHPm0P1QQ0cwE",
+        "id": "7481827163013373952"
+      },
+      {
+        "interaction": "Fong-Yu Lin liked this",
+        "link": "https://www.linkedin.com/posts/mit-csail_do-it-all-robots-arent-ready-for-our-homes-activity-7475601322571075585-43lz",
+        "title": "Do-it-all robots aren't ready for our homes yet. Scientists at MIT & beyond think compliance might change that: https://lnkd.in/gFHXc9Bd",
+        "img": "https://dms.licdn.com/playlist/vid/v2/D5605AQHAxKvrzl3X6g/thumbnail-shrink_720_1280/B56Z76rvvkKcAg-/0/1782322235348?e=2147483647&v=beta&t=14-4Y0Pxk0MxpxwptQ7aehmBdNvVIhw9i5ue1Zs1eVg",
+        "id": "7475601322571075585"
+      },
+      {
+        "interaction": "Fong-Yu Lin liked this",
+        "link": "https://www.linkedin.com/posts/deepta-bharadwaj-330bb8253_big-black-barred-gates-with-two-security-activity-7473072418148884481-nT48",
+        "title": "Big black barred gates with two security checkpoints only for humans. A space bar for all terrestrials. Science out of this world. I am ready to start my internship at NASA Ames Research Center through the GEM Employer Fellowship at The National GEM Consortium . Thank you, Prof. Kiana Aran, for encouraging me to take this opportunity and for training me to be capable of it. Thank you, Dr. Walter Alvarado, PhD (in picture) for choosing me for this position. I would also like to thank my recommenders, Prof. Shriya Srinivasan , Prof. Andrew McCulloch , Prof. Will Styler and Dr. Deependra Kumar Ban , for their recommendation letters. Thank you as well to Prof. Adam Engler , Bioengineering Chair at UC San Diego Jacobs School of Engineering , Hannibal Barake from The National GEM Consortium, and Edgar Beas at UC San Diego for making this opportunity possible for me. I am honoured to work with scientists Dr. Antonio Ricco , Dr. Piyumi Wijesekara , and Dr. Mary Beth Wilhelm here at the NASA AMES. I also had a warm start meeting fellow interns Rushil Gupta , Hannah G. Simon , Tiffany Hoang , Morgan Rafferty and Internships Coordinator Katie T. Here's to a summer of science, curiosity, and stepping a little closer to the stars.",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQEha-xjxL10gA/feedshare-image-high-res/B56Z7WvvppJoAU-/0/1781719301041?e=2147483647&v=beta&t=eDFIn02HFgC5Y1N9YZXHjE_TgTmc-psa2EchySLsMK4",
+        "id": "7473072418148884481"
+      },
+      {
+        "interaction": "Fong-Yu Lin liked this",
+        "link": "https://www.linkedin.com/posts/stonet2000_just-arrived-in-sf-and-excited-to-begin-my-activity-7472691114324537344--S0T",
+        "title": "just arrived in SF and excited to begin my research internship at Physical Intelligence working on simulation!",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQF9-0M6uvccKQ/feedshare-shrink_800/B56Z7RU9DzIgAc-/0/1781628396685?e=2147483647&v=beta&t=HlWgiR3Cth3JDlCVx3otm25-igN8LLEZPZeebmLJ_Tc",
+        "id": "7472691114324537344"
+      },
+      {
+        "interaction": "Fong-Yu Lin liked this",
+        "link": "https://www.linkedin.com/posts/ally-ariate_nvidia-just-posted-new-internships-some-activity-7470522257983950848-4jKg",
+        "title": "NVIDIA just posted NEW internships. Some roles are even paying up to $71/hr \ud83d\udc40 A few Software / AI / Research internships that stood out: \u2022 Software Engineer Intern - Santa Clara, CA (up to $71/hr) \u2022 Software Engineer Intern, Mapping Autonomous Vehicles - Santa Clara, CA (up to $71/hr) \u2022 Agentic AI Solution Engineer Intern - Austin, TX (up to $71/hr) \u2022 Cloud Software Intern, GeForce NOW - Santa Clara, CA (up to $71/hr) \u2022 Quantum Research Scientist Intern - Remote / CA (up to $71/hr) Links to apply in the comments! I post the latest tech & product opportunities for students & new grads regularly \u2013 \ud835\uddf0\ud835\uddfc\ud835\uddfb\ud835\uddfb\ud835\uddf2\ud835\uddf0\ud835\ude01 \ud835\ude04\ud835\uddf6\ud835\ude01\ud835\uddf5 \ud835\uddfa\ud835\uddf2 \ud835\ude01\ud835\uddfc \ud835\ude00\ud835\ude01\ud835\uddee\ud835\ude06 \ud835\ude02\ud835\uddfd\ud835\uddf1\ud835\uddee\ud835\ude01\ud835\uddf2\ud835\uddf1!",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQED2Y8Z8BZ9MA/feedshare-shrink_800/B56Z6ygVdjHUAc-/0/1781111297850?e=2147483647&v=beta&t=7UKWQCpMi2mnUm7eaWFtU7kbWiBnLv-aMtwefhGAKo8",
+        "id": "7470522257983950848"
+      }
+    ],
+    "linkedin_num_id": "894119278",
+    "banner_image": "https://media.licdn.com/dms/image/v2/D5616AQGWCuMxIkXV6w/profile-displaybackgroundimage-shrink_200_800/B56ZZ9x2XyGkAY-/0/1745866943107?e=2147483647&v=beta&t=Aj3tlFhObFp-XpQtLpj5e0FnVBh4n9OEyjQxqZ7uZQ8",
+    "honors_and_awards": [
+      {
+        "title": "Alan Turing Memorial Scholar",
+        "publication": "Center for Networked Systems, UC San Diego",
+        "date": "2025-01-01T00:00:00.000Z",
+        "description": "Awarded $12,000 in recognition of academic merit in computer science and support for inclusion in STEM. Scholarship combines the CNS Alan Turing Memorial Award and the Teradata Scholarship."
+      },
+      {
+        "title": "EMPOWER Scholar",
+        "publication": "UC San Diego / National Science Foundation",
+        "date": "2024-01-01T00:00:00.000Z",
+        "description": "Selected for NSF S-STEM funded program supporting high-potential engineering transfer students. Awarded $20,000 over two years for academic and professional development within the Jacobs School of Engineering."
+      }
+    ],
+    "similar_profiles": [],
+    "default_avatar": false,
+    "memorialized_account": false,
+    "bio_links": [],
+    "first_name": "Fong",
+    "last_name": "Yu Lin",
+    "influencer": false,
+    "timestamp": "2026-08-12T19:02:03.742Z",
+    "input": {
+      "url": "https://www.linkedin.com/in/yang-12a4c"
+    }
+  },
+  "local_photo": "data\\linkedin_photos\\yang-12a4c__usr-4DwcyyMTWVFQFaG.jpg"
+}

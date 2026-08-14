@@ -1,0 +1,295 @@
+{
+  "source": "crustdata",
+  "recovered_from": "brightdata_failed_private",
+  "luma_user_id": "usr-qioxbGEHvfharET",
+  "csv_name": "Akshay Shukla",
+  "csv_linkedin": "https://www.linkedin.com/in/akshayshukla2",
+  "clean_linkedin": "https://www.linkedin.com/in/akshayshukla2",
+  "enriched_at": "2026-08-14T18:07:59.937250+00:00",
+  "person_data": {
+    "basic_profile": {
+      "current_title": null,
+      "first_name": null,
+      "headline": "AI Engineer Intern @ Stealth Startup | Data Science",
+      "languages": [
+        "English (Native or bilingual proficiency)",
+        "Hindi (Native or bilingual proficiency)"
+      ],
+      "last_name": null,
+      "location": {
+        "city": "",
+        "continent": "North America",
+        "country": "United States",
+        "full_location": null,
+        "raw": "San Francisco Bay Area",
+        "state": "California"
+      },
+      "name": "Akshay S.",
+      "normalized_title": {
+        "confident": true,
+        "department": "Product & Design",
+        "matched_title": "Product Launch Lead",
+        "similarity": 0.8306999802589417,
+        "sub_department": "Product Management"
+      },
+      "professional_network_name": "Akshay S.",
+      "profile_picture_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/person/aeabfaf3dd9113cd528e83bbd184cd5afb1b951f030e997ae73a10a1e71b2e3e.jpg",
+      "summary": "Interested in software engineering, data science, product management, and cybersecurity."
+    },
+    "education": {
+      "schools": [
+        {
+          "activities_and_societies": "",
+          "degree": "Bachelor of Science",
+          "description": "",
+          "end_year": null,
+          "field_of_study": "Data Science",
+          "institute_logo_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/company/01a886408c4389bfdbdb16cceb0b8965438771ea15b23b677e5e48ceb6ce6e58.jpg",
+          "institute_logo_url": "https://media.licdn.com/dms/image/v2/D560BAQH2XPEu-_xgrg/company-logo_400_400/company-logo_400_400/0/1688401344849/san_jose_state_university_logo?e=1782345600&v=beta&t=UGyDw1jSjlBxIeUW3jTHtwndpPFy_WG1jEo5f7PnjAk",
+          "location": {
+            "city": "San Jose",
+            "continent": "North America",
+            "country": "United States",
+            "raw": "San Jose, California, United States",
+            "state": "California"
+          },
+          "professional_network_id": "157344",
+          "school": "San Jos\u00e9 State University",
+          "start_year": 2023
+        }
+      ]
+    },
+    "experience": {
+      "employment_details": {
+        "current": [],
+        "past": [
+          {
+            "company_description": "LAUNCH is a startup accelerator and competition designed to transform early-stage startups into fundable companies. In the fall, our judges select the 25-30 hottest startups in the UC system. Teams are paired with serial-entrepreneur mentors and led through a rigorous curriculum by the acclaimed UC Berkeley Faculty, including professors from the Haas School of Business. The three-month-long accelerator phase is designed to help UC startups grow quickly. We help companies build out their teams, protect IP, connect with industry experts, get minimum viable products into customers\u2019 hands, prove their scalable business model, pitch to investors, and become fundable.",
+            "company_professional_network_profile_url": "https://linkedin.com/company/18283429",
+            "company_profile_picture_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/company/053a054aa113ce25f1e8f3af16f6f384c1f50f034fbc03f6fd619c89d647c2d1.jpg",
+            "company_website_domain": "uclaunch.com",
+            "crustdata_company_id": 806797,
+            "description": "- Placed 2nd at UC Launch, UC Berkeley\u2019s career accelerator program (Spring 2026)\n- Partnered with a startup for agentic compliance and enterprise security across GCP, AWS, and Azure",
+            "employment_type": "",
+            "end_date": "2026-04-01T00:00:00+00:00",
+            "function_category": "",
+            "is_default": false,
+            "location": {
+              "raw": "Berkeley, CA"
+            },
+            "name": "LAUNCH: The University of California's Startup Accelerator",
+            "position_id": 2883510931,
+            "professional_network_id": "18283429",
+            "seniority_level": "Entry Level",
+            "start_date": "2026-04-01T00:00:00+00:00",
+            "title": "Launch Accelerator",
+            "years_at_company": "Less than 1 year",
+            "years_at_company_raw": 0.0
+          },
+          {
+            "company_description": "Stanford University pursues its founding mission of research and education with a spirit of optimism and possibility. Stanford catalyzes discoveries, accelerates the human impact of its research, educates students in a culture of expansive inquiry and freedom of thought, and offers world-class medical care. An engine of innovation and economic growth, Stanford is at the frontier of new knowledge and breakthroughs that move from labs and classrooms out into the world. The university is located in the San Francisco Bay Area and first welcomed students in 1891. Its main campus is home to seven schools, along with interdisciplinary research and policy institutes, athletics, and the arts. More than 7,200 undergraduate and 10,000 graduate students study at Stanford each year. Stanford\u2019s 2,402 faculty members are leaders in their fields, and their ranks currently include 20 Nobel laureates. Learn more at stanford.edu.",
+            "company_professional_network_profile_url": "https://linkedin.com/company/1792",
+            "company_profile_picture_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/company/16452a842ca2309c076724b44d1329c7a4c59e5b6910ff51c89c22eecd97958d.jpg",
+            "company_website_domain": "stanford.edu",
+            "crustdata_company_id": 1144351,
+            "description": "- Finalist, placed Top 10/100+ teams",
+            "employment_type": "",
+            "end_date": "2026-04-01T00:00:00+00:00",
+            "function_category": "",
+            "is_default": false,
+            "location": {
+              "raw": "Stanford, CA"
+            },
+            "name": "Stanford University",
+            "position_id": 2889381241,
+            "professional_network_id": "1792",
+            "seniority_level": "Entry Level",
+            "start_date": "2026-04-01T00:00:00+00:00",
+            "title": "Stanford Law Hackathon",
+            "years_at_company": "Less than 1 year",
+            "years_at_company_raw": 0.0
+          },
+          {
+            "company_description": "Blockchain at Berkeley is a student-run organization at UC Berkeley focused on blockchain innovation via consulting, education, design, and research. Our members drive innovation in the blockchain industry by building an ecosystem that empowers students to make an impact through practical education, consulting for enterprise companies, conducting open source research, and human-centered design.",
+            "company_professional_network_profile_url": "https://linkedin.com/company/17875622",
+            "company_profile_picture_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/company/4cb8418707e8ba4b9d20eb55f210925765ed512c96454696f9043020ecf4e13f.jpg",
+            "company_website_domain": "berkeley.edu",
+            "crustdata_company_id": 1417252,
+            "description": "",
+            "employment_type": "",
+            "end_date": "2026-03-01T00:00:00+00:00",
+            "function_category": "",
+            "is_default": false,
+            "location": {
+              "raw": "Berkeley, CA"
+            },
+            "name": "Blockchain at Berkeley",
+            "position_id": 2914739624,
+            "professional_network_id": "17875622",
+            "seniority_level": "Entry Level",
+            "start_date": "2026-03-01T00:00:00+00:00",
+            "title": "B@BHacks 2026",
+            "years_at_company": "Less than 1 year",
+            "years_at_company_raw": 0.0
+          },
+          {
+            "company_description": "We move fast and build cool things!",
+            "company_professional_network_profile_url": "https://linkedin.com/company/107227165",
+            "company_profile_picture_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/company/e0b86afbfa4e0543be3b823bcc7d4debab1ffca4f15201fc9283f69081158218.jpg",
+            "company_website_domain": "hack-nation.ai",
+            "crustdata_company_id": 10245580,
+            "description": "- Placed Top 15/300 teams globally at Hack-Nation AI Hackathon, competing against developers from Stanford, MIT, and Harvard\n- Helped to show hidden developer talents missed by traditional recruiting with 91% accuracy in predicting career satisfaction, processing 50+ repositories and 300+ commits per analysis\n- Built 5 AI-powered talent indicators including communication complexity analysis and innovation tracking, achieving sub-30 second analysis time across 500+ profiles, used Python and Flask\n- Created scalable full-stack application with intelligent caching, pattern recognition pipeline, and responsive frontend that demonstrated 3x faster technical hiring potential for partner companies",
+            "employment_type": "",
+            "end_date": "2025-08-01T00:00:00+00:00",
+            "function_category": "",
+            "is_default": false,
+            "location": {
+              "raw": ""
+            },
+            "name": "Hack-Nation",
+            "position_id": 2705661544,
+            "professional_network_id": "107227165",
+            "seniority_level": "Entry Level",
+            "start_date": "2025-08-01T00:00:00+00:00",
+            "title": "GitHub Talent Whisper",
+            "years_at_company": "Less than 1 year",
+            "years_at_company_raw": 0.0
+          },
+          {
+            "company_description": "Accelerate humanity\u2019s transition to AGIPs. The only AGI House is exclusively located in Hillsborough, CA",
+            "company_professional_network_profile_url": "https://linkedin.com/company/100067371",
+            "company_profile_picture_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/company/48b4083ccabc9481ee3e6d7231d0512a47a6b1458270aaef80250e41f88f3547.jpg",
+            "company_website_domain": "agihouse.org",
+            "crustdata_company_id": 2636130,
+            "description": "- Built a full-stack web app using Flask and HTML to deliver personalized career guidance & interview preparation for professionals\n- Created assessment system with automated question generation & learning plan creation based on user performance and career goals\n- Integrated Google Trends API to provide real-time industry insights and market data, enabling data-driven career recommendations\n- Designed responsive user interface with secure authentication, emphasizing privacy & security, and progress tracking dashboard",
+            "employment_type": "",
+            "end_date": "2025-05-01T00:00:00+00:00",
+            "function_category": "",
+            "is_default": false,
+            "location": {
+              "raw": "San Francisco, CA"
+            },
+            "name": "AGI House",
+            "position_id": 2874441776,
+            "professional_network_id": "100067371",
+            "seniority_level": "Entry Level",
+            "start_date": "2025-05-01T00:00:00+00:00",
+            "title": "AgentHacks 2025 (AGI House)",
+            "years_at_company": "Less than 1 year",
+            "years_at_company_raw": 0.0
+          },
+          {
+            "company_description": "Owned by Scale AI (invested in by Amazon and Meta), Outlier is the world's largest platform that connect real-world experts and grads with AI training projects in Law, Computer Science, Web Development, Math, Science, Languages, and more.Today, over 100,000 Outlier experts work and earn from around the world, working from home, on flexible schedules. That's why professors, PhD candidates, moms, dads, college students and new grads work on Outlier.These experts and grads help improve the accuracy of AI used by millions of people by writing specific questions, correcting errors in answers, and giving feedback.At Outlier, your skills help shape how AI learns. We pay for your work, support your growth, and give you the chance to make AI smarter for everyone.No AI experience is required to apply for Outlier, but strong experience in your field is a must.Want to play a part in this exciting moment for AI?Explore potential work opportunities and apply at outlier.ai.",
+            "company_professional_network_profile_url": "https://linkedin.com/company/92583550",
+            "company_profile_picture_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/company/ea72678c49471f48afdc35de70a069db070a2b1545a1f9b5ebb72df7017481d9.jpg",
+            "company_website_domain": "outlier.ai",
+            "crustdata_company_id": 821449,
+            "description": "- Designed high-quality prompts to improve large language model (LLM) reasoning, accuracy, and clarity across data science and coding tasks using reinforcement learning from human feedback (RLHF)\n- Evaluated and compared AI-generated responses, providing structured feedback to improve coherence, factuality, and technical correctness\n- Improved AI training datasets by correcting model outputs and producing high-quality reference answers for code generation and understanding tasks\n- Reviewed 50+ Python code samples, identifying hallucinated functions, logical errors, and inefficient implementations while validating syntax and library usage\n- Provided feedback to support model fine-tuning and improve reliability",
+            "employment_type": "",
+            "end_date": "2024-04-01T00:00:00+00:00",
+            "function_category": "Engineering",
+            "is_default": false,
+            "location": {
+              "raw": "California, United States"
+            },
+            "name": "Outlier",
+            "position_id": 2818188025,
+            "professional_network_id": "92583550",
+            "seniority_level": "Entry Level",
+            "start_date": "2024-02-01T00:00:00+00:00",
+            "title": "Prompt Engineer",
+            "years_at_company": "Less than 1 year",
+            "years_at_company_raw": 0.0
+          },
+          {
+            "company_description": "Delivering the best in class PCR consumables and your partner in new product innovation for next generation PCR research.",
+            "company_professional_network_profile_url": "https://linkedin.com/company/71575190",
+            "company_profile_picture_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/company/c54a1617fafc23ef0a23f6f10be0d78dcbb59e8ab930f1b41d239ec75287b6aa.jpg",
+            "company_website_domain": "novasbio.com",
+            "crustdata_company_id": 11091018,
+            "description": "- Led Social Media presence & devised online marketing strategies. Conducted market research on competitor usage, e.g. Twitter\n- Presented market research & social media engagement executive reports to the Chief Operating Officer & Worldwide Sales Director\n- Responsible for analyzing metrics collected from Google Analytics, Ads, & SEO\n- Managed weekly social media communication on Twitter with the company's network & outreach to life sciences companies and distributors specializing in PCR consumables",
+            "employment_type": "",
+            "end_date": "2022-07-01T00:00:00+00:00",
+            "function_category": "Consulting",
+            "is_default": false,
+            "location": {
+              "raw": ""
+            },
+            "name": "Novas Bio Inc.",
+            "position_id": 2876200131,
+            "professional_network_id": "71575190",
+            "seniority_level": "Entry Level",
+            "start_date": "2022-06-01T00:00:00+00:00",
+            "title": "Consultant",
+            "years_at_company": "Less than 1 year",
+            "years_at_company_raw": 0.0
+          }
+        ]
+      }
+    },
+    "professional_network": {
+      "connections": 378,
+      "current_title": null,
+      "followers": 0,
+      "headline": "AI Engineer Intern @ Stealth Startup | Data Science",
+      "location": {
+        "city": "",
+        "continent": "North America",
+        "country": "United States",
+        "raw": "San Francisco Bay Area",
+        "state": "California"
+      },
+      "metadata": {
+        "last_scraped_source": null
+      },
+      "name": "Akshay S.",
+      "profile_picture_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/person/aeabfaf3dd9113cd528e83bbd184cd5afb1b951f030e997ae73a10a1e71b2e3e.jpg",
+      "pronoun": "",
+      "summary": "Interested in software engineering, data science, product management, and cybersecurity."
+    },
+    "skills": {
+      "professional_network_skills": [
+        "Statistics",
+        "Artificial Intelligence (AI)",
+        "PyTorch",
+        "Project Development",
+        "Natural Language Processing (NLP)",
+        "TensorFlow",
+        "Analytical Skills",
+        "Information Technology",
+        "Technical Understanding",
+        "Data Modeling",
+        "Data Visualization",
+        "Product Development",
+        "Neural Networks",
+        "Business Strategy",
+        "Product Research",
+        "Product Strategy",
+        "Product Ideation",
+        "Critical Thinking",
+        "Collaborative Problem Solving",
+        "Data Mining",
+        "Marketing",
+        "Deep Learning",
+        "Machine Learning",
+        "Computer Science",
+        "Data Science",
+        "Problem Solving",
+        "Microsoft Excel",
+        "Python (Programming Language)"
+      ]
+    },
+    "social_handles": {
+      "dev_platform_identifier": {
+        "profile_url": null
+      },
+      "professional_network_identifier": {
+        "profile_url": "https://www.linkedin.com/in/akshayshukla2"
+      },
+      "twitter_identifier": {
+        "slug": ""
+      }
+    },
+    "crustdata_person_id": 178712834
+  }
+}

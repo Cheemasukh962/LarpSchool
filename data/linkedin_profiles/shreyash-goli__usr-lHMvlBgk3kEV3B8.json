@@ -1,0 +1,190 @@
+{
+  "luma_user_id": "usr-lHMvlBgk3kEV3B8",
+  "csv_name": "Shreyash Goli",
+  "csv_linkedin": "https://www.linkedin.com/in/shreyash-goli",
+  "enriched_at": "2026-08-12T19:18:07.751664+00:00",
+  "batch_id": "sd_msqh0fwb1tv6mjnbrd",
+  "profile": {
+    "id": "shreyash-goli",
+    "name": "Shreyash Goli",
+    "city": "San Francisco Bay Area",
+    "country_code": "US",
+    "position": null,
+    "about": "Studying at UC Berkeley M.E.T. and passionate about startups, AI x TechBio, and product\u2026",
+    "current_company": {
+      "link": "https://www.linkedin.com/school/columbia-university/?trk=public_profile_topcard-current-company",
+      "name": "Columbia University",
+      "location": null
+    },
+    "experience": null,
+    "url": "https://mx.linkedin.com/in/shreyash-goli",
+    "educations_details": "UC Berkeley Management, Entrepreneurship, & Technology (M.E.T.) program",
+    "education": null,
+    "avatar": "https://media.licdn.com/dms/image/v2/D5603AQGHAMQNRZTxpg/profile-displayphoto-scale_200_200/B56Z_OIX1zG8Ac-/0/1785869732083?e=2147483647&v=beta&t=kTnetFiNEiEj8ougPm86inlwUe1ToQb4Di896j16874",
+    "volunteer_experience": [
+      {
+        "duration": "May 2025 \u00b7 - Present \u00b7 \n\n1 year 4 months",
+        "duration_short": "- Present",
+        "start_date": "May 2025",
+        "subtitle": "Free Ventures",
+        "title": "Director of Batch"
+      },
+      {
+        "duration": "Oct 2025 \u00b7 - \nMay 2026 \u00b7 \n8 months",
+        "duration_short": "- \nMay 2026",
+        "start_date": "Oct 2025",
+        "subtitle": "Berkeley M.E.T. Student Board",
+        "title": "Vice President of External Relations"
+      }
+    ],
+    "followers": 1264,
+    "connections": 500,
+    "current_company_name": "Columbia University",
+    "location": null,
+    "input_url": "https://www.linkedin.com/in/shreyash-goli",
+    "linkedin_id": "shreyash-goli",
+    "activity": [
+      {
+        "interaction": null,
+        "link": "https://www.linkedin.com/posts/kedaarr_manufacturingitotsummit-smartmanufacturing-activity-7446964961345671169-vV19",
+        "title": "Just returned from pitching at the Manufacturing IT/OT Summit USA 2026 in Boston. A great few days in a beautiful city! Manufacturing execution is moving fast. Digital twins, predictive maintenance, edge computing, IT/OT convergence. The production floor is getting smarter every year. But the supply chain? Still catching up. We're building TradeForm to fix that. AI-native procurement execution for hardware and manufacturing companies, working with 6 major enterprises in automotive, aerospace, semiconductors, and robotics in just 4 months. We're constantly on the move, meeting customers and building solutions around their specific workflows. \ud83d\udc49 If your supply chain isn't keeping pace with the rest of your operations, DM me or email us. team@trade-form.com Thanks to Dr. Mark T. Maybury , Dean Brennan, Angelo Stracquatanio III , and all the other incredible speakers and attendees. #ManufacturingITOTSummit #SmartManufacturing #Procurement #SupplyChain #Industry40 #TradeForm ...more ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQHdRJjJ_BDOGg/feedshare-image-high-res/B56Z1bPxx_KwAU-/0/1775352356532?e=2147483647&v=beta&t=8G74ty33eDzoO33EmAuk_cH4wyXlWa5fVcyXQ8893Oo",
+        "id": "7446964961345671169"
+      },
+      {
+        "interaction": null,
+        "link": "https://www.linkedin.com/posts/neelshar_this-is-the-stuff-that-makes-it-all-worth-activity-7435075269310410752-fcKa",
+        "title": "This is the stuff that makes it all worth it. Customers' metrics are up and they can see exactly why. I just recorded a quick walkthrough of how one of our Fortune 1000 customers uses Sentrial to monitor their production AI agents. They run a mix of custom Python and LangChain agents for supply chain, HR, and marketing, handling real, multi-turn business workflows. The best part? In the screenshots below, you can see their error graph trending downwards from 20% to under 10% in just a single week, and the actual business impact that is driving for their team. When you're running AI in production, silent failures compound quickly. Sentrial gives them full visibility to: \u2022 Trace every tool call, LLM decision, and chain of thought \u2022 Automatically detect issues (hallucinations, task failures) across entire conversations with no manual tagging needed \u2022 Diagnose root causes and even propose prompt fixes with a 1-click PR Whether you're building with custom TypeScript/Python or frameworks like LangChain/Vercel AI SDK/Claude Agent SDK, Sentrial gives you one dashboard to catch issues before they become problems. Stop guessing. Start shipping agents that work. Check us out at sentrial.com ! ...more ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQElgwb7FOWIUw/feedshare-shrink_1280/B56Zy6xjeJHAAc-/0/1772660078807?e=2147483647&v=beta&t=o9Gb4nR5SDL8WNjiRvzO2EhkbkbcGpMub5uHMb_9gu0",
+        "id": "7435075269310410752"
+      },
+      {
+        "interaction": null,
+        "link": "https://www.linkedin.com/posts/y-combinator_lance-yc-w26-builds-ai-agents-for-hotel-activity-7426671312443531264-NnIK",
+        "title": "Lance (YC W26) builds AI agents for hotel operations that manage guest communication, sales workflows, and on-property execution end-to-end. They\u2019re already working with leading hotel groups in the US operating 50+ hotels across major brands. Hotels still run on phone calls for everything: towels, late checkout, maintenance, parking, and directions. Every request triggers a manual workflow, someone responds, gathers details, routes the task, tracks it down, and follows up. That model breaks when teams run lean. With 65% of hotels reporting staffing shortages, the front desk becomes the bottleneck. During peak periods or after hours, hotels miss up to 40% of inbound requests because the operation does not scale. Lance fixes this by handling guest communication 24/7, qualifying and responding to sales and booking inquiries, and coordinating real on-property execution. The system collects the right details, routes work automatically, escalates when needed, and supports multiple languages. Lance integrates with hotel systems and can take action through vision-based computer-use agents, so requests are resolved faster without handoffs. Every interaction is tracked and visible so staff stays in control, while Lance Pad connects housekeeping, maintenance, and service teams in real time, replaces walkie-talkies with structured communication, and ensures every request moves from intake \u2192 action \u2192 completion. Lance is being built with deep experience across AI, engineering, and hospitality. Caleb Chan built voice and AI agent systems at Google and Salesforce. Gatik Trivedi built voice models at Knowtex and worked on prediction models at Stanford. And Gavin Brennen brings engineering and product expertise coupled with growing up around Marriott hotel operations. If you\u2019re a hotel owner, operator, or management group looking for faster guest service, fewer front desk interruptions, and more scalable operations, book a demo at lance.live or reach out to founders@lance.live . Congrats on the launch Caleb, Gatik, and Gavin! https://lnkd.in/dj5a2FJq ...more ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D4D05AQEkzgS-nBGLvw/videocover-high/B4DZxDDMk3J8BY-/0/1770651445143?e=2147483647&v=beta&t=ATuVuZTt30rYGCUBA4jmUhhAmVePEjoFpH9vW9F6OXg",
+        "id": "7426671312443531264"
+      },
+      {
+        "interaction": null,
+        "link": "https://www.linkedin.com/posts/free-ventures_spring-2026-batch-applications-are-now-activity-7425715589689532416-Ft2a",
+        "title": "\ud83d\ude80 Spring 2026 Batch Applications are NOW OPEN! \ud83d\ude80 Deadline: Monday, February 16 @ 11:59 PM PST At Free Ventures , we empower motivated Berkeley founders to take their daring startups from 0 \u2192 1. Whether you\u2019re building an MVP, raising your first round, or growing your team \u2014 we\u2019re here to help you take the next step in your entrepreneurial journey. \ud83d\udca1 Why Free Ventures? 100+ portfolio companies raised $200M+ in follow-on capital from top firms like Kleiner Perkins , Accel , and Greylock Partners Alumni startups have been acquired by Coinbase , Discord , and Opendoor Proven track record of Y Combinator -backed founders and successful exits \ud83d\udcda What You\u2019ll Get: Mentorship from founders, operators, and investors with high-growth experience Curriculum on scaling, fundraising, customer discovery & more Dedicated Advisors from our team to act as your co-founders, strategists & sounding board We\u2019re looking for founders with dedication, deep problem knowledge, and a willingness to learn. \ud83d\udc49 Apply here: https://lnkd.in/gTbFWAnz Sign up for a coffee chat with our team at freeventures.org/team to get to know us! For questions, feel free to reach out to our leadership team: Sanjay Adhikesaven | Arissa Zheng | Aathma Muruganathan | Nidhi G. | Om Gole | Shreyash Goli Let\u2019s build the next wave of Berkeley-born startups. \ud83c\udf1f ...more ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQG9oyGZW9tMyw/feedshare-image-high-res/B56Zw1w.4qI8AU-/0/1770428559126?e=2147483647&v=beta&t=lIBH7bvT4Lj-wmyZDI-u9gN5hVMWQbh6OkgTETXxm0U",
+        "id": "2026"
+      },
+      {
+        "interaction": null,
+        "link": "https://www.linkedin.com/posts/free-ventures_were-thrilled-to-announce-that-applications-activity-7425716666136948736-EPvP",
+        "title": "\ud83c\udf1f We\u2019re thrilled to announce that applications are now open for the Free Ventures Spring 2026 Fellowship! \ud83d\ude80 Want to break into startups and VC? Berkeley undergrads \u2014 this is your chance to learn directly from founders and investors who\u2019ve built unicorns, led major exits, and shaped Silicon Valley\u2019s biggest success stories. \ud83d\udcdd Application is quick + simple: Just submit your resume and share your story! \ud83d\udcc5 Deadline: Monday, February 16th @ 11:59 PM PST \ud83d\udc49 Apply here: https://lnkd.in/gU54nRRp Have questions? Drop us a comment \u2014 our team is here to help! ...more ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQG5dSlKFWOd2A/feedshare-shrink_1280/B56Zw1x9ZVK4Ag-/0/1770428815162?e=2147483647&v=beta&t=VC2frRsBNK54oABXGljrJo3DzpWYSdK9ntZdtuDSE4s",
+        "id": "7425716666136948736"
+      },
+      {
+        "interaction": null,
+        "link": "https://www.linkedin.com/posts/free-ventures_join-free-ventures-for-an-exclusive-fireside-activity-7403865032775905280-FltE",
+        "title": "Join Free Ventures for an exclusive Fireside Chat and Recruiting Panel with MIRA (raised $6.6M from General Catalyst) and their co-founder Caine Ardayfio \ud83d\udc27 . Hear from the team about their vision for Human-AI interactions and how they developed their Halo Nova AI Smart Glasses. They are also looking for interns to join their team! \ud83d\udcc5 Thursday, December 11 \u23f0 6\u20137:30 PM \ud83d\udccd Dwinelle 155 Come with questions, meet the team, and connect with fellow students interested in joining early stage companies. All majors and experience levels welcome! RSVP link in the comments! ...more ...more",
+        "img": null,
+        "id": "7403865032775905280"
+      },
+      {
+        "interaction": null,
+        "link": "https://www.linkedin.com/posts/free-ventures_fall-2025-batch-applications-are-now-open-activity-7369515211076026368-mSQw",
+        "title": "\ud83d\ude80 Fall 2025 Batch Applications are NOW OPEN! \ud83d\ude80 Deadline: Sunday, September 14 @ 11:59 PM PST At Free Ventures , we empower motivated Berkeley founders to take their daring startups from 0 \u2192 1. Whether you\u2019re building an MVP, raising your first round, or growing your team \u2014 we\u2019re here to help you take the next step in your entrepreneurial journey. \ud83d\udca1 Why Free Ventures? 100+ portfolio companies raised $200M+ in follow-on capital from top firms like Kleiner Perkins , Accel , and Greylock Partners Alumni startups have been acquired by Coinbase , Discord , and Opendoor Proven track record of Y Combinator -backed founders and successful exits \ud83d\udcda What You\u2019ll Get: Mentorship from founders, operators, and investors with high-growth experience Curriculum on scaling, fundraising, customer discovery & more Dedicated Advisors from our team to act as your co-founders, strategists & sounding board We\u2019re looking for founders with dedication, deep problem knowledge, and a willingness to learn. \ud83d\udc49 Apply here: tinyurl.com/Fall25BatchApp For questions, feel free to reach out to our leadership team: Sanjay Adhikesaven | Arissa Zheng | Gatik Trivedi | Nidhi G. | Wesley Perronne Let\u2019s build the next wave of Berkeley-born startups. \ud83c\udf1f ...more ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D4D22AQENpNQbZPNGOw/feedshare-shrink_800/B4DZkXHBwDGsAs-/0/1757029344135?e=2147483647&v=beta&t=Etbu-oZfGMHBmOeAGSQnJrukRIBH6m4JPxr8Fg6DXgA",
+        "id": "2025"
+      },
+      {
+        "interaction": "Shreyash Goli commented on a post 2mo",
+        "link": "https://www.linkedin.com/posts/y-combinator_centralcoms-yc-p26-builds-ai-agents-for-activity-7465892774500990976-s4IX",
+        "title": "Congrats Kyle and Kevin!",
+        "img": null,
+        "id": "7465892774500990976"
+      },
+      {
+        "interaction": "Shreyash Goli liked this",
+        "link": "https://www.linkedin.com/posts/anthea-guo_were-so-excited-about-lumeria-yc-s26s-activity-7493049202818785280-6ArX",
+        "title": "We're so excited about Lumeria (YC S26) 's official launch tomorrow. With a film that is put together by film directors, videographers, actors, make up artists, film editors! Hold tight. Pre-sales will open to the public tomorrow August 11th.",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQFxVJa0mnN2LQ/feedshare-image-high-res/B56Z_ym3l6JkAU-/0/1786481703691?e=2147483647&v=beta&t=ARFk5zIxHDGI8QlhMJTGkeBCtrwQhO9u2ybc4wF0BbU",
+        "id": "7493049202818785280"
+      },
+      {
+        "interaction": "Shreyash Goli liked this",
+        "link": "https://www.linkedin.com/posts/carlos-ramirez-ucbmet_today-i-submitted-the-final-form-required-activity-7493048660134375427-lfD5",
+        "title": "Today I submitted the final form required for InfoFlow's pilot with Murrieta Valley Unified School District. Darwin Gu \u987e\u5c1a\u539f and I have come a long way. The idea started back in August 2025, when conversations with my counselor Sandie Ammen got me thinking about how much of a counselor's day gets absorbed by administrative work, and how technology could give that time back. We figured we had nothing to lose. With exceptional mentorship by Jeff Oldfield, PhD and Shrinandan Narayanan , we built a production-ready application and brought the team at Vista Murrieta on board, along with principal Celeste Scallion and superintendent Ward Andrus. I am incredibly excited and honored to be applying what I have learned at Amazon and in the UC Berkeley Management, Entrepreneurship, & Technology (M.E.T.) program to something that gives students more face time with their counselors. Cheers to a great pilot and a great school year ahead. \ud83d\udcf8 : Giving the VMHS AVID students a tour of Berkeley with Ms. Ammen",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQHj92CPXK0CMA/feedshare-image-high-res/B56Z_yoDJ_H4AU-/0/1786482013492?e=2147483647&v=beta&t=0r1z1N6z_mtyJMKUORYEXheGfDUwcLse2FYmHvYqhTc",
+        "id": "7493048660134375427"
+      },
+      {
+        "interaction": "Shreyash Goli liked this",
+        "link": "https://www.linkedin.com/posts/pinak-paliwal_proud-to-be-one-of-13-founders-in-the-first-activity-7492975472855781376-OCZu",
+        "title": "Proud to be one of 13 founders in the first a16z Speedrun Alpha cohort. The program brought together deeply technical founders and pushed us hard on every aspect of company building. Extremely grateful to have been a part of it! At Locamage , we're building geospatial foundation models: AI that sees and understands the Earth from satellite imagery and other geospatial data. Today's Earth observation pipelines are fragmented, with models trained for single tasks on single sensors. We're taking a different approach, training foundation models that generalize across sensors, resolutions, and geospatial tasks natively. We are building the backbone for how machines interpret the planet. The applications span intelligence, climate monitoring, infrastructure mapping, and beyond. Huge thanks to Andrew Chen , Katia Ameri , Jordan Mazer , Mei En Chin , and the entire a16z speedrun team for building this program and for betting on us early. If you're working in Earth observation, Geospatial Intelligence, or Geospatial ML/Foundational Models, my DMs are open. For more details, refer to our website: locamage.com !",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQEGzju0EPe0Fg/feedshare-shrink_800/B4EZ_xlfLTKwAk-/0/1786464564241?e=2147483647&v=beta&t=-ZAi2k5mzd3N9JWkJ9Wv6SegWhNyJhtIf2OpTAKM6No",
+        "id": "13"
+      },
+      {
+        "interaction": "Shreyash Goli liked this",
+        "link": "https://www.linkedin.com/posts/kedaarr_tradeform-is-hiring-our-early-engineering-activity-7492969368771801090-M00r",
+        "title": "TradeForm is hiring our early engineering team! We\u2019re building a self-learning AI workforce for direct procurement, and with more customer demand than ever, we\u2019re ready to build out our team. We\u2019re looking for full-stack and applied ML builders with strong technical foundations, excellent product judgment, and a sharp eye for design. You should be able to turn ambiguous customer problems into reliable production systems. You\u2019ll work on-site in San Francisco but travel frequently to our enterprise customers\u2019 sites. Apply below or email recruiting@trade-form.com with proof of exceptional technical ability and a few sentences on why TradeForm interests you. If you know someone exceptional, tag them or send this their way! https://lnkd.in/gmmc4RDM",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQEdgL12cDF1JA/feedshare-image-high-res/B56Z_wjYsQGQAU-/0/1786447237080?e=2147483647&v=beta&t=IoKmIWML0F6B1IroGeH9hlNB-xvpbAPs0o2YuhRp6E0",
+        "id": "7492969368771801090"
+      },
+      {
+        "interaction": "Shreyash Goli liked this",
+        "link": "https://www.linkedin.com/posts/andy-jassy-8b1615_our-strategic-partnership-with-novo-nordisk-activity-7492589822952411137-BDMd",
+        "title": "Our strategic partnership with Novo Nordisk expands today as they announce that they've chosen AWS as their preferred cloud provider and strategic AI partner to help accelerate drug discovery. We will combine Novo Nordisk\u2019s scientific expertise with AWS\u2019s AI tools, including Amazon Bio Discovery (biology AI models to design and test drug candidates) and Bedrock AgentCore (infrastructure for building AI agents that run real workflows), and also stand up a co-innovation hub in London where their scientists and our engineers work side by side. We\u2019re proud of our broad partnership across the two companies, which already spans AWS, Amazon Pharmacy, and One Medical. I\u2019m optimistic about how we\u2019ll use AI together to speed up drug discovery, and what that will mean for patients. https://lnkd.in/e9YP5tj6",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQGD84gMbrFH5g/feedshare-shrink_800/B4EZ_sGvUiKQAg-/0/1786372617796?e=2147483647&v=beta&t=Ypwi3n_zvYAkZ5EH1BNblW0zP2yBKwZqIwJFXlGqMnk",
+        "id": "7492589822952411137"
+      },
+      {
+        "interaction": "Shreyash Goli liked this",
+        "link": "https://www.linkedin.com/posts/chess-com_congratulations-on-the-promotion-activity-7492292247388966913-WV-4",
+        "title": "Congratulations on the promotion \ud83e\udd73\ud83e\udd73",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQGc6nAV_8zeHQ/feedshare-image-high-res/B4EZ_n4GWYJgAc-/0/1786301671044?e=2147483647&v=beta&t=ThDjtujEBewYETnigRDUsS4_dqub3Q7BgZ5FA8YkkM4",
+        "id": "7492292247388966913"
+      },
+      {
+        "interaction": "Shreyash Goli liked this",
+        "link": "https://www.linkedin.com/posts/thecube-wired_nysewired-thecube-activity-7491485171926507520-vzbJ",
+        "title": "That's a wrap for John Furrier at theCUBE + NYSE Wired Studio after a week of great conversations with our guests. Thank you to everyone who joined us. Next week, we're kicking things off on Monday with a full day of conversations focused on defense tech. Stay tuned \ud83d\ude80 John Furrier | Gemma Allen | Brian J. Baumann #NYSEWired #theCUBE",
+        "img": "https://media.licdn.com/dms/image/v2/D4D22AQFoV6BN1EdTVg/feedshare-shrink_800/B4DZ_caDfZIEAc-/0/1786109245997?e=2147483647&v=beta&t=eBc8mtEDoZGNq1YRf1QgY-gcV1VXhkTfRonZfQUWadw",
+        "id": "7491485171926507520"
+      },
+      {
+        "interaction": "Shreyash Goli liked this",
+        "link": "https://www.linkedin.com/posts/demishassabis_the-next-chapter-of-our-ai-momentum-activity-7491573102577991680-UlTs",
+        "title": "I\u2019ve been working towards AGI my whole life and I believe it is now close at hand. It\u2019s critical that as a society we get the next steps right to ensure this profound technology benefits all of humanity and ushers in an incredible new age of discovery and wonder. As we enter this pivotal moment, I\u2019ve decided to step into a new role as Chair of Google DeepMind and Chief Scientist of Alphabet Inc. This will allow me to focus on long-term AGI strategy and accelerating scientific breakthroughs, including leaning even further into my work at Isomorphic Labs where we are making extremely rapid and promising progress on our mission to cure disease. We\u2019ve achieved so many extraordinary things at Google DeepMind so far and I\u2019m very excited for this next chapter under the leadership of koray kavukcuoglu . I look forward to continuing to work with him, Sundar and the executive team. More details in our blog post: https://lnkd.in/eEdesa-X",
+        "img": "https://media.licdn.com/dms/image/sync/v2/D4E27AQHxJv6icSnlUg/articleshare-shrink_1280_800/B4EZ_SqUjNJYAg-/0/1785945737904?e=2147483647&v=beta&t=bDQRNdeVfQJ-_DR3wEi8Gbb-GETR_6YphL40nhefNZs",
+        "id": "7491573102577991680"
+      },
+      {
+        "interaction": "Shreyash Goli liked this",
+        "link": "https://www.linkedin.com/posts/kexinhuang_introducing-biomni-tuso-a-new-recipe-for-activity-7488642249828995072-t4Vi",
+        "title": "Introducing Biomni-Tuso, a new recipe for auto-research in biology AI model. We asked Biomni to develop a genetic perturbation prediction model and let it run for five days. It explored 500 configurations and discovered a new method that outperformed the leading methods across multiple benchmarks. We've since applied the same recipe to protein structure representation learning, enhancer\u2013gene linking, ligand binding, and more, consistently discovering new leading models. Biomni-Tuso doesn't just tune hyperparameters. It works like an AI bio researcher for you: reading literature, thinking about orthogonal bio data sources, and testing fundamentally different modeling ideas. We believe this is where bio AI model research is headed. Instead of spending months building models by hand, researchers can describe a problem in natural language and let Biomni explore hundreds of ideas on their own data, while handling all the ML infra. Biomni-Tuso is now available as an auto-research skill (under \"tusoskill\") in Biomni Lab for all enterprise users. On the public platform, it is available to all users on CPU-based tasks. As we prepare for a broader rollout for GPUs, we're giving 500 GPU hours each to the first 100 Biomni Lab users to start building today. Apply here: https://lnkd.in/gPA_azdk Amazing work led by Alistair Turcan with Martin Zhang Example replay: https://lnkd.in/gEEGJDSu Open sourced genetic perturbation model: https://lnkd.in/g6rBUYPB Learn more: https://lnkd.in/gvPyHgfJ",
+        "img": "https://media.licdn.com/dms/image/v2/D5605AQEcZBLUljy9jQ/videocover-high/B56Z.0AZFKKoBM-/0/1785431432028?e=2147483647&v=beta&t=-ScL3iRXTnqd-2-4nQVZoFqwueGxstZHid6iZEaoCNM",
+        "id": "7488642249828995072"
+      }
+    ],
+    "linkedin_num_id": "1339447042",
+    "banner_image": "https://media.licdn.com/dms/image/v2/D4E16AQG7mYUoDyLbAw/profile-displaybackgroundimage-shrink_200_800/B4EZaU0Hx4HoAU-/0/1746253414818?e=2147483647&v=beta&t=9aJI77MA2kPz1vEehSGE2ORZoNyACoiBnQsK82uPH2g",
+    "honors_and_awards": [
+      {
+        "title": "Berkeley VCIC - Runner Up",
+        "publication": "Berkeley Venture Capital Investment Competition",
+        "date": "2025-02-01T00:00:00.000Z",
+        "description": null
+      }
+    ],
+    "similar_profiles": [],
+    "default_avatar": false,
+    "memorialized_account": false,
+    "bio_links": [],
+    "first_name": "Shreyash",
+    "last_name": "Goli",
+    "influencer": false,
+    "timestamp": "2026-08-12T19:17:01.938Z",
+    "input": {
+      "url": "https://www.linkedin.com/in/shreyash-goli"
+    }
+  },
+  "local_photo": "data\\linkedin_photos\\shreyash-goli__usr-lHMvlBgk3kEV3B8.jpg"
+}

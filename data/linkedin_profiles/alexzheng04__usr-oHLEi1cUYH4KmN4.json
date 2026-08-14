@@ -1,0 +1,206 @@
+{
+  "luma_user_id": "usr-oHLEi1cUYH4KmN4",
+  "csv_name": "Alex Zheng",
+  "csv_linkedin": "https://www.linkedin.com/in/alexzheng04",
+  "enriched_at": "2026-08-12T18:56:33.254919+00:00",
+  "batch_id": "sd_msqg8yml2ia5na9bcp",
+  "profile": {
+    "id": "alexzheng04",
+    "name": "Alex Zheng",
+    "city": "San Francisco Bay Area",
+    "country_code": "US",
+    "position": null,
+    "about": "Software &amp; Network Engineer at UCLA with a double major in Computer Science and\u2026",
+    "current_company": {
+      "link": "https://www.linkedin.com/company/spacex?trk=public_profile_topcard-current-company",
+      "name": "SpaceX",
+      "company_id": "spacex",
+      "location": null
+    },
+    "experience": null,
+    "url": "https://se.linkedin.com/in/Alexzheng04",
+    "educations_details": "UCLA",
+    "education": [
+      {
+        "title": "UCLA",
+        "url": "https://www.linkedin.com/school/ucla/",
+        "start_year": "2023-09",
+        "end_year": "2027-06",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      },
+      {
+        "start_year": "2019-09",
+        "end_year": "2023-05",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      }
+    ],
+    "avatar": "https://media.licdn.com/dms/image/v2/D5603AQEwVt9qJbi_4w/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1731926019071?e=2147483647&v=beta&t=GFX5B_eRu42bK4aF8c41MdevXEERnIxt2W4P-gywsdk",
+    "languages": [
+      {
+        "subtitle": "Native or bilingual proficiency",
+        "title": "English"
+      },
+      {
+        "subtitle": "Native or bilingual proficiency",
+        "title": "Chinese"
+      },
+      {
+        "subtitle": "Limited working proficiency",
+        "title": "Spanish"
+      }
+    ],
+    "volunteer_experience": [
+      {
+        "cause": "Education",
+        "duration": "Sep 2020 \u00b7 - \nApr 2023 \u00b7 \n2 years 8 months",
+        "duration_short": "- \nApr 2023",
+        "info": "- Responsible for running the Urbana Middle School MATHCOUNTS club to provide eager students with a place to express their love for math - Responsible for organizing the team, registering for competitions, teaching weekly lessons, and preparing students for the competitions - Organize coaches and assign work",
+        "start_date": "Sep 2020",
+        "subtitle": "MATHCOUNTS Foundation",
+        "title": "MathCounts Head Coach"
+      },
+      {
+        "cause": "Education",
+        "duration": "Sep 2020 \u00b7 - \nSep 2022 \u00b7 \n2 years 1 month",
+        "duration_short": "- \nSep 2022",
+        "info": "- Responsible for part of the planning of the Urbana Middle School Science Olympiad team - Responsible for coaching Middle School students in various events through weekly meetings to prepare them for competitions - Ensure there are no time conflicts, and all students have the materials they need to succeed",
+        "start_date": "Sep 2020",
+        "subtitle": "Science Olympiad, Inc.",
+        "title": "Advisor and Coach"
+      },
+      {
+        "cause": "Health",
+        "duration": "Jun 2021 \u00b7 - \nJun 2023 \u00b7 \n2 years 1 month",
+        "duration_short": "- \nJun 2023",
+        "info": "- Develop specialized lesson plans for each day - Mentoring student on core volleyball skills",
+        "start_date": "Jun 2021",
+        "subtitle": "Frederick County Parks & Recreation",
+        "title": "Volunteer Volleyball Coach"
+      }
+    ],
+    "followers": 595,
+    "connections": 500,
+    "current_company_company_id": "spacex",
+    "current_company_name": "SpaceX",
+    "projects": [
+      {
+        "title": "Nimbus",
+        "start_date": "Apr 2026",
+        "description": "Open-source the cloud. self-hosted VM provisioning platform - the EC2 experience on hardware you own.Built a single-binary Go + React platform that gives users self-service VM provisioning on Proxmox clusters in under 60 seconds. Features include automatic node selection with live cluster scoring, atomic IP allocation, public HTTPS exposure via reverse tunnel integration, GPU compute on paired NVIDIA hardware, RBAC, quotas, and a cordon/drain/migrate operational model inspired by Kubernetes. Developed at LAHacks 2026 (won the Arista Networks track) and actively maintained as an open source project.Tech: Go, React/TypeScript, SQLite, Proxmox REST API, cloud-init.GitHub: github.com/smalex-z/nimbus"
+      },
+      {
+        "title": "Gopher",
+        "start_date": "Jan 2026",
+        "description": "Public router for private services. Self-hosted reverse tunnel system with automatic HTTPS and subdomain routing. Expose homelab services, research servers, or any private machine via clean URLs - no port forwarding needed."
+      },
+      {
+        "title": "Cloud Computing Server Virtualization Solution (Mini-AWS)",
+        "start_date": "Dec 2023",
+        "description": "\u25cfSet up and manage enterprise-level server solution with two cross-country server clusters running Linux Debian Type 1 Hypervisors, concurrently hosting 10 Ubuntu, macOS, and Windows virtual machines.\u25cfCreated reliable and scalable \u2018Mini-AWS\u2019 cloud environment using multiple virtualized Ubuntu VMs to host web applications and databases with load-balancing, replicating cloud-like services.\u25cfAchieved cost savings of $1000 annually by migrating multiple web applications from Amazon EC2 instances to on-premises server clusters, allowing for better control over hardware and enhanced data privacy.\u25cfConfigured Nginx as a reverse proxy to route traffic to multiple virtual machines using a single public IP address."
+      },
+      {
+        "title": "tinyCV.co",
+        "start_date": "Jan 2024",
+        "description": "Creator & Project Lead \u2022AWS based site that provides a simple and professional domain name for clients to create and share their own personal websites on their resumes.\u2022Hosted on Amazon Web Services (AWS) running an Ubuntu/Linux server with a Nginx reverse proxy from Django port 8000 to HTTP/HTTPS ports 80/443.\u2022Obtained Amazon issued HTTPS/SSL certificate enabling encrypted connection.\u2022Delivered client analytics using Google Analytics integration.\u2022As Project Lead, managed a cross-functional team, strategically assigning tasks based on team members' strengths. Furthermore, leveraged GitHub for efficient team collaboration and developmental workflow."
+      },
+      {
+        "title": "\u200eCooking101",
+        "start_date": "Jan 2024",
+        "description": "\u2022 Cooking 101 is an app dedicated to becoming your personalized cookbook filled with recipes bridging the gap between accessible ingredients and deliciousness.\u2022 Built using React Native and React(Work in Progress)"
+      },
+      {
+        "title": "SureFashion",
+        "start_date": "Sep 2023",
+        "description": "Creator\u2022Built a responsive Django web-application designed to allow users to curate wardrobes, explore outfits, and experiment with styles.\u2022Traditional user authentication and encryption combined with integrated OAuth2 using Google Cloud Authentication & Credentials API.\u2022Employed an SQLite database for efficient data management and storage.\u2022Utilized the Serply REST API to incorporate Google Image search functionality."
+      },
+      {
+        "title": "FitTogether \u2013 UCLA Creative Labs",
+        "start_date": "Sep 2023",
+        "description": "Developer\u2022Cross-platform fitness app utilizing the spaCy machine learning model to match like-minded individuals based on their fitness preferences and foster inclusivity.\u2022iOS and Android apps simultaneously built using React Native and Node.js\u2022Managed user data and traditional authentication securely using Google Firebase & integrated Oauth2 using Google Cloud Authentication"
+      }
+    ],
+    "location": null,
+    "input_url": "https://www.linkedin.com/in/alexzheng04",
+    "linkedin_id": "alexzheng04",
+    "activity": [
+      {
+        "interaction": "Liked by Alex Zheng",
+        "link": "https://www.linkedin.com/posts/rizwaanbana_you-find-the-perfect-job-posting-but-then-activity-7482448833507913729-d4Dj",
+        "title": "You find the perfect job posting. But then comes the annoying part. 1. Opening your resume 2. Commenting out irrelevant projects 3. Googling \"how\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQHrYCDc8RZ4og/feedshare-shrink_800/B56Z9Yg4UALAAc-/0/1783896442378?e=2147483647&v=beta&t=PyHH1GJCOc11u69trTtrt-5-OEw2p3KqUYxRMMLrN7I",
+        "id": "7482448833507913729"
+      },
+      {
+        "interaction": "Liked by Alex Zheng",
+        "link": "https://www.linkedin.com/posts/benson-manzano_im-incredibly-excited-to-announce-that-ill-activity-7452446071185645568-l4YT",
+        "title": "I'm incredibly excited to announce that I'll be joining Oracle this summer as an intern on the Business Object Spectra Service team in Redwood\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQGkZJjs2112HQ/feedshare-image-high-res/B56Z2uFxRvHEAU-/0/1776742241959?e=2147483647&v=beta&t=wB0K0oOp8--40Ws5z4MnUacoLLibgGul-_T8t29NjWE",
+        "id": "7452446071185645568"
+      },
+      {
+        "interaction": "Liked by Alex Zheng",
+        "link": "https://www.linkedin.com/posts/noahvogel_aerogen-systems-yc-s26-just-joined-y-combinator-activity-7476036533364412416-H3PL",
+        "title": "Aerogen Systems (YC S26) just joined Y Combinator \ud83d\ude80 We're building for one of the most expensive problems in chip manufacturing: contamination\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQHUIMD0O8s-cA/feedshare-image-high-res/B56Z8A3nH7IoAU-/0/1782426006260?e=2147483647&v=beta&t=busx57OMpTdAVSntQFFBwNbbP97AAtavr67UfkLgVdI",
+        "id": "7476036533364412416"
+      },
+      {
+        "interaction": "Liked by Alex Zheng",
+        "link": "https://www.linkedin.com/posts/aparna-petluri_happy-to-share-that-i-have-completed-the-activity-7465431645454643200-_m1d",
+        "title": "Happy to share that I have completed the ACM W (ACM @ UCLA) Tech Fellowship! \ud83d\ude80 Over the past five months, my team and I designed and built an\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQFre1nBWVx9EQ/feedshare-shrink_800/B56Z5n1Gh6GkAc-/0/1779858434435?e=2147483647&v=beta&t=5JNG8R0gMhohudBNeAckULxn3oDuSWH8qUFO-rB7Mcg",
+        "id": "7465431645454643200"
+      },
+      {
+        "interaction": "Liked by Alex Zheng",
+        "link": "https://www.linkedin.com/posts/brice-patchou_i-am-proud-to-announce-that-i-have-officially-activity-7464521141982838786-GpFK",
+        "title": "I am proud to announce that I have officially graduated from the University of Southern California with a Bachelor's degree in Computer Science and\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQHbmsJoQQb-JQ/feedshare-image-high-res/B56Z5dObEQJIAU-/0/1779680523076?e=2147483647&v=beta&t=X4s4PR6yj-5trbmO5sAEm3M7FR9t_GWZiP4ntPWBzDQ",
+        "id": "7464521141982838786"
+      }
+    ],
+    "linkedin_num_id": "601122682",
+    "banner_image": "https://media.licdn.com/dms/image/v2/D5616AQF6jTT_dk6YKw/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1721329375771?e=2147483647&v=beta&t=726pZuojQ5LiSDUROay5WzXvOGRIXsXUcnvHyWERzgI",
+    "honors_and_awards": [
+      {
+        "title": "Vicki Van Vorst Memorial Scholarship Award",
+        "publication": "Private Scholarship",
+        "date": "2023-08-01T00:00:00.000Z",
+        "description": null
+      },
+      {
+        "title": "Maryland National Merit Finalist",
+        "publication": "National Merit\u00ae Scholarship Program",
+        "date": "2023-03-01T00:00:00.000Z",
+        "description": null
+      },
+      {
+        "title": "MATHCOUNTS Competition Series - State Certificate of Achievement",
+        "publication": "MATHCOUNTS",
+        "date": "2023-02-01T00:00:00.000Z",
+        "description": "Awarded for exceptional commitment and outstanding achievement in fostering excellence in mathematics as the Head MATHCOUNTS Coach from Urbana Middle School"
+      }
+    ],
+    "similar_profiles": [],
+    "default_avatar": false,
+    "memorialized_account": false,
+    "bio_links": [
+      {
+        "title": "Personal Website",
+        "link": "https://tinycv.co/az"
+      }
+    ],
+    "first_name": "Alex",
+    "last_name": "Zheng",
+    "influencer": false,
+    "timestamp": "2026-08-12T18:56:22.774Z",
+    "input": {
+      "url": "https://www.linkedin.com/in/alexzheng04"
+    }
+  },
+  "local_photo": "data\\linkedin_photos\\alexzheng04__usr-oHLEi1cUYH4KmN4.jpg"
+}

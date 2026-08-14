@@ -1,0 +1,347 @@
+{
+  "luma_user_id": "usr-qEBRjcO9v3f5HId",
+  "csv_name": "Aditi Muduganti",
+  "csv_linkedin": "https://www.linkedin.com/in/aditi-muduganti-2687952a1",
+  "enriched_at": "2026-08-12T18:55:27.676768+00:00",
+  "batch_id": "sd_msqg7js7a7y0irwot",
+  "profile": {
+    "id": "aditi-muduganti-2687952a1",
+    "name": "Aditi Muduganti",
+    "city": "United States",
+    "country_code": "US",
+    "position": null,
+    "about": null,
+    "current_company": {
+      "link": "https://www.linkedin.com/company/research-science-institute?trk=public_profile_topcard-current-company",
+      "name": "Research Science Institute (RSI)",
+      "company_id": "research-science-institute",
+      "location": null
+    },
+    "experience": null,
+    "url": "https://vn.linkedin.com/in/Aditi-muduganti-2687952a1",
+    "educations_details": "Massachusetts Institute of Technology",
+    "education": [
+      {
+        "title": "Massachusetts Institute of Technology",
+        "url": "https://www.linkedin.com/school/mit/",
+        "start_year": "2026-08",
+        "end_year": "2029-05",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      }
+    ],
+    "avatar": "https://media.licdn.com/dms/image/v2/D5603AQFil5H7yHzAXA/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1719852567659?e=2147483647&v=beta&t=seK7I4b52AQlVjfLSB8tNyXNel7dKPcw0h-u37MtM4Q",
+    "languages": [
+      {
+        "subtitle": "Native or bilingual proficiency",
+        "title": "English"
+      },
+      {
+        "subtitle": "Native or bilingual proficiency",
+        "title": "Telugu"
+      },
+      {
+        "subtitle": "Professional working proficiency",
+        "title": "Spanish"
+      }
+    ],
+    "followers": 1267,
+    "connections": 500,
+    "current_company_company_id": "research-science-institute",
+    "current_company_name": "Research Science Institute (RSI)",
+    "publications": [
+      {
+        "title": "Impact of COVID-19 on Alcoholic-related Hepatitis Admissions at a Midwest Tertiary Care Hospital",
+        "subtitle": "The Liver Meeting, AASLD (American Association For the Study of Liver Diseases)",
+        "date": "January 4, 2025"
+      },
+      {
+        "title": "Project Shooting Interplanetary Garbage: Material Ablation",
+        "subtitle": "AGU (American Geophysical Union)",
+        "date": "October 1, 2024",
+        "description": "Selected to present at the American Geophysical Union conference held in Washington D.C, December 2024Project Shooting Interplanetary Garbage: Material Ablation. ESS Open Archive. February 18, 2025.DOI: 10.22541/essoar.173991587.74995768/v1Video: https://www.youtube.com/watch?v=8RogN4uu344"
+      },
+      {
+        "title": "On the Machine Learning-based Multi-class Classification of Microscopic Colitis",
+        "subtitle": "IEEE Explore International Conference on Electro-Information Technology (eIT)",
+        "date": "July 31, 2024"
+      }
+    ],
+    "projects": [
+      {
+        "title": "Modeling the Evolution of the Point-Symmetric Planetary Nebula IC 4634 Using a Three-Dimensional Morpho-Kinematic Model",
+        "start_date": "Jun 2025",
+        "description": "IC 4634 is a planetary nebula with a striking double-S shape, whose curved arcs and distant knots preserve a record of its outflow history. This study presents the first 3D morpho-kinematic reconstruction of IC 4634 that resolves its structure into multiple distinct ejection events over time.>Grand Award at Regeneron International Science and Engineering Fair (ISEF) in Phoenix, AZ>Capital Science and Engineering Fair (CSEF): Best in Fair>CSEF: First Place in Engineering & Physics Category>CSEF: Society of Women Geoscientists Award"
+      },
+      {
+        "title": "Innovative Machine Learning Approaches for Exoplanet Detection and Anomaly Identification: Applying Computational Techniques to Uncover Hidden Patterns in TESS Data",
+        "start_date": "Jun 2024",
+        "description": ">Presented 29-page research paper at JSHS and ISEF.>Won multiple awards listed in the Awards section."
+      },
+      {
+        "title": "Project Shooting Interplanetary Garbage: Material Ablation",
+        "start_date": "May 2024",
+        "description": "NASA SEES, University of Texas at Austin>The project focused on creating a space-based laser system to de-orbit debris in Low Earth Orbit. This laser targets small debris, preventing potential collisions that could endanger spacecraft and satellites. >Presented at the AGU (American Geophysical Union) Conference, What's Next in Science Annual Meeting, Dec 2024, the world\u2019s largest Earth and space science conference.>Research was published in the Earth and Space Science Open Archive (ESS Open Archive) in February 2025"
+      },
+      {
+        "title": "A Neural Network Approach Using Deep Learning for Image Classification of Polar Ring Galaxies",
+        "start_date": "Jun 2023",
+        "description": "First study to apply deep learning techniques to polar ring galaxies. (study conducted 2023-2024)>Presented 26-page research paper at JSHS and ISEF-affiliated fair.>62nd National JSHS (Junior Science and Humanities Symposium), First Place Winner, Physics (2024)>EXPLR National STEM Champion Award (1 of 106 from 400+ applications); Congressional Innovators award (1 of 6) by EXPLR; in-person event in DC (2025)>Congressional Innovation Award at National STEM Festival (1 of 3) (2025)>Congressional App Challenge Award Winner, Wisconsin's 3rd District (2023): Polar Ring Galaxy Classifier>ISEF (International Science and Engineering Fair) Alternate Finalist, 4th overall (2024)>BSSEF: Engineering and Physics Second Place Winner (2024)>CSEF: Biological and Chemical Sciences Second Place Winner (2024)"
+      },
+      {
+        "title": "Polar Ring Galaxies App",
+        "start_date": "Jun 2023",
+        "description": ">I developed an app to identify polar ring galaxies, rare galactic structures that offer valuable insights into dark matter distribution.>For this work, I was honored with the Congressional App Challenge Award, a national recognition of student innovation in computer science. >This project deepened my interest in cosmology and artificial intelligence."
+      },
+      {
+        "title": "RenewEd Tech App",
+        "start_date": "May 2023",
+        "description": ">While nearly 70% of high school students are eager to engage in environmental initiatives, only 35% feel confident using sustainable technology in their projects. I created RenewEd Tech to bridge this gap, making sustainability education approachable, engaging, and action-driven.>I developed RenewEd Tech using JavaScript, with React Native for the front end and Firebase for the backend. The app includes a chatbot powered by Google\u2019s Gemini, trained on climate data from five U.S. states, and built in Visual Studio Code. It offers a clean, user-friendly interface with interactive lessons, quizzes, a guided chatbot, and a dynamic project task planner.>RenewEd Tech transforms students from passive learners into active changemakers. It simplifies complex environmental concepts through bite-sized lessons and empowers users to develop real-world sustainability projects in their local communities. Educators benefit from ready-to-use resources, and communities see real environmental improvements. RenewEd Tech equips the next generation with the skills, confidence, and tools to take climate action where it matters most: their communities."
+      },
+      {
+        "title": "A Content Analysis of Negative Comments on Ballet Dancers\u2019 Instagram Posts",
+        "start_date": "May 2023",
+        "description": ">Summer Research Scholars Program at UW-Madison (SMAHRT) Summer Research Scholars Poster Archive (2023)Aditi Muduganti, Jacqueline Nesi (Onalaska High School, Brown University) \"A Content Analysis of Negative Comments on Ballet Dancers\u2019 Instagram Posts\""
+      }
+    ],
+    "location": null,
+    "input_url": "https://www.linkedin.com/in/aditi-muduganti-2687952a1",
+    "linkedin_id": "aditi-muduganti-2687952a1",
+    "activity": [
+      {
+        "interaction": "Aditi Muduganti shared this",
+        "link": "https://www.linkedin.com/posts/aditi-muduganti-2687952a1_this-past-april-i-had-the-opportunity-to-activity-7468444849931927552-nBMR",
+        "title": "This past April, I had the opportunity to visit Jane Street in New York City as a participant of the NCWIT Visit Day program! During my time in NYC, I listened to insightful employee panels, heard about the recruiting process at Jane Street, and toured the office space! Understanding the roles which traders and engineers take on as a part of Jane Street allowed me to deepen my knowledge about the field of quantitative finance. Meeting and connecting with all of the other NCWIT participants of the program from around the nation was truly inspiring. Thank you NCWIT and Jane Street for giving me this amazing opportunity and thank you to Katie Nasta for organizing this event! ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQHd5iS47KdszQ/feedshare-image-high-res/B56Z6U_BIWGgBU-/0/1780616008499?e=2147483647&v=beta&t=54Zc9Cih0WrEquwl7C2EsLi_8uiURtaSiobKciPDTnA",
+        "id": "7468444849931927552"
+      },
+      {
+        "interaction": null,
+        "link": "https://www.linkedin.com/posts/annikarmartin_after-competing-in-the-regeneron-international-activity-7461940399872364544-3Nkt",
+        "title": "After competing in the Regeneron International Science and Engineering Fair this past week, I'm incredibly excited to share that I received the 3rd Place Grand Award in Physics and Astronomy for my work improving detection speed and diagnostic analysis of binary neutron star mergers. If you're interested, you can find the project here: https://lnkd.in/ggn9vbJP Science fairs have shaped so much of my high school experience, opening doors to opportunities I could have never imagined. I\u2019m deeply grateful for the mentors and peers who have challenged and inspired me, and for the privilege of meeting some of the most brilliant, driven, and passionate students and researchers around the world through ISEF. Thank you Northwest Science Expo , Society for Science , and Jane Street (truly the best category sponsor!), and an especially big thanks to Danielle Schroeder for the countless hours you've spent supporting me and my projects over the last four years. ...more ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D5605AQE4O8wuatuFHQ/feedshare-thumbnail_720_1280/B56Z44jN9LG0A0-/0/1779065218699?e=2147483647&v=beta&t=8yvt_4Tb9kWkuf-H_VbD2FOmBb3CSTsAuGaK0aBT9J8",
+        "id": "7461940399872364544"
+      },
+      {
+        "interaction": "Aditi Muduganti shared this",
+        "link": "https://www.linkedin.com/posts/aditi-muduganti-2687952a1_this-week-i-attended-the-regeneron-international-activity-7461304142016401408-prJ6",
+        "title": "This week I attended the Regeneron International Science and Engineering Fair in Phoenix, Arizona. ISEF is the world\u2019s largest pre-collegiate science fair, and I am excited to announce that I have won the 4th Place Grand Award in the Category of Physics and Astronomy! Being surrounded by so many bright minds and influential people from the world of science like george yancopoulos and Barbara Barrett made me feel truly inspired. Since competing in science fairs starting in sophomore year, it is bittersweet to say ISEF 2026 was my last high school science fair. I will forever cherish the memories and friends I have made from this journey and this is only the beginning. Thank you to Society for Science and Jane Street ! ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D5605AQGQYLRnPc-vJw/videocover-high/B56Z4vgiS5JcBM-/0/1778913521308?e=2147483647&v=beta&t=xHmPRVuCVHtYzk_66ZidsEvJEzFlRo3BszfxRcwHW-4",
+        "id": "7461304142016401408"
+      },
+      {
+        "interaction": "Aditi Muduganti shared this",
+        "link": "https://www.linkedin.com/posts/aditi-muduganti-2687952a1_i-am-excited-to-announce-that-i-will-be-attending-activity-7460038765986893824-WT3_",
+        "title": "I am excited to announce that I will be attending the Massachusetts Institute of Technology as a member of the Class of 2030! I am incredibly grateful for this amazing opportunity and cannot wait for the next four years. Thank you to my parents, family, friends, mentors, teachers, and peers for supporting me throughout this journey. Your encouragement and belief in me have meant so much. I\u2019m excited for everything ahead and grateful for everyone who helped me get here! ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQHozZAMCIyX5w/feedshare-image-high-res/B56Z4dhuqMGgAU-/0/1778611841898?e=2147483647&v=beta&t=L9HmOI-G6IG_gLTRS2JVBfeZES3CYSmplfTJ5PVku9I",
+        "id": "7460038765986893824"
+      },
+      {
+        "interaction": "Aditi Muduganti commented on a post 1mo",
+        "link": "https://www.linkedin.com/posts/mihika-dusad_ive-only-been-at-etched-one-month-but-all-activity-7477743460632907776-L9fy",
+        "title": "Congrats! This is so cool!",
+        "img": null,
+        "id": "7477743460632907776"
+      },
+      {
+        "interaction": "Aditi Muduganti liked this",
+        "link": "https://www.linkedin.com/posts/one-of-our-interns-is-currently-the-fifth-activity-7493131043693277184-zwnI",
+        "title": "One of our interns is currently the fifth best coder in the world. Jonathan He , a Liquid engineering intern and member of Team USA, is sitting in 5th place after Day 1 of the 2026 International Olympiad in Informatics, the world\u2019s most prestigious competitive programming competition. He scored 246 out of 300 points, including a perfect score on one of the three problems, while competing against the best young programmers from around the globe. We already knew Jonathan was exceptional from his work here. It is still incredible to watch him prove it on the world stage. The entire Liquid team is cheering for you, Jonathan. Let's go!",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQF1_81Il7EyWw/feedshare-shrink_800/B4EZ_zy.j8J8Ag-/0/1786501655265?e=2147483647&v=beta&t=_ce9wUyAJ_CjQkkSJM8ccrcu9z8pd6F5mNuliDP1dGs",
+        "id": "7493131043693277184"
+      },
+      {
+        "interaction": "Aditi Muduganti liked this",
+        "link": "https://www.linkedin.com/posts/usepeckish_peckish-hospitalitytech-inventorymanagement-activity-7492940678939828224-JtQd",
+        "title": "The team grew this summer. We welcomed four interns. They joined for a couple of months. Accuracy went up. Bug reports went down. Joseph and Annika worked on the model directly. Paulo on the product. Otto on GTM. We keep building. Some of what this team shipped this summer hasn\u2019t been shown yet. More on that soon. \ud83d\udc40\ud83c\udf50 #Peckish #HospitalityTech #InventoryManagement #ComputerVision",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQGVmnxBGKQjJQ/feedshare-shrink_800/B4EZ_xFytrHkAc-/0/1786456256940?e=2147483647&v=beta&t=3tQQDEazjdNVOazYsWhocfRwwBRYhLrXlSmlcrrkgcU",
+        "id": "7492940678939828224"
+      },
+      {
+        "interaction": "Aditi Muduganti liked this",
+        "link": "https://www.linkedin.com/posts/jane-street-global_can-you-reverse-engineer-an-asic-we-designed-activity-7491140256742805504-X3AW",
+        "title": "Can you reverse engineer an ASIC? We designed a chip, but we're only giving you the layout \u2014 every metal, routing, and transistor layer, with nothing labeled. Recover the netlist, figure out what the circuit does, and tease out the hidden answer. We'll feature the best writeups in a follow-up post and send swag to our favorite solutions. Read the full post and download the puzzle here: https://lnkd.in/gGyFZpRi",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQHx5hCGdFGezQ/feedshare-shrink_800/B4EZ_XgXbhIQAc-/0/1786027014900?e=2147483647&v=beta&t=yAtt22G1-c3fumTOy13yAV2wO-TCtmrir7TGRNtKKF0",
+        "id": "7491140256742805504"
+      },
+      {
+        "interaction": "Aditi Muduganti liked this",
+        "link": "https://www.linkedin.com/posts/phydataai_physicalai-aidata-realworlddata-activity-7489060965968277504-OYbf",
+        "title": "Every AI wave was bottlenecked by data, then unlocked by tooling. CV had ImageNet, then Roboflow. LLMs had the internet, then RLHF. Physical AI has neither. Robot foundation models don't learn from flat images, they learn from trajectories. Synchronized video, depth, proprioception, force, language, action, all time-aligned, all embodiment-specific. Every lab that wants to train one ends up building its own teleop rig, its own storage format, its own QA pipeline from scratch. There's no ImageNet moment yet. No Roboflow moment either. That's starting to change. Formats like RLDS and Hugging Face's LeRobot are becoming the shared language, the LeRobot dataset hub went from about 1,145 datasets to over 58,000 in about a year. Open X-Embodiment is doing for manipulation data what ImageNet did for vision. The demand is showing up everywhere too. Search interest in \"physical AI\" is up 3.5x year over year. The pattern is the same every time. The models get good before the data infrastructure catches up. Whoever builds the layer that makes the data usable, not just another dataset host, but real tooling for ingest, annotation, and augmentation, ends up owning a foundational piece of the next decade of AI. That's what we're building at phydata. https://phydata.tech/ #PhysicalAI #AIData #RealWorldData #ArtificialIntelligence #Phydata",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQGiCH8szRaGnA/feedshare-image-high-res/B56Z.59Q1RGgAY-/0/1785531272803?e=2147483647&v=beta&t=ZZGCQdDXpr8GROzpr5ng4LssmFulukO_ZeijerES7Ew",
+        "id": "7489060965968277504"
+      },
+      {
+        "interaction": "Aditi Muduganti liked this",
+        "link": "https://www.linkedin.com/posts/ananya-raghu-9287ba282_this-past-week-i-had-the-opportunity-to-activity-7488017062620209152-e2Od",
+        "title": "This past week, I had the opportunity to attend Jane Street 's WiSE program in NYC and Y Combinator 's Startup School 2026 in SF. At WiSE, I loved getting an inside look at the world of quantitative finance through panels, conversations with Jane Streeters, and playing mock trading games. I met so many girls who share my interests in math and CS - huge thank you to Katie Nasta and Kylie Newman for organizing such a engaging program! At YC Startup School, among all the spontaneous conversations I had, a few highlights included attending the Future Female Founders Summit, speaking with David S. Roberts about the AI/Biotech space and multimodal fusion during a breakout session, and learning from Gabriel Birnbaum about his work in AI-based storytelling during the career fair. As Sam Altman said, the best ideas start with believing in a possibility long before everyone else sees it. What an unforgettable week!",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQF7Gw-CHoyX-Q/feedshare-shrink_800/B56Z.rE50HKAAc-/0/1785281618167?e=2147483647&v=beta&t=noMZrP3shOCkh4HmurgnlBvfx4n8tDNJ4Ekqh6VqU1I",
+        "id": "7488017062620209152"
+      },
+      {
+        "interaction": "Aditi Muduganti liked this",
+        "link": "https://www.linkedin.com/posts/maya-trutschl_i-spent-the-weekend-in-sf-at-yc-startup-school-activity-7487638601745264640-2YzB",
+        "title": "I spent the weekend in SF at YC Startup School learning from and connecting with people at the forefront of the startup world. Everything hit harder when Jensen Huang said this is \u201cthe greatest time in the last 60 years to start a company.\u201d I received the motivation and resources ($25k of computing credits and a 6 month subscription to Claude Max 20x) I need to start pursuing my ideas (and some AWESOME PostHog and Google merch). I heard talks from people such as Sam Altman, Alexandr Wang , Chelsea Finn , and more. I got within two feet of Garry Tan , one of the most influential people for students like myself. Having the honor to chat with Gabriel Birnbaum about his work at Y/n and Can of Soup showed me just how many possibilities there are in the startup world. Special thank you to Nikki Kothapalli , Alison Choi , Aiden Seo , and many other fellow students with whom i had some insightful conversations and who made this week one to remember. Excited to start at MIT in August, continue building, and see what comes next!",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQHJSYlncUg76Q/feedshare-shrink_800/B56Z.lvnhlKAAc-/0/1785192153499?e=2147483647&v=beta&t=Z8xzEh0LiCu-6x-0C3lZ-fjoFLf5RMODtvChQRKaNqQ",
+        "id": "7487638601745264640"
+      },
+      {
+        "interaction": "Aditi Muduganti liked this",
+        "link": "https://www.linkedin.com/posts/mairinjc_ghc26-gracehoppercelebration2026-womenintech-activity-7485925544702681088-WCyi",
+        "title": "I\u2019m thrilled to share that I\u2019ll be a speaker at Grace Hopper Celebration 2026! Grace Hopper Celebration is the world\u2019s largest gathering of women and nonbinary people in technology. The celebration brings together students, professionals, leaders, and innovators to shape the future of the field. I\u2019ll be speaking on the panel \u201cCreating Shared Space: How Young Women Build Belonging in Tech\u201d presented by the STEM Next Opportunity Fund , along with Nikhita Penugonda , Neha Shukla , and moderator Kelsey Gaines . I\u2019m excited to share my story and discuss the importance of building inclusive STEM spaces starting in early education. Join us in Anaheim, California on October 27-30! Here is the link to register: GHC.AnitaB.org/Pricing If you\u2019ll also be attending, please reach out! I would love to connect beforehand. #GHC26 #GraceHopperCelebration2026 #WomenInTech #WomenInSTEM AnitaB.org Abigail Darlington",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQFoK42b0_mHZA/feedshare-shrink_800/B56Z.NZnYgG0Ac-/0/1784783730431?e=2147483647&v=beta&t=-RbU4L84XbS2pw89ZbAJrx_7JbtSB8-TbsWWea0ihLs",
+        "id": "7485925544702681088"
+      },
+      {
+        "interaction": "Aditi Muduganti liked this",
+        "link": "https://www.linkedin.com/posts/tejasguptax7_youre-wasting-most-of-your-pipeline-your-activity-7483596439764295680-jdOB",
+        "title": "You're wasting most of your pipeline. Your SDRs just don't know it yet. Introducing Clean . Here is what everyone in sales does right now. Pull a giant list. Message everyone. Hope someone bites. That is not a strategy. It is a lottery ticket with a logo on it. For 20 years sales has run on one idea. More volume, more messages, more noise. That era is over. Finding buyers was never the hard part. Knowing where they are headed is. Clean reads your company's knowledge base, learns what you do, then finds the buyers who are ready right now. Then it goes further. We put 75 years of how companies won and lost into Clean, so it predicts where intent moves next. Who is ready today. And who is about to be. Intent, not just a list. One client sent 1.2M cold emails before @Clean. They targeted on intent instead. They put more in pipeline than all 1.2M did. 4% reply rates became 19%. 20+ meetings booked per SDR. 8-10 hour saved each week. Volume was never the answer. It was just the only tool you had. We built Clean to end the volume era of sales. The list is dead. This is what comes next. Comment \"CLEAN\" and get the first 100 leads on us. \ud83c\udfa5 : The official launch video.",
+        "img": "https://media.licdn.com/dms/image/v2/D5605AQEvkul3asnkNg/videocover-high/B56Z9sTQjHIUBM-/0/1784228419101?e=2147483647&v=beta&t=Di-AxeSgNss9ayV71lOtV8zmx1Umn5BiGBEOaULElP0",
+        "id": "7483596439764295680"
+      }
+    ],
+    "linkedin_num_id": "1223204912",
+    "banner_image": "https://media.licdn.com/dms/image/v2/D5616AQHCXvBOIkbaCw/profile-displaybackgroundimage-shrink_200_800/B56Z9YY44XGoAQ-/0/1783894347589?e=2147483647&v=beta&t=VbUYIHdg1uKNts_x4S4NNxJxfdtS7cDQ_lA8Hq5MLh4",
+    "honors_and_awards": [
+      {
+        "title": "Research Awards",
+        "publication": "-",
+        "date": "2026-05-01T00:00:00.000Z",
+        "description": "First student in school history from Onalaska High School to get selected for ISEF (Winning a Grand Award), National JSHS (winning 1st place at Nationals), National STEM Festival, Congressional App Challenge, and win 1st place at state and regional science fairs. \u25cf 62nd National JSHS (Junior Science and Humanities Symposium), First Place Winner, Physics (2024) for presenting research on \"A Neural Network Approach Using Deep Learning for Image Classification of Polar Ring Galaxies.\" \u25cf\u2026 Show more"
+      },
+      {
+        "title": "National Society of High School Scholars (NSHSS) Earth Day Award",
+        "publication": "National Society of High School Scholars (NSHSS) Foundation",
+        "date": "2026-04-01T00:00:00.000Z",
+        "description": "Selected as a recipient of a national award recognizing student leadership in environmental sustainability. Awarded for developing a project that promotes environmental awareness and positive community impact."
+      },
+      {
+        "title": "National Honor Society (NHS) National Semifinalist (2026)",
+        "publication": "National Association of Secondary School Principals (NASSP)",
+        "date": "2026-02-01T00:00:00.000Z",
+        "description": "Recognized for outstanding achievement in scholarship, leadership, service, and character."
+      },
+      {
+        "title": "Zonta Young Women in Leadership Award, Wisconsin (2026)",
+        "publication": "Zonta International",
+        "date": "2026-02-01T00:00:00.000Z",
+        "description": "Awarded for demonstrated leadership, academic achievement, and commitment to community service, with a focus on advancing the status of women. Recognized for initiative in leadership roles and advocacy efforts."
+      },
+      {
+        "title": "Bryan Cameron Impact Finalist",
+        "publication": "Bryan Cameron Education Foundation",
+        "date": "2025-11-01T00:00:00.000Z",
+        "description": "Selected as 1 of 100 finalists from 3000 applicants for a 4-year full-tuition merit scholarship for demonstrated excellence in leadership, community service, extracurricular activities, and academics. First student in school history to apply and get selected as a finalist."
+      },
+      {
+        "title": "National Center for Women and Informational technology (NCWIT) National and State Level Winner",
+        "publication": "National Center for Women in Technology",
+        "date": "2025-10-01T00:00:00.000Z",
+        "description": "Selected for exceptional achievements in technology February 2024: Wisconsin Affiliate Winner NCWIT February 2025: Wisconsin Affiliate Winner NCWIT January 2026: National Award Recipient (1 of 300) NCWIT"
+      },
+      {
+        "title": "Coulee Region Sierra Club (CRSC) Environmental Stewardship Award, 2025",
+        "publication": "Sierra Club Environmental Organization",
+        "date": "2025-07-01T00:00:00.000Z",
+        "description": "Recognized by the CRSC for demonstrating leadership, action, and environmental stewardship, and understanding the importance of civic engagement in protecting our environment, with an award of $300."
+      },
+      {
+        "title": "Trust for Sustainable Living 2025 International Student Competition - Honorable Mention from USA",
+        "publication": "Trust for Sustainable Living",
+        "date": "2025-05-01T00:00:00.000Z",
+        "description": "Theme: From Eco-Anxiety to Eco Action & Empowerment"
+      },
+      {
+        "title": "Forensics",
+        "publication": "Wisconsin Interscholastic Speech & Dramatic Arts Association",
+        "date": "2025-04-01T00:00:00.000Z",
+        "description": "April 2025: Forensics Silver Medal at State in Public Address on the speech, \"What measures, if any, should the Wisconsin Department of Natural Resources (DNR) implement to safeguard the environment for hunting and fishing?\" April 2024: Forensics Gold Medal at State in Public Address on the speech, \u201cShould Generative AI be regulated and by whom?\u201d (Perfect Score) April 2023: Forensics Silver Medal at State in Public Address on the speech, \"What reforms, if any, should be implemented to\u2026 Show more"
+      },
+      {
+        "title": "Carson Scholar Award",
+        "publication": "Carson Scholars Fund",
+        "date": "2025-03-01T00:00:00.000Z",
+        "description": "Awarded the Carson Scholar Award (first ever from school) in recognition of high academic achievement, strong leadership, and a deep commitment to community service."
+      },
+      {
+        "title": "1st place Onalaska High School Quiz Bowl team at Holmen Invitational",
+        "publication": "NAQT",
+        "date": "2025-02-01T00:00:00.000Z",
+        "description": "Earned 1st place as a member of the Onalaska High School Quiz Bowl team at the Holmen Invitational, demonstrating strong teamwork, quick recall, and academic breadth across subjects including history, science, literature, and current events."
+      },
+      {
+        "title": "WILS (Wisconsin Leadership Seminar) Leadership Award",
+        "publication": "WILS (Wisconsin Leadership Seminar)",
+        "date": "2024-08-01T00:00:00.000Z",
+        "description": "Awarded for demonstrating exceptional leadership skills during the Wisconsin Leadership Seminar (WILS) in Summer 2024"
+      },
+      {
+        "title": "WASC (Wisconsin Association of Student Council) Leadership Certificate of Appreciation",
+        "publication": "WASC",
+        "date": "2024-04-01T00:00:00.000Z",
+        "description": "Received the WASC Leadership Certificate of Appreciation for representing Region 6, and as evidence of the Association's respect and esteem for contributions to the cause of student leadership growth in the state of WI"
+      },
+      {
+        "title": "Honorable Mention",
+        "publication": "Scholastic Art and Writing Awards",
+        "date": "2023-09-01T00:00:00.000Z",
+        "description": "Received Honorable Mention in the Fashion category of the Scholastic Art & Writing Awards"
+      },
+      {
+        "title": "Presidential Volunteer Service Award - Gold Award",
+        "publication": "AmeriCorps",
+        "date": "2023-09-01T00:00:00.000Z",
+        "description": "Presidential Volunteer Service Award (Gold) recipient for completing over 100 hours of tutoring underserved students through Learn To Be."
+      },
+      {
+        "title": "Geography Bee and History Bee",
+        "publication": "International Academic Competitions, United States (IAC)",
+        "date": "2022-11-01T00:00:00.000Z",
+        "description": "Won 1st Place at the state level and qualified for both National and International rounds of the Geography Bee Won 2nd Place at the state level and qualified for both National and International rounds of the History Bee"
+      },
+      {
+        "title": "You Be the Chemist State Champion",
+        "publication": "Chemical Education Foundation",
+        "date": "2022-07-01T00:00:00.000Z",
+        "description": "You Be the Chemist Wisconsin State Champion: Presented on \"States of Matter Related to Space\""
+      },
+      {
+        "title": "ProjectCSGIRLS National Semifinalist",
+        "publication": "ProjectCSGIRLS",
+        "date": "2022-05-01T00:00:00.000Z",
+        "description": "Recognized for creating an innovative tech solution to a social issue; selected among top entries nationwide for technical excellence and impact"
+      },
+      {
+        "title": "Math Competitions",
+        "publication": "-",
+        "date": null,
+        "description": "Math Kangaroo State Champion (2022) Math League Wisconsin State Champion and Nationals Qualifier (2022) 2nd place in Fresno Math Circle Problem-Solving Contest (2021) AMC 8 First Place Winner (2021)"
+      },
+      {
+        "title": "Music",
+        "publication": "-",
+        "date": null,
+        "description": "State Piano Solo & Ensemble: 1st place rating for piano solo, 1st place rating for viola solo (2023) \u25cf WMTA ( Wisconsin Music Teachers Association) State Track, achieved high honors (2023) \u25cf LAMFA (La Crosse Area Music Festival and Association) Festival Qualifier for Viola (2022)"
+      },
+      {
+        "title": "Wisconsin Envirothon",
+        "publication": "-",
+        "date": null,
+        "description": "1st Place Aquatics, 2nd Place Forestry, 3rd Place Soils (2023)"
+      }
+    ],
+    "similar_profiles": [],
+    "default_avatar": false,
+    "memorialized_account": false,
+    "bio_links": [],
+    "first_name": "Aditi",
+    "last_name": "Muduganti",
+    "influencer": false,
+    "timestamp": "2026-08-12T18:54:34.069Z",
+    "input": {
+      "url": "https://www.linkedin.com/in/aditi-muduganti-2687952a1"
+    }
+  },
+  "local_photo": "data\\linkedin_photos\\aditi-muduganti-2687952a1__usr-qEBRjcO9v3f5HId.jpg"
+}

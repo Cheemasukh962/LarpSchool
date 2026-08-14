@@ -1,0 +1,215 @@
+{
+  "luma_user_id": "usr-DqHjnMM50TAQnol",
+  "csv_name": "Shreya Chakraborty",
+  "csv_linkedin": "https://www.linkedin.com/in/shreya-chakraborty1",
+  "enriched_at": "2026-08-12T19:18:07.750217+00:00",
+  "batch_id": "sd_msqh0fwb1tv6mjnbrd",
+  "profile": {
+    "id": "shreya-chakraborty1",
+    "name": "Shreya Chakraborty",
+    "city": "Atlanta, Georgia, United States",
+    "country_code": "US",
+    "position": null,
+    "about": "Hi! I\u2019m Shreya Chakraborty, a passionate Computer Science student at Georgia Tech with\u2026",
+    "current_company": {
+      "link": "https://www.linkedin.com/company/google?trk=public_profile_topcard-current-company",
+      "name": "Google",
+      "company_id": "google",
+      "location": null
+    },
+    "experience": null,
+    "url": "https://tr.linkedin.com/in/shreya-chakraborty1",
+    "educations_details": "Georgia Institute of Technology",
+    "education": [
+      {
+        "title": "Georgia Institute of Technology",
+        "url": "https://www.linkedin.com/school/georgia-institute-of-technology/",
+        "start_year": "2023-08",
+        "end_year": "2026-05",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      },
+      {
+        "start_year": "2020-08",
+        "end_year": "2023-06",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      }
+    ],
+    "avatar": "https://media.licdn.com/dms/image/v2/D5603AQESR94aSQJZMA/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1700251678113?e=2147483647&v=beta&t=F3arzxDFmNoeyKfSFYJ5YuLGvlyXLp_Oin8sGJzeiu4",
+    "volunteer_experience": [
+      {
+        "cause": "Education",
+        "duration": "Dec 2017 \u00b7 - \nMay 2023 \u00b7 \n5 years 6 months",
+        "duration_short": "- \nMay 2023",
+        "info": "As a black belt and junior instructor, I teach a variety of students taekwondo, from children as young as 3 years old, to even older adults. I have been teaching for about 5 years and training since I was 4 years old. I am also an instructor in Ha's Taekwondo's Taekwondo Clinical Support Program, where I work wit students with special needs.",
+        "start_date": "Dec 2017",
+        "subtitle": "Ha's Taekwondo",
+        "title": "Instructor"
+      },
+      {
+        "cause": "Education",
+        "duration": "Feb 2021 \u00b7 - \nMay 2023 \u00b7 \n2 years 4 months",
+        "duration_short": "- \nMay 2023",
+        "info": "I teach weekly math classes for ESG, a non-profit organization that aims to provide a free source of education and tutoring (outside of school) for children and families who may not be able to afford external tutoring services. I personally am in charge of running pre-algebra classes every week, as well as holding a Speech and Debate summer camp in the months of June and July. I am also ESG's outreach director.",
+        "start_date": "Feb 2021",
+        "subtitle": "Emerson Study Group",
+        "title": "Mathematics Teacher"
+      },
+      {
+        "cause": "Education",
+        "duration": "Jul 2021 \u00b7 - \nMay 2023 \u00b7 \n1 year 11 months",
+        "duration_short": "- \nMay 2023",
+        "info": "This past year, I have been an IMSA Writing Center Tutor, giving guidance to my fellow students and underclassmen with their essays and writing assignments for various classes. Because writing is something I am passionate about, I want to use my knowledge and experience with writing to benefit my IMSA community.",
+        "start_date": "Jul 2021",
+        "subtitle": "Illinois Mathematics and Science Academy",
+        "title": "Writing Center Tutor"
+      }
+    ],
+    "followers": 2042,
+    "connections": 500,
+    "current_company_company_id": "google",
+    "current_company_name": "Google",
+    "location": "Atlanta",
+    "input_url": "https://www.linkedin.com/in/shreya-chakraborty1",
+    "linkedin_id": "shreya-chakraborty1",
+    "activity": [
+      {
+        "interaction": null,
+        "link": "https://www.linkedin.com/posts/agarwalsoham_what-does-a-heart-condition-really-look-like-activity-7432170124587134976-BRim",
+        "title": "What does a heart condition really look like? Not a chart. Not a diagram. Not text. But in 3 dimensions: structurally, spatially, physically. This weekend at Hacklytics'26, we built HeartScape, an interactive 3D engine that transforms segmented MRI data into explorable models, allowing users to visualize and compare healthy and diseased anatomy in real time. (Winning 3rd in Healthcare) None of us is from a medical background. That shaped our approach: not just asking how accurate the model is, but whether it\u2019s intuitive. The computational pipeline: MRI segmentation \u2192 volumetric feature extraction \u2192 statistical modeling \u2192 PCA morphology \u2192 Vector Search \u2192 3D mesh rendering \u2192 interactive visualization Seeing structures spatially and being able to play around with them really changes how you understand them as compared to raw data (see the transition in the images below). Massive shoutout to Shreya Chakraborty , Vehnil Rangaraman , and Atharv Singh for making this worth it! Huge thanks to Actian 's VectorAI DB and Sphinx for powering parts of our backend and analysis stack. Also, always a pleasure to reconnect with Ryan L. and hear his thoughtful insights! Looking forward to the next build! Devpost: https://lnkd.in/egGfkAGe Github: https://lnkd.in/e4MrFbw4 Demo: https://lnkd.in/exghAgE6 ...more ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQFT1N-SVHR6JA/feedshare-image-high-res/B4EZyRfUZBI4AY-/0/1771967432674?e=2147483647&v=beta&t=IMR6LadE5jOy9aOa8fqdPSOxPY-7Pls4iRHIrGcK7ME",
+        "id": "7432170124587134976"
+      },
+      {
+        "interaction": "Shreya Chakraborty shared this",
+        "link": "https://www.linkedin.com/posts/shreya-chakraborty1_we-took-follow-your-heart-a-little-too-activity-7432152110546427904-Pgp9",
+        "title": "We took \u201cfollow your heart\u201d a little too literally. This year at Hacklytics, we built HeartScape \u2014 an interactive 3D platform that transforms raw cardiac MRI data into fully explorable heart models \u2014 and I'm incredibly excited to share that we won 3rd Place for Best Healthcare Hack! Understanding congenital and structural heart disease from 2D scans is challenging, even for trained professionals. HeartScape bridges that gap by converting medical imaging data into interactive 3D models that users can rotate, slice, compare, and explore in real time. Our goal was simple: make cardiac anatomy not just visible, but truly understandable. Some of the things we built: \ud83e\udec0 A pipeline that converts CMR segmentation data into lightweight 3D meshes for real-time browser rendering \ud83e\udde0 AI-powered \u201cLens\u201d explanations that generate contextual insights when users select regions of the heart \ud83d\udcca Structural similarity search using anatomically interpretable vectors with Actian VectorAI for soft condition attribution \ud83d\udd25 Point-cloud deviation heatmaps and alignment workflows powered by Sphinx.AI \ud83c\udf10 A Three.js web interface for interactive exploration, annotation, and comparison between healthy and diseased hearts This project pushed us far outside our comfort zones \u2014 from learning how to interpret medical datasets (HVSMR) to building 3D geometry pipelines and integrating multiple AI systems into a cohesive experience. Absolutely loved working with Vehnil Rangaraman , Soham Agarwal , and Atharv Singh , as well as the incredible mentors and sponsors we collaborated with. This was genuinely one of the most enriching 36 hours of my life. Check out our Devpost: https://lnkd.in/eTmyxrru Explore our Github repo: https://lnkd.in/eHV-7BMR ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQEk3G3V5Wt9NQ/feedshare-shrink_1280/B4EZyRO8.yJ8Ac-/0/1771963142455?e=2147483647&v=beta&t=6sifwm-fvg8Ha3DgFtDKiseMin8UgM7diQLZ8gGGXAk",
+        "id": "7432152110546427904"
+      },
+      {
+        "interaction": null,
+        "link": "https://www.linkedin.com/posts/swati-bhargava-641bb54_senior-manager-insights-consulting-customer-activity-7422753571982536704-c6fS",
+        "title": "If turning complex customer insights and data into clear, executive-ready strategy is your superpower, our team has the perfect role waiting for you: https://lnkd.in/e_r2up6n",
+        "img": null,
+        "id": "7422753571982536704"
+      },
+      {
+        "interaction": "Shreya Chakraborty shared this",
+        "link": "https://www.linkedin.com/posts/shreya-chakraborty1_google-noogler-sweintern-activity-7419810004548997120-t8mo",
+        "title": "I\u2019m thrilled to announce that I\u2019ll be joining Google as a Software Engineering Intern in Mountain View, California this summer! \ud83c\udf89 Endless thanks to my recruiter Gillian Barnes for all the support throughout this journey, and to my friends, family, and mentors who\u2019ve cheered me on. So beyond excited to be a Noogler! #Google #Noogler #SWEIntern #SoftwareEngineering ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQF5UyA2HvpI_w/feedshare-image-high-res/B56Zvh14NdHAAY-/0/1769020557263?e=2147483647&v=beta&t=jRFCTvl4b4nZSN5XgG0bCiyf-0tMBFOZt8bvJW1o06U",
+        "id": "7419810004548997120"
+      },
+      {
+        "interaction": "Shreya Chakraborty shared this",
+        "link": "https://www.linkedin.com/posts/shreya-chakraborty1_this-summer-i-had-the-amazing-opportunity-activity-7369796187891167233-q-bG",
+        "title": "This summer, I had the amazing opportunity to be part of Georgia Tech CREATE-X Startup Launch summer founder cohort! \ud83d\ude80 Through the program, I worked with Vehnil Rangaraman on Kihap, Inc. , my startup focused on reimagining how martial arts students train, track progress, and stay motivated outside the dojang using computer vision and artificial intelligence software to track proper form. What started as an idea and scrappy MVP grew into a product used by nearly 60 students and 5 martial arts schools around the world today. We couldn't have done it without the mentorship, workshops, and constant support from the Create-X community. The summer culminated in Demo Day, where I had the chance to pitch Kihap in front of investors, VCs, industry professionals, students, and fellow founders. Sharing our vision with such an inspiring audience was both exhilarating and humbling \u2014 and reinforced why I\u2019m so excited about the impact Kihap can make. A huge thank you to the Create-X team, our mentor Kaitlin Sitchenko, and the incredible fellow founders I met along the way. This program has been an unforgettable step in my journey as a builder and entrepreneur. Follow Kihap's journey by checking out our Instagram @ kihap.ai and checking out our website: kihapai.onrender.com ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQFZop6qn26stQ/feedshare-shrink_800/B56ZkbGj9oG0Ak-/0/1757096333112?e=2147483647&v=beta&t=_eXiKr0gjxFuKBdg1izRYPBmusXk24zkHhct05QRhZk",
+        "id": "7369796187891167233"
+      },
+      {
+        "interaction": "Shreya Chakraborty shared this",
+        "link": "https://www.linkedin.com/posts/shreya-chakraborty1_ijoinedhp-activity-7360022062234546176-QGDd",
+        "title": "Thrilled to share that I've joined HP as a Computer Science Intern on the Enterprise Operations team this fall! Grateful to be part of such a welcoming and innovative community \u2014 excited for the journey ahead and everything I\u2019ll learn along the way. \ud83d\ude80 #IJoinedHP ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQH-Slum1jq25g/feedshare-shrink_800/B56ZiK_IeXG4Ak-/0/1754678462812?e=2147483647&v=beta&t=JinvJwiyLvWxpecHIzCHHk17HoOJOOElH_SjfZZthGM",
+        "id": "7360022062234546176"
+      },
+      {
+        "interaction": "Shreya Chakraborty shared this",
+        "link": "https://www.linkedin.com/posts/shreya-chakraborty1_this-summer-i-gave-cloud-computing-a-medical-activity-7358265181317050369-s4oI",
+        "title": "This summer, I gave cloud computing a medical degree. Just wrapped up an incredible summer internship at Amazon Web Services (AWS) , where I worked on the Health AI organization to build production-grade infrastructure at the intersection of cloud computing, generative AI, and healthcare. \ud83d\udd27 Over the course of 12 weeks, I architected and developed a high-impact AI system designed to improve clinical workflows and reduce the burden of chart review for healthcare providers \u2014 helping save valuable time (and money!) in the process. \ud83d\udca1 I got to work across the AWS ecosystem, using services like Lambda, DynamoDB, IAM, and CloudWatch to build out secure, scalable, production-grade infrastructure. Along the way, I: - Designed and implemented a RESTful API layer and retrieval pipeline capable of handling 1000+ concurrent requests - Wrote extensive high-level and low-level design docs to align cross-functional stakeholders and guide long-term architecture - Navigated dozens of production-grade code reviews, shipped tens of thousands of lines of code, and prioritized compliance with healthcare privacy and security standards \ud83d\ude80 A major highlight: being selected to present at Amazon\u2019s Global AI Solutions Expo, and winning the Open Mic: AI Innovation Showcase, where I shared the real-world impact of generative AI in the clinical space with teams across Amazon. This was one of the most technically intense and rewarding experiences I\u2019ve had, and I\u2019m incredibly grateful to my mentors, reviewers, and teammates who pushed me to deliver work that will go live as part of AWS HealthLake\u2019s upcoming AI product offering. A HUGE thank you to my amazing mentor Sai Venkat R. as well as the continued support from Anandkiran Gurrala , Ayush Agarwal , Sagar Ghabade, and Shaker Qawasmi . ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQGBaD4LmlgVpA/feedshare-shrink_1280/B56Zh3PMVXHQAk-/0/1754347129153?e=2147483647&v=beta&t=48_s_sMulESGcqCiBwht93aCbi98Rjt0FX8AZzHBJSM",
+        "id": "7358265181317050369"
+      },
+      {
+        "interaction": null,
+        "link": "https://www.linkedin.com/posts/atlanta-georgia-citybox-media-citybox-activity-7327744388015497217-atAQ",
+        "title": "ATLANTA. GEORGIA CityBox Media + CityBox Magazine Present Brilliance Founders & CEOs + College Students Edition Starling Hotel Midtown Featuring Four Georgia Tech Computer Science Students Startup Exchange + Two Female Founders and CEOs A Midday Spark of Brilliance in Atlanta There\u2019s something powerful that happens when you bring passionate minds into one space and at CityBox Magazine, we call that magic, Brilliance. In every city where we publish, we host a private, curated gathering of thinkers, builders, and game changers. This time, Brilliance was once again in Atlanta right in the heart of Midtown at the chic Starling Hotel lobby. Picture plush lounge seating, vibrant sunlight spilling in through tall windows, and the sound of innovation humming in every conversation. At the table: two phenomenal female founders and CEOs visionary women who\u2019ve each built companies that are reshaping their industries. Alongside them sat four brilliant computer science majors from Georgia Tech, students who aren\u2019t just dreaming big, but already doing. They\u2019re leading the charge at Startup Exchange, Georgia Tech\u2019s largest student-run entrepreneurship organization that champions creators, builders, and startup founders of all levels. The conversation was anything but surface-level. We dove into bold ideas, the rollercoaster of launching something from scratch, and what it truly means to lead when no blueprint exists. The students shared how their semester-long accelerator, SX Fellowship, is helping early-stage founders turn sparks of ideas into real momentum. The founders? They listened, offered wisdom, and even shared some of their own stories. No stages. No microphones. Just a shared table and open minds. It was real. It was raw. It was brilliant. And this is only the beginning, since 2012, Brilliance has illuminated every city where CityBox Media has planted its roots. From coast to coast, the momentum is unstoppable. Stay tuned... even more brilliance, magic, and unforgettable moments are headed your way. Maryan Aiken Ayah Zaheraldeen Shreya Chakraborty Sneha Maheshwari David Li Amber Owens Kristen Bryant Georgia Institute of Technology CityBox Media Kevin Moore Kimberly Dixon, MBA Keisha Ebbesen, MBA, ACC Microsoft Ramesh Nuti Vishal Modi Brandon Mines Nadine Mines Vic Keller William Carpenter FAIA PhD Harini Ganti TiE Dallas Are you a startup company? If so, tell us what you're doing? ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQE-pd7zg8m4hw/feedshare-image-high-res/B56ZbFgnabHUA4-/0/1747070402696?e=2147483647&v=beta&t=NWcpJhG31vHxg2RdYaSzTjWQ_8e6s53vgKZRKyTawUQ",
+        "id": "7327744388015497217"
+      },
+      {
+        "interaction": null,
+        "link": "https://www.linkedin.com/posts/vehnil_what-a-weekend-im-proud-to-share-that-activity-7300137419654213634-CXi-",
+        "title": "What a weekend! I'm proud to share that Shreya Chakraborty and I won \ud835\udfee\ud835\uddfb\ud835\uddf1 \ud835\udde3\ud835\uddf9\ud835\uddee\ud835\uddf0\ud835\uddf2 \ud835\udde2\ud835\ude03\ud835\uddf2\ud835\uddff\ud835\uddee\ud835\uddf9\ud835\uddf9 at Hacklytics, America's largest Data Science Hackathon!! After 36 stress-inducing hours marked by sleep deprivation (red bull gives you wings) but more importantly tons of learning, Shreya and I built thera_pixel: a gamified approach to physical therapy built with ML-based motion tracking to help patients have fun while staying on pace with their recovery. Over 50 million Americans receive physical therapy services annually, however around 70% of patients do not complete their full course of care and roughly 20% drop out within the first three visits to a physical therapist. The truth is, for the average American, PT just isn't always feasible. We wanted to tackle that lack of feasibility\u2014whether from lifestyle conflicts, affordability, or motivation hurdles\u2014with thera_pixel. By providing engaging, responsive screen play and real-time joint position tracking, thera_pixel helps patients escape the repetitive, mundane nature of PT exercises with gamified feedback from the comfort of their homes. Using python libraries for computer vision and data processing, and MediaPipe (a Google ML-based library) for 3d Pose Estimation, we leveraged public datasets like the IntelliRehab DS (linked below) to power real-time feedback for common exercises. By temporally normalizing, interpolating, and averaging the data, we were able to create time series ground truths for key joint angles\u2014so patients can track their accuracy and progress over time This was our first time working with core aspects of our project, like Computer Vision, Gamification, and real time Data Analysis and we learned a lot! We\u2019re excited for where the future lies for thera_pixel and look forward to work with healthcare providers to bring it into real-world rehabilitation settings. Check out our project here: https://lnkd.in/gbi8m4m9 Take a look at our GitHub: https://lnkd.in/g3M3Wi4V IntelliRehab Dataset: https://lnkd.in/gQvTrDRn Huge thanks to the Hacklytics Team and my teammate Shreya! ...more ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQFovilKyrnFUw/feedshare-shrink_800/B56ZU9MSzoGoAQ-/0/1740488388572?e=2147483647&v=beta&t=0ut92vtDXrilZg8n7dO8eszJ2WdDPAK0bMwxXnraGRs",
+        "id": "7300137419654213634"
+      },
+      {
+        "interaction": "Shreya Chakraborty liked this",
+        "link": "https://www.linkedin.com/posts/alvynkwon_excited-to-share-that-ive-wrapped-up-my-activity-7491621351737196545-dBLQ",
+        "title": "Excited to share that I've wrapped up my internship with eBay ! I'm incredibly grateful to everyone on the Cloud SRE team for the mentorship and support this summer. It was a great opportunity to learn more about cloud infrastructure, reliability engineering, and what it takes to keep systems running at scale. Especially happy that I got to work with many talented mentors, specifically Iris Liu , Cheng Liyong , and Chase Kiefer as well as being alongside a great intern cohort. I'm also excited to share that this fall I'll be joining AMD in San Jose as an AI Engineer Intern. Looking forward to what's ahead!",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQEQAGUnh-qTHg/feedshare-shrink_800/B56Z_eV61lG4Ac-/0/1786141716215?e=2147483647&v=beta&t=ZsDMJOnR0VBmF-tDJeg0Zg3D7BNC7j5wlgKIhwkPJ1k",
+        "id": "7491621351737196545"
+      },
+      {
+        "interaction": "Shreya Chakraborty liked this",
+        "link": "https://www.linkedin.com/posts/ustalos_we-are-excited-to-announce-that-talos-is-activity-7490953267452071936-8lOj",
+        "title": "We are excited to announce that Talos is joining Y Combinator as part of the Fall 26 batch! We are building the future of predictive maintenance for power infrastructure. Amitav Kohli Himani Musku Kevin Hwang",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQHsNTsPH0vgew/feedshare-shrink_800/B4EZ_U2TczJQAc-/0/1785982433383?e=2147483647&v=beta&t=-RxO4uIMZ5lxmxrzKYRfUi0j1NPBl0UGnj-KuNK5EoE",
+        "id": "7490953267452071936"
+      },
+      {
+        "interaction": "Shreya Chakraborty reacted on this",
+        "link": "https://www.linkedin.com/posts/irapathak_aws-georgiatech-studentleadership-activity-7489812978100412416-ql-B",
+        "title": "Excited to share that I'll be serving as the Innovation Lead of the AWS Student Builder Group at Georgia Tech for 2026-2027! \ud83d\ude80 This role is all about improving our processes, strengthening how the team operates, and helping the club evolve as we grow. I'll also be focused on building new initiatives to boost student engagement and grow our community here at Georgia Tech. I'm grateful for the opportunity to help shape what this organization becomes from the ground up, and I'm looking forward to building something meaningful alongside a great group of people. #AWS #GeorgiaTech #StudentLeadership #CloudComputing #Innovation",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQGCgrcP336PFg/feedshare-image-high-res/B4EZ_EpNzPIsAY-/0/1785710566974?e=2147483647&v=beta&t=pt5cUnl2ptiFlvNm8xNEGVeVP5ZYmhMH3MKduza2ukk",
+        "id": "7489812978100412416"
+      },
+      {
+        "interaction": "Shreya Chakraborty liked this",
+        "link": "https://www.linkedin.com/posts/eshavenkat_nest4us-nonprofit-herconference-activity-7487469957308383232-6NNk",
+        "title": "NYC has become what feels like my second home! \ud83d\udc97 So grateful for such a fun weekend at my first-ever HER Conference! I loved meeting incredible Gen-Z women from across the country (and even around the world!), reconnecting with some of my fellow Her Campus Media x E.L.F. BEAUTY 22 under 22 honorees, exploring innovative brand activations, and attending sessions centered on leadership, career growth, and empowering the next generation of women leaders. One of the highlights was hearing from keynote speakers XO Kitty Actress Anna Cathcart, Olympian Jordan Chiles, and ESPN creator Katie Feeney : three remarkable women under 25 who are making an incredible impact across entertainment, sports, and digital media. Excited for all the connections and opportunities this summer has in store! #NEST4US #Nonprofit #HERConference #22U22 #HerCampusMedia #ELFCosmetics #ELF #YouthPower #ELFBeauty #Service #GeorgiaTech #College #GenZ #Impact #Leader #NYC #22U22Honoree #Changemaker #HerCampus #NewYork #Beauty #HERConference26 #GirlPower #WomenSupportingWomen #Community #Inspire #GiveBack #NewYorkCity www.nest4us.org Shreyaa Venkat NEST4US",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQF8DZw65AgD9A/feedshare-image-high-res/B4EZ.jWOn3HoAU-/0/1785151941392?e=2147483647&v=beta&t=Pk2tqUZgNULO-RHo-MqFEVn_Es39rs661pEgVcKOHJ0",
+        "id": "7487469957308383232"
+      },
+      {
+        "interaction": "Shreya Chakraborty liked this",
+        "link": "https://www.linkedin.com/posts/manaspathak10_excited-to-share-that-i-joined-google-as-activity-7490770713860018176-Gfcx",
+        "title": "Excited to share that I joined Google as a Software Engineer III last month! \ud83d\ude80 I\u2019m excited to learn from and work alongside some of the brightest engineers in the industry, take on new challenges, and contribute to meaningful problems at Google. A special thank you to Drashti V. for her support and guidance throughout the long interview process Here\u2019s to new beginnings, continued growth, and an exciting journey ahead! \ud83e\udd42",
+        "img": "https://media.licdn.com/dms/image/v2/D4D22AQH0Qv_cVFsKxg/feedshare-shrink_800/B4DZ_SQREALAAc-/0/1785938908809?e=2147483647&v=beta&t=PXMD3HxfJ93rzTzxNo-EO6uZk9iybRnUXj6k2pvYm8w",
+        "id": "7490770713860018176"
+      },
+      {
+        "interaction": "Shreya Chakraborty liked this",
+        "link": "https://www.linkedin.com/posts/sunny-park-5206b3235_roblox-internship-networking-activity-7488670848069824512-88Fw",
+        "title": "While my internship is heading towards the end, I was invited to Roblox 's Open House last night! It was great to connect with fellow interns across the Bay Area and learn more about the work happening at Roblox, including a closer look at their application process. Grateful for the invite and for the conversations along the way. \ud83d\ude4c #Roblox #Internship #Networking",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQEiFYn22PgYBg/feedshare-shrink_800/B56Z.0abXfGsAc-/0/1785438259592?e=2147483647&v=beta&t=JJ2aLreQrQAno2WWrLbSpkm7-2xBu2c0ozQEi3Wtj-8",
+        "id": "7488670848069824512"
+      },
+      {
+        "interaction": "Shreya Chakraborty reacted on this",
+        "link": "https://www.linkedin.com/posts/caleb-kinneer_myturnerjourney-ourpeopleourstrength-turnerconstruction-activity-7490448950727098369-n0sF",
+        "title": "After wrapping up my summer internship with Turner Construction Company , I'm incredibly grateful for an experience that challenged me, helped me grow, and strengthened my passion for creating the built environment. This summer, I had the opportunity to work on the Emory University Hospital expansion project in Atlanta. I gained experience on both the project engineering and field engineering sides of construction through helping coordinate trade partners to prepare spaces for turnover on an accelerated schedule, working alongside our team to solve problems in the field, managing punch list activities, and assisting with project closeout. I also had the opportunity to develop VDC workflows to improve project communication and coordination between trade partners, designers, and owners at my project and others across the Atlanta BU. Having the opportunity to experience both the engineering and field sides of the project gave me a much broader perspective on how successful projects are delivered. Most importantly, this internship reminded me that great projects are built by great people. A huge thank you to Rob Miles , my Project Engineer, for being an incredible mentor. I really appreciated how intentional you were about understanding my strengths, helping me think through my future, and always providing constructive feedback that challenged me to grow. Thank you to Arya Desai , my Field Engineer and friend from Georgia Institute of Technology , for trusting me with impactful responsibility, answering all my questions, and making every day enjoyable. Thank you to our General Superintendent, Chad Monroe, for your leadership and for creating a project culture centered on teamwork, safety, learning, and continuous improvement. A special thank you to Kayt Dayton from Beck for your collaboration out in the field almost every day. Working alongside a supportive and engaged design team was a highlight of the summer and is something we don't take for granted. We even got to play doctor and patient for the marketing photos before the ribbon cutting! Shoutout to Daniela Quir\u00f3s , my healthcare partner in crime, for making the internship even more fun and being the best teammate for our end of summer presentation. Thank you to Taylor McIntosh , Kristy Tanner, SPHR SHRM-CP , Aim\u00e9e Marie Ogando Melo , Justin Gentzke, and everyone else with Turner who invested in my growth and contributed to my Turner experience this summer. Even Eric Malinowski, CHC (I gotcha this time). Finally, thank you to all of the other interns who created an amazing, supportive community. I'm grateful for everyone who took the time to teach, answer questions, and make this such a memorable experience. I'm excited to take these experiences back to Georgia Tech for my senior year and look forward to what's next! #MyTurnerJourney #OurPeopleOurStrength #TurnerConstruction #Construction #ProjectEngineering #FieldEngineering #HealthcareConstruction #CivilEngineering #GeorgiaTech #Internship",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQFtGucdqReOiw/feedshare-shrink_800/B4EZ_NrmYVGoAc-/0/1785862187501?e=2147483647&v=beta&t=BFt21iDdDGmprrCJf8d4SPJAXzx5iDL6jQQcn0r9G48",
+        "id": "7490448950727098369"
+      },
+      {
+        "interaction": "Shreya Chakraborty liked this",
+        "link": "https://www.linkedin.com/posts/alexanderguodev_this-weekend-we-won-the-inaugural-ramp-builders-activity-7484977947586486273-BsWO",
+        "title": "This weekend, we won the inaugural Ramp Builders Cup! Huge shoutout to my teammates Aarav Minocha , Dave Grewal , and Taarush Grover ! Competing alongside everybody for my very first hackathon was an incredible experience! We built LoveAIsland \ud83c\udfdd\ufe0f: Live reality-TV survival sim with LLM agent contestants and an LMSR prediction market. You can check it out here: https://lnkd.in/dKGkbaE9 Big thank you to Ramp for hosting a wonderful event and to Codex by OpenAI and Cursor for sponsoring! Also a huge thank you to Angela Wu , Cat Choy , Katherine W. , Richard Noguchi , Sandra Yang , Sebastian Oliver , Tyler Xiao , Jalen Xing , Alexander Osmonov , Satyam Singh , and Chelsea Commons for organizing everything!",
+        "img": "https://media.licdn.com/dms/image/v2/D4D22AQE-Q-Yh791NBA/feedshare-image-high-res/B4DZ9_46C5KsAU-/0/1784557052452?e=2147483647&v=beta&t=-wczIv3jeye6f3Y8cd1hl1r-ZgNjDOt_Z-De1hu_a20",
+        "id": "7484977947586486273"
+      }
+    ],
+    "linkedin_num_id": "968685239",
+    "banner_image": "https://media.licdn.com/dms/image/v2/D5616AQEIVUIl27wDvw/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1698275718241?e=2147483647&v=beta&t=TCeEreXOngoKNzpj3EYV1B3Q2uWsPLL0O9Nb5SbL_Y8",
+    "honors_and_awards": null,
+    "similar_profiles": [],
+    "default_avatar": false,
+    "memorialized_account": false,
+    "bio_links": [],
+    "first_name": "Shreya",
+    "last_name": "Chakraborty",
+    "influencer": false,
+    "timestamp": "2026-08-12T19:16:58.921Z",
+    "input": {
+      "url": "https://www.linkedin.com/in/shreya-chakraborty1"
+    }
+  },
+  "local_photo": "data\\linkedin_photos\\shreya-chakraborty1__usr-DqHjnMM50TAQnol.jpg"
+}

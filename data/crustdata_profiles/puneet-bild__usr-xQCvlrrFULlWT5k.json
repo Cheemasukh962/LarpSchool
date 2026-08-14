@@ -1,0 +1,185 @@
+{
+  "source": "crustdata",
+  "recovered_from": "brightdata_failed_private",
+  "luma_user_id": "usr-xQCvlrrFULlWT5k",
+  "csv_name": "Puneet",
+  "csv_linkedin": "https://www.linkedin.com/in/puneet-bild",
+  "clean_linkedin": "https://www.linkedin.com/in/puneet-bild",
+  "enriched_at": "2026-08-14T18:07:59.937250+00:00",
+  "person_data": {
+    "basic_profile": {
+      "current_title": "Co-Founder",
+      "first_name": null,
+      "headline": "Founder @ Bild AI - AI for Blueprint Understanding.",
+      "languages": [],
+      "last_name": null,
+      "location": {
+        "city": "San Francisco",
+        "continent": "North America",
+        "country": "United States",
+        "full_location": null,
+        "raw": "San Francisco, California, United States",
+        "state": "California"
+      },
+      "name": "Puneet Sukhija",
+      "normalized_title": {
+        "confident": true,
+        "department": "Executive Leadership",
+        "matched_title": "Co-Founder",
+        "similarity": 0.9998999834060669,
+        "sub_department": "Founder & Entrepreneurship Leadership"
+      },
+      "professional_network_name": "Puneet Sukhija",
+      "profile_picture_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/person/b3ebddb855431f6191d3b29b67774cf6d79e735caed8e5b901fe7572938a5ff3.jpg",
+      "summary": "Building the future of construction at Bild AI. After 7 years in the trenches of an industry plagued by inefficiency, I'm leveraging technology to break through the bottlenecks that have historically slowed us down. While construction timelines keep extending, we're creating AI solutions that reverse this trend, bringing speed, precision, and innovation to an industry ready for transformation. Join me as we rebuild the way we build starting with Takeoffs! \n\nI've consistently transformed ideas into tangible ventures. My passion for building started early - launching my first business while still in elementary school and continuing to develop multiple successful initiatives since then."
+    },
+    "education": {
+      "schools": [
+        {
+          "activities_and_societies": "",
+          "degree": "",
+          "description": "",
+          "end_year": null,
+          "field_of_study": "",
+          "institute_logo_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/company/059f7e6072baf1189ebb67b9fec287348cc541df9931bf3d36c06f9bb5019e96.jpg",
+          "institute_logo_url": "https://media.licdn.com/dms/image/v2/C4D0BAQGPzdBPNxrmEg/company-logo_400_400/company-logo_400_400/0/1673555093250/y_combinator_logo?e=1788393600&v=beta&t=YtvXSppzaN1Mzecr3fAAg_uCY1jNEogFCktsioLpB7U",
+          "location": {
+            "city": "",
+            "continent": "North America",
+            "country": "United States",
+            "raw": "United States",
+            "state": ""
+          },
+          "professional_network_id": "167872",
+          "school": "Y Combinator",
+          "start_year": null
+        }
+      ]
+    },
+    "experience": {
+      "employment_details": {
+        "current": [
+          {
+            "company_description": "Bild AI automates Division 8 estimating \u2014 doors, frames, and hardware \u2014 end to end. Bild AI reads blueprints and specs, generates opening (door) schedules automatically, prices the bid, and exports it directly into the ERPs Division 8 shops already run on, including Comsense, Avaware, and ProTech.Division 8 estimating is the brutal trifecta of nitty-gritty details, where typos cost hundreds of thousands, and timelines are tight. Thousands of pages of specs, hardware sets cross-referenced by hand, and a single missed opening that can sink a bid's margin. Bild AI collapses days of takeoff into hours, and clients have bid 50% more with smaller estimating teams.Backed by Khosla Ventures (YC W25).",
+            "company_professional_network_profile_url": "https://linkedin.com/company/105593757",
+            "company_profile_picture_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/company/c8e5617cec4d5dd6a7814bbffc0c8dfe01131963c1909712553e0d58086bea3e.jpg",
+            "company_website_domain": "bild.ai",
+            "crustdata_company_id": 4186122,
+            "description": "Bild AI reads construction blueprints and extracts material and cost data for builders/suppliers. Backed by the same investors as Plangrid, Dropbox, & Airbnb",
+            "employment_type": "Self-employed",
+            "end_date": null,
+            "function_category": "",
+            "is_default": true,
+            "location": {
+              "raw": "San Francisco Bay Area"
+            },
+            "name": "Bild AI",
+            "position_id": 2523960593,
+            "professional_network_id": "105593757",
+            "seniority_level": "Owner / Partner",
+            "start_date": "2024-12-01T00:00:00+00:00",
+            "title": "Co-Founder",
+            "years_at_company": "1 to 2 years",
+            "years_at_company_raw": 1.0
+          }
+        ],
+        "past": [
+          {
+            "company_description": "",
+            "company_professional_network_profile_url": null,
+            "company_profile_picture_permalink": "",
+            "company_website_domain": null,
+            "crustdata_company_id": null,
+            "description": "Built a Prefab Yard + Truss company from scratch over 7 years supplying components for 400+ homes. Our on-the-shelf products were available at nationwide retailers such as Rona + Other lumber yards.",
+            "employment_type": "Full-time",
+            "end_date": "2024-10-01T00:00:00+00:00",
+            "function_category": "",
+            "is_default": false,
+            "location": {
+              "raw": "Vancouver, British Columbia, Canada"
+            },
+            "name": "CubeX Structures",
+            "position_id": 1698614702,
+            "professional_network_id": "",
+            "seniority_level": "Owner / Partner",
+            "start_date": "2018-10-01T00:00:00+00:00",
+            "title": "Founder - Exited",
+            "years_at_company": "6 to 10 years",
+            "years_at_company_raw": 6.0
+          },
+          {
+            "company_description": "Welcome to Grafcor. For over 3 years our team has brought a boost to brands around the globe. We are extremely passionate about what we do and pride ourselves in always putting the client first. From our initial meeting to the finish line, our team will keep you in the loop as your creative strategy unfolds. We are not your typical team, we have an extreme passion for creation. Grafcor is an award-winning Abbotsford web design and development company. We employ a team of highly trained and amazing web developers. Our main goal is to help our clients achieve the amazing visions they have for their brand & business with their online presence. We provide creative web design ideas that generate amazing results. We look forward to the opportunity to work with you!",
+            "company_professional_network_profile_url": "https://linkedin.com/company/68617214",
+            "company_profile_picture_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/company/670570b628303a9810b5ef74a060497d992b4ab493b80e7d881d2677edcace9e.jpg",
+            "company_website_domain": "grafcor.ca",
+            "crustdata_company_id": 6246330,
+            "description": "Vehicle Wraps, Graphic Design, Website Design, SEO.",
+            "employment_type": "",
+            "end_date": "2018-01-01T00:00:00+00:00",
+            "function_category": "",
+            "is_default": false,
+            "location": {
+              "raw": ""
+            },
+            "name": "Grafcor Web Design & SEO",
+            "position_id": 1571122584,
+            "professional_network_id": "68617214",
+            "seniority_level": "Owner / Partner",
+            "start_date": "2015-09-01T00:00:00+00:00",
+            "title": "Founder - Exited",
+            "years_at_company": "3 to 5 years",
+            "years_at_company_raw": 2.0
+          }
+        ]
+      }
+    },
+    "professional_network": {
+      "connections": 2229,
+      "current_title": "Co-Founder",
+      "followers": 4084,
+      "headline": "Founder @ Bild AI - AI for Blueprint Understanding.",
+      "location": {
+        "city": "San Francisco",
+        "continent": "North America",
+        "country": "United States",
+        "raw": "San Francisco, California, United States",
+        "state": "California"
+      },
+      "metadata": {
+        "last_scraped_source": null
+      },
+      "name": "Puneet Sukhija",
+      "profile_picture_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/person/b3ebddb855431f6191d3b29b67774cf6d79e735caed8e5b901fe7572938a5ff3.jpg",
+      "pronoun": "",
+      "summary": "Building the future of construction at Bild AI. After 7 years in the trenches of an industry plagued by inefficiency, I'm leveraging technology to break through the bottlenecks that have historically slowed us down. While construction timelines keep extending, we're creating AI solutions that reverse this trend, bringing speed, precision, and innovation to an industry ready for transformation. Join me as we rebuild the way we build starting with Takeoffs! \n\nI've consistently transformed ideas into tangible ventures. My passion for building started early - launching my first business while still in elementary school and continuing to develop multiple successful initiatives since then."
+    },
+    "skills": {
+      "professional_network_skills": [
+        "Wall Panels",
+        "Construction Estimating",
+        "Artificial Intelligence (AI)",
+        "Large Language Models (LLM)",
+        "Software Development",
+        "Roof trusses",
+        "Engineered Wood Products",
+        "Prefabricated homes",
+        "Modular Construction",
+        "Marketing",
+        "Advertising",
+        "Construction Management"
+      ]
+    },
+    "social_handles": {
+      "dev_platform_identifier": {
+        "profile_url": null
+      },
+      "professional_network_identifier": {
+        "profile_url": "https://www.linkedin.com/in/puneet-bild"
+      },
+      "twitter_identifier": {
+        "slug": ""
+      }
+    },
+    "crustdata_person_id": 172813776
+  }
+}

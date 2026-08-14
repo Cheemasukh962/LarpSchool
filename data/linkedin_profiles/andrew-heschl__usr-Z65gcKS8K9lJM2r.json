@@ -1,0 +1,213 @@
+{
+  "luma_user_id": "usr-Z65gcKS8K9lJM2r",
+  "csv_name": "Andrew",
+  "csv_linkedin": "https://www.linkedin.com/in/andrew-heschl",
+  "enriched_at": "2026-08-12T18:56:33.265700+00:00",
+  "batch_id": "sd_msqg8yml2ia5na9bcp",
+  "profile": {
+    "id": "andrew-heschl",
+    "name": "Andrew Heschl",
+    "city": "Canada",
+    "country_code": "CA",
+    "position": null,
+    "about": "Researcher in Computer Vision, and Software Engineer working on ML\u2026",
+    "current_company": {
+      "link": "https://www.linkedin.com/company/meter-com?trk=public_profile_topcard-current-company",
+      "name": "Meter",
+      "company_id": "meter-com",
+      "location": null
+    },
+    "experience": null,
+    "url": "https://in.linkedin.com/in/andrew-heschl",
+    "educations_details": "University of Calgary",
+    "education": [
+      {
+        "title": "University of Calgary",
+        "url": "https://ca.linkedin.com/school/ucalgary/",
+        "start_year": "2022-09",
+        "end_year": "2027-04",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      }
+    ],
+    "avatar": "https://media.licdn.com/dms/image/v2/D5603AQGl9ctdxlcCBQ/profile-displayphoto-scale_200_200/B56Z7XnC4cGoAc-/0/1781733798974?e=2147483647&v=beta&t=0rI3ed96xssLg4k-EEZ6_aqjqfEC5PlzuoraJOX-qOY",
+    "followers": 634,
+    "connections": 500,
+    "current_company_company_id": "meter-com",
+    "current_company_name": "Meter",
+    "publications": [
+      {
+        "title": "Echocardiographic view classification using ECG-assisted multiphase image sampling",
+        "date": "April 21, 2025"
+      },
+      {
+        "title": "Automatic segmentation of Organs at Risk in Head and Neck cancer patients from CT and MRI scans",
+        "date": "March 23, 2024"
+      },
+      {
+        "title": "Deep Learning-Based Hierarchical Delineation of Kidneys, Tumors, and Cysts in CT Images",
+        "subtitle": "Springer",
+        "date": "March 11, 2024"
+      },
+      {
+        "title": "SynthSet: Generative Diffusion Model for Semantic Segmentation in Precision Agriculture",
+        "subtitle": "Springer"
+      }
+    ],
+    "projects": [
+      {
+        "title": "rtensors",
+        "start_date": "Nov 2025",
+        "description": "Tensor primitives and Autograd system, with CUDA and Remote backends."
+      },
+      {
+        "title": "pillar",
+        "start_date": "Apr 2025",
+        "description": "Distributed system/blockchain with dynamic trust based consensus to reduce redundant work."
+      },
+      {
+        "title": "ClasSeg deep learning experimentation framework",
+        "start_date": "May 2023",
+        "description": "Flexible pipeline for deep learning vision research, with out of the box support for training segmentation and classification models. Experiment tracking with WandB, or tensorboard. Also supports quick model architecture experiments through interpreting architectures from JSON."
+      }
+    ],
+    "location": null,
+    "input_url": "https://www.linkedin.com/in/andrew-heschl",
+    "linkedin_id": "andrew-heschl",
+    "activity": [
+      {
+        "interaction": "Liked by Andrew Heschl",
+        "link": "https://www.linkedin.com/posts/aylli-saulnier-5807bb241_what-if-i-told-you-eight-weeks-could-completely-activity-7491577566911258624-7Oqd",
+        "title": "What if I told you eight weeks could completely change the trajectory of your life? 8 weeks ago, I joined Cansbridge Scholars thinking it was just\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQGQm4ygjnWfcw/feedshare-shrink_800/B56Z_duGCbG0Ac-/0/1786131276796?e=2147483647&v=beta&t=zPylTZMF8MviTvxS0ztJ9mPENO_f5lQuv47j3LJfPQA",
+        "id": "7491577566911258624"
+      },
+      {
+        "interaction": "Liked by Andrew Heschl",
+        "link": "https://www.linkedin.com/posts/alejandro-diaz-9432412b2_im-building-a-map-of-80-startups-in-calgarys-activity-7490077517651898368-85OU",
+        "title": "I'm building a map of 80+ startups in Calgary's tech scene. Here's why. A while back, I posted a map of Calgary's tech ecosystem. It ended up\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQHh-MAt_u4IFg/feedshare-image-high-res/B4EZ_IZzX4HoAU-/0/1785773637642?e=2147483647&v=beta&t=9ksVwkff45X1wi5yv-JvXVZpoV5T1AaPPhzD_RZE8Gw",
+        "id": "80"
+      },
+      {
+        "interaction": "Liked by Andrew Heschl",
+        "link": "https://www.linkedin.com/posts/conradyu_apparently-the-term-high-agency-is-now-activity-7490474768245084160-e1sH",
+        "title": "Apparently the term \u201chigh agency\u201d is now seen as performative or overdone in some circles\u2026 Whatever. People like to get hung up on semantics, but\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5605AQHFGAzL8u3sEg/videocover-high/B56Z_ODEOVG4BQ-/0/1785868340412?e=2147483647&v=beta&t=2hggxT6VRRIYIX69lzlH5abYC8EFLIa31hqrFPIveVM",
+        "id": "7490474768245084160"
+      },
+      {
+        "interaction": "Liked by Andrew Heschl",
+        "link": "https://www.linkedin.com/posts/lodaria_no-matter-the-discipline-we-want-to-give-activity-7490164725956308993-isFE",
+        "title": "No matter the discipline, we want to give engineering students the support they should have as they prepare for their careers.",
+        "img": "https://media.licdn.com/dms/image/v2/D5610AQEc0o0w2WovGg/image-shrink_1280/B56Z_JpDa1JcAc-/0/1785794410868?e=2147483647&v=beta&t=AYSierA_UwJl_Ryz3fZxKY_gWj6kFn5yIj4bbCNehRE",
+        "id": "7490164725956308993"
+      },
+      {
+        "interaction": "Liked by Andrew Heschl",
+        "link": "https://www.linkedin.com/posts/greypoint-industries_greypoint-industries-yc-s26-builds-drone-activity-7488730839556694019-a4kR",
+        "title": "Greypoint Industries (YC S26) builds drone swarms that find enemy drone operators on the battlefield. Over 70% of casualties in Ukraine come from\u2026",
+        "img": "https://dms.licdn.com/playlist/vid/v2/D5605AQH7Fc-ilOjDFQ/thumbnail-shrink_720_1280/B56Z.1Q7u0KEAk-/0/1785452545965?e=2147483647&v=beta&t=WZgXCdyFid8QZp6iTuPqHegObdcVtiaDo_RNwWuhS3o",
+        "id": "7488730839556694019"
+      },
+      {
+        "interaction": "Liked by Andrew Heschl",
+        "link": "https://www.linkedin.com/posts/y-combinator_greypoint-industries-yc-s26-builds-drone-activity-7488731406282551296-5vbY",
+        "title": "Greypoint Industries (YC S26) builds drone swarms that find enemy drone operators on the battlefield. Over 70% of casualties in Ukraine come from\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5605AQF_EvwzwN390g/videocover-high/B56Z.08HneJoBQ-/0/1785447092316?e=2147483647&v=beta&t=nJtxmeW3WkKEJ9euk9sUFJsF3W8WHEkhTpVG_h0ZQZM",
+        "id": "7488731406282551296"
+      },
+      {
+        "interaction": "Liked by Andrew Heschl",
+        "link": "https://www.linkedin.com/posts/cansbridgescholars_welcome-to-the-cansbridge-scholars-community-activity-7488635191683584002-KnHe",
+        "title": "WELCOME TO THE CANSBRIDGE SCHOLARS COMMUNITY, ARTEMIS COHORT! What an incredible group of moonshotters, each on their own journey. We had such a\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQFJTxUk18RX1A/feedshare-shrink_800/B56Z.woyquK0Ac-/0/1785374911406?e=2147483647&v=beta&t=bDfIAziS6_vBtEJqTvqqZZhwmn12kSm-ZGVp0RMMKtc",
+        "id": "7488635191683584002"
+      },
+      {
+        "interaction": "Liked by Andrew Heschl",
+        "link": "https://www.linkedin.com/posts/pallagarwal_the-harsh-truth-the-people-ahead-of-you-activity-7487507145404391424-gMRl",
+        "title": "The harsh truth: the people ahead of you aren't running on some secret playbook. They're doing the basic stuff you keep postponing. I was attending\u2026",
+        "img": "https://dms.licdn.com/playlist/vid/v2/D5605AQFOM4ebMMhqKg/thumbnail-shrink_720_1280/B56Z9xuONEG0Ag-/0/1784319372486?e=2147483647&v=beta&t=S1WZ3PZ18Bcq-8CdeHehy5Jmu-EO2Up0y64huHjywkc",
+        "id": "7487507145404391424"
+      },
+      {
+        "interaction": "Liked by Andrew Heschl",
+        "link": "https://www.linkedin.com/posts/national-ai-summit_nationalaisummit-artificialintelligence-activity-7487614410174341120-xskC",
+        "title": "The future belongs to those who are prepared to shape it. Are you ready? Join leaders, educators, researchers, innovators, businesses, and\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5605AQE_49PVA7WeGg/videocover-high/B56Z.lZmkBKIBM-/0/1785186382329?e=2147483647&v=beta&t=LclCE7Ko1lelPwbzitVKySOnVO1JH_QPp6kTfxHXxJw",
+        "id": "7487614410174341120"
+      },
+      {
+        "interaction": "Liked by Andrew Heschl",
+        "link": "https://www.linkedin.com/posts/farnaz-sheikhi_nationalaisummit-artificialintelligence-activity-7487624982341013504-rFLA",
+        "title": "If you had the opportunity to shape the future of AI, what would you prioritize? Proud to be part of the team behind the National AI Summit\u2026",
+        "img": "https://static.licdn.com/aero-v1/sc/h/53n89ecoxpr1qrki1do3alazb",
+        "id": "7487624982341013504"
+      },
+      {
+        "interaction": "Liked by Andrew Heschl",
+        "link": "https://www.linkedin.com/posts/enactus-dalhousie-university_enactus-enactuscanada-dalhousieuniversity-activity-7485768202787160065-0DuK",
+        "title": "Enactus Dalhousie is thrilled to announce the first two members of our leadership team for the 2026-27 year! Please join us in congratulating our\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQGCQ6q8bhukAw/feedshare-image-high-res/B56Z.LKg5rHUAU-/0/1784746217342?e=2147483647&v=beta&t=60dp9V8Rl2d34TpSbpC0zhd2XxNW0NdhqkFsfKTY8bY",
+        "id": "7485768202787160065"
+      },
+      {
+        "interaction": "Liked by Andrew Heschl",
+        "link": "https://www.linkedin.com/posts/lauren-l-carson_soroptimist-international-toronto-is-accepting-activity-7485450077621133314-GUXH",
+        "title": "Soroptimist International Toronto is accepting volunteer applications! Soroptimist International is a global volunteer organization that provides\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQHlpCr8av4k_Q/feedshare-image-high-res/B56Z.GpLX8IUAU-/0/1784670369600?e=2147483647&v=beta&t=1LS8nDrLM9XGmBE4sCEDbZxP9ur4A1zkgSpAh4aAGzI",
+        "id": "7485450077621133314"
+      },
+      {
+        "interaction": "Liked by Andrew Heschl",
+        "link": "https://www.linkedin.com/posts/aylli-saulnier-5807bb241_im-incredibly-excited-to-share-that-ive-activity-7485175337081810944-CtCz",
+        "title": "I\u2019m incredibly excited to share that I\u2019ve officially stepped into the role of Co-President of Enactus Dalhousie! \ud83d\udc2f\ud83e\udde1\ud83d\udc9b When I first joined Enactus,\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQENQXMS7DMR_Q/feedshare-image-high-res/B56Z.CvTMvG4AY-/0/1784604866563?e=2147483647&v=beta&t=8yDay-Fu25eBhpudf3hNjbT_TzLCS6M0yeIHD_hOBFg",
+        "id": "7485175337081810944"
+      },
+      {
+        "interaction": "Liked by Andrew Heschl",
+        "link": "https://www.linkedin.com/posts/pallagarwal_a-lot-of-people-still-laugh-when-i-mention-activity-7484970435046973440-viNx",
+        "title": "A lot of people still laugh when I mention \"personal branding.\" I get it. It sounds like something influencers made up to sell courses. But I've\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQGHbn305DZMSg/feedshare-image-high-res/B56Z9w5nexIoAU-/0/1784305580809?e=2147483647&v=beta&t=asugMwyl7PZoLkVhUQUSNY7ToO-WNT1zDyXqSMIKV0k",
+        "id": "7484970435046973440"
+      },
+      {
+        "interaction": "Liked by Andrew Heschl",
+        "link": "https://www.linkedin.com/posts/tanjinsultana_1-month-accountability-check-ive-been-activity-7483569988432224257-ZkOD",
+        "title": "1 month accountability check!! I've been posting 1-3 videos every week for the past month and here are my key takeaways: - setting up a non\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQGKciLdUn8IWA/feedshare-shrink_800/B56Z9r7PREKUAk-/0/1784222119319?e=2147483647&v=beta&t=TJ0GsTXTMSuaQNmm1B9GGgcK7dfhrmm7Hi-ObjbfBqg",
+        "id": "7483569988432224257"
+      },
+      {
+        "interaction": "Liked by Andrew Heschl",
+        "link": "https://www.linkedin.com/posts/carlaaacarvajal_i-needed-700-to-fly-home-i-couldnt-ask-activity-7483943644601741312-6nhM",
+        "title": "i needed $700 to fly home. I couldn't ask my parents. so I figured it out, and that moment became Spotlight. last Tuesday I demoed Spotlight at\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQG6fmHHgXsZAg/feedshare-shrink_800/B56Z9d2LFBIoAc-/0/1783985910708?e=2147483647&v=beta&t=aozYpAeQa2Q6JWw12DalnZCuxbDBliqgXoYofNYj3Q8",
+        "id": "700"
+      }
+    ],
+    "linkedin_num_id": "1085616238",
+    "banner_image": "https://static.licdn.com/aero-v1/sc/h/5q92mjc5c51bjlwaj3rs9aa82",
+    "honors_and_awards": null,
+    "similar_profiles": [],
+    "default_avatar": false,
+    "memorialized_account": false,
+    "bio_links": [
+      {
+        "title": "Personal Website",
+        "link": "https://andrewheschl.ca/"
+      }
+    ],
+    "first_name": "Andrew",
+    "last_name": "Heschl",
+    "influencer": false,
+    "timestamp": "2026-08-12T18:55:38.084Z",
+    "input": {
+      "url": "https://www.linkedin.com/in/andrew-heschl"
+    }
+  },
+  "local_photo": "data\\linkedin_photos\\andrew-heschl__usr-Z65gcKS8K9lJM2r.jpg"
+}

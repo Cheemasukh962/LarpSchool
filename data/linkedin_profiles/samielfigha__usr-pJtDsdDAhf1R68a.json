@@ -1,0 +1,181 @@
+{
+  "luma_user_id": "usr-pJtDsdDAhf1R68a",
+  "csv_name": "Sami El-Figha",
+  "csv_linkedin": "https://www.linkedin.com/in/samielfigha",
+  "enriched_at": "2026-08-12T19:16:49.712373+00:00",
+  "batch_id": "sd_msqgxyk1xj7v4ip1",
+  "profile": {
+    "id": "samielfigha",
+    "name": "Sami El-Figha",
+    "city": "Waterloo, Ontario, Canada",
+    "country_code": "CA",
+    "position": null,
+    "about": null,
+    "current_company": {
+      "link": "https://www.linkedin.com/company/gutgutgoose?trk=public_profile_topcard-current-company",
+      "name": "GutGutGoose (YC S26)",
+      "company_id": "gutgutgoose",
+      "location": null
+    },
+    "experience": null,
+    "url": "https://no.linkedin.com/in/samielfigha",
+    "educations_details": "University of Waterloo",
+    "education": null,
+    "recommendations_count": 1,
+    "avatar": "https://static.licdn.com/aero-v1/sc/h/9c8pery4andzj6ohjkjp54ma2",
+    "languages": [
+      {
+        "subtitle": "Full professional proficiency",
+        "title": "English"
+      },
+      {
+        "subtitle": "Native or bilingual proficiency",
+        "title": "French"
+      }
+    ],
+    "recommendations": [
+      "Jeremy Lam \u201cSami is one of the strongest interns I\u2019ve had the chance to work with. He stands out for his technical curiosity, work ethic, and ability to take ownership quickly. He has demonstrated a strong range of skills across backend development, frontend development, deploying AI features, and setting up workflows, while consistently learning new tools and technologies at an impressive pace. Sami reliably meets deadlines, sets realistic goals, follows through with focus and maturity, and regularly introduces new ideas that help move the team forward. He is also highly coachable, communicates clearly, takes feedback well, and can be trusted to contribute in a fast-moving environment with minimal hand-holding. What makes Sami exceptional is his initiative, adaptability, and genuine interest in building real-world systems that create value. I have no doubt he will excel in technical roles across software, hardware, and deep tech. Any team would be lucky to have him. I highly recommend Sami.\u201d"
+    ],
+    "volunteer_experience": [
+      {
+        "duration": "Jan 2026 \u00b7 - \nJan 2026 \u00b7 \n1 month",
+        "duration_short": "- \nJan 2026",
+        "info": "Ace The Case",
+        "start_date": "Jan 2026",
+        "subtitle": "KPMG",
+        "title": "Business Analyst"
+      },
+      {
+        "duration": "Apr 2026 \u00b7 - \nApr 2026 \u00b7 \n1 month",
+        "duration_short": "- \nApr 2026",
+        "start_date": "Apr 2026",
+        "subtitle": "Cybereco",
+        "title": "Student Volunteer"
+      }
+    ],
+    "followers": 1507,
+    "connections": 500,
+    "current_company_company_id": "gutgutgoose",
+    "current_company_name": "GutGutGoose (YC S26)",
+    "projects": [
+      {
+        "title": "Portfolio"
+      }
+    ],
+    "location": "Waterloo",
+    "input_url": "https://www.linkedin.com/in/samielfigha",
+    "linkedin_id": "samielfigha",
+    "activity": [
+      {
+        "interaction": "Liked by Sami El-Figha",
+        "link": "https://www.linkedin.com/posts/waterloo-dev_waterloodev-hackathon-spacetech-activity-7490785925065777152-JRbC",
+        "title": "\ud83d\udef0\ufe0f Hackathon Project Spotlight: Janus \u2014 Sensor Arbiter What happens when a spacecraft\u2019s sensors disagree and Earth is too far away to help? Janus\u2026",
+        "img": "https://dms.licdn.com/playlist/vid/v2/D5605AQHJiwKOaFgSRg/thumbnail-shrink_720_1280/B56Z_SeEH4J0Ag-/0/1785942526001?e=2147483647&v=beta&t=IPfDz6E1E_EXF7RxqTkFWwuSKl8dQlTURNnuZpL1Afs",
+        "id": "7490785925065777152"
+      },
+      {
+        "interaction": "Liked by Sami El-Figha",
+        "link": "https://www.linkedin.com/posts/shiva-priyan-shanmuga-sundaram-18359b337_buildwithgemma-gemma-googleai-activity-7490119603507982336-3BLe",
+        "title": "Excited to share that our team placed \ud83e\udd49 3rd at the Google Build with Gemma: Triage in Light Speed Hackathon! Over the course of a single day, my\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQFzwdjOXbVrHg/feedshare-shrink_800/B56Z_JAFX_LAAc-/0/1785783670781?e=2147483647&v=beta&t=O4qd6qx2rOQX0ftEquDuzCaJ4xermuU6F1pdpbHBBZk",
+        "id": "7490119603507982336"
+      },
+      {
+        "interaction": "Liked by Sami El-Figha",
+        "link": "https://www.linkedin.com/posts/blazepayments_introducing-blaze-agentic-finance-for-business-activity-7489120724968955905-IZie",
+        "title": "Introducing Blaze Agentic Finance for Business. It's tough for scrappy teams to justify $10K a month on a finance person just to keep money\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5605AQGyqnVLSWXa6w/videocover-high/B56Z.6zkVXLABQ-/0/1785545510410?e=2147483647&v=beta&t=gaEtCkWkxwGYtPCBsbuqkZ81nxa6i93qyOMg4EpK830",
+        "id": "7489120724968955905"
+      },
+      {
+        "interaction": "Liked by Sami El-Figha",
+        "link": "https://www.linkedin.com/posts/phydataai_physicalai-aidata-realworlddata-activity-7489060965968277504-OYbf",
+        "title": "Every AI wave was bottlenecked by data, then unlocked by tooling. CV had ImageNet, then Roboflow. LLMs had the internet, then RLHF. Physical AI has\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQGiCH8szRaGnA/feedshare-image-high-res/B56Z.59Q1RGgAY-/0/1785531272803?e=2147483647&v=beta&t=ZZGCQdDXpr8GROzpr5ng4LssmFulukO_ZeijerES7Ew",
+        "id": "7489060965968277504"
+      },
+      {
+        "interaction": "Liked by Sami El-Figha",
+        "link": "https://www.linkedin.com/posts/ausgoveducation_meet-the-university-students-who-are-changing-activity-7488473463855431681-x8oH",
+        "title": "Meet the university students who are changing the game. Alongside completing their studies at the Inala University Study Hub, IT student Anis and\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5610AQFfRKmPr6Tc8w/image-shrink_1280/B56Z.uIBAPKMAc-/0/1785332765365?e=2147483647&v=beta&t=AJ4GbaWFOSDmjgOKkQFRxbo3L63rd1vami_l9txW3Lk",
+        "id": "7488473463855431681"
+      },
+      {
+        "interaction": "Liked by Sami El-Figha",
+        "link": "https://www.linkedin.com/posts/y-combinator_gutgutgoose-yc-s26-makes-personalized-probiotics-activity-7488624431884500992-iII-",
+        "title": "GutGutGoose (YC S26) makes personalized probiotics that engineer the human microbiome. Personalization is the future of healthcare, yet the entire\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5605AQFBWwFfjijbYw/videocover-high/B56Z.zwEpzKIBM-/0/1785427177292?e=2147483647&v=beta&t=TORAumlc0jEQoQ2XESFBCmvTKuh5wECwVYB_JE6zqiI",
+        "id": "7488624431884500992"
+      },
+      {
+        "interaction": "Liked by Sami El-Figha",
+        "link": "https://www.linkedin.com/posts/gutgutgoose_huge-news-today-we-officially-launch-its-activity-7488627550747770880-4A_I",
+        "title": "Huge news, today we officially LAUNCH! It's been an incredible journey, interacting with the post will allow us to reach all corners of the internet\u2026",
+        "img": "https://static.licdn.com/aero-v1/sc/h/53n89ecoxpr1qrki1do3alazb",
+        "id": "7488627550747770880"
+      },
+      {
+        "interaction": "Liked by Sami El-Figha",
+        "link": "https://www.linkedin.com/posts/gutgutgoose_she-runs-she-lifts-she-fights-but-the-activity-7488282769266155521-h-ie",
+        "title": "She runs. She lifts. She fights. But the most important battle is happening where no one can see it. A new way to help you understand what\u2019s really\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQEAmMrscRx6uA/feedshare-shrink_800/B56Z.u5fURKEAc-/0/1785345734378?e=2147483647&v=beta&t=ptk40IvHarXITimAby6qDjPPAlleJp66W5wnT8Viyjk",
+        "id": "7488282769266155521"
+      },
+      {
+        "interaction": "Liked by Sami El-Figha",
+        "link": "https://www.linkedin.com/posts/gutgutgoose_get-yourself-a-co-founder-that-looks-at-you-activity-7482534711513329664-0sAe",
+        "title": "Get yourself a co-founder that looks at you like this\u2026 and understands the problem with the probiotics industry. One key. Hundreds of doors. No\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQED5nCx5agkSg/feedshare-shrink_800/B56Z9dNq61IgAg-/0/1783975292828?e=2147483647&v=beta&t=3BL4NfGJRR5gvRmiTi6R_vc9T0SU4V9BjDDaEAIn88c",
+        "id": "7482534711513329664"
+      },
+      {
+        "interaction": "Liked by Sami El-Figha",
+        "link": "https://www.linkedin.com/posts/leon-moj_this-is-our-office-door-one-day-we-hope-activity-7481113715111616513-XHwF",
+        "title": "This is our office door. One day we hope to use the longitudal data we collect from poop samples to predict Alzheimer\u2019s and dementia. For now we\u2019re\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQEL3YWrzTnw7Q/feedshare-image-high-res/B56Z9JBRXaH4AU-/0/1783636501104?e=2147483647&v=beta&t=P8Rp0FA53NV13Pr3NwYiIvsxQg9wjRiMEOT_Bh5PFSQ",
+        "id": "7481113715111616513"
+      },
+      {
+        "interaction": "Liked by Sami El-Figha",
+        "link": "https://www.linkedin.com/posts/gutgutgoose_ycs-motto-is-make-something-people-want-activity-7478542374156140544-f9EN",
+        "title": "YC\u2019s motto is \u201cMake Something People Want\u201d And that\u2019s exactly what GutGutGoose (YC S26) is doing. We just won the Y Combinator product showcase\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQEFvHb1lYctVg/feedshare-shrink_800/B56Z8keqKWG0Ac-/0/1783023445078?e=2147483647&v=beta&t=1z5FOMlYwg-suuLsHXXxDgFTP0MrVrw8ChHiSSyeVNA",
+        "id": "7478542374156140544"
+      },
+      {
+        "interaction": "Liked by Sami El-Figha",
+        "link": "https://www.linkedin.com/posts/nicholaskim17_excited-to-share-that-ive-joined-appli-ai-activity-7468693844449099776-b2sS",
+        "title": "Excited to share that I\u2019ve joined Appli AI as a Software Engineering Intern this summer. \ud83d\ude80 Appli AI is building an AI-native hiring platform for\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQHcNJR5VmdUyQ/feedshare-shrink_800/B4EZ6YhebBKAAo-/0/1780675372979?e=2147483647&v=beta&t=FuMUedfemwjw5LTn2kPe9AiPCClpxCDeMNm4GlSpiGE",
+        "id": "7468693844449099776"
+      },
+      {
+        "interaction": "Liked by Sami El-Figha",
+        "link": "https://www.linkedin.com/posts/techcareers-softwareengineering-mentorship-activity-7467077478180888577-LSxO",
+        "title": "I get it. The job market is tough, and speed is everything. But if your opening line to a referral request looks like this... I'm probably not going\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQEcPOANQwQdEQ/feedshare-shrink_800/B56Z5JBrnYIoAc-/0/1779341638298?e=2147483647&v=beta&t=2QXrQqNJQRSPqyDCCkQzrKYGUdaNOXSxz7JR_t03StI",
+        "id": "7467077478180888577"
+      }
+    ],
+    "linkedin_num_id": "1332030613",
+    "banner_image": "https://media.licdn.com/dms/image/v2/D4E16AQFhyaFMtRB23w/profile-displaybackgroundimage-shrink_200_800/B4EZ5eI4mcHEAQ-/0/1779695848297?e=2147483647&v=beta&t=c5kSmEzKZC0jQ-3_NzKDni8XYx8emRqZLRBVt-5s5QU",
+    "honors_and_awards": null,
+    "similar_profiles": [],
+    "default_avatar": true,
+    "memorialized_account": false,
+    "bio_links": [
+      {
+        "title": "Portfolio",
+        "link": "https://smxfreeze.github.io/"
+      }
+    ],
+    "first_name": "Sami",
+    "last_name": "El Figha",
+    "influencer": false,
+    "timestamp": "2026-08-12T19:15:00.705Z",
+    "input": {
+      "url": "https://www.linkedin.com/in/samielfigha"
+    }
+  }
+}

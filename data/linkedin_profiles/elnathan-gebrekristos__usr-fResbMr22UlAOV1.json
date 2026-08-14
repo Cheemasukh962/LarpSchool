@@ -1,0 +1,199 @@
+{
+  "luma_user_id": "usr-fResbMr22UlAOV1",
+  "csv_name": "Elnathan Gebrekristos",
+  "csv_linkedin": "https://www.linkedin.com/in/elnathan-gebrekristos",
+  "enriched_at": "2026-08-12T19:26:51.916303+00:00",
+  "batch_id": "sd_msqhb4pfm4l4la4zs",
+  "profile": {
+    "id": "elnathan-gebrekristos",
+    "name": "Elnathan Gebrekristos",
+    "city": "Oakland, California, United States",
+    "country_code": "US",
+    "position": null,
+    "about": "I\u2019m a Computer Science student at UC Berkeley passionate about building technology that\u2026",
+    "current_company": {
+      "link": "https://www.linkedin.com/company/pacificgasandelectric?trk=public_profile_topcard-current-company",
+      "name": "Pacific Gas and Electric Company",
+      "company_id": "pacificgasandelectric",
+      "location": null
+    },
+    "experience": null,
+    "url": "https://cz.linkedin.com/in/Elnathan-gebrekristos",
+    "educations_details": "UC Berkeley College of Computing, Data Science, and Society",
+    "education": [
+      {
+        "title": "UC Berkeley College of Computing, Data Science, and Society",
+        "url": "https://www.linkedin.com/school/computingdatasciencesociety/",
+        "start_year": "2024-08",
+        "end_year": "2028-05",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      },
+      {
+        "start_year": "2024-08",
+        "end_year": "2028-05",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      },
+      {
+        "start_year": "2022-07",
+        "end_year": "2022-08",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      },
+      {
+        "start_year": "2021-09",
+        "end_year": "2022-07",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      }
+    ],
+    "avatar": "https://media.licdn.com/dms/image/v2/D5603AQHu-sfWCL4dYQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1712037208748?e=2147483647&v=beta&t=tDcvvMHogavk9aXiIhiFQTlWqLOEUUvV82qussF8RaI",
+    "followers": 644,
+    "connections": 500,
+    "current_company_company_id": "pacificgasandelectric",
+    "current_company_name": "Pacific Gas and Electric Company",
+    "projects": [
+      {
+        "title": "Smart Study Planner Web",
+        "start_date": "Jan 2025",
+        "description": "Developed a full-stack study planner web application designed to help students organize assignments, manage deadlines, and improve study productivity. Built interactive dashboards and task management features that allow users to prioritize coursework and track academic progress.Designed the application using modern web technologies including React and Next.js, with dynamic user interfaces and local storage integration for personalized scheduling. Currently expanding the platform with AI-assisted study recommendations, task prioritization, note-taking features, and built-in study session tracking tools."
+      },
+      {
+        "title": "WordNet Semantic Network",
+        "start_date": "Jan 2025",
+        "description": "Implemented a semantic word network in Java using graph-based data structures to support hyponym and synonym queries across large datasets. Designed and optimized traversal algorithms and query handlers to efficiently process word relationships and improve search accuracy.Integrated multi-word query handling and shared-hyponym resolution features to ensure consistent and scalable query results. Strengthened experience with data structures, graph algorithms, object-oriented programming, and software testing through iterative debugging and performance optimization."
+      },
+      {
+        "title": "BYOW Procedural World Generator",
+        "description": "Developed a procedurally generated 2D game world in Java using seeded randomness to create deterministic and replayable gameplay environments. Implemented player movement, map rendering, and exploration mechanics while managing real-time world state updates and interactive gameplay systems.Designed modular world-generation and entity abstractions to support scalable architecture, maintainable code structure, and extensible gameplay features. Strengthened experience in object-oriented programming, game logic, algorithm design, and software architecture through iterative development and testing."
+      },
+      {
+        "title": "PG&E LSA Safety Inspection Automation Platform",
+        "description": "Developed and maintained an enterprise-level Power Apps inspection platform used by 100+ employees to manage and track 1,500+ AEDs and first aid kits across Northern and Central California. Designed the system to replace paper-based inspection workflows, improve operational visibility, and strengthen regulatory compliance processes.Built automated workflows using Microsoft Power Apps, Power Automate, and SharePoint to streamline inspection reporting, compliance tracking, and training management. Developed real-time dashboards that flagged expired or non-compliant safety equipment, enabling faster issue resolution and improving system-wide visibility into equipment readiness.Reduced inspection processing and reporting from days of manual paperwork and follow-ups to under 10 minutes through workflow automation and centralized reporting systems. Also optimized monthly inspections by reducing per-device inspection time to under 2 minutes while supporting large-scale safety readiness and operational efficiency improvements."
+      }
+    ],
+    "location": "Oakland",
+    "input_url": "https://www.linkedin.com/in/elnathan-gebrekristos",
+    "linkedin_id": "elnathan-gebrekristos",
+    "activity": [
+      {
+        "interaction": "Liked by Elnathan Gebrekristos",
+        "link": "https://www.linkedin.com/posts/joshua-chandiramani_thrilled-to-share-that-i-have-joined-the-activity-7487673210843570177-EuMS",
+        "title": "Thrilled to share that I have joined the Google Ads engineering team in Google Singapore! \ud83c\uddf8\ud83c\uddec Having transferred from the Google Ads headquarters\u2026",
+        "img": "https://static.licdn.com/aero-v1/sc/h/53n89ecoxpr1qrki1do3alazb",
+        "id": "7487673210843570177"
+      },
+      {
+        "interaction": "Liked by Elnathan Gebrekristos",
+        "link": "https://www.linkedin.com/posts/bonpatrick-estrella-a635b3349_healthcareadministration-patientsfirstpeoplealways-activity-7491724271728132097-cwbg",
+        "title": "Hospital leadership is ultimately about the people, not just operations! \ud83c\udfe5 A few days ago, I had the pleasure to shadow Scott Knight, CEO, and\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQFfiAa3jHsP4A/feedshare-shrink_800/B56Z_fzft3GUAc-/0/1786166250722?e=2147483647&v=beta&t=TTgUJNOc0JGJP8XfwYOGV-FwSGSKosT9trZVeRJtbqg",
+        "id": "7491724271728132097"
+      },
+      {
+        "interaction": "Liked by Elnathan Gebrekristos",
+        "link": "https://www.linkedin.com/posts/kirubel-seyfu-23664b381_usc-fighton-transferstudent-activity-7486263559291846656-GCxq",
+        "title": "A little late, but I am beyond blessed to announce that I will be transferring to the University of Southern California this coming fall! To be\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQGwT-i_dk_ehw/feedshare-shrink_800/B56Z.SNBW7IUAg-/0/1784864315365?e=2147483647&v=beta&t=EcT8dsdOEl1o7clSnGsM-xDQR_-aEDh53FzCCZpHkNg",
+        "id": "7486263559291846656"
+      },
+      {
+        "interaction": "Liked by Elnathan Gebrekristos",
+        "link": "https://www.linkedin.com/posts/berkeley-ieor_this-summer-undergraduate-ieor-students-activity-7481148186363953152-AaO8",
+        "title": "This summer, undergraduate IEOR students are using their skills to help solve real problems, support mission-driven work, and grow as future leaders\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4E10AQFzdq8gkzBobw/image-shrink_1280/B4EZ9Jgnz_JkAc-/0/1783644716702?e=2147483647&v=beta&t=7loyOPh6zj0wpAIKCjZGhF8tKNL3WyRwL0T8uwpOLQs",
+        "id": "7481148186363953152"
+      },
+      {
+        "interaction": "Liked by Elnathan Gebrekristos",
+        "link": "https://www.linkedin.com/posts/amazon_football-fever-at-our-blr-office-no-trophies-activity-7482766130424627200-Q5A7",
+        "title": "Football fever at our BLR office \u26bd No trophies on the line, just office glory. But the pitch itself is worth a mention: our North Bengaluru campus\u2026",
+        "img": "https://dms.licdn.com/playlist/vid/v2/D4E10AQE-qjgzNly4Lg/thumbnail-scale_720_1280/B4EZ9ggEg4IsAA-/0/1784030452133?e=2147483647&v=beta&t=w1dS_Kw2DTMFB1frpsHu4-Ws080B1xOZhGyOT66Lv9Y",
+        "id": "7482766130424627200"
+      },
+      {
+        "interaction": "Liked by Elnathan Gebrekristos",
+        "link": "https://www.linkedin.com/posts/hudsonmcgough_heading-to-sf-later-this-month-to-find-an-activity-7490791249088524289-p8Ll",
+        "title": "Heading to SF later this month to find an internship \ud83d\ude4f\ud83c\udffd. If you're going to be SF that weekend and want to chat, hit me up!",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQFaox3lpg_yqA/feedshare-shrink_800/B56Z_QR9e6KIAc-/0/1785905797379?e=2147483647&v=beta&t=rLCSuY1_dGf3UWC5JCFcc-TBMzMGAs7YnTRuDQ56QDs",
+        "id": "7490791249088524289"
+      },
+      {
+        "interaction": "Liked by Elnathan Gebrekristos",
+        "link": "https://www.linkedin.com/posts/marvinjlopez_berkeleyengineering-firstgeneration-stem-activity-7490646030514872320-QewF",
+        "title": "PREP and T-PREP just wrapped up in supreme style! UC Berkeley College of Engineering's signature summer programs, PREP and T-PREP, wrapped last\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQFr-hIt1KGYHg/feedshare-shrink_800/B56Z_Qe3X7HYAc-/0/1785909181447?e=2147483647&v=beta&t=eoXRvf_nzjNOsAkBgJYnbHj9EBzOiwMzXch1URR-0s4",
+        "id": "7490646030514872320"
+      },
+      {
+        "interaction": "Liked by Elnathan Gebrekristos",
+        "link": "https://www.linkedin.com/posts/lamekt_ycombinator-startupschool-activity-7487928720226422789-NxM3",
+        "title": "took a couple photos this past weekend @ #ycombinator #startupschool",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQFDA0UfzLV7fQ/feedshare-shrink_800/B4EZ.p3er8JQAc-/0/1785261324460?e=2147483647&v=beta&t=wVA83u2O1ctswFsaWQ2B5Wrd_a0tKk2sRQMobPdSrP0",
+        "id": "7487928720226422789"
+      },
+      {
+        "interaction": "Liked by Elnathan Gebrekristos",
+        "link": "https://www.linkedin.com/posts/sanusisignateh_nvidia-nsbe-ucmerced-activity-7487648371537620992-sJVP",
+        "title": "It was an incredible experience to tour NVIDIA's headquarters in Santa Clara during Blackwell HQ Day with the National Society of Black\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQEFfGugkQwBAA/feedshare-image-high-res/B56Z.l4gj8GoAU-/0/1785194483702?e=2147483647&v=beta&t=pH2lFC1NswRXOwPvqVDJdzXhFO9QaeBsG5Zc9Is-gzc",
+        "id": "7487648371537620992"
+      },
+      {
+        "interaction": "Liked by Elnathan Gebrekristos",
+        "link": "https://www.linkedin.com/posts/ch%C3%A9-harmon-williams-072836218_modeling-photography-videography-activity-7486883735838060544-xY8R",
+        "title": "Greetings, LinkedIn family! This past month, I had the opportunity to combine my modeling, photography, and videography skills in a campaign with\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQG0rQWPPNhPCw/feedshare-shrink_1280/B56Z.bA1kIIQAU-/0/1785012116054?e=2147483647&v=beta&t=0zEvqCmiiW4X62Uh_qq2iPn8toOiyRnTHKPnpYUuP48",
+        "id": "7486883735838060544"
+      },
+      {
+        "interaction": "Liked by Elnathan Gebrekristos",
+        "link": "https://www.linkedin.com/posts/havenanozie_womeninbusiness-onbusiness-storytelling-activity-7485749586301624320-SqPJ",
+        "title": "I went viral for applying to Berkeley Haas with a short film. And somehow, whether I got in ended up being the least interesting part of the story.\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQHQkCUbN-1wGg/feedshare-image-high-res/B4EZ.K5lKCIAAU-/0/1784741778509?e=2147483647&v=beta&t=48FR6z4PYvVAo_rbBslW7LMaDQPCoxZFJ_hZrf_rF-4",
+        "id": "7485749586301624320"
+      },
+      {
+        "interaction": "Liked by Elnathan Gebrekristos",
+        "link": "https://www.linkedin.com/posts/chinomso-augustine-ba9a29258_thank-you-nsbe-professionals-national-activity-7476145237984415744-JYiX",
+        "title": "Thank you, NSBE Professionals | National Society of Black Engineers , for the opportunity to attend Blackwell HD Day at NVIDIA today. Before today,\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQGX4DPVd_3r_g/feedshare-shrink_800/B56Z8CabQtHUAc-/0/1782451909995?e=2147483647&v=beta&t=TXUBnE1TV3EoIbOfSHHRJ289KXQjSH0Qf9C4q-1zujU",
+        "id": "7476145237984415744"
+      },
+      {
+        "interaction": "Liked by Elnathan Gebrekristos",
+        "link": "https://www.linkedin.com/posts/jamila-mohamed_about-a-month-ago-i-graduated-with-my-bachelor-activity-7481775242395181056-sM7Q",
+        "title": "About a month ago, I graduated with my Bachelor of Science in Business Administration, and it's finally starting to sink in. After spending nearly\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQGlp-7tZab19w/feedshare-image-high-res/B56Z9Sa64qHcAc-/0/1783794217022?e=2147483647&v=beta&t=Z2Zi6gCiJ0Km4MYz430A1Gla2OaPvaadCxKMiiJh81M",
+        "id": "7481775242395181056"
+      },
+      {
+        "interaction": "Liked by Elnathan Gebrekristos",
+        "link": "https://www.linkedin.com/posts/nvidia-university-recruiting_blackwell-day-at-nvidia-with-nsbe-activity-7480606620159430658-ubxj",
+        "title": "Community opens doors. Networking builds confidence. Opportunity shapes what comes next. See how NVIDIA and National Society of Black Engineers are\u2026",
+        "img": "https://dms.licdn.com/playlist/vid/v2/D4E10AQGPRItS92W-Dg/thumbnail-scale_720_1280/B4EZ8.pRJjJkAA-/0/1783462448117?e=2147483647&v=beta&t=KOzNB2mIXvbr2HtBlOrOBE-LmHObmJ5EsQUxkgVRrJQ",
+        "id": "7480606620159430658"
+      }
+    ],
+    "linkedin_num_id": "989635062",
+    "banner_image": "https://media.licdn.com/dms/image/v2/D5616AQEuoR5kyBViKQ/profile-displaybackgroundimage-shrink_200_800/B56Z5UJPcuGoAU-/0/1779528169521?e=2147483647&v=beta&t=MsQd0EBAAXDs7N5AjLqBl7CTeHlRYEGMmCECbtBilZ8",
+    "honors_and_awards": null,
+    "similar_profiles": [],
+    "default_avatar": false,
+    "memorialized_account": false,
+    "bio_links": [],
+    "first_name": "Elnathan",
+    "last_name": "Gebrekristos",
+    "influencer": false,
+    "timestamp": "2026-08-12T19:25:14.545Z",
+    "input": {
+      "url": "https://www.linkedin.com/in/elnathan-gebrekristos"
+    }
+  },
+  "local_photo": "data\\linkedin_photos\\elnathan-gebrekristos__usr-fResbMr22UlAOV1.jpg"
+}

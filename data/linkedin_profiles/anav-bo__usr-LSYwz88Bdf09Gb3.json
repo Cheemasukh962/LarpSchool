@@ -1,0 +1,203 @@
+{
+  "luma_user_id": "usr-LSYwz88Bdf09Gb3",
+  "csv_name": "Anav Bordia",
+  "csv_linkedin": "https://www.linkedin.com/in/anav-bo",
+  "enriched_at": "2026-08-12T18:56:33.264963+00:00",
+  "batch_id": "sd_msqg8yml2ia5na9bcp",
+  "profile": {
+    "id": "anav-bo",
+    "name": "Anav Bordia",
+    "city": "Los Altos, California, United States",
+    "country_code": "US",
+    "position": null,
+    "about": "Freshman at CMU SCS. Co-Founder of Code for Cause: using hackathons to improve social good",
+    "current_company": {
+      "link": "https://www.linkedin.com/company/codeforcausehackathon?trk=public_profile_topcard-current-company",
+      "name": "Code for Cause",
+      "company_id": "codeforcausehackathon",
+      "location": null
+    },
+    "experience": null,
+    "url": "https://sg.linkedin.com/in/Anav-bo",
+    "educations_details": "Carnegie Mellon University School of Computer Science",
+    "education": null,
+    "avatar": "https://media.licdn.com/dms/image/v2/D5603AQH0Kw06MJX0Bg/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1728047763328?e=2147483647&v=beta&t=ULHMiKIMz1rAskfWFodl5M6kPEvqfhuwu4rElZ1vZT0",
+    "followers": 685,
+    "connections": 500,
+    "current_company_company_id": "codeforcausehackathon",
+    "current_company_name": "Code for Cause",
+    "projects": [
+      {
+        "title": "Coursify",
+        "start_date": "Jun 2023",
+        "description": "Website link: https://coursify-ai.vercel.app/A web app that takes in basic information about a course (a course title, and unit titles), generates multiple chapters for each unit and turns it into a full-fledged course with videos, a summary, and a short quiz for each chapter. The app utilizes Google's latest generative AI tool, the Palm 2 API, and the YouTube Search and Transcript APIs to create all the course information."
+      },
+      null,
+      {
+        "title": "KeyBuddies - Real-time online collaborative studio for youth music education",
+        "start_date": "Feb 2024",
+        "description": "First place in the entertainment track at Viking Hacks 2024. Web app that aids children in learning the basics of music production, music theory, and relative pitch in a collaborative setting."
+      },
+      null,
+      null,
+      null,
+      {
+        "title": "Learndeck - LLM-powered multimedia tutor for iOS and Android",
+        "start_date": "Jan 2024",
+        "description": "Best Use of Auth0 winner against 300+ computer science undergraduates at CruzHacks 2024. Lightweight mobile app that generates custom academic courses composed of videos, lesson plans, and adaptive quizzes. Built by an exclusively high school team."
+      },
+      null,
+      null,
+      null,
+      {
+        "title": "Gymify",
+        "start_date": "Apr 2023",
+        "description": "A social, community driven solution to fitness motivation that utilizes flutter, firebase, and the Google Maps API to facilitate the creation of online gym communities in which users can collectively track workouts and easily push their friends to reach their goals. Best Mobile Hack winner at Los Altos Hacks, the biggest high school hackathon in the world."
+      },
+      null,
+      null,
+      null,
+      {
+        "title": "hoophub",
+        "start_date": "Mar 2023",
+        "description": "An app that allows users to easily find and join pickup basketball games in their area. Users can browse a list of games that are starting soon, organize their own games, and join games that are already in progress. The app also allows users to build connections with other hoopers by creating profiles, adding friends, and sending messages."
+      }
+    ],
+    "location": "Los Altos",
+    "input_url": "https://www.linkedin.com/in/anav-bo",
+    "linkedin_id": "anav-bo",
+    "activity": [
+      {
+        "interaction": null,
+        "link": "https://www.linkedin.com/posts/anika-thapar_your-vibe-coded-app-sucks-it-might-work-activity-7478200341218500608-Hcuf",
+        "title": "Your vibe-coded app SUCKS. It might work, but it\u2019s filled with nonsense variables, dead code, and loops that are so deeply nested you never reach the body of them. Here\u2019s what\u2019s worrying: 42% of a developer\u2019s week is spent fixing messy code. And LLMs are somehow worse at it than we are; they burn tokens and get nowhere. You know what would save you? Refactorika. Anav Bordia , Jay Thapar , Tanush Aggarwal , and I built the ultimate multi-agent orchestration harness to kill technical debt before it kills you. With just a single command, Refactorika delivers: \u2013 Parallel Multi-Agent Orchestration: Concurrent LLM agents diagnosing, isolated patching, and refactoring messy files simultaneously. - Deterministic Atomic Git Patches: Seamless, automated git diff generation with zero-breakage structural state validation. - Vector-Embedded Context Retrieval: Semantic codebase indexing and vector storage that surfaces exactly the right context to agents without bloat. - Model Context Protocol Integration: Unified, real-time context streaming between AI models and local development environments. - Enterprise-Grade Performance: Benchmarked directly against Microsoft\u2019s open-source multi-agent refactoring frameworks, achieving a 40% token reduction, 50% speed increase, and 20% boost in overall accuracy. Also, we won the Cognition track at the Cal Hacks Berkeley AI hackathon! Yay! Check it out here: https://lnkd.in/dQyY9igN",
+        "img": "https://media.licdn.com/dms/image/v2/D4D22AQFbiOB84DQkqQ/feedshare-image-high-res/B4DZ8ccblpHgAU-/0/1782888643891?e=2147483647&v=beta&t=xLm1rm6yj1wXG2TWxK2Xy41D-CAhU5oLuYorkLBz7Ls",
+        "id": "7478200341218500608"
+      },
+      {
+        "interaction": "Anav Bordia shared this",
+        "link": "https://www.linkedin.com/posts/anav-bo_ca-18-congressional-app-challenge-winner-activity-7283590468288790528-VhGO",
+        "title": "It was a great experience collaborating with Mithil Patil on Coursify. Coursify allows users to create courses on any subject through the power of generative AI. We drew on Khan Academy's course format to include interactive elements like chats and quizzes. For more details, check out Mithil's post.",
+        "img": "https://media.licdn.com/dms/image/sync/v2/D5627AQE09vCi2NcADA/articleshare-shrink_800/articleshare-shrink_800/0/1737741794793?e=2147483647&v=beta&t=p_Fg6_Jt890QyF47_X51oKFQvoMqYLDFRlYEBWEzDOM",
+        "id": "18"
+      },
+      {
+        "interaction": null,
+        "link": "https://www.linkedin.com/posts/atharv-deshmukh_i-had-an-absolute-blast-at-viking-hacks-a-activity-7166663389744734209-Os7l",
+        "title": "I had an absolute blast at Viking Hacks a couple weeks back with Anav Bordia Mithil Patil and Soorya Ignatius . After 8 straight hours of problem solving, programming, and getting destroyed in table tennis matches, we managed, at basically the last second, to put out something great. To take away 1st place in the Entertainment track, we made KeyBuddies: a collaborative music production and education platform for kids. With KeyBuddies, users can join or create a studio and work with their peers to make amazing music out of custom or premade loops. Now as a team, we have a good bit of experience at hackathons, but this time, we decided to switch some things up. For once we laid off the energy drinks, our presentation consisted of Soorya Ignatius arranging and me singing \u201cLove Story\u201d by Taylor Swift live in front of the whole crowd, and what I\u2019m personally most proud of \u2014 we managed to make something pretty impressive without once using the word \u201cAI\u201d. You already know it\u2019s hackathon season, so stay expecting more updates about our team\u2019s adventures. If you haven\u2019t already, check out our profiles and feel free to drop a follow or slide into our DM\u2019s if you\u2019re interested. As for KeyBuddies, check our some pictures. We've been working on it after the event, so keep your eyes peeled for something big and feel free to drop a comment with your thoughts. Stay safe, stay hungry, and stay coding! I\u2019ll see you guys soon.",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQFtRwwqWoRKbw/feedshare-shrink_800/feedshare-shrink_800/0/1708665700193?e=2147483647&v=beta&t=6FZsvHKTnIc_-vbUCshSX84mWhqFgMXsmgB9ToJtcJA",
+        "id": "7166663389744734209"
+      },
+      {
+        "interaction": null,
+        "link": "https://www.linkedin.com/posts/soorya-ignatius_last-weekend-atharv-mithil-anav-and-i-activity-7160010187561431040-6c4U",
+        "title": "Last weekend, Atharv , Mithil , Anav and I had a blast at CruzHacks 2024, a 36-hour hackathon at UC Santa Cruz. To paint you a picture, imagine a hall packed full of pajama-clad CS undergrads hurriedly bodging together caffeine-fueled social justice tools that rely a bit too much on GPT API calls, scattering crushed energy drink cans about and sleeping for mere hours separated from musty old flooring only by stale nylon tarp. If that description sounds chaotic, I've done my job well. But that's why we love hackathons. We've been going to these kinds of events as a team for about a year now, and I think that makes me somewhat qualified to talk about them broadly. Our main takeaway is as follows: nothing beats getting together in person and hammering something out in a hurry. It's like rocket fuel to our growth as coders, designers, presenters, or any of the many other hats we find a good creator must inevitably don. We ended up winning Best Use of Auth0 (cue applause) for our project, Learndeck \u2013 a functional mobile app that generates multimedia courses about any topic you could think of, customizing lesson plans to fit your progress, automatically fitting work periods into your busy schedule, drawing from YouTube and academic sources to construct a nuanced and accurate syllabus, and of course, a GPT-powered tutor to answer study-related questions. And while we were angling for first place overall, a win like this against CS and MechEng college students is a win nonetheless. As for our future plans, we're going to keep hitting up hackathons across the state just to see how far we can get. Prize or not, these events are super fun and I can't wait to visit more. That's about all I wanted to share, so I'll leave you with a few photos to wrap things up. Enjoy!",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQHN_0vyMhCp_Q/feedshare-shrink_800/feedshare-shrink_800/0/1707079448506?e=2147483647&v=beta&t=xsZFjdcWwjq9hHB5gBr8iijOGbDWRxNGhh9T6YZ6UR8",
+        "id": "7160010187561431040"
+      },
+      {
+        "interaction": null,
+        "link": "https://www.linkedin.com/posts/codeforcausehackathon_codeforcause-techforgood-collaboration-activity-7158614352059600898-20vU",
+        "title": "Hey LinkedIn community! We're thrilled to share one of the amazing outcomes of our recent philanthropic hackathon, \"Code for Cause.\" We organized this event with the mission of providing technical support to local organizations. One of our proud collaborations was with BISV DECA! The winning team at our hackathon made an easy-to-use and intuitive app to help streamline BISV DECA's meeting attendance system. After the event, we worked hand-in-hand with the BISV DECA team and the Code for Cause winning team to help the organization get set up and use the app in club operations. Today, we're thrilled to celebrate the successful implementation of the app, making a real difference in optimizing their processes. It's inspiring to see technology catalyze positive change, and we're honored to be part of BISV DECA's journey toward greater efficiency and impact. \ud83c\udf0d\ud83d\udcaa A big shoutout to the entire team for their dedication and to BISV DECA for embracing innovation! \ud83c\udf89 Let's continue making strides together! #CodeForCause #TechForGood #Collaboration #ImpactfulInnovation #BISVDECA",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQEEXW_kjsO4cg/feedshare-image-high-res/feedshare-image-high-res/0/1706746649205?e=2147483647&v=beta&t=t6Hdn4HTGM4BsWlex5NHzy1nwSJz_vRtSACiOOyCvdU",
+        "id": "7158614352059600898"
+      },
+      {
+        "interaction": "Anav Bordia commented on a post 4w",
+        "link": "https://www.linkedin.com/posts/jerry-n-zhang_%F0%9D%90%96%F0%9D%90%9E%F0%9D%90%AB%F0%9D%90%9E-%F0%9D%90%A5%F0%9D%90%A8%F0%9D%90%A8%F0%9D%90%A4%F0%9D%90%A2%F0%9D%90%A7%F0%9D%90%A0-%F0%9D%90%AD%F0%9D%90%A8-%F0%9D%90%A1%F0%9D%90%A2%F0%9D%90%AB%F0%9D%90%9E-%F0%9D%90%9E-activity-7482491035818876928-n2cd",
+        "title": "anavb@andrew.cmu.edu",
+        "img": null,
+        "id": "7482491035818876928"
+      },
+      {
+        "interaction": "Anav Bordia liked this",
+        "link": "https://www.linkedin.com/posts/chinmay-khaladkar_seamless-protection-of-tool-secrets-for-ai-activity-7492763346333708289-u9X_",
+        "title": "At ArcaLabs this summer, I've been working with sandboxes for our AI agents and developed a neat system for brokering secret-requiring CLIs to protect from prompt injection. Instead of remote execution, I found a way to avoid transferring files over network/scaling an additional API by utilizing Linux primitives for secret isolation. Read more about it here: https://lnkd.in/gUKEQ2Kp",
+        "img": "https://media.licdn.com/dms/image/sync/v2/D5627AQEHQvbBbLWtdw/articleshare-shrink_1280_800/B56Z_ugbnMJQAg-/0/1786412910669?e=2147483647&v=beta&t=PiwaxvqqIng1AxToM9rNXhgjc1_a5sFZ-aNrOTi3Jyc",
+        "id": "7492763346333708289"
+      },
+      {
+        "interaction": "Anav Bordia liked this",
+        "link": "https://www.linkedin.com/posts/gobhanu_thrilled-to-share-that-vela-is-going-public-activity-7491610781700997120-EdwW",
+        "title": "Thrilled to share that Vela is going public! Well kinda - we are officially a Robinhood Ventures Fund II (RVII) portfolio company! On August 13, Robinhood Ventures Fund II lists on the NYSE. It lets retail investors, not just VCs, back a portfolio of 80 great Y Combinator companies before they go public. Vela is proud to be one of them. For most of history, getting in early on a rocketship startup was reserved for a small circle. This cracks it open. Grateful to the Robinhood Ventures Sarah Pinto Peyronel , Jason Boehmig , Richard Aberman for backing us, and to be in good company with other W26 teams we admire.",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQFBFqK4RR_y1g/feedshare-shrink_800/B56Z_eMTtQJ8Ac-/0/1786139196509?e=2147483647&v=beta&t=CclQVEOK0ovy2F0NXMPW_sk_OPtFicOyx08gLaA2r4s",
+        "id": "7491610781700997120"
+      },
+      {
+        "interaction": "Anav Bordia liked this",
+        "link": "https://www.linkedin.com/posts/aadyaganjigunta_this-week-marks-my-last-week-as-a-cybersecurity-activity-7492588114767605760-3MH9",
+        "title": "This week marks my last week as a Cybersecurity Intern at Kohler Co. This summer taught me what it actually looks like to work in enterprise security, from building AI security agents in Copilot Studio to working across Cortex XSIAM and ServiceNow to supporting certificate automation efforts. What made this summer so meaningful is how welcoming everyone at Kohler is. From day one, people made time to answer my questions and help me grow, even with their own busy schedules. I want to thank Knut Svarod , HARI KRISHNA BOYAPATI , Travis Greenlee , and Ariana Pfeiffer for their mentorship and guidance throughout this experience. Their willingness to answer questions, provide feedback, and involve me in meaningful work made this a valuable learning experience, and I'm extremely grateful for the support. Looking forward to applying what I\u2019ve learned here to what comes next!",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQEnhglvm9BmZg/feedshare-shrink_800/B56Z_jkjgDJcAc-/0/1786229438993?e=2147483647&v=beta&t=ZyL_d5mMP_f7yfOLhuR4Rrrvz24nqXybPFfePsRrrn8",
+        "id": "7492588114767605760"
+      },
+      {
+        "interaction": "Anav Bordia liked this",
+        "link": "https://www.linkedin.com/posts/anishja1n_as-i-wrap-up-my-internship-i-wanted-to-make-activity-7489060772837306370-iTxL",
+        "title": "As I wrap up my internship, I wanted to make my first LinkedIn post, recapping one of my best summers ever \ud83d\udd25 1. SWE Internship @ Doppel At a growth-stage startup, I was lucky to get to code using all the frontier models and contribute on several projects across teams. Primarily on Core Platform, I got to actually think about architecture and system design for the first time, from writing services, APIs, and GraphQL resolvers, to working with Terraform and Postgres, to figuring out how to scale in prod. My internship was truly an exceptional learning experience. I'm incredibly thankful to my mentor Benjamin Magid , manager Anish Shandilya , and CTO Rahul Madduluri for the opportunity. Also, a final special shoutout to all my coworkers who always made me feel welcome and created an amazing environment for both deep work and intriguing conversation. Being there for the Doppel x Knicks partnership right in the middle of them winning their first championship in 53 years was also insane. 2. Scottie Ventures - Portfolio Operations Outside of work, I've spent the summer helping develop our new portfolio operations arm at Scottie Ventures , with the goal of building a real scouting portfolio of the best companies coming out of CMU to connect directly with top global VCs. Excited to keep building this with our VPs Keshav Vyas and Charlie Hubbard , and my co-presidents Jiya Gupta and Saarthak Gupta . On that note, I'll be working with Kleiner Perkins this year to help find the best founders coming out of CMU! Really excited to work with KP, and a huge thanks to Aatish Nayak for all the help onboarding. Please reach out if you're building something cool at scottieventures-portfolio@andrew[dot]cmu[dot]edu, and if you're incoming or already at CMU, join our mailing list here using your andrew email: https://lnkd.in/emxiggR9 . We're doing so many cool things this year, I'm sure you'll be interested in at least one! 3. YC Startup School I also got a chance to fly out to SF for Y Combinator 's Startup School at Chase Center, and after hearing talks from the top leaders in AI, I mainly took away that the models are already further along than the products being built on top of them. Always amazing to see old friends too :). 4. Exploration Really enjoyed being in NYC for the first time. I loved exploring every corner of it, whether taking runs along the East River, watching Gatsby on Broadway, larping at viewpoints, seeing Daniel Caesar at Barclays, or visiting the NBA office. It made me realize how much I like getting to know a city, and I hope I get to explore more cities soon!",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQGNrSkVUU3E2A/feedshare-shrink_800/B4EZ.59FLrJUAc-/0/1785531225708?e=2147483647&v=beta&t=znLHhEfN4d9LQN0NOTr8VXkL51yKNEU32KCtrFAW_eo",
+        "id": "7489060772837306370"
+      },
+      {
+        "interaction": "Anav Bordia liked this",
+        "link": "https://www.linkedin.com/posts/adityamittal-_comparing-developer-and-llm-biases-in-code-activity-7480829253693919232-FywT",
+        "title": "Excited to share that our paper \"Comparing Developer and LLM Biases in Code Evaluation\" has been accepted to COLM 2026 and the ICML DL4C Workshop! As LLMs are increasingly deployed as judges to evaluate code, a key question remains: Do they actually care about the same things human developers care about? To find out, we introduced TRACE, a framework designed to evaluate LLM judges in realistic, interactive software engineering settings. Key takeaways from our findings: \ud83d\udcc9 Alignment Gap: Even the best LLM judges underperform human annotators by 12\u201323% when predicting developer preferences. \ud83d\udd0d Systematic Biases: TRACE exposed significant sources of misalignment. For instance, in code completion settings, LLM judges overemphasize functionality, whereas real developers prioritize code clarity. \ud83d\udee0\ufe0f Code Quality Mismatch: The majority of these misalignments map directly to standard software engineering code quality criteria where models and humans weigh priorities completely differently. Huge thank you to Ryan Shar for his collaboration throughout this project! Also deeply grateful to Valerie Chen and Wayne Chi for their guidance, and my collaborators Zichu Wu and Shyam Agarwal . Check out the full preprint on arXiv if you're interested in LLM evaluation in code settings: https://lnkd.in/gD_FDKW9",
+        "img": "https://media.licdn.com/dms/image/sync/v2/D5627AQHm8koL9Sd4_g/articleshare-shrink_800/B56Z9E8W8UKcAc-/0/1783568101548?e=2147483647&v=beta&t=TAcJIW4LJcAA1ylPL_CaM9cHcoCnraRhSweFn8vLroQ",
+        "id": "7480829253693919232"
+      },
+      {
+        "interaction": "Anav Bordia liked this",
+        "link": "https://www.linkedin.com/posts/bayloradams_a-very-special-night-with-family-friends-activity-7483629286378217472-2vV_",
+        "title": "A very special night with family, friends, founders, and interns from top startups in SF this summer. I'm hosting another intern meetup this summer, come meet other interns from Cursor , Applied Compute , Cognition , Physical Intelligence , OpenAI , Anthropic , and Google DeepMind . Comment below to join!",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQHymGsXTSj92g/feedshare-shrink_800/B56Z9sxLaoGUAo-/0/1784236259927?e=2147483647&v=beta&t=Pnj-WpjkHHGh4QoNO4WFIGrIR9CI-GMSxHFONxGecY8",
+        "id": "7483629286378217472"
+      },
+      {
+        "interaction": "Anav Bordia liked this",
+        "link": "https://www.linkedin.com/posts/ayushi-m006_%EC%95%88%EB%85%95-icml-in-other-words-goodbye-icml-activity-7483031891890098176-ZtjB",
+        "title": "\uc548\ub155, ICML! In other words, goodbye, ICML! This year, I presented two posters at ICML: \ud83d\udcca \"Count Me If You Can: Geometric Failure Modes in Language Model Counting\" ( https://lnkd.in/gPUhE5XD ) with Nicholas Bai \ud83e\uddec \"What Does a Chromatin Foundation Model Know About a Petri Dish? Sparse Autoencoders Reveal In Vitro vs. In Vivo Context in EPIBERT\" ( https://lnkd.in/g3-Gm8gH ) with Nicole Ching Beyond presenting, the best part was everything around the posters: the coffee chats, the hallway conversations, and getting to trade ideas with researchers working on counting, interpretability, and foundation models across so many domains. And after all the roaming and networking, a small group of us from Caltech traded the conference halls for the city and went sightseeing across Seoul. \ud83c\uddf0\ud83c\uddf7 Until next time!",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQFilSJNUmfAFA/feedshare-image-high-res/B56Z9kR2H8H4AY-/0/1784093829247?e=2147483647&v=beta&t=Jf4xOCP9nvBdwEVlaCbLamHPeAAq_Y6bawGEv-dDdd0",
+        "id": "7483031891890098176"
+      }
+    ],
+    "linkedin_num_id": "914452986",
+    "banner_image": "https://static.licdn.com/aero-v1/sc/h/5q92mjc5c51bjlwaj3rs9aa82",
+    "honors_and_awards": [
+      {
+        "title": "First Place - Viking Hacks",
+        "publication": "Irvington High School",
+        "date": "2024-02-01T00:00:00.000Z",
+        "description": "Won first place for entertainment track among 100 competitors. Our winning project, KeyBuddies, is a web app that aids children in learning the basics of music production, music theory, and relative pitch in a collaborative setting."
+      },
+      {
+        "title": "First Place - HackaKhan",
+        "publication": "Khan Lab School",
+        "date": "2023-06-01T00:00:00.000Z",
+        "description": "Won the overall first place prize among about 100 other competitors at the first HackaKhan at Khan Lab Schools. Our winning project, Coursify, is an application that takes in basic information about a course and turns it into a full fledged course with videos, summaries, and short quizzes."
+      },
+      {
+        "title": "Best Mobile Hack - Los Altos Hacks VII",
+        "publication": "Los Altos High School",
+        "date": "2023-04-01T00:00:00.000Z",
+        "description": "Won best mobile hack among 425 other participants and 127 other teams at the overnight Los Altos VII Hackathon, the largest in-person hackathon on the West Coast. Our project, gymify, was a social app that allowed for the creation of online gym communities in which users could collectively track workouts and easily push their friends to reach their goals."
+      },
+      {
+        "title": "3rd Place - PioneerHacks IV",
+        "publication": "PioneerHacks IV",
+        "date": "2023-03-01T00:00:00.000Z",
+        "description": "Won third place overall among 109 other participants at the overnight PioneerHacks IV hackathon hosted by Juniper Networks. In a span of 24 hours, we came up with the idea for our project, hoophub, built out the project, and created a presentation for a panel of judges about our product. hoophub is an app that allows users to start impromptu pickup basketball games and notify those nearby, and we built it using Flutter, the Google Maps API, Firebase Auth, and Cloud Firestore."
+      }
+    ],
+    "similar_profiles": [],
+    "default_avatar": false,
+    "memorialized_account": false,
+    "bio_links": [],
+    "first_name": "Anav",
+    "last_name": "Bordia",
+    "influencer": false,
+    "timestamp": "2026-08-12T18:55:40.891Z",
+    "input": {
+      "url": "https://www.linkedin.com/in/anav-bo"
+    }
+  },
+  "local_photo": "data\\linkedin_photos\\anav-bo__usr-LSYwz88Bdf09Gb3.jpg"
+}

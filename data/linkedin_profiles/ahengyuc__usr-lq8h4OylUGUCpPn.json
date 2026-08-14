@@ -1,0 +1,350 @@
+{
+  "luma_user_id": "usr-lq8h4OylUGUCpPn",
+  "csv_name": "Abraham Hengyucius",
+  "csv_linkedin": "https://www.linkedin.com/in/ahengyuc",
+  "enriched_at": "2026-08-12T18:55:27.674185+00:00",
+  "batch_id": "sd_msqg7js7a7y0irwot",
+  "profile": {
+    "id": "ahengyuc",
+    "name": "Abraham Hengyucius",
+    "city": "Seattle, Washington, United States",
+    "country_code": "US",
+    "position": null,
+    "about": "Currently in building in SF! I will be completing my master's degree this coming year at\u2026",
+    "current_company": {
+      "link": "https://www.linkedin.com/company/uw-bioengineering?trk=public_profile_topcard-current-company",
+      "name": "University of Washington Bioengineering",
+      "company_id": "uw-bioengineering",
+      "location": null
+    },
+    "experience": null,
+    "url": "https://pe.linkedin.com/in/ahengyuc",
+    "educations_details": "University of Washington",
+    "education": [
+      {
+        "title": "University of Washington",
+        "url": "https://www.linkedin.com/school/university-of-washington/",
+        "start_year": "2022-09",
+        "end_year": "2026-06",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      },
+      {
+        "start_year": "2018-09",
+        "end_year": "2022-06",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      }
+    ],
+    "avatar": "https://media.licdn.com/dms/image/v2/D5603AQFQZkxATMqquA/profile-displayphoto-scale_200_200/B56ZonkbY.I0Ac-/0/1761600453451?e=2147483647&v=beta&t=S2AOKGGZ8PNxZnsgJpGqJ9vo8BtU4iCfUgBDGLx9dWw",
+    "courses": [
+      {
+        "subtitle": "AMATH 301, 383",
+        "title": "Applied Mathematics"
+      },
+      {
+        "subtitle": "BIOEN 315-401",
+        "title": "Bioengineering Core Sequence"
+      },
+      {
+        "subtitle": "BIOL 180, 200, 220",
+        "title": "Biology"
+      },
+      {
+        "subtitle": "MATH 207",
+        "title": "Differential Equations"
+      },
+      {
+        "subtitle": "CHEM 335, 336, 337",
+        "title": "Honors Organic Chemistry"
+      },
+      {
+        "subtitle": "CHEM 346, 347",
+        "title": "Honors Organic Chemistry Lab"
+      },
+      {
+        "subtitle": "PHYS 121, 122, 123",
+        "title": "Introductory Physics"
+      },
+      {
+        "subtitle": "MATH 208",
+        "title": "Matrix Algebra"
+      },
+      {
+        "subtitle": "STAT 390",
+        "title": "Statistical Methods for Engineering and Science"
+      }
+    ],
+    "languages": [
+      {
+        "subtitle": "Limited working proficiency",
+        "title": "French"
+      },
+      {
+        "subtitle": "Elementary proficiency",
+        "title": "German"
+      },
+      {
+        "subtitle": "Elementary proficiency",
+        "title": "Russian"
+      },
+      {
+        "subtitle": "Professional working proficiency",
+        "title": "Chinese"
+      }
+    ],
+    "volunteer_experience": [
+      {
+        "cause": "Health",
+        "duration": "Apr 2023 \u00b7 - \nDec 2023 \u00b7 \n9 months",
+        "duration_short": "- \nDec 2023",
+        "info": "-Assisted with patient transportation, care, and discharge. -Stocked isolation carts and cleaned rooms and equipment. -Worked by myself and with teams as needed. -110+ Hours",
+        "start_date": "Apr 2023",
+        "subtitle": "St. Francis Hospital of Federal Way",
+        "title": "Med/Surg Volunteer"
+      },
+      {
+        "cause": "Education",
+        "duration": "Oct 2022 \u00b7 - Present \u00b7 \n\n3 years 11 months",
+        "duration_short": "- Present",
+        "info": "Led BMES outreach events, running educational modules and demonstrating bioengineering technology to engage students and encourage STEM interest. Demonstrated superb communication and public speaking skills.",
+        "start_date": "Oct 2022",
+        "subtitle": "Biomedical Engineering Society at University of Washington",
+        "title": "Outreach Volunteer"
+      },
+      {
+        "cause": "Education",
+        "duration": "Oct 2023 \u00b7 - Present \u00b7 \n\n2 years 11 months",
+        "duration_short": "- Present",
+        "info": "Successfully mentored underclassmen.",
+        "start_date": "Oct 2023",
+        "subtitle": "Biomedical Engineering Society at University of Washington",
+        "title": "Student Mentor"
+      },
+      {
+        "cause": "Education",
+        "duration": "Sep 2023 \u00b7 - \nSep 2023 \u00b7 \n1 month",
+        "duration_short": "- \nSep 2023",
+        "info": "Ran Dawg Daze Events from 9/20 to 9/28.",
+        "start_date": "Sep 2023",
+        "subtitle": "University of Washington",
+        "title": "Dawg Daze Leader"
+      },
+      {
+        "cause": "Poverty Alleviation",
+        "duration": "Dec 2020 \u00b7 - \nSep 2021 \u00b7 \n10 months",
+        "duration_short": "- \nSep 2021",
+        "info": "- Distributed food, sorted returned items, broke down boxes, cleaned and maintained facilities. - Translated for Chinese families.",
+        "start_date": "Dec 2020",
+        "subtitle": "Hopelink",
+        "title": "Volunteer"
+      },
+      {
+        "cause": "Education",
+        "duration": "Sep 2019 \u00b7 - \nJan 2022 \u00b7 \n2 years 5 months",
+        "duration_short": "- \nJan 2022",
+        "info": "- Set up meeting spaces. - Outreach to parents and school staff. - Lead middle school groups in research projects, robot construction and coding, as well as core values training. - Oversaw all meetings and collaborated with other mentors.",
+        "start_date": "Sep 2019",
+        "subtitle": "FIRST",
+        "title": "FIRST Lego League Robotics Mentor"
+      }
+    ],
+    "followers": 928,
+    "connections": 500,
+    "current_company_company_id": "uw-bioengineering",
+    "current_company_name": "University of Washington Bioengineering",
+    "location": "Seattle",
+    "input_url": "https://www.linkedin.com/in/ahengyuc",
+    "linkedin_id": "ahengyuc",
+    "activity": [
+      {
+        "interaction": "Abraham Hengyucius shared this",
+        "link": "https://www.linkedin.com/posts/ahengyuc_team-management-and-leadership-is-always-activity-7492783708844748802-JHHC",
+        "title": "Team management and leadership is always the hard part, but that's where the fun stuff happens.",
+        "img": "https://media.licdn.com/dms/image/v2/D5605AQH4704BeUhLBw/videocover-high/B56Z9gum8WGUBM-/0/1784034260068?e=2147483647&v=beta&t=HZyUaRKj-bkQBSgDZ0Ht9PLgz6sSzh66iW0K_lQJCH4",
+        "id": "7492783708844748802"
+      },
+      {
+        "interaction": "Abraham Hengyucius shared this",
+        "link": "https://www.linkedin.com/posts/ahengyuc_how-it-be-monsieur-duo-activity-7489193798569435137-OiHB",
+        "title": "How it be, Monsieur Duo.",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQHZQxl194kznA/feedshare-shrink_480/B56Z.72E1zKIAg-/0/1785562943049?e=2147483647&v=beta&t=zKfcUhm0diBy4t1wURZ5Gox0PoaezO-YpI20WumdjM8",
+        "id": "7489193798569435137"
+      },
+      {
+        "interaction": null,
+        "link": "https://www.linkedin.com/posts/victor-abel_vlyai-has-just-been-acquired-by-freebuff-activity-7476366245362024448-ZnGn",
+        "title": "vly.ai has just been acquired by Freebuff! \ud83c\udf89 I started vly two years ago while still in college. Since then, I\u2019ve dropped out, went to the ER over 3 times, and pulled 100+ all-nighters to bring my vision of free coding agents to life. Now, we\u2019re proud to announce that Freebuff has acquired vly\u2019s underlying technology to make sure you never have to pay for AI ever again. Thank you to James Grugett and our incredible team for the best outcome I could have asked for. \u2764\ufe0f Freebuff is building 100% free versions of every AI tool out there \u2014 starting with coding agents. We specialize in batch-spend for cost-optimized models and highly-targeted advertisements & data environments. We just made Lovable / Replit / Base44 100% free with vly. We also made free versions of Claude Code, Codex, ChatGPT, and more. Soon, you\u2019ll see free versions of every piece of AI tool out there that wouldn\u2019t even accept payments even if you tried. Freebuff is building the future of software platforms in the age of AI. vly is just the beginning.",
+        "img": "https://media.licdn.com/dms/image/v2/D5605AQHEGJxL3uwfww/videocover-high/B56Z8FjbNKGcBM-/0/1782504603720?e=2147483647&v=beta&t=oqRQP3NFvgUW7a8hSidcTB-OY8dcZyY1QzXM-zCrjQA",
+        "id": "7476366245362024448"
+      },
+      {
+        "interaction": "Abraham Hengyucius shared this",
+        "link": "https://www.linkedin.com/posts/ahengyuc_also-excited-to-announce-that-ive-graduated-activity-7475411773312040960-QsMD",
+        "title": "Also excited to announce that I've graduated with my Bachelors in Bioengineering. It's been a wild ride. High highs and low lows. I still remember meeting my day 1 pookie bear Jonathan Ureel in ENGR 101, and the first thing I said to him was, \"I just wanted to say that you look like Matt Damon.\" The late nights and long days have left their mark on who I am, and what I can do. So have all my friends, classmates, mentors, and my family. I'm proud of who I have become. I'm excited to see who I will become, no matter the challenges in the way. I will be in San Francisco for the next few months, but I'll be back in the fall to do my Master's. \"We choose to go to the Moon in this decade and do the other things, not because they are easy, but because they are hard...\" - John F. Kennedy, my goat",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQHZg_8BonLllw/feedshare-shrink_800/B4EZ73.PqYHoAc-/0/1782276751068?e=2147483647&v=beta&t=DkpblsseC3E-8TqGDXztTtwCmJm6_2Enym_WjFPcufg",
+        "id": "7475411773312040960"
+      },
+      {
+        "interaction": "Abraham Hengyucius shared this",
+        "link": "https://www.linkedin.com/posts/ahengyuc_a-bit-late-but-i-had-presented-more-of-my-activity-7475396019904520192-QnFz",
+        "title": "A bit late, but I had presented more of my work building an osteoclast classifier a few weeks ago at the the University of Washington Bioengineering senior capstone showcase. I'm incredibly grateful to all the people who came by to ask questions and show support. It meant a lot to me that almost everybody who I had invited came, and that some people actually dropped commitments to come. A massive thanks to the folks at the Giachelli/Scatena Lab who made this project possible, especially my grad mentor Isabella Jennings and my PIs, Dr. Cecilia Giachelli and Dr. Marta Scatena ! Looking forward to finishing up the project, and we're onto building tissue models!",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQGDVvbCCm_NvQ/feedshare-image-high-res/B56Z7uLzM4HYAU-/0/1782112531840?e=2147483647&v=beta&t=Lk1ps8JFC47n0ZCdRSX4bEChjX9sMKzL-4DbUM9pJS4",
+        "id": "7475396019904520192"
+      },
+      {
+        "interaction": null,
+        "link": "https://www.linkedin.com/posts/dharshini-maru-051153386_just-won-most-technical-hack-at-university-activity-7474920772319199232-XyXV",
+        "title": "Just won Most Technical Hack at University of California, Berkeley 's AI Hackathon! We built a tool that has the potential to accelerate cancer drug discovery: a multi-agent system that takes a tumor mutation profile and tells you which drugs might actually work, and why. -> Workbench: upload a LUAD mutation CSV, and a knowledge graph + LLM pipeline maps your mutations onto activated pathways, identifies coverage gaps, and routes to targeted therapies. Where the graph has no direct answer (which happens more than you'd think), an ML classifier trained on DepMap LUAD data predicts pathway vulnerabilities. It flags the gap, makes a call, and labels it as ML-predicted, so a clinician or researcher knows exactly what to trust. The system doesn't just return drugs. It generates a mechanistic report citing the exact subgraph it traversed, since clinical AI that can\u2019t show its work isn\u2019t useful to researchers in the field. It was invaluable to get real-time 1:1 technical feedback from Fetch.ai , Redis , and Annapurna Labs , and the chance to demo to Anthropic 's team in person. Huge thanks to my amazing teammates Charity G. , Shruti Shah , and Shivnarain Sarin for shipping something real under serious time pressure, and thanks to the Cal Hacks team for the well-run event!",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQE5IsPhdavp_g/feedshare-shrink_800/B56Z7xA1kNG8Ag-/0/1782159989449?e=2147483647&v=beta&t=v5Fosx4NCw1f7nbTachQvbCxGx9qZguzo1Aufxdo9u0",
+        "id": "7474920772319199232"
+      },
+      {
+        "interaction": null,
+        "link": "https://www.linkedin.com/posts/vitaliy-duvalko_im-excited-to-announce-that-the-team-at-activity-7469769209087197185-cOPD",
+        "title": "I'm excited to announce that the team at Adam Biotech and I are heading to Founders, Inc. for their Offseason program in SF this summer. We'll be surrounded by some of the world's brightest engineers and founders for six weeks as we finish our product and get it into labs. When we found out that we were accepted to Founders, Inc., our faces hurt from all the smiling. But now it's time to lock in harder than ever before. Accurate bioprinting means better preclinical validation models, meaning drug researchers can focus their energy on the drugs that will actually succeed in human trials. Millions of Americans with cancer, Alzheimer's, and so many other awful diseases are waiting for their treatments, and the pipeline to get those treatments starts with a bioprinter that doesn't fail. Huge thanks to Dharshini Maru , Abraham Hengyucius , and Jamison Schmidt for being one of the most passionate and hungry teams out there. Building the first comprehensive failure detection model for bioprinting is a hard problem to solve, and I can't think of a better team to do it with. If anyone is working in biotech or tissue engineering in SF this summer, please reach out! Would love to connect.",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQGUVXhzOnKLGg/feedshare-image-high-res/B56Z6lZ2GMKYAU-/0/1780891479351?e=2147483647&v=beta&t=0BV4YmMUyMyI8Irbu4XjnhYautKYq-WzEwUHgAr9iZ8",
+        "id": "7469769209087197185"
+      },
+      {
+        "interaction": null,
+        "link": "https://www.linkedin.com/posts/bwb-uw_did-you-know-bioengineers-without-borders-activity-7465860139737092096-E0bg",
+        "title": "Did you know Bioengineers Without Borders at UW once traveled all the way to Uganda? This past Friday, our club hosted BWB History Night. It was an enlightening evening dedicated to celebrating the milestones, past projects, and accomplishments that have defined the club since 2014. We also took a look at the exciting work and progress of our current sub-teams. Founded on a mission to develop low-cost, accessible, and sustainable medical technologies, it's inspiring to see how much BWB has accomplished over the years. More than that, reflecting on that history has only deepened our focus on what's ahead. We look forward to more events, more workshops, and continued progress toward a more sustainable future for medical devices. Interested in being part of the next chapter? Stay tuned for our annual Fall Launch in October, and keep up with us here and on Instagram @uw_bwb!",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQGvlIMvF3vNnA/feedshare-image-high-res/B56Z5wQO7LK4AU-/0/1779999764675?e=2147483647&v=beta&t=BoZyhuMZ5ojPdFeByC7TOSCCqOidPm2_1mFKqHxyFt0",
+        "id": "7465860139737092096"
+      },
+      {
+        "interaction": null,
+        "link": "https://www.linkedin.com/posts/puyunhuang_introducing-kleoklaw-you-will-never-have-activity-7465511842610581504-1ZQk",
+        "title": "Introducing KleoKlaw . You will never have to fill out another job application again. We built Kleo to run your entire job search 24/7, from submitting applications to prepping interviews. Kleo is an AI agent that lives inside your messages and handles the end-to-end application process to land you your dream job. It takes your CV and automatically tailors your resume to each role. It submits applications on your behalf and communicates with recruiters autonomously. No action needed. Thank you to Tianle Yan for helping me with the video! Comment \u201cKLEO\u201d for priority access.",
+        "img": "https://media.licdn.com/dms/image/v2/D5605AQHfxtK0jicDBA/videocover-high/B56Z5rTaZYIQBQ-/0/1779916715443?e=2147483647&v=beta&t=J3uy1Or1Dx4rYNV_jug8X4X6Vzvp2oblRuN35NvZg10",
+        "id": "7465511842610581504"
+      },
+      {
+        "interaction": "Abraham Hengyucius replied to a comment 1w",
+        "link": "https://www.linkedin.com/posts/ahengyuc_activity-7489198628176244736-B1ja",
+        "title": "Anna Paulsell uh spaghetti frappucino \ud83e\udd19\ud83e\udd19",
+        "img": null,
+        "id": "7489198628176244736"
+      },
+      {
+        "interaction": "Abraham Hengyucius replied to a comment 1w",
+        "link": "https://www.linkedin.com/posts/ahengyuc_activity-7489198493761228800-nJl7",
+        "title": "Anna Paulsell I get all your reminders \ud83d\ude2d",
+        "img": null,
+        "id": "7489198493761228800"
+      },
+      {
+        "interaction": "Abraham Hengyucius commented on a post 1w",
+        "link": "https://www.linkedin.com/posts/aeromax38_learning-lots-activity-7488572928410677249-enod",
+        "title": "Me when im learnmaxxing",
+        "img": null,
+        "id": "7488572928410677249"
+      },
+      {
+        "interaction": "Abraham Hengyucius liked this",
+        "link": "https://www.linkedin.com/posts/oceanpunsalan_this-past-week-i-had-the-opportunity-to-present-activity-7484297822121508864-PT4A",
+        "title": "This past week I had the opportunity to present my poster on Intravascular Optical Coherence Tomography (OCT) at the International Forum on OCT in Xiamen, China. It was exciting to learn about the many directions OCT research is taking and to connect with researchers from around the world. Additionally, I am happy to say that I won second place alongside 1000 yuan. I think I am going to buy some delicious tea with this newfound fortune.",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQHRt2QaW43fBA/feedshare-image-high-res/B56Z92RLuFG4AU-/0/1784395647046?e=2147483647&v=beta&t=1eiKS-JdqdzpYW2UPOrLSPRZJDX7bI4ywH134h1rkMQ",
+        "id": "7484297822121508864"
+      },
+      {
+        "interaction": "Abraham Hengyucius liked this",
+        "link": "https://www.linkedin.com/posts/jhartley518_16-years-ago-a-member-of-the-afghan-police-activity-7491534282688008192-rvPT",
+        "title": "16 years ago, a member of the Afghan Police helped a member of the Taliban enter our base disguised as a \"detainee,\" then released him from his cell with access to an RPG & small arms, with the intent of letting him shoot down an Osprey. He aimed the RPG on an Osprey taking off only 100 meters away: an easy kill on the Osprey and its passengers, Navy SEAL Vice Admiral Robert Hardward & his staff. They would all easily have been killed if not for a quick thinking Ken McGonigle who saw him aiming and opened fire on him, causing him to retreat and abandon his attempt. His retreat was into our own jail, forcing us to attack a fortified structure on our own base. Ken McGonigle, Pfc Gammone and Lance Corporal Cornelius all charged into the fight to take out the threat and became Fallen Heroes. I will never forget them and hope you can keep them and their families in your thoughts and prayers.",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQFJYIn4ww_rIQ/feedshare-shrink_800/B4EZ_dGulHIAAc-/0/1786120956527?e=2147483647&v=beta&t=xoHkGJZHHlkRhtcJoDJTB_CeFkqxKnXOEo9p0N0DYxw",
+        "id": "7491534282688008192"
+      },
+      {
+        "interaction": "Abraham Hengyucius liked this",
+        "link": "https://www.linkedin.com/posts/omid-torabi-_what-happens-when-you-just-start-asking-for-activity-7491519212272840704-Sefr",
+        "title": "What happens when you just start asking for what you want? (YC startups, free food) I found out in 2 completely different scenarios: 1. Sent 50+ cold DMs to YC founders without a job posting and pitched myself for a growth and marketing with them. A few replied. One ended in a job offer with OpenTrade (YC s26) . The postings might not be there, but I\u2019ve come to learn that startups are ALWAYS hiring the right people. 2. On my flight back from Istanbul, I was still hungry after the first meal. I hesitated to ask for more food. Why? Because no one ever does it. But why not me? So I asked if they have leftovers in the back. And I got an extra meal for free. (shoutout Onur) The opportunities you want might not be advertised on LinkedIn or Indeed. But it never hurts to ask. p.s. if you\u2019re a Wordle champ and play the LinkedIn minigames daily, check out OpenTrade (YC s26) for fun investing minigames and let me know what you think",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQGxkIohchGNmg/feedshare-image-high-res/B56Z_c5Bq2HYAY-/0/1786117364834?e=2147483647&v=beta&t=xgqHy28hqV8tXw9ZlMJOvC40YJ_fMcliXew595afPDs",
+        "id": "7491519212272840704"
+      },
+      {
+        "interaction": "Abraham Hengyucius liked this",
+        "link": "https://www.linkedin.com/posts/yerjasn_in-many-ways-the-work-of-a-student-is-easy-activity-7492965574076108801-14vT",
+        "title": "In many ways, the work of a student is easy. We risk very little, yet enjoy a position over those who offer up their knowledge and their selves to our judgment. We enter the classroom carelessly, expecting our professors to serve us the fruits of their lifelong labor. But the bitter truth we students must face is that, in the grand scheme of things, these titans of the corporate world are sacrificing their most precious gift for us: their time. Having weathered the trials of extraordinary careers, rather than devoting well-deserved rest to family, loved ones, and personal pursuits, they choose to stand before us to illuminate our minds. Minds that, all too often, fail to grasp the sheer depth and beauty of the canvas being painted right before our eyes. In my final quarter, I experienced something extraordinary: a revelation that rocked me to my core, evoking that quiet reverence that stills the chest before the \"Mona Lisa\" or beneath the vaults of the \"Sistine Chapel\". That experience was the MGMT 550: CEO And Board Governance class at the Foster School of Business, taught by true virtuosos of their craft: Jeff R. (President and CEO at Premera Blue Cross) and Connie R. Collingsworth (Former COO Gates Foundation). This class gave me something infinitely greater than knowledge. It gave me faith and the conviction that one day I too, will bring meaningful value to society and the world, following the example of our distinguished guest lecturers: Jim Donald, Sunny Gupta , Brad Tilden, Amy Humphreys , Annie Young-Scrivner Jim Lico , Preston Feight, and many others. If my voice carried the strength of a clarion call, I would urge everyone who refuses the status quo, everyone who longs not only to know this world but to open themselves up to it in return, to take this class. For like Santiago in \"The Alchemist\", I spent years wandering the world in search of treasure, only to realize that the purest gold had been right where it all began all along, at the University of Washington. P.S. This monologue is my quiet homage to Brad Bird and his \"Ratatouille\", which offered the world a poignant reminder of how easy it is to judge the work of others, and how truly noble are those who risk creating and giving.",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQHbjQ49ese0kw/feedshare-image-high-res/B56Z_vOX.UHcAU-/0/1786424951259?e=2147483647&v=beta&t=RAll1KCe6JXU78iDSdec0zWkii-O0iGk25y7NmaXINY",
+        "id": "7492965574076108801"
+      },
+      {
+        "interaction": "Abraham Hengyucius liked this",
+        "link": "https://www.linkedin.com/posts/audrey-andrade_i-spent-years-believing-i-was-just-adaptable-activity-7488924788606803969-AuN9",
+        "title": "I spent years believing I was just \"adaptable.\" The truth? I was just good at reading rooms and editing myself down to whatever version made other people comfortable. It started early, but the habit really took root through the Naval Academy and into my corporate career. I built a successful life out of fitting in seamlessly. The problem with building a life around what the room wants is that eventually, there\u2019s no room left for you. Lately, I\u2019m focused on a different skill: showing up without the edit. Essay in the comments \u2764\ufe0f",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQGS9qo3WRNfhg/feedshare-shrink_1280/B4EZ.4BaXJKsAM-/0/1785498805999?e=2147483647&v=beta&t=CTv7v64xJztCzvalju2ZiaZ5xza6ay16SkJ8K945Fr0",
+        "id": "7488924788606803969"
+      },
+      {
+        "interaction": "Abraham Hengyucius liked this",
+        "link": "https://www.linkedin.com/posts/byron-c-15564774_a-few-weeks-ago-i-wrapped-up-my-first-tour-activity-7489378413401575424-jmVE",
+        "title": "A few weeks ago I wrapped up my first tour in government, first as an advisor for R&D policy in the White House Office of Pandemic Preparedness and Response Policy (Jul 2024-Jan 2025), and then as a Biosecurity Fellow at DARPA's Biological Technologies Office (2025-2026). Working with exceptional colleagues to help protect the United States from biological threats, both natural, accidental, and deliberate, was an extraordinary privilege that I am very grateful for. While I am proud of what we accomplished, working in government during this time was full of challenges, including the difficulty of interagency coordination and policymaking, the increasing complexity of defending against future biological threats, and an extraordinarily polarized, click-chasing media and political environment that degrades Americans' trust in government, in science, and in each other. Trust, it seems to me, is the special sauce that makes any complex social system, including government, work. But it isn't cheap, nor should it be. Towards the end of my time at DARPA, I had the chance to spend time thinking about how to build trusted and trustworthy systems to prevent a malicious actor (whether a terrorist or a rogue state) from using increasingly capable AI tools to build and deploy biological weapons, while also making sure that the vast majority of legitimate scientists can still use AI to unlock beneficial advances we haven't even dreamed of yet. This, it turns out, is a hard problem-but a motivating one! As I take my next professional step, I'm excited to keep working on this challenge at RAND's Center for AI, Security, and Technology, where I'm now an AI & Biosecurity Research Resident.",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQHegXQiPU2K_w/feedshare-shrink_800/B4EZ..d.RmKsAc-/0/1785606957154?e=2147483647&v=beta&t=lt2yyGED5-jOn9e5Ol7vili-ugrM2QHQHhHkQibj9U4",
+        "id": "7489378413401575424"
+      },
+      {
+        "interaction": "Abraham Hengyucius liked this",
+        "link": "https://www.linkedin.com/posts/krish-bhoopati_im-excited-to-share-that-ill-be-joining-activity-7492983924113948672-Yr9n",
+        "title": "I\u2019m excited to share that I\u2019ll be joining Sun Life this fall as a Strategy & Transformation Intern! A huge thank you to Victor Ho, Julie Danielse, M.Sc., PMP , Carlos Orencio , and Sonia B. for making the entire process such a smooth and welcoming experience. Looking forward to learning from the team, taking on new challenges, and contributing over the next few months! Excited for what\u2019s ahead at Sun Life! \u2600\ufe0f",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQGwoZGjjqbXWA/feedshare-shrink_1280/B56Z_xtLHAJcAM-/0/1786466579144?e=2147483647&v=beta&t=JfMWCXChtt61Tag16z9mWT8tvS3PT3Flqouf2QYBDD0",
+        "id": "7492983924113948672"
+      },
+      {
+        "interaction": "Abraham Hengyucius liked this",
+        "link": "https://www.linkedin.com/posts/ahengy_this-past-week-i-had-the-pleasure-of-volunteering-activity-7482784754975567872-T5WE",
+        "title": "This past week, I had the pleasure of volunteering with Verdafield: Science in the Park during their rocketry\u2011themed program. As someone passionate about engineering outreach, I\u2019m a big believer that college students should actively seek opportunities to mentor the next generation and develop their own leadership skills in the process. For my first time working with kids and rockets, I went in thinking my limited rocketry knowledge would be the bottleneck. Turns out, the real challenges came from the kids. A few takeaways from the week: \u2022 Meet kids where they are They don\u2019t need a propulsion lecture; they need someone patient enough to show them how to cut a straight line and cheer when they get it right. For instance, some kids didn\u2019t have prior experience with box cutters or even scissors, which we solved by having a safety demonstration and then correcting them based off that. \u2022 Instructions matter more than you think Our parachute-crafting activity had a lot of \u201ccreative freedoms\u201d which is code for \u201cchaos.\u201d Kids thrive when the steps are clear and the diagrams look like the final product. \u2022 Elementary schools have recess for a reason Long lectures aren\u2019t fun for kids and our first day was lecture-heavy which we realized halfway through. We ended up having lunch early that day, and for subsequent days, we had breaks every 60-80 minutes which worked out nicely. \u2022 Group work is rocket fuel Once we realized most kids couldn\u2019t build a rocket solo, we switched to teams. My ROTC brain immediately went, \u201cAh yes, a Group Leadership Project,\u201d and then started writing org charts based on which kids work well together. We also minimized interpersonal friction points by using OpenRocket to make the best rocket as opposed to opinions. On an amusing note, ROTC unintentionally makes great teachers. All that focus on people, structure, and mentorship translates surprisingly well to camp instruction. The culmination of that group work was a rocket that hit 500+ feet at 60 Acres (I let the kids record that video so pardon the language). There was also a bottle rocket with 67 fins. Yeah, six-seven. Can\u2019t beat the magical numbers. Huge thanks to camp instructors Thomas Coffee and Shuonan Dong for letting me volunteer. I\u2019m excited for next week\u2019s bigger class which will be a doozy.",
+        "img": "https://media.licdn.com/dms/image/v2/D5605AQH4704BeUhLBw/videocover-high/B56Z9gum8WGUBM-/0/1784034260068?e=2147483647&v=beta&t=HZyUaRKj-bkQBSgDZ0Ht9PLgz6sSzh66iW0K_lQJCH4",
+        "id": "7482784754975567872"
+      }
+    ],
+    "linkedin_num_id": "977551947",
+    "banner_image": "https://media.licdn.com/dms/image/v2/D4D16AQGMY4kIdqoycA/profile-displaybackgroundimage-shrink_200_800/B4DZZrLvdHG0AU-/0/1745554962804?e=2147483647&v=beta&t=l0N_yrG6aXE1JOm6JMk-DHGSRNZ36ou_NHgJADkP460",
+    "honors_and_awards": [
+      {
+        "title": "Startup Studio Best Technology Award",
+        "publication": "Lavin Entrepreneurship Program",
+        "date": "2023-10-01T00:00:00.000Z",
+        "description": null
+      },
+      {
+        "title": "Washington State Seal of Biliteracy - French",
+        "publication": "-",
+        "date": "2022-06-01T00:00:00.000Z",
+        "description": null
+      },
+      {
+        "title": "AP Scholar with Distinction",
+        "publication": "College Board",
+        "date": "2021-07-01T00:00:00.000Z",
+        "description": null
+      },
+      {
+        "title": "Certificate of Excellence in Systems Engineering",
+        "publication": "West Point Summer Leaders Experience",
+        "date": "2021-05-01T00:00:00.000Z",
+        "description": null
+      },
+      {
+        "title": "National Merit Commended Scholar",
+        "publication": "-",
+        "date": "2021-01-01T00:00:00.000Z",
+        "description": null
+      }
+    ],
+    "similar_profiles": [],
+    "default_avatar": false,
+    "memorialized_account": false,
+    "bio_links": [],
+    "first_name": "Abraham",
+    "last_name": "Hengyucius",
+    "influencer": false,
+    "timestamp": "2026-08-12T18:54:36.310Z",
+    "input": {
+      "url": "https://www.linkedin.com/in/ahengyuc"
+    }
+  },
+  "local_photo": "data\\linkedin_photos\\ahengyuc__usr-lq8h4OylUGUCpPn.jpg"
+}

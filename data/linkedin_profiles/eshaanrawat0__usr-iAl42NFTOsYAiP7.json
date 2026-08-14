@@ -1,0 +1,157 @@
+{
+  "luma_user_id": "usr-iAl42NFTOsYAiP7",
+  "csv_name": "Eshaan Rawat",
+  "csv_linkedin": "https://www.linkedin.com/in/eshaanrawat0",
+  "enriched_at": "2026-08-12T19:06:01.807913+00:00",
+  "batch_id": "sd_msqgh02428smzgu5m",
+  "profile": {
+    "id": "eshaanrawat0",
+    "name": "Eshaan Rawat",
+    "city": "Irvine, California, United States",
+    "country_code": "US",
+    "position": null,
+    "about": "Hi, I'm Eshaan. Feel free to reach me at rawateshaan0 [at] gmail [dot] com",
+    "current_company": {
+      "link": "https://www.linkedin.com/company/palantir-technologies?trk=public_profile_topcard-current-company",
+      "name": "Palantir Technologies",
+      "company_id": "palantir-technologies",
+      "location": null
+    },
+    "experience": null,
+    "url": "https://ph.linkedin.com/in/Eshaanrawat0",
+    "educations_details": "UC Irvine",
+    "education": [
+      {
+        "title": "UC Irvine",
+        "url": "https://www.linkedin.com/school/university-of-california-irvine/",
+        "start_year": "2023-09",
+        "end_year": "2026-06",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      },
+      {
+        "start_year": "2024-05",
+        "end_year": "2024-08",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      },
+      {
+        "start_year": "2019-08",
+        "end_year": "2023-05",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      }
+    ],
+    "avatar": "https://media.licdn.com/dms/image/v2/D5603AQHPae1VOo04NA/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1704604286194?e=2147483647&v=beta&t=cRRwQ7V4ToEHBqFw8UhJ8IOFT0OvQ7VN1mgW9GnFcbE",
+    "certifications": [
+      {
+        "meta": "Issued Sep 2024 Credential ID g54kehscuv7r See credential",
+        "subtitle": "Palantir Technologies",
+        "title": "Foundry & AIP Builder Foundations",
+        "credential_url": "https://verify.skilljar.com/c/g54kehscuv7r?trk=public_profile_see-credential",
+        "credential_id": "g54kehscuv7r"
+      }
+    ],
+    "volunteer_experience": [
+      {
+        "cause": "Education",
+        "duration": "Nov 2023 \u00b7 - \nNov 2023 \u00b7 \n1 month",
+        "duration_short": "- \nNov 2023",
+        "info": "As a judge for the 45th District's Congressional Web App Challenge, I evaluated over 20 submissions from middle and high schoolers.",
+        "start_date": "Nov 2023",
+        "subtitle": "Congressional App Challenge",
+        "title": "Web App Judge"
+      }
+    ],
+    "followers": 1587,
+    "connections": 500,
+    "current_company_company_id": "palantir-technologies",
+    "current_company_name": "Palantir Technologies",
+    "location": "Irvine",
+    "input_url": "https://www.linkedin.com/in/eshaanrawat0",
+    "linkedin_id": "eshaanrawat0",
+    "activity": [
+      {
+        "interaction": "Eshaan Rawat shared this",
+        "link": "https://www.linkedin.com/posts/eshaanrawat0_im-happy-to-announce-ill-be-returning-to-activity-7452059657461841921-qvCL",
+        "title": "I'm happy to announce I'll be returning to Palantir as a full-time software engineer in Palo Alto. Many thanks to my recruiter, Jane Hayashi , as well as Alex Rozenblit , Daniel Davies , and the rest of the Signals team for an incredible experience this past summer. ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQHWDlmyuP4FnA/feedshare-shrink_1280/B56Z2sIxPKKwAM-/0/1776709473499?e=2147483647&v=beta&t=7zo4ZI-u6vBCJ3BG8iM3IDFIMFkic5ED6Zg_0Zzibtc",
+        "id": "7452059657461841921"
+      },
+      {
+        "interaction": "Eshaan Rawat commented on a post 1mo",
+        "link": "https://www.linkedin.com/posts/pranavsethia_building-the-data-infrastructure-that-trains-activity-7479305015120044032-_vA7",
+        "title": "Congrats Pranav!!",
+        "img": null,
+        "id": "7479305015120044032"
+      },
+      {
+        "interaction": "Eshaan Rawat liked this",
+        "link": "https://www.linkedin.com/posts/akhil-nekkanti-a56315232_hackathon-ai-tmobile-activity-7490768621510684672-nZRq",
+        "title": "Won the intern hackathon at T-Mobile last week alongside my partner, Cooper Hampton . Our team built a full-stack AI benefits navigator to help disabled veterans access the resources they're entitled to, and shipped it in 16 hours. I led the technical build: React frontend, FastAPI backend, and a keyword-scoring NLP layer (alias expansion, intent weighting, conversational context resolution) that routes natural-language queries across 15 different benefit domains with no live model dependency. One thing I had to figure out on the fly: I had four Claude Code agents working in parallel to hit our timeline, which meant setting up file-ownership rules upfront so they wouldn't overwrite each other. It worked, we shipped 15+ components without a single merge conflict, but I spent more time thinking about how to coordinate the agents than writing code myself. We also set hard limits on what the tool could and couldn't say. No eligibility determinations, no tax advice, nothing touching protected-class status, everything scoped to draft-only correspondence so we stayed within 38 CFR Part 14. Felt important to get that right given who the tool is actually for. Got the privilege to present the project to and be judged by a panel of T-Mobile Executives, who voted unanimously to award us first place: Chief Legal Officer Mark Nelson Chief Financial Officer Peter Osvaldik Chief Network Officer Ankur Kapoor Chief Data & AI Officer Grant R. VP of Product & Engineering Kevin Lau Special thanks to Taylor Roman and the Emerging Talent Team for organizing this wonderful event across all three locations: Caroline Brock , Brittnie Thompson , Dakota W. , Melissa Van Wey, MA , Nora Smith , Kristen Grover , Danielle Jenkins , Therasa Cha , Spenser Holman , and Sean Lynott, MBA #Hackathon #AI #TMobile",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQGnzBZREq0Jag/feedshare-shrink_1280/B56Z_Oxoi7HIAM-/0/1785880545737?e=2147483647&v=beta&t=dx7c-WUjsXZH4TKXZqKmCtjy46NCii3aYcNssR011ds",
+        "id": "7490768621510684672"
+      },
+      {
+        "interaction": "Eshaan Rawat liked this",
+        "link": "https://www.linkedin.com/posts/guanming-wang_great-to-speak-at-the-robotics-physical-activity-7488295115224997888-VQeb",
+        "title": "Great to speak at the Robotics \u00d7 Physical AI Summit at Stanford University and share our perspective on accelerating inference for World Action Models! We're also getting ready to release a high-performance serving framework for robotic world models, delivering up to 7\u00d7 faster inference while maintaining model quality. Stay tuned!",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQHaKrJR8FxeZg/feedshare-shrink_800/B56Z.vEt8dIMAg-/0/1785348677853?e=2147483647&v=beta&t=7r_DuMIaNc9b_NrRheb2HiEvIzfRzaKKT4UOmz5Ao_A",
+        "id": "7488295115224997888"
+      },
+      {
+        "interaction": "Eshaan Rawat liked this",
+        "link": "https://www.linkedin.com/posts/mitali-m_microsoft-softwareengineer-newgrad-activity-7485725400938250240-Kn6N",
+        "title": "I\u2019m excited to announce that I recently joined Microsoft as a Software Engineer in Redmond, WA! If you\u2019re in the Seattle area and would like to meet up, please reach out! #Microsoft #SoftwareEngineer #NewGrad #ML",
+        "img": null,
+        "id": "7485725400938250240"
+      },
+      {
+        "interaction": "Eshaan Rawat liked this",
+        "link": "https://www.linkedin.com/posts/umar-shaikh-51685729b_time-flys-im-happy-to-announce-that-activity-7484359322609606656-_TeM",
+        "title": "\u201cTime flys\u2026\u201d I'm happy to announce that I have graduated with honors from the University of California, Davis, with a BA in Political Science and a citation from the Political Science department. To my parents and sister, none of this happens without you. The unconditional love and support you give me every day are the reason I have accomplished anything these last three years. I'm incredibly grateful for my years in Davis. I had the chance to serve my fellow students across several student organizations' boards, worked as an ASUCD Senator, and helped found UC Davis's policy debate team. Not everyone gets opportunities like these, and I don't take a single one for granted. I'm particularly grateful for the opportunities I found through Legal Services of Northern California. Coming into college, I knew relatively little about the legal field. LSNC changed that. I started as a volunteer my freshman year, became an intern, and along the way received more support and mentorship than I could have asked for. A special thank you to the Health office, who are not only incredible legal advocates but incredible human beings. Watching how you show up for your clients taught me what this work is really about. With that said, I'm excited to share that I\u2019ve joined Legal Services of Northern California full-time as an Intake Specialist in the Health Office!",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQE2V_yU-2Tl_g/feedshare-image-high-res/B56Z93JFOvJoAU-/0/1784410297539?e=2147483647&v=beta&t=yCGPQj_qLYGTOxbrHWDqtdf61y2QxVFFNl16Hk9ppHQ",
+        "id": "7484359322609606656"
+      },
+      {
+        "interaction": "Eshaan Rawat liked this",
+        "link": "https://www.linkedin.com/posts/brandonp-uci_i-am-ecstatic-to-share-that-i-am-joining-activity-7483577455895642112-FOaY",
+        "title": "I am ecstatic to share that I am joining Capital One this summer in McLean, VA and Shopify this fall in New York City, NY as a Software Engineer Intern. Thank you to my recruiters and everyone who has supported me along the way. Special shoutout to my mentor Eshaan Rawat for always being down to get late-night boba and believing in me from the get-go. Would love to connect with anyone else who will be in NYC this fall!",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQFRjXIFgUZPDw/feedshare-shrink_800/B4EZ9oiw4hKIAc-/0/1784165371662?e=2147483647&v=beta&t=fXYtUM1d4xY9XsoRtmBqOoYze8Xm1udXxHxTrqZCats",
+        "id": "7483577455895642112"
+      },
+      {
+        "interaction": "Eshaan Rawat liked this",
+        "link": "https://www.linkedin.com/posts/adityamittal-_comparing-developer-and-llm-biases-in-code-activity-7480829253693919232-FywT",
+        "title": "Excited to share that our paper \"Comparing Developer and LLM Biases in Code Evaluation\" has been accepted to COLM 2026 and the ICML DL4C Workshop! As LLMs are increasingly deployed as judges to evaluate code, a key question remains: Do they actually care about the same things human developers care about? To find out, we introduced TRACE, a framework designed to evaluate LLM judges in realistic, interactive software engineering settings. Key takeaways from our findings: \ud83d\udcc9 Alignment Gap: Even the best LLM judges underperform human annotators by 12\u201323% when predicting developer preferences. \ud83d\udd0d Systematic Biases: TRACE exposed significant sources of misalignment. For instance, in code completion settings, LLM judges overemphasize functionality, whereas real developers prioritize code clarity. \ud83d\udee0\ufe0f Code Quality Mismatch: The majority of these misalignments map directly to standard software engineering code quality criteria where models and humans weigh priorities completely differently. Huge thank you to Ryan Shar for his collaboration throughout this project! Also deeply grateful to Valerie Chen and Wayne Chi for their guidance, and my collaborators Zichu Wu and Shyam Agarwal . Check out the full preprint on arXiv if you're interested in LLM evaluation in code settings: https://lnkd.in/gD_FDKW9",
+        "img": "https://media.licdn.com/dms/image/sync/v2/D5627AQHm8koL9Sd4_g/articleshare-shrink_800/B56Z9E8W8UKcAc-/0/1783568101548?e=2147483647&v=beta&t=TAcJIW4LJcAA1ylPL_CaM9cHcoCnraRhSweFn8vLroQ",
+        "id": "7480829253693919232"
+      }
+    ],
+    "linkedin_num_id": "1194784988",
+    "banner_image": "https://media.licdn.com/dms/image/v2/D5616AQE91r1XBoS-sw/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1732257213961?e=2147483647&v=beta&t=RS4L7T6a48CevR_Cv_yzQp3H0HGb0LAMaak0f7tylUo",
+    "honors_and_awards": [
+      {
+        "title": "Dean's List - All Quarters",
+        "publication": "University of California, Irvine",
+        "date": "2023-12-01T00:00:00.000Z",
+        "description": null
+      }
+    ],
+    "similar_profiles": [],
+    "default_avatar": false,
+    "memorialized_account": false,
+    "bio_links": [],
+    "first_name": "Eshaan",
+    "last_name": "Rawat",
+    "influencer": false,
+    "timestamp": "2026-08-12T19:02:16.379Z",
+    "input": {
+      "url": "https://www.linkedin.com/in/eshaanrawat0"
+    }
+  },
+  "local_photo": "data\\linkedin_photos\\eshaanrawat0__usr-iAl42NFTOsYAiP7.jpg"
+}

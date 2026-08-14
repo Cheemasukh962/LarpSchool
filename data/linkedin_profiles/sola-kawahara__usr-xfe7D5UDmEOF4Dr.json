@@ -1,0 +1,130 @@
+{
+  "luma_user_id": "usr-xfe7D5UDmEOF4Dr",
+  "csv_name": "Sola Kawahara",
+  "csv_linkedin": "https://www.linkedin.com/in/sola-kawahara",
+  "enriched_at": "2026-08-12T19:18:07.755331+00:00",
+  "batch_id": "sd_msqh0fwb1tv6mjnbrd",
+  "profile": {
+    "id": "sola-kawahara",
+    "name": "Sola Kawahara",
+    "city": "Santa Clara, California, United States",
+    "country_code": "US",
+    "position": null,
+    "about": "Software Designer and Engineer",
+    "current_company": {
+      "link": "https://www.linkedin.com/company/mercor-ai?trk=public_profile_topcard-current-company",
+      "name": "Mercor",
+      "company_id": "mercor-ai",
+      "location": null
+    },
+    "experience": null,
+    "url": "https://nl.linkedin.com/in/sola-kawahara",
+    "educations_details": "Santa Clara University",
+    "education": [
+      {
+        "title": "Santa Clara University",
+        "url": "https://www.linkedin.com/school/santa-clara-university/",
+        "start_year": "2022-09",
+        "end_year": "2026-06",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      }
+    ],
+    "avatar": "https://static.licdn.com/aero-v1/sc/h/9c8pery4andzj6ohjkjp54ma2",
+    "languages": [
+      {
+        "subtitle": "Native or bilingual proficiency",
+        "title": "English"
+      },
+      {
+        "subtitle": "Native or bilingual proficiency",
+        "title": "Japanese"
+      }
+    ],
+    "certifications": [
+      {
+        "meta": "Issued Jan 2022",
+        "subtitle": "International Baccalaureate",
+        "title": "International Baccalaureate Bilingual Diploma",
+        "credential_url": null,
+        "credential_id": null
+      },
+      {
+        "meta": "Issued Jul 2021",
+        "subtitle": "\u516c\u76ca\u8ca1\u56e3\u6cd5\u4eba \u65e5\u672c\u82f1\u8a9e\u691c\u5b9a\u5354\u4f1a",
+        "title": "Eiken Grade 1",
+        "credential_url": null,
+        "credential_id": null
+      }
+    ],
+    "volunteer_experience": [
+      {
+        "duration": "Jan 2018 \u00b7 - \nJan 2020 \u00b7 \n2 years 1 month",
+        "duration_short": "- \nJan 2020",
+        "info": "- Maintained the organizations website. - Created custom icons representing the teams.",
+        "start_date": "Jan 2018",
+        "subtitle": "TEDxYouth@Tokyo",
+        "title": "Website Maintainer"
+      }
+    ],
+    "followers": 140,
+    "connections": 140,
+    "current_company_company_id": "mercor-ai",
+    "current_company_name": "Mercor",
+    "projects": [
+      {
+        "title": "Shisa Iconography",
+        "start_date": "May 2024",
+        "description": "A collection of custom icons."
+      },
+      {
+        "title": "Deizu",
+        "start_date": "Dec 2020",
+        "description": "A simple app for creating timetables."
+      }
+    ],
+    "location": "Santa Clara",
+    "input_url": "https://www.linkedin.com/in/sola-kawahara",
+    "linkedin_id": "sola-kawahara",
+    "activity": null,
+    "linkedin_num_id": "987401928",
+    "banner_image": "https://media.licdn.com/dms/image/v2/D5616AQFr4522BSlZMQ/profile-displaybackgroundimage-shrink_200_800/B56ZcPY2tHHwAY-/0/1748309864356?e=2147483647&v=beta&t=OxW3GE4-QCTmBse7ZRIN3ArsRk9Gr0gxKsatR5CUPAM",
+    "honors_and_awards": [
+      {
+        "title": "2nd Place - AWS X INRIX AI Hackathon 2024",
+        "publication": "Santa Clara University Association for Computing Machinery (ACM)",
+        "date": "2024-11-01T00:00:00.000Z",
+        "description": "Developed the web frontend and crafted the UI using Next.js"
+      },
+      {
+        "title": "2nd Place - Hack for Humanity 2023",
+        "publication": "Santa Clara University Association for Computing Machinery (ACM)",
+        "date": "2023-02-01T00:00:00.000Z",
+        "description": "Developed the mobile app and crafted the UI using React Native."
+      },
+      {
+        "title": "1st Place Proficient Level Prize Winner - ACM Summer Challenge 2022",
+        "publication": "Santa Clara University Association for Computing Machinery (ACM)",
+        "date": "2022-10-01T00:00:00.000Z",
+        "description": "Crafted the UI for the OAuth web frontend."
+      }
+    ],
+    "similar_profiles": [],
+    "default_avatar": true,
+    "memorialized_account": false,
+    "bio_links": [
+      {
+        "title": "Portfolio",
+        "link": "https://solakawahara.vercel.app/"
+      }
+    ],
+    "first_name": "Sola",
+    "last_name": "Kawahara",
+    "influencer": false,
+    "timestamp": "2026-08-12T19:17:02.087Z",
+    "input": {
+      "url": "https://www.linkedin.com/in/sola-kawahara"
+    }
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "luma_user_id": "usr-TzLn3pnkHgxRd9v",
+  "csv_name": "Nishad Wajge",
+  "csv_linkedin": "https://www.linkedin.com/in/nishadwajge",
+  "enriched_at": "2026-08-12T19:13:35.738914+00:00",
+  "batch_id": "sd_msqguuzo2o546dm49e",
+  "profile": {
+    "id": "nishadwajge",
+    "name": "Nishad Wajge",
+    "city": "San Francisco Bay Area",
+    "country_code": "US",
+    "position": null,
+    "about": "Interested in software engineering, game theory, and mechanistic interpretability.",
+    "current_company": {
+      "link": "https://www.linkedin.com/company/amazon?trk=public_profile_topcard-current-company",
+      "name": "Amazon",
+      "company_id": "amazon",
+      "location": null
+    },
+    "experience": null,
+    "url": "https://in.linkedin.com/in/nishadwajge",
+    "educations_details": "University of Maryland",
+    "education": [
+      {
+        "title": "University of Maryland",
+        "url": "https://www.linkedin.com/school/university-of-maryland/",
+        "start_year": "2023",
+        "end_year": "2026",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      },
+      {
+        "start_year": "2019",
+        "end_year": "2023",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      },
+      {
+        "end_year": "2019",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      }
+    ],
+    "avatar": "https://media.licdn.com/dms/image/v2/D4E03AQEjh5l-AGpq4Q/profile-displayphoto-scale_200_200/B4EZydYERBGkAY-/0/1772166858212?e=2147483647&v=beta&t=ZtyfzwXwJdOeTEFmc-O3eRd7VJQZTzGxeZfOuEj57Rg",
+    "volunteer_experience": [
+      {
+        "cause": "Children",
+        "subtitle": "First Tee \u2014 Silicon Valley",
+        "title": "Coach"
+      },
+      {
+        "cause": "Education",
+        "subtitle": "App Dev Club",
+        "title": "Mentor"
+      }
+    ],
+    "followers": 389,
+    "connections": 380,
+    "current_company_company_id": "amazon",
+    "current_company_name": "Amazon",
+    "publications": [
+      {
+        "title": "Bayesian estimation and statistical benchmarking for large language models",
+        "subtitle": "Neural Information Processing Systems (NeurIPS)"
+      },
+      {
+        "title": "Dynamic strategy optimization in turn-based stochastic games via Markov decision processes",
+        "subtitle": "Institute for Operations Research and the Management Sciences (INFORMS)"
+      },
+      {
+        "title": "Game-theoretic interpretability via Shapley additive explanations in ensemble classifiers"
+      },
+      {
+        "title": "Statistical modeling of decision theory and risk-aversion under uncertainty"
+      }
+    ],
+    "location": null,
+    "input_url": "https://www.linkedin.com/in/nishadwajge",
+    "linkedin_id": "nishadwajge",
+    "activity": null,
+    "linkedin_num_id": "932348456",
+    "banner_image": "https://media.licdn.com/dms/image/v2/D4E16AQEAP9VJvoouYQ/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1734579837148?e=2147483647&v=beta&t=xRAn9V1jOCKNV4CxeVX9w3wtbscP7JJ0l4ZUc5XyCPc",
+    "honors_and_awards": null,
+    "similar_profiles": [],
+    "default_avatar": false,
+    "memorialized_account": false,
+    "bio_links": [
+      {
+        "title": "Personal Website",
+        "link": "https://www.nishad.page/"
+      }
+    ],
+    "first_name": "Nishad",
+    "last_name": "Wajge",
+    "influencer": false,
+    "timestamp": "2026-08-12T19:12:41.545Z",
+    "input": {
+      "url": "https://www.linkedin.com/in/nishadwajge"
+    }
+  },
+  "local_photo": "data\\linkedin_photos\\nishadwajge__usr-TzLn3pnkHgxRd9v.jpg"
+}

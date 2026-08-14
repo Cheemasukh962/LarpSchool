@@ -1,0 +1,202 @@
+{
+  "luma_user_id": "usr-xHoGiuP8gqSmMO8",
+  "csv_name": "Dylan Nguyen",
+  "csv_linkedin": "https://www.linkedin.com/in/dylan-nguyenn",
+  "enriched_at": "2026-08-12T19:01:42.789998+00:00",
+  "batch_id": "sd_msqgese9ztya3e3uk",
+  "profile": {
+    "id": "dylan-nguyenn",
+    "name": "Dylan Nguyen",
+    "city": "San Francisco, California, United States",
+    "country_code": "US",
+    "position": null,
+    "about": null,
+    "current_company": {
+      "link": "https://www.linkedin.com/company/codefourus?trk=public_profile_topcard-current-company",
+      "name": "Code Four (YC X25)",
+      "company_id": "codefourus",
+      "location": null
+    },
+    "experience": null,
+    "url": "https://pe.linkedin.com/in/dylan-nguyenn",
+    "educations_details": "Y Combinator",
+    "education": [
+      {
+        "start_year": "2021-05",
+        "end_year": "2024-05",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      },
+      {
+        "start_year": "2020-08",
+        "end_year": "2024-05",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      }
+    ],
+    "avatar": "https://media.licdn.com/dms/image/v2/D4E03AQFQTvfQnOGzYw/profile-displayphoto-shrink_200_200/B4EZYcN21bHMAY-/0/1744230117202?e=2147483647&v=beta&t=e4jzkWwj2RLoYXl_OmvFwNq1e7kxfYafrOJWTDUk_4o",
+    "followers": 5603,
+    "connections": 500,
+    "current_company_company_id": "codefourus",
+    "current_company_name": "Code Four (YC X25)",
+    "projects": [
+      {
+        "title": "Modeling the Male Adult Nerve Cord of The Drosophila Melanogaster Using Spiking Neural Networks",
+        "start_date": "Jun 2023",
+        "description": "Recent literature in the field of neuronal locomotion has been able to successfully map the ventral nerve cord (VNC) of the male Drosophila Melanogaster in a public data set that offers a robust connectome of the VNC. This research project seeks to model the data found in the Male Adult Nerve Cord (MANC), utilizing a differential equation-based, spiking neural network model (SNNs). With over 23,000 neurons, this model is based on the leaky integrate-and-fire (LIF) that is used to simulate neurons due to its biological realism and computational efficiency. By having a full data set and mapping the over 5.3 million different synaptic connections, researchers will be able to automate the mapping process of local neuron circuits when they experiment with silencing or simulating certain neurons. This project ultimately aims to create an exploratory tool that will enable researchers to better understand the underlying functional architecture of the MANC. Our model demonstrates the viability of continuing to model the Drosophila's nervous system through the connectivity and predicted neurotransmitter identities of neurons alone, and the ability to yield hypotheses that are experimentally verifiable."
+      }
+    ],
+    "location": "San Francisco",
+    "input_url": "https://www.linkedin.com/in/dylan-nguyenn",
+    "linkedin_id": "dylan-nguyenn",
+    "activity": [
+      {
+        "interaction": "Liked by Dylan Nguyen",
+        "link": "https://www.linkedin.com/posts/cheng-george_balancing-innovation-and-privacy-fayetteville-activity-7488806875199680512-Ieic",
+        "title": "NC has been home for most of my life, and Fayetteville Police Department just deployed Code Four to all 450 sworn officers Thank you to Chief\u2026",
+        "img": "https://media.licdn.com/dms/image/sync/v2/D4E27AQFwGgsifCtXuw/articleshare-shrink_1280_800/B4EZ.0oQaaH4Ag-/0/1785441881822?e=2147483647&v=beta&t=tHGJeFWDnMGukIL1TfjRke1ONyq4ro4Nh6sHVAS-Eio",
+        "id": "7488806875199680512"
+      },
+      {
+        "interaction": "Liked by Dylan Nguyen",
+        "link": "https://www.linkedin.com/posts/cheng-george_thank-you-so-much-for-the-coverage-from-salt-activity-7487652126949720064-L7ji",
+        "title": "Thank you so much for the coverage from Salt Lake Business Journal - the Utah County area has been some of our most valuable customers and has\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQG7RqX6TulX-w/feedshare-shrink_800/B56Z.U8cgDKMAk-/0/1784910301636?e=2147483647&v=beta&t=KRNadHy7VvHhCGaTcXKZ7emkD47eOrKVDjQ2jYHtGNc",
+        "id": "7487652126949720064"
+      },
+      {
+        "interaction": "Liked by Dylan Nguyen",
+        "link": "https://www.linkedin.com/posts/cheng-george_police-ai-platform-uses-easter-eggs-to-activity-7487657632355422208-DoSf",
+        "title": "Thank you so much to StateScoop for covering our deployments of Code Four INSIGHTS. We\u2019ve seen this be a game changer for agencies with a backlog of\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4E10AQF5P_pUwUENng/image-shrink_800/B4EZ.lqyRfHAAg-/0/1785190884854?e=2147483647&v=beta&t=RuOlsTjPiE_78ydg8gB_p6O6_CcMDmed6E5siiYh-2U",
+        "id": "7487657632355422208"
+      },
+      {
+        "interaction": "Liked by Dylan Nguyen",
+        "link": "https://www.linkedin.com/posts/praveenpanjiar_fundabilityintelligence-startupfunding-activity-7484815605460586498-v1Gm",
+        "title": "60 VC funds closed in June 2026. Menlo Ventures closed $3B (Menlo XVII + Inflection IV). Benchmark closed $2B (Fund XII + its first Growth Fund)\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQH9BGIxkTIeuw/feedshare-shrink_1280/B56Z99Cq0XKgAM-/0/1784509279777?e=2147483647&v=beta&t=aXxC7PHypdTylFMPSQ4fsnsvG40vAKsVIYlHEvRtaTo",
+        "id": "7484815605460586498"
+      },
+      {
+        "interaction": "Liked by Dylan Nguyen",
+        "link": "https://www.linkedin.com/posts/freesoloco_introducing-freesolo-not-every-ai-interaction-activity-7483928742621245440-FZvo",
+        "title": "Introducing Freesolo: Not every AI interaction is best served with a large frontier model. There is a long tail of trillion-token use cases, from\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5605AQGXRrW0IkwKCQ/videocover-high/B56Z9xBbTIHYBM-/0/1784307632679?e=2147483647&v=beta&t=MDPW9IixggYBXVGJU6gmXz0mLfoRhnvkEJgWblhFIJY",
+        "id": "7483928742621245440"
+      },
+      {
+        "interaction": "Liked by Dylan Nguyen",
+        "link": "https://www.linkedin.com/posts/truleo-ai_lawenforcement-publicsafety-ai-activity-7482809925266616320-b3mw",
+        "title": "PENTAGON WARNING: Police departments acquire RISK every time they sign with an AI vendor. Chiefs need to know who is actually doing the work and\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQG8e-FlSm0H5Q/feedshare-shrink_800/B4EZ9hH.knHsAg-/0/1784040909343?e=2147483647&v=beta&t=poagX7zrrkGtmP9ufKXWsm85m_CE46A25UCcl-y_KTo",
+        "id": "7482809925266616320"
+      },
+      {
+        "interaction": "Liked by Dylan Nguyen",
+        "link": "https://www.linkedin.com/posts/joseph-ayalew_this-week-i-had-the-honor-and-privilege-activity-7482959019851161600-xOCo",
+        "title": "This week, I had the honor and privilege of speaking and presenting at THE NORTH CAROLINA POLICE EXECUTIVES ASSOCIATION, and closing the day out over\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQEkjHfvOgYwXw/feedshare-shrink_800/B56Z9jPkZGGUAc-/0/1784076455046?e=2147483647&v=beta&t=LQ-P9yTod1cuotjZNaOkEX1lxHB6W34DuDCzf8tR440",
+        "id": "7482959019851161600"
+      },
+      {
+        "interaction": "Liked by Dylan Nguyen",
+        "link": "https://www.linkedin.com/posts/cityoffayetteville_please-join-us-in-congratulating-fayetteville-activity-7481456270281998336-d7ad",
+        "title": "Please join us in congratulating Fayetteville Police Chief Roberto E. Bryan, Jr. on his appointment by Governor Josh Stein to the North Carolina\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4E10AQGt5c_nr3PTUQ/image-shrink_1280/B4EZ9N40G2KQAc-/0/1783718167322?e=2147483647&v=beta&t=DW3rf6d_fwY5Z0T-9MT-hIsGfqLBald0UfRTMu-gtjQ",
+        "id": "7481456270281998336"
+      },
+      {
+        "interaction": "Liked by Dylan Nguyen",
+        "link": "https://www.linkedin.com/posts/ophir-avsian-80a031271_codefour-artificialintelligence-lawenforcement-activity-7481739090686668800-44qL",
+        "title": "Had a great time speaking at the Rockland County Chiefs of Police breakfast in New York and sharing what we're building at Code Four. It was an\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQHdVx8BSeQVfQ/feedshare-shrink_800/B4EZ9RaV67K4Ac-/0/1783777289949?e=2147483647&v=beta&t=T2R5T0Y1raZW6RzwV9PV_QQuVI7lAscmQrEnIc3sMzg",
+        "id": "7481739090686668800"
+      },
+      {
+        "interaction": "Liked by Dylan Nguyen",
+        "link": "https://www.linkedin.com/posts/michael-slocum-mpa-clee-07263482_fbinaa-fbinaanationalconference-session289-activity-7478866382428995584-h0t3",
+        "title": "I thoroughly enjoyed attending my first FBI National Academy Associates, Inc. (FBINAA) National Conference this week in Niagara Falls, Ontario. The\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQEM-uSH5g-9FA/feedshare-shrink_800/B56Z8pFSJDIoAg-/0/1783100678970?e=2147483647&v=beta&t=YdC6PUOTx2UXtBAK8mNurlIyqHJ1hmqb5-AXJZwnvmQ",
+        "id": "7478866382428995584"
+      },
+      {
+        "interaction": "Liked by Dylan Nguyen",
+        "link": "https://www.linkedin.com/posts/cheng-george_thank-you-to-my-friends-at-coastal-bend-for-activity-7480706560327933952-WRxW",
+        "title": "Thank you to my friends at Coastal Bend for hosting me today for a lunch and learn. Eden N. Garcia Kirby Warnke Michael Tamez Eric B. We\u2019re excited\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQHOgTkXOEx73A/feedshare-shrink_800/B56Z9DOdpsIoAc-/0/1783539295803?e=2147483647&v=beta&t=J4ErbByPDih6e9n37ktaBrC5LAUNDPGkw0c2rtPiCMQ",
+        "id": "7480706560327933952"
+      },
+      {
+        "interaction": "Liked by Dylan Nguyen",
+        "link": "https://www.linkedin.com/posts/groundcontrol-software_happy-birthday-usa-today-we-celebrate-activity-7479207008072781824-EJhc",
+        "title": "Happy birthday, USA \ud83c\uddfa\ud83c\uddf8 Today we celebrate the independence, innovation, and resilience that defines our nation. Wishing everyone a safe and joyful\u2026",
+        "img": "https://static.licdn.com/aero-v1/sc/h/53n89ecoxpr1qrki1do3alazb",
+        "id": "7479207008072781824"
+      },
+      {
+        "interaction": "Liked by Dylan Nguyen",
+        "link": "https://www.linkedin.com/posts/cheng-george_happy-4th-of-july-from-code-four-the-highest-activity-7479262962378006529-0w7j",
+        "title": "Happy 4th of July from Code Four \u201cThe highest use of freedom is the choice to serve others.\u201d Thank you to the men and women that made today\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQFlfX9ym47ngg/feedshare-shrink_1280/B56Z8uuCDTIMAQ-/0/1783195247055?e=2147483647&v=beta&t=zyr57cI9zoFLBvhaEMas7yP0_oEfso_eb6Z7spGEuFM",
+        "id": "7479262962378006529"
+      },
+      {
+        "interaction": "Liked by Dylan Nguyen",
+        "link": "https://www.linkedin.com/posts/cheng-george_great-dinner-with-peregrine-thank-you-to-activity-7477173128100532224-aigZ",
+        "title": "Great dinner with Peregrine. Thank you to all of the executives for joining us for the conversations, pasta, and wine. Thank you to Paul Acosta\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQEF8Th9R2WUKw/feedshare-shrink_800/B56Z8RAj6kKgAg-/0/1782696793259?e=2147483647&v=beta&t=Jt03zMEK5f49K26tKq0Y2UyXux3oyo9GUXC3cXHCF7E",
+        "id": "7477173128100532224"
+      },
+      {
+        "interaction": "Liked by Dylan Nguyen",
+        "link": "https://www.linkedin.com/posts/cheng-george_booth931-activity-7476952557823631360-jppL",
+        "title": "All of these Chiefs love Code Four \u270b\ud83c\udffc(as you can tell through their hands) Thank you so much to the executives from LAPD, CHP, AZDPS, ISP, NJ/PA\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQFtjA_Hshrhzg/feedshare-image-high-res/B56Z8NRM5lG8AY-/0/1782634045589?e=2147483647&v=beta&t=PFsMqxway7rFMxiLbY0R4Es73SlXOpQV7zYdVgPqnFA",
+        "id": "7476952557823631360"
+      }
+    ],
+    "linkedin_num_id": "988172468",
+    "banner_image": "https://media.licdn.com/dms/image/v2/D4E16AQFqFOyJZ9xKAw/profile-displaybackgroundimage-shrink_200_800/B4EZkMP9eUHgAU-/0/1756847135026?e=2147483647&v=beta&t=rluzfLOSywulcZgarRUL8WOn1hb6VV-lU9ccx5_nvYg",
+    "honors_and_awards": [
+      {
+        "title": "Amazon Future Engineer Scholarship Recipient",
+        "publication": "Amazon",
+        "date": "2024-04-01T00:00:00.000Z",
+        "description": "The Amazon Future Engineer Scholarship is an initiative by Amazon aimed at supporting high school seniors in the United States who are pursuing a computer science, electrical engineering, applied mathematics or related degree. The scholarship provides recipients with $40,000 towards their college tuition and a guaranteed paid internship at Amazon after their first year of college."
+      },
+      {
+        "title": "Grand Award Winner - International Science & Engineering Fair",
+        "publication": "Society for Science",
+        "date": "2023-05-01T00:00:00.000Z",
+        "description": "3rd Place Grand Award Winner in Biomedical and Health Sciences in the 2023 Regeneron International Science and Engineering Fair"
+      },
+      {
+        "title": "Kovner Opportunity Scholarship Recipient",
+        "publication": "Kovner Foundation",
+        "date": "2023-04-01T00:00:00.000Z",
+        "description": "The Kovner Opportunity Scholarship enables talented and ambitious public high school students in Palm Beach and Martin Counties to attend the nation\u2019s most challenging and selective 4-year colleges and universities."
+      },
+      {
+        "title": "USACO Gold Division",
+        "publication": "United States of America Computing Olympiad",
+        "date": "2023-02-01T00:00:00.000Z",
+        "description": "This award recognizes achievement in the United States of America Computing Olympiad (USACO) Gold Division. The competition recognizes competitive programming skills, with this award being won using the programming language C++17."
+      }
+    ],
+    "similar_profiles": [],
+    "default_avatar": false,
+    "memorialized_account": false,
+    "bio_links": [],
+    "first_name": "Dylan",
+    "last_name": "Nguyen",
+    "influencer": false,
+    "timestamp": "2026-08-12T19:00:21.344Z",
+    "input": {
+      "url": "https://www.linkedin.com/in/dylan-nguyenn"
+    }
+  },
+  "local_photo": "data\\linkedin_photos\\dylan-nguyenn__usr-xHoGiuP8gqSmMO8.jpg"
+}

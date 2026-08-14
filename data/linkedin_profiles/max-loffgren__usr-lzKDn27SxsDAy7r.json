@@ -1,0 +1,172 @@
+{
+  "luma_user_id": "usr-lzKDn27SxsDAy7r",
+  "csv_name": "Max Loffgren",
+  "csv_linkedin": "https://www.linkedin.com/in/max-loffgren",
+  "enriched_at": "2026-08-12T19:12:29.396870+00:00",
+  "batch_id": "sd_msqgtpzbeylkhkm9p",
+  "profile": {
+    "id": "max-loffgren",
+    "name": "Max Loffgren",
+    "city": "San Francisco Bay Area",
+    "country_code": "US",
+    "position": null,
+    "about": "Building with Python and PyTorch.",
+    "current_company": {
+      "link": "https://www.linkedin.com/company/firecrawl?trk=public_profile_topcard-current-company",
+      "name": "Firecrawl",
+      "company_id": "firecrawl",
+      "location": null
+    },
+    "experience": null,
+    "url": "https://ch.linkedin.com/in/Max-loffgren",
+    "educations_details": "Rice University",
+    "education": [
+      {
+        "title": "Rice University",
+        "url": "https://www.linkedin.com/school/riceuniversity/",
+        "end_year": "2027-05",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      }
+    ],
+    "avatar": "https://media.licdn.com/dms/image/v2/D5603AQGBmlrmKKL9Dg/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1725672026380?e=2147483647&v=beta&t=kf91cRMbnGaJu_3ns9IQFF9mwawJx0C2avVzURZNSys",
+    "followers": 1296,
+    "connections": 500,
+    "current_company_company_id": "firecrawl",
+    "current_company_name": "Firecrawl",
+    "publications": [
+      {
+        "title": "Mechanistic Evidence for Faithfulness Decay in Chain-of-Thought Reasoning",
+        "subtitle": "ICLR 2026 Workshop",
+        "date": "February 4, 2026",
+        "description": "Research investigating the faithfulness of Chain-of-Thought reasoning in LLMs. Introduces a new causal metric, Normalized Logit Difference Decay (NLDD), which reveals that models often produce correct answers despite using post-hoc reasoning. Identifies a specific Reasoning Horizon where causal reliance on reasoning steps decays significantly."
+      }
+    ],
+    "location": null,
+    "input_url": "https://www.linkedin.com/in/max-loffgren",
+    "linkedin_id": "max-loffgren",
+    "activity": [
+      {
+        "interaction": "Max Loffgren shared this",
+        "link": "https://www.linkedin.com/posts/max-loffgren_proud-to-share-ive-joined-firecrawl-yc-activity-7467955256447062016-_6Bl",
+        "title": "Proud to share I've joined Firecrawl (YC S22) as a Member of Technical Staff Intern. Firecrawl builds the API that lets agents search, scrape, and interact with the web. I'll be working to make it easier for the next trillion AI agents to access clean, reliable web context in their workflows. Huge thank you to Eric Ciarla , Nicolas Silberstein Camara , Mark M. , and the whole Firecrawl team for the warm welcome. Looking forward to building with such talented individuals! If you\u2019re in SF or building with agents this summer, would love to connect. ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQEE6juiw3rpDg/feedshare-image-high-res/B56Z6MEa_uHUAY-/0/1780466430228?e=2147483647&v=beta&t=cER50vppFZqU1ltDweOrADaq4CksEcLZIne0dO7UeRQ",
+        "id": "7467955256447062016"
+      },
+      {
+        "interaction": "Max Loffgren shared this",
+        "link": "https://www.linkedin.com/posts/max-loffgren_ycombinator-startupschool-ai-activity-7456492686439735297-1iSZ",
+        "title": "Excited to share that I've been accepted to Y Combinator Startup School 2026! I'll be at the Chase Center in SF this summer among a select group chosen from over 30,000 applicants. Looking forward to hearing from speakers like Jensen Huang (NVIDIA), Sam Altman (OpenAI), Tarek Mansour (Kalshi), and more! This news follows my acceptance to ICLR 2026 Latent and Implicit Thinking Workshop as co-first author of \"Mechanistic Evidence for Faithfulness Decay in Chain-of-Thought Reasoning\". Grateful to the YC team and thrilled to spend two days surrounded by builders operating at the frontier of AI and startups. If you're attending or building something interesting, let's connect! #YCombinator #StartupSchool #AI #ICLR ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQF4I5BazuVm6w/feedshare-shrink_800/B56Z3rH6AeGgAg-/0/1777766212069?e=2147483647&v=beta&t=HBS6tzOMKYf3xQCliv5ZmM1SF5RHDbJ72_SNYyoCck4",
+        "id": "7456492686439735297"
+      },
+      {
+        "interaction": null,
+        "link": "https://www.linkedin.com/posts/donald-ye-swe_excited-to-share-that-our-paper-mechanistic-activity-7439709640268931072-8CcU",
+        "title": "Excited to share that our paper, \"Mechanistic Evidence for Faithfulness Decay in Chain-of-Thought Reasoning,\" has been accepted to the ICLR (International Conference on Learning Representations) 2026 LIT Workshop! \ud83c\udf89 As AI systems are deployed in high-stakes settings such as medicine, law, finance, we rely on their explanations to catch errors and verify decisions. But if a model can reach the right answer while ignoring its own stated reasoning, those explanations can't be trusted as a window into its behavior. Transparency tools built on top of flawed reasoning chains may give false confidence to the people relying on them. The core finding: high accuracy doesn't mean a model actually uses its reasoning chain. We introduce NLDD, a metric that measures whether corrupting individual CoT steps changes model confidence, and discover a consistent Reasoning Horizon (k*) at 70\u201385% of chain length, beyond which reasoning tokens contribute nothing (or actively hurt). Gemma hit 99% accuracy on logical inference while exhibiting negative NLDD. It was getting the right answer despite its own reasoning, not because of it. Huge thanks to my incredible co-authors Max Loffgren , Om Kotadia , Linus Wong , and mentor Jonas Rohweder \u2014 and to Kevin Zhu and the entire Algoverse AI Research team . Github and arxiv link below. ...more ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQG2ZYaU6ugapA/feedshare-shrink_800/B4EZz8Yd3wJEAk-/0/1773760798576?e=2147483647&v=beta&t=ypknj_2xdogzGDzOGGWL3dy33fD-Ub3BGRvIWNsMv0w",
+        "id": "7439709640268931072"
+      },
+      {
+        "interaction": "Max Loffgren commented on a post 3w",
+        "link": "https://www.linkedin.com/posts/firecrawl_introducing-our-most-accurate-search-yet-activity-7485727402686476290-8uBX",
+        "title": "Firecrawl Search + Fable 5/ 5.6 SOL is the new SOTA.",
+        "img": null,
+        "id": "7485727402686476290"
+      },
+      {
+        "interaction": "Max Loffgren commented on a post 3w",
+        "link": "https://www.linkedin.com/posts/gavin-firestone-940043254_attention-is-all-you-need-but-what-evidence-activity-7485379827366141952-PXTX",
+        "title": "Huge! It was great discussing the initial idea and seeing you ship this to users within a couple days.",
+        "img": null,
+        "id": "7485379827366141952"
+      },
+      {
+        "interaction": "Max Loffgren commented on a post 1mo",
+        "link": "https://www.linkedin.com/posts/micah-stairs_one-year-ago-i-joined-firecrawl-as-the-founding-activity-7475625740982591489-lEuE",
+        "title": "Congrats on one year!! Let\u2019s get it\ud83d\udd25",
+        "img": null,
+        "id": "7475625740982591489"
+      },
+      {
+        "interaction": "Max Loffgren liked this",
+        "link": "https://www.linkedin.com/posts/firecrawl_firecrawl-is-now-a-keyless-option-for-web-activity-7492975144265637888-J6wP",
+        "title": "Firecrawl is now a keyless option for web search in OpenCode \ud83d\udd25 Set us as your search provider & your AI agents get live results with state-of-the-art accuracy (94.7% on SimpleQA), no API key or signup at all. Just update opencode2, select Firecrawl, & start searching today!",
+        "img": "https://media.licdn.com/dms/image/v2/D4D10AQH168XYuGVTdw/videocover-high/B4DZ_xlLWSK4Ao-/0/1786464483872?e=2147483647&v=beta&t=65PnsNjmYkGlWrc0-uJ1hc5tMfpyAD_6_AdVNaMVekY",
+        "id": "7492975144265637888"
+      },
+      {
+        "interaction": "Max Loffgren liked this",
+        "link": "https://www.linkedin.com/posts/anasmasri_its-an-end-of-an-era-this-friday-was-the-activity-7492414248304930817-XhwC",
+        "title": "It\u2019s an end of an era\u2026 This Friday was the last day of my internship at MongoDB. I spent the summer on the Docs Platform team. There I worked on the platforms that support MongoDB\u2019s documentation site, pages that developers worldwide rely on every day. I kicked off an important new initiative for the team and I owned my project end to end, including designing its architecture. Making those decisions myself taught me more than anything else this summer. I also got much sharper and more efficient at building with AI tools, which enabled me to get a lot done in a short time. A big thank you to my team, and especially my mentor Mark Mwangi and manager Zachary Winters , I wouldn\u2019t have been able to do any of this without your support. Thank you to the Toronto interns, early talent team, my program advisor Shelby A. , and my inclusion guide Ali Elhawary for creating such a memorable internship experience! Grateful for the summer, can\u2019t wait for what\u2019s next!",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQEbai-w9_FU_g/feedshare-shrink_800/B56Z_pnC3kJkAg-/0/1786330757580?e=2147483647&v=beta&t=ShscHYcnEUBcmJeSHfWZaE8NxW8SQOyLTLrLEK_Sido",
+        "id": "7492414248304930817"
+      },
+      {
+        "interaction": "Max Loffgren reacted on this",
+        "link": "https://www.linkedin.com/posts/eric-ciarla_we-just-crossed-162000-stars-on-firecrawl-activity-7491549172215607296-IzZk",
+        "title": "We just crossed 162,000 stars on Firecrawl , making it one of the top 50 repos of all time. There's insatiable demand for agent-ready context, and we're just scratching the surface. Make something agents want!",
+        "img": "https://media.licdn.com/dms/image/v2/D4D22AQHV__zmSDk3pg/feedshare-shrink_800/B4DZ_dURj2IwAg-/0/1786124507839?e=2147483647&v=beta&t=1w56qe8ZpAT-PQ36Eu1Xnox_CHH4P8jtzs66aynAcXc",
+        "id": "162000"
+      },
+      {
+        "interaction": "Max Loffgren liked this",
+        "link": "https://www.linkedin.com/posts/drmiguel22_opensource-rustlang-ai-activity-7491040422505533440-_dyL",
+        "title": "Doing some research, I stumbled upon Anydoc, a new open-source document parsing engine from Firecrawl , and the performance numbers drew my attention. It's a Rust-based parser for PDFs, DOCX, PPTX, and 10 other document formats, built for local, high-speed parsing. A few highlights: \u25ab\ufe0f Sub-5ms Markdown conversion \u25ab\ufe0f 500 DOCX files parsed in just 1.7 seconds \u25ab\ufe0f Best-in-class quality across 13 document formats \u25ab\ufe0f Built in Rust \u25ab\ufe0f 100% open source This is definitively a game changer If you're building AI agents or working with document-heavy workflows, this looks worth exploring. #OpenSource #RustLang #AI #AIAgents #DocumentAI #LLM #DeveloperTools #PDF #Automation #Firecrawl Nicolas Silberstein Camara Jason Zhou Alex Nucci Bex Tuychiev Caleb Peffer Will Goldfarb Rafael Miller Nicholas Keeley Thomas Kosmas Micah Stairs Rahul Singh Kris Oei Max Loffgren @Neha Patil Gerg\u0151 M\u00f3ricz David",
+        "img": "https://media.licdn.com/dms/image/v2/D4E05AQG8KgAB-Wq9FA/videocover-high/B4EZ_VjYQ1IgBM-/0/1785994250530?e=2147483647&v=beta&t=WxG2mCfHLos2WN61l4NZ5AMVGKkr3nMFMA3UwJXbrs0",
+        "id": "7491040422505533440"
+      },
+      {
+        "interaction": "Max Loffgren liked this",
+        "link": "https://www.linkedin.com/posts/firecrawl_introducing-the-firecrawl-plugin-for-codex-activity-7491163214790062080-L7Zi",
+        "title": "Introducing the Firecrawl plugin for Codex. Give Codex access to the most accurate search available (94.7% on SimpleQA) plus tools to scrape, crawl, and interact with any site. Find us on the OpenAI plugin marketplace today!",
+        "img": "https://media.licdn.com/dms/image/v2/D4D10AQFU1zw7U-cwVQ/videocover-high/B4DZ_X1PNeKkAo-/0/1786032487524?e=2147483647&v=beta&t=2PLizkQlowVPDdzbcPCUaQFIOopZHqnoCnn_-G8xQbU",
+        "id": "7491163214790062080"
+      },
+      {
+        "interaction": "Max Loffgren liked this",
+        "link": "https://www.linkedin.com/posts/dakshg_introducing-greptile-v5-a-ground-up-rewrite-activity-7490784621257945088-6uWz",
+        "title": "Introducing Greptile v5, a ground-up rewrite of the Greptile coding agent. It catches more bugs, with higher precision, and 2x faster (~2 minutes per review) 3 things are better: First, it catches more bugs: We track positive replies like \u201cgreat catch\u201d and \u201cjust fixed\u201d per MR as a proxy for this. v4: 0.266/PR v5: 0.342/PR \u2206: 28.6% higher Second, it is higher precision. we track what %age of greptile\u2019s comments are addressed exactly as greptile recommended. this is a very strict way to measure address rate. v4: 52% v5: 66% \u2206: 14pp higher Third, it is faster! v4: 5:04 minutes v5: 2:25 minutes \u2206: -53%",
+        "img": "https://media.licdn.com/dms/image/v2/D5610AQEIIvIUKcPXHQ/videocover-high/B56Z_Sc1.zHcAo-/0/1785942214152?e=2147483647&v=beta&t=E4uwqsogwg0hA2TgeUwZBY1cPc0SBafKwcodSaSH58s",
+        "id": "7490784621257945088"
+      },
+      {
+        "interaction": "Max Loffgren liked this",
+        "link": "https://www.linkedin.com/posts/michaelwu8_excited-to-announce-that-truli-is-backed-activity-7490817470019084289-trZW",
+        "title": "Excited to announce that Truli is backed by a16z speedrun ! When Catherine Zhou and I tried to launch our own supplement in college, we experienced hours of digging through FDA regulations, lawyers too expensive to keep on retainer, and new requirements appearing faster than we could track them. And it's only getting harder. The industry keeps innovating with functional ingredients, GLP-1, and adaptogens, yet the compliance process is falling behind. Small brands can\u2019t afford it. Big companies throw headcount at it. Either way, it\u2019s slow, manual, and expensive. That's why we're building Truli : AI-native compliance for food, beverage, and supplement companies across the entire product lifecycle. We're incredibly grateful to the entire a16z Speedrun team for believing in our vision. Special thanks to Jonathan Lai , Fareed Mosavat , Andrew Chen , Joshua Lu , Kenan Saleh , Marcus Segal , Troy Kirwin , Emily Bennett , Seeam Shahid Noor , Samira Behrouzan , Macy Mills , Lester Chen , Tom Hammer , Lejla Johnsen , Andrew Lee , Jordan Mazer , Jordan Carver , Bella Nazzari , Joe G. , Marigold Vu , Jacqueline Young , Joan DeGennaro for their support. We're also deeply grateful to every customer, advisor, and regulatory expert who has helped shape what we're building. Top global CPG brands are already using Truli, so if you're a food, beverage, or supplement brand wrestling with compliance, DM me. We'd love to talk.",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQH-J2sTe-UEMQ/feedshare-shrink_800/B56Z_S6yx9G0Ag-/0/1785950056250?e=2147483647&v=beta&t=10AriSf8en8f5df5l1rKP8-5vfDoruC7eepTNEdfbNk",
+        "id": "7490817470019084289"
+      },
+      {
+        "interaction": "Max Loffgren reacted on this",
+        "link": "https://www.linkedin.com/posts/nicolas-silberstein-camara_introducing-anydoc-now-your-agents-get-100x-activity-7490436040286179328-30iS",
+        "title": "introducing anydoc now your agents get 100x faster local parsing for pdf, docx, pptx & 10 more formats - sub-5ms md conversion - 500 docx files in 1.7s - top quality across all 13 formats - rust-based - open source already powering Firecrawl /parse",
+        "img": "https://media.licdn.com/dms/image/v2/D4D05AQFUkUqnCYw82A/videocover-high/B4DZ_Nf2g5IEBM-/0/1785859109631?e=2147483647&v=beta&t=8-jBVWXG2qbIgcqpZwAmQpG2y2ZBTUaX9GqYwzSW_U4",
+        "id": "7490436040286179328"
+      },
+      {
+        "interaction": "Max Loffgren liked this",
+        "link": "https://www.linkedin.com/posts/abbas-darwich-b28124331_last-weekend-i-had-the-privilege-to-attend-activity-7490252504010604545-15jb",
+        "title": "Last weekend, I had the privilege to attend YC Startup School in San Francisco. While it's not a \"school\" in a traditional sense, I learned some amazing lessons about today's tech landscape from my class of founders and builders. - Startups aren't bound by software anymore: Some people think that \"startup == B2B Saas\", but a majority of the demos at Startup School presented robots and hypersonic jets. The world of physical AI is here, and as an EECS student, I'm excited for the opportunity to build an integrated future across hardware and software. - Build from first principles: NVIDIA got started from a textbook on computer graphics. Now it powers AI everywhere. Agents can ship code, but a deep systems understanding is essential. When I build, I combine my knowledge of the fundamentals with a passion for learning how systems work. - Don't make connections, find community: One thing that surprised me at YC was how friendly everyone was. I could wander into a conversation and everyone would pause to introduce themselves and share what they were building. It wasn't phony networking either; people genuinely wanted to help others succeed however they could. At YC, I found friends I'm looking forward to staying in touch with. Speaking of friends, I'm grateful that I spent my Startup School with people like Haley Hernandez , Heba Alazzeh , Lena Conde Araujo , Clemens Helmut Sageder , Humam Al-Shami , Ola Amr and Jasmine Chao . I would also like to thank Gabriel Dupuis and C\u00f4me ROSSARY for their cheese suggestions, and Amy Lin and Alex Epstein for the unexpected crossover. Shoutout to Innate and Lightberry for letting me hang out with your stupendous robots. Hope to see you all at the next Startup School!",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQFPDMxWdX9o9A/feedshare-shrink_1280/B56Z_EhuemGsAM-/0/1785708603675?e=2147483647&v=beta&t=5pQaoKHeftq-kALMyq0FTghQMgTApTrtrppF59mLj8I",
+        "id": "7490252504010604545"
+      }
+    ],
+    "linkedin_num_id": "1009151420",
+    "banner_image": "https://media.licdn.com/dms/image/v2/D5616AQHrjO93Mh6iMQ/profile-displaybackgroundimage-shrink_200_800/B56ZwpkkKqHAAU-/0/1770223977950?e=2147483647&v=beta&t=ENbsvfQVRaVupzbxxwDr1zZOUxHKtQhfJEW3QxztGTc",
+    "honors_and_awards": null,
+    "similar_profiles": [],
+    "default_avatar": false,
+    "memorialized_account": false,
+    "bio_links": [],
+    "first_name": "Max",
+    "last_name": "Loffgren",
+    "influencer": false,
+    "timestamp": "2026-08-12T19:11:45.486Z",
+    "input": {
+      "url": "https://www.linkedin.com/in/max-loffgren"
+    }
+  },
+  "local_photo": "data\\linkedin_photos\\max-loffgren__usr-lzKDn27SxsDAy7r.jpg"
+}

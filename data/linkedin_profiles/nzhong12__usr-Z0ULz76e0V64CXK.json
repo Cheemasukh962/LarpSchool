@@ -1,0 +1,49 @@
+{
+  "luma_user_id": "usr-Z0ULz76e0V64CXK",
+  "csv_name": "Nathan Zhong",
+  "csv_linkedin": "https://www.linkedin.com/in/nzhong12",
+  "enriched_at": "2026-08-12T19:13:35.733863+00:00",
+  "batch_id": "sd_msqguuzo2o546dm49e",
+  "profile": {
+    "id": "nzhong12",
+    "name": "Nathan Z.",
+    "city": "Washington DC-Baltimore Area",
+    "country_code": "US",
+    "position": null,
+    "about": "nathan_zhong@brown.edu",
+    "current_company": {
+      "link": "https://www.linkedin.com/company/coinbase?trk=public_profile_topcard-current-company",
+      "name": "Coinbase",
+      "company_id": "coinbase",
+      "location": null
+    },
+    "experience": null,
+    "url": "https://www.linkedin.com/in/nzhong12",
+    "educations_details": "Brown University",
+    "education": null,
+    "avatar": "https://media.licdn.com/dms/image/v2/D4E03AQEItqkQIjD4iQ/profile-displayphoto-scale_200_200/B4EZi2AMZ9GcAY-/0/1755400161324?e=2147483647&v=beta&t=kHKIol21VtJsKiKbgyxEfMMh2lnhGOdTe-9-hFB8dRY",
+    "followers": 2151,
+    "connections": 500,
+    "current_company_company_id": "coinbase",
+    "current_company_name": "Coinbase",
+    "location": null,
+    "input_url": "https://www.linkedin.com/in/nzhong12",
+    "linkedin_id": "nzhong12",
+    "activity": null,
+    "linkedin_num_id": "958757829",
+    "banner_image": "https://static.licdn.com/aero-v1/sc/h/5q92mjc5c51bjlwaj3rs9aa82",
+    "honors_and_awards": null,
+    "similar_profiles": [],
+    "default_avatar": false,
+    "memorialized_account": false,
+    "bio_links": [],
+    "first_name": "Nathan",
+    "last_name": "Z.",
+    "influencer": false,
+    "timestamp": "2026-08-12T19:12:36.535Z",
+    "input": {
+      "url": "https://www.linkedin.com/in/nzhong12"
+    }
+  },
+  "local_photo": "data\\linkedin_photos\\nzhong12__usr-Z0ULz76e0V64CXK.jpg"
+}

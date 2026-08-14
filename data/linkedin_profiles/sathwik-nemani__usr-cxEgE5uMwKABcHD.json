@@ -1,0 +1,323 @@
+{
+  "luma_user_id": "usr-cxEgE5uMwKABcHD",
+  "csv_name": "Sathwik Nemani",
+  "csv_linkedin": "https://www.linkedin.com/in/sathwik-nemani",
+  "enriched_at": "2026-08-12T19:16:49.718286+00:00",
+  "batch_id": "sd_msqgxyk1xj7v4ip1",
+  "profile": {
+    "id": "sathwik-nemani",
+    "name": "Sathwik Nemani",
+    "city": "San Francisco Bay Area",
+    "country_code": "US",
+    "position": null,
+    "about": "I am a CS major at Georgia Tech seeking mentorship from professionals in the tech space\u2026",
+    "current_company": {
+      "link": "https://www.linkedin.com/company/cloudflare?trk=public_profile_topcard-current-company",
+      "name": "Cloudflare",
+      "company_id": "cloudflare",
+      "location": null
+    },
+    "experience": null,
+    "url": "https://www.linkedin.com/in/sathwik-nemani",
+    "people_also_viewed": [
+      {
+        "profile_link": "https://www.linkedin.com/in/guy-la-rocque-m-m-0b615929",
+        "name": "Guy La Rocque, M.M",
+        "about": "ROCK Sports, LLC",
+        "location": "24K followers Newport Beach, CA"
+      },
+      {
+        "profile_link": "https://www.linkedin.com/in/alton-wilson-ms-mba-pmq-racr-sphr-shrm-scp-sta-78585a28",
+        "name": "Alton Wilson, MS, MBA, PMQ, RACR, SPHR , SHRM-SCP, STA",
+        "about": "NYC Health + Hospitals",
+        "location": "34K followers Bronx, NY"
+      },
+      {
+        "profile_link": "https://www.linkedin.com/in/jennlongbine",
+        "name": "Jenn Longbine",
+        "about": null,
+        "location": "32K followers Portland, OR"
+      },
+      {
+        "profile_link": "https://www.linkedin.com/in/larry-diamond-588b1328",
+        "name": "Larry Diamond",
+        "about": "Diamond Consultants",
+        "location": "26K followers Clarksdale, MS"
+      },
+      {
+        "profile_link": "https://www.linkedin.com/in/frankvagi",
+        "name": "Frank Vagi",
+        "about": "Finalsite",
+        "location": "30K followers United States"
+      },
+      {
+        "profile_link": "https://www.linkedin.com/in/arizoldan",
+        "name": "Ari Zoldan",
+        "about": "Quantum Media Group, LLC",
+        "location": "33K followers New York, NY"
+      },
+      {
+        "profile_link": "https://www.linkedin.com/in/robertjack",
+        "name": "Robbie Jack",
+        "about": "GrowthMarketer",
+        "location": "30K followers Boulder, CO"
+      },
+      {
+        "profile_link": "https://www.linkedin.com/in/michaelbjamesdigitalprintingevolvingedge",
+        "name": "Michael James",
+        "about": "Regenerative Lawn and Garden",
+        "location": "26K followers Des Moines, IA"
+      },
+      {
+        "profile_link": "https://www.linkedin.com/in/nancy-washburne-a9324a29",
+        "name": "Nancy Washburne",
+        "about": "Nanmar International, Inc.",
+        "location": "29K followers East Lansing, MI"
+      },
+      {
+        "profile_link": "https://www.linkedin.com/in/cmayaud",
+        "name": "Christian Mayaud",
+        "about": "The Verticom Group [cmayaud@theverticomgroup.com]",
+        "location": "29K followers Yonkers, NY"
+      }
+    ],
+    "educations_details": "Georgia Institute of Technology",
+    "education": [
+      {
+        "title": "Georgia Institute of Technology",
+        "url": "https://www.linkedin.com/school/georgia-institute-of-technology/",
+        "start_year": "2023",
+        "end_year": "2026",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      },
+      {
+        "start_year": "2019-08",
+        "end_year": "2023-06",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      },
+      {
+        "start_year": "2021",
+        "end_year": "2021",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      },
+      {
+        "start_year": "2020",
+        "end_year": "2020",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      }
+    ],
+    "avatar": "https://media.licdn.com/dms/image/v2/C5603AQFMZ7bX_FZWhw/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1617257088093?e=2147483647&v=beta&t=UixkRl_kLcCrSaVHiOZsyKwozm3A1dw1-z0Cj3Yo4jE",
+    "courses": [
+      {
+        "subtitle": "CS 1332",
+        "title": "Data Structures and Algorithms"
+      },
+      {
+        "subtitle": "CS 2050",
+        "title": "Discrete Mathematics"
+      },
+      {
+        "subtitle": "CS 1331",
+        "title": "Introduction to Object-Oriented Programming"
+      },
+      {
+        "subtitle": "MATH 1554",
+        "title": "Linear Algebra"
+      },
+      {
+        "subtitle": "CS 2340",
+        "title": "Objects and Design"
+      }
+    ],
+    "languages": [
+      {
+        "subtitle": "Native or bilingual proficiency",
+        "title": "Telugu"
+      },
+      {
+        "subtitle": "Native or bilingual proficiency",
+        "title": "English"
+      },
+      {
+        "subtitle": "Native or bilingual proficiency",
+        "title": "Spanish"
+      }
+    ],
+    "certifications": [
+      {
+        "meta": "Issued Sep 2020",
+        "subtitle": "Stanford Online",
+        "title": "Machine Learning",
+        "credential_url": null,
+        "credential_id": null
+      },
+      {
+        "meta": "Issued Aug 2020",
+        "subtitle": "Vanderbilt University",
+        "title": "Introduction to Programming with MATLAB",
+        "credential_url": null,
+        "credential_id": null
+      },
+      {
+        "meta": "Issued Jul 2020",
+        "subtitle": "Coursera",
+        "title": "Autodesk AutoCAD User Certification",
+        "credential_url": null,
+        "credential_id": null
+      },
+      {
+        "meta": "Issued Jul 2020",
+        "subtitle": "Coursera",
+        "title": "Simulation Analysis for Mechanical Engineers with Autodesk Fusion 360 with Honors",
+        "credential_url": null,
+        "credential_id": null
+      },
+      {
+        "meta": "Issued Jun 2020",
+        "subtitle": "Georgia Institute of Technology",
+        "title": "Introduction to Engineering Mechanics with Honors",
+        "credential_url": null,
+        "credential_id": null
+      }
+    ],
+    "volunteer_experience": [
+      {
+        "duration": "May 2020 \u00b7 - Present \u00b7 \n\n6 years 4 months",
+        "duration_short": "- Present",
+        "info": "- Gave lessons to 3rd to 6th-grade students about the fundamentals of physical and life sciences - Worked to create an interactive virtual environment for students to perform science experiments",
+        "start_date": "May 2020",
+        "subtitle": "Science Gurus",
+        "title": "Student Mentor"
+      },
+      {
+        "cause": "Science and Technology",
+        "duration": "Oct 2019 \u00b7 - Present \u00b7 \n\n6 years 11 months",
+        "duration_short": "- Present",
+        "info": "- Volunteered at the aviation museum for 250+ hours while working on the design and programming of the F-18 Hornet flight simulator, made with scrap parts - Lead multiple tours describing the many warplanes in the museum, primarily focusing on the experiences that many of my co-volunteers have had as air-force veterans",
+        "start_date": "Oct 2019",
+        "subtitle": "Oakland Aviation Museum",
+        "title": "Student Volunteer"
+      }
+    ],
+    "followers": 1271,
+    "connections": 500,
+    "current_company_company_id": "cloudflare",
+    "current_company_name": "Cloudflare",
+    "projects": [
+      {
+        "title": "Pocketable Water Filtration System",
+        "start_date": "Jan 2021",
+        "description": "Constructed a reusable, low-cost, and compact water filter that removes arsenic, nitrate, and other pathogens with a 99.5% efficacy rate, in order to provide clean drinking access to underprivileged communities"
+      },
+      {
+        "title": "Timeout Podcast",
+        "start_date": "Apr 2020",
+        "description": "- Produced general entertainment content regarding topics such as sports, social media, and social awareness"
+      }
+    ],
+    "location": null,
+    "input_url": "https://www.linkedin.com/in/sathwik-nemani",
+    "linkedin_id": "sathwik-nemani",
+    "activity": [
+      {
+        "interaction": null,
+        "link": "https://www.linkedin.com/posts/sahil-chatiwala_hey-guys-im-very-excited-to-give-you-a-activity-7299879424353533954-5G-B",
+        "title": "Hey guys, I'm very excited to give you a little look into what I\u2019ve been working on with Sathwik Nemani and Keerthi Kaashyap ! We noticed that B2B support channels often get cluttered and information transfer is highly manual/laborious, leading to lost information, breached SLAs, and longer resolution times. Whiteboard is a platform that intelligently extracts and synthesizes data from a wide variety of sources such as conversations, knowledge bases, code, etc. into a unified searchable framework to improve the efficiency of your customer support pipeline. Here's a peek into our conversation-to-ticketing workflow for Slack, so your team never has to spend hours manually filtering through 10s or 100s of Slack channels for customers issues. Interested in trying Whiteboard? Join our waitlist: https://tally.so/r/w5qEbN Sign up for a demo: https://lnkd.in/dby4pTUR We\u2019d love to get your feedback and iterate alongside you and your team! There\u2019s a lot more coming in the next few weeks. https://usewhiteboard.io ...more ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D4E05AQFT0yflkV032A/feedshare-thumbnail_720_1280/B4EZU5hnIzH0A8-/0/1740426868504?e=2147483647&v=beta&t=qOxn_TXFgyLNVnmuUNYo5Hk8n01LIQ9wrug5qUgenw4",
+        "id": "7299879424353533954"
+      },
+      {
+        "interaction": null,
+        "link": "https://www.linkedin.com/posts/avirath-tibrewala_hey-everyone-i-am-so-happy-and-grateful-activity-7185138519214899200-Ez1j",
+        "title": "Hey everyone! I am so happy and grateful to launch Weave\u2019s beta today with Sashank and Sathwik ! In one line, Weave is an app that autodetects your screenshots and uses AI to find relevant links from screenshots and makes them actionable. Think about all screenshots you take - images of reels or TikToks of good restaurants in your area, Twitter bookmarks, products you buy or a long list of links. All these images just gather virtual dust in your Photos library! The biggest problem is that these screenshots are not actionable upon. If I had to use any of the images I stated above, I\u2019d actually have to open a browser, type my query again and surf to get to my link. Weave seamlessly detects your screenshots from your Photos folder, filters away sensitive and private images, and contextually understands the rest to find relevant links to your images. For example, a marketplace site for a product you want to buy, the Maps/Reservation/Web link to a reel of the best mexican restaurants in NYC and so on. Please sign up for our beta here: https://www.weave.team ...more ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D5605AQEZdihnX7fcTw/videocover-high/videocover-high/0/1713070509706?e=2147483647&v=beta&t=dAYCbR8aQR7cY_ucsaA9_hbVLtW7yJBz0KKGyhG-7Fw",
+        "id": "7185138519214899200"
+      },
+      {
+        "interaction": null,
+        "link": "https://www.linkedin.com/posts/fintechgeorgiatech_tally-forms-activity-7152061802715979776-CI8v",
+        "title": "We're thrilled to announce that Fintech @ GT is officially back as a registered RSO and we're gearing up for an incredible year ahead! With a slate of exciting projects ranging from the continuing credit card selector project to new ones at the intersection of Machine Learning and ERP systems, we have a full slate of projects for 2024! But that's not all \u2013 we're also planning a series of engaging events connecting with the broader Fintech community in Atlanta. This is your chance to network, learn, and collaborate with industry leaders and like-minded enthusiasts. We're looking for passionate individuals who have a keen interest in Fintech and a drive to build and lead. Whether you are experienced or a novice in the field, we want you! Click on this link to fill out our new interest form and join the club: https://tally.so/r/wveNWA ...more ...more",
+        "img": "https://media.licdn.com/dms/image/sync/v2/D5627AQFkVZ6bUIdqHA/articleshare-shrink_800/articleshare-shrink_800/0/1711239198510?e=2147483647&v=beta&t=o9vT48mzFr_uJ9krmA5BWckXPC2gwiHXJt9V3ZYZ2PI",
+        "id": "7152061802715979776"
+      },
+      {
+        "interaction": "Sathwik Nemani commented on a post 19h",
+        "link": "https://www.linkedin.com/posts/bryandbecker_today-we-say-goodbye-to-some-of-our-interns-activity-7491557531056754688-hTtF",
+        "title": "Great working with you, Bryan! Thank you!",
+        "img": null,
+        "id": "7491557531056754688"
+      },
+      {
+        "interaction": "Sathwik Nemani liked this",
+        "link": "https://www.linkedin.com/posts/avirath-tibrewala_right-before-my-first-day-at-georgia-institute-activity-7488091852429193216-brXR",
+        "title": "Right before my first day at Georgia Institute of Technology , I watched one of my favorite movies, The Internship. A movie about one of my favorite companies, filmed on the very campus that would become my alma mater. A few years later, it's pretty cool to see life come full circle. Excited to be joining Google as a Software Engineer in Sunnyvale, where I'll be working on AI and agents. Looking forward to building, learning, and meeting some incredible people along the way. If you're in the Bay, let's catch up! Grateful to Janelle Orner for making this happen and Mitchell Irvin for his advice throughout!",
+        "img": "https://media.licdn.com/dms/image/v2/D4D22AQFOB9GhKthoJw/feedshare-shrink_800/B4DZ.sL3FEGkAc-/0/1785300218970?e=2147483647&v=beta&t=yyrdKCEgXRyV_I-TTnldZC2h3ditOjU3XJpIk31xFJA",
+        "id": "7488091852429193216"
+      },
+      {
+        "interaction": "Sathwik Nemani liked this",
+        "link": "https://www.linkedin.com/posts/atharvanev_this-past-spring-i-presented-a-poster-at-activity-7487639113857368064-0EPN",
+        "title": "This past spring, I presented a poster at UC Riverside's Undergraduate Research Symposium on multimodal RAG over 5G specifications. It was the end of about a year of work: finding the problem, learning the fundamentals, building the thing, then rebuilding the parts I got wrong. 5G specs run thousands of pages, dense with diagrams and tables. I built a retrieval pipeline over them and tested what actually works on documentation that dense. The main comparison was between two ways of handling figures. One embeds images and text together in a single shared space. The other has a vision model describe every figure in plain text, then embeds only that. The whole thing runs on open weights in the 3 to 4 billion parameter range, locally with Ristretto-3B doing the figure descriptions, nomic-embed-text and CLIP as the two embedding paths, and Qwen and Gemma as base models, served through Ollama and Weaviate in Docker. I used small models deliberately so the results reflect the retrieval pipeline, not the raw strength of a frontier model. Scored against the ORAN-Bench-13K benchmark, the text-grounded approach won clearly. For specs this text-heavy, cross-modal comparison mostly introduces noise. Keyword search also carried more weight than I expected, and the two embedding types responded to query blending in opposite directions, which points to dynamic tuning per query. I'm continuing this work in the lab, in two directions. First, better evaluation: multiple-choice accuracy only tells you a system picked the right answer, not whether it actually understood the spec, so I'm looking at stronger evaluation strategies. Second, agentic capabilities: moving past answering questions about the spec toward actually applying it, using what the pipeline retrieves to reason about real codebases and real deployment scenarios. A poster makes a year look a lot more linear than it was. Funded and guided by the UCR Chancellor's Research Fellowship , with thanks to my PI, Dr. Zhaowei Tan .",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQEn3TRDUeASIQ/feedshare-image-high-res/B56Z.lwFfvK4AY-/0/1785192276988?e=2147483647&v=beta&t=0JxtUOMnYDeE3RPKoipcCYuZcIT0SVsqWwNhEhjw92M",
+        "id": "7487639113857368064"
+      },
+      {
+        "interaction": "Sathwik Nemani liked this",
+        "link": "https://www.linkedin.com/posts/naman10goyal_excited-to-announce-that-ive-graduated-with-activity-7466866087079485440-k18Z",
+        "title": "Excited to announce that I\u2019ve graduated with my Master\u2019s in Machine Learning and Bachelor\u2019s in Computer Science in 3 years at Georgia Tech. Regarding next steps, I\u2019ll be heading to San Francisco to join OpenAI as a Member of Technical Staff on the ChatGPT ImageGen team. Super grateful to my family and friends for their constant support. Looking forward to the journey ahead!",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQGK9bgxj1TabQ/feedshare-image-high-res/B56Z5.IovKIoAI-/0/1780232654202?e=2147483647&v=beta&t=HVuj3ZXyZFNTpwqh9MFgvrpKaUAvuPNoUo9H_W8kGrY",
+        "id": "7466866087079485440"
+      },
+      {
+        "interaction": "Sathwik Nemani liked this",
+        "link": "https://www.linkedin.com/posts/jesseli751_sf-is-ambitious-but-not-aspirational-i-activity-7461095875621347328-IZzy",
+        "title": "SF is ambitious, but not aspirational. I will say it: Most founders I meet do not truly care about bringing value. You can tell because the gravitational pull of conversation goes towards capturing wealth, not creating it. You know the talk. Who raised the latest round, the trends VC\u2019s will overvalue your company on, the hottest companies. There is a certain glee, a gold rush frenzy. They are still smart, and still work day and night (or so they claim). Some of them will succeed, massively. But every founder I talk to with a truly solid company - the kind of company that will probably still be around in 5 years - lies on the value side of the equation. In a world where people focus entirely on growing fast (and of course, I care about this too), what I\u2019m really interested in is: who will still be around in 5, 10, 50 years? - The photo is with some founders Roop Pal Puneet Sukhija I know will be around :)",
+        "img": "https://media.licdn.com/dms/image/v2/D4D22AQHfQuDveMnsPA/feedshare-shrink_800/B4DZ4sjKd3JUAc-/0/1778863876261?e=2147483647&v=beta&t=zQNz10RS4dt_GydyV9_s8i6kkeE6QLqI6km7g9PD-1k",
+        "id": "7461095875621347328"
+      },
+      {
+        "interaction": "Sathwik Nemani liked this",
+        "link": "https://www.linkedin.com/posts/vanshn123_happy-to-share-ive-accepted-an-offer-to-activity-7443324230517055488-T0m1",
+        "title": "Happy to share I've accepted an offer to join Amazon Web Services (AWS) this summer as a software engineer intern in Atlanta! Thankful to everyone who encouraged me, looking forward to a summer of learning and growth!",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQGBkKin2CYnng/feedshare-shrink_1280/B4EZ0v_8jMGkAM-/0/1774626785783?e=2147483647&v=beta&t=sKDUiCwCrjtgj9fMGVkt6TUG1OPyBS26tbcZ5pgVluc",
+        "id": "7443324230517055488"
+      }
+    ],
+    "linkedin_num_id": "814460762",
+    "banner_image": "https://media.licdn.com/dms/image/v2/D5616AQG3nDqfa5ZD8w/profile-displaybackgroundimage-shrink_200_800/B56ZmWhz8GJwAU-/0/1759167070595?e=2147483647&v=beta&t=JWXpiHafOzW7lvRJbLekDvA-Ehl9S4LEZai8NINL_fE",
+    "honors_and_awards": [
+      {
+        "title": "Inspire Runner-Up Award",
+        "publication": "FIRST",
+        "date": "2022-01-01T00:00:00.000Z",
+        "description": null
+      },
+      {
+        "title": "Motivate Award",
+        "publication": "FIRST",
+        "date": "2021-03-01T00:00:00.000Z",
+        "description": null
+      }
+    ],
+    "similar_profiles": [],
+    "default_avatar": false,
+    "memorialized_account": false,
+    "bio_links": [],
+    "first_name": "Sathwik",
+    "last_name": "Nemani",
+    "influencer": false,
+    "timestamp": "2026-08-12T19:15:02.944Z",
+    "input": {
+      "url": "https://www.linkedin.com/in/sathwik-nemani"
+    }
+  },
+  "local_photo": "data\\linkedin_photos\\sathwik-nemani__usr-cxEgE5uMwKABcHD.jpg"
+}

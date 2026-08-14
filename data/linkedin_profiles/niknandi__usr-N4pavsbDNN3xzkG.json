@@ -1,0 +1,181 @@
+{
+  "luma_user_id": "usr-N4pavsbDNN3xzkG",
+  "csv_name": "Nik Nandi",
+  "csv_linkedin": "https://www.linkedin.com/in/niknandi",
+  "enriched_at": "2026-08-12T19:13:35.738454+00:00",
+  "batch_id": "sd_msqguuzo2o546dm49e",
+  "profile": {
+    "id": "niknandi",
+    "name": "Nik N.",
+    "city": "San Francisco Bay Area",
+    "country_code": "US",
+    "position": null,
+    "about": "As a Co-Founder at Vene Health and a Machine Learning Researcher at Georgia Tech\u2026",
+    "current_company": {
+      "link": "https://www.linkedin.com/company/vene-health?trk=public_profile_topcard-current-company",
+      "name": "Vene Health",
+      "company_id": "vene-health",
+      "location": null
+    },
+    "experience": null,
+    "url": "https://nl.linkedin.com/in/niknandi",
+    "educations_details": "a16z speedrun",
+    "education": [
+      {
+        "start_year": "2022-06",
+        "end_year": "2026-12",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      },
+      {
+        "start_year": "2022-06",
+        "end_year": "2025-06",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      }
+    ],
+    "avatar": "https://media.licdn.com/dms/image/v2/D4E03AQHk5j2D0qBCjA/profile-displayphoto-scale_200_200/B4EZxatoDRJMAY-/0/1771048436429?e=2147483647&v=beta&t=qOSqfos-6Z_YcmEPFyfMzu1fEXSVM0kV0wwaoN2N4Gc",
+    "languages": [
+      {
+        "subtitle": "Native or bilingual proficiency",
+        "title": "English"
+      }
+    ],
+    "followers": 1240,
+    "connections": 500,
+    "current_company_company_id": "vene-health",
+    "current_company_name": "Vene Health",
+    "location": null,
+    "input_url": "https://www.linkedin.com/in/niknandi",
+    "linkedin_id": "niknandi",
+    "activity": [
+      {
+        "interaction": null,
+        "link": "https://www.linkedin.com/posts/sujald_last-week-i-flew-2000-miles-with-flowers-activity-7477390471405776896-EFoV",
+        "title": "Last week, I flew 2,000 miles with flowers and donuts for a client's team when they said they were too busy to meet. Most people would've said, \"Okay, let's find time next week,\" but we showed up at their door to show our support for the hard work they're doing. Thanks, Trinity Life at Home, especially Paula Fine and Bill Holbrook , for having the Vene Health team, and happy late CNA Appreciation Week! Aritra Saha Nik N. Trinity Life at Home ...more ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQGajHkd0BaqpQ/feedshare-shrink_800/B56Z7_.9WFG8Ac-/0/1782411155104?e=2147483647&v=beta&t=hEp4UFlxwXoIuybEHF1k1std_se-2gz_4bbk0fhK0yo",
+        "id": "2000"
+      },
+      {
+        "interaction": null,
+        "link": "https://www.linkedin.com/posts/aritras_last-week-the-vene-health-team-flew-back-activity-7475962085009498113-ImBk",
+        "title": "Last week, the Vene Health team flew back to Atlanta for this. It was CNA Appreciation Week at Trinity Life at Home, and as former caregivers ourselves, we knew we couldn't let it pass without showing up. Flowers. Donuts. Hugs. A small gesture for people who give everything every single day. CNAs don't get nearly enough recognition for the work they do. The early mornings, the long shifts, the quiet moments of compassion that no one sees. We see them. A huge thank you to Bill Holbrook and Paula Fine for welcoming us so warmly, and to every CNA at Trinity Life at Home: you are the heartbeat of this industry! ...more ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQEUzaFo2w3Htw/feedshare-shrink_800/B4EZ7_z5j6IAAc-/0/1782408256010?e=2147483647&v=beta&t=cAwM0p7bykT9cuuxHgHmuyE308HdgBf6PlRUqm4XxkQ",
+        "id": "7475962085009498113"
+      },
+      {
+        "interaction": null,
+        "link": "https://www.linkedin.com/posts/aritras_i-left-xai-and-apple-two-places-people-spend-activity-7473504903945162752-tbMt",
+        "title": "I left xAI and Apple , two places people spend careers trying to get into, and I walked out of both. I learned more in those rooms than I have anywhere else, and the people in them are some of the most brilliant, generous humans I've had the luck to work beside, but you can't build a startup with one foot in someone else's. I went all-in on Vene Health to change the future of caregiving last month in SF, heads down building and more bullish on it every day with Sujal Dhakal and Nik N. . More soon : ) ...more ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQFN5sNPL1nAXw/feedshare-shrink_800/B56Z7c5G6VGsAg-/0/1781822418835?e=2147483647&v=beta&t=p8VvDmjgJRYf-OEkJF8CzbR8U6ngMGgc-d28GRsbpuY",
+        "id": "7473504903945162752"
+      },
+      {
+        "interaction": null,
+        "link": "https://www.linkedin.com/posts/michaelgalarnyk_kdd2026-machinelearning-artificialintelligence-activity-7472706019656380417-UBFp",
+        "title": "\ud83d\udcc4 What can IPO filings reveal when we analyze both their text and visuals at scale? Excited to share our #KDD2026 paper, \u201cIPO-Mine: A Toolkit and Dataset for Section-Structured Analysis of Long, Multimodal IPO Documents.\u201d IPO filings are some of the most important documents companies release before entering public markets. They describe a company\u2019s business, financials, and risks, but they are also long, messy, and multimodal: text, tables, charts, figures, logos, maps, and more. To study these filings at scale, we introduce IPO-Mine: an open-source toolkit and dataset for analyzing IPO filings with AI. \ud83d\udd11 A few highlights: - 109,000+ filings and amendments from 1994 - early 2026 - 76,000+ extracted images from filings - Section-structured text extraction for long regulatory documents - Human-annotated benchmarks for section extraction and image classification - Analysis of how disclosure has changed over time - Expert-annotated evaluation of chart quality and visual design choices One result we found especially interesting: IPO text becomes more standardized over time, while visual content becomes more structurally diverse. That creates a growing modality gap for AI systems analyzing financial disclosures. This project was a true team effort with Siddharth Lohani (co-first author), Vidhyakshaya Kannan , Nik N. , Aman Patel , Liqin Ye , Arnav H. , Rutwik Routu , Prasun Banerjee , Siddhartha (Sid) Somani , and Sudheer Chava . Paper in the comments. Georgia Tech Financial Services Innovation Lab Georgia Tech Master of Science in Quantitative and Computational Finance Georgia Tech Master's in Analytics Georgia Tech Center for Finance and Technology #MachineLearning #ArtificialIntelligence #MultimodalAI #FinanceAI #FinancialMarkets #IPO #FinTech #DataScience #LLM #MLLM #GeorgiaTech #DellTech #DellProPrecision #NVIDIA ...more ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQGb2_MBmVoWVQ/feedshare-shrink_800/B56Z7Rihg1K4Ac-/0/1781631949160?e=2147483647&v=beta&t=_ti1nsJTCMYmM_R9Mzec22D19XkKwz6uqaQRIzWedtE",
+        "id": "7472706019656380417"
+      },
+      {
+        "interaction": null,
+        "link": "https://www.linkedin.com/posts/www%2Eafore%2Evc_fir-u-is-officially-underway-28-student-activity-7470553442827018240-EyXT",
+        "title": "FIR U is officially underway: 28 student founders moved to San Francisco for the summer to build companies from our office! One is 17, he's from Kazakhstan, and built a game with 12M users - Igor Martynyuk . Some came with Apple and xAI internships and published ML papers - Aritra Saha , Nik N. & Sujal Dhakal . One left Stanford University to be here - Alex Zhang . Jathan Pai & Ibrahim Mohsin are childhood best friends, now co-founders. We packed week one with workshops, office hours, a first cohort dinner, and closed it out with kayaks in Sausalito. In their words: \"First week in SF with Afore Capital has been insane. Going from solo grinding in a Kazakh village to being surrounded by founders who live to build is a massive change. Also, the unlimited drinks and snacks in the office are amazing :)\" - Igor Martynyuk Week two is already underway! Ray Cabrera , Anirudh (Ani) Manjesh , Ludovico Cordara , Aarush Yadav , Arnav Kumar , Hazyk Obaid , Shariq Hafizi , Shrey Parekh , Aryan Aladar , Sachin Srikanth , Farhan Chowdhury , Uttej Mannava, Samvrit Rao , Arjun Bakhale , Rishi Kanaparti , Ishaan Sharma , Darius Tabatabai , Akshay Mysore , Sonnet Xu , Jessie Dong , Antonio Alonso-Stepanov Kayla Kavanaugh, Yulia Urs (Porfireva), Eli Bunting \ud83d\ude80 Think you should be in the next cohort? Link in comments. ...more ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQHRFZwaniC6CA/feedshare-shrink_1280/B56Z6y8xC6G0AU-/0/1781118734836?e=2147483647&v=beta&t=GSjqJKC_fdEz3tbpFYyHDSlOQhu5iSsfvq4CXtLDbX8",
+        "id": "28"
+      },
+      {
+        "interaction": "Nik N. shared this",
+        "link": "https://www.linkedin.com/posts/niknandi_2-years-ago-i-wouldve-killed-to-be-in-yc-activity-7469825847554674688-2Fyi",
+        "title": "2 years ago I would've killed to be in YC. Last week I rejected the interview. I keep waiting to feel like I made a mistake. So far, nothing. The timing just wasn't right, or maybe something else was. More soon. ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQGzCeE4EEwCOQ/feedshare-image-high-res/B56Z6onBujHEAU-/0/1780945263932?e=2147483647&v=beta&t=G3A_9o-m31A9-kTkP-5ofcO4Nnubq0NMvz_8BbJVXZo",
+        "id": "7469825847554674688"
+      },
+      {
+        "interaction": null,
+        "link": "https://www.linkedin.com/posts/www%2Eafore%2Evc_meet-the-fir-u-summer-2026-cohort-the-activity-7467703306874888192-OgHX",
+        "title": "Meet the FIR U Summer 2026 cohort \ud83c\udf93 The most ambitious young builders we could find: Sonnet Xu , Jessie Dong , Antonio Alonso-Stepanov , Anirudh (Ani) Manjesh , Ray Cabrera , Ludovico Cordara , Sujal Dhakal , Aritra Saha , Nik N. , Jathan Pai , Ibrahim Mohsin , Aarush Yadav , Arnav Kumar , Igor Martynyuk , Hazyk Obaid , Shariq Hafizi , Shrey Parekh , Aryan Aladar , Sachin Srikanth , Farhan Chowdhury , Uttej Mannava, Alex Zhang , Samvrit Rao , Arjun Bakhale , Rishi Kanaparti , Ishaan Sharma , Darius Tabatabai , Akshay Mysore . They come from Stanford University , Princeton University , University of California, Berkeley , Columbia University , UCLA , and beyond, and they're already building across AI agents, healthcare, hardware reliability, supply chain, and more. This is going to be a special summer. Welcome!\ud83d\udc99 ...more ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQHd6BxC3KEiEw/feedshare-image-high-res/B56Z6KcleNHwAU-/0/1780439210210?e=2147483647&v=beta&t=sFtQ71yhqqEXIomIuMCX9yyWKLWA6VlZWjz0Ozi6Xnc",
+        "id": "2026"
+      },
+      {
+        "interaction": "Nik N. shared this",
+        "link": "https://www.linkedin.com/posts/niknandi_im-super-excited-to-annouce-that-we-have-activity-7465480071836004353-LaCW",
+        "title": "I'm super excited to annouce that we have raised funding for Vene Health and joined the Afore Capital FIRU program! I moved to SF this week and it has been a crazy ride and I'm hoping to share more as stuff comes out! If you're building in AI and proactive systems, or just want to grab coffee in SF, I'd love to connect. ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQFydrdwMtOuRw/feedshare-image-high-res/B4EZ5q2kGGI0AU-/0/1779909149923?e=2147483647&v=beta&t=JdvhcT8XA4E6O0soTK1EMCKRrglAxZfVdGxlOONEZpU",
+        "id": "7465480071836004353"
+      },
+      {
+        "interaction": null,
+        "link": "https://www.linkedin.com/posts/sujald_yesterday-i-moved-to-san-francisco-to-go-activity-7465464425051762689-ZnO0",
+        "title": "Yesterday, I moved to San Francisco to go all in on my startup. Even a month ago, leaving everything to do this would\u2019ve felt unreal, but I\u2019m excited to share that I\u2019ve raised funding from Afore Capital to build Vene Health and will be participating in Afore's FIRU program this summer! If you\u2019re working on AI, healthcare, proactive systems, or want to chat about what I\u2019m building, I\u2019d love to connect. I\u2019ll be sharing more soon, including upcoming hiring! ...more ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQGcgkPzS_LhpA/feedshare-image-high-res/B56Z5qoUo_IoAU-/0/1779905419601?e=2147483647&v=beta&t=LOTK_NA74VJMv32Rn_Z1oZvS0SEKN24yhmQtL_HkBFM",
+        "id": "7465464425051762689"
+      },
+      {
+        "interaction": "Nik N. commented on a post 1w",
+        "link": "https://www.linkedin.com/posts/fir-u-s26-just-crossed-the-finish-line-fir-activity-7488361339523018752-k7dw",
+        "title": "thank you Yulia for an amazing summer!",
+        "img": null,
+        "id": "7488361339523018752"
+      },
+      {
+        "interaction": "Nik N. liked this",
+        "link": "https://www.linkedin.com/posts/sujald_today-im-the-first-nepali-founder-to-join-activity-7492610684564779009-f6zf",
+        "title": "Today I'm the first Nepali founder to join a16z speedrun , where I'm building Vene Health . I was born in Madrahani, a small village in Nepal, and immigrated to America not knowing what a startup even was. Here is my journey: Growing up in Madrahani, my dream job was to be the guy who stood outside buses calling for passengers. Eventually, my family immigrated to America through the diversity visa. America gave my family an incredible opportunity, but it also introduced obstacles. My dad became a disabled veteran serving the US army, while my mom's autoimmune disease became increasingly severe. I found myself understanding firsthand just how frustrating and exhausting healthcare in America could be for a family. At Georgia Tech, I realized I wanted to build what I wished my family had all those years to take the burden off of families like mine. That became Vene Health . Eventually, I made the decision to drop out of Georgia Tech and build Vene full-time. It wasn't an easy decision. I was walking away from school, my job at a rising startup, and the much safer path in front of me to bet everything on this. Then Afore Capital took a bet on us, and I moved to San Francisco to go completely all in. Today, a16z speedrun is taking another bet on us. It's crazy to think that the kid from Madrahani is now here. I'm incredibly proud to represent Nepal along the way.\ud83c\uddf3\ud83c\uddf5 None of this happened by myself. Thanks to my co-founders building this with me: Aritra Saha and Nik N. As well as: Emily Bennett Fareed Mosavat Kayla Kavanaugh Neel Jain Vikranth Keerthipati Andrew Chen Joshua Lu Jonathan Lai Lester Chen Kenan Saleh Troy Kirwin Bella Nazzari Jordan Mazer Jordan Carver Macy Mills Jacqueline Young Tabish Gilani Joan DeGennaro And many others who believed in me, helped me, challenged me, or opened a door along the way.",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQHadn8qiK-TuQ/feedshare-shrink_800/B4EZ_p_fLzJQAc-/0/1786337162544?e=2147483647&v=beta&t=_NMr0Jzee-pkswn3s3ookw8P8TZcURdnowoJmb_RVqg",
+        "id": "7492610684564779009"
+      },
+      {
+        "interaction": "Nik N. liked this",
+        "link": "https://www.linkedin.com/posts/www%2Eafore%2Evc_shout-out-to-our-fir-u-s26-cohort-you-activity-7490151742295158784-bgLl",
+        "title": "\ud83c\udf93 Shout out to our FIR U S26 cohort... you actually did it\ud83e\udee1 Eight weeks, one office in San Francisco, a lot of founders building side by side. That was the summer. Shared space, programming, good speakers, and a group that actually became a community. The vibes? Immaculate. We sent them off at the ballpark: two baseball diamond suites, good food, and a well-deserved celebration. \u26be Don't take it from us tho, the cohort said it best: \ud83d\udcac \"I LOVED how there were so many events and shared office space, we could connect with a lot of really great founders. Over eight weeks we built a great community. It's been a great summer.\" \ud83d\udcac \"My favorite moment was meeting everyone in the batch at our kayaking event in Sausalito. There are just so many great people, you constantly come to the office, meet new people, and work on really cool things.\" \ud83d\udcac \"FIR U is great at finding really good speakers, they brought in people to coach us on founding, on sales, on everything. If you can do it, you have to do it.\" \ud83d\udcac \"It was a great experience, the people I met, the programming, and they kept us well fed too.\" Congrats FIR U S26 \ud83d\udc51 Samvrit Rao Arjun Bakhale Anirudh (Ani) Manjesh Sonnet Xu Jessie Dong Antonio Alonso-Stepanov Ray Cabrera Ludovico Cordara Sujal Dhakal Aritra Saha Nik N. Jathan Pai Ibrahim Mohsin Aarush Yadav Arnav Kumar Igor Martynyuk Hazyk Obaid Shariq Hafizi Shrey Parekh Aryan Aladar Sachin Srikanth Farhan Chowdhury Uttej Mannava Alex Zhang Rishi Kanaparti Ishaan Sharma Darius Tabatabai Akshay Mysore Link to apply to our fall batch in the comments.",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQHq669AKJB5Zg/feedshare-shrink_800/B56Z_JdUWJJkAg-/0/1785791334833?e=2147483647&v=beta&t=Q-N_Xmye2wYzZb-RK7P6XCbB7bFut935dtk5fbbNM5c",
+        "id": "7490151742295158784"
+      },
+      {
+        "interaction": "Nik N. liked this",
+        "link": "https://www.linkedin.com/posts/fir-u-s26-just-crossed-the-finish-line-fir-activity-7488361339523018752-k7dw",
+        "title": "FIR U S26 just crossed the finish line. FIR U is built for college dropouts who believe in themselves enough to build instead. Before they headed off, I grabbed a few of them to ask one simple question: what did you \u2764\ufe0f about FIR U? Their answers say everything about what we're building here: \u2022 A real community. Shared office space, constant connection, and (in their words) \"so many great people in the back\" that you couldn't help but meet someone new every day. The kind of place where people are still playing chess in the office at 12 am, just because they don't want to leave. \u2022 The moments outside the work: the kayaking event in Sausalito, cooking class, dinners, and World Cup watching parties. 8 weeks later, that batch felt like a family. \u2022 World-class speakers and coaching. Founders who've actually done it came in to teach sales, founding, and everything in between. \u2022 Access to the partners and the whole FIR crew, someone to talk to anytime they had a question or just wanted to think out loud. And yes, we kept everyone very well fed. :) Shariq Hafizi Shrey Parekh Jathan Pai Ibrahim Mohsin Samvrit Rao , Arjun Bakhale Aarush Yadav , Arnav Kumar Igor Martynyuk Aryan Aladar Sachin Srikanth Farhan Chowdhury Aritra Saha Sujal Dhakal Nik N. Uttej Mannava Alex Zhang Rishi Kanaparti Ishaan Sharma Darius Tabatabai Akshay Mysore Sonnet Xu Jessie Dong Antonio Alonso-Stepanov Ray Cabrera Ludovico Cordara Hazyk Obaid Alden Keller Eli Bunting Anirudh put it well: \"If you can do it, you have to do it.\" On a personal note: spending these 8 weeks alongside this group has genuinely been the highlight of my summer. Want to join the next cohort? We're actively reviewing applications for the fall. Message me or Kayla to learn more.",
+        "img": "https://media.licdn.com/dms/image/v2/D5605AQFJe1nV-9xtYw/videocover-low/B56Z.wAzJZGQBI-/0/1785364449628?e=2147483647&v=beta&t=m3FYwBlb-QJrVJ9xj0mwALQpmzVpXhp0oZkPoJEe388",
+        "id": "7488361339523018752"
+      },
+      {
+        "interaction": "Nik N. liked this",
+        "link": "https://www.linkedin.com/posts/michaelgalarnyk_odscai-machinelearning-scikitlearn-activity-7485708734640414720-sqyB",
+        "title": "I\u2019m excited to be speaking at Open Data Science Conference (ODSC) West, where I\u2019ll lead the workshop Applied Machine Learning Foundations: From Features to Real-World Decisions. We\u2019ll explore how to build and evaluate practical tabular machine learning systems using Python, Pandas, and scikit-learn. The workshop covers feature engineering, validation, anomaly detection, model comparison, and metrics such as precision, recall, F1, ROC-AUC, and PR-AUC, with a focus on turning model outputs into better decisions. Join me in San Francisco, October 27\u201329. Registration link in the comments. #ODSCAI #MachineLearning #ScikitLearn #DataScienceTraining #AIEducation #DellProPrecision #DellTech #NVIDIA",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQHZYiAQq6LjXw/feedshare-shrink_1280/B56Z.KUbWnKAAQ-/0/1784732038978?e=2147483647&v=beta&t=TDgmdqAZW5opc17_TalBU5jWkJiDvwwPQSgqrDVb0hM",
+        "id": "7485708734640414720"
+      },
+      {
+        "interaction": "Nik N. liked this",
+        "link": "https://www.linkedin.com/posts/yip-ethan_ycombinator-ycstartupschool-activity-7477795536893526017-nBwJ",
+        "title": "We're hosting a black tie yacht gala with YC startups, VCs and 100 of the most cracked founders and builders in AI. YC AI Startup School is July 25th. But do you know where the real founders are at? July 24th, 7pm. Sunset. Formal Black Tie Gala on the bay of San Francisco. angels, investors, top CS + AI students from Stanford, Harvard, MIT, founders raising 1-5M+ from top funds, Y Combinator , companies like SCALE at GMI , Photon , Soma Capital and so much more... all together on one yacht touring the bay. black tie. Jason Xu , Ethan Yip , and SCALE at GMI (powered by GMI Cloud and NVIDIA ) are your hosts for this private event during the biggest AI gathering of the year. \ud83e\udd42 we're curating a room (well, a yacht) where the person next to you at the bar might be your next investor, cofounder, or biggest customer. \u2014 of course, its by invite only. so here's the real question \u2014 why should you be on this yacht? what have you shipped, built, or backed that earns you a seat among the top 1% of the AI ecosystem this week? comment why below or DM me directly. your spot among the 100 is waiting. #YCombinator #YCStartupSchool",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQGyZvu2-P9kkw/feedshare-shrink_800/B4EZ8Z3armHoAY-/0/1782845385769?e=2147483647&v=beta&t=dQtz1IPGoQKjKDRQPXt61CrfVKV2MXiEKbRo6gmVY_g",
+        "id": "7477795536893526017"
+      }
+    ],
+    "linkedin_num_id": "927366633",
+    "banner_image": "https://media.licdn.com/dms/image/v2/D5616AQHWljYxN3VvCQ/profile-displaybackgroundimage-shrink_200_800/B56Z_EllsmHIAQ-/0/1785709616155?e=2147483647&v=beta&t=S4u4Rs94aehoHD4mogL0qLxJEyJdbg06FWN9zaS1HzY",
+    "honors_and_awards": null,
+    "similar_profiles": [],
+    "default_avatar": false,
+    "memorialized_account": false,
+    "bio_links": [
+      {
+        "title": "Personal Website",
+        "link": "https://niknandi.com/"
+      }
+    ],
+    "first_name": "Nik",
+    "last_name": "N.",
+    "influencer": false,
+    "timestamp": "2026-08-12T19:12:38.379Z",
+    "input": {
+      "url": "https://www.linkedin.com/in/niknandi"
+    }
+  },
+  "local_photo": "data\\linkedin_photos\\niknandi__usr-N4pavsbDNN3xzkG.jpg"
+}

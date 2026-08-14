@@ -1,0 +1,394 @@
+{
+  "luma_user_id": "usr-ggUo94GTiFZ43PQ",
+  "csv_name": "Surya Pugazhenthi",
+  "csv_linkedin": "https://www.linkedin.com/in/surya-pugazhenthi",
+  "enriched_at": "2026-08-12T19:18:07.770786+00:00",
+  "batch_id": "sd_msqh0fwb1tv6mjnbrd",
+  "profile": {
+    "id": "surya-pugazhenthi",
+    "name": "Surya Pugazhenthi",
+    "city": "San Francisco Bay Area",
+    "country_code": "US",
+    "position": null,
+    "about": "I\u2019m a product-minded builder focused on AI platforms. I design systems where LLMs call\u2026",
+    "current_company": {
+      "link": "https://www.linkedin.com/company/16vc?trk=public_profile_topcard-current-company",
+      "name": "16VC",
+      "company_id": "16vc",
+      "location": null
+    },
+    "experience": null,
+    "url": "https://ua.linkedin.com/in/surya-pugazhenthi",
+    "educations_details": "University of California, Santa Cruz",
+    "education": [
+      {
+        "title": "University of California, Santa Cruz",
+        "url": "https://www.linkedin.com/school/ucsc/",
+        "start_year": "2024-08",
+        "end_year": "2026-06",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      },
+      {
+        "start_year": "2022-06",
+        "end_year": "2024-05",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      },
+      {
+        "start_year": "2018-08",
+        "end_year": "2022-06",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      }
+    ],
+    "avatar": "https://media.licdn.com/dms/image/v2/D5603AQFrPeEu7__DGA/profile-displayphoto-scale_200_200/B56Z93DNr8IMAg-/0/1784408760658?e=2147483647&v=beta&t=c5R5kuqZHV4Xq5XpwZVvZ9lVa-h85X5jdvQrw-QK-dA",
+    "courses": [
+      {
+        "subtitle": "MATH-292",
+        "title": "Analytic Geometry/Calculus III"
+      },
+      {
+        "subtitle": "BUSAC-186",
+        "title": "Business Accounting"
+      },
+      {
+        "subtitle": "CSE 120",
+        "title": "Computer Architecture"
+      },
+      {
+        "subtitle": "CSE 13S",
+        "title": "Computer Systems and C Programming"
+      },
+      {
+        "subtitle": "ENGL-126",
+        "title": "Critical Thinking"
+      },
+      {
+        "subtitle": "CSE 180",
+        "title": "Database Systems I"
+      },
+      {
+        "subtitle": "MATH-294",
+        "title": "Differential Equations"
+      },
+      {
+        "subtitle": "MATH-160",
+        "title": "Discrete Math"
+      },
+      {
+        "subtitle": "HUMN 15",
+        "title": "Ethics and Technology"
+      },
+      {
+        "subtitle": "PHYS-230",
+        "title": "Heat & Electromagnetism"
+      },
+      {
+        "subtitle": "CSE 102",
+        "title": "Introduction to Analysis of Algorithms"
+      },
+      {
+        "subtitle": "CSE 101",
+        "title": "Introduction to Data Structures and Algorithms"
+      },
+      {
+        "subtitle": "STAT 131",
+        "title": "Introduction to Probability Theory"
+      },
+      {
+        "subtitle": "HUMN 35",
+        "title": "Language Technology"
+      },
+      {
+        "subtitle": "MATH-194",
+        "title": "Linear Algebra"
+      },
+      {
+        "subtitle": "CSE 101M",
+        "title": "Mathematical Thinking for Computer Science"
+      },
+      {
+        "subtitle": "PHYS-130",
+        "title": "Mechanics and Wave Motion"
+      },
+      {
+        "subtitle": "COMSC-200",
+        "title": "Object Oriented Programming C++"
+      },
+      {
+        "subtitle": "CSE 30",
+        "title": "Programming Abstractions: Python"
+      },
+      {
+        "subtitle": "CSE 185E",
+        "title": "Technical Writing for Computer Science and Engineering"
+      },
+      {
+        "subtitle": "HUMN 55",
+        "title": "Technologies of Representation"
+      }
+    ],
+    "languages": [
+      {
+        "subtitle": "Native or bilingual proficiency",
+        "title": "English"
+      },
+      {
+        "subtitle": "Limited working proficiency",
+        "title": "Tamil"
+      },
+      {
+        "subtitle": "Limited working proficiency",
+        "title": "Spanish"
+      }
+    ],
+    "certifications": [
+      {
+        "meta": "Issued Aug 2025",
+        "subtitle": "University of California, Santa Cruz",
+        "title": "Humanizing Technology Certificate",
+        "credential_url": null,
+        "credential_id": null
+      },
+      {
+        "meta": "Issued Jul 2024 Credential ID TMca2rpSf6zoyxDMq See credential",
+        "subtitle": "Forage",
+        "title": "Accenture North America - Product Design Job Simulation",
+        "credential_url": "https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Accenture%20North%20America/NqLZqrXRDvfkqHRKG_Accenture%20North%20America_NWzdwzZPrpNBbD6dq_1721446499727_completion_certificate.pdf?trk=public_profile_see-credential",
+        "credential_id": "TMca2rpSf6zoyxDMq"
+      },
+      {
+        "meta": "Issued Jul 2024 Credential ID AAAE7487B55B214B See credential",
+        "subtitle": "Microsoft",
+        "title": "Microsoft Certified: Azure AI Fundamentals",
+        "credential_url": "https://learn.microsoft.com/api/credentials/share/en-us/SuryaPugazhenthi-1945/AAAE7487B55B214B?sharingId=6A7390E908DE9595&trk=public_profile_see-credential",
+        "credential_id": "AAAE7487B55B214B"
+      },
+      {
+        "meta": "Issued May 2024 See credential",
+        "subtitle": "Diablo Valley College",
+        "title": "Computer Science - Computer Architecture",
+        "credential_url": "https://www.parchment.com/u/award/02834b6cb591e5f417c6a8306035fb15?trk=public_profile_see-credential",
+        "credential_id": null
+      },
+      {
+        "meta": "Issued Jan 2024 Credential ID CREDLY-29bdaec3-af04-458e-a70e-2e6fa78c5dd5 See credential",
+        "subtitle": "IBM",
+        "title": "Artificial Intelligence Fundamentals",
+        "credential_url": "https://www.credly.com/badges/3c1307c1-c6e8-48c1-8972-f59e86b46cd8/linked_in_profile?trk=public_profile_see-credential",
+        "credential_id": "CREDLY-29bdaec3-af04-458e-a70e-2e6fa78c5dd5"
+      },
+      {
+        "meta": "Issued Dec 2023 See credential",
+        "subtitle": "Diablo Valley College",
+        "title": "Computer Science - Advanced C++ Programming",
+        "credential_url": "https://www.parchment.com/u/award/05752357f5a41252849330c72fc99355?trk=public_profile_see-credential",
+        "credential_id": null
+      },
+      {
+        "meta": "Issued May 2023 See credential",
+        "subtitle": "Diablo Valley College",
+        "title": "Computer Science - Program Design",
+        "credential_url": "https://www.parchment.com/u/award/74f23798ab1a19dbfb65f02498e1943c?trk=public_profile_see-credential",
+        "credential_id": null
+      },
+      {
+        "meta": "Issued May 2022 See credential",
+        "subtitle": "Adobe",
+        "title": "Adobe Certified Professional in Visual Design Using Adobe Photoshop",
+        "credential_url": "https://www.credly.com/badges/0860378d-1247-44c5-bc5a-0bf0e98b0e3a/linked_in_profile?trk=public_profile_see-credential",
+        "credential_id": null
+      },
+      {
+        "subtitle": "LOVABLE",
+        "title": "Vibe Coding",
+        "credential_url": null,
+        "credential_id": null
+      }
+    ],
+    "volunteer_experience": [
+      {
+        "cause": "Environment",
+        "duration": "Apr 2022 \u00b7 - \nMay 2022 \u00b7 \n2 months",
+        "duration_short": "- \nMay 2022",
+        "info": "Photographed a variety of plant and natural scenes and created a social media page used for advertising.",
+        "start_date": "Apr 2022",
+        "subtitle": "Ruth Bancroft Garden",
+        "title": "Photographer"
+      }
+    ],
+    "followers": 1043,
+    "connections": 500,
+    "current_company_company_id": "16vc",
+    "current_company_name": "16VC",
+    "projects": [
+      {
+        "title": "BenefitFinder",
+        "start_date": "Apr 2025",
+        "description": "An AI-assisted web app created to simplify and personalize the process of discovering:\u2022 Government subsidies and assistance programs\u2022 Scholarships and grants\u2022 Student discounts and public benefits\u2022 Local and national educational initiativesHelps users discover federal, state, and local benefits they may be unaware of, using a friendly interface to democratize access to support systems.Notable Achievements:* CruzHacks 2025 Winning Project* 1 of 5 teams invited to Santa Cruz Works 2025 Summer Rooftop Mixer"
+      },
+      null,
+      null,
+      {
+        "title": "slugspace",
+        "start_date": "Oct 2024",
+        "description": "A mobile app for UCSC students to find roommates through Tinder-like swiping functionality. Built-in features include:\u2022 Matching system to connect users who swipe right on each other or hit like icon\u2022 Messages interface for users to communicate with each other\u2022 Filters to specify recommendations of potential roommates to users\u2022 Profile creation menu to enter bio, user's student info, and photosHelps students at UCSC to find roommates without worrying about compatibility issues or neglect of privacy while living on or off campus.Notable Achievement:* UCSC Google Developer Club 2025 Projects Showcase Winner of \"Best UI\""
+      }
+    ],
+    "location": null,
+    "input_url": "https://www.linkedin.com/in/surya-pugazhenthi",
+    "linkedin_id": "surya-pugazhenthi",
+    "activity": [
+      {
+        "interaction": null,
+        "link": "https://www.linkedin.com/posts/16vc_founders-meetup-san-francisco-luma-activity-7483905243202600960-qaMb",
+        "title": "\ud83d\udc40 Something exciting is coming to San Francisco. We're launching a **4-week, in-person Founder Fellowship** for ambitious founders who want to spend a month building with complete focus alongside other exceptional entrepreneurs. Our first cohort will include: \u2022 \ud83d\ude80 Only **10 founder seats** \u2022 \ud83c\udfe2 Dedicated coworking space \u2022 \ud83c\udfa4 Demo Day \u2022 \ud83d\udcb0 Up to **$15,000 in equity-free grants** for startups Curious to learn more? Join us at our **Founders Meetup** in San Francisco on **August 4**, where we'll share what's coming, answer your questions, and meet founders interested in joining our inaugural cohort. \ud83d\udd17 Register here: https://luma.com/90aps3fj Tag a founder who shouldn't miss this! #SanFrancisco #Startup #Founders #FounderFellowship #Entrepreneurship #Startups #Tech #Innovation #BuildInPublic #DemoDay #Coworking #StartupCommunity #VC #FounderLife #SFTech ...more ...more",
+        "img": "https://media.licdn.com/dms/image/sync/v2/D5627AQHcwndlwuptAQ/articleshare-shrink_800/B56Z9wsBJCGQAg-/0/1784302015406?e=2147483647&v=beta&t=S5lxzQPHvK2an2RIafvUcDuL-CQ8dKf3-PUHSE-XTkY",
+        "id": "7483905243202600960"
+      },
+      {
+        "interaction": null,
+        "link": "https://www.linkedin.com/posts/ansh-vora7_venturecapital-startups-earlystage-activity-7475693835793281024-odJy",
+        "title": "if you're building something early stage and the numbers are starting to make sense, i genuinely want to hear about it. what i'm looking for right now: paying customers, not just users growing MRR, even if it's small retention that shows people are actually coming back a founder who's building in public and not waiting to be discovered roughly speaking, anything from $5K MRR upward is interesting. bootstrapped and capital efficient is even more interesting. not looking for a deck. just tell me what you're building, who's paying for it, and why it's working. drop it in the comments or DM me directly. #venturecapital #startups #earlystage #16VC #earlystartups #GP ...more ...more",
+        "img": null,
+        "id": "7475693835793281024"
+      },
+      {
+        "interaction": null,
+        "link": "https://www.linkedin.com/posts/sankalpgunturi_i-think-we-built-the-clay-killer-surya-activity-7454922406823104512-tOJr",
+        "title": "I think we built the Clay Killer. Surya , Abhinav and I asked a simple question- why is every sales tool still a spreadsheet? Clay and Apollo gives you rows and columns. LinkedIn gives you a feed from 2012. None of them show you how people, companies, cities, and schools are actually connected. So we (tried to) scrape the internet, mapped the relationships between every entity we could find, and built a graph you can talk to. Demo's below, would love to hear what you think. ...more ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D5605AQFmpIyK0RY3Lw/videocover-high/B56Z3SnVHoI8BQ-/0/1777355020782?e=2147483647&v=beta&t=yH3RTRJghp89S4Pl9LG_kzAN5b6LR5iTjCB9hD5Jq1E",
+        "id": "7454922406823104512"
+      },
+      {
+        "interaction": "Surya Pugazhenthi shared this",
+        "link": "https://www.linkedin.com/posts/surya-pugazhenthi_a-month-ago-i-attended-the-locus-yc-f25-activity-7408369784079388672-J5mC",
+        "title": "A month ago, I attended the Locus (YC F25) Agentic Payments Hackathon at the Y Combinator office in SF and won 2nd place for Stripe 's prize track with my teammates Mukund P. , ESHAN CHAWLA , and Uday Arora ! Never thought I'd make it to such an incredible event, but one application on a Monday afternoon made it all possible. I didn't even know who I was going to work with, but I met my teammates the morning of the event and got along through vibes. In just an hour, we decided to address a logistical problem many of our friends and family members face at work: navigating corporate travel for conferences, company off-sites, and similar work-related events. Our platform, TripWeaver was built to simplify and customize the tedious sequence of booking flights, hotels, and ride-share/rental car services for each individual within a business team. We utilized Anthropic 's SDK to connect our agent to the Kiwi.com MCP server to obtain the latest flight and travel info. We pitched our project as one of the last teams to do so for Stripe , and they loved it! We won 2nd place and were given awesome prizes such as: - $2k in processing credits - free merch - and a visit to the Stripe office in South SF! Thank you Mark Moriarty and Peter Masone for the valuable feedback on our project and for inviting us to lunch at the office this past week! Additionally, thank you Cole Dermott , Eliot Lee , and the Locus (YC F25) team for organizing such an impactful 1-day event! ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQGB9hJXiW6Awg/feedshare-shrink_1280/B56Zs_RDwnIkAs-/0/1766292995533?e=2147483647&v=beta&t=aoPzFviBG--7zjFcNmFIDyVmB-B16EVigfC1TvxeP-U",
+        "id": "7408369784079388672"
+      },
+      {
+        "interaction": null,
+        "link": "https://www.linkedin.com/posts/eshan-chawla_hackathon-yc-sanfrancisco-activity-7396008267065454592-hkQI",
+        "title": "Incredibly excited to share that our team won 2nd Place at the Locus (YC F25) Agentic Payments hackathon at the Y Combinator office in San Francisco this weekend! \ud83e\udd48 This was the first hackathon I've participated in here in the US since starting my Master's, and the energy was amazing. What's even wilder is that my teammates Uday Arora , Surya Pugazhenthi and Mukund P met for the first time at the event and managed to build this in just one day. The Problem: Corporate travel (for sales teams, conferences, sponsored events, company off sites, etc.) is a huge logistical headache. It's a manual mess of booking, endless reimbursements, and juggling individual preferences. Our Solution: We built an AI agent to automate and personalize this process at scale. Using the Anthropic SDK, our agent connects to the Kiwi MCP (Model Context Protocol) Server to pull real-time flight and travel data. Here's the magic: An organizer just sets a budget and adds the attendees. The agent instantly generates a full itinerary (flights, stays) for everyone, personalised to their known preferences. Crucially, it then individually chats with each attendee to make adjustments (\"Can I get a later flight?\") before automatically booking everything, all while staying within the original budget constraints. This moves corporate travel from a manual chore to a scalable, automated, and personalised experience. We\u2019re so grateful for the recognition and the prize! --> $2,000 in Stripe credits --> A team lunch at Stripe HQ --> Awesome SWAG! And a special thank you to the judges Mark Moriarty and Brendan Ryan for their time and insightful feedback ! A massive thank you to the organisers at Y Combinator , Locus (YC F25) , Stripe , and Anthropic for supporting such a great event! #Hackathon #YC #SanFrancisco #AI #Stripe #Anthropic #MCP #AIagent #CorporateTravel #MSinAI #SJSU ...more ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQFpZhI7A9MZCw/feedshare-image-high-res/B56ZqPmUlbHAAs-/0/1763345780117?e=2147483647&v=beta&t=GU1Oph_6xV_73wUmO4MTJCpdpIZK4R4kHTx1sMK3re0",
+        "id": "7396008267065454592"
+      },
+      {
+        "interaction": "Surya Pugazhenthi shared this",
+        "link": "https://www.linkedin.com/posts/surya-pugazhenthi_benefitfinder-activity-7330853916940652547-tdZS",
+        "title": "Last month, I had the honor of taking home two awards at University of California, Santa Cruz events on back-to-back weekends! \ud83c\udf89 \ud83c\udfc6 CruzHacks \u2013 BenefitFinder: Best Beginner Hack Project CruzHacks was our very first hackathon for our entire team. We dove in together, learned on the fly, and delivered a project we're proud of. BenefitFinder is a web app that helps users quickly discover government and non-profit benefits tailored to their needs. By entering a few basic details, our platform matches people to programs like scholarships, financial aid grants, and more\u2014making life-changing resources more accessible to everyone. I focused on building the backend services and integrating our eligibility-rules engine to ensure a seamless, beginner-friendly experience. We\u2019re also excited to have been invited to showcase BenefitFinder at an exclusive event early next month\u2014more info coming soon in an updated post! Thank you to the greatest hackathon team I could ever have for a first-time experience: Glenn Grant-Richards , Max Ratcliff , and Alexis Valdes View our submission here: https://lnkd.in/gx_9gJ6F Try BenefitFinder here: https://lnkd.in/gZKyYbFJ \ud83c\udfa8 Google Developer Group On Campus at UCSC \u2013 slugspace: Best UI/UX slugspace is our roommate-matching mobile app for UCSC students that mimics popular dating apps such as Tinder and Hinge to deliver lightning-fast, dynamic swiping and filters\u2014letting students find the perfect roommate match based on lifestyle choices, roommate preferences, and more. I led the UI/UX design, crafting intuitive filter controls and responsive layouts so that browsing potential roommates feels effortless. Glenn Grant-Richards and I will work on transforming slugspace this summer into a larger platform that integrates with almost any university, not just UCSC. Housing selection will be added to cover the full roommate-housing search experience. We are aiming to release on the app store around mid-summer to ensure students have enough time to find roommates and close in their housing options before the start of the next school year in the fall. Thank you Team #23 for pulling through with slugspace until the end and seeing our once-silly idea into a working demo app: Glenn Grant-Richards , Angad Pantvaidya , Nidhi Sunil , and Yash Khot No app release yet, but you can view the project on GitHub here: https://lnkd.in/gqN7nbPt A huge thank-you to the organizers of both CruzHacks and Google Developer Group On Campus at UCSC for arranging these incredible events, and to all of my amazing teammates\u2014your intuition and hard work made these wins possible. \ud83d\ude4c Looking forward to continuing to build these projects and tackling my next one. If you\u2019re curious to learn more about BenefitFinder, slugspace, or just want to chat about turning projects into entry-level products, let\u2019s connect! ...more",
+        "img": "https://media.licdn.com/dms/image/sync/v2/D5627AQFyT39_tM467A/articleshare-shrink_480/B56Zbxe.uqG4Aw-/0/1747808153272?e=2147483647&v=beta&t=0DDwlOr9eeRppsGovxyRQg7i3hIM6NqRq2XI5MNq5-E",
+        "id": "7330853916940652547"
+      },
+      {
+        "interaction": "Surya Pugazhenthi shared this",
+        "link": "https://www.linkedin.com/posts/surya-pugazhenthi_calendarize-activity-7305428765000536065-m0oi",
+        "title": "Hello LinkedIn. I haven\u2019t made a formal post up until this point but I\u2019m excited to share with you all about an incredible product I\u2019ve been working on with my team this quarter at Slug AI , the premiere AI innovation club at UC Santa Cruz. \ud83d\ude80 Introducing CALENDARIZE , all of your events scheduled with no trouble! Ever found yourself taking a picture of a meeting agenda or copying text from an email, only to forget about it later? We\u2019ve all been there. That\u2019s why we built CALENDARIZE \u2014an AI-powered tool that converts images and text into structured calendar events within seconds. \u2705 Upload an image or paste text \u2705 AI extracts key details (date, time, event name, location, etc.) \u2705 Instantly adds it to your calendar\u2014no manual entry needed! Whether you\u2019re a busy professional, a student juggling deadlines, or just someone who loves effortless organization, CALENDARIZE helps you stay on top of your schedule without the hassle. \ud83d\udd17 Check it out now: https://calendarize.tech \ud83d\udce6 Support us on Product Hunt: https://lnkd.in/gCsqgy_s \ud83d\udcf8 Follow us on Instagram for updates: @calendarize_ Updates are also coming in the near future, so stay tuned! ...more",
+        "img": null,
+        "id": "7305428765000536065"
+      },
+      {
+        "interaction": "Surya Pugazhenthi commented on a post 1mo",
+        "link": "https://www.linkedin.com/posts/i-reviewed-500-github-profiles-this-month-activity-7479693106242564096-6FaB",
+        "title": "Marco Frank and I have been calling it a \u201cgreen summer\u201d for frequent GitHub activity. Best time to projectmaxx",
+        "img": null,
+        "id": "500"
+      },
+      {
+        "interaction": "Surya Pugazhenthi commented on a post 1mo",
+        "link": "https://www.linkedin.com/posts/alan-cruz-_break-into-vc-in-2026-and-get-a-paid-residency-activity-7479685458214653953-QgGr",
+        "title": "BREAK",
+        "img": null,
+        "id": "2026"
+      },
+      {
+        "interaction": "Surya Pugazhenthi liked this",
+        "link": "https://www.linkedin.com/posts/tash-cards_were-excited-to-share-that-tash-is-part-activity-7489018280448245760-hDoc",
+        "title": "We\u2019re excited to share that tash is part of the YC S26 batch. The four of us started building tash together at Berkeley, and it\u2019s been an incredible experience taking this next step as a team. We\u2019ve been working hard behind the scenes and are excited to share more very soon. Massive thanks to Jared Friedman & Raphael Schaad Y Combinator",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQEq0P7R1Tyirg/feedshare-shrink_800/B56Z.5WcPfIMAc-/0/1785521095990?e=2147483647&v=beta&t=4utL3Oiw4ZObbOzbU974tm4X35gmLlbi1QEMDFTUpDQ",
+        "id": "7489018280448245760"
+      },
+      {
+        "interaction": "Surya Pugazhenthi liked this",
+        "link": "https://www.linkedin.com/posts/shreyanphadke_what-if-you-could-give-claude-your-memories-activity-7492764516544339968-LQgB",
+        "title": "What if you could give Claude your memories? Well now you might be able to... Introducing Timeslicer MCP Timeslicer is a desktop app that shows you how you use your time. Our calendar view is visually interesting, but lacked insight. Now, you can simply talk to claude or any agent about your time: - \"What was that one claude chat link?\" - \"How much time did I spent on linkedin?\" - \"How much progress was made on the new auth feature I assigned?\" We also launched teams mode, letting you invite colleagues and gain time observability company-wide. We are currently running a limited enterprise beta so shoot me a DM!",
+        "img": "https://media.licdn.com/dms/image/v2/D5605AQEb8GpxcnY8VA/videocover-high/B56Z_ulk0uJYBM-/0/1786414258081?e=2147483647&v=beta&t=WKQ3QNAJerfFXg2F5DTLZxVBwuJtBszj1jQaeqDPulw",
+        "id": "7492764516544339968"
+      },
+      {
+        "interaction": "Surya Pugazhenthi liked this",
+        "link": "https://www.linkedin.com/posts/usecorgi_heading-to-the-yc-intern-expo-this-saturday-activity-7492704744113778688-bkWo",
+        "title": "Heading to the YC Intern Expo this Saturday? The Corgi team is hiring and will be there all day! Come say hi, meet our corgis, and learn what we are all about. https://yc.link/r/Y8rqFbnc",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQHlasY8xHTEew/feedshare-shrink_800/B56Z_tvQvzGgAc-/0/1786400017665?e=2147483647&v=beta&t=afH9iip2JPaOspyWzSOfb4Vz2X49V5oxphzkYB72_g8",
+        "id": "7492704744113778688"
+      },
+      {
+        "interaction": "Surya Pugazhenthi liked this",
+        "link": "https://www.linkedin.com/posts/simantak_just-had-the-most-amazing-experience-building-activity-7492570494341353472-iByW",
+        "title": "Just had the most amazing experience building for the past 6 weeks as part of the Founders, Inc. Off Season II program. Just the beginning, stay tuned for upcoming world domination. Rahul Mallavarapu Jared Ee Farhan Navas thanks Hubert Thieblot & Founders, Inc.",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQHHLygKsjCk-w/feedshare-shrink_1280/B56Z_r1KdQGUAM-/0/1786368010352?e=2147483647&v=beta&t=LFzQhP23Vrs27cWGhJ6SixN4nFtqA8cxedOALZOZdt0",
+        "id": "7492570494341353472"
+      },
+      {
+        "interaction": "Surya Pugazhenthi liked this",
+        "link": "https://www.linkedin.com/posts/convex-dev_convex-is-now-a-one-command-backend-for-expo-activity-7492625611086196737-iZaZ",
+        "title": "Convex is now a one-command backend for Expo apps! More details here: https://lnkd.in/eQ2Js_fX",
+        "img": "https://media.licdn.com/dms/image/sync/v2/D4E27AQHAYKc89y2P9g/articleshare-shrink_800/B4EZ_r3YT1KUAc-/0/1786368591993?e=2147483647&v=beta&t=WpeXn6qgbkYaEnZj5xElB-PD1fGvM2Tg2jMMCjxn8vE",
+        "id": "7492625611086196737"
+      },
+      {
+        "interaction": "Surya Pugazhenthi liked this",
+        "link": "https://www.linkedin.com/posts/supratik-panuganti-4732532a4_un-retired-from-hackathons-to-come-back-and-activity-7492283108118147072-3D6Z",
+        "title": "Un-retired from hackathons to come back and win Grokathon, hosted by xAI the bet we made was that AI is finally smart enough to reverse engineer from raw binary if you hand it the right tools so we gave Grok Build a ghidra mcp to read the disassembly, an emulator it could poke memory in, and a screen + controller so it could actually play the game first test: Breakout, a 33kb GameBoy ROM 15 minutes later, a frame for frame reconstruction in clean C then we launched it publicly and people competed for leaderboard spots 2500+ views, 750 game runs, 150 users from there, people started asking for custom versions, so we made remixing a feature: tag us on X with a request (\"make it fire themed\") and our harness spins up in a sandbox, changes the code, and posts it to the arcade then we went 8x bigger: Kirby's Dream Land, 262kb which took 90+ minutes but it eventually got it done and to push the harness to its limit, we reverse engineered a 1995 BMW engine control unit and reconstructed its runtime from just the binary check it out: https://lnkd.in/gkfSH3VY shoutout to my cracked teammates Theo Chapman and Henry Zhang along with Umesh Khanna and Ishan Deshpande for hosting",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQGXgE5QfpT-5Q/feedshare-shrink_800/B56Z_nvxx6GsAc-/0/1786299492042?e=2147483647&v=beta&t=uq77DQYv-_okOvSLuFHaUFuTL9wTG0h-VHGPXuO4kIk",
+        "id": "7492283108118147072"
+      },
+      {
+        "interaction": "Surya Pugazhenthi liked this",
+        "link": "https://www.linkedin.com/posts/prabhathsrinivas_corgi-x-axioo-yes-its-real-huge-thanks-activity-7491625033795203072-3fan",
+        "title": "Corgi x Axioo Yes, it's real. Huge thanks to Megan Lentz and Ahmod Newton for making this partnership come together. Insurance isn't the most exciting topic, until you realize how much it actually protects the thing you're building. If you've never asked why it matters, you should. Trust me, it'll change how you think about protecting your company. This is exactly the kind of thing we want Axioo to stand for, giving our founders access to the best resources, not just capital and connections. As part of this, Axioo founders get a discount on coverage, one more layer of real value baked into the platform. Want to be one of the first to test it out? Comment below \ud83d\udc47 First movers get first access, and your feedback is going to shape what this platform becomes.",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQFAshY3A6MOwg/feedshare-shrink_1280/B56Z_eZRY8JcAM-/0/1786142594959?e=2147483647&v=beta&t=USyAIYiwnpuA2RSwdhPMfEEbvAdPWMcqORVUfyrZq3w",
+        "id": "7491625033795203072"
+      },
+      {
+        "interaction": "Surya Pugazhenthi reacted on this",
+        "link": "https://www.linkedin.com/posts/davidegrieco_breaking-news-the-latest-claygent-ai-model-activity-7491547502773497856-84QR",
+        "title": "BREAKING NEWS: the latest Clay gent AI model broke out of our testing environment and accidentally built pipeline for customers. Jeff Barg please apologize.",
+        "img": null,
+        "id": "7491547502773497856"
+      },
+      {
+        "interaction": "Surya Pugazhenthi liked this",
+        "link": "https://www.linkedin.com/posts/a16z_ben-horowitz-on-how-a-game-studio-turned-activity-7491512239212986369-yEQ_",
+        "title": "Ben Horowitz on how a game studio turned it's last $6 million into Slack : \"Stewart calls me. He says, 'Ben, I've got $6 million left. I have no way to raise money because I've made really no progress. So I've got three choices. I can pray for rain and try and finish it, I can shut down the company and give you your $6 million back, or we built this tool that we use in our engineering team to communicate with each other, and I could just put that out as a product.'\" \"I'm like, 'What? You just built some tool to talk to each other and you want to put that out as a product? And you're a consumer guy, and you want to become an enterprise software guy?'\" \"$6 million is not gonna make any difference in my life. If you really think it's a good idea, go ahead.\" Ben Horowitz Talks Honesty, Failure, and Secrets at UC Berkeley (2016)",
+        "img": "https://media.licdn.com/dms/image/v2/D4E05AQGbSrG26h07uQ/videocover-high/B4EZ_cqS3vI0BU-/0/1786113505870?e=2147483647&v=beta&t=ovw9zRWqq-mZEbFnypTf4GqrVSqbImIw26ftPjVDuPc",
+        "id": "7491512239212986369"
+      }
+    ],
+    "linkedin_num_id": "1026734836",
+    "banner_image": "https://media.licdn.com/dms/image/v2/D5616AQFWlMJ4FSTd3g/profile-displaybackgroundimage-shrink_200_800/B56ZtzJjriIcAU-/0/1767163444985?e=2147483647&v=beta&t=rzLRZcXE1qGr5o4NzTZgh85W7zlB6J17ECqThrytKvE",
+    "honors_and_awards": null,
+    "similar_profiles": [],
+    "default_avatar": false,
+    "memorialized_account": false,
+    "bio_links": [
+      {
+        "title": "Personal Website",
+        "link": "https://suryapugaz.com/"
+      }
+    ],
+    "first_name": "Surya",
+    "last_name": "Pugazhenthi",
+    "influencer": false,
+    "timestamp": "2026-08-12T19:16:58.545Z",
+    "input": {
+      "url": "https://www.linkedin.com/in/surya-pugazhenthi"
+    }
+  },
+  "local_photo": "data\\linkedin_photos\\surya-pugazhenthi__usr-ggUo94GTiFZ43PQ.jpg"
+}

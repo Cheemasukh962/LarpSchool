@@ -1,0 +1,108 @@
+{
+  "luma_user_id": "usr-BFInNON9BVAPJcr",
+  "csv_name": "William Shiu",
+  "csv_linkedin": "https://www.linkedin.com/in/williamshiu1",
+  "enriched_at": "2026-08-12T19:22:34.880557+00:00",
+  "batch_id": "sd_msqh2468i57o0acas",
+  "profile": {
+    "id": "williamshiu1",
+    "name": "William S.",
+    "city": "San Francisco Bay Area",
+    "country_code": "US",
+    "position": null,
+    "about": "Interested in the brain.",
+    "current_company": {
+      "link": "https://www.linkedin.com/school/y-combinator/?trk=public_profile_topcard-current-company",
+      "name": "Y Combinator",
+      "location": null
+    },
+    "experience": null,
+    "url": "https://nl.linkedin.com/in/Williamshiu1",
+    "educations_details": "Yale University",
+    "education": [
+      {
+        "title": "Yale University",
+        "url": "https://www.linkedin.com/school/yale-university/",
+        "start_year": "2025-08",
+        "end_year": "2029-06",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      }
+    ],
+    "avatar": "https://media.licdn.com/dms/image/v2/D4E03AQG2AJW7hAUYvA/profile-displayphoto-scale_200_200/B4EZ0xMVZsIUAY-/0/1774646814946?e=2147483647&v=beta&t=CnsqCatiKRo0R2d_-YRL8SNYDzLvLI7-4MWIE5309kU",
+    "volunteer_experience": [
+      {
+        "duration": "Sep 2025 \u00b7 - Present \u00b7 \n\n1 year",
+        "duration_short": "- Present",
+        "start_date": "Sep 2025",
+        "subtitle": "The Politic: Yale's political journal since 1947",
+        "title": "Masthead"
+      },
+      {
+        "duration": "2023 \u00b7 - \n2023 \u00b7 \nless than a year",
+        "duration_short": "- \n2023",
+        "start_date": "2023",
+        "subtitle": "Stanford University School of Medicine",
+        "title": "Advanced Clinical Intern, Department of Anesthesiology"
+      },
+      {
+        "duration": "2023 \u00b7 - \n2023 \u00b7 \nless than a year",
+        "duration_short": "- \n2023",
+        "start_date": "2023",
+        "subtitle": "Guangzhou Medical University",
+        "title": "Clinical Intern, Department of Neurology"
+      }
+    ],
+    "followers": 793,
+    "connections": 500,
+    "current_company_name": "Y Combinator",
+    "publications": [
+      {
+        "title": "Bioethical Reexamination of Human Therapeutic Cloning",
+        "description": "Abstract: The therapeutic cloning of humans is a philosophically interesting issue at this particular point in time, as biological research has found new uses to address increasingly prominent global healthcare challenges while minimizing the risks that ethicists of the twentieth century had once deemed great enough to dismiss all genetic engineering as wrong. Simultaneously, the gap between patients who require organs and those who receive transplants is widening. Patients awaiting organ transplantation who have not yet died and those who experience organ rejection post-transplantation suffer greatly diminished quality of life, the cost of millions of dollars to support their treatment, and a future of uncertainty. Genetically cloning human embryos, whose stem cells can be harvested and stimulated to develop into the desired one-to-one organ, is a lucrative solution to this trifold crisis of cost, suffering, and death. Underlying this promising solution are questions of \u2018when morally valuable life begins\u2019 and \u2018at what point it may still be ethical to terminate an embryo\u2019. I will first defend the moral significance of what I call passive embryonic potential... (Professor Blecher)"
+      },
+      {
+        "title": "Machine Learning Prediction of Performance and Temporal Progression of Eye-Gaze Behavior During Robot-Assisted Surgery",
+        "description": "Abstract: Robot-assisted surgery (RAS) is lacking the accurate and objective performance evaluation methods that patient safety relies on. The aim of this study was to develop models to evaluate robot surgeon performance using eye-tracking data recorded from 25 individuals while performing 27 surgical tasks from an RAS skills stimulator. We conclude that random forest is able to predict surgeon performance and that gaze behavior can be forecast with high accuracy when analyzed through decomposition into constituent gaze components. (Nick Ramirez)"
+      },
+      {
+        "title": "\u8bca\u65ad\u548c\u6cbb\u7597\u8111\u90e8\u611f\u67d3\uff1a\u795e\u7ecf\u56ca\u5c3e\u86b4\u75c5 (Cross-Cultural Comparative Case Study in the Diagnosis and Treatment of Neurocysticercosis)",
+        "subtitle": "Guangzhou Medical University",
+        "description": "Description: Presented case study conducted in the neurology department of Guangzhou Medical University to hospital board of directors. Contrasted eastern and western approaches to treating a patient with neurocysticercosis."
+      }
+    ],
+    "location": null,
+    "input_url": "https://www.linkedin.com/in/williamshiu1",
+    "linkedin_id": "williamshiu1",
+    "activity": null,
+    "linkedin_num_id": "1104134955",
+    "banner_image": "https://media.licdn.com/dms/image/v2/D4E16AQEaA_RaOf8D1w/profile-displaybackgroundimage-shrink_200_800/B4EZ63c6nbHsAU-/0/1781194271704?e=2147483647&v=beta&t=6m_nu8MOwkbB1S3w72C7W55bPv3xDGlYmNhl3kqFMe8",
+    "honors_and_awards": [
+      {
+        "title": "National Intercollegiate Ethics Bowl Invitee",
+        "publication": "Association for Practical and Professional Ethics (APPE)",
+        "date": null,
+        "description": null
+      },
+      {
+        "title": "Team USA - IYPT \u201824 (Physics)",
+        "publication": "International Young Physicists\u2019 Tournament (IYPT)",
+        "date": null,
+        "description": "Selected as one of the top 5 physics research students in the United States. Letter of Recognition from three Pennsylvania Senators to recognize exceptional performance. Sponsored $3500 to represent the nation at the 2024 International Young Physicists Tournament in Budapest."
+      }
+    ],
+    "similar_profiles": [],
+    "default_avatar": false,
+    "memorialized_account": false,
+    "bio_links": [],
+    "first_name": "William",
+    "last_name": "S.",
+    "influencer": false,
+    "timestamp": "2026-08-12T19:18:22.724Z",
+    "input": {
+      "url": "https://www.linkedin.com/in/williamshiu1"
+    }
+  },
+  "local_photo": "data\\linkedin_photos\\williamshiu1__usr-BFInNON9BVAPJcr.jpg"
+}

@@ -1,0 +1,542 @@
+{
+  "luma_user_id": "usr-A3TvRSsXwWUyZEs",
+  "csv_name": "Chang Min Bark",
+  "csv_linkedin": "https://www.linkedin.com/in/chang-min-bark-0091b7b9",
+  "enriched_at": "2026-08-12T18:59:59.566730+00:00",
+  "batch_id": "sd_msqgcuh41lygyhc91a",
+  "profile": {
+    "id": "chang-min-bark-0091b7b9",
+    "name": "Chang Min Bark",
+    "city": "San Francisco, California, United States",
+    "country_code": "US",
+    "position": null,
+    "about": "Interested in startups, simulations, databases, AI/ML Infra, and distributed systems\u2026",
+    "current_company": {
+      "link": "https://www.linkedin.com/company/meta?trk=public_profile_topcard-current-company",
+      "name": "Meta",
+      "company_id": "meta",
+      "location": null
+    },
+    "experience": null,
+    "url": "https://bd.linkedin.com/in/chang-min-bark-0091b7b9",
+    "educations_details": "Bucknell University",
+    "education": [
+      {
+        "title": "Bucknell University",
+        "url": "https://www.linkedin.com/school/bucknell-university/",
+        "start_year": "2022-08",
+        "end_year": "2026-05",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      },
+      {
+        "start_year": "2024-02",
+        "end_year": "2024-05",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      }
+    ],
+    "avatar": "https://media.licdn.com/dms/image/v2/D5603AQHMD-ULfxvvlA/profile-displayphoto-scale_200_200/B56Zpm1hyoI4Ac-/0/1762661900313?e=2147483647&v=beta&t=AzqTBX2kwOlzyZIWI78Pp0ETGji53UbRGGcN58ue13A",
+    "courses": [
+      {
+        "subtitle": "CSCI 311",
+        "title": "Algorithms Design and Analysis"
+      },
+      {
+        "subtitle": "CSCI 357",
+        "title": "Artificial Intelligence with Neural Nets"
+      },
+      {
+        "subtitle": "MATH 202",
+        "title": "Calculus II"
+      },
+      {
+        "subtitle": "MATH 211",
+        "title": "Calculus III"
+      },
+      {
+        "subtitle": "CSCI 307",
+        "title": "Computer Networks and Security"
+      },
+      {
+        "subtitle": "CSCI 306",
+        "title": "Computer Systems"
+      },
+      {
+        "subtitle": "ACFM 203",
+        "title": "Corporate Finance"
+      },
+      {
+        "subtitle": "CSCI 204",
+        "title": "Data Structures and Algorithms"
+      },
+      {
+        "subtitle": "MATH 241",
+        "title": "Discrete Structures"
+      },
+      {
+        "subtitle": "ECEG 341",
+        "title": "Electrical and Computer Engineering Systems"
+      },
+      {
+        "subtitle": "ACFM 383",
+        "title": "Entrepreneurial Finance"
+      },
+      {
+        "subtitle": "MDIE 201",
+        "title": "Introduction to Marketing"
+      },
+      {
+        "subtitle": "MUSC 122",
+        "title": "Introduction to Western Music"
+      },
+      {
+        "subtitle": "MATH 245",
+        "title": "Linear Algebra"
+      },
+      {
+        "subtitle": "PHYS 211",
+        "title": "Modern Physics I"
+      },
+      {
+        "subtitle": "PHYS 212",
+        "title": "Modern Physics II"
+      },
+      {
+        "subtitle": "CSCI315",
+        "title": "Operating Systems"
+      },
+      {
+        "subtitle": "RESC 098",
+        "title": "Pharmaceuticals and Society"
+      },
+      {
+        "subtitle": "CSCI 205",
+        "title": "Software Engineering"
+      },
+      {
+        "subtitle": "MATH 227",
+        "title": "Statistics and Engineering"
+      }
+    ],
+    "certifications": [
+      {
+        "meta": "Issued Oct 2023 Credential ID 58890306 See credential",
+        "subtitle": "CITI Program",
+        "title": "Physical Science Responsible Conduct of Research Course 1.",
+        "credential_url": "https://www.citiprogram.org/verify/?we134acf9-13fe-4cda-a9fa-ef6bb351abab-58890306&trk=public_profile_see-credential",
+        "credential_id": "58890306"
+      },
+      {
+        "meta": "Issued Dec 2021 See credential",
+        "subtitle": "DTU - Technical University of Denmark",
+        "title": "Introduction to solar cells",
+        "credential_url": "https://coursera.org/share/81e5bd2c4268151228380a97beffeedb?trk=public_profile_see-credential",
+        "credential_id": null
+      },
+      {
+        "meta": "Issued Sep 2021 Credential ID 28fa147e925b4cce97fbfa95bf5b7423 See credential",
+        "subtitle": "edX",
+        "title": "edX Verified Certificate for Python Basics for Data Science",
+        "credential_url": "https://courses.edx.org/certificates/28fa147e925b4cce97fbfa95bf5b7423?trk=public_profile_see-credential",
+        "credential_id": "28fa147e925b4cce97fbfa95bf5b7423"
+      },
+      {
+        "meta": "Issued Jul 2021 Credential ID b37efe91d42a4c109002aadb8d1240db See credential",
+        "subtitle": "edX",
+        "title": "edX Verified Certificate for Calculus Applied!",
+        "credential_url": "https://courses.edx.org/certificates/b37efe91d42a4c109002aadb8d1240db?trk=public_profile_see-credential",
+        "credential_id": "b37efe91d42a4c109002aadb8d1240db"
+      }
+    ],
+    "volunteer_experience": [
+      {
+        "cause": "Education",
+        "duration": "Sep 2023 \u00b7 - \nMay 2024 \u00b7 \n9 months",
+        "duration_short": "- \nMay 2024",
+        "info": "The Google Developer Student Club (GDSC) at Bucknell University thrives as a dynamic community of technology enthusiasts dedicated to fostering innovation, collaboration, and hands-on learning through the utilization of Google technologies. Our mission is to empower Bucknell student developers and engage with their communities to tackle real-world challenges.",
+        "start_date": "Sep 2023",
+        "subtitle": "GDSC",
+        "title": "Community Outreach Coordinator & Tech Lead"
+      },
+      {
+        "duration": "Nov 2022 \u00b7 - \nMay 2024 \u00b7 \n1 year 7 months",
+        "duration_short": "- \nMay 2024",
+        "info": "TEDxBucknellUniversity annually hosts an electrifying TEDx conference in Lewisburg, Pennsylvania. Led by students, this organization cultivates a culture of curiosity, offering a platform for impactful conversations that captivate students, faculty, and members of the Lewisburg community, sparking thought-provoking discussions.",
+        "start_date": "Nov 2022",
+        "subtitle": "TEDx BucknellUniversity",
+        "title": "Full Stack Website Developer"
+      },
+      {
+        "cause": "Environment",
+        "duration": "Jul 2021 \u00b7 - \nJun 2022 \u00b7 \n1 year",
+        "duration_short": "- \nJun 2022",
+        "info": "Cleaned coking oil obtained from restaurants and created soap bars with it; donated soap bars to people in need along with groceries; taught other teens how to upcycle used cooking oil to contribute to their communities",
+        "start_date": "Jul 2021",
+        "subtitle": "Self Employed",
+        "title": "Project Manager"
+      },
+      {
+        "cause": "Health",
+        "duration": "2018 \u00b7 - \n2020 \u00b7 \n2 years",
+        "duration_short": "- \n2020",
+        "info": "Organized a school-wide charity run that raised funds for several charities and acted as a liaison between sponsors and the National Honor Society",
+        "start_date": "2018",
+        "subtitle": "Surabaya International School",
+        "title": "Event Organizer"
+      },
+      {
+        "cause": "Education",
+        "duration": "2019 \u00b7 - \n2020 \u00b7 \n1 year",
+        "duration_short": "- \n2020",
+        "info": "Acted as a student representative in Board of Patron (BOP) meetings while taking notes of important information to disseminate to the student body to ensure the transparency and integrity of the BOP",
+        "start_date": "2019",
+        "subtitle": "Surabaya International School",
+        "title": "Student Representative"
+      },
+      {
+        "cause": "Poverty Alleviation",
+        "duration": "2018 \u00b7 - \n2020 \u00b7 \n2 years",
+        "duration_short": "- \n2020",
+        "info": "Helped coordinate Habitat for Humanity service projects with students at school to help improve living conditions as well as access to necessities for people in need. Also directly constructed foundations for houses using water and concrete as well as laying down bricks and metal framework for the houses.",
+        "start_date": "2018",
+        "subtitle": "Habitat for Humanity Indonesia",
+        "title": "Coordinator and Construction Laborer"
+      },
+      {
+        "cause": "Children",
+        "duration": "2019 \u00b7 - \n2019 \u00b7 \nless than a year",
+        "duration_short": "- \n2019",
+        "info": "Constructed a school library for a local village near Batam and played soccer with the local children",
+        "start_date": "2019",
+        "subtitle": "Surabaya International School",
+        "title": "Volunteer"
+      },
+      {
+        "cause": "Environment",
+        "duration": "2018 \u00b7 - \n2018 \u00b7 \nless than a year",
+        "duration_short": "- \n2018",
+        "info": "Crafted and installed anti-littering signs on the beaches of Belitung and painted a newly constructed public bathroom",
+        "start_date": "2018",
+        "subtitle": "Surabaya International School",
+        "title": "Volunteer"
+      },
+      {
+        "cause": "Environment",
+        "duration": "2016 \u00b7 - \n2016 \u00b7 \nless than a year",
+        "duration_short": "- \n2016",
+        "info": "Planted coral reefs and trees along the beaches of Banyuwangi; tied coral to a framework designed to allow them to grow underwater",
+        "start_date": "2016",
+        "subtitle": "Surabaya International School",
+        "title": "Volunteer"
+      }
+    ],
+    "followers": 1899,
+    "connections": 500,
+    "current_company_company_id": "meta",
+    "current_company_name": "Meta",
+    "projects": [
+      {
+        "title": "Chiron",
+        "start_date": "Jan 2025",
+        "description": "This is an AI agent that a group of friends and I created. We developed a virtual teaching assistant that allowed students to get real-time assistance and talk with their course material. Once a student asks a question to the TA, the TA will respond and cite its sources, pulling up the material in a PDF viewer in a matter of seconds.Check it out at chiron-ta.com (if it is still up)"
+      },
+      {
+        "title": "TEDxBucknellUniversity Website",
+        "start_date": "Jan 2023",
+        "description": "A website for TEDx event at Bucknell University."
+      },
+      null,
+      null,
+      {
+        "title": "Marketing Case",
+        "start_date": "Oct 2022",
+        "description": "Worked on a marketing plan with a group of students to present to a company that specializes in delivering specific consumer goods; won the competition against other Bucknell marketing groups."
+      }
+    ],
+    "organizations": [
+      {
+        "title": "Bucknell Fremont Scholars",
+        "membership_type": "Fremont Scholar",
+        "start_date": "2022",
+        "end_date": "Present",
+        "membership_number": null
+      },
+      {
+        "title": "Global Student Council",
+        "membership_type": "Member",
+        "start_date": "2022",
+        "end_date": "Present",
+        "membership_number": null
+      },
+      {
+        "title": "Korean Cultural Association",
+        "membership_type": "Member",
+        "start_date": "2022",
+        "end_date": "Present",
+        "membership_number": null
+      },
+      {
+        "title": "Society of Asian Awareness at Bucknell",
+        "membership_type": "Member",
+        "start_date": "2022",
+        "end_date": "Present",
+        "membership_number": null
+      },
+      {
+        "title": "Society of Asian Scientists and Engineers",
+        "membership_type": "Member",
+        "start_date": "2022",
+        "end_date": "Present",
+        "membership_number": null
+      },
+      {
+        "title": "American Institute of Chemical Engineers",
+        "membership_type": "Member",
+        "start_date": "2022",
+        "end_date": "May 2023",
+        "membership_number": null
+      },
+      {
+        "title": "ChemE Car Club",
+        "membership_type": "Member",
+        "start_date": "2022",
+        "end_date": "May 2023",
+        "membership_number": null
+      },
+      {
+        "title": "Global Issues Network",
+        "membership_type": "Member",
+        "start_date": "2019",
+        "end_date": "2020",
+        "membership_number": null
+      },
+      {
+        "title": "Black Manta House",
+        "membership_type": "Head Captain",
+        "start_date": "2018",
+        "end_date": "2020",
+        "membership_number": null
+      },
+      {
+        "title": "National Honor Society",
+        "membership_type": "Secretary",
+        "start_date": "2018",
+        "end_date": "2020",
+        "membership_number": null
+      },
+      {
+        "title": "Student Council",
+        "membership_type": "President",
+        "start_date": "2017",
+        "end_date": "2020",
+        "membership_number": null
+      },
+      {
+        "title": "Varsity Badminton",
+        "membership_type": "Team Captain",
+        "start_date": "2017",
+        "end_date": "2020",
+        "membership_number": null
+      }
+    ],
+    "location": "San Francisco",
+    "input_url": "https://www.linkedin.com/in/chang-min-bark-0091b7b9",
+    "linkedin_id": "chang-min-bark-0091b7b9",
+    "activity": [
+      {
+        "interaction": "Liked by Chang Min Bark",
+        "link": "https://www.linkedin.com/posts/reenavollala_last-week-i-wrapped-up-my-second-software-activity-7492726169578926081-xcKI",
+        "title": "Last week, I wrapped up my second Software Engineering internship at Meta in Menlo Park! I had the opportunity to work on the WhatsApp Business\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQHuvw767e00-Q/feedshare-image-high-res/B56Z_uBlGoHIAU-/0/1786404820230?e=2147483647&v=beta&t=yl1AeOGh3JIlo78zZbK3aiTXn7x-sFL7cgUR2PO9IG8",
+        "id": "7492726169578926081"
+      },
+      {
+        "interaction": "Liked by Chang Min Bark",
+        "link": "https://www.linkedin.com/posts/katie-chen-71540724a_idontcarewhatschoolyouwentto-icareaboutwhatyoudo-activity-7491146067221278721-vlO8",
+        "title": "I hate people who ride off Ivy League names Last week I met a founder, who asked me if I'm from Columbia or NYU. I told him I'm from neither. I'm\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQEAPWetSuJ9Ng/feedshare-image-high-res/B56Z.20dV_GQAU-/0/1785478633178?e=2147483647&v=beta&t=wvjCQW2iJJfVKzRh2zoTjuK9wOeAVWcA_mhV6smDpnI",
+        "id": "7491146067221278721"
+      },
+      {
+        "interaction": "Liked by Chang Min Bark",
+        "link": "https://www.linkedin.com/posts/joewilck_bucknell-university-in-ireland-we-are-back-activity-7491100816351674369-JiTH",
+        "title": "Bucknell University in Ireland! We are back in the states, and as I await more students to provide details of their internships and experiences to\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQEljUjMjgS2Ng/feedshare-image-high-res/B4EZ_WwR4aIYAU-/0/1786014408774?e=2147483647&v=beta&t=QvDxS2Q8_3mEI1ngq6zs8n3_roNYYBaOMRwaGjEn_VQ",
+        "id": "7491100816351674369"
+      },
+      {
+        "interaction": "Liked by Chang Min Bark",
+        "link": "https://www.linkedin.com/posts/kristianwidjaja_im-excited-to-share-that-ive-joined-sermo-activity-7490059250820399104-txmL",
+        "title": "I'm excited to share that I've joined Sermo as Chief Technology Officer. Sermo is the world's largest verified physician network, with 1.5 million+\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4D22AQGGXJr8Df0siA/feedshare-shrink_800/B4DZ_IJMcwI8Ac-/0/1785769281939?e=2147483647&v=beta&t=eyKAN_Oe1zTtBksHLgYsPD5KmzyXlKy-w_Ur7bkVWAE",
+        "id": "7490059250820399104"
+      },
+      {
+        "interaction": "Liked by Chang Min Bark",
+        "link": "https://www.linkedin.com/posts/y-combinator_weve-decided-to-open-source-a-multi-agent-activity-7489009583970193409-cn5p",
+        "title": "We\u2019ve decided to open-source a multi-agent harness we use internally at YC. We call it \u201cQM\u201d and it\u2019s meant to be easy to customize, like Hermes or\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQEIfn3lw4ZXoQ/feedshare-shrink_800/B56Z.5OiIWKEAc-/0/1785519023138?e=2147483647&v=beta&t=IW-t46y5CeGSKzJXBgic0BxagZI_87S8y7e2G9bKf58",
+        "id": "7489009583970193409"
+      },
+      {
+        "interaction": "Liked by Chang Min Bark",
+        "link": "https://www.linkedin.com/posts/thiagoserra_i-am-happy-to-share-a-new-paper-on-optimization-activity-7485482055321985024-RvKq",
+        "title": "I am happy to share a new paper on optimization for combinatorial testing with Changkun Guan, Hunter Gehman, Sumit Dhar, Mikey Ferguson, John Hooker,\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5605AQH6NmdDf7DCWg/videocover-high/B56Z.HGJzRGQBM-/0/1784677968314?e=2147483647&v=beta&t=ehfUeXU1xAqnQUctYTPCXwD193GTzSR3kCbnrzaIXQw",
+        "id": "7485482055321985024"
+      },
+      {
+        "interaction": "Liked by Chang Min Bark",
+        "link": "https://www.linkedin.com/posts/mercor-ai_apex-agents-score-update-for-muse-spark-11-activity-7485426907514249216-bI9Z",
+        "title": "APEX-Agents score update for Muse Spark 1.1 When Meta first released Muse Spark 1.1, the model scored 37.1% Pass@1 on APEX-Agents, our agentic\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQG9NBlnM86GYg/feedshare-shrink_800/B56Z.GUG2WGcAg-/0/1784664846270?e=2147483647&v=beta&t=lKXebZ8CaBUOwEKZsbQ5kRff5JlZirRbkRDcobDDZBQ",
+        "id": "11"
+      },
+      {
+        "interaction": "Liked by Chang Min Bark",
+        "link": "https://www.linkedin.com/posts/eric-choi1_stealthstartup-newchapter-larp-activity-7484899830734147585-Z-1_",
+        "title": "Excited to share that I've joined a stealth startup! I can't share what we're building. I can't share who's building it. I can't share when you'll\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQEcO-sq1qyWpg/feedshare-shrink_1280/B56Z9.0u5ZHUAM-/0/1784539181234?e=2147483647&v=beta&t=qfZyM87C1d-K4AOGWtRDc6iI2ww6nXbUueKuFz0Hpag",
+        "id": "7484899830734147585"
+      },
+      {
+        "interaction": "Liked by Chang Min Bark",
+        "link": "https://www.linkedin.com/posts/teaganyuen_dont-drop-out-throughout-my-time-in-san-activity-7485028920623280129-aEkY",
+        "title": "Don't drop out. Throughout my time in San Francisco, I've been asked the same question over and over again: how do I drop out like you did? And\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQEi6XuAkaPI1Q/feedshare-shrink_800/B56Z.AqJG0HcAc-/0/1784569959082?e=2147483647&v=beta&t=di8HM78neavmQKHKZnZvgaAVi0TYIPr4TijCUEAjqwQ",
+        "id": "7485028920623280129"
+      },
+      {
+        "interaction": "Liked by Chang Min Bark",
+        "link": "https://www.linkedin.com/posts/farhajshahid_soooo-i-just-published-my-first-app-on-the-activity-7484940929414352896-0XyG",
+        "title": "Soooo I just published my first app on the App Store! Rimote.app is now live on the App Store and Product Hunt. This has always felt like something\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQHN9kxuC2KVPw/feedshare-shrink_800/B56Z9.ROtKIgAc-/0/1784529874185?e=2147483647&v=beta&t=IHSb0sTmUfVmX_3uarSe8JWWVPW4NWAUveNuvMNXagg",
+        "id": "7484940929414352896"
+      },
+      {
+        "interaction": "Liked by Chang Min Bark",
+        "link": "https://www.linkedin.com/posts/nicole-y-qian_asee2026-engineeringeducation-coed-activity-7476459274206982144-VuaX",
+        "title": "I am thrilled to share that I recently presented my research at the 2026 American Society for Engineering Education (ASEE) Annual Conference in\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQFVV6sGalkXPQ/feedshare-image-high-res/B56Z8G4ESPKgAU-/0/1782526791492?e=2147483647&v=beta&t=r2_slNZyL6VS__Eaw0VZbQhqhiH-8GbJvdA1IEmnCgM",
+        "id": "7476459274206982144"
+      },
+      {
+        "interaction": "Liked by Chang Min Bark",
+        "link": "https://www.linkedin.com/posts/googleresearch_icml2026-activity-7480518433852260354-wtQQ",
+        "title": "Congratulations to @GoogleDeepMind authors Volodymyr Mnih, Adri\u00e0 Puigdom\u00e8nech Badia, Mehdi Mirza, David Silver, Timothy Lillicrap, Alex Graves, Tim\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQHZ47NDb6oQFg/feedshare-shrink_800/B56Z9Aj32gG8Ag-/0/1783494574071?e=2147483647&v=beta&t=2xKdLNFD8RuqrXcCo9pTqWicv1EqqKRsWQzj4HIwQlM",
+        "id": "7480518433852260354"
+      },
+      {
+        "interaction": "Liked by Chang Min Bark",
+        "link": "https://www.linkedin.com/posts/anandhkrishnan_i-cannot-take-a-21-an-hour-developer-and-activity-7483537249448538112--mOx",
+        "title": "I cannot take a $21 an hour developer and make them work like a million dollar Meta engineer. The skill premium in software engineering is\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4E10AQGjVr0DyL5hdw/image-shrink_800/B4EZ9rdedoKoAk-/0/1784214317488?e=2147483647&v=beta&t=3PBDDjaKqAP9LX09B_UPNL2pIgShPUjBYMQCXid12Lk",
+        "id": "21"
+      },
+      {
+        "interaction": "Liked by Chang Min Bark",
+        "link": "https://www.linkedin.com/posts/lin-qiao-22248b4_im-excited-to-announce-our-15-billion-activity-7483546729888321536-nXEm",
+        "title": "I'm excited to announce our $1.5 billion Series D at a $17.5 billion valuation, led by Atreides Management, Index Ventures, and TCV, with\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4E05AQHtl0uEEm-Yzg/videocover-high/B4EZ9rmDI8JYBQ-/0/1784216566717?e=2147483647&v=beta&t=5etY3LSKTH3bAWK4lQtfHzQBoeC7SkgYUQ0i3o65VUw",
+        "id": "15"
+      },
+      {
+        "interaction": "Liked by Chang Min Bark",
+        "link": "https://www.linkedin.com/posts/googleresearch_what-drives-a-diffusion-models-creativity-activity-7483270788079439872-QmXu",
+        "title": "What drives a diffusion model's creativity (i.e., its ability to generate novel data rather than memorize)? Today we show this is a mathematical\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQFxXKQrUEtbqw/feedshare-shrink_800/B56Z9nrHiaHYAg-/0/1784150787563?e=2147483647&v=beta&t=pbIt-knEq2jOJfDlDRsWYRNLVXfR4_KPv8cukIqwd50",
+        "id": "7483270788079439872"
+      },
+      {
+        "interaction": "Liked by Chang Min Bark",
+        "link": "https://www.linkedin.com/posts/katsuyuki-wakabayashi-82410b2a_taking-on-the-role-of-department-chair-is-activity-7483220990915751936-eHjw",
+        "title": "Taking on the role of department chair is an honor and a significant responsibility. I look forward to learning from and working with many of you to\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQGo97-DSgJxeA/feedshare-shrink_800/B4EZ9m3o2XHoAc-/0/1784137290022?e=2147483647&v=beta&t=XBvNzvmRvLYyMi7sfh2eoRmRuiip-Cdu_vRuxWzHD_c",
+        "id": "7483220990915751936"
+      },
+      {
+        "interaction": "Liked by Chang Min Bark",
+        "link": "https://www.linkedin.com/posts/gpekhimenko_oss-ai-research-activity-7482837714082349058-XB1N",
+        "title": "I didn't post a lot recently, but this one I can't just pass by. There is a serious concern recently about the future of Open-Source Models (see for\u2026",
+        "img": "https://static.licdn.com/aero-v1/sc/h/53n89ecoxpr1qrki1do3alazb",
+        "id": "7482837714082349058"
+      },
+      {
+        "interaction": "Liked by Chang Min Bark",
+        "link": "https://www.linkedin.com/posts/natalie-lao_thank-you-to-everyone-who-made-the-mit-app-activity-7481369813660090368-ZfSS",
+        "title": "Thank you to everyone who made the MIT App Inventor Global Education Summit such an inspiring and memorable event! The App Inventor Foundation is\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQHLqsIwl-_PsQ/feedshare-shrink_800/B4EZ9MqMl7JEAc-/0/1783697559483?e=2147483647&v=beta&t=VrSJBJNQ8q9Ro1owJgnBesByPolwSN87yCdC3BhKPRE",
+        "id": "7481369813660090368"
+      },
+      {
+        "interaction": "Liked by Chang Min Bark",
+        "link": "https://www.linkedin.com/posts/jiayuhuang_gpt-live-is-really-good-and-unlocked-the-activity-7480681436627501057-EjuQ",
+        "title": "gpt-live is really good and unlocked the real personalized assistant experience. The interactiveness of this model is a truly game changer. please\u2026",
+        "img": "https://static.licdn.com/aero-v1/sc/h/53n89ecoxpr1qrki1do3alazb",
+        "id": "7480681436627501057"
+      }
+    ],
+    "linkedin_num_id": "421512777",
+    "banner_image": "https://media.licdn.com/dms/image/v2/D5616AQG4NmvdmQvfww/profile-displaybackgroundimage-shrink_200_800/B56Zpm4k5xHAAU-/0/1762662699724?e=2147483647&v=beta&t=z_or6A-aoRmFGB6INlhHylPvrBMXKECuoA1H7g0xbNk",
+    "honors_and_awards": [
+      {
+        "title": "Dean's List (2022-2026)",
+        "publication": "Bucknell University",
+        "date": "2025-05-01T00:00:00.000Z",
+        "description": "Undergraduates who successfully complete no less than 3.0 course credits during the semester and who earn a semester grade point average of 3.50 or higher receive dean's list honors for that semester."
+      },
+      {
+        "title": "AP Scholar with Distinction",
+        "publication": "-",
+        "date": "2020-01-01T00:00:00.000Z",
+        "description": null
+      },
+      {
+        "title": "School Valedictorian",
+        "publication": "-",
+        "date": "2020-01-01T00:00:00.000Z",
+        "description": null
+      },
+      {
+        "title": "Academic Excellence Award - Social Studies",
+        "publication": "-",
+        "date": "2019-01-01T00:00:00.000Z",
+        "description": null
+      },
+      {
+        "title": "Physics Student of the Year Award",
+        "publication": "-",
+        "date": "2019-01-01T00:00:00.000Z",
+        "description": null
+      },
+      {
+        "title": "President's Award for Educational Excellence",
+        "publication": "-",
+        "date": "2019-01-01T00:00:00.000Z",
+        "description": null
+      },
+      {
+        "title": "High Honor Roll with Distinction",
+        "publication": "-",
+        "date": null,
+        "description": null
+      }
+    ],
+    "similar_profiles": [],
+    "default_avatar": false,
+    "memorialized_account": false,
+    "bio_links": [],
+    "first_name": "Chang",
+    "last_name": "Min Bark",
+    "influencer": false,
+    "timestamp": "2026-08-12T18:59:31.297Z",
+    "input": {
+      "url": "https://www.linkedin.com/in/chang-min-bark-0091b7b9"
+    }
+  },
+  "local_photo": "data\\linkedin_photos\\chang-min-bark-0091b7b9__usr-A3TvRSsXwWUyZEs.jpg"
+}

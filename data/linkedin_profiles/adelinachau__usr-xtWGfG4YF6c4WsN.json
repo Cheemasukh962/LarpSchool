@@ -1,0 +1,336 @@
+{
+  "luma_user_id": "usr-xtWGfG4YF6c4WsN",
+  "csv_name": "Adelina Chau",
+  "csv_linkedin": "https://www.linkedin.com/in/adelinachau",
+  "enriched_at": "2026-08-12T18:55:27.675729+00:00",
+  "batch_id": "sd_msqg7js7a7y0irwot",
+  "profile": {
+    "id": "adelinachau",
+    "name": "Adelina C.",
+    "city": "Fremont, California, United States",
+    "country_code": "US",
+    "position": null,
+    "about": null,
+    "current_company": {
+      "link": "https://www.linkedin.com/school/uc-berkeley-eecs/?trk=public_profile_topcard-current-company",
+      "name": "UC Berkeley Electrical Engineering & Computer Sciences (EECS)",
+      "location": null
+    },
+    "experience": null,
+    "url": "https://id.linkedin.com/in/adelinachau",
+    "educations_details": "UC Berkeley Management, Entrepreneurship, & Technology (M.E.T.) program",
+    "education": [
+      {
+        "title": "UC Berkeley Management, Entrepreneurship, & Technology (M.E.T.) program",
+        "url": "https://www.linkedin.com/school/uc-berkeley-management-entrepreneurship-technology/",
+        "start_year": "2024",
+        "end_year": "2027",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      },
+      {
+        "start_year": "2020",
+        "end_year": "2024",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      },
+      {
+        "start_year": "2023-06",
+        "end_year": "2023-08",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      },
+      {
+        "start_year": "2022-04",
+        "end_year": "2022-08",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      }
+    ],
+    "avatar": "https://media.licdn.com/dms/image/v2/D5603AQGIEZ7SfmOaDQ/profile-displayphoto-scale_200_200/B56ZjI.RQRHUAo-/0/1755718424243?e=2147483647&v=beta&t=-fB_HG_LyBehwnX_liBaW5DDiU0GksQc_k7epPIJBaE",
+    "certifications": [
+      {
+        "meta": "Issued May 2023 Credential ID 645cb8fb021b8d01865ff59a See credential",
+        "subtitle": "Canvas Credentials (Badgr)",
+        "title": "National Cyber Scholar 2023",
+        "credential_url": "https://api.badgr.io/public/assertions/tWGiJFV0QT66giPUIogz_w?trk=public_profile_see-credential",
+        "credential_id": "645cb8fb021b8d01865ff59a"
+      },
+      {
+        "meta": "Issued Nov 2022 See credential",
+        "subtitle": "IBM",
+        "title": "IBM Quantum Challenge Fall 2022 Achievement - Advanced",
+        "credential_url": "https://www.credly.com/badges/1525429c-ce85-4c1d-90d8-14f07e784d15/linked_in_profile?trk=public_profile_see-credential",
+        "credential_id": null
+      },
+      {
+        "meta": "Issued Aug 2022 See credential",
+        "subtitle": "IBM",
+        "title": "Qiskit Global Summer School 2022 - Quantum Excellence",
+        "credential_url": "https://www.credly.com/badges/93d2f743-b0ad-41ce-bebd-7a9f73bd849b/linked_in_profile?trk=public_profile_see-credential",
+        "credential_id": null
+      },
+      {
+        "meta": "Issued Jun 2022 Credential ID 49767688 See credential",
+        "subtitle": "CITI Program",
+        "title": "Group 2 - Social and Behavioral - IRB-02",
+        "credential_url": "https://www.citiprogram.org/verify/?wdb545369-4256-4913-9655-509bab20957a-49767688&trk=public_profile_see-credential",
+        "credential_id": "49767688"
+      },
+      {
+        "meta": "Issued Jun 2022 See credential",
+        "subtitle": "IBM",
+        "title": "IBM Quantum Spring Challenge 2022 Achievement",
+        "credential_url": "https://www.credly.com/badges/8478e7fc-3ebd-4aa1-b690-5dea0dd49cf6?source=linked_in_profile&trk=public_profile_see-credential",
+        "credential_id": null
+      },
+      {
+        "meta": "Issued Jun 2022 Credential ID L53WEJY8C3QQ See credential",
+        "subtitle": "Coursera",
+        "title": "Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization",
+        "credential_url": "https://www.coursera.org/account/accomplishments/certificate/L53WEJY8C3QQ?trk=public_profile_see-credential",
+        "credential_id": "L53WEJY8C3QQ"
+      },
+      {
+        "meta": "Issued Jun 2022 Credential ID S5S6C8NJXXEU See credential",
+        "subtitle": "Coursera",
+        "title": "Neural Networks and Deep Learning",
+        "credential_url": "https://www.coursera.org/account/accomplishments/certificate/S5S6C8NJXXEU?trk=public_profile_see-credential",
+        "credential_id": "S5S6C8NJXXEU"
+      },
+      {
+        "meta": "Issued Jun 2022 Credential ID 49703495 See credential",
+        "subtitle": "CITI Program",
+        "title": "Social and Behavioral Responsible Conduct of Research",
+        "credential_url": "https://www.citiprogram.org/verify/?wb56572cd-e4dc-4bf6-93a6-2f3ff89ee0da-49703495&trk=public_profile_see-credential",
+        "credential_id": "49703495"
+      },
+      {
+        "meta": "Issued Apr 2022 See credential",
+        "subtitle": "The Coding School",
+        "title": "Introduction to Quantum Computing",
+        "credential_url": "https://verified.cv/en/verify/37923272450331?trk=public_profile_see-credential",
+        "credential_id": null
+      },
+      {
+        "meta": "Issued Jul 2021 Credential ID T5Q3NALQE5UB See credential",
+        "subtitle": "Coursera",
+        "title": "Machine Learning",
+        "credential_url": "https://www.coursera.org/account/accomplishments/certificate/T5Q3NALQE5UB?trk=public_profile_see-credential",
+        "credential_id": "T5Q3NALQE5UB"
+      }
+    ],
+    "followers": 1170,
+    "connections": 500,
+    "current_company_name": "UC Berkeley Electrical Engineering & Computer Sciences (EECS)",
+    "publications": [
+      {
+        "title": "Molecular Geometry Generation Processes through Hybrid Quantum-Classical Generative Adversarial Networks and Python-Based Self-Consistent Field Molecular Calculations",
+        "subtitle": "2023 IEEE International Conference on Quantum Computing and Engineering (QCE)",
+        "date": "September 23, 2023"
+      },
+      {
+        "title": "Hybrid Quantum-Classical Generative Adversarial Network for synthesizing chemically feasible molecules",
+        "subtitle": "Journal of Emerging Investigators",
+        "date": "January 10, 2023"
+      }
+    ],
+    "location": "Fremont",
+    "input_url": "https://www.linkedin.com/in/adelinachau",
+    "linkedin_id": "adelinachau",
+    "activity": [
+      {
+        "interaction": "Liked by Adelina C.",
+        "link": "https://www.linkedin.com/posts/y-combinator_input-the-tumor-output-the-vaccine-gamgee-activity-7492989463275675648-67Nx",
+        "title": "Input the tumor. Output the vaccine. Gamgee Technologies is building software that turns a dog\u2019s tumor and healthy DNA into a personalized mRNA\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5605AQEFSjSsBr8CNg/videocover-high/B56Z_wudN.GcBM-/0/1786450146416?e=2147483647&v=beta&t=_QNf8BLiUwd0DlhQTbueYDUYExEJIQHqSEPbvqizCA0",
+        "id": "7492989463275675648"
+      },
+      {
+        "interaction": "Liked by Adelina C.",
+        "link": "https://www.linkedin.com/posts/codebase-x-google-project-spotlight-series-activity-7486499354824974336-qjOX",
+        "title": "Excited to share the latest project spotlight from UC Berkeley Codebase in collaboration with the Google AlloyDB team: AI-Powered AlloyDB Personal\u2026",
+        "img": "https://media.licdn.com/dms/image/sync/v2/D5627AQGP8cCjNxUrfg/articleshare-shrink_800/B56Z.Ui13zKkAY-/0/1784903589687?e=2147483647&v=beta&t=RtPiAdm8jrqP0bQ0p3P6nO8jFm60bL-iPoDEWfashYk",
+        "id": "7486499354824974336"
+      },
+      {
+        "interaction": "Liked by Adelina C.",
+        "link": "https://www.linkedin.com/posts/msumaithri_codebase-x-google-project-spotlight-series-activity-7488268669026754560-0lVD",
+        "title": "Over the course of the semester, a team of Berkeley students worked alongside our team (thanks to Swapnil Nagle for guiding the student team) to\u2026",
+        "img": "https://media.licdn.com/dms/image/sync/v2/D5627AQGP8cCjNxUrfg/articleshare-shrink_800/B56Z.Ui13zKkAY-/0/1784903589687?e=2147483647&v=beta&t=RtPiAdm8jrqP0bQ0p3P6nO8jFm60bL-iPoDEWfashYk",
+        "id": "7488268669026754560"
+      },
+      {
+        "interaction": "Liked by Adelina C.",
+        "link": "https://www.linkedin.com/posts/bhanushalib_codebase-x-google-project-spotlight-series-activity-7488263175046332416-UyFa",
+        "title": "Outstanding work by the UC Berkeley Codebase team demonstrating how easily AlloyDB AI brings complex LLM operations right to the database. It was\u2026",
+        "img": "https://media.licdn.com/dms/image/sync/v2/D5627AQGP8cCjNxUrfg/articleshare-shrink_800/B56Z.Ui13zKkAY-/0/1784903589687?e=2147483647&v=beta&t=RtPiAdm8jrqP0bQ0p3P6nO8jFm60bL-iPoDEWfashYk",
+        "id": "7488263175046332416"
+      },
+      {
+        "interaction": "Liked by Adelina C.",
+        "link": "https://www.linkedin.com/posts/breanna-lu_excited-to-share-petra-labss-52m-seed-activity-7486427421571723265-6aOr",
+        "title": "Excited to share Petra Labs's $5.2M seed round led by Work-Bench alongside Afore Capital and Pathlight! I chose to intern at Petra Labs because I\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQE1EZDsJw_-HA/feedshare-shrink_800/B56Z.UiEgkKEAc-/0/1784903387400?e=2147483647&v=beta&t=5AKSsLF6HA6cnp1J80uoUSlccDlUZwXgkqILZMPOzo4",
+        "id": "7486427421571723265"
+      },
+      {
+        "interaction": "Liked by Adelina C.",
+        "link": "https://www.linkedin.com/posts/devinfitzpat_hi-everyone-super-excited-to-share-that-activity-7485391481751449600-9-jR",
+        "title": "Hi Everyone! Super excited to share that about a week ago Chelsea Commons brought together 75 interns from Blackstone, Jane Street, Jump, and\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQFu7DU8Rhqp5g/feedshare-shrink_800/B4EZ.Fz4bZJEAc-/0/1784656398392?e=2147483647&v=beta&t=kk4g7ZeZTmOB55DPSWE3RAIZecWPO6X4RthB3e-nNy4",
+        "id": "7485391481751449600"
+      },
+      {
+        "interaction": "Liked by Adelina C.",
+        "link": "https://www.linkedin.com/posts/alfredoandere_i-first-met-christopher-z-seven-years-ago-activity-7483950502049677313-XHeZ",
+        "title": "I first met Christopher Z. seven years ago, at 4am on Berkeley's Sproul Plaza. We were two sophomores holding down tent spots for our student clubs.\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQHrqIjN39hk9g/feedshare-shrink_800/B4EZ9xVUpqHAAc-/0/1784312843200?e=2147483647&v=beta&t=WTpC7_mWnxKl109BpILbNwjmyZdoa8zjfX8l1DvLces",
+        "id": "7483950502049677313"
+      },
+      {
+        "interaction": "Liked by Adelina C.",
+        "link": "https://www.linkedin.com/posts/tanmayi-dasari_thrilled-to-share-that-we-won-second-place-activity-7482845120317521920-j4An",
+        "title": "Thrilled to share that we won Second Place at the Claude Build Day Hackathon last month! Tejas Prabhune and I built Sim Francisco, a Census-seeded\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQEJpjWOqk5LBA/feedshare-shrink_800/B56Z9eiOlnGgAg-/0/1783997459032?e=2147483647&v=beta&t=w4aciD70e7u39gxxJFQ_sL9sW3esVNz3d65VWcUorlo",
+        "id": "7482845120317521920"
+      },
+      {
+        "interaction": "Liked by Adelina C.",
+        "link": "https://www.linkedin.com/posts/anthea-guo_lumeria-yc-s26-is-now-backed-by-y-combinator-activity-7474853782518919170-rDmh",
+        "title": "Lumeria (YC S26) is now backed by Y Combinator! What initially was the worst nightmare of my life is now a solution for people to own their skin\u2019s\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQE9nui0Ra1RRA/feedshare-image-high-res/B56Z7sy_JXH4AU-/0/1782089249715?e=2147483647&v=beta&t=uNll_uJvLwsljSpyBS1B-jr76ZnkLbX7jO2SfLtSp30",
+        "id": "7474853782518919170"
+      },
+      {
+        "interaction": "Liked by Adelina C.",
+        "link": "https://www.linkedin.com/posts/terry-taehan-kim_site4drug-predicting-drug-binding-target-activity-7470709698233688066-4pyE",
+        "title": "Excited to share that I\u2019ll be starting my PhD in EECS at the Massachusetts Institute of Technology. I\u2019m deeply grateful for the mentorship, support,\u2026",
+        "img": "https://static.licdn.com/aero-v1/sc/h/53n89ecoxpr1qrki1do3alazb",
+        "id": "7470709698233688066"
+      },
+      {
+        "interaction": "Liked by Adelina C.",
+        "link": "https://www.linkedin.com/posts/anika-bhandarkar_excited-to-announce-that-ive-completed-my-activity-7469803713658867712-nWnK",
+        "title": "Excited to announce that I've completed my first week at Sieve as an applied ML research intern! Even before stepping foot in Sieve's HQ, I had\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQGodQKT7gTJyA/feedshare-shrink_1280/B56Z6oS5V.GsAM-/0/1780939986706?e=2147483647&v=beta&t=Dvd8Uqt6WztaKJ-nUsplqN_kaS8cY8RKgRPKTD6g8BA",
+        "id": "7469803713658867712"
+      },
+      {
+        "interaction": "Liked by Adelina C.",
+        "link": "https://www.linkedin.com/posts/dan-mo-357111_i-am-very-proud-of-my-daughter-emily-mo-who-activity-7468889722916868096-3tmT",
+        "title": "I am very proud of my daughter Emily Mo who has recently started her intern at the great company SpaceX as a software engineer while doing her\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQHqmrxwpxoJYg/feedshare-image-high-res/B56Z6bTnZbGoAU-/0/1780722074079?e=2147483647&v=beta&t=LaYWlnm4IijrLvc494yqbpA-z6IKNuBIcNPw0Cehl7M",
+        "id": "7468889722916868096"
+      },
+      {
+        "interaction": "Liked by Adelina C.",
+        "link": "https://www.linkedin.com/posts/manan-bhargava_snowflake-ai-appliedai-activity-7462532609034665984-b7nY",
+        "title": "I've joined Snowflake as an Applied AI Engineer \ud83c\udf89 I spent months swimming through the market, consistently building, learning, and figuring out\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQFitOqyHtmzhw/feedshare-shrink_800/B56Z40mbCRGsAc-/0/1778998948202?e=2147483647&v=beta&t=h38QkQd29yD-ByjhagUhURBS8MZI19FrxXhaZLGDN2w",
+        "id": "7462532609034665984"
+      },
+      {
+        "interaction": "Liked by Adelina C.",
+        "link": "https://www.linkedin.com/posts/eduardo-lopez-42186b1b2_what-graduating-from-uc-berkeley-taught-me-activity-7468028744939716609-pxrQ",
+        "title": "What graduating from UC Berkeley taught me about life. Growing up, the world felt small. Most of my friends got jobs in high school to support their\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQHxCZ67UiFbpg/feedshare-image-high-res/B56Z6NQOT.HUAY-/0/1780486302053?e=2147483647&v=beta&t=fO1S0vxBbaDB3f_nBJIuH5h54TwfKaopK0hUlQaVAAQ",
+        "id": "7468028744939716609"
+      },
+      {
+        "interaction": "Liked by Adelina C.",
+        "link": "https://www.linkedin.com/posts/avery-chen53_graduation-ucberkeley-stanford-activity-7467236089192296448-bYq1",
+        "title": "Three years ago, I failed my high school AP CS exam and was admitted early to UC Berkeley as one of only 100 CS majors in my class. I was so scared\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQHu3WGI8jl2jA/feedshare-image-high-res/B56Z5_BJaPKcAU-/0/1780247469187?e=2147483647&v=beta&t=CGOwkfDilOf54GrjG0LEtUWz37HxUrKwLJtt_-nwQoA",
+        "id": "7467236089192296448"
+      },
+      {
+        "interaction": "Liked by Adelina C.",
+        "link": "https://www.linkedin.com/posts/frankdellaert_georgia-institute-of-technology-undergrads-activity-7457813264228417536-NzPz",
+        "title": "Georgia Institute of Technology undergrads are awesome. Following last week\u2019s post on the equivariant filter, Rohan Bansal has deployed the Awesome\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQFb-lSI234nYA/feedshare-shrink_800/B4EZ395pWTHsAc-/0/1778081240756?e=2147483647&v=beta&t=WEi3Uj_4WIwSGmrak32XmhewzDsi0EY1oyXWldLZJns",
+        "id": "7457813264228417536"
+      }
+    ],
+    "linkedin_num_id": "957264281",
+    "banner_image": "https://static.licdn.com/aero-v1/sc/h/5q92mjc5c51bjlwaj3rs9aa82",
+    "honors_and_awards": [
+      {
+        "title": "National Cyber Scholar",
+        "publication": "-",
+        "date": "2023-05-01T00:00:00.000Z",
+        "description": null
+      },
+      {
+        "title": "St. Francis of Assisi Service Award",
+        "publication": "-",
+        "date": "2023-05-01T00:00:00.000Z",
+        "description": null
+      },
+      {
+        "title": "Mathematics Award",
+        "publication": "-",
+        "date": "2023-04-01T00:00:00.000Z",
+        "description": null
+      },
+      {
+        "title": "NCWIT National Honorable Mention",
+        "publication": "-",
+        "date": "2023-01-01T00:00:00.000Z",
+        "description": null
+      },
+      {
+        "title": "NCWIT San Francisco Regional Affiliate Winner",
+        "publication": "-",
+        "date": "2023-01-01T00:00:00.000Z",
+        "description": null
+      },
+      {
+        "title": "St. Francis of Assisi Service Award",
+        "publication": "-",
+        "date": "2022-05-01T00:00:00.000Z",
+        "description": null
+      },
+      {
+        "title": "Mathematics Award",
+        "publication": "-",
+        "date": "2022-04-01T00:00:00.000Z",
+        "description": null
+      },
+      {
+        "title": "World Language Award",
+        "publication": "-",
+        "date": "2021-04-01T00:00:00.000Z",
+        "description": null
+      },
+      {
+        "title": "USACO Silver",
+        "publication": "-",
+        "date": "2021-01-01T00:00:00.000Z",
+        "description": null
+      },
+      {
+        "title": "Principal's Honor Roll",
+        "publication": "-",
+        "date": null,
+        "description": null
+      }
+    ],
+    "similar_profiles": [],
+    "default_avatar": false,
+    "memorialized_account": false,
+    "bio_links": [],
+    "first_name": "Adelina",
+    "last_name": "C.",
+    "influencer": false,
+    "timestamp": "2026-08-12T18:54:32.979Z",
+    "input": {
+      "url": "https://www.linkedin.com/in/adelinachau"
+    }
+  },
+  "local_photo": "data\\linkedin_photos\\adelinachau__usr-xtWGfG4YF6c4WsN.jpg"
+}

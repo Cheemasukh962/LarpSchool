@@ -1,0 +1,242 @@
+{
+  "luma_user_id": "usr-H0VRD1jrcVNc8CM",
+  "csv_name": "Vien Nguyen",
+  "csv_linkedin": "https://www.linkedin.com/in/vienng",
+  "enriched_at": "2026-08-12T19:22:34.875645+00:00",
+  "batch_id": "sd_msqh2468i57o0acas",
+  "profile": {
+    "id": "vienng",
+    "name": "Vien Nguyen",
+    "city": "San Francisco Bay Area",
+    "country_code": "US",
+    "position": null,
+    "about": "Learning to be a great engineer",
+    "current_company": {
+      "link": "https://www.linkedin.com/company/nvidia?trk=public_profile_topcard-current-company",
+      "name": "NVIDIA",
+      "company_id": "nvidia",
+      "location": null
+    },
+    "experience": null,
+    "url": "https://br.linkedin.com/in/vienng",
+    "educations_details": "University of South Florida",
+    "education": [
+      {
+        "title": "University of South Florida",
+        "url": "https://www.linkedin.com/school/usouthflorida/",
+        "start_year": "2023-08",
+        "end_year": "2027-05",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      }
+    ],
+    "avatar": "https://media.licdn.com/dms/image/v2/D4E03AQH4jA-JEEmcbw/profile-displayphoto-scale_200_200/B4EZzV4vzdJYAc-/0/1773114950533?e=2147483647&v=beta&t=sAwfBEi0jSZuTC7O__FZS7mOSE7-yt_TRXr01_0wqWE",
+    "certifications": [
+      {
+        "meta": "Issued Sep 2024 Credential ID Qog6Mq4WhASmJE8Ec See credential",
+        "subtitle": "Forage",
+        "title": "Accenture North America - Coding: Development & Advanced Engineering Job Simulation",
+        "credential_url": "https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Accenture%20North%20America/XvvYRvb2YpfkyA52H_Accenture%20North%20America_gyAeTboamjwrNRxSk_1727566937968_completion_certificate.pdf?trk=public_profile_see-credential",
+        "credential_id": "Qog6Mq4WhASmJE8Ec"
+      },
+      {
+        "meta": "Issued Sep 2024 Credential ID 4qjsG3F2t8vLLctCy See credential",
+        "subtitle": "Forage",
+        "title": "J.P. Morgan - Software Engineering Job Simulation",
+        "credential_url": "https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/J.P.%20Morgan/R5iK7HMxJGBgaSbvk_J.P.%20Morgan_gyAeTboamjwrNRxSk_1726810414691_completion_certificate.pdf?trk=public_profile_see-credential",
+        "credential_id": "4qjsG3F2t8vLLctCy"
+      },
+      {
+        "meta": "Issued Sep 2024 See credential",
+        "subtitle": "Udemy",
+        "title": "The Full Stack Web Development Bootcamp 2024 - MERN STACK",
+        "credential_url": "https://drive.google.com/file/d/1t91-vbktGc6jgGJtO3DaryL6FT3Rnx_n/view?usp=sharing&trk=public_profile_see-credential",
+        "credential_id": null
+      },
+      {
+        "meta": "Issued Aug 2024 See credential",
+        "subtitle": "Kaggle",
+        "title": "Intro to Machine Learning",
+        "credential_url": "https://drive.google.com/file/d/1ayAO50cdakT9Mj1tOUlNMVwi4LWLXocY/view?usp=drive_link&trk=public_profile_see-credential",
+        "credential_id": null
+      },
+      {
+        "meta": "Issued Jan 2023 See credential",
+        "subtitle": "Udemy",
+        "title": "Master the Coding Interview: Data Structures + Algorithms",
+        "credential_url": "https://drive.google.com/file/d/1vtI2A4xX-j4yFPAPf1NhT6dK5sz9ED1X/view?usp=sharing&trk=public_profile_see-credential",
+        "credential_id": null
+      },
+      {
+        "meta": "See credential",
+        "subtitle": "Kaggle",
+        "title": "Data Cleaning",
+        "credential_url": "https://drive.google.com/file/d/1wwRYN_7OFjQ0fa1akg4FZ49k7om9jXHG/view?usp=sharing&trk=public_profile_see-credential",
+        "credential_id": null
+      },
+      {
+        "meta": "See credential",
+        "subtitle": "Microsoft",
+        "title": "Introduction to Docker containers",
+        "credential_url": "https://learn.microsoft.com/api/achievements/share/en-us/VienNguyen-9087/Z4LT69Q2?sharingId=FD3747BD08317C04&trk=public_profile_see-credential",
+        "credential_id": null
+      },
+      {
+        "meta": "See credential",
+        "subtitle": "Microsoft",
+        "title": "Introduction to large language models",
+        "credential_url": "https://learn.microsoft.com/api/achievements/share/en-us/VienNguyen-9087/CN2U3JL9?sharingId=FD3747BD08317C04&trk=public_profile_see-credential",
+        "credential_id": null
+      },
+      {
+        "meta": "See credential",
+        "subtitle": "LinkedIn",
+        "title": "Learning Arduino: Interfacing with Analog Devices",
+        "credential_url": "https://www.linkedin.com/learning/certificates/bc9ba4a39b1eb12102f19c25961b4c621d5b8dcf6822f00404218e445247a038?trk=public_profile_see-credential",
+        "credential_id": null
+      }
+    ],
+    "volunteer_experience": [
+      {
+        "cause": "Education",
+        "duration": "Feb 2024 \u00b7 - \nFeb 2024 \u00b7 \n1 month",
+        "duration_short": "- \nFeb 2024",
+        "info": "- I ensured seamless operation for 4+ student organizations showcasing their work at the event by supporting their logistics, set-up, equipment and fostered a friendly learning environment for 30+ high school students attending.",
+        "start_date": "Feb 2024",
+        "subtitle": "USF Engineering Expo",
+        "title": "Event Staff"
+      },
+      {
+        "cause": "Health",
+        "duration": "Jan 2024 \u00b7 - \nJan 2024 \u00b7 \n1 month",
+        "duration_short": "- \nJan 2024",
+        "info": "- I coordinated the logistics, set-up, break down and management of tent equipment, power supply, and weather precaution methods for 20+ healthcare vendors. I also help breakdown registration and check-in for 50+ attendees and helped them navigate the event.",
+        "start_date": "Jan 2024",
+        "subtitle": "AdventHealth",
+        "title": "Event Staff"
+      }
+    ],
+    "followers": 2699,
+    "connections": 500,
+    "current_company_company_id": "nvidia",
+    "current_company_name": "NVIDIA",
+    "projects": [
+      {
+        "title": "Flavorie",
+        "start_date": "Mar 2024",
+        "description": "Flavorie helps you manage your digital inventory of ingredients and instant ingredient acquisition with receipt scanning and Instacart checkout, build personalized lists of meals, cook with others live and effortlessly, and share your moments with the community!"
+      },
+      null,
+      null,
+      null,
+      {
+        "title": "Agilizer",
+        "start_date": "Apr 2024",
+        "description": "Agilizer is an ambitious project created for the Google AI Hackathon. Inspired by the need for a comprehensive B2B platform, this powerful tool aims to revolutionize the way businesses manage their day-to-day operations and workflows by automatically gather and act on customer feedback, empowering companies to quickly build, test, and iterate on new products and ideas."
+      }
+    ],
+    "location": null,
+    "input_url": "https://www.linkedin.com/in/vienng",
+    "linkedin_id": "vienng",
+    "activity": [
+      {
+        "interaction": null,
+        "link": "https://www.linkedin.com/posts/khanhquocdo_wrapping-up-day-3-engineering-and-with-activity-7445233083198357505-hAuf",
+        "title": "\ud83c\udf89 Wrapping up Day 3: Engineering, and with it, the final night of VISA: The Insider Case, I keep coming back to one feeling: gratitude. Over the past three days, this series became more than just a set of career panels. It became a space where students could hear honest stories about what it really takes to grow into competitive fields \u2014 not just the highlights, but also the uncertainty, the setbacks, and the discipline behind the progress. \u2699\ufe0f For Engineering Day, we were incredibly grateful to be joined by Hung Pham , Linh Ha , and Vien Nguyen , who each brought a different but equally valuable perspective. Hung Pham helped students think more intentionally about the CS journey early on: exploring different paths, building experience before chasing prestige, and taking freshman and sophomore years seriously as a time to experiment, apply, and grow. Linh Ha shared a perspective that felt especially real and grounding \u2014 that the path is not linear, going from 0 to 1 is often the hardest part, and consistency, mentorship, and trusting your own timeline matter more than comparison. Vien Nguyen challenged students to think more deeply about what makes a project meaningful: not just building something that works, but understanding the problem, designing thoughtfully, communicating clearly, and turning projects into real stories of engineering growth. To everyone who attended across all three days, thank you for showing up with curiosity, openness, and energy. Your questions, conversations, and willingness to learn are what made this series feel alive. \ud83d\ude4c And to the Vietnamese International Student Association at USF e-board, thank you all for the care and work behind the scenes that made all of this possible. If there is one thing this 3-day series reminded me, it is this: no path is perfectly clear at the beginning, but hearing honest stories from people a few steps ahead can make the journey feel a lot more possible. \ud83d\udc99 \u2728 Thank you to every speaker, attendee, and team member who helped make VISA: The Insider Case so meaningful. This was a special one.",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQH-e7HB3MIjHA/feedshare-shrink_800/B4EZ1LIBgPHYAc-/0/1775081888374?e=2147483647&v=beta&t=c0H8ZhPLh_m94GteY3iT68Fe0R4yGaM7WTwemL1XGpk",
+        "id": "3"
+      },
+      {
+        "interaction": null,
+        "link": "https://www.linkedin.com/posts/joshwymer_amazon-is-doing-5-day-rto-but-its-not-enough-activity-7241927037655875584-CT6I",
+        "title": "Amazon is doing 5 day RTO, but it's not enough. If you want max productivity you have to go further. At Central, we put our employees on regimented diet plans, fitness routines, and sleep programs. If you want to perform like a professional, you need to train like one. Starting today, all employees will be required to sleep in-office 7 days a week in our cryogenic recovery pods. We're hiring engineers so if this sounds like a good fit, fly to my house and present your resume and current meal plan.",
+        "img": null,
+        "id": "5"
+      },
+      {
+        "interaction": "Vien Nguyen shared this",
+        "link": "https://www.linkedin.com/posts/vienng_check-out-our-cool-project-activity-7218078508059688960-Eqij",
+        "title": "Check out our cool project!",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQEA3KMbXwfzKg/feedshare-shrink_800/feedshare-shrink_800/0/1720916859333?e=2147483647&v=beta&t=M2qmpQw_2f4sdjOYUI9YzprmUyPpKx9L8e3AqiGKlRw",
+        "id": "7218078508059688960"
+      },
+      {
+        "interaction": "Vien Nguyen shared this",
+        "link": "https://www.linkedin.com/posts/vienng_i-cant-express-more-of-my-gratitude-and-activity-7217679911077974018-qo3U",
+        "title": "I can't express more of my gratitude and appreciation of the support, growth, and guidance that the Viet Tech Mentorship Program has bring about for all of us, especially our beloved mentors and advisors who worked with great diligence and care to help us deliver the coolest projects over the past 3 months. As a mentee, I've gone through a complete game changer from barely knowing HTML and CSS to building a full-stack MERN application all thanks to the incredible mentorship of the program! Looking forward to what VTMP will bring in the future!",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQFZByTrQuoDGw/feedshare-shrink_800/feedshare-shrink_800/0/1720824701191?e=2147483647&v=beta&t=6VHJrZytjlAYVsH6b_ZDKN19HNhswiizdiA1kzoqOQ4",
+        "id": "7217679911077974018"
+      },
+      {
+        "interaction": "Vien Nguyen reacted on this",
+        "link": "https://www.linkedin.com/posts/-johnny-nguyen_lifeatuber-offeraccepted-activity-7492426792641929216-dl_S",
+        "title": "For the fourth time I feel like I'm writing the same post, but this time it's actually different. Instead of joining Uber as an intern, I'll now be joining as a full time software engineer in SF. It's been a journey. My first internship at Uber was back in 2023, when I was still in community college, writing code by hand, and had major imposter syndrome being in a room full of interns from top universities. Now I've just graduated from UCSD with a bachelor's in Computer Science, and I've swapped out the self doubt for a genuine drive to keep leveling up as an engineer. I\u2019m excited for this next chapter in my life and I have so many people to thank for it including my family, team members, mentors, managers and recruiters. Here's to the next chapter. \ud83d\ude80\ud83d\ude97 #LifeAtUber #OfferAccepted",
+        "img": "https://media.licdn.com/dms/image/v2/D5605AQFkrwuhqdjj2A/videocover-high/B56Z_pycbMHUBM-/0/1786333744043?e=2147483647&v=beta&t=Ban-UeCA-bboh69G-13Vtn_OmLqZ8g391RhyRS1n8D4",
+        "id": "7492426792641929216"
+      },
+      {
+        "interaction": "Vien Nguyen reacted on this",
+        "link": "https://www.linkedin.com/posts/lucas-vuong-495b54199_went-from-filling-my-amazon-cart-to-helping-activity-7485401811177308161-g_Un",
+        "title": "Went from filling my Amazon cart\u2026 To helping build Amazon. \ud83d\ude09 I'm grateful to have graduated from the University of Victoria this June and to now be starting my next chapter as a Software Development Engineer at Amazon .\ud83d\ude80 Thank you to everyone who believed in me and helped me along the way. You know who you are. \ud83e\udde1",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQGswHmvsB37pw/feedshare-image-high-res/B56Z.F9Rx0IQAU-/0/1784658862595?e=2147483647&v=beta&t=qaPus4Eye7W8o-F97Bak7U-ceQmP0wzAm2sMkbWXswM",
+        "id": "7485401811177308161"
+      },
+      {
+        "interaction": "Vien Nguyen liked this",
+        "link": "https://www.linkedin.com/posts/waymo_nationalinternday-activity-7489070405685682177-5hdm",
+        "title": "We loved catching our co-CEO Dmitri Dolgov hanging out with this summer\u2019s intern cohort on #NationalInternDay ! From diving into complex projects to connecting directly with leadership, our interns bring fresh perspectives, relentless curiosity, and incredible energy to Waymo. Huge thank you to our summer interns for the impact you\u2019re making across our entire team! \ud83d\ude80",
+        "img": "https://media.licdn.com/dms/image/v2/D4E10AQHu840JZufWcg/image-shrink_800/B4EZ.6F0IQIUAk-/0/1785533514945?e=2147483647&v=beta&t=9tmAtVX177-UD26jepS22WLsijBTo02RFVXn8cS3iWA",
+        "id": "7489070405685682177"
+      },
+      {
+        "interaction": "Vien Nguyen liked this",
+        "link": "https://www.linkedin.com/posts/ryan-ning_ubecome-activity-7488986839706611712-Rwsy",
+        "title": "Came out of retirement to \ud835\ude04\ud835\uddf6\ud835\uddfb \ud835\udfed\ud835\ude00\ud835\ude01 \ud835\uddfd\ud835\uddf9\ud835\uddee\ud835\uddf0\ud835\uddf2 at Uber 's intern hackathon :) Had a blast working with Jasmine Liu and Sherry Long as team Ubah Scuba (ask for the story behind our name!). We presented our project to Uber VPs, Frank Chang , Johannes Gehrke , Mattie Toia , Ramsin Betyousef , Albert Greenberg , and Biswanath Panda . Thank you for the great questions and feedback! Hearing Praveen Neppalli Naga announce our team's win was definitely the highlight of my internship so far. This is the last hackathon, I swear \ud83d\ude3c Uber Engineering #ubecome",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQHwl0RV1XxSSA/feedshare-shrink_800/B56Z.3eIDYG8Ac-/0/1785489556262?e=2147483647&v=beta&t=s8yfbNyH8GL81arITzXqPM2jsxZkHXFmM6RvwpF6Q44",
+        "id": "7488986839706611712"
+      },
+      {
+        "interaction": "Vien Nguyen reacted on this",
+        "link": "https://www.linkedin.com/posts/tam-cs_i-quitted-this-year-yc-startup-school-activity-7488775466091245568-tIO8",
+        "title": "I Quitted this year YC Startup School... But I don't regret it. This time last year, I was attending the first ever YC startup school in the world. Being one of the pioneering participants bring me a very exciting and unique experience. But this year, I'm not going there. Instead, I spent a whole month in Vietnam, went back and forth between cities, met a bunch of new friends, and learned a lot of new things. During the time, I was lucky enough to attend the GRAB the Future Hackathon, which eventually granted me a Data Analyst intern at Grab. Later, I went to the Agentic AI Build Week from GenAI Fund, where I built and integrated Muster Task Delegator into internal operations at KT One. Closing the month was an amazing time at the 2nd SEA Quantathon in Vietnam, where KT One was able to secured a 3rd place along with investment opportunities. Thank you for making my summer extraordinaries, my G Duc-Kha Vu , Long Le , Marc Jermaine Pontiveros, and also with a lot of friends we talked along the way. P/s: First time on live broadcast, would prepare better next time!",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQHw5g52rbHkwA/feedshare-shrink_800/B56Z.zowg2JgAg-/0/1785425235536?e=2147483647&v=beta&t=rRb0b4Oqu4hDfiiTWwcsNThbBNPEAwD0xMVFDE6JY2c",
+        "id": "7488775466091245568"
+      },
+      {
+        "interaction": "Vien Nguyen reacted on this",
+        "link": "https://www.linkedin.com/posts/brett-freidkes-42a31482_today-was-my-last-day-at-the-university-of-activity-7488041410810601472-FAqv",
+        "title": "Today was my last day at the University of South Florida . Over the past three years as an instructor in mechanical engineering, I have learned so much about myself as an educator and as a person. I've made incredible friends, interacted with thousands of students, and grew as an engineer. To my colleagues: thank you for the support you have given me (especially to Miguel Goni Rodrigo and Karim Nohra who have become incredible friends since this journey began). Having colleagues to bounce ideas off of, look to for guidance, or simply to vent to makes the job easier and a lot more fun. To my students: thank you for everything. You were the reasons I wanted to come to work every day. I appreciate your desire to learn, your motivation, and your friendship. And despite being your professor, I have learned so much from you all as well: whether in engineering, mentoring, or simply humor that I am too much of a millennial to understand, it has shaped me more than you will ever know. You are all strong and will do incredible things in your lives: please keep in touch so I can hear of all your successes. Lastly, to my wife Samantha Korn : thank you for your patience and support during this whole time. Being an instructor requires a lot more time than just teaching in a lecture hall; it requires preparation, grading, office hours, meetings, etc. You have been my rock and I am glad to continue this journey with you to North Carolina, where I will begin as an adjunct professor in the Department of Mechanical & Aerospace Engineering at North Carolina State University . Thank you again from the bottom of my heart. I hope to see my USF family again soon. Go Bulls!",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQHk3pojUCX2YA/feedshare-shrink_800/B4EZ.rd.4QIkAg-/0/1785288192277?e=2147483647&v=beta&t=pKd0m3bdmcZLjxz-CthBKk0y9J2XOx0ufqQSdUtkIYU",
+        "id": "7488041410810601472"
+      },
+      {
+        "interaction": "Vien Nguyen reacted on this",
+        "link": "https://www.linkedin.com/posts/vu-nguyen-hue-quan_incredibly-humbled-and-stoked-to-share-that-activity-7481432538528251904-jOYy",
+        "title": "Incredibly humbled and stoked to share that I\u2019ve recently joined OpenAI as a Member of Design Staff!",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQGDKU40YKXIBQ/feedshare-shrink_800/B56Z9NjQILGQAc-/0/1783712514793?e=2147483647&v=beta&t=5xN4_SfvzkyWRE2FY_XpV1B_NcSIaTBBHMHea_yK-3A",
+        "id": "7481432538528251904"
+      }
+    ],
+    "linkedin_num_id": "1175807868",
+    "banner_image": "https://media.licdn.com/dms/image/v2/D4E16AQFIFbmlufIDww/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1714882777921?e=2147483647&v=beta&t=m8PNqE8HgzmysJDe8hO28M_Y-Jv8c-uhzz7ju54UfRg",
+    "honors_and_awards": null,
+    "similar_profiles": [],
+    "default_avatar": false,
+    "memorialized_account": false,
+    "bio_links": [
+      {
+        "title": "Other",
+        "link": "https://github.com/viennguyen24"
+      }
+    ],
+    "first_name": "Vien",
+    "last_name": "Nguyen",
+    "influencer": false,
+    "timestamp": "2026-08-12T19:18:56.705Z",
+    "input": {
+      "url": "https://www.linkedin.com/in/vienng"
+    }
+  },
+  "local_photo": "data\\linkedin_photos\\vienng__usr-H0VRD1jrcVNc8CM.jpg"
+}

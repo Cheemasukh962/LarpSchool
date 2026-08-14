@@ -1,0 +1,239 @@
+{
+  "luma_user_id": "usr-qMUa89vLlxX5gRY",
+  "csv_name": "Snehanshn Chowdhury",
+  "csv_linkedin": "https://www.linkedin.com/in/snehanshn-chowdhury-6aa2922b4",
+  "enriched_at": "2026-08-12T19:18:07.754548+00:00",
+  "batch_id": "sd_msqh0fwb1tv6mjnbrd",
+  "profile": {
+    "id": "snehanshn-chowdhury-6aa2922b4",
+    "name": "Snehanshn Chowdhury",
+    "city": "New York City Metropolitan Area",
+    "country_code": "US",
+    "position": null,
+    "about": null,
+    "current_company": {
+      "location": null
+    },
+    "experience": null,
+    "url": "https://ru.linkedin.com/in/snehanshn-chowdhury-6aa2922b4",
+    "educations_details": "Rutgers University\u2013New Brunswick",
+    "education": [
+      {
+        "start_year": "2022",
+        "end_year": "2024",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      },
+      {
+        "start_year": "2020",
+        "end_year": "2022",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      }
+    ],
+    "avatar": "https://media.licdn.com/dms/image/v2/D4E03AQHFaQ_jgQPl_A/profile-displayphoto-scale_200_200/B4EZ.1gqh8KQAc-/0/1785456668313?e=2147483647&v=beta&t=uTGkFAWh0ETQ4ueUfjHe-gHNt07JbWw14uurWmJcHlk",
+    "followers": 759,
+    "connections": 500,
+    "projects": [
+      {
+        "title": "Synapse",
+        "start_date": "Oct 2025",
+        "description": "Synapse is an experimental multimodal AI pipeline focused on image and video generation, inference orchestration, and model interoperability. The project explores how modern diffusion models, LoRA fine-tuning, and video pipelines can be composed into scalable, reproducible workflows.The system supports modular model loading, prompt conditioning, and media-level transformations, with an emphasis on performance, controllability, and rapid experimentation. Synapse was built to better understand the practical constraints of deploying image and video generation systems, including memory management, model compatibility, and inference latency.The project serves as both a research sandbox and a production-oriented foundation for generative media applications.1st @ Hack RU - Educationdevpost submission - https://lnkd.in/e2bTSUY6youtube demo - https://lnkd.in/e54FzYr7"
+      },
+      null,
+      null,
+      null,
+      {
+        "title": "Algora",
+        "start_date": "Apr 2025",
+        "description": "Algora is a fully personalized job application automation platform designed to help early-career engineers apply at scale without sacrificing quality. The system synthesizes a deep understanding of a candidate\u2019s technical background by ingesting public portfolio data (GitHub repositories, Devpost projects, resumes, and file directories) with user consent.Algora aggregates and ranks public job listings based on technical fit, then generates role-specific applications and cover letters tailored to each posting. The platform emphasizes alignment between a candidate\u2019s real experience and the requirements of each role, reducing generic applications while significantly improving application throughput.Built to validate whether automation can meaningfully improve hiring outcomes for technically strong but resource-constrained candidates.1st @ Hack NYUDevpost - https://lnkd.in/eGE7mGCE"
+      },
+      null,
+      null,
+      null,
+      {
+        "title": "InstructifAI",
+        "start_date": "Feb 2025",
+        "description": "InstructifAI is an AI-powered presentation analysis platform designed to help speakers refine their delivery by providing real-time insights into audience engagement. Using advanced AI models, InstructifAI detects facial expressions, head nods, and attention levels to gauge interest. It also transcribes and analyzes speech to identify key moments where engagement fluctuates.Key Features:\ud83d\udcca Audience Interest Detection (AID) \u2013 Tracks facial expressions (FER) and head movement (NoddingPigeon) to assess audience engagement.\ud83d\udd0a Presentation Audio Transcription (PAT) \u2013 Uses WhisperAI and Deepgram for speech-to-text conversion and content analysis.\ud83e\udde0 AI Judge \u2013 Powered by Llama/Deepseek, delivering timestamped feedback and recommendations for improving presentation effectiveness.\ud83c\udfa4 Ollama AI Agent/Coach \u2013 Personalized coaching and insights to elevate your speaking skills.With InstructifAI, presenters can gain data-driven insights to sharpen their communication skills, ensuring their message resonates with their audience."
+      },
+      null,
+      null,
+      {
+        "title": "Medify",
+        "start_date": "Nov 2024",
+        "description": "Medify is an AI-powered healthcare tool designed to assist soldiers and field medics in high-pressure environments. It leverages advanced machine learning to provide rapid injury assessment and tailored treatment guidance. The solution incorporates two key AI models:Wound Identification Model: Built using Python, PyTorch, and TensorFlow, this model analyzes images of injuries to classify wound types and assess severity. It ensures precise, real-time identification to guide immediate care decisions.Privacy Censorship Model: Designed for secure environments, this AI model automatically censors sensitive wound images, maintaining privacy during assessments and data sharing.Technical Details:Backend: Developed with Flask and FastAPI for seamless communication and data processing.User Interface: Built with Next.js, React, and Tailwind CSS, offering a clean and intuitive design.Data Security: Utilizes blockchain technology (Midnight protocol) to encrypt and securely store data, including soldier IDs, medkit inventories, and injury details.Key Features:Efficiency: Provides rapid, AI-driven injury analysis to save critical time in emergencies.Accuracy: Tailored recommendations for treatment based on available medkit supplies.Accessibility: Text-to-speech functionality offers hands-free treatment guidance.Emergency Alerts: High-confidence injuries trigger prompts to contact emergency services.Achievements:Medify was developed to address gaps in battlefield care and empower soldiers to respond effectively in the absence of medics. It combines cutting-edge AI with a user-friendly interface, bridging the gap between field conditions and professional medical care.Impact:Medify enhances emergency response efficiency, reduces mortality rates, and ensures secure handling of sensitive data, making it an indispensable tool for military and emergency medical applications."
+      },
+      null,
+      null,
+      {
+        "title": "FraxAI",
+        "start_date": "Oct 2024",
+        "description": "Fraxai is an AI-powered healthcare tool designed to assist radiologists and nurses in the emergency room. It uses advanced machine learning to streamline fracture diagnosis and treatment. The solution incorporates two key AI models:Fracture Detection Model: Built with Python, PyTorch, and Detectron2, this model analyzes X-ray images to identify fracture types and their precise locations. It highlights the fracture areas directly on the X-ray image, providing a clear visual reference.Treatment Guidance Model: Using MLflow, this model processes the detection data to generate tailored treatment instructions for nurses. It ensures that even nurses with limited training can administer accurate and effective care.Technical Details:The backend leverages a Flask REST API for communication.The user interface is built with modern web technologies, including Next.js, React, and Tailwind CSS, offering an intuitive and responsive design.Key Features:Efficiency: Fraxai minimizes the time required for fracture diagnosis and treatment planning.Accuracy: Provides reliable fracture identification and treatment guidance, improving outcomes.Accessibility: Bridges the skill gap for nurses, enabling better care delivery in high-pressure environments.Achievements: Fraxai was developed during a hackathon and won \"Best Freshman Hack\" out of 120 participating teams, including upperclassmen. It stands out for its innovative combination of AI, practical medical applications, and a seamless user experience.Impact: By saving radiologists' time and empowering nurses, Fraxai enhances the efficiency and quality of emergency medical care."
+      }
+    ],
+    "location": null,
+    "input_url": "https://www.linkedin.com/in/snehanshn-chowdhury-6aa2922b4",
+    "linkedin_id": "snehanshn-chowdhury-6aa2922b4",
+    "activity": [
+      {
+        "interaction": "Liked by Snehanshn Chowdhury",
+        "link": "https://www.linkedin.com/posts/akshay-g-748041212_layoffs-immediatelyavailable-immidiatejoiner-activity-7492515692706160641-jvGq",
+        "title": "Dear LinkedIn Family, Writing this with a heavy heart - My last attempt to restart my career. I lost my job due to #layoffs and jobless. Facing\u2026",
+        "img": "https://static.licdn.com/aero-v1/sc/h/53n89ecoxpr1qrki1do3alazb",
+        "id": "7492515692706160641"
+      },
+      {
+        "interaction": "Liked by Snehanshn Chowdhury",
+        "link": "https://www.linkedin.com/posts/akshay-g-748041212_layoffs-immediatelyavailable-immidiatejoiner-activity-7492933478632574976-q8uJ",
+        "title": "Dear LinkedIn Family, Writing this with a heavy heart - My last attempt to restart my career. I lost my job due to #layoffs and jobless. Facing\u2026",
+        "img": "https://static.licdn.com/aero-v1/sc/h/53n89ecoxpr1qrki1do3alazb",
+        "id": "7492933478632574976"
+      },
+      {
+        "interaction": "Liked by Snehanshn Chowdhury",
+        "link": "https://www.linkedin.com/posts/parallelsystems_please-join-us-in-welcoming-anton-baricevic-activity-7492641069717745664-bNQX",
+        "title": "Please join us in welcoming Anton Baricevic to Parallel Systems as a Mechanical Engineer! Anton joins us after earning his B.S.E. in Mechanical\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQEaaoQY7CCD6Q/feedshare-image-high-res/B56Z_s1WSuHAAU-/0/1786384836772?e=2147483647&v=beta&t=0G8c-efYu3LOJk4FW4pql9P8ekCq_bAHlcZwB5jRzVk",
+        "id": "7492641069717745664"
+      },
+      {
+        "interaction": "Liked by Snehanshn Chowdhury",
+        "link": "https://www.linkedin.com/posts/tiffanysuponitskiy_i-recently-wrapped-up-an-incredible-summer-activity-7492610559209521152-Vadb",
+        "title": "I recently wrapped up an incredible summer at Porsche Financial Services, Inc. I\u2019ve been reflecting on what a rewarding experience these past 10\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQF9kJY0isZSEA/feedshare-image-high-res/B56Z_sZkstG0AU-/0/1786377558863?e=2147483647&v=beta&t=SHOD80D3WJPD01dyy2QUdxffYXy06T8iZ3SvbTvv5a0",
+        "id": "7492610559209521152"
+      },
+      {
+        "interaction": "Liked by Snehanshn Chowdhury",
+        "link": "https://www.linkedin.com/posts/jake-cronin_siros-rejection-resume-before-raising-activity-7491131022890283010-DGO9",
+        "title": "Siro's rejection resume: (Before raising $75m) + Rejected from Y Combinator (very thoughtful rejection note) + Our first customer signed a $250k\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQE1mMvOiTFbZA/feedshare-shrink_800/B4EZ_XHzPzHMAc-/0/1786020574872?e=2147483647&v=beta&t=hEc6ogjTUMykC7bX_xUZcFeK50TIO65apXwMuiQByn4",
+        "id": "7491131022890283010"
+      },
+      {
+        "interaction": "Liked by Snehanshn Chowdhury",
+        "link": "https://www.linkedin.com/posts/akhil-mattaparthi-18672025b_what-if-omegle-had-a-sport-yesterday-activity-7492323732183658496-mwdN",
+        "title": "What if Omegle had a sport? \ud83c\udfbe Yesterday, we launched real-time multiplayer for LiveWebTennis. In the first 24 hours, more than 200 people played\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQGEX4xmsFMj3A/feedshare-shrink_800/B4EZ_oUvBDIgAc-/0/1786309177706?e=2147483647&v=beta&t=kkvhyOZ6r33Bd6vxNkN84ve6ohrB-TAH7BtHWVNByeM",
+        "id": "7492323732183658496"
+      },
+      {
+        "interaction": "Liked by Snehanshn Chowdhury",
+        "link": "https://www.linkedin.com/posts/aidan-yap-0160692b8_real-tennis-your-bodys-the-controller-activity-7492425477933006848-9osg",
+        "title": "I just played Wii Tennis with someone in Switzerland \ud83e\udd2f A few months ago this was just me and my co-founders swinging at our laptops in an empty\u2026",
+        "img": "https://media.licdn.com/dms/image/sync/v2/D4E27AQE3nDXD7XBjug/articleshare-shrink_1280_800/B4EZ9zwQSDKoAg-/0/1784353457945?e=2147483647&v=beta&t=CThWIMQQNE2fmbZG4VL6qKoqaIEZp1t48gMVnXAy4uM",
+        "id": "7492425477933006848"
+      },
+      {
+        "interaction": "Liked by Snehanshn Chowdhury",
+        "link": "https://www.linkedin.com/posts/rishi-shah123_i-just-wrapped-up-my-swe-internship-at-apple-activity-7491554312217710592-SHCF",
+        "title": "I just wrapped up my SWE internship at Apple. This Summer, I worked at Apple Pay in NYC, focusing on privacy and security around Apple Pay analytics\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQGUS9dDhl6-dQ/feedshare-shrink_800/B4EZ_dY8lKJEAg-/0/1786125733206?e=2147483647&v=beta&t=06c8PY5UcOlg4cYMHGevxAAdb4XIe975WMw9zYOMpbo",
+        "id": "7491554312217710592"
+      },
+      {
+        "interaction": "Liked by Snehanshn Chowdhury",
+        "link": "https://www.linkedin.com/posts/j-hawkins_keep-going-activity-7490784063834894337-_0N7",
+        "title": "keep going.",
+        "img": "https://media.licdn.com/dms/image/v2/D4E10AQGP8706RE2R3A/image-shrink_1280/B4EZ_ScVNeIQAc-/0/1785942070630?e=2147483647&v=beta&t=N2vIT5M1m7D-Mg6e5BaazAi3V0nVl7GWPm5D3GVBZw8",
+        "id": "7490784063834894337"
+      },
+      {
+        "interaction": "Liked by Snehanshn Chowdhury",
+        "link": "https://www.linkedin.com/posts/maximor-ai_our-revenue-has-grown-35x-in-9-months-this-activity-7490852799396741121-10Ab",
+        "title": "Our revenue has grown 35x in 9 months. This morning, Forbes dug into why. The most telling number in the piece isn't the growth. It's this one:\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQGpI4bXt87Skg/feedshare-image-high-res/B4EZ_Ta7RtJYAU-/0/1785958479185?e=2147483647&v=beta&t=XGu-jLVKgq3TXP2XONG1M6oGOJ_153vN--PARy6KMgY",
+        "id": "9"
+      },
+      {
+        "interaction": "Liked by Snehanshn Chowdhury",
+        "link": "https://www.linkedin.com/posts/ramnandan_is-ai-for-finance-a-real-category-or-another-activity-7490809458080514048-92QP",
+        "title": "Is AI for finance a real category \u2013 or another one that raises big $$ and grows slow? I get asked this weekly. Until recently, I could only answer\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQGMnSVxe8-qJw/feedshare-shrink_1280/B56Z_SzgkFJoAQ-/0/1785948146247?e=2147483647&v=beta&t=v5yBoXitqPGehh7cTlqFqAbCgFo5OVYds79yON97f6I",
+        "id": "7490809458080514048"
+      },
+      {
+        "interaction": "Liked by Snehanshn Chowdhury",
+        "link": "https://www.linkedin.com/posts/migueloteropedrido_story-of-my-life-from-prince-of-persia-to-activity-7489983856951930880-DsLE",
+        "title": "Story of my life From Prince of Persia to The Neural Maze Someone posted this on Twitter and I had to sit with it for a second. The 2010 silhouette\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQE8ssqgZD_yIA/feedshare-shrink_800/B4EZ_HEoZDIQAc-/0/1785751308093?e=2147483647&v=beta&t=qLH1dUxghjeo-OHgPUVtMu8-3zESvHhDNb_nrpRIKk0",
+        "id": "7489983856951930880"
+      },
+      {
+        "interaction": "Liked by Snehanshn Chowdhury",
+        "link": "https://www.linkedin.com/posts/barclay-mullins-027277125_news-hero-activity-7490386332649779200-J_Rj",
+        "title": "In February, a gunman opened fire at Tumbler Ridge Secondary School in British Columbia, Canada, killing five students and a teacher. As the shooter\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQEPPJj6OdkOCA/feedshare-image-high-res/B4EZ_MylpkIQAc-/0/1785847241621?e=2147483647&v=beta&t=J3wx9Dm51CEA_XuuOnSaKrfpR8SSMu4NzDyTZU9UqMY",
+        "id": "7490386332649779200"
+      },
+      {
+        "interaction": "Liked by Snehanshn Chowdhury",
+        "link": "https://www.linkedin.com/posts/divyam-jindal_were-building-a-business-automation-company-activity-7489910648106295296-zrae",
+        "title": "We\u2019re building a business automation company we want to be running years from now. Superfluentic is not a side hustle for us. That changes how we\u2026",
+        "img": "https://static.licdn.com/aero-v1/sc/h/53n89ecoxpr1qrki1do3alazb",
+        "id": "7489910648106295296"
+      },
+      {
+        "interaction": "Liked by Snehanshn Chowdhury",
+        "link": "https://www.linkedin.com/posts/akhil-mattaparthi-18672025b_3-months-ago-we-applied-to-yc-and-got-the-activity-7488070139800788992-6hV8",
+        "title": "3 months ago, we applied to YC and got the top 10% rejection note. We didn\u2019t get in, but it lit a fire. So we tore the application apart, talked to\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQFnOGesjpAlNw/feedshare-shrink_800/B4EZ.r4HYjIgAc-/0/1785295042363?e=2147483647&v=beta&t=w-BaiJATSLIFxIAZddMJnIQEkVUlai7xthP-ZcBDp4c",
+        "id": "7488070139800788992"
+      }
+    ],
+    "linkedin_num_id": "1266745954",
+    "banner_image": "https://media.licdn.com/dms/image/v2/D4E16AQHSkMKqzPLhpg/profile-displaybackgroundimage-shrink_200_800/B4EZ4xlSqFJoAQ-/0/1778948320251?e=2147483647&v=beta&t=U2MmhT6F9VQZZpNo8frfICHYEjNhmPv9zTK65wCdvzA",
+    "honors_and_awards": [
+      {
+        "title": "Synapse - 1st @ HackRU 2025 Education",
+        "publication": "MLH",
+        "date": "2025-10-01T00:00:00.000Z",
+        "description": "Recognized for developing a modular multimodal AI pipeline for image and video generation, focusing on model interoperability and inference workflows."
+      },
+      {
+        "title": "1st - Algora @ hack nyu",
+        "publication": "MLH",
+        "date": "2025-04-01T00:00:00.000Z",
+        "description": "1st @ Hack NYU (HOF) project recognized for building a personalized job application automation platform leveraging NLP and large language models to tailor applications at scale."
+      },
+      {
+        "title": "Second Place - Education Track @ HackRU, Best Use of Gen Ai -- Reach Capital",
+        "publication": "MLH",
+        "date": "2025-02-01T00:00:00.000Z",
+        "description": "Awarded 2nd Place and Best Use of Gen AI -> (Reach Capital category) at HackRU for developing InstructifAI, an AI-powered presentation analysis tool. InstructifAI leverages FER (Facial Expression Recognition), NoddingPigeon, WhisperAI, and Deepgram to evaluate audience engagement and speech effectiveness. My role involved leading the UI design, integrating camera functionality, and contributing to the LLM model. Special thanks to Caoimhe MacRunnels for selecting our project for the Reach\u2026 Show more"
+      },
+      {
+        "title": "2nd Place Winner @ TechStart -- Road To Sillicone Valley x Rutgers Entrepreneurial Society",
+        "publication": "Road To Sillicone Valley x Rutgers Entrepreneurial Society",
+        "date": "2024-11-01T00:00:00.000Z",
+        "description": "CAPS (Connected Authentication Proctoring Solution) is an AI-powered platform designed to ensure integrity and security in virtual interviews. It detects cheating through features like lip-sync analysis, eye tracking, and distraction monitoring while providing comprehensive candidate analytics, including summaries and performance metrics. CAPS uses advanced technologies such as AI-driven face mesh analysis and lockdown browsers, making it an essential tool for HR teams, recruiters, and\u2026 Show more"
+      },
+      {
+        "title": "Best Innovation in Emergency Medical AI -- 3rd Place Winner @ HackNJIT",
+        "publication": "HackNJIT 2024",
+        "date": "2024-11-01T00:00:00.000Z",
+        "description": "Awarded for developing Medify, an AI-powered medical assistant designed for soldiers and field medics. Medify provides real-time wound analysis, tailored treatment guidance based on available medkit supplies, and emergency service alerts. The app integrates AI-driven image processing, text-to-speech instructions, and blockchain for secure data management. Recognized for its innovative approach to improving emergency medical care in high-pressure environments."
+      },
+      {
+        "title": "Best Freshman Hack - FraxAI",
+        "publication": "HackRU 2024",
+        "date": "2024-10-01T00:00:00.000Z",
+        "description": "Awarded \"Best Freshman Hack\" at HackNJIT 2024 out of 120 total teams. Developed Fraxai, an AI-powered healthcare tool that streamlines fracture detection and treatment. The project featured two AI models: one for X-ray analysis using Python, PyTorch, and Detectron2, and another for generating treatment instructions with MLflow. Fraxai includes a user-friendly Next.js interface, empowering nurses with accurate care guidance while saving radiologists' time."
+      }
+    ],
+    "similar_profiles": [],
+    "default_avatar": false,
+    "memorialized_account": false,
+    "bio_links": [],
+    "first_name": "Snehanshn",
+    "last_name": "Chowdhury",
+    "influencer": false,
+    "timestamp": "2026-08-12T19:16:57.638Z",
+    "input": {
+      "url": "https://www.linkedin.com/in/snehanshn-chowdhury-6aa2922b4"
+    }
+  },
+  "local_photo": "data\\linkedin_photos\\snehanshn-chowdhury-6aa2922b4__usr-qMUa89vLlxX5gRY.jpg"
+}

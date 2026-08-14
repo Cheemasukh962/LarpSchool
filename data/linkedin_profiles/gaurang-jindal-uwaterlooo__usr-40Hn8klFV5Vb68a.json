@@ -1,0 +1,288 @@
+{
+  "luma_user_id": "usr-40Hn8klFV5Vb68a",
+  "csv_name": "Gaurang Jindal",
+  "csv_linkedin": "https://www.linkedin.com/in/gaurang-jindal-uwaterlooo",
+  "enriched_at": "2026-08-12T19:06:01.817866+00:00",
+  "batch_id": "sd_msqgh02428smzgu5m",
+  "profile": {
+    "id": "gaurang-jindal-uwaterlooo",
+    "name": "Gaurang jindal",
+    "city": "Waterloo, Ontario, Canada",
+    "country_code": "CA",
+    "position": null,
+    "about": "I'm Gaurang Jindal, a driven and passionate software developer with hands-on experience\u2026",
+    "current_company": {
+      "link": "https://www.linkedin.com/company/nvidia?trk=public_profile_topcard-current-company",
+      "name": "NVIDIA",
+      "company_id": "nvidia",
+      "location": null
+    },
+    "experience": null,
+    "url": "https://bd.linkedin.com/in/gaurang-jindal-uwaterlooo",
+    "educations_details": "University of Waterloo",
+    "education": [
+      {
+        "title": "University of Waterloo",
+        "url": "https://ca.linkedin.com/school/uwaterloo/",
+        "start_year": "2023-09",
+        "end_year": "2028-08",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      }
+    ],
+    "avatar": "https://media.licdn.com/dms/image/v2/D5603AQEKaL-9tZJRHQ/profile-displayphoto-shrink_200_200/B56ZZkaYW2HAAY-/0/1745441360767?e=2147483647&v=beta&t=60gkYoaynpn0iabcA1s09gDHlMECiz3ZEplBgqkjEN0",
+    "languages": [
+      {
+        "subtitle": "Full professional proficiency",
+        "title": "English"
+      },
+      {
+        "subtitle": "Native or bilingual proficiency",
+        "title": "Hindi"
+      }
+    ],
+    "certifications": [
+      {
+        "meta": "Issued Jan 2025 Credential ID UC-43fbe5a9-4b0b-4920-988a-230640412ae4 See credential",
+        "subtitle": "Udemy",
+        "title": "Complete Python Programming course: Beginner to Advance",
+        "credential_url": "https://www.udemy.com/certificate/UC-43fbe5a9-4b0b-4920-988a-230640412ae4/?trk=public_profile_see-credential",
+        "credential_id": "UC-43fbe5a9-4b0b-4920-988a-230640412ae4"
+      },
+      {
+        "meta": "Issued Oct 2023",
+        "subtitle": "The Zero Experience",
+        "title": "Certificate of Innovation",
+        "credential_url": null,
+        "credential_id": null
+      },
+      {
+        "meta": "Credential ID 5830/95",
+        "subtitle": "UCMAS",
+        "title": "International Abacus Championship",
+        "credential_url": null,
+        "credential_id": "5830/95"
+      },
+      {
+        "meta": "Credential ID TIH2100377",
+        "subtitle": "Indian Institute of Technology, Roorkee",
+        "title": "Python Programming",
+        "credential_url": null,
+        "credential_id": "TIH2100377"
+      },
+      {
+        "subtitle": "Sat Paul Mittal School",
+        "title": "Startup Edge Competition",
+        "credential_url": null,
+        "credential_id": null
+      }
+    ],
+    "volunteer_experience": [
+      {
+        "cause": "Children",
+        "duration": "Aug 2021 \u00b7 - \nOct 2021 \u00b7 \n3 months",
+        "duration_short": "- \nOct 2021",
+        "info": "\u2022 Organized various campaigns across the city (online) to procure funds and successfully raised approximately 1200 CAD for the organization",
+        "start_date": "Aug 2021",
+        "subtitle": "Muskurahat Foundation",
+        "title": "Fundraising Intern"
+      }
+    ],
+    "followers": 1371,
+    "connections": 500,
+    "current_company_company_id": "nvidia",
+    "current_company_name": "NVIDIA",
+    "projects": [
+      {
+        "title": "`Pawpal - Pet care with AI",
+        "start_date": "Jan 2025",
+        "description": "\u2022 Developed an AI-powered pet health monitoring app at GeeseHacks 2025, integrating AI-driven insights for disease identification and personalized treatment recommendations.\u2022 Designed a secure, scalable backend using Firebase and Google Auth, paired with a user-friendly React.js interface, supporting features like customized diet plans, proactive health alerts, and vaccination/feeding reminders.\u2022 Prepared a detailed business model and conducted market research, developing a marketing strategy targeting 20% of the Canadian pet-owning population."
+      },
+      {
+        "title": "Biquadris - Multiplayer Tetris",
+        "start_date": "Nov 2024",
+        "description": "\u2022 Developed a double-player Tetris purely by designing UML and utilizing C++ object-oriented programming resulting in a 2-player game with a graphical XWindows and a text-based interface.\u2022 Designed the game using 3 design patterns- Decorator, Observer, and Factory method, highlighting the MVC structure, allowing user to play in 4 levels of increasing difficulty.\u2022 Built a smart bot that plays the game with user using Minimax algorithm, allowing user to play in 3 different ways."
+      },
+      {
+        "title": "Hestia Housing",
+        "start_date": "May 2024",
+        "description": "\u2022 Developed an innovative platform designed to streamline the process for university students to sublet or find sublets, enhancing housing accessibility and convenience. \u2022 Implemented advanced features and user-centric design principles on the website, enabling intuitive navigation, real-time updates, and personalized housing recommendations for an enhanced user experience."
+      },
+      null,
+      null,
+      null,
+      null,
+      null,
+      {
+        "title": "GUI Calculator",
+        "start_date": "Jul 2024",
+        "description": "Engineered an advanced GUI calculator using Python, the PyQt library, and the sys library, featuring an intuitive user interface and supporting both basic arithmetic operations and advanced functions like square root calculations."
+      },
+      {
+        "title": "RPG Battle Script",
+        "start_date": "Jun 2024",
+        "description": "\u2022 Engineered advanced RPG Combat system in Python using object-oriented programming, defining player and enemy attributes, spells, and items for an immersive experience. \u2022 Developed a dynamic system, allowing the strategic management of HP and MP through command line with customizable spells and items. \u2022 Implemented a robust spell management system with complex functionalities and random elements for responsive combat scenarios."
+      },
+      {
+        "title": "Arduino-based Voice-controlled multi-task robot, Line following and obstacle-avoiding car, Vending machine, etc"
+      },
+      {
+        "title": "Automatic Irrigational Machine",
+        "description": "\u2022 Founded a startup to aid farmers through the creation of an Arduino-based machine for measuring soil moisture and dispensing water according to crop-specific moisture needs. \u2022 Managed all financial aspects and formulated a business model for the venture. Successfully presented the concept to investors in a competition, earning the runner-up position."
+      },
+      {
+        "title": "Game engine of DouDizhu",
+        "description": "\u2022 Created a Doudizhu game engine and player bots in Racket for enhanced gameplay. \u2022 Developed algorithms for decision-making and conducted simulations to determine game outcomes and winners, showcasing proficiency in game development and algorithmic design."
+      },
+      {
+        "title": "Static model explaining Laser Interferometer Gravitational-Wave Observatory (LIGO)",
+        "description": "\u2022 Secured the top prize in a competition that encompassed both project development and the presentation of the conceptual framework."
+      }
+    ],
+    "location": "Waterloo",
+    "input_url": "https://www.linkedin.com/in/gaurang-jindal-uwaterlooo",
+    "linkedin_id": "gaurang-jindal-uwaterlooo",
+    "activity": [
+      {
+        "interaction": "Liked by Gaurang jindal",
+        "link": "https://www.linkedin.com/posts/ryan-lin-dev_got-into-y-combinator-startup-school-2026-activity-7483270688275972096-3TiK",
+        "title": "Got into Y Combinator Startup School 2026 as a high schooler! \ud83d\ude80 Still feels surreal to say out loud. Later this month I'll be in San Francisco with\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQEVinxYR5Qjmg/feedshare-shrink_800/B56Z9nrCVpIQAg-/0/1784150763652?e=2147483647&v=beta&t=wV_I4TprXgnIBJeLzqwSsdpNW32j1pa9QYQB3WwwW18",
+        "id": "2026"
+      },
+      {
+        "interaction": "Liked by Gaurang jindal",
+        "link": "https://www.linkedin.com/posts/navya-gulati-025145297_uw-research-examines-the-science-of-thinking-activity-7483696404394254336-nRC7",
+        "title": "Excited to see our research featured in the latest UW Imprint Science & Tech issue! It's been an incredible opportunity to contribute as a research\u2026",
+        "img": "https://media.licdn.com/dms/image/sync/v2/D5627AQGAYf_9R3Hy9Q/articleshare-shrink_800/B56Z9nZ9.XIgAY-/0/1784146290355?e=2147483647&v=beta&t=a084mubO_n1Rk_4wLMPnCS_-kEAwDgfbK-nAEmyCKi4",
+        "id": "7483696404394254336"
+      },
+      {
+        "interaction": "Liked by Gaurang jindal",
+        "link": "https://www.linkedin.com/posts/nvidia-ai_most-motion-papers-tailor-one-controller-activity-7477828313265283073-bNtD",
+        "title": "Most motion papers tailor one controller to one specific task. This year at SIGGRAPH, our research team asks: can motor control itself be pretrained\u2026",
+        "img": "https://dms.licdn.com/playlist/vid/v2/D4E10AQEPPhoCxPO_ww/thumbnail-scale_720_1280/B4EZ8aC_W7H8AE-/0/1782848430344?e=2147483647&v=beta&t=GrE0zAVpKXorJtq_U41CV5SAlKExCmI1qn9RRcZPsSM",
+        "id": "7477828313265283073"
+      },
+      {
+        "interaction": "Liked by Gaurang jindal",
+        "link": "https://www.linkedin.com/posts/dylanvidal1205_nvidialife-nvidia-activity-7474313131108745216--NUU",
+        "title": "NVIDIA's Global Free Days gave me the time to do something I had been dreaming about for years: summit Half Dome at Yosemite. Nearly halfway through\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQEwfPm0DIqJwQ/feedshare-shrink_800/B56Z7oYK2JKQAc-/0/1782015111248?e=2147483647&v=beta&t=P1zIA8WUAMeR8lgOZdvtsjdyazowDLHT5GIWx8oXTQQ",
+        "id": "7474313131108745216"
+      },
+      {
+        "interaction": "Liked by Gaurang jindal",
+        "link": "https://www.linkedin.com/posts/riddhi-gaddamwar-3aa46a322_im-excited-to-share-that-ill-be-joining-activity-7472050140174790656-X39E",
+        "title": "I\u2019m excited to share that I\u2019ll be joining NVIDIA as a System Design Engineer Intern for Summer 2026! As a first-year Computer Engineering student\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQE5VBx7MAU9FQ/feedshare-image-high-res/B56Z7IOAXLKYAY-/0/1781475575495?e=2147483647&v=beta&t=GnCTG2IOxSBtfCXZgZAbuoSMYIuMltbnZbJbVP0V7fE",
+        "id": "7472050140174790656"
+      },
+      {
+        "interaction": "Liked by Gaurang jindal",
+        "link": "https://www.linkedin.com/posts/ramzygirgis_joining-slash-as-a-swe-intern-in-sf-this-activity-7471620640286949376-hEs9",
+        "title": "Joining Slash as a SWE intern in SF this fall super excited to be joining such an ambitious and talented team. huge thanks to Mahaveer Jai Ukrani\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQEsHROuDQ35rA/feedshare-shrink_800/B4EZ7CHYO1IcAc-/0/1781373175404?e=2147483647&v=beta&t=hqF7MrnbrJQEqo7YFZrdhkW7oWJd_a7zTTa7w9QhVLE",
+        "id": "7471620640286949376"
+      },
+      {
+        "interaction": "Liked by Gaurang jindal",
+        "link": "https://www.linkedin.com/posts/prathamh_google-googleintern-websolutionsengineer-activity-7471407254466924544-upeJ",
+        "title": "|| \u0950 || Life has a beautiful way of rewarding patience. One day, you find yourself surrounded by opportunities you once only hoped for.\u2728 Three weeks\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQFjZqWM-HL5qQ/feedshare-shrink_800/B56Z6.EXWxGcAc-/0/1781305276087?e=2147483647&v=beta&t=66JIyZHT6cWO4W8LVDCc6m_0MtCcpWaH6SHRA6U-8Mw",
+        "id": "7471407254466924544"
+      },
+      {
+        "interaction": "Liked by Gaurang jindal",
+        "link": "https://www.linkedin.com/posts/sudhanshu-chowdhry-2aa433224_rbc-rbcinvestorservices-assetadministration-activity-7466262940539596801-txFI",
+        "title": "I am really excited to share that I have joined RBC Investor Services as a Market Services Analyst! \ud83c\udf89 Over the next 3 months, I\u2019ll be rotating\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQG6EIuwyHigfA/feedshare-image-high-res/B4EZ51.k_PHsAU-/0/1780095799506?e=2147483647&v=beta&t=dWq8JKsqTtEaDKs-k6h5OULXlCZhdmfiXeEwvhnZV7E",
+        "id": "7466262940539596801"
+      },
+      {
+        "interaction": "Liked by Gaurang jindal",
+        "link": "https://www.linkedin.com/posts/rhychaw_have-you-worked-with-claude-code-and-realized-activity-7461497147969110017-hF3g",
+        "title": "Have you worked with Claude Code and realized it \"forgets\" everything with every new request? I'm wondering why we're going through the same codebase\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4D22AQGu2-9Pzd33gg/feedshare-image-high-res/B4DZ4yQHPzHgAY-/0/1778959545732?e=2147483647&v=beta&t=xypyHdYpdIViDVLhX3442d-OcuFwHdeoT0ZTVzD0ABA",
+        "id": "7461497147969110017"
+      },
+      {
+        "interaction": "Liked by Gaurang jindal",
+        "link": "https://www.linkedin.com/posts/songlin-jiang_im-excited-to-share-that-im-starting-my-activity-7457636186757505024-hqpW",
+        "title": "I'm excited to share that I\u2019m starting my internship with the NVIDIA NeMo team as a Deep Learning Algorithm Engineering Intern! \ud83d\ude80 I\u2019ll be working\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4D22AQGI4fzrf4kpJg/feedshare-shrink_800/B4DZ37Yl6fJ8Ac-/0/1778039021575?e=2147483647&v=beta&t=IuWCE6-pjy33p-fqxeL0q-JQ1LaAeWZqAFTwwnHLjLc",
+        "id": "7457636186757505024"
+      },
+      {
+        "interaction": "Liked by Gaurang jindal",
+        "link": "https://www.linkedin.com/posts/arav-sharma_cerebras-summer2026-activity-7457449844069076992-tlfD",
+        "title": "I\u2019m excited to share that I\u2019ll be spending my summer at Cerebras as a Software Engineering Intern! I\u2019m eager to push my technical limits and build my\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4D22AQE7Ymrc7FDzHw/feedshare-shrink_800/B4DZ34vHW.GcAc-/0/1777994594057?e=2147483647&v=beta&t=Cf4GQTH6or_eh6p4k--l3UKjNH8MDAqiWrTDevRS6Ss",
+        "id": "7457449844069076992"
+      },
+      {
+        "interaction": "Liked by Gaurang jindal",
+        "link": "https://www.linkedin.com/posts/krupa-d_excited-to-share-that-ill-be-joining-proximal-activity-7456334182605139969-fuIt",
+        "title": "Excited to share that I\u2019ll be joining Proximal this summer as a Research Intern! I\u2019ll be working on post-training frontier models for hard software\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQGapWw2uXnL0g/feedshare-shrink_800/B4EZ3nh70KJMAc-/0/1777705926157?e=2147483647&v=beta&t=06xa-3tAcjhCoOW5vhCyu0wD8TStQ9Jjwsgaz_mVUGY",
+        "id": "7456334182605139969"
+      },
+      {
+        "interaction": "Liked by Gaurang jindal",
+        "link": "https://www.linkedin.com/posts/janavi-srinivasan_nvidia-internship-summer2026-activity-7452780259441160192-6q-i",
+        "title": "Excited to share that I\u2019ll be joining NVIDIA this Summer 2026 as a Software Engineering Intern (Core Computer Vision) at the Santa Clara\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQEprve_TsPcPg/feedshare-image-high-res/B56Z22YJF5KsAU-/0/1776881278162?e=2147483647&v=beta&t=8ahJqbJ0JDPUHz2sCWBSXOXjGqheQgA0yHtQaiyCrGQ",
+        "id": "7452780259441160192"
+      },
+      {
+        "interaction": "Liked by Gaurang jindal",
+        "link": "https://www.linkedin.com/posts/pratyushmathr_im-excited-to-share-that-ill-be-joining-activity-7442749073339707392-QNY7",
+        "title": "I\u2019m excited to share that I\u2019ll be joining NVIDIA as a Software Engineering Intern in Santa Clara this summer. Looking forward to working with and\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQHWUL12AsoN-Q/feedshare-shrink_800/B56Z0cSFqSJwAc-/0/1774295998481?e=2147483647&v=beta&t=32p9kMQ_hq7CCTAURBUKKjnlekdKaSQxcbDKeOd5XzY",
+        "id": "7442749073339707392"
+      },
+      {
+        "interaction": "Liked by Gaurang jindal",
+        "link": "https://www.linkedin.com/posts/juo-tung-chen_nvidia-healthcareai-robotics-activity-7446985238473322496-YELt",
+        "title": "Excited to share that I\u2019ll be joining NVIDIA as a Machine Learning Intern working on healthcare robotics autonomy in Santa Clara this summer! A huge\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQFkumpv-0cfKg/feedshare-image-high-res/B4EZ1kBm9cJ8AU-/0/1775499636900?e=2147483647&v=beta&t=OnsTcobYwZVkJ73e-89-6sguMLeTyyUvGxjvgHm5WY8",
+        "id": "7446985238473322496"
+      },
+      {
+        "interaction": "Liked by Gaurang jindal",
+        "link": "https://www.linkedin.com/posts/joannamoon05_im-excited-to-share-that-ill-be-joining-activity-7446986341147480064-7WbN",
+        "title": "I\u2019m excited to share that I\u2019ll be joining NVIDIA as a System Software Engineer Intern this summer!",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQHo-z1xDDaYfw/feedshare-image-high-res/B4EZ1kBZFMHsAU-/0/1775499580062?e=2147483647&v=beta&t=xa4SRhVw7p7viJnYPK8rKCTokfJm_LxoaimEdmZcBko",
+        "id": "7446986341147480064"
+      },
+      {
+        "interaction": "Liked by Gaurang jindal",
+        "link": "https://www.linkedin.com/posts/ananya-dabas_llm-opensource-aiengineering-activity-7435467691093823488-N8mL",
+        "title": "Benchmarks provide useful insights, but real-world deployment constraints are what truly determine the right model. That\u2019s why I built\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQE3A2RNYbmH3w/feedshare-shrink_800/B4EZzAWdtJJEAg-/0/1772753640584?e=2147483647&v=beta&t=u0DNAhl_joifpSA7ekwdZCCm8UBvJfa4MVnJSOITUx8",
+        "id": "7435467691093823488"
+      }
+    ],
+    "linkedin_num_id": "878444096",
+    "banner_image": "https://media.licdn.com/dms/image/v2/D5616AQFn3JtnshV6-Q/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1730964149061?e=2147483647&v=beta&t=V2wn64acYM2VwsasjozfwT5fvUX3zF5Qfz9tBXK3BHw",
+    "honors_and_awards": null,
+    "similar_profiles": [],
+    "default_avatar": false,
+    "memorialized_account": false,
+    "bio_links": [
+      {
+        "title": "Portfolio",
+        "link": "https://gaurang-jindal.vercel.app/"
+      }
+    ],
+    "first_name": "Gaurang",
+    "last_name": "jindal",
+    "influencer": false,
+    "timestamp": "2026-08-12T19:01:58.417Z",
+    "input": {
+      "url": "https://www.linkedin.com/in/gaurang-jindal-uwaterlooo"
+    }
+  },
+  "local_photo": "data\\linkedin_photos\\gaurang-jindal-uwaterlooo__usr-40Hn8klFV5Vb68a.jpg"
+}

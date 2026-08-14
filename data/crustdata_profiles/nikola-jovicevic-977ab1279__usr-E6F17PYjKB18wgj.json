@@ -1,0 +1,224 @@
+{
+  "source": "crustdata",
+  "recovered_from": "brightdata_failed_private",
+  "luma_user_id": "usr-E6F17PYjKB18wgj",
+  "csv_name": "Nikola Jovi\u0107evi\u0107",
+  "csv_linkedin": "https://www.linkedin.com/in/nikola-jovicevic-977ab1279",
+  "clean_linkedin": "https://www.linkedin.com/in/nikola-jovicevic-977ab1279",
+  "enriched_at": "2026-08-14T18:07:59.937250+00:00",
+  "person_data": {
+    "basic_profile": {
+      "current_title": "Summer Fellow",
+      "first_name": null,
+      "headline": "Y Combinator Summer Fellow | prev @ Perplexity, Databricks | CodeForces Master",
+      "languages": [],
+      "last_name": null,
+      "location": {
+        "city": "Novi Sad",
+        "continent": "Europe",
+        "country": "Serbia",
+        "full_location": null,
+        "raw": "Novi Sad, Vojvodina, Serbia",
+        "state": "Vojvodina"
+      },
+      "name": "Nikola Jovi\u0107evi\u0107",
+      "professional_network_name": "Nikola Jovi\u0107evi\u0107",
+      "profile_picture_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/person/6a732c7f5059bdb23bebf02c550eba583948ae68fe9722014f14d79d03df069c.jpg",
+      "summary": "I am a passionate software engineer and problem-solver, mainly focused on systems engineering, backend engineering, as well as math and informatics olympiad-style problems.\n\nAchievements:\n\n1st place in National Competition in Informatics, 2022 (category A)\n13th place in National Competition in Mathematics, 2023 (category A, grade 12)\nCodeForces: nichke, Master (peak rating: 2127)\nCodeChef: nichke, 6* (Orange)"
+    },
+    "education": {
+      "schools": [
+        {
+          "activities_and_societies": "",
+          "degree": "",
+          "description": "",
+          "end_year": 2023,
+          "field_of_study": "",
+          "institute_logo_permalink": null,
+          "institute_logo_url": "",
+          "location": {
+            "city": null,
+            "continent": null,
+            "country": null,
+            "raw": null,
+            "state": null
+          },
+          "professional_network_id": "",
+          "school": "Gymnasium \"Jovan Jovanovi\u0107 Zmaj\", Novi Sad, Serbia",
+          "start_year": 2019
+        },
+        {
+          "activities_and_societies": "",
+          "degree": "Bachelor's degree",
+          "description": "",
+          "end_year": null,
+          "field_of_study": "Computer Science",
+          "institute_logo_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/company/7f8ebfa98e97ec906c0484df0d12cf18646ecade25aac7809ef72adfb265e430.jpg",
+          "institute_logo_url": "https://media.licdn.com/dms/image/v2/C560BAQFxBk6DVbTIkQ/company-logo_400_400/company-logo_400_400/0/1630620873837?e=1786579200&v=beta&t=-xBA-gfxwgYlOVv3lotZp4-cMW_uUUh4BTbro88z-TM",
+          "location": {
+            "city": "Novi Sad",
+            "continent": "Europe",
+            "country": "Serbia",
+            "raw": "Novi Sad, Serbia",
+            "state": "Vojvodina"
+          },
+          "professional_network_id": "18956237",
+          "school": "University of Novi Sad, Faculty of Sciences",
+          "start_year": 2023
+        }
+      ]
+    },
+    "experience": {
+      "employment_details": {
+        "current": [
+          {
+            "company_description": "Y Combinator is the leading startup accelerator for entrepreneurs. Since 2005, YC has invested in over 5,400 companies, including Airbnb, Dropbox, Stripe, Reddit, Instacart, DoorDash, and Coinbase. Today, YC has built the most powerful startup community in the world alongside the products and programs to support founders for the life of their company.",
+            "company_professional_network_profile_url": "https://linkedin.com/company/167872",
+            "company_profile_picture_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/company/059f7e6072baf1189ebb67b9fec287348cc541df9931bf3d36c06f9bb5019e96.jpg",
+            "company_website_domain": "ycombinator.com",
+            "crustdata_company_id": 6033097,
+            "description": "",
+            "employment_type": "",
+            "end_date": null,
+            "function_category": "",
+            "is_default": true,
+            "location": {
+              "raw": "San Francisco, CA"
+            },
+            "name": "Y Combinator",
+            "position_id": 2934577882,
+            "professional_network_id": "167872",
+            "seniority_level": "Senior",
+            "start_date": "2026-06-01T00:00:00+00:00",
+            "title": "Summer Fellow",
+            "years_at_company": "Less than 1 year",
+            "years_at_company_raw": 0.0
+          }
+        ],
+        "past": [
+          {
+            "company_description": "The most powerful answer engine. Powering curiosity with answers backed by up-to-date sources. This is where knowledge begins.",
+            "company_professional_network_profile_url": "https://linkedin.com/company/88007673",
+            "company_profile_picture_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/company/7442019286f7fe6697d4dc4c46503f7435bc77320772c0295d5b5bb4d8c6f6f3.jpg",
+            "company_website_domain": "perplexity.ai",
+            "crustdata_company_id": 780568,
+            "description": "",
+            "employment_type": "",
+            "end_date": "2026-06-01T00:00:00+00:00",
+            "function_category": "Engineering",
+            "is_default": false,
+            "location": {
+              "raw": "Belgrade"
+            },
+            "name": "Perplexity",
+            "position_id": 2894708396,
+            "professional_network_id": "88007673",
+            "seniority_level": "Entry Level",
+            "start_date": "2026-04-01T00:00:00+00:00",
+            "title": "Software Engineer",
+            "years_at_company": "Less than 1 year",
+            "years_at_company_raw": 0.0
+          },
+          {
+            "company_description": "Databricks is the Data and AI company. More than 20,000 organizations worldwide \u2014 including adidas, AT&T, Bayer, Block, Mastercard, Rivian, Unilever, and over 60% of the Fortune 500 \u2014 rely on Databricks to build and scale data and AI apps, analytics and agents. Headquartered in San Francisco with 30+ offices around the globe, Databricks offers a unified Data Intelligence Platform that includes Agent Bricks, Lakeflow, Lakehouse, Lakebase and Unity Catalog. ---Databricks applicantsPlease apply through our official Careers page at databricks.com/company/careers. All official communication from Databricks will come from email addresses ending with @databricks.com or @goodtime.io (our meeting tool).",
+            "company_professional_network_profile_url": "https://linkedin.com/company/3477522",
+            "company_profile_picture_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/company/965ff3db3914fdcc12af39923d6fda3e56b20db9b222a21e30d7a29eb1943a42.jpg",
+            "company_website_domain": "databricks.com",
+            "crustdata_company_id": 632326,
+            "description": "",
+            "employment_type": "",
+            "end_date": "2025-08-01T00:00:00+00:00",
+            "function_category": "Engineering",
+            "is_default": false,
+            "location": {
+              "raw": "Belgrade"
+            },
+            "name": "Databricks",
+            "position_id": 2653659629,
+            "professional_network_id": "3477522",
+            "seniority_level": "Entry Level",
+            "start_date": "2025-06-01T00:00:00+00:00",
+            "title": "Software Engineer",
+            "years_at_company": "Less than 1 year",
+            "years_at_company_raw": 0.0
+          },
+          {
+            "company_description": "Founded in 2008, Vega IT is an AI-native digital transformation partner with 900+ professionals and more than 1,500 delivered projects. Combining 18+ years of software delivery expertise, domain knowledge, and AI-native capabilities, the company builds, modernises, and integrates complex digital products while applying AI where it creates measurable business impact.Vega IT partners with organisations across more than 15 industries, including financial services, insurance, healthcare, energy, and retail, across Europe, the United States, and the Middle East. The company has delivery centres in Novi Sad, Zrenjanin, Belgrade, Nis, Podgorica, and Abuja, and client-facing offices in New York, London, Amsterdam, and Riyadh.Beyond projects, Vega IT's culture is built on supporting its people and giving back to society. Through the Vega IT Foundation, established in 2022, the company supports education and community initiatives, reinforcing its long-term commitment to the ecosystem around it.\ud83d\ude80 Learn how we helped our clients build stronger relationships with customers and change how they do business: https://www.vegaitglobal.com/case-studies\ud83d\ude80 Learn more about our company and our culture at: https://www.vegaitglobal.com/who-we-are/our-culture-book",
+            "company_professional_network_profile_url": "https://linkedin.com/company/207317",
+            "company_profile_picture_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/company/3c5cc03c0bee481970dc5be1920d7695661f211cd131de6952f7bed1de107da5.jpg",
+            "company_website_domain": "vegaitglobal.com",
+            "crustdata_company_id": 820624,
+            "description": "",
+            "employment_type": "",
+            "end_date": "2024-01-01T00:00:00+00:00",
+            "function_category": "Engineering",
+            "is_default": false,
+            "location": {
+              "raw": "Novi Sad"
+            },
+            "name": "Vega IT",
+            "position_id": 2578662845,
+            "professional_network_id": "207317",
+            "seniority_level": "Entry Level",
+            "start_date": "2023-11-01T00:00:00+00:00",
+            "title": "Software Engineer",
+            "years_at_company": "Less than 1 year",
+            "years_at_company_raw": 0.0
+          }
+        ]
+      }
+    },
+    "professional_network": {
+      "connections": 202,
+      "current_title": "Summer Fellow",
+      "followers": 22,
+      "headline": "Y Combinator Summer Fellow | prev @ Perplexity, Databricks | CodeForces Master",
+      "location": {
+        "city": "Novi Sad",
+        "continent": "Europe",
+        "country": "Serbia",
+        "raw": "Novi Sad, Vojvodina, Serbia",
+        "state": "Vojvodina"
+      },
+      "metadata": {
+        "last_scraped_source": null
+      },
+      "name": "Nikola Jovi\u0107evi\u0107",
+      "profile_picture_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/person/6a732c7f5059bdb23bebf02c550eba583948ae68fe9722014f14d79d03df069c.jpg",
+      "pronoun": "",
+      "summary": "I am a passionate software engineer and problem-solver, mainly focused on systems engineering, backend engineering, as well as math and informatics olympiad-style problems.\n\nAchievements:\n\n1st place in National Competition in Informatics, 2022 (category A)\n13th place in National Competition in Mathematics, 2023 (category A, grade 12)\nCodeForces: nichke, Master (peak rating: 2127)\nCodeChef: nichke, 6* (Orange)"
+    },
+    "skills": {
+      "professional_network_skills": [
+        "Java",
+        "ASP.NET Core",
+        "React.js",
+        "Microsoft SQL Server",
+        "Project Planning",
+        "Swift (Programming Language)",
+        "iOS Development",
+        ".NET Framework",
+        "Windows Presentation Foundation (WPF)",
+        "Software Development",
+        "English",
+        "Analytical Skills",
+        "C#",
+        "C++",
+        "Problem Solving",
+        "JavaScript"
+      ]
+    },
+    "social_handles": {
+      "dev_platform_identifier": {
+        "profile_url": null
+      },
+      "professional_network_identifier": {
+        "profile_url": "https://www.linkedin.com/in/nikola-jovi%C4%87evi%C4%87-977ab1279"
+      },
+      "twitter_identifier": {
+        "slug": ""
+      }
+    },
+    "crustdata_person_id": 260203246
+  }
+}

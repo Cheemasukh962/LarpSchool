@@ -1,0 +1,290 @@
+{
+  "luma_user_id": "usr-SKMy1CKRwNxAmVt",
+  "csv_name": "Deena Sun",
+  "csv_linkedin": "https://www.linkedin.com/in/deenasun",
+  "enriched_at": "2026-08-12T19:01:42.781811+00:00",
+  "batch_id": "sd_msqgese9ztya3e3uk",
+  "profile": {
+    "id": "deenasun",
+    "name": "Deena Sun",
+    "city": "San Francisco Bay Area",
+    "country_code": "US",
+    "position": null,
+    "about": "I\u2019m currently diving down rabbit-holes about mechanistic interpretability, AI for\u2026",
+    "current_company": {
+      "link": "https://www.linkedin.com/company/hex-technologies?trk=public_profile_topcard-current-company",
+      "name": "Hex",
+      "company_id": "hex-technologies",
+      "location": null
+    },
+    "experience": null,
+    "url": "https://nz.linkedin.com/in/deenasun",
+    "educations_details": "University of California, Berkeley",
+    "education": [
+      {
+        "title": "University of California, Berkeley",
+        "url": "https://www.linkedin.com/school/uc-berkeley/",
+        "start_year": "2023-08",
+        "end_year": "2027-05",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      }
+    ],
+    "avatar": "https://media.licdn.com/dms/image/v2/D5603AQFdPHEzou4ZKw/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1685813551301?e=2147483647&v=beta&t=Qc33UscqS5aTNyKhJCLX9VIPZ93JvWjxxjLkHxDthXw",
+    "courses": [
+      {
+        "subtitle": "-",
+        "title": "Coursera - Computer Science: Programming with a Purpose (Java)"
+      }
+    ],
+    "volunteer_experience": [
+      {
+        "cause": "Science and Technology",
+        "duration": "Aug 2019 \u00b7 - \nJun 2023 \u00b7 \n3 years 11 months",
+        "duration_short": "- \nJun 2023",
+        "info": "\u2981 Trained students in CNC Milling and digital design \u2981 Mentored ocMaker Challenge and CyberPatriot teams \u2981 Organized Arduino lessons \u2981 Supervised and repaired machinery in lab",
+        "start_date": "Aug 2019",
+        "subtitle": "Irvine Unified School District",
+        "title": "South Lake Middle School Engineering and Robotics Class Mentor"
+      },
+      {
+        "duration": "Aug 2025 \u00b7 - \nDec 2025 \u00b7 \n5 months",
+        "duration_short": "- \nDec 2025",
+        "start_date": "Aug 2025",
+        "subtitle": "Perplexity",
+        "title": "Perplexity Campus Ambassador"
+      }
+    ],
+    "followers": 994,
+    "connections": 500,
+    "current_company_company_id": "hex-technologies",
+    "current_company_name": "Hex",
+    "projects": [
+      {
+        "title": "AI-SL",
+        "start_date": "Jun 2025",
+        "description": "Making ASL more accessible by combining reading and sign language through real-time 2D animations powered by computer vision, NLP, LLMs, and vector similarity search.Created for the 2025 Berkeley AI Hackathon!"
+      },
+      {
+        "title": "Guesscasso",
+        "start_date": "Feb 2025",
+        "description": "Built an innovative multiplayer guessing game that flips the traditional Pictionary concept on its head using diffusion models and LLMs that won 1st place at the 2025 Machine Learning at Berkeley Hackathon! Instead of humans drawing, players race to guess what AI diffusion models are creating in real-time. Guesscasso combines two random words (think \"dinosaur-cowboy\") and challenges players to decipher the AI's artistic interpretation as the image gradually denoises. Engineered a full-stack solution with Flux.1 for image generation, Llama 3.3 for guess evaluation and feedback, Python/Flask backend leveraging Groq for rapid inference, React/Next.js frontend for seamless multiplayer experience, and integrated Gradio for smooth AI model deployment."
+      }
+    ],
+    "organizations": [
+      {
+        "title": "Pen Pal Club",
+        "membership_type": "Founder/President",
+        "start_date": "Aug 2021",
+        "end_date": "Jun 2023",
+        "description": "\u2981 Founded the Pen Pal Club at Woodbridge High School\u2981 We form meaningful connections by writing letters to elementary students in our community!\u2981 Provided peer mentorship, emotional support, and friendship to over 60+ 3rd and 4th graders",
+        "membership_number": null
+      },
+      {
+        "title": "Physics Olympiad",
+        "membership_type": "Vice President",
+        "start_date": "Aug 2021",
+        "end_date": "Jun 2023",
+        "membership_number": null
+      },
+      {
+        "title": "Academic Decathlon",
+        "membership_type": "-",
+        "start_date": "May 2022",
+        "end_date": "Mar 2023",
+        "description": "2022-2023 Orange County Academic Decathlon Results:\u2981 Highest scoring decathlete in the county\u2981 1st place team awards for overall team score and Super Quiz2022-2023 California Academic Decathlon Results:\u2981 4th highest scoring decathlete in California\u2981 3rd highest scoring team in California",
+        "membership_number": null
+      },
+      {
+        "title": "WHS Marching Band",
+        "membership_type": "-",
+        "start_date": "Aug 2020",
+        "end_date": "Dec 2022",
+        "description": "California State Band Championships: 2021 Division 6A Champions, State Silver Medalists; 2022 Division 6A Champions, State Bronze Medalists",
+        "membership_number": null
+      }
+    ],
+    "location": null,
+    "input_url": "https://www.linkedin.com/in/deenasun",
+    "linkedin_id": "deenasun",
+    "activity": [
+      {
+        "interaction": "Deena Sun shared this",
+        "link": "https://www.linkedin.com/posts/deenasun_new-hexans-may-2026-activity-7470874220995035138-Ti1Q",
+        "title": "Super Hex-cited to be Hex's first intern! In my first 3 weeks, I've already gotten to launch my acting career as an extra in upcoming Hex YouTube videos, kick back at Club Hex ( https://hex.tech/club-hex ), and demo at a company all-hands \u2014 and there's still a whole summer ahead! A huge shout-out to Caitlin Colgrove and Olivia Koshy for making this summer of magic-making possible. I can't wait to keep exploring, researching, and building as a Hex an \ud83d\udc9c ...more",
+        "img": null,
+        "id": "2026"
+      },
+      {
+        "interaction": "Deena Sun shared this",
+        "link": "https://www.linkedin.com/posts/deenasun_my-summer-at-uber-was-out-of-this-world-activity-7364323424481005568-ul_V",
+        "title": "My summer at Uber was out of this world! I interned with the Uber AI Solutions team, AKA Project Moonshot, to: \u2022 build out a robust backend service for a feature management tool \u2022 architect SQL databases for complex feature and account hierarchies \u2022 develop multi-modal CLIP models to generate image embeddings and ingest them into an OpenSearch cluster \u2022 deploy an experimental contextual search engine with agent workflows for embedding natural language text queries and performing KNN vector searches over relevant images Being a part of mission control as we launched Uber AI Solutions in July was an exhilarating experience\u2014I\u2019m forever grateful I got the chance to contribute to Uber\u2019s initiative to power the foundations of the AI revolution: data labeling, generation, and collection. And that\u2019s only scratching the surface of what Uber AI Solutions is doing \ud83d\ude80 My Uber internship really helped me widen my orbit. Whether it was seeing the forest and the trees \ud83c\udf32 while engineering scalable databases from the ground up, leveraging a go-get-it \ud83c\udfce\ufe0f mindset to turn research on multi-modal deep-learning models into a deployed proof of concept, staying curious and communicative with my team because great minds don\u2019t think alike \ud83e\udde0, or building with heart \u2764\ufe0f as I navigated technical challenges to make the biggest impact I could on my team, our users, and the world, I\u2019ve felt my horizons expand faster than the speed of light! A sincere thank you to my galactic team, and my manager Abhishek Shiroor , mentor Talon Jin , and recruiter Vicki C. for helping my passions take-off this summer \ud83e\ude90 ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQHUTDD-zZckqQ/feedshare-shrink_800/B56ZjNVHddG0Ao-/0/1755791523011?e=2147483647&v=beta&t=RIkvrBf346dlmMLrTCvq8mh2f5vLX-y6M8E0P0niFaU",
+        "id": "7364323424481005568"
+      },
+      {
+        "interaction": "Deena Sun shared this",
+        "link": "https://www.linkedin.com/posts/deenasun_launching-the-uc-berkeley-met-management-activity-7313648948278087680-9L5x",
+        "title": "Launching the UC Berkeley M.E.T. (Management, Entrepreneurship, and Technology) Program in New York City was exhilarating, insightful, and beyond anything I could have imagined! I spent a week (about the same amount of time a round-trip journey to the moon takes!) exploring just a few of the countless diverse and innovative industries thriving in New York City: Blackstone , Sony Music Entertainment , NBCUniversal , NYSE , Warby Parker , Whop , Brooklyn Nets , Cockroach Labs , and Veronica Beard. Along the way, I learned a couple of things to help my own moonshot ideas take off: \ud83c\udf1f Lean into disruption Whether you are experiencing disruption or acting as a catalyst for it, embrace change as an opportunity to meaningfully impact our world. Growth happens when we dare to step outside of our comfort zones and initiate bold revolutions. The most revolutionary ideas often come from challenging the status quo and rethinking what\u2019s possible\u2014it\u2019s hard to look past the limits of our known universe in search of disruption, but also incredibly transformative when we do! \ud83c\udf1f Surround yourself with incredible people Surrounding yourself with brilliant minds, diverse perspectives, and passionate peers creates an environment where you can continually learn and be inspired. Seek out communities where you are challenged and empowered. Together, you can ignite each other\u2019s fires and become trailblazers! \ud83c\udf1f Always stay curious Curiosity is the fuel for moonshot thinking. The world is vast and curiosity is a spark that lights our way as we explore it. Exploration leads to discovery, even if the path isn\u2019t linear or predictable. Whether it\u2019s diving into a new field, experimenting with unconventional ideas, or simply asking \u201cwhat if?\u201d, curiosity keeps innovation alive. A cosmic thank you to everyone who helped me shoot for the stars! Saikat Chaudhuri , Chris Dito , Dawn Kramer, Aileen Ghosh , Katie DuPlessis , Jagreet Sekhon , and everyone on-site and behind the scenes who made this experience possible, you are all superstars. Thank you for helping my dreams and this trip take off! To everyone who welcomed us into their companies, thank you for inspiring us with your stories of the infinite ways innovation can take place! And to my best friends who took this adventure with me, thank you for the lifelong memories I will always cherish\u2014from challenging each other to think even more creatively while strategizing disruptors to help Cockroach Labs position themselves for the future of database innovation, to side-questing with me at jazz clubs and comedy shows, to accompanying me on our Apollo Bagels excursions, to dancing our hearts out with Professor Saikat at the Brooklyn Nets game! Looking forward to blasting off with this unforgettable experience! \ud83d\ude80 ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQHz6Qz_53ceow/feedshare-shrink_800/B56ZX9MyG_HQAo-/0/1743709756681?e=2147483647&v=beta&t=dahu-bUy-A61ahD-2E8POAtpmlFlNqOtMVP9vKVCbC8",
+        "id": "7313648948278087680"
+      },
+      {
+        "interaction": "Deena Sun shared this",
+        "link": "https://www.linkedin.com/posts/deenasun_this-was-an-invaluable-opportunity-and-i-activity-7145815974770819072-dWNi",
+        "title": "This was an invaluable opportunity and I am incredibly grateful to Saikat Chaudhuri as well as the Blue Origin team for taking a chance on us and allowing us to strive for an impact in the innovative and inspiring field of space exploration! Huge shoutout to my teammates Tanish Jain , Jathin Pranav Singaraju , Navjosh Singh Rikhraj , and Christine Yuna Jang with whom I spent countless sessions brainstorming with, learning from, and imagining all the possibilities awaiting in the future alongside. We're ready to keep reaching for the stars! ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQFHtDdwtIbr6g/feedshare-shrink_800/feedshare-shrink_800/0/1702708282358?e=2147483647&v=beta&t=Wff4vJTVcUWSsZThfjtrM_gr-ts3-yKnpiB3TOxDBRw",
+        "id": "7145815974770819072"
+      },
+      {
+        "interaction": "Deena Sun shared this",
+        "link": "https://www.linkedin.com/posts/deenasun_thank-you-for-this-wonderful-opportunity-activity-7121218196887539712-brrZ",
+        "title": "Thank you for this wonderful opportunity! It was incredibly rewarding to get to chat with Professor Hallal alongside my peers and I'm looking forward to future chances to connect with our amazing faculty! ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQGdJggcZ98qNA/feedshare-image-high-res/feedshare-image-high-res/0/1697827859135?e=2147483647&v=beta&t=9HxkyRyLdoKi1gp760v7BMuWjUxp0lOUTtAwNXex-PU",
+        "id": "7121218196887539712"
+      },
+      {
+        "interaction": null,
+        "link": "https://www.linkedin.com/posts/saikat-chaudhuri_berkeleymet-ucberkeley-berkeleyengineering-activity-7099890456540442624-HZiq",
+        "title": "Welcome #BerkeleyMET Class of 2027!! Can't wait to see how your journey unfolds. UC Berkeley M.E.T (Management, Entrepreneurship, and Technology) Program #UCBerkeley #BerkeleyEngineering #BerkeleyHaas UC Berkeley College of Engineering University of California, Berkeley, Haas School of Business ...more ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQFNgtAiNJXlXw/feedshare-image-high-res/feedshare-image-high-res/0/1692745793077?e=2147483647&v=beta&t=ufRjGIpiyEq4LU32WDIoVTlpsGHAMrvjjRGmBHaB5qQ",
+        "id": "7099890456540442624"
+      },
+      {
+        "interaction": "Deena Sun replied to a comment 2mo",
+        "link": "https://www.linkedin.com/posts/deenasun_activity-7470714003636436992-va30",
+        "title": "Paige Andrews \ud83c\udfb6 Hex is one of my favorite things \ud83c\udfb5",
+        "img": null,
+        "id": "7470714003636436992"
+      },
+      {
+        "interaction": "Deena Sun replied to a comment 11mo",
+        "link": "https://www.linkedin.com/posts/deenasun_activity-7364497145573363712-h86l",
+        "title": "Saathvik Selvan finding you a driver rn \ud83d\ude99",
+        "img": null,
+        "id": "7364497145573363712"
+      },
+      {
+        "interaction": "Deena Sun reacted on this",
+        "link": "https://www.linkedin.com/posts/hex-technologies_prompt-is-hexs-first-ever-customer-conference-activity-7490831818535952384-FBrj",
+        "title": "Prompt is Hex's first-ever customer conference. One day in San Francisco, entirely about data in the age of AI. Big talks, real conversations, and hands-on workshops with the people actually building and thinking about this stuff. You'll leave with things that hold up on Monday, not just a tote bag. Come find out what a data conference feels like when it's actually good. Reach out to prompt@hex.tech to book your spot!",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQFY_X3rgfYVJQ/feedshare-shrink_800/B56Z_TH2GHKYAc-/0/1785953477239?e=2147483647&v=beta&t=a8Nooze-fC437nW-o2BAjir1C3s_MMxIpZnqDTB87qc",
+        "id": "7490831818535952384"
+      },
+      {
+        "interaction": "Deena Sun reacted on this",
+        "link": "https://www.linkedin.com/posts/okoshy_we-just-released-evals-in-the-hex-platform-activity-7490805478063570944-0sAD",
+        "title": "We just released Evals in the Hex platform, based on everything we've learned from the last 2 years building out our own internal eval tools. Some highlights: - LLM-as-a-judge rubrics that allow for actually nuanced grading - model sweeps, so you can test new models as they come out - everything is code defined so using an agent for setup is a breeze, and every change is tracked in git Let us know what you think!",
+        "img": "https://media.licdn.com/dms/image/v2/D4D05AQG0KPk0vIN83Q/videocover-high/B4DZ_Sv1a2IIBU-/0/1785947187961?e=2147483647&v=beta&t=Rbw59S2FA-0YMGv1HgpegcCwb4xwASyA-RWrGue3eug",
+        "id": "7490805478063570944"
+      },
+      {
+        "interaction": "Deena Sun reacted on this",
+        "link": "https://www.linkedin.com/posts/hex-technologies_the-latest-shift-in-the-role-of-data-teams-activity-7490437638823448576-hCLa",
+        "title": "The latest shift in the role of data teams: maintaining and managing analytics agents. The Chime \u00ae data team built their own eval harness to do this. They ran questions one-by-one against the agent and graded each with an LLM-as-judge they had to tune and maintain by hand to keep up with 50+ domains. To make this easier for teams like Chime, we're introducing Evals in Hex. Measure how the Hex Agent performs and test context changes safely before they ship, all from the CLI.",
+        "img": "https://media.licdn.com/dms/image/v2/D5605AQFFh_4NNRIGug/videocover-high/B56Z_NhNqwG8BM-/0/1785859476735?e=2147483647&v=beta&t=nV2CZbvXzuQ9Lo7F9Aq4U7RDtvUD5oaH6j0t62gmmoI",
+        "id": "7490437638823448576"
+      },
+      {
+        "interaction": "Deena Sun liked this",
+        "link": "https://www.linkedin.com/posts/grace-j-tang_i-had-the-pleasure-of-presenting-hexs-approach-activity-7490253215393927168-SCYX",
+        "title": "I had the pleasure of presenting Hex 's approach to data analytics benchmarking at this year's Agentic AI Summit! You can watch me speak here: https://lnkd.in/eR2BbqFn TL;DR: Existing data benchmarks are unrealistic and incomplete, so we built our own: with a realistic synthetic environment to match! At Hex, we spend a ton of time thinking about how to best evaluate models on their ability to do complex analytical tasks. It's a super nontrivial problem, and we're looking forward to sharing more on this, so keep your eyes peeled for incoming blog posts \ud83d\udc40 Massive massive thank you to Izzy Miller for graciously allowing me to co-opt his slides, and for taking time after his workday to help me workshop this talk. I *highly* recommend watching his original talk\u2014 the version I gave was cut down to a speedy 5 minutes, but Izzy goes into many of the juicy details here: https://lnkd.in/ehgp3pED If you're interested in thinking about these problems, Hex might be the place for you! Don't hesitate to reach out :)",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQG9qYabDk1ICA/feedshare-image-high-res/B4EZ_K5G7MJUAU-/0/1785815397892?e=2147483647&v=beta&t=hzyaTMGn1LQ4JKdXdMjpaxevsoJI4hDruUOAnAFOkR4",
+        "id": "7490253215393927168"
+      },
+      {
+        "interaction": "Deena Sun reacted on this",
+        "link": "https://www.linkedin.com/posts/prithika-kulkarni-62280a24a_today-marks-a-week-since-i-joined-hex-in-activity-7489382419708596224-0Tdb",
+        "title": "Today marks a week since I joined Hex in New York City, and it has been an incredible start to learning about this amazingly complex yet intuitive product, meeting some of the most talented people in the startup space, and embracing the experience of becoming a \"data person\" by dogfooding the best AI analytics platform. I can't wait to start helping customers unlock the value of Hex as part of the Sales team. \ud83e\uddd9\u200d\u2640\ufe0f\ud83d\udd2e Ever since I started college at the University of Southern California , I was on a mission to figure out what I wanted to do after graduation (also, I'm thrilled to share that I graduated on the Dean's List after the best four years of my life \ud83d\udc9b\u2764\ufe0f). Throughout that journey, one thing became clear: I wanted to work for a company creating real impact by solving a real problem that I'd experienced firsthand. That's exactly what Hex does. It empowers teams that love working with data and those who are just getting started to explore, analyze, and collaborate in a way that feels conversational. It enables every member on every team to get trusted answers grounded in the organization's data, and share insights with others seamlessly (and so much more). A special thank you to Greg Reardon and Emily (Turner) Sutley for guiding me through the recruiting process and helping me get here, and to Ali Chinetti for the warmest welcome on her team. I'm grateful to be joining Hex at such an exciting time as the product continues to get better every day. Here's to what's next!\ud83c\udf1f",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQGvSVt82QRzKQ/feedshare-image-high-res/B4EZ..hnjTKsAU-/0/1785607911929?e=2147483647&v=beta&t=7tGhEgVEs_STf9lKiOA9-Z1R4Z_KRSomEHl6CHyZ0zk",
+        "id": "7489382419708596224"
+      },
+      {
+        "interaction": "Deena Sun reacted on this",
+        "link": "https://www.linkedin.com/posts/hex-technologies_all-gas-no-brakes-this-july-here-activity-7489007794667352064-vY7Q",
+        "title": "All gas no brakes this July \ud83c\udfce\ufe0f \ud83d\udca8 Here\u2019s what our team shipped this month: - Brand your generative apps with a design.md file - Directly edit generative app code - Download any chart or table as a CSV - Improved screenshot tooling for generative apps - Get notified when the agent needs you or is finished - Set a default model for the agent - Switch between Kimi K2.7, Fable 5, and Opus 5 at your hearts desire - Access Context Studio data and the agent via CLI - See what resources the agent uses most - See your cell outputs via CLI - Faster schema refreshes for Snowflake - Set workspace spend limits for auto top-ups - Set custom add-on allocations for specific users or groups Get the full rundown at the link in the comments \u2b07\ufe0f",
+        "img": null,
+        "id": "7489007794667352064"
+      },
+      {
+        "interaction": "Deena Sun reacted on this",
+        "link": "https://www.linkedin.com/posts/cpschaefer_here-are-some-recent-quotes-i-have-heard-activity-7488631285423206400-7Jld",
+        "title": "Here are some recent quotes I have heard from actual Hex customers: \u201cWe\u2019re HUGE fans of the platform\u201d \u201cHonestly, I am in awe\u201d \"I think this might be the first BI tool I've used that's good.\u201d \u201cI\u2019m so f**king fired up about this agentic analytics stuff\u2026I can\u2019t sleep\u201d \u201cThis has changed the way I evaluate data tooling\u201d It\u2019s been a while since I\u2019ve heard this type of enthusiasm about a data product. So, we decided to host an event bringing all these crazy, excited people together. It\u2019s called Prompt. We\u2019ll have some leading thinkers talking about where this is all going, some hands-on sessions where you can put it all into practice, and some other fun ways for you to connect and nerd out. It\u2019s also super duper exclusive (not really that exclusive, but we\u2019re not opening it up to just anybody). If you want to join, hit me up.",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQGGE0tzuvjtig/feedshare-image-high-res/B56Z.z2eQjHUAU-/0/1785428829549?e=2147483647&v=beta&t=mcKnCb5m9js88_SlgRSAd3XMTPIwd-494zY5r_DmTo8",
+        "id": "7488631285423206400"
+      },
+      {
+        "interaction": "Deena Sun reacted on this",
+        "link": "https://www.linkedin.com/posts/zkirby_weve-been-very-focused-on-improving-the-activity-7488661669053689857-HFPJ",
+        "title": "We've been very focused on improving the speed and quality of our agent's responses at Hex recently. Lots of interesting lessons have come out of this work, and Olivia Koshy and I had the opportunity to write about one of the most interesting: improving prompt cache efficiency. Read all about it below!",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQECb0QS1718DA/feedshare-shrink_800/B56Z.0SGvKHcAc-/0/1785436073177?e=2147483647&v=beta&t=51Ip--_lfErH_1xIZpLn73XXaeH6XQePMT8_Ayg8lsM",
+        "id": "7488661669053689857"
+      }
+    ],
+    "linkedin_num_id": "993084344",
+    "banner_image": "https://media.licdn.com/dms/image/v2/D5616AQGGt7rwHMqPrQ/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1697181574038?e=2147483647&v=beta&t=hEre_Nvcqs7mVIkk7I_bDiqaK6rZBu4FQdaUBTU2y5M",
+    "honors_and_awards": [
+      {
+        "title": "AP Scholar with Distinction",
+        "publication": "-",
+        "date": "2023-07-01T00:00:00.000Z",
+        "description": "The AP Scholar with Distinction Award is granted to students who receive an average score of at least 3.5 on all AP Exams taken, and scores of 3 or higher on five or more of these exams."
+      },
+      {
+        "title": "1st Place Orange County Beckman Legacy Award",
+        "publication": "Arnold and Mabel Beckman Foundation",
+        "date": "2023-05-01T00:00:00.000Z",
+        "description": "Presented by the Orange County Arnold and Mabel Beckman Foundation for my spectrophotometry research on the effect of soil pH on potassium ion retention"
+      },
+      {
+        "title": "National Merit Scholarship Program Finalist",
+        "publication": "-",
+        "date": "2023-02-01T00:00:00.000Z",
+        "description": "Received a $2,500 scholarship from the National Merit Scholarship Corporation; one of 7,250 other high school seniors (less than 1% of U.S. high school graduating seniors) in the United States of America who earned a 2023 Merit Scholarship"
+      },
+      {
+        "title": "AP Scholar with Distinction",
+        "publication": "College Board",
+        "date": "2022-07-01T00:00:00.000Z",
+        "description": "The AP Scholar with Distinction Award is granted to students who receive an average score of at least 3.5 on all AP Exams taken, and scores of 3 or higher on five or more of these exams."
+      },
+      {
+        "title": "Young Talents on Stage Scholarship Recipient",
+        "publication": "-",
+        "date": "2022-06-01T00:00:00.000Z",
+        "description": "Presented by Classical Music Encounters of OC"
+      },
+      {
+        "title": "AP Scholar",
+        "publication": "College Board",
+        "date": "2021-07-01T00:00:00.000Z",
+        "description": "The AP Scholar Award is granted to students who receive scores of 3 or higher on three or more AP Exams."
+      },
+      {
+        "title": "Young Talents on Stage Scholarship Recipient",
+        "publication": "-",
+        "date": "2021-06-01T00:00:00.000Z",
+        "description": "Presented by Classical Music Encounters of OC"
+      },
+      {
+        "title": "Advanced/Panel Level CM Certification",
+        "publication": "Certificate of Merit",
+        "date": "2020-05-01T00:00:00.000Z",
+        "description": "Completed Panel level of the Certificate of Merit exams for piano"
+      }
+    ],
+    "similar_profiles": [],
+    "default_avatar": false,
+    "memorialized_account": false,
+    "bio_links": [],
+    "first_name": "Deena",
+    "last_name": "Sun",
+    "influencer": false,
+    "timestamp": "2026-08-12T19:00:15.179Z",
+    "input": {
+      "url": "https://www.linkedin.com/in/deenasun"
+    }
+  },
+  "local_photo": "data\\linkedin_photos\\deenasun__usr-SKMy1CKRwNxAmVt.jpg"
+}

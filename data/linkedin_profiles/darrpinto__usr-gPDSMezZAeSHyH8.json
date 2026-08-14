@@ -1,0 +1,192 @@
+{
+  "luma_user_id": "usr-gPDSMezZAeSHyH8",
+  "csv_name": "Darren Pinto",
+  "csv_linkedin": "https://www.linkedin.com/in/darrpinto",
+  "enriched_at": "2026-08-12T19:01:42.780424+00:00",
+  "batch_id": "sd_msqgese9ztya3e3uk",
+  "profile": {
+    "id": "darrpinto",
+    "name": "Darren Pinto",
+    "city": "Greater Chicago Area",
+    "country_code": "US",
+    "position": null,
+    "about": "Feel free to connect to discuss opportunities and projects or to chat about shared\u2026",
+    "current_company": {
+      "link": "https://www.linkedin.com/company/ibm?trk=public_profile_topcard-current-company",
+      "name": "IBM",
+      "company_id": "ibm",
+      "location": null
+    },
+    "experience": null,
+    "url": "https://dk.linkedin.com/in/darrpinto",
+    "educations_details": "Carnegie Mellon University",
+    "education": [
+      {
+        "title": "Carnegie Mellon University",
+        "url": "https://www.linkedin.com/school/carnegie-mellon-university/",
+        "start_year": "2025-08",
+        "end_year": "2029-05",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      },
+      {
+        "start_year": "2021-08",
+        "end_year": "2025-05",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      }
+    ],
+    "avatar": "https://static.licdn.com/aero-v1/sc/h/9c8pery4andzj6ohjkjp54ma2",
+    "followers": 417,
+    "connections": 399,
+    "current_company_company_id": "ibm",
+    "current_company_name": "IBM",
+    "projects": [
+      {
+        "title": "PokerAI Bot @ CMU | Top 10",
+        "start_date": "Mar 2026",
+        "description": "Built a Python bot for CMU's AI Poker Tournament 2026. Implemented exhaustive and Monte Carlo equity solvers, lane-specific CFR strategy tables, PyTorch equity/range-value nets, and Bayesian opponent modeling with discard-range inference under a 1.5s/hand limit."
+      },
+      {
+        "title": "Algorithms With a Purpose (AWAP) @ CMU \u2014 1st Place Advanced Track",
+        "start_date": "Jan 2026",
+        "description": "Built a Python bot for ACM@CMU's AWAP 2026 Overcooked-style competition. Implemented precomputed BFS pathfinding, greedy task scheduling, and multi-bot coordination under a 0.5s/turn limit."
+      },
+      {
+        "title": "Swish \u2014 NexHacks Grand Prize Winner (Education Track)",
+        "start_date": "Jan 2026",
+        "description": "Designed and developed an automated coaching platform that translates real-time joint data into 3D shot reconstructions, simulating physics-based basketball trajectories based on elbow pitch, orientation, and arm velocity."
+      },
+      {
+        "title": "FTC Robotics Framework \u2014 Java",
+        "start_date": "Sep 2022",
+        "description": "Developed a framework to easily instantiate Robots for the First Tech Challenge Competition. Designed and developed algorithms, such as motion-profiled movements and quick I2C reads, from scratch"
+      },
+      {
+        "title": "Shortest Path \u2014 SFML (C++)",
+        "start_date": "May 2022",
+        "description": "Developed an interactive application to allow the user to place and connect nodeswhile also showing the user the shortest path between n-nodes."
+      }
+    ],
+    "location": null,
+    "input_url": "https://www.linkedin.com/in/darrpinto",
+    "linkedin_id": "darrpinto",
+    "activity": [
+      {
+        "interaction": "Darren Pinto shared this",
+        "link": "https://www.linkedin.com/posts/darrpinto_as-i-wrap-up-my-freshman-year-at-carnegie-activity-7463301484349366272-Xx9K",
+        "title": "As I wrap up my freshman year at Carnegie Mellon University , I am excited to share that I will be joining IBM 's Silicon Valley Lab in San Jose, CA, as a Software Developer Intern this summer! Huge thanks to Nataly Gonz\u00e1lez for the amazing support throughout the recruitment process. I will also be attending Y Combinator 's Summer Startup School during my time in the Bay Area. If you'll be around this summer, feel free to reach out. I would love to connect. ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQEyjtCpfqKdig/feedshare-image-high-res/B56Z5GJOvaGsAg-/0/1779293290289?e=2147483647&v=beta&t=bGhW0rpgZbo1l1Fv2d7k0LItl_sEDydiZWNVwBS4VXw",
+        "id": "7463301484349366272"
+      },
+      {
+        "interaction": null,
+        "link": "https://www.linkedin.com/posts/ruichen-zhu3_cmu-hackathon-aiagents-activity-7453525208554176512-13qt",
+        "title": "Spent the weekend at the Carnegie Mellon University AI Agent Hackathon planning to compete as a team of four. But after the event kicked off, we gravitated toward completely different problems. We split into two duos, built completely separate projects, and ended up taking home 2 of the 3 total prizes. \ud83c\udfc6 Grand Prize: Eric Jin and I built DisputeForge, a Reg E-compliant payment dispute resolution agent. Our design philosophy was simple: the differentiator is the harness, not the prompt. We built out a multi-layered LangGraph architecture focused on control and orchestration, integrating custom tools, deterministic rule-engine evaluators, and state checkpointing. By offloading compliance and routing entirely to the harness, our final eval suite hit 93.3% accuracy and 100% escalation recall. \ud83d\ude80 Most Ambitious: Sam Mathew and Darren Pinto built FieldOps, a real-time multi-agent AI system for mass casualty incident command. Six specialized agents, handling triage, hospital routing, dispatch logistics, and pre-arrival notifications, coordinate through a shared incident state to help field commanders make faster, safer decisions under pressure. Super fun weekend building with friends and watching everyone succeed. Huge thank you to Bo Xie and the CMU Data Science Club for hosting, Capital One for sponsoring, and judges Aditya Singh , Ayushman S. , and Peter Carragher for the feedback! Check out our projects: DisputeForge: https://lnkd.in/gXFnBBtA FieldOps: https://lnkd.in/gEt3h5C6 #CMU #Hackathon #AIAgents #LangGraph #CapitalOne ...more ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQFICW9WmB2fMw/feedshare-shrink_800/B56Z3A5ukJKoAc-/0/1777057852937?e=2147483647&v=beta&t=_1mx5QMlb79zmsl0akDAzZy7oZ7cw1Yt-zin6mJw7wY",
+        "id": "7453525208554176512"
+      },
+      {
+        "interaction": null,
+        "link": "https://www.linkedin.com/posts/sam-mathew-1a9778254_prodhacks-cmu-product-activity-7438267637576519680-v8mr",
+        "title": "WE WON PRODHACKS!! Recently at CMU\u2019s ProdHacks (hosted by CMUBTG ), Rushabh Jain , Darren Pinto , and I took home 1st place in the main Product Track and People\u2019s Choice across both undergrad and graduate teams. We built a consent-first safety product that addresses a real tension many students face: families want reassurance, and students want autonomy. Existing tools often force an all-or-nothing tradeoff (always-on tracking vs. no safety net). Our approach is \u201csafety without surveillance\u201d: private by default, with location shared only when it actually matters (during an incident or explicit opt-in moments) with layered escalation so the right people get notified in the right order. Huge thanks to Minh Nguyen Do for hosting and running an awesome event, to the judges Harish Parmar and Sanket Patil from SAP for the thoughtful feedback, and to CMU BTG for building a space where students can ship real products fast. If you\u2019re at Apple , Life360 , or working on safety/location/trust or privacy products, or you\u2019re interested in integrating/partnering, we would love to chat. Slides: https://lnkd.in/e9aSvuq8 Demo: https://lnkd.in/edEVecag #ProdHacks #CMU #Product #SafetyTech #Privacy #MobileApps ...more ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQE2JbYtjNOGgA/feedshare-image-high-res/B4EZzoGrggI8AU-/0/1773420591845?e=2147483647&v=beta&t=Q06yB8L3STbhRWtGD4zg_hGyruBp9UnJGZ0CXEWP1eQ",
+        "id": "7438267637576519680"
+      },
+      {
+        "interaction": "Darren Pinto shared this",
+        "link": "https://www.linkedin.com/posts/darrpinto_1500-builders-1-winner-last-weekend-my-activity-7421326301220782080-MwsA",
+        "title": "1500 builders. 1 winner. Last weekend, my team won the Grand Prize (1st place in the Education track) at NexHacks , one of the largest hackathons in the world. The problem we tackled? Sports coaching is often gated behind expensive private sessions. Together, my teammate Eric Jin and I built Swish: a basketball AI form coach meant to democratize interactive coaching. We built Swish with TensorFlow 's MoveNet model to track body keypoints, then simulated a 3D reconstruction of a virtual basketball court as if the player were actually shooting a basketball. We supplemented this technology with real-time feedback via LiveKit & coaching through Overshoot 's video analysis API. Deep-dive on my blog (coming soon): https://lnkd.in/gCPN2UZ4 ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQH6H9poIQy4mA/feedshare-shrink_800/B56Zv3Y8eSJEAg-/0/1769382071129?e=2147483647&v=beta&t=U08ZcqkAXq4up5yUfrEtoPAP319DWEbUkJcpVxtZE1E",
+        "id": "1"
+      },
+      {
+        "interaction": null,
+        "link": "https://www.linkedin.com/posts/sam-mathew-1a9778254_build18-robotics-slam-activity-7419861356843098112-cmOk",
+        "title": "We built an autonomous 3D space mapping robot in one week!! Not a simulation. Not a demo script \u2014 a real rover that drives and reconstructs the room around it. For Build18, Darren Pinto , Tanay Mishra , Jayden Chen , Jintong Wang , and I built LOLA \u2014 a ~$150 mecanum-drive RC rover running on a Raspberry Pi 4. What made it different? We didn\u2019t use an expensive depth camera. Instead, we used CUT3R to reconstruct 3D models from RGB video only (camera intrinsics/extrinsics). We offloaded heavy compute to Google Colab and made the pipeline easy to rerun + reproduce. For autonomy + mapping, we used LiDAR SLAM with Point-to-Line ICP (PL-ICP) (SVD closed-form solve + kd-tree matching), and built a dynamic occupancy grid that we export for planning. Path planning: from that exported occupancy map, we run an RRT-based planner that outputs collision-free waypoint paths (JSON + a path overlay image), and the rover follows the waypoints autonomously. Huge thanks to the Build18 mentors + team for the support throughout the sprint. \ud83d\udd17 GitHub (open-source): https://lnkd.in/ggybbHXF #Build18 #Robotics #SLAM #PathPlanning #ComputerVision #RaspberryPi #3DReconstruction ...more ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQETeX4vCJtwPg/feedshare-shrink_800/B56ZviM0oTJUAo-/0/1769026572094?e=2147483647&v=beta&t=7JnEx7BPyQsoDT__lFsvYzc4L4GECkORLBg96nreaJQ",
+        "id": "7419861356843098112"
+      },
+      {
+        "interaction": "Darren Pinto reacted on this",
+        "link": "https://www.linkedin.com/posts/ruichen-zhu3_cmu-hackathon-aiagents-activity-7453525208554176512-13qt",
+        "title": "Spent the weekend at the Carnegie Mellon University AI Agent Hackathon planning to compete as a team of four. But after the event kicked off, we gravitated toward completely different problems. We split into two duos, built completely separate projects, and ended up taking home 2 of the 3 total prizes. \ud83c\udfc6 Grand Prize: Eric Jin and I built DisputeForge, a Reg E-compliant payment dispute resolution agent. Our design philosophy was simple: the differentiator is the harness, not the prompt. We built out a multi-layered LangGraph architecture focused on control and orchestration, integrating custom tools, deterministic rule-engine evaluators, and state checkpointing. By offloading compliance and routing entirely to the harness, our final eval suite hit 93.3% accuracy and 100% escalation recall. \ud83d\ude80 Most Ambitious: Sam Mathew and Darren Pinto built FieldOps, a real-time multi-agent AI system for mass casualty incident command. Six specialized agents, handling triage, hospital routing, dispatch logistics, and pre-arrival notifications, coordinate through a shared incident state to help field commanders make faster, safer decisions under pressure. Super fun weekend building with friends and watching everyone succeed. Huge thank you to Bo Xie and the CMU Data Science Club for hosting, Capital One for sponsoring, and judges Aditya Singh , Ayushman S. , and Peter Carragher for the feedback! Check out our projects: DisputeForge: https://lnkd.in/gXFnBBtA FieldOps: https://lnkd.in/gEt3h5C6 #CMU #Hackathon #AIAgents #LangGraph #CapitalOne",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQFICW9WmB2fMw/feedshare-shrink_800/B56Z3A5ukJKoAc-/0/1777057852937?e=2147483647&v=beta&t=_1mx5QMlb79zmsl0akDAzZy7oZ7cw1Yt-zin6mJw7wY",
+        "id": "7453525208554176512"
+      },
+      {
+        "interaction": "Darren Pinto liked this",
+        "link": "https://www.linkedin.com/posts/sam-mathew-1a9778254_prodhacks-cmu-product-activity-7438267637576519680-v8mr",
+        "title": "WE WON PRODHACKS!! Recently at CMU\u2019s ProdHacks (hosted by CMUBTG ), Rushabh Jain , Darren Pinto , and I took home 1st place in the main Product Track and People\u2019s Choice across both undergrad and graduate teams. We built a consent-first safety product that addresses a real tension many students face: families want reassurance, and students want autonomy. Existing tools often force an all-or-nothing tradeoff (always-on tracking vs. no safety net). Our approach is \u201csafety without surveillance\u201d: private by default, with location shared only when it actually matters (during an incident or explicit opt-in moments) with layered escalation so the right people get notified in the right order. Huge thanks to Minh Nguyen Do for hosting and running an awesome event, to the judges Harish Parmar and Sanket Patil from SAP for the thoughtful feedback, and to CMU BTG for building a space where students can ship real products fast. If you\u2019re at Apple , Life360 , or working on safety/location/trust or privacy products, or you\u2019re interested in integrating/partnering, we would love to chat. Slides: https://lnkd.in/e9aSvuq8 Demo: https://lnkd.in/edEVecag #ProdHacks #CMU #Product #SafetyTech #Privacy #MobileApps",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQE2JbYtjNOGgA/feedshare-image-high-res/B4EZzoGrggI8AU-/0/1773420591845?e=2147483647&v=beta&t=Q06yB8L3STbhRWtGD4zg_hGyruBp9UnJGZ0CXEWP1eQ",
+        "id": "7438267637576519680"
+      },
+      {
+        "interaction": "Darren Pinto liked this",
+        "link": "https://www.linkedin.com/posts/sam-mathew-1a9778254_build18-robotics-slam-activity-7419861356843098112-cmOk",
+        "title": "We built an autonomous 3D space mapping robot in one week!! Not a simulation. Not a demo script \u2014 a real rover that drives and reconstructs the room around it. For Build18, Darren Pinto , Tanay Mishra , Jayden Chen , Jintong Wang , and I built LOLA \u2014 a ~$150 mecanum-drive RC rover running on a Raspberry Pi 4. What made it different? We didn\u2019t use an expensive depth camera. Instead, we used CUT3R to reconstruct 3D models from RGB video only (camera intrinsics/extrinsics). We offloaded heavy compute to Google Colab and made the pipeline easy to rerun + reproduce. For autonomy + mapping, we used LiDAR SLAM with Point-to-Line ICP (PL-ICP) (SVD closed-form solve + kd-tree matching), and built a dynamic occupancy grid that we export for planning. Path planning: from that exported occupancy map, we run an RRT-based planner that outputs collision-free waypoint paths (JSON + a path overlay image), and the rover follows the waypoints autonomously. Huge thanks to the Build18 mentors + team for the support throughout the sprint. \ud83d\udd17 GitHub (open-source): https://lnkd.in/ggybbHXF #Build18 #Robotics #SLAM #PathPlanning #ComputerVision #RaspberryPi #3DReconstruction",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQETeX4vCJtwPg/feedshare-shrink_800/B56ZviM0oTJUAo-/0/1769026572094?e=2147483647&v=beta&t=7JnEx7BPyQsoDT__lFsvYzc4L4GECkORLBg96nreaJQ",
+        "id": "7419861356843098112"
+      },
+      {
+        "interaction": "Darren Pinto liked this",
+        "link": "https://www.linkedin.com/posts/nyanrobotics_carmel-catholics-nyan-robotics-heads-to-activity-7316258528908783616-Fjkx",
+        "title": "Carmel Catholic's NYAN Robotics heads to the global FIRST Championship in Houston, TX. Meet the robot and team captains on FOX 32 Chicago's interview this morning on Good Day. https://lnkd.in/dUufUtye Carmel Catholic High School FIRST Fox Television Stations",
+        "img": "https://media.licdn.com/dms/image/v2/D4D22AQGZwpU81JPXBQ/feedshare-shrink_1280/B4DZYiSWyxHIAo-/0/1744331960217?e=2147483647&v=beta&t=qXRFzXocJ66eEELAVW02JupUqfEwksVpfuDSJnxYVQE",
+        "id": "7316258528908783616"
+      }
+    ],
+    "linkedin_num_id": "1032284367",
+    "banner_image": "https://media.licdn.com/dms/image/v2/D5616AQGqzp-E5ZLUZw/profile-displaybackgroundimage-shrink_200_800/B56ZWguFtJHsAU-/0/1742158194036?e=2147483647&v=beta&t=n-vgfeBn1v9fc7k1Kp_C9ipwtnjwBcOnt2LUPQJo-ok",
+    "honors_and_awards": [
+      {
+        "title": "Mathematics Department Award",
+        "publication": "Carmel Catholic High School",
+        "date": "2025-05-01T00:00:00.000Z",
+        "description": null
+      },
+      {
+        "title": "Illinois State ACES Computer Science - 1st Place",
+        "publication": "-",
+        "date": "2024-05-01T00:00:00.000Z",
+        "description": "Placed 1st in the field of Computer Science at the 2024 State Academic Challenge in Engineering and Science competition. Highest score earned across all divisions out of 160 competitors."
+      },
+      {
+        "title": "Control Award Finalist @ FIRST Robotics World Championship 2024",
+        "publication": "First Tech Challenge",
+        "date": "2024-04-01T00:00:00.000Z",
+        "description": "Finalist for the Control Award at the International level due to innovative and efficient code to autonomously control robots."
+      },
+      {
+        "title": "FIRST Robotics World Championship - Franklin Division Finalist",
+        "publication": "First Tech Challenge",
+        "date": "2024-04-01T00:00:00.000Z",
+        "description": "Went 10-0 in qualification to earn 1st overall seed as the only undefeated team."
+      },
+      {
+        "title": "Illinois Regional ACES Physics - 1st Place",
+        "publication": "-",
+        "date": "2024-02-01T00:00:00.000Z",
+        "description": "Placed 1st in the field of Physics at the 2024 Regional Academic Challenge in Engineering and Science competition."
+      }
+    ],
+    "similar_profiles": [],
+    "default_avatar": true,
+    "memorialized_account": false,
+    "bio_links": [
+      {
+        "title": "Personal Website",
+        "link": "https://darrenpinto.me/"
+      }
+    ],
+    "first_name": "Darren",
+    "last_name": "Pinto",
+    "influencer": false,
+    "timestamp": "2026-08-12T19:00:12.341Z",
+    "input": {
+      "url": "https://www.linkedin.com/in/darrpinto"
+    }
+  }
+}

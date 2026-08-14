@@ -1,0 +1,214 @@
+{
+  "luma_user_id": "usr-VuqZn5StwjFjkFY",
+  "csv_name": "Shreyas Basavatia",
+  "csv_linkedin": "https://www.linkedin.com/in/shreyas-basavatia-936387203",
+  "enriched_at": "2026-08-12T19:18:07.751294+00:00",
+  "batch_id": "sd_msqh0fwb1tv6mjnbrd",
+  "profile": {
+    "id": "shreyas-basavatia-936387203",
+    "name": "Shreyas Basavatia",
+    "city": "United States",
+    "country_code": "US",
+    "position": null,
+    "about": null,
+    "current_company": {
+      "link": "https://www.linkedin.com/company/flock-?trk=public_profile_topcard-current-company",
+      "name": "Flock",
+      "company_id": "flock-",
+      "location": null
+    },
+    "experience": null,
+    "url": "https://id.linkedin.com/in/shreyas-basavatia-936387203",
+    "educations_details": "Georgia Institute of Technology",
+    "education": [
+      {
+        "title": "Georgia Institute of Technology",
+        "url": "https://www.linkedin.com/school/georgia-institute-of-technology/",
+        "start_year": "2023-07",
+        "end_year": "2026-12",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      }
+    ],
+    "avatar": "https://media.licdn.com/dms/image/v2/D4E03AQF1fcU10VnbSQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1682859502580?e=2147483647&v=beta&t=CvG9FghmbwuFH-RAyme0HapFNy6BQhcE_fPHyskBt2E",
+    "followers": 693,
+    "connections": 500,
+    "current_company_company_id": "flock-",
+    "current_company_name": "Flock",
+    "publications": [
+      {
+        "title": "Cultivating Multimodal Intelligence: Interpretive Reasoning and Agentic RAG Approaches to Dermatological Diagnosis",
+        "subtitle": "2025 ImageCLEF MEDIQA-MAGIC Challenge (CLEF 2025)",
+        "date": "July 7, 2025",
+        "description": "The 2025 ImageCLEF MEDIQA-MAGIC challenge focused on multimodal dermatology question answeringand segmentation, using real-world patient queries and images. This work addresses the Closed Visual Question Answering (CVQA) task, where the goal is to select the correct answer to multiple-choice clinical questions based on both user-submitted images and accompanying symptom descriptions.This task presents several challenges: consumer health questions are often noisy, imprecise, and lack clinical context. Unlike real-world settings where physicians can ask follow-up questions, the system must make medical decisions with high accuracy based on a single static patient interaction. This raises the difficulty of building models that generalize well and increases the risk of clinically significant misclassifications. To address these limitations, not only predictive accuracy, but also reasoning ability and explainability were prioritized. The proposed approach combines three core components: (1) fine-tuning open-source multimodal models from the Qwen, Gemma, and Llama families on the competition dataset, (2) introducing a structured reasoning layer that reconciles and adjudicates between candidate model outputs, and (3) incorporating agentic retrieval-augmented generation (agentic RAG), which adds relevant information from the American Academy of Dermatology\u2019s symptom and condition database to fill in gaps in patient context. The team achieved second place with a submission that scored sixth, demonstrating competitive performance across both accuracy and F1 score. Beyond competitive benchmarks, this research addresses a practical challenge in telemedicine: diagnostic decisions must often be made asynchronously, with limited input and with high accuracy and interpretability. By emulating the systematic reasoning patterns employed by dermatologists when evaluating skin conditions, this architecture provided a pathway toward more reliable automated diagnostic support systems"
+      },
+      {
+        "title": "STORY2GAME: Generating (Almost) Everything in an Interactive Fiction Game",
+        "subtitle": "Preprint",
+        "date": "May 6, 2025",
+        "description": "We introduce STORY2GAME, a novel approach to using Large Language Models to generate text-based interactive fiction games that starts by generating a story, populates the world, and builds the code for actions in a game engine that enables the story to play out interactively. Whereas a given set of hard-coded actions can artificially constrain story generation, the ability to generate actions means the story generation process can be more open-ended but still allow for experiences that are grounded in a game state. The key to successful action generation is to use LLM-generated preconditions and effects of actions in the stories as guides for what aspects of the game state must be tracked and changed by the game engine when a player performs an action. We also introduce a technique for dynamically generating new actions to accommodate the player's desire to perform actions that they think of that are not part of the story. Dynamic action generation may require on-the-fly updates to the game engine's state representation and revision of previously generated actions. We evaluate the success rate of action code generation with respect to whether a player can interactively play through the entire generated story."
+      },
+      {
+        "title": "STARLING: Self-supervised Training of Text-based Reinforcement Learning Agent with Large Language Models",
+        "subtitle": "ACL Findings 2024",
+        "date": "June 9, 2024",
+        "description": "Interactive fiction games have emerged as an important application to improve the generalization capabilities of language-based reinforcement learning (RL) agents. Existing environments for interactive fiction games are domain-specific or time-consuming to generate and do not train the RL agents to master a specific set of skills. In this work, we introduce an interactive environment for self-supervised RL, STARLING, for text-based games that bootstraps the text-based RL agents with automatically generated games (based on the seed set of game ideas) to boost the performance and generalization capabilities to reach a goal of the target environment. These games let the agent hone their skills on a predefined set of tasks. We create and test an environment with 100 games, generated using this automated framework that uses large language models (GPT-3) and an interactive fiction game engine (based on Inform7) to provide the user with the ability to generate more games under minimal human supervision. Experimental results based on both the human participants and baseline text-based RL agents reveal that current state-of-the-art text-based RL agents cannot use previously learned skills in new situations at the level humans can. These results enforce STARLING's potential to serve as a sandbox environment for further research in self-supervised text-based RL."
+      },
+      {
+        "title": "ComplexWorld: A Large Language Model-based Interactive Fiction Learning Environment for Text-based Reinforcement Learning Agents",
+        "subtitle": "KBCG @ IJCAI 2023",
+        "date": "June 20, 2023",
+        "description": "Interactive fiction games have emerged as an important vehicle to improve the generalization and compositional reasoning capabilities of language-based reinforcement learning (RL) agents. Existing environments for interactive fiction games are domain-specific and do not require the RL agents to utilize compositional reasoning (sequences of inter-dependent decision-making capabilities to complete a task on hand). In this work, we introduce a benchmark interactive environment, ComplexWorld, a set of text-based games that require complex composition of previously learned skills to reach a goal. These games require the agent to understand the cause-effect relationship between the intermediary decision taken towards an overarching goal. We create and test an environment with 100 complex reasoning games, generated using an automated framework that uses large language models (GPT3) and an interactive fiction game engine (based on Inform7) to provide the user with the ability to generate more games under minimal or no human supervision. Experimental results based on both the human participants and baseline text-based RL agents reveal that current state-of-the-art text-based RL agents cannot use previously learned skills in new situations involving complex reasoning at the level humans can. These results enforce ComplexWorld\u2019s potential to serve as a sandbox environment for further research with compositional reasoning."
+      }
+    ],
+    "projects": [
+      {
+        "title": "GraphIQ",
+        "start_date": "Oct 2024",
+        "description": "GraphIQ is a multimodal and interactive AI-powered learning platform that guides students through data structure and algorithm concepts with practice problems, interactive diagrams, and detailed explanations. GraphIQ accomplishes this through voice, text, and visual modalities."
+      },
+      {
+        "title": "QuickER",
+        "start_date": "Sep 2024",
+        "description": "Emergency rooms (ER) across the world are increasingly overwhelmed, leading to significant delays in patient care and inefficient resource management. QuickER is an end-to-end solution designed to improve the efficiency of emergency response systems and ER management."
+      },
+      null,
+      null,
+      {
+        "title": "Flame AI: Fire Detection for Hacklytics 2024 Hackathon",
+        "description": "Advanced fire detection system alerting first responders and admins quickly, providing key data for optimal resource allocation and swift rescuesIndependently cleaned 20 feature dataset, and used grid search to optimally train a logistic regression model with over 99% accuracyFine-tuned Yolov5 computer vision model to detect fire and people with 96% accuracy"
+      }
+    ],
+    "location": null,
+    "input_url": "https://www.linkedin.com/in/shreyas-basavatia-936387203",
+    "linkedin_id": "shreyas-basavatia-936387203",
+    "activity": [
+      {
+        "interaction": "Liked by Shreyas Basavatia",
+        "link": "https://www.linkedin.com/posts/nikhil-namburi_striving-to-be-a-firm-youve-never-heard-activity-7491156289864110080-DcjI",
+        "title": "striving to be a firm you\u2019ve never heard of, partnering with companies you definitely have. a look inside our $800m fund iii + everyone follow Get\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQG22uXJOeJ__A/feedshare-shrink_800/B56Z_UduF3HUAg-/0/1785975989343?e=2147483647&v=beta&t=woWeSVnYxJ4z9KCtbSw38wdbD9WjF0qvZLSiGAZ8BE0",
+        "id": "7491156289864110080"
+      },
+      {
+        "interaction": "Liked by Shreyas Basavatia",
+        "link": "https://www.linkedin.com/posts/williams-lauren_yesterday-harvey-hosted-kleiner-perkins-activity-7490818707745775616-f8SH",
+        "title": "Yesterday, Harvey hosted Kleiner Perkins\u2019s Fellows at our HQ for an intimate fireside with Siva G. (CTO), Niko Grupen (Head of Applied Research), and\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5605AQHaS_3ya1e9YA/videocover-high/B56Z_S74nOJcBc-/0/1785950343928?e=2147483647&v=beta&t=5oqJ8K3v_XxmbUBTYzmy1z81ZZtNRnyEMxE9Waa-3ew",
+        "id": "7490818707745775616"
+      },
+      {
+        "interaction": "Liked by Shreyas Basavatia",
+        "link": "https://www.linkedin.com/posts/talia-kusmirek-b0421b289_i-got-four-hours-of-sleep-this-past-weekend-activity-7483557360611786753-fjSn",
+        "title": "I got four hours of sleep this past weekend (and I'd do it AGAIN). The Kleiner Perkins Fellows Retreat somehow turned into one of those weekends you\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5605AQEWCRVecDu5oA/videocover-high/B56Z9rvtf9HcBM-/0/1784219100276?e=2147483647&v=beta&t=1DiWzkv59WxDbDfl3Z7sjxI4MDvcKg0827Yt1ok4jOY",
+        "id": "7483557360611786753"
+      },
+      {
+        "interaction": "Liked by Shreyas Basavatia",
+        "link": "https://www.linkedin.com/posts/lykos-industries_building-our-manufacturing-base-requires-activity-7480609733465481216-z8rM",
+        "title": "Building our manufacturing base requires that more young people realize the opportunity that exists in the \u201creal\u201d economy.",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQGBOwVc0qHljQ/feedshare-shrink_800/B4EZ8.NE8oIwAc-/0/1783455043732?e=2147483647&v=beta&t=4IUvZ6MiGhROLqsgmH-JHbR9B9ox-POLRTlcERQM0vI",
+        "id": "7480609733465481216"
+      },
+      {
+        "interaction": "Liked by Shreyas Basavatia",
+        "link": "https://www.linkedin.com/posts/pranav-gupta-7a9baa33_proud-of-what-were-launching-today-revenue-activity-7481071785275363328-O1aY",
+        "title": "Proud of what we\u2019re launching today: Revenue Harness The best GTM agents won\u2019t win because they use a more expensive and more powerful\u2026",
+        "img": "https://static.licdn.com/aero-v1/sc/h/53n89ecoxpr1qrki1do3alazb",
+        "id": "7481071785275363328"
+      },
+      {
+        "interaction": "Liked by Shreyas Basavatia",
+        "link": "https://www.linkedin.com/posts/maruthimedisetty_today-we-are-launching-a-first-of-its-kind-activity-7481051451981479936-am_G",
+        "title": "Today we are launching a first-of-its-kind product in GTM - Revenue Harness. Revenue teams don't have an AI adoption problem anymore. They have an\u2026",
+        "img": "https://dms.licdn.com/playlist/vid/v2/D4D05AQG2i9MjiAUp5Q/thumbnail-shrink_720_1280/B4DZ9IIe2cIIAk-/0/1783621623895?e=2147483647&v=beta&t=1n8cMh3Kw7qgb4A-6q0mXciKkgiWWJXHKDqkuslo2II",
+        "id": "7481051451981479936"
+      },
+      {
+        "interaction": "Liked by Shreyas Basavatia",
+        "link": "https://www.linkedin.com/posts/yaseenhalabi_we-can-all-write-a-thousand-lines-of-code-activity-7476724386079899648-lN9d",
+        "title": "We can all write a thousand lines of code in 10 minutes. Please do not. That is not what AI coding is for IMO Our attention spans are falling; shiny\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQFFUEfZRYG5-Q/feedshare-image-high-res/B56Z8KpMy_HUAU-/0/1782590003350?e=2147483647&v=beta&t=y-YoRwWolBSpxMG_NofdAgQcBHoJW1OizoxGJnMUx9o",
+        "id": "7476724386079899648"
+      },
+      {
+        "interaction": "Liked by Shreyas Basavatia",
+        "link": "https://www.linkedin.com/posts/adhish-chakravorty_ive-been-selected-to-be-the-first-kleiner-activity-7468375211189649408-ls6K",
+        "title": "I've been selected to be the first Kleiner Perkins Engineering Fellow @ Anthropic! Also, come say hi at the Y Combinator Startup School this summer\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQEvvC8HcXGJhA/feedshare-shrink_1280/B56Z6T_rhUI8AM-/0/1780599404876?e=2147483647&v=beta&t=I6mtJyMQ-_29o_Y0beLRx9hwX9yrKuIs74CVUDhrai0",
+        "id": "7468375211189649408"
+      },
+      {
+        "interaction": "Liked by Shreyas Basavatia",
+        "link": "https://www.linkedin.com/posts/kleinerperkinsfellows_welcome-to-summer-2026-activity-7465824657015943169-EjVB",
+        "title": "Welcome to summer 2026 \u2600\ufe0f",
+        "img": "https://media.licdn.com/dms/image/v2/D5605AQGRIq4KShE_Mg/videocover-high/B56Z5vv7wiIIBM-/0/1779991298477?e=2147483647&v=beta&t=E3coVvSX200C79ST4yNLtgDX6KFaY3lbSzBafHIcpqU",
+        "id": "2026"
+      },
+      {
+        "interaction": "Liked by Shreyas Basavatia",
+        "link": "https://www.linkedin.com/posts/sonia-purani-b60654286_im-excited-to-announce-that-ill-be-spending-activity-7465096639133700096-NC2o",
+        "title": "I\u2019m excited to announce that I\u2019ll be spending my summer at Commvault as a Global Field Marketing Intern! I\u2019m incredibly grateful to Ali Macumber for\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQGB99J7R8XrXA/feedshare-shrink_800/B4EZ5lZ1dHIAAc-/0/1779817732148?e=2147483647&v=beta&t=XM4NbXoR553wuz2t5UH867CjEVnyKGSkElX80kE-DOs",
+        "id": "7465096639133700096"
+      },
+      {
+        "interaction": "Liked by Shreyas Basavatia",
+        "link": "https://www.linkedin.com/posts/shivam-ratnakar-342b03144_linkedinterns-linkedinlife-activity-7455024624469286912-IuyY",
+        "title": "Hey everyone, I'm excited to share that I'll be joining the Ads AI team at LinkedIn's Mountain View office this summer as an AI/ML Intern! A huge\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5605AQHMojHBB50nFA/videocover-high/B56Z3WRXYmJ4BM-/0/1777416371106?e=2147483647&v=beta&t=5zTl7hs-YXoz6Lx4Ys7ZS05yUcmcg_yoI2ZZZcvn4jA",
+        "id": "7455024624469286912"
+      },
+      {
+        "interaction": "Liked by Shreyas Basavatia",
+        "link": "https://www.linkedin.com/posts/sophiakianni_theres-a-secret-behind-figma-plaid-robinhood-activity-7464706887557468160-80h-",
+        "title": "\ud83d\ude80there's a secret behind Figma, Plaid, Robinhood, and Phia... \ud83d\udc47is this silicon valley's most underrated talent pipeline? Kleiner Perkins led\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQHd83xBHwzmFg/feedshare-shrink_800/B4EZ5B7fuhHQAc-/0/1779222576341?e=2147483647&v=beta&t=xucalCzs7CLxpTw96x9nAe1dknYuQS8X2owCgFXeUP4",
+        "id": "7464706887557468160"
+      },
+      {
+        "interaction": "Liked by Shreyas Basavatia",
+        "link": "https://www.linkedin.com/posts/sabina-mrzyglod_i-am-excited-to-share-that-ive-graduated-activity-7459287160374939648-i3Bc",
+        "title": "I am excited to share that I\u2019ve graduated from the Georgia Institute of Technology with a B.S. in Economics with high honors! My time at Georgia\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQGX62CdBma8ug/feedshare-shrink_480/B4EZ4S2JPRJAAk-/0/1778432644283?e=2147483647&v=beta&t=zrb4VX7r1-rtSWBmZeSijtxYekiCROG988hFVUfYzQs",
+        "id": "7459287160374939648"
+      },
+      {
+        "interaction": "Liked by Shreyas Basavatia",
+        "link": "https://www.linkedin.com/posts/markriedl_okay-yall-its-official-im-a-co-organizer-activity-7455690079089602560-i87U",
+        "title": "Okay y'all, it's official. I'm a co-organizer of the NeurIPS 2026 Atlanta Satellite site. See you in December",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQHeX-0CjahISA/feedshare-shrink_800/B4EZ3funwQKQAc-/0/1777575034118?e=2147483647&v=beta&t=i-9OU4oMxuDHL8WuNYcT_sWXRdvIXbeUhKFEaJ3MCQ0",
+        "id": "7455690079089602560"
+      },
+      {
+        "interaction": "Liked by Shreyas Basavatia",
+        "link": "https://www.linkedin.com/posts/brycejparsons_im-looking-forward-to-joining-the-product-activity-7456413584290516992-TlaB",
+        "title": "I'm looking forward to joining the product design team at Glean this summer as a Kleiner Perkins Design Fellow! I'm appreciative to Dana\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQFFgT2Nhv50yg/feedshare-shrink_800/B56Z3qApV7H4Ac-/0/1777747531364?e=2147483647&v=beta&t=UODTj_0nJBUB1mHxqiJFtPfjsjpq3wsJHr0pZ-n37DQ",
+        "id": "7456413584290516992"
+      }
+    ],
+    "linkedin_num_id": "869847162",
+    "banner_image": "https://media.licdn.com/dms/image/v2/D4E16AQEQrdjSMPZXzg/profile-displaybackgroundimage-shrink_200_800/B4EZcdZ6lnHIAY-/0/1748545022930?e=2147483647&v=beta&t=a2KOPbZyaokdCwG_vsSE6roCvQM4-_WlSZ8umeG6j-Q",
+    "honors_and_awards": null,
+    "similar_profiles": [],
+    "default_avatar": false,
+    "memorialized_account": false,
+    "bio_links": [
+      {
+        "title": "Personal Website",
+        "link": "https://www.shreyasportfolio.co/"
+      }
+    ],
+    "first_name": "Shreyas",
+    "last_name": "Basavatia",
+    "influencer": false,
+    "timestamp": "2026-08-12T19:16:58.818Z",
+    "input": {
+      "url": "https://www.linkedin.com/in/shreyas-basavatia-936387203"
+    }
+  },
+  "local_photo": "data\\linkedin_photos\\shreyas-basavatia-936387203__usr-VuqZn5StwjFjkFY.jpg"
+}

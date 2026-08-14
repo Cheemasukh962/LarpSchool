@@ -1,0 +1,195 @@
+{
+  "luma_user_id": "usr-9c1LDhbhTkY6Ynz",
+  "csv_name": "Sathvik Vempati",
+  "csv_linkedin": "https://www.linkedin.com/in/sathvik-vempati-471765288",
+  "enriched_at": "2026-08-12T19:16:49.717908+00:00",
+  "batch_id": "sd_msqgxyk1xj7v4ip1",
+  "profile": {
+    "id": "sathvik-vempati-471765288",
+    "name": "Sathvik Vempati",
+    "city": "San Francisco Bay Area",
+    "country_code": "US",
+    "position": null,
+    "about": "Check out my Portfolio:\u2026",
+    "current_company": {
+      "link": "https://www.linkedin.com/company/waksman-institute-of-microbiology-rutgers-university?trk=public_profile_topcard-current-company",
+      "name": "Rutgers University - Waksman Institute of Microbiology",
+      "company_id": "waksman-institute-of-microbiology-rutgers-university",
+      "location": null
+    },
+    "experience": null,
+    "url": "https://ca.linkedin.com/in/Sathvik-vempati-471765288",
+    "educations_details": "UC San Diego",
+    "education": [
+      {
+        "title": "UC San Diego",
+        "url": "https://www.linkedin.com/school/ucsandiego/",
+        "end_year": "2029",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      },
+      {
+        "start_year": "2022-08",
+        "end_year": "2024-01",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      }
+    ],
+    "avatar": "https://static.licdn.com/aero-v1/sc/h/9c8pery4andzj6ohjkjp54ma2",
+    "followers": 382,
+    "connections": 378,
+    "current_company_company_id": "waksman-institute-of-microbiology-rutgers-university",
+    "current_company_name": "Rutgers University - Waksman Institute of Microbiology",
+    "location": null,
+    "input_url": "https://www.linkedin.com/in/sathvik-vempati-471765288",
+    "linkedin_id": "sathvik-vempati-471765288",
+    "activity": [
+      {
+        "interaction": "Sathvik Vempati shared this",
+        "link": "https://www.linkedin.com/posts/sathvik-vempati-471765288_311ai-activity-7475206600555892736-mmOY",
+        "title": "I won at Berkeley AI Hacks 2026! My project, 311.ai , won 1st Place \u2013 PaleBlueDotAI (TokenRouter) Prize at Berkeley AI Hacks 2026! I built 311.ai , an AI-powered municipal command center that transforms voice-reported non-emergency incidents into dispatched work orders in under a minute using multi-agent orchestration, semantic deduplication, and autonomous permit filing. Huge thank you to the organizers at Cal Hacks for creating such an incredible environment to build, learn, and connect with other builders. Also, a massive thank you to PaleBlueDot AI and Christine Dai for both helping sponsor this prize and supporting teams pushing the boundaries of agentic AI. Grateful for an amazing weekend of building and excited to keep pushing 311.ai forward! Check out the submission here: https://lnkd.in/gYbW98Si #BerkeleyAIHacks #CalHacks #AI #AgenticAI #GovTech #MachineLearning #Startup ...more",
+        "img": "https://media.licdn.com/dms/image/sync/v2/D5627AQFkLkAO9sY1dw/articleshare-shrink_1280_800/B56Z71ExHdGUAg-/0/1782228129785?e=2147483647&v=beta&t=f7DIVihXZI34bg5HPGxsuGBiEFqL_AUK3SQHAO8Susc",
+        "id": "7475206600555892736"
+      },
+      {
+        "interaction": "Sathvik Vempati shared this",
+        "link": "https://www.linkedin.com/posts/sathvik-vempati-471765288_i-am-extremely-excited-to-announce-my-attendance-activity-7472740032534011904-O7Cs",
+        "title": "I am extremely excited to announce my attendance at the Y Combinator Summer School 2026 in San Francisco. A huge thank you to the YC team for this opportunity to learn from world-class builders and explore the ecosystem in depth. Over the course of this intensive 2-day event, I look forward to connecting with fellow founders and absorbing insights on scaling a startup today. If you are a builder, engineer, or fellow attendee heading to San Francisco for the event, I would love to connect and discuss the exciting tech you are currently working on. Looking forward to seeing everyone in SF! Y Combinator ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQFEq8XliRPvSw/feedshare-shrink_800/B56Z7SBdmwHUAg-/0/1781640059722?e=2147483647&v=beta&t=635g3VGp7WZMva9KVLaYeESEyurEIlvue90VgAxC8F4",
+        "id": "7472740032534011904"
+      },
+      {
+        "interaction": null,
+        "link": "https://www.linkedin.com/posts/sathvik-vempati-471765288_elasticsearch-sre-devops-activity-7458595059110719489-PFog",
+        "title": "Forgot to post this from a couple months ago after someone recently reached out about it. Built ElasticSeer for the Elastic AgentBuilder Hackathon, an autonomous incident response system that detects anomalies in Elasticsearch, correlates logs/traces with Gemini 2.5 Flash + MCP, and automatically opens a GitHub PR, alerts Slack, and creates a Jira ticket. The goal was to reduce the manual workload that usually comes with sudden incidents. Stack: Elasticsearch Serverless, ES|QL, Elastic Workflows, Gemini 2.5 Flash, MCP. And Elastic was especially useful here because the ES|QL + observability stack made it easy to correlate logs, traces, and anomalies in real time without a lot of extra infrastructure. Check out my submission below: https://lnkd.in/grX4w7Tw https://lnkd.in/gc8vpapt Thanks Olivia Petrie for the reminder \ud83d\ude05 #Elasticsearch #SRE #DevOps #AgenticAI #ElasticAgentBuilder #Elastic ...more",
+        "img": null,
+        "id": "7458595059110719489"
+      },
+      {
+        "interaction": "Sathvik Vempati shared this",
+        "link": "https://www.linkedin.com/posts/sathvik-vempati-471765288_c2-dashboard-activity-7458591625628389376-sjss",
+        "title": "Last week, I went to the ArmyXTech Hackathon. Our team built Hawk-I \u2014 a real-time C2 platform focused on protecting logistics in contested environments. The idea was to connect cyber events and real-world supply chain impact using the AIP Ontology. We ingested OSINT sources (FlightRadar, AIS shipping, Exa AI, Kaggle datasets) alongside cyber telemetry from Shodan to map how disruptions like grid outages or infrastructure attacks affect frontline operations. We also built a RAG-based decision support agent that generates Courses of Action (COAs) with full lineage and human verification through Foundry. Due to foundry limitations as well, we had to use Notional data sourced from real events. Check out the project here: https://lnkd.in/gNb_ga6Q Thanks Shield Capital and Cerebral Valley for this experience. #SupplyChain #AI #HawkI #Hackathon #Palantir #CerebralValley #DefenseTech #NationalSecurity #BuildInPublic ...more",
+        "img": null,
+        "id": "7458591625628389376"
+      },
+      {
+        "interaction": "Sathvik Vempati shared this",
+        "link": "https://www.linkedin.com/posts/sathvik-vempati-471765288_github-svstudentaforecapital-activity-7431136028708720640-uc_a",
+        "title": "Hey all! Just wanted to quickly post my Return of Agents Hackathon submission. Huge thanks to the Afore Capital and AI Valley community for this opportunity! Video: https://lnkd.in/gDaGzRd4 Github: https://lnkd.in/g6A8fETf . AI Valley MiniMax ...more",
+        "img": "https://media.licdn.com/dms/image/sync/v2/D5627AQGzjf1VwvLw7g/articleshare-shrink_800/B56ZyCyqb5GwAI-/0/1771720845747?e=2147483647&v=beta&t=dnNBjfhoabLBNPPj3LCQr6DP9fy5lI-ZBBKnP7PvFqg",
+        "id": "7431136028708720640"
+      },
+      {
+        "interaction": "Sathvik Vempati replied to a comment 1mo",
+        "link": "https://www.linkedin.com/posts/sathvik-vempati-471765288_activity-7473057703490244608-qhv_",
+        "title": "Harris Ahmad Thanks! You too.",
+        "img": null,
+        "id": "7473057703490244608"
+      },
+      {
+        "interaction": "Sathvik Vempati liked this",
+        "link": "https://www.linkedin.com/posts/advaith-sridhar_today-were-excited-to-announce-our-9m-seed-activity-7492595000849915905-PTmZ",
+        "title": "Today we\u2019re excited to announce our $9M seed round, led by Lightspeed India , with participation from Y Combinator and Peak XV Partners , and angels like Paul Graham, Gokul Rajaram and Thariq Shihipar . Also thank you TechCrunch for the cover! Link to the article in comments.",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQGIPTLC8xdXCA/feedshare-shrink_800/B56Z_sLcd3JoAc-/0/1786373851956?e=2147483647&v=beta&t=nBzXZL2aHuLZ_qwIMfCIc7anu6KmzJiG7t8Afh61zRU",
+        "id": "7492595000849915905"
+      },
+      {
+        "interaction": "Sathvik Vempati liked this",
+        "link": "https://www.linkedin.com/posts/gareth-joseph-video-creator_a-reactor-in-the-utah-desert-powered-an-nvidia-activity-7492550355856162816-iTVh",
+        "title": "A reactor in the Utah desert powered an Nvidia chip. Weeks later, Sequoia wired $1 billion. \u269b\ufe0f Valar Atomics is three years old. The round values it at $6 billion, triple its April mark. A $200 million credit facility takes the total to $1.2 billion. What earned it: \u2192 Ward 250, their helium-cooled reactor, went critical on 18 June \u2192 First reactor to do that outside a national laboratory \u2192 Its electricity then ran an Nvidia Blackwell system in a live demo \u2192 Valar & Nvidia are planning a 30 MW nuclear-powered AI facility in Utah The thesis is not \"build a better reactor.\" It is \"stop building reactors like construction projects and start manufacturing them like products.\" One reactor is a project. A fleet is a production line. The hard part is ahead. Valar still needs an NRC licence before it sells a single watt. But AI data centres are pulling more power than grids can hand over. Energy is the real bottleneck in AI. Congrats Isaiah Taylor and the team. \ud83d\udc4f",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQHUmHdWpS9Xow/feedshare-shrink_800/B4EZ_nfkV7G8Ac-/0/1786295240552?e=2147483647&v=beta&t=GdD2PzhTPOd72We4fI04nyqdy8xSWRVKMKFJW_rc7j8",
+        "id": "7492550355856162816"
+      },
+      {
+        "interaction": "Sathvik Vempati liked this",
+        "link": "https://www.linkedin.com/posts/dmitryzakharov-ai_we-applied-to-4-accelerators-y-combinator-activity-7487885254859444224-1Zkz",
+        "title": "We applied to 4 accelerators: Y Combinator, 500 Global, Plug and Play, and Berkeley SkyDeck. Before that I went through 30+ programs worldwide. For roughly the same 12 weeks, you can pay 0% equity or 12%. Almost nobody compares them properly. Here are the 10 worth a founder's time. 1. Y Combinator (SF Bay Area) $125K for 7%, plus $375K on an uncapped MFN SAFE. No fees. 3 months. Outcome: Demo Day in front of the most active seed investors alive. The brand reprices your round. 2. a16z Speedrun (San Francisco) $500K for 10%, plus $500K in your next round within 18 months. $8M+ in credits, no board seat. 12 weeks, 60-70 teams, twice a year. Outcome: a16z as your first investor. 3. HF0 (San Francisco) Reported at $1M for 5%. 12 weeks, live-in. Outcome: ~10 teams per cohort, mostly repeat founders. Best terms on this list if you get in. 4. South Park Commons (SF, NYC, Bangalore) $400K for 7% now, plus $600K guaranteed at your next round. 8-week bootcamp, then open-ended residency. Outcome: built for the -1 to 0 stage, before you know what you're building. 5. Sequoia Arc (Americas and Europe) A 4-day intensive, ~10 companies. Terms are company-specific and not published. Outcome: Sequoia partners engaged pre-seed. Shortest program here by a wide margin. 6. Techstars (30+ cities worldwide) $220K: $20K for 5% common, plus $200K uncapped MFN SAFE. No fee. 3 months. APAC programs run $100K instead. Outcome: mentor-driven, but quality varies enormously by city. Pick the MD, not the logo. 7. 500 Global (Global) $150K for ~6% (negotiable). 4 months. Outcome: the most distribution-focused curriculum of the large programs. 2,500+ companies backed. 8. Entrepreneur First (London, San Francisco, Bangalore) Equity-free grant while you're still ideating, then up to $250K once you incorporate. Equity not published. Outcome: they back you before you have a co-founder or an idea. Nobody else does this at scale. 9. Berkeley SkyDeck (Berkeley, plus a Milan track) $200K for 7.5%. 6 months. 20-25 teams per batch. Outcome: strong Demo Day plus Berkeley's talent pipeline. Catch: one founder must be UC-affiliated or an international founder. 10. Plug and Play (Global) The program is equity-free. Investment is separate and optional. Outcome: Fortune 500 pilots, not investor intros. 80+ vertical programs a year. Also strong: Antler (30 cities, terms vary), EWOR (up to \u20ac500K, Europe), Alchemist (enterprise). Equity turns out to be the wrong thing to optimize. Plug and Play takes 0% and gets you corporate pilots. YC takes 7% and gets you a seed round at several times the price you'd raise alone. Both are right, for different companies. We went with YC, 500 Global, Plug and Play and Berkeley SkyDeck. Which ones would you have applied to in our position? Genuinely asking.",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQGeq4MEtnCOKg/feedshare-shrink_800/B4EZ.pP9VeKUAc-/0/1785250961249?e=2147483647&v=beta&t=UJgfAZgdSavDIZZtUpT2GV1lv3gdniS8lNjVxwxOZSM",
+        "id": "4"
+      },
+      {
+        "interaction": "Sathvik Vempati liked this",
+        "link": "https://www.linkedin.com/posts/eashan-vagish-b43405225_i-think-one-of-the-biggest-limitations-of-activity-7479691124542992384-6dbk",
+        "title": "I think one of the biggest limitations of today\u2019s AI is that its assumptions about how work gets done are already outdated. Ask it to plan a project and it\u2019ll often estimate six months because that\u2019s what software development looked like in the world it learned from. The problem isn\u2019t the timeline. It\u2019s that every recommendation that follows is conditioned on that assumption. What should you build? Which architecture should you choose? What should you prioritize? Those decisions all depend on how expensive the model believes software development is. Simply retraining on newer data probably won\u2019t fully solve this. Training data teaches models how work was done, not how work changes when AI is doing a significant fraction of it. I think future AI systems will need to continuously update their priors as AI changes the nature of work itself. Otherwise they\u2019ll keep optimizing for constraints that no longer exist.",
+        "img": null,
+        "id": "7479691124542992384"
+      },
+      {
+        "interaction": "Sathvik Vempati liked this",
+        "link": "https://www.linkedin.com/posts/gregory-makodzeba_1-of-a-decacorn-200k-cash-that-is-the-activity-7487221236348030976-AYE_",
+        "title": "1% of a decacorn $200k cash that is the offer if you're at YC Summer School and want to be a founding engineer come find us today at Work at a Startup Fair \ud83d\udccdbooth 26",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQH6YuBq6XQQhw/feedshare-image-high-res/B56Z.f0CDNHYAY-/0/1785092648111?e=2147483647&v=beta&t=SqRCyvXT7RpMch4G7fRtl10glNkUy20cNGMPMVQg59A",
+        "id": "7487221236348030976"
+      },
+      {
+        "interaction": "Sathvik Vempati liked this",
+        "link": "https://www.linkedin.com/posts/iamolpatil_leadership-amazon-workculture-activity-7421821197450969088-sMlX",
+        "title": "There is a short clip doing the rounds from Jeff Bezos that genuinely stayed with me. It comes from Tim Dodd\u2019s exclusive tour of Blue Origin\u2019s New Glenn factory in Cape Canaveral, Florida. What stood out was not the scale of the rocket. Bezos walks through the facility, closely observing how teams work on New Glenn. He points out details most leaders would skip. The GS1 booster\u2019s aft section with seven BE-4 engines. The midsection tanks. The forward section. The second-stage hydrogen tank. But the real moment is his interaction with employees. He listens. He asks questions. He looks genuinely curious, not performative. I strongly resonate with this. Because leadership is not about walking the floor to be seen. It is about walking the floor to understand. The best leaders I have learned from share one habit. They stay close to the work. Not to micromanage. But to respect the people doing it. When leaders understand the details, teams feel valued. When teams feel valued, quality improves. And when quality improves, speed and innovation follow naturally. This clip is a reminder. Vision matters. But presence matters more. #leadership #amazon #workculture #jeffbezos",
+        "img": "https://media.licdn.com/dms/image/v2/D4D05AQFQ4b2egXxtww/videocover-high/B4DZv.bBMLIwBY-/0/1769500056189?e=2147483647&v=beta&t=rOJXSEa1UuzI4Sjc0Wt1i3hx08NSlXF_B54YqoQBLDk",
+        "id": "7421821197450969088"
+      },
+      {
+        "interaction": "Sathvik Vempati liked this",
+        "link": "https://www.linkedin.com/posts/nishith-khandwala-16b27227_today-i-am-excited-to-share-that-bunkerhill-activity-7483551081117990912-NO78",
+        "title": "Today, I am excited to share that Bunkerhill Health has raised $55 million from Vinod Khosla at Khosla Ventures , Alfred Lin from Sequoia Capital , Y Combinator , and other amazing investors. Over the past year, we have partnered with more than a dozen health systems and grown revenue 20x. Today, I\u2019m also excited to formally share what we\u2019ve been building. Our mission is to make it radically easy for health systems to turn their ideas into reality through AI agents\u2014improving patient outcomes, bending the cost curve, and making healthcare operations dramatically more efficient. The University of Texas Medical Branch is running 20+ AI agents - live - across the enterprise on Bunkerhill. One of those agents - in its first month - flagged a patient at imminent risk of heart attack, leading to a life-saving open heart surgery. Another one, a nephrology triage agent, cut wait times for appointments by >50%. Yet another one, a lung nodule agent, addressed urgent cases 80% faster and doubled guideline-concordant follow-ups. That is what Peter McCaffrey, MD, calls Bunkerhill: \u201ca shared brain\u201d for the health system. That\u2019s the promise of AI finally being realized in healthcare. Making it possible requires two things: (1) a shared layer of intelligence for the entire health system, and (2) an operating model to enable rapid development of AI agents for the problems they understand best. Together, these dramatically reduce the cost and time required to turn an idea into a working solution. As that cost approaches zero, the limiting factor is no longer technology. It is imagination\u2014and the conviction to act. The health systems we work with have both. Our job is to make sure nothing else stands in their way.",
+        "img": "https://dms.licdn.com/playlist/vid/v2/D4D05AQGuzl9LDtT3GQ/thumbnail-shrink_720_1280/B4DZ9rSGAaIIAg-/0/1784211335663?e=2147483647&v=beta&t=2uA6GiCjH72rIORHR77BNQ-PpPLAgsaAWN9nPUUnNSc",
+        "id": "7483551081117990912"
+      },
+      {
+        "interaction": "Sathvik Vempati liked this",
+        "link": "https://www.linkedin.com/posts/rubendominguezibar_musks-companies-look-random-from-the-outside-activity-7482730866985840640-za0a",
+        "title": "Musk's companies look random from the outside. Line them up and they're 1 plan: MARS \ud83d\ude80 \u25ab\ufe0f SpaceX: get there \u25ab\ufe0f Starlink: stay connected there \u25ab\ufe0f Tesla: store and move energy there \u25ab\ufe0f Solar: generate power there \u25ab\ufe0f Boring: build radiation-safe habitats under the surface \u25ab\ufe0f Neuralink + xAI: help humans adapt and run the systems Each one reads like a separate bet. Together they're a supply chain for a second planet. Scattered empire, or the most patient roadmap in business?",
+        "img": "https://media.licdn.com/dms/image/v2/D4D05AQFSqAY7kVxHGQ/videocover-high/B4DZ80L6sqHQBM-/0/1783286968924?e=2147483647&v=beta&t=Bgm8eD6tDjSGdt8MyN-OqGhkgET16MY6h4YB83SUEWM",
+        "id": "7482730866985840640"
+      },
+      {
+        "interaction": "Sathvik Vempati liked this",
+        "link": "https://www.linkedin.com/posts/sawruv_jaihind-activity-7481218633319272449-_Id4",
+        "title": "I want to build an AI pilot for fighter jets. In India. I need the best engineers in India to help me. The ideal candidate has: - 7+ years experience - Strong hands on C++ - 3+ years experience in robotics/autonomy/ADAS/drones Not looking to hire fresh grads/folks not meeting the experience bar above. Location Delhi or Bengaluru. DM me with your resume in PDF format. I will connect with you on Whatsapp. #jaihind",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQGrMEFxawADOA/feedshare-shrink_800/B56Z9Kgs.cIUAc-/0/1783661514872?e=2147483647&v=beta&t=cU4MOa8V38JUH43Zqgy0ZUC3VQhnFwxgTVERBv8odz4",
+        "id": "7481218633319272449"
+      }
+    ],
+    "linkedin_num_id": "1172381269",
+    "banner_image": "https://static.licdn.com/aero-v1/sc/h/5q92mjc5c51bjlwaj3rs9aa82",
+    "honors_and_awards": [
+      {
+        "title": "Berkeley AI Hacks 2026",
+        "publication": "-",
+        "date": "2026-06-01T00:00:00.000Z",
+        "description": "311.ai"
+      },
+      {
+        "title": "AI ChampionSHIP Elevenlabs 2nd Place",
+        "publication": "LiquidMetalAI",
+        "date": "2026-02-01T00:00:00.000Z",
+        "description": "We wanted to create a travel companion that feels less like a database and more like a local friend. Traditional travel apps give you lists and ratings, but they lack the conversational warmth and immediate context of a real guide. Inspired by the desire to make exploring new cities more immersive and accessible, we built CharlieTourGuy\u2014an AI persona that can walk you through the streets, tell you the history of a building you're looking at, and chat with you in real-time."
+      },
+      {
+        "title": "Daytona Hacksprint January(3rd Place Overall)",
+        "publication": "Daytona",
+        "date": "2026-01-01T00:00:00.000Z",
+        "description": "Every developer knows the pain of Pager Fatigue, waking up to Sentry alerts for trivial bugs like type errors, null pointer exceptions, or dependency conflicts. We realized that 80% of these bugs follow a predictable pattern: Detect \u2192 Reproduce \u2192 Patch \u2192 Test \u2192 PR. Why are humans still doing this manually? We wanted to build an autonomous first responder, an AI agent that doesn't just chat, but acts. We were inspired by the vision of Self-Healing Software, where a repository can identify\u2026 Show more"
+      },
+      {
+        "title": "Daytona Hacksprint November(Galileo 1st Prize)",
+        "publication": "Daytona",
+        "date": "2025-11-01T00:00:00.000Z",
+        "description": "The project was inspired by a recurring pattern in modern development: UX problems are usually discovered late, diagnosed manually, and fixed reactively. Teams rely on guesswork, scattered feedback, and slow iteration cycles. I wanted to explore a world where UX improvement could be proactive and autonomous, where agents could experience an interface the way a human would, understand what feels confusing or inefficient, and then repair the issues directly in code. Instead of testing\u2026 Show more"
+      }
+    ],
+    "similar_profiles": [],
+    "default_avatar": true,
+    "memorialized_account": false,
+    "bio_links": [],
+    "first_name": "Sathvik",
+    "last_name": "Vempati",
+    "influencer": false,
+    "timestamp": "2026-08-12T19:15:04.264Z",
+    "input": {
+      "url": "https://www.linkedin.com/in/sathvik-vempati-471765288"
+    }
+  }
+}

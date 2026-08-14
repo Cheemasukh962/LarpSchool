@@ -1,0 +1,241 @@
+{
+  "source": "crustdata",
+  "recovered_from": "brightdata_failed_private",
+  "recovery_note": "search recovered hyphenated slug",
+  "luma_user_id": "usr-qmRSKuE6aSBaxWy",
+  "csv_name": "Zuny Molano",
+  "csv_linkedin": "https://www.linkedin.com/in/zunymolano",
+  "clean_linkedin": "https://www.linkedin.com/in/zuny-molano-92b084120",
+  "enriched_at": "2026-08-14T18:08:52.912930+00:00",
+  "person_data": {
+    "basic_profile": {
+      "current_title": "Founder and Brand Strategist",
+      "first_name": null,
+      "headline": "Brand & Partnerships Manager | Community, Experiential Marketing & Product Storytelling",
+      "languages": [
+        "English (Native or bilingual proficiency)",
+        "Spanish (Native or bilingual proficiency)"
+      ],
+      "last_name": null,
+      "location": {
+        "city": "San Francisco",
+        "continent": "North America",
+        "country": "United States",
+        "full_location": null,
+        "raw": "San Francisco, California, United States",
+        "state": "California"
+      },
+      "name": "Zuny Molano",
+      "normalized_title": {
+        "confident": true,
+        "department": "Marketing",
+        "matched_title": "Founder & Brand Strategist",
+        "similarity": 0.9988999962806702,
+        "sub_department": "Brand Management & Communications"
+      },
+      "professional_network_name": "Zuny Molano",
+      "profile_picture_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/person/2948a736d2e06ffcbe24f4ed9262bd33772866a6aedc8cf1760f568c03a24789.jpg",
+      "summary": "Brand and culture-driven marketer with 7+ years of experience leading brand partnerships, talent collaborations, and integrated campaigns for consumer and lifestyle brands.\n\nFounder of a multidisciplinary creative studio, partnering closely with founders and brands to shape strategy, storytelling, experiential marketing, and creator programs from concept through execution.\n\nMy background includes driving high-profile partnerships and activations for national and international brands, managing celebrity and talent collaborations, and translating cultural moments into thoughtful, high-impact campaigns across digital, experiential, and retail environments.\n\nI\u2019m known for strong creative judgment, relationship-building, and a hands-on approach that bridges strategy with real-world execution.\n\nOpen to collaborations and roles across brand partnerships, marketing, storytelling, and integrated campaigns."
+    },
+    "education": {
+      "schools": [
+        {
+          "activities_and_societies": "",
+          "degree": "Bachelor of Science (B.S.)",
+          "description": "",
+          "end_year": 2017,
+          "field_of_study": "Zoology",
+          "institute_logo_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/company/acb9f73e4a4f7d367b594f634f06b99b917f5ea91d2d39929749777a396b3efa.jpg",
+          "institute_logo_url": "https://media.licdn.com/dms/image/v2/C560BAQEEUHxMAR-Q6w/company-logo_400_400/company-logo_400_400/0/1671048448447/uflorida_logo?e=1773878400&v=beta&t=z6cIZw5OpjdQpUmIKCtgv8B0dMIp2PLaApmPBfYZZxo",
+          "location": {
+            "city": "Gainesville",
+            "continent": "North America",
+            "country": "United States",
+            "raw": "Gainesville, Florida, United States",
+            "state": "Florida"
+          },
+          "professional_network_id": "4282",
+          "school": "University of Florida",
+          "start_year": 2013
+        },
+        {
+          "activities_and_societies": "",
+          "degree": "High School Degree",
+          "description": "",
+          "end_year": 2013,
+          "field_of_study": "",
+          "institute_logo_permalink": null,
+          "institute_logo_url": "",
+          "location": {
+            "city": null,
+            "continent": null,
+            "country": null,
+            "raw": null,
+            "state": null
+          },
+          "professional_network_id": "",
+          "school": "Miami Palmetto Senior High School",
+          "start_year": 2010
+        }
+      ]
+    },
+    "experience": {
+      "employment_details": {
+        "current": [
+          {
+            "company_description": "",
+            "company_professional_network_profile_url": null,
+            "company_profile_picture_permalink": "",
+            "company_website_domain": null,
+            "crustdata_company_id": null,
+            "description": "Founded and lead a multidisciplinary creative studio partnering with founders and brand teams across consumer, wellness, fashion, and service-based brands\n\nLed creative direction and brand strategy, influencer and creator partnerships, experiential marketing, and cultural activations from concept through execution\n\nLead creator sourcing, outreach, negotiations, and campaign execution across TikTok and Instagram\n\nDevelop integrated marketing strategies spanning influencer, content, email, and campaign planning\n\nPlan and execute experiential brand moments, overseeing budgets, timelines, talent coordination, and on-site execution\n\nDeliver brand identities, messaging frameworks, and conversion-focused websites across Framer, Squarespace, and Shopify",
+            "employment_type": "",
+            "end_date": null,
+            "function_category": "Marketing",
+            "is_default": false,
+            "location": {
+              "raw": ""
+            },
+            "name": "For All My Fellows",
+            "position_id": 0,
+            "professional_network_id": "",
+            "seniority_level": "Owner / Partner",
+            "start_date": "2024-11-01T00:00:00+00:00",
+            "title": "Founder and Brand Strategist",
+            "years_at_company": "1 to 2 years",
+            "years_at_company_raw": 1.0
+          }
+        ],
+        "past": [
+          {
+            "company_description": "",
+            "company_professional_network_profile_url": "https://linkedin.com/company/64756963",
+            "company_profile_picture_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/company/ed36f4a1085299826dcfc5b8a55570e405cf31bafcc93630edf75df4c61f16c9.jpg",
+            "company_website_domain": "miamicocktail.com",
+            "crustdata_company_id": 3647747,
+            "description": "Led brand strategy and marketing execution across partnerships, experiential activations, product launches, and digital channels for an international CPG brand\n\nServed as primary liaison for brand partnerships and collaborations, working cross-functionally with PR, e-commerce, creative, and paid media teams\n\nManaged talent and celebrity-led collaborations and events, including high-profile brand activations\n\nPlanned and executed major cultural moments and festivals, overseeing logistics, staffing, on-site operations, and creative direction\n\nExecuted large-scale retail and experiential programs, including national retailer campaigns driving in-store visibility and engagement\n\nCollaborated with distributors and retail partners to support brand placement and expansion into major retail chains\n\nSupported product development, packaging design, and website initiatives to ensure cohesive brand storytelling from development through launch",
+            "employment_type": "",
+            "end_date": "2025-03-01T00:00:00+00:00",
+            "function_category": "Marketing",
+            "is_default": false,
+            "location": {
+              "raw": ""
+            },
+            "name": "Miami Cocktail Company",
+            "position_id": 0,
+            "professional_network_id": "64756963",
+            "seniority_level": "Entry Level Manager",
+            "start_date": "2019-06-01T00:00:00+00:00",
+            "title": "Marketing and Brand Manager",
+            "years_at_company": "6 to 10 years",
+            "years_at_company_raw": 5.0
+          },
+          {
+            "company_description": "",
+            "company_professional_network_profile_url": null,
+            "company_profile_picture_permalink": "",
+            "company_website_domain": null,
+            "crustdata_company_id": null,
+            "description": "Provided high-trust support to senior leadership, managing complex schedules, logistics, and operational priorities\n\nCoordinated workflows, vendor communication, purchasing, and inventory tracking\n\nBuilt systems and spreadsheets to support reporting, analysis, and decision-making",
+            "employment_type": "",
+            "end_date": "2024-11-01T00:00:00+00:00",
+            "function_category": "Operations",
+            "is_default": false,
+            "location": {
+              "raw": "Miami, Florida, United States"
+            },
+            "name": "Ardent and Co.",
+            "position_id": 0,
+            "professional_network_id": "",
+            "seniority_level": "Entry Level",
+            "start_date": "2023-01-01T00:00:00+00:00",
+            "title": "Operations & Project Coordinator",
+            "years_at_company": "1 to 2 years",
+            "years_at_company_raw": 1.0
+          },
+          {
+            "company_description": "We believe that whole food based nutrition containing collagen is essential for one\u2019s overall health, beauty, fitness and well-being. Our ancestors utilized sustainable whole animal nutrition, which provided an abundant amount of collagen. Over the past century modern food processing has removed this natural and healthy protein from our diets. Collagen is vital for our body and is the basic building block of skin, hair, nails, bones and joints. We promote optimal health, beauty, vibrant youth, and overall wellness with our products.We are dedicated to providing 100% natural, whole food proteins that support animal well-being and sustainable eco-friendly practices. Our happy cows openly graze on lush natural grass pastures providing the highest quality of protein.",
+            "company_professional_network_profile_url": "https://linkedin.com/company/9283185",
+            "company_profile_picture_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/company/6d1bb4994de01ce2dc3771ce75e4881448b6a10e9e84a1a03d1b723343bb3cc5.jpg",
+            "company_website_domain": "vitalproteins.com",
+            "crustdata_company_id": 635999,
+            "description": "Executed sampling events and retail activations to drive brand awareness and product trial\n\nEducated consumers on product benefits and brand storytelling in retail environments\n\nCollaborated with local retail partners to support placement and promotions",
+            "employment_type": "Part-time",
+            "end_date": "2019-10-01T00:00:00+00:00",
+            "function_category": "Marketing",
+            "is_default": false,
+            "location": {
+              "raw": "Los Angeles, California"
+            },
+            "name": "Vital Proteins",
+            "position_id": 0,
+            "professional_network_id": "9283185",
+            "seniority_level": "Entry Level",
+            "start_date": "2019-07-01T00:00:00+00:00",
+            "title": "Marketing Specialist",
+            "years_at_company": "Less than 1 year",
+            "years_at_company_raw": 0.0
+          },
+          {
+            "company_description": "",
+            "company_professional_network_profile_url": "https://linkedin.com/company/15633574",
+            "company_profile_picture_permalink": "",
+            "company_website_domain": null,
+            "crustdata_company_id": null,
+            "description": "Supported office operations, scheduling, and digital presence\n\nManaged social media content and website updates\n\nAssisted with invoicing, inventory, and CRM data management",
+            "employment_type": "",
+            "end_date": "2019-10-01T00:00:00+00:00",
+            "function_category": "",
+            "is_default": false,
+            "location": {
+              "raw": "Beverly Hills, CA"
+            },
+            "name": "ANITA PATEL, M.D., INC.",
+            "position_id": 0,
+            "professional_network_id": "15633574",
+            "seniority_level": "Entry Level",
+            "start_date": "2017-10-01T00:00:00+00:00",
+            "title": "Administrative Assistant",
+            "years_at_company": "1 to 2 years",
+            "years_at_company_raw": 2.0
+          }
+        ]
+      }
+    },
+    "professional_network": {
+      "connections": 0,
+      "current_title": "Founder and Brand Strategist",
+      "followers": 0,
+      "headline": "Brand & Partnerships Manager | Community, Experiential Marketing & Product Storytelling",
+      "location": {
+        "city": "San Francisco",
+        "continent": "North America",
+        "country": "United States",
+        "raw": "San Francisco, California, United States",
+        "state": "California"
+      },
+      "metadata": {
+        "last_scraped_source": null
+      },
+      "name": "Zuny Molano",
+      "profile_picture_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/person/2948a736d2e06ffcbe24f4ed9262bd33772866a6aedc8cf1760f568c03a24789.jpg",
+      "pronoun": "",
+      "summary": "Brand and culture-driven marketer with 7+ years of experience leading brand partnerships, talent collaborations, and integrated campaigns for consumer and lifestyle brands.\n\nFounder of a multidisciplinary creative studio, partnering closely with founders and brands to shape strategy, storytelling, experiential marketing, and creator programs from concept through execution.\n\nMy background includes driving high-profile partnerships and activations for national and international brands, managing celebrity and talent collaborations, and translating cultural moments into thoughtful, high-impact campaigns across digital, experiential, and retail environments.\n\nI\u2019m known for strong creative judgment, relationship-building, and a hands-on approach that bridges strategy with real-world execution.\n\nOpen to collaborations and roles across brand partnerships, marketing, storytelling, and integrated campaigns."
+    },
+    "skills": {
+      "professional_network_skills": []
+    },
+    "social_handles": {
+      "dev_platform_identifier": {
+        "profile_url": null
+      },
+      "professional_network_identifier": {
+        "profile_url": "https://www.linkedin.com/in/zuny-molano-92b084120"
+      },
+      "twitter_identifier": {
+        "slug": ""
+      }
+    },
+    "crustdata_person_id": 464929741
+  }
+}

@@ -1,0 +1,278 @@
+{
+  "source": "crustdata",
+  "recovered_from": "brightdata_failed_private",
+  "luma_user_id": "usr-1xuno7UUjQUrQGZ",
+  "csv_name": "Lyndon Yang",
+  "csv_linkedin": "https://www.linkedin.com/in/lyndon-yang-50532314a",
+  "clean_linkedin": "https://www.linkedin.com/in/lyndon-yang-50532314a",
+  "enriched_at": "2026-08-14T18:07:59.937250+00:00",
+  "person_data": {
+    "basic_profile": {
+      "current_title": "Incoming SDE Intern",
+      "first_name": null,
+      "headline": "SWE Intern @ Roblox | EECS @ UC Berkeley",
+      "languages": [],
+      "last_name": null,
+      "location": {
+        "city": "",
+        "continent": "North America",
+        "country": "United States",
+        "full_location": null,
+        "raw": "Los Angeles Metropolitan Area",
+        "state": "California"
+      },
+      "name": "Jingran Yang",
+      "normalized_title": {
+        "confident": true,
+        "department": "Engineering & Technology",
+        "matched_title": "SDE Intern",
+        "similarity": 0.9556000232696533,
+        "sub_department": "Software Engineering"
+      },
+      "professional_network_name": "Jingran Yang",
+      "profile_picture_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/person/d06cd9053cc6cb6b1f35e9cde926fa2f0fa68fc6a6bb82e3ecded9398ae49732.jpg",
+      "summary": ""
+    },
+    "education": {
+      "schools": [
+        {
+          "activities_and_societies": "Eta Kappa Nu / IEEE EECS Honor Society, Tau Beta Pi Candidate / Multidisciplinary Engineering Honor Society",
+          "degree": "Bachelor of Science - BS",
+          "description": "CS 61A: Computer Programs\nCS 61B: Data Structures\nCS 61C: Computer Architecture\nCS 70: Discrete Mathematics and Probability Theory\nCS 161: Computer Security\nCS 170: Efficient Algorithms\nCS 180: Computer Vision\nCS 189: Machine Learning\nCS 198-126: Deep Learning for Visual Data\nCS 194-196: Large Language Model Agents \nEECS 16A: Designing Information Devices and Systems I\nEECS 16B: Designing Information Devices and Systems II\nEECS 126: Probability and Random Processes\nEECS 127: Optimization Models\nEECS 183: Natural Language Processing",
+          "end_year": 2027,
+          "field_of_study": "Electrical Engineering and Computer Science",
+          "institute_logo_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/company/426acda7e092299f46c701d6bff10de72de3254f3dcec2e4abca75957537ee81.jpg",
+          "institute_logo_url": "https://media.licdn.com/dms/image/v2/D560BAQGwjF_5CYj_JQ/company-logo_400_400/company-logo_400_400/0/1732135669731/uc_berkeley_logo?e=1783555200&v=beta&t=pzAre3p4qKKwMBt-u6TQHuZrEzc5RQj8g5v8f2XhFvQ",
+          "location": {
+            "city": "Berkeley",
+            "continent": "North America",
+            "country": "United States",
+            "raw": "Berkeley, California, United States",
+            "state": "California"
+          },
+          "professional_network_id": "2517",
+          "school": "University of California, Berkeley",
+          "start_year": 2023
+        },
+        {
+          "activities_and_societies": "Servite Medical Device, Junior Statesmen of America, California Scholarship Federation, National Honor Society, Golf, Academic Decathlon, Pal, PSVA, Investment\n\nGPA: 4.71/4.00\nhttps://www.servitehs.org",
+          "degree": "",
+          "description": "",
+          "end_year": 2023,
+          "field_of_study": "",
+          "institute_logo_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/company/fe6f8ba57fb41806bb5a51f7da43ed994d43357bc527fd7596b72c638d518b88.jpg",
+          "institute_logo_url": "https://media.licdn.com/dms/image/v2/D4D0BAQF5b0tBXih4kg/company-logo_400_400/company-logo_400_400/0/1727115761248/servitehighschool_logo?e=1783555200&v=beta&t=CniM_1RCUo2jqmne7z1XIdrrS03PHAvxjSbjQtSKJCI",
+          "location": {
+            "city": "Anaheim",
+            "continent": "North America",
+            "country": "United States",
+            "raw": "Anaheim, California, United States",
+            "state": "California"
+          },
+          "professional_network_id": "1358377",
+          "school": "Servite High School",
+          "start_year": 2019
+        }
+      ]
+    },
+    "experience": {
+      "employment_details": {
+        "current": [
+          {
+            "company_description": "",
+            "company_professional_network_profile_url": "https://linkedin.com/company/1586",
+            "company_profile_picture_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/company/50c0868b767f02f1f5ed3285bbd5b6db93df0ef3c6f00194dba9ed7e337b8f33.jpg",
+            "company_website_domain": "aboutamazon.com",
+            "crustdata_company_id": 6034577,
+            "description": "Fall",
+            "employment_type": "Internship",
+            "end_date": null,
+            "function_category": "",
+            "is_default": true,
+            "location": {
+              "raw": "Seattle, WA"
+            },
+            "name": "Amazon",
+            "position_id": 2945408879,
+            "professional_network_id": "1586",
+            "seniority_level": "In Training",
+            "start_date": "2026-06-01T00:00:00+00:00",
+            "title": "Incoming SDE Intern",
+            "years_at_company": "Less than 1 year",
+            "years_at_company_raw": 0.0
+          },
+          {
+            "company_description": "Roblox's vision is to reimagine the way people come together. Our mission is to connect a billion people with optimism and civility.What is Roblox?Roblox is a platform where people come together virtually to share experiences. Every day, tens of millions of people from around the world come to Roblox to learn, work, play, connect, communicate, and socialize in immersive digital experiences all built by a global community of creators.Powered by CreatorsRoblox is powered by a global community of millions of developers and creators who produce their own immersive multiplayer experiences each month using Roblox Studio, our intuitive desktop design tool. Any experience imaginable can be created on Roblox.How Popular?Roblox is ranked as one of the top entertainment platforms for audiences under the age of 18 based on average monthly visits and time spent (Comscore). Our popularity is driven purely by the community with millions of people signing up through word of mouth every month.",
+            "company_professional_network_profile_url": "https://linkedin.com/company/147977",
+            "company_profile_picture_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/company/4ee91bb2ea643a8dbb7a72f7be526c0052eeb982565d358f795ef50e822a696f.jpg",
+            "company_website_domain": "roblox.com",
+            "crustdata_company_id": 662432,
+            "description": "AI Infrastructure",
+            "employment_type": "Internship",
+            "end_date": null,
+            "function_category": "Engineering",
+            "is_default": false,
+            "location": {
+              "raw": "San Mateo, CA"
+            },
+            "name": "Roblox",
+            "position_id": 2907357291,
+            "professional_network_id": "147977",
+            "seniority_level": "In Training",
+            "start_date": "2026-05-01T00:00:00+00:00",
+            "title": "Software Engineer Intern",
+            "years_at_company": "Less than 1 year",
+            "years_at_company_raw": 0.0
+          }
+        ],
+        "past": [
+          {
+            "company_description": "The Berkeley Artificial Intelligence Research (BAIR) Lab brings together UC Berkeley researchers across the areas of computer vision, machine learning, natural language processing, planning, and robotics. BAIR includes over two dozen faculty and more than a hundred graduate students pursuing research on fundamental advances in the above areas as well as cross-cutting themes including multi-modal deep learning, human-compatible AI, and connecting AI with other scientific disciplines and the humanities.",
+            "company_professional_network_profile_url": "https://linkedin.com/company/19024048",
+            "company_profile_picture_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/company/462333b4ce76a6ae2aad4c9c34a60878ddc0c1efcbd9d75ce2af0ecfcdb61900.jpg",
+            "company_website_domain": "berkeley.edu",
+            "crustdata_company_id": 1050727,
+            "description": "AI Agent for cybersecurity (Fall)\nAlgo + Computer Vision for Robot Table Tennis (Summer)",
+            "employment_type": "",
+            "end_date": "2025-12-01T00:00:00+00:00",
+            "function_category": "Research",
+            "is_default": false,
+            "location": {
+              "raw": "Berkeley, CA"
+            },
+            "name": "Berkeley Artificial Intelligence Research",
+            "position_id": 2719038587,
+            "professional_network_id": "19024048",
+            "seniority_level": "Entry Level",
+            "start_date": "2025-04-01T00:00:00+00:00",
+            "title": "Undergraduate Researcher",
+            "years_at_company": "Less than 1 year",
+            "years_at_company_raw": 0.0
+          },
+          {
+            "company_description": "The Department of Electrical Engineering and Computer Sciences (EECS) at the University of California, Berkeley, offers one of the strongest research and instructional programs in this field anywhere in the world. Our key strength is our array of cross-disciplinary, team-driven projects. The integration of Electrical Engineering (EE) and Computer Science (CS) forms the core, with strong interactions that extend into biological sciences, mechanical and civil engineering, physical sciences, chemistry, mathematics, and operations research. Our programs have been consistently ranked in the top three nationwide and worldwide by various organizations.",
+            "company_professional_network_profile_url": "https://linkedin.com/company/18422873",
+            "company_profile_picture_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/company/5b70b5c251ed0ee32693f233741da81acd5f712137591c5f7fc8100079d43e09.jpg",
+            "company_website_domain": "berkeley.edu",
+            "crustdata_company_id": 1401965,
+            "description": "CS 70 Tutor / UCS1, Fall 2024",
+            "employment_type": "Part-time",
+            "end_date": "2024-12-01T00:00:00+00:00",
+            "function_category": "",
+            "is_default": false,
+            "location": {
+              "raw": ""
+            },
+            "name": "UC Berkeley Electrical Engineering & Computer Sciences (EECS)",
+            "position_id": 2589367227,
+            "professional_network_id": "18422873",
+            "seniority_level": "Senior",
+            "start_date": "2024-08-01T00:00:00+00:00",
+            "title": "Course Staff",
+            "years_at_company": "Less than 1 year",
+            "years_at_company_raw": 0.0
+          },
+          {
+            "company_description": "UC Santa Barbara is consistently recognized for excellence across broad fields of study. Set alongside the California coast, its dynamic environment inspires scholarly ambition and creativity. This page highlights UCSB achievements and discoveries as well as opportunities to stay connected to the Gaucho community.",
+            "company_professional_network_profile_url": "https://linkedin.com/company/5372",
+            "company_profile_picture_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/company/26e11218cc334e8123f6cc1e9649dbfb9e67a6b0a226fd960f3a281a7003acda.jpg",
+            "company_website_domain": "ucsb.edu",
+            "crustdata_company_id": 6035621,
+            "description": "ML research for CAD risk detection",
+            "employment_type": "Internship",
+            "end_date": "2022-07-01T00:00:00+00:00",
+            "function_category": "Research",
+            "is_default": false,
+            "location": {
+              "raw": "California, United States"
+            },
+            "name": "UCSB",
+            "position_id": 1998555668,
+            "professional_network_id": "5372",
+            "seniority_level": "In Training",
+            "start_date": "2022-06-01T00:00:00+00:00",
+            "title": "Student Researcher",
+            "years_at_company": "Less than 1 year",
+            "years_at_company_raw": 0.0
+          },
+          {
+            "company_description": "UCLA offers a combination that\u2019s rare, especially among public research universities. The breadth, depth and inspired excellence among academic programs\u2014from the visual and performing arts to the humanities, social sciences, STEM disciplines and health sciences\u2014add up to endless opportunity. The location is unmatched: a campus that is unexpectedly picturesque and compact, set in a thriving and diverse global city.",
+            "company_professional_network_profile_url": "https://linkedin.com/company/2477",
+            "company_profile_picture_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/company/f7e58bce24a1c3c4c91a59606f86933e9f77bce8442bf48efcc269f4063af056.jpg",
+            "company_website_domain": "ucla.edu",
+            "crustdata_company_id": 721531,
+            "description": "ML research for strokes",
+            "employment_type": "Internship",
+            "end_date": "2021-08-01T00:00:00+00:00",
+            "function_category": "Research",
+            "is_default": false,
+            "location": {
+              "raw": ""
+            },
+            "name": "University of California, Los Angeles",
+            "position_id": 2382037535,
+            "professional_network_id": "2477",
+            "seniority_level": "In Training",
+            "start_date": "2021-07-01T00:00:00+00:00",
+            "title": "Student Researcher",
+            "years_at_company": "Less than 1 year",
+            "years_at_company_raw": 0.0
+          }
+        ]
+      }
+    },
+    "professional_network": {
+      "connections": 592,
+      "current_title": "Incoming SDE Intern",
+      "followers": 593,
+      "headline": "SWE Intern @ Roblox | EECS @ UC Berkeley",
+      "location": {
+        "city": "",
+        "continent": "North America",
+        "country": "United States",
+        "raw": "Los Angeles Metropolitan Area",
+        "state": "California"
+      },
+      "metadata": {
+        "last_scraped_source": null
+      },
+      "name": "Jingran Yang",
+      "profile_picture_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/person/d06cd9053cc6cb6b1f35e9cde926fa2f0fa68fc6a6bb82e3ecded9398ae49732.jpg",
+      "pronoun": "HE_HIM",
+      "summary": ""
+    },
+    "skills": {
+      "professional_network_skills": [
+        "Go (Programming Language)",
+        "PyTorch",
+        "Artificial Intelligence (AI)",
+        "SQL",
+        "Scholarly Research",
+        "Object Oriented Design",
+        "Data Structures",
+        "Algorithms",
+        "Programming",
+        "Java",
+        "Writing",
+        "Supervised Learning",
+        "Computer Science",
+        "Data Science",
+        "Machine Learning",
+        "Python (Programming Language)",
+        "Research"
+      ]
+    },
+    "social_handles": {
+      "dev_platform_identifier": {
+        "profile_url": null
+      },
+      "professional_network_identifier": {
+        "profile_url": "https://www.linkedin.com/in/jingran-lyndon-yang"
+      },
+      "twitter_identifier": {
+        "slug": ""
+      }
+    },
+    "crustdata_person_id": 215928739
+  }
+}

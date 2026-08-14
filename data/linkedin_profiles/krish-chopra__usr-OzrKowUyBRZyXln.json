@@ -1,0 +1,442 @@
+{
+  "luma_user_id": "usr-OzrKowUyBRZyXln",
+  "csv_name": "Krish",
+  "csv_linkedin": "https://www.linkedin.com/in/krish-chopra",
+  "enriched_at": "2026-08-12T19:11:36.261224+00:00",
+  "batch_id": "sd_msqgoa0o2hh62sia9d",
+  "profile": {
+    "id": "krish-chopra",
+    "name": "Krish Chopra",
+    "city": "Toronto, Ontario, Canada",
+    "country_code": "CA",
+    "position": null,
+    "about": "Hey there! I'm Krish \u2014 a third-year Computer Science student at the University of\u2026",
+    "current_company": {
+      "link": "https://www.linkedin.com/company/meta?trk=public_profile_topcard-current-company",
+      "name": "Meta",
+      "company_id": "meta",
+      "location": null
+    },
+    "experience": null,
+    "url": "https://nz.linkedin.com/in/Krish-chopra",
+    "people_also_viewed": [
+      {
+        "profile_link": "https://ca.linkedin.com/in/mikael-haji",
+        "name": "Mikael Haji",
+        "about": "NVIDIA",
+        "location": "2K followers Canada"
+      },
+      {
+        "profile_link": "https://ca.linkedin.com/in/jasonjzhang",
+        "name": "Jason Zhang",
+        "about": "BlueRock Therapeutics",
+        "location": "927 followers Canada"
+      },
+      {
+        "profile_link": "https://www.linkedin.com/in/deep-pandya1",
+        "name": "Deep Pandya",
+        "about": "Google",
+        "location": "1K followers San Francisco Bay Area"
+      },
+      {
+        "profile_link": "https://ca.linkedin.com/in/ramin-sami",
+        "name": "Ramin Sami",
+        "about": "Mercor",
+        "location": "608 followers Greater Ottawa Metropolitan Area"
+      },
+      {
+        "profile_link": "https://www.linkedin.com/in/diana-surducan",
+        "name": "Diana Surducan",
+        "about": "Yext",
+        "location": "542 followers New York, NY"
+      },
+      {
+        "profile_link": "https://ca.linkedin.com/in/rajpreet-gill",
+        "name": "Rajpreet Gill",
+        "about": "IBM",
+        "location": "3K followers Calgary, AB"
+      },
+      {
+        "profile_link": "https://ca.linkedin.com/in/emilyychenn",
+        "name": "Emily Chen",
+        "about": "Apple",
+        "location": "2K followers Greater Ottawa Metropolitan Area"
+      },
+      {
+        "profile_link": "https://www.linkedin.com/in/camilla-djamalov",
+        "name": "Camilla Djamalov",
+        "about": "Microsoft",
+        "location": "3K followers Seattle, WA"
+      },
+      {
+        "profile_link": "https://www.linkedin.com/in/michaelgaudioso2024",
+        "name": "Michael Gaudioso",
+        "about": "Poly6 Technologies",
+        "location": "1K followers Greater Cleveland"
+      },
+      {
+        "profile_link": "https://ca.linkedin.com/in/laks0407",
+        "name": "Lakshya Balchandani",
+        "about": "Switch Growth",
+        "location": "1K followers Canada"
+      }
+    ],
+    "educations_details": "University of Waterloo",
+    "education": [
+      {
+        "title": "University of Waterloo",
+        "url": "https://ca.linkedin.com/school/uwaterloo/",
+        "start_year": "2023",
+        "end_year": "2028",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      },
+      {
+        "start_year": "2019",
+        "end_year": "2023",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      },
+      {
+        "start_year": "2021",
+        "end_year": "2023",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      }
+    ],
+    "recommendations_count": 1,
+    "avatar": "https://media.licdn.com/dms/image/v2/D5603AQE68wvO7KyDsw/profile-displayphoto-scale_200_200/B56Z.1avMjHAAg-/0/1785455113559?e=2147483647&v=beta&t=AaRXsP_V4k43ratJ49H4BMCm48b9FNdlQQLPywNH4JQ",
+    "languages": [
+      {
+        "subtitle": "Native or bilingual proficiency",
+        "title": "English"
+      },
+      {
+        "subtitle": "Professional working proficiency",
+        "title": "French"
+      },
+      {
+        "subtitle": "Native or bilingual proficiency",
+        "title": "Hindi"
+      },
+      {
+        "subtitle": "Native or bilingual proficiency",
+        "title": "Punjabi"
+      }
+    ],
+    "recommendations": [
+      "Ishan Singh \u201cI had the pleasure of supervising and working alongside Krish during his time at RBC. Krish was an outstanding contributor to the team\u2014he was very passionate about furthering his knowledge of new technologies, and was able to thoroughly grasp React, Node.js, and Express.js in just two weeks. He demonstrated an exceptional work ethic, always challenging himself by developing creative features that made our product more impactful and accessible to users. It was incredible to see Krish self-learn and contribute to the various backend tasks in such a short period of time. For instance, he helped lead the successful implementation of data analytics into our project through tools such as Elasticsearch. Working in an agile environment, Krish also found ways to improve his work by continually obtaining feedback from our users and his fellow team members. All in all, I had a fantastic time working with Krish, and wholeheartedly recommend him as an invaluable asset to any team.\u201d"
+    ],
+    "volunteer_experience": [
+      {
+        "duration": "Jul 2025 \u00b7 - Present \u00b7 \n\n1 year 2 months",
+        "duration_short": "- Present",
+        "info": "Neo supports the next generation of founders and tech leaders with the industry's best startup accelerator, recruiting platform, and diverse mentorship community.",
+        "start_date": "Jul 2025",
+        "subtitle": "Neo",
+        "title": "Scholar Finalist"
+      },
+      {
+        "duration": "Jan 2025 \u00b7 - Present \u00b7 \n\n1 year 8 months",
+        "duration_short": "- Present",
+        "info": "\u2022 Leveraged machine learning models to predict CPI before official release using macro economic indicators such as oil/gas prices and housing costs, achieving 87% directional accuracy (Python, Scikit-learn, Pandas, Matplotlib) \u2022 Built ledger instances to forward-test trading algorithms (Flask, SQLAlchemy, Docker, Linux)",
+        "start_date": "Jan 2025",
+        "subtitle": "Wat Street",
+        "title": "ML & Backend Engineer"
+      },
+      {
+        "duration": "Jun 2025 \u00b7 - \nSep 2025 \u00b7 \n4 months",
+        "duration_short": "- \nSep 2025",
+        "info": "Learned about software and site reliability engineering!",
+        "start_date": "Jun 2025",
+        "subtitle": "Major League Hacking",
+        "title": "Production Engineering Fellow"
+      },
+      {
+        "duration": "Aug 2024 \u00b7 - \nDec 2024 \u00b7 \n5 months",
+        "duration_short": "- \nDec 2024",
+        "info": "\u2022 Planned biweekly academic and social events pertaining to data science, for 350+ active club members \u2022 Led a team of 6 event coordinators to organize logistics, sponsorships, and finances",
+        "start_date": "Aug 2024",
+        "subtitle": "Waterloo Data Science Club",
+        "title": "Vice President of Events"
+      },
+      {
+        "duration": "Aug 2022 \u00b7 - \nJun 2023 \u00b7 \n11 months",
+        "duration_short": "- \nJun 2023",
+        "info": "\u2022 Created workshops and other reinforcement/training materials to support 15,000+ competitors across Ontario in succeeding at all levels of DECA competition (Regionals, Provincials, and Internationals). \u2022 Assisted in the organization of in-person competitions and other DECA-affiliated events around the province (such as our annual Fall Symposium).",
+        "start_date": "Aug 2022",
+        "subtitle": "Ontario DECA",
+        "title": "Executive Member | Masters Council"
+      },
+      {
+        "duration": "Jul 2021 \u00b7 - \nSep 2022 \u00b7 \n1 year 3 months",
+        "duration_short": "- \nSep 2022",
+        "info": "\u2022 Represented and advocated for the diverse voices of the 128,000+ students across the York Region District School Board (YRDSB) \u2022 Coordinated a team of 9 executive members and 3 student trustees to host monthly events and online forums\u2014where students raised their opinions and concerns, networked with other student leaders, and partook in informative workshops/speaker engagements \u2022 Acted as a liaison of communication between the executive team and our 6 YRDSB staff advisors \u2022 Worked\u2026 Show more \u2022 Represented and advocated for the diverse voices of the 128,000+ students across the York Region District School Board (YRDSB) \u2022 Coordinated a team of 9 executive members and 3 student trustees to host monthly events and online forums\u2014where students raised their opinions and concerns, networked with other student leaders, and partook in informative workshops/speaker engagements \u2022 Acted as a liaison of communication between the executive team and our 6 YRDSB staff advisors \u2022 Worked alongside Mental Health Leads to help reform the YRDSB's Mental Health and Addictions Strategy, successfully encouraging our school board to invest an additional $1 million towards mental health funding \u2022 Secured $25,000 from the YRDSB and established a page on the board's website, to support our student outreach initiatives \u2022 Led pilot project to increase marginalized student representation by having administrators from 9 of the 33 secondary schools across the region, each select and invite 5-10 underrepresented students from their school community, to our General Assemblies and events \u2022 Served on the 2022 YRDSB Student Trustee selection committee\u2014helping conduct interviews with candidates to decide on the 4 finalists, and facilitated a large-scale debate attended by 400+ students Show less",
+        "start_date": "Jul 2021",
+        "subtitle": "York Region Presidents'\u200b Council",
+        "title": "Prime Minister"
+      },
+      {
+        "duration": "Jul 2020 \u00b7 - \nJul 2021 \u00b7 \n1 year 1 month",
+        "duration_short": "- \nJul 2021",
+        "info": "\u2022 Sourced, contacted and confirmed speakers for events (monthly General Assemblies and annual Student Outreach Meetings) \u2022 Spearheaded the sponsorship program and collected donations \u2022 Aided in the planning, organization, and execution of all events",
+        "start_date": "Jul 2020",
+        "subtitle": "York Region Presidents'\u200b Council",
+        "title": "Minister of External Affairs"
+      },
+      {
+        "duration": "Jul 2020 \u00b7 - \nJul 2021 \u00b7 \n1 year 1 month",
+        "duration_short": "- \nJul 2021",
+        "info": "\u2022 Prepared schedules for and recorded meeting minutes at Department Head meetings \u2022 Planned and organize team socials, such as dinners or outdoor activities \u2022 Managed surveys and forms sent to executives, and proposed/implemented initiatives for continued team engagement \u2022 Communicated with Head Executives to collect feedback on past events and future initiatives from different departments",
+        "start_date": "Jul 2020",
+        "subtitle": "Youth Nation Alliance",
+        "title": "Secretary"
+      },
+      {
+        "duration": "Sep 2019 \u00b7 - \nJun 2020 \u00b7 \n10 months",
+        "duration_short": "- \nJun 2020",
+        "info": "Aided in the timely execution of numerous community events, including fundraisers, walkathons, and festivals around the province of Ontario.",
+        "start_date": "Sep 2019",
+        "subtitle": "Youth Nation Alliance",
+        "title": "Event Volunteer"
+      },
+      {
+        "duration": "Dec 2019 \u00b7 - \nJun 2020 \u00b7 \n7 months",
+        "duration_short": "- \nJun 2020",
+        "info": "Expanded PLYC's outreach by promoting events through various channels, such as social media and word of mouth.",
+        "start_date": "Dec 2019",
+        "subtitle": "Prime Leaders Youth Collaborative",
+        "title": "Outreach Ambassador"
+      }
+    ],
+    "followers": 2618,
+    "connections": 500,
+    "current_company_company_id": "meta",
+    "current_company_name": "Meta",
+    "location": "Toronto",
+    "input_url": "https://www.linkedin.com/in/krish-chopra",
+    "linkedin_id": "krish-chopra",
+    "activity": [
+      {
+        "interaction": "Liked by Krish Chopra",
+        "link": "https://www.linkedin.com/posts/andrewshum8_i-am-excited-to-share-that-mirai-is-officially-activity-7491189071260639232-oEmG",
+        "title": "I am excited to share that Mirai is officially backed by a16z speedrun. When people buy a home, they are not just buying the property. They are\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQHSNQdOedTTDw/feedshare-shrink_800/B56Z_YMwxTGQAc-/0/1786038652567?e=2147483647&v=beta&t=V2tVNKjbN_cEyPvJ3ZsrCuPgTCZlZIFNU-Dt7EJje0o",
+        "id": "7491189071260639232"
+      },
+      {
+        "interaction": "Liked by Krish Chopra",
+        "link": "https://www.linkedin.com/posts/y-combinator_alexandr-wangs-advice-to-his-18-year-old-activity-7488340077471834112-PNmk",
+        "title": "Alexandr Wang's advice to his 18-year-old self: develop your own internal compass for how the future will unfold, and hold conviction in it against\u2026",
+        "img": "https://dms.licdn.com/playlist/vid/v2/D4E05AQE0meh9jiQwkg/thumbnail-shrink_720_1280/B4EZ.vrgH1H4Ag-/0/1785358873255?e=2147483647&v=beta&t=68mnJ63vEwGNXgqRhz83jZrpSgfiZ_gJL2Fth63xqhk",
+        "id": "18"
+      },
+      {
+        "interaction": "Liked by Krish Chopra",
+        "link": "https://www.linkedin.com/posts/siddharth-thakur-39617264_im-hyped-to-share-that-im-joining-the-team-activity-7486449266618474498-K1ml",
+        "title": "I'm hyped to share that I'm joining the team at Centralize! Shout out to William Wang \ud83d\udc68\u200d\ud83c\udf3e, Shaunak Tulshibagwale, Mika A. and the rest of the team\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQF2jsQHWdnwfw/feedshare-shrink_800/B56Z.U17yJIUAg-/0/1784908595814?e=2147483647&v=beta&t=F9Z22OoJeHdZkCZ1c-nW2ZlXhsIlfFWjtbnlcdJtlrg",
+        "id": "7486449266618474498"
+      }
+    ],
+    "linkedin_num_id": "748098409",
+    "banner_image": "https://media.licdn.com/dms/image/v2/D5616AQE4xD9i1yMP6g/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1687469867396?e=2147483647&v=beta&t=Rv6WmZmS8cAUNcL1phoydw_TTJKpFiof1rQVMbxMOyE",
+    "honors_and_awards": [
+      {
+        "title": "Most Technically Impressive MCP Automation, HackMIT 2025",
+        "publication": "The Interaction Company of California",
+        "date": "2025-09-01T00:00:00.000Z",
+        "description": "Won the Poke MCP Challenge (Most Technically Impressive MCP Automation) at HackMIT 2025\u2014one of North America's largest hackathons, with 1,000+ participants. Received iPhone 17 Pros, an all-expenses-paid trip to Palo Alto, and customized North Face jackets from The Interaction Company of California. My team built Mijiji\u2014an interface that enables you to sell anything on an online marketplace, with just a text message."
+      },
+      {
+        "title": "Best AI Smart Contract Auditor ($3,000 USD), ETHDenver 2025",
+        "publication": "ETHDenver & Hacken",
+        "date": "2025-03-01T00:00:00.000Z",
+        "description": "Won award for Best AI Smart Contract Auditor ($3,000 USD), and placed Top 10 Overall in the Identity, Privacy & Security category at ETHDenver 2025\u2014the world's largest Ethereum conference, with 900+ hackathon participants. Featured in news article published by the University of Waterloo. My team built BrokeChain\u2014a web application that scans your GitHub repositories for critical vulnerabilities in your Solidity code, through an agentic workflow."
+      },
+      {
+        "title": "First Place (Federato Category, $3,500), 2025 CxC Data Hackathon",
+        "publication": "Federato & UW Data Science Club",
+        "date": "2025-02-01T00:00:00.000Z",
+        "description": "Won first place in the Federato category and third place overall ($3,500) at the 2025 CxC Data Hackathon\u2014Canada's largest student-run data hackathon, with 300+ participants. My team built an AI-powered next action recommendation system to boost user engagement, streamline decision-making, and enhance personalized experiences with intelligent automation."
+      },
+      {
+        "title": "Best Forward Thinking Hack, McHacks 12",
+        "publication": "McHacks",
+        "date": "2025-01-01T00:00:00.000Z",
+        "description": "Won Best Forward Thinking Hack at McHacks 12 (470+ participants), and took home Rocketbook Fusion smart notebooks. We built Veyesor\u2014a novel way for you to drive your vehicle, unobstructed, leveraging the power of VR."
+      },
+      {
+        "title": "Third Place Overall, Hack Western 11",
+        "publication": "Hack Western",
+        "date": "2024-12-01T00:00:00.000Z",
+        "description": "Won Third Place Overall at Hack Western 11 (400+ participants), and took home Fujifilm Instax Mini Link 3 Smartphone Printers. We built Mark3d\u2014revolutionizing the secondhand online marketplace, with accessible 3D modelling."
+      },
+      {
+        "title": "Top 6 Finalist, 2024 Meta Llama Toronto Hackathon",
+        "publication": "Meta & Cerebral Valley",
+        "date": "2024-11-01T00:00:00.000Z",
+        "description": "Placed as a Top 6 Finalist at the 2024 Meta Llama Toronto Hackathon (150+ participants). We built Polisims\u2014a real-time data simulation system, to predict how government policies impact different industries and stakeholders."
+      },
+      {
+        "title": "First Place ($4,000), 2024 BDO Future Leaders Challenge",
+        "publication": "BDO Canada",
+        "date": "2024-04-01T00:00:00.000Z",
+        "description": "Placed first out of 219 teams at the 2024 BDO Future Leaders Business Challenge, winning a $4,000 total cash prize. Pitched a strategic technical solution for BDO to help with the setting and achievement of ESG goals in the agriculture industry."
+      },
+      {
+        "title": "Top Speaker Award, 2024 Xlerate Lazardis Annual Case Competition",
+        "publication": "Xlerate Lazardis",
+        "date": "2024-01-01T00:00:00.000Z",
+        "description": "Placed as the top speaker at the 2024 Xlerate Lazardis Annual Case Competition, hosted by the Lazardis School of Business & Economics at Wilfrid Laurier University\u2014for demonstrating an outstanding degree of public speaking skills among 127 competitors."
+      },
+      {
+        "title": "Second Place, FBLA International Competition",
+        "publication": "FBLA-PBL",
+        "date": "2023-06-01T00:00:00.000Z",
+        "description": "My partner and I placed as international finalists at the FBLA National Leadership Conference (NLC) in the category of Entrepreneurship, ranking 2nd out of 1,000+ teams globally\u2014based on our combined case study and exam scores."
+      },
+      {
+        "title": "Schulich Leader Scholarship (offered)",
+        "publication": "McGill University",
+        "date": "2023-05-01T00:00:00.000Z",
+        "description": "Offered Canada's largest undergraduate STEM scholarship, valued at $100,000 over four years, to pursue a bachelor's degree at McGill University studying computer science."
+      },
+      {
+        "title": "Ren\u00e9 Descartes National Scholarship (accepted)",
+        "publication": "University of Waterloo",
+        "date": "2023-04-01T00:00:00.000Z",
+        "description": "One of ten national scholarship recipients\u2014awarded with $25,000 to pursue an undergraduate degree studying computer science, under the Faculty of Mathematics at the University of Waterloo."
+      },
+      {
+        "title": "First Place, FBLA National Competition",
+        "publication": "FBLA Canada",
+        "date": "2023-03-01T00:00:00.000Z",
+        "description": "My partner and I placed as the National Champions of the FBLA Canadian National Leadership Conference (CNLC) in the category of Entrepreneurship, ranking 1st out of 80 teams\u2014based on our combined case study and exam scores. Qualified for the international competition (NLC) in Atlanta, Georgia, taking place in June 2023."
+      },
+      {
+        "title": "First Place, Y2 Pitch Competition",
+        "publication": "Y2 Entrepreneurship Labs",
+        "date": "2023-03-01T00:00:00.000Z",
+        "description": "Led a group of 7 as team captain to develop a comprehensive business pitch, from scratch\u2014over the span of only one week. Our venture (SchedulAI) was selected as first place overall, by a judge panel consisting of seasoned entrepreneurs and investors. Won a fully paid sit-down dinner with a business mentor, to obtain guidance and assist us in the further development of our startup."
+      },
+      {
+        "title": "Certificate of Distinction, 2023 Canadian Computing Competition (Senior Division)",
+        "publication": "University of Waterloo",
+        "date": "2023-02-01T00:00:00.000Z",
+        "description": "Honoured with a certificate of distinction for outstanding performance in the 2023 Canadian Computing Competition \u2014 Senior Division (Top 25% of 3,400+ contestants), hosted by the University of Waterloo."
+      },
+      {
+        "title": "Top 10 Finalist, DECA Ontario Provincials (MTDM)",
+        "publication": "Ontario DECA",
+        "date": "2023-02-01T00:00:00.000Z",
+        "description": "My partner and I placed as Top 10 overall finalists for a business case competition at the provincial level, out of 127 teams in the category of Marketing Management Team Decision Making (MTDM)\u2014based on our combined case study and exam scores."
+      },
+      {
+        "title": "Top 10 Finalist, DECA York Regionals (MTDM)",
+        "publication": "Ontario DECA",
+        "date": "2022-11-01T00:00:00.000Z",
+        "description": "My partner and I placed in the Top 10 overall teams for a business case competition at the regional level, in the category of Marketing Management Team Decision Making (MTDM)\u2014with our combined case study and exam scores. We qualified for the Provincial Competition in Toronto, Ontario."
+      },
+      {
+        "title": "Top 15%, EconBowl 2022 Competition",
+        "publication": "Youth Economics Initiative",
+        "date": "2022-11-01T00:00:00.000Z",
+        "description": "My team (of four) ranked in the Top 15% of the 112 teams internationally competing at the 2022 EconBowl Competition, hosted by the Youth Economics Initiative. This was based on our performance on an exam centred around economics\u2014covering a variety of topics including microeconomics, macroeconomics, and global trade."
+      },
+      {
+        "title": "Top 3%, 2022 Canadian Senior Mathematics Contest",
+        "publication": "University of Waterloo",
+        "date": "2022-11-01T00:00:00.000Z",
+        "description": "Honoured with a certificate of distinction for outstanding performance in the 2022 Canadian Senior Mathematics Contest, hosted by the University of Waterloo. My score ranked me in the Top 3% of 13,000+ contestants (including international participants)."
+      },
+      {
+        "title": "Most Creative Data Composition, Hack the North 2022 Hackathon",
+        "publication": "Hack the North",
+        "date": "2022-09-01T00:00:00.000Z",
+        "description": "Won first place at Hack the North 2022, in the category of \"Rebuilding the Internet: Most Creative Data Composition\". This was at Canada's largest hackathon, with 800+ participants. Our project team built Sonr rADar\u2014a decentralized advertising platform, leveraging the power of blockchain to give users full control of their personal data."
+      },
+      {
+        "title": "Certificate of Distinction, 2022 Hypatia Mathematics Contest",
+        "publication": "University of Waterloo",
+        "date": "2022-04-01T00:00:00.000Z",
+        "description": "Honoured with a certificate of distinction for outstanding performance in the 2022 Hypatia Mathematics Contest (Top 16% of 6,700+ contestants), hosted by the University of Waterloo."
+      },
+      {
+        "title": "Fourth Place, FBLA National Competition",
+        "publication": "FBLA Canada",
+        "date": "2022-02-01T00:00:00.000Z",
+        "description": "I was one of the top ten overall finalists at the FBLA Canadian National Leadership Conference (CNLC) in the category of Entrepreneurship, placing 4th out of 120 competitors\u2014based on my combined case study and exam score."
+      },
+      {
+        "title": "Top 10 Entrepreneurship Exam & Finalist (ENT), DECA Internationals",
+        "publication": "DECA Inc.",
+        "date": "2021-04-01T00:00:00.000Z",
+        "description": "Recognized for my exam score, which placed in the Top 10 of 200 competitors at the DECA International Career Development Conference (ICDC), in the category of Entrepreneurship (ENT). This conference brought together the top DECA competitors from around the world, as it is an invite-only event. The exam covered a multitude of business topics, from customer relations and emotional intelligence, to financial analysis, economics, and information management."
+      },
+      {
+        "title": "Best Local Vendor Search Engine, WinHacks 2021 Hackathon",
+        "publication": "-",
+        "date": "2021-03-01T00:00:00.000Z",
+        "description": "Awarded for developing a project, out of 14 total teams, that best tackled the challenge prompt of creating a local vendor search engine, based on creativity, design, and execution."
+      },
+      {
+        "title": "DECA International Qualifier, Entrepreneurship (ENT)",
+        "publication": "Ontario DECA",
+        "date": "2021-03-01T00:00:00.000Z",
+        "description": "I was one of the 14 overall finalists of a business case competition at the provincial level in the category of Entrepreneurship (ENT), based on my combined case study and exam score. Qualified for the international competition (ICDC), taking place virtually in April."
+      },
+      {
+        "title": "Certificate of Distinction, 2021 Cayley Mathematics Contest",
+        "publication": "University of Waterloo",
+        "date": "2021-02-01T00:00:00.000Z",
+        "description": "Honoured with a certificate of distinction for outstanding performance in the 2021 Cayley Mathematics Contest (Top 14% of 12,800+ contestants), hosted by the University of Waterloo."
+      },
+      {
+        "title": "Best Use of Google Cloud, TOHacks 2020 Hackathon",
+        "publication": "-",
+        "date": "2020-05-01T00:00:00.000Z",
+        "description": "My team (of two) was awarded for creating a project that utilized Google Cloud services in the most effective, innovative way\u2014out of 82 total teams. Our project was an accessible voice-powered application providing relevant information on COVID-19, including current statistics, tweets, news articles, and even advice on symptoms."
+      },
+      {
+        "title": "DECA Provincial Champion, Principles of Marketing",
+        "publication": "Ontario DECA",
+        "date": "2020-02-01T00:00:00.000Z",
+        "description": "I was one of the ten champions of a business case competition at the provincial level in the category of Principles of Marketing (PMK), out of 150 competitors, based on my combined case study and exam score. Qualified for the international competition (ICDC) in Nashville, TN - cancelled due to the COVID-19 pandemic."
+      },
+      {
+        "title": "Top 20 Junior Speakers, UofT Hart House Debate Tournament",
+        "publication": "-",
+        "date": "2020-02-01T00:00:00.000Z",
+        "description": "Placed in the Top 20 Junior Speakers at the annual Hart House Debate Tournament (held in British Parliamentary Style) hosted by the University of Toronto, for demonstrating a high degree of public speaking skills."
+      },
+      {
+        "title": "Second Place, Pitch it Green Toronto Entrepreneurship Competition",
+        "publication": "Pitch it Green",
+        "date": "2019-11-01T00:00:00.000Z",
+        "description": "Placed second at an entrepreneurship pitch competition, centred around the concept of green business ideas to combat numerous global ecological issues."
+      },
+      {
+        "title": "Top 10 Overall, DECA York Regionals (PMK)",
+        "publication": "Ontario DECA",
+        "date": "2019-11-01T00:00:00.000Z",
+        "description": "Placed Top 10 overall for a business case competition at the regional level, in the category of Principles of Marketing (PMK)\u2014with my combined case study and exam score. I qualified for the Provincial Competition in Toronto, Ontario."
+      }
+    ],
+    "similar_profiles": [],
+    "default_avatar": false,
+    "memorialized_account": false,
+    "bio_links": [],
+    "first_name": "Krish",
+    "last_name": "Chopra",
+    "influencer": false,
+    "timestamp": "2026-08-12T19:07:30.456Z",
+    "input": {
+      "url": "https://www.linkedin.com/in/krish-chopra"
+    }
+  },
+  "local_photo": "data\\linkedin_photos\\krish-chopra__usr-OzrKowUyBRZyXln.jpg"
+}

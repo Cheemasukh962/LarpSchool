@@ -1,0 +1,208 @@
+{
+  "luma_user_id": "usr-HKloMskovU5yU9G",
+  "csv_name": "Aryan Jain",
+  "csv_linkedin": "https://www.linkedin.com/in/aryanjain1",
+  "enriched_at": "2026-08-12T18:58:28.960768+00:00",
+  "batch_id": "sd_msqgad6c2eeefcaqas",
+  "profile": {
+    "id": "aryanjain1",
+    "name": "Aryan Jain",
+    "city": "San Francisco, California, United States",
+    "country_code": "US",
+    "position": null,
+    "about": "aryanj@andrew.cmu.edu",
+    "current_company": {
+      "link": "https://www.linkedin.com/company/notionhq?trk=public_profile_topcard-current-company",
+      "name": "Notion",
+      "company_id": "notionhq",
+      "location": null
+    },
+    "experience": null,
+    "url": "https://nl.linkedin.com/in/Aryanjain1",
+    "people_also_viewed": [
+      {
+        "profile_link": "https://www.linkedin.com/in/jameskies",
+        "name": "James W. Kies",
+        "about": "AI Dev Bridge",
+        "location": "14K followers Olathe, KS"
+      },
+      {
+        "profile_link": "https://www.linkedin.com/in/ryantrevarthen",
+        "name": "Ryan Trevarthen",
+        "about": "Nerdery",
+        "location": "19K followers Denver Metropolitan Area"
+      },
+      {
+        "profile_link": "https://www.linkedin.com/in/ardelia-killings",
+        "name": "Ardelia Killings, MBA",
+        "about": "Gilead Sciences",
+        "location": "21K followers San Francisco Bay Area"
+      },
+      {
+        "profile_link": "https://www.linkedin.com/in/computerconsultants",
+        "name": "Greg Masley",
+        "about": "Masley and Associates",
+        "location": "26K followers Santa Ana, CA"
+      },
+      {
+        "profile_link": "https://www.linkedin.com/in/chrismuratore",
+        "name": "Chris Muratore",
+        "about": "BICSI",
+        "location": "30K followers Tampa, FL"
+      },
+      {
+        "profile_link": "https://www.linkedin.com/in/fritzfeltner",
+        "name": "Fritz Feltner",
+        "about": "Atlas Sand",
+        "location": "18K followers Austin, TX"
+      },
+      {
+        "profile_link": "https://www.linkedin.com/in/xin-feng-6312683",
+        "name": "xin feng",
+        "about": "Solution Magics Inc",
+        "location": "30K followers Basking Ridge, NJ"
+      },
+      {
+        "profile_link": "https://www.linkedin.com/in/ecropolis",
+        "name": "Warren Gwartney",
+        "about": "Ecropolis Web Agency",
+        "location": "25K followers Arlington, TX"
+      },
+      {
+        "profile_link": "https://www.linkedin.com/in/lethain",
+        "name": "Will Larson",
+        "about": "Imprint",
+        "location": "39K followers San Francisco, CA"
+      }
+    ],
+    "educations_details": "Carnegie Mellon University",
+    "education": [
+      {
+        "title": "Carnegie Mellon University",
+        "url": "https://www.linkedin.com/school/carnegie-mellon-university/",
+        "start_year": "2023-08",
+        "end_year": "2026-12",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      },
+      {
+        "start_year": "2019",
+        "end_year": "2023",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      },
+      {
+        "start_year": "2022",
+        "end_year": "2023",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      }
+    ],
+    "recommendations_count": 1,
+    "avatar": "https://static.licdn.com/aero-v1/sc/h/9c8pery4andzj6ohjkjp54ma2",
+    "recommendations": [
+      "Jay Shah \u201cAryan, while still in high school, joined Machina as an intern. His persistence and demonstration of knowledge during the application process had impressed me. Yet, his depth of knowledge, ability to grasp requirements, design and implement a solution, apparently with only internship experience, was the most surprising! Also, his commitment to the project, work habits and level of effort were beyond his young age. We had a project for which we had plans to open new positions when Aryan applied. We figured getting him to start working on it would allow us to experiment and teach us several things, from which we could pick a path. However after 3 months of Aryan's work, we actually had a fully working base from which we were able to build a bigger solution. Aryan definitely has a bright future. I would not hesitate recommending or hiring him for any opportunity.\u201d"
+    ],
+    "volunteer_experience": [
+      {
+        "duration": "Aug 2019 \u00b7 - \nJun 2023 \u00b7 \n3 years 11 months",
+        "duration_short": "- \nJun 2023",
+        "info": "Led team to state championship finalists and world tournament (2x).",
+        "start_date": "Aug 2019",
+        "subtitle": "VEX Robotics",
+        "title": "Team Captain - 8771"
+      },
+      {
+        "duration": "Jan 2024 \u00b7 - \nMay 2024 \u00b7 \n5 months",
+        "duration_short": "- \nMay 2024",
+        "start_date": "Jan 2024",
+        "subtitle": "BlueTreeVC",
+        "title": "Technical Analyst"
+      },
+      {
+        "cause": "Science and Technology",
+        "duration": "Aug 2021 \u00b7 - \nJun 2023 \u00b7 \n1 year 11 months",
+        "duration_short": "- \nJun 2023",
+        "info": "Furthering CS education at CHS through teaching and projects.",
+        "start_date": "Aug 2021",
+        "subtitle": "ByteClub",
+        "title": "Founder"
+      },
+      {
+        "duration": "Oct 2023 \u00b7 - \nMay 2024 \u00b7 \n8 months",
+        "duration_short": "- \nMay 2024",
+        "info": "Competed in the Venture Capital Investment Competition (VCIC), with a focus on product and technical analysis. Part of the F23 Analysts cohort and interned at BlueTree Venture Capital.",
+        "start_date": "Oct 2023",
+        "subtitle": "Scottie Ventures",
+        "title": "Analyst"
+      }
+    ],
+    "followers": 1933,
+    "connections": 500,
+    "current_company_company_id": "notionhq",
+    "current_company_name": "Notion",
+    "location": "San Francisco",
+    "input_url": "https://www.linkedin.com/in/aryanjain1",
+    "linkedin_id": "aryanjain1",
+    "activity": null,
+    "linkedin_num_id": "783794194",
+    "banner_image": "https://media.licdn.com/dms/image/v2/D5616AQHM-UcisLtzMw/profile-displaybackgroundimage-shrink_200_800/B56Z6zbbcmHIAQ-/0/1781126773387?e=2147483647&v=beta&t=_lXS4lKxqLDBRdvNgE5hSBOruuhhr_X3FMU01-vDzhc",
+    "honors_and_awards": [
+      {
+        "title": "Edison International Scholar",
+        "publication": "Edison International",
+        "date": "2023-05-01T00:00:00.000Z",
+        "description": null
+      },
+      {
+        "title": "Lockheed Martin Scholar",
+        "publication": "Lockheed Martin",
+        "date": "2023-05-01T00:00:00.000Z",
+        "description": null
+      },
+      {
+        "title": "Vex Robotics World Tournament (2x)",
+        "publication": "VEX Robotics",
+        "date": "2023-05-01T00:00:00.000Z",
+        "description": null
+      },
+      {
+        "title": "VEX Robotics California State Championship Finalist - Los Angeles",
+        "publication": "VEX Robotics",
+        "date": "2023-03-01T00:00:00.000Z",
+        "description": null
+      },
+      {
+        "title": "VEX Robotics California State Championship Finalist - San Diego",
+        "publication": "VEX Robotics",
+        "date": "2022-03-01T00:00:00.000Z",
+        "description": null
+      },
+      {
+        "title": "STEAM Award",
+        "publication": "Calabasas High School",
+        "date": "2020-05-01T00:00:00.000Z",
+        "description": null
+      }
+    ],
+    "similar_profiles": [],
+    "default_avatar": true,
+    "memorialized_account": false,
+    "bio_links": [
+      {
+        "title": "Portfolio",
+        "link": "https://aryanj.dev/"
+      }
+    ],
+    "first_name": "Aryan",
+    "last_name": "Jain",
+    "influencer": false,
+    "timestamp": "2026-08-12T18:56:47.811Z",
+    "input": {
+      "url": "https://www.linkedin.com/in/aryanjain1"
+    }
+  }
+}

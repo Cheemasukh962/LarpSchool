@@ -1,0 +1,137 @@
+{
+  "luma_user_id": "usr-ZujfYjzUDJ72Db3",
+  "csv_name": "Ju Ho Kim",
+  "csv_linkedin": "https://www.linkedin.com/in/justinkim-sv",
+  "enriched_at": "2026-08-12T19:11:36.237576+00:00",
+  "batch_id": "sd_msqgoa0o2hh62sia9d",
+  "profile": {
+    "id": "justinkim-sv",
+    "name": "Ju Ho Kim",
+    "city": "San Francisco Bay Area",
+    "country_code": "US",
+    "position": null,
+    "about": null,
+    "current_company": {
+      "link": "https://www.linkedin.com/company/stealth-startup-community?trk=public_profile_topcard-current-company",
+      "name": "Stealth Startup",
+      "company_id": "stealth-startup-community",
+      "location": null
+    },
+    "experience": null,
+    "url": "https://tr.linkedin.com/in/justinkim-sv",
+    "educations_details": "UC Berkeley College of Computing, Data Science, and Society",
+    "education": [
+      {
+        "title": "UC Berkeley College of Computing, Data Science, and Society",
+        "url": "https://www.linkedin.com/school/computingdatasciencesociety/",
+        "start_year": "2025-08",
+        "end_year": "2028-05",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      },
+      {
+        "start_year": "2023-08",
+        "end_year": "2025-05",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      }
+    ],
+    "avatar": "https://media.licdn.com/dms/image/v2/D4E03AQG2CPfUs8mudg/profile-displayphoto-scale_200_200/B4EZihEEdpHoAY-/0/1755048856076?e=2147483647&v=beta&t=UvgPuBuSnk3f9QgLdEc_TeoFbxa0Riu80F_HdtZ7ZSI",
+    "followers": 629,
+    "connections": 500,
+    "current_company_company_id": "stealth-startup-community",
+    "current_company_name": "Stealth Startup",
+    "location": null,
+    "input_url": "https://www.linkedin.com/in/justinkim-sv",
+    "linkedin_id": "jurinho17-sv",
+    "activity": [
+      {
+        "interaction": "Ju Ho Kim commented on a post 1y",
+        "link": "https://www.linkedin.com/posts/adam-elitzur_im-excited-to-share-that-im-joining-salespatriot-activity-7336807761860526080-rGtk",
+        "title": "Congrats Adam! \ud83c\udf89",
+        "img": null,
+        "id": "7336807761860526080"
+      },
+      {
+        "interaction": "Ju Ho Kim liked this",
+        "link": "https://www.linkedin.com/posts/gwan-ho-kong_grateful-to-have-been-part-of-this-labo-h-activity-7478973006761992192-TnEM",
+        "title": "Grateful to have been part of this LABO-H \u00d7 IDEA Factory project \u2014 leading competitor analysis, brand positioning, and a 416-response Gen Z survey. Our findings shaped two strategic pillars: positioning LABO-H as a low-friction first step in scalp care, and a TikTok discovery \u2192 Amazon conversion content strategy. Great team, great semester! \ud83d\ude4c",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQFQx3h8iM5WBA/feedshare-shrink_800/B56Z8qXka2LAAc-/0/1783122249885?e=2147483647&v=beta&t=pseedhts-rkw4hYJHKeo-Xlf6Yhd6WgevPHCScDIWuc",
+        "id": "7478973006761992192"
+      },
+      {
+        "interaction": "Ju Ho Kim liked this",
+        "link": "https://www.linkedin.com/posts/bimotal-inc_today-is-hans-last-day-at-bimotal-he-was-activity-7466263982656360448-gRJb",
+        "title": "Today is Han \u2019s last day at Bimotal! He was an awesome member of the team and brought brains and laughs every day. His favorite professional memory during his internship is Gear 2 design and tolerance stack ups. His favorite non-professional memory was doing a great Elevated group ride at Sea Otter \ud83e\udda6 He will be starting up his next internship at The Aerospace Corporation ! We will miss you Han and hope to see you back soon!",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQHDoIaS9r6foA/feedshare-shrink_800/B56Z51_httHYAc-/0/1780096048341?e=2147483647&v=beta&t=dLASMBpTniAY15GQD76dZXpRfECR9JpTjXNRrUvnz3c",
+        "id": "7466263982656360448"
+      },
+      {
+        "interaction": "Ju Ho Kim liked this",
+        "link": "https://www.linkedin.com/posts/99p-labs_aura-an-ai-co-scientist-for-innovation-research-activity-7459656076377071616-ECDD",
+        "title": "The next capstone we'd like to highlight just wrapped, this one with the University of California, Berkeley LIKELION US student club. Hanjo Kim , Ju Ho Kim , Irene Lee, Chaeeun (Clara) Kim , Jennifer Choi , and Brandon Yea built AURA, an AI co-scientist for innovation research. Thank you to all of you for an exceptional run of work. The question behind the project. Most AI research tools are good at telling you what's known, but innovation teams need something different. They need ranked, defensible bets they can fund, kill, or pivot on. A literature review tells you what is known. A bet tells you what to do next. AURA adapts Google DeepMind's co-scientist architecture into a six-agent loop with Generation, Reflection, Tournament, Evolution, Meta-Review, and a Final Report synthesizer. It borrows Andrej Karpathy's autoresearch ratchet so each round preserves the strongest hypotheses and uses them as the floor for the next. And it adds the piece that's fully theirs, a DomainProfile layer that injects domain-specific scoring weights, seed questions, and source priorities into every agent at runtime. The same six-agent loop produces materially different bets for an eVTOL question versus a robotaxi question. What makes this work stand out isn't just the architecture. It's the engineering honesty. The team shipped a working system and then wrote openly about what's still half-built. A ratchet metric that inherits stale Elo ratings across rounds. An analytics table defined but not yet wired up. Sliders that took two coupled non-linearities to actually respond to user input. That kind of clarity is rare and exactly what makes research reproducible. This matters for research. Most AI research assistants stop at synthesis. The interesting frontier is systems that force a choice, surface the evidence on both sides, and let humans commit a budget with eyes open. AURA is a real step in that direction. Incredible work from this team. The full write-up is in their blog: https://lnkd.in/eadDRjU6",
+        "img": "https://media.licdn.com/dms/image/sync/v2/D4E27AQFwjuVz0evJDg/articleshare-shrink_1280_800/B4EZ4SIeCKHYAg-/0/1778420671127?e=2147483647&v=beta&t=hxqSW_w0s72FTiUBKnmO5SY9DjNPDtBkhvYdVa8qAss",
+        "id": "7459656076377071616"
+      },
+      {
+        "interaction": "Ju Ho Kim liked this",
+        "link": "https://www.linkedin.com/posts/max-ms-chang_we-flew-to-rio-with-a-box-of-t-shirts-that-activity-7457500528202309633-kBrf",
+        "title": "We flew to Rio with a box of t-shirts that said \"reproducing what Zhang et al. already published.\" They were the hit of ICLR . But before that \u2014 a hot take from ICLR 2026: I could not find a single coffee venue at the conference serving iced americano. Or iced anything. Just straight hot cappuccinos. In Rio. In April. I hated it. Anyway. Liner went to ICLR as an official workshop sponsor with SPOT (Scaling Post-training for LLMs), alongside great researchers from Berkeley, Meta, Microsoft, Google DeepMind, and more. Special thanks to: Sewon Min , Rishabh Tiwari , Gagan Jain , Lovish Madaan , Devvrit K. , and Prateek Jain The real take: if your paper wasn't about agents this year, it might as well not have been there. The trend everyone's writing about (Encord, Bohrium recaps) is the field's pivot from raw capability to reliable deployment \u2014 agentic AI has officially overtaken plain LLM work as the dominant research category, and evaluation/benchmarking has been promoted from a side track to a first-class research contribution. Liner will be at [ICML] Int'l Conference on Machine Learning next, Seoul in July is probably also very hot \u2014 but this time it's our homeground, with proper iced americanos. fyi - I gave out a total of 40 Liner Scholar free trials at the conference, and 36 of them activated on the spot. DM me if you would try out for even once!",
+        "img": "https://media.licdn.com/dms/image/v2/D4D22AQFr0WFWaX-K-g/feedshare-image-high-res/B4DZ35dL78KgAU-/0/1778006671409?e=2147483647&v=beta&t=dFWBSNKQPx5zhglhOqP0j2hEzTP46dWk7umiRWQn4aw",
+        "id": "7457500528202309633"
+      },
+      {
+        "interaction": "Ju Ho Kim liked this",
+        "link": "https://www.linkedin.com/posts/max-ms-chang_want-to-know-how-to-become-a-great-lecturer-activity-7457868474254716928-jwat",
+        "title": "Want to know how to become a great lecturer? Think about the classes you hated. Mine at Berkeley: assignments that never got started in lecture. Professors blasting information while half the room played 2048. Dense slides, heavy load, zero breathing room. So I did the opposite, and the professor loved it. Last week \u2014 UC Irvine School of Pharmacy & Pharmaceutical Sciences , PHMD 204B with Professor Gha-hyun Jeffrey Kim, PharmD, PhD . 60 PharmD students. The STRENGTH trial (Omega-3 CA vs. Corn Oil, JAMA 2020). Most of them hadn't read a paper this dense before. That's where Liner Scholar's mission actually lives \u2014 not handing you the answer, but lightening the hard parts, deepening understanding, and catching the details a person would easily miss. We used it to surface what the abstract hides: - The early stoppage for futility - The buried atrial fibrillation safety signal - The inclusion criteria most students skim past The students weren't asking whether to use AI. They were asking how to use it without losing the judgment that makes them good clinicians. AI lectures are quietly making their way into high academia. Not as a shortcut. As a safety net. If you teach and want a research AI tool seminar for your students \u2014 DM me. Happy to come to you. Zot! Zot! Zot!",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQGd-IBV-2LuZA/feedshare-shrink_800/B4EZ3.r0_RIMAk-/0/1778094395896?e=2147483647&v=beta&t=mCO3SzpY9rBxkt6FFlPvZH74W8MJ7O2ir_lNBTccs3c",
+        "id": "7457868474254716928"
+      },
+      {
+        "interaction": "Ju Ho Kim reacted on this",
+        "link": "https://www.linkedin.com/posts/prajwala-maharjan_lifeatvisa-activity-7457547639216316416-4_FD",
+        "title": "I\u2019m excited to share that I\u2019ll be joining Visa Inc. this June as an Associate Data Scientist! I\u2019m incredibly grateful to the mentors, peers, and communities who have supported me throughout my journey. From classroom projects and research opportunities to startup, consulting, and internship experiences, each step has helped lead me to this opportunity. Looking forward to this next chapter! #lifeatvisa",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQFu8sQM2lbtww/feedshare-shrink_800/B56Z36ID4SGgAc-/0/1778017910806?e=2147483647&v=beta&t=fdmSAmGVBT77ZBaAblt7UIBbw9qKS6kKwOoiNJlDa-I",
+        "id": "7457547639216316416"
+      },
+      {
+        "interaction": "Ju Ho Kim liked this",
+        "link": "https://www.linkedin.com/posts/prajwala-maharjan_berkeleyskydeck-scet-activity-7456945578032136192-UFLB",
+        "title": "This past week, I wrapped up SkyDeck and SCET\u2019s Intro to Startups course, which I had the privilege of co-leading with Celine Chen. It also marks the close of a year and a half with the SkyDeck team\u2014starting as a startup intern, growing into a data science intern, and ultimately helping coordinate a course that led two teams to the Pad-13 incubator program. This experience pushed me to explore, build, and grow\u2014and, most meaningfully, to give back by teaching at the end of it all, an experience I hope students can continue having. Grateful to Celine Chen and Ekin G\u00fcnaysu for your continued support throughout the course; to Caroline Winnett , David Summers, and Sanjay Velappan for serving as judges; to Luke Kowalski for sponsoring the course; and to all of our guest lecturers who generously shared their time and experiences. Excited to see what the next cohort builds! #BerkeleySkyDeck #SCET",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQF0LCUt3KO2zw/feedshare-shrink_800/B56Z3xkeKZH4Ac-/0/1777874363840?e=2147483647&v=beta&t=1ucYHtQVHN6-Ks10XlDCp1flRhG2YlHAiz3cZc9Zg7A",
+        "id": "7456945578032136192"
+      },
+      {
+        "interaction": "Ju Ho Kim reacted on this",
+        "link": "https://www.linkedin.com/posts/michael-shi-b66236290_tindership-lifeattinder-activity-7450287113515765760-RUHw",
+        "title": "After years of getting no matches on Tinder, I'm happy to announce that Tinder finally swiped right on me. I'll be joining Tinder this summer in Palo Alto as a iOS Engineer Intern. I'm incredibly grateful to my family and friends for supporting me throughout this journey. Huge thanks to Melanie Rof\u00e9 and the team at Tinder for such a seamless and professional interview process from start to finish. #Tindership #LifeAtTinder",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQHQEsJl8MsB6g/feedshare-shrink_800/B56Z2S8pkrGsAc-/0/1776286865948?e=2147483647&v=beta&t=-YoIc10PtTpdAIqcBu3dq2WgVSBUubzfZdu88mwNiGk",
+        "id": "7450287113515765760"
+      },
+      {
+        "interaction": "Ju Ho Kim reacted on this",
+        "link": "https://www.linkedin.com/posts/max-ms-chang_iclr2026-ai-llm-activity-7447812638266400768-ahXZ",
+        "title": "I thought it would take much more time to make this announcement. \ud83c\udde7\ud83c\uddf7 Liner and I are heading to Brazil for ICLR 2026 (April 23\u201327) as a partner of the SPOT Workshop (Scaling Post-Trainings for LLMs), alongside organizers from Berkeley Artificial Intelligence Research , Meta , Google DeepMind , Microsoft and more. When I started Liner as an undergraduate campus lead at Berkeley, I had one quiet wish \u2014 to one day come back and do something meaningful with this community. From campus lead to conference partner. I still can't believe it. \uc624\ub798 \uac78\ub9b4 \uc904\ub9cc \uc54c\uc558\ub358 \uc77c\ub4e4\uc774, \uc870\uae08\uc529 \ud604\uc2e4\uc774 \ub418\uc5b4\uac00\uace0 \uc788\uc5b4 \uae30\uc069\ub2c8\ub2e4. At ICLR, we'll be showcasing the latest updates on Liner Scholar. If you want to explore all the accepted papers ahead of the conference, check out Liner's ICLR Paper Quick Review \u2193 https://lnkd.in/gvpczKgm If you're a CS/AI/ML researcher attending, I'd love to connect and explore research collaboration. Come find me at the Riocentro Convention & Event Center . (We're also handing out memed t-shirts, just saying.) --- \ud83d\udd01 REPOST EVENT Repost our X post https://lnkd.in/g_8yTQSb and you'll be entered to win a sponsored flight and/or hotel accommodation for ICML 2026 \u2014 happening in Seoul later this year. (We are attending ICML as well) --- Special thanks to all the SPOT workshop organizers: Rishabh Tiwari , Sewon Min , Devvrit K. , Nan Rosemary Ke , Gagan Jain , Lovish Madaan , Prateek Jain , and Kurt Keutzer . #ICLR2026 #AI #LLM #Liner #Berkeley #MachineLearning #ICML2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQFjj5AqGBB2Bw/feedshare-shrink_800/B56Z1vyIMhJgAc-/0/1775696905486?e=2147483647&v=beta&t=DAGyWVrpvm7nvXdlN-AjfQ1wWSYBjtkArqVXgymXtLk",
+        "id": "7447812638266400768"
+      }
+    ],
+    "linkedin_num_id": "1348715825",
+    "banner_image": "https://media.licdn.com/dms/image/v2/D4E16AQHlRnQmra2eUg/profile-displaybackgroundimage-shrink_200_800/B4EZasxHAMGYAg-/0/1746655280874?e=2147483647&v=beta&t=DibDijkJXLsD-oIeAhuu8cWJoZULGy94QiUhXGhwOyk",
+    "honors_and_awards": null,
+    "similar_profiles": [],
+    "default_avatar": false,
+    "memorialized_account": false,
+    "bio_links": [],
+    "first_name": "Ju",
+    "last_name": "Ho Kim",
+    "influencer": false,
+    "timestamp": "2026-08-12T19:11:33.111Z",
+    "input": {
+      "url": "https://www.linkedin.com/in/justinkim-sv"
+    }
+  },
+  "local_photo": "data\\linkedin_photos\\justinkim-sv__usr-ZujfYjzUDJ72Db3.jpg"
+}

@@ -1,0 +1,222 @@
+{
+  "luma_user_id": "usr-dE2Sy5yg2MpAhG9",
+  "csv_name": "Pranav Bedi",
+  "csv_linkedin": "https://www.linkedin.com/in/pranavbedi",
+  "enriched_at": "2026-08-12T19:14:53.866447+00:00",
+  "batch_id": "sd_msqgwa7g10oeo6g7qx",
+  "profile": {
+    "id": "pranavbedi",
+    "name": "Pranav Bedi",
+    "city": "San Francisco, California, United States",
+    "country_code": "US",
+    "position": null,
+    "about": "Co-Founder at Moda.",
+    "current_company": {
+      "link": "https://www.linkedin.com/company/modaflows?trk=public_profile_topcard-current-company",
+      "name": "Moda",
+      "company_id": "modaflows",
+      "location": null
+    },
+    "experience": null,
+    "url": "https://eg.linkedin.com/in/Pranavbedi",
+    "educations_details": "Y Combinator",
+    "education": null,
+    "avatar": "https://media.licdn.com/dms/image/v2/D5603AQHqLdVUeb4dug/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1669601205639?e=2147483647&v=beta&t=cHSYoM1Wq1I-Kr4V4R7bliVUZDld8pf3I9eKA3KllUs",
+    "certifications": [
+      {
+        "meta": "Issued Sep 2020 See credential",
+        "subtitle": "IBM",
+        "title": "Data Science and Machine Learning",
+        "credential_url": "https://coursera.org/verify/professional-cert/PVT6QRNEY9A4?trk=public_profile_see-credential",
+        "credential_id": null
+      },
+      {
+        "subtitle": "Yale University",
+        "title": "Financial Markets",
+        "credential_url": null,
+        "credential_id": null
+      }
+    ],
+    "volunteer_experience": [
+      {
+        "cause": "Education",
+        "duration": "Dec 2023 \u00b7 - Present \u00b7 \n\n2 years 9 months",
+        "duration_short": "- Present",
+        "start_date": "Dec 2023",
+        "subtitle": "TEDxUW",
+        "title": "Chair"
+      },
+      {
+        "cause": "Education",
+        "duration": "Mar 2023 \u00b7 - \nDec 2023 \u00b7 \n10 months",
+        "duration_short": "- \nDec 2023",
+        "start_date": "Mar 2023",
+        "subtitle": "TEDxUW",
+        "title": "Production Manager"
+      },
+      {
+        "info": "$10M AUM Fund",
+        "subtitle": "University of Waterloo Mathematics Endowment Fund (MEF)",
+        "title": "Executive Director"
+      }
+    ],
+    "followers": 3581,
+    "connections": 500,
+    "current_company_company_id": "modaflows",
+    "current_company_name": "Moda",
+    "organizations": [
+      {
+        "title": "TEDxUW",
+        "membership_type": "Chair",
+        "start_date": "Jan 2022",
+        "end_date": "Present",
+        "membership_number": null
+      }
+    ],
+    "location": "San Francisco",
+    "input_url": "https://www.linkedin.com/in/pranavbedi",
+    "linkedin_id": "pranavbedi",
+    "activity": [
+      {
+        "interaction": null,
+        "link": "https://www.linkedin.com/posts/maceo-cardinale-kwik_a-booth-at-stripe-sessions-costs-thousands-activity-7462308233203007488-WWzq",
+        "title": "A booth at Stripe Sessions costs thousands. I spent ~$400 and booked 10 demos in a single morning. Here's what happened. Day one was my first tech conference ever. Talked to ~10 people. Booked 1 meeting. Underwhelming. Couldn't get a booth, too late, and the cost didn't pencil out anyway. But day one taught me something. Every attendee walked the same long sidewalk between the conference hall and the lunch gardens. Hundreds of people. One bottleneck. So I planned the simplest intercept possible. Two coolers. A stack of Red Bulls and Celsius from Costco. Postcards I designed and printed same-day. Stationed on the sidewalk before lunch. 10 demos booked. Even signed a contract that same day. A booth puts you inside the hall competing for foot traffic. A cooler on the right sidewalk puts you in front of every attendee, twice a day. Sometimes the cheaper move is the better one. If you are at all curious about the ROI of your GTM motions Datost (YC P26) can help you out :) P.S. Thank you Pranav Bedi for the Costco run and Jason Wang for even introducing me to the world of tech conferences in the first place ...more ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQHe9U8kSgcBQw/feedshare-shrink_800/B56Z49xytJHUAk-/0/1779152924225?e=2147483647&v=beta&t=VXp7KYiChExuZkH54Zoj587HnbIYngX7-JuCEqx0NQQ",
+        "id": "7462308233203007488"
+      },
+      {
+        "interaction": "Pranav Bedi shared this",
+        "link": "https://www.linkedin.com/posts/pranavbedi_your-ai-product-doesnt-have-an-observability-activity-7460778113980088321-PYEq",
+        "title": "Your AI product doesn't have an observability problem. It has an understanding problem. Octolane built the world's first self driving AI CRM. With over 43,000 user sessions, they already had logging and traces for every single one. But here's what none of that showed them: users were creating deals successfully and still feeling uncertain about what data was being captured. The workflow worked, but the experience didn't. No log in the world captures that. Moda surfaced this pattern across multiple user sessions. Octolane shipped a deal confirmation flow. Five product fixes total, all from real conversation patterns. Their CEO uses Moda every day. Every Friday, the team reviews the week's patterns together. It's not just a dashboard they check. It's how they decide what to build next. We built Moda because logs tell you what happened. They don't tell you what your users are struggling with. The full customer story can be found in the comments. ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQF3MUn4RT2rjw/feedshare-shrink_800/B56Z4oCKQgHsAc-/0/1778788115731?e=2147483647&v=beta&t=ktjGMmYLgcV3-I7psz5K7R3wI_Bdr5e6yjbSQJEmuoo",
+        "id": "7460778113980088321"
+      },
+      {
+        "interaction": null,
+        "link": "https://www.linkedin.com/posts/connor-loi_this-past-tuesday-y-combinator-invited-us-activity-7460724368310960128-orge",
+        "title": "This past Tuesday, Y Combinator invited us to demo Replicas in front of 100+ founders and engineers - including the creator(s) of Claude Code and the Head of Product at Anthropic. Alongside the insights from Boris Cherny , we spoke about the role that background agents would play in the coming years. TL;DR - The feedback loop is everything. Boris emphasized this, and it's something we built Replicas around from day one. Claude Code is 10x more effective when it can loop on failing CI checks and verify its own work by running your codebase locally. - Agents are becoming human. We regularly benchmark coding agent harnesses on how well they collaborate. Can they pull context from a Slack channel, understand a Notion doc, and open a PR? Agents today are talking with multiple people on a team simultaneously, and the best ones act like it. - Background agents solve the context problem for large teams. We have customers with employees that shipped PRs without downloading anything to their laptops. An environment was configured once, and your whole team shares it instantly, with all the tools and context already there. In a future thats already here, background agents give every employee all the skills and context they need. Super thankful to Christopher Golda for the invite, and the ability to show our work to Boris Cherny , Thariq Shihipar , and Catherine Wu . (And, of course, Saai Arora ) ...more ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQEEHlc-R3V_mg/feedshare-image-high-res/B56Z4lePT7J4AU-/0/1778745144801?e=2147483647&v=beta&t=9QDdxnh0MlVt99NYl2Q25za9IswjTz7jlzmb-VIREnY",
+        "id": "7460724368310960128"
+      },
+      {
+        "interaction": "Pranav Bedi shared this",
+        "link": "https://www.linkedin.com/posts/pranavbedi_its-crazy-seeing-us-there-when-we-were-in-activity-7460058938605039616-GKkG",
+        "title": "it\u2019s crazy seeing us there when we were in the audience just 4 months ago",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQGbLa_dHI8vbQ/feedshare-shrink_800/B56Z4bnke.JkAg-/0/1778579818902?e=2147483647&v=beta&t=-XBfQBtlZrAHm7EtDp5EP8RHMUuXcdqjRFt9vnwZTTE",
+        "id": "7460058938605039616"
+      },
+      {
+        "interaction": "Pranav Bedi shared this",
+        "link": "https://www.linkedin.com/posts/pranavbedi_your-product-has-users-that-love-it-and-ones-activity-7459695424061411329-As_S",
+        "title": "Your product has users that love it and ones that are about to leave. The data to find them is buried within their conversations. We just shipped Cohorts at Moda to solve this exact issue. Figure out what users are doing. moda.dev/blog/cohorts ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D5605AQE3KGsaj3FEfw/videocover-high/B56Z4YpaZtGoBM-/0/1778529972439?e=2147483647&v=beta&t=tRRAOgVf7uBL16OynZI7_4xNKqDEvK1r996lxOxgVQA",
+        "id": "7459695424061411329"
+      },
+      {
+        "interaction": null,
+        "link": "https://www.linkedin.com/posts/tamhid-islam-b2396b1a3_some-of-the-best-things-you-can-do-for-your-activity-7459655730757853184-tVP6",
+        "title": "Some of the best things you can do for your company have little to do with your company. (i.e. \u2013 YC Darty!) Saturday, we threw a darty on the landing rooftop in SF. 300+ people \u2013 founders, friends, and family. Fifty pounds of steak disappeared between 2 and 6pm. Bubble guns alongside the machines, drifting around the rooftop. SF delivered the 70 degrees the forecast had promised, a personal favor. Thrown by Lopus (YC W25) and friends: S/O to Pranav and Adam at Moda (YC W26) Haz Hubble at Pally (YC S25) Rachel and Matthew at LegalOS (YC W26) Paulina and Matt from Tanagram Thanks Alex DeNuzzo for pulling the whole thing together. I feel \u2013 the instinct that pulls people into startups is the same one that pulls us onto a rooftop on a Saturday. Agency, the thrill of building, the chance to do it on your own terms. Joy and ambition aren't sequential. Gathering people you respect, on a rooftop, in the sun, is a manifestation of what you're building toward. You build things because you want a life like this. Not the other way around. Brandon , appreciate your undisputed win on the \"contest\" ;) Aaron S. Bisla , thanks for catching it on camera. ...more ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQHH_B1mAGKEZw/feedshare-shrink_800/B4EZ4YFWcgH0Ac-/0/1778520518082?e=2147483647&v=beta&t=2qsmFuIkUJVElODVFTNCcUoZBSXpLgQ0anNS-wKvh1U",
+        "id": "7459655730757853184"
+      },
+      {
+        "interaction": "Pranav Bedi shared this",
+        "link": "https://www.linkedin.com/posts/pranavbedi_how-we-clustered-150-million-conversation-activity-7457200897467604993-J6EH",
+        "title": "read",
+        "img": "https://media.licdn.com/dms/image/sync/v2/D5627AQGHNT-p3PcMBg/articleshare-shrink_800/B56Z31LX1IKIAM-/0/1777934893752?e=2147483647&v=beta&t=GEXC3SNLIP8TDTiNhYM3wNQ5W8kTXuiEkfiYjTgUF6U",
+        "id": "150"
+      },
+      {
+        "interaction": "Pranav Bedi shared this",
+        "link": "https://www.linkedin.com/posts/pranavbedi_we-didnt-buy-a-booth-at-stripe-sessions-activity-7457134958541950976-dGT5",
+        "title": "We didn't buy a booth at Stripe Sessions. We bought energy drinks instead. On day one I was walking from the morning sessions to lunch and realized I was exhausted. Wanted an energy drink but there were none anywhere inside. Just coffee. I also noticed something else. Talking to one person at a time inside the conference is painfully slow. By the time you build enough rapport to actually have a real conversation about what you do, 20 minutes are gone. So Maceo Cardinale Kwik and I came up with a plan. We posted up on the walkway between the main conference and the lunch spot. Set up a cooler with Red Bull, Celsius, and cold brew. All free. People are tired from morning sessions, walking to lunch, and suddenly someone is handing them exactly what they want. That opens a conversation instantly. Talked to over 200 people. Gave away 600+ drinks. Had more meaningful conversations in two days than most booths get all week. Cheaper than a booth. Better conversations. Way more fun. ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQGfp6iKC6YHMQ/feedshare-image-high-res/B56Z30Qtc4J0AU-/0/1777919515932?e=2147483647&v=beta&t=j733BX7pB-jTqwUUuWyWl2TcoOPRk8jkq0YvAxOm_QM",
+        "id": "7457134958541950976"
+      },
+      {
+        "interaction": "Pranav Bedi shared this",
+        "link": "https://www.linkedin.com/posts/pranavbedi_demis-hassabis-told-a-room-full-of-yc-founders-activity-7454560569124229121-4u7H",
+        "title": "Demis Hassabis told a room full of YC founders that agents are missing something fundamental. His take: agents today are fire and forget. They can't adapt to the specific context you put them in. They don't learn from the environment they're operating in. And until that's solved, they won't reach their full potential. He hasn't seen the breakout result yet either. No AAA game built by agents topping the charts. No kid shipping a 10 million copy hit. Something is still missing in the process or the tools. That part stuck with me because it's exactly what we see at Moda (YC W26) every day. Agents don't fail because the models are bad. They fail because they don't understand the context they're dropped into. The models are getting smarter. But smart without context is just expensive guessing. We're still in the experimentation phase. Demis said it, and I believe it. The real agent era hasn't started yet. ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQFEPWKHHXbpAA/feedshare-shrink_800/B56Z3PrVfDGUAc-/0/1777305737723?e=2147483647&v=beta&t=63nhJlG8uRbMewJKsTyhndTUCFVvVTBVxICc6tlhvp0",
+        "id": "7454560569124229121"
+      },
+      {
+        "interaction": "Pranav Bedi commented on a post 19h",
+        "link": "https://www.linkedin.com/posts/y-combinator_belvedir-yc-s26-is-making-private-ai-models-activity-7493063706931548160-SBOZ",
+        "title": "my goat",
+        "img": null,
+        "id": "7493063706931548160"
+      },
+      {
+        "interaction": "Pranav Bedi commented on a post 21h",
+        "link": "https://www.linkedin.com/posts/owengretzinger_im-hiring-engineers-at-boardy-boardy-is-activity-7492924662537117696-1j6a",
+        "title": "this is so cool",
+        "img": null,
+        "id": "7492924662537117696"
+      },
+      {
+        "interaction": "Pranav Bedi liked this",
+        "link": "https://www.linkedin.com/posts/connor-loi_knowunity-set-a-goal-for-its-cloud-agents-activity-7493277204223647744-CP-t",
+        "title": "Knowunity set a goal for its cloud agents: write 25% of the team's pull requests. They hit 50%. Now the entire engineering team uses Replicas . Their cloud agents work across repos in GitHub and GitLab, can run the full local stack, and open the corresponding pull requests and merge requests. In July, Knowunity launched 2.8k cloud agents and logged more than 400,000 agent minutes. At a high level, they doubled engineering velocity and spend two thirds less time fixing bugs. Lucas Hild put it better than I could: \"Replicas completely changed the way we run engineering at Knowunity by allowing engineers to trigger cloud agents from anywhere, like Slack, Linear, or with automations.\" Full case study in the comments.",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQFm5lyxdj9gjg/feedshare-image-high-res/B4EZ_yXPJvJEAU-/0/1786477605726?e=2147483647&v=beta&t=JH5BceTpMxeH4iFWdy6-CldHX3F8qhjfFB_9uhfBBqY",
+        "id": "7493277204223647744"
+      },
+      {
+        "interaction": "Pranav Bedi liked this",
+        "link": "https://www.linkedin.com/posts/y-combinator_belvedir-yc-s26-is-making-private-ai-models-activity-7493063706931548160-SBOZ",
+        "title": "Belvedir (YC S26) is making private AI models cheap and easy, so the world can have trillions of them. In the past year, many big companies started paying millions of dollars to make internal private AI models. These models are cheaper, better, faster, and protect the company\u2019s data from frontier labs. But right now these models are still only realistic for big companies since they\u2019re really difficult and expensive to build. Belvedir makes private AI models autonomously with less than 5 minutes of setup, so that private AI can finally be accessible to startups and eventually everyone. Belvedir is live with 10 companies who are seeing up to 10x lower inference costs and 2x improved performance on benchmarks. Congrats on the launch, Zachary Yu ! \ud83d\ude80 https://lnkd.in/gaG7KT7K",
+        "img": "https://media.licdn.com/dms/image/v2/D5605AQFs45m76VzjpA/videocover-high/B56Z_xXcqSHcBM-/0/1786460898214?e=2147483647&v=beta&t=6TSfa03s7xArw8UxqAYtvuIzr1v9Xxb1g9XZEMgmeaE",
+        "id": "7493063706931548160"
+      },
+      {
+        "interaction": "Pranav Bedi liked this",
+        "link": "https://www.linkedin.com/posts/owengretzinger_im-hiring-engineers-at-boardy-boardy-is-activity-7492924662537117696-1j6a",
+        "title": "I'm hiring engineers at Boardy! Boardy is an AI Superconnector that exchanges millions of messages with people around the world and has made 160k+ introductions. Those introductions have led to investments, hires, and companies being started. We've built all of this with a small engineering team: \u27a4 Context and memory at scale \u27a4 Matching systems that decide whether two people should meet \u27a4 AI agent that calls, messages, schedules, joins meetings, and follows up \u27a4 Integrations across LinkedIn, WhatsApp, phone calls, Google Meet, and so much more You'll own these problems. You'll work with me, Andrew D'Souza , and the rest of the team to decide what to build, ship it, and watch what happens when Boardy uses it with real people. Oh, and your first interview will be with Boardy himself. Comment \"INTERVIEW\" if you want to build this with us in person in Toronto. I'll send you a link to message Boardy. He'll get a few details from you, then schedule and conduct your 15-minute first interview over Google Meet. (It will blow your mind)",
+        "img": "https://dms.licdn.com/playlist/vid/v2/D4D05AQE1_V-mI7Wbag/thumbnail-shrink_720_1280/B4DZ_w3PPsJ0Ag-/0/1786452441426?e=2147483647&v=beta&t=lpVlqZteoFEh7SMNoS20pRXbBbT8XOJ5h6slGi-TpuE",
+        "id": "7492924662537117696"
+      },
+      {
+        "interaction": "Pranav Bedi reacted on this",
+        "link": "https://www.linkedin.com/posts/robin-guo_vcs-are-overthinking-themselves-with-theories-activity-7492978949812146176-0MhN",
+        "title": "VCs are overthinking themselves with theories of defensibility The winning AI application companies from the last cycle have been able to aggregate two things very quickly: 1. Capital 2. Talent And then use those resources to make smart bets in an evolving model landscape. Capital and talent are inefficient markets. And they\u2019re not as fungible as people think. People take time to invest and move jobs, and then they\u2019re constrained by semi-irrational relationships Inefficiencies drives scarcity which drives outlier outcomes",
+        "img": null,
+        "id": "7492978949812146176"
+      },
+      {
+        "interaction": "Pranav Bedi reacted on this",
+        "link": "https://www.linkedin.com/posts/connor-loi_were-hiring-founding-engineers-for-replicas-activity-7492979648671236097-mX2u",
+        "title": "We're hiring Founding Engineers for Replicas in SF. The future of engineering is building alongside tens, if not thousands, of cloud agents. What you'll do: > Show the world how fast you can ship. This space changes every week and the product needs to keep up. > Every single day: Post on X and talk to customers > Work with us in-person in SF. You're a good fit if: > You've ever been top 1% in a sport or video game. > Your GitHub is very green (check mine and Saai Arora's). > You have early startup or deep technical experience. Saai Arora and I don't ask for things we haven't done ourselves. Our GitHubs were bright green months before starting Replicas. If you know anyone like this, send them my way!",
+        "img": null,
+        "id": "7492979648671236097"
+      }
+    ],
+    "linkedin_num_id": "821840485",
+    "banner_image": "https://media.licdn.com/dms/image/v2/D5616AQE8bRilkW4N4g/profile-displaybackgroundimage-shrink_200_800/B56ZvJZIf2HcAU-/0/1768610368763?e=2147483647&v=beta&t=rWGVBjoEvAuVWbuF5Pj_iYC6stW--xWGRTu-V-nB3G8",
+    "honors_and_awards": [
+      {
+        "title": "Executive Director Scholarship",
+        "publication": "University of Waterloo",
+        "date": "2024-09-01T00:00:00.000Z",
+        "description": "Scholarship awarded for outstanding performance managing a $10 M AUM Fund"
+      },
+      {
+        "title": "President's Gold Scholarship",
+        "publication": "Wilfrid Laurier University",
+        "date": "2022-09-01T00:00:00.000Z",
+        "description": "Entrance Scholarship for a 95%+ Average"
+      }
+    ],
+    "similar_profiles": [],
+    "default_avatar": false,
+    "memorialized_account": false,
+    "bio_links": [],
+    "first_name": "Pranav",
+    "last_name": "Bedi",
+    "influencer": false,
+    "timestamp": "2026-08-12T19:13:47.699Z",
+    "input": {
+      "url": "https://www.linkedin.com/in/pranavbedi"
+    }
+  },
+  "local_photo": "data\\linkedin_photos\\pranavbedi__usr-dE2Sy5yg2MpAhG9.jpg"
+}

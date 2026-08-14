@@ -1,0 +1,256 @@
+{
+  "luma_user_id": "usr-Emt6HQm8l6eq44e",
+  "csv_name": "Bill",
+  "csv_linkedin": "https://www.linkedin.com/in/bill-leoutsakos-861a49294",
+  "enriched_at": "2026-08-12T18:59:59.559447+00:00",
+  "batch_id": "sd_msqgcuh41lygyhc91a",
+  "profile": {
+    "id": "bill-leoutsakos-861a49294",
+    "name": "Bill Leoutsakos",
+    "city": "San Francisco Bay Area",
+    "country_code": "US",
+    "position": null,
+    "about": "Finished my 3nd year at Cambridge, specializing in Computer Engineering. I have\u2026",
+    "current_company": {
+      "link": "https://www.linkedin.com/company/simdotai?trk=public_profile_topcard-current-company",
+      "name": "Sim",
+      "company_id": "simdotai",
+      "location": null
+    },
+    "experience": null,
+    "url": "https://za.linkedin.com/in/Bill-leoutsakos-861a49294",
+    "educations_details": "University of Cambridge",
+    "education": [
+      {
+        "title": "University of Cambridge",
+        "url": "https://uk.linkedin.com/school/university-of-cambridge/",
+        "start_year": "2023-10",
+        "end_year": "2027-06",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      },
+      {
+        "start_year": "2021-09",
+        "end_year": "2023-06",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      },
+      {
+        "start_year": "2020-09",
+        "end_year": "2023-06",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      }
+    ],
+    "avatar": "https://media.licdn.com/dms/image/v2/D5603AQHtk7EAcYp2Cg/profile-displayphoto-scale_200_200/B56Z.Qhrg8G0Ac-/0/1784836179812?e=2147483647&v=beta&t=qErbEgmB7tEUovDr2phpIPQrOm8l0bwiJ7R4K8LUJrk",
+    "certifications": [
+      {
+        "meta": "Issued Oct 2024 Credential ID 14202405 See credential",
+        "subtitle": "King's E-Lab",
+        "title": "King's Entrepreneurship Lab Residential Programme",
+        "credential_url": "https://certificates.kingselab.org/cbd4b224-d21c-40a9-8f16-905e4f58bfa2?trk=public_profile_see-credential",
+        "credential_id": "14202405"
+      }
+    ],
+    "volunteer_experience": [
+      {
+        "cause": "Human Rights",
+        "duration": "Jun 2024 \u00b7 - \nSep 2024 \u00b7 \n4 months",
+        "duration_short": "- \nSep 2024",
+        "info": "In this volunteering role, we are collaborating with KITE DSM volunteers located in Dar Es Salaam (Tanzania) in order to improve the standards of living of the people there. We are educating them on: Healthcare, Education, Innovation & Entrepreneurship and Water Sanitation & Hygiene.",
+        "start_date": "Jun 2024",
+        "subtitle": "Cambridge Development Initiative",
+        "title": "Volunteer"
+      }
+    ],
+    "followers": 2195,
+    "connections": 500,
+    "current_company_company_id": "simdotai",
+    "current_company_name": "Sim",
+    "projects": [
+      {
+        "title": "Deception-Probing Dataset Generator & Activation-Space Analysis Pipeline",
+        "start_date": "Nov 2025",
+        "description": "I built a full production-ready pipeline for studying how large language models internally represent honest vs deceptive intent. The project combines dataset generation, structured safety evals, and activation-space probing.What I builtA data-generation system using Anthropic\u2019s Claude 4.5 Sonnet that creates paired honest vs deceptive instructions with consistent factual answers.Two complete 500-example JSONL datasets (Direct and Subtle deception), each covering 25 themes.A reproducible analysis pipeline (RunPod-friendly) that loads a base LLM (e.g. Llama 3.1 8B Instruct), extracts hidden states, and trains non-linear probes to detect deceptive intent from activations.What the pipeline doesGenerates high-quality deception-probing pairs using structured JSON outputs.Runs forward passes through the model with hidden-state extraction (residual stream).Builds pooled or per-token representation features for each example.Trains and evaluates non-linear MLP probes to classify honest vs deceptive intent.Compares intent signals across \u201cDirect\u201d (explicit harm) vs \u201cSubtle\u201d (manipulative, indirect) deception.Performs similarity analysis and representation-space comparisons across layers.Key resultsDirect deception yields very strong, easily separable activation signatures.Subtle deception is more challenging but still detectable significantly above chance.Early assistant-answer tokens already carry clear intent signals, even before the full answer is processed."
+      },
+      null,
+      null,
+      {
+        "title": "HireSong",
+        "start_date": "Nov 2025",
+        "description": "This project was for part of what we built with my team for CamHack 2025, where the theme was to use technology in an unintended way. You put your CV, the company website you wanna work for, and a selfie and the app creates a music video of you applying to the company. We used: - React & Vite for the frontend- Python for the backend- OpenAI for lyrics and scenes generation- Nano Banana & Knling 2.5 Pro via Fal for the scene generation- ElevenLabs music API for music- Google sheets as database (unintended use for the track)- MoviePy to put everything together - Vercel for frontend deployment- Railway for backend deployment"
+      },
+      null,
+      null,
+      {
+        "title": "WiseDragon",
+        "start_date": "Aug 2025",
+        "description": "Realtime AI screen assistant - built with the newest gpt-realtime API, can see your screen, point arrows and search online."
+      },
+      {
+        "title": "Modeling Time-Series Data: Fourier, Exponential & Polynomial Regression",
+        "start_date": "May 2025",
+        "description": "IB Data Science Coursework: Time-Series Analysis & Regression\u2022 Overview: Developed a suite of Python notebooks and hands-on exercises that guide the full modeling lifecycle\u2014from exploratory visualization and simple linear fits to advanced seasonal decomposition and model selection.\u2022 Key Analyses:Atmospheric CO\u2082 Trends: Loaded multi-year CO\u2082 measurements, detected and modeled trend + seasonality via Fourier terms, and validated on held-out data.Exponential Growth Modeling: Fitted log-linear regressions to U.K. COVID hospital admissions (Dec 2021\u2013Jan 2022) to quantify the Omicron surge\u2019s weekly growth rate.Transit Ridership Seasonality: Investigated London Underground passenger data (2000\u20132019), used periodograms to pinpoint annual and holiday cycles, and built hybrid trend + Fourier regression models.\u2022 Technical Skills: Python, NumPy, pandas, Matplotlib, spectral analysis (periodograms), Vandermonde matrices, least-squares fitting, residual diagnostics, model evaluation (SSE, MSE, R\u00b2), and overfitting prevention.\u2022 Impact: Demonstrates best practices in time-series decomposition, model calibration, and selection\u2014equipping users to handle real-world forecasting and pattern-discovery challenges."
+      },
+      {
+        "title": "Fine-tuning-Llama-3.1-8B-with-LoRA-using-GRPO",
+        "start_date": "Apr 2025",
+        "description": "Finetuned Llama-3.1-8B-Instruct using GRPO (same method as DeepSeek) in order to develop reasoning and increase its performance in math problems. Its performance went from 45% to 80% on the gsm8k dataset, which has high school problems!"
+      },
+      {
+        "title": "ElectroNinja",
+        "start_date": "Mar 2025",
+        "description": "A cursor for LTSpice"
+      }
+    ],
+    "location": null,
+    "input_url": "https://www.linkedin.com/in/bill-leoutsakos-861a49294",
+    "linkedin_id": "bill-leoutsakos-861a49294",
+    "activity": [
+      {
+        "interaction": "Liked by Bill Leoutsakos",
+        "link": "https://www.linkedin.com/posts/bennykok_a-paradigm-shift-is-coming-you-are-about-activity-7493169928615911424-bH0s",
+        "title": "A paradigm shift is coming You are about to spend more time with AI agents than with your coworkers, your friends, and your family, but you just\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5610AQFVg9q4CkMjhA/image-shrink_800/B56Z_0WU6gHUAg-/0/1786510921914?e=2147483647&v=beta&t=siVjX0-2aFyqMGNglzgXNLoUBg7-T9LJ7TIn6ICmRCc",
+        "id": "7493169928615911424"
+      },
+      {
+        "interaction": "Liked by Bill Leoutsakos",
+        "link": "https://www.linkedin.com/posts/dag-eriksson-922603265_i-rarely-post-on-linkedin-in-fact-this-activity-7493295676596838400-XjyU",
+        "title": "I rarely post on LinkedIn. In fact, this is my first time, so bear with me. 18 months ago I joined a small team in Stockholm that believed you\u2026",
+        "img": "https://dms.licdn.com/playlist/vid/v2/D4D05AQHkrqdlg0VTcg/thumbnail-shrink_720_1280/B4DZ_2IpLjIcB0-/0/1786540891964?e=2147483647&v=beta&t=m8HuriHNQqfk570ym5hHuiMrXIAnhCaUVHVlKoovRbU",
+        "id": "7493295676596838400"
+      },
+      {
+        "interaction": "Liked by Bill Leoutsakos",
+        "link": "https://www.linkedin.com/posts/antonosika_lovable-just-raised-400m-at-a-133b-valuation-activity-7493245550033690625-Pb-X",
+        "title": "Lovable just raised $400M at a $13.3B valuation to build the business that builds businesses. Menlo Ventures came back to lead another round\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4D10AQHuwFVZRT-7LA/videocover-high/B4DZ_1bD5GHgAo-/0/1786528947693?e=2147483647&v=beta&t=_W7SjZa5Ymu-rwE-HYjIIwKri0pF9Zp_ZuPT0uEt6Q4",
+        "id": "7493245550033690625"
+      },
+      {
+        "interaction": "Liked by Bill Leoutsakos",
+        "link": "https://www.linkedin.com/posts/clevy_robert-w-dropped-out-of-harvard-at-21-with-activity-7493161831444660224-OK53",
+        "title": "Robert W. dropped out of Harvard at 21 with $10,000 in a bank account. Three years later Etched has raised $1B+, is valued over $10B, and has signed\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5605AQFp-ZBZWXiJlA/videocover-high/B56Z_0Of8sGQBM-/0/1786508915370?e=2147483647&v=beta&t=vug78maudfbwFXsUB7yQxkkrCji3dDhLlFFmonTZYP8",
+        "id": "21"
+      },
+      {
+        "interaction": "Liked by Bill Leoutsakos",
+        "link": "https://www.linkedin.com/posts/leostrijbos_i-got-10-new-records-in-packing-problems-activity-7492913512759963651-lm5V",
+        "title": "I got 10 new records in packing problems (2 had been held since 2007)! My approach: - Rank cells by how far each value sits above its predecessor\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQFtvg5GivGbJA/feedshare-image-high-res/B4EZ_wgp2pIUAU-/0/1786446520367?e=2147483647&v=beta&t=091bFLIQoIKHAvChkc0ZElKHyoMxTsJh6l1SBhzb9Mg",
+        "id": "10"
+      },
+      {
+        "interaction": "Liked by Bill Leoutsakos",
+        "link": "https://www.linkedin.com/posts/marie-adant_i-personally-found-my-job-at-corgi-yc-s24-activity-7493082586605318144-1WcD",
+        "title": "I personally found my job at Corgi (YC S24) by going to an in-person recruiting event instead of applying online, and it quite literally changed my\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQHCuRM1PBpxdA/feedshare-shrink_800/B56Z_y8iN1H0Ag-/0/1786487384063?e=2147483647&v=beta&t=RZrj46pwL3wpBwnzo7TC-KmEP2ZF52fJ81195ljmorY",
+        "id": "7493082586605318144"
+      },
+      {
+        "interaction": "Liked by Bill Leoutsakos",
+        "link": "https://www.linkedin.com/posts/connor--farrell_personal-post-request-for-feedbackstories-activity-7492921926277869568-nGaH",
+        "title": "Personal post! Request for feedback/stories. I want the UK to back great people to work on hard problems and build important companies. Masters and\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQGFIlwkO7iBFQ/feedshare-shrink_800/B4EZ_w0yTCIMAg-/0/1786451797700?e=2147483647&v=beta&t=8Ve84t5FL884Wqt50xcp9QZjRKaLYOnydUnx_jN874s",
+        "id": "7492921926277869568"
+      },
+      {
+        "interaction": "Liked by Bill Leoutsakos",
+        "link": "https://www.linkedin.com/posts/thvdnta_cory-levys-internapalooza-is-top-tier-heard-activity-7492624153095843842-R4pz",
+        "title": "Cory Levy\u2019s Internapalooza is top tier. Heard from goats like Zach Yadegari Cameron Zoub Victor Cardenas Codriansky Robert W. and big man\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQGnHvrCV17CCQ/feedshare-image-high-res/B56Z_sl9eVHIAU-/0/1786380802210?e=2147483647&v=beta&t=0m288XcIJ42kkXdNvyqYwR8xn9d9spDs3P4Mlubh0jI",
+        "id": "7492624153095843842"
+      },
+      {
+        "interaction": "Liked by Bill Leoutsakos",
+        "link": "https://www.linkedin.com/posts/markos-fragkiadakis_excited-to-share-that-im-starting-a-company-activity-7492607472759828480-FnMm",
+        "title": "Excited to share that I'm starting a company, backed by a16z speedrun! Europe is entering a defining decade. One that presents an extraordinary\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQEAOaZItQOJsw/feedshare-shrink_800/B56Z_sWytVKoAc-/0/1786376826122?e=2147483647&v=beta&t=RpS4jr5dUzdqvQTqS8x1z9yuREuDb9OkD0Q16l_9KjE",
+        "id": "7492607472759828480"
+      },
+      {
+        "interaction": "Liked by Bill Leoutsakos",
+        "link": "https://www.linkedin.com/posts/ryan-codrai_my-autonomous-research-agent-created-and-activity-7492488160065699840-8gUC",
+        "title": "My autonomous research agent created and evaluated 138 ideas over a 63 hour period. I set it the goal of making 4-bit search faster in TurboVec - my\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQFEM7bdrlU1kA/feedshare-shrink_800/B4EZ_opVCzJgAc-/0/1786314576355?e=2147483647&v=beta&t=r4CK5lYfyOmCJJEc3MYHzfuypCDARpkxVB8hoUSwVzA",
+        "id": "7492488160065699840"
+      },
+      {
+        "interaction": "Liked by Bill Leoutsakos",
+        "link": "https://www.linkedin.com/posts/harper-dammann-smith_i-dropped-out-of-uni-after-selling-my-last-activity-7492617148230668288-GiAl",
+        "title": "I dropped out of uni after selling my last company. Today Pacific (YC S26) is in Y Combinator - and we're hiring! Pacific mass-produces micro data\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQFo8Fh-844sZw/feedshare-shrink_800/B56Z_sflvGGgAg-/0/1786379133173?e=2147483647&v=beta&t=IxDn_BUB7FTXV69dsFM24jxZmknJDzeqxGEaqSLJQ6I",
+        "id": "7492617148230668288"
+      },
+      {
+        "interaction": "Liked by Bill Leoutsakos",
+        "link": "https://www.linkedin.com/posts/emirayaz1_one-year-ago-arc-studio-had-just-started-activity-7492618492462985216-Yvdj",
+        "title": "One year ago, Arc Studio had just started. Right after the YC batch ended in June 2025, Sim became one of our first clients. At that point, we were\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQFNRmXTxYD_uw/feedshare-shrink_800/B56Z_sg0HbKYAc-/0/1786379453164?e=2147483647&v=beta&t=HDKbcNzUUIEpLYzX2Q3S68jCS0l6kB2xaFJDYc0ACZc",
+        "id": "7492618492462985216"
+      },
+      {
+        "interaction": "Liked by Bill Leoutsakos",
+        "link": "https://www.linkedin.com/posts/charliecheesman_after-a-year-of-building-60xai-im-stepping-activity-7492489916749271040-OxBX",
+        "title": "After a year of building 60x.ai, I'm stepping away. Looking back, I'm really proud of what we achieved as a team. 0 to 7 figures in revenue in 12\u2026",
+        "img": "https://static.licdn.com/aero-v1/sc/h/53n89ecoxpr1qrki1do3alazb",
+        "id": "7492489916749271040"
+      },
+      {
+        "interaction": "Liked by Bill Leoutsakos",
+        "link": "https://www.linkedin.com/posts/y-combinator_neuromorphic-yc-s26-is-building-embodiment-agnostic-activity-7492595738292404224-8jP-",
+        "title": "Neuromorphic (YC S26) is building embodiment-agnostic robot brains that make any robot fast to deploy and easy to manage through natural interfaces\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5605AQG9-s8swzWeZw/videocover-high/B56Z_qRSCuKoBM-/0/1786341830321?e=2147483647&v=beta&t=htlKdkETVgaaN28KGTLEbj71wYmc-dQK8j8t0vXjsVM",
+        "id": "7492595738292404224"
+      },
+      {
+        "interaction": "Liked by Bill Leoutsakos",
+        "link": "https://www.linkedin.com/posts/anyatrofimova_summer-of-2006-a-few-twenty-year-olds-moved-activity-7492401996394561537-92j6",
+        "title": "Summer of 2006: a few twenty-year-olds moved to the Bay Area and built the web as we know it. YouTube ran out of a room above a pizzeria in San\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQHCoA3_OFmroA/feedshare-image-high-res/B56Z_pb4zZGQAg-/0/1786327834417?e=2147483647&v=beta&t=fFj8RlCNyWhqdT-Fkw07RfNY4UVtKP1THkwaYcU0Mzg",
+        "id": "2006"
+      },
+      {
+        "interaction": "Liked by Bill Leoutsakos",
+        "link": "https://www.linkedin.com/posts/william-henry_if-you-blindly-invested-in-every-yc-company-activity-7492225706597195776-YpH3",
+        "title": "If you blindly invested in every YC company since its founding in 2005, you would have printed a 176% average annual return net of dilution. Now\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4E10AQENtl4Y7tWcrg/image-shrink_1280/B4EZ_m7k_HJEAc-/0/1786285805802?e=2147483647&v=beta&t=mqi68uf5_5FXNJxOz0efWP4ZzFhXSDVwROLOOM_6joo",
+        "id": "7492225706597195776"
+      },
+      {
+        "interaction": "Liked by Bill Leoutsakos",
+        "link": "https://www.linkedin.com/posts/y-combinator_hardware-intelligence-yc-s26-is-building-activity-7487549870413725696-NA1B",
+        "title": "hardware intelligence (YC S26) is building the toolchain for the AI era of chip design. Their first product, Wave, is a terminal-native, AI-powered\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5605AQGRwrIhY6fPKw/videocover-high/B56Z.kXE3MG0BQ-/0/1785168947521?e=2147483647&v=beta&t=HqSUjYmuJuzOwnCuSoUxtV6U3yLI-Bm32RGHRmfheVc",
+        "id": "7487549870413725696"
+      },
+      {
+        "interaction": "Liked by Bill Leoutsakos",
+        "link": "https://www.linkedin.com/posts/zoran-kokolanski_we-thought-it-would-take-years-it-only-activity-7490313921321394179-I_kj",
+        "title": "We thought it would take years. It only took months. Meet the first gen of five degrees founders out of Germany. Our thesis was to place\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4D22AQGPx0q7_LxtMw/feedshare-shrink_800/B4DZ_Jlf_dHgAc-/0/1785793479236?e=2147483647&v=beta&t=2XPuHAMoUqcYDlHYke_MmDehwTqx2XuMS2cqFDY2cNc",
+        "id": "7490313921321394179"
+      }
+    ],
+    "linkedin_num_id": "1196981641",
+    "banner_image": "https://media.licdn.com/dms/image/v2/D4E16AQHglnbw6coQyQ/profile-displaybackgroundimage-shrink_200_800/B4EZ9T19rCH8AQ-/0/1783818083605?e=2147483647&v=beta&t=1Z5HCe5sP2ulSU5ncDHn1kd6b7gKhMzvAx08OnteesA",
+    "honors_and_awards": null,
+    "similar_profiles": [],
+    "default_avatar": false,
+    "memorialized_account": false,
+    "bio_links": [],
+    "first_name": "Bill",
+    "last_name": "Leoutsakos",
+    "influencer": false,
+    "timestamp": "2026-08-12T18:58:47.729Z",
+    "input": {
+      "url": "https://www.linkedin.com/in/bill-leoutsakos-861a49294"
+    }
+  },
+  "local_photo": "data\\linkedin_photos\\bill-leoutsakos-861a49294__usr-Emt6HQm8l6eq44e.jpg"
+}

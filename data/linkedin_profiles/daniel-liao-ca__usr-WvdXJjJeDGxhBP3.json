@@ -1,0 +1,106 @@
+{
+  "luma_user_id": "usr-WvdXJjJeDGxhBP3",
+  "csv_name": "Daniel Liao",
+  "csv_linkedin": "https://www.linkedin.com/in/daniel-liao-ca",
+  "enriched_at": "2026-08-12T19:01:42.777688+00:00",
+  "batch_id": "sd_msqgese9ztya3e3uk",
+  "profile": {
+    "id": "daniel-liao-ca",
+    "name": "Daniel Liao",
+    "city": "San Ramon, California, United States",
+    "country_code": "US",
+    "position": null,
+    "about": "https://theebayuser.github.io/",
+    "current_company": {
+      "link": "https://www.linkedin.com/company/math-visualizations?trk=public_profile_topcard-current-company",
+      "name": "Math Visualizations",
+      "company_id": "math-visualizations",
+      "location": null
+    },
+    "experience": null,
+    "url": "https://ar.linkedin.com/in/Daniel-liao-ca",
+    "educations_details": "Dougherty Valley High School",
+    "education": [
+      {
+        "title": "Dougherty Valley High School",
+        "url": "https://www.linkedin.com/school/dougherty-valley-high-school-1/",
+        "start_year": "2023-08",
+        "end_year": "2027-06",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      }
+    ],
+    "avatar": "https://media.licdn.com/dms/image/v2/D5603AQFfullVBrYvjw/profile-displayphoto-scale_200_200/B56Z1ckUbJJsAY-/0/1775374558563?e=2147483647&v=beta&t=5W5--WmN2yfMmmiWLEoKSP6rnlZvwVz8xMLI6qti01s",
+    "languages": [
+      {
+        "subtitle": "Native or bilingual proficiency",
+        "title": "Mandarin"
+      }
+    ],
+    "volunteer_experience": [
+      {
+        "cause": "Education",
+        "duration": "Sep 2024 \u00b7 - Present \u00b7 \n2 years",
+        "duration_short": "- Present",
+        "info": "coached GRMS mathcounts team to bronze (x2)",
+        "start_date": "Sep 2024",
+        "subtitle": "MATHCOUNTS Foundation",
+        "title": "School Head Coach"
+      }
+    ],
+    "followers": 365,
+    "connections": 365,
+    "current_company_company_id": "math-visualizations",
+    "current_company_name": "Math Visualizations",
+    "projects": [
+      {
+        "title": "Frontier Math Formalization",
+        "description": "open-source formalization of Erdos & Green problems @ Google DeepMind"
+      }
+    ],
+    "location": "San Ramon",
+    "input_url": "https://www.linkedin.com/in/daniel-liao-ca",
+    "linkedin_id": "daniel-liao-ca",
+    "activity": null,
+    "linkedin_num_id": "1028911151",
+    "banner_image": "https://media.licdn.com/dms/image/v2/D5616AQGRLgvuyFjAqw/profile-displaybackgroundimage-shrink_200_800/B56Z1B7uaCJsAU-/0/1774927670777?e=2147483647&v=beta&t=_1RDe4Jai-wIQHmkM2eY-faX_qF5io5Gtr-5BREfMzQ",
+    "honors_and_awards": [
+      {
+        "title": "USA Math Olympiad (USAMO) Qualifier",
+        "publication": "Mathematical Association of America",
+        "date": "2026-03-01T00:00:00.000Z",
+        "description": "x3 AIME Qualifier, AMC10/12 Distinction SMT 1st Place, Purple Comet 1st Place, BMT DHR x3"
+      },
+      {
+        "title": "FBLA National Conference",
+        "publication": "Future Business Leaders of America",
+        "date": "2025-04-01T00:00:00.000Z",
+        "description": "Financial Statement Analysis, Advanced Accounting"
+      },
+      {
+        "title": "National Economics Challenge State Championship",
+        "publication": "Council for Economic Education",
+        "date": "2024-04-01T00:00:00.000Z",
+        "description": null
+      }
+    ],
+    "similar_profiles": [],
+    "default_avatar": false,
+    "memorialized_account": false,
+    "bio_links": [
+      {
+        "title": "Personal Website",
+        "link": "https://theebayuser.github.io/"
+      }
+    ],
+    "first_name": "Daniel",
+    "last_name": "Liao",
+    "influencer": false,
+    "timestamp": "2026-08-12T19:00:12.841Z",
+    "input": {
+      "url": "https://www.linkedin.com/in/daniel-liao-ca"
+    }
+  },
+  "local_photo": "data\\linkedin_photos\\daniel-liao-ca__usr-WvdXJjJeDGxhBP3.jpg"
+}

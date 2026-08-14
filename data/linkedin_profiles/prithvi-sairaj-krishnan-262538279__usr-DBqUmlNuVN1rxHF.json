@@ -1,0 +1,442 @@
+{
+  "luma_user_id": "usr-DBqUmlNuVN1rxHF",
+  "csv_name": "Prithvi Krishnan",
+  "csv_linkedin": "https://www.linkedin.com/in/prithvi-sairaj-krishnan-262538279",
+  "enriched_at": "2026-08-12T19:14:53.869537+00:00",
+  "batch_id": "sd_msqgwa7g10oeo6g7qx",
+  "profile": {
+    "id": "prithvi-sairaj-krishnan-262538279",
+    "name": "Prithvi Sairaj Krishnan",
+    "city": "Austin, Texas, United States",
+    "country_code": "US",
+    "position": null,
+    "about": "Hello! I'm a sophomore at UT Austin with a passion for innovation and problem-solving. I\u2026",
+    "current_company": {
+      "link": "https://www.linkedin.com/company/deep24?trk=public_profile_topcard-current-company",
+      "name": "Deep24",
+      "company_id": "deep24",
+      "location": null
+    },
+    "experience": null,
+    "url": "https://pl.linkedin.com/in/prithvi-sairaj-krishnan-262538279",
+    "educations_details": "The University of Texas at Austin",
+    "education": [
+      {
+        "title": "The University of Texas at Austin",
+        "url": "https://www.linkedin.com/school/theuniversityoftexasataustin-/",
+        "start_year": "2025-08",
+        "end_year": "2029-06",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      },
+      {
+        "start_year": "2021",
+        "end_year": "2025",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      },
+      {
+        "start_year": "2026-05",
+        "end_year": "2026-06",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      }
+    ],
+    "avatar": "https://media.licdn.com/dms/image/v2/D5603AQFdND8xUcvfog/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1731648664549?e=2147483647&v=beta&t=gJwz-QQsGYHcBkuOfQ_iZtGTcvTYS188q6NvUFDi3rY",
+    "languages": [
+      {
+        "subtitle": "Full professional proficiency",
+        "title": "English"
+      },
+      {
+        "subtitle": "Professional working proficiency",
+        "title": "Tamil"
+      },
+      {
+        "subtitle": "Professional working proficiency",
+        "title": "Spanish"
+      }
+    ],
+    "certifications": [
+      {
+        "meta": "Issued Nov 2024",
+        "subtitle": "Certiport - A Pearson VUE Business",
+        "title": "Information Technology Specialist for Software Development",
+        "credential_url": null,
+        "credential_id": null
+      },
+      {
+        "meta": "Issued May 2024",
+        "subtitle": "Microsoft",
+        "title": "Microsoft Office Specialist Certification",
+        "credential_url": null,
+        "credential_id": null
+      },
+      {
+        "meta": "Issued Jun 2023",
+        "subtitle": "Certiport - A Pearson VUE Business",
+        "title": "Information Technology Specialist for Python",
+        "credential_url": null,
+        "credential_id": null
+      },
+      {
+        "meta": "Issued May 2023",
+        "subtitle": "Certiport - A Pearson VUE Business",
+        "title": "Information Technology Specialist for Java",
+        "credential_url": null,
+        "credential_id": null
+      },
+      {
+        "meta": "Issued Feb 2023",
+        "subtitle": "Microsoft",
+        "title": "Microsoft 365 Certified: Fundamentals",
+        "credential_url": null,
+        "credential_id": null
+      },
+      {
+        "meta": "Issued Dec 2022",
+        "subtitle": "Certiport - A Pearson VUE Business",
+        "title": "Information Technology Specialist for Artificial Intelligence",
+        "credential_url": null,
+        "credential_id": null
+      },
+      {
+        "meta": "Issued Jul 2022",
+        "subtitle": "Microsoft",
+        "title": "Microsoft Office Specialist: Excel Certification",
+        "credential_url": null,
+        "credential_id": null
+      },
+      {
+        "meta": "Issued May 2022",
+        "subtitle": "Microsoft",
+        "title": "Microsoft Office Specialist: Powerpoint Certification",
+        "credential_url": null,
+        "credential_id": null
+      },
+      {
+        "meta": "Issued Aug 2021",
+        "subtitle": "Microsoft",
+        "title": "Microsoft Office Specialist: Outlook Certification",
+        "credential_url": null,
+        "credential_id": null
+      },
+      {
+        "meta": "Issued May 2021",
+        "subtitle": "Microsoft",
+        "title": "Microsoft Office Specialist: Word Certification",
+        "credential_url": null,
+        "credential_id": null
+      }
+    ],
+    "volunteer_experience": [
+      {
+        "duration": "Jun 2023 \u00b7 - \nAug 2023 \u00b7 \n3 months",
+        "duration_short": "- \nAug 2023",
+        "info": "I volunteered at Camp CAMP, where I had a wonderful time working with children with mental and physical disabilities. I assisted them with their daily activities and earned 200 service hours for my contributions.",
+        "start_date": "Jun 2023",
+        "subtitle": "CAMP (Children's Association for Maximum Potential)",
+        "title": "Camp Volunteer"
+      },
+      {
+        "info": "Through scouting, I led community service projects that improved local parks and organized donation drives for underprivileged families. I also earned Eagle Scout with roles as the Senior Patrol Leader and Troop Guide, demonstrating my commitment to leadership, problem-solving, and making a positive impact also earning 425 SERVICE HOURS.",
+        "subtitle": "Boy Scouts of America",
+        "title": "Volunteer"
+      }
+    ],
+    "followers": 1502,
+    "connections": 500,
+    "current_company_company_id": "deep24",
+    "current_company_name": "Deep24",
+    "publications": [
+      {
+        "title": "Deep dive into predicting insurance premiums using machine learning",
+        "subtitle": "Journal of Emerging Investigators",
+        "date": "August 6, 2025",
+        "description": "My JEI Published Research Paper on predicting insurance premiums based on different factors. Check it Out!"
+      },
+      {
+        "title": "The Impact of Artificial Intelligence on Revenue Growth of Small Business",
+        "subtitle": "IEEE",
+        "date": "March 15, 2025",
+        "description": "I engineered an empirical study of 391 companies proving that targeting how much AI integration directly accelerates revenue growth for small businesses."
+      },
+      {
+        "title": "Is Inspirit AI Worth it? A Review of My Journey",
+        "subtitle": "Medium",
+        "date": "December 6, 2024",
+        "description": "This is a Review of my Inspirit AI Research Journey, Check it Out!"
+      },
+      {
+        "title": "Dive into the Effects Self-Driving Vehicles have on Transportation",
+        "subtitle": "IEEE Smart World Congress",
+        "date": "December 4, 2024",
+        "description": "My IEEE Published Research at the IEEE SWC Conference looked at how these resourceful autonomous vehicles affect Transportation nationally."
+      },
+      {
+        "title": "A Deep Dive into the Use of Image Processing and Object Detection to Identify Pneumonia",
+        "subtitle": "IEEE ISNCC Conference- Password:ISNCC2024-UDC%",
+        "date": "October 23, 2024",
+        "description": "My IEEE Published Research into the Use of Image Processing and Object Detection to Identify Pneumonia, I presented during Session B4v- Machine Learning for Smart Apps and SecurityAlso-IEEE Xplore Link: https://doi.org/10.1109/ISNCC62547.2024.10759009"
+      }
+    ],
+    "patents": [
+      {
+        "title": "System and Method for Pneumonia Detection Using Image Processing and Object Detection",
+        "date_issued": "January 7, 2025",
+        "patents_id": "PATENT Number: 12190518",
+        "description": "I am globally patenting a System and Method for detecting Pneumonia at a 99% accuracy changing the way radiologists and medical labs detect diseases.*If the Patent link does not work use this: https://ppubs.uspto.gov/pubwebapp/static/pages/ppubsbasic.htmlThen type in the Patent Number above and that will work"
+      }
+    ],
+    "projects": [
+      {
+        "title": "SnapCycle",
+        "start_date": "Jun 2026",
+        "description": "SnapCycle is a mobile app built with Expo and React Native on the front end and Python with FastAPI on the back end. A user snaps a photo of an item, and Google Gemini Vision Model names it. The app then runs the item through a chain of small AI agents that check a Redis backed knowledge base built per zip code and use Browserbase to read real local web pages. This lets the app point the user to a true fix, such as a home bin, a gift drop off, a city bulk pickup, or a junk haul firm. When a haul firm is the right path, the backend uses Twilio to text all local firms at once and stream their price quotes back live. One agent, Agent S, can fill out a pickup form on a live browser the user watches, but it will not press submit on its own. Supabase holds user logins and item stats, Sentry logs any quiet bug, and Arize Phoenix traces each agent call."
+      },
+      null,
+      null,
+      null,
+      {
+        "title": "The Mutual Reveal System, Echo",
+        "start_date": "Apr 2026",
+        "description": "I built Echo, a blind mutual reveal system that closes the gap every dating app ignores: both people leave the date wondering and neither texts first. I architected a FastAPI backend with four isolated Claude jobs, each with its own system prompt and output constraints, generating personalized reflection prompts, emotionally-tuned reveal messages, and preference profiles that get smarter after every date. I built the 3d mutual reveal burst on WebGPU compute shaders with 512 particles running physics entirely on the GPU, Canvas 2D fallback included, with a color that shifts warm rose for mutual, violet for one-sided, slate for no match. I drove the reveal through a 6-state machine with React 19 and Framer Motion's AnimatePresence so illegal state transitions are structurally unrepresentable, using Claude with specialized frontend design and WebGPU skills and precise prompting and understanding to ship quality code. I then presented the full build to Ditto cofounder Eric Liu, and I gained some helpful insights into how to plan and built a great product."
+      },
+      {
+        "title": "Minion Rush Arcade Game (Introduction to Embedded Systems ECE319K)",
+        "start_date": "Mar 2026",
+        "description": "For our Introduction to Embedded Systems class, we had to create a 90's style arcade game programmed in C using the MSPM0+ Launchpad Kit microcontroller."
+      },
+      {
+        "title": "Predicting Insurance Premiums using Artificial Intelligence",
+        "start_date": "Jan 2024",
+        "description": "An AI-driven app predicts personalized insurance premiums using health data, empowering users with transparent, accurate, and equitable cost insights after procedures."
+      },
+      null,
+      {
+        "title": "Identifying Pneumonia through Image Processing and Object Detection",
+        "start_date": "Jun 2023",
+        "description": "Created a Pneumonia Detector in Google Colab with 99% accuracy using Image Processing and Object Detection and implemented it within countries with lower resources in Africa and South America. Furthermore, I presented this on the Inventors Helping Inventors, Everything Intellectual Property, and Medtech 101 Podcasts so be sure to check those out for more info."
+      },
+      {
+        "title": "Analyzing the Effects Self-Driving Vehicles have on Transportation",
+        "start_date": "Aug 2023",
+        "description": "Looking at the 50 biggest cities in the US and seeing how the new Autonomous Vehicles affect the Transportation data of these cities over 5 years."
+      },
+      {
+        "title": "Eagle Scout Project",
+        "start_date": "Oct 2021",
+        "description": "Planned and executed a service project to construct signs along 5 miles of trails at a local nature preserve. Led over 20 volunteers through clear communication, coordination, and task management.Developed service project in coordination with the leadership of the Cedar Park Parks and Rec. Dept. to satisfy their requirements and comply with city guidelines, coordinating with Lowe\u2019s to fund the entire project."
+      }
+    ],
+    "location": "Austin",
+    "input_url": "https://www.linkedin.com/in/prithvi-sairaj-krishnan-262538279",
+    "linkedin_id": "prithvi-sairaj-krishnan-262538279",
+    "activity": [
+      {
+        "interaction": "Liked by Prithvi Sairaj Krishnan",
+        "link": "https://www.linkedin.com/posts/luzhang8_your-next-internship-might-be-at-a-yc-startup-activity-7493039060958044161-f8QE",
+        "title": "Your next internship might be at a YC startup. I'm referring people for the YC startup intern expo. If you're into tech, Y Combinator is the place\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQFsUYeZ-Vo7gA/feedshare-image-high-res/B56Z_yfTOeJoAU-/0/1786479724834?e=2147483647&v=beta&t=mITujIvKPvPLpJ_co04friHf2pmTRVno9vqpguWBVCc",
+        "id": "7493039060958044161"
+      },
+      {
+        "interaction": "Liked by Prithvi Sairaj Krishnan",
+        "link": "https://www.linkedin.com/posts/pavankumarny_sales-today-has-become-a-mess-automations-activity-7493083839766999041-saYz",
+        "title": "Sales today has become a mess. Automations have taken over LinkedIn, email & soon messages... But that's not what AI was made for. Just because it\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQHFsGhFvWXakw/feedshare-shrink_800/B4EZ_zICf8IUAc-/0/1786490401293?e=2147483647&v=beta&t=i1qMK3D1gy7moWkSkc8NATMWfZ_9i8NqJYDlSxO1R2U",
+        "id": "7493083839766999041"
+      },
+      {
+        "interaction": "Liked by Prithvi Sairaj Krishnan",
+        "link": "https://www.linkedin.com/posts/arnav-vajirkar_f1-formula1-sebastianvettel-activity-7492976786071437313-1VgW",
+        "title": "I\u2019m super excited to share my summer project, LapTRR (Lap Telemetry Reconstruction & Replay)! In Formula 1, every feather of the gas pedal, every\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQGNpf9dlEIOJQ/feedshare-shrink_1280/B56Z_xmrI5GgAQ-/0/1786464875325?e=2147483647&v=beta&t=XJFes0yyCjM-DHAtMPt20yIAxvfoUhIBvbOebZ2Osvo",
+        "id": "7492976786071437313"
+      },
+      {
+        "interaction": "Liked by Prithvi Sairaj Krishnan",
+        "link": "https://www.linkedin.com/posts/oleksandr-voievodin-7a941a248_ycombinator-startup-internship-activity-7493034653105369088-Nx7J",
+        "title": "Back in SF this Saturday for another YC event. I was there for Y Combinator Startup School a few weeks ago. 6,000 people at Chase Center, Sam\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQG-QLzsm-gcLA/feedshare-shrink_800/B56Z_ybT9fKYAc-/0/1786478674062?e=2147483647&v=beta&t=uV-Bmk3aSH6DICwJ2VLNIyW5Om74QAwMT6ejRAkn1r4",
+        "id": "7493034653105369088"
+      },
+      {
+        "interaction": "Liked by Prithvi Sairaj Krishnan",
+        "link": "https://www.linkedin.com/posts/prithvi-sairaj-krishnan-262538279_yc-startups-internship-activity-7493003273617121280-GCU1",
+        "title": "Do you want the opportunity to intern at a YC startup? DM me for a referral link to the Startup Internship Expo. I was at Y Combinator Startup\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQH-7MGuF_RHQw/feedshare-shrink_1280/B56Z_x.W9aKAAM-/0/1786471084096?e=2147483647&v=beta&t=coQVNmjzfqaN-AKGwqneL8usnEuob3_zRD6OozXn8-k",
+        "id": "7493003273617121280"
+      },
+      {
+        "interaction": "Shared by Prithvi Sairaj Krishnan",
+        "link": "https://www.linkedin.com/posts/prithvi-sairaj-krishnan-262538279_yc-startups-internship-activity-7493003273617121280-GCU1",
+        "title": "Do you want the opportunity to intern at a YC startup? DM me for a referral link to the Startup Internship Expo. I was at Y Combinator Startup\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQH-7MGuF_RHQw/feedshare-shrink_1280/B56Z_x.W9aKAAM-/0/1786471084096?e=2147483647&v=beta&t=coQVNmjzfqaN-AKGwqneL8usnEuob3_zRD6OozXn8-k",
+        "id": "7493003273617121280"
+      },
+      {
+        "interaction": "Liked by Prithvi Sairaj Krishnan",
+        "link": "https://www.linkedin.com/posts/vatsalps_want-to-intern-at-a-yc-startup-dm-me-for-activity-7492410303121600512-OfqK",
+        "title": "Want to intern at a YC startup? DM me for a referral link to the Startup Internship Expo. Going through Y Combinator last year was one of the most\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQHmGv-Jf2_gBw/feedshare-shrink_800/B56Z_pjdzwG4Ac-/0/1786329817122?e=2147483647&v=beta&t=OXXGa2BnhwLhCYipiSX0ep7K0zJjij6zgSorNLScow4",
+        "id": "7492410303121600512"
+      },
+      {
+        "interaction": "Liked by Prithvi Sairaj Krishnan",
+        "link": "https://www.linkedin.com/posts/andreajajcanin_yc-startup-internship-expo-activity-7492711466614226944-dytJ",
+        "title": "We're hiring interns at GiveCampus and I'll be at the YC Startup Internship Expo on Aug 15 in SF \u2014 come find me! Paul Weaver Matthew Gruber\u2026",
+        "img": "https://media.licdn.com/dms/image/sync/v2/D5627AQEKev2nn_5Mmw/articleshare-shrink_800/B56Z7b16jdIMAY-/0/1781804806611?e=2147483647&v=beta&t=ypk3J8US3DnIVa-_qVMpoS90Ct9ZxBItgd9rzZJtPn0",
+        "id": "7492711466614226944"
+      },
+      {
+        "interaction": "Liked by Prithvi Sairaj Krishnan",
+        "link": "https://www.linkedin.com/posts/anh-nguyen-an0428_these-are-the-things-ive-added-from-your-activity-7491240378147270658-WHft",
+        "title": "these are the things i've added from your suggestions 48 hours ago to become more of a tech bro: - stole 3 harvard dropouts - abg cmo - more\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQF5L7ib9pvcGA/feedshare-shrink_1280/B4EZ_Y7bZ.HkAM-/0/1786050885567?e=2147483647&v=beta&t=cxcXKVlpfYEFtCfWr6jICdMe3yaO3rHNCYqcmU99SpU",
+        "id": "7491240378147270658"
+      },
+      {
+        "interaction": "Liked by Prithvi Sairaj Krishnan",
+        "link": "https://www.linkedin.com/posts/avyaygupta_excited-to-share-that-i-have-accepted-an-activity-7492613344927838208-igGn",
+        "title": "Excited to share that I have accepted an offer to join Bain & Company as an Associate Consultant Intern in the Dallas office for Summer\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQFyvMkKsOlhDQ/feedshare-shrink_800/B56Z_scIlsKcAg-/0/1786378226443?e=2147483647&v=beta&t=ffcXoJXjLF7I4xxfI3F0DQmEy9aSbkC2q5657TowiPA",
+        "id": "7492613344927838208"
+      },
+      {
+        "interaction": "Liked by Prithvi Sairaj Krishnan",
+        "link": "https://www.linkedin.com/posts/divyash-nath-557335334_the-yc-gala-then-a-great-day-at-y-combinator-activity-7491661572675690497-8AbN",
+        "title": "The YC gala, then a great day at Y Combinator listening to Sam Altman, Jensen Huang, Michael Kratsios, and Garry Tan. Always a good time with\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQFDRGiV9SoieA/feedshare-image-high-res/B56Z_e6Sa0H0AU-/0/1786151253004?e=2147483647&v=beta&t=h2oYlC-cOLz4E2jSZJiXm5cp7IM80HXnIYaAdceVYB0",
+        "id": "7491661572675690497"
+      },
+      {
+        "interaction": "Liked by Prithvi Sairaj Krishnan",
+        "link": "https://www.linkedin.com/posts/anh-nguyen-an0428_i-have-two-hot-takes-in-life-1-ambition-activity-7491961348545933312-A42x",
+        "title": "i have two hot takes in life: 1) ambition is useless 2) work life balance doesn\u2019t exist if you love your job before meeting Veronica Sokoloff\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQFgxg446uCp0A/feedshare-shrink_800/B56Z_jLJVwHAAc-/0/1786222778775?e=2147483647&v=beta&t=4KUeJx8DcYwaMuJwwcm4oq41mVo6fzc-nGi4KCCypn4",
+        "id": "1"
+      },
+      {
+        "interaction": "Liked by Prithvi Sairaj Krishnan",
+        "link": "https://www.linkedin.com/posts/veronica-sokoloff-cortes-20bb0523a_yesterday-i-was-sitting-at-the-lobby-of-where-activity-7490544611967254528-nW0W",
+        "title": "Yesterday I was sitting at the lobby of where I\u2019m living this summer and some people started talking about PlateTale. I was just listening for a\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQF6bwRKHv_AFg/feedshare-image-high-res/B56Z_OLrVLJ0AU-/0/1785870600995?e=2147483647&v=beta&t=KT6LXDXQ1N1ZUL1tjFE57ICmqSW9osQDKVftb-mzzFM",
+        "id": "7490544611967254528"
+      },
+      {
+        "interaction": "Liked by Prithvi Sairaj Krishnan",
+        "link": "https://www.linkedin.com/posts/lilyynguyy_i-got-into-jane-street-twice-in-one-summer-activity-7490585003802767360-qpCD",
+        "title": "I got into Jane Street twice in one summer. Last May, I attended their FOCUS program, and soon, I\u2019ll be heading back for a longer stay as part of\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQHpOwO7GW5ZGw/feedshare-shrink_800/B56Z_PnWICGgAc-/0/1785894626062?e=2147483647&v=beta&t=DF_1ftIaia8HM_8jRfVFciUhPRFTyvSCDlyvzkvkU2A",
+        "id": "7490585003802767360"
+      },
+      {
+        "interaction": "Liked by Prithvi Sairaj Krishnan",
+        "link": "https://www.linkedin.com/posts/suhaankhan_just-agreeing-and-nodding-along-with-others-activity-7490565955559780353-delT",
+        "title": "Just agreeing and nodding along with others is easy, but the best ideas often come from disagreements and debates. Kartik Rochiramani and I launched\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQFuCLwjcwCxyg/feedshare-shrink_800/B56Z_PWCv6G8Ac-/0/1785890090592?e=2147483647&v=beta&t=vtwhN4L4kktExN-NWorgxqcJwEkBsa2wwVe4UdGtc7M",
+        "id": "7490565955559780353"
+      },
+      {
+        "interaction": "Liked by Prithvi Sairaj Krishnan",
+        "link": "https://www.linkedin.com/posts/andrea-li-caltech_last-year-at-y-combinator-startup-school-activity-7490535668490661888-lgiA",
+        "title": "Last year at Y Combinator Startup School, I went to 8+ after parties in two nights. This year, I went to 2. Did I fall behind? Quite the opposite.\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQETK5yZ7JNkCg/feedshare-image-high-res/B56Z_O6fX5KYAU-/0/1785882867469?e=2147483647&v=beta&t=pUelB_u6bmtKh5L1wTNCeRLxIu40IryomrhzoT5G_kU",
+        "id": "7490535668490661888"
+      },
+      {
+        "interaction": "Liked by Prithvi Sairaj Krishnan",
+        "link": "https://www.linkedin.com/posts/violethewett_internship-semiconductor-teamwork-activity-7490409977312907264-9MAC",
+        "title": "That's a wrap! As my internship with Ultra Clean Technology comes to an end, I want to take a moment to reflect. I was able to join a team of 4\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4D22AQG-2ZQsOT-AJw/feedshare-image-high-res/B4DZ_Kx8zFJsAY-/0/1785813519813?e=2147483647&v=beta&t=H7x3X6ti6j2i5njjth5vHDVGHHK8VkgHzmQXSYwhtgg",
+        "id": "7490409977312907264"
+      },
+      {
+        "interaction": "Liked by Prithvi Sairaj Krishnan",
+        "link": "https://www.linkedin.com/posts/matthewshenreal_thank-you-y-combinatorfor-special-access-activity-7490164003109785600-_Kr6",
+        "title": "Thank you, Y Combinator, for special access to Startup School 2026! For most people, courtside at an arena means watching a game. For me, it was\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQG0VUCIWhNDzg/feedshare-shrink_800/B56Z_JodXiGUAg-/0/1785794256036?e=2147483647&v=beta&t=OEvBbleLz4cmFMOoe0mg6rR9UlJssgxWNknR19C8pkk",
+        "id": "7490164003109785600"
+      }
+    ],
+    "linkedin_num_id": "1138980458",
+    "banner_image": "https://media.licdn.com/dms/image/v2/D5616AQEgpIYqauiMxg/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1732482103597?e=2147483647&v=beta&t=qqr5CI78r5GEWUu_3qfOrbvyWZ1f4-aJkm-BUa98nck",
+    "honors_and_awards": [
+      {
+        "title": "TPC Reviewer",
+        "publication": "IEEE",
+        "date": "2025-09-01T00:00:00.000Z",
+        "description": "I served as a Technical Program Committee reviewer for multiple IEEE conferences like IEEE CSNT 2027. I evaluated submitted research papers for technical merit and clarity. I provided detailed feedback to authors and helped decide which papers met the bar for acceptance. This role gave me a close look at how rigorous peer review shapes the quality of published research and this helped me understand what I need to do to write better research papers."
+      },
+      {
+        "title": "USACO Gold",
+        "publication": "United States of America Computing Olympiad",
+        "date": "2025-01-01T00:00:00.000Z",
+        "description": "I earned a Gold designation in the USA Computing Olympiad (USACO), a competitive programming competition that tests advanced problem-solving and algorithmic skills. Achieving this level required a strong understanding of data structures, algorithms, and efficient coding practices to solve challenging problems under time constraints."
+      },
+      {
+        "title": "Gold Presidential Volunteer Service Award",
+        "publication": "the President of the United States",
+        "date": "2024-11-01T00:00:00.000Z",
+        "description": "I was awarded the Gold Presidential Volunteer Service Award for my work at Hey, Blue! achieving more positive interactions between communities and police."
+      },
+      {
+        "title": "Stanford International Logic Olympiad Semifinalist",
+        "publication": "Stanford ILO",
+        "date": "2024-06-01T00:00:00.000Z",
+        "description": "Awarded Semifinalist in Stanford's International Logic Olympiad, tested on my logic and problem-solving skills against thousands of other competitors."
+      },
+      {
+        "title": "Apple Swift Student Tech Challenge Winner",
+        "publication": "Apple",
+        "date": "2024-03-01T00:00:00.000Z",
+        "description": "Creating an app demonstrating excellence in innovation, creativity, social impact, or inclusivity and one of the 350 winners out of thousands of entries."
+      },
+      {
+        "title": "Silver Presidential Volunteer Service Award",
+        "publication": "Children's Association for Maximum Potential",
+        "date": "2023-09-01T00:00:00.000Z",
+        "description": "Through my 200 hours of volunteer service at Camp CAMP, where I assisted children with mental and physical disabilities in their daily activities, I was honored to receive the Silver President\u2019s Volunteer Service Award (PVSA)."
+      },
+      {
+        "title": "Gold Presidential Volunteer Service Award",
+        "publication": "the President of the United States",
+        "date": "2023-07-01T00:00:00.000Z",
+        "description": "Awarded the Gold Presidential Volunteer Service Award for 425 hours of service done for the community through Scouting."
+      },
+      {
+        "title": "National Spanish Exam - Gold Medal",
+        "publication": "AATSP",
+        "date": "2023-04-01T00:00:00.000Z",
+        "description": null
+      },
+      {
+        "title": "AIME Qualifier",
+        "publication": "American Mathematics Contest",
+        "date": "2023-02-01T00:00:00.000Z",
+        "description": "I qualified for the American Invitational Mathematics Examination (AIME) after scoring high enough on the American Mathematics Contest (AMC) 10 Exam."
+      }
+    ],
+    "similar_profiles": [],
+    "default_avatar": false,
+    "memorialized_account": false,
+    "bio_links": [
+      {
+        "title": "Portfolio",
+        "link": "https://www.prithviportfolio.com/"
+      }
+    ],
+    "first_name": "Prithvi",
+    "last_name": "Sairaj Krishnan",
+    "influencer": false,
+    "timestamp": "2026-08-12T19:13:56.012Z",
+    "input": {
+      "url": "https://www.linkedin.com/in/prithvi-sairaj-krishnan-262538279"
+    }
+  },
+  "local_photo": "data\\linkedin_photos\\prithvi-sairaj-krishnan-262538279__usr-DBqUmlNuVN1rxHF.jpg"
+}

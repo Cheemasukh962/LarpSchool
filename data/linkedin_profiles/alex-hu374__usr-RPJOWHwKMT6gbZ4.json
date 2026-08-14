@@ -1,0 +1,200 @@
+{
+  "luma_user_id": "usr-RPJOWHwKMT6gbZ4",
+  "csv_name": "Alexander hu",
+  "csv_linkedin": "https://www.linkedin.com/in/alex-hu374",
+  "enriched_at": "2026-08-12T18:55:27.684302+00:00",
+  "batch_id": "sd_msqg7js7a7y0irwot",
+  "profile": {
+    "id": "alex-hu374",
+    "name": "Alexander Hu",
+    "city": "New York City Metropolitan Area",
+    "country_code": "US",
+    "position": null,
+    "about": "Currently pursuing a Bachelor of Science in Computer Science at UCLA, with a focus on\u2026",
+    "current_company": {
+      "link": "https://www.linkedin.com/company/scaleai?trk=public_profile_topcard-current-company",
+      "name": "Scale AI",
+      "company_id": "scaleai",
+      "location": null
+    },
+    "experience": null,
+    "url": "https://ua.linkedin.com/in/alex-hu374",
+    "educations_details": "UCLA",
+    "education": [
+      {
+        "title": "UCLA",
+        "url": "https://www.linkedin.com/school/ucla/",
+        "start_year": "2023-09",
+        "end_year": "2027-06",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      },
+      {
+        "start_year": "2019-09",
+        "end_year": "2023-06",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      }
+    ],
+    "avatar": "https://media.licdn.com/dms/image/v2/D5603AQFO0kNqmd96vw/profile-displayphoto-scale_200_200/B56Z2tJZplIsAY-/0/1776726420140?e=2147483647&v=beta&t=4SL4zGK9l3LN2JMwE9RFgS-n3wuQk9pdqmsJ0hok6vs",
+    "languages": [
+      {
+        "subtitle": "Native or bilingual proficiency",
+        "title": "English"
+      },
+      {
+        "subtitle": "Limited working proficiency",
+        "title": "Chinese"
+      },
+      {
+        "subtitle": "Limited working proficiency",
+        "title": "Spanish"
+      }
+    ],
+    "certifications": [
+      {
+        "meta": "Issued Mar 2025 Credential ID cec8a3ec-7ea7-47b3-ab60-42adda227726 See credential",
+        "subtitle": "Develop for Good",
+        "title": "Develop for Good Winter 2025 Program - Graduate",
+        "credential_url": "https://credsverse.com/credentials/cec8a3ec-7ea7-47b3-ab60-42adda227726?preview=1&trk=public_profile_see-credential",
+        "credential_id": "cec8a3ec-7ea7-47b3-ab60-42adda227726"
+      }
+    ],
+    "volunteer_experience": [
+      {
+        "cause": "Social Services",
+        "duration": "Jan 2017 \u00b7 - \nJun 2023 \u00b7 \n6 years 6 months",
+        "duration_short": "- \nJun 2023",
+        "info": "Volunteered to tutor programming in Summers, Prepared for 4-H community fairs, stayed overnight at annual 4-H Fair as a herdsman to guard 4-H property, Helped organize items in annual Rummage Sale",
+        "start_date": "Jan 2017",
+        "subtitle": "National 4-H Council",
+        "title": "Member"
+      }
+    ],
+    "followers": 632,
+    "connections": 500,
+    "current_company_company_id": "scaleai",
+    "current_company_name": "Scale AI",
+    "projects": [
+      {
+        "title": "Palantir Hackathon - V2V NLP traffic alerts",
+        "start_date": "Oct 2025",
+        "description": "Won 1st place in Palantir hackathon through leveraging LiDAR sensor data with Python data processing Pipelines to create AI-driven traffic risk alerts using OpenAI API"
+      },
+      {
+        "title": "XPlore",
+        "start_date": "Jan 2025",
+        "description": "Developed LLM-powered extracirricular planner for use in UCLA Student affairs websiteUtilized Langchain/Langgraph APIs, vector databases, and database management skills to create project"
+      },
+      {
+        "title": "LA Hacks - Accessible AR sign language learning app",
+        "start_date": "Apr 2025",
+        "description": "Placed 10 out of 160+ teams at largest hackathon in Southern CaliforniaDeveloped a Snapchat Spectacles app using ML and AI to teach ASL"
+      },
+      {
+        "title": "Adblock",
+        "start_date": "Sep 2024",
+        "description": "\u25cf Developed chrome extension using C++ scripting techniques, HTML, JSON, Javascript, and CSS to create ad blocker that blocks over 10,000 ad domains\u25cf Utilized Javascript to implement manual ad blocking and video ad blocking, eliminating pop-up and video ads on most websites"
+      },
+      {
+        "title": "African Crises Machine Learning Prediction Research",
+        "start_date": "Jun 2022",
+        "description": "Presented machine learning engineering research of in symposium of over 100 viewersEngineered economic data and predicted economic crises using 3 different machine learning algorithmsTrained, tested, and evaluated model precision on dataset containing data from over 10 African countries"
+      },
+      {
+        "title": "RoboCup Junior: Rescue Maze",
+        "start_date": "Oct 2020",
+        "description": "Won 1st place nationally, 4th internationally, International Excellence in Teamwork award in competitionManufactured a robot with a team of 4 to autonomously traverse a maze and perform tasksResearched, wired, and programmed sensors for robot navigation in environments with over 5 different categories of obstaclesFabricated robot chassis, gearing system, and mounts using CAD design"
+      }
+    ],
+    "location": null,
+    "input_url": "https://www.linkedin.com/in/alex-hu374",
+    "linkedin_id": "alex-hu374",
+    "activity": [
+      {
+        "interaction": "Alexander Hu shared this",
+        "link": "https://www.linkedin.com/posts/alex-hu374_looking-forward-to-joining-scale-ai-as-a-activity-7463700231273099264-T_QN",
+        "title": "Looking forward to joining Scale AI as a Software Engineering Intern next month! Thank you Carmen Ng for helping me throughout the recruitment process, I'm excited to get started!",
+        "img": "https://media.licdn.com/dms/image/v2/D5605AQGC2wfKDOGWgA/videocover-high/B56Z5MfZMuJEBQ-/0/1779399760037?e=2147483647&v=beta&t=slnrLRN3SOMVLyTkqyNZxQhwmB7rZrC2fp2b9Yw3UQ8",
+        "id": "7463700231273099264"
+      },
+      {
+        "interaction": "Alexander Hu liked this",
+        "link": "https://www.linkedin.com/posts/carmen-ng-a1a248b_happy-national-intern-day-scale-ai-activity-7488733907614396418-KFwD",
+        "title": "Happy National Intern Day! \ud83c\udf89 Scale AI \u2764\ufe0f\u2019s our interns! Intern season is the best time of year and we are so proud of everything they have already accomplished \ud83d\ude80",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQGrD4ZfqtYZWg/feedshare-image-high-res/B56Z.1TyTfGcAU-/0/1785453293458?e=2147483647&v=beta&t=saIhEFQGUH90m0HjLew1muhB-oPm26s9S7R_odaWRh4",
+        "id": "7488733907614396418"
+      },
+      {
+        "interaction": "Alexander Hu liked this",
+        "link": "https://www.linkedin.com/posts/francisdesouza_today-scale-ai-announced-that-im-joining-activity-7488594877463654400-Yinm",
+        "title": "Today Scale AI announced that I'm joining as CEO on August 10. AI will transform how the world's most important companies and institutions operate. But making these systems reliable enough to trust with critical work remains one of the industry's biggest challenges. Company after company gets an AI model to an impressive demo but stalls long before it reaches real decisions in production. Closing that gap is the work, and it's the problem Scale exists to solve. Scale has a rare vantage point. It works with the world's leading AI labs to push the frontier forward, while helping enterprises and governments deploy AI in the real world. Through its data, applications and evaluation work, Scale helps answer the question that increasingly matters: does the technology actually work? Leaving Google Cloud is hard. It's a remarkable team doing consequential work, and I'm grateful to Thomas Kurian and every Googler I\u2019ve had the privilege to work with. I'm cheering for you. To the Scale board, thank you for the trust. To Alexandr Wang , Jason Droege and the Scale team: you've created something special. I'm going to spend my first weeks listening. I\u2019m excited to build with you.",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQHHL04LpUzmzw/feedshare-shrink_800/B4EZ.zU_ZGHoAc-/0/1785420052411?e=2147483647&v=beta&t=beSbxDg0VDEINdrb7U5bXT4dTae-bmOmcJGB1pNpEf0",
+        "id": "7488594877463654400"
+      },
+      {
+        "interaction": "Alexander Hu liked this",
+        "link": "https://www.linkedin.com/posts/mblingo_waymo-roles-referral-opportunities-us-activity-7486072099984474112-Hzzw",
+        "title": "Waymo Roles Referral Opportunities! \ud83d\udccd U.S. | Full-time & Summer 2027 Internships | New Grad Roles & Internships If you\u2019re interested in working in autonomous vehicles, AI, robotics, or tech, there are some great openings right now. Check out the open roles here: https://lnkd.in/e2XgnbDz Looking for a referral? \u2714\ufe0f Like this post + comment waymo \u2714\ufe0f Follow me for more curated opportunities and job resources Students looking for opportunities, check out Starteryou . Always happy to help people break into great companies. \ud83d\ude80",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQEyXh5C4bEsdA/feedshare-shrink_1280/B4EZ.LkoBDKQAM-/0/1784753062271?e=2147483647&v=beta&t=-qOL8DRL6IF5Op4B9QyB4YsPZNyBZEgdfl7XOXnsvBc",
+        "id": "7486072099984474112"
+      },
+      {
+        "interaction": "Alexander Hu reacted on this",
+        "link": "https://www.linkedin.com/posts/tinajryao_im-excited-to-share-that-ive-joined-the-activity-7480283660311666688-2Wop",
+        "title": "I'm excited to share that I've joined The Collective as a Founding Fellow! The Collective is an invite-only community of founders, operators, and builders shaping the next generation of startups across NYC, SF, Boston, and DC (soon!) I'll be helping organize events and build out the NY + DC chapter. If you want to meet top founders, 10x your network, and attend cool events, comment + dm me and I'll send you a referral link. https://lnkd.in/eVTN82Ar",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQGEkOKE_7tnLQ/feedshare-shrink_800/B4EZ88o7G0J0Ac-/0/1783428789313?e=2147483647&v=beta&t=YyiegnSCW0vaLb4rSLqvJzeRCDmBb-HUvPSGtgJtrhI",
+        "id": "7480283660311666688"
+      },
+      {
+        "interaction": "Alexander Hu liked this",
+        "link": "https://www.linkedin.com/posts/dilan-doshi_im-excited-to-share-that-this-past-week-activity-7479238135105765376-GZO8",
+        "title": "I\u2019m excited to share that this past week I started my 12-week internship at Genentech on the DDC team as an AI Engineering Intern, focusing on Agents & Evals. I\u2019m looking forward to learning from an incredible team, contributing to meaningful work at the intersection of AI and healthcare, and growing as an engineer over the next few months. A big thank you to Aditya Garg and everyone who has supported me along the way. Excited for what\u2019s ahead!",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQHwfjwLVlwkuA/feedshare-image-high-res/B4EZ8uUq8mJ0AU-/0/1783188598786?e=2147483647&v=beta&t=SQnWSjNiVJOaoBi--T5G3XSy86VOam1gUaqceFX6CqY",
+        "id": "7479238135105765376"
+      },
+      {
+        "interaction": "Alexander Hu liked this",
+        "link": "https://www.linkedin.com/posts/kai-hackney_scaleai-internship-ai-activity-7465256657070104576-X7I7",
+        "title": "Today marked the start of my Software Engineering Internship at Scale AI . It also happened to overlap with their 10th anniversary celebration, meaning that we got the chance to hear from Scale's founder Alexandr Wang about the past, present, and future of the organization. I couldn't have asked for a better introduction to Scale (and San Francisco as a whole) than hearing about what really allows startups to succeed. For Scale it was working on the hardest problems for the hardest customers, forcing the team to put their heads down and grind for real results. It became clear that the mantra \"No Shortcuts\" wasn't just something that is said but something that is at the core of Scale. The fact that today was the 10th anniversary also meant that I got the chance to enjoy some incredible food (checkout the breakfast spread below). I'm incredibly excited to be spending my summer working on the GenAI Frontier Data team under Shawn Sun with the help of mentoring from Edgar Arakelyan . I look forward to designing agents that can learn from their experiences through RL environments that simulate real world interaction. I want to express my sincere gratitude to Carmen Ng , Sarah Ruhe , and Ninah S. for making the onboarding process enjoyable and smooth, giving the team of 30 interns a very warm welcome to Scale. To anyone who will be in the San Francisco area this summer and is interested in connecting, please feel free to let me know! Just moved into my SF apartment as well so recommendations on fun things to do in the city are also welcome! #scaleai #internship #ai #softwareengineering #sanfrancisco #machinelearning #GenAI",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQGdmNPE6PieWg/feedshare-shrink_800/B56Z5nrXduIsAc-/0/1779855883056?e=2147483647&v=beta&t=_x4B8qIY-Rjmq1mS7r6Wo1cFZ4XVHToE4Ny5u0wH10I",
+        "id": "7465256657070104576"
+      }
+    ],
+    "linkedin_num_id": "993374365",
+    "banner_image": "https://static.licdn.com/aero-v1/sc/h/5q92mjc5c51bjlwaj3rs9aa82",
+    "honors_and_awards": [
+      {
+        "title": "Fourth Place & Excellent Teamwork Award",
+        "publication": "RoboCup Federation",
+        "date": "2022-07-01T00:00:00.000Z",
+        "description": "My team, Team N.E.R.D, placed 4th in this year's RoboCup Junior: Rescue Maze competition in Bangkok, Thailand with competitors from over 15 countries"
+      },
+      {
+        "title": "First Place and Best Algorithms Award",
+        "publication": "RoboCup Federation",
+        "date": "2022-05-01T00:00:00.000Z",
+        "description": "Our RoboCup Junior: Rescue Maze team won nationals to qualify for the international competition in Bangkok, Thailand"
+      }
+    ],
+    "similar_profiles": [],
+    "default_avatar": false,
+    "memorialized_account": false,
+    "bio_links": [
+      {
+        "title": "Portfolio",
+        "link": "https://alexhuportfolio.netlify.app/"
+      }
+    ],
+    "first_name": "Alexander",
+    "last_name": "Hu",
+    "influencer": false,
+    "timestamp": "2026-08-12T18:54:31.703Z",
+    "input": {
+      "url": "https://www.linkedin.com/in/alex-hu374"
+    }
+  },
+  "local_photo": "data\\linkedin_photos\\alex-hu374__usr-RPJOWHwKMT6gbZ4.jpg"
+}

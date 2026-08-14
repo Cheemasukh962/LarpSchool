@@ -1,0 +1,208 @@
+{
+  "luma_user_id": "usr-5CLhFtGRnvmpH67",
+  "csv_name": "Bhavyansh Sabharwal",
+  "csv_linkedin": "https://www.linkedin.com/in/bhavyansh-sabharwal",
+  "enriched_at": "2026-08-12T18:59:59.559067+00:00",
+  "batch_id": "sd_msqgcuh41lygyhc91a",
+  "profile": {
+    "id": "bhavyansh-sabharwal",
+    "name": "Bhavyansh Sabharwal",
+    "city": "San Francisco, California, United States",
+    "country_code": "US",
+    "position": null,
+    "about": "Engineer at SafetyKit, CS student at Columbia Engineering Email:\u2026",
+    "current_company": {
+      "link": "https://www.linkedin.com/company/safetykit?trk=public_profile_topcard-current-company",
+      "name": "SafetyKit",
+      "company_id": "safetykit",
+      "location": null
+    },
+    "experience": null,
+    "url": "https://nl.linkedin.com/in/Bhavyansh-sabharwal",
+    "educations_details": "Columbia University",
+    "education": [
+      {
+        "start_year": "2025-05",
+        "end_year": "2025-08",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      },
+      {
+        "start_year": "2020-08",
+        "end_year": "2024-05",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      }
+    ],
+    "avatar": "https://media.licdn.com/dms/image/v2/D4D03AQHzOX-fXzp-OA/profile-displayphoto-scale_200_200/B4DZrZODnBJcAY-/0/1764580933208?e=2147483647&v=beta&t=d68ET9EdX6_-3gFELyn_KFXEAn1uJQpxc9JevTLeW60",
+    "courses": [
+      {
+        "subtitle": "COMS 3157",
+        "title": "Advanced Programming"
+      },
+      {
+        "subtitle": "COMS 3134",
+        "title": "Data Structures in Java"
+      },
+      {
+        "subtitle": "COMS 3203",
+        "title": "Discrete Mathematics"
+      },
+      {
+        "subtitle": "APMA 2000",
+        "title": "Multivariable Calculus"
+      }
+    ],
+    "volunteer_experience": [
+      {
+        "cause": "Education",
+        "duration": "Jan 2023 \u00b7 - \nDec 2023 \u00b7 1 year",
+        "duration_short": "- \nDec 2023",
+        "info": "Tutored SAT Math to 60+ learners. Received 250+ positive ratings over 35 sessions for 50+ hours. Selected for the Toronto-KWiK Learning Lab, where I collaborated with three tutors to support middle school students in catching up on their Khan Academy assignments.",
+        "start_date": "Jan 2023",
+        "subtitle": "Schoolhouse.world",
+        "title": "SAT Math Tutor"
+      }
+    ],
+    "followers": 972,
+    "connections": 500,
+    "current_company_company_id": "safetykit",
+    "current_company_name": "SafetyKit",
+    "projects": [
+      {
+        "title": "NASA Beyond the Algorithm Challenge, Winner ($100k)",
+        "start_date": "Jul 2025",
+        "description": "Won $100,000 first-place cash prize in a NASA competition against hundreds of students, professors, and companies.Developed Spike2Former-Flood, a spiking neural network fusing optical + SAR imagery for under 15 min flood mapping.Optimized on neuromorphic processors (Loihi 2, Akida) using <5W to enable autonomous in-orbit disaster intelligence."
+      },
+      null,
+      null,
+      null,
+      {
+        "title": "Recoverly",
+        "description": "Won the Best Use of Generative AI prize at Columbia DevFest 2025 amongst 66 competing teams.Built React/TypeScript frontend with Firebase (Auth, Firestore, Storage) & Flask backend for claims and PDF reporting.Engineered automated loss documentation by integrating Eden AI (object/text detection) and OpenAI (value estimation)."
+      },
+      {
+        "title": "NYC HAQ Hackathon",
+        "description": "Placed 2nd in Quantum Chemistry for effective simulation performance on noisy and noiseless backends.Simulated ground and excited states of Lithium Hydride (LiH) using VQE and compared with classical solvers (FCI, CCSD).Applied Density Matrix Embedding Theory to simulate metal hydrides for disease treatment, scaling to ~10 qubits."
+      }
+    ],
+    "location": "San Francisco",
+    "input_url": "https://www.linkedin.com/in/bhavyansh-sabharwal",
+    "linkedin_id": "bhavyansh-sabharwal",
+    "activity": [
+      {
+        "interaction": "Liked by Bhavyansh Sabharwal",
+        "link": "https://www.linkedin.com/posts/james-p-dever_former-talent-manager-builds-software-to-activity-7490136632524996609-Mx_Z",
+        "title": "thanks for listening to me talk about Solira for an hour, Net Influencer. full thing here: https://lnkd.in/gEa3R9Mf",
+        "img": "https://media.licdn.com/dms/image/sync/v2/D5627AQENJruc4v8kDg/articleshare-shrink_1280_800/B56Z_JIdjhHIAg-/0/1785785867794?e=2147483647&v=beta&t=cRcnfa1mtaIuboBRHEWtpnoLxcj8Yol_LY-VVkf__Jc",
+        "id": "7490136632524996609"
+      },
+      {
+        "interaction": "Liked by Bhavyansh Sabharwal",
+        "link": "https://www.linkedin.com/posts/david-graunke-46790429_scammers-are-fast-and-scammers-are-everywhere-activity-7482942831074983936-R_HR",
+        "title": "Scammers are *fast*, and scammers are *everywhere*. We heard this over and over at the SafetyKit scam summit in April. Since then we've spent six\u2026",
+        "img": "https://static.licdn.com/aero-v1/sc/h/53n89ecoxpr1qrki1do3alazb",
+        "id": "7482942831074983936"
+      },
+      {
+        "interaction": "Liked by Bhavyansh Sabharwal",
+        "link": "https://www.linkedin.com/posts/bobbiechen_what-do-trust-safety-professionals-reveal-activity-7453528607206883328-GTxZ",
+        "title": "What do trust & safety professionals reveal behind closed doors? (hope no one sues me!) At the AI Scam Summit yesterday, speakers shared a lot of\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQFaAmGRIIJQhA/feedshare-shrink_800/B56Z3BAxeuHQAc-/0/1777059699107?e=2147483647&v=beta&t=UA9cBvehi1GpiW4OKNoNuyNkAQNqbe9rJhZhRpq9KY4",
+        "id": "7453528607206883328"
+      },
+      {
+        "interaction": "Liked by Bhavyansh Sabharwal",
+        "link": "https://www.linkedin.com/posts/safetykit_wow-the-scam-summit-delivered-we-are-activity-7453500634768650240-yGdm",
+        "title": "Wow - the Scam Summit delivered. We are blown away by the caliber of panelists, breakout groups, and conversations that attendees enjoyed yesterday.\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQFaQipY6S7gKw/feedshare-shrink_800/B56Z3AnUk7HAAk-/0/1777053027522?e=2147483647&v=beta&t=0g28OpenJHJx0RLKLUyKJMZaaV5LpzANc54-ITISr9c",
+        "id": "7453500634768650240"
+      },
+      {
+        "interaction": "Liked by Bhavyansh Sabharwal",
+        "link": "https://www.linkedin.com/posts/aineshravi_made-the-day-trip-from-cdmx-up-to-sf-for-activity-7453287890656321536-m_oD",
+        "title": "Made the day trip from CDMX up to SF for SafetyKit's AI Scam Summit. The trip was worth it within the first 45 minutes. Felt amazing to be a part\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQG2oJx1vymD8Q/feedshare-image-high-res/B4EZ29l1ZcH0AU-/0/1777002307284?e=2147483647&v=beta&t=oB2IQTLitiMMvm2SilpPhSfjEVRjMTTogyaH4d6mRkI",
+        "id": "7453287890656321536"
+      },
+      {
+        "interaction": "Liked by Bhavyansh Sabharwal",
+        "link": "https://www.linkedin.com/posts/eliam_tomorrow-is-the-application-deadline-for-activity-7453069119517638656-YMwg",
+        "title": "tomorrow is the application deadline for the telora summer fellowship. if you want to go all-in on your startup this summer, this is the place to do\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQGFReNiqF0s9w/feedshare-shrink_800/B56Z26e3xCIkAk-/0/1776950148435?e=2147483647&v=beta&t=GpX9hz2f-H3wPjqLZQLLJcO4-0OZqRyxhCXCr-t-5EM",
+        "id": "7453069119517638656"
+      },
+      {
+        "interaction": "Liked by Bhavyansh Sabharwal",
+        "link": "https://www.linkedin.com/posts/safetykit_were-less-than-48-hours-from-safetykits-activity-7452401546178281472-yAme",
+        "title": "We\u2019re less than 48 hours from SafetyKit\u2019s inaugural Scam Summit! Join trust and safety, risk, and cybersecurity leaders as we hear from\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQFMfE3mifaa_g/feedshare-shrink_800/B56Z2w_tqIG0Ac-/0/1776790985722?e=2147483647&v=beta&t=t7YZl2T4msnTMKPq9vWbKjy-7xi-5ytc5N55mroDDMM",
+        "id": "48"
+      },
+      {
+        "interaction": "Liked by Bhavyansh Sabharwal",
+        "link": "https://www.linkedin.com/posts/safetykit_were-excited-to-announce-that-our-friends-activity-7448398033236533248-8_hx",
+        "title": "We're excited to announce that our friends at Persona will be joining the [AI] Scam Summit on April 23 in San Francisco at Shack15! Persona is the\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQFTIYbPua2Xyg/feedshare-shrink_1280/B56Z14GisoIoAM-/0/1775836474430?e=2147483647&v=beta&t=8G-4Xwwry7sDIpMO8GjFlKVdQFi0H2cN2ojISM0qAFo",
+        "id": "7448398033236533248"
+      },
+      {
+        "interaction": "Liked by Bhavyansh Sabharwal",
+        "link": "https://www.linkedin.com/posts/stevenguichard_my-co-founder-flew-to-india-and-sat-down-activity-7447354699558846465-DktI",
+        "title": "My co-founder flew to India and sat down with a scammer for two hours. I'm the one building the systems that catch them. This conversation is a good\u2026",
+        "img": "https://static.licdn.com/aero-v1/sc/h/53n89ecoxpr1qrki1do3alazb",
+        "id": "7447354699558846465"
+      },
+      {
+        "interaction": "Liked by Bhavyansh Sabharwal",
+        "link": "https://www.linkedin.com/posts/david-graunke-46790429_im-the-ceo-of-a-startup-that-fights-scammers-activity-7447348301298946048-rjfk",
+        "title": "I'm the CEO of a startup that fights scammers. I went to India to meet scammers face-to-face. I spent two hours with a lifelong scammer who says\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5605AQG1ibX72W6uSQ/feedshare-thumbnail_720_1280/B56Z1pLsjFGwA8-/0/1775586171301?e=2147483647&v=beta&t=79ZiG-OCLTUxJ88I2ysreHlQIQiVgncvRbzYkrW-0Oo",
+        "id": "7447348301298946048"
+      },
+      {
+        "interaction": "Liked by Bhavyansh Sabharwal",
+        "link": "https://www.linkedin.com/posts/brett-berson-9986094_one-of-the-more-underappreciated-effects-activity-7445494927410483200-8_qV",
+        "title": "One of the more underappreciated effects of AI: it's made scams dramatically more sophisticated and harder to detect. SafetyKit is bringing together\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4D22AQF_kLhBDyTNmw/feedshare-shrink_800/B4DZ1O2LfwJkAg-/0/1775144320230?e=2147483647&v=beta&t=076ddk9Wh4NZTajctTvSq7i5JrD_vea2EmNDRz5RD2U",
+        "id": "7445494927410483200"
+      }
+    ],
+    "linkedin_num_id": "1249731506",
+    "banner_image": "https://media.licdn.com/dms/image/v2/D5616AQEkLHFNI9B6Uw/profile-displaybackgroundimage-shrink_200_800/B56Z72ak.0K0AQ-/0/1782250623157?e=2147483647&v=beta&t=GZ6ohxYu122XK-JAoButOrqxW72gBNCdLU_RA7SiaOE",
+    "honors_and_awards": [
+      {
+        "title": "Dean's List (All semesters)",
+        "publication": "Columbia University",
+        "date": "2025-02-01T00:00:00.000Z",
+        "description": null
+      },
+      {
+        "title": "US Presidential Scholar Candidate",
+        "publication": "U.S. Department of Education",
+        "date": "2024-05-01T00:00:00.000Z",
+        "description": "Candidate for U.S. Presidential Scholar, recognizing exceptional academic achievement, leadership, service, and talent in technical fields. This is awarded by the White House Commission on Presidential Scholars, with an invitation-only application process (0.125% of High School students nominated)."
+      },
+      {
+        "title": "National Merit Scholar",
+        "publication": "National Merit Scholarship Foundation",
+        "date": "2024-02-01T00:00:00.000Z",
+        "description": "Selected as a National Merit Scholarship Finalist, recognizing exceptional academic performance on the PSAT/NMSQT and outstanding achievement in scholarship, leadership, and community service."
+      }
+    ],
+    "similar_profiles": [],
+    "default_avatar": false,
+    "memorialized_account": false,
+    "bio_links": [],
+    "first_name": "Bhavyansh",
+    "last_name": "Sabharwal",
+    "influencer": false,
+    "timestamp": "2026-08-12T18:58:38.315Z",
+    "input": {
+      "url": "https://www.linkedin.com/in/bhavyansh-sabharwal"
+    }
+  },
+  "local_photo": "data\\linkedin_photos\\bhavyansh-sabharwal__usr-5CLhFtGRnvmpH67.jpg"
+}

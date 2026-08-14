@@ -1,0 +1,280 @@
+{
+  "luma_user_id": "usr-ojNlH3ZCh8zgK4D",
+  "csv_name": "Sahil Patel",
+  "csv_linkedin": "https://www.linkedin.com/in/sahil-patel-38029123b",
+  "enriched_at": "2026-08-12T19:16:49.709740+00:00",
+  "batch_id": "sd_msqgxyk1xj7v4ip1",
+  "profile": {
+    "id": "sahil-patel-38029123b",
+    "name": "Sahil Patel",
+    "city": "Sterling, Virginia, United States",
+    "country_code": "US",
+    "position": null,
+    "about": null,
+    "current_company": {
+      "link": "https://www.linkedin.com/company/rivian?trk=public_profile_topcard-current-company",
+      "name": "Rivian",
+      "company_id": "rivian",
+      "location": null
+    },
+    "experience": null,
+    "url": "https://cl.linkedin.com/in/Sahil-patel-38029123b",
+    "educations_details": "Georgia Institute of Technology",
+    "education": [
+      {
+        "title": "Georgia Institute of Technology",
+        "url": "https://www.linkedin.com/school/georgia-institute-of-technology/",
+        "start_year": "2023-08",
+        "end_year": "2026-05",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      },
+      {
+        "start_year": "2019",
+        "end_year": "2023",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      }
+    ],
+    "avatar": "https://media.licdn.com/dms/image/v2/D5603AQG-FmDNeSKNKA/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1695577559970?e=2147483647&v=beta&t=co69N1MswzYjbh9sm1ja2P61x9zZ1iYhJreDx43m1HY",
+    "courses": [
+      {
+        "subtitle": "MATH 3012",
+        "title": "Applied Combinatorics"
+      },
+      {
+        "subtitle": "CS 3600",
+        "title": "Artificial Intelligence"
+      },
+      {
+        "subtitle": "CS 2110",
+        "title": "Compter Organization"
+      },
+      {
+        "subtitle": "CS 3251",
+        "title": "Computer Networking"
+      },
+      {
+        "subtitle": "CS 1332",
+        "title": "Data Structures and Algorythms"
+      },
+      {
+        "subtitle": "CS 4400",
+        "title": "Database Systems"
+      },
+      {
+        "subtitle": "CS 3510",
+        "title": "Design & Analysis of Algorithms"
+      },
+      {
+        "subtitle": "CS 2050",
+        "title": "Discrete Mathematics"
+      },
+      {
+        "subtitle": "MGT 3078",
+        "title": "Finance & Investments"
+      },
+      {
+        "subtitle": "MGT 4074",
+        "title": "Fintech & Crypto Tokens"
+      },
+      {
+        "subtitle": "CS 3235",
+        "title": "Information Security"
+      },
+      {
+        "subtitle": "MATH 1553",
+        "title": "Linear Algebra"
+      },
+      {
+        "subtitle": "CS 2340",
+        "title": "Objects and Design"
+      },
+      {
+        "subtitle": "CS 3630",
+        "title": "Perception & Robotics"
+      },
+      {
+        "subtitle": "CS 2200",
+        "title": "Systems & Networks"
+      }
+    ],
+    "followers": 1011,
+    "connections": 500,
+    "current_company_company_id": "rivian",
+    "current_company_name": "Rivian",
+    "projects": [
+      {
+        "title": "QuickER",
+        "start_date": "Oct 2024",
+        "description": "\u2022 Engineered an automated emergency response solution by ingesting 911 calls in real-time with Twilio and Whisper\u2022 Developed dashboard with dynamic resource allocation to reduce emergency room preparation time by 11 minutes\u2022 Streamlined patient diagnosis and triage with 87% accuracy using sentence embeddings, Llama3, and RAGWe iterated on the original idea that inspired CallER by engineering a more accurate, efficient, and versatile solution."
+      },
+      {
+        "title": "CallER // Hacklytics",
+        "start_date": "Feb 2024",
+        "description": "\u2022Engineered AI-enhanced emergency communication platform, utilizing Python and Flask backend \u2022Used TensorFlow to develop ML model for medication prediction, incorporating batch normalization \u2022Designed sentence transformers and embeddings to parse live audio from 911 calls\u2022Leveraged LLMs and custom ML model to determine triage level, required medicine, and ETA to ER in real-time."
+      },
+      {
+        "title": "STAMP-AI // HackGT",
+        "start_date": "Oct 2023",
+        "description": "\u2022 In 36 hours, implemented CCTV-based shooter detection and tracking using Yolo V8, PyTorch and a building map\u2022 Designed camera continuity system to only monitor necessary cameras after a shooter is detected\u2022 Used the BLIP LLM to generate live shooter descriptionsWe are continuing to work on this project in collaboration with GTPD to implement this system into Georgia Tech."
+      },
+      {
+        "title": "BlazeCast // AI ATL",
+        "description": "\u2022 Trained a U-Net wildfire prediction model with 8-channeled weather and geospatial input using TensorFlow\u2022 Leveraged scikit-learn to preprocess training data, increasing accuracy to within a quarter mile for a 48-hour forecast\u2022 Built an interactive map-based UI, enabling users to select wildfire emergence points and view predictive heatmaps"
+      }
+    ],
+    "location": "Sterling",
+    "input_url": "https://www.linkedin.com/in/sahil-patel-38029123b",
+    "linkedin_id": "sahilp650",
+    "activity": [
+      {
+        "interaction": "Liked by Sahil Patel",
+        "link": "https://www.linkedin.com/posts/karun-natarajan-15b945215_92-days-368-days-and-1104-days-miss-one-activity-7488963359808335873-lgYL",
+        "title": "92 days, 368 days, and 1,104 days. Miss one of those inspections and the unit is parked at $4,000 a day. Railio is the AI native management system\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4E05AQE6sU1rO0WVIA/videocover-high/B4EZ.4kBaxJEBU-/0/1785507881245?e=2147483647&v=beta&t=v4N7_rG4HI-OV-VkZLh_0b53t342l0KHNiIm7yNe7A0",
+        "id": "368"
+      },
+      {
+        "interaction": "Liked by Sahil Patel",
+        "link": "https://www.linkedin.com/posts/rivian_interns-rivian-adventurousforever-activity-7488722702682427392-ARIM",
+        "title": "It's National Intern Day, and we have a lot of interns to celebrate. Engineers, software developers, designers, program managers and so many more\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQFfAg1OKsosDA/feedshare-shrink_1280/B56Z.1JmiwGgAQ-/0/1785450621395?e=2147483647&v=beta&t=Ef8TQxpjsyZo4T-LcAdqfJ9JA0047-tkCSLTQgxxN-8",
+        "id": "7488722702682427392"
+      },
+      {
+        "interaction": "Liked by Sahil Patel",
+        "link": "https://www.linkedin.com/posts/lucasminshew_im-excited-to-share-that-ive-been-accepted-activity-7483902091892170753-0V-6",
+        "title": "I'm excited to share that I've been accepted into Group 36 of the Professional Program in Accounting (PPA) at the James Benjamin Department of\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQFS4QYp2h2v0g/feedshare-image-high-res/B4EZ9soj3TIsAU-/0/1784234000110?e=2147483647&v=beta&t=0VZQatfTOKLO66gYRUK9PLyva1f774SOVQ_paMwqhGk",
+        "id": "7483902091892170753"
+      },
+      {
+        "interaction": "Liked by Sahil Patel",
+        "link": "https://www.linkedin.com/posts/karun-natarajan-15b945215_most-railroads-have-that-one-locomotive-technician-activity-7487522271872409600-IFaV",
+        "title": "Most railroads have that one locomotive technician who's been there 20 years and can fix anything. Very few have a plan for the day that technician\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4E05AQHwmWV0Z1iAQA/videocover-high/B4EZ.heb9qJIBU-/0/1785120541721?e=2147483647&v=beta&t=52M1vgpiaPpvaLwa5VRFy9rxXNw1RkUOLR6q4HIOhww",
+        "id": "7487522271872409600"
+      },
+      {
+        "interaction": "Liked by Sahil Patel",
+        "link": "https://www.linkedin.com/posts/ryan-campbell-639426b1_ever-wondered-what-a-day-in-the-life-of-a-activity-7486535274748071936-Fe0P",
+        "title": "Ever wondered what a Day in the Life of a Rivian Intern looks like across our different locations? Take a peek into a day with Ronith Raha, Amish\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5605AQE9kOFxL67x8A/videocover-high/B56Z.WEIGsGcBM-/0/1784929093908?e=2147483647&v=beta&t=NsbuEuFcbdyw-8LWiX8svKpcNPwFdODT_mUZkcZnc2o",
+        "id": "7486535274748071936"
+      },
+      {
+        "interaction": "Liked by Sahil Patel",
+        "link": "https://www.linkedin.com/posts/clevy_interning-in-the-bay-area-im-hosting-internapalooza-activity-7480115138478632960-Hgdy",
+        "title": "interning in the Bay Area? I'm hosting Internapalooza (STEM intern event) in San Francisco on the evening of July 27th all undergrad and graduate\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQHCgZbvwvXe6Q/feedshare-shrink_800/B56Z861FLDIoAg-/0/1783398421943?e=2147483647&v=beta&t=w6ZBF2D-cj0di22wpt4ggrzK0w6_CghVn-RVC61gvy0",
+        "id": "7480115138478632960"
+      },
+      {
+        "interaction": "Liked by Sahil Patel",
+        "link": "https://www.linkedin.com/posts/lolita-testu-bb0b252b4_another-project-from-my-industrial-design-activity-7478885290733064193-QiNx",
+        "title": "Another project from my Industrial Design minor that shaped the way I think about design and engineering was an interactive mechanical flower\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQFUov574fITPw/feedshare-image-high-res/B4EZ8FsR_OJ0AU-/0/1782506923021?e=2147483647&v=beta&t=9pcMDhs-Qm3CYgLRo6FcpE6EkjUXYlZjcyq8GIdj_i8",
+        "id": "7478885290733064193"
+      },
+      {
+        "interaction": "Liked by Sahil Patel",
+        "link": "https://www.linkedin.com/posts/rivian_rivian-adventurousforever-rivianintern-activity-7481376729198977025-8CIl",
+        "title": "Our 2026 Summer intern class is here \u2014 and it\u2019s a good one. We\u2019re welcoming over 100 interns from more than 50 universities. They\u2019re stepping into\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQEUb1cJtzJAXA/feedshare-shrink_800/B56Z9JC4AgLAAc-/0/1783636918953?e=2147483647&v=beta&t=1NkXzvQcEw2D_bZqHB0Fp40lxSRJIfhmpacpug2VkmU",
+        "id": "7481376729198977025"
+      },
+      {
+        "interaction": "Liked by Sahil Patel",
+        "link": "https://www.linkedin.com/posts/lolita-testu-bb0b252b4_georgiatech-classof2026-biomedicalengineering-activity-7470294178548252672-eUd7",
+        "title": "I\u2019m excited to share that I graduated from Georgia Tech, Class of 2026, with High Honors, earning my degree in Biomedical Engineering and a minor in\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQFuCoB4iF1CIQ/feedshare-image-high-res/B4EZ6vQ93cHoAc-/0/1781056921352?e=2147483647&v=beta&t=rw8XVDEe8nuhEmyzYsf6omYdo1_LBM63r8V5A3gMusI",
+        "id": "7470294178548252672"
+      },
+      {
+        "interaction": "Liked by Sahil Patel",
+        "link": "https://www.linkedin.com/posts/neha-bandaru-7871b7225_thats-a-wrap-on-spring-2026-this-semester-activity-7466852988276441088-WyLg",
+        "title": "That\u2019s a wrap on Spring 2026! This semester, I had the privilege of serving as VP of Projects for Mason Consulting Group after previously serving as\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQFR3R_Kp24Xhg/feedshare-shrink_1280/B4EZ5.XLHyHsAM-/0/1780236465162?e=2147483647&v=beta&t=lN5XdcjPP5Magzsr27ElSOFTfPsgc1dO_wB9FTUc94Y",
+        "id": "2026"
+      },
+      {
+        "interaction": "Liked by Sahil Patel",
+        "link": "https://www.linkedin.com/posts/jeremy-wiltz_from-cub-scout-to-eagle-scout-to-rocket-activity-7467286865096912896-2dKg",
+        "title": "From cub scout, to Eagle Scout, to Rocket Scientist, so proud of our son Paul Wiltz. He graduated Summa Cum Laude in Aerospace Engineering from\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4D22AQGAckUBE-G3KQ/feedshare-shrink_800/B4DZ6Eh0MlGYAc-/0/1780339918137?e=2147483647&v=beta&t=vm7OSqYLk7-Lmc96FhK5XWdo6c2ioI3q76hLYdouJ5w",
+        "id": "7467286865096912896"
+      },
+      {
+        "interaction": "Liked by Sahil Patel",
+        "link": "https://www.linkedin.com/posts/marissa-prem-57764a292_excited-to-share-that-ill-be-joining-booz-activity-7463348239711387649-sDAi",
+        "title": "Excited to share that I\u2019ll be joining Booz Allen Hamilton as a Financial Analyst Intern! Super grateful for everyone who helped me along the way\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQGVd7AddPghrw/feedshare-shrink_800/B4EZ5MjrKGHQAg-/0/1779400881228?e=2147483647&v=beta&t=t7SiQIXJJzQ0RECe4dXBCGcFAZ-t05fcEiED4Ntcwcw",
+        "id": "7463348239711387649"
+      },
+      {
+        "interaction": "Liked by Sahil Patel",
+        "link": "https://www.linkedin.com/posts/owenpollack_im-very-excited-to-share-that-i-will-be-activity-7459729550608945153-kAyK",
+        "title": "I'm very excited to share that I will be starting next week at Zipline as a Flight Test Engineering Intern on the System Validation & Automation team\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQGtHrSxqSVp8A/feedshare-shrink_800/B4EZ4YHeT2HYAc-/0/1778521073332?e=2147483647&v=beta&t=sPfsMCxtzYhPeuaa9FS5P5dv52K-OnWvTv2X1KPD_0M",
+        "id": "7459729550608945153"
+      },
+      {
+        "interaction": "Liked by Sahil Patel",
+        "link": "https://www.linkedin.com/posts/austin-st-amour_hey-can-i-grab-your-linkedin-every-networking-activity-7459750595176914944-AIc9",
+        "title": "\"Hey, can I grab your LinkedIn?\" Every networking event runs that script. So Teegan Fitzgerald and I tried something else. An event without\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQFthw0JNQZchw/feedshare-shrink_800/B4EZ4ZbopsKAAc-/0/1778543136195?e=2147483647&v=beta&t=5lsI3c2cj8-Q2mOirASzlGeShHLRUbVn25HQBwkLwlU",
+        "id": "7459750595176914944"
+      },
+      {
+        "interaction": "Liked by Sahil Patel",
+        "link": "https://www.linkedin.com/posts/aryabhanushali_excited-to-share-that-ive-graduated-from-activity-7458925422278414336-wQOT",
+        "title": "Excited to share that I\u2019ve graduated from Georgia Institute of Technology with a B.S. in Computer Science. Following my graduation, this summer, I\u2019ll\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQF11u_PFcW2Vg/feedshare-shrink_1280/B4EZ4NtJHiJAAM-/0/1778346398565?e=2147483647&v=beta&t=40P_LdDTjsHL4uXTAFPBnOsJkMdZSMc10QkiWfMeYrw",
+        "id": "7458925422278414336"
+      }
+    ],
+    "linkedin_num_id": "1000991184",
+    "banner_image": "https://media.licdn.com/dms/image/v2/D4E16AQEmiLH_Q63hpw/profile-displaybackgroundimage-shrink_200_800/B4EZXy2BWMHcAU-/0/1743536003309?e=2147483647&v=beta&t=HY9rlbWfvj0verJPxiB--PI4xI4WIP2DU5ry0lZEYbM",
+    "honors_and_awards": [
+      {
+        "title": "1st Place Sustainability Hack",
+        "publication": "AI ATL",
+        "date": "2023-11-01T00:00:00.000Z",
+        "description": "Blazecast is an AI-based solution that predicts the path of a wildfire. This award marks the successful completion of my second hackathon and my team's back-to-back hackathon victory."
+      },
+      {
+        "title": "1st Place AI Hack",
+        "publication": "HackGT X",
+        "date": "2023-10-01T00:00:00.000Z",
+        "description": "STAMP-AI is a CCTV-based shooter tracking and mapping system. My team of first-semester freshmen and I competed for best AI hack on the advanced track and won. Although it was my first hackathon, my passion and technical skills enabled us to engineer an incredibly complex project in 36 hours."
+      },
+      {
+        "title": "Eagle Scout",
+        "publication": "Scouts of America",
+        "date": "2023-02-01T00:00:00.000Z",
+        "description": null
+      },
+      {
+        "title": "National Merit Finalist",
+        "publication": "NMSC",
+        "date": "2022-09-01T00:00:00.000Z",
+        "description": null
+      }
+    ],
+    "similar_profiles": [],
+    "default_avatar": false,
+    "memorialized_account": false,
+    "bio_links": [],
+    "first_name": "Sahil",
+    "last_name": "Patel",
+    "influencer": false,
+    "timestamp": "2026-08-12T19:16:38.580Z",
+    "input": {
+      "url": "https://www.linkedin.com/in/sahil-patel-38029123b"
+    }
+  },
+  "local_photo": "data\\linkedin_photos\\sahil-patel-38029123b__usr-ojNlH3ZCh8zgK4D.jpg"
+}

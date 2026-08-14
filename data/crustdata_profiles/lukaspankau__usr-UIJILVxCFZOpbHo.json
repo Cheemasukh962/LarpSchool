@@ -1,0 +1,379 @@
+{
+  "source": "crustdata",
+  "recovered_from": "brightdata_failed_private",
+  "luma_user_id": "usr-UIJILVxCFZOpbHo",
+  "csv_name": "Lukas Pankau",
+  "csv_linkedin": "https://www.linkedin.com/in/lukaspankau",
+  "clean_linkedin": "https://www.linkedin.com/in/lukaspankau",
+  "enriched_at": "2026-08-14T18:07:59.937250+00:00",
+  "person_data": {
+    "basic_profile": {
+      "current_title": "Co-Founder / CEO",
+      "first_name": null,
+      "headline": "Founder | Engineer | General Nerd",
+      "languages": [
+        "English (Native or bilingual proficiency)",
+        "German (Native or bilingual proficiency)",
+        "Polish (Native or bilingual proficiency)",
+        "French (Elementary proficiency)",
+        "Chinese (Elementary proficiency)"
+      ],
+      "last_name": null,
+      "location": {
+        "city": "",
+        "continent": "North America",
+        "country": "United States",
+        "full_location": null,
+        "raw": "San Francisco Bay Area",
+        "state": "California"
+      },
+      "name": "Lukas Pankau",
+      "normalized_title": {
+        "confident": true,
+        "department": "Executive Leadership",
+        "matched_title": "Co-Founder & CEO",
+        "similarity": 0.9994999766349792,
+        "sub_department": "Founder & Entrepreneurship Leadership"
+      },
+      "professional_network_name": "Lukas Pankau",
+      "profile_picture_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/person/93b35ff8ac840f43379921070a5e32fdda6bb2164ffa2880a9784f9075ca3b57.jpg",
+      "summary": "Specialties: new technology development, thermography, electrical system simulation and analysis, project planning, alternative energy, German and Polish languages"
+    },
+    "education": {
+      "schools": [
+        {
+          "activities_and_societies": "University of Michigan Solar Car Team, Alternative Investments Club",
+          "degree": "Masters",
+          "description": "",
+          "end_year": 2008,
+          "field_of_study": "Industrial and Operations Engineering (Financial Engineering)",
+          "institute_logo_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/company/ec1c030a2acdc5ad59badb4b4918c180cbff07dbf8880dae8a359e4ecfa26f9f.jpg",
+          "institute_logo_url": "https://media.licdn.com/dms/image/v2/C4E0BAQFGfERBPGurCg/company-logo_400_400/company-logo_400_400/0/1631307390795?e=1786579200&v=beta&t=GR3u_mUjCmf4ze-4xsqPwwNn_pKRgDP4sZ3l1ZShArM",
+          "location": {
+            "city": "Ann Arbor",
+            "continent": "North America",
+            "country": "United States",
+            "raw": "Ann Arbor, Michigan, United States",
+            "state": "Michigan"
+          },
+          "professional_network_id": "2516",
+          "school": "University of Michigan",
+          "start_year": 2006
+        },
+        {
+          "activities_and_societies": "University of Michigan Solar Car Team, Michigan chapter of SAE",
+          "degree": "Bachelors",
+          "description": "",
+          "end_year": 2006,
+          "field_of_study": "Aerospace Engineering",
+          "institute_logo_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/company/ec1c030a2acdc5ad59badb4b4918c180cbff07dbf8880dae8a359e4ecfa26f9f.jpg",
+          "institute_logo_url": "https://media.licdn.com/dms/image/v2/C4E0BAQFGfERBPGurCg/company-logo_400_400/company-logo_400_400/0/1631307390795?e=1786579200&v=beta&t=GR3u_mUjCmf4ze-4xsqPwwNn_pKRgDP4sZ3l1ZShArM",
+          "location": {
+            "city": "Ann Arbor",
+            "continent": "North America",
+            "country": "United States",
+            "raw": "Ann Arbor, Michigan, United States",
+            "state": "Michigan"
+          },
+          "professional_network_id": "2516",
+          "school": "University of Michigan",
+          "start_year": 2003
+        }
+      ]
+    },
+    "experience": {
+      "employment_details": {
+        "current": [
+          {
+            "company_description": "What if your factory could learn?Industrial Next builds the AI brain for precision manufacturing \u2014  making factories cost-competitive at any scale, anywhere.We develop AI-driven robotic workstations and manufacturing foundation models that help factories automate high-precision tasks faster. Our systems learn from production data, adapt to new products, and improve across deployments.Built by veterans of Tesla, Waymo, Ford, GM, and Meta, with robotics roots from the University of Washington, MIT, Carnegie Mellon University, the University of Michigan, and NYU.Backed by YC, Khosla Ventures, Lenovo, Alphax Partners, and Plug and Play.\ud83c\uddfa\ud83c\uddf8 We're hiring in the US! We are expanding our team to build the future of manufacturing. We are actively looking for:\u2013 MTS, Research\u2013 MTS, Robotics Software\u2013 MTS, Mechatronics Engineer\u2013 MTS, Staff Robotics Systems Engineer\u2013 MTS, Deployment Engineer\u2013 MTS, Controls Engineer\u2013 MTS, Technical Project ManagerBring us your hardest precision manufacturing challenges, or reach out to explore our open roles: info@industrialnext.ai",
+            "company_professional_network_profile_url": "https://linkedin.com/company/80196875",
+            "company_profile_picture_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/company/f94db2806a858f528aac68f2858905e9e5bb3eb2616e7a678b393c70f0000bb4.jpg",
+            "company_website_domain": "industrialnext.ai",
+            "crustdata_company_id": 690283,
+            "description": "",
+            "employment_type": "Full-time",
+            "end_date": null,
+            "function_category": "",
+            "is_default": true,
+            "location": {
+              "raw": "San Francisco Bay Area"
+            },
+            "name": "Industrial Next",
+            "position_id": 1941482586,
+            "professional_network_id": "80196875",
+            "seniority_level": "CXO",
+            "start_date": "2021-07-01T00:00:00+00:00",
+            "title": "Co-Founder / CEO",
+            "years_at_company": "6 to 10 years",
+            "years_at_company_raw": 5.0
+          }
+        ],
+        "past": [
+          {
+            "company_description": "On the journey to be the world's most trusted driver. With the Waymo Driver, we can improve mobility while saving thousands of lives. Download the Waymo One app and ride today.Waymo reaches out to candidates from official channels only (e.g. directly from @waymo.com email addresses, or through our recruiters or sourcers who are noted as such on LinkedIn). We do not contact candidates about career opportunities through instant messaging apps like Telegram, email addresses from domains other than waymo.com (such as Gmail addresses), direct messages on Twitter, Facebook, and Instagram, or text messages. Visit waymo.com to check out our official job listings.Need support? Send us a message \u2013 we're here to help.",
+            "company_professional_network_profile_url": "https://linkedin.com/company/17900793",
+            "company_profile_picture_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/company/5d704fd52b53b3cc869d48ef792e1dfd9236fd9fad317f6ac385322d7237d99d.jpg",
+            "company_website_domain": "waymo.com",
+            "crustdata_company_id": 632365,
+            "description": "New technology, sensing modality, and architecture development for next-generation self-driving system",
+            "employment_type": "",
+            "end_date": "2021-06-01T00:00:00+00:00",
+            "function_category": "Engineering",
+            "is_default": false,
+            "location": {
+              "raw": "San Francisco Bay Area"
+            },
+            "name": "Waymo",
+            "position_id": 1541965246,
+            "professional_network_id": "17900793",
+            "seniority_level": "Entry Level",
+            "start_date": "2018-11-01T00:00:00+00:00",
+            "title": "Hardware Architect",
+            "years_at_company": "3 to 5 years",
+            "years_at_company_raw": 2.0
+          },
+          {
+            "company_description": "",
+            "company_professional_network_profile_url": null,
+            "company_profile_picture_permalink": "",
+            "company_website_domain": null,
+            "crustdata_company_id": null,
+            "description": "Reduction of residential and industrial building energy usage through thermographic imaging and construction analysis.\n\nProject management of client building improvements.\n\nResearch and development of affordable home solar power.",
+            "employment_type": "",
+            "end_date": "2020-10-01T00:00:00+00:00",
+            "function_category": "",
+            "is_default": false,
+            "location": {
+              "raw": ""
+            },
+            "name": "Ecofficient Labs",
+            "position_id": 132053611,
+            "professional_network_id": "",
+            "seniority_level": "Owner / Partner",
+            "start_date": "2009-01-01T00:00:00+00:00",
+            "title": "Founder",
+            "years_at_company": "More than 10 years",
+            "years_at_company_raw": 11.0
+          },
+          {
+            "company_description": "Tesla is accelerating the world\u2019s transition to sustainable abundance. To achieve our mission, we're building a world powered by solar, enabled by battery storage and transported by electric vehicles. We\u2019re committed to hiring and developing top talent from around the world for any given discipline. Headquartered in Texas, we operate six huge, vertically integrated factories across three continents. With over 100,000 employees, our teams take a first-principles approach to designing, building, selling and servicing our products in-house. Our world-class teams operate with a non-conventional philosophy of inter-disciplinary collaboration. Each member of the team is expected to challenge and to be challenged, to create, and to innovate. We\u2019re tackling the world\u2019s most difficult and important problems\u2014and we wouldn\u2019t succeed without our shared passion for making the world a better place.",
+            "company_professional_network_profile_url": "https://linkedin.com/company/15564",
+            "company_profile_picture_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/company/e9043e30a93ad78dcaa48c0bec986f66dadfe9e602f757fa0ba224dd441372c9.jpg",
+            "company_website_domain": "tesla.com",
+            "crustdata_company_id": 662349,
+            "description": "Lead engineer for Model X, Model 3, post-Model 3 next-generation low voltage electrical architectures and smart robotic systems for vehicle assembly.\n\nSpecified functional safety standards for autonomous vehicle systems and adapting electrical architecture designs to follow and exceed these specifications using concepts from ISO 26262\n\nCreated all-new electrical architecture using statistical analysis of data from multiple internal sources for Tesla Model 3 and next-generation platforms resulting in cost savings in excess of $550 per vehicle\n\nDeveloped first electrical device information database at Tesla to generate progress reports for executive leadership and significantly improve accuracy of information transfer by further developing an automatic data export into the Capital wire harness design tool set\n\nImplemented stereo vision system for Kuka 6-axis industrial robots for tolerance-aware path planning\n\nEngineered system with computer vision-based navigation to robotically install a traditional wire harness into vehicle body parts",
+            "employment_type": "",
+            "end_date": "2018-10-01T00:00:00+00:00",
+            "function_category": "Engineering",
+            "is_default": false,
+            "location": {
+              "raw": "San Francisco Bay Area"
+            },
+            "name": "Tesla",
+            "position_id": 589022601,
+            "professional_network_id": "15564",
+            "seniority_level": "Senior",
+            "start_date": "2013-09-01T00:00:00+00:00",
+            "title": "Staff Electrical Engineer",
+            "years_at_company": "6 to 10 years",
+            "years_at_company_raw": 5.0
+          },
+          {
+            "company_description": "We don't just make history -- we make the future. Ford put the world on wheels over a century ago, and our teams are re-inventing icons and creating groundbreaking connected and electric vehicles for the next century. We believe in serving our customers, our communities, and the world. If you do, too, come move the world and make the future with us.Ford is a global company with shared ideals and a deep sense of family. From our earliest days as a pioneer of modern transportation, we have sought to make the world a better place \u2013 one that benefits lives, communities and the planet. We are here to provide the means for every person to move and pursue their dreams, serving as a bridge between personal freedom and the future of mobility. In that pursuit, our 186,000 employees around the world help to set the pace of innovation every day. Privacy Policy: https://www.ford.com/help/privacy/",
+            "company_professional_network_profile_url": "https://linkedin.com/company/1483",
+            "company_profile_picture_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/company/17016ef0b75ebe061a423828a9cc5bd99fbb25a6106c8d0db02b25b82c2cf3b6.jpg",
+            "company_website_domain": "ford.com",
+            "crustdata_company_id": 681811,
+            "description": "Designed and optimized complex electrical distribution system for 2015 Edge conforming to European, Asian, and North American market and performance specifications\n\nOptimized processes and software tools to streamline workload from requiring a team of six engineers to requiring only two engineers\n\nDiagnosed and rewired electrical systems at assembly line of prototype builds \"on-the-fly\" to avoid testing delays and provide correct electrical function of prototype wiring harnesses\n\nDeveloped set of Java and C++ utilities to extract wiring attributes from manufacturing drawings and import into wiring diagrams using probabilistic matching algorithms",
+            "employment_type": "",
+            "end_date": "2013-09-01T00:00:00+00:00",
+            "function_category": "Engineering",
+            "is_default": false,
+            "location": {
+              "raw": "Greater Detroit Area"
+            },
+            "name": "Ford",
+            "position_id": 506327517,
+            "professional_network_id": "1483",
+            "seniority_level": "Senior",
+            "start_date": "2010-11-01T00:00:00+00:00",
+            "title": "Lead Electrical Systems Engineer",
+            "years_at_company": "3 to 5 years",
+            "years_at_company_raw": 2.0
+          },
+          {
+            "company_description": "The mission of the University of Michigan is to serve the people of Michigan and the world through preeminence in creating, communicating, preserving, and applying knowledge, art, and academic values, and in developing leaders and citizens who will challenge the present and enrich the future.Why Work at Michigan?Being part of something greater, of serving a larger mission of discovery and care \u2014 that's the heart of what drives people to work at Michigan. In some way, great or small, every person here helps to advance this world-class institution. It's adding a purpose to your profession. Work at Michigan and become a victor for the greater good.",
+            "company_professional_network_profile_url": "https://linkedin.com/company/2516",
+            "company_profile_picture_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/company/ec1c030a2acdc5ad59badb4b4918c180cbff07dbf8880dae8a359e4ecfa26f9f.jpg",
+            "company_website_domain": "umich.edu",
+            "crustdata_company_id": 1477410,
+            "description": "Developed UM Solar Car Team branding strategy for 2005 and 2007 National Championship projects. \n\nDesigned and maintained team website, newsletters, sponsorship brochures, and brand identity.\n\nCreated team displays for 2006 and 2007 North American International Auto Shows.\n\nHelped increase project sponsorship from $1.8 to $2.4 Million, with cash component increasing from $400,000 to $700,000.",
+            "employment_type": "",
+            "end_date": "2008-12-01T00:00:00+00:00",
+            "function_category": "Engineering",
+            "is_default": false,
+            "location": {
+              "raw": ""
+            },
+            "name": "University of Michigan",
+            "position_id": 132056984,
+            "professional_network_id": "2516",
+            "seniority_level": "Entry Level",
+            "start_date": "2004-09-01T00:00:00+00:00",
+            "title": "Web Developer, Graphic Artist, and Branding Specialist",
+            "years_at_company": "3 to 5 years",
+            "years_at_company_raw": 4.0
+          },
+          {
+            "company_description": "Yazaki is a global leader in the research, development and delivery of vehicle power and data solutions for automotive applications. With nearly 250,000 employees in 45 countries, Yazaki is one of the world's largest privately-owned automotive suppliers and our products are used by virtually every major automotive supplier in the world. For more information, visit www.yazaki-na.com.",
+            "company_professional_network_profile_url": "https://linkedin.com/company/11253",
+            "company_profile_picture_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/company/969990079b31293de313f45b9a7b413f17f8c5f6579e3090528b70ecd1f2f47c.jpg",
+            "company_website_domain": "yazaki-na.com",
+            "crustdata_company_id": 1296377,
+            "description": "Systems Engineer, performed computer-aided analysis of wire harness circuits for customers' major car lines. \n\nServed as tool specialist to automate manual processes with shell scripting.\n\nReduced lead time for Saber Simulator analysis by about 50%.\n\nOn an assignment to Germany exchanged ideas with my international counterpart to advance simulation techniques.",
+            "employment_type": "",
+            "end_date": "2008-08-01T00:00:00+00:00",
+            "function_category": "Engineering",
+            "is_default": false,
+            "location": {
+              "raw": "Greater Detroit Area"
+            },
+            "name": "Yazaki North America",
+            "position_id": 13521633,
+            "professional_network_id": "11253",
+            "seniority_level": "Entry Level",
+            "start_date": "2006-05-01T00:00:00+00:00",
+            "title": "Systems Engineer",
+            "years_at_company": "3 to 5 years",
+            "years_at_company_raw": 2.0
+          },
+          {
+            "company_description": "Yazaki is a global leader in the research, development and delivery of vehicle power and data solutions for automotive applications. With nearly 250,000 employees in 45 countries, Yazaki is one of the world's largest privately-owned automotive suppliers and our products are used by virtually every major automotive supplier in the world. For more information, visit www.yazaki-na.com.",
+            "company_professional_network_profile_url": "https://linkedin.com/company/11253",
+            "company_profile_picture_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/company/969990079b31293de313f45b9a7b413f17f8c5f6579e3090528b70ecd1f2f47c.jpg",
+            "company_website_domain": "yazaki-na.com",
+            "crustdata_company_id": 1296377,
+            "description": "Designed performance tracking metrics, created engineering process improvements, wire harness build illustrations and general engineering tool support (SDRC I-DEAS, Sun Solaris).",
+            "employment_type": "",
+            "end_date": "2006-05-01T00:00:00+00:00",
+            "function_category": "",
+            "is_default": false,
+            "location": {
+              "raw": "Greater Detroit Area"
+            },
+            "name": "Yazaki North America",
+            "position_id": 7296660,
+            "professional_network_id": "11253",
+            "seniority_level": "In Training",
+            "start_date": "2006-01-01T00:00:00+00:00",
+            "title": "3D Engineering Co-op",
+            "years_at_company": "Less than 1 year",
+            "years_at_company_raw": 0.0
+          },
+          {
+            "company_description": "The mission of the University of Michigan is to serve the people of Michigan and the world through preeminence in creating, communicating, preserving, and applying knowledge, art, and academic values, and in developing leaders and citizens who will challenge the present and enrich the future.Why Work at Michigan?Being part of something greater, of serving a larger mission of discovery and care \u2014 that's the heart of what drives people to work at Michigan. In some way, great or small, every person here helps to advance this world-class institution. It's adding a purpose to your profession. Work at Michigan and become a victor for the greater good.",
+            "company_professional_network_profile_url": "https://linkedin.com/company/2516",
+            "company_profile_picture_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/company/ec1c030a2acdc5ad59badb4b4918c180cbff07dbf8880dae8a359e4ecfa26f9f.jpg",
+            "company_website_domain": "umich.edu",
+            "crustdata_company_id": 1477410,
+            "description": "In this project I was part of the business group and assisted the launch systems group with the selection of the launch vehicle.\n\nAssembled financial plan to ensure project funding.\n\nDefined spacecraft launch procedure and requirements for launch vehicle.\n\nDetermined critical path for quickest possible launch and set schedule accordingly.",
+            "employment_type": "",
+            "end_date": "2006-04-01T00:00:00+00:00",
+            "function_category": "",
+            "is_default": false,
+            "location": {
+              "raw": ""
+            },
+            "name": "University of Michigan",
+            "position_id": 132057137,
+            "professional_network_id": "2516",
+            "seniority_level": "Entry Level Manager",
+            "start_date": "2006-01-01T00:00:00+00:00",
+            "title": "Business Manager",
+            "years_at_company": "Less than 1 year",
+            "years_at_company_raw": 0.0
+          },
+          {
+            "company_description": "",
+            "company_professional_network_profile_url": "https://linkedin.com/company/106304",
+            "company_profile_picture_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/company/d9ce1d9f32aac6940894ee1840b236f3f4909fd272ed6758f121f5e99f59bc02.jpg",
+            "company_website_domain": null,
+            "crustdata_company_id": 6267932,
+            "description": "Designed performance tracking metrics, managed general design changes to wire harnesses and engineering tool support (SDRC I-DEAS, Sun Solaris).",
+            "employment_type": "",
+            "end_date": "2005-12-01T00:00:00+00:00",
+            "function_category": "",
+            "is_default": false,
+            "location": {
+              "raw": "Greater Detroit Area"
+            },
+            "name": "SY Systems Technologies",
+            "position_id": 13521491,
+            "professional_network_id": "106304",
+            "seniority_level": "In Training",
+            "start_date": "2005-06-01T00:00:00+00:00",
+            "title": "3D Engineering Intern/Co-op",
+            "years_at_company": "Less than 1 year",
+            "years_at_company_raw": 0.0
+          }
+        ]
+      }
+    },
+    "professional_network": {
+      "connections": 1963,
+      "current_title": "Co-Founder / CEO",
+      "followers": 1941,
+      "headline": "Founder | Engineer | General Nerd",
+      "location": {
+        "city": "",
+        "continent": "North America",
+        "country": "United States",
+        "raw": "San Francisco Bay Area",
+        "state": "California"
+      },
+      "metadata": {
+        "last_scraped_source": null
+      },
+      "name": "Lukas Pankau",
+      "profile_picture_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/person/93b35ff8ac840f43379921070a5e32fdda6bb2164ffa2880a9784f9075ca3b57.jpg",
+      "pronoun": "",
+      "summary": "Specialties: new technology development, thermography, electrical system simulation and analysis, project planning, alternative energy, German and Polish languages"
+    },
+    "skills": {
+      "professional_network_skills": [
+        "Alternative Energy",
+        "Project Planning",
+        "Engineering Management",
+        "Management",
+        "Analysis",
+        "Project Management",
+        "Entrepreneurship",
+        "Energy",
+        "Renewable Energy",
+        "Software Development",
+        "Process Improvement",
+        "Training",
+        "Marketing Strategy",
+        "Engineering",
+        "Teamwork",
+        "Start-ups",
+        "Research",
+        "Continuous Improvement",
+        "Automotive",
+        "Microsoft Office"
+      ]
+    },
+    "social_handles": {
+      "dev_platform_identifier": {
+        "profile_url": null
+      },
+      "professional_network_identifier": {
+        "profile_url": "https://www.linkedin.com/in/lukaspankau"
+      },
+      "twitter_identifier": {
+        "slug": ""
+      }
+    },
+    "crustdata_person_id": 16269
+  }
+}

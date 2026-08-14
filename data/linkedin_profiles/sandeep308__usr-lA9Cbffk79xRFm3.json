@@ -1,0 +1,289 @@
+{
+  "luma_user_id": "usr-lA9Cbffk79xRFm3",
+  "csv_name": "Sandeep Kumar",
+  "csv_linkedin": "https://www.linkedin.com/in/sandeep308",
+  "enriched_at": "2026-08-12T19:16:49.714458+00:00",
+  "batch_id": "sd_msqgxyk1xj7v4ip1",
+  "profile": {
+    "id": "sandeep308",
+    "name": "Sandeep Kumar",
+    "city": "United States",
+    "country_code": "US",
+    "position": null,
+    "about": "I'm drawn to problems at the frontier of AI, where scalability, reliability, and safety\u2026",
+    "current_company": {
+      "link": "https://www.linkedin.com/company/rivian-and-vw-group-technologies?trk=public_profile_topcard-current-company",
+      "name": "Rivian and Volkswagen Group Technologies",
+      "company_id": "rivian-and-vw-group-technologies",
+      "location": null
+    },
+    "experience": null,
+    "url": "https://dk.linkedin.com/in/Sandeep308",
+    "people_also_viewed": [
+      {
+        "profile_link": "https://in.linkedin.com/in/sainikhilamunipalle",
+        "name": "Nikhila Munipalle",
+        "about": "Salesforce",
+        "location": "5K followers Hyderabad"
+      },
+      {
+        "profile_link": "https://www.linkedin.com/in/udbhav99",
+        "name": "Udbhav Chugh",
+        "about": "Google",
+        "location": "4K followers New York, NY"
+      },
+      {
+        "profile_link": "https://in.linkedin.com/in/arighna-chakrabarty",
+        "name": "Arighna Chakrabarty",
+        "about": "Google",
+        "location": "3K followers Kolkata"
+      },
+      {
+        "profile_link": "https://in.linkedin.com/in/saiprasen-thati",
+        "name": "Sai Prasen Thati",
+        "about": "Developed many Products from Scratch. Built websites for Startups. Gathered requirements of Students and Faculties of NIT Warangal and provided solutions to them.<br><br>Currently working on Microsoft Compliance Manager which helps organizations to assess their compliance posture and create assessments<br><br><br>Frameworks: Django, Codeigniter, .NET<br><br>Languages: C++, Python, Java, C#<br><br>Web: HTML, CSS, Javascript, jQuery, Ajax, Bootstrap, React, typescript",
+        "location": "2K followers Hyderabad"
+      },
+      {
+        "profile_link": "https://in.linkedin.com/in/rajatjain2001",
+        "name": "Rajat Jain",
+        "about": "QI-Cap",
+        "location": "9K followers Mumbai"
+      },
+      {
+        "profile_link": "https://in.linkedin.com/in/yashkumararora",
+        "name": "Yash Kumar Arora",
+        "about": "IBM",
+        "location": "8K followers Greater Bengaluru Area"
+      },
+      {
+        "profile_link": "https://in.linkedin.com/in/sraman915",
+        "name": "Raman Sharma",
+        "about": "Microsoft",
+        "location": "8K followers Ghaziabad"
+      },
+      {
+        "profile_link": "https://in.linkedin.com/in/subash-singha-roy-b39b64170",
+        "name": "Subash Singha Roy",
+        "about": "Amazon",
+        "location": "12K followers Farakka"
+      },
+      {
+        "profile_link": "https://in.linkedin.com/in/rajat2502",
+        "name": "Rajat Verma",
+        "about": "defi.com",
+        "location": "4K followers Delhi, India"
+      }
+    ],
+    "educations_details": "Carnegie Mellon University",
+    "education": [
+      {
+        "title": "Carnegie Mellon University",
+        "url": "https://www.linkedin.com/school/carnegie-mellon-university/",
+        "start_year": "2025-08",
+        "end_year": "2026-12",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      },
+      {
+        "start_year": "2018",
+        "end_year": "2022",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      },
+      {
+        "start_year": "2016",
+        "end_year": "2018",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      },
+      {
+        "start_year": "2006",
+        "end_year": "2016",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      }
+    ],
+    "avatar": "https://media.licdn.com/dms/image/v2/D5603AQE3NkdTFIJnrg/profile-displayphoto-scale_200_200/B56Z63SPXkGcAg-/0/1781191475507?e=2147483647&v=beta&t=Mud5pOAO0kFWlTgSmq8YqXfZ24dupRsMSrYPf0ta3cA",
+    "languages": [
+      {
+        "subtitle": "Full professional proficiency",
+        "title": "English"
+      },
+      {
+        "subtitle": "Native or bilingual proficiency",
+        "title": "Malayalam"
+      },
+      {
+        "subtitle": "Elementary proficiency",
+        "title": "Hindi"
+      }
+    ],
+    "followers": 751,
+    "connections": 500,
+    "current_company_company_id": "rivian-and-vw-group-technologies",
+    "current_company_name": "Rivian and Volkswagen Group Technologies",
+    "publications": [
+      {
+        "title": "Curriculum Learning for Safety Alignment",
+        "subtitle": "ICML Workshop",
+        "date": "June 18, 2026",
+        "description": "We introduce a new curriculum learning framework for LLM safety alignment called Staged-Competence which attains a 20% improvement across popular safety benchmarks and jailbreak techniques."
+      }
+    ],
+    "projects": [
+      {
+        "title": "LogVision",
+        "description": "Built a cascaded inference pipeline that leveraged LogBert and GPT-2 to identify anomalous log patterns and provide natural language explanations of the log, along with possible remediative actions."
+      },
+      {
+        "title": "CodeReview Assistant",
+        "description": "Developed a LLM-powered RAG system for Git PRs that aggregates data from GUS, Slack, and Quip to generate contextual code summaries, reviews, and improvement recommendations. Awarded first place in a Salesforce hackathon ($750 prize)."
+      },
+      {
+        "title": "EasyML",
+        "description": "Placed 6th in Bosch India ML competition for developing an app that enables anyone to conduct easy model tuning, performance visualizations, and interpretations of their neural network."
+      },
+      {
+        "title": "Elastic Weight Consolidation with Continual Learning for Image Captioning",
+        "start_date": "Jan 2021",
+        "description": "Integrated EWC with continual learning techniques like Partial Freezing, Pseudo-Labeling, and Feature Distillation to mitigate catastrophic forgetting in Image Captioning models. Conducted research at BRAIN Lab, IITH (https://sites.google.com/view/brainiith/home)"
+      },
+      {
+        "title": "BreatheSafe",
+        "description": "Developed a React app that uses Arduinos to gather real-time air quality data and performs anomaly detection via Isolation forests to warn users about high levels of pollution within minutes."
+      }
+    ],
+    "organizations": [
+      {
+        "title": "LitSoc - The Literary Society of IIT Hyderabad",
+        "membership_type": "Core",
+        "start_date": "Aug 2019",
+        "end_date": "Present",
+        "membership_number": null
+      },
+      {
+        "title": "Lambda - Development Club of IIT Hyderabad",
+        "membership_type": "Core",
+        "start_date": "Aug 2019",
+        "end_date": "Apr 2020",
+        "membership_number": null
+      },
+      {
+        "title": "Sunshine - Counselling Cell of IIT Hyderabad",
+        "membership_type": "Student Mentor",
+        "start_date": "Aug 2019",
+        "end_date": "Apr 2020",
+        "membership_number": null
+      }
+    ],
+    "location": null,
+    "input_url": "https://www.linkedin.com/in/sandeep308",
+    "linkedin_id": "sandeep308",
+    "activity": [
+      {
+        "interaction": "Sandeep Kumar shared this",
+        "link": "https://www.linkedin.com/posts/sandeep308_wanted-to-share-a-couple-of-updates-im-activity-7469445150570885120-2TSk",
+        "title": "Wanted to share a couple of updates - - I'm two weeks into my summer internship at Rivian and it's been a great learning experience so far, working through the engineering challenges of building long-term memory for the brand new Rivian Assistant. A big thank you to my recruiter Courtney Turner and my manager Pranil Vora for making the onboarding so smooth. I'll be in the Bay Area for the next 3 months, so if you're around, I'd love to connect! - My paper \"Curriculum Learning for Safety Alignment\" was accepted at an ICML 2026 workshop. We show how much data ordering matters for learning safety representations and propose a novel DPO-based safety tuning technique that achieves ~20% improvements on popular safety benchmarks. Truly grateful to Chhavi Yadav and Virginia Smith for their continued guidance throughout this research. Feel free to check it out here: https://lnkd.in/ggEZ2VDV - I'll also be attending YC Startup School in San Francisco (July 25-26), joining a community of builders and researchers from across the country. Looking forward to reconnecting with familiar faces and meeting new trendsetters in the space. Excited for the months ahead \ud83d\ude4c ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQFYCnVwMLcuNA/feedshare-shrink_800/B56Z6jMxxWIAAk-/0/1780854496642?e=2147483647&v=beta&t=3wSbHtjGkyaQhxZggT3vP9HuAI9REMOaffyXAgzsuJA",
+        "id": "7469445150570885120"
+      },
+      {
+        "interaction": "Sandeep Kumar shared this",
+        "link": "https://www.linkedin.com/posts/sandeep308_i-got-a-chance-to-participate-in-an-ai-jailbreaking-activity-7446678227575697408-ZpdP",
+        "title": "I got a chance to participate in an AI jailbreaking event held by Gray Swan a couple of weeks ago, and my team placed 4th! It was pretty scary to see how easily models complied to harmful requests when attacked with strategies like multilingual prompts or code-wrapping in Python and LaTeX ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQHN4YcS17ldXA/feedshare-image-high-res/B4EZ1T2.UYHsAc-/0/1775228413914?e=2147483647&v=beta&t=CVKJ4DiLg4efhGSJwvn96LtehJ3LOZAz_99HCIsTMnE",
+        "id": "7446678227575697408"
+      },
+      {
+        "interaction": "Sandeep Kumar commented on a post 3w",
+        "link": "https://www.linkedin.com/posts/maya-l_ycombinator-ycstartupschool-activity-7485385739539501057-OZEN",
+        "title": "IN",
+        "img": null,
+        "id": "7485385739539501057"
+      },
+      {
+        "interaction": "Sandeep Kumar liked this",
+        "link": "https://www.linkedin.com/posts/isabella-kai-he_evolution-of-agentic-surfaces-gagan-bhat-activity-7493020833028923392-N2DC",
+        "title": "When Sonnet 4.5 was released back in 2025, we saw the model exhibit a behavior that came to be known as \"context anxiety\": as it approached its context window limit, it would wrap work up early and stop with room to spare. To compensate for this behavior, we spent time and energy building in context resets into our agent harnesses. But when Opus 4.5 shipped, the model stopped showing this behavior entirely, so the harness fixes we built in turned into pure overhead. Harnesses encodes assumptions about what the model cannot do on its own today, and those assumptions go stale as models improve. Check out our talk that Gagan Bhat and I gave at AI Engineer World's Fair, where we discuss the lessons we learned building harnesses that adapt alongside models: https://lnkd.in/gdX4xbXt Huge shoutout to AI Engineer for hosting an amazing conference - what a fun crowd to present to!",
+        "img": "https://media.licdn.com/dms/image/sync/v2/D5627AQFpjwL8bRbZhw/articleshare-shrink_800/B56Z_yLwagG0AY-/0/1786474597772?e=2147483647&v=beta&t=P2IP9Hb2hETe3lGKDpfurT4H5YGosVQtMovEdicxbRY",
+        "id": "7493020833028923392"
+      },
+      {
+        "interaction": "Sandeep Kumar liked this",
+        "link": "https://www.linkedin.com/posts/ollama_muse-glimmer-is-now-available-to-run-with-activity-7492549087930789888-kvyY",
+        "title": "Muse Glimmer is now available to run with Ollama. Released by Meta Superintelligence Labs under the Apache 2.0 license, Muse Glimmer is a 30 billion parameter multimodal model optimized for always-on local agent workflows. Muse Glimmer is available to run today via Ollama\u2019s MLX engine with state-of-the-art-performance on Apple Silicon, powering Claude Code, Codex, and more always-on local agent workflows. Additional support and optimizations for Apple Silicon, NVIDIA, AMD, and other platforms will be available shortly.",
+        "img": null,
+        "id": "7492549087930789888"
+      },
+      {
+        "interaction": "Sandeep Kumar liked this",
+        "link": "https://www.linkedin.com/posts/abay_jeff-dean-is-a-rare-role-model-in-our-industry-activity-7491561632377044993-3mg9",
+        "title": "Jeff Dean is a rare role model in our industry. He quietly creates marvelous technology and cultivates talent around him with kindness and joy. Nowadays, it feels like cortisol fueled short term thinking culture is the default. people like Jeff should be our cultural North Star in the sea of b2b SaaS. I\u2019m excited for DiscoveryLoop . It is bound to be a huge success.",
+        "img": "https://media.licdn.com/dms/image/v2/D4D22AQExqTmbuOGYDQ/feedshare-image-high-res/B4DZ_dfm1aKgAU-/0/1786127478568?e=2147483647&v=beta&t=SJmo21SvwUWHD97S3Z58b-4WxjdD5h3GuIRtt4QNOpI",
+        "id": "7491561632377044993"
+      },
+      {
+        "interaction": "Sandeep Kumar liked this",
+        "link": "https://www.linkedin.com/posts/jeff-dean-8b212555_it-was-wonderful-to-give-a-keynote-at-kdd-activity-7492785655949791232-wWtX",
+        "title": "it was wonderful to give a keynote at KDD 2026 today, and to see my undergraduate advisor and mentor Vipin Kumar in the front row of the audience. Vipin supervised my honors thesis work (on the slide I am discussing on stage in the photo) when I was an excited undergrad who had learned about neural networks in his class the previous quarter and somewhat sheepishly asked if he would be willing to let me do a research project on parallel training of neural networks with him. I wasn't experienced so didn't really know the etiquette for asking busy professors this, but I worked up my courage, and Vipin was amazing and enthusiastic and gave wise advice: everything one could want in a mentor! Thank you for launching my CS research journey, Vipin! \ud83d\ude4f",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQGYZfSWjSV54g/feedshare-image-high-res/B56Z_t9_oIHUAU-/0/1786403880059?e=2147483647&v=beta&t=EdAkao3EI7NY_vr_aVeC0NXJlcn_b40oU8pEhrd61ys",
+        "id": "7492785655949791232"
+      },
+      {
+        "interaction": "Sandeep Kumar liked this",
+        "link": "https://www.linkedin.com/posts/y-combinator_prodigy-research-yc-s26-is-an-ai-lab-that-activity-7492648703737040896-34Kx",
+        "title": "Prodigy Research (YC S26) is an AI lab that has trained the world's best foundation model for quantitative finance. Their AI quant outperforms a top 10% trader at Jane Street. Prodigy has already achieved over 100% returns in live trading over the course of the YC S26 batch, while major indices like the S&P 500 and the Nasdaq were down or flat. Their model beats Claude Fable and GPT-5.6 Sol at financial and quant research benchmarks. Prodigy's strategies are delta-neutral, and thanks to rigorous and comprehensive risk controls, they've never had a down week. Trading firms generated hundreds of billions in profit last year, and this number is growing quickly YoY. Jane Street alone is on track for a $64 billion run rate in 2026. Global equities markets now exceed $150 trillion in capitalization. Prodigy's models find new opportunities and alpha in the financial markets faster than any team of human quant researchers. The founders, Michael W. and Yuhua W. , are brothers who left seven-figure jobs to build the future of quant trading. They bring together over 16 years of combined experience in quantitative finance, frontier model research, and large-scale AI infrastructure. Michael was a senior researcher at Google DeepMind, where he trained SoTA foundation models. He previously worked as a quant and Series 57-licensed securities trader at Jane Street, where he built strategies that generated billions in PnL, growing a small desk to one of the most profitable in the whole firm. Yuhua built cutting-edge AI at Apple, serving billions of users across the world. A new era has arrived in the world of quantitative finance. To learn more, contact founders@prodigy.markets . Congrats to Michael and Yuhua on the launch! \ud83d\ude80 https://lnkd.in/gsR8YVV2",
+        "img": "https://media.licdn.com/dms/image/v2/D5605AQHcKrHN4d7a3w/videocover-high/B56Z_s8MAUJkBM-/0/1786386641289?e=2147483647&v=beta&t=sNMLN5kxh5RR63Q0L1j9uDUXpXDayqm-yUZSFtMzJ74",
+        "id": "7492648703737040896"
+      },
+      {
+        "interaction": "Sandeep Kumar liked this",
+        "link": "https://www.linkedin.com/posts/tianqi-chen-679a9856_kdd2026-xgboost-activity-7492580215643308032-vLXp",
+        "title": "Our paper \"XGBoost: A Scalable Tree Boosting System\" received the Test of Time Award at #KDD2026 ! The honor belongs to the entire community that made #XGBoost project today. Especially the maintainers Hyunsu Cho , Rory Mitchell , jiaming yuan Nan Zhu and others who continues to make the project awesome for the entire community. This is also special for me personally, as KDD is where my research career began through the KDD Cup, sparking my journey into ML systems research. In retrospect, it is hard to predict whether one's work will stand the test of time, but one can always make sure it passes the test of passion, dedication, and courage. That experience still carries me today, and hopefully continues to serve as a gift for the future. I will be giving a talk tomorrow at the award session on the paper, history, and lessons learned.",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQHu4yIA0rKhcg/feedshare-shrink_800/B56Z_r.AQhKYAg-/0/1786370327817?e=2147483647&v=beta&t=jD770ccA49KDU83QKEWW8rT9oYZ7N4wLfazh57mZ-uo",
+        "id": "7492580215643308032"
+      },
+      {
+        "interaction": "Sandeep Kumar liked this",
+        "link": "https://www.linkedin.com/posts/yashlothe_i-spent-this-summer-working-at-texas-instruments-activity-7492355317645627393-yoJt",
+        "title": "I spent this summer working at Texas Instruments in Dallas, TX as an AI Solutions Engineer Intern on the AI for Personalization team. Nearly everything I worked on touched the recommender system on TI.com , which surfaces related electrical components while an engineer is browsing a part. My main project was a Thompson Sampling multi-armed bandit for per-company personalization, so an engineer's recommendations draw on their whole company's design context, not just their own browsing. I also shipped a new email recommendations channel, with its own logic built on customers' order and browsing history, now running around 400 campaigns a day. Outside my core work, the highlight was the ITS Innovation Week hackathon, where I built the RAG system for our agentic project that auto-generates testbenches from a netlist and spec. The kind of thing that takes an engineer hours, reduced to minutes. Coming in, I didn't know much about electrical engineering. Leaving, I still don't know much about electrical engineering, but I got to see firsthand how ML gets applied in a domain where the products are physical, the customers are engineers, and the stakes are real hardware decisions. Back to Pittsburgh for my final year at CMU.",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQGgGOyGJeArcg/feedshare-shrink_800/B56Z_owHD5KYAc-/0/1786316354918?e=2147483647&v=beta&t=pbEFxpHfMGBMYYgXlfAoks_NdmF2_bp_6jGI79A0SmA",
+        "id": "7492355317645627393"
+      },
+      {
+        "interaction": "Sandeep Kumar liked this",
+        "link": "https://www.linkedin.com/posts/mahadevkonar_ai-infrastructure-systems-engineer-activity-7492256866320908288-3eyK",
+        "title": "We\u2019re working on something that hasn\u2019t really been done before: building knowledge graphs and self-improving AI agents that understand, operate, and continuously improve our infrastructure. This is an opportunity to work on problems at the intersection of AI agents, distributed systems, infrastructure, and automation. There\u2019s an enormous amount to build and learn! If you want to help define what the next generation of AI infrastructure looks like - reach out! We are hiring in London/Amsterdam/Bangalore/US!! Apply here: https://lnkd.in/gEE4isyz",
+        "img": null,
+        "id": "7492256866320908288"
+      },
+      {
+        "interaction": "Sandeep Kumar liked this",
+        "link": "https://www.linkedin.com/posts/sevans63_incredibly-sorry-to-see-yesterdays-news-activity-7486079266883874817-AUo_",
+        "title": "Incredibly sorry to see yesterday's news about how many people were affected by the layoffs at Amazon AGI. If you were impacted, I'm truly sorry. I know from close experience how devastating, frustrating and worrying times like this can be. I know it's still early, and these things take time to sit with and process. But whenever you're ready to think about next steps: we're hiring across several roles at Scale AI, on the teams building agents and deploying state-of-the-art AI systems for enterprise customers. I'd genuinely love to connect with anyone from the AGI org starting to think about what's next. We're looking for Machine Learning Research Engineers, Software Engineers (with AI experience), Applied AI Engineers and Machine Learning Engineers! No pressure, just happy to talk through whether any of this lines up with what you're looking for. Our open roles: - Senior/Staff Machine Learning Engineer, General Agents, Enterprise GenAI: https://lnkd.in/enmbcaue - Frontier Agents Engineer: https://lnkd.in/eFnuF5Wz - Senior Forward Deployed AI Engineer, Enterprise: https://lnkd.in/eJ83TYp5 - Senior Staff Forward Deployed AI Engineer, Enterprise: https://lnkd.in/eBdcrtFA - Staff Frontier Agents Engineer: https://lnkd.in/eEdyKv_3 - Senior Machine Learning Engineer, Agent Oversight: https://lnkd.in/eyUUSFTj If any of this resonates, send me a message. Happy to make an introduction even if none of these are quite right. Wishing everyone affected a smooth landing on whatever comes next.",
+        "img": null,
+        "id": "7486079266883874817"
+      }
+    ],
+    "linkedin_num_id": "837897286",
+    "banner_image": "https://static.licdn.com/aero-v1/sc/h/5q92mjc5c51bjlwaj3rs9aa82",
+    "honors_and_awards": null,
+    "similar_profiles": [],
+    "default_avatar": false,
+    "memorialized_account": false,
+    "bio_links": [],
+    "first_name": "Sandeep",
+    "last_name": "Kumar",
+    "influencer": false,
+    "timestamp": "2026-08-12T19:15:06.468Z",
+    "input": {
+      "url": "https://www.linkedin.com/in/sandeep308"
+    }
+  },
+  "local_photo": "data\\linkedin_photos\\sandeep308__usr-lA9Cbffk79xRFm3.jpg"
+}

@@ -1,0 +1,287 @@
+{
+  "luma_user_id": "usr-Gb6HhhvdIGJHqCm",
+  "csv_name": "Karthik Thyagarajan",
+  "csv_linkedin": "https://www.linkedin.com/in/karthikthyagarajan06",
+  "enriched_at": "2026-08-12T19:11:36.246239+00:00",
+  "batch_id": "sd_msqgoa0o2hh62sia9d",
+  "profile": {
+    "id": "karthikthyagarajan06",
+    "name": "Karthik Thyagarajan",
+    "city": "San Francisco Bay Area",
+    "country_code": "US",
+    "position": null,
+    "about": "https://www.karthikthyagarajan.com/ I'm an undergraduate at Purdue University\u2026",
+    "current_company": {
+      "link": "https://www.linkedin.com/company/sra-samsungreasearchamerica?trk=public_profile_topcard-current-company",
+      "name": "Samsung Research America (SRA)",
+      "company_id": "sra-samsungreasearchamerica",
+      "location": null
+    },
+    "experience": null,
+    "url": "https://be.linkedin.com/in/karthikthyagarajan06",
+    "educations_details": "Purdue University",
+    "education": [
+      {
+        "title": "Purdue University",
+        "url": "https://www.linkedin.com/school/purdue-university/",
+        "start_year": "2024-08",
+        "end_year": "2027-05",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      },
+      {
+        "start_year": "2020",
+        "end_year": "2024",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      }
+    ],
+    "avatar": "https://media.licdn.com/dms/image/v2/D4E03AQESbJx0-dfhWQ/profile-displayphoto-shrink_200_200/B4EZaS3w3eGYAY-/0/1746220814229?e=2147483647&v=beta&t=H3kHreQQpZIPiEw89YwDEgQEvd6FNe6zLbBODNsOeg0",
+    "certifications": [
+      {
+        "meta": "Issued Feb 2025 Credential ID kthyagar See credential",
+        "subtitle": "Hugging Face",
+        "title": "AI Agents Fundamentals",
+        "credential_url": "https://huggingface.co/datasets/agents-course/certificates/resolve/main/certificates/kthyagar/2025-02-13.png?trk=public_profile_see-credential",
+        "credential_id": "kthyagar"
+      },
+      {
+        "meta": "Issued Jun 2023 Credential ID NGSQNEDTV2CS See credential",
+        "subtitle": "Coursera",
+        "title": "Convolutional Neural Networks",
+        "credential_url": "https://www.coursera.org/account/accomplishments/certificate/NGSQNEDTV2CS?trk=public_profile_see-credential",
+        "credential_id": "NGSQNEDTV2CS"
+      },
+      {
+        "meta": "Issued Jun 2023 See credential",
+        "subtitle": "Coursera",
+        "title": "Deep Learning Specialization",
+        "credential_url": "https://www.credly.com/badges/b4923f34-00fa-46c9-92be-5800f42ca291/linked_in_profile?trk=public_profile_see-credential",
+        "credential_id": null
+      },
+      {
+        "meta": "Issued Jun 2023 Credential ID L35VH7TLRDEB See credential",
+        "subtitle": "Coursera",
+        "title": "Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization",
+        "credential_url": "https://www.coursera.org/account/accomplishments/verify/L35VH7TLRDEB?trk=public_profile_see-credential",
+        "credential_id": "L35VH7TLRDEB"
+      },
+      {
+        "meta": "Issued Jun 2023 Credential ID VTDH7BHF2JZ4 See credential",
+        "subtitle": "Coursera",
+        "title": "Structuring Machine Learning Projects",
+        "credential_url": "https://www.coursera.org/account/accomplishments/verify/VTDH7BHF2JZ4?trk=public_profile_see-credential",
+        "credential_id": "VTDH7BHF2JZ4"
+      },
+      {
+        "meta": "Issued Feb 2023 Credential ID ZFR2ALD2GFKN See credential",
+        "subtitle": "Coursera",
+        "title": "Neural Networks and Deep Learning",
+        "credential_url": "https://www.coursera.org/account/accomplishments/certificate/ZFR2ALD2GFKN?trk=public_profile_see-credential",
+        "credential_id": "ZFR2ALD2GFKN"
+      },
+      {
+        "meta": "Issued Apr 2022",
+        "subtitle": "The Coding School",
+        "title": "Qubit by Qubit",
+        "credential_url": null,
+        "credential_id": null
+      },
+      {
+        "meta": "Issued Jul 2020 Credential ID D5NF3JJCX86M See credential",
+        "subtitle": "Coursera",
+        "title": "Using Python to Access Web Data",
+        "credential_url": "https://www.coursera.org/account/accomplishments/certificate/D5NF3JJCX86M?trk=public_profile_see-credential",
+        "credential_id": "D5NF3JJCX86M"
+      },
+      {
+        "meta": "Issued May 2020 Credential ID D9TVX2QF64YA See credential",
+        "subtitle": "Coursera",
+        "title": "Python Data Structures",
+        "credential_url": "https://www.coursera.org/account/accomplishments/certificate/D9TVX2QF64YA?trk=public_profile_see-credential",
+        "credential_id": "D9TVX2QF64YA"
+      },
+      {
+        "meta": "Issued Apr 2020 Credential ID 7DHS4WFL2ZHK See credential",
+        "subtitle": "Coursera",
+        "title": "Programming for Everybody (Getting Started with Python)",
+        "credential_url": "https://www.coursera.org/account/accomplishments/certificate/7DHS4WFL2ZHK?trk=public_profile_see-credential",
+        "credential_id": "7DHS4WFL2ZHK"
+      }
+    ],
+    "followers": 1729,
+    "connections": 500,
+    "current_company_company_id": "sra-samsungreasearchamerica",
+    "current_company_name": "Samsung Research America (SRA)",
+    "projects": [
+      {
+        "title": "Personal Website",
+        "start_date": "Mar 2025",
+        "description": "Architected and maintained www.karthikthyagarajan.com with Next.js, React, TypeScript & Tailwind CSS; deployed via Vercel and AWS S3 (secure buckets + pre-signed URLs) to host portfolio, blog & image gallery, leveraging Vercel\u2019s CDN for performant global delivery.Built a Pinecone-backed RAG pipeline with Python scripts to power searchable Markdown docs of my projects and work history"
+      },
+      {
+        "title": "Verbatim",
+        "start_date": "Feb 2025",
+        "description": "Developed a platform to summarize, translate, voice clone, and lip sync any video, deployed using Vercel at getverbatim.tech.Created an automated pipeline with audio transcription (Whisper), translation (Google Cloud), summarization (GPT-4o), automatic voice cloning (Eleven Labs), lip sync (Sync.so) and video Q&A (Twelve Labs) for enhanced interactivity"
+      },
+      null,
+      null,
+      null,
+      {
+        "title": "Photonic Implementation of Quantum Key Distribution",
+        "start_date": "Oct 2023",
+        "description": "Engineered and assembled a lab-scale photonic QKD prototype, leveraging a 650 nm laser, inline polarizers, servo-controlled phase modulators, single-mode fibers, and polarizing beamsplitters, to implement H/V and D/ADpolarization encoding; optimized optical alignment and polarization fidelity to generate a sifted key that matched theoretical predictions.Developed Python pipelines for oscilloscope waveform thresholding (0.004 mW cutoff), bit-sequenceextraction, and basis sifting; conducted noise and signal-loss analysis."
+      },
+      null,
+      {
+        "title": "Quantum Racer (Android Educational Game)",
+        "start_date": "Aug 2022",
+        "description": "Architected and implemented an Android mobile game using Android SDK, Gradle and Git, translating core quantum mechanics concepts\u2014superposition, measurement, probability distributions, noise and decoherence\u2014into interactive racing mechanics; built and packaged the APK for side-loading and future Play Store release.Owned end-to-end development: game physics and state management, touch-input and UI flow via XML layouts, asset pipeline (PNG sprites), performance tuning on mobile devices, and comprehensive userdocumentation to guide educational outreach"
+      }
+    ],
+    "location": null,
+    "input_url": "https://www.linkedin.com/in/karthikthyagarajan06",
+    "linkedin_id": "karthikthyagarajan06",
+    "activity": [
+      {
+        "interaction": "Liked by Karthik Thyagarajan",
+        "link": "https://www.linkedin.com/posts/elliot-drel_karthik-thyagarajan-why-are-throwing-stuff-activity-7493072112618979329-pUhf",
+        "title": "Karthik Thyagarajan why are throwing stuff?",
+        "img": "https://static.licdn.com/aero-v1/sc/h/53n89ecoxpr1qrki1do3alazb",
+        "id": "7493072112618979329"
+      },
+      {
+        "interaction": "Liked by Karthik Thyagarajan",
+        "link": "https://www.linkedin.com/posts/y-combinator_belvedir-yc-s26-is-making-private-ai-models-activity-7493063706931548160-SBOZ",
+        "title": "Belvedir (YC S26) is making private AI models cheap and easy, so the world can have trillions of them. In the past year, many big companies started\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5605AQFs45m76VzjpA/videocover-high/B56Z_xXcqSHcBM-/0/1786460898214?e=2147483647&v=beta&t=6TSfa03s7xArw8UxqAYtvuIzr1v9Xxb1g9XZEMgmeaE",
+        "id": "7493063706931548160"
+      },
+      {
+        "interaction": "Liked by Karthik Thyagarajan",
+        "link": "https://www.linkedin.com/posts/elliot-drel_entrepreneurship-kickoff-2026-buildpurdue-activity-7493063937098432512-Sx8e",
+        "title": "Picture this: 100 student founders + 25 of most impactful entrepreneurship orgs in Indiana + in the HIVE = buildpurdue kickoff l:\u2026",
+        "img": "https://static.licdn.com/aero-v1/sc/h/53n89ecoxpr1qrki1do3alazb",
+        "id": "2026"
+      },
+      {
+        "interaction": "Liked by Karthik Thyagarajan",
+        "link": "https://www.linkedin.com/posts/ksreekan_this-summer-i-had-the-opportunity-to-join-activity-7492988213171474432-Dwhc",
+        "title": "This summer, I had the opportunity to join the AI Infrastructure team at NI (National Instruments) as a SWE Intern. My project solved a problem I\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQFtRWyIvbQwFg/feedshare-image-high-res/B56Z_qE3OiJoAU-/0/1786338572804?e=2147483647&v=beta&t=kFxxydze_7EJMuO5qbj7NMGT2bXiPNPysqX5u3fJJN0",
+        "id": "7492988213171474432"
+      },
+      {
+        "interaction": "Liked by Karthik Thyagarajan",
+        "link": "https://www.linkedin.com/posts/sra-samsungreasearchamerica_samsungresearchamerica-lifeatsra-srainterns2026-activity-7488723327725973504-hQIf",
+        "title": "\ud83d\udc96 Today we celebrated the incredible contributions of our summer interns and thanked them for the impact they\u2019ve made across our teams with an\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQGVE7F42nFjzA/feedshare-shrink_800/B56Z.1KLnCGUAg-/0/1785450773203?e=2147483647&v=beta&t=j2f9icDV6GEK3On3nQU9s5zdHyhspdjP9xpNc1Y4d3Q",
+        "id": "7488723327725973504"
+      },
+      {
+        "interaction": "Liked by Karthik Thyagarajan",
+        "link": "https://www.linkedin.com/posts/hluo_passes-and-hot-takes-vc-open-house-4-luma-activity-7492690277107933185--msS",
+        "title": "Hot Take 4: We should ban phones at music festivals so there's less videos and more dancing I'm joined this week with Songyou Peng a researcher from\u2026",
+        "img": "https://media.licdn.com/dms/image/sync/v2/D5627AQFIdRA6YMyReA/articleshare-shrink_1280_800/B56Z_tf4AxHIAg-/0/1786395984648?e=2147483647&v=beta&t=OcV_2UzSoC7oAYsqEGR580Nk1npM-vpzNIil6fefets",
+        "id": "4"
+      },
+      {
+        "interaction": "Liked by Karthik Thyagarajan",
+        "link": "https://www.linkedin.com/posts/brinda-akuthota_humana-artificialintelligence-earlycareer-activity-7492920348091523073-CrwJ",
+        "title": "As my summer at Humana comes to an end, I want to take a moment to reflect on an impactful 12 weeks as a Data Science Intern within Insurance\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQH9EREmMpzyjg/feedshare-image-high-res/B56Z_vEiwgHUAY-/0/1786422373783?e=2147483647&v=beta&t=73lbpFsTR0Za_6zwtE4WB5q5EPIL64XGGALoV6K9OTU",
+        "id": "7492920348091523073"
+      },
+      {
+        "interaction": "Liked by Karthik Thyagarajan",
+        "link": "https://www.linkedin.com/posts/lewislienpolansky_your-ai-agents-probably-dont-need-to-read-activity-7491995139100401664-mE2w",
+        "title": "Your AI agents probably don't need to read your customers' SSNs. A lot of the files agents search are full of personal data: customer records\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4E05AQF8cj5hMWPEaw/videocover-high/B4EZ_jp0StHoBQ-/0/1786230822855?e=2147483647&v=beta&t=v2ja8gA6mRtcBHnN9-J_U5PtPN7BOoX48WSWwzOWeLs",
+        "id": "7491995139100401664"
+      },
+      {
+        "interaction": "Liked by Karthik Thyagarajan",
+        "link": "https://www.linkedin.com/posts/buildpurdue_is-there-a-project-youve-been-meaning-to-activity-7492612315641716736-Phhz",
+        "title": "Is there a project you've been meaning to start? Or one you started and never finished? Get it done this semester starting with BuildPurdue's\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5605AQGh8r9Fr_-r5w/videocover-high/B56Z_sbKFUH4BM-/0/1786377972980?e=2147483647&v=beta&t=V1mx2A2YoUUkmpJ3aLi_fPP-6IZrpZ4zV9LpL_2H9xo",
+        "id": "7492612315641716736"
+      },
+      {
+        "interaction": "Liked by Karthik Thyagarajan",
+        "link": "https://www.linkedin.com/posts/arjun-builds_i-just-got-into-ycs-startup-internship-expo-activity-7491278562868551680-HJp9",
+        "title": "I just got into YC's Startup Internship Expo! After forgetting about the event and applying literally yesterday on a flight from India back to\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQHBmlKv4evt_A/feedshare-shrink_800/B56Z_ZeJ7lJ8Ag-/0/1786059989133?e=2147483647&v=beta&t=9Zrc7GhHfo2RB5i0kPYaS11T9gK784Lg9sLYRV5BCgo",
+        "id": "7491278562868551680"
+      },
+      {
+        "interaction": "Liked by Karthik Thyagarajan",
+        "link": "https://www.linkedin.com/posts/seharrandhawa_amazon-internship-aws-activity-7491661857414389760-JKmN",
+        "title": "And just like that, my summer at Amazon has come to an end \ud83e\udde1 This summer, I had the opportunity to work with the Alexa Audio Search team on a\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQG403luZRJdow/feedshare-shrink_800/B56Z_e6wPwJ8Ac-/0/1786151372036?e=2147483647&v=beta&t=VIcG_DPEGznXWwUyR030VSiZxsdEbr0CNX2CCC2HYc4",
+        "id": "7491661857414389760"
+      },
+      {
+        "interaction": "Liked by Karthik Thyagarajan",
+        "link": "https://www.linkedin.com/posts/dmodel_do-jailbreaks-converge-shared-latent-signatures-activity-7491629229525135360-RFER",
+        "title": "Our researcher Felix Michalak is co-mentoring a SPAR project: Do Jailbreaks Converge? Shared Latent Signatures Across Jailbreak\u2026",
+        "img": "https://media.licdn.com/dms/image/sync/v2/D5627AQFAqqyQ2fp1tw/articleshare-shrink_800/B56Z_d.6GqGQBU-/0/1786135683946?e=2147483647&v=beta&t=qrcncl6loy8usqepomLVNOVbmYqce7scmdrKRyAht1A",
+        "id": "7491629229525135360"
+      },
+      {
+        "interaction": "Liked by Karthik Thyagarajan",
+        "link": "https://www.linkedin.com/posts/kanjonavo-sabud-4b5647270_these-past-10-weeks-at-capital-one-have-been-activity-7491581859269595136-1t0h",
+        "title": "These past 10 weeks at Capital One have been an exceptional experience. Over the summer, I had the opportunity to work on integrating Cube.js -\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQEk0O-0VLrkSQ/feedshare-shrink_800/B56Z_dyAEGJ0Ac-/0/1786132300609?e=2147483647&v=beta&t=xOtFYgJ2baIOQ97cZuwjNr2GWX0WbytQsuLb6JmNMyk",
+        "id": "10"
+      },
+      {
+        "interaction": "Liked by Karthik Thyagarajan",
+        "link": "https://www.linkedin.com/posts/j-hawkins_extremely-proud-to-announce-that-i-switched-activity-7491146555262013440-vrIH",
+        "title": "extremely proud to announce that i switched from Fable 5 to Sonnet 4.6 for a small task and it saved me $0.37",
+        "img": "https://media.licdn.com/dms/image/v2/D4E10AQGEN_ILTMniBQ/image-shrink_1280/B4EZ_XmBWcHMAg-/0/1786028496681?e=2147483647&v=beta&t=2R9sjc1VWGsfeWOby7dbCeXOoO-yD_jY-0p4HmCMFXw",
+        "id": "7491146555262013440"
+      }
+    ],
+    "linkedin_num_id": "1041140601",
+    "banner_image": "https://media.licdn.com/dms/image/v2/D4E16AQHdnOnB9P16xw/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1739226449236?e=2147483647&v=beta&t=kK7FlzjfOcLIT45YxU_3aKKTENlgqPgoepK-G8lid3M",
+    "honors_and_awards": [
+      {
+        "title": "HackTJ 10.0 Best AI/ML Hack",
+        "publication": "HackTJ",
+        "date": "2023-03-01T00:00:00.000Z",
+        "description": "Won the Best AI/ML Hack award at HackTJ 10.0, a weekend-long hackathon for high school students. The project was TrippinTracker, a machine learning/hardware project to detect drunkenness from footstep timings."
+      },
+      {
+        "title": "Royal Conservatory of Music Piano Examination Level 7",
+        "publication": "Royal Conservatory of Music",
+        "date": "2022-03-01T00:00:00.000Z",
+        "description": null
+      },
+      {
+        "title": "Virginia State Geography Bee Finalist",
+        "publication": "National Geographic",
+        "date": "2020-01-01T00:00:00.000Z",
+        "description": "Virginia State Finalist for the National Geography Bee from 2016 to 2020."
+      }
+    ],
+    "similar_profiles": [],
+    "default_avatar": false,
+    "memorialized_account": false,
+    "bio_links": [
+      {
+        "title": "Personal Website",
+        "link": "https://www.karthikthyagarajan.com/"
+      }
+    ],
+    "first_name": "Karthik",
+    "last_name": "Thyagarajan",
+    "influencer": false,
+    "timestamp": "2026-08-12T19:07:31.510Z",
+    "input": {
+      "url": "https://www.linkedin.com/in/karthikthyagarajan06"
+    }
+  },
+  "local_photo": "data\\linkedin_photos\\karthikthyagarajan06__usr-Gb6HhhvdIGJHqCm.jpg"
+}

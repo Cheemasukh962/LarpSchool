@@ -1,0 +1,236 @@
+{
+  "luma_user_id": "usr-sQhvVSfmdC9O654",
+  "csv_name": "Arnab Ghosh",
+  "csv_linkedin": "https://www.linkedin.com/in/arnab-ghosh819",
+  "enriched_at": "2026-08-12T18:58:28.956680+00:00",
+  "batch_id": "sd_msqgad6c2eeefcaqas",
+  "profile": {
+    "id": "arnab-ghosh819",
+    "name": "Arnab Ghosh",
+    "city": "Los Angeles, California, United States",
+    "country_code": "US",
+    "position": null,
+    "about": "Hi, I'm Arnab. I build reliable software systems with an emphasis on&nbsp;programming\u2026",
+    "current_company": {
+      "link": "https://www.linkedin.com/company/intel-corporation?trk=public_profile_topcard-current-company",
+      "name": "Intel",
+      "company_id": "intel-corporation",
+      "location": null
+    },
+    "experience": null,
+    "url": "https://ar.linkedin.com/in/Arnab-ghosh819",
+    "educations_details": "Cornell University",
+    "education": [
+      {
+        "title": "Cornell University",
+        "url": "https://www.linkedin.com/school/cornell-university/",
+        "start_year": "2024-08",
+        "end_year": "2028-05",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      },
+      {
+        "start_year": "2021-09",
+        "end_year": "2024-05",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      }
+    ],
+    "recommendations_count": 1,
+    "avatar": "https://media.licdn.com/dms/image/v2/D5603AQE6UzRwrBYu1g/profile-displayphoto-shrink_200_200/B56ZTZoD7MHEAY-/0/1738817945667?e=2147483647&v=beta&t=AbPVf25dUNCPjsKBFn1pC49QxYlBpJ9Nk7x5jVmeIUY",
+    "certifications": [
+      {
+        "meta": "Issued Dec 2024 Credential ID a8rtp2xd8oyg See credential",
+        "subtitle": "Palantir Technologies",
+        "title": "Foundry & AIP Builder Foundations",
+        "credential_url": "https://verify.skilljar.com/c/a8rtp2xd8oyg?trk=public_profile_see-credential",
+        "credential_id": "a8rtp2xd8oyg"
+      },
+      {
+        "meta": "Issued Dec 2022 Credential ID 2V6EQ9FDF746 See credential",
+        "subtitle": "Meta",
+        "title": "Introduction to Front-End Development",
+        "credential_url": "https://www.coursera.org/account/accomplishments/records/2V6EQ9FDF746?trk=public_profile_see-credential",
+        "credential_id": "2V6EQ9FDF746"
+      },
+      {
+        "meta": "Issued Dec 2022 Credential ID BTWDLEH2XK4Q See credential",
+        "subtitle": "Meta",
+        "title": "Programming with JavaScript",
+        "credential_url": "https://www.coursera.org/account/accomplishments/records/BTWDLEH2XK4Q?trk=public_profile_see-credential",
+        "credential_id": "BTWDLEH2XK4Q"
+      },
+      {
+        "meta": "Issued Dec 2022 Credential ID DHX2F4PUF79K See credential",
+        "subtitle": "Meta",
+        "title": "Version Control",
+        "credential_url": "https://www.coursera.org/account/accomplishments/records/DHX2F4PUF79K?trk=public_profile_see-credential",
+        "credential_id": "DHX2F4PUF79K"
+      },
+      {
+        "meta": "Issued Oct 2022 Credential ID QSQCXMZFDE28 See credential",
+        "subtitle": "University of Illinois at Urbana-Champaign",
+        "title": "Object-Oriented Data Structures in C++",
+        "credential_url": "https://www.coursera.org/account/accomplishments/records/QSQCXMZFDE28?trk=public_profile_see-credential",
+        "credential_id": "QSQCXMZFDE28"
+      },
+      {
+        "meta": "Issued Aug 2021 Credential ID UC-277651a2-d588-4cc4-a3b0-1c7619fe865e See credential",
+        "subtitle": "Udemy",
+        "title": "Web Developer Bootcamp Graduate",
+        "credential_url": "https://ude.my/UC-277651a2-d588-4cc4-a3b0-1c7619fe865e?trk=public_profile_see-credential",
+        "credential_id": "UC-277651a2-d588-4cc4-a3b0-1c7619fe865e"
+      }
+    ],
+    "recommendations": [
+      "Daniel Smith \u201cArnab is an incredibly ambitious and thoughtful engineer. When presented with a summer intern project, he quickly worked to understand the problem set and come up with several possible solutions. He prototyped these solutions and was able to make quick headway with the project--long before the due date; this gave us time to talk over improvements and give him additional experience, working some off-project tickets. He was great to work with, very respectful, and had a great attitude, throughout. on his way out, I challenged him to work an Easter egg into the project, which he (somewhat) stealthily got through an MR, adding a humorous touch to a great summer project. Project included: FastAPI, NGINX, Streamlit, Redis, MSSQL\u201d"
+    ],
+    "volunteer_experience": [
+      {
+        "cause": "Civil Rights and Social Action",
+        "duration": "Sep 2021 \u00b7 - \nJul 2023 \u00b7 \n1 year 11 months",
+        "duration_short": "- \nJul 2023",
+        "info": "Key contributor as a Software Engineer for 8by8. Primary contributor to Authentication, Styling, Security, Unit Testing, among other responsibilities for the 8by8 web and mobile app.",
+        "start_date": "Sep 2021",
+        "subtitle": "8by8",
+        "title": "Software Engineer"
+      }
+    ],
+    "followers": 657,
+    "connections": 500,
+    "current_company_company_id": "intel-corporation",
+    "current_company_name": "Intel",
+    "location": "Los Angeles",
+    "input_url": "https://www.linkedin.com/in/arnab-ghosh819",
+    "linkedin_id": "arnab-ghosh819",
+    "activity": [
+      {
+        "interaction": null,
+        "link": "https://www.linkedin.com/posts/daria-soboleva_alevtina-soboleva-3-facilities-in-3-days-activity-7487985176661213184-hMSu",
+        "title": "If you've wondered where I've been recently, I gave an interview. This is a very difficult time for me. I'm trying to bring my mom home, and I could use your help spreading the word. Please watch, and please share. website: https://lnkd.in/gGHYRJfk interview: https://lnkd.in/gt7YWueB",
+        "img": "https://media.licdn.com/dms/image/sync/v2/D5627AQEUCxTTxEj0eA/articleshare-shrink_800/B56Z.qqhwFJsAY-/0/1785274704601?e=2147483647&v=beta&t=rsHsxIBZXcerEBSLXM31wiK5F1vq_bqO-mT0pJHhq0M",
+        "id": "3"
+      },
+      {
+        "interaction": null,
+        "link": "https://www.linkedin.com/posts/alex-kozik_on-march-15-2022-i-received-an-email-that-activity-7484467868928008193-LkM4",
+        "title": "On March 15, 2022, I received an email that changed the course of my life. It was a likely letter from Cornell University, letting me know that I would be offered admission to the Class of 2026. As a first-generation college student, neither of my parents had the opportunity to attend university. That email opened a door that no one in my immediate family had ever walked through. Four years later, I'm excited to share that I graduated Summa Cum Laude from Cornell University with a B.A. in Computer Science and Mathematics, and was elected to the Phi Beta Kappa honor society. I was also honored to receive the Jonathan E. Marx Memorial Senior Prize at graduation, awarded in recognition of exceptional scholarship, leadership, and service to the Cornell community. None of this would have been possible without my family. To my parents, who sacrificed so much and believed in a dream they never had the chance to pursue themselves: this degree is as much yours as it is mine. I'm also deeply grateful to the professors and mentors who challenged me and believed in me, the friends who made Cornell feel like home, and the students I had the privilege of teaching. Serving as a TA was one of the most rewarding parts of my undergraduate experience. I set out to help students grow, and I ended up learning just as much from them. I'm also thankful for the opportunity to lead the development of Cornell's Course Management System (CMS). Building software that thousands of students and instructors rely on every semester was an amazing experience, and I'm grateful to the faculty and students who trusted me with that responsibility. Cornell challenged me in ways I never expected. The coursework, the opportunities, and the people around me constantly pushed me to think more deeply, work harder, and hold myself to a very high standard. Walking across the graduation stage was emotional, not just because it marked the end of four years, but because I realized how far I've come since opening that email in March 2022. This fall, I'm excited to begin the next chapter as an M.S. student in Computer Science at Carnegie Mellon University, where I will further study ML and CS, conduct research, and build on everything Cornell taught me. Thank you, Cornell, for believing in me and giving me opportunities that changed my life. I'll always be grateful. Cornell University , Carnegie Mellon University , Carnegie Mellon University School of Computer Science",
+        "img": "https://media.licdn.com/dms/image/v2/D5605AQF_kJU6IBiYjg/videocover-high/B56Z94r1PWIgBM-/0/1784436185555?e=2147483647&v=beta&t=vw5D9lvLg4IJkWEeRtAr0PS7NW_3-O4HMW-yfeDbRrI",
+        "id": "15"
+      },
+      {
+        "interaction": null,
+        "link": "https://www.linkedin.com/posts/rahul-ghosh-478450218_im-excited-to-announce-that-ive-accepted-activity-7469540749546774528-FBvP",
+        "title": "I'm excited to announce that I've accepted an offer from Bank of America Merrill Lynch as a Summer Analyst for the 'Wealth Management Summer Analyst Program \u2013 Merrill Advisor Development' for the Summer of 2027 in the Greenwood Village, CO office. This opportunity is a dream come true, and I couldn't be more excited to learn from experienced professionals in the Wealth Management field and expand my skills. I am incredibly thankful to everyone who supported me throughout the recruitment process and am looking forward to what's ahead!",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQHdKCCGUmz_ww/feedshare-image-high-res/B56Z6kjuxAH0AU-/0/1780877290764?e=2147483647&v=beta&t=bwS_v6RAwDRrqw69IlxpK4AWs8OaoONsdoXojOijS70",
+        "id": "7469540749546774528"
+      },
+      {
+        "interaction": null,
+        "link": "https://www.linkedin.com/posts/smyan-sengupta_im-excited-to-share-that-ill-be-joining-activity-7471064328473882624-K3a8",
+        "title": "I'm excited to share that I'll be joining FuzionX this July as a Full Stack Developer Co-op! I'm extremely grateful to Het Patel , Victoria Klimkowski , Kris Spisak , and Amy Starzec for all their help throughout the interview process. I'd also like to thank my family and friends for their endless support throughout the process. Looking forward to joining the team in July!",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQEyerav27nxsw/feedshare-shrink_1280/B4EZ66NEtBKoAM-/0/1781240450119?e=2147483647&v=beta&t=0uoEHO4XTUFtDogbcVm-RuWePGLlnEqD4i00KJKdj1E",
+        "id": "7471064328473882624"
+      },
+      {
+        "interaction": "Arnab Ghosh shared this",
+        "link": "https://www.linkedin.com/posts/arnab-ghosh819_highly-recommend-any-cornellians-into-swe-activity-7363377207240482816-EDGm",
+        "title": "Highly recommend any Cornellians into SWE/UIUX apply to join. Working with CMSX has been, bar none, the most valuable experience I've had at Cornell thus far.",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQHsbuF-PuR58Q/feedshare-shrink_800/B4EZi0kaifHEAg-/0/1755376106578?e=2147483647&v=beta&t=WxASJGZCPMengd9tv7tqXTVEF_-eVqG9MVF7xAiqtnI",
+        "id": "7363377207240482816"
+      },
+      {
+        "interaction": "Arnab Ghosh commented on a post 1w",
+        "link": "https://www.linkedin.com/posts/shawn-zou_thank-you-to-vermont-mutual-for-giving-us-activity-7490776241806106624-O6sM",
+        "title": "Incredible job, Shawn!",
+        "img": null,
+        "id": "7490776241806106624"
+      },
+      {
+        "interaction": "Arnab Ghosh commented on a post 2w",
+        "link": "https://www.linkedin.com/posts/michaelcornelius_i-am-overwhelmed-with-pride-to-be-a-part-activity-7486088148767252480-IfyC",
+        "title": "Congratulations!",
+        "img": null,
+        "id": "7486088148767252480"
+      },
+      {
+        "interaction": "Arnab Ghosh liked this",
+        "link": "https://www.linkedin.com/posts/allysonklein_q-ctrl-is-accelerating-the-path-from-lab-activity-7493088134755196928-zz7S",
+        "title": "Quantum hardware remains too noisy for consistent results, and Q-CTRL is building the software layer to fix that. I recently discussed the company's approach with Alex Shih, its vice president of product. Shih walked me through how Q-CTRL's error-reduction software works with hardware vendors and with enterprises testing quantum applications on real machines. He described a deployment with Elevate Quantum in Colorado that moved from concept to a working system in five months. He added that ColibriTD and Qunova Computing are part of a growing group of partners building their own applications on top of Q-CTRL's pipeline. Here are some key takeaways from our talk: --He expects quantum advantage in specific workflows within two to three years, with optimization leading. In a Mazda case study he shared, quantum methods needed five times less training data to reach the same vehicle frame design. --He pointed to Riken, a Japanese lab home to the Fugaku supercomputer and an IBM quantum system, where Q-CTRL's software supports the lab's exploration of hybrid quantum-classical computing. --He shared that Q-CTRL measures success by how accessible its tools are to companies worldwide, not by papers published. Read the full article: https://lnkd.in/gKHr_aXS",
+        "img": "https://media.licdn.com/dms/image/v2/D5610AQH5OHlgfKQuog/image-shrink_800/B56Z_zL8ivG0Ag-/0/1786491423177?e=2147483647&v=beta&t=AJU8fkFqBZtcwsGCzJh6CbgXr9oaNKGuF-GykbRCCwY",
+        "id": "7493088134755196928"
+      },
+      {
+        "interaction": "Arnab Ghosh liked this",
+        "link": "https://www.linkedin.com/posts/amazonscience_ten-years-ago-amazons-automated-reasoning-activity-7492980429365387264-L5lo",
+        "title": "Ten years ago, Amazon's Automated Reasoning Group set out to use mathematical logic to prove AWS systems work correctly. Today, their production services process billions of queries daily, powering tools millions of customers rely on, from IAM Access Analyzer to Amazon Inspector to Bedrock Guardrails. One project stands out: they proved correct and seamlessly replaced the AWS authorization engine, which handles one billion API calls per second, and verified it against quadrillions of production authorizations. Now the same formal-verification techniques that secured cloud infrastructure are being applied to AI, setting boundaries for autonomous agents and validating AI-generated content with up to 99% verification accuracy.",
+        "img": "https://media.licdn.com/dms/image/v2/D5605AQF1kvKLjC2f9Q/videocover-high/B56Z_xp.JtGgBc-/0/1786465740750?e=2147483647&v=beta&t=OJ0n_uqY_ZfwrbLphspK5JLVew1A8A5GynCjhU-NhcE",
+        "id": "7492980429365387264"
+      },
+      {
+        "interaction": "Arnab Ghosh liked this",
+        "link": "https://www.linkedin.com/posts/brightowusuansah_this-summer-ive-had-the-opportunity-to-work-activity-7493089168588279809-mrBf",
+        "title": "This summer I've had the opportunity to work as an undergraduate researcher in the Kaufman Lab at UW\u2013Madison, under Prof. Alfonso Morales , contributing to two full stack projects focused on food access and equity, Thankfully I'll be continuing under this lab for the upcoming academic year. It's been a great deep dive into concurrency, complexity analysis, and building simulation infrastructure that can actually scale. I had the chance to present a research poster, \"Engineering FEAST: Building A Platform for Food Access Simulation,\" at the LASER symposium which was a great opportunity to share this work with the wider research community.",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQHhfaiwK7k_9A/feedshare-shrink_800/B56Z_zM44tH0Ag-/0/1786491671124?e=2147483647&v=beta&t=Fw0dBO-RwgcICF7XlyeHrxhtp10rWvc24zFk4JiVvTg",
+        "id": "7493089168588279809"
+      },
+      {
+        "interaction": "Arnab Ghosh liked this",
+        "link": "https://www.linkedin.com/posts/byron-cook-8765205_amazon-is-investing-in-the-lean-focused-research-activity-7487064883394609153-THwL",
+        "title": "https://lnkd.in/gaUGuFS6",
+        "img": "https://media.licdn.com/dms/image/sync/v2/D4D27AQEqzSNK1s2ydA/articleshare-shrink_800/B4DZ.dgf5VI4Ag-/0/1785053971203?e=2147483647&v=beta&t=6_BlcaNCDmX4R20dQXMGxItK0Krsl9GH8nvV05DkqLE",
+        "id": "7487064883394609153"
+      },
+      {
+        "interaction": "Arnab Ghosh liked this",
+        "link": "https://www.linkedin.com/posts/xuanyu-lu-993424362_snowflake-internship-cpt-activity-7493014732359000065-BBtl",
+        "title": "RIP to my Snowflake Fall internship \ud83e\udd72\u2744\ufe0f After months of trying, successfully passing all the interviews, waiting for headcount, and finally seeing everything come together, my Fall internship ended up being blocked by something I honestly didn\u2019t expect: a start-date conflict. As a student on the quarter system, my summer CPT overlaps with Snowflake\u2019s required Fall internship start window, and unfortunately there was no way to make the transition work. We tried pretty much every option we could think of, but sometimes timing just doesn\u2019t work out. Definitely heartbreaking after making it this far \ud83e\udd72 A small PSA for fellow international students at quarter-system schools: double-check Fall internship start dates and CPT timelines as early as possible! Huge thanks to everyone at Snowflake who helped and advocated for me along the way. \u2744\ufe0f :) #Snowflake #Internship #CPT #InternationalStudents #SoftwareEngineering",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQEdYejQHGm2xA/feedshare-shrink_800/B56Z_yJMfiJMAc-/0/1786473924829?e=2147483647&v=beta&t=oj9E2gXZTycSWkRoVsN8R7UXvmrDHIp68nm_kZpZ1HA",
+        "id": "7493014732359000065"
+      },
+      {
+        "interaction": "Arnab Ghosh liked this",
+        "link": "https://www.linkedin.com/posts/y-combinator_kara-yc-s26-engineers-ultra-high-purity-activity-7493033516008603648-FZZ1",
+        "title": "Kara (YC S26) engineers ultra-high-purity diamond wafers and components for the next generation of hardware. Modern hardware is getting more powerful, smaller, and hotter. AI accelerators in data centers throttle and deliver less compute when heat builds up. High-power RF and lasers lose performance. Aircraft and spacecraft carry heavy cooling systems. Heat is becoming a hard limit on performance. Kara is engineering the hardest material to push that limit. They grow ultra-high-purity diamond wafers and components that transfer heat 5x faster than copper while weighing 60% less. They're already shipping diamond wafers under pilot agreements and purchase orders for data centers, aerospace, and quantum systems. The three founders are best friends from UC Berkeley. Aarin Jhaveri is a fifth-generation diamantaire who has worked across the supply chain and sold millions worth of diamonds. Anuveer Chadha is a chemical engineer who built diamond quantum sensing and advanced materials systems at Berkeley National Lab with the Department of Defense and Department of Energy. Arjun Lakhanpal brings AI/ML experience from Amazon and thermal management research from Berkeley\u2019s Space Sciences Lab. Diamond is their unfair advantage: they know how to grow, control, and engineer it far beyond jewelry. Silicon transformed computing when we learned to manufacture it with extreme purity and control. Kara is doing the same with diamond. Today, their ultra-high-purity diamond pulls heat away from silicon chips. Tomorrow, Kara\u2019s control over purity and defects unlocks diamond as the ultimate semiconductor. Kara is building the diamond computing era. If you\u2019re building hardware where heat, power density or weight is becoming the limit, reach out at founders@karalabs.ai Congrats on the launch, Aarin, Anuveer, and Arjun! \ud83d\ude80 https://lnkd.in/g-uigUBs",
+        "img": "https://media.licdn.com/dms/image/v2/D5605AQHk3W0UzL7CzQ/videocover-high/B56Z_xVOhvHIBU-/0/1786460312858?e=2147483647&v=beta&t=EAAKV1ABdzZH4qEw0I2FzvhjWVOkhq0Ne3WStEZyM1c",
+        "id": "7493033516008603648"
+      },
+      {
+        "interaction": "Arnab Ghosh liked this",
+        "link": "https://www.linkedin.com/posts/kathykam_principal-senior-principal-and-distinguished-activity-7493010569680048128-Ckjb",
+        "title": "Come work with me! I'm hiring a Principal Engineer. We're looking for a Principal Engineer to lead the technical direction of AI-powered tooling that ensures engineers build correct, performant distributed systems. You will be the technical backbone of a team pushing forward how AI agents integrate into the distributed systems development lifecycle \u2014 from automated protocol verification to intelligent testing and code generation. If that sounds like you \u2014 or you know someone \u2014 the role is posted here: https://lnkd.in/g4Gn_iZH Emalee Harper",
+        "img": "https://media.licdn.com/dms/image/sync/v2/D5627AQHTeoZAuXqluA/articleshare-shrink_800/B56Z5Gcqb.HYAQ-/0/1779298381867?e=2147483647&v=beta&t=elo9eQoiy-ZgDob42JWwZuazVIqP-CUJFErEibjDprI",
+        "id": "7493010569680048128"
+      },
+      {
+        "interaction": "Arnab Ghosh liked this",
+        "link": "https://www.linkedin.com/posts/tzivia-a-schwartz-484943291_architecture-urbanplanning-architecturalhistory-activity-7492850630340923392-dSFa",
+        "title": "I am thrilled to share that I have published a book titled \u201cAncient Egyptian Design in Modern Cities: An Illustrated Reference on the Reinterpretations of Pharaonic Architecture.\u201d Writing and designing this 117-page catalog with over 130 photos has been an absolute joy. What started as independent research this summer turned into a deep dive into architectural history. To celebrate, I am hosting the first Live Book Signing & Launch Event this coming Friday! The book is available on Amazon KDP and other publishing platforms. I would be honored to hear your insights and comments! #Architecture #UrbanPlanning #ArchitecturalHistory #CornellUniversity #StudentAuthor #History #AncientEgyptianDesign \ud83d\udc47 Find the e-book, paperback, and hardcover link in the first comment below.",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQGz3PX9doFoOQ/feedshare-shrink_1280/B4EZ_vz8V6IYAM-/0/1786434799326?e=2147483647&v=beta&t=dr0y36OTwQ5oH_Yd37eceb8woweTnEw9ZtMD00N7tkI",
+        "id": "7492850630340923392"
+      }
+    ],
+    "linkedin_num_id": "919507480",
+    "banner_image": "https://media.licdn.com/dms/image/v2/D5616AQEMfxF1UBMVEw/profile-displaybackgroundimage-shrink_200_800/B56ZZb0OrgGkAY-/0/1745297141403?e=2147483647&v=beta&t=BX7j2Oo-4NVWysEOx8rwTV4vYETSWdABKevumH8Z9sg",
+    "honors_and_awards": null,
+    "similar_profiles": [],
+    "default_avatar": false,
+    "memorialized_account": false,
+    "bio_links": [
+      {
+        "title": "Personal Website",
+        "link": "https://arnabg.me/"
+      }
+    ],
+    "first_name": "Arnab",
+    "last_name": "Ghosh",
+    "influencer": false,
+    "timestamp": "2026-08-12T18:56:55.897Z",
+    "input": {
+      "url": "https://www.linkedin.com/in/arnab-ghosh819"
+    }
+  },
+  "local_photo": "data\\linkedin_photos\\arnab-ghosh819__usr-sQhvVSfmdC9O654.jpg"
+}

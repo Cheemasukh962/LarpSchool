@@ -1,0 +1,63 @@
+{
+  "luma_user_id": "usr-71T7T42sF0B9RKQ",
+  "csv_name": "Avi Agola",
+  "csv_linkedin": "https://www.linkedin.com/in/avi-agola",
+  "enriched_at": "2026-08-12T18:58:28.967640+00:00",
+  "batch_id": "sd_msqgad6c2eeefcaqas",
+  "profile": {
+    "id": "avi-agola",
+    "name": "Avi A.",
+    "city": "United States",
+    "country_code": "US",
+    "position": null,
+    "about": "currently building at the intersection of ai and the world. https://aviagola.me",
+    "current_company": {
+      "link": "https://www.linkedin.com/company/palantir-technologies?trk=public_profile_topcard-current-company",
+      "name": "Palantir Technologies",
+      "company_id": "palantir-technologies",
+      "location": null
+    },
+    "experience": null,
+    "url": "https://es.linkedin.com/in/Avi-agola",
+    "educations_details": "University of Washington",
+    "education": [
+      {
+        "start_year": "2026",
+        "end_year": "2026",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      },
+      {
+        "start_year": "2025-10",
+        "end_year": "2026-02",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      }
+    ],
+    "avatar": "https://static.licdn.com/aero-v1/sc/h/9c8pery4andzj6ohjkjp54ma2",
+    "followers": 3196,
+    "connections": 500,
+    "current_company_company_id": "palantir-technologies",
+    "current_company_name": "Palantir Technologies",
+    "location": null,
+    "input_url": "https://www.linkedin.com/in/avi-agola",
+    "linkedin_id": "avi-agola",
+    "activity": null,
+    "linkedin_num_id": "1147508332",
+    "banner_image": "https://media.licdn.com/dms/image/v2/D5616AQH-zNCeFkGqWg/profile-displaybackgroundimage-shrink_200_800/B56Z2KMLTlKQAU-/0/1776139941689?e=2147483647&v=beta&t=DgZircCoEmBHizWNl80wMAj9UaiEEfwy1Iz3ik5lh74",
+    "honors_and_awards": null,
+    "similar_profiles": [],
+    "default_avatar": true,
+    "memorialized_account": false,
+    "bio_links": [],
+    "first_name": "Avi",
+    "last_name": "A.",
+    "influencer": false,
+    "timestamp": "2026-08-12T18:57:29.267Z",
+    "input": {
+      "url": "https://www.linkedin.com/in/avi-agola"
+    }
+  }
+}

@@ -1,0 +1,287 @@
+{
+  "source": "crustdata",
+  "recovered_from": "brightdata_failed_private",
+  "luma_user_id": "usr-wtvLj5B6lOktGwP",
+  "csv_name": "Jai Relan",
+  "csv_linkedin": "https://www.linkedin.com/in/jairelan",
+  "clean_linkedin": "https://www.linkedin.com/in/jairelan",
+  "enriched_at": "2026-08-14T18:07:59.937250+00:00",
+  "person_data": {
+    "basic_profile": {
+      "current_title": "CEO",
+      "first_name": null,
+      "headline": "CEO @ Relling | Automating American Production",
+      "languages": [],
+      "last_name": null,
+      "location": {
+        "city": "San Francisco",
+        "continent": "North America",
+        "country": "United States",
+        "full_location": null,
+        "raw": "San Francisco, California, United States",
+        "state": "California"
+      },
+      "name": "Jai Relan",
+      "normalized_title": {
+        "confident": true,
+        "department": "Executive Leadership",
+        "matched_title": "Ceo",
+        "similarity": 0.995199978351593,
+        "sub_department": "Executive & C-Suite Leadership"
+      },
+      "professional_network_name": "Jai Relan",
+      "profile_picture_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/person/c0483731456d351e25113951b76587bbed6d564fb3541a4a0dfb84e9a5240109.jpg",
+      "summary": "Please please don't send me LinkedIn invites if we haven't met or spoken.\n\nBest way to usually get in touch with me is email - [first] . [last] @ matrixatlantic . com. \n\nStanding Invitation : https://www.jairelan.com/contact\nFAQs: https://www.jairelan.com/faqs\n\n\nTwitter: https://twitter.com/JaiRelan"
+    },
+    "education": {
+      "schools": [
+        {
+          "activities_and_societies": "",
+          "degree": "Bachelor of Engineering - BE",
+          "description": "",
+          "end_year": null,
+          "field_of_study": "Computer Science, Electrical Engineering",
+          "institute_logo_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/company/046c3d30deca270782da20acf0af320525bce431f83a0b00db36a579835d758a.jpg",
+          "institute_logo_url": "https://media.licdn.com/dms/image/v2/D560BAQHV472cn2nhMw/company-logo_400_400/B56Zb.Jn2gHwAY-/0/1748020657900/uwaterloo_logo?e=1787184000&v=beta&t=ALDn568XdiSqPF8aat6h8kwLkpd5xXNr_L0ZnI_J5vw",
+          "location": {
+            "city": "",
+            "continent": "North America",
+            "country": "Canada",
+            "raw": "Waterloo South, Ontario, Canada",
+            "state": "Ontario"
+          },
+          "professional_network_id": "166688",
+          "school": "University of Waterloo",
+          "start_year": null
+        }
+      ]
+    },
+    "experience": {
+      "employment_details": {
+        "current": [
+          {
+            "company_description": "Industrial superintelligence for high-mix, low-volume manufacturing.",
+            "company_professional_network_profile_url": "https://linkedin.com/company/107829108",
+            "company_profile_picture_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/company/748cfc34c99b4f2bc5c151c91615a8a5f228365663a7ac2a077934a9e97feccf.jpg",
+            "company_website_domain": "rellingsystems.com",
+            "crustdata_company_id": 13219767,
+            "description": "",
+            "employment_type": "",
+            "end_date": null,
+            "function_category": "",
+            "is_default": true,
+            "location": {
+              "raw": "Toronto, Ontario, Canada"
+            },
+            "name": "Relling",
+            "position_id": 2716777459,
+            "professional_network_id": "107829108",
+            "seniority_level": "CXO",
+            "start_date": "2025-07-01T00:00:00+00:00",
+            "title": "CEO",
+            "years_at_company": "1 to 2 years",
+            "years_at_company_raw": 1.0
+          }
+        ],
+        "past": [
+          {
+            "company_description": "At AnySignal, we\u2019re on a mission to empower space explorers and allied forces by redefining the backbone of mission-critical infrastructure across Earth and space.",
+            "company_professional_network_profile_url": "https://linkedin.com/company/82319363",
+            "company_profile_picture_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/company/da5a8f088e2586aff6bedf123282957dca8ba2aa4b202b755dc87c8a7a8c933f.jpg",
+            "company_website_domain": "anysignal.com",
+            "crustdata_company_id": 1072831,
+            "description": "Took a sabbatical from B2B SaaS to work with some really cracked people. My days are majorly filled by looking at a code editor wondering wtf is going on and \"helping\" engineers by \"reviewing\" their PRs and advising them about code style violations",
+            "employment_type": "",
+            "end_date": "2025-04-01T00:00:00+00:00",
+            "function_category": "Engineering",
+            "is_default": false,
+            "location": {
+              "raw": "El Segundo, California, United States"
+            },
+            "name": "AnySignal",
+            "position_id": 2583325882,
+            "professional_network_id": "82319363",
+            "seniority_level": "Entry Level",
+            "start_date": "2024-04-01T00:00:00+00:00",
+            "title": "Engineer",
+            "years_at_company": "1 to 2 years",
+            "years_at_company_raw": 1.0
+          },
+          {
+            "company_description": "Rollup is a mission-driven software company with the aim to help accelerate the development and optimization of complex hardware and systems.",
+            "company_professional_network_profile_url": "https://linkedin.com/company/9479488",
+            "company_profile_picture_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/company/aaa6132b52a61fbab32cf4e443097ad6c9e7846c58c10385d5139288c2e74242.jpg",
+            "company_website_domain": "rollup.ai",
+            "crustdata_company_id": 816255,
+            "description": "Software for hardware teams. Backed by a16z, Thiel",
+            "employment_type": "",
+            "end_date": "2024-01-01T00:00:00+00:00",
+            "function_category": "",
+            "is_default": false,
+            "location": {
+              "raw": "Los Angeles, California, United States"
+            },
+            "name": "Rollup",
+            "position_id": 2503316748,
+            "professional_network_id": "9479488",
+            "seniority_level": "CXO",
+            "start_date": "2024-01-01T00:00:00+00:00",
+            "title": "Chief Product Officer",
+            "years_at_company": "Less than 1 year",
+            "years_at_company_raw": 0.0
+          },
+          {
+            "company_description": "We invest in founders who are reshaping outdated industries.We believe in a world where top tier fintech products help the 99% grow their wealth and build businesses.Where everyday people have transparent, efficient, and attentive healthcare experiences.Where managers and front-line employees in legacy industries have tools that save time, increase transparency, and take minutes to learn (vertical SaaS).",
+            "company_professional_network_profile_url": "https://linkedin.com/company/42823155",
+            "company_profile_picture_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/company/1a9cfba26da64cc06f7ff83e0eec78765c99955f839a28b3988c1db7741bc8a6.jpg",
+            "company_website_domain": "thecouncil.co",
+            "crustdata_company_id": 1233564,
+            "description": "",
+            "employment_type": "Full-time",
+            "end_date": "2023-01-01T00:00:00+00:00",
+            "function_category": "",
+            "is_default": false,
+            "location": {
+              "raw": "San Francisco Bay Area"
+            },
+            "name": "The Council",
+            "position_id": 2196068245,
+            "professional_network_id": "42823155",
+            "seniority_level": "Entry Level",
+            "start_date": "2023-01-01T00:00:00+00:00",
+            "title": "Investor",
+            "years_at_company": "Less than 1 year",
+            "years_at_company_raw": 0.0
+          },
+          {
+            "company_description": "Teamable (formerly TopFunnel) is the future of recruitment, the only company that combines the data-based certainty, scalability, and seamless processes of a tech solution with the human touch and expertise of the best recruiting firms.We transform lives by connecting candidates to roles that fulfill them. Fulfilled teams drive growth and value for their companies.Teamable's expert guidance and intuitive, end-to-end software empowers talent professionals to find top performers, connect them with fulfilling work, and drive business growth as a result.Teamable is a Humanly company. Humanly is an AI recruiting platform for frontline and high-volume hiring\u2014automating candidate engagement, screening, and interviews to help teams hire faster and keep roles filled. Learn more at www.humanly.io.",
+            "company_professional_network_profile_url": "https://linkedin.com/company/17877343",
+            "company_profile_picture_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/company/e6748f5fef765032f69792fd378c9ba66056b23a547ddc66f1644fac51c9a09c.jpg",
+            "company_website_domain": "teamable.com",
+            "crustdata_company_id": 6047501,
+            "description": "",
+            "employment_type": "",
+            "end_date": "2023-01-01T00:00:00+00:00",
+            "function_category": "",
+            "is_default": false,
+            "location": {
+              "raw": "San Francisco Bay Area"
+            },
+            "name": "TopFunnel",
+            "position_id": 2064939813,
+            "professional_network_id": "17877343",
+            "seniority_level": "Entry Level",
+            "start_date": "2021-11-01T00:00:00+00:00",
+            "title": "Product (Involved On Clara Team)",
+            "years_at_company": "1 to 2 years",
+            "years_at_company_raw": 1.0
+          },
+          {
+            "company_description": "Clara is your partner in doing great work. Clara delivers efficiency and accuracy by combining machine intelligence and an expert team. Communicating with Clara is clear, professional, and not robotic. Just cc Clara as you would if it were your own human executive assistant and ask plain English to help find a time to meet. Clara will respond naturally, find a time, and send calendar invites and reminders.With the currently invite-only Clara Live, Clara can join your meetings and record, take notes, or even schedule a follow up meeting. Clara also integrates with Google Docs, shares meeting notes, creates Asana tickets, and more.",
+            "company_professional_network_profile_url": "https://linkedin.com/company/9195766",
+            "company_profile_picture_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/company/4396048bc966087422b4f08c838ed1230e74314628b2e29a0dd19d4103e1b74c.jpg",
+            "company_website_domain": "claralabs.com",
+            "crustdata_company_id": 639750,
+            "description": "Clara Labs is a Series A venture founded in 2014 and subsequently raised ~$12M from investors including The Slack Fund, Sequoia, Greylock, Y-Combinator, First Round Capital and others. Clara was then acquired by Teamable (previously known as TopFunnel) towards the end of 2019.\n\nClara uses a combination of AI and human-in-the-loop flows to help executives work better. We started with scheduling meetings and are developing new products to help make meetings more actionable.\n\nWe want to give all people a way to delegate a substantial portion of their work off to us so that they can focus on what matters most.\n\nOver time, scheduling links have become impersonal and \u201cfit all\u201d and quite frankly - they suck. I hate it when I\u2019m asked to schedule a time from someone\u2019s calendly. The only other option an assistant. That is expensive, and takes time to hire, train, manage. We fix this problem for the world\u2019s top executives.\n\nMy role at Clara is to building building engineering/ product roadmaps, help manage priorities, lead hiring efforts but as in the case in many early stage startups, I end up doing a bit of everything!",
+            "employment_type": "",
+            "end_date": "2023-01-01T00:00:00+00:00",
+            "function_category": "",
+            "is_default": false,
+            "location": {
+              "raw": "San Francisco Bay Area"
+            },
+            "name": "Clara Labs",
+            "position_id": 2064945143,
+            "professional_network_id": "9195766",
+            "seniority_level": "Entry Level",
+            "start_date": "2021-11-01T00:00:00+00:00",
+            "title": "Building & Scaling Products",
+            "years_at_company": "1 to 2 years",
+            "years_at_company_raw": 1.0
+          },
+          {
+            "company_description": "WhyQ changes the way local shops interface with their users in developing countries(COMPANY WAS SHUT DOWN IN JULY 2021)",
+            "company_professional_network_profile_url": "https://linkedin.com/company/35929239",
+            "company_profile_picture_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/company/5d04c0781c5f17ac956bb145af44be0d76458b2f7e1aae9c22736edbde852084.jpg",
+            "company_website_domain": "whyq.net.in",
+            "crustdata_company_id": 4268549,
+            "description": "Chatbot based service changing the way people in developing countries interface with local grocery retail.",
+            "employment_type": "",
+            "end_date": "2021-07-01T00:00:00+00:00",
+            "function_category": "",
+            "is_default": false,
+            "location": {
+              "raw": ""
+            },
+            "name": "WhyQ",
+            "position_id": 1620973898,
+            "professional_network_id": "35929239",
+            "seniority_level": "CXO",
+            "start_date": "2020-01-01T00:00:00+00:00",
+            "title": "CEO & Co-Founder",
+            "years_at_company": "1 to 2 years",
+            "years_at_company_raw": 1.0
+          },
+          {
+            "company_description": "",
+            "company_professional_network_profile_url": null,
+            "company_profile_picture_permalink": "",
+            "company_website_domain": null,
+            "crustdata_company_id": null,
+            "description": "Launched mental health app made focused on using live data from wearable fitness trackers for building custom meditation courses via ML models.",
+            "employment_type": "",
+            "end_date": "2019-01-01T00:00:00+00:00",
+            "function_category": "",
+            "is_default": false,
+            "location": {
+              "raw": "New Delhi, Delhi, India"
+            },
+            "name": "Calmer In A Minute",
+            "position_id": 2064940832,
+            "professional_network_id": "",
+            "seniority_level": "CXO",
+            "start_date": "2018-01-01T00:00:00+00:00",
+            "title": "CEO & Founder",
+            "years_at_company": "1 to 2 years",
+            "years_at_company_raw": 1.0
+          }
+        ]
+      }
+    },
+    "professional_network": {
+      "connections": 2883,
+      "current_title": "CEO",
+      "followers": 4587,
+      "headline": "CEO @ Relling | Automating American Production",
+      "location": {
+        "city": "San Francisco",
+        "continent": "North America",
+        "country": "United States",
+        "raw": "San Francisco, California, United States",
+        "state": "California"
+      },
+      "metadata": {
+        "last_scraped_source": null
+      },
+      "name": "Jai Relan",
+      "profile_picture_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/person/c0483731456d351e25113951b76587bbed6d564fb3541a4a0dfb84e9a5240109.jpg",
+      "pronoun": "He/Him",
+      "summary": "Please please don't send me LinkedIn invites if we haven't met or spoken.\n\nBest way to usually get in touch with me is email - [first] . [last] @ matrixatlantic . com. \n\nStanding Invitation : https://www.jairelan.com/contact\nFAQs: https://www.jairelan.com/faqs\n\n\nTwitter: https://twitter.com/JaiRelan"
+    },
+    "skills": {
+      "professional_network_skills": []
+    },
+    "social_handles": {
+      "dev_platform_identifier": {
+        "profile_url": null
+      },
+      "professional_network_identifier": {
+        "profile_url": "https://www.linkedin.com/in/jairelan"
+      },
+      "twitter_identifier": {
+        "slug": ""
+      }
+    },
+    "crustdata_person_id": 7040872
+  }
+}

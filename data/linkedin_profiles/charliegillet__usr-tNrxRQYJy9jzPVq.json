@@ -1,0 +1,209 @@
+{
+  "luma_user_id": "usr-tNrxRQYJy9jzPVq",
+  "csv_name": "Charlie Gillet",
+  "csv_linkedin": "https://www.linkedin.com/in/charliegillet",
+  "enriched_at": "2026-08-12T18:59:59.568402+00:00",
+  "batch_id": "sd_msqgcuh41lygyhc91a",
+  "profile": {
+    "id": "charliegillet",
+    "name": "Charlie Gillet",
+    "city": "San Francisco Bay Area",
+    "country_code": "US",
+    "position": null,
+    "about": "6x hackathon winner. Most recently, I placed top 4 at the Y Combinator Voice Agents\u2026",
+    "current_company": {
+      "link": "https://www.linkedin.com/company/rocketride-ai?trk=public_profile_topcard-current-company",
+      "name": "RocketRide",
+      "company_id": "rocketride-ai",
+      "location": null
+    },
+    "experience": null,
+    "url": "https://fi.linkedin.com/in/charliegillet",
+    "educations_details": "UC San Diego",
+    "education": [
+      {
+        "title": "UC San Diego",
+        "url": "https://www.linkedin.com/school/ucsandiego/",
+        "start_year": "2021",
+        "end_year": "2025",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      },
+      {
+        "start_year": "2017",
+        "end_year": "2021",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      }
+    ],
+    "avatar": "https://media.licdn.com/dms/image/v2/D5603AQEVUIkjrvmwNA/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1732070328265?e=2147483647&v=beta&t=iHxqtDUn7YyJaie2Tl_f8yJwdEr8tEEN2R1zROJv2YQ",
+    "followers": 1391,
+    "connections": 500,
+    "current_company_company_id": "rocketride-ai",
+    "current_company_name": "RocketRide",
+    "projects": [
+      {
+        "title": "Alexis",
+        "description": "An AI technical interviewer that watches you, listens, and runs your code live during the interview. Won the SpatialReal Voice & Vision track at the BETA Hackathon."
+      },
+      {
+        "title": "Hierarchical Latent Variable Models for Neural Data Analysis \u00b7 UC San Diego Capstone (HDSI)",
+        "description": "Mentored by Prof. Mikio AoiNeural recording methods are advancing faster in volume and speed than the methods used to analyze them. Using the International Brain Laboratory dataset (neural activity recorded from mice during a visual decision-making task), we applied variational latent Gaussian processes (vLGP) for dimensionality reduction and probabilistic canonical correlation analysis (pCCA) to relate activity across brain regions in a shared latent space. Using RMSE, we found that three latent variables captured the signal well, with diminishing returns beyond that."
+      }
+    ],
+    "location": null,
+    "input_url": "https://www.linkedin.com/in/charliegillet",
+    "linkedin_id": "charliegillet",
+    "activity": [
+      {
+        "interaction": "Charlie Gillet shared this",
+        "link": "https://www.linkedin.com/posts/charliegillet_i-spent-friday-night-at-a-black-tie-gala-activity-7488295856849473536-vt99",
+        "title": "I spent Friday night at a black-tie gala on the water in SF \ud83d\ude01 Was great to be with such an ambitious group of 100 founders, engineers, GTM leaders, and investors. Grateful for the conversations and the new connections, and a great way to start the weekend heading into YC SUS. Thanks to all the organizers and sponsors: Resonance , GMI Cloud , Clean , Whop , Red Bull and many more! ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQG0dHXBEWmOtQ/feedshare-image-high-res/B56Z.vFZ9VKIAY-/0/1785348858396?e=2147483647&v=beta&t=twa-lYXMLWr6dH0aqB2w0tPRDutXnu4GmBVYfUOXD2Q",
+        "id": "7488295856849473536"
+      },
+      {
+        "interaction": "Charlie Gillet shared this",
+        "link": "https://www.linkedin.com/posts/charliegillet_last-week-in-sf-i-had-the-pleasure-of-helping-activity-7478115259623370753-ZIFz",
+        "title": "Last week in SF I had the pleasure of helping organize the RocketRide Cloud launch event! During the event, I got to give an on-stage demo of a project I built entirely as a RocketRide pipeline: a video translator. The pipeline allows you to upload videos in any language (such as YouTube videos or TikToks), it detects the source language, and transcribes it to English. The repo: https://lnkd.in/gpBqmZaP ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQFxDeRnasfcEg/feedshare-shrink_800/B56Z7i50LYGUAc-/0/1781923268192?e=2147483647&v=beta&t=QuDxOl7uYUu9otSPE8bq4IjQQBWZG_M-RhnikT81whc",
+        "id": "7478115259623370753"
+      },
+      {
+        "interaction": "Charlie Gillet shared this",
+        "link": "https://www.linkedin.com/posts/charliegillet_ycombinator-startupschool-sanfrancisco-activity-7474853786436653056-WNmW",
+        "title": "Woke up on my birthday to an email: I got into Y Combinator Startup School 2026. Best present I could've asked for :) The part I'm looking forward to the most is the room. Two days surrounded by builders and founders from all over the world, and a chance to meet and learn from some incredibly talented individuals. Some speakers I'm especially excited to learn from: -Jensen Huang, NVIDIA -Sam Altman, OpenAI -Alexandr Wang, Meta -Boris Cherny, Anthropic If you're also going, let's connect, would love to talk about it! #YCombinator #StartupSchool #SanFrancisco ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQHR6ZvzGGGg6Q/feedshare-shrink_800/B56Z7t5lSVK0Ag-/0/1782107756082?e=2147483647&v=beta&t=O2FtCqXfctwoEx5-LqAscvQgivT1P7YSQmwubnDYeM0",
+        "id": "7474853786436653056"
+      },
+      {
+        "interaction": "Charlie Gillet shared this",
+        "link": "https://www.linkedin.com/posts/charliegillet_ycombinator-aiagents-voiceai-activity-7467243651925037057-_Fui",
+        "title": "Top 4 at the YC Voice Agents Hackathon Me and Nihal Nihalani built RedDial, an autonomous voice red-team that tries to social-engineer AI phone agents into leaking sensitive info, then automatically hardens them against it. Built on Pipecat , NVIDIA Nemotron + Parakeet, and Cekura . Here's me with Kwindla Hultman Kramer , CEO of Daily + creator of Pipecat, the open-source voice framework the whole stack runs on. #YCombinator #AIAgents #VoiceAI ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQHAC1simILXnw/feedshare-image-high-res/B56Z6Dzn0DHkAU-/0/1780327808712?e=2147483647&v=beta&t=NUWB1IDP-TjUNOklFAFn6bbd3MxDZ4dsNhbGHLH7dKg",
+        "id": "7467243651925037057"
+      },
+      {
+        "interaction": "Charlie Gillet shared this",
+        "link": "https://www.linkedin.com/posts/charliegillet_claudecode-aiagents-anthropic-activity-7461082998076018688-5OPX",
+        "title": "Had a great time at Anthropic 's Code w/ Claude event in SF last week! Boris Cherny , the creator of Claude Code, delivered the opening keynote, and I got to briefly chat with him after. Spent the rest of the day learning about the newest features (managed agents and dreaming), participating in workshops around multi-agent system design, agent memory, and agentic tooling, and having great conversations with founders and other attendees. #ClaudeCode #AIAgents #Anthropic ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQFU7HQXQERcIg/feedshare-image-high-res/B56Z4o6LN.KwAU-/0/1778802799833?e=2147483647&v=beta&t=xhvPRClz6FfSPafduHhqQtiw2BkcUCPiukICiyKPI9s",
+        "id": "7461082998076018688"
+      },
+      {
+        "interaction": null,
+        "link": "https://www.linkedin.com/posts/marie-owens-11a08b117_learned-a-lot-at-the-agent-hack-day-w-wordware-activity-7449520885683740672-Yrk9",
+        "title": "Learned a lot at the Agent Hack Day w/ Wordware (YC S24) , Blaxel (YC X25) , and HackerSquad this weekend. One of the coolest things about these hacks is it\u2019s a testing ground for our latest product features. We see what hackers can actually build with them, what works, and what we can improve upon. One example: the best use of Redis winning project Reloop, a self-improving agent that can remember past failures and uses that info to improve retries. It stores each failure in Redis, indexes them with RediSearch, and pulls back relevant ones before the next attempt. They also used Redis Context Retriever, which allowed them to not just store memory, but make it usable by the agent at the right moment. Very well executed \ud83d\udc4f Congrats again to Nihal Nihalani , Yahya Alhinai & Charlie Gillet on the win! We had some cracked sponsors, organizers and technical leaders this time around, special thanks to Simba Khadder , Guillaume Roux-Romestaing , Adam Chan , Sri Kalimani , Amy Zheng , Hermine (Hemi) de Menthiere , Mathis Joffre , and Paul Sina\u00ef for making this event a reality. Happy Monday \ud83c\udf1e ...more ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQHLUp6FuMbyaQ/feedshare-shrink_800/B56Z2IDwiVHAAg-/0/1776104180193?e=2147483647&v=beta&t=iGCeSMzKCBB4Yn4hL00r6nFwFpJyt5UUXcOLChgDDis",
+        "id": "7449520885683740672"
+      },
+      {
+        "interaction": "Charlie Gillet shared this",
+        "link": "https://www.linkedin.com/posts/charliegillet_aiagents-devops-incidentresponse-activity-7446949892553449472-9XtC",
+        "title": "When production goes down, the hardest part isn't fixing it, it's figuring out what changed. That 30-60 minute scramble through dashboards and logs is still the norm at most companies. Last week at the Deep Agents Hackathon in SF, my team built Pager0, an incident response agent that reduces that scramble to ~47 seconds by calling the engineer's phone directly. No dashboards or laptop needed! \ud83d\udcde We placed: 1st \ud83e\udd47 Most Innovative Project Using Macroscope 3rd \ud83e\udd49 Best Use of Auth0 for AI Agents Instead of stopping at a chat summary, Pager0 runs an end-to-end pipeline: 1. Detect the incident 2. Diagnose it with LLM-powered analysis 3. Identify the specific code changes causing the incident using Macroscope + GitHub 4. Call the on-call engineer's phone and let them approve fixes directly via Auth0 CIBA 5. Generate structured reports for engineers and executives #AIAgents #DevOps #IncidentResponse #Auth0 #Hackathon ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQFczLP8CCYZRg/feedshare-image-high-res/B56Z1dRKmSHoAU-/0/1775386274623?e=2147483647&v=beta&t=kBgVeildkikp0YB0KI30jY7lUKJZk20WUOCoO5OgBPY",
+        "id": "7446949892553449472"
+      },
+      {
+        "interaction": "Charlie Gillet shared this",
+        "link": "https://www.linkedin.com/posts/charliegillet_reinforcementlearning-aiagents-aisafety-activity-7439339715738308608-7hyq",
+        "title": "Over the weekend, my team won the $10,000 Patronus AI sponsor prize at the OpenEnv Hackathon in San Francisco. The challenge we tackled: how do you train LLM agents to resist prompt injection and manipulation in real enterprise workflows? We built SentinelOps Arena, a multi-agent reinforcement learning environment designed to train LLM agents to resist manipulation in enterprise systems. The core idea is that three AI agents compete in a simulated company environment: \u2022 Attacker (Red Team) launches attacks like schema drift, policy drift, social engineering, and rate limiting \u2022 Worker (Blue Team) must complete enterprise tasks (CRM, billing, ticketing) while resisting manipulation \u2022 Oversight Agent (Auditor) monitors behavior, flags violations, and explains failures All three agents are trained simultaneously through Group Relative Policy Optimization, each improving alongside the others. Huge thanks to the organizers at Cerebral Valley and the judges and mentors from Meta , Hugging Face , and many other organizations for making this event possible. Interactive Demo: https://lnkd.in/gYBr4N4W #ReinforcementLearning #AIAgents #AISafety #OpenEnv #PyTorch #Hackathon ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQFLYLfL0dOeYA/feedshare-shrink_800/B56ZzrUY4xHkAc-/0/1773474517138?e=2147483647&v=beta&t=G4Wkb1ZEvF2CYczSpWXn3DTaCy4dFOZkr6QVV-DpycU",
+        "id": "7439339715738308608"
+      },
+      {
+        "interaction": "Charlie Gillet liked this",
+        "link": "https://www.linkedin.com/posts/mansimore9_siliconvalley-influentialwomen-womenintech-activity-7492723066230198273-crfr",
+        "title": "So excited to share that I've been recognized by Influential Women for excellence in my field!! \ud83e\ude77\u2728 Grateful to be part of #SiliconValley , and even more grateful for communities that lift women up. To the women earlier in your journey, put your work out there. Your work deserves to be seen. \ud83c\udf38\ud83d\udcab Huge shoutout to Influential Women , for this recognition. It means a lot to have my work seen and appreciated. #InfluentialWomen #WomenInTech #AI",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQEEgwGtrERy_w/feedshare-image-high-res/B56Z_t_7WFHYAU-/0/1786404386436?e=2147483647&v=beta&t=vRwm6h2Y-PeI8SFPQzrxhgJIcugcMkV2HEP1AR_Cz_E",
+        "id": "7492723066230198273"
+      },
+      {
+        "interaction": "Charlie Gillet liked this",
+        "link": "https://www.linkedin.com/posts/adrian-vo-9182162a5_ibm-bobathon-activity-7493062174353858560-Pr6z",
+        "title": "3rd place at IBM\u2019s Austin Bobathon! \ud83e\udd49 Two days into our internship, I got together with 5 other interns and spent a day building something completely from scratch and somehow, we ended up taking 3rd place out of 158 teams. We decided to tackle a problem that came up pretty quickly during our internship: AI is only as useful as the context you give it. At a company as large as IBM, there\u2019s an incredible amount of knowledge being created every day. The problem is that a lot of it never makes it beyond the person or team that created it. Someone may have already solved the exact issue you're dealing with, but that solution could be sitting in an old chat, a local file, or buried in a previous AI conversation. Our idea was to give IBM Bob a way to actually remember that knowledge. We called it Bob Brain. We built a shared knowledge vault that Bob can interact with through an MCP server. Teams can save their notes, decisions, solutions, and context, and Bob can search through that information when it becomes relevant. What we made: \u2022 A FastAPI server for managing the knowledge vault \u2022 An MCP server with 8 tools for reading, searching, and writing \u2022 A VS Code/Bob extension for automatically syncing notes \u2022 A live knowledge graph connecting everything together One of our biggest challenges actually came from being three days into our internships. We didn't have access to much of IBM's internal cloud infrastructure yet, so we couldn't take the same approach as teams with access to hosted services. Instead, we built our own LAN-based syncing system to keep the vault in sync across our laptops. Huge thanks to the IBM Austin team for putting this together, and to my team Michael Tiburcio , Arya M. , Eric Wang , Jeffrey Xu , and Jaden C. for pulling this off in a day. #IBM #Bobathon",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQEA1G6yUtzNMw/feedshare-image-high-res/B56Z_y0U9yH4AU-/0/1786485233038?e=2147483647&v=beta&t=EaM1bqrI2OrliMMaIK_Sz-fO7q56ZDWfM7WsmsJIl7o",
+        "id": "7493062174353858560"
+      },
+      {
+        "interaction": "Charlie Gillet liked this",
+        "link": "https://www.linkedin.com/posts/ntkiet-ho_opensource-rocketride-softwareengineering-activity-7491367863715557376-W22q",
+        "title": "Super happy to share that my first PR has been merged into RocketRide main branch today! \ud83d\ude80 This summer, I started contributing to open source. A friend of mine, who previously worked at RocketRide, introduced me to the project, and I figured it would be a great way to learn how engineers collaborate on a large open-source codebase. It's also probably been my most productive summer yet. Between building side projects, reading, and contributing to open source, I've learned so much more in the past few months than I ever expected. Huge thanks to the RocketRide maintainers for taking the time to review my PRs and provide thoughtful feedback. Looking forward to contributing more and continuing to learn from the community! #OpenSource #RocketRide #SoftwareEngineering #AI #Python",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQEwSrJGHYN7aQ/feedshare-shrink_800/B56Z_avXv8K8Ac-/0/1786081280050?e=2147483647&v=beta&t=BA8djaJYlgEaIGafdsNdTmP9hNK_L7kTUpCwwmMGpwo",
+        "id": "7491367863715557376"
+      },
+      {
+        "interaction": "Charlie Gillet liked this",
+        "link": "https://www.linkedin.com/posts/tomeghale_its-a-big-day-for-oura-in-san-francisco-activity-7491136230118617088-B1iS",
+        "title": "It\u2019s a big day for Oura in San Francisco. I\u2019ve lived in the Bay Area for more than 20 years, and there\u2019s nowhere else I\u2019d rather call home. The energy, talent, and creativity of this city are unmatched and I\u2019m proud to help kick off a new chapter for Oura here. Owning our SF office is a reflection of our confidence in the future we\u2019re building\u2014as a company, a category leader, and a team. Oura was founded in Finland over a decade ago, and those roots remain strong. Much of our global team continues to build and operate in Finland, and today San Francisco has become the center of gravity for our leadership team as well as a growing cohort of cross-functional talent. 500 Pine gives us a lasting home for Oura\u2019s next era of growth, innovation, and leadership. I\u2019m excited for what\u2019s ahead and grateful to everyone who helped make this milestone possible.",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQHzg027EOwj9g/feedshare-shrink_800/B56Z_Xam2JJ0Ac-/0/1786025504535?e=2147483647&v=beta&t=7QbyRsmftX6AJNKq_Ainwq48WNxmlokh84FZpMSrGl0",
+        "id": "7491136230118617088"
+      },
+      {
+        "interaction": "Charlie Gillet liked this",
+        "link": "https://www.linkedin.com/posts/sawyer-hopwood-6b799829b_feelthemagic-nba-orlandomagic-activity-7491158874037792768-fO_Y",
+        "title": "Over the past several months, I had the opportunity to develop a season brand campaign for the Orlando Magic as my senior capstone project at Florida Gulf Coast University. The campaign, Feel The Magic ( #FeelTheMagic ), was built around the idea of capturing the energy, excitement, and emotion that make live NBA basketball unforgettable. Rather than creating a single piece, I approached it like an actual team campaign. The project included: - A cinematic pregame jumbotron hype video designed to play before player introductions - A concept social media campaign - In-arena mockups, including the jumbotron, banners, billboards, and merchandise - Three promotional posters featuring Paolo Banchero, Franz Wagner, and Desmond Bane This project challenged me to think beyond individual edits and consider how every piece of creative works together to build a cohesive brand identity across multiple platforms. As a lifelong Magic fan, this was an especially rewarding project to create, and it gave me the opportunity to combine my passion for basketball, storytelling, motion design, and branding into one campaign. I'd love to hear what you think! #NBA #OrlandoMagic #SportsMarketing #CreativeDirection #MotionDesign #VideoEditing #GraphicDesign #Branding #DigitalMedia #SportsCreative",
+        "img": "https://media.licdn.com/dms/image/v2/D5605AQFMYVxxSM7e3Q/videocover-high/B56Z_XxNJPHIBM-/0/1786031439848?e=2147483647&v=beta&t=HL3nU32tg084cv3dAjITTsIe1u9cFf7JHoQOhMGQzpA",
+        "id": "7491158874037792768"
+      },
+      {
+        "interaction": "Charlie Gillet liked this",
+        "link": "https://www.linkedin.com/posts/sriramnat_what-a-week-over-the-past-few-days-i-activity-7490813625792655360-5176",
+        "title": "What a week. Over the past few days, I: \u2022 Had a 1:1 with Tom Siebel, CEO of C3 AI and the man UIUC\u2019s school of computer science is named after, Siebel School of Computing and Data Science . He told me he had heard great things about my work, encouraged me to keep learning aggressively, and shared thoughtful advice on building a strong foundation early in my career. \u2022 Attended a private yacht gathering and met some of the most impressive founders I have ever spoken with, where nearly every conversation left me with a new idea or perspective. Huge shoutout to Katie Chen , Ethan Yip , and everyone else who made the event happen! \u2022 Attended YC Startup School and heard from Alexandr Wang, Sam Altman, Jensen Huang, and many other incredible leaders. The next day, I saw Cory Levy , who's built one of the most exciting communities for ambitious young people in tech, and Sam Altman(again) at Internpalooza. As I wrap up my summer at C3 AI, I am grateful for everything I learned and am extremely excited to continue learning. If you are building something ambitious, feel free to reach out, I'm always ready to connect!",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQGiporQ2GImkg/feedshare-image-high-res/B56Z_S3TZaJgAc-/0/1785949141145?e=2147483647&v=beta&t=Pk4ofSC9ZRJNc4hgvW7iJwjuVlFJxYKntTdvBaqN0_U",
+        "id": "7490813625792655360"
+      },
+      {
+        "interaction": "Charlie Gillet liked this",
+        "link": "https://www.linkedin.com/posts/please-like-comment-and-repost-so-we-can-activity-7490165523939356672-9skY",
+        "title": "Please like, comment and repost so we can win social media award for RocketRide Most promises don't get broken on purpose. Life just moves on. Today, four of us built a personal brain that catches them. It's called Nous. You type \"I wanna meet with Kevin next week for dinner\" and it works out who Kevin is, what you meant, and when it should happen. It connects to your calendar, email, messages, and event streams, so it knows what your week actually looks like and proposes a slot you've got nothing on. One tap books it. Show Nous how you handle something boring, like an invoice, once, and it learns how to handle the next one. But it refuses to act until you approve, which honestly took the most work. The whole thing runs on RocketRide. Every skill Nous learns compiles into a RocketRide pipeline, so the brain never executes anything itself, the engine does. We built a custom RocketRide node and turned their engine into the compilation target for a brain. Take RocketRide away and Nous can remember, but it can't act. FalkorDB is the living memory graph, Guild.ai agents review every skill before it can run, and LaserData streams events in as they happen. It's a second brain that keeps the promises your first one makes. Built at Memory Meets Motion. Thanks to Devnovatee and frontiertower for hosting. Sunny Rodrigues , Abhinav Garg , Kewin Szlezingier , Mansi More , Poushali Deb Purkayastha , Joe Maionchi , Joshua Phillips , Krish Garg , Charlie Gillet , Po-Hsu Lien",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQGZOXsTVG-sgQ/feedshare-shrink_800/B56Z_Jp2q2GQAg-/0/1785794620323?e=2147483647&v=beta&t=nD3wqwSfquVzNXIRhIo5pMxok66orNImDHrsO8kXuIk",
+        "id": "7490165523939356672"
+      },
+      {
+        "interaction": "Charlie Gillet liked this",
+        "link": "https://www.linkedin.com/posts/datnguy3n_this-weekend-my-team-built-atrium-at-the-activity-7490171892629155840-KgEf",
+        "title": "This weekend, my team built Atrium at the Memory Meets Motion Hackathon using RocketRide and some other amazing tools. We\u2019re competing for a prize based on engagement, so if you have a second, please like the original post. It would really help our team out! https://lnkd.in/gdqvJDj9 Huge thank you to RocketRide, Snyk , LaserData , FalkorDB , Guild.ai , Linkup , Mansi More, and everyone who made the hackathon possible!",
+        "img": null,
+        "id": "7490171892629155840"
+      },
+      {
+        "interaction": "Charlie Gillet liked this",
+        "link": "https://www.linkedin.com/posts/patel-ji_getting-into-a-research-lab-is-way-easier-activity-7486141873066246144-FLkV",
+        "title": "\"Getting into a research lab is way easier than most people think.\" I learned that from P.J. Utz, the founder and faculty director of Stanford SIMR. The wildest thing he ever told me had nothing to do with the actual research. ... It was that most people never get into a lab for one reason: they never send the email. I didn't believe him at first. I thought if you weren't a nepo baby with four Nature journal publications or 4x legacy, you were cooked. Turns out none of that is true. Here's what actually is: - Most professors AREN'T gatekeepers waiting to reject you. A lot of them are quietly short on hands. If they genuinely need help, you reaching out isn't a bother, it's useful to them. I've had professors follow up with me. - The worst case isn't humiliation. It's silence. If they don't need anyone right now, they just won't reply. That's the entire risk everyone's so afraid of. - You also don't need to write three paragraphs about how their 2019 paper changed your life. They can tell when it's forced. Just say what you can actually do and leave it there. And if you've already done summer research training, safety, axess protocols, all of it, you're more prepared than you feel. A short resume and two honest sentences is enough. Before this post I camped the Stanford CIRM building and this is what one of the PhD lab interns I approached said: \"If you're still in high school, it can genuinely be easier, not harder.\" I spent way too long waiting until I felt \"ready\" to reach out. That feeling never really shows up. You just send the email. If you're in a similar spot and want to talk through it, feel free to reach out. ~ aayu",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQFUYblfYcUNVQ/feedshare-image-high-res/B56Z.QeXMUKkAY-/0/1784835307142?e=2147483647&v=beta&t=Hm5z6yWTLJLBkmySTqoJundTKeBA4_Ev6X91GCKuJoM",
+        "id": "7486141873066246144"
+      }
+    ],
+    "linkedin_num_id": "940827462",
+    "banner_image": "https://static.licdn.com/aero-v1/sc/h/5q92mjc5c51bjlwaj3rs9aa82",
+    "honors_and_awards": [
+      {
+        "title": "$10,000 Patronus AI Sponsor Prize - OpenEnv Hackathon SF",
+        "publication": "Patronus AI",
+        "date": "2026-03-01T00:00:00.000Z",
+        "description": "Sponsor prize won with my team at the OpenEnv Hackathon SF."
+      },
+      {
+        "title": "Provost Honors (8x)",
+        "publication": "-",
+        "date": null,
+        "description": null
+      }
+    ],
+    "similar_profiles": [],
+    "default_avatar": false,
+    "memorialized_account": false,
+    "bio_links": [],
+    "first_name": "Charlie",
+    "last_name": "Gillet",
+    "influencer": false,
+    "timestamp": "2026-08-12T18:58:39.391Z",
+    "input": {
+      "url": "https://www.linkedin.com/in/charliegillet"
+    }
+  },
+  "local_photo": "data\\linkedin_photos\\charliegillet__usr-tNrxRQYJy9jzPVq.jpg"
+}

@@ -1,0 +1,221 @@
+{
+  "luma_user_id": "usr-0ROz4qf8nQH9vP2",
+  "csv_name": "Ayaan Gazali",
+  "csv_linkedin": "https://www.linkedin.com/in/ayaangazali",
+  "enriched_at": "2026-08-12T18:58:28.968768+00:00",
+  "batch_id": "sd_msqgad6c2eeefcaqas",
+  "profile": {
+    "id": "ayaangazali",
+    "name": "Ayaan Gazali",
+    "city": "San Francisco Bay Area",
+    "country_code": "US",
+    "position": null,
+    "about": "Systems Engineering, Distributed Systems, RL + Post training models Hackathon\u2026",
+    "current_company": {
+      "link": "https://www.linkedin.com/company/steath?trk=public_profile_topcard-current-company",
+      "name": "Stealth",
+      "company_id": "steath",
+      "location": null
+    },
+    "experience": null,
+    "url": "https://tr.linkedin.com/in/ayaangazali",
+    "educations_details": "San Jos\u00e9 State University",
+    "education": [
+      {
+        "title": "San Jos\u00e9 State University",
+        "url": "https://www.linkedin.com/school/san-jose-state-university/",
+        "start_year": "2025-08",
+        "end_year": "2028-05",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      }
+    ],
+    "recommendations_count": 1,
+    "avatar": "https://media.licdn.com/dms/image/v2/D4D03AQE2R0BI9-HCPg/profile-displayphoto-scale_200_200/B4DZq0lUm2GkAY-/0/1763966274998?e=2147483647&v=beta&t=p8F1ukFAfc9vaerB5QtAqeQ07l2pma1QoVLsgcKCdsc",
+    "languages": [
+      {
+        "subtitle": "Full professional proficiency",
+        "title": "English"
+      },
+      {
+        "subtitle": "Limited working proficiency",
+        "title": "French"
+      }
+    ],
+    "certifications": [
+      {
+        "meta": "Issued Jul 2025 Credential ID 0xAAF965fec8b80bBc8Be403276bfeBf0504df5f18 See credential",
+        "subtitle": "Stanford University: Code In Place",
+        "title": "Section Leader @ Stanford: Code in Place",
+        "credential_url": "https://digitalcredential.stanford.edu/check/1B6D7EC6F1F99562604A1DB81E005A4AEC31F90488D258C9F39EE0DB6F5FA59DWU81YmI4RktUanZGcEEyRVBBaUdHeFgxRkRtbmYxb294a2pVcVRWbmk0Nkl1ajV0?trk=public_profile_see-credential",
+        "credential_id": "0xAAF965fec8b80bBc8Be403276bfeBf0504df5f18"
+      },
+      {
+        "meta": "Issued Sep 2024 Credential ID BC5T822DRN5V See credential",
+        "subtitle": "University of Pennsylvania",
+        "title": "FinTech: Foundations, Payments, and Regulations",
+        "credential_url": "https://www.linkedin.com/coursera.org/verify/BC5T822DRN5V?trk=public_profile_see-credential",
+        "credential_id": "BC5T822DRN5V"
+      },
+      {
+        "meta": "Issued Sep 2024 Credential ID HLKAQEW6DAUU See credential",
+        "subtitle": "University of Michigan",
+        "title": "Stocks and Bonds",
+        "credential_url": "https://coursera.org/verify/HLKAQEW6DAUU?trk=public_profile_see-credential",
+        "credential_id": "HLKAQEW6DAUU"
+      },
+      {
+        "meta": "Issued Aug 2024 Credential ID 6KQ55946EFPQ See credential",
+        "subtitle": "University of Michigan",
+        "title": "Python Data Structures",
+        "credential_url": "https://coursera.org/verify/6KQ55946EFPQ?trk=public_profile_see-credential",
+        "credential_id": "6KQ55946EFPQ"
+      },
+      {
+        "meta": "Issued Aug 2024 Credential ID QDFRYUZ5439V See credential",
+        "subtitle": "IBM",
+        "title": "Python for Data Science, AI & Development",
+        "credential_url": "https://coursera.org/verify/QDFRYUZ5439V?trk=public_profile_see-credential",
+        "credential_id": "QDFRYUZ5439V"
+      },
+      {
+        "meta": "Issued Jul 2024 Credential ID 5f823aae-d515-475d-8f78-aaba2e1d073b See credential",
+        "subtitle": "CS50",
+        "title": "CS50: Python Programming, Data Analysis,Web scraping and Automation",
+        "credential_url": "https://cs50.harvard.edu/certificates/5f823aae-d515-475d-8f78-aaba2e1d073b?trk=public_profile_see-credential",
+        "credential_id": "5f823aae-d515-475d-8f78-aaba2e1d073b"
+      },
+      {
+        "meta": "Issued Jul 2024 Credential ID 1c63227c-f081-481a-a9e4-2fcd69595d38 See credential",
+        "subtitle": "CS50",
+        "title": "CS50: Exploring the Intricacies of Cybersecurity and Digital Safeguarding",
+        "credential_url": "https://cs50.harvard.edu/certificates/1c63227c-f081-481a-a9e4-2fcd69595d38?trk=public_profile_see-credential",
+        "credential_id": "1c63227c-f081-481a-a9e4-2fcd69595d38"
+      },
+      {
+        "meta": "Issued Jul 2024 Credential ID RQ4276HHKGQU See credential",
+        "subtitle": "University of Michigan",
+        "title": "Introduction to Programming Using Python",
+        "credential_url": "https://coursera.org/verify/RQ4276HHKGQU?trk=public_profile_see-credential",
+        "credential_id": "RQ4276HHKGQU"
+      }
+    ],
+    "recommendations": [
+      "Abdullatif Alkhaled \u201cI invited Ayaan to join our team as an intern at the Investment Banking department after noticing his enthusiasm for finance and investments, and was impressed by his genuine inquisitive nature and general intelligence. He excelled in quickly and comprehensively understanding complex concepts across the service lines of Debt Capital Markets, Equity Capital Markets, and Mergers & Acquisitions. Throughout his internship, Ayaan demonstrated adaptability, insight, and a strong work ethic, often asking thoughtful questions that surpassed those of many experienced/ graduate interns. His ability to grasp intricate valuation excercises and connect various financial concepts impressed me and my colleagues greatly. In summary, Ayaan is a dedicated and talented individual, and I highly recommend him for any future opportunities. If he was a graduate, I would have gladly asked him to apply to our department. \u201d"
+    ],
+    "volunteer_experience": [
+      {
+        "cause": "Education",
+        "duration": "Mar 2023 \u00b7 - \nOct 2024 \u00b7 \n1 year 8 months",
+        "duration_short": "- \nOct 2024",
+        "start_date": "Mar 2023",
+        "subtitle": "Schoolhouse.world",
+        "title": "Academic Tutor"
+      },
+      {
+        "cause": "Education",
+        "duration": "Jul 2022 \u00b7 - \nNov 2024 \u00b7 \n2 years 5 months",
+        "duration_short": "- \nNov 2024",
+        "info": "Volunteered as online tutor with Brainly, taught and supported 70,000+ students globally with academic help.",
+        "start_date": "Jul 2022",
+        "subtitle": "Brainly",
+        "title": "Academic Tutor"
+      }
+    ],
+    "followers": 16246,
+    "connections": 500,
+    "current_company_company_id": "steath",
+    "current_company_name": "Stealth",
+    "location": null,
+    "input_url": "https://www.linkedin.com/in/ayaangazali",
+    "linkedin_id": "ayaangazali",
+    "activity": [
+      {
+        "interaction": "Shared by Ayaan Gazali",
+        "link": "https://www.linkedin.com/posts/ayaangazali_i-just-hired-my-first-secretary-he-works-activity-7492681763048116224-wBHM",
+        "title": "I just hired my first secretary. He Works 24/7. Never complains. Costs me $200 a month. Its name is Claude Cowork. Here is what it actually runs\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQHuQyvYcyhpGw/feedshare-image-high-res/B56Z_taXEZJsAU-/0/1786394538473?e=2147483647&v=beta&t=SI_Olg_v4uThsqHmJPgMM2mkuowzevPPYzIGW52eB2E",
+        "id": "7492681763048116224"
+      },
+      {
+        "interaction": "Liked by Ayaan Gazali",
+        "link": "https://www.linkedin.com/posts/hrishikesh-athreya_i-won-1st-place-at-the-ai-computer-hackathon-activity-7492403184691200000-0z-m",
+        "title": "I won 1st place at the AI Computer Hackathon at Stanford University! \ud83c\udfc6 We built Glimpse, a tool that looks through photos from your past week and\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQFLdDkeb-9qoQ/feedshare-shrink_800/B56Z_pc_hIH4Ac-/0/1786328119966?e=2147483647&v=beta&t=EUEmKmA7D8yP_2p1WKN6Ja-Mf0YSAK3VH16i8bJmT1I",
+        "id": "7492403184691200000"
+      },
+      {
+        "interaction": "Liked by Ayaan Gazali",
+        "link": "https://www.linkedin.com/posts/nate-abatkun-30241027b_spacex-starship-activity-7492039205527879680-S91N",
+        "title": "Philippians 4:13 \ud83d\ude4f\ud83c\udffe Still processing this one\u2026 I\u2019m excited to announce I\u2019ll be joining SpaceX this fall as an Engineering Intern on the Starship\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQGzUcsjST-aRA/feedshare-shrink_800/B56Z_kR9AqGUAc-/0/1786241340371?e=2147483647&v=beta&t=DBoklrMvq-nN8RfPo2hUpSkQ7FZwIK0Sf2ZBUbQhOdk",
+        "id": "7492039205527879680"
+      }
+    ],
+    "linkedin_num_id": "1100348532",
+    "banner_image": "https://media.licdn.com/dms/image/v2/D4D16AQFkC_ZvZd22mA/profile-displaybackgroundimage-shrink_200_800/B4DZYrntFeGkAU-/0/1744488553312?e=2147483647&v=beta&t=4WQsXUf6MOS5vcL6ZelODhfaSn7qHUa4xw68YZZe9GE",
+    "honors_and_awards": [
+      {
+        "title": "2nd place (YC Nivara track) @ YCombinator",
+        "publication": "YCombinator",
+        "date": "2025-11-01T00:00:00.000Z",
+        "description": "we built a Token Spend Tracker that helps AI teams monitor & optimize how their agents use tokens (because most burn $$$ without knowing why)"
+      },
+      {
+        "title": "Overall Winner + Track Winners of LightningAI and Parallel AI @AWS",
+        "publication": "Amazon Web Services (AWS)",
+        "date": "2025-11-01T00:00:00.000Z",
+        "description": "URBAN- a government consulting platform that lets policymakers stress-test ideas before they hit the real world. The core flow: a politician uploads (or drafts) a policy \u2192 our system web-scrapes relevant data, pulls in context, and runs data-driven simulations to show likely outcomes, tradeoffs, and post-effects. On top of that, we let leaders create custom AI agents tailored to their priorities and style, and everything plugs into Mapbox for interactive 3D visualization so complex policy\u2026 Show more"
+      },
+      {
+        "title": "Overall Winner @Microsoft (HackWithBay)",
+        "publication": "LandingAI and Pathway",
+        "date": "2025-10-01T00:00:00.000Z",
+        "description": "We built an AI M&A Analyst \u2014 a digital junior investment banker for due diligence: \u2022 Landing AI parsed SEC Regulation S-K Item 601 filings and earnings PDFs, surfacing anomalies and missing disclosures. \u2022 Pathway AI powered a RAG system that cross-referenced contracts, flagged risks, and reduced review cycles from weeks to hours. \u2022 Teams could collaborate in a shared workspace, making diligence faster, sharper, and more reliable."
+      },
+      {
+        "title": "Best Delegate",
+        "publication": "Harvard University",
+        "date": "2024-08-01T00:00:00.000Z",
+        "description": "I\u2019m beyond excited to share that I had the honor of winning Best Delegate in the SPECPOL committee at Harvard Model United Nations 2024, the most competitive MUN in India with delegations from across the country. Representing Burundi\u2014one of the smallest countries in the committee\u2014I tackled the agenda on the Western Sahara conflict, a deeply complex issue. Handling a bloc of 70 people, I drafted working papers and resolutions focused on supporting the Sahrawi people, while condemning\u2026 Show more"
+      },
+      {
+        "title": "5 Gold Medals- CBSE Swimming Clusters 2024-25",
+        "publication": "Ministry of Youth Affairs & Sports, GOVT. Of INDIA",
+        "date": "2024-05-01T00:00:00.000Z",
+        "description": null
+      },
+      {
+        "title": "1 Gold and 4 Silver Medals - CBSE Swimming Clusters 2023-24",
+        "publication": "Ministry of Youth Affairs & Sports, GOVT. Of INDIA",
+        "date": "2023-09-01T00:00:00.000Z",
+        "description": null
+      },
+      {
+        "title": "5th Place in Hackathon",
+        "publication": "International Bloom Bananza 2023",
+        "date": "2023-08-01T00:00:00.000Z",
+        "description": "Here I came 5th place out of 300+ participants where we have to create a platform related to justice, sustainability, and health"
+      },
+      {
+        "title": "Gold and Silver Medal-CBSE Swimming Clusters 2022-23",
+        "publication": "Ministry of Youth Affairs & Sports, GOVT. Of INDIA",
+        "date": "2022-10-01T00:00:00.000Z",
+        "description": null
+      }
+    ],
+    "similar_profiles": [],
+    "default_avatar": false,
+    "memorialized_account": false,
+    "bio_links": [],
+    "first_name": "Ayaan",
+    "last_name": "Gazali",
+    "influencer": false,
+    "timestamp": "2026-08-12T18:57:29.634Z",
+    "input": {
+      "url": "https://www.linkedin.com/in/ayaangazali"
+    }
+  },
+  "local_photo": "data\\linkedin_photos\\ayaangazali__usr-0ROz4qf8nQH9vP2.jpg"
+}

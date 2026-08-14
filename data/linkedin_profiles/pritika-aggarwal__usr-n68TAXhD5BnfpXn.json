@@ -1,0 +1,534 @@
+{
+  "luma_user_id": "usr-n68TAXhD5BnfpXn",
+  "csv_name": "Pritika Aggarwal",
+  "csv_linkedin": "https://www.linkedin.com/in/pritika-aggarwal",
+  "enriched_at": "2026-08-12T19:14:53.869957+00:00",
+  "batch_id": "sd_msqgwa7g10oeo6g7qx",
+  "profile": {
+    "id": "pritika-aggarwal",
+    "name": "Pritika Aggarwal",
+    "city": "Urbana, Illinois, United States",
+    "country_code": "US",
+    "position": null,
+    "about": "I am a junior majoring in Computer Science and minoring in Statistics at the University\u2026",
+    "current_company": {
+      "link": "https://www.linkedin.com/company/tandemspace?trk=public_profile_topcard-current-company",
+      "name": "Tandem",
+      "company_id": "tandemspace",
+      "location": null
+    },
+    "experience": null,
+    "url": "https://cn.linkedin.com/in/pritika-aggarwal",
+    "educations_details": "University of Illinois Urbana-Champaign, USA",
+    "education": [
+      {
+        "title": "University of Illinois Urbana-Champaign, USA",
+        "url": "https://www.linkedin.com/school/university-of-illinois-urbana-champaign/",
+        "start_year": "2023-08",
+        "end_year": "2027-05",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      },
+      {
+        "start_year": "2021-07",
+        "end_year": "2023-07",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      },
+      {
+        "start_year": "2020-07",
+        "end_year": "2021-06",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      },
+      {
+        "start_year": "2016-07",
+        "end_year": "2020-07",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      }
+    ],
+    "avatar": "https://media.licdn.com/dms/image/v2/D5603AQF8NlkaX_AASA/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1695097890505?e=2147483647&v=beta&t=vJ4G5-7hLKPTYuuNQEKVClho8mYqQEDTW2Vt10yBDm4",
+    "courses": [
+      {
+        "subtitle": "CS 233",
+        "title": "Computer Architecture"
+      },
+      {
+        "subtitle": "CS 463",
+        "title": "Computer Security II"
+      },
+      {
+        "subtitle": "CS 225",
+        "title": "Data Structures and Algorithms"
+      },
+      {
+        "subtitle": "CS 411",
+        "title": "Database Systems"
+      },
+      {
+        "subtitle": "CS 173",
+        "title": "Discrete Structures"
+      },
+      {
+        "subtitle": "CS 374",
+        "title": "Intro to Algs & Models of Comp"
+      },
+      {
+        "subtitle": "CS 124",
+        "title": "Intro. to Computer Science I"
+      },
+      {
+        "subtitle": "CS 128",
+        "title": "Intro. to Computer Science II"
+      },
+      {
+        "subtitle": "CHLH 260",
+        "title": "Intro. to Medical Ethics"
+      },
+      {
+        "subtitle": "MATH 257",
+        "title": "Linear Algebra"
+      },
+      {
+        "subtitle": "CS 421",
+        "title": "Programming Languages & Compilers"
+      },
+      {
+        "subtitle": "CS 222",
+        "title": "Software Design Lab"
+      },
+      {
+        "subtitle": "SPV 177",
+        "title": "Spatial Visualisation"
+      },
+      {
+        "subtitle": "STAT 200",
+        "title": "Statistical Analysis"
+      },
+      {
+        "subtitle": "STAT 400",
+        "title": "Statistics and Probability"
+      },
+      {
+        "subtitle": "CS 341",
+        "title": "Systems Programming"
+      },
+      {
+        "subtitle": "CS 417",
+        "title": "Virtual Reality"
+      }
+    ],
+    "languages": [
+      {
+        "subtitle": "Native or bilingual proficiency",
+        "title": "English"
+      },
+      {
+        "subtitle": "Native or bilingual proficiency",
+        "title": "Hindi"
+      },
+      {
+        "subtitle": "Elementary proficiency",
+        "title": "German"
+      }
+    ],
+    "certifications": [
+      {
+        "meta": "Issued Aug 2025 See credential",
+        "subtitle": "Scrimba",
+        "title": "Intro To SQL",
+        "credential_url": "https://scrimba.com/certificate-cert2ffentAFN58nrqgcY5HZp8ciKUGZoqQmXWUrYzMswTb4pr?trk=public_profile_see-credential",
+        "credential_id": null
+      },
+      {
+        "meta": "Issued Aug 2025 See credential",
+        "subtitle": "Scrimba",
+        "title": "Learn RAG",
+        "credential_url": "https://scrimba.com/certificate-cert2JbLs3qgBCbXrKQKXMStWWEkLNnfhVEciJUD3a?trk=public_profile_see-credential",
+        "credential_id": null
+      },
+      {
+        "meta": "Issued May 2025 Credential ID 142424801 See credential",
+        "subtitle": "University of Illinois Grainger College of Engineering",
+        "title": "New Venture Development 2025",
+        "credential_url": "https://www.credential.net/dab37fb0-4d02-4ca7-9fec-52c1ddca8b70?trk=public_profile_see-credential",
+        "credential_id": "142424801"
+      },
+      {
+        "meta": "Issued Nov 2023",
+        "subtitle": "Coursera",
+        "title": "AI For Everyone",
+        "credential_url": null,
+        "credential_id": null
+      },
+      {
+        "meta": "Issued Jul 2023 Credential ID RXJDTYF576RX",
+        "subtitle": "Coursera",
+        "title": "Using DAX throughout PowerBI to create robust data scenarios",
+        "credential_url": null,
+        "credential_id": "RXJDTYF576RX"
+      },
+      {
+        "meta": "Issued Jun 2023 Credential ID CXYBXBMRDXUH",
+        "subtitle": "Coursera",
+        "title": "Introduction to Java",
+        "credential_url": null,
+        "credential_id": "CXYBXBMRDXUH"
+      },
+      {
+        "meta": "Issued Jan 2022 Credential ID YDAH7RZEW93G",
+        "subtitle": "Coursera",
+        "title": "Machine Learning for Telecom Customers Churn Prediction",
+        "credential_url": null,
+        "credential_id": "YDAH7RZEW93G"
+      },
+      {
+        "meta": "Issued May 2021",
+        "subtitle": "RYS 200, Ashish Yoga, India",
+        "title": "International Yoga Instructor Licence",
+        "credential_url": null,
+        "credential_id": null
+      },
+      {
+        "meta": "Issued Apr 2021 Credential ID 3PCQQJLKAJPE",
+        "subtitle": "Coursera",
+        "title": "Crash Course on Python",
+        "credential_url": null,
+        "credential_id": "3PCQQJLKAJPE"
+      },
+      {
+        "meta": "Issued Apr 2021 Credential ID WX8GVTJHS3UG",
+        "subtitle": "Coursera",
+        "title": "Introduction to Machine Learning",
+        "credential_url": null,
+        "credential_id": "WX8GVTJHS3UG"
+      }
+    ],
+    "volunteer_experience": [
+      {
+        "cause": "Children",
+        "duration": "Oct 2021 \u00b7 - \nNov 2021 \u00b7 \n2 months",
+        "duration_short": "- \nNov 2021",
+        "start_date": "Oct 2021",
+        "subtitle": "Madhu Mansion Charitable Trust",
+        "title": "Student Fundraiser"
+      },
+      {
+        "cause": "Education",
+        "duration": "Sep 2021 \u00b7 - \nOct 2021 \u00b7 \n2 months",
+        "duration_short": "- \nOct 2021",
+        "start_date": "Sep 2021",
+        "subtitle": "Ketto",
+        "title": "Student Fundraiser"
+      },
+      {
+        "cause": "Education",
+        "duration": "Sep 2021 \u00b7 - \nOct 2021 \u00b7 \n2 months",
+        "duration_short": "- \nOct 2021",
+        "start_date": "Sep 2021",
+        "subtitle": "Mitra Jyothi",
+        "title": "Student Volunteer"
+      },
+      {
+        "cause": "Health",
+        "duration": "Jan 2018 \u00b7 - \nJun 2020 \u00b7 \n2 years 6 months",
+        "duration_short": "- \nJun 2020",
+        "start_date": "Jan 2018",
+        "subtitle": "Singapore Red Cross",
+        "title": "Logistics Assistant"
+      },
+      {
+        "cause": "Poverty Alleviation",
+        "duration": "Jan 2018 \u00b7 - \nJun 2020 \u00b7 \n2 years 6 months",
+        "duration_short": "- \nJun 2020",
+        "start_date": "Jan 2018",
+        "subtitle": "Food from the Heart",
+        "title": "Logistics Assistant"
+      }
+    ],
+    "followers": 1538,
+    "connections": 500,
+    "current_company_company_id": "tandemspace",
+    "current_company_name": "Tandem",
+    "publications": [
+      {
+        "title": "Author of Research Paper - Impact of COVID-19 on the Education and Health of Students",
+        "subtitle": "IEEE",
+        "date": "November 26, 2021",
+        "description": "- Ascertained the impact of COVID-19 on the Health and Education of students across the world under a Computer Science PhD Professor from India.- Collected raw information for 300 people across different countries via surveys, cleansed data via models created in Excel, analyzed data via visualizations created in Excel, performed descriptive analysis, and presented and published paper in the 6th IEEE Conference"
+      },
+      {
+        "title": "Co-Author of \"Upon An Asteroid\"",
+        "subtitle": "Available on Amazon",
+        "date": "July 30, 2021"
+      },
+      {
+        "title": "Sold Abstract Art Painting",
+        "subtitle": "Tatinis Art Exhibition, Singapore"
+      }
+    ],
+    "projects": [
+      {
+        "title": "ActSignLearn (Uncommon Hacks 2026)",
+        "start_date": "May 2026",
+        "description": "- Built ActSignLearn, an AI-powered ASL learning platform featuring real-time hand tracking via MediaPipe (21 landmarks/frame), a TensorFlow.js sign classifier, and a per-joint feedback engine using cosine similarity - all running entirely in the browser with no server latency.- Engineered gesture-based navigation and a personalized AI study plan agent (Groq API) that adapts to each learner's background and goals, enabling full mouse-free accessibility and a tailored week-by-week curriculum from onboarding quiz responses."
+      },
+      {
+        "title": "Flixr: Netflix Ratings Extension",
+        "start_date": "Feb 2026",
+        "description": "- Developed and published Flixr, a privacy-focused Chrome extension that integrates IMDb and Rotten Tomatoes ratings into the Netflix UI with a toggle-able, minimalist design.- Built a Vercel-hosted backend with a custom caching layer to fetch movie metadata from third-party APIs, ensuring instant rating loads while minimizing external API calls."
+      },
+      {
+        "title": "Symbiote (HackIllinois 2026 MLH Winner)",
+        "start_date": "Feb 2026",
+        "description": "- Engineered a multimodal AI inspection pipeline using Gemini Live voice-to-action and Qwen2-VL-7B (via reference-grounded prompting) to automate 20-minute safety checks in <60 seconds.- Architected a React data governance dashboard and Supabase backend to transform raw voice/vision inputs into structured, audit-ready datasets with timestamps, fleet health metrics, and automated procurement status."
+      },
+      {
+        "title": "WeatherVerse Web App",
+        "start_date": "May 2025",
+        "description": "\u2022 Developed a secure, scalable full-stack web app that supports CRUD operations for managing \u201ccircles\u201d of contacts, visualized as personalized avatars on an interactive world map showing real-time weather and local time.\u2022 Architected backend schemas and RESTful APIs with JWT authentication and middleware-based security; integrated multiple external APIs, implemented WebSocket-driven real-time updates, and developed personalized notifications to deliver a responsive and user-centric experience."
+      },
+      {
+        "title": "CircleSync Web App",
+        "start_date": "Jan 2024",
+        "description": "- Developed a social web app to connect U of I students with their peers for activities like studying, clubs, and making friends to easily transition from high school to college for DevAda in Women in Computer Science.- Directed the front-end development process, employing React and JavaScript frameworks to create and provide an intuitive user experience with seamless navigation between groups."
+      },
+      {
+        "title": "DartFrog Web App",
+        "start_date": "Feb 2024",
+        "description": "- Deployed an AI data analysis tool capable of accepting uploaded CSV files, conducting comprehensive analysis, and generating insightful summaries and statistical graphs with a team of 4 at HackIllinois.- Engineered Python parsers for CSV, XML, and JSON files as well as led prompt engineering efforts to refine the Gemini model, enabling accurate extraction of key insights and trends."
+      },
+      {
+        "title": "Cricket Analytics Dashboard",
+        "start_date": "Jul 2023",
+        "description": "- Personal Project- Analyzed Cricket players from across the world to create an undefeatable team of 11 via SQL and a Power BI Dashboard.- Extracted necessary data and performed data transformation in Power Query \u2013 delimiters, trimming text, and creating and adding custom and conditional columns. Performed data modelling using DAX Queries to create relationships between tables, write and create calculated measures/columns.- Designed an interactive Dashboard via pages, matrixes, buttons, slicers, forecasting, and data bars."
+      },
+      {
+        "title": "Sleep Safe Web App",
+        "start_date": "Mar 2023",
+        "description": "- Designed a hardware device, using Arduino, to help record sleep patterns and noninvasively diagnose cases of breathing issues during sleep with a team of 5 for the Neev Hackathon held in India.- Executed Python libraries to train dataset and improve the efficiency of the machine learning model and ran JavaScript files to develop a simplistic frontend. Loaded project files onto device."
+      },
+      {
+        "title": "Sleepy Driver Detector",
+        "start_date": "May 2021",
+        "description": "- Personal Project - Analyzed trends in car accidents across the world caused by drivers falling asleep behind the wheel and designed a sleepy driver detection software.- Developed a machine learning model using Python scripts and libraries and trained it using the 80:20 ratio after capturing the number of blinks in a frame in one second. Alarmed the driver by sounding a loud alarm if eyes were closed for more than three seconds."
+      }
+    ],
+    "organizations": [
+      {
+        "title": "Society of Women Engineers",
+        "membership_type": "General Member",
+        "start_date": "Dec 2023",
+        "end_date": "Present",
+        "description": "Attended social events, networking events (such as Night of Networking), and volunteer for fundraising events, such as the Feb Bake Sale.",
+        "membership_number": null
+      },
+      {
+        "title": "Women in Computer Science",
+        "membership_type": "General Member",
+        "start_date": "Sep 2023",
+        "end_date": "Present",
+        "description": "Attend programming workshops and networking events and general volunteer for events such as ChicTech 2023",
+        "membership_number": null
+      },
+      {
+        "title": "Illini Boxing Club",
+        "membership_type": "Club Member",
+        "start_date": "Sep 2023",
+        "end_date": "Dec 2023",
+        "description": "Intense full-body workouts and learn boxing techniques, such as sparring, jabs, throws, footwork, and many more.",
+        "membership_number": null
+      }
+    ],
+    "location": "Urbana",
+    "input_url": "https://www.linkedin.com/in/pritika-aggarwal",
+    "linkedin_id": "pritika-aggarwal",
+    "activity": [
+      {
+        "interaction": "Liked by Pritika Aggarwal",
+        "link": "https://www.linkedin.com/posts/chase-witzansky_yc-startup-internship-expo-activity-7493374896111038464-jNdY",
+        "title": "If you're in SF this Saturday, now is your chance to secure an internship (or a job!) Shoot me a DM if you want a referral",
+        "img": "https://media.licdn.com/dms/image/sync/v2/D5627AQEKev2nn_5Mmw/articleshare-shrink_800/B56Z7b16jdIMAY-/0/1781804806611?e=2147483647&v=beta&t=ypk3J8US3DnIVa-_qVMpoS90Ct9ZxBItgd9rzZJtPn0",
+        "id": "7493374896111038464"
+      },
+      {
+        "interaction": "Liked by Pritika Aggarwal",
+        "link": "https://www.linkedin.com/posts/rolf-erling-bekkelund_jonas-is-going-full-time-say-hi-to-jonas-activity-7492517726494650369-waqO",
+        "title": "Jonas is going full-time! \ud83c\udf89 Say hi to Jonas! He's been part of our development team since January, and as of August, he's officially\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQEim5CitzJGCQ/feedshare-image-high-res/B4EZ_rFKJ3JYAU-/0/1786355429315?e=2147483647&v=beta&t=NnYjZvFa_sXdSPnFxahSFBHC57tSEmUdnVIbX8F-oE8",
+        "id": "7492517726494650369"
+      },
+      {
+        "interaction": "Liked by Pritika Aggarwal",
+        "link": "https://www.linkedin.com/posts/janavi-srinivasan_nvidia-computervision-cuda-activity-7493211216014815233-Vvk8",
+        "title": "I\u2019m excited to share that I\u2019ve successfully completed my 3-month internship at NVIDIA as a Core Computer Vision Intern! \ud83d\udc9a This summer, I got to\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQHk82gIHa6rgw/feedshare-image-high-res/B56Z_074a_HcAU-/0/1786520769263?e=2147483647&v=beta&t=-LfJK8eaPVA-GxR25T5sn_pFeEvIc3T0npL6BWWLFic",
+        "id": "7493211216014815233"
+      },
+      {
+        "interaction": "Liked by Pritika Aggarwal",
+        "link": "https://www.linkedin.com/posts/ishaanchamoli_weve-raised-500k-from-a16z-speedrun-it-activity-7493343058416041987-24Gz",
+        "title": "We\u2019ve raised $500K from a16z speedrun! It\u2019s crazy I finally get to share this. I\u2019ve wanted to write that sentence since I was 10. I used to\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQGswQnOdFI-fQ/feedshare-shrink_800/B56Z_2zzdWKEAc-/0/1786552203512?e=2147483647&v=beta&t=nLhJpFdXSSMedFfsWAmEZ6M4A8YdidrqTa_atnjMRfU",
+        "id": "7493343058416041987"
+      },
+      {
+        "interaction": "Liked by Pritika Aggarwal",
+        "link": "https://www.linkedin.com/posts/daniel-byun1_teslainterns2026-activity-7488696254743625728--Vpa",
+        "title": "Here we go... I\u2019m excited to share that I\u2019ll be joining Tesla this Fall as a Cell Engineering Intern in Fremont, California! I\u2019m incredibly\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQHWR0rWq0VxiQ/feedshare-shrink_1280/B56Z.0xkIHJgAU-/0/1785444319971?e=2147483647&v=beta&t=tGadurOBc-Us7eGCSp73cwKOpB_FqbEs3aXNzC2Mt9k",
+        "id": "7488696254743625728"
+      },
+      {
+        "interaction": "Liked by Pritika Aggarwal",
+        "link": "https://www.linkedin.com/posts/decagon-ai_our-interns-have-been-booked-and-busy-this-activity-7486451642041765890-r8P9",
+        "title": "Our interns have been booked and busy this summer (both inside and outside the office). So far, that\u2019s included an escape room, a Giants game, rock\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQFMqEUUhoa2Vw/feedshare-shrink_800/B56Z.U4FqhKEAk-/0/1784909160547?e=2147483647&v=beta&t=NdX_TxmgY6ZR4dA4QcSvk87jJqA7qaBItrqmmTFQ0vk",
+        "id": "7486451642041765890"
+      },
+      {
+        "interaction": "Liked by Pritika Aggarwal",
+        "link": "https://www.linkedin.com/posts/aidan-holmes-516513197_ive-got-my-o-1-visa-and-this-weekend-im-activity-7493014630030737409-ADeq",
+        "title": "I've got my O-1 visa, and this weekend I'm moving back to SF full-time! Super excited to get back to SF after a great summer in London. The thing I\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQE0jiAUaLnSlg/feedshare-image-high-res/B4EZ_wYzZdGoAY-/0/1786444462009?e=2147483647&v=beta&t=-VkscJVsUorz9tMlZnlwy2RSPhEImNXyCeYcKnhAgv4",
+        "id": "1"
+      },
+      {
+        "interaction": "Liked by Pritika Aggarwal",
+        "link": "https://www.linkedin.com/posts/akshita-badkundri_im-excited-to-share-that-ive-joined-point72-activity-7486910084342792192-lpYo",
+        "title": "I'm excited to share that I've joined Point72 Asset Management on the Macro Quant Dev team as a Software Engineer in New York City. This milestone\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQF2SnW_5bwOXA/feedshare-shrink_800/B56Z.bZC9sGsAc-/0/1785018462322?e=2147483647&v=beta&t=NYY_Mwy-vcWYsV7ZUddHz2zKlQyhtZ_DKDZBnCtWi-4",
+        "id": "7486910084342792192"
+      },
+      {
+        "interaction": "Liked by Pritika Aggarwal",
+        "link": "https://www.linkedin.com/posts/blaxel-ai_if-youve-been-to-a-technical-workshop-or-activity-7482822491736842240-XDAS",
+        "title": "If you've been to a technical workshop (or a hackathon), you know the pain of the first few hours wasted just getting your setup to\u2026",
+        "img": "https://static.licdn.com/aero-v1/sc/h/53n89ecoxpr1qrki1do3alazb",
+        "id": "7482822491736842240"
+      },
+      {
+        "interaction": "Liked by Pritika Aggarwal",
+        "link": "https://www.linkedin.com/posts/newgrad-slack-androiddev-activity-7493108760224157696-Wn3T",
+        "title": "A few weeks ago, I graduated from the University of Illinois Urbana-Champaign with a B.S. in Computer Science, a minor in Statistics, and a 3.91 GPA,\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQHgWNuC-tRItw/feedshare-image-high-res/B56Z_zesXsIsAU-/0/1786496338222?e=2147483647&v=beta&t=BmWQvjsKvLJASpYt4PPqlHRnXTSo5nKuuFVIOkNPsSk",
+        "id": "7493108760224157696"
+      },
+      {
+        "interaction": "Liked by Pritika Aggarwal",
+        "link": "https://www.linkedin.com/posts/tomshields_the-hottest-job-in-tech-right-now-forward-activity-7492966094094274575-Pl5l",
+        "title": "The hottest job in tech right now: Forward Deployed Engineer. At Hippocratic AI, you will: \u2705 Blow customers' minds with AI solutions \u2705 Help solve\u2026",
+        "img": "https://static.licdn.com/aero-v1/sc/h/53n89ecoxpr1qrki1do3alazb",
+        "id": "7492966094094274575"
+      },
+      {
+        "interaction": "Liked by Pritika Aggarwal",
+        "link": "https://www.linkedin.com/posts/marie-adant_i-personally-found-my-job-at-corgi-yc-s24-activity-7493082586605318144-1WcD",
+        "title": "I personally found my job at Corgi (YC S24) by going to an in-person recruiting event instead of applying online, and it quite literally changed my\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQHCuRM1PBpxdA/feedshare-shrink_800/B56Z_y8iN1H0Ag-/0/1786487384063?e=2147483647&v=beta&t=RZrj46pwL3wpBwnzo7TC-KmEP2ZF52fJ81195ljmorY",
+        "id": "7493082586605318144"
+      },
+      {
+        "interaction": "Liked by Pritika Aggarwal",
+        "link": "https://www.linkedin.com/posts/mariela-escalantep_excited-to-share-that-today-im-starting-activity-7490205085764075520-upTX",
+        "title": "Excited to share that today I'm starting a new chapter at BlackRock. I'm joining the Aladdin Data team as part of Quality Control, and I couldn't be\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQFDOiOQvH74Kw/feedshare-shrink_1280/B56Z_KN1nHKoAM-/0/1785804053155?e=2147483647&v=beta&t=ExvbBtpmr_TgX01lgWm9Kivdkq80nFURVqY8w2P_3Vo",
+        "id": "7490205085764075520"
+      },
+      {
+        "interaction": "Liked by Pritika Aggarwal",
+        "link": "https://www.linkedin.com/posts/gabriel-brument_ycombinator-mentem-startup-activity-7492399280050225152-wXgU",
+        "title": "Mentem has officially applied to Y Combinator\u2019s Fall 2026 batch. Proud of the progress so far. Now, back to building. #YCombinator #Mentem #Startup",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQFh-kAw_yKW1w/feedshare-shrink_800/B4EZ_pZcWhJMAc-/0/1786327189181?e=2147483647&v=beta&t=qNu7qeMYi9jW6-DHAbJsAS2DrG2xTFmNb-o6Vw_j-3c",
+        "id": "7492399280050225152"
+      },
+      {
+        "interaction": "Liked by Pritika Aggarwal",
+        "link": "https://www.linkedin.com/posts/marilyn-echeverria_bloomberg-internatbloomberg-activity-7492992963036270592-rq7S",
+        "title": "Summer recap \ud83c\udf89 Last week marked the end of my internship at Bloomberg! I had the pleasure of working with the Financial Products \u2013 Data &\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQFHMHmC9jzc8w/feedshare-image-high-res/B56Z_x1WcGG4AU-/0/1786468722751?e=2147483647&v=beta&t=_qpx-xVoU2aIpZ9O24PoMwM444wQPr4P3IGPrWK3F5w",
+        "id": "7492992963036270592"
+      },
+      {
+        "interaction": "Liked by Pritika Aggarwal",
+        "link": "https://www.linkedin.com/posts/hartmanmax_meta-metainterns-activity-7493001826548506625-j4PB",
+        "title": "Last week, I completed my internship at Meta working on Facebook Comment Ranking. I had the opportunity to work on training engagement models and\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQGX4vdyCRs6ZQ/feedshare-image-high-res/B56Z_x9c2LJkAY-/0/1786470847347?e=2147483647&v=beta&t=6sAnGR0qJtTIBBVoa2Gf9T4MnD4yb8a575X1Od92yk0",
+        "id": "7493001826548506625"
+      },
+      {
+        "interaction": "Liked by Pritika Aggarwal",
+        "link": "https://www.linkedin.com/posts/kumarnikhil1198_if-you-want-to-know-where-robotics-is-headed-activity-7490809659524784129-RTWe",
+        "title": "If you want to know where robotics is headed, YC's Fall '26 wishlist is a good place to start. Every six months, I make it a point to read Y\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQHc9EVZEl5PVA/feedshare-shrink_800/B56Z_SzsHSG8Ac-/0/1785948194065?e=2147483647&v=beta&t=L4iFuQtbc7nFALuV6ZNxx9PT2FTdf062V1nCC_-rZBI",
+        "id": "7490809659524784129"
+      },
+      {
+        "interaction": "Liked by Pritika Aggarwal",
+        "link": "https://www.linkedin.com/posts/prathamhombal_treehacks-stanford-hackathon-activity-7298084221644873729-i2uP",
+        "title": "git commit -m \"we won!\" This last weekend, my roommate Siddhartha Javvaji and I took part in Stanford TreeHacks, the largest collegiate hackathon\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQFXa2UV3AJnGg/feedshare-shrink_800/B56ZUgA5iwGsAg-/0/1739998869056?e=2147483647&v=beta&t=umflTc0inoT-kepRXySI4v9K1Ia_lwBaW3zudKJ1o70",
+        "id": "7298084221644873729"
+      },
+      {
+        "interaction": "Liked by Pritika Aggarwal",
+        "link": "https://www.linkedin.com/posts/prathamhombal_ai-nlp-activity-7142427337777688577-X19H",
+        "title": "Just wanted to share a project that I hacked together last week: GPTRed, a ChatGPT plagiarism detector for education. Even though robust detectors\u2026",
+        "img": "https://static.licdn.com/aero-v1/sc/h/53n89ecoxpr1qrki1do3alazb",
+        "id": "7142427337777688577"
+      },
+      {
+        "interaction": "Liked by Pritika Aggarwal",
+        "link": "https://www.linkedin.com/posts/prathamhombal_we-just-moved-into-our-new-office-in-sf-activity-7493016269550620672-mmhg",
+        "title": "We just moved into our new office in SF. Siddhartha and I are thrilled to build the future of growth marketing in one of the most exciting cities on\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQFlyjvZW8jvDw/feedshare-image-high-res/B56Z_yKltdKAAU-/0/1786474291094?e=2147483647&v=beta&t=eAkBFDEnU_HwVLn-50vEOXsMIJuV4idyRpWYG3G4vJ4",
+        "id": "7493016269550620672"
+      }
+    ],
+    "linkedin_num_id": "1184544114",
+    "banner_image": "https://media.licdn.com/dms/image/v2/D5616AQGAd7TzVy3dFQ/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1699490069994?e=2147483647&v=beta&t=drz4HLFFb4DZ7G_F1bxdIzNli8FFWcAWfbaeUnP-nx4",
+    "honors_and_awards": [
+      {
+        "title": "Dean's List F23, SP24, F25",
+        "publication": "-",
+        "date": "2024-02-01T00:00:00.000Z",
+        "description": null
+      },
+      {
+        "title": "James Scholar '23, '24",
+        "publication": "-",
+        "date": "2023-08-01T00:00:00.000Z",
+        "description": null
+      },
+      {
+        "title": "Best Teamwork Award",
+        "publication": "International Robotics Competition - RoboCupJunior (RCJ)",
+        "date": "2022-07-01T00:00:00.000Z",
+        "description": null
+      },
+      {
+        "title": "1st place in Neev Hackathon",
+        "publication": "-",
+        "date": "2021-03-01T00:00:00.000Z",
+        "description": null
+      }
+    ],
+    "similar_profiles": [],
+    "default_avatar": false,
+    "memorialized_account": false,
+    "bio_links": [],
+    "first_name": "Pritika",
+    "last_name": "Aggarwal",
+    "influencer": false,
+    "timestamp": "2026-08-12T19:13:48.921Z",
+    "input": {
+      "url": "https://www.linkedin.com/in/pritika-aggarwal"
+    }
+  },
+  "local_photo": "data\\linkedin_photos\\pritika-aggarwal__usr-n68TAXhD5BnfpXn.jpg"
+}

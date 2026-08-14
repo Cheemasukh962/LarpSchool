@@ -1,0 +1,249 @@
+{
+  "luma_user_id": "usr-EphBCeCtZlVAjRy",
+  "csv_name": "Chloe Zhong",
+  "csv_linkedin": "https://www.linkedin.com/in/chloezhong28",
+  "enriched_at": "2026-08-12T18:59:59.569915+00:00",
+  "batch_id": "sd_msqgcuh41lygyhc91a",
+  "profile": {
+    "id": "chloezhong28",
+    "name": "Chloe Zhong",
+    "city": "United States",
+    "country_code": "US",
+    "position": null,
+    "about": null,
+    "current_company": {
+      "name": "Stanford Neural Interaction Lab",
+      "location": null
+    },
+    "experience": null,
+    "url": "https://no.linkedin.com/in/Chloezhong28",
+    "educations_details": "Stanford University",
+    "education": [
+      {
+        "title": "Stanford University",
+        "url": "https://www.linkedin.com/school/stanford-university/",
+        "start_year": "2024-09",
+        "end_year": "2028-06",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      },
+      {
+        "start_year": "2020-09",
+        "end_year": "2024-06",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      },
+      {
+        "start_year": "2023-09",
+        "end_year": "2024-06",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      }
+    ],
+    "avatar": "https://media.licdn.com/dms/image/v2/D4E03AQHJ5r7oZ8KBng/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1716341503756?e=2147483647&v=beta&t=twbM8DBcKwFCSyDCk8pW1MAdi031xcfm_tUXCmSTFtE",
+    "languages": [
+      {
+        "subtitle": "Native or bilingual proficiency",
+        "title": "English"
+      },
+      {
+        "subtitle": "Native or bilingual proficiency",
+        "title": "Chinese"
+      },
+      {
+        "subtitle": "Limited working proficiency",
+        "title": "Spanish"
+      }
+    ],
+    "certifications": [
+      {
+        "meta": "Issued Apr 2024",
+        "subtitle": "Massachusetts Department of Education",
+        "title": "Seal of Biliteracy",
+        "credential_url": null,
+        "credential_id": null
+      }
+    ],
+    "followers": 371,
+    "connections": 359,
+    "current_company_name": "Stanford Neural Interaction Lab",
+    "projects": [
+      {
+        "title": "Gut Motility Machine Learning and Signal Processing | Neural Interaction Lab",
+        "start_date": "May 2026",
+        "description": "- Analyzed plane waves using Fourier Analysis, FFT to prove novel connection between genes and gut contraction patterns- Developed custom filter pipeline using L1 regularization, Hann window, time domain reconstruction to increase signal-noise-ratio"
+      },
+      {
+        "title": "Vagus Nerve Stimulator Circuit Design",
+        "start_date": "Jan 2026",
+        "description": "- Designed novel circuit board with end goal to stimulate the vagus nerve- Key skills: PCB design (KiCAD), microcontroller programming (C++), oscillator circuits"
+      },
+      {
+        "title": "Entropy-Driven Sustainable Toilet Flushing Algorithm",
+        "start_date": "Mar 2026",
+        "description": "- Built novel Bayesian inference engine for adaptive autoflush toilet sensor sampling, increasing efficiency by 91% via Shannon entropy gating - Implemented an EM/MLE pipeline to fit a Gaussian mixture model to real-world data, driving a sequential Bayesian update loop- Won Stanford's Probability for Computer Scientists Challenge"
+      },
+      {
+        "title": "8-Bit Processor with VGA",
+        "start_date": "Jan 2026",
+        "description": "- Co-designed a fabricated 8-bit processor with a custom ISA (eight 16-bit instructions, seven general-purpose registers, QSPI flash/RAM, and VGA output), taped out on SkyWater 130nm silicon through Tiny Tapeout- Programmed instruction decoder and executor, writing the Verilog to translate 16-bit instructions into register, ALU, memory, and branch operations- Used Caravel's logic analyzer to probe internal signals and verify correct decode/execute behavior against ISA spec"
+      }
+    ],
+    "organizations": [
+      {
+        "title": "Stanford FLIGHT",
+        "membership_type": "Student Engineer",
+        "start_date": "Jun 2025",
+        "end_date": "Present",
+        "description": "Debugs signal boards, vacuum forms sculpture bodies",
+        "membership_number": null
+      },
+      {
+        "title": "Stanford Student Robotics",
+        "membership_type": "Electrical Engineer",
+        "start_date": "Apr 2025",
+        "end_date": "Present",
+        "description": "Developing autonomous calligraphy robot under Professor Shuran Song",
+        "membership_number": null
+      },
+      {
+        "title": "Stanford Women in Electrical Engineering (WEE)",
+        "membership_type": "Undergraduate Liaison",
+        "start_date": "Mar 2025",
+        "end_date": "Present",
+        "description": "Increases involvement of undergraduates in WEE",
+        "membership_number": null
+      },
+      {
+        "title": "Perplexity AI",
+        "membership_type": "Campus Strategist",
+        "start_date": "Jan 2025",
+        "end_date": "Present",
+        "membership_number": null
+      },
+      {
+        "title": "Stanford Association for Computing Machinery: MLab",
+        "membership_type": "AI Developer",
+        "start_date": "Sep 2024",
+        "end_date": "Present",
+        "membership_number": null
+      },
+      {
+        "title": "Stanford Student Space Initative: Satellites Team",
+        "membership_type": "Software Engineer",
+        "start_date": "Sep 2024",
+        "end_date": "Present",
+        "membership_number": null
+      },
+      {
+        "title": "Boston Youth Symphony Orchestras",
+        "membership_type": "Boston Youth Symphony Flutist",
+        "start_date": "Aug 2023",
+        "end_date": "Present",
+        "membership_number": null
+      },
+      {
+        "title": "Boston Flute Academy",
+        "membership_type": "Flutist",
+        "start_date": "Sep 2022",
+        "end_date": "Present",
+        "membership_number": null
+      },
+      {
+        "title": "Musikproduktion J\u00fcrgen H\u00f6flich",
+        "membership_type": "Published co-writer",
+        "start_date": "Jul 2023",
+        "end_date": "Apr 2024",
+        "membership_number": null
+      },
+      {
+        "title": "MIT PRIMES Circle",
+        "membership_type": "Scholar",
+        "start_date": "Nov 2022",
+        "end_date": "May 2023",
+        "membership_number": null
+      }
+    ],
+    "location": null,
+    "input_url": "https://www.linkedin.com/in/chloezhong28",
+    "linkedin_id": "chloezhong28",
+    "activity": [
+      {
+        "interaction": "Liked by Chloe Zhong",
+        "link": "https://www.linkedin.com/posts/anais-sobrier_half-of-college-has-swooped-by-so-i-wanted-activity-7490886287277858816-6-0q",
+        "title": "Half of college has swooped by so I wanted to make sure I documented it. Freshman year, I - placed into Stanford's residential arts program and\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQEmopxo3WAcgQ/feedshare-shrink_1280/B56Z_T5YXNGUAM-/0/1785966462887?e=2147483647&v=beta&t=9tVju-sVxSamRlBpyF_Jzc55WrkxTrvjAhPCQdsVs34",
+        "id": "7490886287277858816"
+      },
+      {
+        "interaction": "Liked by Chloe Zhong",
+        "link": "https://www.linkedin.com/posts/lily-obrien123_hi-linkedin-it-has-been-a-while-and-activity-7486047349241298944--nPP",
+        "title": "Hi LinkedIn!! It has been a while -- and I have had so many amazing experiences these past few months that I'd like to share with you all! \ud83d\ude0a As\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQECClgwLY6-AQ/feedshare-shrink_800/B56Z.PIZDUG8Ac-/0/1784812770599?e=2147483647&v=beta&t=SeKHYlMhH2ZiziAhCz7tJ_0S0rpjPc4MvqKf6gUyuk0",
+        "id": "7486047349241298944"
+      },
+      {
+        "interaction": "Liked by Chloe Zhong",
+        "link": "https://www.linkedin.com/posts/j-hawkins_literally-all-you-need-is-a-lake-a-small-activity-7483234418522828801--01c",
+        "title": "literally, all you need is a lake, a small house, crystal clear water, sunlight, codex, claude code, 16\" MacBook Pro M5 Max 18-core CPU 40-core GPU\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4E10AQHk21yCr-Go7g/image-shrink_1280/B4EZ9nJ.DaKQAc-/0/1784142094912?e=2147483647&v=beta&t=2WlZDxvcYrL0ZeblDz0J43jyafj0RlITngcCh8ODpIU",
+        "id": "7483234418522828801"
+      }
+    ],
+    "linkedin_num_id": "1123773083",
+    "banner_image": "https://media.licdn.com/dms/image/v2/D5616AQGliBM_cWcdQA/profile-displaybackgroundimage-shrink_200_800/B56Z8L4IFnHUAQ-/0/1782610690708?e=2147483647&v=beta&t=ARdRdKQAEnjflV3w0Pb_Zhl2H298TC6JYFOVJ6ghoR8",
+    "honors_and_awards": [
+      {
+        "title": "The American Prize Winner",
+        "publication": "The American Prize",
+        "date": "2024-03-01T00:00:00.000Z",
+        "description": null
+      },
+      {
+        "title": "Alexander & Buono International Flute Competition Winner",
+        "publication": "Alexander & Buono Foundation",
+        "date": "2023-12-01T00:00:00.000Z",
+        "description": null
+      },
+      {
+        "title": "NPR's \"From the Top\" Finalist",
+        "publication": "National Public Radio",
+        "date": "2023-12-01T00:00:00.000Z",
+        "description": null
+      },
+      {
+        "title": "NAfME All-Eastern Honors Band Principal Second Flutist",
+        "publication": "National Association for Music Education (NAfME)",
+        "date": "2022-12-01T00:00:00.000Z",
+        "description": null
+      },
+      {
+        "title": "DECA International Conference Top 10 Finisher \u2014 Principles of Marketing",
+        "publication": "DECA Inc.",
+        "date": "2021-04-01T00:00:00.000Z",
+        "description": null
+      },
+      {
+        "title": "Principal Flutist of MA All-State Orchestra '23 & '24",
+        "publication": "Massachusetts Music Educators Association",
+        "date": null,
+        "description": null
+      }
+    ],
+    "similar_profiles": [],
+    "default_avatar": false,
+    "memorialized_account": false,
+    "bio_links": [],
+    "first_name": "Chloe",
+    "last_name": "Zhong",
+    "influencer": false,
+    "timestamp": "2026-08-12T18:58:42.407Z",
+    "input": {
+      "url": "https://www.linkedin.com/in/chloezhong28"
+    }
+  },
+  "local_photo": "data\\linkedin_photos\\chloezhong28__usr-EphBCeCtZlVAjRy.jpg"
+}

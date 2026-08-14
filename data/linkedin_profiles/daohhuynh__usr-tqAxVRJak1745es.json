@@ -1,0 +1,139 @@
+{
+  "luma_user_id": "usr-tqAxVRJak1745es",
+  "csv_name": "Dao Huynh",
+  "csv_linkedin": "https://www.linkedin.com/in/daohhuynh",
+  "enriched_at": "2026-08-12T19:01:42.779357+00:00",
+  "batch_id": "sd_msqgese9ztya3e3uk",
+  "profile": {
+    "id": "daohhuynh",
+    "name": "Dao Huynh",
+    "city": "Fountain Valley, California, United States",
+    "country_code": "US",
+    "position": null,
+    "about": "CS+Ling and Cog Sci double major at UCLA. I was born and raised in Vietnam, moved to\u2026",
+    "current_company": {
+      "link": "https://www.linkedin.com/company/jane-street-global?trk=public_profile_topcard-current-company",
+      "name": "Jane Street",
+      "company_id": "jane-street-global",
+      "location": null
+    },
+    "experience": null,
+    "url": "https://sa.linkedin.com/in/Daohhuynh",
+    "educations_details": "UCLA",
+    "education": [
+      {
+        "start_year": "2023-09",
+        "end_year": "2025-07",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      }
+    ],
+    "avatar": "https://media.licdn.com/dms/image/v2/D5603AQFeIPUq_hd1kg/profile-displayphoto-scale_200_200/B56Z1_U8quHAAY-/0/1775957692703?e=2147483647&v=beta&t=IL1vHVr9p8UssHOiZbbcFo97zLV3LGvyOdbmDDhDoeQ",
+    "languages": [
+      {
+        "subtitle": "Limited working proficiency",
+        "title": "ASL"
+      },
+      {
+        "subtitle": "Full professional proficiency",
+        "title": "Japanese"
+      },
+      {
+        "subtitle": "Native or bilingual proficiency",
+        "title": "Vietnamese"
+      }
+    ],
+    "certifications": [
+      {
+        "meta": "Issued Jan 2025",
+        "subtitle": "QuestBridge",
+        "title": "Questbridge Scholar",
+        "credential_url": null,
+        "credential_id": null
+      },
+      {
+        "meta": "Issued Apr 2026 Expires Apr 2028",
+        "subtitle": "National Registry of Emergency Medical Technicians",
+        "title": "NREMT",
+        "credential_url": null,
+        "credential_id": null
+      }
+    ],
+    "followers": 1381,
+    "connections": 500,
+    "current_company_company_id": "jane-street-global",
+    "current_company_name": "Jane Street",
+    "projects": [
+      {
+        "title": "Poker Trainer",
+        "start_date": "Apr 2026",
+        "description": "\u2022 Engineered a browser-based poker decision-math trainer in strict C++23, compiled to a single WebAssembly binary with an in-house WebGL2 renderer under Dear ImGui.\u2022 Structured the codebase as 14 dependency-ordered zones behind 16 interface headers sealed before implementation, keeping the dependency graph acyclic by construction.\u2022 Engineered a focus-reconciliation substrate giving an immediate-mode UI stable retained-mode keyboard navigation and modal traps; 2.5 ns/frame, zero heap allocation on the hot path.\u2022 Shipped end-to-end: custom digital art, manually verified poker formulas, Auth0 and Supabase accounts, and a deterministic MT19937_64 simulation exercised by 11,867 lines of native, browser-free tests.\u2022 Classified all 33,780 lines of source as domain versus platform cost; the decision math was under 4%, and published the analysis as a CppCon 2026 poster abstract.GitHub: https://github.com/daohhuynh/poker-trainerLive: https://poker-trainer-pearl.vercel.appAbstract: https://github.com/daohhuynh/poker-trainer/blob/main/docs/abstract.pdf"
+      },
+      {
+        "title": "OptiRisk",
+        "start_date": "Apr 2026",
+        "description": "Sub-Microsecond Quantitative Risk Engine\u2022 Engineered a sub-microsecond C++23 quantitative risk engine utilizing an LMAX Disruptor lock-free ring buffer with explicit L1 cache prefetching.\u2022 Architected an 8-lane AVX2 SIMD Black-Scholes pricing kernel, bypassing standard libraries to guarantee microsecond hardware-level throughput.\u2022 Built a custom binary wire protocol routing packed structs via UDP multicast and TCP to completely eliminate JSON serialization overhead.\u2022 Engineered a Python quantitative inference engine utilizing Gaussian Copulas and Sinkhorn-Knopp matrix balancingGitHub: https://github.com/daohhuynh/OptiRisk"
+      },
+      {
+        "title": "VIPER (Voltage Imaging Processing Execution Routines)",
+        "start_date": "Dec 2025",
+        "description": "Offline Pipeline for Voltage Image ProcessingArchitected an out-of-core memory accumulator utilizing Zarr and PyTorch MPS hardware acceleration, processing 100,000+ frame datasets while strictly bypassing system RAM constraints to prevent OOM crashes.Engineered an asynchronous I/O pipeline utilizing dedicated QThreads to decouple heavy TIF data ingestion from the UI, preventing main-thread blocking during large-scale processing.Enforced strict numerical stability by implementing float64 accumulation buffers and custom normalization algorithms to prevent precision overflow during the temporal averaging of float16 raw data.GitHub: https://github.com/daohhuynh/VIPER-Mac-Port"
+      },
+      {
+        "title": "InstaMarket",
+        "start_date": "Mar 2026",
+        "description": "Bare-Metal Limit Order Book & Matching Engine\u2022 Architected a bare-metal C++20 limit order book and matching engine minimizing network-to-execution latency.\u2022 Engineered a zero-copy POSIX socket parser utilizing std::string_view, bypassing heap allocations entirely during the hot path.\u2022 Engineered a zero-copy POSIX socket parser utilizing std::string_view, bypassing heap allocations entirely during the hot path.GitHub: https://github.com/daohhuynh/InstaMarket"
+      },
+      {
+        "title": "Native WebKit Automator",
+        "start_date": "Mar 2026",
+        "description": "Built a C++/Objective-C++ execution engine designed to bypass Layer 7 enterprise heuristics and bot-protection algorithms.Bridged native macOS WKWebView sandboxes with headless network workers, perfectly replicating Google Chrome's TLS Client Hello and JA3 byte-signatures via BoringSSL.Reverse-engineered React's virtual DOM event system, dispatching native input events to hijack SyntheticEvent state boundaries.GitHub: https://github.com/daohhuynh/native-webkit-automator"
+      }
+    ],
+    "location": "Fountain Valley",
+    "input_url": "https://www.linkedin.com/in/daohhuynh",
+    "linkedin_id": "daohhuynh",
+    "activity": null,
+    "linkedin_num_id": "1241783680",
+    "banner_image": "https://media.licdn.com/dms/image/v2/D5616AQFOwqO51zFkeQ/profile-displaybackgroundimage-shrink_200_800/B56ZbnX31CGoAU-/0/1747638519513?e=2147483647&v=beta&t=yPrMPFtlGG88bnHpx9rRlsROA0a7qZmkzRZvjJ4B5oA",
+    "honors_and_awards": [
+      {
+        "title": "Startup School SF 2026 Sponsored Builder",
+        "publication": "Y Combinator",
+        "date": "2026-07-01T00:00:00.000Z",
+        "description": "Hand-selected from a global applicant pool to attend Y Combinator's invite-only technical summit at the Chase Center in San Francisco. \u2022 Awarded a full travel sponsorship to participate in a curated cohort of top-tier software engineers, AI researchers, and technical founders \u2022 Selected to engage in small-group architectural sessions with YC partners and receive over $25K in AI compute credits from OpenAI, Anthropic, and AWS \u2022 Participated in exclusive networking with leading YC alumni\u2026 Show more"
+      },
+      {
+        "title": "Palantir Brew & Build",
+        "publication": "Palantir",
+        "date": "2026-05-01T00:00:00.000Z",
+        "description": "\u2022 Invited from a hand-selected pool of UCLA students as one of 20 computer science students to represent UCLA in an exclusive, fully sponsored hackathon against UC Berkeley \u2022 Contributed to UCLA's overall cohort victory by engineering a time-constrained, data-driven operational simulation using Palantir Foundry \u2022 Collaborated directly with Palantir engineers to execute and optimize deployment strategies under strict technical parameters"
+      },
+      {
+        "title": "Point72 Academy Spring Sessions",
+        "publication": "Point72",
+        "date": "2026-05-01T00:00:00.000Z",
+        "description": "Selected to attend Point72 Academy's three-week workshop series on hedge fund fundamentals, the research analyst career path, and the firm's investment process. Sessions include a firm overview, discussion with Research Analysts, and recruiting guidance from the Academy team."
+      },
+      {
+        "title": "SEO Scholar",
+        "publication": "Sponsors for Educational Opportunity",
+        "date": "2026-05-01T00:00:00.000Z",
+        "description": "Selected from a competitive national pool for the SEO Career program preparing underrepresented students for careers in tech and finance."
+      }
+    ],
+    "similar_profiles": [],
+    "default_avatar": false,
+    "memorialized_account": false,
+    "bio_links": [],
+    "first_name": "Dao",
+    "last_name": "Huynh",
+    "influencer": false,
+    "timestamp": "2026-08-12T19:00:13.444Z",
+    "input": {
+      "url": "https://www.linkedin.com/in/daohhuynh"
+    }
+  },
+  "local_photo": "data\\linkedin_photos\\daohhuynh__usr-tqAxVRJak1745es.jpg"
+}

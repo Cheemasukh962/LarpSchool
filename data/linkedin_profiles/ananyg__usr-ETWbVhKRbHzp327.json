@@ -1,0 +1,128 @@
+{
+  "luma_user_id": "usr-ETWbVhKRbHzp327",
+  "csv_name": "Ananya Gupta",
+  "csv_linkedin": "https://www.linkedin.com/in/ananyg",
+  "enriched_at": "2026-08-12T18:56:33.263829+00:00",
+  "batch_id": "sd_msqg8yml2ia5na9bcp",
+  "profile": {
+    "id": "ananyg",
+    "name": "Ananya Gupta",
+    "city": "San Francisco Bay Area",
+    "country_code": "US",
+    "position": null,
+    "about": "ananya_gupta@berkeley.edu",
+    "current_company": {
+      "link": "https://www.linkedin.com/school/california-institute-of-technology/?trk=public_profile_topcard-current-company",
+      "name": "Caltech",
+      "location": null
+    },
+    "experience": null,
+    "url": "https://fi.linkedin.com/in/ananyg",
+    "educations_details": "UC Berkeley College of Computing, Data Science, and Society",
+    "education": [
+      {
+        "title": "UC Berkeley College of Computing, Data Science, and Society",
+        "url": "https://www.linkedin.com/school/computingdatasciencesociety/",
+        "start_year": "2024-08",
+        "end_year": "2028-05",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      },
+      {
+        "start_year": "2020-08",
+        "end_year": "2024-05",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      }
+    ],
+    "avatar": "https://media.licdn.com/dms/image/v2/D5603AQGDCSv8xJyjUg/profile-displayphoto-scale_200_200/B56ZvFfeWCHsAY-/0/1768544921728?e=2147483647&v=beta&t=Cdxknqp7tRrEmG5SDqvCycsnlpy9H_PCWDBF3orobkQ",
+    "languages": [
+      {
+        "subtitle": "Native or bilingual proficiency",
+        "title": "English"
+      },
+      {
+        "subtitle": "Native or bilingual proficiency",
+        "title": "Hindi"
+      },
+      {
+        "subtitle": "Native or bilingual proficiency",
+        "title": "Bengali"
+      }
+    ],
+    "volunteer_experience": [
+      {
+        "duration": "Jan 2025 \u00b7 - \nDec 2025 \u00b7 1 year",
+        "duration_short": "- \nDec 2025",
+        "start_date": "Jan 2025",
+        "subtitle": "Women in Computing and Data Science at Berkeley (WiCDS)",
+        "title": "ML & DS Committee Member"
+      },
+      {
+        "duration": "Jul 2022 \u00b7 - \nJul 2022 \u00b7 1 month",
+        "duration_short": "- \nJul 2022",
+        "start_date": "Jul 2022",
+        "subtitle": "Institute for Progress (IFP)",
+        "title": "Open Science & Policy Workshop Organizer"
+      },
+      {
+        "duration": "Jun 2020 \u00b7 - \nAug 2021 \u00b7 1 year 3 months",
+        "duration_short": "- \nAug 2021",
+        "start_date": "Jun 2020",
+        "subtitle": "India Community Center",
+        "title": "Seasonal Camp Counselor"
+      },
+      {
+        "duration": "May 2022 \u00b7 - \nJun 2024 \u00b7 2 years 2 months",
+        "duration_short": "- \nJun 2024",
+        "start_date": "May 2022",
+        "subtitle": "The Journals of Justice",
+        "title": "VP/Co-Editor-in-Chief"
+      }
+    ],
+    "followers": 688,
+    "connections": 500,
+    "current_company_name": "Caltech",
+    "publications": [
+      {
+        "title": "D-Judge: Disrupting Multi-Turn Jailbreaks Using Semantics-Preserving Output Rewriting",
+        "subtitle": "International Conference on Machine Learning",
+        "date": "May 31, 2026"
+      }
+    ],
+    "location": null,
+    "input_url": "https://www.linkedin.com/in/ananyg",
+    "linkedin_id": "ananyg",
+    "activity": null,
+    "linkedin_num_id": "958315862",
+    "banner_image": "https://media.licdn.com/dms/image/v2/D5616AQEM4pn5AeIGMQ/profile-displaybackgroundimage-shrink_200_800/B56ZXGPS5DHEAU-/0/1742787653913?e=2147483647&v=beta&t=Lt9iir3oBHB5oSgxx6H7PneQ7Y_ZzBgH1whrqX5QcHw",
+    "honors_and_awards": [
+      {
+        "title": "Sr. Margaret Hoffman, SNDdeN Woman of Service Award",
+        "publication": "Notre Dame High School, San Jose",
+        "date": "2024-05-01T00:00:00.000Z",
+        "description": "Awarded to the sole graduate who demonstrates a consistent record of significant community service, who engages in leadership and becomes an advocate who confronts society's injustices."
+      },
+      {
+        "title": "The Writer's Roadmap Scholarship Recipient",
+        "publication": "The Writer's Roadmap",
+        "date": "2022-04-01T00:00:00.000Z",
+        "description": null
+      }
+    ],
+    "similar_profiles": [],
+    "default_avatar": false,
+    "memorialized_account": false,
+    "bio_links": [],
+    "first_name": "Ananya",
+    "last_name": "Gupta",
+    "influencer": false,
+    "timestamp": "2026-08-12T18:55:35.612Z",
+    "input": {
+      "url": "https://www.linkedin.com/in/ananyg"
+    }
+  },
+  "local_photo": "data\\linkedin_photos\\ananyg__usr-ETWbVhKRbHzp327.jpg"
+}

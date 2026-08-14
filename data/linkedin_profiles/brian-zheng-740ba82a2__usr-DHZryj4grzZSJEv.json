@@ -1,0 +1,203 @@
+{
+  "luma_user_id": "usr-DHZryj4grzZSJEv",
+  "csv_name": "Brian Zheng",
+  "csv_linkedin": "https://www.linkedin.com/in/brian-zheng-740ba82a2",
+  "enriched_at": "2026-08-12T18:59:59.564246+00:00",
+  "batch_id": "sd_msqgcuh41lygyhc91a",
+  "profile": {
+    "id": "brian-zheng-740ba82a2",
+    "name": "Brian Zheng",
+    "city": "Bellevue, Washington, United States",
+    "country_code": "US",
+    "position": null,
+    "about": null,
+    "current_company": {
+      "link": "https://www.linkedin.com/school/uc-berkeley/?trk=public_profile_topcard-current-company",
+      "name": "University of California, Berkeley",
+      "location": null
+    },
+    "experience": null,
+    "url": "https://pt.linkedin.com/in/brian-zheng-740ba82a2",
+    "educations_details": "University of Washington",
+    "education": [
+      {
+        "title": "University of Washington",
+        "url": "https://www.linkedin.com/school/university-of-washington/",
+        "start_year": "2024-06",
+        "end_year": "2027-06",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      }
+    ],
+    "avatar": "https://media.licdn.com/dms/image/v2/D5603AQG9ZLmABjzCfA/profile-displayphoto-shrink_200_200/B56ZvU.zZXHcAY-/0/1768804792560?e=2147483647&v=beta&t=hOjMjYvOxILyRNYBCDoCy2WPZncpbYMlcnHA4GQwqFw",
+    "followers": 1172,
+    "connections": 500,
+    "current_company_name": "University of California, Berkeley",
+    "publications": [
+      {
+        "title": "Broken Tokens? Your Language Model can Secretly Handle Non-Canonical Tokenizations",
+        "subtitle": "NeurIPS",
+        "date": "September 18, 2025",
+        "description": "Spotlight Presentation (Top 3%)"
+      }
+    ],
+    "location": "Bellevue",
+    "input_url": "https://www.linkedin.com/in/brian-zheng-740ba82a2",
+    "linkedin_id": "brian-zheng-740ba82a2",
+    "activity": [
+      {
+        "interaction": "Liked by Brian Zheng",
+        "link": "https://www.linkedin.com/posts/krish-krish_excited-to-share-ive-joined-vercel-as-a-activity-7485027003470057472-NGt5",
+        "title": "Excited to share I've joined Vercel as a Software Engineer!",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQF9mMcIZq0n9A/feedshare-shrink_800/B56Z.AkXdoIQAc-/0/1784568445341?e=2147483647&v=beta&t=jUSNTeR6vA_RJSKlgPk7WmAbOmZCJjksUtn9_hSshig",
+        "id": "7485027003470057472"
+      },
+      {
+        "interaction": "Liked by Brian Zheng",
+        "link": "https://www.linkedin.com/posts/ryquo_agisummit-activity-7484017761237483520-eaR1",
+        "title": "Tomorrow at the #AGISummit 2026, Ryquo will host \u201cThe Human Journey to AGI: Inspiring Tomorrow\u2019s AI Builders,\u201d moderated by our CTO, Michael Li. The\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQH9o1wGFzNCfA/feedshare-image-high-res/B56Z9ySfkdG8AU-/0/1784328878934?e=2147483647&v=beta&t=mL_I1E3M5h5ECbwUewlwI-UIN9tL5ivW2fzjFzzUQDk",
+        "id": "7484017761237483520"
+      },
+      {
+        "interaction": "Liked by Brian Zheng",
+        "link": "https://www.linkedin.com/posts/cgokmen_im-happy-to-share-that-ive-wrapped-up-my-activity-7476145512413323264-PcHW",
+        "title": "I'm happy to share that I\u2019ve wrapped up my Ph.D. in Computer Science at Stanford! Really thankful to my advisor Fei-Fei Li for being an amazing\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQEIuUJ7bMbi5g/feedshare-shrink_800/B56Z8CauZsHIAc-/0/1782451989041?e=2147483647&v=beta&t=kHzIZlxRDcuA9SSGEbbU2aShwp5-BTacmDqs_a4EJWg",
+        "id": "7476145512413323264"
+      },
+      {
+        "interaction": "Liked by Brian Zheng",
+        "link": "https://www.linkedin.com/posts/weikaihuang_im-deeply-honored-to-receive-the-outstanding-activity-7472449991949676544-LTZk",
+        "title": "I\u2019m deeply honored to receive the Outstanding Computer Science & Engineering Senior Award at this year\u2019s Allen School CSE Awards Celebration. It\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQFoMj659Xo46Q/feedshare-shrink_800/B56Z7N5qmhH4Ac-/0/1781570906752?e=2147483647&v=beta&t=vndVbzzO71k2xhbz4THSH5dYU1UzgwdWqf7qZz1yx-Q",
+        "id": "7472449991949676544"
+      },
+      {
+        "interaction": "Liked by Brian Zheng",
+        "link": "https://www.linkedin.com/posts/weikaihuang_multimodalai-spatialreasoning-computervision-activity-7470551726518108161-8qj7",
+        "title": "New paper: Imaginative Perception Tokens Enhance Spatial Reasoning in Multimodal Language Models. A central question behind this work is simple:\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5605AQESX7YhgS2H3w/videocover-high/B56Z6y7MJIKcAY-/0/1781118322699?e=2147483647&v=beta&t=cv3Y9MniJj2qOzS77R9mp_pJD5t-uQ4mxYXc80OuXZ0",
+        "id": "7470551726518108161"
+      },
+      {
+        "interaction": "Liked by Brian Zheng",
+        "link": "https://cn.linkedin.com/posts/bo-zeng-71915624_%E7%BB%99%E5%A4%A7%E5%AE%B6%E6%9B%B4%E6%96%B0%E4%B8%80%E4%B8%8B%E6%88%91%E8%BA%AB%E4%BD%93%E6%96%B9%E9%9D%A2%E7%9A%84%E8%BF%9B%E5%BA%A6-%E6%88%91%E4%B8%8A%E4%B8%AA%E6%98%9F%E6%9C%9F%E5%8E%BB%E5%8C%BB%E9%99%A2%E6%A3%80%E6%9F%A5%E4%BA%86%E4%B8%80%E4%B8%8B%E6%A3%80%E6%9F%A5%E6%8A%A5%E5%91%8A%E4%B8%8D%E6%98%AF%E5%BE%88%E4%B9%90%E8%A7%82-activity-7477656396088471552-MZQV",
+        "title": "\u7ed9\u5927\u5bb6\u66f4\u65b0\u4e00\u4e0b\u6211\u8eab\u4f53\u65b9\u9762\u7684\u8fdb\u5ea6 \u6211\u4e0a\u4e2a\u661f\u671f\u53bb\u533b\u9662\u68c0\u67e5\u4e86\u4e00\u4e0b\uff0c\u68c0\u67e5\u62a5\u544a\u4e0d\u662f\u5f88\u4e50\u89c2 \u5f00\u4e86\u4e00\u4e9b\u836f\uff0c\u4f46\u5403\u4e86\u4e5f\u4e0d\u89c1\u597d \u4e0b\u5468\u6211\u4f1a\u53bb\u505a\u8fdb\u4e00\u6b65\u7684\u5168\u8eab\u68c0\u67e5 \u6839\u636e\u6211\u81ea\u5df1\u7684\u4f53\u611f\u548c\u7ecf\u9a8c\uff0c\u6211\u7684\u751f\u547d\u4f30\u8ba1\u8fd8\u6709\u4e0d\u52302\u5e74\u65f6\u95f4\u4e86 \u6211\u4f1a\u5728\u75bc\u75db\u65e0\u6cd5\u5fcd\u53d7\u7684\u65f6\u5019\uff0c\u53bb\u5317\u6b27\u505a\u5b89\u4e50\u6b7b\uff0c\u5b9e\u8df5\u6211\u5931\u8d25\u5b66\uff0c\u4ee5\u53ca\u6700\u7ec8\u548c\u5168\u4e16\u754c\u5931\u8d25\u4eba\u58eb\u4e00\u8d77\uff0cjtzs\u7684\u2026",
+        "img": "https://static.licdn.com/aero-v1/sc/h/53n89ecoxpr1qrki1do3alazb",
+        "id": "7477656396088471552"
+      },
+      {
+        "interaction": "Liked by Brian Zheng",
+        "link": "https://www.linkedin.com/posts/openai_introducing-genebench-pro-activity-7477771047606521856-ufZi",
+        "title": "We\u2019re introducing GeneBench-Pro, a research-level benchmark for a harder kind of AI progress: how well agents can navigate messy biological data\u2026",
+        "img": "https://media.licdn.com/dms/image/sync/v2/D4E27AQHt6Xmo9btl6Q/articleshare-shrink_800/B4EZ8ZfE63JIAg-/0/1782839006897?e=2147483647&v=beta&t=ZlijZFigyiNueEevf2z7O5AoTaFmA0VoJ6UI3hNG2O4",
+        "id": "7477771047606521856"
+      },
+      {
+        "interaction": "Liked by Brian Zheng",
+        "link": "https://www.linkedin.com/posts/jhhuangchloe_personal-update-im-excited-to-share-that-activity-7475697439337803776-fEcf",
+        "title": "Personal update: I\u2019m excited to share that I\u2019ve started my internship at Ai2 as a Research Intern! Looking forward to a summer of research\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQGZy8OdUnHL7w/feedshare-shrink_800/B56Z78DNSMKEAg-/0/1782345160872?e=2147483647&v=beta&t=wzfdlWnsKw56gNOX5QF2mtosO6289zBvU6t-SVPHBsg",
+        "id": "7475697439337803776"
+      },
+      {
+        "interaction": "Liked by Brian Zheng",
+        "link": "https://www.linkedin.com/posts/openai_previewing-gpt-56-sol-a-next-generation-activity-7476321920909762560-u8y4",
+        "title": "Introducing a limited preview of GPT-5.6 Sol, our next generation frontier model, as well as GPT-5.6 Terra, a balanced model for efficient, everyday\u2026",
+        "img": "https://media.licdn.com/dms/image/sync/v2/D5627AQFiWqpPYzqxKQ/articleshare-shrink_800/B56Z8E41O8IUAY-/0/1782493438293?e=2147483647&v=beta&t=ksliOSRlU1JkdT6Z1wq4CQVTnQjyym1-EtZbrBl9nbA",
+        "id": "56"
+      },
+      {
+        "interaction": "Liked by Brian Zheng",
+        "link": "https://www.linkedin.com/posts/henok206_uw-compsci-masters-activity-7475071790751305728-wO4y",
+        "title": "Welp, I graduated undergrad! These past 4 years at the University of Washington have been transformational. Coming in, it wasn\u2019t clear-cut what\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQGoUwEFwRprmw/feedshare-shrink_800/B56Z7zKLcaGcAg-/0/1782195993390?e=2147483647&v=beta&t=jjBCWUol6Jp5UEWouvSkvH4GN-702AVKJDSUfRcTlyU",
+        "id": "7475071790751305728"
+      },
+      {
+        "interaction": "Liked by Brian Zheng",
+        "link": "https://www.linkedin.com/posts/linxi-wei-657890257_life-update-ive-recently-graduated-from-activity-7473758222353358848-00Nv",
+        "title": "Life update: I\u2019ve recently graduated from the University of Washington with a B.S. in Computer Science (with Honors) and a B.S. in Applied\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQHWdi-V7j5d2A/feedshare-image-high-res/B56Z7gffe0G0AU-/0/1781882813207?e=2147483647&v=beta&t=O314Z7451Go0j1xXYItIBwnL0B21s56VckWibb6VQKU",
+        "id": "7473758222353358848"
+      },
+      {
+        "interaction": "Liked by Brian Zheng",
+        "link": "https://www.linkedin.com/posts/sarwu_boeingintern-activity-7473197580168945665-ad2O",
+        "title": "I\u2019m excited to share that I have accepted an offer to join Boeing as an Structures Technology Design Engineering Intern for Summer 2026! I'm excited\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQFfqrmtyDoQHQ/feedshare-shrink_1280/B56Z58uYq.JgAQ-/0/1780208995211?e=2147483647&v=beta&t=Be1y5CcSLLYW4hQjEOZ9un8N9Ke9-YfxzbSMIPyhLpw",
+        "id": "7473197580168945665"
+      },
+      {
+        "interaction": "Liked by Brian Zheng",
+        "link": "https://www.linkedin.com/posts/uw-allen-school_uwallen-classof2026-thisisuw-activity-7471405745024999425-NQ1E",
+        "title": "Happy Graduation, #UWAllen #Classof2026! #ThisIsUW",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQGGQNeCXZV9ag/feedshare-shrink_800/B56Z6_D76wG0Ac-/0/1781321941167?e=2147483647&v=beta&t=5RLHQ8QrIadtPKfkEBE0s-i4Gv5_tdO2fTFtpM7CWks",
+        "id": "7471405745024999425"
+      },
+      {
+        "interaction": "Liked by Brian Zheng",
+        "link": "https://www.linkedin.com/posts/weikaihuang_cvpr2026-cvpr-on-x-activity-7470013456436367360-NPBT",
+        "title": "Honored to be recognized as an Outstanding Reviewer for CVPR 2026. With AI becoming part of how we write and do research, I\u2019ve been thinking more\u2026",
+        "img": "https://media.licdn.com/dms/image/sync/v2/D4D27AQEVA3O2wI0_Sw/articleshare-shrink_1280_800/B56Z5n8Zb3HEAg-/0/1779860348491?e=2147483647&v=beta&t=1PSut66F3tQJwc69J1_GirEO3NQVEIv-uiDLGZEqCqw",
+        "id": "7470013456436367360"
+      },
+      {
+        "interaction": "Liked by Brian Zheng",
+        "link": "https://www.linkedin.com/posts/daniel-domingos-627665236_im-excited-to-share-that-i-will-be-joining-activity-7466258525803950080-RIQW",
+        "title": "I'm excited to share that I will be joining Perplexity as a Research Intern this summer, working on RL post-training! A huge thank you to my friends\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQGaIPd_D14mnw/feedshare-shrink_800/B4EZ516kIfG0Ag-/0/1780094747469?e=2147483647&v=beta&t=P_DOslMnj_LksLAcDMehd0fR4io8awX8p5l3mw94wrE",
+        "id": "7466258525803950080"
+      },
+      {
+        "interaction": "Liked by Brian Zheng",
+        "link": "https://www.linkedin.com/posts/hq-fang_excited-to-share-that-ill-be-joining-nvidia-activity-7462517437029203968-LDGE",
+        "title": "Excited to share that I\u2019ll be joining NVIDIA Cosmos Lab as a PhD Research Intern this summer, mentored by Ming-Yu Liu \ud83e\udd29 Many thanks to Ming-Yu Liu\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQF-cN6DtXKyQQ/feedshare-shrink_800/B4EZ4._WHwKYAg-/0/1779173253908?e=2147483647&v=beta&t=Yf-u2Mh6tjaP65L9N6tCf2-2nY2lVneouP-KtSUJtLU",
+        "id": "7462517437029203968"
+      },
+      {
+        "interaction": "Liked by Brian Zheng",
+        "link": "https://www.linkedin.com/posts/joshzh_presenting-some-of-my-ongoing-work-at-mlsys-activity-7462139962545770496-z-Rz",
+        "title": "Presenting some of my ongoing work at MLSys'26 YPS today! Come check it out at the poster reception!",
+        "img": "https://static.licdn.com/aero-v1/sc/h/53n89ecoxpr1qrki1do3alazb",
+        "id": "7462139962545770496"
+      }
+    ],
+    "linkedin_num_id": "1227212832",
+    "banner_image": "https://static.licdn.com/aero-v1/sc/h/5q92mjc5c51bjlwaj3rs9aa82",
+    "honors_and_awards": [
+      {
+        "title": "ICPC Pacific Northwest Regionals Qualifier",
+        "publication": "ICPC",
+        "date": "2024-11-01T00:00:00.000Z",
+        "description": null
+      },
+      {
+        "title": "Meta Hacker Cup Round 2 Qualifier (2024)",
+        "publication": "Meta",
+        "date": "2024-10-01T00:00:00.000Z",
+        "description": null
+      }
+    ],
+    "similar_profiles": [],
+    "default_avatar": false,
+    "memorialized_account": false,
+    "bio_links": [
+      {
+        "title": "Personal Website",
+        "link": "https://brianzhengca.github.io/"
+      }
+    ],
+    "first_name": "Brian",
+    "last_name": "Zheng",
+    "influencer": false,
+    "timestamp": "2026-08-12T18:58:37.799Z",
+    "input": {
+      "url": "https://www.linkedin.com/in/brian-zheng-740ba82a2"
+    }
+  },
+  "local_photo": "data\\linkedin_photos\\brian-zheng-740ba82a2__usr-DHZryj4grzZSJEv.jpg"
+}

@@ -1,0 +1,448 @@
+{
+  "luma_user_id": "usr-sZbYsjtNjUDlvNj",
+  "csv_name": "Mayur Kulkarni",
+  "csv_linkedin": "https://www.linkedin.com/in/kulkarni-mayur",
+  "enriched_at": "2026-08-12T19:12:29.398004+00:00",
+  "batch_id": "sd_msqgtpzbeylkhkm9p",
+  "profile": {
+    "id": "kulkarni-mayur",
+    "name": "Mayur Kulkarni",
+    "city": "San Francisco Bay Area",
+    "country_code": "US",
+    "position": null,
+    "about": "I work at the intersection of agentic AI systems, deterministic data governance, and\u2026",
+    "current_company": {
+      "link": "https://www.linkedin.com/company/adobe?trk=public_profile_topcard-current-company",
+      "name": "Adobe",
+      "company_id": "adobe",
+      "location": null
+    },
+    "experience": null,
+    "url": "https://ar.linkedin.com/in/Kulkarni-mayur",
+    "people_also_viewed": [
+      {
+        "profile_link": "https://in.linkedin.com/in/debolina-choudhuri-2a0a48161",
+        "name": "Debolina Choudhuri",
+        "about": "ITC Limited",
+        "location": "3K followers India"
+      },
+      {
+        "profile_link": "https://in.linkedin.com/in/hemanth-nalla-2b4b011a9",
+        "name": "Hemanth Nalla",
+        "about": "Tata Consultancy Services",
+        "location": "561 followers Hyderabad"
+      },
+      {
+        "profile_link": "https://in.linkedin.com/in/alivia-pandit-22527a1a6",
+        "name": "Alivia Pandit",
+        "about": "Infosys Consulting",
+        "location": "1K followers Durgapur"
+      },
+      {
+        "profile_link": "https://in.linkedin.com/in/sharath-chandra-m-580273164",
+        "name": "Sharath Chandra M",
+        "about": "Uniqus Consultech Inc.",
+        "location": "1K followers Bengaluru"
+      },
+      {
+        "profile_link": "https://www.linkedin.com/in/rohanpanda99",
+        "name": "Rohan Panda",
+        "about": "LinkedIn",
+        "location": "2K followers San Jose, CA"
+      },
+      {
+        "profile_link": "https://in.linkedin.com/in/siddhartha-sarkar-989671126",
+        "name": "siddhartha sarkar",
+        "about": "ITC Limited",
+        "location": "6K followers Kolkata"
+      },
+      {
+        "profile_link": "https://www.linkedin.com/in/adithya-ganesan",
+        "name": "Adithya Ganesan",
+        "about": "ProCARE Portal - Provider Compensation Management Platform",
+        "location": "639 followers Tempe, AZ"
+      },
+      {
+        "profile_link": "https://www.linkedin.com/in/mohan-silambarasu-elangkumaran",
+        "name": "Mohan Silambarasu Elangkumaran",
+        "about": "George Mason University",
+        "location": "1K followers New York City Metropolitan Area"
+      }
+    ],
+    "educations_details": "Columbia University",
+    "education": [
+      {
+        "title": "Columbia University",
+        "url": "https://www.linkedin.com/school/columbia-university/",
+        "start_year": "2025-08",
+        "end_year": "2027-01",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      },
+      {
+        "start_year": "2018",
+        "end_year": "2022",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      }
+    ],
+    "avatar": "https://media.licdn.com/dms/image/v2/D5603AQHeQGWAEyQTbQ/profile-displayphoto-scale_200_200/B56Z690UbaG4Ac-/0/1781301071416?e=2147483647&v=beta&t=PqoN8yYdvkHnLun_WGcCEAO2-dbMyFeiLD3Jd_SjT3k",
+    "languages": [
+      {
+        "subtitle": "Professional working proficiency",
+        "title": "English"
+      },
+      {
+        "subtitle": "Native or bilingual proficiency",
+        "title": "Kannada"
+      },
+      {
+        "subtitle": "Professional working proficiency",
+        "title": "Hindi"
+      }
+    ],
+    "certifications": [
+      {
+        "meta": "Issued Sep 2021 Credential ID #21,460,031",
+        "subtitle": "DataCamp",
+        "title": "Introduction to SQL",
+        "credential_url": null,
+        "credential_id": "#21,460,031"
+      },
+      {
+        "meta": "Issued Jun 2021",
+        "subtitle": "Pepcoding Education Private Limited",
+        "title": "Data Structures and Algorithms Level Up",
+        "credential_url": null,
+        "credential_id": null
+      },
+      {
+        "meta": "Issued Aug 2020 See credential",
+        "subtitle": "Udemy",
+        "title": "Python for Data Structures, Algorithms",
+        "credential_url": "https://www.udemy.com/certificate/UC-6975d736-41bf-4c54-a78e-04075ec28315/?trk=public_profile_see-credential",
+        "credential_id": null
+      },
+      {
+        "meta": "Issued Apr 2020 See credential",
+        "subtitle": "Udemy",
+        "title": "Complete Python Bootcamp",
+        "credential_url": "https://www.udemy.com/certificate/UC-447e6512-b366-4cb8-956d-cfdf6b9cc8d0/?trk=public_profile_see-credential",
+        "credential_id": null
+      },
+      {
+        "subtitle": "Coursera",
+        "title": "Algorithms II",
+        "credential_url": null,
+        "credential_id": null
+      },
+      {
+        "subtitle": "Coursera",
+        "title": "Algorithms-1",
+        "credential_url": null,
+        "credential_id": null
+      },
+      {
+        "meta": "See credential",
+        "subtitle": "Coursera",
+        "title": "Algorithms, Data Collection, and Starting to Code",
+        "credential_url": "https://coursera.org/verify/YYFU4JDS8QJS?trk=public_profile_see-credential",
+        "credential_id": null
+      },
+      {
+        "meta": "See credential",
+        "subtitle": "Coursera",
+        "title": "Data Structures",
+        "credential_url": "https://coursera.org/verif?trk=public_profile_see-credential",
+        "credential_id": null
+      },
+      {
+        "meta": "Credential ID 5M63dVz9XE5914k71L See credential",
+        "subtitle": "GUVI Geek Networks, IITM Research Park",
+        "title": "DL_101",
+        "credential_url": "https://www.guvi.in/verify-certificate?id=5M63dVz9XE5914k71L&trk=public_profile_see-credential",
+        "credential_id": "5M63dVz9XE5914k71L"
+      },
+      {
+        "meta": "See credential",
+        "subtitle": "Coursera",
+        "title": "Writing, Running, and Fixing Code in C",
+        "credential_url": "https://www.coursera.org/account/accomplishments/verify/UVN4H8FDLP3A?trk=public_profile_see-credential",
+        "credential_id": null
+      }
+    ],
+    "volunteer_experience": [
+      {
+        "duration": "Jul 2020 \u00b7 - Present \u00b7 \n\n6 years 2 months",
+        "duration_short": "- Present",
+        "info": "HBR Ascend Select is an exclusive and an invite-only community of aspiring leaders, handpicked by HBR Ascend. As a member, I get the opportunity to share my views and opinions with the editorial, marketing, and product teams of HBR Ascend. I also participate in various research projects led by HBR Ascend.",
+        "start_date": "Jul 2020",
+        "subtitle": "Harvard Business Review",
+        "title": "HBR Ascend Select Member"
+      }
+    ],
+    "followers": 2145,
+    "connections": 500,
+    "current_company_company_id": "adobe",
+    "current_company_name": "Adobe",
+    "publications": [
+      {
+        "title": "Deterministic Data Flow Control Improves Agent Utility and Reduces Safety Violations",
+        "subtitle": "Very Large Data Bases ( VLDB ) - ICORE A*",
+        "date": "July 23, 2026",
+        "description": "Today's agent safety mechanisms are largely ad hoc. By modeling agent-harness execution as relations, we can express declarative constraints over the agent's execution state and data flows, and return violation-specific feedback to steer the agent towards safety. Across four safety benchmarks, this reduces safety violations and improves task completion relative to nine SoTA defenses."
+      }
+    ],
+    "projects": [
+      {
+        "title": "Jane Street x Deterministic Schema Linking & Graph-Based Query Synthesis for Autonomous Agents",
+        "start_date": "May 2026",
+        "description": "Engineered a production-grade, deterministic text-to-SQL agentic pipeline designed to completely eliminate schema ambiguity, hallucinated columns, and missing structural joins under complex enterprise database schemas.Benchmark-Defeating Performance: Achieved a +8.1% improvement in Join Accuracy and a +2.2% boost in overall Execution Accuracy on the industry-standard BIRD benchmark, achieving 74.4% Join Accuracy.Graph-Algorithmic Optimization: Developed a minimal connecting subgraph extraction algorithm using foreign-key topologies to prune database schemas down to exact execution context prior to language model injection.Advanced Agentic Workflow: Designed a 5-stage pipeline featuring multi-phrase query expansion (Qwen-7B), hybrid dense-sparse retrieval unified via Reciprocal Rank Fusion (RRF), and massive-scale SQL generation (Qwen-32B).Fault-Tolerant Rewriter Layer: Created a deterministic query rewriter built with transactional Data Flow Control (DFC) and automated rollback guardrails, protecting the data store by reversing non-compliant or erroneous query logic on execution errors."
+      },
+      null,
+      {
+        "title": "SafeCoarsen: Privacy-Preserving Natural-Language Analytics via Deterministic Query Rewriting",
+        "start_date": "Apr 2026",
+        "description": "Researched and designed SafeCoarsen, an enterprise-grade data governance and access control engine built specifically to secure text-to-SQL and natural language data analytics interfaces. Zero-Trust AI Interception: Created a deterministic query rewriting engine that intercepts natural language analytical inputs, translating them into security-constrained expressions before compilation to prevent prompt injection and data exfiltration.Dynamic Access Control: Built structural abstractions to enforce strict role-based access control (RBAC) and privacy-preserving data-masking layers transparently within database processing paths. Enterprise Compliance Safeguards: Mitigated the non-deterministic privacy risks native to generative AI agents, ensuring all LLM-driven SQL generations are mathematically bound to corporate compliance policies."
+      },
+      null,
+      {
+        "title": "Provably Safe Data Flow Control & Algorithmic Policy Enforcement for LLM Agents",
+        "start_date": "Jan 2026",
+        "description": "Co-developed Data Flow Controls, an end-to-end, deep-tech data safety substrate that enforces regulatory, organizational, and user-defined policies over autonomous LLM agents.State-of-the-Art Architecture: Extended DuckDB by architecting custom asynchronous stream processing engine operators (AsyncSend/AsyncReceive) in C++ to logically split data flows and pipeline real-time compliance violations out of query execution paths. Multi-LLM Knowledge Graph Extraction: Engineered a cross-reference graph processing pipeline to ingest dense legal corpuses (e.g., 26 US Code). Implemented a majority-vote consensus framework leveraging Claude 4.6, GPT-5.4, and Gemini 3.1 Pro to assign execution-time confidence thresholds. Provenance-Aware Query Rewriting: Utilized provenance semirings to inject data flow control (DFC) predicates dynamically into runtime queries, guaranteeing mathematical compliance regarding data origins and lineages without execution overhead"
+      },
+      {
+        "title": "Multi-Agent AI Collaboration System for Marketing Campaign Generation",
+        "start_date": "Dec 2025",
+        "description": "Architected multi-agent AI system using Python and AutoGen to orchestrate GPT-4o-mini, Gemini 2.0 Flash, and Claude 3.5 Sonnet with GroupChat coordination, role-based prompt engineering, temperature optimization (0.6 - 1.6), and human-in-the-loop workflows for autonomous marketing campaign generation."
+      },
+      {
+        "title": "GPT-2 Pretraining + RLHF Alignment from Scratch",
+        "start_date": "Nov 2025",
+        "description": "Built a GPT-2\u2013style transformer and training pipeline from scratch, training on the 2.3M-sample TinyStories dataset and improving perplexity by 32% with optimized attention/optimizer settings.\u2022 Implemented a compact RLHF pipeline (SFT \u2192 Reward Model \u2192 PPO) using 50K+ preference pairs, boosting alignment metrics by 27% while maintaining stable KL/entropy behavior."
+      },
+      null,
+      {
+        "title": "Amazon Bedrock X Columbia: RAG Pipeline for AI Automated Release Intelligence",
+        "start_date": "Sep 2025",
+        "description": "Built end-to-end release automation platform using Python, Streamlit, and AWS Bedrock that analyzes GitHubrepositories to auto-generate release documentation, reducing manual effort by 90%\u2022 Implemented asynchronous GitHub API integration with automated breaking change detection and semantic versioningsuggestions, processing 104 commits to generate migration guides and security bulletins"
+      },
+      null,
+      {
+        "title": "AlphaLens",
+        "start_date": "Jun 2022",
+        "description": "\u2022Built a system to fetch stock quotes using Tiingo's REST APIs usingJava and Jackson, and computed periodical returns allowing portfoliomanagers to make data-driven recommendations. Also added supportfor backup stock quote services like Alpha Vantage to ensuremaximum uptime and application consistency.\u2022Incorporated multithreading and reduced the data fetch time by30%.\u2022Refactored the backend code using custom interfaces to simplifyintegration with the above-mentioned third-party interfaces."
+      },
+      {
+        "title": "Flood Inundation Mapping & ML-Driven Vulnerability Assessment",
+        "start_date": "Oct 2021",
+        "description": "\u2022 Mapped flood-affected regions in Assam\u2019s Kamrup Metropolitan district using Sentinel-1A/B SAR data, JRC GlobalSurface Water, and SRTM DEM on Google Earth Engine; applied speckle filtering, thresholding, and SAR differencing todelineate \u02dc3,756 hectares of inundation.\u2022 Engineered DEM- and SAR-based features (slope, elevation, backscatter, historical water occurrence) and built MLmodels (K-Means clustering & Random Forest) to classify flood-prone zones and rank high-risk areas, improvingvulnerability identification across low-lying settlements"
+      },
+      {
+        "title": "File Explorer & Storage",
+        "start_date": "Mar 2021",
+        "description": "\u2022Created a user-friendly desktop-based interface for uploading files,organizing, renaming, and deletion using Node.JS as a backendserver and Bootstrap for responsive design.\u2022Local file system was integrated and categorization based on size,type, and date was supported.\u2022Asynchronous file reads were handled using Promises."
+      },
+      {
+        "title": "HungerBox",
+        "description": "\u2022Built RESTful APIs in Java (SpringBoot) to handle restaurant search,food ordering, and tracking.\u2022Improved average response time (300 ms) by 35% through efficientuse of Redis Cache and optimized database queries in MongoDB formenu and restaurant details.\u2022Unit and integration testing was conducted using JUnit and Mockitoachieving greater than 90% test coverage."
+      }
+    ],
+    "location": null,
+    "input_url": "https://www.linkedin.com/in/kulkarni-mayur",
+    "linkedin_id": "kulkarni-mayur",
+    "activity": [
+      {
+        "interaction": "Mayur Kulkarni shared this",
+        "link": "https://www.linkedin.com/posts/kulkarni-mayur_learned-a-lot-working-on-this-together-exciting-activity-7483697661162848258-piSC",
+        "title": "Learned a lot working on this together. Exciting things ahead as we keep pushing this research forward! \ud83d\udcc8",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQGUo4hPwDOChg/feedshare-shrink_800/B4EZ9tr9qWIwAc-/0/1784251669440?e=2147483647&v=beta&t=5Zkb_atw3itPF8E-WApzkeVPf4Nh5TGZlFfGcQcOGHQ",
+        "id": "7483697661162848258"
+      },
+      {
+        "interaction": "Mayur Kulkarni shared this",
+        "link": "https://www.linkedin.com/posts/kulkarni-mayur_adobeintern-adobelife-generativeai-activity-7474329005836431360-_wKT",
+        "title": "One week into my internship at Adobe , and I already know this is the kind of work I want to keep doing. Working on LLM-powered solutions and agentic AI workflows as part of the AI Strategy & Innovation organization has reinforced something I've believed for a while: the intersection of Generative AI systems and meaningful product impact is where I want to build my career. Every day, I'm seeing how AI can move from experimentation to real-world value, and that's incredibly motivating. The Data Science Institute at Columbia University gave me the foundation and curiosity to pursue this path. I'm deeply grateful to the faculty who challenged and inspired me, and to the incredible peers who made every project, discussion, and late-night problem-solving session memorable. I'm excited to continue learning, building, and growing at Adobe. Excited for what's ahead. #AdobeIntern #AdobeLife #GenerativeAI #LLMs #Columbia #AIEngineer #AIStrategy #Innovation #NewBeginnings",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQHZl3JIOTzMUA/feedshare-image-high-res/B56Z7ojBVKHUAc-/0/1782017955770?e=2147483647&v=beta&t=G4347ahbuj0DntzDI_i4W01VsIignSh-m4t-_BV7DLM",
+        "id": "7474329005836431360"
+      },
+      {
+        "interaction": "Mayur Kulkarni shared this",
+        "link": "https://www.linkedin.com/posts/kulkarni-mayur_aiagents-texttosql-janestreet-activity-7471534356973428736-O6SX",
+        "title": "Last month, I had the pleasure of attending the North East AI Agents Day hosted at the stunning Jane Street NYC office, where we gave a poster presentation on our latest research! Our presentation, \"Stop Guessing Joins: Deterministic Schema Linking for Text-to-SQL Agents,\" sparked some fantastic, high-level technical discussions with the community on improving AI agent reliability. A huge thank you to our guide, Charlie Summers , for the incredible mentorship and direction throughout this project. I also want to give a big shoutout to my co-author and collaborator, Prajwal Raghunath , for his partnership in bringing this work to life. I am deeply grateful to the Columbia Data Agents Process Lab (DAPLab) for making this entire experience possible. Event details: https://lnkd.in/gr7PjJJg #AIAgents #TextToSQL #JaneStreet #ColumbiaDAPLab #AcademicResearch #AI",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQGB2Tjt4QhcdA/feedshare-image-high-res/B56Z7A453UIUAY-/0/1781352603368?e=2147483647&v=beta&t=bn03K3mNO4U1M4bxQ_Na7bKd9qo-o-L6s9BjJrLAGdw",
+        "id": "7471534356973428736"
+      },
+      {
+        "interaction": "Mayur Kulkarni shared this",
+        "link": "https://www.linkedin.com/posts/kulkarni-mayur_release-intelligence-platform-activity-7393054338228772864-U_I_",
+        "title": "Just wrapped up the Columbia Engineering x Amazon Bedrock Innovation Challenge! My team ( Haasita Pinnepu , Prajwal Raghunath , Ritika Chatterjee ) built Release Intelligence - an AI-powered tool that automates release documentation for development teams. What it does: Generates professional release notes from commits/PRs based on user persona Detects breaking changes and security issues beforehand Suggests semantic versioning Creates migration guides automatically Tech Stack: Streamlit, Python, Amazon Bedrock (Claude), GitHub API Tested on major repos like React, Next.js, and Kubernetes with great results. Incredible experience leveraging generative AI to solve real developer pain points! Link : https://lnkd.in/gCDapKR7 #AI #Hackathon #AWS #AmazonBedrock #DeveloperTools #ColumbiaEngineering",
+        "img": "https://media.licdn.com/dms/image/sync/v2/D5627AQFz4d9xBZ9Czg/articleshare-shrink_800/B56ZplnSI_IcAM-/0/1762641390592?e=2147483647&v=beta&t=FqPD2bhZXf-e2KfWpCv405BR9q4Y93gmp-TRyWh7k1M",
+        "id": "7393054338228772864"
+      },
+      {
+        "interaction": null,
+        "link": "https://www.linkedin.com/posts/saedf_linkedin-log-in-or-sign-up-activity-7387839258562101248-QRg8",
+        "title": "*DEADLINE IS ONE WEEK AWAY* LinkedIn just made a quiet update, and it\u2019s worth your attention. *Public Service Announcement* As of November 3, your posts, comments, and activity will be used to train AI, automatically. This isn\u2019t opt-in. It\u2019s opt-out. Which means: if you do nothing, your content becomes free fuel for AI models. And once it\u2019s in, there\u2019s no reversing it. No \u201cundo.\u201d Want to keep your data yours? Update your settings here \u2192 https://lnkd.in/emughyJ8 \u2014- Follow saed \u200e for more & subscribe to the newsletter: https://lnkd.in/eD7hgbnk I am now on Instagram: instagram.com/saedctl say hello, DMs are open",
+        "img": null,
+        "id": "7387839258562101248"
+      },
+      {
+        "interaction": "Mayur Kulkarni shared this",
+        "link": "https://www.linkedin.com/posts/kulkarni-mayur_i-am-excited-to-share-that-i-have-joined-activity-7368278132237242369-ebJI",
+        "title": "I am excited to share that I have joined Columbia University this Fall \u201925 to pursue my Master\u2019s degree at the Data Science Institute . This milestone is a significant step in my professional and academic journey, building on my experiences at IIT Guwahati, my contributions as a Software Engineer II at Cisco Systems, and my passion for leveraging technology in impactful ways. I look forward to immersing myself in Columbia\u2019s vibrant academic community, collaborating on cutting-edge research, and driving innovation in Systems Engineering for AI. Thanks to my mentors, colleagues, and peers for their constant support!",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQHh1zPV5D5mgA/feedshare-shrink_800/B56ZkFh6r0HMAg-/0/1756734401738?e=2147483647&v=beta&t=WCOa7L1Ii_fPmugdbGhhuF-NMGJkIJZ-Fz9CFDZqmUE",
+        "id": "7368278132237242369"
+      },
+      {
+        "interaction": "Mayur Kulkarni shared this",
+        "link": "https://www.linkedin.com/posts/kulkarni-mayur_golang-rust-c-activity-6974979244057665536-q5Hk",
+        "title": "This is an interesting picture to look at. These are the greenest programming languages in terms of energy usage. Interpreted languages like Python score very poor.. It's well clear it's purpose is fast to code, as a scripting and 'glue' language, it's a great dynamic typed language, but these features come at a great cost. I must say RUST is really starting to grow on me. It's almost equal to C and does much better than C++. They are doing an awesome job. I hope they can work a bit on cross-language compatibility to make it integrate with existing C++ code bases more easy. It will be interesting to see where Carbon stands in all this. source : https://lnkd.in/eaZJzHcP The original report with updated info: https://lnkd.in/ea-8jEyY The test was repeated in 2021 with even a more vastly set of tests. https://lnkd.in/eU2pET7J Python is mostly in the bottom half of rankings when it comes to energy consumption. It couldn\u2019t even complete the Fibonacci task in 24 hours of the cut-off time. The researchers note that they \u201cstrictly followed\u201d the CLBG project\u2019s guidelines about compiler versions and the best optimization flags. Power consumption was measured using a tool from Intel \u2014 the Running Average Power Limit tool \u2014 with each program executed not just once, but 10 times, \u201cto reduce the impact of cold starts and cache effects, and to be able to analyze the measurements\u2019 consistency and avoid outliers.\u201d the paper also includes a separate comparison of the different programming paradigms \u2014 including both functional and imperative programming, plus object-oriented programming and scripting. #golang #rust #c ++ #python #cloud #programming #language #language",
+        "img": "https://media.licdn.com/dms/image/v2/C4E22AQF_iTXwF7rBOA/feedshare-shrink_800/feedshare-shrink_800/0/1662653878319?e=2147483647&v=beta&t=qikINr1prfp5__hgkb25zmtGvH10M6X4lJBOQxWnkqc",
+        "id": "6974979244057665536"
+      },
+      {
+        "interaction": "Mayur Kulkarni replied to a comment 3w",
+        "link": null,
+        "title": "Thanks Mihir!",
+        "img": null,
+        "id": null
+      },
+      {
+        "interaction": "Mayur Kulkarni reacted on this",
+        "link": "https://www.linkedin.com/posts/rishit-belani_really-happy-to-share-that-ive-joined-flextrade-activity-7469860452601249792-_KaZ",
+        "title": "Really happy to share that I\u2019ve joined FlexTrade this summer to work on quantitative research in execution and predictive analytics in New York. This opportunity brings together many of the areas I\u2019ve enjoyed learning about over the past few years, from software engineering and data science at Siemens to my current studies in Data Science at Columbia University . I\u2019m grateful for the opportunity and for everyone who has supported me along the way. Looking forward to learning from the team and making the most of the experience this summer.",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQESvV0NZb30Iw/feedshare-shrink_800/B56Z6pGf2IHcAc-/0/1780953513613?e=2147483647&v=beta&t=9XSKfJsxrO-TSBfHE3VdwvoQfmTrj9AaUKGwXwkpJHE",
+        "id": "7469860452601249792"
+      },
+      {
+        "interaction": "Mayur Kulkarni liked this",
+        "link": "https://www.linkedin.com/posts/gururaj-deshpande-313512_workanniversary-ltm-outcreate-activity-7492202471876902913-bWGF",
+        "title": "One year at LTM . Seems like the fastest year of my career. When I look back, it's hard to believe how much has happened in twelve months. Building out and reimagining our delivery organisation. Pivoting decisively towards an AI-led delivery and talent model. Reimagining our core services while making sure we stayed deeply relevant to our clients. Sharpening our BlueVerse ecosystem. Rebranding the company as LTM. And setting the Outcreate theme that now runs through everything we do. Each of these on its own would have been a full year's work. Together, they made the last twelve months move at a pace I'm still catching my breath from. If this year taught me anything, it's that in today's world, everyone is a builder. Whether you're writing code, designing an experience, shaping a strategy, or simply solving a client's problem in a smarter way \u2014 building isn't a job title anymore, it's a mindset. And there's a particular kind of joy that comes from building together, not alone. Watching ideas turn into outcomes because a whole team leaned in. That's the thing I keep coming back to when I think about this year. Not a milestone or a metric, but the memories I built along the way with our phenomenal teams \u2014 our Outcreators \u2014 across India and around the globe. The late-night calls that turned into laughs. The problems we solved together. The trust we built, one delivery at a time. That's been the real joy of this year. Thank you to every Outcreator who has been with me on this journey. And if this is what one year looks like, I can't wait to see what's next. There's so much more to come. Here's to Year Two, and to building together. \ud83d\ude80 #WorkAnniversary #LTM #Outcreate #Outcreators",
+        "img": "https://media.licdn.com/dms/image/v2/D4D22AQGJZKYeDQDzzw/feedshare-shrink_800/B4DZ_mmbuVIIAc-/0/1786280262922?e=2147483647&v=beta&t=O22tMltA4xvG7YuO2JiL1rns2RR49233ZVlHfsS5Anc",
+        "id": "7492202471876902913"
+      },
+      {
+        "interaction": "Mayur Kulkarni liked this",
+        "link": "https://www.linkedin.com/posts/aaryannagpal_syntheticdata-timeseriesfoundationmodel-activity-7492411152694411264-KzRp",
+        "title": "It was an incredible experience to attend [ICML] Int'l Conference on Machine Learning 2026 in Seoul, and I\u2019m really excited to share that I had the opportunity to represent Birla AI Labs and present my research at the Foundation Models for Structured Data (FMSD) and AI as Forecasting workshops. As it was my first research conference, getting to speak with people from such diverse backgrounds and disciplines, and having them take the time to listen to a 22-year-old early-career researcher talk about his work, was both a humbling and empowering experience. Every interaction I had with a researcher was genuinely enjoyable; hearing their ideas, learning how they pursued them, and seeing how they turned them into research was something I was truly happy to experience. I am deeply grateful to everyone whose support made it possible, especially Varya Srivastava , Saurabh Deshpande , and Professors Dhruv Kumar and Murari Mandal for their guidance and support! Special thanks to my colleagues and close friends, Karthik and Debdeep , for sharing this research experience with me. #SyntheticData #TimeSeriesFoundationModel #ICML2026 #MachineLearning",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQEvWJhJSaW3ZA/feedshare-shrink_800/B56Z_Wl0WbHYAc-/0/1786011666409?e=2147483647&v=beta&t=AfSFC6IQtJvNddaXMFyi6o9DZoTosajKScTqgDNLLK8",
+        "id": "7492411152694411264"
+      },
+      {
+        "interaction": "Mayur Kulkarni reacted on this",
+        "link": "https://www.linkedin.com/posts/meghna-s-kulkarni_back-from-winterthur-and-still-processing-activity-7492475136625950720-8sLM",
+        "title": "Back from Winterthur and still processing that the ZHAW entrepreneurship HealthTech Summer School is actually over! 2.5 weeks ago we got handed a clinical need and told: go build a real seed-stage pitch out of it. Needs analysis, concept testing, IP, regulatory, reimbursement, all through Stanford University 's Biodesign Process. Under three weeks. No pressure. My team built \"Glyra\" - an AI-powered menstrual cycle intelligence for women with Type 1 diabetes. I spent most of my time on the technical side, figuring out how to build a cycle-aware AI engine that actually learns how a woman's body responds to hormones, CGM data, insulin, sleep, all of it, and turns that into insulin guidance that's actually personalized instead of one-size-fits-all. Going from \"wait, this gap in diabetes tech is real and nobody's solved it\" to an actual pitch-ready platform in this timeframe was a lot, honestly. But so worth it. Florian Zimmermann , Mariia Gurova , Vanessa Vogt ~ you three made this the best kind of chaotic. Genuinely couldn't have asked for a better team to build with. And thank you ZHAW School of Management and Law for putting together a program this good. A huge shout-out to the organizers as well - Jens Haarmann, PhD, Mathias B. , Nicole Z, Mario Kratter ! Also just - the people! The late nights, the pre-pitch panic, the random conversations that turned into real friendships. That part I didn't expect and it might be the part I'm most grateful for. Onto whatever's next! \ud83d\ude80",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQElh7YoptmG2g/feedshare-shrink_800/B4EZ_nDDbQJYAc-/0/1786287766736?e=2147483647&v=beta&t=EyzO1nPA5uOeAALG2v1bwrIWLTd_FJNWGmB8axPv4EU",
+        "id": "7492475136625950720"
+      },
+      {
+        "interaction": "Mayur Kulkarni liked this",
+        "link": "https://www.linkedin.com/posts/shambhavi-pandey4_i-am-happy-to-share-that-i-have-officially-activity-7492235454268899328-DDJh",
+        "title": "I am happy to share that I have officially completed my PhD in Biological Sciences at the National University of Singapore (NUS). My doctoral research focused on understanding membrane receptor dynamics and organization, and their cytoskeletal dependence, using Imaging Fluorescence Correlation Spectroscopy and Super-resolution Microscopy. I am grateful to my supervisor, Prof. Thorsten Wohland , and to everyone at NUS who supported me throughout this journey. A meaningful chapter comes to a close, and I look forward to what comes next.",
+        "img": "https://media.licdn.com/dms/image/v2/D4D22AQEbGy3DtYEXFQ/feedshare-shrink_800/B4DZ_nEcKsKIAc-/0/1786288129412?e=2147483647&v=beta&t=7RtACbjfH_YnFbpQwQT5m9ZCclIC5O6d72vtU0hI14w",
+        "id": "7492235454268899328"
+      },
+      {
+        "interaction": "Mayur Kulkarni liked this",
+        "link": "https://www.linkedin.com/posts/varun-ram-narayanan-959a39250_mit-sloan-orc-activity-7485335629866840064-D0D0",
+        "title": "I'm excited to share that I have officially graduated from the Indian Institute of Technology, Bombay with a B.Tech . in Chemical Engineering and a Minor in Artificial Intelligence and Data Science. This fall, I'll be joining the MIT Sloan School of Management to pursue the Master of Business Analytics (MBAn). I'm looking forward to deepening my understanding of machine learning, optimization, and data-driven decision-making while learning from an exceptional community of faculty and classmates. I'm incredibly grateful to my professors, mentors, friends, and family for their guidance and support throughout this journey. Excited for the opportunities, challenges, and experiences that lie ahead. If you'll be in Cambridge this fall, I'd love to connect. Feel free to reach out! #MIT #Sloan #ORC #MBAn",
+        "img": "https://media.licdn.com/dms/image/v2/D4D22AQFdWzdcAnGI4Q/feedshare-shrink_800/B4DZ.FBF1BJQAc-/0/1784643083834?e=2147483647&v=beta&t=M1fQJa-LCo03c1l6F1yuGLjr4KTbcprApy02uzRmu4s",
+        "id": "7485335629866840064"
+      },
+      {
+        "interaction": "Mayur Kulkarni liked this",
+        "link": "https://www.linkedin.com/posts/dhruvdeshpande007_agenticai-generativeai-aiagents-activity-7491124037427924992-xU6s",
+        "title": "This summer, one of my goals was to become more industry-ready by building skills beyond the classroom and developing a deeper understanding of modern AI frameworks and their real-world possibilities. As part of that journey, I built ContextCue - an agentic AI system that transforms recorded meetings into searchable, persistent, and actionable organizational memory. Your team\u2019s memory, on cue. Most meeting tools treat each meeting as an isolated transcript or summary. I wanted to explore a broader idea: meetings should contribute to a continuously accessible layer of organizational knowledge. Important decisions often become separated from the reasoning behind them. Action items lose context, unresolved questions are forgotten, and teams struggle to reconstruct why a direction was chosen weeks or months later. Consider a business executive preparing for a client follow-up. They may remember that a pricing proposal was rejected, but not the client\u2019s exact concern, the alternatives discussed, or who agreed to revise it. Instead of searching through recordings, notes, emails, and chats, they could ask: \u201cWhy was the original pricing proposal rejected, what alternative was discussed, and what did we agree to do next?\u201d ContextCue retrieves relevant information across meetings, generates a grounded response with timestamp citations, identifies related action items and open questions, and can prepare a contextual follow-up. The same idea could help engineering teams track technical decisions, consulting and sales teams retain client context, research groups follow evolving findings, and project handoffs preserve reasoning that might otherwise be lost. The system can: \u2022 Search semantically across meetings \u2022 Retrieve decisions and supporting discussions \u2022 Generate grounded answers with timestamp citations \u2022 Identify action items, owners, and open questions \u2022 Prepare follow-ups using previous context \u2022 Preserve continuity across recurring conversations What interested me most was not simply building another transcription or meeting-summary tool, but exploring how AI could preserve the reasoning, commitments, and context behind organizational decisions. The system uses an agent layer with intent routing and tool-based retrieval. I also built an evaluation workflow to verify that relevant context is retrieved before generating a response, since reliable retrieval is essential for trustworthy AI. Built with Python, FastAPI, Faster-Whisper, Qdrant, Ollama, Streamlit, FFmpeg, RAG, SQLite, MCP, and vector search. There is still so much more I want to build, improve, and learn through this project. I\u2019m excited to keep experimenting and expanding ContextCue. A special thank you to my mentor, Rajeshwari Ganesan , for her guidance, feedback, and support. It was inspiring to learn from someone so accomplished with deep AI experience. #AgenticAI #GenerativeAI #AIAgents #RAG #AIEngineering #FastAPI #Python #SoftwareEngineering #MCP",
+        "img": "https://media.licdn.com/dms/image/v2/D4D22AQHchsG6_zuEfA/feedshare-shrink_800/B4DZ_XRnUKKMAc-/0/1786023147246?e=2147483647&v=beta&t=COssePtUrEjPskJBajcItoebgKJrxqNUizNm-s5vfuU",
+        "id": "7491124037427924992"
+      },
+      {
+        "interaction": "Mayur Kulkarni reacted on this",
+        "link": "https://www.linkedin.com/posts/srikanthvelamakanni_this-day-28-years-ago-my-father-passed-activity-7490275430609014784-QEhT",
+        "title": "This day, 28 years ago, my father passed away after a case of undiagnosed pneumonia. 1998 was the year I graduated from business school. I had a couple of months at home before joining my first job. Dad developed a low grade fever and struggled every day - I went with him to several doctors and even got specialists to see his chest x-ray. They couldn't diagnose the pneumonia that was developing. It was devastating. I turned this grief into a passion for healthcare. Since then, I have felt an acute need for better tools to make sure that every disease is diagnosed at the earliest possible moment, so we have the most amount of time to cure it. Today Qure.ai (that we spun off from Fractal in 2020) has touched more than 50 million lives to diagnose patients with TB and lung cancer. A couple of weeks ago, we signed with Brihanmumbai Municipal Corporation to extend Vaidya.ai support to Mumbai's government hospitals and doctors in improving the quality of care. And last month, I also joined the board of Dr. Reddy's Laboratories Laboratories, arguably India's most respected pharmaceutical company as an independent director. These are small steps in contributing to a big cause. Advances in AI should fundamentally reshape health outcomes for the entire planet - better diagnosis, better quality of care for every patient, and novel drugs that improve health outcomes and improve healthspan of the entire population. Prashant Warier Suraj Amonkar Prasad G V Ashwini Bhide",
+        "img": null,
+        "id": "28"
+      },
+      {
+        "interaction": "Mayur Kulkarni liked this",
+        "link": "https://www.linkedin.com/posts/alexander-ratner-038ba239_one-of-the-main-goals-in-ai-has-always-been-activity-7487953482910642177-hAoO",
+        "title": "One of the main goals in AI has always been to get subject matter expertise into computers as efficiently as possible. Data is the most natural, universal transfer medium for subject matter expertise. But it's never really been about data :)",
+        "img": null,
+        "id": "7487953482910642177"
+      }
+    ],
+    "linkedin_num_id": "671499545",
+    "banner_image": "https://media.licdn.com/dms/image/v2/D5616AQGJMZ1wJxD4Vg/profile-displaybackgroundimage-shrink_200_800/B56Zj55YrvHAAU-/0/1756539230575?e=2147483647&v=beta&t=N_PHM_cVkBC2iSZL4_8vPGA0ZjJaTQ-ccXEf2xFW6HU",
+    "honors_and_awards": [
+      {
+        "title": "Spotlight Mention- Cisco",
+        "publication": "-",
+        "date": "2023-03-01T00:00:00.000Z",
+        "description": "Received Spotlight Award during Q1 2023 at Cisco for my commitment to software quality and teamwork."
+      },
+      {
+        "title": "Leetcode Knight Badge with a max rating of 1863. Secured a global rank of 407 in Weekly Round 291 during August 2022.",
+        "publication": "Leetcode",
+        "date": "2022-08-01T00:00:00.000Z",
+        "description": null
+      },
+      {
+        "title": "Institute Merit Scholarship IITG",
+        "publication": "IITG",
+        "date": "2021-02-01T00:00:00.000Z",
+        "description": "Was awarded the IITG Institute merit scholarship(~4 lakh INR) for the academic year 2020-2021 and 2021-2022 for securing Rank 1 in the Civil Engineering Department"
+      },
+      {
+        "title": "INSPIRE Scholarship",
+        "publication": "DST, Government of India",
+        "date": "2015-08-01T00:00:00.000Z",
+        "description": "Received Inspire Scholarship awarded by Dept. of Science and Technology, Government of India during the year 2014"
+      },
+      {
+        "title": "INK Talks conference",
+        "publication": "INK",
+        "date": null,
+        "description": "Guest invitee at INK Talks Conference held in Mumbai to showcase my project \u2018Automatic car engine disabler system using NFC technology\u2019 for the year 2015"
+      },
+      {
+        "title": "Initiative for Research and Innovation in Science",
+        "publication": "Intel",
+        "date": null,
+        "description": "National finalist at Initiative for Research and Innovation in Science (IRIS) jointly conducted by Intel Corporation and Dept. of Science & Technology, Government of India for the year 2013-14"
+      },
+      {
+        "title": "JEE Advanced",
+        "publication": "-",
+        "date": null,
+        "description": "Cleared JEE Mains and Advanced in the top 1 percentile in the year 2018"
+      },
+      {
+        "title": "Kishore Vigyanik Protsahan Yojana",
+        "publication": "Government of India",
+        "date": null,
+        "description": "Was awarded the KVPY Fellowship by the Government of India during the year 2017 under the SA stream securing an AIR of 647"
+      },
+      {
+        "title": "National Talent Search Examination",
+        "publication": "-",
+        "date": null,
+        "description": "Secured 14th rank for Karnataka state in the National Talent Search Examination conducted by MHRD, Government of India in the year 2016"
+      }
+    ],
+    "similar_profiles": [],
+    "default_avatar": false,
+    "memorialized_account": false,
+    "bio_links": [],
+    "first_name": "Mayur",
+    "last_name": "Kulkarni",
+    "influencer": false,
+    "timestamp": "2026-08-12T19:11:45.339Z",
+    "input": {
+      "url": "https://www.linkedin.com/in/kulkarni-mayur"
+    }
+  },
+  "local_photo": "data\\linkedin_photos\\kulkarni-mayur__usr-sZbYsjtNjUDlvNj.jpg"
+}

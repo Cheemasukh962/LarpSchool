@@ -1,0 +1,205 @@
+{
+  "luma_user_id": "usr-uGpAX5ALgpWwqf0",
+  "csv_name": "Omkar K",
+  "csv_linkedin": "https://www.linkedin.com/in/omkarkovvali",
+  "enriched_at": "2026-08-12T19:13:35.740228+00:00",
+  "batch_id": "sd_msqguuzo2o546dm49e",
+  "profile": {
+    "id": "omkarkovvali",
+    "name": "Omkar K.",
+    "city": "Washington DC-Baltimore Area",
+    "country_code": "US",
+    "position": null,
+    "about": "https://www.omkarkovvali.com",
+    "current_company": {
+      "link": "https://www.linkedin.com/company/stealth-startup-community?trk=public_profile_topcard-current-company",
+      "name": "Stealth Startup",
+      "company_id": "stealth-startup-community",
+      "location": null
+    },
+    "experience": null,
+    "url": "https://es.linkedin.com/in/omkarkovvali",
+    "educations_details": "Virginia Commonwealth University",
+    "education": [
+      {
+        "title": "Virginia Commonwealth University",
+        "url": "https://www.linkedin.com/school/virginia-commonwealth-university/",
+        "start_year": "2024-08",
+        "end_year": "2028-05",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      },
+      {
+        "start_year": "2020",
+        "end_year": "2024",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      }
+    ],
+    "avatar": "https://media.licdn.com/dms/image/v2/D4E03AQEaDsTStEeyjw/profile-displayphoto-scale_200_200/B4EZs6AM5mIwAY-/0/1766204690470?e=2147483647&v=beta&t=SfQzlpcv3vy3StvW1gNgyNpGj-M-cHwYXZdIzsN8PtQ",
+    "languages": [
+      {
+        "subtitle": "Native or bilingual proficiency",
+        "title": "Telugu"
+      },
+      {
+        "subtitle": "Native or bilingual proficiency",
+        "title": "English"
+      }
+    ],
+    "certifications": [
+      {
+        "meta": "Issued Jun 2025 Expires Jun 2035 Credential ID xdVm.GNsY.24i5 See credential",
+        "subtitle": "Python Institute\u00ae",
+        "title": "Certified Entry Level Python Programmer",
+        "credential_url": "https://verify.openedg.org/?id=xdVm.GNsY.24i5&trk=public_profile_see-credential",
+        "credential_id": "xdVm.GNsY.24i5"
+      }
+    ],
+    "followers": 1464,
+    "connections": 500,
+    "current_company_company_id": "stealth-startup-community",
+    "current_company_name": "Stealth Startup",
+    "publications": [
+      {
+        "title": "Accessible Otitis Media Screening with a Deep Learning-Powered Mobile Otoscope",
+        "subtitle": "Springer LNCS",
+        "date": "October 26, 2023"
+      },
+      {
+        "title": "Early Institutional Experience with the Thoracent Tracheobronchial Y-stents for Central Airway Obstruction and Tracheo-Esophageal Fistula",
+        "subtitle": "American Association for Bronchology and Interventional Pulmonology",
+        "date": "August 24, 2023"
+      },
+      {
+        "title": "When Drainage is Not Enough: Embolization Combined with Tunneled Pleural Catheter",
+        "subtitle": "American Association for Bronchology and Interventional Pulmonology",
+        "date": "August 24, 2023"
+      },
+      {
+        "title": "Fighting Amyotrophic Lateral Sclerosis: In-Silico Molecular Docking Study of SFPQ Protein to Identify a Potential Therapeutic Compound",
+        "subtitle": "EuropePMC",
+        "date": "October 5, 2021"
+      }
+    ],
+    "projects": [
+      {
+        "title": "Vora",
+        "start_date": "Feb 2025",
+        "description": "Our project is a comprehensive meal planning and tracking system that helps users plan their daily nutrition based on their dietary preferences and restrictions. Users can input their specific requirements (such as being vegan, vegetarian, gluten-free, or halal) along with their target daily calorie and protein goals. The system then uses machine learning (specifically, cosine similarity) to recommend personalized meal plans for breakfast, lunch, and dinner that match these preferences. Each recommended meal comes with detailed nutritional information including calories, protein, carbohydrates, and fat content. With the newly added rating system, users can now rate meals on a scale of 1-10, and these ratings are stored in their profile for future reference. The system keeps track of their meal ratings over time, showing their favorite meals (highest rated) and maintaining a chronological history of all their meal ratings. This helps users identify patterns in their food preferences and helps the system make better recommendations over time."
+      },
+      null,
+      null,
+      {
+        "title": "OtoScan: A novel, inexpensive system for comprehensive diagnosis of ear infections with an intelligent mobile otoscope",
+        "start_date": "Aug 2022",
+        "description": "Prototyped OtoScan, a $9.50 ear otitis media screening tool using a custom 3D-printed otoscope and an on-device Convolutional Neural Network ensemble deployed via TensorFlow Lite. Built an Inception, ResNet, and Exception architecture-based ensemble with label smoothing, transferlearning, and optimized training. Integrated Grad-CAM++ into the mobile app for interpretable predictions visible to non-medical users. Tested system on ear simulators to validate robustness for deployment and received positive feedback from topotolaryngologists. Won various competitions and recognition from ABC7, Fairfax County Board of Supervisors & School Board, Fairfax Times, and Patch. Worked with Stanford Medicine Otolaryngology to improve design."
+      }
+    ],
+    "location": null,
+    "input_url": "https://www.linkedin.com/in/omkarkovvali",
+    "linkedin_id": "omkarkovvali",
+    "activity": [
+      {
+        "interaction": null,
+        "link": "https://www.linkedin.com/posts/parik-panchal_very-excited-to-be-part-of-the-inaugural-activity-7485831071108997120-eDSr",
+        "title": "Very excited to be part of the inaugural Andreessen Horowitz FDE fellowship! \ud83c\udf89\ud83c\udf89 FDEs are having a moment, and from AI-native companies to frontier labs, they're powering the core product-feedback loop. They go find the specific problems that push the ceiling on what the models can do, distill what they learn back to research, and the pieces they build extend the product, so every future customer benefits. A lot of the tools we build on came out of this loop. The Agents SDK started as a PoC an FDE team threw together for a customer-service problem where it was intractable to write a prompt per policy. They parameterized the instructions and tools, built the evals, and open-sourced it into the foundation a lot of teams build on now. I care about this because I did a lot of fun FDE work as a founder too. I baked some strong opinions into the product and watched real usage undo half of them, then watched people use what we built in ways we never designed for, which is where a lot of the value ended up! Massive thanks to Anna Owens , Tom Hollands , and Han Nguyen ! Excited for what's to come. ...more ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQHWcVPAXXp4Fw/feedshare-shrink_800/B56Z.MDsJaIMAc-/0/1784761205845?e=2147483647&v=beta&t=0RhAdm0Lk_FVTFEJBS6XXeN0mxQyIleMPvZ7tgSlnU4",
+        "id": "7485831071108997120"
+      },
+      {
+        "interaction": null,
+        "link": "https://www.linkedin.com/posts/y-combinator_arden-yc-p26-is-the-ai-native-platform-activity-7457853961367101441-5NP4",
+        "title": "Arden (YC P26) is the AI-native platform for audit teams. At every public company, auditing still runs on spreadsheets and screenshots. Audit teams have to prove the company's controls are working, document how processes run, scope what to test, track issues, and report findings. They do all this work manually, and it's repeated every quarter. SOX compliance alone costs almost $2M a year at a public company, with most of that going to busywork. It's slow, expensive, and broken. Arden is rebuilding audit from the ground up with AI. Their platform works in your existing stack, with direct integrations and computer-use AI agents to capture screenshots from legacy systems that external auditors require. From there, Arden tests controls, documents processes, and produces audit-ready workpapers with full traceability. Auditors stay in the loop for review and judgement. If you work in audit, SOX, or accounting and want to spend less time on manual work, book a demo at ardentech.ai or reach out to founders@ardentech.ai Congrats on the launch, Aryaman Khanna and David Lomelin ! https://lnkd.in/gZ4smQZU ...more ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D5605AQEX9DM5OiV-BA/videocover-high/B56Z3.elipKcBM-/0/1778090928844?e=2147483647&v=beta&t=dYAt7LujmkOo4m37GtAXMwih2N3KyKeJud9YCZF5peE",
+        "id": "7457853961367101441"
+      },
+      {
+        "interaction": null,
+        "link": "https://www.linkedin.com/posts/aryaman-khanna-210a9121b_arden-yc-p26-is-backed-by-y-combinator-activity-7450643893903208448-OBBq",
+        "title": "Arden (YC P26) is backed by Y Combinator. A few weeks ago, we got kicked out of three audit firms in one afternoon. David Lomelin and I were trying to talk to every internal auditor we could find. I scraped 800 contacts and set up a cold outbound sequence that accidentally sent them all at once. Berkeley banned my inbox by the end of the day. Email wasn\u2019t an option anymore, so we figured we\u2019d just show up in person. We grabbed boxes of Insomnia Cookies and walked into audit firms in SF\u2019s Financial District. Most places turned us away. Two teenagers with cookies in audit firm lobbies, nobody knew whether to laugh or call security. We even tried pretending to be DoorDash drivers. But a few people actually sat down with us. What they described blew our minds, internal audit teams doing months of spreadsheet work that software should've killed years ago. The opportunity was way bigger than we realized. We applied to YC three weeks past the deadline. David and I didn\u2019t think they'd even open it. Five days later, we were in the interview telling them what we'd seen. We might be the only 19 year olds losing sleep over SOX compliance. Every public company spends millions of dollars on it and nobody's fixed it. We\u2019re building Arden, the AI-native platform for modern audit teams. If you're in internal audit or know someone who is, I'd love to connect. ...more ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQH0WlqWT5AySg/feedshare-shrink_800/B56Z2YBI1hHgAg-/0/1776371929222?e=2147483647&v=beta&t=MaYtEbK1TI3wkijcgEMvG-KL1gFWyXjxr8DWCGQxvos",
+        "id": "7450643893903208448"
+      },
+      {
+        "interaction": null,
+        "link": "https://www.linkedin.com/posts/y-combinator_protent-yc-w26-is-turning-every-camera-activity-7434236226578235392-sFa7",
+        "title": "Protent (YC W26) is turning every camera into a real-time crime prevention tool, built for law enforcement. Today, a single operator is responsible for watching thousands of live feeds simultaneously\u2014body cams, drones, and street cameras. The result? Fewer than 1 in 200 incidents are caught in real time. Cameras are currently treated as retroactive tools, but they should be saving lives. Founded by Srihan Balaji and Abhisheik Sharma, Protent automates this by analyzing every feed at once. It instantly detects predictive threat signals and escalating situations, giving dispatchers and officers the immediate context they need to prioritize alerts and intervene before a situation spirals out of control. Protent is already enabling police departments and security teams to permanently shift from reactive response to proactive prevention. Congrats on the launch, Srihan and Abhisheik! https://lnkd.in/gVzDuy_n ...more ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D5605AQGuF3OYLY73OQ/videocover-high/B56ZytRerZK4Bc-/0/1772433570677?e=2147483647&v=beta&t=S18etOOIXW2fHR65qzvKsguIs-TD2ZSPsJyoVVwxh9E",
+        "id": "7434236226578235392"
+      },
+      {
+        "interaction": null,
+        "link": "https://www.linkedin.com/posts/liampmonaghan_i-had-an-awesome-time-at-the-dc-ai-hackathon-activity-7425218929859624960-B9Xo",
+        "title": "I had an awesome time at the D.C. AI Hackathon this past weekend. Thanks to Lucy Chen , Abu Jalloh , and team for putting on a great event. Shoutout to my teammates Omkar K. , Akshith Ambekar , and Sudip Manchare for being a lot of fun to build with. We worked on an interesting new way to visually review PRs using Daytona sandboxes, OpenCode , and react-grab from Ami . Excited for more hackathons in the future! ...more ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQFWQXsCwh1glA/feedshare-shrink_800/B56ZwutREaJQAg-/0/1770310144962?e=2147483647&v=beta&t=lBMFJ4p1zTt90vYnQdJuCTJklitl4TuDNzNraTq4XNY",
+        "id": "7425218929859624960"
+      },
+      {
+        "interaction": "Omkar K. liked this",
+        "link": "https://www.linkedin.com/posts/sthavir-vinjamuri-505709343_im-excited-to-share-that-ill-be-joining-activity-7493066579455393792-Eb5b",
+        "title": "I\u2019m excited to share that I\u2019ll be joining Aether for the remainder of my summer as an intern on the Platform + ML team in Menlo Park! I would like to thank Pavle and Rob for giving me the opportunity to learn from a remarkable team of scientists.",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQFtfdMOBhCwQg/feedshare-shrink_800/B4EZ_y4WRaH8Ac-/0/1786486285649?e=2147483647&v=beta&t=QwzfUTeQmvZE3QtTlMB3zuvdQ45BUGZsYFyfyPRypeU",
+        "id": "7493066579455393792"
+      },
+      {
+        "interaction": "Omkar K. liked this",
+        "link": "https://www.linkedin.com/posts/kanjonavo-sabud-4b5647270_these-past-10-weeks-at-capital-one-have-been-activity-7491581859269595136-1t0h",
+        "title": "These past 10 weeks at Capital One have been an exceptional experience. Over the summer, I had the opportunity to work on integrating Cube.js - streamlining data accessibility, unifying key metrics, and empowering teams to query data for efficiently with LLMs. It was a fantastic technical challenge that gave me hands-on experience with modern data architecture and building tools at scale. None of it would have been the same without the people. A huge thank you to my manager, Eric F. for his guidance and mentorship throughout the summer. A special shoutout to my \u201ccube-icle\u201d teammates, Ishika Aggarwal and Henry Yu , for making every day in the office so collaborative and fun, as well as the extended team - Mani Eswaran , Amos Komo , and Michael Monschke - for always jumping in with support and expertise. And of course, thank you to my recruiter Jennifer Skinner for making this happen. Excited to carry everything I\u2019ve learned into my next chapter!",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQEk0O-0VLrkSQ/feedshare-shrink_800/B56Z_dyAEGJ0Ac-/0/1786132300609?e=2147483647&v=beta&t=xOtFYgJ2baIOQ97cZuwjNr2GWX0WbytQsuLb6JmNMyk",
+        "id": "10"
+      },
+      {
+        "interaction": "Omkar K. liked this",
+        "link": "https://www.linkedin.com/posts/laura-y-zhang_thank-you-wsj-for-including-me-in-this-article-activity-7489018533063081985-e1S7",
+        "title": "Thank you WSJ for including me in this article!",
+        "img": "https://media.licdn.com/dms/image/v2/D5610AQER8xOWBrhWZg/image-shrink_1280/B56Z.1D9YZGsAc-/0/1785449142112?e=2147483647&v=beta&t=zTIa8kWJnyYUsEAp7DoGo6LlRn5vvJgPRXHH7O665Ig",
+        "id": "7489018533063081985"
+      },
+      {
+        "interaction": "Omkar K. liked this",
+        "link": "https://www.linkedin.com/posts/aryaman-khanna-210a9121b_the-biggest-question-in-audit-ai-right-now-activity-7487955094823448577-OToO",
+        "title": "The biggest question in audit AI right now is the wrong one. \"Will this cut hours on our control testing?\" And while the answer is yes, it's a question shaped by the first generation of AI tools. This was chat and basic workflow automation, where you paste in a control description, upload data, and the AI tells you what happened. The better question is how much of your company you actually see, and whether you see it in time to fix what's broken. That's the new generation of AI-enabled assurance, where agents sit across hundreds of enterprise applications year round, build persistent memory of how a company's control environment operates, and continuously test the whole population instead of a 1% sample. Issues surface and get remediated in the month they happen, before they compound into a material weakness, a disclosure, and an external audit fee that goes up the next year. That's the real cost of an audit. Hours are the small part. Every audit leader we work with describes some version of this when you ask what their team would do if they weren't buried in manual work all year. Audit becomes the control plane of the enterprise, and we're building Arden (YC P26) to be the infrastructure that powers it.",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQFzBVkzifIRZA/feedshare-shrink_800/B4EZ.qPeylGoAc-/0/1785267613412?e=2147483647&v=beta&t=H41tQC0aUVWXG_bR4toucbWcHmeK4QpfpQHhbbB4e1w",
+        "id": "7487955094823448577"
+      },
+      {
+        "interaction": "Omkar K. liked this",
+        "link": "https://www.linkedin.com/posts/liampmonaghan_im-super-excited-to-share-that-ive-joined-activity-7483263784732487680-Edob",
+        "title": "I\u2019m super excited to share that I\u2019ve joined Warp as a Product Engineer! Warp is the only AI-native payroll platform for ambitious companies, backed by a $60M Series B, with a mission to redefine how businesses pay, hire, and manage their people. I\u2019ll be stepping away from my studies at Purdue University to pursue this role full time in New York City. Huge thank you to Adam Rankin and Ayush Sharma for a great interview process and to the team for being so welcoming (shoutout to Joshua Newman for being a great onboarding buddy)! Excited to build \ud83d\ude00",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQHEhE540ioUKA/feedshare-shrink_800/B56Z9nkwgAKgAc-/0/1784149117926?e=2147483647&v=beta&t=Y-LUGjw1c4uovFcfRr10ryBTgf1mTo_NKkM4C3g7ZCk",
+        "id": "7483263784732487680"
+      }
+    ],
+    "linkedin_num_id": "718533769",
+    "banner_image": "https://media.licdn.com/dms/image/v2/D4E16AQEQ2meRnMspSQ/profile-displaybackgroundimage-shrink_200_800/B4EZhMIACOHgAU-/0/1753623822971?e=2147483647&v=beta&t=d2jsfsPjNwkHSzrTse_Af6ZJE91Tht4eTjPfvBPSqvo",
+    "honors_and_awards": [
+      {
+        "title": "ISEF Finalist",
+        "publication": "Society for Science & Regeneron ISEF",
+        "date": "2023-03-01T00:00:00.000Z",
+        "description": "One of 1800 Finalists selected to attend the International Science and Engineering Fair out of 7 million global science fair participants."
+      },
+      {
+        "title": "Congressional App Challenge Winner (VA-10)",
+        "publication": "Congressman Gerry Connolly",
+        "date": "2022-11-01T00:00:00.000Z",
+        "description": null
+      }
+    ],
+    "similar_profiles": [],
+    "default_avatar": false,
+    "memorialized_account": false,
+    "bio_links": [],
+    "first_name": "Omkar",
+    "last_name": "K.",
+    "influencer": false,
+    "timestamp": "2026-08-12T19:12:37.287Z",
+    "input": {
+      "url": "https://www.linkedin.com/in/omkarkovvali"
+    }
+  },
+  "local_photo": "data\\linkedin_photos\\omkarkovvali__usr-uGpAX5ALgpWwqf0.jpg"
+}

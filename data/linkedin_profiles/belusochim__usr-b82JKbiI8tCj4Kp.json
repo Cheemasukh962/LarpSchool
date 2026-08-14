@@ -1,0 +1,424 @@
+{
+  "luma_user_id": "usr-b82JKbiI8tCj4Kp",
+  "csv_name": "Belusochim Ogwumike Ugochukwu",
+  "csv_linkedin": "https://www.linkedin.com/in/belusochim",
+  "enriched_at": "2026-08-12T18:59:59.554717+00:00",
+  "batch_id": "sd_msqgcuh41lygyhc91a",
+  "profile": {
+    "id": "belusochim",
+    "name": "Belusochim Ugochukwu",
+    "city": "Santa Clara, California, United States",
+    "country_code": "US",
+    "position": null,
+    "about": "Hi!\ud83d\udc4b I'm an MLE Intern @ Apple working on Computer Vision + Robotics Research\u2026",
+    "current_company": {
+      "link": "https://www.linkedin.com/company/apple?trk=public_profile_topcard-current-company",
+      "name": "Apple",
+      "company_id": "apple",
+      "location": null
+    },
+    "experience": null,
+    "url": "https://ch.linkedin.com/in/Belusochim",
+    "educations_details": "Y Combinator",
+    "education": [
+      {
+        "start_year": "2025-08",
+        "end_year": "2028-05",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      },
+      {
+        "start_year": "2024-08",
+        "end_year": "2025-06",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      },
+      {
+        "start_year": "2025-06",
+        "end_year": "2025-08",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      },
+      {
+        "start_year": "2019-09",
+        "end_year": "2024-04",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      }
+    ],
+    "avatar": "https://media.licdn.com/dms/image/v2/D4D03AQHQ-99MVJRkqQ/profile-displayphoto-scale_200_200/B4DZpcvuh.GwAY-/0/1762492607122?e=2147483647&v=beta&t=-4ZclFl8qMBNsp7GTGuz1WkvjVeFiukBuvGvq5Gvy5g",
+    "courses": [
+      {
+        "subtitle": "-",
+        "title": "AP Calculus AB"
+      },
+      {
+        "subtitle": "-",
+        "title": "AP Calculus BC (Self Study)"
+      },
+      {
+        "subtitle": "-",
+        "title": "AP Computer Science A"
+      },
+      {
+        "subtitle": "-",
+        "title": "AP US government"
+      },
+      {
+        "subtitle": "-",
+        "title": "AP US history"
+      },
+      {
+        "subtitle": "CS350",
+        "title": "Computer Organizations and Assembly Language"
+      },
+      {
+        "subtitle": "-",
+        "title": "Data Processing"
+      },
+      {
+        "subtitle": "CS331",
+        "title": "Data Structures and Algorithms"
+      },
+      {
+        "subtitle": "Math152",
+        "title": "Differential Equations"
+      },
+      {
+        "subtitle": "CS330",
+        "title": "Discrete Structures"
+      },
+      {
+        "subtitle": "-",
+        "title": "Entrepreneurial Studies"
+      },
+      {
+        "subtitle": "BUS 495",
+        "title": "Global Career Accelerator"
+      },
+      {
+        "subtitle": "Math332",
+        "title": "Linear Algebra"
+      },
+      {
+        "subtitle": "Math151",
+        "title": "Multivariable Calculus"
+      },
+      {
+        "subtitle": "-",
+        "title": "Object Oriented Programming in Java"
+      },
+      {
+        "subtitle": "-",
+        "title": "Robotics"
+      },
+      {
+        "subtitle": "IPRO 497",
+        "title": "Special Projects(Machine Learning Research)"
+      }
+    ],
+    "languages": [
+      {
+        "subtitle": "Full professional proficiency",
+        "title": "English"
+      },
+      {
+        "subtitle": "Native or bilingual proficiency",
+        "title": "Igbo"
+      },
+      {
+        "subtitle": "Limited working proficiency",
+        "title": "French"
+      },
+      {
+        "subtitle": "Elementary proficiency",
+        "title": "Yoruba"
+      }
+    ],
+    "volunteer_experience": [
+      {
+        "cause": "Science and Technology",
+        "duration": "Aug 2025 \u00b7 - Present \u00b7 \n\n1 year 1 month",
+        "duration_short": "- Present",
+        "start_date": "Aug 2025",
+        "subtitle": "First Love Church",
+        "title": "Tech and Innovation"
+      },
+      {
+        "cause": "Social Services",
+        "info": "Assisting with church setup for upcoming services.",
+        "subtitle": "Echo.Church",
+        "title": "Student Volunteer"
+      },
+      {
+        "cause": "Children",
+        "duration": "Apr 2021 \u00b7 - \nJun 2024 \u00b7 \n3 years 3 months",
+        "duration_short": "- \nJun 2024",
+        "info": "Once a month, I spend time with around 50 children at the orphanage, sharing encouragement and playing games to bring joy and hope to their lives.",
+        "start_date": "Apr 2021",
+        "subtitle": "Save Our Souls",
+        "title": "Volunteer"
+      },
+      {
+        "cause": "Education",
+        "duration": "Sep 2021 \u00b7 - \nAug 2024 \u00b7 \n3 years",
+        "duration_short": "- \nAug 2024",
+        "info": "I conducted tutoring sessions for STEM subjects, accommodating over 10 students each week.",
+        "start_date": "Sep 2021",
+        "subtitle": "Deeper Life High School",
+        "title": "Chemistry, Physics, and Further Mathematics Tutor"
+      }
+    ],
+    "followers": 2071,
+    "connections": 500,
+    "current_company_company_id": "apple",
+    "current_company_name": "Apple",
+    "projects": [
+      {
+        "title": "Eloquent AI",
+        "start_date": "Aug 2025",
+        "description": "With this AI platform, users can upload videos or audio or choose to analyze their speech in real-time and receive instant feedback on their communication and speaking skills. It helps you improve your posture, reduce filler words, and become a more confident speaker."
+      },
+      {
+        "title": "CareCompass",
+        "start_date": "Mar 2026",
+        "description": "An AI-powered agent that helps Chicago residents find hospitals and doctors that match their insurance, budget, and location, simplifying access to quality healthcare without the need to call clinics."
+      },
+      null,
+      null,
+      {
+        "title": "Hawkeye",
+        "start_date": "Feb 2026",
+        "description": "Y Combinator Better Hacks Project: Built an AI-powered platform that enables students to track and stay updated on immigration policies and news affecting their status."
+      },
+      null,
+      null,
+      null,
+      {
+        "title": "Synaptiq",
+        "start_date": "Feb 2026",
+        "description": "AI Agent for African Third-Party Logistics"
+      },
+      null,
+      null,
+      {
+        "title": "Sheet-to-Solfa",
+        "start_date": "Dec 2025",
+        "description": "Built a web app that converts music sheet notes into tonic solfa, helping my musician brother learn and practice more efficiently."
+      },
+      {
+        "title": "StrongStart2025",
+        "start_date": "Sep 2025",
+        "description": "Developed an AI-driven extension that suggests better and more affordable alternatives on Amazon."
+      },
+      {
+        "title": "Merger and Acquisition Copilot (BigQueryAI Hackathon)",
+        "start_date": "Sep 2025",
+        "description": "This project tackles the slow, costly, and high-risk manual review of unstructured legal documents during M&A due diligence. I introduce a warehouse-native paradigm, building an AI engine entirely within Google BigQuery to bring the AI securely to the data. Using a single SQL query, the solution leverages Object Tables to access raw PDFs, Gemini 2.5 Pro for multimodal analysis, and Vector Search for conceptual understanding. This transforms a chaotic data swamp into a structured, queryable risk report in seconds, delivering a powerful solution that combines the AI Architect, Semantic Detective, and Multimodal Pioneer tracks."
+      },
+      {
+        "title": "Multimodal Drug Class Predictor",
+        "start_date": "Jul 2025",
+        "description": "Worked on an open source project to predict the Therapeutic class of a drug based on its Chemical Class and drug description using BERT architecture, achieving 99% accuracy."
+      },
+      {
+        "title": "AlphaQuant",
+        "start_date": "Jun 2025",
+        "description": "Alpha Quant is an AI-powered financial analysis platform that lets users track real-time stock performance, receive the latest news and sentiment, and gain intelligent insights, as well as analyze different stock performances. With LSTM-based price predictions boasting 85%+ directional accuracy and smart sentiment analysis from a fine-tuned FinBERT model, Alpha Quant brings cutting-edge AI to personal investing. To further streamline the user experience, I implemented a RAG pipeline that allows users to upload their stock portfolios, after which their stock data is extracted and used to update their dashboards."
+      },
+      {
+        "title": "Research Paper Implementation",
+        "start_date": "May 2025",
+        "description": "I implemented the HypKG research paper, which introduced the concept of contextualizing knowledge graphs (KGs) with patient-specific information from electronic health records (EHRs). By utilizing LLM-based entity-linking techniques (PromptLink) to connect biomedical knowledge with individual patient data, and employing hypergraph models to encode these contexts, I demonstrated how contextualizing knowledge graphs can significantly improve precision healthcare by considering unique patient conditions and features. This leads to better predictions and treatments. I published my thoughts and findings on the Medical Care Blog."
+      },
+      {
+        "title": "GAN-Enhanced Skin Disease Diagnosis",
+        "start_date": "Mar 2025",
+        "description": "With the assistance of Generative Adversarial Networks, I generated approximately 3,000 synthetic images of dark skin to mitigate skin tone bias in the HAM1000 dataset, resulting in a 10% increase in the F1 score. Furthermore, I leveraged the Google Maps API to help users find the nearest clinic based on their location, thereby enhancing accessibility."
+      }
+    ],
+    "location": "Santa Clara",
+    "input_url": "https://www.linkedin.com/in/belusochim",
+    "linkedin_id": "belusochim",
+    "activity": [
+      {
+        "interaction": "Liked by Belusochim Ugochukwu",
+        "link": "https://www.linkedin.com/posts/milind-kumar-7228191b7_careerjourney-connectthedots-productmanagement-activity-7493305104545030144-f9Gk",
+        "title": "Three years ago I did my first internship at a research lab in a children's hospital. It wasn't really aligned with the engineering and PM work I\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQFOOFujT4UJyg/feedshare-shrink_800/B56Z_2RSIeH0Ac-/0/1786543153925?e=2147483647&v=beta&t=Mvq_pak0aeQEBOouzFcP3tRtoCc1aBxuLSH02kUSNVI",
+        "id": "7493305104545030144"
+      },
+      {
+        "interaction": "Liked by Belusochim Ugochukwu",
+        "link": "https://www.linkedin.com/posts/sundarpichai_im-really-excited-about-the-new-pixel-11-activity-7493324802313617408-I6qP",
+        "title": "I\u2019m really excited about the new Pixel 11 devices we\u2019re introducing at Made by Google today. They're designed for Gemini Intelligence, with lots of\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQEvQbMICgLeyg/feedshare-shrink_800/B56Z_2jMr3IEAk-/0/1786547850435?e=2147483647&v=beta&t=abymvdokKG3I-N1wS4K4yPainieSAwhAaI9LHW2O4HM",
+        "id": "11"
+      },
+      {
+        "interaction": "Liked by Belusochim Ugochukwu",
+        "link": "https://www.linkedin.com/posts/mmisterka_talk-about-some-core-memories-pun-intended-activity-7492969330628997120-L1VT",
+        "title": "Talk about some core memories! (pun intended \ud83c\udf4e) This summer, I had the honor of joining Apple\u2019s Intellectual Property Law, Licensing & Litigation\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQHZgziTV9hr7Q/feedshare-shrink_1280/B56Z_c5ZXUKEAM-/0/1786117461977?e=2147483647&v=beta&t=iDUYARQLNKLRdFV7YhA6AoB2vScH2r4ZGnme5bI4H2s",
+        "id": "7492969330628997120"
+      },
+      {
+        "interaction": "Liked by Belusochim Ugochukwu",
+        "link": "https://www.linkedin.com/posts/shalynbarrios_hey-today-we-just-launched-our-new-website-activity-7492665513387593728-o_3z",
+        "title": "Hey - today we just launched our new website. Looks a little different than you might remember. We've reflected so much on who we are as a company.\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQFEMb26InHT9w/feedshare-shrink_800/B56Z_tLlBsHIAg-/0/1786390664248?e=2147483647&v=beta&t=-Yg06xsuFS5M5ycItdiW0leMaQMcoHvexLdo-sS2XAo",
+        "id": "7492665513387593728"
+      },
+      {
+        "interaction": "Liked by Belusochim Ugochukwu",
+        "link": "https://www.linkedin.com/posts/ashleesong_6-years-around-the-orchard-at-apple-activity-7492586584903618562-rkD_",
+        "title": "6\ufe0f\u20e3 years around the orchard at Apple \u2728 \u21b4 Six years ago, I started at Apple \u2026 during a global pandemic. (Talk about a memorable way to begin a new\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQFK1nJa-CIwPQ/feedshare-image-high-res/B56Z_sDvbhKYAc-/0/1786371832081?e=2147483647&v=beta&t=a-dYwI50C_8IY9JEoZnUeJYlmsfbJ8TzkrvwiuR27B8",
+        "id": "7492586584903618562"
+      },
+      {
+        "interaction": "Liked by Belusochim Ugochukwu",
+        "link": "https://www.linkedin.com/posts/wilhem-hector_for-most-of-my-life-ive-been-obsessed-with-activity-7492390226682621952-CpPF",
+        "title": "For most of my life, I\u2019ve been obsessed with how to build critical infrastructure that changes the world. That compass led me to spend years modeling\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQEcrzHGhanrhw/feedshare-shrink_800/B56Z_pRMQhHcAc-/0/1786325030158?e=2147483647&v=beta&t=dfhhmTBm-OVICMohkeE075sC_xVNSA7lcgbQJwPguDI",
+        "id": "7492390226682621952"
+      },
+      {
+        "interaction": "Liked by Belusochim Ugochukwu",
+        "link": "https://www.linkedin.com/posts/jes-john-tetedje-28b497345_careerspring-networking-professionaldevelopment-activity-7486262728559325185-uZtw",
+        "title": "I recently had the opportunity to attend the CareerSpring Network Breakfast and connect with professionals and fellow students across different\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQHqgC9TCUmotg/feedshare-shrink_800/B56Z.SMPctKMAg-/0/1784864113607?e=2147483647&v=beta&t=MQdqQINlnXKw0um31pT-RO1d8CUAxJ9IERGeZkrOIa0",
+        "id": "7486262728559325185"
+      },
+      {
+        "interaction": "Liked by Belusochim Ugochukwu",
+        "link": "https://www.linkedin.com/posts/sebastien-picard-692b973aa_icm2026-mathematics-terencetao-activity-7487671654031048704-pwiQ",
+        "title": "Spoke with Terence Tao at ICM2026 about the math blog I'm starting. His advice, in short: - Work on problems you actually enjoy - Choose ones that\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQGq0BRZG-GZjw/feedshare-image-high-res/B56Z.mNsOEK4AU-/0/1785200035161?e=2147483647&v=beta&t=6dz_712AePAq006drqp8jCvwr2V8dMbUDyKyP3K8-dk",
+        "id": "7487671654031048704"
+      },
+      {
+        "interaction": "Liked by Belusochim Ugochukwu",
+        "link": "https://www.linkedin.com/posts/colby-threlkeld_apple-softwareengineering-internship-activity-7492002539840839680-d3bp",
+        "title": "Yesterday I completed my 12-week software engineering internship with Apple \uf8ff Going into this I knew I would grow as an engineer, but fast forward\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQEFwEPZ-_WJew/feedshare-image-high-res/B56Z_jwmNwJkAU-/0/1786232598413?e=2147483647&v=beta&t=yjgdCN8ytl2ttj7qc1BzR10NEZjeC-7kPXI7wutuGx8",
+        "id": "7492002539840839680"
+      },
+      {
+        "interaction": "Liked by Belusochim Ugochukwu",
+        "link": "https://www.linkedin.com/posts/saiguvvala_excited-to-be-joining-openai-this-fall-as-activity-7492026136428843008-ESxk",
+        "title": "Excited to be joining OpenAI this fall as a Member of Technical Staff Intern. Looking forward to what\u2019s ahead :)",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQE07xX90cRAYg/feedshare-shrink_1280/B4EZ_kGEZoIkAQ-/0/1786238225406?e=2147483647&v=beta&t=Fyf9dVCl7EcCwarPq4DRPag28j0xbaXYG-JTwQp1c0g",
+        "id": "7492026136428843008"
+      },
+      {
+        "interaction": "Liked by Belusochim Ugochukwu",
+        "link": "https://www.linkedin.com/posts/mark-mcgee-jr-778309192_excited-to-share-i-started-my-first-career-activity-7490149470043807744-pVyw",
+        "title": "Excited to share I started my first Career Experience this summer at Apple! For the past month, I\u2019ve been supporting Retail Interactive with Demo\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQEOvgASo94j9w/feedshare-image-high-res/B56Z_JbPRYG0AU-/0/1785790792295?e=2147483647&v=beta&t=1Fm_NfciEKGe_e3HnO1gHt7lHvpKwMl5atGATuTlkLU",
+        "id": "7490149470043807744"
+      },
+      {
+        "interaction": "Liked by Belusochim Ugochukwu",
+        "link": "https://www.linkedin.com/posts/mkrystal_its-now-been-two-months-but-it-still-feels-activity-7488642302635089920-mmZN",
+        "title": "It\u2019s now been two months, but it still feels crazy to say that I\u2019ve graduated from the Massachusetts Institute of Technology with a B.S. in Computer\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQE2q037icmRow/feedshare-image-high-res/B56Z.0AfSzGQAU-/0/1785431455624?e=2147483647&v=beta&t=Rmt2vdRHvNViNVaFMircLi6qMklcvzeitxH9W1G18xo",
+        "id": "7488642302635089920"
+      },
+      {
+        "interaction": "Liked by Belusochim Ugochukwu",
+        "link": "https://www.linkedin.com/posts/xingyu-jiang-romy_product-tech-internships-activity-7476911751326781440-LIFQ",
+        "title": "Just did 4 back-to-back coffee chats this morning with people from big tech and high-growth startups. One person is living in NYC and wants to move\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQEVR4yu8qxc4w/feedshare-image-high-res/B56Z8NTnN_G4AU-/0/1782634674615?e=2147483647&v=beta&t=_mYlFGBzVqwsdJen89hIHk6nlFxXpj5_xI1LKcxq0Lg",
+        "id": "7476911751326781440"
+      },
+      {
+        "interaction": "Liked by Belusochim Ugochukwu",
+        "link": "https://www.linkedin.com/posts/simmi-sen_oi-brasil-the-crebit-team-will-be-activity-7491932089853079570-wBWc",
+        "title": "Oi, Brasil! \ud83c\udde7\ud83c\uddf7 The Crebit team will be spending the next two weeks between Rio de Janeiro for Blockchain.RIO and S\u00e3o Paulo, meeting with our\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQGjzTrmklz4EQ/feedshare-shrink_800/B56Z_iwiU1JcAc-/0/1786215802429?e=2147483647&v=beta&t=LvUI_PvT_yY4ic3XwYAV2W67BMfcJvtHAVX0ZJ_GUEo",
+        "id": "7491932089853079570"
+      },
+      {
+        "interaction": "Liked by Belusochim Ugochukwu",
+        "link": "https://www.linkedin.com/posts/jjonghu_today-is-my-last-day-at-apple-i-spent-12-activity-7491644354009227264-9mcD",
+        "title": "Today is my last day at Apple. I spent 12 unforgettable weeks in the Bay Area, working on an exciting agentic search project, enjoying Apple\u2019s\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQGkFFtFnbiGIQ/feedshare-image-high-res/B56Z_atE6vGgAc-/0/1786080680740?e=2147483647&v=beta&t=ZFs3xSo7owGstDK2C4PhL1Kr0b3Nl1xmokxNIMvjuvA",
+        "id": "12"
+      }
+    ],
+    "linkedin_num_id": "1419286192",
+    "banner_image": "https://media.licdn.com/dms/image/v2/D5616AQFsXurNXs-jZQ/profile-displaybackgroundimage-shrink_200_800/B56Z0ReRQuHwAU-/0/1774114641681?e=2147483647&v=beta&t=_E3LxyCpm-8rGTjEcjqZNMdqFuP8M-0asV0o6BCbl7M",
+    "honors_and_awards": [
+      {
+        "title": "AP Scholar with Honor",
+        "publication": "College Board",
+        "date": "2025-07-01T00:00:00.000Z",
+        "description": null
+      },
+      {
+        "title": "Salutatorian",
+        "publication": "Prospect High School, Saratoga",
+        "date": "2025-06-01T00:00:00.000Z",
+        "description": null
+      },
+      {
+        "title": "SCCABE Scholarship recipient",
+        "publication": "Santa Clara County Alliance of Black Educators",
+        "date": "2025-05-01T00:00:00.000Z",
+        "description": null
+      },
+      {
+        "title": "Rubik\u2019s Cube Competition \u2013 2nd Place",
+        "publication": "Deeper Life High School",
+        "date": "2024-02-01T00:00:00.000Z",
+        "description": null
+      },
+      {
+        "title": "Pi(\u03c0) recitation 3rd place(117 digits)",
+        "publication": "Deeper Life High School",
+        "date": "2022-03-01T00:00:00.000Z",
+        "description": "Demonstrated exceptional memory and focus by reciting 117 consecutive digits of Pi, securing 3rd place out of 100 students in a competitive, campus-wide contest."
+      },
+      {
+        "title": "5x Daniel and Daniella Award Winner",
+        "publication": "Deeper Life High School, Lagos Campus",
+        "date": null,
+        "description": "An award presented to students at the end of the semester for outstanding academic performance, recognizing those who achieve a cumulative percentage of 94% or higher."
+      },
+      {
+        "title": "National Math Olympiad Qualifier",
+        "publication": "Nigeria",
+        "date": null,
+        "description": null
+      },
+      {
+        "title": "The Melissa Stoneberger Foundation Scholarship Recipient",
+        "publication": "The Melissa Stoneberger Foundation",
+        "date": null,
+        "description": null
+      }
+    ],
+    "similar_profiles": [],
+    "default_avatar": false,
+    "memorialized_account": false,
+    "bio_links": [
+      {
+        "title": "Company Website",
+        "link": "https://pathwise-ai-1.vercel.app/"
+      }
+    ],
+    "first_name": "Belusochim",
+    "last_name": "Ugochukwu",
+    "influencer": false,
+    "timestamp": "2026-08-12T18:58:36.119Z",
+    "input": {
+      "url": "https://www.linkedin.com/in/belusochim"
+    }
+  },
+  "local_photo": "data\\linkedin_photos\\belusochim__usr-b82JKbiI8tCj4Kp.jpg"
+}

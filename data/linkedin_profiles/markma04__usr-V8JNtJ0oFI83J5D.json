@@ -1,0 +1,144 @@
+{
+  "luma_user_id": "usr-V8JNtJ0oFI83J5D",
+  "csv_name": "Mark M",
+  "csv_linkedin": "https://www.linkedin.com/in/markma04",
+  "enriched_at": "2026-08-12T19:12:29.393556+00:00",
+  "batch_id": "sd_msqgtpzbeylkhkm9p",
+  "profile": {
+    "id": "markma04",
+    "name": "Mark Ma",
+    "city": "California, United States",
+    "country_code": "US",
+    "position": null,
+    "about": "Hello! I'm interested in GPU computing, machine learning, and systems programming.",
+    "current_company": {
+      "link": "https://www.linkedin.com/company/apple?trk=public_profile_topcard-current-company",
+      "name": "Apple",
+      "company_id": "apple",
+      "location": null
+    },
+    "experience": null,
+    "url": "https://fi.linkedin.com/in/markma04",
+    "educations_details": "University of Waterloo",
+    "education": [
+      {
+        "title": "University of Waterloo",
+        "url": "https://ca.linkedin.com/school/uwaterloo/",
+        "start_year": "2022-09",
+        "end_year": "2027-05",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      },
+      {
+        "start_year": "2018-09",
+        "end_year": "2022-06",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      }
+    ],
+    "avatar": "https://media.licdn.com/dms/image/v2/D5603AQFx2EUaN6FncQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1704230535432?e=2147483647&v=beta&t=Fu6z_ZvA3CCwc9CEo4zws8HC0coPZJYgUE9B6LVUWMQ",
+    "followers": 993,
+    "connections": 500,
+    "current_company_company_id": "apple",
+    "current_company_name": "Apple",
+    "location": "California",
+    "input_url": "https://www.linkedin.com/in/markma04",
+    "linkedin_id": "markma04",
+    "activity": [
+      {
+        "interaction": "Mark Ma shared this",
+        "link": "https://www.linkedin.com/posts/markma04_im-happy-to-share-that-im-joining-apple-activity-7456146698583715840-HcGT",
+        "title": "I'm happy to share that I'm joining Apple as a GPU software intern this summer! Thank you to everyone who supported me throughout this process. Looking forward to learning and contributing to the Metal ecosystem! ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQHxSFKWvbnzsQ/feedshare-shrink_800/B56Z3mN6VgKwAc-/0/1777683900038?e=2147483647&v=beta&t=SrDZbX5pBGMI8mPwFuruhbtOGY9SfJenZ5BuwLxjdY4",
+        "id": "7456146698583715840"
+      },
+      {
+        "interaction": "Mark Ma replied to a comment 3mo",
+        "link": "https://www.linkedin.com/posts/markma04_activity-7456158790388932609-DWkw",
+        "title": "Maggie Guo ty boss",
+        "img": null,
+        "id": "7456158790388932609"
+      },
+      {
+        "interaction": "Mark Ma liked this",
+        "link": "https://www.linkedin.com/posts/emmanuel-alo-b96010171_cuda-cutlass-cute-activity-7493339476451188736-Stgx",
+        "title": "A small CUTLASS lesson: sometimes the cleanest optimization is algebraic, not architectural. While digging deeper into FlashAttention-3 on Hopper, I came across an interesting way to think about the QK\u1d40 computation. The initial idea was to apply the same column permutation P to both Q and K: (QP)(KP)\u1d40 = QPP\u1d40K\u1d40 = QK\u1d40 Because P is orthogonal, the permutation cancels exactly. No approximation, no change to the mathematical result. The motivation was purely from the memory side. On Hopper, I was thinking about whether a shared permutation could make Q and K tiles easier to place in a compatible TMA swizzle layout, potentially simplifying parts of the producer pipeline and reducing layout management. But there is a much cleaner way to look at the same problem. In inference kernels, this is often handled through swap AB. Instead of physically transforming the data, you can change how the GEMM operands are interpreted. The transpose is handled algebraically rather than by moving or permuting memory. Working more seriously with CUTLASS, this became much more concrete. A matrix stored in row-major layout can represent the same physical data as its transpose in column-major layout. Nothing needs to be moved. You can effectively change the interpretation through the layout or stride descriptor. CUTLASS makes this visible through LayoutA and LayoutB, while CuTe takes the idea even further by treating layouts as first-class objects. So what initially looked like a complicated memory-layout optimization can often be reframed as a descriptor-level transformation. That distinction is important when writing high-performance GPU kernels: Don't move data if you can change the way the computation interprets it. There is still an interesting Hopper-specific question here. WGMMA imposes fairly strict requirements on the physical layout of its A and B operands. So while the algebraic swap itself is free, the resulting shared-memory layout, swizzling, and operand arrangement may not always be free. That makes the boundary between: algebraic transformation \u2192 layout transformation \u2192 physical data movement a particularly interesting place to reason about when optimizing Hopper kernels. The more I work with CUTLASS and CuTe, the more I appreciate that high-performance GPU programming is often less about inventing new mathematics and more about finding the representation where the existing mathematics maps cleanly onto the hardware. #CUDA #CUTLASS #CuTe #GPUProgramming #FlashAttention #FlashAttention3 #HopperGPU #WGMMA #TMA #LLMInference #InferenceOptimization #DeepLearning #PerformanceEngineering",
+        "img": "https://media.licdn.com/dms/image/v2/D4D22AQFz7EcM1ne6Mw/feedshare-shrink_800/B4DZ_2wiYjHgAc-/0/1786551347048?e=2147483647&v=beta&t=x-RXOiQvCoelQdVjQPHrnRtTM6LVTY1G5fTXJ9fAL3Y",
+        "id": "7493339476451188736"
+      },
+      {
+        "interaction": "Mark Ma liked this",
+        "link": "https://www.linkedin.com/posts/gurayozen_github-nvidiacutlass-cuda-templates-and-activity-7492561959117148160-fupe",
+        "title": "CuTeDSL 4.7 is out. The DSL is now general purpose, as of 4.7, it's a language you can write any kind of program in. The short version: \u2192 CUTLASS Primitives \u2014 close-to-metal abstractions \u2192 A Task Scheduling framework \u2014 provides static analysis of execution schedules for warp-specialized kernels. Large release, lots of people behind it. https://lnkd.in/ethdmqxj",
+        "img": "https://media.licdn.com/dms/image/sync/v2/D4E27AQE3sq5Af7nOkQ/articleshare-shrink_1280_800/B4EZ_rsMBqHsAg-/0/1786365657556?e=2147483647&v=beta&t=5NL0A6H1u9irGyBYYLCd-4xzy91cc1tS3SRL0Yp18X8",
+        "id": "7492561959117148160"
+      },
+      {
+        "interaction": "Mark Ma liked this",
+        "link": "https://www.linkedin.com/posts/joe-fioti-24a986189_our-compiler-is-finding-insanely-fast-megakernels-activity-7490783002722000896-y06U",
+        "title": "Our compiler is finding insanely fast megakernels. Luminal searches through a massive space of possible megakernels and finds ones that push overlapping and bandwidth / flop utilization as far as possible. These results are without extra quantization or speculative decoding. Megakernels overcome some big limitations with traditional kernel graphs by giving us much more flexible schedules not bound by a normal kernel grid. We can immediately kick off work the moment it's inputs are ready, or even partially load inputs before other inputs are ready. This flexibility demands very large-scale search to max out the GPU resources. Luminal is a search-based compiler. That means we build a search space, and iterate through tons of generated implementations to find the fastest ones. Every scheduling decision, instruction, main loop, all get searched and chosen amongst millions of possibilities. We wanted to see if we could add megakernels to the search space. Luminal was designed from the start to use extremely flexible representations to target heterogeneous hardware, so we've been able to add megakernel generation alongside traditional kernel generation, in the same search space. This overcomes one of the key traditional limitations with megakernels: they can't re-use the ecosystem of high-performance kernels already written. By constructing a unified search space, we're able to search across both traditional kernels and megakernel ops to discover the optimal mixes. There's a ton of stuff we had to invent to bring megakernels from the lab to production, so I'm giving a talk with GPU MODE in a few weeks!",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQFLONAYPCdnzA/feedshare-shrink_1280/B56Z_SbcuOGQAM-/0/1785941838976?e=2147483647&v=beta&t=kJ49cPRSeLLhW5juOryhbA_loz9L6qvPi01K1NmNWeY",
+        "id": "7490783002722000896"
+      },
+      {
+        "interaction": "Mark Ma liked this",
+        "link": "https://www.linkedin.com/posts/were-so-back-happy-to-be-rejoining-ramps-activity-7490249093953486849-cN7V",
+        "title": "we're so back happy to be rejoining Ramp 's Forward Deployed Engineering team in New York City!",
+        "img": "https://media.licdn.com/dms/image/v2/D4D22AQGib0HCfXslPw/feedshare-image-high-res/B4DZ_K129WKMAU-/0/1785814544933?e=2147483647&v=beta&t=WyWwo0q6egYahi9b9QpMSlJq4ibDFlt76KX9UxWQVPs",
+        "id": "7490249093953486849"
+      },
+      {
+        "interaction": "Mark Ma liked this",
+        "link": "https://www.linkedin.com/posts/emi-andere_in-honor-of-the-rubin-spec-sheet-coming-out-activity-7489025022796161024-U0mp",
+        "title": "in honor of the Rubin spec sheet coming out, i'll be doing a series on Rubin's low level software. starting with a GUIDE on HOW TO ACTUALLY READ AN NVIDIA SPEC SHEET: nvidia's headline for rubin is 50 petaflops of nvfp4, 5x blackwell. the dense number is 35. the word \"sparse\" appears nowhere on the spec page. you have to open the pdf datasheet, where footnote 1 ends with five words: \"NVFP4 Inference specification is sparse.\" FIVE CORE RULES to decode any nvidia spec sheet. rule 1: find the density basis. every headline AI number since a100 assumes 2:4 structured sparsity. in 2020 the dense number came first: \"156 TF | 312 TF*\". h100 flipped the order in 2022, then quietly deleted the dense column: \"Shown with sparsity. Specifications are one-half lower without sparsity.\" blackwell launched at 20 petaflops of fp4 with no dense number on the page, just a two word footnote: \"With sparsity.\" and the sparse premium isn't 2x anymore. gb300 is 20 sparse vs 15 dense. rubin is 50 vs 35, and the 35 is labeled \"training\". a dense inference number for rubin does not exist anywhere. rule 2: match the precision on both sides of any Nx. a100's \"20x volta\" was sparse tf32 tensor ops against v100's fp32 cuda cores. same unit and same precision, the gain was 2.5x. h100's \"30x\" ran fp8 against fp16, on 32 a100s vs 16 h100s, at batch 4 vs 60. blackwell's \"30x h100\" was fp4 vs fp8. rubin's \"5x blackwell\" compares compressed 50 against dense 10. dense to dense it's 3.5x, the biggest like-for-like gain in years. but it's 3.5, not 5. rule 3: ask what \"one GPU\" means. blackwell is two dies sold as one gpu. at gtc 2025 jensen said that naming \"was wrong\" and the rubin rack debuted as NVL144, counting dies. at ces 2026 it became NVL72 again, counting packages. same rack, same silicon, both names. the only acknowledgment is an editor's note retrofitted onto an old blog post. even one b200 has three official fp4 ratings: 20 petaflops grace-paired, 18 on hgx boards, 14 in b100. all sparse, obviously. rule 4: \"up to\" means one point on a curve. rubin's \"10x tokens per megawatt\" chart is real. the 10x arrow is drawn above 200 tokens/sec/user, exactly where blackwell's curve collapses. the left edge of the same chart reads 1.7x. every generation runs this play: gb300's \"50x vs hopper\" is 10x responsiveness times 5x throughput, multiplied together right on the product page. rule 5: the footnotes never lie. rubin's 200 teraflops of fp64? footnote 3: \"Peak performance using Tensor Core-based emulation algorithms.\" native fp64 is 33 teraflops, down from blackwell's 40. and the spec sheet has no power row at all, not for the gpu, not for the rack, so every tokens-per-megawatt denominator is unauditable. none of this is hidden btw! the real numbers are all there, in the fine print. nvidia is rigorous about footnotes precisely because the headlines are doing so much work.",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQF3HPK0jlSBFg/feedshare-shrink_800/B56Z.5ck2HHIAc-/0/1785522704014?e=2147483647&v=beta&t=FavAdhglVIZduwPsRx7DsZc7PQOkRZe6PJcZVSzu2rE",
+        "id": "7489025022796161024"
+      },
+      {
+        "interaction": "Mark Ma liked this",
+        "link": "https://www.linkedin.com/posts/emi-andere_kimi-k3-fast-is-now-live-on-openrouter-activity-7488765298855256064-Byx-",
+        "title": "kimi k3 fast is now live on OpenRouter ! this is the fastest serverless Kimi K3 in the world pick Wafer as your provider. Link in comments",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQEtVC85rhNqdw/feedshare-shrink_800/B56Z.6eKRpLAAc-/0/1785539896987?e=2147483647&v=beta&t=BBMY56wGyH2vivz5P-pd2ND4_-w_sL1_E-uAInMueno",
+        "id": "7488765298855256064"
+      },
+      {
+        "interaction": "Mark Ma liked this",
+        "link": "https://www.linkedin.com/posts/ccecka_cute-layout-representation-and-algebra-activity-7488262138063376384-7T6e",
+        "title": "PyCuTe, the reference implementation for CuTe Layouts, is now available! https://lnkd.in/g9t_iWZR PyCuTe implements everything from the CuTe paper https://lnkd.in/ghktEzBM (and a little bit more) in native Python, making experiments with the algebra much more accessible.",
+        "img": "https://media.licdn.com/dms/image/sync/v2/D5627AQGrxWxIQ_g4Kw/articleshare-shrink_800/B56Zy2gxKtJMAI-/0/1772588569565?e=2147483647&v=beta&t=RaMd2yBxiigH5FijiJpjXWZ8iaB0fc2wExBwkuZLU8I",
+        "id": "7488262138063376384"
+      },
+      {
+        "interaction": "Mark Ma liked this",
+        "link": "https://www.linkedin.com/posts/sunfanyun_what-is-the-role-of-3d-simulation-in-world-activity-7487353746516123652-Dped",
+        "title": "What is the role of 3D simulation in world modeling when we have an abundance of video data? I was asked this many times since Moonlake AI 's 3D Agent release with NVIDIA Omniverse . Here is what I shared at AUTONOMOUS: The Future of Robotics & Physical AI : 1) Use simulation to narrow the solution space for deployment, 2) Use a distribution of sim environments as learning signals 3) Close the sim-to-real gap with auto-research frameworks. The scale and diversity of video data is great but 3D provides controllability and verifiability. These properties become necessarily for when deploying robots into commercial environments. If any of this resonates, reach out: contact@moonlakeai.com",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQEUIKgxY1bTqA/feedshare-shrink_800/B56Z.hsjgJHIAg-/0/1785124240166?e=2147483647&v=beta&t=3_dSJ9qy3THn1fyc78Y1NHWKnvLqfd63DG2YQizX85s",
+        "id": "7487353746516123652"
+      },
+      {
+        "interaction": "Mark Ma liked this",
+        "link": "https://www.linkedin.com/posts/matthewjgunton_there-are-3-basic-levels-of-computer-code-activity-7485046141299060736-iBYD",
+        "title": "There are 3 basic levels of computer code in the NVIDIA software stack CUDA C++, PTX, and SASS Understanding all 3 helps you know why CUDA is so useful CUDA C++ - It gives you NVIDIA\u2019s programming model (threads, blocks, shared memory, synchronization) without requiring you to write instructions for just an exact GPU architecture. In fact, a good CUDA kernel is often used across multiple generations of NVIDIA hardware. You just get less of the cutting edge performance out of the newer hardware when you reuse kernels CUDA C++ is lowered into PTX PTX (Parallel Thread Execution) - This is a virtual instruction set. Because they are virtual machine instructions, they allow one CUDA kernel to run across different NVIDIA devices without needing to be rewritten. That being said when we want to use a specific command on a specific part of a chip (like a WGMMA), we will specify it in PTX so that there is no confusion during compilation about what we want to use. Naturally, this choice comes with the trade-off of portability. Once we specify exactly what hardware component we want, we cannot port that kernel to an NVIDIA device that doesn't have that component PTX is lowered to SASS SASS - NVIDIA's native machine code. This is the end of the road. We take our virtual instruction set and bring it down into the exact executable code that will run on our specific machine. This is the least portable version of the code, but of course the most complete CUDA's great advantage is that you can take a kernel written for Ampere and move it to Hopper on launch day. This lets NVIDIA's software stack compound The challenge is the abstraction. By giving this distance, you rely heavily on your NVIDIA compilers to find fast ways to run your code on different hardware In practice, a developer will try many different strategies to find the fastest way to run their kernel In other words, you have to do a manual search At Luminal, we're creating a compiler that will handle this search entirely automatically and deterministically",
+        "img": "https://media.licdn.com/dms/image/v2/D4D10AQEk-KOKV0JilQ/image-shrink_800/B4DZ.A5y1jK0Ag-/0/1784574062319?e=2147483647&v=beta&t=62UtWTa67qmT4AXWpUP8_-y35Lqz42hX8N9AIBIx4SU",
+        "id": "3"
+      }
+    ],
+    "linkedin_num_id": "967748111",
+    "banner_image": "https://static.licdn.com/aero-v1/sc/h/5q92mjc5c51bjlwaj3rs9aa82",
+    "honors_and_awards": null,
+    "similar_profiles": [],
+    "default_avatar": false,
+    "memorialized_account": false,
+    "bio_links": [],
+    "first_name": "Mark",
+    "last_name": "Ma",
+    "influencer": false,
+    "timestamp": "2026-08-12T19:11:43.852Z",
+    "input": {
+      "url": "https://www.linkedin.com/in/markma04"
+    }
+  },
+  "local_photo": "data\\linkedin_photos\\markma04__usr-V8JNtJ0oFI83J5D.jpg"
+}

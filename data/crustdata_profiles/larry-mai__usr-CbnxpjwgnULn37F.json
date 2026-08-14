@@ -1,0 +1,400 @@
+{
+  "source": "crustdata",
+  "recovered_from": "brightdata_failed_private",
+  "luma_user_id": "usr-CbnxpjwgnULn37F",
+  "csv_name": "Larry Mai",
+  "csv_linkedin": "https://www.linkedin.com/in/larry-mai",
+  "clean_linkedin": "https://www.linkedin.com/in/larry-mai",
+  "enriched_at": "2026-08-14T18:07:59.937250+00:00",
+  "person_data": {
+    "basic_profile": {
+      "current_title": "Graduate Researcher",
+      "first_name": null,
+      "headline": "Software Engineer",
+      "languages": [],
+      "last_name": null,
+      "location": {
+        "city": "San Francisco",
+        "continent": "North America",
+        "country": "United States",
+        "full_location": null,
+        "raw": "San Francisco, California, United States",
+        "state": "California"
+      },
+      "name": "Larry Mai",
+      "normalized_title": {
+        "confident": true,
+        "department": "Education & Research",
+        "matched_title": "Graduate Researcher",
+        "similarity": 0.9998999834060669,
+        "sub_department": "Research & Laboratory Science"
+      },
+      "professional_network_name": "Larry Mai",
+      "profile_picture_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/person/f2f5571342fb126ae1723d74b35d2dbeba66a059bd004c1ee9bbe7296e6b7121.jpg",
+      "summary": ""
+    },
+    "education": {
+      "schools": [
+        {
+          "activities_and_societies": "",
+          "degree": "Bachelor of Science - BS",
+          "description": "",
+          "end_year": 2022,
+          "field_of_study": "Computer Engineering",
+          "institute_logo_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/company/26e11218cc334e8123f6cc1e9649dbfb9e67a6b0a226fd960f3a281a7003acda.jpg",
+          "institute_logo_url": "https://media.licdn.com/dms/image/v2/C510BAQHEZRcLGw73jQ/company-logo_400_400/company-logo_400_400/0/1631314878613?e=1778112000&v=beta&t=bvM26i7NNBWNNcFHAuqEEEVPokNlnvssxSphKA9kM08",
+          "location": {
+            "city": "Santa Barbara",
+            "continent": "North America",
+            "country": "United States",
+            "raw": "Santa Barbara, California, United States",
+            "state": "California"
+          },
+          "professional_network_id": "5372",
+          "school": "UC Santa Barbara",
+          "start_year": 2018
+        },
+        {
+          "activities_and_societies": "",
+          "degree": "",
+          "description": "",
+          "end_year": 2018,
+          "field_of_study": "",
+          "institute_logo_permalink": null,
+          "institute_logo_url": "",
+          "location": {
+            "city": "San Francisco",
+            "continent": "North America",
+            "country": "United States",
+            "raw": "San Francisco, California",
+            "state": "California"
+          },
+          "professional_network_id": "6931146",
+          "school": "Balboa High School",
+          "start_year": 2014
+        },
+        {
+          "activities_and_societies": "",
+          "degree": "Master of Science - MS",
+          "description": "",
+          "end_year": 2028,
+          "field_of_study": "Computer Science",
+          "institute_logo_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/company/046ccfdeb8e2b1c321950f03b46369d40e9119b9e1bbbdfa2f1ef931820f7dc5.jpg",
+          "institute_logo_url": "https://media.licdn.com/dms/image/v2/C4E0BAQFuhLQoh5_7yA/company-logo_400_400/company-logo_400_400/0/1640110532212/georgia_institute_of_technology_logo?e=1778112000&v=beta&t=wbmx_6v7Q1Z7omxHa-Un10WWjH7q-L0-gS3uG38T2K0",
+          "location": {
+            "city": "Atlanta",
+            "continent": "North America",
+            "country": "United States",
+            "raw": "Atlanta, Georgia, United States",
+            "state": "Georgia"
+          },
+          "professional_network_id": "3558",
+          "school": "Georgia Institute of Technology",
+          "start_year": 2026
+        }
+      ]
+    },
+    "experience": {
+      "employment_details": {
+        "current": [
+          {
+            "company_description": "The Georgia Institute of Technology is one of the nation's premier research universities providing a focused, technologically based education to more than 25,000 undergraduate and graduate students . Ranked seventh among U.S. News & World Report's top public universities, Georgia Tech offers degrees through the Colleges of Business, Computing, Design, Engineering, Liberal Arts and Sciences. The Institute offers research opportunities to both undergraduate and graduate students and is home to more than 100 centers that consistently contribute vital innovation to American government, industry, and business.",
+            "company_professional_network_profile_url": "https://linkedin.com/company/3558",
+            "company_profile_picture_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/company/046ccfdeb8e2b1c321950f03b46369d40e9119b9e1bbbdfa2f1ef931820f7dc5.jpg",
+            "company_website_domain": "gatech.edu",
+            "crustdata_company_id": 6035664,
+            "description": "Neural network modeling for memory traces",
+            "employment_type": "",
+            "end_date": null,
+            "function_category": "Research",
+            "is_default": true,
+            "location": {
+              "raw": ""
+            },
+            "name": "Georgia Institute of Technology",
+            "position_id": 2938560917,
+            "professional_network_id": "3558",
+            "seniority_level": "Entry Level",
+            "start_date": "2026-05-01T00:00:00+00:00",
+            "title": "Graduate Researcher",
+            "years_at_company": "Less than 1 year",
+            "years_at_company_raw": 0.0
+          }
+        ],
+        "past": [
+          {
+            "company_description": "We find the best experts in every professional domain and put their knowledge to work training frontier models. Through APEX, we measure whether those models can actually perform economically valuable work. We're also bringing that expertise to enterprises: deploying custom AI agents, staffing teams with vetted domain experts, and helping organizations encode their own knowledge into AI systems.",
+            "company_professional_network_profile_url": "https://linkedin.com/company/71301545",
+            "company_profile_picture_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/company/ea278803f5448aab9bea540cb6be6b1c521c7dd4455e038f8b49ff66dd492aae.jpg",
+            "company_website_domain": "mercor.com",
+            "crustdata_company_id": 1034191,
+            "description": "LLM infrastructure",
+            "employment_type": "Full-time",
+            "end_date": "2026-04-01T00:00:00+00:00",
+            "function_category": "Engineering",
+            "is_default": false,
+            "location": {
+              "raw": ""
+            },
+            "name": "Mercor",
+            "position_id": 2689031931,
+            "professional_network_id": "71301545",
+            "seniority_level": "Entry Level",
+            "start_date": "2025-04-01T00:00:00+00:00",
+            "title": "Software Engineer",
+            "years_at_company": "1 to 2 years",
+            "years_at_company_raw": 1.0
+          },
+          {
+            "company_description": "Corning is one of the world's leading innovators in materials science, with a 170+ year track record of life-changing inventions. Corning applies its unparalleled expertise in glass science, ceramics science, and optical physics along with its deep manufacturing and engineering capabilities to develop category-defining products that transform industries and enhance people's lives. Corning succeeds through sustained investment in RD&E, a unique combination of material and process innovation, and deep, trust-based relationships with customers who are global leaders in their industries. Corning's capabilities are versatile and synergistic, which allows the company to evolve to meet changing market needs, while also helping our customers capture new opportunities in dynamic industries. Today, Corning's markets include optical communications, mobile consumer electronics, display technology, automotive, and life sciences vessels. Corning's industry-leading products include damage-resistant cover glass for mobile devices; precision glass for advanced displays; optical fiber, wireless technologies, and connectivity solutions for state-of-the-art communications networks; trusted products to accelerate drug discovery and delivery; and clean-air technologies for cars and trucks.Terms of Use: http://ow.ly/ObPiI",
+            "company_professional_network_profile_url": "https://linkedin.com/company/3678",
+            "company_profile_picture_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/company/d8e42e980864b45c212173764cde8292e136931a7064f1233ae5b256a6ff3c87.jpg",
+            "company_website_domain": "corning.com",
+            "crustdata_company_id": 681057,
+            "description": "5G RAN, SCRN-620",
+            "employment_type": "Full-time",
+            "end_date": "2024-08-01T00:00:00+00:00",
+            "function_category": "Engineering",
+            "is_default": false,
+            "location": {
+              "raw": "Milpitas, California, United States"
+            },
+            "name": "Corning Incorporated",
+            "position_id": 2459917980,
+            "professional_network_id": "3678",
+            "seniority_level": "Entry Level",
+            "start_date": "2022-09-01T00:00:00+00:00",
+            "title": "Software Engineer",
+            "years_at_company": "1 to 2 years",
+            "years_at_company_raw": 1.0
+          },
+          {
+            "company_description": "Laritech is a leading provider of quick-turn printed circuit board assembly (PCBA) and embedded systems design specializing in rapid prototyping, full engineering services, and manufacturing for industries including aerospace, medical, industrial, and consumer electronics. With ISO 9001 and AS9100 certifications, Laritech delivers innovative, high-quality solutions from concept to production.",
+            "company_professional_network_profile_url": "https://linkedin.com/company/1189789",
+            "company_profile_picture_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/company/4aa7b69031c56ea4061714221a1b6643dd293c46c235cf9d2d8650d919efb56f.jpg",
+            "company_website_domain": "laritech.com",
+            "crustdata_company_id": 1388801,
+            "description": "PCB Design, IoT Sensors, STM32",
+            "employment_type": "",
+            "end_date": "2022-06-01T00:00:00+00:00",
+            "function_category": "Engineering",
+            "is_default": false,
+            "location": {
+              "raw": ""
+            },
+            "name": "Laritech, Inc. - ODM Solutions",
+            "position_id": 2938564795,
+            "professional_network_id": "1189789",
+            "seniority_level": "Entry Level",
+            "start_date": "2021-09-01T00:00:00+00:00",
+            "title": "Embedded Systems Engineer",
+            "years_at_company": "Less than 1 year",
+            "years_at_company_raw": 0.0
+          },
+          {
+            "company_description": "Reduce Sugar from American diet",
+            "company_professional_network_profile_url": "https://linkedin.com/company/71058637",
+            "company_profile_picture_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/company/5b112bbf2b85f910cdd0a316f8607a321941290285b51cd155999f3c9967ede7.jpg",
+            "company_website_domain": null,
+            "crustdata_company_id": 10196040,
+            "description": "Programmed analysis algorithms regarding financial risk.",
+            "employment_type": "",
+            "end_date": "2021-09-01T00:00:00+00:00",
+            "function_category": "Engineering",
+            "is_default": false,
+            "location": {
+              "raw": ""
+            },
+            "name": "Prussian",
+            "position_id": 1798550411,
+            "professional_network_id": "71058637",
+            "seniority_level": "In Training",
+            "start_date": "2021-06-01T00:00:00+00:00",
+            "title": "Data Science and Full Stack Engineer Intern",
+            "years_at_company": "Less than 1 year",
+            "years_at_company_raw": 0.0
+          },
+          {
+            "company_description": "Reduce Sugar from American diet",
+            "company_professional_network_profile_url": "https://linkedin.com/company/71058637",
+            "company_profile_picture_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/company/5b112bbf2b85f910cdd0a316f8607a321941290285b51cd155999f3c9967ede7.jpg",
+            "company_website_domain": null,
+            "crustdata_company_id": 10196040,
+            "description": "ML for financial data",
+            "employment_type": "",
+            "end_date": "2021-09-01T00:00:00+00:00",
+            "function_category": "Engineering",
+            "is_default": false,
+            "location": {
+              "raw": ""
+            },
+            "name": "Prussian",
+            "position_id": 1798550411,
+            "professional_network_id": "71058637",
+            "seniority_level": "In Training",
+            "start_date": "2021-06-01T00:00:00+00:00",
+            "title": "Software Engineer Intern",
+            "years_at_company": "Less than 1 year",
+            "years_at_company_raw": 0.0
+          },
+          {
+            "company_description": "Apex146 offers analytical and technical resources supporting the action sports industry. A proprietary athlete performance indexing platform sits at the core of everything we produce from AI driven content to event simulations and in-depth athlete statistics, all of which are being distributed globally through Stats Perform. Apex146\u2019s partnership with AWS has unlocked potential for efficient, scalable technical architectures that can react and deliver to market demand.Our mission is to enhance the action sports experience for global audiences and further promote our sports popularity by providing cutting edge analysis and technologies.",
+            "company_professional_network_profile_url": "https://linkedin.com/company/10986211",
+            "company_profile_picture_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/company/9d769d040ffbaaac87cd619694185720610374483cbe2714ed528b664d1b318a.jpg",
+            "company_website_domain": "apex146.com",
+            "crustdata_company_id": 877399,
+            "description": "Sports data analysis and data management",
+            "employment_type": "",
+            "end_date": "2020-01-01T00:00:00+00:00",
+            "function_category": "",
+            "is_default": false,
+            "location": {
+              "raw": ""
+            },
+            "name": "Apex146",
+            "position_id": 1518624218,
+            "professional_network_id": "10986211",
+            "seniority_level": "In Training",
+            "start_date": "2019-09-01T00:00:00+00:00",
+            "title": "Software Engineering Intern",
+            "years_at_company": "Less than 1 year",
+            "years_at_company_raw": 0.0
+          },
+          {
+            "company_description": "UC Santa Barbara is consistently recognized for excellence across broad fields of study. Set alongside the California coast, its dynamic environment inspires scholarly ambition and creativity. This page highlights UCSB achievements and discoveries as well as opportunities to stay connected to the Gaucho community.",
+            "company_professional_network_profile_url": "https://linkedin.com/company/5372",
+            "company_profile_picture_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/company/26e11218cc334e8123f6cc1e9649dbfb9e67a6b0a226fd960f3a281a7003acda.jpg",
+            "company_website_domain": "ucsb.edu",
+            "crustdata_company_id": 6035621,
+            "description": "Sensor firmware for atmospheric water generator",
+            "employment_type": "",
+            "end_date": "2019-09-01T00:00:00+00:00",
+            "function_category": "Research",
+            "is_default": false,
+            "location": {
+              "raw": "Santa Barbara, California Area"
+            },
+            "name": "UCSB",
+            "position_id": 1432299136,
+            "professional_network_id": "5372",
+            "seniority_level": "Entry Level",
+            "start_date": "2018-09-01T00:00:00+00:00",
+            "title": "Undergraduate Researcher",
+            "years_at_company": "1 to 2 years",
+            "years_at_company_raw": 1.0
+          },
+          {
+            "company_description": "Consulting engineers specialized in geosciences, seismic and engineering design.AGS is a multidisciplinary engineering firm providing services in geotechnical, environmental, civil, and structural engineering, construction management and inspection, and laboratory testing.  The firm, based in San Francisco with branch offices, provides a wide range of services to municipal, state, and federal government agencies and private clients.Founded in 1983, AGS and currently employs over 20 professionals, most with advanced degrees and professional licenses. AGS has excellent in-house support facilities including a state-of-the-art soil testing laboratory and extensive technological capabilities.Our adherence to quality assurance plans is key to our responsiveness and successful performance. Our clients speak best to the high quality of the services we have provided by repeatedly utilizing our services on multiple projects.",
+            "company_professional_network_profile_url": "https://linkedin.com/company/883383",
+            "company_profile_picture_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/company/a5f038fd61f54021025f35ca1b6735554564462bb3ebd642f70bdf8dba7e3c33.jpg",
+            "company_website_domain": "agsinc.com",
+            "crustdata_company_id": 2108138,
+            "description": "Data ingestion pipelines",
+            "employment_type": "",
+            "end_date": "2019-08-01T00:00:00+00:00",
+            "function_category": "",
+            "is_default": false,
+            "location": {
+              "raw": "San Francisco Bay Area"
+            },
+            "name": "AGS/Aetypic Inc.",
+            "position_id": 1497786797,
+            "professional_network_id": "883383",
+            "seniority_level": "In Training",
+            "start_date": "2019-06-01T00:00:00+00:00",
+            "title": "IT Development Intern",
+            "years_at_company": "Less than 1 year",
+            "years_at_company_raw": 0.0
+          },
+          {
+            "company_description": "CNSI's mission is to create a collaborative, closely-integrated, and strongly interactive environment that will foster innovation in nanosystems research and education.The vision of the CNSI is to establish a coherent and distinctive organization that serves California and the nation, and that is embedded on the UCSB and UCLA campuses. The CNSI will be a world-class intellectual and physical environment, a collaborative center that will generate ideas, discoveries and the talent that will continue to fuel innovation in Nanosystems.CNSI believes that major breakthroughs in 21st-century science and technology will arise from an understanding of how to manipulate, control & manufacture at the nanometer scale. The rewards of such understanding will lie in the formation of engineered materials with exceptional strength, elasticity, sensitivity, and intelligence. Control of material at the nanometer scale will ensure the creation of compact, complex, and multifunctional systems at the macro-scale that will dramatically augment the capabilities of present-day communications, computation, medical therapies, and environmental remediation. Our institute's mission is to create a collaborative, closely-integrated, and strongly interactive environment that will foster innovation in nanosystems research and education.",
+            "company_professional_network_profile_url": "https://linkedin.com/company/9333570",
+            "company_profile_picture_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/company/e315414d7fb14a0586cd170e24291ecfd30ba4c10ba9bf4f3a76e42b4307f809.jpg",
+            "company_website_domain": "ucsb.edu",
+            "crustdata_company_id": 6139886,
+            "description": "Performed statistical analysis of data collected from temperature\u00a0and pressure of the superconductors.",
+            "employment_type": "",
+            "end_date": "2018-08-01T00:00:00+00:00",
+            "function_category": "Research",
+            "is_default": false,
+            "location": {
+              "raw": "Santa Barbara, California Area"
+            },
+            "name": "California NanoSystems Institute (CNSI)",
+            "position_id": 1432299136,
+            "professional_network_id": "9333570",
+            "seniority_level": "Entry Level",
+            "start_date": "2018-08-01T00:00:00+00:00",
+            "title": "Summer Insititute  Researcher",
+            "years_at_company": "Less than 1 year",
+            "years_at_company_raw": 0.0
+          }
+        ]
+      }
+    },
+    "professional_network": {
+      "connections": 408,
+      "current_title": "Graduate Researcher",
+      "followers": 414,
+      "headline": "Software Engineer",
+      "location": {
+        "city": "San Francisco",
+        "continent": "North America",
+        "country": "United States",
+        "raw": "San Francisco, California, United States",
+        "state": "California"
+      },
+      "metadata": {
+        "last_scraped_source": null
+      },
+      "name": "Larry Mai",
+      "profile_picture_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/person/f2f5571342fb126ae1723d74b35d2dbeba66a059bd004c1ee9bbe7296e6b7121.jpg",
+      "pronoun": "",
+      "summary": ""
+    },
+    "skills": {
+      "professional_network_skills": [
+        "Large Language Models (LLM)",
+        "Artificial Intelligence (AI)",
+        "Machine Learning",
+        "Node.js",
+        "Django",
+        "React.js",
+        "Amazon Web Services (AWS)",
+        "AWS Lambda",
+        "MySQL",
+        "Network Engineering",
+        "5G Core",
+        "WRCP",
+        "Software Infrastructure",
+        "Software Design",
+        "5G New Radio (NR)",
+        "LTE",
+        "4G",
+        "RAN",
+        "C++",
+        "Python (Programming Language)",
+        "Arduino",
+        "Java",
+        "JavaScript",
+        "Unity3D",
+        "Adobe Photoshop",
+        "Microsoft Office",
+        "Project Management",
+        "Research"
+      ]
+    },
+    "social_handles": {
+      "dev_platform_identifier": {
+        "profile_url": null
+      },
+      "professional_network_identifier": {
+        "profile_url": "https://www.linkedin.com/in/larry-mai"
+      },
+      "twitter_identifier": {
+        "slug": ""
+      }
+    },
+    "crustdata_person_id": 547944242
+  }
+}

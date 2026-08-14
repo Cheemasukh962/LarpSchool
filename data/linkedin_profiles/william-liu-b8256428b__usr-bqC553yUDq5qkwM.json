@@ -1,0 +1,126 @@
+{
+  "luma_user_id": "usr-bqC553yUDq5qkwM",
+  "csv_name": "Will Liu",
+  "csv_linkedin": "https://www.linkedin.com/in/william-liu-b8256428b",
+  "enriched_at": "2026-08-12T19:22:34.880934+00:00",
+  "batch_id": "sd_msqh2468i57o0acas",
+  "profile": {
+    "id": "william-liu-b8256428b",
+    "name": "William Liu",
+    "city": "State College, Pennsylvania, United States",
+    "country_code": "US",
+    "position": null,
+    "about": "Incoming Mechanical Engineering and Computer Science student at Columbia University\u2026",
+    "current_company": {
+      "link": "https://uk.linkedin.com/company/non-trivial?trk=public_profile_topcard-current-company",
+      "name": "Non-Trivial",
+      "company_id": "non-trivial",
+      "location": null
+    },
+    "experience": null,
+    "url": "https://bh.linkedin.com/in/william-liu-b8256428b",
+    "educations_details": "Columbia University",
+    "education": [
+      {
+        "title": "Columbia University",
+        "url": "https://www.linkedin.com/school/columbia-university/",
+        "start_year": "2026",
+        "end_year": "2030",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      },
+      {
+        "start_year": "2022",
+        "end_year": "2026",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      }
+    ],
+    "avatar": "https://media.licdn.com/dms/image/v2/D4E03AQFCVWNPGynm5w/profile-displayphoto-scale_200_200/B4EZ7xMZ79K4Ag-/0/1782163024563?e=2147483647&v=beta&t=p86nTqsWgkZHydxJoVwfc2INX2r4lBYHBqrnYp41eM8",
+    "languages": [
+      {
+        "subtitle": "Native or bilingual proficiency",
+        "title": "English"
+      },
+      {
+        "subtitle": "Native or bilingual proficiency",
+        "title": "Chinese"
+      },
+      {
+        "subtitle": "Full professional proficiency",
+        "title": "French"
+      }
+    ],
+    "followers": 636,
+    "connections": 500,
+    "current_company_company_id": "non-trivial",
+    "current_company_name": "Non-Trivial",
+    "publications": [
+      {
+        "title": "Finite element and machine learning modeling of autogenous self-healing concrete",
+        "subtitle": "Materials Today Communications (7.3 Cite Score, 4.9 Impact Factor)",
+        "date": "December 3, 2025",
+        "description": "Used finite element analysis, machine learning, and SHAP explainable AI to create a time-dependent self-healing concrete modelCited by 3, including the Journal of Building Engineering"
+      },
+      {
+        "title": "Synthesis and characterization of cellulose-polymer biocomposites",
+        "subtitle": "1st Place at 2026 UPenn Research Conference",
+        "description": "Extracted cellulose from plant leaves, added methyl cellulose binder, and analyzed the resulting biocomposite material. Results show promise as a sustainable cushioning material for Amazon packages."
+      }
+    ],
+    "location": "State College",
+    "input_url": "https://www.linkedin.com/in/william-liu-b8256428b",
+    "linkedin_id": "william-liu-b8256428b",
+    "activity": [
+      {
+        "interaction": "Liked by William Liu",
+        "link": "https://www.linkedin.com/posts/caleb-hatfield-879585316_last-week-i-had-the-amazing-opportunity-to-activity-7299612926502481920-6tvk",
+        "title": "Last week I had the amazing opportunity to compete at the PA DECA State Career Development Conference. I am thrilled to announce that my partner Sol\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQHnLDh08EC20g/feedshare-shrink_1280/B56ZU1vJkaHsAk-/0/1740363312034?e=2147483647&v=beta&t=6Unn54FUhZtrKHXLfsBPb3tKicZqAoWMlG4M_1m_EQI",
+        "id": "7299612926502481920"
+      }
+    ],
+    "linkedin_num_id": "1180840850",
+    "banner_image": "https://media.licdn.com/dms/image/v2/D4E16AQH-NdgDaTKnpg/profile-displaybackgroundimage-shrink_200_800/B4EZ8I3.v1HsAQ-/0/1782560320795?e=2147483647&v=beta&t=1pvTYuMOK1AxVqLK8pJWCgENwunuf_Sawd__ltiYsGg",
+    "honors_and_awards": [
+      {
+        "title": "1st Place, UPenn Research Conference",
+        "publication": "University of Pennsylvania Chemistry Department",
+        "date": "2026-01-01T00:00:00.000Z",
+        "description": null
+      },
+      {
+        "title": "United States Physics Olympiad Honorable Mention (top 300 in the US); 2-Time USAPhO Semifinalist",
+        "publication": "American Association of Physics Teachers",
+        "date": "2025-05-01T00:00:00.000Z",
+        "description": null
+      },
+      {
+        "title": "AMC Distinguished Honor Roll (top 1%), 4-Time AIME Qualifier",
+        "publication": "Mathematical Association of America",
+        "date": "2025-04-01T00:00:00.000Z",
+        "description": null
+      },
+      {
+        "title": "3rd Place, Western Pennsylvania Science Bowl Tournament (2026)",
+        "publication": "National Energy Technology Laboratory",
+        "date": null,
+        "description": null
+      }
+    ],
+    "similar_profiles": [],
+    "default_avatar": false,
+    "memorialized_account": false,
+    "bio_links": [],
+    "first_name": "William",
+    "last_name": "Liu",
+    "influencer": false,
+    "timestamp": "2026-08-12T19:18:47.976Z",
+    "input": {
+      "url": "https://www.linkedin.com/in/william-liu-b8256428b"
+    }
+  },
+  "local_photo": "data\\linkedin_photos\\william-liu-b8256428b__usr-bqC553yUDq5qkwM.jpg"
+}

@@ -1,0 +1,481 @@
+{
+  "source": "crustdata",
+  "recovered_from": "brightdata_failed_private",
+  "luma_user_id": "usr-mLUeqTtGOBE6wlU",
+  "csv_name": "Juli Huang",
+  "csv_linkedin": "https://www.linkedin.com/in/juliahuang-",
+  "clean_linkedin": "https://www.linkedin.com/in/juliahuang-",
+  "enriched_at": "2026-08-14T18:07:59.937250+00:00",
+  "person_data": {
+    "basic_profile": {
+      "current_title": "Stanford AI Labs Machine Learning Lead Researcher",
+      "first_name": null,
+      "headline": "BS+MS in CS/AI @ Stanford | Prev @ Apple | Health ML Researcher | Pareto Fellow",
+      "languages": [
+        "English (Native or bilingual proficiency)",
+        "French (Elementary proficiency)",
+        "Mandarin Chinese (Native or bilingual proficiency)",
+        "Music (Native or bilingual proficiency)",
+        "Spanish (Limited working proficiency)",
+        "Tech (Native or bilingual proficiency)"
+      ],
+      "last_name": null,
+      "location": {
+        "city": "",
+        "continent": "North America",
+        "country": "United States",
+        "full_location": null,
+        "raw": "San Francisco Bay Area",
+        "state": "California"
+      },
+      "name": "Julia H.",
+      "normalized_title": {
+        "confident": true,
+        "department": "Engineering & Technology",
+        "matched_title": "ML Researcher",
+        "similarity": 0.9280999898910522,
+        "sub_department": "Machine Learning & AI Engineering"
+      },
+      "professional_network_name": "Julia H.",
+      "profile_picture_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/person/0e1ffb3cfb4bb7c28addacc9e5a966f6047260495b48cb76ab36d112fada9f94.jpg",
+      "summary": "Hi! My name is Juli and I'm a Stanford CS Major (AI Track) + Music minor junior with both experiences and interests in ML research, healthcare AI, computer vision, and robotics.- Research: previously worked on LLM evaluation &amp; benchmarking, post-training RL, quantitative ML, and medical computer vision with 5 published papers- Industry experience across Apple (C++ systems + health ML), Google (ML features), and Uber (databases + distributed systems)- Hobbies:  hackathons, piano covers and composing, EDM music production, concerts, poker, chess, hiking:Former competitive classical pianist:)Contact: julih (stanford email)"
+    },
+    "education": {
+      "schools": [
+        {
+          "activities_and_societies": "Women in CS Fellows Director, SUMO + SWIMM Math Board, Google Developers Club VP, Math Tournament Coder, ACM Webmaster and Traders/Quant Gym, Healing Harmonies, Poker Organizer, Stanford Research Groups",
+          "degree": "Bachelor's degree",
+          "description": "Advised by Prof Chris Piech\nRelevant CS/AI/Math Courses Taken:\nCS106B (C++, Data Structures and Algorithms)\nENGR108 (Matrix Methods, used Julia language for linear algebra)\nCS107 Computer Organization and Systems (C language)\nCS22A The Social and Economic Impact of Artificial Intelligence (seminar)\nCS103 Math Foundations of Computing (Math Proofs, used C++ for proofs)\nENGR76 Info Science (used Python for signal processing projects in Jupyter Notebooks)\nCS106L Standard C++ Programming\nCS109 Probability for Computer Scientists (Python, Probability, Statistics, Machine Learning)\nMATH115 Real Analysis (Proof Based Math)\nCS111 Operating Systems (using both C and C++ in myth machines for assignments)\nCS161 Design and Analysis of Algorithms\nCS144 Computer Networking (C++)\nMATH87Q Topology, Knots, Braids\nCS231N Computer Vision (Python)\nCS224R Reinforcement Learning (Python)\nCS229 ML w/ Linear Algebra (Python)\nCS224N NLP\nCS372 AGI, LLMs, Reasoning+Planning\nCS195, 199, 191W (indep study)",
+          "end_year": 2027,
+          "field_of_study": "Computer Science (Major, AI Track), Minor in Music",
+          "institute_logo_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/company/16452a842ca2309c076724b44d1329c7a4c59e5b6910ff51c89c22eecd97958d.jpg",
+          "institute_logo_url": "https://media.licdn.com/dms/image/v2/C560BAQHr9suxyJBXMw/company-logo_400_400/company-logo_400_400/0/1635534378870/stanford_university_logo?e=1786579200&v=beta&t=0kDThgqzNgeAwO2ENFifc2aUjNpPQ1Q-MfO5oWWMtkE",
+          "location": {
+            "city": "Stanford",
+            "continent": "North America",
+            "country": "United States",
+            "raw": "Stanford, California, United States",
+            "state": "California"
+          },
+          "professional_network_id": "1792",
+          "school": "Stanford University",
+          "start_year": 2023
+        },
+        {
+          "activities_and_societies": "",
+          "degree": "High School Diploma",
+          "description": "10+ AP Courses Taken",
+          "end_year": 2023,
+          "field_of_study": "Mathematics and Computer Science",
+          "institute_logo_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/company/26689aa8b65d6c20cc9d3d4a422f279a15bcf29458300a2e845a0996bcbd748c.jpg",
+          "institute_logo_url": "https://media.licdn.com/dms/image/v2/C4E0BAQE0ymwWeb8BrQ/company-logo_400_400/company-logo_400_400/0/1630599787871?e=1786579200&v=beta&t=3aKFVL82De2lEBylnVoKcynSVScrAz_59GW92o9LN5E",
+          "location": {
+            "city": "Northville",
+            "continent": "North America",
+            "country": "United States",
+            "raw": "Northville, Michigan, United States",
+            "state": "Michigan"
+          },
+          "professional_network_id": "34215469",
+          "school": "Northville High School",
+          "start_year": 2019
+        },
+        {
+          "activities_and_societies": "",
+          "degree": "Dual-Enrolled High School Student",
+          "description": "GPA: 4.0/4.0\nTook College-Level Multivariable Calculus 3",
+          "end_year": 2023,
+          "field_of_study": "",
+          "institute_logo_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/company/43ef1dd03ed7b5099c2385d01484c4cd0f642f30636f8251ce2962d6da3ee106.jpg",
+          "institute_logo_url": "https://media.licdn.com/dms/image/v2/C4E0BAQGgQdkxSL7icQ/company-logo_400_400/company-logo_400_400/0/1631370563962/washtenaw_community_college_logo?e=1786579200&v=beta&t=WAFt8W7gPdcWVAkh6idXcZz442VntOAWjdPboZNBnWU",
+          "location": {
+            "city": "Ann Arbor",
+            "continent": "North America",
+            "country": "United States",
+            "raw": "Ann Arbor, United States",
+            "state": "Michigan"
+          },
+          "professional_network_id": "19320",
+          "school": "Washtenaw Community College",
+          "start_year": 2023
+        },
+        {
+          "activities_and_societies": "",
+          "degree": "YC Startup School",
+          "description": "July 2026",
+          "end_year": null,
+          "field_of_study": "",
+          "institute_logo_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/company/059f7e6072baf1189ebb67b9fec287348cc541df9931bf3d36c06f9bb5019e96.jpg",
+          "institute_logo_url": "https://media.licdn.com/dms/image/v2/C4D0BAQGPzdBPNxrmEg/company-logo_400_400/company-logo_400_400/0/1673555093250/y_combinator_logo?e=1786579200&v=beta&t=QoED73MuOXj3-fHRZOjV29RqoLUEQNSxittes2fCJe0",
+          "location": {
+            "city": "",
+            "continent": "North America",
+            "country": "United States",
+            "raw": "United States",
+            "state": ""
+          },
+          "professional_network_id": "167872",
+          "school": "Y Combinator",
+          "start_year": null
+        },
+        {
+          "activities_and_societies": "",
+          "degree": "Master of Engineering",
+          "description": "",
+          "end_year": null,
+          "field_of_study": "Artificial Intelligence",
+          "institute_logo_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/company/16452a842ca2309c076724b44d1329c7a4c59e5b6910ff51c89c22eecd97958d.jpg",
+          "institute_logo_url": "https://media.licdn.com/dms/image/v2/C560BAQHr9suxyJBXMw/company-logo_400_400/company-logo_400_400/0/1635534378870/stanford_university_logo?e=1786579200&v=beta&t=0kDThgqzNgeAwO2ENFifc2aUjNpPQ1Q-MfO5oWWMtkE",
+          "location": {
+            "city": "Stanford",
+            "continent": "North America",
+            "country": "United States",
+            "raw": "Stanford, California, United States",
+            "state": "California"
+          },
+          "professional_network_id": "1792",
+          "school": "Stanford University",
+          "start_year": 2026
+        },
+        {
+          "activities_and_societies": "",
+          "degree": "Dual-Enrolled High School Student",
+          "description": "GPA: 4.0/4.0 Dean's List\nCourses: Linear Algebra, Database Systems, C# Programming, C++ Programming",
+          "end_year": 2023,
+          "field_of_study": "",
+          "institute_logo_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/company/c8027b822a4ab758707d91c7cd20a2d6290d2c0105b6894208da29e03b73f197.jpg",
+          "institute_logo_url": "https://media.licdn.com/dms/image/v2/C4D0BAQErS6OhtqkBVw/company-logo_400_400/company-logo_400_400/0/1643048383042/schoolcraft_college_logo?e=1786579200&v=beta&t=wSQy-5U7e-V8udW55BqTxj2C-daB-DLFnnuKkSJA4LA",
+          "location": {
+            "city": "",
+            "continent": "North America",
+            "country": "United States of America",
+            "raw": "Livonia, United States",
+            "state": "Michigan"
+          },
+          "professional_network_id": "21684",
+          "school": "Schoolcraft College",
+          "start_year": 2022
+        }
+      ]
+    },
+    "experience": {
+      "employment_details": {
+        "current": [
+          {
+            "company_description": "We are dedicated to producing field-transforming research and providing world-class educational opportunities in computing.  Founded in 1965, the department is consistently ranked among the top computer science departments in the world.  It is home to several A. M. Turing Award winners and MacArthur Fellows, as well as numerous members of the National Academies of Engineering, Medicine, and Science, the American Philosophical Society, and the American Academy of Arts and Sciences.  Work by our faculty spans all areas of computing in addition to numerous multidisciplinary collaborations with a wide range of other strong departments across the university. With a deep departmental commitment to exceptional teaching, the Computer Science major is, by far, the largest undergraduate major at Stanford.  Graduates of our PhD program have gone on to take faculty positions at top universities around the world and play leading roles in industrial research labs.  With Stanford serving as a seedbed for Silicon Valley, it is no surprise that faculty and alumni of our department have founded some of the most well-known technology companies, including Alphabet/Google, Netflix, VMware, Arista Networks, and others.Our department strongly believes that diversity among our students and faculty will help produce better solutions to the technological challenges we face.  We strive to build an inclusive community where different viewpoints are valued, and everyone is welcome and respected.  We firmly believe that, if we appreciate the responsibility that accompanies power and consider the broad perspectives of different stakeholders, computing will continue to serve humanity well.",
+            "company_professional_network_profile_url": "https://linkedin.com/company/96346030",
+            "company_profile_picture_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/company/0a8f18eaeab17808ca79432cddff9da4182eaec2d808ba39858d6ceb467e4aec.jpg",
+            "company_website_domain": "stanford.edu",
+            "crustdata_company_id": 2098514,
+            "description": "Language, Data, and Reasoning (LDR) Lab: implemented merchant agentic MCP system (presented at Market AI Conference) - first author. Built AI agent orchestration framework w/ MCP tool-calling + state management for multi-step reasoning e-commerce, improved knowledge graph in Neo4j and added Redis caching (1st author 8 pg paper) and accepted to Stanford Trust & Safety conference.\n\nComputational Neuroscience (CNS) Lab: Implemented, trained, and tested 3D diffusion models, conditional autoencoders, and neural operators on MRI brain scans. Added clinical validation, reached SOTA metrics.(Presented at Stanford AI+Science Conference, accepted to CLINNICAI, Esmrmb Congress, and MLHC Conferences). Mentored by Ehsan Adeli, Kilian Pohl, Moss Zhao, and Camila Gonzalez.\n\nStanford Robotics Center (SRC): working in SOAR (subsector), task planning with Gita Mini robots, VLMs, and Gaussian Process for the elderly.",
+            "employment_type": "",
+            "end_date": null,
+            "function_category": "Research",
+            "is_default": true,
+            "location": {
+              "raw": ""
+            },
+            "name": "Stanford University Department of Computer Science",
+            "position_id": 2809994795,
+            "professional_network_id": "96346030",
+            "seniority_level": "Senior",
+            "start_date": "2025-12-01T00:00:00+00:00",
+            "title": "Stanford AI Labs Machine Learning Lead Researcher",
+            "years_at_company": "Less than 1 year",
+            "years_at_company_raw": 0.0
+          }
+        ],
+        "past": [
+          {
+            "company_description": "We\u2019re a diverse collective of thinkers and doers, continually reimagining what\u2019s possible to help us all do what we love in new ways. And the same innovation that goes into our products also applies to our practices \u2014 strengthening our commitment to leave the world better than we found it. This is where your work can make a difference in people\u2019s lives. Including your own.Apple is an equal opportunity employer that is committed to inclusion and diversity. Visit apple.com/careers to learn more.",
+            "company_professional_network_profile_url": "https://linkedin.com/company/162479",
+            "company_profile_picture_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/company/9f20f7dfbd20268dc694e5be3f9cb914503c52f99a1e954bdd09eda5fd434b83.jpg",
+            "company_website_domain": "apple.com",
+            "crustdata_company_id": 680979,
+            "description": "CoreMotion team (ML health/fitness tracking), worked on + presented hybrid ML-software project w/ PhD research scientists and data engineers (and D1 athletes and marathon runners). Project currently pending for a patent. Participated in clubs: running, poker, volleyball.",
+            "employment_type": "",
+            "end_date": "2026-06-01T00:00:00+00:00",
+            "function_category": "Engineering",
+            "is_default": false,
+            "location": {
+              "raw": ""
+            },
+            "name": "Apple",
+            "position_id": 2958931045,
+            "professional_network_id": "162479",
+            "seniority_level": "In Training",
+            "start_date": "2026-03-01T00:00:00+00:00",
+            "title": "Machine Learning Engineer Intern",
+            "years_at_company": "Less than 1 year",
+            "years_at_company_raw": 0.0
+          },
+          {
+            "company_description": "Building the generative engine for the Age of Identity. Researching computational aesthetics and AI symbiosis to create intelligent mirrors for human and creative AI.",
+            "company_professional_network_profile_url": "https://linkedin.com/company/109056989",
+            "company_profile_picture_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/company/b7a3f4cfe11eaedced2c195dc9c41b7ed807dee536bd7ea1dc80997e7ffdf374.jpg",
+            "company_website_domain": "inneraura.ai",
+            "crustdata_company_id": 14155308,
+            "description": "researching agents + memory (winter internship from end of Jan to end of Mar)",
+            "employment_type": "",
+            "end_date": "2026-03-01T00:00:00+00:00",
+            "function_category": "Research",
+            "is_default": false,
+            "location": {
+              "raw": ""
+            },
+            "name": "InnerAura Labs",
+            "position_id": 2834510437,
+            "professional_network_id": "109056989",
+            "seniority_level": "In Training",
+            "start_date": "2026-01-01T00:00:00+00:00",
+            "title": "Machine Learning Researcher Intern",
+            "years_at_company": "Less than 1 year",
+            "years_at_company_raw": 0.0
+          },
+          {
+            "company_description": "We are dedicated to producing field-transforming research and providing world-class educational opportunities in computing.  Founded in 1965, the department is consistently ranked among the top computer science departments in the world.  It is home to several A. M. Turing Award winners and MacArthur Fellows, as well as numerous members of the National Academies of Engineering, Medicine, and Science, the American Philosophical Society, and the American Academy of Arts and Sciences.  Work by our faculty spans all areas of computing in addition to numerous multidisciplinary collaborations with a wide range of other strong departments across the university. With a deep departmental commitment to exceptional teaching, the Computer Science major is, by far, the largest undergraduate major at Stanford.  Graduates of our PhD program have gone on to take faculty positions at top universities around the world and play leading roles in industrial research labs.  With Stanford serving as a seedbed for Silicon Valley, it is no surprise that faculty and alumni of our department have founded some of the most well-known technology companies, including Alphabet/Google, Netflix, VMware, Arista Networks, and others.Our department strongly believes that diversity among our students and faculty will help produce better solutions to the technological challenges we face.  We strive to build an inclusive community where different viewpoints are valued, and everyone is welcome and respected.  We firmly believe that, if we appreciate the responsibility that accompanies power and consider the broad perspectives of different stakeholders, computing will continue to serve humanity well.",
+            "company_professional_network_profile_url": "https://linkedin.com/company/96346030",
+            "company_profile_picture_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/company/0a8f18eaeab17808ca79432cddff9da4182eaec2d808ba39858d6ceb467e4aec.jpg",
+            "company_website_domain": "stanford.edu",
+            "crustdata_company_id": 2098514,
+            "description": "CS224N + CS372 course research projects: medical sycophancy + multiagent quant trading debates. CS372 paper accepted to ACM KDD, one of several contributors for benchmark paper.",
+            "employment_type": "",
+            "end_date": "2026-03-01T00:00:00+00:00",
+            "function_category": "Research",
+            "is_default": false,
+            "location": {
+              "raw": ""
+            },
+            "name": "Stanford University Department of Computer Science",
+            "position_id": 2853039144,
+            "professional_network_id": "96346030",
+            "seniority_level": "Entry Level",
+            "start_date": "2026-01-01T00:00:00+00:00",
+            "title": "AI Courses Research Projects",
+            "years_at_company": "Less than 1 year",
+            "years_at_company_raw": 0.0
+          },
+          {
+            "company_description": "We are dedicated to producing field-transforming research and providing world-class educational opportunities in computing.  Founded in 1965, the department is consistently ranked among the top computer science departments in the world.  It is home to several A. M. Turing Award winners and MacArthur Fellows, as well as numerous members of the National Academies of Engineering, Medicine, and Science, the American Philosophical Society, and the American Academy of Arts and Sciences.  Work by our faculty spans all areas of computing in addition to numerous multidisciplinary collaborations with a wide range of other strong departments across the university. With a deep departmental commitment to exceptional teaching, the Computer Science major is, by far, the largest undergraduate major at Stanford.  Graduates of our PhD program have gone on to take faculty positions at top universities around the world and play leading roles in industrial research labs.  With Stanford serving as a seedbed for Silicon Valley, it is no surprise that faculty and alumni of our department have founded some of the most well-known technology companies, including Alphabet/Google, Netflix, VMware, Arista Networks, and others.Our department strongly believes that diversity among our students and faculty will help produce better solutions to the technological challenges we face.  We strive to build an inclusive community where different viewpoints are valued, and everyone is welcome and respected.  We firmly believe that, if we appreciate the responsibility that accompanies power and consider the broad perspectives of different stakeholders, computing will continue to serve humanity well.",
+            "company_professional_network_profile_url": "https://linkedin.com/company/96346030",
+            "company_profile_picture_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/company/0a8f18eaeab17808ca79432cddff9da4182eaec2d808ba39858d6ceb467e4aec.jpg",
+            "company_website_domain": "stanford.edu",
+            "crustdata_company_id": 2098514,
+            "description": "CS229 Research lead: PCA, SVMs, Gradient Boosting, feature engineering for pricing tech options.",
+            "employment_type": "",
+            "end_date": "2025-12-01T00:00:00+00:00",
+            "function_category": "Research",
+            "is_default": false,
+            "location": {
+              "raw": ""
+            },
+            "name": "Stanford University Department of Computer Science",
+            "position_id": 2767349837,
+            "professional_network_id": "96346030",
+            "seniority_level": "Senior",
+            "start_date": "2025-09-01T00:00:00+00:00",
+            "title": "Quant Machine Learning Research Lead",
+            "years_at_company": "Less than 1 year",
+            "years_at_company_raw": 0.0
+          },
+          {
+            "company_description": "We are Uber. The go-getters. The kind of people who are relentless about our mission to help people go anywhere and get anything and earn their way. Movement is what we power. It\u2019s our lifeblood. It runs through our veins. It\u2019s what gets us out of bed each morning. It pushes us to constantly reimagine how we can move better. For you. For all the places you want to go. For all the things you want to get. For all the ways you want to earn. Across the entire world. In real time. At the incredible speed of now.The idea for Uber was born on a snowy night in Paris in 2008, and ever since then our DNA of reimagination and reinvention carries on. We\u2019ve grown into a global platform powering flexible earnings and the movement of people and things in ever expanding ways. We\u2019ve gone from connecting rides on 4 wheels to 2 wheels to 18-wheel freight deliveries. From takeout meals to daily essentials to prescription drugs to just about anything you need at any time and earning your way. From drivers with background checks to real-time verification, safety is a top priority every single day. At Uber, the pursuit of reimagination is never finished, never stops, and is always just beginning.",
+            "company_professional_network_profile_url": "https://linkedin.com/company/1815218",
+            "company_profile_picture_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/company/ac481c3e74df9924ab4105f9822090bfe0371e3e53352b924fb8ca76353f1d76.jpg",
+            "company_website_domain": "uber.com",
+            "crustdata_company_id": 5714,
+            "description": "Risk Payments team: build ETL data pipelines to deliver real-time data to prevent users' fraudulent payment behaviors in Uber Rides. love the ping pong there. Wrote ~1500 lines and landed ~20 diffs",
+            "employment_type": "",
+            "end_date": "2025-11-01T00:00:00+00:00",
+            "function_category": "Engineering",
+            "is_default": false,
+            "location": {
+              "raw": ""
+            },
+            "name": "Uber",
+            "position_id": 2764724929,
+            "professional_network_id": "1815218",
+            "seniority_level": "In Training",
+            "start_date": "2025-09-01T00:00:00+00:00",
+            "title": "Software Engineer Intern",
+            "years_at_company": "Less than 1 year",
+            "years_at_company_raw": 0.0
+          },
+          {
+            "company_description": "We\u2019re a diverse collective of thinkers and doers, continually reimagining what\u2019s possible to help us all do what we love in new ways. And the same innovation that goes into our products also applies to our practices \u2014 strengthening our commitment to leave the world better than we found it. This is where your work can make a difference in people\u2019s lives. Including your own.Apple is an equal opportunity employer that is committed to inclusion and diversity. Visit apple.com/careers to learn more.",
+            "company_professional_network_profile_url": "https://linkedin.com/company/162479",
+            "company_profile_picture_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/company/9f20f7dfbd20268dc694e5be3f9cb914503c52f99a1e954bdd09eda5fd434b83.jpg",
+            "company_website_domain": "apple.com",
+            "crustdata_company_id": 680979,
+            "description": "Coded protocol features for HTTP Networking, open source WebKit on GitHub, presented to VPs and directors, poker:)",
+            "employment_type": "",
+            "end_date": "2025-08-01T00:00:00+00:00",
+            "function_category": "Engineering",
+            "is_default": false,
+            "location": {
+              "raw": ""
+            },
+            "name": "Apple",
+            "position_id": 2703116907,
+            "professional_network_id": "162479",
+            "seniority_level": "In Training",
+            "start_date": "2025-06-01T00:00:00+00:00",
+            "title": "Software Engineer Intern",
+            "years_at_company": "Less than 1 year",
+            "years_at_company_raw": 0.0
+          },
+          {
+            "company_description": "The Stanford Artificial Intelligence Laboratory (SAIL) has been a center of excellence for Artificial Intelligence research, teaching, theory, and practice since its founding in 1962. SAIL was founded by Prof. John McCarthy, one of the founding fathers of the field of AI. While the discipline of AI has transformed in many fundamental ways since its inception in 1950s, SAIL remains a proud leading intellectual hub for generations of scientists and engineers, an education mecca for students, and a center of excellence for cutting edge research work.",
+            "company_professional_network_profile_url": "https://linkedin.com/company/18754847",
+            "company_profile_picture_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/company/2043e19663e8788be3452a7eae1ab163a1d1d59b0bfe81c723f361a7e29ddf5f.jpg",
+            "company_website_domain": "stanford.edu",
+            "crustdata_company_id": 1229145,
+            "description": "1) CS231N group research: 3D semantic spatial benchmarking for multimodal LLMs. Mentored by SVL Lab: Fan-Yun Sun and Sharon Lee (Moonlake AI Founders) \n2) CS224R group research: test-time scaling + benchmarked s1 model on GMS8K data for post-training RL. Utilized Tree of Thought, PPO\n3) SAIL: HairFlow lead researcher: developed ML models for hair image segmentation, classification, prediction. Under Ron Fedkiw.",
+            "employment_type": "",
+            "end_date": "2025-06-01T00:00:00+00:00",
+            "function_category": "Research",
+            "is_default": false,
+            "location": {
+              "raw": ""
+            },
+            "name": "Stanford Artificial Intelligence Laboratory (SAIL)",
+            "position_id": 2618205056,
+            "professional_network_id": "18754847",
+            "seniority_level": "Entry Level",
+            "start_date": "2024-12-01T00:00:00+00:00",
+            "title": "LLMs + Computer Vision + Reinforcement Learning Researcher",
+            "years_at_company": "Less than 1 year",
+            "years_at_company_raw": 0.0
+          },
+          {
+            "company_description": "",
+            "company_professional_network_profile_url": null,
+            "company_profile_picture_permalink": "",
+            "company_website_domain": null,
+            "crustdata_company_id": null,
+            "description": "Citadel Summer Datathon Competition: 2nd place out of 150+ competitors\nUChicago Quant Trading Competition: 1st place out of 160+ competitors\n\nCitadel Summer Datathon Competition: wrote 12-page report, identified and proved strong correlations between processed foods and healthcare, that are reflected in financial markets. We developed a novel pairs trading strategy that identified seven correlated pairs between processed food and healthcare and has a Sharpe Ratio of 1.58\n\nUChicago Competition: created robust Python trading algorithm details private, engaged in real-time decision making under pressure for manual + algo trading, $24M simulated P&L with 1.41 Sharpe ratio",
+            "employment_type": "",
+            "end_date": "2025-04-01T00:00:00+00:00",
+            "function_category": "Engineering",
+            "is_default": false,
+            "location": {
+              "raw": ""
+            },
+            "name": "Citadel Datathon + UChicago Trading Competition",
+            "position_id": 2826997478,
+            "professional_network_id": "",
+            "seniority_level": "Entry Level",
+            "start_date": "2024-08-01T00:00:00+00:00",
+            "title": "Quantitative Trader + Developer",
+            "years_at_company": "Less than 1 year",
+            "years_at_company_raw": 0.0
+          },
+          {
+            "company_description": "A problem isn't truly solved until it's solved for all. Googlers build products that help create opportunities for everyone, whether down the street or across the globe. Bring your insight, imagination and a healthy disregard for the impossible. Bring everything that makes you unique. Together, we can build for everyone.Check out our career opportunities at goo.gle/3DLEokh",
+            "company_professional_network_profile_url": "https://linkedin.com/company/1441",
+            "company_profile_picture_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/company/25c2a61d60d5c9d91ca96db58d37461cd9665c025ad413b8e9dbccecf979fc24.jpg",
+            "company_website_domain": "goo.gle",
+            "crustdata_company_id": 4926893,
+            "description": "Utilized Python, C++, and SQL to make machine learning models features + tests for the Ads Team. used Transformers for quote sentiment detection in internal hackathon. loved the poker there:)",
+            "employment_type": "",
+            "end_date": "2024-09-01T00:00:00+00:00",
+            "function_category": "Engineering",
+            "is_default": false,
+            "location": {
+              "raw": ""
+            },
+            "name": "Google",
+            "position_id": 2485038658,
+            "professional_network_id": "1441",
+            "seniority_level": "In Training",
+            "start_date": "2024-06-01T00:00:00+00:00",
+            "title": "Software Engineer Intern",
+            "years_at_company": "Less than 1 year",
+            "years_at_company_raw": 0.0
+          },
+          {
+            "company_description": "Harvard Medical School brings together the brightest minds in science and medicine to improve health and well-being for all.  With our affiliated  hospitals and research institutes, we are home to more than 12,000 faculty members and 1,600 medical and graduate students \u2014 more than twice that of any other medical school in the United States. The possibilities for mentorship and impact across a range of disciplines at HMS are unparalleled.Harvard Medical School has:\u25ba Trained generations of doctors and researchers, pioneering new educational models and curricula to continually address emerging needs in health care \u25ba Made impactful discoveries and fueled innovation, including life-changing new therapies for cancer, diabetes, and sickle cell disease and new knowledge addressing rising health care costs and health inequities \u25ba Collaborated with local community organizations to improve health for vulnerable populations Our community is united in its desire to tackle complex challenges in science, medicine, and health, guided by a shared sense of purpose and a genuine passion to make a difference.",
+            "company_professional_network_profile_url": "https://linkedin.com/company/1645",
+            "company_profile_picture_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/company/3c2394673c2dc0ef9ce994e65c01197ef53abf52d552ab315fa4cc3642349110.jpg",
+            "company_website_domain": "harvard.edu",
+            "crustdata_company_id": 1473330,
+            "description": "May-Sept 2022 Harvard: Lead researcher, optimized + tested UNet AI Models for 3D medical image segmentation. 2nd author paper published in LNCS Journal, top place in HECKTOR2022\n\nAug 2022 - Sep 2023 Stanford Medicine EEGML Lab: Implemented, optimized, Python GUI apps and signal algorithms for EEG seizure detection",
+            "employment_type": "",
+            "end_date": "2022-09-01T00:00:00+00:00",
+            "function_category": "Research",
+            "is_default": false,
+            "location": {
+              "raw": ""
+            },
+            "name": "Harvard Medical School",
+            "position_id": 2240264212,
+            "professional_network_id": "1645",
+            "seniority_level": "Senior",
+            "start_date": "2022-05-01T00:00:00+00:00",
+            "title": "Medical AI Researcher, Project Lead",
+            "years_at_company": "Less than 1 year",
+            "years_at_company_raw": 0.0
+          },
+          {
+            "company_description": "",
+            "company_professional_network_profile_url": "https://linkedin.com/company/106681506",
+            "company_profile_picture_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/company/2365837b8b06f2d25e46f93d5bd07279a914ee54a0bfbf4b7014237b0079fe40.jpg",
+            "company_website_domain": "stanford.edu",
+            "crustdata_company_id": 6621611,
+            "description": "research lead of light field dataset generation; 1st author IEEE paper, presented at MIT URTC",
+            "employment_type": "",
+            "end_date": "2022-08-01T00:00:00+00:00",
+            "function_category": "Research",
+            "is_default": false,
+            "location": {
+              "raw": ""
+            },
+            "name": "Department of Electrical Engineering, Stanford University",
+            "position_id": 2710710418,
+            "professional_network_id": "106681506",
+            "seniority_level": "Entry Level",
+            "start_date": "2022-06-01T00:00:00+00:00",
+            "title": "Stanford SHTEM Research Internship",
+            "years_at_company": "Less than 1 year",
+            "years_at_company_raw": 0.0
+          }
+        ]
+      }
+    },
+    "professional_network": {
+      "connections": 3573,
+      "current_title": "Stanford AI Labs Machine Learning Lead Researcher",
+      "followers": 3544,
+      "headline": "BS+MS in CS/AI @ Stanford | Prev @ Apple | Health ML Researcher | Pareto Fellow",
+      "location": {
+        "city": "",
+        "continent": "North America",
+        "country": "United States",
+        "raw": "San Francisco Bay Area",
+        "state": "California"
+      },
+      "metadata": {
+        "last_scraped_source": null
+      },
+      "name": "Julia H.",
+      "profile_picture_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/person/0e1ffb3cfb4bb7c28addacc9e5a966f6047260495b48cb76ab36d112fada9f94.jpg",
+      "pronoun": "",
+      "summary": "Hi! My name is Juli and I'm a Stanford CS Major (AI Track) + Music minor junior with both experiences and interests in ML research, healthcare AI, computer vision, and robotics.- Research: previously worked on LLM evaluation &amp; benchmarking, post-training RL, quantitative ML, and medical computer vision with 5 published papers- Industry experience across Apple (C++ systems + health ML), Google (ML features), and Uber (databases + distributed systems)- Hobbies:  hackathons, piano covers and composing, EDM music production, concerts, poker, chess, hiking:Former competitive classical pianist:)Contact: julih (stanford email)"
+    },
+    "skills": {
+      "professional_network_skills": []
+    },
+    "social_handles": {
+      "dev_platform_identifier": {
+        "profile_url": null
+      },
+      "professional_network_identifier": {
+        "profile_url": "https://www.linkedin.com/in/juliahuang-"
+      },
+      "twitter_identifier": {
+        "slug": ""
+      }
+    },
+    "crustdata_person_id": 2918758
+  }
+}

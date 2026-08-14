@@ -1,0 +1,129 @@
+{
+  "luma_user_id": "usr-Fbnu9MO3HyO3OSG",
+  "csv_name": "Edward Aryee",
+  "csv_linkedin": "https://www.linkedin.com/in/edwardaryee",
+  "enriched_at": "2026-08-12T19:01:42.791113+00:00",
+  "batch_id": "sd_msqgese9ztya3e3uk",
+  "profile": {
+    "id": "edwardaryee",
+    "name": "Edward Aryee",
+    "city": "San Francisco Bay Area",
+    "country_code": "US",
+    "position": null,
+    "about": null,
+    "current_company": {
+      "link": "https://www.linkedin.com/company/laminar?trk=public_profile_topcard-current-company",
+      "name": "Laminar",
+      "company_id": "laminar",
+      "location": null
+    },
+    "experience": null,
+    "url": "https://au.linkedin.com/in/edwardaryee",
+    "people_also_viewed": [
+      {
+        "profile_link": "https://www.linkedin.com/in/roksana-baleshzar",
+        "name": "Roksana Baleshzar",
+        "about": "TectoAI",
+        "location": "5K followers San Francisco, CA"
+      },
+      {
+        "profile_link": "https://www.linkedin.com/in/chenjingyes",
+        "name": "Jing Chen",
+        "about": "Google DeepMind",
+        "location": "1K followers Mountain View, CA"
+      },
+      {
+        "profile_link": "https://www.linkedin.com/in/tussharsingh13",
+        "name": "Tusshar Singh",
+        "about": "Google",
+        "location": "8K followers New York, NY"
+      },
+      {
+        "profile_link": "https://www.linkedin.com/in/qijun-jiang-9408337b",
+        "name": "Qijun Jiang",
+        "about": "Google",
+        "location": "2K followers Mountain View, CA"
+      },
+      {
+        "profile_link": "https://www.linkedin.com/in/yiwen-chen-8630b958",
+        "name": "Yiwen Chen",
+        "about": "Google",
+        "location": "8K followers Mountain View, CA"
+      },
+      {
+        "profile_link": "https://www.linkedin.com/in/yizheng-zhao-4b2851a5",
+        "name": "Yizheng Zhao",
+        "about": "Google",
+        "location": "5K followers Sunnyvale, CA"
+      },
+      {
+        "profile_link": "https://www.linkedin.com/in/chen-qian-7b17777b",
+        "name": "Chen Qian",
+        "about": "Airbnb",
+        "location": "2K followers Mountain View, CA"
+      },
+      {
+        "profile_link": "https://www.linkedin.com/in/zzlnkd",
+        "name": "Zheng Z.",
+        "about": "Google",
+        "location": "5K followers San Francisco Bay Area"
+      },
+      {
+        "profile_link": "https://www.linkedin.com/in/prachibhansali",
+        "name": "Prachi Bhansali",
+        "about": "Google",
+        "location": "741 followers Mountain View, CA"
+      },
+      {
+        "profile_link": "https://www.linkedin.com/in/qiwen-guo-4674bb98",
+        "name": "Qiwen Guo",
+        "about": "Google",
+        "location": "1K followers Mountain View, CA"
+      }
+    ],
+    "educations_details": "Drexel University",
+    "education": null,
+    "avatar": "https://static.licdn.com/aero-v1/sc/h/9c8pery4andzj6ohjkjp54ma2",
+    "followers": 2081,
+    "connections": 500,
+    "current_company_company_id": "laminar",
+    "current_company_name": "Laminar",
+    "projects": [
+      {
+        "title": "LinkViewer (Youtube Links)",
+        "start_date": "Sep 2014",
+        "description": "LinkViewer enables you to see the most important information about a page without having to click on the link. Depending on what link it is, that information could be different!"
+      },
+      {
+        "title": "Squelch",
+        "start_date": "May 2014",
+        "description": "iOS tweak to allow toggling of Do Not Disturb mode on a timer, without use of physical buttons. Created at CodeDay Philly 2014\u2022 Contributed to design elements of tweak\u2022 Objective-C programming"
+      },
+      null,
+      null,
+      null,
+      {
+        "title": "Gait 4 Dogs (Senior Design)",
+        "description": "The Gait4Dogs iPad application provides an inexpensive, easy to use alternative to a force plate for capturing quadruped gait. Using accelerometers and a Bluetooth connection, the application captures and analyzes the motion of a dog's legs, and displays it to the user in a simple but effective interface. Several different analysis methods are used to provide veterinarians with multiple ways to observe a dog\u2019s recovery."
+      }
+    ],
+    "location": null,
+    "input_url": "https://www.linkedin.com/in/edwardaryee",
+    "linkedin_id": "edwardaryee",
+    "activity": null,
+    "linkedin_num_id": "188051274",
+    "banner_image": "https://media.licdn.com/dms/image/v2/D4E16AQGuMq6vSps6Yg/profile-displaybackgroundimage-shrink_200_800/B4EZ7285EKHsAQ-/0/1782259618436?e=2147483647&v=beta&t=ovNSuNhAnhTbvAcmDfdqYBgNCF81Sl9cAbbk7fLJ7-4",
+    "honors_and_awards": null,
+    "similar_profiles": [],
+    "default_avatar": true,
+    "memorialized_account": false,
+    "bio_links": [],
+    "first_name": "Edward",
+    "last_name": "Aryee",
+    "influencer": false,
+    "timestamp": "2026-08-12T19:00:26.300Z",
+    "input": {
+      "url": "https://www.linkedin.com/in/edwardaryee"
+    }
+  }
+}

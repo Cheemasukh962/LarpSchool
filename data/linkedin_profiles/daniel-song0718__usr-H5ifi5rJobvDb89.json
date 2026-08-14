@@ -1,0 +1,267 @@
+{
+  "luma_user_id": "usr-H5ifi5rJobvDb89",
+  "csv_name": "Daniel Song",
+  "csv_linkedin": "https://www.linkedin.com/in/daniel-song0718",
+  "enriched_at": "2026-08-12T19:01:42.778937+00:00",
+  "batch_id": "sd_msqgese9ztya3e3uk",
+  "profile": {
+    "id": "daniel-song0718",
+    "name": "Daniel Song",
+    "city": "London, Ontario, Canada",
+    "country_code": "CA",
+    "position": null,
+    "about": "Herro, I like AI. I'm open to Summer 2027 opportunities in\u2026",
+    "current_company": {
+      "link": "https://www.linkedin.com/company/8090solutions?trk=public_profile_topcard-current-company",
+      "name": "8090 Solutions",
+      "company_id": "8090solutions",
+      "location": null
+    },
+    "experience": null,
+    "url": "https://co.linkedin.com/in/Daniel-song0718",
+    "educations_details": "University of Waterloo",
+    "education": [
+      {
+        "title": "University of Waterloo",
+        "url": "https://ca.linkedin.com/school/uwaterloo/",
+        "start_year": "2023",
+        "end_year": "2028",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      },
+      {
+        "start_year": "2019-09",
+        "end_year": "2023-06",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      }
+    ],
+    "avatar": "https://media.licdn.com/dms/image/v2/D4E03AQG2FU6NHxwMuw/profile-displayphoto-shrink_200_200/B4EZdwuSWMHIAY-/0/1749942871842?e=2147483647&v=beta&t=6-hYltZxUaWl0nsXuWWSWoBfa1ehrTPYmeFHrZLBgWg",
+    "courses": [
+      {
+        "subtitle": "Math 145",
+        "title": "Algebra (Advanced Level)"
+      },
+      {
+        "subtitle": "Math 137",
+        "title": "Calculus 1 (Honours)"
+      },
+      {
+        "subtitle": "CS 135",
+        "title": "Designing Functional Programs"
+      },
+      {
+        "subtitle": "RUSS 101",
+        "title": "Elementary Russian 1"
+      },
+      {
+        "subtitle": "ECON 102",
+        "title": "Introduction to Macroeconomics"
+      }
+    ],
+    "languages": [
+      {
+        "subtitle": "Native or bilingual proficiency",
+        "title": "Korean"
+      },
+      {
+        "subtitle": "Native or bilingual proficiency",
+        "title": "English"
+      },
+      {
+        "subtitle": "Limited working proficiency",
+        "title": "French"
+      }
+    ],
+    "certifications": [
+      {
+        "meta": "Issued Jun 2023",
+        "subtitle": "France \u00c9ducation international",
+        "title": "Dipl\u00f4me d'\u00c9tudes en Langue Fran\u00e7aise niveau B1",
+        "credential_url": null,
+        "credential_id": null
+      }
+    ],
+    "volunteer_experience": [
+      {
+        "duration": "Sep 2022 \u00b7 - \nMar 2023 \u00b7 \n7 months",
+        "duration_short": "- \nMar 2023",
+        "info": "Participated in leadership role overseeing organization, meetings, attendance, member notifications, and financial responsibilities, including budget adherence and fund allocation for the Youth Council.",
+        "start_date": "Sep 2022",
+        "subtitle": "Northwest London Resource Centre",
+        "title": "Youth Council"
+      },
+      {
+        "duration": "Sep 2019 \u00b7 - \nJul 2021 \u00b7 \n1 year 11 months",
+        "duration_short": "- \nJul 2021",
+        "info": "Delivered academic assistance, cultivating an engaging learning environment for student success across various subjects.",
+        "start_date": "Sep 2019",
+        "subtitle": "Northwest London Resource Centre",
+        "title": "Tutor"
+      }
+    ],
+    "followers": 1007,
+    "connections": 500,
+    "current_company_company_id": "8090solutions",
+    "current_company_name": "8090 Solutions",
+    "projects": [
+      {
+        "title": "Schedulify",
+        "start_date": "Jan 2024",
+        "description": "Implementing a web-application that allows users to create multiple timetables for given course listings with personal constraints settings. Currently developing a RESTful API that allows users to modify the schedules generated and extract them."
+      },
+      null,
+      {
+        "title": "Presence",
+        "start_date": "Jun 2025",
+        "description": "We are an AI B2B SAAS startup helping small and medium sized-businesses to reduce HR interviewing and new recruit onboarding costs, by using a combination of LLM and CV in analyzing users' speeches."
+      },
+      {
+        "title": "ToDos",
+        "start_date": "Dec 2023",
+        "description": "Task organization hub that provides to-do list function along with weather information based on user location, Spotify player grid, and current time."
+      },
+      {
+        "title": "JobSearch",
+        "start_date": "Aug 2023",
+        "description": "Develop a Python web scraping function that efficiently searches various online platforms for relevant job listings based on specified keywords. This tool aims to streamline the job search process by aggregating information from multiple websites."
+      },
+      {
+        "title": "Auto Tracking System for First Robotics",
+        "start_date": "Dec 2022",
+        "description": "Developed a autonomous object tracking system utilizing a limelight sensor and servo motors. Further implemented later during the first robotics competition, for game object tracking."
+      },
+      {
+        "title": "Education Manager",
+        "start_date": "Dec 2022",
+        "description": "A Java application designed to simplify class grading, attendance, and user login processes for teachers and students. The system utilizes MySQL, a relational database system to secure data storage, providing a practical solution for effective academic management. Polled hundreds of teachers in Ontario and achieved a 95% response rate with feedback emphasizing the potential of our application to simplify class management."
+      },
+      {
+        "title": "Profit prediction model",
+        "description": "Developed a multiple linear regression model to predict startup profits using Python and scikit-learn, based on on R&D, administration, and marketing spends."
+      }
+    ],
+    "location": "London",
+    "input_url": "https://www.linkedin.com/in/daniel-song0718",
+    "linkedin_id": "daniel-song0718",
+    "activity": [
+      {
+        "interaction": null,
+        "link": "https://www.linkedin.com/posts/sahandsojoodi_hey-were-hosting-our-first-2026-hackathon-activity-7404541593954942976-HRcR",
+        "title": "Hey! We\u2019re hosting our first 2026 Hackathon and it\u2019s built for engineers who love building for engineers. \u29be Build for software builders \u29be Meet other cracked builders \u29be Ship something wild Join me in January \ud83d\udc47 ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQHntyl94Dt7Mw/feedshare-image-high-res/B56ZsIpA70K4Ao-/0/1765376528640?e=2147483647&v=beta&t=VVXnmHybF1s2tVlmHgJfk0fTa42cSrSHP9b5TKMueow",
+        "id": "2026"
+      },
+      {
+        "interaction": "Daniel Song liked this",
+        "link": "https://www.linkedin.com/posts/chamath_a-constraint-in-longevity-research-aging-activity-7492618579016671232-EQ1w",
+        "title": "A constraint in longevity research: aging lacks a clear regulatory pathway. And since all-cause mortality trials for aging are unfeasible - every drug, even those born from aging research, will be tested against a specific disease instead. Because of this bottleneck, the next major milestones for the field are expected in three directions: Path 1: Win disease by disease. Show that a single drug succeeds in separate trials across several age-related diseases, making it hard to deny the drug is acting on aging itself rather than any one condition. Path 2: Test against multiple diseases at once. Successfully test a single drug against several age-related diseases simultaneously in a single trial, directly demonstrating that it acts on aging broadly. Path 3: Change the rules. Get a regulator to approve new trial designs based on surrogate endpoints using functional parameters (like grip strength, walking speed, or cognitive performance), or aging biomarkers (like chronic inflammation levels or epigenetic patterns). To understand this new industry fully, Social Capital partnered with a team of leading researchers to put together a two-part deep dive into longevity biotech and aging research. We recently released the part 2. Head to my Substack to read it: https://lnkd.in/gQZX6vN4",
+        "img": null,
+        "id": "7492618579016671232"
+      },
+      {
+        "interaction": "Daniel Song liked this",
+        "link": "https://www.linkedin.com/posts/jenhsunhuang_nvidia-ai-factory-compute-is-becoming-an-activity-7492701460766527488-IDue",
+        "title": "A new asset class is being born. AI factories are becoming investable infrastructure. The capital markets are mobilizing to build the infrastructure of intelligence.",
+        "img": null,
+        "id": "7492701460766527488"
+      },
+      {
+        "interaction": "Daniel Song liked this",
+        "link": "https://www.linkedin.com/posts/shashank-v-4b7a9536b_thank-you-cursor-check-out-arogya-ai-activity-7491466581856665600-cZt6",
+        "title": "thank you cursor check out Arogya AI , we are raising pre seed...",
+        "img": "https://media.licdn.com/dms/image/v2/D4D22AQFOUfaH_nDrBQ/feedshare-image-high-res/B4DZ_cJKUNIoAY-/0/1786104817144?e=2147483647&v=beta&t=Xh-FpEpeutic8hJN9EDAkfhMJuDc2aiBYEgI0z_5BHU",
+        "id": "7491466581856665600"
+      },
+      {
+        "interaction": "Daniel Song liked this",
+        "link": "https://www.linkedin.com/posts/j-hawkins_extremely-proud-to-announce-that-i-switched-activity-7491146555262013440-vrIH",
+        "title": "extremely proud to announce that i switched from Fable 5 to Sonnet 4.6 for a small task and it saved me $0.37",
+        "img": "https://media.licdn.com/dms/image/v2/D4E10AQGEN_ILTMniBQ/image-shrink_1280/B4EZ_XmBWcHMAg-/0/1786028496681?e=2147483647&v=beta&t=2R9sjc1VWGsfeWOby7dbCeXOoO-yD_jY-0p4HmCMFXw",
+        "id": "7491146555262013440"
+      },
+      {
+        "interaction": "Daniel Song liked this",
+        "link": "https://kr.linkedin.com/posts/taeyongkim_simulation-engineer-industrial-physics-and-activity-7491212687784398848-QNVF",
+        "title": "\uc5d4\ube44\ub514\uc544 \uc634\ub2c8\ubc84\uc2a4/\uc2dc\ubbac\ub808\uc774\uc158 \ud300\uc5d0\uc11c \ud55c\uad6d\uc5d0\uc11c \uc544\ub798\uc640 \uac19\uc774 \ub450 \ubd84\uc57c\uc5d0\uc11c \uc5d4\uc9c0\ub2c8\uc5b4\ub97c \uad6c\ud558\uace0 \uc788\uc2b5\ub2c8\ub2e4. Physical AI\ub97c \uc704\ud55c \ubb3c\ub9ac \uc2dc\ubbac\ub808\uc774\uc158 \uae30\uc220 \uac1c\ubc1c\uacfc \ub514\uc9c0\ud138 \ud2b8\uc708 \uac1c\ubc1c\uc9c0\uc6d0 \uad00\ub828\ud55c \ud3ec\uc9c0\uc158\uc785\ub2c8\ub2e4. We are looking for talented engineers in Korea for physics simulation for Physical AI and digital twin engineering. https://lnkd.in/gE-qEcM9 https://lnkd.in/gCQHpdMT",
+        "img": "https://media.licdn.com/dms/image/sync/v2/D5627AQHZNeQdEZZlDg/articleshare-shrink_1280_800/B56Z_YhSNNHUAg-/0/1786044032349?e=2147483647&v=beta&t=f7F3O5BLUNRrZsMjwjCZFCva8LSlxfHwBfnud94wuvc",
+        "id": "7491212687784398848"
+      },
+      {
+        "interaction": "Daniel Song liked this",
+        "link": "https://www.linkedin.com/posts/joshualeezhang_im-excited-to-share-that-mirai-has-raised-activity-7491178782309998592-JbdP",
+        "title": "I\u2019m excited to share that Mirai has raised $500,000 in pre-seed investment from a16z speedrun . When people look for a home, they\u2019re not just buying the building. They\u2019re buying the commute, the schools, and the neighborhood that will shape their lives. Yet nearly every real estate listing stops at the property line. We have sophisticated ways to experience a home online, but understanding the surrounding area still means piecing together information scattered across the internet. We\u2019re building Mirai to change that. Mirai turns any address into a virtual neighborhood experience, helping buyers understand what living there could feel like before scheduling a showing. I\u2019m incredibly grateful to be building this alongside Andrew Shum and Caleb Lo , with the support of Fareed Mosavat and Jonathan Lai . A huge thank you as well to the entire a16z speedrun team, including Andrew Chen , Joshua Lu , Kenan Saleh , Marcus Segal , Troy Kirwin , Emily Bennett , Seeam Shahid Noor , Samira Behrouzan , Macy Mills , Lester Chen , Tom Hammer , Lejla Johnsen , Andrew Lee , Jordan Mazer , Jordan Carver , Bella Nazzari , Joe G. ri, Joe G., Marigold Vu , Jacqueline Young , Joan DeGennaro and everyone else who has helped sharpen our thinking and will help us move this vision forward. And thank you to Musa Aqeel , Peter Bai , and Fahmi Omer for supporting us from the earliest stages. We\u2019re opening private-beta partnerships with agents, brokerages, and builders, and hiring across engineering, product, and go-to-market. Comment your email or reach out directly if you\u2019d like to work with us.",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQFh7EJp-t7XHg/feedshare-shrink_800/B56Z_Vtu16HIAc-/0/1785996963771?e=2147483647&v=beta&t=Cs3VJN3kLcKMpR5fPYIwlnMbM5yyVKdy-KcengGHyno",
+        "id": "7491178782309998592"
+      },
+      {
+        "interaction": "Daniel Song liked this",
+        "link": "https://www.linkedin.com/posts/8090solutions_the-most-common-question-we-got-after-publishing-activity-7490476527332253697-LGyJ",
+        "title": "The most common question we got after publishing our work with CMS: how do you know 100,000+ extracted business rules are accurate? The answer has two parts: expert graders and a citation trail. CMS subject-matter experts graded randomly sampled rules against their own knowledge of the systems. A few of them were in the room when the original COBOL was written. Every rule carries its evidence: the source lines it came from, or the CMS documentation that confirms it. 18M+ lines of Assembly and COBOL is too much for any team to re-read. The grading and the citations make the record checkable. Read more: https://lnkd.in/gBTtqz2s",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQE_HPk7cT6Imw/feedshare-shrink_800/B56Z_OEtQQG4Ac-/0/1785868768644?e=2147483647&v=beta&t=F9m8RZcugqjyd_856SecL2AJdp7a2jnkqlympBiBMY8",
+        "id": "7490476527332253697"
+      },
+      {
+        "interaction": "Daniel Song liked this",
+        "link": "https://www.linkedin.com/posts/jvngyn_probably-an-overshare-but-ive-been-wanting-activity-7486522123604111361-gC6_",
+        "title": "Probably an overshare, but I've been wanting to talk a little bit about my move to Tesla now that my 90 day mark has passed and my career goals. When I moved to this team, one of the things that I was changing was the genre of students I'd get to work with! In my previous lives, a majority of my ecosystem and comfort zone was recruiting and working with students in a technical capacity! From software engineers to machine learning, product managers to science, a majority of my career as a recruiter was built working in this space. tbh, I was pretty anxious and felt overwhelmed by technical jargon and the landscape of it all - but over time, I found comfort. Call it brute force, but I became comfortable reviewing resumes. I became comfortable speaking in public. I loved attending hackathons like nwPlus and Hack the North , loved learning about the diversity of projects and tech stacks that existed out there. I got to partner with schools with caring staff. Managers were really educational. Engineers were super understanding. And the students were so, so, kind. It became easier to talk with them. I didn't feel out of place. No one judged me. I was in my own head. That anxiousness eventually was replaced with both warmth, and comfort. At the same time, there was a trade-off that was happening. I did feel that there many students that didn't feel represented or heard. As the world tends to remind me, it's a huge, huge place. And where I was more available/accessible in one space, I was a stranger to many others. So when the opportunity made the most sense, I left the comfort of being in a technical space, to pursue recruiting in a new sector. For those who don't know, I now focus on internships in the Manufacturing space! I work with students from Manufacturing, Mechanical, Industrial, and Design backgrounds, and a more traditional genre of engineering altogether now. In many ways, I am that anxious person again but in many more ways, I am learning all over again. And because of this, I'm able to help more students than before. I don't get to talk much about career goals, but I do not yearn to be a recruiter that specializes in a certain sector - I yearn to be a recruiter that specializes in students. Comprehensively, in every space. Because it isn't a specific sector that I find comfort in, it is working with students that makes it so rewarding c: I'm in a really unique position, and I am aware of that! I am able to do both. So you'll see postings from me about my engineering roles and once in a blue moon, you'll see postings from me for technical roles too! My skip fondly referred to this as being a swiss army knife. I refer to this as being really, really, lucky. I yearn to be agnostic. I want to learn it all. That's what makes it a mighty goal. My career has always been in greater service to students and with this, I am able to do so for a larger, larger, population. --- ps: i'd love to recruit ux someday c:",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQF5szFkEfz-Ww/feedshare-image-high-res/B56Z.V4MzSIQAY-/0/1784925965793?e=2147483647&v=beta&t=vBHzyriV59kh-uiWvTGyJ7PccGqhSjX9fD5lM0z7rRI",
+        "id": "7486522123604111361"
+      },
+      {
+        "interaction": "Daniel Song liked this",
+        "link": "https://www.linkedin.com/posts/chaewon-eom-oll2o3_im-wrapping-up-my-internship-at-scotiabank-activity-7488719461684760576-DdMv",
+        "title": "I'm wrapping up my internship at Scotiabank a little earlier than expected. But before I share what's next, I wanted to reflect on few things I've learned over the past seven months. When I switched majors in my third year of university, I felt like I was behind everyone else. I graduated a semester later than most of my friends, wondering if I was already \"late\". When I joined the bank as a CX Design Intern in January, I wasn't even sure if I had the skills to do well in my role. I didn't study design. Honestly, I didn't even know what CX was before January. Looking back, I realize I was worrying about the wrong things. \ud83d\udca1 One thing that changed everything for me was simply \ud835\udc1a\ud835\udc2c\ud835\udc24\ud835\udc22\ud835\udc27\ud835\udc20 \ud835\udc2a\ud835\udc2e\ud835\udc1e\ud835\udc2c\ud835\udc2d\ud835\udc22\ud835\udc28\ud835\udc27\ud835\udc2c. Since I didn't come from a design background, I reached out to UX designers, service designers, and product designers because I was genuinely curious about their work and wanted to understand how they made their design decisions. Beyond designers, I talked to anyone who was willing to share their experiences. Every person around you has experiences that you can learn from. If you're an intern or just starting your career, don't be afraid of not knowing things. Nobody expects you to know everything. You're new to the company, to the industry, maybe even to corporate life itself. People are usually more than happy to help if they see that you're genuinely curious and willing to learn. \ud83d\udca1 Another thing I learned is to \ud835\udc2c\ud835\udc2d\ud835\udc28\ud835\udc29 \ud835\udc30\ud835\udc1a\ud835\udc22\ud835\udc2d\ud835\udc22\ud835\udc27\ud835\udc20 \ud835\udc1f\ud835\udc28\ud835\udc2b \ud835\udc28\ud835\udc29\ud835\udc29\ud835\udc28\ud835\udc2b\ud835\udc2d\ud835\udc2e\ud835\udc27\ud835\udc22\ud835\udc2d\ud835\udc22\ud835\udc1e\ud835\udc2c \ud835\udc2d\ud835\udc28 \ud835\udc1c\ud835\udc28\ud835\udc26\ud835\udc1e \ud835\udc2d\ud835\udc28 \ud835\udc32\ud835\udc28\ud835\udc2e. If you have capacity (and most interns probably do), ask if there's something you can help with. I looked for ways I could contribute instead of waiting for someone to assign me work. It might start with something small, but if you do it well, people remember and start trusting you with bigger projects, more responsibility, and opportunities you never expected you would have as an intern. That could feel overwhelming sometimes, and there were definitely moments where I looked at my backlog and thought, \"Can I actually do this?\" But one quote has really stuck with me: \"\ud835\udc0f\ud835\udc2b\ud835\udc1e\ud835\udc2c\ud835\udc2c\ud835\udc2e\ud835\udc2b\ud835\udc1e \ud835\udc22\ud835\udc2c \ud835\udc29\ud835\udc2b\ud835\udc22\ud835\udc2f\ud835\udc22\ud835\udc25\ud835\udc1e\ud835\udc20\ud835\udc1e.\" If people keep trusting you with bigger opportunities, it's because they believe you're capable. It pushes you to learn faster, think differently, and grow in ways you probably wouldn't if you stayed comfortable. So \ud835\udc20\ud835\udc1e\ud835\udc2d \ud835\udc1c\ud835\udc28\ud835\udc26\ud835\udc1f\ud835\udc28\ud835\udc2b\ud835\udc2d\ud835\udc1a\ud835\udc1b\ud835\udc25\ud835\udc1e \ud835\udc30\ud835\udc22\ud835\udc2d\ud835\udc21 \ud835\udc1b\ud835\udc1e\ud835\udc22\ud835\udc27\ud835\udc20 \ud835\udc2e\ud835\udc27\ud835\udc1c\ud835\udc28\ud835\udc26\ud835\udc1f\ud835\udc28\ud835\udc2b\ud835\udc2d\ud835\udc1a\ud835\udc1b\ud835\udc25\ud835\udc1e. \ud83d\udca1 One last thing I want to share is this from our EVP: \ud835\udc02\ud835\udc21\ud835\udc1a\ud835\udc2c\ud835\udc1e \ud835\udc2c\ud835\udc24\ud835\udc22\ud835\udc25\ud835\udc25\ud835\udc2c, \ud835\udc27\ud835\udc28\ud835\udc2d \ud835\udc2d\ud835\udc22\ud835\udc2d\ud835\udc25\ud835\udc1e\ud835\udc2c. I wasn't chasing a specific title or trying to fit into the \"perfect role\". I wanted to become someone who create compelling designs, communicate ideas clearly, take ownership, collaborate across teams, challenge ideas respectfully, and be someone others could rely on. Over time, those small things started adding up. People trusted me with bigger initiatives, asking for my input, and giving me opportunities I never expected to have as an intern. The titles will come. The skills are what stay with you. And that's why I'm wrapping up my internship a little earlier than expected - I'm excited to be continuing my journey at Scotiabank as a Manager, CX Programs & Visual Design. I know it's a big jump, but to me, it reflects my team's belief in my potential. Now it's my turn to stretch, grow, and live up to that trust. So if you're feeling behind or don't feel \"qualified enough\", don't let that stop you. Be curious. Ask questions. Take initiative. Learn from the people around you. None of this would've been possible without my team - Natasha Mohindra , Andrea Erickson (Huitr\u00f3n) , Nick Somwaru, Julia Cipollone (Soye) , and everyone in the Client Expereince Management Office and the program.\ud83d\ude80 Thank you for trusting me with meaningful work and creating an environment where I could learn, make mistakes, and grow. I couldn't have asked for a better team to start my career with. Looking forward to this next chapter! \u2764\ufe0f",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQFtQTqBJQoabw/feedshare-image-high-res/B56Z.1Gq5jLAAY-/0/1785449852967?e=2147483647&v=beta&t=bTacfPLwIM8eYf9WceJIsBmMgp1cKcjl3tM5m7reOqE",
+        "id": "7488719461684760576"
+      }
+    ],
+    "linkedin_num_id": "1017243914",
+    "banner_image": "https://media.licdn.com/dms/image/v2/D4E16AQHtCw5LMctcpA/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1703020761754?e=2147483647&v=beta&t=EO9NhbGdVi3DhKUugt0hl-DGmb7Gkd6se2OI4lO1wP8",
+    "honors_and_awards": [
+      {
+        "title": "Presence | SpurHacks 2025 2nd Place Overall - Startup Track",
+        "publication": "SpurHacks 2025",
+        "date": "2025-06-01T00:00:00.000Z",
+        "description": "We are an AI B2B SAAS startup helping small and medium sized-businesses to reduce HR interviewing and new recruit onboarding costs, by using a combination of LLM and CV in analyzing users' speeches."
+      },
+      {
+        "title": "President's Scholarship of Distinction",
+        "publication": "University of Waterloo",
+        "date": "2023-09-01T00:00:00.000Z",
+        "description": "Incoming Undergraduate students with admission average of 95+%"
+      },
+      {
+        "title": "Rank top 10 Provincials - DECA",
+        "publication": "Ontario DECA",
+        "date": "2023-02-01T00:00:00.000Z",
+        "description": "Participated in DECA EFB (Franchise Business Plan) event and ranked among top 10 participants in provincials"
+      },
+      {
+        "title": "Schulich Leader Scholarship Nominee",
+        "publication": "Sir Frederick Banting Secondary School",
+        "date": "2023-02-01T00:00:00.000Z",
+        "description": null
+      }
+    ],
+    "similar_profiles": [],
+    "default_avatar": false,
+    "memorialized_account": false,
+    "bio_links": [
+      {
+        "title": "Personal Website",
+        "link": "https://danielsong.wiki/"
+      }
+    ],
+    "first_name": "Daniel",
+    "last_name": "Song",
+    "influencer": false,
+    "timestamp": "2026-08-12T19:00:14.977Z",
+    "input": {
+      "url": "https://www.linkedin.com/in/daniel-song0718"
+    }
+  },
+  "local_photo": "data\\linkedin_photos\\daniel-song0718__usr-H5ifi5rJobvDb89.jpg"
+}

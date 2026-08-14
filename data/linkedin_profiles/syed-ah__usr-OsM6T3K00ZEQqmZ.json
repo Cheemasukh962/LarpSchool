@@ -1,0 +1,305 @@
+{
+  "luma_user_id": "usr-OsM6T3K00ZEQqmZ",
+  "csv_name": "Asad Hussain",
+  "csv_linkedin": "https://www.linkedin.com/in/syed-ah",
+  "enriched_at": "2026-08-12T18:58:28.962338+00:00",
+  "batch_id": "sd_msqgad6c2eeefcaqas",
+  "profile": {
+    "id": "syed-ah",
+    "name": "Asad Hussain",
+    "city": "Toronto, Ontario, Canada",
+    "country_code": "CA",
+    "position": null,
+    "about": "Always eager to connect with ambitious minds.",
+    "current_company": {
+      "link": "https://www.linkedin.com/company/heygen?trk=public_profile_topcard-current-company",
+      "name": "HeyGen",
+      "company_id": "heygen",
+      "location": null
+    },
+    "experience": null,
+    "url": "https://ca.linkedin.com/in/syed-ah",
+    "educations_details": "University of Toronto",
+    "education": [
+      {
+        "title": "University of Toronto",
+        "url": "https://ca.linkedin.com/school/university-of-toronto/",
+        "start_year": "2021-09",
+        "end_year": "2026-05",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      }
+    ],
+    "recommendations_count": 5,
+    "avatar": "https://media.licdn.com/dms/image/v2/D5603AQGUT07j-V2XOA/profile-displayphoto-scale_200_200/B56ZlpAjB7I4AY-/0/1758403375629?e=2147483647&v=beta&t=Nz0nlP4DxDOhdmf9qf-PLhvCs_1O6hnOTjVHWe_TNRs",
+    "certifications": [
+      {
+        "meta": "Issued Jan 2025 Credential ID UC-a308670c-b20e-43e1-8037-1e74d0b9cfd6 See credential",
+        "subtitle": "Udemy",
+        "title": "IBM x Udemy - Intro To Agile",
+        "credential_url": "https://www.udemy.com/certificate/UC-a308670c-b20e-43e1-8037-1e74d0b9cfd6/?trk=public_profile_see-credential",
+        "credential_id": "UC-a308670c-b20e-43e1-8037-1e74d0b9cfd6"
+      },
+      {
+        "meta": "Issued Jan 2025 Credential ID UC-4a7fde15-ab94-4d43-a5d7-9c3078d08570 See credential",
+        "subtitle": "Udemy",
+        "title": "IBM x Udemy - Soft Skills for Technical Professionals",
+        "credential_url": "https://www.udemy.com/certificate/UC-4a7fde15-ab94-4d43-a5d7-9c3078d08570/?trk=public_profile_see-credential",
+        "credential_id": "UC-4a7fde15-ab94-4d43-a5d7-9c3078d08570"
+      }
+    ],
+    "recommendations": [
+      "Ali Abbas Jafri \u201cWorking with Asad has been one of the most rewarding collaborations I\u2019ve had. He\u2019s sharp, deeply technical, and moves with real founder-level ownership. Whether it\u2019s architecture, product thinking, or execution under pressure, Asad consistently delivers with clarity and intention. He\u2019s building with purpose, not ego and that\u2019s rare. I\u2019d recommend him to any serious team or founder.\u201d",
+      "Akash Bhagyawant \u201cIt is my pleasure to recommend Asad, who was an integral part of my team at RBC Wealth Management Canada during his tenure as a co-op developer. During his time with us, Asad demonstrated exceptional technical expertise and a strong work ethic. He worked extensively on Salesforce integration and data migration projects, utilizing a wide range of technologies, including Java, Spring Boot, Openshift, Microservices, Kafka, MongoDB, PLSQL and lot more. His ability to quickly grasp complex requirements and deliver effective solutions was truly impressive. Asad\u2019s contributions were critical in ensuring the seamless integration of systems, which significantly enhanced operational efficiency. He also played a key role in migrating large datasets with accuracy and efficiency, showcasing his attention to detail and commitment to quality. Beyond his technical skills, Asad was a team player who collaborated effectively with stakeholders across various functions. His proactive communication and problem-solving skills fostered a positive and productive working environment. I have no doubt that Asad will excel in any role he undertakes. He is a highly capable developer with a passion for innovation and a proven ability to deliver results.\u201d"
+    ],
+    "volunteer_experience": [
+      {
+        "cause": "Children",
+        "duration": "Jul 2018 \u00b7 - Present \u00b7 \n8 years 2 months",
+        "duration_short": "- Present",
+        "info": "\u2022 Led and managed a team of 8 to present the work of HOPE Foundation at a fundraiser, resulted in securing over 50 new monthly donors and over $400,000 in donations",
+        "start_date": "Jul 2018",
+        "subtitle": "HOPE Foundation Canada",
+        "title": "Fundraising Volunteer"
+      },
+      {
+        "cause": "Science and Technology",
+        "duration": "Jun 2020 \u00b7 - \nAug 2023 \u00b7 3 years 3 months",
+        "duration_short": "- \nAug 2023",
+        "info": "\u2022 Supervised and coordinated a team of 4 to plan different product testing procedures \u2022 Created and executed 10 software tests weekly for cloud-based phone systems prior product release",
+        "start_date": "Jun 2020",
+        "subtitle": "Voicbee Phone Systems",
+        "title": "Quality Assurance Lead"
+      },
+      {
+        "cause": "Education",
+        "duration": "Jun 2022 \u00b7 - \nSep 2022 \u00b7 4 months",
+        "duration_short": "- \nSep 2022",
+        "info": "\u2022 Collaborated with team members to secure sponsors for ProjectX (AI Research competition) including Google, Nvidia, and IBM",
+        "start_date": "Jun 2022",
+        "subtitle": "UofT AI",
+        "title": "Associate for Partnerships"
+      }
+    ],
+    "followers": 5476,
+    "connections": 500,
+    "current_company_company_id": "heygen",
+    "current_company_name": "HeyGen",
+    "projects": [
+      {
+        "title": "Android Assist",
+        "start_date": "Jan 2024",
+        "description": "Motivated by the work at @CultureLink.ca and inspired by Apple's Assistive Access, we set out on a mission to enhance the accessibility of Android devices for seniors. Rather than expecting seniors to adapt to technology, we recognized the importance of making technology adapt to them. Thus, we developed Android Assist with the aim of simplifying smartphone usage for senior citizens, ensuring they can effortlessly navigate and utilize their devices. Our goal was to bridge the digital divide and empower seniors to stay connected, informed, and engaged in today's increasingly digital world.Git: https://github.com/asadCoder/Android-Assist"
+      },
+      null,
+      null,
+      null,
+      null,
+      {
+        "title": "Signify",
+        "start_date": "Mar 2023",
+        "description": "The current communication gap between deaf and hearing individuals due to the lack of access to sign language interpretation services creates exclusion and isolation of the deaf community. This issue results in a lack of access to essential services, information and opportunities, as well as social and economic disadvantages for the deaf community.Our app aims to address this issue by providing a real-time solution that detects sign language gestures, translates them into written text, and facilitates communication between deaf and hearing individuals, breaking down communication barriers and creating a more inclusive world.Impact:Improved communication: The app enables deaf individuals to communicate more effectively with those who can hear, breaking down communication barriers and allowing for more seamless communication.Increased access to information: The app allows deaf individuals to access information that was previously unavailable to them due to the language barrier. This includes accessing educational materials, job opportunities, and social and cultural events.Enhanced social inclusion: The app promotes social inclusion by allowing deaf individuals to fully participate in society and interact with their hearing peers."
+      },
+      null,
+      null,
+      null,
+      {
+        "title": "Health Canada App",
+        "start_date": "Aug 2022",
+        "description": "By assessing our own needs and thinking about needs of the greater Canadian population, we have created the start of a vision of a more advanced and inclusive healthcare system. Our app aims to increase efficiency, promote equity and inclusion in the health care industry by creating a platform where everyone has an equal chance of accessing healthcare services quickly and effectively.The (prototype) app supports multiple functionalities: it allows the storage and monitoring of medical information, empowers individuals with accessibility needs by making it easier to book appointments through our app, view results from testing etc. Moreover, with all these features combined, our app also aims to to reduce clinic and hospital wait times."
+      },
+      null,
+      null,
+      null,
+      null,
+      null,
+      {
+        "title": "Sports Venue Booking App",
+        "start_date": "Jul 2022",
+        "description": "\u2022 Developed an application in Android Studio that allows users to administer, schedule and book sports events \u2022 Directed and oversaw a team of four to make use of Scrum, design patterns, and SOLID design principles to reduce dependencies and achieve extendibility"
+      },
+      null,
+      null,
+      {
+        "title": "Polaris",
+        "description": "Polaris is an agentic AI platform designed at the intersection of conversational intelligence and geospatial data. Born from a hackathon, the project gained rapid international traction for its innovative approach to AI-driven navigation.Key Milestones:Global Recognition: Secured a spot in the Top 20 for the Hult Prize in Canada, competing against thousands of social enterprises worldwide.Academic & Industry Pitching: Invited to pitch at UC Berkeley and engaged in strategic discussions with an OpenAI investor.The Vision: This was supposed to be Gemeni in google maps before Gemeni in Google maps :)"
+      }
+    ],
+    "location": "Toronto",
+    "input_url": "https://www.linkedin.com/in/syed-ah",
+    "linkedin_id": "syed-ah",
+    "activity": [
+      {
+        "interaction": "Liked by Asad Hussain",
+        "link": "https://www.linkedin.com/posts/friends-of-bata_founders-episode3-season2-activity-7492867511810519040-3a6q",
+        "title": "A painter once feared photography would KILL painting. \u274c\u2620\ufe0f\ud83d\udc47 \ud83c\udfa8\ud83e\udde0 It forced artists to ask what only humans could do, AI is asking #founders the\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQG86Ve_rS64rA/feedshare-shrink_800/B4EZ_v4QuzJgAg-/0/1786435931574?e=2147483647&v=beta&t=KNVR4B_4vKq0SxYpA6yTSra--WdeQ2WYt8hA8eU8jNI",
+        "id": "7492867511810519040"
+      },
+      {
+        "interaction": "Liked by Asad Hussain",
+        "link": "https://www.linkedin.com/posts/zayd-syed-ali-4201101a9_six-years-old-still-the-clearest-thing-ive-activity-7492920285210320897-tYOG",
+        "title": "six years old, still the clearest thing i've read on selling.",
+        "img": "https://media.licdn.com/dms/image/v2/D4E10AQHLmkE2GNEjBA/image-shrink_1280/B4EZ_wzSjsJEAc-/0/1786451405913?e=2147483647&v=beta&t=bXp0f2uC2CrvNYfA0uUpBFmTVxNl-e9ObKXvqvqr-pY",
+        "id": "7492920285210320897"
+      },
+      {
+        "interaction": "Liked by Asad Hussain",
+        "link": "https://www.linkedin.com/posts/joshua-chandiramani_ai-machinelearning-softwareengineering-activity-7492746633751810048-rJy1",
+        "title": "This week let's break down what the alignment problem is, in the context of AI, in plain English. When you train an AI model, you give it a goal\u2026",
+        "img": "https://static.licdn.com/aero-v1/sc/h/53n89ecoxpr1qrki1do3alazb",
+        "id": "7492746633751810048"
+      },
+      {
+        "interaction": "Liked by Asad Hussain",
+        "link": "https://www.linkedin.com/posts/muhammadhassan6_after-14-weeks-of-deep-learning-and-eventful-activity-7492974865868595201-_wC_",
+        "title": "After 14 weeks of deep learning and eventful experiences, I\u2019ve finally reached the end of my academic journey at Sheridan College as an Architectural\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQHrar_WBhgLAQ/feedshare-shrink_800/B56Z_xk7EbJMAc-/0/1786464419169?e=2147483647&v=beta&t=OHdmP6m9TJBNaj0DftrYwx0s14SWoSABRIGLcy306Ds",
+        "id": "14"
+      },
+      {
+        "interaction": "Liked by Asad Hussain",
+        "link": "https://www.linkedin.com/posts/tynee_since-i-was-freshmen-at-ubc-ppl-told-me-activity-7492325937024315392-2kvy",
+        "title": "Since I was freshmen at UBC, ppl told me to leave Vancouver. I didn\u2019t want to believe them. One of the greatest cities in the world. Great food\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQHfhSwRVhsqwA/feedshare-image-high-res/B4EZ_oWvBEIYAU-/0/1786309702276?e=2147483647&v=beta&t=jDjzeqxaUKddMaeZc79L9uP2FTdPImoQKTgYPmKkjac",
+        "id": "7492325937024315392"
+      },
+      {
+        "interaction": "Liked by Asad Hussain",
+        "link": "https://www.linkedin.com/posts/adilmania_weve-just-raised-a-very-very-small-pre-seed-activity-7488665942034391040-_Qfp",
+        "title": "We've just raised a very very small pre-seed round ($325k) from very very big amazing people \u2764\ufe0f One goal: craft the future of entertainment in tech.\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQG_p64aiXhczA/feedshare-shrink_800/B4EZ.0V_c_IkAg-/0/1785437092034?e=2147483647&v=beta&t=QaAX56wqW4I5ZdPRihf6UK8tYHLoCfIHcVu0fnyYSds",
+        "id": "7488665942034391040"
+      },
+      {
+        "interaction": "Liked by Asad Hussain",
+        "link": "https://www.linkedin.com/posts/saaiarora_as-a-yc-founder-startup-school-in-sf-means-activity-7488277230989799424-aG5u",
+        "title": "as a yc founder, startup school in sf means your apartment turns into a hostel. this week i hosted my friends who flew in from various cities for\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQHSs65gfJEuxA/feedshare-image-high-res/B4EZ.liIcMHAAU-/0/1785188616322?e=2147483647&v=beta&t=EEsvVMUqYpEtiMST9DF304TyRipdpLkD_QMjPV9gcv8",
+        "id": "7488277230989799424"
+      },
+      {
+        "interaction": "Liked by Asad Hussain",
+        "link": "https://www.linkedin.com/posts/googledevelopers_me-i-need-to-clean-up-this-codebase-activity-7486404824444473344-xaGV",
+        "title": "Me: \"I need to clean up this codebase.\" Also me: Adds // TODO: Fix this later and commits.",
+        "img": "https://static.licdn.com/aero-v1/sc/h/53n89ecoxpr1qrki1do3alazb",
+        "id": "7486404824444473344"
+      },
+      {
+        "interaction": "Liked by Asad Hussain",
+        "link": "https://www.linkedin.com/posts/adriaan-dekker-google-ads-freelancer-rotterdam_activity-7486510525607153665-vcJD",
+        "title": "!",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQH5yVdZtvnetw/feedshare-shrink_800/B4EZ90AUe2HAAk-/0/1784357669429?e=2147483647&v=beta&t=Oj8YdxGxjlMhE9tgPqwcPwB-lHnJTRB3c8VdwEcdpiY",
+        "id": "7486510525607153665"
+      },
+      {
+        "interaction": "Liked by Asad Hussain",
+        "link": "https://www.linkedin.com/posts/hiring-cafe_how-to-avoid-ghost-jobs-hiringcafe-activity-7490100390282289152-zIuB",
+        "title": "Ghost jobs are among some of the easiest traps you can fall into while applying, and are something we've talked about for a while now, but....what\u2026",
+        "img": "https://media.licdn.com/dms/image/sync/v2/D5627AQEFjDTQegBHQQ/articleshare-shrink_800/B56Z_ItNKpKwAc-/0/1785778721843?e=2147483647&v=beta&t=E318kpaUGOGNQytxJ0dDrnG_LJcW1-29nNUPAlsKrRM",
+        "id": "7490100390282289152"
+      },
+      {
+        "interaction": "Liked by Asad Hussain",
+        "link": "https://www.linkedin.com/posts/sefunmiosinaike_were-really-experiencing-a-pandemic-of-posters-activity-7488975973573361664-Bpt2",
+        "title": "We're really experiencing a pandemic of posters created by Chat-GPT, they're all terrible. Bring back masterpieces like this. AI could never.",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQGngpTQSXMoiA/feedshare-shrink_800/B56Z.4v9u5JsAg-/0/1785511009528?e=2147483647&v=beta&t=MLiLIOX2hRQNHCT9KU3UQQCW6xQDt4DVapI3tmTIKkY",
+        "id": "7488975973573361664"
+      },
+      {
+        "interaction": "Liked by Asad Hussain",
+        "link": "https://www.linkedin.com/posts/jai-mansukhani-_were-hiring-co-op-students-at-general-magic-activity-7488972269042421761-4K_W",
+        "title": "We're hiring co-op students at General Magic. End of 2026 and into 2027. Term length doesn't matter to us. Four months, eight months, a full year\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQGZ4CPHb0wBfA/feedshare-shrink_800/B56Z.4sl9eJgAc-/0/1785510125967?e=2147483647&v=beta&t=pZaJMJC6FI-z5gVXZn9Pd-gkedNxPuBwRY_sQI5yeDA",
+        "id": "7488972269042421761"
+      },
+      {
+        "interaction": "Liked by Asad Hussain",
+        "link": "https://www.linkedin.com/posts/i-was-initially-rejected-from-y-combinator-activity-7488514985929658368-9KL7",
+        "title": "I was initially rejected from Y Combinator startup school. Found out I was accepted on Monday. To preface, The bay area last year more than changed\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQGy4fyh8McOXg/feedshare-shrink_800/B56Z.yIMtDJsAc-/0/1785399921684?e=2147483647&v=beta&t=W6E2RPLmhKXLiJQL-v55XwSn7z2AbYG_a5_-Qrnfmk0",
+        "id": "7488514985929658368"
+      },
+      {
+        "interaction": "Liked by Asad Hussain",
+        "link": "https://www.linkedin.com/posts/ukimsanov_asked-codex-and-claude-code-to-build-me-a-activity-7488262107684241409-OSTY",
+        "title": "Asked Codex and Claude Code to build me a quick video of what I shipped last week \ud83d\udc47 Color grading & media effects are now native in HyperFrames \u2013\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5605AQF2U9zmPQJAxw/videocover-high/B56Z.q07cMJoBQ-/0/1785277432406?e=2147483647&v=beta&t=a6WJC84uVjTuV2osaV5Wd32IMNTPLLfwG5UPEyHsnQc",
+        "id": "7488262107684241409"
+      },
+      {
+        "interaction": "Liked by Asad Hussain",
+        "link": "https://www.linkedin.com/posts/mdtalhachy_sf-is-so-random-i-met-garrytan-at-the-amc-activity-7487621954313572352-p8R7",
+        "title": "sf is so random i met @garrytan at the amc hallway just a day after Y Combinator startup school. humblest guy never turns down a fan \ud83d\ude2d",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQEOwLmKe8cowg/feedshare-image-high-res/B56Z.lgffRK4AU-/0/1785188186602?e=2147483647&v=beta&t=dzJBPOPjYyprOlBy0WTgvtjsIOSf76LjEikZPaNGuS0",
+        "id": "7487621954313572352"
+      },
+      {
+        "interaction": "Liked by Asad Hussain",
+        "link": "https://www.linkedin.com/posts/clevy_excited-for-internapalooza-monday-night-in-activity-7487005543438503936-D0-u",
+        "title": "excited for Internapalooza Monday night in SF it's unicorn founders in their twenties speaking...then hanging out, meeting people, and eating pizza\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQEAVbjmvWcm9w/feedshare-shrink_800/B56Z.cv3WfG8Ac-/0/1785041222290?e=2147483647&v=beta&t=Po_gAuN5ilnCcMG7Ek8IIUsfqitG2iCUCdgJR3wrxb8",
+        "id": "7487005543438503936"
+      }
+    ],
+    "linkedin_num_id": "908692295",
+    "banner_image": "https://media.licdn.com/dms/image/v2/D5616AQGjd0muowpDkw/profile-displaybackgroundimage-shrink_200_800/B56ZikDEOEHkAU-/0/1755098998458?e=2147483647&v=beta&t=4x5MyGKpPg2aJcHbwXMKkb-HLefwovoYrI5GlSOjPZA",
+    "honors_and_awards": [
+      {
+        "title": "Dean's Honour List",
+        "publication": "University of Toronto",
+        "date": "2025-09-01T00:00:00.000Z",
+        "description": "Students who have achieved a cumulative grade point average (CGPA) of 3.5 or better in their most recent year of study."
+      },
+      {
+        "title": "Computer and Mathematical Sciences Teaching Award",
+        "publication": "University of Toronto",
+        "date": "2025-05-01T00:00:00.000Z",
+        "description": "Selected as a recipient of the Computer and Mathematical Sciences TA Award for the Winter term 2025. This award recognizes outstanding contributions and dedication as a teaching assistant in the course MATA22 - Linear Algebra 1."
+      },
+      {
+        "title": "Dean's Honour List",
+        "publication": "University of Toronto",
+        "date": "2024-09-01T00:00:00.000Z",
+        "description": "Students who have achieved a cumulative grade point average (CGPA) of 3.5 or better in their most recent year of study."
+      },
+      {
+        "title": "Dean's Honour List",
+        "publication": "University of Toronto",
+        "date": "2023-09-01T00:00:00.000Z",
+        "description": "Students who have achieved a cumulative grade point average (CGPA) of 3.5 or better in their most recent year of study."
+      },
+      {
+        "title": "Dean's Honour List",
+        "publication": "University of Toronto",
+        "date": "2022-09-01T00:00:00.000Z",
+        "description": "Students who have achieved a cumulative grade point average (CGPA) of 3.5 or better in their most recent year of study."
+      },
+      {
+        "title": "U of T Scarborough Entrance Scholarship ($3,000)",
+        "publication": "University of Toronto",
+        "date": "2022-09-01T00:00:00.000Z",
+        "description": "Top tier $3,000 renewable award (which is awarded in your second year if you have an admission average of at least 95% and achieve the required GPA (3.7+) while at U of T Scarborough)"
+      },
+      {
+        "title": "University of Toronto Scholar ($7,500)",
+        "publication": "University of Toronto",
+        "date": "2021-09-01T00:00:00.000Z",
+        "description": "The U of T Scholars Program provides recognition to the University\u2019s outstanding students."
+      }
+    ],
+    "similar_profiles": [],
+    "default_avatar": false,
+    "memorialized_account": false,
+    "bio_links": [],
+    "first_name": "Asad",
+    "last_name": "Hussain",
+    "influencer": false,
+    "timestamp": "2026-08-12T18:57:34.528Z",
+    "input": {
+      "url": "https://www.linkedin.com/in/syed-ah"
+    }
+  },
+  "local_photo": "data\\linkedin_photos\\syed-ah__usr-OsM6T3K00ZEQqmZ.jpg"
+}

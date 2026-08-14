@@ -1,0 +1,358 @@
+{
+  "source": "crustdata",
+  "recovered_from": "brightdata_failed_private",
+  "luma_user_id": "usr-XGA30eapdaaqBud",
+  "csv_name": "Alexander Pak",
+  "csv_linkedin": "https://www.linkedin.com/in/alexanderpakbrown2028",
+  "clean_linkedin": "https://www.linkedin.com/in/alexanderpakbrown2028",
+  "enriched_at": "2026-08-14T18:07:59.937250+00:00",
+  "person_data": {
+    "basic_profile": {
+      "current_title": "Software Engineer",
+      "first_name": null,
+      "headline": "Software Engineer @ Kyron Medical",
+      "languages": [
+        "English (Native or bilingual proficiency)",
+        "Korean (Limited working proficiency)",
+        "Spanish (Limited working proficiency)"
+      ],
+      "last_name": null,
+      "location": {
+        "city": "San Ramon",
+        "continent": "North America",
+        "country": "United States",
+        "full_location": null,
+        "raw": "San Ramon, California, United States",
+        "state": "California"
+      },
+      "name": "Alexander Pak",
+      "normalized_title": {
+        "confident": true,
+        "department": "Engineering & Technology",
+        "matched_title": "Software Engineer",
+        "similarity": 0.9998999834060669,
+        "sub_department": "Software Engineering"
+      },
+      "professional_network_name": "Alexander Pak",
+      "profile_picture_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/person/d59d9bf2160fd0a6fedfe498bdc32077818e834e73175617f5d698130e01e360.jpg",
+      "summary": "https://alexanderpak.dev/alexander_pak [at] brown.edu"
+    },
+    "education": {
+      "schools": [
+        {
+          "activities_and_societies": "",
+          "degree": "",
+          "description": "Startup School '26",
+          "end_year": null,
+          "field_of_study": "",
+          "institute_logo_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/company/059f7e6072baf1189ebb67b9fec287348cc541df9931bf3d36c06f9bb5019e96.jpg",
+          "institute_logo_url": "https://media.licdn.com/dms/image/v2/C4D0BAQGPzdBPNxrmEg/company-logo_400_400/company-logo_400_400/0/1673555093250/y_combinator_logo?e=1788393600&v=beta&t=YtvXSppzaN1Mzecr3fAAg_uCY1jNEogFCktsioLpB7U",
+          "location": {
+            "city": "",
+            "continent": "North America",
+            "country": "United States",
+            "raw": "United States",
+            "state": ""
+          },
+          "professional_network_id": "167872",
+          "school": "Y Combinator",
+          "start_year": null
+        },
+        {
+          "activities_and_societies": "Every Vote Counts (Director of Operations), KSEA (Director of Finance), Healthcare Investment Group (Analyst), Derivatives Investment Group (Analyst), Marketing Club (Analyst), Salt and Light Christian Fellowship, Swimming Club, Rowing Club",
+          "degree": "Bachelor's degree",
+          "description": "Programs: Point72 Academy Spring Sessions, Barclays Discovery Program, BCG Launch",
+          "end_year": 2028,
+          "field_of_study": "Sc.B. Applied Mathematics-Computer Science, A.B. Economics",
+          "institute_logo_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/company/1d824d51e52606dff2c84e0d9496d08831ee759e7b18dacecb994170c0cb9b33.jpg",
+          "institute_logo_url": "https://media.licdn.com/dms/image/v2/C4E0BAQEK5eP7BQ975w/company-logo_400_400/company-logo_400_400/0/1630594275590/brown_university_logo?e=1788393600&v=beta&t=RJoN-jb0l_in0RwiSAw92CTwcDv2U0Utcw9kZzWybec",
+          "location": {
+            "city": "Providence",
+            "continent": "North America",
+            "country": "United States",
+            "raw": "Providence, Rhode Island, United States",
+            "state": "Rhode Island"
+          },
+          "professional_network_id": "157343",
+          "school": "Brown University",
+          "start_year": 2024
+        },
+        {
+          "activities_and_societies": "Valedictorian, Varsity Swimming, American Computer Science League Club (Founder), Samsung Solve For Tomorrow Team (Co-Founder), USACO Club (Co-Founder), Computer Engineering Club (Vice-President), Science Olympiad Club (Treasurer)",
+          "degree": "",
+          "description": "Coursework: Linear Algebra, Multivariable Calculus, 16x APs",
+          "end_year": 2024,
+          "field_of_study": "",
+          "institute_logo_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/company/49ffb0fa674359bd085807363ccfb3350671bec52819ddb4905a3d5b1b0cfa22.jpg",
+          "institute_logo_url": "https://media.licdn.com/dms/image/v2/D560BAQF6yinxdK6d2w/company-logo_400_400/B56Zed2gwwGQAc-/0/1750700002923/california_high_school_logo?e=1788393600&v=beta&t=qaWETT2ZYleSoeoWq_39_zrHe0Iio4K3l_mZ1hiPFN8",
+          "location": {
+            "city": "San Ramon",
+            "continent": "North America",
+            "country": "United States",
+            "raw": "San Ramon, California, United States",
+            "state": "California"
+          },
+          "professional_network_id": "12903385",
+          "school": "California High School (San Ramon CA.)",
+          "start_year": 2020
+        }
+      ]
+    },
+    "experience": {
+      "employment_details": {
+        "current": [
+          {
+            "company_description": "Kyron Medical builds AI agents that run the front and back office of physician groups and health systems. Scheduling, insurance verification, prior auth, billing, and collections, handled end to end without adding headcount.One AI-native platform. Built for the full patient journey, from first call to final payment.Trusted by leading physician groups across 15+ specialties.Learn more: kyronmedical.com",
+            "company_professional_network_profile_url": "https://linkedin.com/company/105537361",
+            "company_profile_picture_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/company/5acbdb4c252987d21a2313502a7bc9131c483b29ed07a3e1e1d830fc13feac02.jpg",
+            "company_website_domain": "kyronmedical.com",
+            "crustdata_company_id": 4079946,
+            "description": "",
+            "employment_type": "Full-time",
+            "end_date": null,
+            "function_category": "Engineering",
+            "is_default": true,
+            "location": {
+              "raw": "Providence, RI"
+            },
+            "name": "Kyron Medical",
+            "position_id": 2975212259,
+            "professional_network_id": "105537361",
+            "seniority_level": "Entry Level",
+            "start_date": "2026-07-01T00:00:00+00:00",
+            "title": "Software Engineer",
+            "years_at_company": "Less than 1 year",
+            "years_at_company_raw": 0.0
+          }
+        ],
+        "past": [
+          {
+            "company_description": "Hander is an online platform that enables college students nationwide to buy and sell used items and gadgets securely within their institutions\u2019s vicinity.",
+            "company_professional_network_profile_url": "https://linkedin.com/company/103836109",
+            "company_profile_picture_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/company/abf98a79f08c5a22123dcb1844d428158f98b5a22349f08e3f2af06bd31c7fd9.jpg",
+            "company_website_domain": "hander.us",
+            "crustdata_company_id": 3887227,
+            "description": "",
+            "employment_type": "",
+            "end_date": "2026-07-01T00:00:00+00:00",
+            "function_category": "Engineering",
+            "is_default": false,
+            "location": {
+              "raw": "Providence, RI"
+            },
+            "name": "Hander",
+            "position_id": 2950794821,
+            "professional_network_id": "103836109",
+            "seniority_level": "Entry Level",
+            "start_date": "2026-02-01T00:00:00+00:00",
+            "title": "Software Engineer",
+            "years_at_company": "Less than 1 year",
+            "years_at_company_raw": 0.0
+          },
+          {
+            "company_description": "Founded in 2019, Full Stack at Brown (FSAB) is the university's foremost student organization focused on web development. We design and build websites on a pro-bono basis for local non-profits, student organizations, and research groups.HOLD AN EVENT WITH USWe are always looking for opportunities for our members to learn more about the tech industry. In the past, we have hosted organizations ranging from VCs to large tech companies to startups \u2014 view our website for examples. If you are an industry professional, employer, and/or alum interested in holding an event, email us at fullstack@brown.edu!OUR MISSION & VALUES- Community: to support the Brown community's non-profits, student groups, and research labs by building modern websites on a pro-bono basis.- Accessibility: to make learning full-stack development accessible to all students. Unlike many other clubs, FSAB is not selective and, for those without experience, we run a bootcamp to teach new members everything.- Pedagogy: to teach students meaningful full-stack skills and give them exposure both to the software engineering process and the tech recruiting space.",
+            "company_professional_network_profile_url": "https://linkedin.com/company/31456946",
+            "company_profile_picture_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/company/fa37f6bd192d9f5becf4b3967d57e60d5b88967d9bac50217b6ee5ad1ad5ac74.jpg",
+            "company_website_domain": "fullstackatbrown.com",
+            "crustdata_company_id": 1531927,
+            "description": "",
+            "employment_type": "",
+            "end_date": "2026-05-01T00:00:00+00:00",
+            "function_category": "Engineering",
+            "is_default": false,
+            "location": {
+              "raw": "Providence, RI"
+            },
+            "name": "Full Stack at Brown",
+            "position_id": 2974433585,
+            "professional_network_id": "31456946",
+            "seniority_level": "Entry Level",
+            "start_date": "2024-09-01T00:00:00+00:00",
+            "title": "Software Engineer",
+            "years_at_company": "1 to 2 years",
+            "years_at_company_raw": 1.0
+          },
+          {
+            "company_description": "",
+            "company_professional_network_profile_url": "https://linkedin.com/company/101106683",
+            "company_profile_picture_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/company/3926dcdfa800f51fabbbfcce22f3d5a1b2c8376bfddadf63eb4484b25b8d3b11.jpg",
+            "company_website_domain": "larsonedu.com",
+            "crustdata_company_id": 10205159,
+            "description": "",
+            "employment_type": "Internship",
+            "end_date": "2026-02-01T00:00:00+00:00",
+            "function_category": "Research",
+            "is_default": false,
+            "location": {
+              "raw": "New York, NY"
+            },
+            "name": "Larson International Group",
+            "position_id": 2796541954,
+            "professional_network_id": "101106683",
+            "seniority_level": "Entry Level",
+            "start_date": "2025-10-01T00:00:00+00:00",
+            "title": "Equity Research Analyst",
+            "years_at_company": "Less than 1 year",
+            "years_at_company_raw": 0.0
+          },
+          {
+            "company_description": "We are dedicated, relentless entrepreneurs who know how to work as a team. We\u2019re channeling that energy into acquiring and operating one exceptional business, with the intention to lead it for the long term.As former college teammates, and with experience across investing, consulting, and operations, we\u2019re ready to step in as full-time operators and thoughtful stewards of a company\u2019s next chapter. We seek to thoughtfully partner with business owners who care deeply about their legacy and are looking for a values-aligned transition. Unlike traditional private equity, our approach is founder-friendly and geared towards the long-term. We prioritize continuity, culture, and sustainable growth, backed by meaningful investment and hands-on leadership.At Hope Street Capital, we believe great businesses are built on trust, alignment, and vision. Our mission is simple: to drive enduring value and build upon the efforts of the founder who made it all possible.If you're considering a transition and want your company in good hands, we\u2019d love to start the conversation!",
+            "company_professional_network_profile_url": "https://linkedin.com/company/108101443",
+            "company_profile_picture_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/company/8df5e06d7291fc12f7a262a4762a7d00c86054315221f45bf62eb12892a358d8.jpg",
+            "company_website_domain": "hope-st-capital.com",
+            "crustdata_company_id": 13636401,
+            "description": "",
+            "employment_type": "Internship",
+            "end_date": "2025-12-01T00:00:00+00:00",
+            "function_category": "",
+            "is_default": false,
+            "location": {
+              "raw": "Chicago, IL"
+            },
+            "name": "Hope Street Capital",
+            "position_id": 2730549872,
+            "professional_network_id": "108101443",
+            "seniority_level": "Entry Level",
+            "start_date": "2025-09-01T00:00:00+00:00",
+            "title": "Search Fund Analyst",
+            "years_at_company": "Less than 1 year",
+            "years_at_company_raw": 0.0
+          },
+          {
+            "company_description": "Loupt is a private fundraising company with two subdivisions. Loupt Offerings focuses on Regulation offerings, giving accredited investors access to private deals. Loupt Portal operates as a FINRA Funding Portal conducting Regulation Crowdfunding (Reg Cf) offerings, enabling startups to raise from both accredited and non-accredited investors. Together, these divisions simplify the fundraising process for founders while broadening access to high quality private market opportunities for investors.",
+            "company_professional_network_profile_url": "https://linkedin.com/company/98668350",
+            "company_profile_picture_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/company/b36a5b96a08b4156ee16bd2edc14497ba460c555dfa2360edfe0c923810df519.jpg",
+            "company_website_domain": "loupt.co",
+            "crustdata_company_id": 2592220,
+            "description": "",
+            "employment_type": "Internship",
+            "end_date": "2025-10-01T00:00:00+00:00",
+            "function_category": "",
+            "is_default": false,
+            "location": {
+              "raw": "New York, NY"
+            },
+            "name": "Loupt",
+            "position_id": 2974450137,
+            "professional_network_id": "98668350",
+            "seniority_level": "Entry Level",
+            "start_date": "2025-08-01T00:00:00+00:00",
+            "title": "Deal Flow Analyst",
+            "years_at_company": "Less than 1 year",
+            "years_at_company_raw": 0.0
+          },
+          {
+            "company_description": "AmcomTech - More info coming soon!",
+            "company_professional_network_profile_url": "https://linkedin.com/company/1143854",
+            "company_profile_picture_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/company/bcc5e40363c4ad9296d7c5950dc8a3973c99f3ca86562b935f4b8eb75832a650.jpg",
+            "company_website_domain": "amcomtech.net",
+            "crustdata_company_id": 3108703,
+            "description": "",
+            "employment_type": "Internship",
+            "end_date": "2025-08-01T00:00:00+00:00",
+            "function_category": "Engineering",
+            "is_default": false,
+            "location": {
+              "raw": "San Ramon, CA"
+            },
+            "name": "AmcoTech Inc.",
+            "position_id": 2711575945,
+            "professional_network_id": "1143854",
+            "seniority_level": "Entry Level",
+            "start_date": "2025-06-01T00:00:00+00:00",
+            "title": "Software Engineer",
+            "years_at_company": "Less than 1 year",
+            "years_at_company_raw": 0.0
+          },
+          {
+            "company_description": "Located in Danville, Ca, Diablo Aquatics offers the best in swimming instruction from our Swim School which provides lessons to young children to our USA Swimming team which competes at the highest levels.",
+            "company_professional_network_profile_url": "https://linkedin.com/company/28616869",
+            "company_profile_picture_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/company/c4390ce9c4deec3d011eba24e0261eec5d3b8c5146f815e90f17fc10585df3a3.jpg",
+            "company_website_domain": "diabloaquatics.com",
+            "crustdata_company_id": 19293800,
+            "description": "Achieved the USA Swimming National Age Group Award for setting a 15-16 400-yard freestyle relay record",
+            "employment_type": "",
+            "end_date": "2024-01-01T00:00:00+00:00",
+            "function_category": "",
+            "is_default": false,
+            "location": {
+              "raw": "Blackhawk, CA"
+            },
+            "name": "Diablo Aquatics",
+            "position_id": 2764439130,
+            "professional_network_id": "28616869",
+            "seniority_level": "Entry Level",
+            "start_date": "2015-01-01T00:00:00+00:00",
+            "title": "Competitive Swimmer",
+            "years_at_company": "6 to 10 years",
+            "years_at_company_raw": 9.0
+          },
+          {
+            "company_description": "UC Davis was founded in 1908 to serve the state of California. We do and we always will. Today, that seed planted years ago has grown into one of the world\u2019s top universities.UC Davis has a community of faculty and staff who are leading the way in teaching, research, public service and patient care. As the second-largest employer in the region, our Davis and Sacramento campuses host more than 24,000 employees and more than 40,000 students \u2014 including undergraduates, graduate students, professional students, interns and residents.Our talented students are more likely to collaborate than compete, and our employees make creative connections from the obvious to the outlandish. This friendly approach has built a rich campus community that turns big ideas into real solutions.We\u2019re ranked among the top 20 public universities in the nation with $1 billion in research funding. We\u2019re harnessing our power to find innovative solutions to the world\u2019s most daunting challenges \u2014 and preparing the next generation of leaders while we\u2019re at it.The university offers more than 100 majors in four colleges \u2014 Agricultural and Environmental Sciences, Biological Sciences, Engineering, and Letters and Science. Graduate students can pursue interdisciplinary studies, with advanced degrees available from six world-class professional schools \u2014 School of Education, School of Law, Graduate School of Management, School of Medicine, School of Veterinary Medicine and the Betty Irene Moore School of Nursing.",
+            "company_professional_network_profile_url": "https://linkedin.com/company/2842",
+            "company_profile_picture_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/company/02a9e7605db0add94fe18ae2fc9a4201d5bc6f98627ee23a0885e2f04d6c1aaa.jpg",
+            "company_website_domain": "ucdavis.edu",
+            "crustdata_company_id": 6048145,
+            "description": "Engineered and programmed an autonomous weather probe in C, featuring a microcontroller, sensors, solar panels, servo motors, and photodetectors, under the mentorship of Professors Hooman Rashtian and Rajeevan Amirtharajah",
+            "employment_type": "",
+            "end_date": "2022-08-01T00:00:00+00:00",
+            "function_category": "Research",
+            "is_default": false,
+            "location": {
+              "raw": "Davis, CA"
+            },
+            "name": "UC Davis",
+            "position_id": 2071097144,
+            "professional_network_id": "2842",
+            "seniority_level": "In Training",
+            "start_date": "2022-07-01T00:00:00+00:00",
+            "title": "Student Researcher",
+            "years_at_company": "Less than 1 year",
+            "years_at_company_raw": 0.0
+          }
+        ]
+      }
+    },
+    "professional_network": {
+      "connections": 827,
+      "current_title": "Software Engineer",
+      "followers": 836,
+      "headline": "Software Engineer @ Kyron Medical",
+      "location": {
+        "city": "San Ramon",
+        "continent": "North America",
+        "country": "United States",
+        "raw": "San Ramon, California, United States",
+        "state": "California"
+      },
+      "metadata": {
+        "last_scraped_source": null
+      },
+      "name": "Alexander Pak",
+      "profile_picture_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/person/d59d9bf2160fd0a6fedfe498bdc32077818e834e73175617f5d698130e01e360.jpg",
+      "pronoun": "He/Him",
+      "summary": "https://alexanderpak.dev/alexander_pak [at] brown.edu"
+    },
+    "skills": {
+      "professional_network_skills": [
+        "Python (Programming Language)",
+        "Full-Stack Development",
+        "Java",
+        "Microsoft Excel",
+        "Financial Modeling"
+      ]
+    },
+    "social_handles": {
+      "dev_platform_identifier": {
+        "profile_url": null
+      },
+      "professional_network_identifier": {
+        "profile_url": "https://www.linkedin.com/in/alexanderpakbrown2028"
+      },
+      "twitter_identifier": {
+        "slug": ""
+      }
+    },
+    "crustdata_person_id": 181906187
+  }
+}

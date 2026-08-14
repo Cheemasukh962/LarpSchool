@@ -1,0 +1,161 @@
+{
+  "luma_user_id": "usr-2GSPjNMNShDCYM6",
+  "csv_name": "Nicolas Dickenmann",
+  "csv_linkedin": "https://www.linkedin.com/in/nicolasdickenmann",
+  "enriched_at": "2026-08-12T19:13:35.737336+00:00",
+  "batch_id": "sd_msqguuzo2o546dm49e",
+  "profile": {
+    "id": "nicolasdickenmann",
+    "name": "Nicolas Dickenmann",
+    "city": "United States",
+    "country_code": "US",
+    "position": null,
+    "about": null,
+    "current_company": {
+      "location": null
+    },
+    "experience": null,
+    "url": "https://mx.linkedin.com/in/nicolasdickenmann",
+    "education": null,
+    "avatar": "https://static.licdn.com/aero-v1/sc/h/9c8pery4andzj6ohjkjp54ma2",
+    "languages": [
+      {
+        "subtitle": "Full professional proficiency",
+        "title": "English"
+      },
+      {
+        "subtitle": "Native or bilingual proficiency",
+        "title": "German"
+      },
+      {
+        "subtitle": "Limited working proficiency",
+        "title": "Spanish"
+      },
+      {
+        "subtitle": "Limited working proficiency",
+        "title": "French"
+      }
+    ],
+    "certifications": [
+      {
+        "meta": "Issued Dec 2022",
+        "subtitle": "Swiss Study Foundation",
+        "title": "Mentoring by the Swiss Study Foundation",
+        "credential_url": null,
+        "credential_id": null
+      }
+    ],
+    "followers": 661,
+    "connections": 500,
+    "location": null,
+    "input_url": "https://www.linkedin.com/in/nicolasdickenmann",
+    "linkedin_id": "nicolasdickenmann",
+    "activity": [
+      {
+        "interaction": null,
+        "link": "https://www.linkedin.com/posts/iroarmeni_cvpr2026-gradientspaces-lifeinresearch-activity-7469197348401762304-MmUp",
+        "title": "It\u2019s an exciting week for Gradient Spaces - Stanford ! We\u2019ve got team members in Denver for #CVPR2026 sharing their latest work and connecting with academia and industry leaders. Back home, the rest of the team is keeping the momentum going and prepping our next wave of projects. We love the energy of the conference floor, but we\u2019re just as excited about the breakthroughs happening back at the office. Cheers to the whole team for making it all happen! \ud83e\udd42 #GradientSpaces #LifeInResearch #Stanford #CVPR #BehindTheScenes",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQFBYDWK1sPHvA/feedshare-shrink_800/B56Z6frY1cJwAc-/0/1780795417047?e=2147483647&v=beta&t=xFQumYrt7GLhi40JKuhSfa-6p0KnQ2NfJg0NVeKgGfQ",
+        "id": "7469197348401762304"
+      },
+      {
+        "interaction": null,
+        "link": "https://www.linkedin.com/posts/csateth_since-2023-eth-z%C3%BCrich-has-been-an-official-activity-7439966833119510528-zwIF",
+        "title": "Since 2023, ETH Z\u00fcrich has been an official partner of the United Nations . Through this collaboration, ETH researchers and students are working on real-world challenges faced by the UN. The projects include: \u25aa\ufe0f An online platform to analyse and compare the voting behaviour of all UN member states. \u25aa\ufe0f An open-source image-generation model to generate easy-to-understand pictograms for UNICEF . Behind these projects are several computer science students: Janic Moser , Guo Han, Mohamed Kamel , Yuto Takano , Sahana Betschen , Yanis Merzouki , Nicolas Dickenmann and Sonia Laguna Cillero . Their research work makes a meaningful contribution to global policy. \ud83c\udf0d \ud83d\udc68\u200d\ud83d\udcbb \ud83d\udc49 Read article: https://lnkd.in/eP85pXJC",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQHIxHjWh5b9-g/feedshare-shrink_800/B4EZ0ASaVZJUAc-/0/1773826320101?e=2147483647&v=beta&t=xGcqpTTkp4Dh-8c2xeuhz2ztRM9ifWtZUr5yMByEQ34",
+        "id": "2023"
+      },
+      {
+        "interaction": "Nicolas Dickenmann shared this",
+        "link": "https://www.linkedin.com/posts/nicolasdickenmann_chi2026-activity-7441619995434004480-cX9l",
+        "title": "Excited to share that our recent work, Steering Generative Models for Accessibility: EasyRead Image Generation, has been accepted at #CHI2026 ! While AI image generation has exploded, general diffusion models favor artistic detail over functional clarity. For people with intellectual disabilities or language barriers, \"EasyRead\" pictograms are vital for comprehension, yet they remain expensive and slow to produce manually. To make visual accessibility scalable, we introduce a pipeline that uses lightweight LoRA fine-tuning to steer models toward generating consistent, high-quality EasyRead pictograms. Crucially, because you can't improve what you can't measure, we created the EasyRead Score, the first holistic benchmark to evaluate the simplicity and effectiveness of these pictograms. We open-source our code, model, and curated dataset. \ud83d\udcc4 Preprint: https://lnkd.in/gYsHws3p \ud83d\udcbbCode: https://lnkd.in/gWKzJHBJ Joint work with Yanis Merzouki (ETH), Sonia Laguna Cillero (ETH), Thy Nowak-Tran (Unicef), Emanuele Palumbo (ETH), Gerda Binder (Unicef) and Julia Vogt (ETH) Big thanks to all the collaborators!",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQENkOc6ODHcAA/feedshare-image-high-res/B56Z0Xx9GhIMAU-/0/1774220464773?e=2147483647&v=beta&t=BtAVCAbCFrBNhRtXNPXPwY1W_LSfEvZqVgcWapPi_i8",
+        "id": "7441619995434004480"
+      },
+      {
+        "interaction": "Nicolas Dickenmann shared this",
+        "link": "https://www.linkedin.com/posts/nicolasdickenmann_last-week-i-had-the-pleasure-of-attending-activity-7345083867273322496-UUgL",
+        "title": "Last week, I had the pleasure of attending the first-ever Y Combinator AI Startup School, with over 2,000 attendees from all over the world. While the speaker lineup was incredible \u2014 from visionaries such as Sam Altman and Elon Musk to some of the greatest researchers of our time, including Andrej Karpathy, Andrew Ng, and Fei-Fei Li \u2014 the true highlight of my time in SF was meeting a ton of young, ambitious founders, engineers, and researchers. It was also amazing to meet many ETH Zurich students and alumni who are founding startups in the Bay Area. Over the weekend, I also participated in the Berkeley Hackathon, where I built a tool with Daniel Kiss to semantically search for researchers, letting you explore the ones most relevant to your interests through an accessible visual graph. Starting with 14 Berkeley faculty leading in AI, we identified a total of 12,336 researchers within just two degrees of separation - based on publications' co-authorship - and mapped them all visually and semantically. Take a look: https://lnkd.in/e-ePFbq2",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQG7OkyNcAmMyQ/feedshare-image-high-res/B4EZe76dt_HcAs-/0/1751204456784?e=2147483647&v=beta&t=BE3i2z0rkq4Eosmij-dcRC-WMcYioS9bKa3ysVyaX7E",
+        "id": "7345083867273322496"
+      },
+      {
+        "interaction": "Nicolas Dickenmann commented on a post 1y",
+        "link": "https://www.linkedin.com/posts/jeff-allo_techtalks-ai-yc-activity-7342202449413193729-sFMo",
+        "title": "It was great meeting you at YC AI school!",
+        "img": null,
+        "id": "7342202449413193729"
+      },
+      {
+        "interaction": "Nicolas Dickenmann liked this",
+        "link": "https://www.linkedin.com/posts/siddharthjadhav31_polybee-and-vegetables-by-bayer-ink-new-partnership-activity-7482267805703106560-Ovk_",
+        "title": "I'm delighted to share that Polybee is partnering with Bayer | Crop Science in Australia to bring our Farm Intelligence Platform to more produce growers nationwide. This collaboration brings together our complementary strengths: Bayer\u2019s deep agronomy expertise and trusted relationships with some of the biggest produce companies, and Polybee\u2019s proven autonomous drone-based crop intelligence. Over the past year and half, our first customers have leveraged our crop intelligence to realize a clear, consistent ROI on our product within the same crop cycle. By translating full-field crop intelligence into clear insights on harvest timing, planting and operational performance, we are supporting growers facing real pressures \u2013 from labour and input costs to meeting market specifications. This partnership is a strong signal that autonomous farm intelligence is moving from innovation to adoption, delivering practical, scalable products that work where decisions actually happen: in the field. We\u2019re excited to be on this journey with Bayer and to support Australian growers with measurable, outcomes-based intelligence. https://lnkd.in/gprXcjyz #physicalAI #agtech #Bayer #futureoffarming",
+        "img": "https://media.licdn.com/dms/image/sync/v2/D5627AQHnpl3GR5YIOQ/articleshare-shrink_1280_800/B56Z9J7fjDHUAk-/0/1783651761328?e=2147483647&v=beta&t=8daUHb7z0hWKXY62C6-LHmRROdBDArUvGY2-ykEZMdQ",
+        "id": "7482267805703106560"
+      },
+      {
+        "interaction": "Nicolas Dickenmann liked this",
+        "link": "https://www.linkedin.com/posts/iroarmeni_cvpr2026-gradientspaces-lifeinresearch-activity-7469197348401762304-MmUp",
+        "title": "It\u2019s an exciting week for Gradient Spaces - Stanford ! We\u2019ve got team members in Denver for #CVPR2026 sharing their latest work and connecting with academia and industry leaders. Back home, the rest of the team is keeping the momentum going and prepping our next wave of projects. We love the energy of the conference floor, but we\u2019re just as excited about the breakthroughs happening back at the office. Cheers to the whole team for making it all happen! \ud83e\udd42 #GradientSpaces #LifeInResearch #Stanford #CVPR #BehindTheScenes",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQFBYDWK1sPHvA/feedshare-shrink_800/B56Z6frY1cJwAc-/0/1780795417047?e=2147483647&v=beta&t=xFQumYrt7GLhi40JKuhSfa-6p0KnQ2NfJg0NVeKgGfQ",
+        "id": "7469197348401762304"
+      },
+      {
+        "interaction": "Nicolas Dickenmann liked this",
+        "link": "https://www.linkedin.com/posts/karim-saleh99_building-a-company-is-hard-there-are-plenty-activity-7468688757601521664-p5bf",
+        "title": "Building a company is hard. There are plenty of challenging days, difficult decisions, and moments where progress feels slower than you'd like. Then you receive a message like this. One of the things I enjoy most about building Cerrion is getting to work with people like Marko and his team at Verallia . He left this comment under a recent post, and reading it made my day. Not because it praises our technology, but because it reflects the kind of partnership we're fortunate to have with teams who are relentlessly focused on improving their operations and willing to embrace new technologies when they help drive meaningful results. Over the past year, we've worked closely with Marko and his team, and what has consistently stood out is their openness to new ideas, their commitment to continuous improvement, and their willingness to challenge us to build a better product. The truth is that successful technology implementations are never just about technology. They happen because the people on the ground embrace change, provide honest feedback, and care deeply about achieving business impact through safer, smarter and more efficient operations. Thank you for the partnership and trust. We're just getting started.",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQH3_xh4YFmHuQ/feedshare-shrink_800/B4EZ6Yc2JPKAAc-/0/1780674159431?e=2147483647&v=beta&t=8VvYNaFoBseY2Gtk0fxEOqgVzNzuADsGKJOFJLbJ-TY",
+        "id": "7468688757601521664"
+      },
+      {
+        "interaction": "Nicolas Dickenmann liked this",
+        "link": "https://www.linkedin.com/posts/rgarreta_tomorrow-ill-be-presenting-this-project-activity-7467643460649390082-1cwR",
+        "title": "Tomorrow I\u2019ll be presenting this project at Stanford\u2019s Deep Reinforcement Learning course, CS224R. We modified a diffusion policy so the robot can be prompted with a bounding box: \u201cpick this object,\u201d even in a cluttered scene with multiple LEGO blocks. The data was collected using a UMI handheld device, and the bounding-box conditioning enables a simple \u201cpoint-and-click\u201d interface for specifying the target object. The interesting part is that the instruction is spatial and visual, not just text. That matters because current Vision-Language-Action models can still struggle when the task requires selecting one specific object among very similar distractors. And as a small bonus: the whole policy runs locally on a laptop. :)",
+        "img": "https://media.licdn.com/dms/image/v2/D5605AQHiNq86FH9zKA/videocover-high/B56Z6JmDtmGoBM-/0/1780424920030?e=2147483647&v=beta&t=iaaB8asWXT5IO-cFuUI3nt4yDfS35hoWx170Z3MYOXw",
+        "id": "7467643460649390082"
+      },
+      {
+        "interaction": "Nicolas Dickenmann liked this",
+        "link": "https://www.linkedin.com/posts/sonialagunac_iclr-activity-7454477728222965760-t1D5",
+        "title": "Great to be at #ICLR \ud83c\udde7\ud83c\uddf7 this week! I am excited to be giving an oral presentation today on our recent work in machine unlearning at the TTU Workshop at 11:00, stop by if you are interested on machine unlearning! We are also presenting our five recent papers throughout yesterday and today, covering: \ud83d\udd39 Machine Unlearning \u2022 Rethinking Machine Unlearning: Models Designed to Forget via Key Deletion ( https://lnkd.in/ef3irwcV ), where we work on designing models to be unlearnable by design. \u2022 Reference-Guided Machine Unlearning ( https://lnkd.in/euGizyb3 ), focusing on making forgotten data indistinguishable through distillation with a held-out reference set. \ud83d\udd39 Interpretability \u2022 Post-hoc Stochastic Concept Bottleneck Models ( https://lnkd.in/eE-jntCP ?) Post-hoc stochastic modules for concept bottleneck models, enabling existing models to account for concept correlations. \ud83d\udd39 Representation Learning for Health \u2022 Beyond Independent Frames: Latent Attention Masked Autoencoders for Multi-View Echocardiography ( https://lnkd.in/eyFeD4sD ) Leveraging latent attention for stronger multiview video representations in echocardiography. \u2022 Foundation Models for Cardiac Time Series via Masked Latent Attention ( https://lnkd.in/etmC7R-7 ), where we explot this ECG structure by learning cross-lead connection mechanisms during self-supervised pretraining Checkout the preprints and stop by if you are around, always happy to chat!",
+        "img": null,
+        "id": "7454477728222965760"
+      },
+      {
+        "interaction": "Nicolas Dickenmann liked this",
+        "link": "https://www.linkedin.com/posts/maxime-l%C3%A9on-carpy-2640a4200_it-was-a-pleasure-speaking-at-the-zurich-activity-7450616870677700608-oQtQ",
+        "title": "It was a pleasure speaking at the Zurich Finance Society on private equity and its role in private wealth. Always energizing to be surrounded by sharp and ambitious young minds. What you have built in such a short period of time is truly remarkable. Excited to see where this goes. Mirac Asal , Selina Mezabrovschi , Neo Hefele , Giacomo Cesano , Jannes Z\u00fcnd , Riga Haziraj",
+        "img": "https://media.licdn.com/dms/image/v2/D4D22AQFjwD6YX7G2kQ/feedshare-shrink_800/B4DZ2Xoj2XJsAg-/0/1776365485707?e=2147483647&v=beta&t=FPib5Ucd5yw-_kxYnPijW23BKDbhUZg1VX6E0kMY3wc",
+        "id": "7450616870677700608"
+      },
+      {
+        "interaction": "Nicolas Dickenmann liked this",
+        "link": "https://www.linkedin.com/posts/yanis-merzouki-195579228_i-am-glad-to-announce-although-a-bit-late-activity-7448824940730003457-or5F",
+        "title": "I am glad to announce (although a bit late) that I started my MSc thesis at FORGIS in Zurich, bridging research and engineering at the intersection of industrial robotics and AI. My work focuses on FactoryBench, a novel benchmark grounded in robot sensor data, targeting evaluation of traditional and LLM based models on complex reasoning tasks over time-series signals. The team is incredibly talented and hardworking, which makes every day both demanding and genuinely fun. It has been an intense and rewarding experience so far, and I am excited to share more as the project progresses.",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQFed7-xvqY-rA/feedshare-shrink_800/B4EZ1.Kz2cGYAc-/0/1775938256944?e=2147483647&v=beta&t=OtPlyZsaIOsmcvaYByuYpDFRueOeufC6-SbhM7LM9Ig",
+        "id": "7448824940730003457"
+      }
+    ],
+    "linkedin_num_id": "993585952",
+    "banner_image": "https://media.licdn.com/dms/image/v2/C4E16AQGwsWqMSr1zmw/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1653217924382?e=2147483647&v=beta&t=paOsmTuTM3MWQePlLT7TG2cXo5fvIxbI4RRvd8oNse0",
+    "honors_and_awards": [
+      {
+        "title": "Winning Finalist at the 56. National \"Schweizer Jugend forscht\" Contest 2022",
+        "publication": "Schweizer Jugend forscht | Science et jeunesse | Scienza e giovent\u00f9",
+        "date": "2022-04-01T00:00:00.000Z",
+        "description": null
+      }
+    ],
+    "similar_profiles": [],
+    "default_avatar": true,
+    "memorialized_account": false,
+    "bio_links": [],
+    "first_name": "Nicolas",
+    "last_name": "Dickenmann",
+    "influencer": false,
+    "timestamp": "2026-08-12T19:12:38.028Z",
+    "input": {
+      "url": "https://www.linkedin.com/in/nicolasdickenmann"
+    }
+  }
+}

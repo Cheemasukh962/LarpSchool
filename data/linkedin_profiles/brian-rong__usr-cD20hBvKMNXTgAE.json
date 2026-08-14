@@ -1,0 +1,126 @@
+{
+  "luma_user_id": "usr-cD20hBvKMNXTgAE",
+  "csv_name": "Brian Rong",
+  "csv_linkedin": "https://www.linkedin.com/in/brian-rong",
+  "enriched_at": "2026-08-12T18:59:59.563851+00:00",
+  "batch_id": "sd_msqgcuh41lygyhc91a",
+  "profile": {
+    "id": "brian-rong",
+    "name": "Brian Rong",
+    "city": "Santa Clara, California, United States",
+    "country_code": "US",
+    "position": null,
+    "about": null,
+    "current_company": {
+      "link": "https://www.linkedin.com/company/lockheed-martin?trk=public_profile_topcard-current-company",
+      "name": "Lockheed Martin",
+      "company_id": "lockheed-martin",
+      "location": null
+    },
+    "experience": null,
+    "url": "https://jp.linkedin.com/in/brian-rong",
+    "educations_details": "Lynbrook High School",
+    "education": [
+      {
+        "title": "Lynbrook High School",
+        "url": "https://www.linkedin.com/school/lynbrook-high-school/",
+        "start_year": "2023",
+        "end_year": "2026",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      }
+    ],
+    "avatar": "https://media.licdn.com/dms/image/v2/D5603AQG6L8DRT8vkFw/profile-displayphoto-scale_200_200/B56Zx.z4QfHUAY-/0/1771654056160?e=2147483647&v=beta&t=N9h0OD-xNP6HghW33VkSzOaIz1dsd3cY8hAbG2FHmqU",
+    "followers": 747,
+    "connections": 500,
+    "current_company_company_id": "lockheed-martin",
+    "current_company_name": "Lockheed Martin",
+    "publications": [
+      {
+        "title": "A Volunteer-Led, Community-Based Adaptive Sports Program: A Community Innovation for Enhancing Inclusion and Motor-Social Outcomes in Neurodivergent Individuals",
+        "subtitle": "The 7th Annual Stanford Neurodiversity Summit",
+        "date": "June 20, 2026",
+        "description": "Neurodivergent individuals face significant barriers to participation in traditional sports environments, including limited accessibility, rigid structures, and insufficient individualized support. These gaps reduce opportunities for neurodivergent individuals to develop physically and socially, and reduce opportunities for meaningful community connection. The Friends of Children with Special Needs (FCSN) South Bay sports program is a community-initiative that aims to address these gaps through a strength-based approach that develops participants\u2019 motor skills, social confidence, and community belonging."
+      },
+      {
+        "title": "A Novel Multimodal Deep Learning Framework for Generalizable Parkinson\u2019s Disease Detection Using Handwriting and Speech",
+        "subtitle": "48th Annual IEEE EMBC Conference",
+        "date": "April 15, 2026",
+        "description": "Sole Author - Parkinson's disease (PD) is a neurodegenerative disorder characterized by motor impairment and cognitive decline, making early detection critical for management. While prior deep learning studies successfully utilize speech or handwriting data to address this issue, they are constrained to single-modality, single-dataset, and single pattern settings due to the limited availability of handwriting and/or speech datasets catering to a specific pattern, and the complexity of multimodal learning and generalizing across patterns. We present a novel multimodal deep learning framework for Parkinson\u2019s Disease (PD) detection using diverse handwriting and speech data to improve generalizability. We employ a multi-branch Neural Network (NN) architecture that processes handwriting and speech features separately before fusing for classification. Class imbalance is addressed using the Synthetic Minority Oversampling Technique (SMOTE). Results demonstrate a validation accuracy of 91%."
+      },
+      {
+        "title": "A Simple Circuit for Time-Resolved Luminescence (TRL) Measurement Instruments: Demonstration Through a Smartphone-Based TRL Imager for Anticounterfeiting Application",
+        "subtitle": "IEEE Sensor Letters; Invited to present at IEEE Sensors@25",
+        "date": "January 29, 2025",
+        "description": "Time-resolved luminescence (TRL) measurement is a sensitive detection technique by eliminating sample autofluorescence, but TRL measurement instruments composed of multiple key components (e.g., a rapidly pulsed light excitation source, a time-gated optical detector, and a synchronization module aligning the timing between the light source and the detector) have been sophisticated, expensive, or bulky, which limits their point-of-care or in-field applications. To reduce the cost and complexity of these instruments, in this letter, we developed a simple circuit for rapid LED pulsing and accurate timing synchronization and implemented it in a compact TRL imager with a ultraviolet light emitting diode (UV LED) as a light source and a chopper-coupled smartphone camera as a time-gated optical detector. The TRL measurement of this imager using this circuit was successfully validated through an anticounterfeiting application. We believe that this simple circuit can be adopted in the development of low-cost and compact TRL measurement instruments for broad point-of-care or in-field applications."
+      }
+    ],
+    "projects": [
+      {
+        "title": "A Novel Multimodal Deep Learning Framework for Generalizable Parkinson\u2019s Disease Detection Using Handwriting and Speech",
+        "start_date": "Jul 2025",
+        "description": "Developing a more generalizable and clinically relevant multimodal deep learning model that enhances diagnostic accuracy and generalizability across diverse populations, and can be deployed outside clinical settings, in order to enable early diagnosis of Parkinson's Disease (PD). Preliminary results have been submitted to IEEE EMBC."
+      },
+      {
+        "title": "17-0 Game",
+        "description": "28k Monthly Active Users (MAU); Draft an all-time NFL roster, one legend per era, and the sim projects your 17-game season. Try to go 17-0!"
+      }
+    ],
+    "location": "Santa Clara",
+    "input_url": "https://www.linkedin.com/in/brian-rong",
+    "linkedin_id": "brian-rong",
+    "activity": [
+      {
+        "interaction": "Brian Rong shared this",
+        "link": "https://www.linkedin.com/posts/brian-rong_internship-lockheedmartin-ai-activity-7465073769645039616-rcDd",
+        "title": "I\u2019m thrilled to share that I\u2019ve accepted an offer to join Lockheed Martin 's Space Division as an AI/Autonomous Systems Research Intern this summer at their Advanced Technology Center (ATC) in Palo Alto! \ud83d\ude80 A huge thank you to Stephanie Varnell for her incredible support and guidance throughout the recruiting process. I am beyond grateful for this opportunity and can\u2019t wait to get started! #Internship #LockheedMartin #AI #Research #Space #CareerUpdate ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQHoyB0P4wTWZg/feedshare-image-high-res/B56Z5jLpO1JEAU-/0/1779780457624?e=2147483647&v=beta&t=fuk_smoHBeUOQ-C-G-WeHNa9wznh8q-PqalrHPjE-6c",
+        "id": "7465073769645039616"
+      },
+      {
+        "interaction": "Brian Rong reacted on this",
+        "link": "https://www.linkedin.com/posts/shreshta-r-a6916a308_pwc-accounting-activity-7476801960659066880-HylS",
+        "title": "Accounting is so much more than the numbers: it's the language of business, with good reason. That was one of my biggest takeaways from the PricewaterhouseCoopers (PwC) Accounting Careers Leadership Institute, a selective five-day program that brought together 46 students from across the globe. Throughout the week, my perspective on this profession was rewired as I engaged in interactive sessions led by Bryant University College of Business professors in collaboration with PwC professionals in various specialties, from those who worked in audit to financial accounting. What we're often taught in school is accounting's role in a bookkeeping context, which doesn't grasp the magnitude of this career and just how transferrable it is to so many industries. Daily academic sessions covered accounting at the intersection of ethics, leadership, and the everchanging role of accountants in the age of AI. I enjoyed spending the week alongside my team (Ashley, Jonah, Charl, Roqu\u00e9, and Sofia) under the guidance of our peer counselor Tianna-Lee Keovongvichit , with whom we worked through a variety of team-building activities like building a bike for charity, seeing group dynamics in action with a cup stacking challenge, and putting our minds together to construct a LEGO helicopter by taking turns looking at a reference model and reporting back to the group. At the culmination of the program, our team presented on the emerging importance of studying accounting, debunking common misconceptions about the career as well as highlighting its stability, immense potential, and applicability. Visiting PwC's Boston office was one of my favorite parts of the week. We got to hear insights from a panel of professionals working in audit and tax, hear perspectives about AI (which particularly captivated me in its potential to create agents tailored to specific tasks within the company), and see firsthand what a day in the life as an accountant looks like. Wanted to give a huge thank you to Bob Calabro and Tricia Benjamin , current PwC partners who were with us throughout the sessions to provide valuable anecdotes from their time with the firm as well as practical knowledge about the field as a whole. Lectures from Professor Charlie Cullinan were a highlight as he encouraged each of us to participate and work through real-world scenarios together. I also want to thank Ashley van Luling and Mailee Kue , who were the backbone of this program and helped provide us all with an amazing week of learning. #PwC #Accounting",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQFJLV-X-l2F3g/feedshare-image-high-res/B56Z8LvwivG8AU-/0/1782608497082?e=2147483647&v=beta&t=zKEYRFN__yP8VYl3mI3XupuvUXRtn-W2IL5vAXRFThc",
+        "id": "7476801960659066880"
+      },
+      {
+        "interaction": "Brian Rong liked this",
+        "link": "https://www.linkedin.com/posts/cindy-n-luu_wearelm-activity-7476031505987710976-r9Yu",
+        "title": "Week 6 already?! \u23f3 Better late than never to announce, but I am approaching the halfway mark of my summer internship at Lockheed Martin ! \ud83d\udee9\ufe0f This summer looks a little different for me. I'm switching things up from EE to work as a software engineering intern with ADP on the System of Systems (SoS) team. I've been learning about all the nuances and intricacies within our systems, while continuing my exploration with harnessing the power of AI through agent development (lots of hallucinations so far \ud83d\ude05). A few highlights so far: \ud83c\udf1f - Diving into a completely new technical space - Learning from an incredibly talented (funny) group of people - The daily walks to the cafeteria with the team I've already learned so much, and I can't wait to see what the next few weeks bring! (Since there are no pictures allowed at work, here is a gif of what I see when I eat in the cafeteria \u2708\ufe0f) #WeAreLM",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQEAS7_kg5gtjg/feedshare-shrink_800/B56Z8AXTxSIUAc-/0/1782417538489?e=2147483647&v=beta&t=EoABeSKCeqD5_ooF4fUl8ITqXWRN8k1ZjM3dcOrw3kQ",
+        "id": "7476031505987710976"
+      },
+      {
+        "interaction": "Brian Rong liked this",
+        "link": "https://www.linkedin.com/posts/ommodi1_excited-to-share-that-ill-be-attending-the-activity-7458573331466858496-Ne-p",
+        "title": "Excited to share that I\u2019ll be attending the University of California, Berkeley under the Industrial Engineering & Operations Research major. I\u2019m incredibly grateful for everyone who\u2019s supported me through this process, especially my family, teachers, mentors, and friends. Throughout high school, I\u2019ve been fortunate to learn so much from so many people who have motivated me to think critically and pursue work that combines quantitative problem-solving with real-world impact. I look forward to continuing that work by studying IEOR at Berkeley. Thank you to everyone who has been part of this journey. Go Bears! \ud83d\udc3b\ud83d\udc99\ud83d\udc9b",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQHuPdZUBqRJdg/feedshare-image-high-res/B56Z4Is7CIJIAU-/0/1778262454692?e=2147483647&v=beta&t=xU0ulX48epoLu3zYIxyz3eBPjR-W_AiHN1Ug4kVl6ZI",
+        "id": "7458573331466858496"
+      },
+      {
+        "interaction": "Brian Rong reacted on this",
+        "link": "https://www.linkedin.com/posts/athreyaiyer_super-excited-to-share-that-i-will-be-joining-activity-7449882805028954112-HIFX",
+        "title": "Super excited to share that I will be joining Fourdesire /SPARKFUL this summer as a Technical Product Manager Intern in Taipei, Taiwan! SPARKFUL sits at the intersection of fun, design, and technology, and believes that the natural instinct for play can help solve real-world problems. This summer I'll be diving into the codebase, doing user research, and working with cross-functional teams to prototype and ship ideas that genuinely improve people's lives. I'm also really excited to be working under Wei-Fan Chen and learning from his vision for what meaningful, playful products can look like. A huge thank you to CRCC Asia for the guidance and support along the way.",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQGRLM4tM12Pqg/feedshare-shrink_800/B56Z2NM7s9IUAc-/0/1776190471318?e=2147483647&v=beta&t=FGAwk7bLo53oIjSuEireQ-KzGZf1TZdyi9bsflW2hrg",
+        "id": "7449882805028954112"
+      }
+    ],
+    "linkedin_num_id": "1224718827",
+    "banner_image": "https://static.licdn.com/aero-v1/sc/h/5q92mjc5c51bjlwaj3rs9aa82",
+    "honors_and_awards": null,
+    "similar_profiles": [],
+    "default_avatar": false,
+    "memorialized_account": false,
+    "bio_links": [],
+    "first_name": "Brian",
+    "last_name": "Rong",
+    "influencer": false,
+    "timestamp": "2026-08-12T18:59:21.857Z",
+    "input": {
+      "url": "https://www.linkedin.com/in/brian-rong"
+    }
+  },
+  "local_photo": "data\\linkedin_photos\\brian-rong__usr-cD20hBvKMNXTgAE.jpg"
+}

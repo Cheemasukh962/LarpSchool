@@ -1,0 +1,328 @@
+{
+  "luma_user_id": "usr-9PkUjiKnVlBAiAM",
+  "csv_name": "Arnav Rajashekara",
+  "csv_linkedin": "https://www.linkedin.com/in/arnav-rajashekara-078995275",
+  "enriched_at": "2026-08-12T19:26:51.908500+00:00",
+  "batch_id": "sd_msqhb4pfm4l4la4zs",
+  "profile": {
+    "id": "arnav-rajashekara-078995275",
+    "name": "Arnav Rajashekara",
+    "city": "Greater Seattle Area",
+    "country_code": "US",
+    "position": null,
+    "about": "Passionate Master of Engineering in Computer Science student at Cornell University with\u2026",
+    "current_company": {
+      "link": "https://www.linkedin.com/company/stealth-startup-community?trk=public_profile_topcard-current-company",
+      "name": "Stealth Startup",
+      "company_id": "stealth-startup-community",
+      "location": null
+    },
+    "experience": null,
+    "url": "https://jp.linkedin.com/in/arnav-rajashekara-078995275",
+    "educations_details": "Cornell University",
+    "education": [
+      {
+        "start_year": "2022-08",
+        "end_year": "2026-05",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      },
+      {
+        "start_year": "2026-05",
+        "end_year": "2026-06",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      },
+      {
+        "start_year": "2018-08",
+        "end_year": "2022-06",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      }
+    ],
+    "recommendations_count": 8,
+    "avatar": "https://media.licdn.com/dms/image/v2/D5603AQGMK1idXuLrvQ/profile-displayphoto-scale_200_200/B56Z9Ec5OLHYAc-/0/1783559853793?e=2147483647&v=beta&t=u30KgsooF2xB7t-ghhXa4qLnF4rfxsp7H3i5rmyEaDY",
+    "languages": [
+      {
+        "subtitle": "Native or bilingual proficiency",
+        "title": "Kannada"
+      },
+      {
+        "subtitle": "Native or bilingual proficiency",
+        "title": "English"
+      }
+    ],
+    "certifications": [
+      {
+        "meta": "Issued Dec 2025 See credential",
+        "subtitle": "Kaggle",
+        "title": "Intro to Machine Learning",
+        "credential_url": "https://www.kaggle.com/learn/certification/arnavrajashekara/intro-to-machine-learning?trk=public_profile_see-credential",
+        "credential_id": null
+      },
+      {
+        "meta": "Issued Jul 2025 See credential",
+        "subtitle": "LinkedIn",
+        "title": "Activate Connections That Will Transform Your Career",
+        "credential_url": "https://www.linkedin.com/learning/certificates/7bb248a0ed48f794a81f7f00906ebf94c232c7a48cab3041c2a5e66b9408a4d8?trk=public_profile_see-credential",
+        "credential_id": null
+      },
+      {
+        "meta": "Issued Jul 2025 See credential",
+        "subtitle": "LinkedIn",
+        "title": "Business Etiquette for the Modern Workplace",
+        "credential_url": "https://www.linkedin.com/learning/certificates/179eafb9a25e52756b26e2eef4637afa4d3e4112fe3175f8ae0113ac87078c5e?trk=public_profile_see-credential",
+        "credential_id": null
+      },
+      {
+        "meta": "Issued Jul 2025 See credential",
+        "subtitle": "LinkedIn",
+        "title": "Creating Your Personal Brand",
+        "credential_url": "https://www.linkedin.com/learning/certificates/e5f2186a83cef5654ebef6fa1edafe461adf1112973f460b1308e23624d9f3da?trk=public_profile_see-credential",
+        "credential_id": null
+      },
+      {
+        "meta": "Issued Jul 2025 See credential",
+        "subtitle": "LinkedIn",
+        "title": "Effective Collaboration across Teams",
+        "credential_url": "https://www.linkedin.com/learning/certificates/6fa539d5a8acbb4dda2a8992fe140ae7c75553abf44740cbdc994446737f0713?trk=public_profile_see-credential",
+        "credential_id": null
+      },
+      {
+        "meta": "Issued Jul 2025 See credential",
+        "subtitle": "LinkedIn",
+        "title": "How to Present and Stay on Point",
+        "credential_url": "https://www.linkedin.com/learning/certificates/fe9ca03181e45d53792ae7beef9591688c6b91159af27b9ae4f239b0fa9ea4eb?trk=public_profile_see-credential",
+        "credential_id": null
+      },
+      {
+        "meta": "Issued Jul 2025 See credential",
+        "subtitle": "LinkedIn",
+        "title": "LinkedIn Quick Tips",
+        "credential_url": "https://www.linkedin.com/learning/certificates/fbc6a37c621fc13b11744ed8508727aa61d46a842a648932ad02fd59b63782a5?trk=public_profile_see-credential",
+        "credential_id": null
+      },
+      {
+        "meta": "Issued Jul 2025 See credential",
+        "subtitle": "LinkedIn",
+        "title": "Strategies for Your First 90 Days in a New Job",
+        "credential_url": "https://www.linkedin.com/learning/certificates/96cb0f274415031415e22ef19353b325b9d7e1d58361eecfdcc80e6aae703d1e?trk=public_profile_see-credential",
+        "credential_id": null
+      },
+      {
+        "meta": "Issued Jul 2025 See credential",
+        "subtitle": "LinkedIn",
+        "title": "Succeeding in a New Job",
+        "credential_url": "https://www.linkedin.com/learning/certificates/3b578aa2462a6f092794f6891fc3a356d686716b25f7783ff8edce8b9edb21e6?trk=public_profile_see-credential",
+        "credential_id": null
+      },
+      {
+        "meta": "Issued Jul 2025 See credential",
+        "subtitle": "LinkedIn",
+        "title": "The Step-by-Step Guide to Rock Your Job Interview",
+        "credential_url": "https://www.linkedin.com/learning/certificates/1f29396e77a783b7c393583dbe1efe9d56ac45478700523024339b79feb71eb9?trk=public_profile_see-credential",
+        "credential_id": null
+      }
+    ],
+    "recommendations": [
+      "Mina Qasimyar \u201cArnav has been friendly, professional, and a pleasure to work with. He's always eager to learn, takes initiative across different areas, and collaborates well with our technical co-founder and the rest of the team. I appreciate his contributions so far and look forward to seeing his continued growth and impact.\u201d",
+      "Morgan Ludwig \u201cI\u2019ve had the pleasure to work with Arnav during his internship at Honda. He has continuously impressed me with his dedication and curiosity which allows him to find innovative and intuitive solutions. Arnav has been fantastic with our customers, collaborating with them to identity their project requirements and translating them into working prototypes. Through his knowledge of statistics he has been able to deliver impactful KPI dashboards that leverage live production data to enhance stability in our manufacturing plants. He quickly learned Ignition, an industrial SCADA platform, and has been able to engineer solutions that give our users real-time data visualizations that have been continuous enhanced by implementing feedback from users. I could not recommend Arnav more. He will be greatly missed at the end of his internship term by myself and the rest of the team. Thank you for all your hard, innovative work! \u201d"
+    ],
+    "followers": 1905,
+    "connections": 500,
+    "current_company_company_id": "stealth-startup-community",
+    "current_company_name": "Stealth Startup",
+    "publications": [
+      {
+        "title": "Inferring Agenda: An Unsupervised Approach to SCOTUS Issue Classification",
+        "subtitle": "The Ohio State University",
+        "date": "May 1, 2026",
+        "description": "This project presents an end-to-end machine learning pipeline to process, embed, and cluster large-scale legal text data, addressing computational efficiency and interpretability challenges present in high-dimensional natural language data. The goal is to analyze judicial behavior at the petition stage of the U.S. Supreme Court by classifying legal texts into issue areas based on the SPAETH Supreme Court database, a widely used dataset that codes Supreme Court decisions by various characteristics, including legal issue area. A key limitation, though, is that only accepted petitions are labeled with a SPAETH category. To understand the topic distribution among all petitions, consensus clustering was employed on the full set of petitions to infer clusters that approximate SPAETH issue areas. This was preferable over supervised learning because supervised methods would rely on training a classifier on accepted petitions and then applying it on unaccepted petitions; however, this strategy would introduce a sampling bias because the training sample would not be random. We can use the resulting clusters to determine the semantic content of a petition, thus enabling us to compare what the Supreme Court is asked to hear vs. what they actually hear. The Supreme Court can unilaterally strip and provide rights to people, but, until now, the factors regarding case selection were a mystery. This research offers a data-driven framework to provide critical insights into whose voices are amplified, whose are silenced, and how the Supreme Court steers national policy."
+      }
+    ],
+    "projects": [
+      {
+        "title": "Honda C.R.U.I.S.E",
+        "start_date": "Sep 2025",
+        "description": "\u2022 Engineered a full-stack infotainment system prototype within 24 hours, designed for seamless integration across Honda vehicle interfaces and mobile devices.\u2022 Prototyped an application demonstrating various features such as proximity chat, peer-to-peer music streaming, GPS-driven destination mapping, and trip analytics. Utilized Figma and React Native for rapid prototyping. \u2022 Won the company-wide contest consisting of over 100 submissions and presented the idea to senior Honda executives, earning recognition for innovation and technical execution."
+      },
+      {
+        "title": "To Lease or Not to Lease",
+        "start_date": "Mar 2025",
+        "description": "\u2022 Advised corporate real estate clients on optimal leasing quarters for specific markets to maximize company savings.\u2022 Built a random forest model to recommend high-return investment markets, reinforcing initial exploratory insights.\u2022 Leveraged Python, SQL, and Pandas for data sourcing, cleaning, preprocessing, modeling, and data visualization.\u2022 Placed top three at the 9th annual DataFest Hackathon, a competition that consisted of over 200 competitors."
+      },
+      {
+        "title": "Core Stability Monitor",
+        "start_date": "Mar 2024",
+        "description": "\u2022 Engineered a device that integrates accelerometer and gyroscopic technology with real-time data analysis.\u2022 Used MATLAB and its Arduino package to graph data and warn users about poor core stability (<2 degrees tilt).\u2022 Won 2nd place in the Human Centered Computing challenge at the 10th annual Make OHI/O competition."
+      }
+    ],
+    "organizations": [
+      {
+        "title": "Artificial Intelligence (AI) Club",
+        "membership_type": "Member",
+        "start_date": "Aug 2023",
+        "end_date": "Present",
+        "description": "\u2022 Engaged with other passionate students about the topic of artificial intelligence to push each other to learn more and support each other in various projects.",
+        "membership_number": null
+      },
+      {
+        "title": "Big Data and Analytics Association (BDAA)",
+        "membership_type": "Member",
+        "start_date": "Aug 2023",
+        "end_date": "Present",
+        "description": "\u2022 Convened with other data analytics students to gain practical experience in the field of data analysis.",
+        "membership_number": null
+      },
+      {
+        "title": "Buckeye Autodrive",
+        "membership_type": "HD Map Specialist",
+        "start_date": "Aug 2023",
+        "end_date": "Present",
+        "description": "\u2022 Working as part of a team to develop and demonstrate an autonomous vehicle that can navigate urban driving courses as described by SAE J3016 Standard Level 4 automation.\u2022 Responsible for developing the necessary framework for taking data from the sensors and integrating it into the vehicle.\u2022 Utilizing HD Maps, Lidar detection, Python, C++, and V2X to calibrate sensors and ensure all proper safety measures.\u2022 Equipped the vehicle with distances between various waypoints to navigate almost 90% more accurately.",
+        "membership_number": null
+      },
+      {
+        "title": "Theta Tau Professional Engineering Fraternity",
+        "membership_type": "Head Rush Chair",
+        "start_date": "Apr 2023",
+        "end_date": "Present",
+        "description": "\u2022 Oversaw the recruitment and selection process, contacted 120+ potential new members. \u2022 Organized and executed various events and activities to attract and engage potential members.\u2022 Implemented effective communication strategies to promote Theta Tau\u2019s goal of fostering professional interest.",
+        "membership_number": null
+      }
+    ],
+    "location": null,
+    "input_url": "https://www.linkedin.com/in/arnav-rajashekara-078995275",
+    "linkedin_id": "arnav-rajashekara-078995275",
+    "activity": [
+      {
+        "interaction": "Arnav Rajashekara shared this",
+        "link": "https://www.linkedin.com/posts/arnav-rajashekara-078995275_engineeryourcareer-pwc-ycombinator-activity-7474875417829609472-1XXC",
+        "title": "I\u2019m excited to share two major highlights! First, I recently wrapped up PwC 's inaugural Engineer Your Career program in Seattle. It was a fantastic experience gaining an inside look at how PwC drives innovation. From visiting Microsoft \u2019s headquarters to diving deep into cloud engineering, AI, and the firm\u2019s strategic work with Amazon Web Services (AWS) , I learned so much about the intersection of engineering and client impact. A highlight was the engineering immersion challenge, where my team navigated ambiguity to solve a complex, simulated client problem. It was a firsthand look at how PwC engineers collaborate to deliver real-world solutions. Huge thanks to Sarah and Sharon for making this experience even more valuable as awesome team leads. I\u2019m also thrilled to share that I have been accepted into Y Combinator 's Startup Expo! If you'll be in The Bay August 14th weekend, I'd love to connect! Happy to help out with referrals as well. I am incredibly motivated and energized by the challenges and opportunities I\u2019ve encountered recently and I\u2019m excited to continue building, innovating, and connecting with other passionate engineers and founders. #EngineerYourCareer #PwC #YCombinator #StartupLife #TechInnovation",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQFii1ysrL7f-A/feedshare-shrink_800/B4EZ7wXkx4HwAc-/0/1782149173860?e=2147483647&v=beta&t=olhOBXISXBzAU0uyVJg0Cf3mt0RTGFi1RgNQiQiTz0Y",
+        "id": "7474875417829609472"
+      },
+      {
+        "interaction": "Arnav Rajashekara shared this",
+        "link": "https://www.linkedin.com/posts/arnav-rajashekara-078995275_thanks-so-much-jan-i-couldnt-have-done-activity-7458281265126039552-hm8M",
+        "title": "Thanks so much Jan! I couldn\u2019t have done it without you and the support of the AIM Lab!",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQH1ZFooypivSw/feedshare-shrink_800/B4EZ4EFc5eJQAc-/0/1778184999035?e=2147483647&v=beta&t=yBXBc3yPBhINKEXKt2vF3aW4caDllZw0b09AeCOq6Wg",
+        "id": "7458281265126039552"
+      },
+      {
+        "interaction": null,
+        "link": "https://www.linkedin.com/posts/osu-aim-lab_congrats-arnav-rajashekara-httpslnkdin-activity-7448469211313729536-v1Tm",
+        "title": "Congrats Arnav Rajashekara ! https://lnkd.in/gYr75HTE",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQGNiCUJHXrboQ/feedshare-shrink_800/B56Z143DJ4H4Ac-/0/1775849190343?e=2147483647&v=beta&t=moy1nO-LwvJJHzZu5xkFmKv_BUScyjENNhZQuqEeyM8",
+        "id": "7448469211313729536"
+      },
+      {
+        "interaction": "Arnav Rajashekara shared this",
+        "link": "https://www.linkedin.com/posts/arnav-rajashekara-078995275_cornelluniversity-cornellbound-ivyleague-activity-7448451364839456770-_kGQ",
+        "title": "I am beyond excited to announce that upon my graduation from The Ohio State University in May, I will be pursuing my Master of Engineering (M.Eng.) in Computer Science at Cornell University . There, I will be focusing on computing systems. I'm looking forward to working at the intersection of hardware and software, and learning how to architect reliable, scalable systems that can handle real-world demands efficiently. This was not an easy decision by any means, as I was also accepted into other prestigious computer science programs such as Columbia University , Georgia Institute of Technology , The University of Texas at Austin , and University of Southern California , and I had a full-time offer on the table from American Honda Motor Company, Inc. In the end, I decided to pursue graduate education at Cornell University because the collaborative engineering culture and the opportunity to learn from world-class faculty made it feel like the best place to challenge myself in order to maximize learning and growth, thus laying a strong foundation for long-term career success. I want to extend a massive thank you to every mentor I've had thus far. Each one of you has pushed me to become a better version of myself and I'm incredibly grateful. An extra special thank you to Janet Box-Steffensmeier , Joe Bewley , and Spyros Blanas for your continuous support and guidance as letter writers and mentors throughout this grad application cycle. I also want to sincerely thank everyone I've worked with at Mimecast , NetJets , American Honda Motor Company, Inc. , and American Institutions & Methodology Lab for equipping me with the tools I need to succeed in this next chapter. And finally, I want to thank my friends and family whose support and confidence in me never wavered. Especially Ramya Rajasekhar, Shash Rajashekara , and Abhav Rajashekara , I could never have gotten here without you guys\u2764\ufe0f. I can't wait to join such an inspiring and uplifting community in Ithaca. I'm looking forward to diving into my studies, building projects, connecting with my peers, and seeing what the future holds! \ud83c\udf30\u27a1\ufe0f\ud83d\udc3b #CornellUniversity #CornellBound #IvyLeague #ComputerScience #Engineering",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQGNiCUJHXrboQ/feedshare-shrink_800/B56Z143DJ4H4Ac-/0/1775849190343?e=2147483647&v=beta&t=moy1nO-LwvJJHzZu5xkFmKv_BUScyjENNhZQuqEeyM8",
+        "id": "7448451364839456770"
+      },
+      {
+        "interaction": null,
+        "link": "https://www.linkedin.com/posts/osu-aim-lab_lab-members-have-been-busy-this-week-seniors-activity-7437898442732896256-d3Wf",
+        "title": "Lab members have been busy this week! \ud83c\udf89Seniors Lila Kenney , Arnav Rajashekara , and Natalie Thacker all presented at The Ohio State University 's Denman Research Forum. Their dedication, creativity, and hard work truly shine. Kudos!",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQF6L_hCnblt7w/feedshare-shrink_800/B56Zzi5Nr5KAAc-/0/1773333175938?e=2147483647&v=beta&t=GpnchV-Sy2JSKhY57_FECezzjtW6hJqW4vaqOpE7awk",
+        "id": "7437898442732896256"
+      },
+      {
+        "interaction": "Arnav Rajashekara shared this",
+        "link": "https://www.linkedin.com/posts/arnav-rajashekara-078995275_onlynetjets-activity-7358181069528993792-HetF",
+        "title": "Last week, my 10-week internship with NetJets came to a close. As I reflect on the summer, I'm filled with gratitude for an unforgettable experience of learning, growth, and connection. The company culture is one that values innovation, collaboration, and continuous improvement. No two days are the same, making it an extremely exciting work environment. This summer, I've had the opportunity to: - Work on impactful cloud engineering projects that directly support internal teams. - Dive deep into AWS technologies, including S3, Cognito, IAM, and Amplify. - Gain hands-on experience with IaC tools like OpenTofu. - Collaborate with brilliant engineers, designers, and mentors who challenged and supported me every step of the way. I'm extremely thankful to Joe Bewley , Sabu Sivaraman , Annie S. , and Lizzie Salemi for all their amazing mentorship and guidance. You all truly made my experience so special and I'm incredibly grateful for that. And a huge thank you to everyone at NetJets for being so welcoming and friendly, your support made me genuinely excited to come in every day. This experience has set the bar high; not just for what great engineering looks like, but for what a supportive and inspiring workplace can be. I\u2019m excited to take what I\u2019ve learned and keep building. #OnlyNetJets",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQH3VuGaV2sUwA/feedshare-image-high-res/B56Zh2CPYgHQAs-/0/1754326967280?e=2147483647&v=beta&t=P5jPk2CO0xiUmrNnHR2cwHvzrWWUcXzQ6wxyCh4CJLo",
+        "id": "7358181069528993792"
+      },
+      {
+        "interaction": null,
+        "link": "https://www.linkedin.com/posts/gallagherpatrickr_the-last-day-for-our-interns-is-here-and-activity-7357046081668464640-Uu_0",
+        "title": "The last day for our Interns is here, and yesterday I got to see them present their department-specific final projects. It\u2019s always a pleasure seeing the new ideas they bring to the table and witnessing the positive impact made throughout the organization. Wishing them all the best of luck in their upcoming academic year. It\u2019s safe to say they have bright futures ahead!",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQFnWc5OjIpHQQ/feedshare-shrink_800/B56Zhl6PvHHMAo-/0/1754056466683?e=2147483647&v=beta&t=uvcDuVj1Cof9d_iyrjl8MqubnOQsMg3ddPOFH9fgFmc",
+        "id": "7357046081668464640"
+      },
+      {
+        "interaction": null,
+        "link": "https://www.linkedin.com/posts/nationalinternday-activity-7356641210750423040-SRgk",
+        "title": "Happy National Intern Day! \u2708\ufe0f This day is extra exciting for me, this summer marked my first time leading our intern program at NetJets and what a journey it\u2019s been! To our interns: your passion, curiosity, and commitment to excellence made this experience seamless and truly memorable. You brought fresh eyes to a complex industry, asked the right questions, and reminded us why the future of aviation is in great hands. You didn\u2019t just adapt - you soared! Thank you for leaving a lasting mark on our team, and on me. Here\u2019s to the bright futures ahead - and to the privilege of playing a small part in them. \ud83c\udf1f #NationalInternDay",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQFpNpyySK70qQ/feedshare-shrink_800/B56ZheHAyPG4Ak-/0/1753925557373?e=2147483647&v=beta&t=rd_RKmmmW-LVJybFIqMLq26sSHaYAAIOvJIpCgRE8h8",
+        "id": "7356641210750423040"
+      },
+      {
+        "interaction": "Arnav Rajashekara liked this",
+        "link": "https://www.linkedin.com/posts/loganeller_this-summer-i-had-the-opportunity-to-serve-activity-7493090259065417731-qqhn",
+        "title": "This summer, I had the opportunity to serve as an intern in the Los Angeles Mayor's Office of Community Engagement. Throughout my internship, I had the chance to work alongside an amazing and talented group of individuals who are deeply committed to serving our city. I am incredibly grateful to everyone in the Mayor\u2019s Office, including the mayor herself, who took the time to answer my questions, share their experiences, and contribute to an incredible experience where I got to see local governance up close. I would like to extend a special thank you to Cindy Muro, Ada Estrada, and Leo Wilson for their guidance, support, and willingness to help me grow throughout the summer. I would also like to thank Steph Domond for helping me land this role, your guidance and support were invaluable in this process!",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQFdi9JkLjlR2A/feedshare-shrink_800/B56Z_zN4WoKAAg-/0/1786491930410?e=2147483647&v=beta&t=w9_KrISpsSLVEnbrE9KRaK6aSbOML4rEJ0fbSXfrySo",
+        "id": "7493090259065417731"
+      },
+      {
+        "interaction": "Arnav Rajashekara reacted on this",
+        "link": "https://www.linkedin.com/posts/spencer-motelson_im-excited-to-officially-share-that-ill-activity-7493060116242468864-g7eh",
+        "title": "I'm excited to officially share that I'll be joining PwC next summer as a Software Engineer Intern on the CTIO team! I'm looking forward to working at the intersection of AI and enterprise technology, learning from a team building some of the firm's most forward-thinking tools, and growing as an engineer in a role that pushes me to think bigger. Huge thank you to Scott Penque, Jr. , Miriam Menon , Forum Patel , Sahil Sen , and Tim Won for their guidance and support throughout the recruiting process.",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQGc4X4Acl5GdQ/feedshare-image-high-res/B4EZ_yyacQKkAU-/0/1786484742529?e=2147483647&v=beta&t=rtiZgcTTBnZo1owwSB-kKL7f6UcuKSDW7gdAtfLKZfc",
+        "id": "7493060116242468864"
+      },
+      {
+        "interaction": "Arnav Rajashekara liked this",
+        "link": "https://www.linkedin.com/posts/premskumar_exciting-news-were-no-1251-on-the-2026-activity-7492998690224132096-ClY_",
+        "title": "Exciting news. We're No. 1251 on the 2026 Inc. 5000 list! But the number isn't the story. We grew because of the problem we're solving and how we're solving it. The story is what happens to your resume after you hit submit. It doesn't usually get rejected. Rejection would be a response - and I know from my many job searches, a response is sometimes too much to ask:(. Instead the resume gets uploaded to an S3 bucket in a data center in Northern Virginia. Encrypted at rest. Replicated across three availability zones. Amazon guarantees it eleven nines of durability (Azure is probably similar), which means your resume is statistically more likely to survive the next century than most governments (dependent on data retention policies:)). What a journey your lonely resume gets to be a part of. It is safe. It is indexed. It is beautifully preserved. It has simply never been read by a person. That's not cruelty. That's one person with 400 applications and nine days. And all the tools do is match words on pieces of digital paper (four clusters generally matched between resume and JD). We fixed the silence. We allowed our customers to talk to and interview all candidates in real-time. Finding the best fit NOW, while building pipeline for the next role. Thank you to our customers, our partners, and the team that built this while I was busy writing Linkedin posts. Congrats to everyone else on the list. Aiming for the top 500 next year! Learn more here: https://lnkd.in/gX966C9V .",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQHvtVjM-vdLxg/feedshare-shrink_800/B56Z_x6mkXIsAc-/0/1786470099621?e=2147483647&v=beta&t=gTcrPB328R3-KX1zQLbqBsf5FYbfDJvFCfvYM99935M",
+        "id": "1251"
+      },
+      {
+        "interaction": "Arnav Rajashekara liked this",
+        "link": "https://www.linkedin.com/posts/serena-daher_fanaticscollectibles-athletepartnerships-activity-7492613772679782401-EGv-",
+        "title": "I\u2019m excited to share that I\u2019ve officially joined Fanatics Collectibles as an Athlete Partnerships Planner! I\u2019m incredibly grateful for the opportunity to begin this new chapter and couldn\u2019t be more excited to be part of such an amazing team. A special thank you to Eliana Gilbert and Alex Carbajal for your support, guidance, and encouragement throughout this process. I truly appreciate everything you both did to help make this opportunity possible. I\u2019m looking forward to learning, growing, and contributing to the incredible work at Fanatics Collectibles. Excited for what\u2019s ahead! #FanaticsCollectibles #AthletePartnerships #SportsBusiness",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQGn4qX0tvWICA/feedshare-shrink_800/B56Z_schbOHYAc-/0/1786378328095?e=2147483647&v=beta&t=nRlGzkPo1PWz8RVrfQEHz1pPts5nMJGeOug-lRwEIs4",
+        "id": "7492613772679782401"
+      },
+      {
+        "interaction": "Arnav Rajashekara reacted on this",
+        "link": "https://www.linkedin.com/posts/ansh-saxena04_excited-to-share-that-im-starting-a-new-activity-7492580635992018944-u_6a",
+        "title": "Excited to share that I\u2019m starting a new chapter as an Associate Product Manager at Capital One in Plano, TX! I\u2019m grateful for this opportunity to grow, learn, and contribute to the Product Development Program. Huge thanks to everyone who supported me along the way \u2014 family, friends, mentors and everyone else!",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQGLk4gR5VcvGQ/feedshare-shrink_1280/B56Z_pj05YHYAQ-/0/1786329911135?e=2147483647&v=beta&t=2K3ZbyJ-aypBCMaXRkyjUCQd795o_FbUent-8NcHMfo",
+        "id": "7492580635992018944"
+      },
+      {
+        "interaction": "Arnav Rajashekara liked this",
+        "link": "https://www.linkedin.com/posts/jaydenkhoipham_as-i-wrap-up-my-internship-i-have-been-reflecting-activity-7492623286129012736-uu-S",
+        "title": "As I wrap up my internship, I have been reflecting on how much I have grown since my first day. I came into this experience curious about how electronics could play such an important role in controlling an engine of this scale. As the weeks went by, I gradually learned how electronic control modules, or ECMs, are developed and tested. I gained hands-on experience with ECM hardware and printed circuit boards, including the opportunity to develop an embedded solution for one of the board\u2019s components. I also analyzed engineering test data, which showed me how test results can guide design improvements. Working alongside experienced engineers showed me that unexpected results are often where the most valuable learning begins. Those moments taught me to slow down, ask better questions, and look at a problem from a different perspective before reaching a conclusion. I could not have had this meaningful experience without the support of my team. I would especially like to thank my manager, Cheryl Steffel Verbeke , for making my internship such a smooth and rewarding experience. I am also grateful to my supervisor, Andres A. Mena , for his guidance throughout my engineering projects, and to Aun Abbas for being a great mentor along the way. I could not have asked for a better opportunity to learn, contribute, and grow as an engineer with Caterpillar Inc.",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQFuhV4tTcL8mg/feedshare-image-high-res/B56Z_slKlyH0AU-/0/1786380594547?e=2147483647&v=beta&t=DlPv-FsM-eDsvZ1MF-CSCpBaWuu9YP6N6TpWK0cUpWM",
+        "id": "7492623286129012736"
+      },
+      {
+        "interaction": "Arnav Rajashekara liked this",
+        "link": "https://www.linkedin.com/posts/nileshs22_ycombinator-yc-ai-activity-7491339143759781888-UBcQ",
+        "title": "Excited to share that I\u2019ve been selected to attend the Y Combinator Startup Internship Expo in San Francisco on August 15! I'm looking forward to meeting founders and engineers from 50+ of Y Combinator's top startups, learning how they're building the future of AI, and participating in the expo's speed-dating style interviews for spring and summer internships. Even more exciting, just three days later I'll be moving to UC Berkeley to begin my freshman year. It's hard to imagine a better way to kick off this next chapter than by surrounding myself with builders, founders, and engineers who are shaping the future of technology. If you'll be at the expo, I'd love to connect. Feel free to reach out or say hi! Looking forward to an exciting few weeks ahead. #YCombinator #YC #AI #Startups #Internships #UCBerkeley #Tech #Founders",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQFly3btbpxBwg/feedshare-shrink_800/B56Z_aVQaWJoAc-/0/1786074433494?e=2147483647&v=beta&t=XUyRT4cGYRbtsmdqoKOqJTae93t6B-FxF5oIFJalcRE",
+        "id": "7491339143759781888"
+      }
+    ],
+    "linkedin_num_id": "1128150812",
+    "banner_image": "https://media.licdn.com/dms/image/v2/D5616AQENAiUBOuAanA/profile-displaybackgroundimage-shrink_200_800/B56Z2MsU5bKoAU-/0/1776181934794?e=2147483647&v=beta&t=R0hxB2jZagV2D2cQTl7BivwVFt_dpAKmmpK7Hvt5Y_Y",
+    "honors_and_awards": null,
+    "similar_profiles": [],
+    "default_avatar": false,
+    "memorialized_account": false,
+    "bio_links": [
+      {
+        "title": "Portfolio",
+        "link": "https://arnav-rajashekara-portfolio.vercel.app/"
+      }
+    ],
+    "first_name": "Arnav",
+    "last_name": "Rajashekara",
+    "influencer": false,
+    "timestamp": "2026-08-12T19:25:18.964Z",
+    "input": {
+      "url": "https://www.linkedin.com/in/arnav-rajashekara-078995275"
+    }
+  },
+  "local_photo": "data\\linkedin_photos\\arnav-rajashekara-078995275__usr-9PkUjiKnVlBAiAM.jpg"
+}

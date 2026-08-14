@@ -1,0 +1,1877 @@
+{
+  "generated_at": "2026-08-14",
+  "event": "YC Startup Internship Expo Aug 15 2026",
+  "step_interval": 10,
+  "count": 133,
+  "kinds": [
+    "challenge",
+    "identify",
+    "intern",
+    "product",
+    "trap"
+  ],
+  "questions": [
+    {
+      "id": "replit-onsite",
+      "company": "Replit",
+      "kind": "challenge",
+      "prompt": "At this expo, Replit is mainly useful because they:",
+      "choices": [
+        "Only hire senior full-stack with 3+ years",
+        "Are a consumer language-learning app",
+        "Build police report software",
+        "Sponsor an on-site coding challenge with guaranteed interviews"
+      ],
+      "answer_index": 3,
+      "explain": "events.ycombinator.com/2027-summer-internship-expo — also CTGT, Garage, Mount."
+    },
+    {
+      "id": "weave-what",
+      "company": "Weave",
+      "kind": "product",
+      "prompt": "Weave uses AI to:",
+      "choices": [
+        "Understand and then route engineering work",
+        "Route collections calls",
+        "Route 311 city calls",
+        "Route hotel housekeeping"
+      ],
+      "answer_index": 0,
+      "explain": "Product engineer intern + take-home + paid work trial."
+    },
+    {
+      "id": "liner-y/n",
+      "company": "Y/n",
+      "kind": "identify",
+      "prompt": "Which attending company is this: “Play your story”",
+      "choices": [
+        "primitive",
+        "Y/n",
+        "Parameter (fka Hex Security)",
+        "Nowadays"
+      ],
+      "answer_index": 1,
+      "explain": "Y/n (S23, Series A)."
+    },
+    {
+      "id": "liner-lance",
+      "company": "Lance",
+      "kind": "identify",
+      "prompt": "Which attending company is this: “AI Agents That Run Hotel Operations.”",
+      "choices": [
+        "GiveCampus",
+        "Crustdata",
+        "Bild AI",
+        "Lance"
+      ],
+      "answer_index": 3,
+      "explain": "Lance (W26, Seed)."
+    },
+    {
+      "id": "partcl-what",
+      "company": "Partcl",
+      "kind": "product",
+      "prompt": "Partcl's product is:",
+      "choices": [
+        "Design a chip in minutes (GPU EDA)",
+        "Air traffic control AI",
+        "Mainframe modernization",
+        "Personal AI robots"
+      ],
+      "answer_index": 0,
+      "explain": "Founding systems+ML and EDA compiler. New grads if you can talk compilers."
+    },
+    {
+      "id": "intern-lance",
+      "company": "Lance",
+      "kind": "intern",
+      "prompt": "Which intern posting belongs to which company?",
+      "choices": [
+        "Velvet: Intern (unofficial; founder said hiring at expo)",
+        "Respan: Software Engineering Intern, Frontend (fall co-op)",
+        "Lance: Software Engineering Intern",
+        "Relling: Software Engineer Intern"
+      ],
+      "answer_index": 2,
+      "explain": "Founding SWE (new grads OK), SWE intern, and GTM/content intern."
+    },
+    {
+      "id": "dedalus-what",
+      "company": "Dedalus Labs",
+      "kind": "product",
+      "prompt": "Dedalus Labs is:",
+      "choices": [
+        "Salesforce DevOps",
+        "A compute substrate / VMs for AI agents",
+        "Email infra for agents",
+        "People-data APIs"
+      ],
+      "answer_index": 1,
+      "explain": "PM / Growth / Systems intern Summer 2027. Expo popup."
+    },
+    {
+      "id": "intern-soren",
+      "company": "Soren",
+      "kind": "intern",
+      "prompt": "Which intern posting belongs to which company?",
+      "choices": [
+        "Innate: Marketing Intern",
+        "Soren: Software Engineer Intern",
+        "Aemon: Member of Technical Staff Intern 2027",
+        "Clipboard: Engineering Intern"
+      ],
+      "answer_index": 1,
+      "explain": "SWE intern, growth intern, and Founding Engineer. Multiple intern tracks on a tiny team."
+    },
+    {
+      "id": "liner-sid",
+      "company": "SID",
+      "kind": "identify",
+      "prompt": "Which attending company is this: “AI research lab for retrieval”",
+      "choices": [
+        "Koyal",
+        "Veritus",
+        "Garage",
+        "SID"
+      ],
+      "answer_index": 3,
+      "explain": "SID (S23, Seed)."
+    },
+    {
+      "id": "liner-aemon",
+      "company": "Aemon",
+      "kind": "identify",
+      "prompt": "Which attending company is this: “The Forward-Deployed AI Research Engineer”",
+      "choices": [
+        "Aemon",
+        "Surface Labs",
+        "CTGT",
+        "Moda"
+      ],
+      "answer_index": 0,
+      "explain": "Aemon (W26, Seed)."
+    },
+    {
+      "id": "yn-what",
+      "company": "Y/n",
+      "kind": "product",
+      "prompt": "Y/n's consumer product is:",
+      "choices": [
+        "Play your story (interactive stories)",
+        "Agentic filmmaking",
+        "Meeting notes",
+        "TikTok for language learning"
+      ],
+      "answer_index": 0,
+      "explain": "Founding eng + SWE. Possible take-home."
+    },
+    {
+      "id": "veritus-what",
+      "company": "Veritus",
+      "kind": "trap",
+      "prompt": "Veritus builds AI agents for:",
+      "choices": [
+        "Consumer lending",
+        "Collections (Domu)",
+        "Insurance (Corgi)",
+        "Fraud investigations (Variance)"
+      ],
+      "answer_index": 0,
+      "explain": "FDE + fullstack, new grads possible."
+    },
+    {
+      "id": "liner-terranox-ai",
+      "company": "Terranox AI",
+      "kind": "identify",
+      "prompt": "Which attending company is this: “The first AI-powered uranium discovery company”",
+      "choices": [
+        "Terranox AI",
+        "Replit",
+        "Bluejay",
+        "GiveCampus"
+      ],
+      "answer_index": 0,
+      "explain": "Terranox AI (W26, Seed)."
+    },
+    {
+      "id": "intern-replit",
+      "company": "Replit",
+      "kind": "intern",
+      "prompt": "Which intern posting belongs to which company?",
+      "choices": [
+        "SID: Research Intern (Summer 2026)",
+        "Relling: Software Engineer Intern",
+        "Replit: Software Engineering Intern (via expo challenge / careers)",
+        "Dedalus Labs: Product Manager Summer 2027 Intern"
+      ],
+      "answer_index": 2,
+      "explain": "Broad engineering hiring via replit.com/careers. Expo value is the sponsored coding challenge, not a single intern req."
+    },
+    {
+      "id": "intern-naïve",
+      "company": "Naïve",
+      "kind": "intern",
+      "prompt": "Which intern posting belongs to which company?",
+      "choices": [
+        "Dedalus Labs: Product Manager Summer 2027 Intern",
+        "Terranox AI: Fall Intern - AI/ML Engineering",
+        "Pure: Product Engineering Intern (Summer 2027)",
+        "Naïve: Software Engineering Intern"
+      ],
+      "answer_index": 3,
+      "explain": "SWE intern, research intern, growth intern, plus MTS. 48-hour take-home is the screen."
+    },
+    {
+      "id": "terranox-what",
+      "company": "Terranox AI",
+      "kind": "product",
+      "prompt": "Terranox AI is not a SaaS dashboard company. They:",
+      "choices": [
+        "Use AI to find uranium deposits for the nuclear buildout",
+        "Sell voice-agent evals",
+        "Stream database data to warehouses",
+        "Run hotel operations with agents"
+      ],
+      "answer_index": 0,
+      "explain": "Fall AI/ML intern vs Summer applied-science (MSc/PhD)."
+    },
+    {
+      "id": "laminar-trap",
+      "company": "Laminar",
+      "kind": "trap",
+      "prompt": "Laminar (F24) at this expo is:",
+      "choices": [
+        "AI for air traffic control",
+        "The memory layer for AI agents",
+        "Salesforce DevOps agents — not the LLM observability company lmnr.ai",
+        "An in-browser IDE"
+      ],
+      "answer_index": 2,
+      "explain": "Easy name collision. 8+ years typical. Skip unless that is your lane."
+    },
+    {
+      "id": "respan-what",
+      "company": "Respan",
+      "kind": "product",
+      "prompt": "Respan (ex Keywords AI) is:",
+      "choices": [
+        "B2B people data APIs",
+        "AI meeting notes",
+        "Observability, evals, and a gateway for AI agents",
+        "School fundraising"
+      ],
+      "answer_index": 2,
+      "explain": "Frontend fall co-op intern is posted."
+    },
+    {
+      "id": "prox-challenge",
+      "company": "Prox",
+      "kind": "challenge",
+      "prompt": "Prox's internship/founding filter is:",
+      "choices": [
+        "A 3-hour take-home on B2B data APIs",
+        "Clone a public welder-agent repo and submit it — no resume screen",
+        "A 60-second Loom to the founders",
+        "A 45-minute LeetCode screen"
+      ],
+      "answer_index": 1,
+      "explain": "Prox: github.com/prox-technologies/prox-challenge then useprox.com/join."
+    },
+    {
+      "id": "aemon-what",
+      "company": "Aemon",
+      "kind": "product",
+      "prompt": "Aemon's one-liner is:",
+      "choices": [
+        "Forward-deployed engineer at Prox",
+        "The Forward-Deployed AI Research Engineer",
+        "AI R&D as a productized role/company",
+        "A chip-design copilot"
+      ],
+      "answer_index": 1,
+      "explain": "One elite MTS intern 2027, $8–15k. Contest-kid shaped."
+    },
+    {
+      "id": "liner-hypercubic",
+      "company": "Hypercubic",
+      "kind": "identify",
+      "prompt": "Which attending company is this: “Agentic AI for Mainframe Operations and Modernization”",
+      "choices": [
+        "SID",
+        "Hypercubic",
+        "Clipboard",
+        "Aemon"
+      ],
+      "answer_index": 1,
+      "explain": "Hypercubic (F25, Seed)."
+    },
+    {
+      "id": "liner-garage",
+      "company": "Garage",
+      "kind": "identify",
+      "prompt": "Which attending company is this: “Marketplace for America's most essential assets”",
+      "choices": [
+        "Garage",
+        "Allus AI",
+        "Industrial Next",
+        "Veritus"
+      ],
+      "answer_index": 0,
+      "explain": "Garage (W24, Series A)."
+    },
+    {
+      "id": "intern-surface-labs",
+      "company": "Surface Labs",
+      "kind": "intern",
+      "prompt": "Which intern posting belongs to which company?",
+      "choices": [
+        "Replit: Software Engineering Intern (via expo challenge / careers)",
+        "Surface Labs: AI Content Intern",
+        "Nowadays: Product Engineer Intern (Fall 2026)",
+        "Allus AI: Software Engineer Internship"
+      ],
+      "answer_index": 1,
+      "explain": "AI Content Intern, AI Ads Engineer Intern, and AI GTM Engineer Intern."
+    },
+    {
+      "id": "primitive-what",
+      "company": "primitive",
+      "kind": "trap",
+      "prompt": "primitive is:",
+      "choices": [
+        "Communication / email infrastructure for agents",
+        "Unified agent infra (Naïve)",
+        "Continual learning (Moda)",
+        "Memory for agents (Mem0)"
+      ],
+      "answer_index": 0,
+      "explain": "Demo their MCP. Founding DevRel / 'anything' new grads."
+    },
+    {
+      "id": "codefour-what",
+      "company": "Code Four",
+      "kind": "product",
+      "prompt": "Code Four is:",
+      "choices": [
+        "Personal AI robots",
+        "Test/monitor voice AI agents",
+        "Modernizing the police workflow (reports, bodycam, case search)",
+        "CBT-I for insomnia"
+      ],
+      "answer_index": 2,
+      "explain": "Founding fullstack, 3+ years. Not a typical intern booth."
+    },
+    {
+      "id": "liner-artie",
+      "company": "Artie",
+      "kind": "identify",
+      "prompt": "Which attending company is this: “Software that streams data from databases to warehouses in real-time”",
+      "choices": [
+        "Artie",
+        "Crustdata",
+        "hillclimb",
+        "Stellar Sleep"
+      ],
+      "answer_index": 0,
+      "explain": "Artie (S23, Series A)."
+    },
+    {
+      "id": "liner-stellar-sleep",
+      "company": "Stellar Sleep",
+      "kind": "identify",
+      "prompt": "Which attending company is this: “We help people with chronic insomnia sleep better, using psychology.”",
+      "choices": [
+        "Parrot",
+        "Relling",
+        "Socratix AI",
+        "Stellar Sleep"
+      ],
+      "answer_index": 3,
+      "explain": "Stellar Sleep (S23, Seed)."
+    },
+    {
+      "id": "intern-bluejay",
+      "company": "Bluejay",
+      "kind": "intern",
+      "prompt": "Which intern posting belongs to which company?",
+      "choices": [
+        "CTGT: Software Engineering Intern (Summer 2027)",
+        "Bild AI: AI/SWE Intern",
+        "Stellar Sleep: Intern (unofficial)",
+        "Bluejay: Software Engineer Intern"
+      ],
+      "answer_index": 3,
+      "explain": "SWE intern plus MTS and Senior MTS. Public $6k bounty is the loudest intern signal at this expo."
+    },
+    {
+      "id": "liner-mount",
+      "company": "Mount",
+      "kind": "identify",
+      "prompt": "Which attending company is this: “AI agent insurance”",
+      "choices": [
+        "Bluejay",
+        "Mount",
+        "Lance",
+        "Laminar"
+      ],
+      "answer_index": 1,
+      "explain": "Mount (P26, Seed)."
+    },
+    {
+      "id": "intern-bild-ai",
+      "company": "Bild AI",
+      "kind": "intern",
+      "prompt": "Which intern posting belongs to which company?",
+      "choices": [
+        "Allus AI: Software Engineer Internship",
+        "AfterQuery: Software Engineer Intern",
+        "Pure: Product Engineering Intern (Summer 2027)",
+        "Bild AI: AI/SWE Intern"
+      ],
+      "answer_index": 3,
+      "explain": "AI/SWE intern plus founding product and founding AI engineer seats."
+    },
+    {
+      "id": "intern-stellar-sleep",
+      "company": "Stellar Sleep",
+      "kind": "intern",
+      "prompt": "Which intern posting belongs to which company?",
+      "choices": [
+        "Stellar Sleep: Intern (unofficial)",
+        "Surface Labs: AI Content Intern",
+        "EffiGov: Software Engineer Intern (Fall 2026)",
+        "Corgi Insurance: Software Engineer Intern (listing may be stale)"
+      ],
+      "answer_index": 0,
+      "explain": "Founding Product Engineer with take-home. Intern role exists unofficially — ask in person."
+    },
+    {
+      "id": "liner-surface-labs",
+      "company": "Surface Labs",
+      "kind": "identify",
+      "prompt": "Which attending company is this: “Building the AI-powered marketing ops platform that turns website traffic into pipeline”",
+      "choices": [
+        "Surface Labs",
+        "Parahelp",
+        "AfterQuery",
+        "Clipboard"
+      ],
+      "answer_index": 0,
+      "explain": "Surface Labs (S23, Seed)."
+    },
+    {
+      "id": "prox-what",
+      "company": "Prox",
+      "kind": "trap",
+      "prompt": "Prox is:",
+      "choices": [
+        "Hotel ops agents (Lance)",
+        "AI technical support for complex physical products (welders, manuals, schematics)",
+        "Voice-agent evals (Bluejay)",
+        "AI support agents that use SaaS tools (Parahelp)"
+      ],
+      "answer_index": 1,
+      "explain": "Physical products, not Zendesk wrappers."
+    },
+    {
+      "id": "surface-what",
+      "company": "Surface Labs",
+      "kind": "product",
+      "prompt": "Surface Labs is building:",
+      "choices": [
+        "Voice-agent evals",
+        "B2B people data APIs",
+        "School fundraising",
+        "An AI marketing-ops platform (site → content/ads)"
+      ],
+      "answer_index": 3,
+      "explain": "Three intern tracks: content, ads, GTM."
+    },
+    {
+      "id": "intern-hillclimb",
+      "company": "hillclimb",
+      "kind": "intern",
+      "prompt": "Which intern posting belongs to which company?",
+      "choices": [
+        "hillclimb: Research Engineer Intern",
+        "Circleback: Software Engineering Intern (Summer 2027)",
+        "Weave: Product Engineer Intern",
+        "Corgi Insurance: Software Engineer Intern (listing may be stale)"
+      ],
+      "answer_index": 0,
+      "explain": "Research Engineer Intern and SWE Intern at $10k/mo, plus MTS Research."
+    },
+    {
+      "id": "industrial-next-what",
+      "company": "Industrial Next",
+      "kind": "trap",
+      "prompt": "Industrial Next's pitch is:",
+      "choices": [
+        "Division 8 construction takeoff",
+        "Personal home robots",
+        "Tesla-style autonomous manufacturing for everyone",
+        "The first billion manufacturing robots (Relling)"
+      ],
+      "answer_index": 2,
+      "explain": "CEO Lukas Pankau is at the expo. Senior research, weak intern posting."
+    },
+    {
+      "id": "intern-dedalus-labs",
+      "company": "Dedalus Labs",
+      "kind": "intern",
+      "prompt": "Which intern posting belongs to which company?",
+      "choices": [
+        "Dedalus Labs: Product Manager Summer 2027 Intern",
+        "Bild AI: AI/SWE Intern",
+        "Replit: Software Engineering Intern (via expo challenge / careers)",
+        "Innate: Marketing Intern"
+      ],
+      "answer_index": 0,
+      "explain": "PM intern, Growth intern, and Systems Engineer intern for Summer 2027, plus other roles. Expo popup is the live motion."
+    },
+    {
+      "id": "liner-ctgt",
+      "company": "CTGT",
+      "kind": "identify",
+      "prompt": "Which attending company is this: “The deterministic layer for frontier intelligence”",
+      "choices": [
+        "Partcl",
+        "Domu",
+        "CTGT",
+        "primitive"
+      ],
+      "answer_index": 2,
+      "explain": "CTGT (F24, Seed)."
+    },
+    {
+      "id": "liner-moda",
+      "company": "Moda",
+      "kind": "identify",
+      "prompt": "Which attending company is this: “The continual learning layer for AI agents.”",
+      "choices": [
+        "Moda",
+        "EffiGov",
+        "Socratix AI",
+        "Laminar"
+      ],
+      "answer_index": 0,
+      "explain": "Moda (W26, Seed)."
+    },
+    {
+      "id": "allus-what",
+      "company": "Allus AI",
+      "kind": "product",
+      "prompt": "Allus AI (Atlanta) is:",
+      "choices": [
+        "Chip EDA",
+        "Personal home robots",
+        "Uranium discovery",
+        "A vision foundation model for manufacturing"
+      ],
+      "answer_index": 3,
+      "explain": "SWE internship posted. Not SF-only."
+    },
+    {
+      "id": "intern-crustdata",
+      "company": "Crustdata",
+      "kind": "intern",
+      "prompt": "Which intern posting belongs to which company?",
+      "choices": [
+        "Crustdata: Forward-Deployed Engineer Intern",
+        "CTGT: Software Engineering Intern (Summer 2027)",
+        "Lance: Software Engineering Intern",
+        "hillclimb: Research Engineer Intern"
+      ],
+      "answer_index": 0,
+      "explain": "FDE intern, ML intern, and AI intern. AI intern path includes a 3-hour assignment."
+    },
+    {
+      "id": "parahelp-what",
+      "company": "Parahelp",
+      "kind": "product",
+      "prompt": "Parahelp builds:",
+      "choices": [
+        "Fraud coworkers (Socratix)",
+        "An AI support agent that can use all of a company's tools",
+        "AI tech support for physical products (Prox)",
+        "Voice-agent testing (Bluejay)"
+      ],
+      "answer_index": 1,
+      "explain": "Series A. No open intern listing — still a useful booth if you want support-agents."
+    },
+    {
+      "id": "effigov-intern",
+      "company": "EffiGov",
+      "kind": "intern",
+      "prompt": "EffiGov's Fall 2026 SWE intern is roughly paid:",
+      "choices": [
+        "$10k/mo like hillclimb research interns",
+        "Only a stipend plus dinner",
+        "Unpaid for equity",
+        "$5–7k per month"
+      ],
+      "answer_index": 3,
+      "explain": "Voice 311 for cities. Founding-adjacent intern seat."
+    },
+    {
+      "id": "intern-corgi-insurance",
+      "company": "Corgi Insurance",
+      "kind": "intern",
+      "prompt": "Which intern posting belongs to which company?",
+      "choices": [
+        "Corgi Insurance: Software Engineer Intern (listing may be stale)",
+        "Naïve: Software Engineering Intern",
+        "Aemon: Member of Technical Staff Intern 2027",
+        "Soren: Software Engineer Intern"
+      ],
+      "answer_index": 0,
+      "explain": "Many SWE roles (including trucking insurance), sales engineer, work trials. Intern listing may be stale."
+    },
+    {
+      "id": "relling-what",
+      "company": "Relling",
+      "kind": "trap",
+      "prompt": "Relling's one-liner is:",
+      "choices": [
+        "Hotel operations agents",
+        "Tesla autonomous manufacturing cells for everyone",
+        "Personal AI robots for the home",
+        "Deploying the first billion robots for manufacturing"
+      ],
+      "answer_index": 3,
+      "explain": "Don't mix with Innate (home robots) or Industrial Next (factory cells). CEO Jai Relan is at the expo."
+    },
+    {
+      "id": "liner-enhanced-radar",
+      "company": "Enhanced Radar",
+      "kind": "identify",
+      "prompt": "Which attending company is this: “AI for air traffic control”",
+      "choices": [
+        "Enhanced Radar",
+        "CTGT",
+        "Respan",
+        "AfterQuery"
+      ],
+      "answer_index": 0,
+      "explain": "Enhanced Radar (W25, Seed)."
+    },
+    {
+      "id": "intern-pure",
+      "company": "Pure",
+      "kind": "intern",
+      "prompt": "Which intern posting belongs to which company?",
+      "choices": [
+        "SID: Research Intern (Summer 2026)",
+        "Replit: Software Engineering Intern (via expo challenge / careers)",
+        "Soren: Software Engineer Intern",
+        "Pure: Product Engineering Intern (Summer 2027)"
+      ],
+      "answer_index": 3,
+      "explain": "Product Engineering Intern (Summer 2027), Growth Marketing Intern, Full-Stack Software Engineer. LA company."
+    },
+    {
+      "id": "bild-what",
+      "company": "Bild AI",
+      "kind": "product",
+      "prompt": "Bild AI's wedge is:",
+      "choices": [
+        "Marketplace for fire trucks",
+        "AI for air traffic control",
+        "Fundraising for schools",
+        "AI estimating and detailing for Division 8 doors, frames, and hardware"
+      ],
+      "answer_index": 3,
+      "explain": "Narrow construction vertical. AI/SWE intern posted. Founder Puneet is at the expo."
+    },
+    {
+      "id": "liner-mem0",
+      "company": "Mem0",
+      "kind": "identify",
+      "prompt": "Which attending company is this: “The Memory layer for AI Agents”",
+      "choices": [
+        "CTGT",
+        "Mem0",
+        "Moda",
+        "Aemon"
+      ],
+      "answer_index": 1,
+      "explain": "Mem0 (S24, Series A)."
+    },
+    {
+      "id": "intern-terranox-ai",
+      "company": "Terranox AI",
+      "kind": "intern",
+      "prompt": "Which intern posting belongs to which company?",
+      "choices": [
+        "EffiGov: Software Engineer Intern (Fall 2026)",
+        "Pure: Product Engineering Intern (Summer 2027)",
+        "Naïve: Software Engineering Intern",
+        "Terranox AI: Fall Intern - AI/ML Engineering"
+      ],
+      "answer_index": 3,
+      "explain": "AI/ML engineers, Fall AI/ML interns, and a Summer applied-science intern aimed at MSc/PhD talent; founding ML is also in play."
+    },
+    {
+      "id": "koyal-what",
+      "company": "Koyal",
+      "kind": "product",
+      "prompt": "Koyal is:",
+      "choices": [
+        "Play-your-story interactive fiction",
+        "TikTok for language learning",
+        "AI ads / marketing ops",
+        "An agentic AI filmmaking platform"
+      ],
+      "answer_index": 3,
+      "explain": "Founding engineer. Video-gen, not a generic intern booth."
+    },
+    {
+      "id": "liner-domu",
+      "company": "Domu",
+      "kind": "identify",
+      "prompt": "Which attending company is this: “AI Agents for collections”",
+      "choices": [
+        "Code Four",
+        "Domu",
+        "Mem0",
+        "Pure"
+      ],
+      "answer_index": 1,
+      "explain": "Domu (S24, Series A)."
+    },
+    {
+      "id": "nowadays-dining",
+      "company": "Nowadays",
+      "kind": "challenge",
+      "prompt": "Nowadays' expo puzzle (deadline tonight) is about:",
+      "choices": [
+        "Finding trusted private dining for groups of 30–200 people",
+        "Uranium exploration models",
+        "Hotel operations agents",
+        "Mainframe COBOL agents"
+      ],
+      "answer_index": 0,
+      "explain": "nowadays.ai/careers/yc — React + Tailwind + Supabase. Top 5 get an intern interview and dinner."
+    },
+    {
+      "id": "intern-circleback",
+      "company": "Circleback",
+      "kind": "intern",
+      "prompt": "Which intern posting belongs to which company?",
+      "choices": [
+        "Circleback: Software Engineering Intern (Summer 2027)",
+        "Naïve: Software Engineering Intern",
+        "CTGT: Software Engineering Intern (Summer 2027)",
+        "Aemon: Member of Technical Staff Intern 2027"
+      ],
+      "answer_index": 0,
+      "explain": "Software Engineering Intern (Summer 2027) plus SWE and senior SWE."
+    },
+    {
+      "id": "liner-innate",
+      "company": "Innate",
+      "kind": "identify",
+      "prompt": "Which attending company is this: “Personal AI Robots”",
+      "choices": [
+        "Crustdata",
+        "Enhanced Radar",
+        "EffiGov",
+        "Innate"
+      ],
+      "answer_index": 3,
+      "explain": "Innate (F24, Seed)."
+    },
+    {
+      "id": "liner-bluejay",
+      "company": "Bluejay",
+      "kind": "identify",
+      "prompt": "Which attending company is this: “Test, monitor, and improve your voice and chat AI agents”",
+      "choices": [
+        "Bluejay",
+        "Lance",
+        "Bild AI",
+        "Surface Labs"
+      ],
+      "answer_index": 0,
+      "explain": "Bluejay (P25, Seed)."
+    },
+    {
+      "id": "liner-allus-ai",
+      "company": "Allus AI",
+      "kind": "identify",
+      "prompt": "Which attending company is this: “Transforming manufacturing with our next-gen Vision Foundation Model”",
+      "choices": [
+        "Corgi Insurance",
+        "Allus AI",
+        "Socratix AI",
+        "Velvet"
+      ],
+      "answer_index": 1,
+      "explain": "Allus AI (F25, Seed)."
+    },
+    {
+      "id": "givecampus-skip",
+      "company": "GiveCampus",
+      "kind": "trap",
+      "prompt": "GiveCampus is a bad first booth for most students because:",
+      "choices": [
+        "Growth-stage school fundraising, 3+ years experience, no intern posting",
+        "They require a 60-second Loom",
+        "They are NYC-only",
+        "They only hire PhD geoscientists"
+      ],
+      "answer_index": 0,
+      "explain": "DC-rooted, ~130 people. Real company, wrong intern shape."
+    },
+    {
+      "id": "crustdata-what",
+      "company": "Crustdata",
+      "kind": "product",
+      "prompt": "Crustdata sells:",
+      "choices": [
+        "Insomnia treatment",
+        "Real-time people and company data via APIs",
+        "Personal AI robots",
+        "AI estimating for doors and frames"
+      ],
+      "answer_index": 1,
+      "explain": "AI intern track uses a 3-hour assignment. CEO Abhilash is at the expo."
+    },
+    {
+      "id": "soren-what",
+      "company": "Soren",
+      "kind": "product",
+      "prompt": "Soren's 'specialized AI for real-world deployment' means:",
+      "choices": [
+        "Robots on a factory floor",
+        "Private AI for regulated SMBs (banks, law firms) that cannot use public models",
+        "Uranium drilling",
+        "Police bodycam reports"
+      ],
+      "answer_index": 1,
+      "explain": "SWE intern + growth intern + founding eng."
+    },
+    {
+      "id": "mount-what",
+      "company": "Mount",
+      "kind": "product",
+      "prompt": "Mount (not on the original 51, but an expo challenge sponsor) is:",
+      "choices": [
+        "Trucking insurance at Corgi",
+        "AI agent insurance",
+        "Collections agents",
+        "School fundraising"
+      ],
+      "answer_index": 1,
+      "explain": "On-site challenge sponsor with Replit / CTGT / Garage."
+    },
+    {
+      "id": "variance-what",
+      "company": "Variance",
+      "kind": "trap",
+      "prompt": "Variance builds:",
+      "choices": [
+        "AI agents for fraud review and investigations",
+        "Offensive security agents (Parameter)",
+        "AI coworkers for fraud/compliance (Socratix)",
+        "Collections agents (Domu)"
+      ],
+      "answer_index": 0,
+      "explain": "Series A. Research/evals. No intern listing."
+    },
+    {
+      "id": "intern-sid",
+      "company": "SID",
+      "kind": "intern",
+      "prompt": "Which intern posting belongs to which company?",
+      "choices": [
+        "Lance: Software Engineering Intern",
+        "Surface Labs: AI Content Intern",
+        "SID: Research Intern (Summer 2026)",
+        "hillclimb: Research Engineer Intern"
+      ],
+      "answer_index": 2,
+      "explain": "Research Intern (Summer 2026) and Research Engineer. High fit for ML/retrieval kids, not general fullstack."
+    },
+    {
+      "id": "liner-circleback",
+      "company": "Circleback",
+      "kind": "identify",
+      "prompt": "Which attending company is this: “AI-powered meeting notes and automations”",
+      "choices": [
+        "Circleback",
+        "Domu",
+        "Prox",
+        "primitive"
+      ],
+      "answer_index": 0,
+      "explain": "Circleback (W24, Seed)."
+    },
+    {
+      "id": "mem0-what",
+      "company": "Mem0",
+      "kind": "trap",
+      "prompt": "Mem0 is:",
+      "choices": [
+        "Meeting notes (that's Circleback)",
+        "Chip design in minutes (that's Partcl)",
+        "Unified agent infrastructure (that's Naïve)",
+        "The memory layer for AI agents"
+      ],
+      "answer_index": 3,
+      "explain": "Easy to mix with Naïve, Circleback, and Moda. Ask about intern take-home: local voice-controlled agent."
+    },
+    {
+      "id": "garage-geo",
+      "company": "Garage",
+      "kind": "trap",
+      "prompt": "Garage (marketplace for fire trucks and essential assets) is based in:",
+      "choices": [
+        "Boston",
+        "San Francisco",
+        "Atlanta",
+        "New York City"
+      ],
+      "answer_index": 3,
+      "explain": "Expo sponsor + intern take-home, but the job is NYC."
+    },
+    {
+      "id": "intern-respan",
+      "company": "Respan",
+      "kind": "intern",
+      "prompt": "Which intern posting belongs to which company?",
+      "choices": [
+        "EffiGov: Software Engineer Intern (Fall 2026)",
+        "Respan: Software Engineering Intern, Frontend (fall co-op)",
+        "AfterQuery: Software Engineer Intern",
+        "SID: Research Intern (Summer 2026)"
+      ],
+      "answer_index": 1,
+      "explain": "Frontend fall co-op intern, plus senior frontend, SWE AI, and related roles."
+    },
+    {
+      "id": "liner-effigov",
+      "company": "EffiGov",
+      "kind": "identify",
+      "prompt": "Which attending company is this: “The AI OS for Cities”",
+      "choices": [
+        "Bild AI",
+        "EffiGov",
+        "Relling",
+        "SID"
+      ],
+      "answer_index": 1,
+      "explain": "EffiGov (S25, Seed)."
+    },
+    {
+      "id": "liner-pure",
+      "company": "Pure",
+      "kind": "identify",
+      "prompt": "Which attending company is this: “Marketplace for Rare Coins & Precious Metals”",
+      "choices": [
+        "Enhanced Radar",
+        "Pure",
+        "Innate",
+        "Mem0"
+      ],
+      "answer_index": 1,
+      "explain": "Pure (S23, Series A)."
+    },
+    {
+      "id": "liner-variance",
+      "company": "Variance",
+      "kind": "identify",
+      "prompt": "Which attending company is this: “AI Agents for Fraud Review and Investigations”",
+      "choices": [
+        "Garage",
+        "Corgi Insurance",
+        "Enhanced Radar",
+        "Variance"
+      ],
+      "answer_index": 3,
+      "explain": "Variance (W23, Series A)."
+    },
+    {
+      "id": "intern-allus-ai",
+      "company": "Allus AI",
+      "kind": "intern",
+      "prompt": "Which intern posting belongs to which company?",
+      "choices": [
+        "Allus AI: Software Engineer Internship",
+        "Clipboard: Engineering Intern",
+        "hillclimb: Research Engineer Intern",
+        "Terranox AI: Fall Intern - AI/ML Engineering"
+      ],
+      "answer_index": 0,
+      "explain": "Software Engineer Internship plus Founding AI Agent Engineer. Atlanta HQ; confirm SF/remote from the booth."
+    },
+    {
+      "id": "intern-nowadays",
+      "company": "Nowadays",
+      "kind": "intern",
+      "prompt": "Which intern posting belongs to which company?",
+      "choices": [
+        "Nowadays: Product Engineer Intern (Fall 2026)",
+        "Velvet: Intern (unofficial; founder said hiring at expo)",
+        "Garage: Software Engineering Intern (take-home; confirm current listing)",
+        "Weave: Product Engineer Intern"
+      ],
+      "answer_index": 0,
+      "explain": "Founding Product Designer, Founding SWE, Founding Product Engineer, Product Engineer Intern Fall 2026, Operations Intern Fall 2026. Expo puzzle: private dining finder; top 5 get a guaranteed intern interview."
+    },
+    {
+      "id": "parrot-loom",
+      "company": "Parrot",
+      "kind": "challenge",
+      "prompt": "How do you actually apply to Parrot (TikTok for language learning)?",
+      "choices": [
+        "Send a 60-second Loom to founders@parrotapp.com",
+        "Clone their GitHub welder challenge",
+        "Finish a 48-hour take-home",
+        "Show up with a resume only"
+      ],
+      "answer_index": 0,
+      "explain": "The Loom is the application, not a nice-to-have."
+    },
+    {
+      "id": "liner-laminar",
+      "company": "Laminar",
+      "kind": "identify",
+      "prompt": "Which attending company is this: “Enterprise systems delivery without the turbulence.”",
+      "choices": [
+        "Hypercubic",
+        "Laminar",
+        "Stellar Sleep",
+        "Circleback"
+      ],
+      "answer_index": 1,
+      "explain": "Laminar (F24, Seed)."
+    },
+    {
+      "id": "intern-garage",
+      "company": "Garage",
+      "kind": "intern",
+      "prompt": "Which intern posting belongs to which company?",
+      "choices": [
+        "Replit: Software Engineering Intern (via expo challenge / careers)",
+        "SID: Research Intern (Summer 2026)",
+        "Garage: Software Engineering Intern (take-home; confirm current listing)",
+        "Dedalus Labs: Product Manager Summer 2027 Intern"
+      ],
+      "answer_index": 2,
+      "explain": "Founding Design Engineer, Software Engineer, Software Engineer Growth. Expo sponsor; intern take-home exists. NYC-based — medium fit if you need SF."
+    },
+    {
+      "id": "intern-ctgt",
+      "company": "CTGT",
+      "kind": "intern",
+      "prompt": "Which intern posting belongs to which company?",
+      "choices": [
+        "Terranox AI: Fall Intern - AI/ML Engineering",
+        "CTGT: Software Engineering Intern (Summer 2027)",
+        "Circleback: Software Engineering Intern (Summer 2027)",
+        "Bild AI: AI/SWE Intern"
+      ],
+      "answer_index": 1,
+      "explain": "SWE intern (Summer 2027), research intern (artifact-based), plus ML interpretability and senior SWE. Expo sponsor booth."
+    },
+    {
+      "id": "liner-partcl",
+      "company": "Partcl",
+      "kind": "identify",
+      "prompt": "Which attending company is this: “Design a chip in minutes”",
+      "choices": [
+        "Velvet",
+        "Relling",
+        "Partcl",
+        "Parrot"
+      ],
+      "answer_index": 2,
+      "explain": "Partcl (P25, Seed)."
+    },
+    {
+      "id": "clipboard-what",
+      "company": "Clipboard",
+      "kind": "product",
+      "prompt": "Clipboard Health's consumer one-liner is:",
+      "choices": [
+        "Every shift, Covered. (healthcare staffing)",
+        "Every meeting, noted.",
+        "Every hotel, staffed.",
+        "Every city 311 call, answered."
+      ],
+      "answer_index": 0,
+      "explain": "~1000 people. Engineering intern + TSE case study."
+    },
+    {
+      "id": "parameter-what",
+      "company": "Parameter (fka Hex Security)",
+      "kind": "product",
+      "prompt": "Parameter (fka Hex Security) builds:",
+      "choices": [
+        "AI agents for collections",
+        "Agentic offensive security at scale",
+        "Fundraising software for schools",
+        "In-browser IDE"
+      ],
+      "answer_index": 1,
+      "explain": "New-grad MTS is in play. Security-shaped."
+    },
+    {
+      "id": "hillclimb-pay",
+      "company": "hillclimb",
+      "kind": "intern",
+      "prompt": "hillclimb's research/SWE intern posting is notable because:",
+      "choices": [
+        "It pays about $10k/month",
+        "It requires 8 years of Salesforce",
+        "It is unpaid",
+        "It is NYC-only"
+      ],
+      "answer_index": 0,
+      "explain": "Training data for recursive self-improvement. Research-shaped."
+    },
+    {
+      "id": "bluejay-bounty",
+      "company": "Bluejay",
+      "kind": "challenge",
+      "prompt": "Bluejay is paying a public bounty for work on their product. What is Bluejay?",
+      "choices": [
+        "TikTok for language learning",
+        "Memory layer for AI agents",
+        "Test, monitor, and improve voice and chat AI agents",
+        "AI technical support for welders"
+      ],
+      "answer_index": 2,
+      "explain": "getbluejay.ai/bounty — $2k/agent, $6k total. SWE intern is posted."
+    },
+    {
+      "id": "liner-parrot",
+      "company": "Parrot",
+      "kind": "identify",
+      "prompt": "Which attending company is this: “TikTok for language learning”",
+      "choices": [
+        "Parrot",
+        "Socratix AI",
+        "Aemon",
+        "Industrial Next"
+      ],
+      "answer_index": 0,
+      "explain": "Parrot (F25, Seed)."
+    },
+    {
+      "id": "liner-parahelp",
+      "company": "Parahelp",
+      "kind": "identify",
+      "prompt": "Which attending company is this: “Build an AI support agent that can use all your tools”",
+      "choices": [
+        "Prox",
+        "Replit",
+        "Parahelp",
+        "Naïve"
+      ],
+      "answer_index": 2,
+      "explain": "Parahelp (S24, Series A)."
+    },
+    {
+      "id": "stellar-what",
+      "company": "Stellar Sleep",
+      "kind": "product",
+      "prompt": "Stellar Sleep helps people with chronic insomnia using:",
+      "choices": [
+        "Psychology / CBT-I, not a gadget",
+        "A voice agent that calls 311",
+        "An AI meeting-notes app",
+        "A wearable sleep robot"
+      ],
+      "answer_index": 0,
+      "explain": "Boston. Founding PE take-home. Intern path unofficial."
+    },
+    {
+      "id": "liner-prox",
+      "company": "Prox",
+      "kind": "identify",
+      "prompt": "Which attending company is this: “AI technical support for complex physical products”",
+      "choices": [
+        "Prox",
+        "Bild AI",
+        "AfterQuery",
+        "Stellar Sleep"
+      ],
+      "answer_index": 0,
+      "explain": "Prox (F25, Seed)."
+    },
+    {
+      "id": "liner-crustdata",
+      "company": "Crustdata",
+      "kind": "identify",
+      "prompt": "Which attending company is this: “Real-time B2B data via simple APIs”",
+      "choices": [
+        "Crustdata",
+        "Variance",
+        "Clipboard",
+        "Y/n"
+      ],
+      "answer_index": 0,
+      "explain": "Crustdata (F24, Seed)."
+    },
+    {
+      "id": "sid-what",
+      "company": "SID",
+      "kind": "product",
+      "prompt": "SID is:",
+      "choices": [
+        "AI coworkers for fraud teams",
+        "A rare-coin marketplace",
+        "AI for air traffic control",
+        "An AI research lab for retrieval"
+      ],
+      "answer_index": 3,
+      "explain": "Co-founder Lotte Seifert is on the guest list. Research intern summer 2026."
+    },
+    {
+      "id": "moda-what",
+      "company": "Moda",
+      "kind": "trap",
+      "prompt": "Moda is:",
+      "choices": [
+        "The continual learning layer for AI agents",
+        "Memory layer (Mem0)",
+        "Observability gateway (Respan)",
+        "Meeting notes (Circleback)"
+      ],
+      "answer_index": 0,
+      "explain": "No jobs posted. Still useful as a quiz fact so you don't pitch the wrong booth."
+    },
+    {
+      "id": "velvet-what",
+      "company": "Velvet",
+      "kind": "product",
+      "prompt": "Velvet is:",
+      "choices": [
+        "In-browser IDE",
+        "Infra and data for interactive AI (often AV / world data)",
+        "Rare coin marketplace",
+        "Police workflow software"
+      ],
+      "answer_index": 1,
+      "explain": "Founding ML, new-grad friendly. Founder said they are hiring interns at the expo."
+    },
+    {
+      "id": "intern-effigov",
+      "company": "EffiGov",
+      "kind": "intern",
+      "prompt": "Which intern posting belongs to which company?",
+      "choices": [
+        "Stellar Sleep: Intern (unofficial)",
+        "Garage: Software Engineering Intern (take-home; confirm current listing)",
+        "EffiGov: Software Engineer Intern (Fall 2026)",
+        "Nowadays: Product Engineer Intern (Fall 2026)"
+      ],
+      "answer_index": 2,
+      "explain": "Tiny founding team (~3) looking for a Fall 2026 SWE intern ($5–7k/mo) and a Founding Engineer who can ship voice agents against messy govtech CRMs."
+    },
+    {
+      "id": "liner-naïve",
+      "company": "Naïve",
+      "kind": "identify",
+      "prompt": "Which attending company is this: “Unified Agent Infrastructure”",
+      "choices": [
+        "Naïve",
+        "AfterQuery",
+        "Crustdata",
+        "Weave"
+      ],
+      "answer_index": 0,
+      "explain": "Naïve (P25, Series A)."
+    },
+    {
+      "id": "liner-dedalus-labs",
+      "company": "Dedalus Labs",
+      "kind": "identify",
+      "prompt": "Which attending company is this: “Compute substrate for AI agents”",
+      "choices": [
+        "Domu",
+        "Dedalus Labs",
+        "Mem0",
+        "Surface Labs"
+      ],
+      "answer_index": 1,
+      "explain": "Dedalus Labs (S25, Seed)."
+    },
+    {
+      "id": "liner-parameter-(fka-hex-security)",
+      "company": "Parameter (fka Hex Security)",
+      "kind": "identify",
+      "prompt": "Which attending company is this: “Agentic Offensive Security at Scale”",
+      "choices": [
+        "Parameter (fka Hex Security)",
+        "CTGT",
+        "GiveCampus",
+        "Artie"
+      ],
+      "answer_index": 0,
+      "explain": "Parameter (fka Hex Security) (W26, Seed)."
+    },
+    {
+      "id": "intern-innate",
+      "company": "Innate",
+      "kind": "intern",
+      "prompt": "Which intern posting belongs to which company?",
+      "choices": [
+        "Respan: Software Engineering Intern, Frontend (fall co-op)",
+        "EffiGov: Software Engineer Intern (Fall 2026)",
+        "Soren: Software Engineer Intern",
+        "Innate: Marketing Intern"
+      ],
+      "answer_index": 3,
+      "explain": "Marketing intern is the YC-listed intern. Engineering internships are not posted."
+    },
+    {
+      "id": "liner-soren",
+      "company": "Soren",
+      "kind": "identify",
+      "prompt": "Which attending company is this: “Specialized AI for Real-World Deployment”",
+      "choices": [
+        "Relling",
+        "Soren",
+        "AfterQuery",
+        "Veritus"
+      ],
+      "answer_index": 1,
+      "explain": "Soren (F25, Seed)."
+    },
+    {
+      "id": "circleback-what",
+      "company": "Circleback",
+      "kind": "product",
+      "prompt": "Circleback is:",
+      "choices": [
+        "AI meeting notes and automations",
+        "Fraud review agents",
+        "Self-driving observability for agents",
+        "The memory layer for agents"
+      ],
+      "answer_index": 0,
+      "explain": "SWE intern Summer 2027 is posted."
+    },
+    {
+      "id": "ctgt-what",
+      "company": "CTGT",
+      "kind": "product",
+      "prompt": "CTGT is:",
+      "choices": [
+        "Agent memory",
+        "Hotel ops agents",
+        "In-browser IDE",
+        "The deterministic / interpretability layer for frontier intelligence"
+      ],
+      "answer_index": 3,
+      "explain": "Expo sponsor. Research intern: apply with one paper or repo. SWE intern Summer 2027."
+    },
+    {
+      "id": "liner-industrial-next",
+      "company": "Industrial Next",
+      "kind": "identify",
+      "prompt": "Which attending company is this: “Tesla autonomous manufacturing for everyone”",
+      "choices": [
+        "Naïve",
+        "Industrial Next",
+        "Bild AI",
+        "Hypercubic"
+      ],
+      "answer_index": 1,
+      "explain": "Industrial Next (W22, Seed)."
+    },
+    {
+      "id": "liner-nowadays",
+      "company": "Nowadays",
+      "kind": "identify",
+      "prompt": "Which attending company is this: “AI-native platform for corporate meetings and events”",
+      "choices": [
+        "Mount",
+        "Nowadays",
+        "Socratix AI",
+        "Weave"
+      ],
+      "answer_index": 1,
+      "explain": "Nowadays (S23, Seed)."
+    },
+    {
+      "id": "intern-aemon",
+      "company": "Aemon",
+      "kind": "intern",
+      "prompt": "Which intern posting belongs to which company?",
+      "choices": [
+        "Aemon: Member of Technical Staff Intern 2027",
+        "Bluejay: Software Engineer Intern",
+        "Pure: Product Engineering Intern (Summer 2027)",
+        "Terranox AI: Fall Intern - AI/ML Engineering"
+      ],
+      "answer_index": 0,
+      "explain": "Member of Technical Staff Intern 2027 at $8–15k/mo. High bar, contest-kid shaped."
+    },
+    {
+      "id": "intern-afterquery",
+      "company": "AfterQuery",
+      "kind": "intern",
+      "prompt": "Which intern posting belongs to which company?",
+      "choices": [
+        "Clipboard: Engineering Intern",
+        "AfterQuery: Software Engineer Intern",
+        "Garage: Software Engineering Intern (take-home; confirm current listing)",
+        "Corgi Insurance: Software Engineer Intern (listing may be stale)"
+      ],
+      "answer_index": 1,
+      "explain": "SWE intern plus a strategic/technical intern track; also hiring infra SWE (LatAm) and senior infra/platform. Interview includes a take-home."
+    },
+    {
+      "id": "liner-weave",
+      "company": "Weave",
+      "kind": "identify",
+      "prompt": "Which attending company is this: “AI to understand and then route engineering work”",
+      "choices": [
+        "Lance",
+        "Domu",
+        "Velvet",
+        "Weave"
+      ],
+      "answer_index": 3,
+      "explain": "Weave (W25, Series A)."
+    },
+    {
+      "id": "pure-geo",
+      "company": "Pure",
+      "kind": "trap",
+      "prompt": "Pure (rare coins and precious metals marketplace) is based in:",
+      "choices": [
+        "New York City",
+        "Washington, DC",
+        "San Francisco",
+        "Los Angeles"
+      ],
+      "answer_index": 3,
+      "explain": "Product engineering intern Summer 2027 is listed."
+    },
+    {
+      "id": "liner-givecampus",
+      "company": "GiveCampus",
+      "kind": "identify",
+      "prompt": "Which attending company is this: “The fundraising platform for schools.”",
+      "choices": [
+        "EffiGov",
+        "Prox",
+        "Artie",
+        "GiveCampus"
+      ],
+      "answer_index": 3,
+      "explain": "GiveCampus (S15, Growth)."
+    },
+    {
+      "id": "afterquery-what",
+      "company": "AfterQuery",
+      "kind": "trap",
+      "prompt": "AfterQuery is:",
+      "choices": [
+        "An applied lab that curates expert data for foundation models",
+        "Interactive-AI data (Velvet)",
+        "Training data for recursive self-improvement (hillclimb)",
+        "Frontier coding data for training LLMs (Datacurve)"
+      ],
+      "answer_index": 0,
+      "explain": "Three data companies at one expo. AfterQuery = expert/RLHF data. Datacurve = coding data. hillclimb = RSI data."
+    },
+    {
+      "id": "domu-what",
+      "company": "Domu",
+      "kind": "product",
+      "prompt": "Domu builds AI agents for:",
+      "choices": [
+        "Police reports",
+        "Hotel operations",
+        "Collections",
+        "Fraud review"
+      ],
+      "answer_index": 2,
+      "explain": "Co-founder Nico Diaz is at the expo. SWE seats are Brazil / South Africa / senior SF."
+    },
+    {
+      "id": "liner-code-four",
+      "company": "Code Four",
+      "kind": "identify",
+      "prompt": "Which attending company is this: “Modernizing the police workflow.”",
+      "choices": [
+        "Relling",
+        "Code Four",
+        "Terranox AI",
+        "Y/n"
+      ],
+      "answer_index": 1,
+      "explain": "Code Four (P25, Seed)."
+    },
+    {
+      "id": "liner-hillclimb",
+      "company": "hillclimb",
+      "kind": "identify",
+      "prompt": "Which attending company is this: “Training Data for Recursive Self-Improvement”",
+      "choices": [
+        "Nowadays",
+        "Parameter (fka Hex Security)",
+        "Surface Labs",
+        "hillclimb"
+      ],
+      "answer_index": 3,
+      "explain": "hillclimb (F25, Seed)."
+    },
+    {
+      "id": "liner-datacurve",
+      "company": "Datacurve",
+      "kind": "identify",
+      "prompt": "Which attending company is this: “Frontier coding data for training and evaluating LLMs”",
+      "choices": [
+        "Dedalus Labs",
+        "Velvet",
+        "Crustdata",
+        "Datacurve"
+      ],
+      "answer_index": 3,
+      "explain": "Datacurve (W24, Seed)."
+    },
+    {
+      "id": "liner-corgi-insurance",
+      "company": "Corgi Insurance",
+      "kind": "identify",
+      "prompt": "Which attending company is this: “Corgi is building an AI financial infrastructure company”",
+      "choices": [
+        "Terranox AI",
+        "Corgi Insurance",
+        "Circleback",
+        "GiveCampus"
+      ],
+      "answer_index": 1,
+      "explain": "Corgi Insurance (S24, Unicorn)."
+    },
+    {
+      "id": "liner-primitive",
+      "company": "primitive",
+      "kind": "identify",
+      "prompt": "Which attending company is this: “communication for agents”",
+      "choices": [
+        "Hypercubic",
+        "primitive",
+        "Moda",
+        "Naïve"
+      ],
+      "answer_index": 1,
+      "explain": "primitive (P26, Seed)."
+    },
+    {
+      "id": "intern-weave",
+      "company": "Weave",
+      "kind": "intern",
+      "prompt": "Which intern posting belongs to which company?",
+      "choices": [
+        "Weave: Product Engineer Intern",
+        "Garage: Software Engineering Intern (take-home; confirm current listing)",
+        "Soren: Software Engineer Intern",
+        "Crustdata: Forward-Deployed Engineer Intern"
+      ],
+      "answer_index": 0,
+      "explain": "Product Engineer Intern plus founding ML/product engineer seats. Process is interview take-home plus a work trial."
+    },
+    {
+      "id": "intern-relling",
+      "company": "Relling",
+      "kind": "intern",
+      "prompt": "Which intern posting belongs to which company?",
+      "choices": [
+        "Respan: Software Engineering Intern, Frontend (fall co-op)",
+        "Relling: Software Engineer Intern",
+        "Crustdata: Forward-Deployed Engineer Intern",
+        "Corgi Insurance: Software Engineer Intern (listing may be stale)"
+      ],
+      "answer_index": 1,
+      "explain": "Robot Learning Engineer, SWE intern, growth/content intern, plus other founding-adjacent roles. New grads OK on several reqs."
+    },
+    {
+      "id": "enhanced-radar-what",
+      "company": "Enhanced Radar",
+      "kind": "product",
+      "prompt": "Enhanced Radar builds:",
+      "choices": [
+        "AI for fraud review",
+        "AI OS for cities",
+        "AI for Division 8 construction",
+        "AI for air traffic control"
+      ],
+      "answer_index": 3,
+      "explain": "Tiny team. Email join@enhancedradar.com."
+    },
+    {
+      "id": "intern-velvet",
+      "company": "Velvet",
+      "kind": "intern",
+      "prompt": "Which intern posting belongs to which company?",
+      "choices": [
+        "Respan: Software Engineering Intern, Frontend (fall co-op)",
+        "Naïve: Software Engineering Intern",
+        "Velvet: Intern (unofficial; founder said hiring at expo)",
+        "Weave: Product Engineer Intern"
+      ],
+      "answer_index": 2,
+      "explain": "Founding ML Engineer (new grads OK), Research Scientist, and unofficial expo intern hiring."
+    },
+    {
+      "id": "liner-replit",
+      "company": "Replit",
+      "kind": "identify",
+      "prompt": "Which attending company is this: “Collaborative in-browser IDE”",
+      "choices": [
+        "GiveCampus",
+        "Partcl",
+        "Relling",
+        "Replit"
+      ],
+      "answer_index": 3,
+      "explain": "Replit (W18, Growth)."
+    },
+    {
+      "id": "lance-what",
+      "company": "Lance",
+      "kind": "product",
+      "prompt": "Lance builds AI agents that:",
+      "choices": [
+        "Book private dining for 200 people",
+        "Route engineering tickets",
+        "Run hotel operations",
+        "Monitor voice agents"
+      ],
+      "answer_index": 2,
+      "explain": "Founding SWE new-grads + SWE intern + GTM intern."
+    },
+    {
+      "id": "naive-what",
+      "company": "Naïve",
+      "kind": "trap",
+      "prompt": "Naïve (P25) is building:",
+      "choices": [
+        "The memory layer for AI agents",
+        "Communication/email for agents",
+        "Unified agent infrastructure",
+        "Continual learning for agents"
+      ],
+      "answer_index": 2,
+      "explain": "Naïve = infra. Mem0 = memory. primitive = email. Moda = continual learning."
+    },
+    {
+      "id": "datacurve-what",
+      "company": "Datacurve",
+      "kind": "trap",
+      "prompt": "Datacurve produces:",
+      "choices": [
+        "RSI / self-improvement training data",
+        "AV data for interactive AI",
+        "Frontier coding data for training and evaluating LLMs",
+        "Expert domain data for foundation labs"
+      ],
+      "answer_index": 2,
+      "explain": "Historical take-home: takehome.datacurve.ai — confirm if still live."
+    },
+    {
+      "id": "corgi-what",
+      "company": "Corgi Insurance",
+      "kind": "product",
+      "prompt": "Corgi is building:",
+      "choices": [
+        "Collections voice agents only",
+        "An AI financial infrastructure / insurance carrier",
+        "A rare-coin marketplace",
+        "A school fundraising platform"
+      ],
+      "answer_index": 1,
+      "explain": "Unicorn-scale. Intern listing looks stale; work trial is the real loop."
+    },
+    {
+      "id": "liner-respan",
+      "company": "Respan",
+      "kind": "identify",
+      "prompt": "Which attending company is this: “Self-driving observability, evals, and gateway for AI agents”",
+      "choices": [
+        "Respan",
+        "Allus AI",
+        "Mount",
+        "Nowadays"
+      ],
+      "answer_index": 0,
+      "explain": "Respan (W24, Seed)."
+    },
+    {
+      "id": "artie-what",
+      "company": "Artie",
+      "kind": "product",
+      "prompt": "Artie streams:",
+      "choices": [
+        "Data from databases to warehouses in real time (CDC)",
+        "Voice agents to hotel front desks",
+        "Short-form language videos",
+        "Uranium drill plans to geologists"
+      ],
+      "answer_index": 0,
+      "explain": "Senior/product SWE, no intern. Skip for most students."
+    },
+    {
+      "id": "liner-afterquery",
+      "company": "AfterQuery",
+      "kind": "identify",
+      "prompt": "Which attending company is this: “Applied research lab curating data solutions for foundation model development”",
+      "choices": [
+        "Socratix AI",
+        "Y/n",
+        "AfterQuery",
+        "Code Four"
+      ],
+      "answer_index": 2,
+      "explain": "AfterQuery (W25, Seed)."
+    },
+    {
+      "id": "liner-bild-ai",
+      "company": "Bild AI",
+      "kind": "identify",
+      "prompt": "Which attending company is this: “AI estimating & detailing for Division 8 doors, frames & hardware”",
+      "choices": [
+        "GiveCampus",
+        "Soren",
+        "Artie",
+        "Bild AI"
+      ],
+      "answer_index": 3,
+      "explain": "Bild AI (W25, Seed)."
+    },
+    {
+      "id": "liner-koyal",
+      "company": "Koyal",
+      "kind": "identify",
+      "prompt": "Which attending company is this: “Agentic AI Filmmaking Platform”",
+      "choices": [
+        "Clipboard",
+        "Y/n",
+        "Relling",
+        "Koyal"
+      ],
+      "answer_index": 3,
+      "explain": "Koyal (F25, Seed)."
+    },
+    {
+      "id": "innate-what",
+      "company": "Innate",
+      "kind": "product",
+      "prompt": "Innate is building:",
+      "choices": [
+        "Mainframe agents",
+        "Manufacturing robots",
+        "Hotel ops agents",
+        "Personal AI robots"
+      ],
+      "answer_index": 3,
+      "explain": "YC lists a marketing intern more than a robotics intern."
+    },
+    {
+      "id": "liner-socratix-ai",
+      "company": "Socratix AI",
+      "kind": "identify",
+      "prompt": "Which attending company is this: “AI coworkers for fraud and compliance teams.”",
+      "choices": [
+        "Bluejay",
+        "Socratix AI",
+        "Allus AI",
+        "CTGT"
+      ],
+      "answer_index": 1,
+      "explain": "Socratix AI (S25, Seed)."
+    },
+    {
+      "id": "liner-velvet",
+      "company": "Velvet",
+      "kind": "identify",
+      "prompt": "Which attending company is this: “Infra and data for interactive AI.”",
+      "choices": [
+        "Socratix AI",
+        "Velvet",
+        "Naïve",
+        "CTGT"
+      ],
+      "answer_index": 1,
+      "explain": "Velvet (F25, Seed)."
+    },
+    {
+      "id": "liner-relling",
+      "company": "Relling",
+      "kind": "identify",
+      "prompt": "Which attending company is this: “deploying the first billion robots for manufacturing”",
+      "choices": [
+        "Innate",
+        "Code Four",
+        "Relling",
+        "Replit"
+      ],
+      "answer_index": 2,
+      "explain": "Relling (S25, Seed)."
+    },
+    {
+      "id": "hypercubic-hopper",
+      "company": "Hypercubic",
+      "kind": "challenge",
+      "prompt": "Hypercubic wants you to try Hopper before the booth. Hopper is:",
+      "choices": [
+        "A public demo of their mainframe/COBOL agent",
+        "An in-browser IDE",
+        "A voice-agent bounty form",
+        "A uranium drill planner"
+      ],
+      "answer_index": 0,
+      "explain": "hypercubic.ai/hopper — founding SWE, new-grad friendly."
+    },
+    {
+      "id": "liner-clipboard",
+      "company": "Clipboard",
+      "kind": "identify",
+      "prompt": "Which attending company is this: “Every shift, Covered.”",
+      "choices": [
+        "SID",
+        "Lance",
+        "Clipboard",
+        "Hypercubic"
+      ],
+      "answer_index": 2,
+      "explain": "Clipboard (W17, Growth)."
+    },
+    {
+      "id": "liner-veritus",
+      "company": "Veritus",
+      "kind": "identify",
+      "prompt": "Which attending company is this: “AI agents for the consumer lending industry”",
+      "choices": [
+        "Parameter (fka Hex Security)",
+        "Weave",
+        "Veritus",
+        "Velvet"
+      ],
+      "answer_index": 2,
+      "explain": "Veritus (S25, Seed)."
+    },
+    {
+      "id": "intern-clipboard",
+      "company": "Clipboard",
+      "kind": "intern",
+      "prompt": "Which intern posting belongs to which company?",
+      "choices": [
+        "EffiGov: Software Engineer Intern (Fall 2026)",
+        "Stellar Sleep: Intern (unofficial)",
+        "Garage: Software Engineering Intern (take-home; confirm current listing)",
+        "Clipboard: Engineering Intern"
+      ],
+      "answer_index": 3,
+      "explain": "Engineering Intern and Technical Support Engineer (case study). Scaled marketplace, not a 4-person seed."
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "luma_user_id": "usr-FrDzu4TpJc8La6A",
+  "csv_name": "Karthik Sabhanayakam",
+  "csv_linkedin": "https://www.linkedin.com/in/karsab",
+  "enriched_at": "2026-08-12T19:11:36.245886+00:00",
+  "batch_id": "sd_msqgoa0o2hh62sia9d",
+  "profile": {
+    "id": "karsab",
+    "name": "Karthik Sabhanayakam",
+    "city": "San Francisco Bay Area",
+    "country_code": "US",
+    "position": null,
+    "about": null,
+    "current_company": {
+      "link": "https://www.linkedin.com/school/georgia-institute-of-technology/?trk=public_profile_topcard-current-company",
+      "name": "Georgia Institute of Technology",
+      "location": null
+    },
+    "experience": null,
+    "url": "https://dk.linkedin.com/in/karsab",
+    "educations_details": "Georgia Institute of Technology",
+    "education": [
+      {
+        "title": "Georgia Institute of Technology",
+        "url": "https://www.linkedin.com/school/georgia-institute-of-technology/",
+        "start_year": "2025-08",
+        "end_year": "2028-05",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      },
+      {
+        "start_year": "2019",
+        "end_year": "2025",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      }
+    ],
+    "avatar": "https://static.licdn.com/aero-v1/sc/h/9c8pery4andzj6ohjkjp54ma2",
+    "followers": 366,
+    "connections": 366,
+    "current_company_name": "Georgia Institute of Technology",
+    "projects": [
+      {
+        "title": "SafeStreets: Winner of the Anthropic Track for UC Berkeley\u2019s AI Hackathon \ud83c\udfc6",
+        "description": "AI spots a street hazard from imagery, proves it with city data, and hands you the fix, the funding, the official to contact, and a before/after render \u2014 ready to move the city. Won Anthropic\u2019s track over 460+ teams and 1300 participants."
+      },
+      {
+        "title": "Appetight: built for Georgia Tech's Claude Builder Club Hackathon",
+        "description": "Appetight is an iOS nutrition tracking app that uses Claude AI for food image analysis, restaurant recommendations, and gym busy-time predictions, and a centralized health coach. Users log meals via camera, voice, or manual input."
+      },
+      {
+        "title": "Mitigating Overfitting in Neural Net Classification of Radio Galaxies through Wavelet Analysis",
+        "description": "\u2022 Achieved a 10.52% accuracy increase over state-of-the-art convolutional neural networks."
+      },
+      {
+        "title": "Predicting the Instance of Breast Cancer within Patients using a Convolutional Neural Network",
+        "description": "\u2022 Developed deep learning algorithms for breast cancer prediction and presented to audience of 100+."
+      }
+    ],
+    "location": null,
+    "input_url": "https://www.linkedin.com/in/karsab",
+    "linkedin_id": "karsab",
+    "activity": [
+      {
+        "interaction": null,
+        "link": "https://www.linkedin.com/posts/usecorgi_hackathon-buildinpublic-startups-activity-7487609870200877057-ro4K",
+        "title": "This weekend, Corgi HQ turned into hackathon central! 1,000 participants. 250+ teams. We hosted a YC Startup School after-hackathon with Merge , Vercel , Photon , and Fondo \u2014 12 hours of building around one theme: \"make it feel human.\" The energy (and talent) in the room was incredible. Our top 3 winners, who split $1,000+ in prizes: \ud83e\udd47 Atlas \u2014 Mithun Mahesh & Jasmine Yip. A second-brain life map that reads your Gmail, Calendar, and Drive and turns them into the people, places, and projects that matter \u2014 helping you remember, reconnect, and follow through on ideas. Built using the Merge Agent Handler to pull data across Gmail, Calendar, and Drive, then the Merge Gateway to reason over it with an LLM and cluster everything into life themes. \ud83e\udd48 Golden Retriever \u2014 Andrew Wang, Jerry Li, Ryker Kollmyer & Tarun Malarvasan. An AI companion inspired by a team member's uncle, who lives with paralysis and needs help with everyday tasks. Golden Retriever acts as an on-call assistant \u2014 reaching, retrieving, and adapting to how someone moves through their day. They used Merge as their LLM router to understand and respond to natural language the way a person would. \ud83e\udd49Hacker House \u2014 Saahith Veeramaneni, Karthik Sabhanayakam & Paul Lacarriere. Coding is inherently anti-social, and the loneliest moment is the wait \u2014 staring at a spinner while your AI agent works. Hacker House reframes that wait as social time: a multiplayer app that places builders in a shared Lounge while their agents run, with the option to retreat to a private, lockable Room where others can watch your terminal live but never interact with it. Huge thanks to Merge , Vercel , & Photon for powering the tools these teams built on, and to everyone who came out to build, mentor, and cheer each other on. #hackathon #buildinpublic #startups #YCStartupSchool ...more ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQEEDz3oNtukaw/feedshare-shrink_800/B56Z.lVfbgGQAc-/0/1785185304438?e=2147483647&v=beta&t=qusXcZw_p9ruHUGvUzZe2iPIKZGjxzmHN5ogPBSTaf8",
+        "id": "7487609870200877057"
+      },
+      {
+        "interaction": null,
+        "link": "https://www.linkedin.com/posts/azchin_aihackathon-calhacks-claude-activity-7475064867281096704-oRgL",
+        "title": "Every year, over 1,000,000 people are injured at intersections. The warning signs are almost always there first, but they're buried in 311 tickets, Nextdoor threads, social media posts, and local news \u2014 too scattered for anyone to act on. This past weekend, my team built something to pull those signals together. It won Best Use of Claude at UC Berkeley's AI Hackathon. \ud83c\udfc6 Meet SafeStreets, an AI web app that unifies these sources into ready-to-send advocacy reports. Here's how it works: \u2192 See it: Orchestrated parallel bots that gather complaints, local news, and government records (via Browserbase and public APIs), while Claude Vision reads street and satellite imagery to spot the hazards. \u2192 Corroborate it. Everything flows into a shared Redis memory layer, where Claude cross-references and votes across sources to confirm a real case \u2014 then distills it into a structured spec. \u2192 Act on it. Gemini Nano Banana 2 renders before-and-after fixes, and Claude-orchestrated agents draft the Reddit posts, tweets, and the emails to your local council rep. This was only my second hackathon, and my first at this scale: 1,300+ hackers, 400+ amazing projects. So winning genuinely caught us off guard, it came with 5,000 Claude API credits, a visit to Anthropic's SF office, and office hours with the team. Huge thanks to my amazing teammates Aryan Vashishta , Karthik Sabhanayakam , and Echo Xiao for reaching out and the amazing work. Thank you to every mentor we spoke to, every judge who took a chance on us, and Anthropic for hosting the Best Use of Claude track. And thank you to the Cal Hacks team for hosting such an unforgettable weekend. Excited to attend more hackathons in the future! Check it out below: GitHub: https://lnkd.in/gERZDiUQ Devpost: https://lnkd.in/gw-qm8x3 #AIHackathon #CalHacks #Claude #BuildingInPublic #AI #MachineLearning #StreetSafety #VisionZero #UrbanPlanning #RoadSafety ...more ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQHsajG-NZEkRQ/feedshare-image-high-res/B56Z7zD4PCGQAY-/0/1782194342381?e=2147483647&v=beta&t=sLmBtYBK2PsTzrQ6wLkGfK64yJvDu_RQ_OBqjfgXWhc",
+        "id": "7475064867281096704"
+      },
+      {
+        "interaction": "Karthik Sabhanayakam liked this",
+        "link": "https://www.linkedin.com/posts/sabha-parameswaran-aa21751_github-sparameswaranbedrock-model-cost-governance-activity-7492690956413214721-Bn8D",
+        "title": "The problem: you give your engineering team AWS Bedrock access. Productivity jumps. So does your bill: fast, unpredictable, and impossible to break down. When finance asks \"who spent what, on which project, using which model?\", nobody can answer. The usual reflex is a proxy or a wrapper in front of Bedrock, which becomes a bottleneck, a single point of failure, and one more thing to operate. The solution: govern at the AWS layer itself, so there's nothing in the request path to break or bypass. \u2022 Works with the coding agents your developers already use. Claude Code, Kiro CLI, and OpenAI Codex CLI each ship governance hooks that give early warnings before a call is ever made. Because enforcement lives in AWS, not the client, the same rules hold no matter which tool a developer runs, and adding a new one is just another set of hooks. \u2022 Service Control Policies gate model access org-wide. Opus stays denied until access is approved. A developer can edit their config, pass --model opus, or write raw boto3, and AWS still rejects the call at the API boundary. It's not a client setting to misconfigure around. \u2022 IAM principal tags flow into CUR 2.0, so every Bedrock call is attributed to a project, team, and cost center automatically. No headers, no environment variables, no developer effort. The attribution is structural, and it shows up in Cost Explorer and Athena. \u2022 Token budgets keep usage efficient without friction. Per-developer budgets run in advisory mode by default: developers get early-warning signals as they approach a threshold and self-correct, with no throttling or blocked calls in the way of their work. Turn on hard enforcement only where you need it. \u2022 A Step Functions approval workflow turns premium-model access into a self-service request instead of a ticket queue. \u2022 No proxy, no wrapper, no gateway. The governance lives in Organizations, IAM, and CUR: services you already run. The one-sentence version: developers get fast AI access, finance gets a predictable and fully attributed bill, and neither depends on anyone remembering to follow the rules. Open source, MIT-0 (a personal project, not an official AWS solution): https://lnkd.in/g9S7EqHp #AWS #Bedrock #GenAI #ClaudeCode #FinOps #ModelCost #ModelUsage #Cost",
+        "img": "https://media.licdn.com/dms/image/sync/v2/D5627AQFQltqKKYtj0Q/articleshare-shrink_1280_800/B56Z_thstgHUAg-/0/1786396462701?e=2147483647&v=beta&t=SMqzI61ZRuUs-zXTEQlT18kLmZb-NGKHMqQbYTZiEzs",
+        "id": "7492690956413214721"
+      },
+      {
+        "interaction": "Karthik Sabhanayakam liked this",
+        "link": "https://www.linkedin.com/posts/aidenshankar_the-most-memorable-parts-of-yc-startup-school-activity-7488272311322812416-6Hw3",
+        "title": "The most memorable parts of YC Startup School weren't any of the talks. This past weekend, I joined thousands of founders at Chase Center for two days of speakers, events, and meeting people. I went in almost not knowing a single person there, which meant two straight days of walking up to strangers and starting from nothing. That ended up being the best part, as the moments I remember most were the ones that weren\u2019t on the schedule. The arena somehow roaring louder for Boris Cherny announcing free Claude Max than it did when Sam and Jensen walked in: six thousand founders, two of the most recognizable people in tech on schedule that weekend, and the roof came off for a subscription. The stampede after Sam's talk, six thousand of us running for the same buses and trains, and then the two hours we spent standing in the AWS afterparty line, which sounds miserable on paper but somehow turned into the best conversation I had all weekend. Somewhere in the middle of all of that was my first hackathon ever, the YC overnight batch hosted by Corgi and Vercel, where my team, strangers who I paired up with last minute, placed 3rd out of 1500 in the main track. Paul Lacarriere , Saahith, and Karthik, thank you for staying up the entire night and actually finishing our project instead of just talking about it. https://lnkd.in/gNxKRipS I showed up planning to network, and I think I'd assumed the point of a room like that was to collect people who might be useful to you later, and it isn't, or at least it wasn't for me, \ud835\ude01\ud835\uddf5\ud835\uddf2 \ud835\uddfd\ud835\uddf2\ud835\uddfc\ud835\uddfd\ud835\uddf9\ud835\uddf2 \ud835\udddc \ud835\uddf8\ud835\uddf2\ud835\uddfd\ud835\ude01 \ud835\uddf2\ud835\uddfb\ud835\uddf1\ud835\uddf6\ud835\uddfb\ud835\uddf4 \ud835\ude02\ud835\uddfd \ud835\uddfb\ud835\uddf2\ud835\ude05\ud835\ude01 \ud835\ude01\ud835\uddfc \ud835\ude04\ud835\uddf2\ud835\uddff\ud835\uddf2 \ud835\ude01\ud835\uddf5\ud835\uddf2 \ud835\uddfc\ud835\uddfb\ud835\uddf2\ud835\ude00 \ud835\udddc \ud835\uddf7\ud835\ude02\ud835\ude00\ud835\ude01 \ud835\uddf3\ud835\uddf2\ud835\uddf9\ud835\ude01 \ud835\uddee \ud835\uddf4\ud835\uddf2\ud835\uddfb\ud835\ude02\ud835\uddf6\ud835\uddfb\ud835\uddf2 \ud835\uddf0\ud835\uddfc\ud835\uddfb\ud835\uddfb\ud835\uddf2\ud835\uddf0\ud835\ude01\ud835\uddf6\ud835\uddfc\ud835\uddfb \ud835\ude04\ud835\uddf6\ud835\ude01\ud835\uddf5. Somehow, the best connections happened whenever I stopped trying to force them. Can't wait to see everyone again next year!",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQGHqvJJiMJl7g/feedshare-image-high-res/B56Z.uv_PvG0Ac-/0/1785343243646?e=2147483647&v=beta&t=71g_J-8wVwzHaMHiuvCUClrg0gv7qFoaSVjUf7G3v5U",
+        "id": "7488272311322812416"
+      },
+      {
+        "interaction": "Karthik Sabhanayakam liked this",
+        "link": "https://www.linkedin.com/posts/saahith-veeramaneni-960942272_just-finished-an-incredible-week-at-yc-startup-activity-7488624524330971137-fUDv",
+        "title": "Just finished an incredible week at YC Startup School. First day, I talked to a lot of founders. People nervous about starting something. People 3 months in, grinding through the messy middle. Seed-stage founders learning what it means to actually lead. Then we broke for the Corgi Hackathon and shipped Hacker House in 24 hours with Karthik Paul and Aiden\u2014a social coding space where waiting on your agent becomes community time instead of dead time. Placed 3rd. \ud83c\udfc5 Came back for day two of YC and had more conversations. Same underlying question kept coming up: how do you do this without feeling alone? Then the AWS afterparty. That's where it all synthesized. Smaller conversations. Founders actually opening up about what they're building and what scares them. The hackathon placement is cool. But the clarity, conversation, and experience on what matters when it comes to startups? That's what stays with me.",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQGlVhxBGwcC9g/feedshare-shrink_800/B56Z.zmQXCG4Ac-/0/1785424578264?e=2147483647&v=beta&t=puFhdZs4BNuJfilco4UH7G5TTJbTqJDDXf6SXmrTSTs",
+        "id": "7488624524330971137"
+      },
+      {
+        "interaction": "Karthik Sabhanayakam liked this",
+        "link": "https://www.linkedin.com/posts/irfan-ahmed-5142338_vcu-nsf-reu-site-students-showcase-digital-activity-7488262930044522496-y8WQ",
+        "title": "VCU NSF REU Site Students Showcase Digital Forensics Research at the 26th Annual DFRWS USA Conference\u2014and Earn a Poster Award I am pleased to share that students from the Virginia Commonwealth University NSF Research Experiences for Undergraduates (REU) Site in Digital Forensics attended the 26th Annual Digital Forensics Research Conference (DFRWS USA 2026) in Arlington, Virginia, hosted by George Mason University . The REU students presented posters highlighting the research they conducted during the summer program. The participating students represented institutions across the country: Logan Altomonte \u2014 James Madison University Arya Kunisetty \u2014 University of California, Los Angeles Sasha Babic \u2014 Randolph-Macon College Cosme Boisset \u2014 Louisiana State University New Orleans Sebastian Alcibar \u2014 Virginia Commonwealth University Emirhan Kir \u2014 Rowan University Zoe McIvor \u2014 Longwood University Vaishnavi Sharma \u2014 Purdue University Sanskriti Gyawali \u2014 Virginia Commonwealth University Their projects addressed a broad range of timely digital-forensics and cybersecurity challenges, including PLC security, unmanned aerial systems, point-of-care ultrasound forensics, Starlink network behavior, passive Wi-Fi sensing, cybercrime against older adults, and explainable AI-assisted authorship analysis. Special congratulations to Arya Kunisetty , whose poster, \u201cForensic Attribution of Human and Autonomous Control in Unmanned Aerial Systems,\u201d received third prize in the poster competition. His work explored whether recovered drone telemetry can distinguish autonomous flight from human control and support the forensic attribution of individual pilots. We also sincerely thank Arya\u2019s mentors, Suramya Pokharel and Eyuphan Bulut , for their guidance, technical support, and commitment to his research. This recognition reflects Arya\u2019s hard work as well as the valuable mentorship that helped shape the project. Congratulations to all the REU students for their hard work, professionalism, and excellent presentations. I am deeply grateful to the faculty members, postdoctoral researchers, graduate-student mentors, and collaborators who helped the students develop their research ideas, conduct rigorous experiments, prepare their posters, and confidently present their work. I am also grateful to Dr. Kemal Akkaya , Chair of the Department of Computer Science, and the VCU College of Engineering administration, including Dean Azim Eskandarian , Senior Associate Dean Gary Tepper , and Associate Dean for Research and Innovation Susan Barker , for their continued support of undergraduate research, faculty mentorship, and the NSF REU program. It was especially rewarding to see undergraduate researchers from multiple institutions engage with the international digital-forensics community, receive constructive feedback, and build connections that will support their future academic and professional development. This work was supported by the National Science Foundation (NSF) .",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQG6m0nQyR4S8w/feedshare-image-high-res/B4EZ.uncB1JEAU-/0/1785341003394?e=2147483647&v=beta&t=0LM46cv-pTh7pqwibJNJUKd65_3oCBsAib55FsoOGQE",
+        "id": "7488262930044522496"
+      },
+      {
+        "interaction": "Karthik Sabhanayakam liked this",
+        "link": "https://www.linkedin.com/posts/im-two-weeks-off-of-spring-quarter-at-uci-activity-7476446042113200128-UvSo",
+        "title": "I'm two weeks off of Spring Quarter at UCI, and I wish I could say I was relaxing! These past two weeks I've been spending my days in my internship at LoopNet , learning in the ins and outs of industry-standard software development, and in my nights to the early morning, I've been grinding out the production of my student team's game Dungeon Dilemma leading us to our release today! First, work at LoopNet has been a whirlwind! While I knew that my college courses only covered the basics, I didn't know that they were \"that\" basic in comparison to real development. I've absolutely loved my time with my team so far, and I'm super eager to learn more from the developers on my team and the workshops offered every week. Although I'm definitely not understanding everything I hear in standups everyday, it has been so fun hearing about new features being planned, worked on, and shipped for a REAL product (I like meetings, what can I say?). Speaking of learning, my experience leading and working on Dungeon Dilemma was all about breaking through those fears of the unknown and failing. My team and I had never worked on multiplayer before, but we decided to take the plunge last Spring and stuck with it through vacations, refactors, and so many sleep-depriving bugs. Wrapping my head around production flows was also its own challenge - managing so many different students' and my own schedules, and I'm actually so proud that my team and I fought through the fires of learning and landed on such a polished final product, featuring in Steam Next Fest last week, releasing on Steam ( https://lnkd.in/gX-6QkbN ) today, and showing at numerous showcases including the SGDA Summit this weekend! Lining up two weeks at LoopNet and the release of my team's game was definitely not my intention, but it's been fun to reflect on how the two, a platform for commercial real estate and a rag-tag group of amateur student game developers, cross over. Both are extremely end-user focused. Both need rigorous collaboration across teams and departments. Both require me to step outside of my comfort zone. Both have me wondering, \"What is going on???\" every work session. Would I recommend myself to do it again? No. Sleeping at 4 AM on a Friday is probably not the best idea. Will I listen to that advice? Nope! I still have so much more to learn!",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQFEFz_A8ojb9g/feedshare-image-high-res/B56Z8GsDNSIMAU-/0/1782523640476?e=2147483647&v=beta&t=tPXg0JZLo1K1NSDsuzii7WR6taMME0VCO7iJzA-i8c0",
+        "id": "7476446042113200128"
+      }
+    ],
+    "linkedin_num_id": "1000077919",
+    "banner_image": "https://media.licdn.com/dms/image/v2/D5616AQHFG5CtmsxrHg/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1713230186117?e=2147483647&v=beta&t=Gwcmft8Bx9GpbhVwNksFudWt4SOfNGkInAeFA8vxN5o",
+    "honors_and_awards": null,
+    "similar_profiles": [],
+    "default_avatar": true,
+    "memorialized_account": false,
+    "bio_links": [],
+    "first_name": "Karthik",
+    "last_name": "Sabhanayakam",
+    "influencer": false,
+    "timestamp": "2026-08-12T19:07:42.417Z",
+    "input": {
+      "url": "https://www.linkedin.com/in/karsab"
+    }
+  }
+}

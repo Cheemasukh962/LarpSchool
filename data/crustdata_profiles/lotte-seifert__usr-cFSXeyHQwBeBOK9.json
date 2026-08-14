@@ -1,0 +1,368 @@
+{
+  "source": "crustdata",
+  "recovered_from": "brightdata_failed_private",
+  "luma_user_id": "usr-cFSXeyHQwBeBOK9",
+  "csv_name": "Lotte Seifert",
+  "csv_linkedin": "https://www.linkedin.com/in/lotte-seifert",
+  "clean_linkedin": "https://www.linkedin.com/in/lotte-seifert",
+  "enriched_at": "2026-08-14T18:07:59.937250+00:00",
+  "person_data": {
+    "basic_profile": {
+      "current_title": "Founder",
+      "first_name": null,
+      "headline": "cofounder SID.ai | solving search",
+      "languages": [
+        "English (Full professional proficiency)",
+        "German (Native or bilingual proficiency)"
+      ],
+      "last_name": null,
+      "location": {
+        "city": "San Francisco",
+        "continent": "North America",
+        "country": "United States",
+        "full_location": null,
+        "raw": "San Francisco, California, United States",
+        "state": "California"
+      },
+      "name": "Lotte Seifert",
+      "normalized_title": {
+        "confident": true,
+        "department": "Executive Leadership",
+        "matched_title": "Founder",
+        "similarity": 0.9998999834060669,
+        "sub_department": "Founder & Entrepreneurship Leadership"
+      },
+      "professional_network_name": "Lotte Seifert",
+      "profile_picture_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/person/1bb4db5979686916ff63f9ffad081454ad68e75b172cfdd61507408c135fb420.jpg",
+      "summary": "SID is a research lab building the first search models that scale with compute. Humanity has had great web search for 20 years. We now have the tools to bring great search to any domain. We\u2019re backed backed by Y Combinator, Canaan, Rebel, and General Catalyst, as well as researchers from Anthropic, Deepmind, OpenAI, MIT, Cognition, Cursor, and Jeff Dean. \n\nWe're hiring exceptional team members across all functions."
+    },
+    "education": {
+      "schools": [
+        {
+          "activities_and_societies": "",
+          "degree": "Bachelor of Science",
+          "description": "Skills: Artificial Intelligence (AI) \u00b7 Generative AI \u00b7 Entrepreneurship",
+          "end_year": 2022,
+          "field_of_study": "Computer Science",
+          "institute_logo_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/company/062b3c707494a45ba981f543ed89c4322ea83f513a1b8edfa9c299d45e66b2ac.jpg",
+          "institute_logo_url": "https://media.licdn.com/dms/image/v2/C4D0BAQHpkHDwYhEoiQ/company-logo_400_400/company-logo_400_400/0/1630570736781/eth_zurich_logo?e=1787788800&v=beta&t=aZ0J7gAEKDKu8rMAkSRUQTbNe2All1D8_k49ikNLTvw",
+          "location": {
+            "city": "Zurich",
+            "continent": "Europe",
+            "country": "Switzerland",
+            "raw": "Z\u00fcrich ETH-Zentrum, Z\u00fcrich, Kanton Z\u00fcrich, Switzerland",
+            "state": "Zurich"
+          },
+          "professional_network_id": "4923",
+          "school": "ETH Z\u00fcrich",
+          "start_year": 2019
+        },
+        {
+          "activities_and_societies": "",
+          "degree": "Bachelor of Arts",
+          "description": "Skills: Artificial Intelligence (AI) \u00b7 Entrepreneurship",
+          "end_year": 2019,
+          "field_of_study": "Economics",
+          "institute_logo_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/company/a7b6817740913590ff32fdfea8af1ede9d775cb1d81344285fc1a7e5c9ebb3e9.jpg",
+          "institute_logo_url": "https://media.licdn.com/dms/image/v2/C560BAQFwnhW-GPfiYw/company-logo_400_400/company-logo_400_400/0/1630655380576/university_of_st_gallen_logo?e=1787788800&v=beta&t=ko7mQainsAOLGZO8qmZ9LltO-BjAEEgg5pwSyDdr53o",
+          "location": {
+            "city": "",
+            "continent": "Europe",
+            "country": "Switzerland",
+            "raw": "Diepoldsau, Kanton St. Gallen, Switzerland",
+            "state": "St. Gallen"
+          },
+          "professional_network_id": "166673",
+          "school": "University of St.Gallen",
+          "start_year": 2016
+        },
+        {
+          "activities_and_societies": "",
+          "degree": "Bachelor - Exchange Semester",
+          "description": "Exchange Semester",
+          "end_year": 2019,
+          "field_of_study": "Economics",
+          "institute_logo_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/company/770b6cf9bd01389b08dbb54529e69d0e3e93a13474df1abbabdcf3bd3431cdcf.jpg",
+          "institute_logo_url": "https://media.licdn.com/dms/image/v2/C4D0BAQGZdRyM61SwOw/company-logo_400_400/company-logo_400_400/0/1631375165915/lunduniversity_logo?e=1787788800&v=beta&t=6D_qU2G9nQvRIyinf4GQcK3S1MB5nxEDPoOARmx4kTE",
+          "location": {
+            "city": "Lund",
+            "continent": "Europe",
+            "country": "Sweden",
+            "raw": "Lund, Sk\u00e5ne, Sweden",
+            "state": ""
+          },
+          "professional_network_id": "5077",
+          "school": "Lund University",
+          "start_year": 2019
+        },
+        {
+          "activities_and_societies": "",
+          "degree": "S23 Batch",
+          "description": "Skills: Artificial Intelligence (AI) \u00b7 Generative AI \u00b7 Entrepreneurship",
+          "end_year": 2023,
+          "field_of_study": "",
+          "institute_logo_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/company/059f7e6072baf1189ebb67b9fec287348cc541df9931bf3d36c06f9bb5019e96.jpg",
+          "institute_logo_url": "https://media.licdn.com/dms/image/v2/C4D0BAQGPzdBPNxrmEg/company-logo_400_400/company-logo_400_400/0/1673555093250/y_combinator_logo?e=1787788800&v=beta&t=xFuFp0PJGvyDnDCIVYrqKz6oZKs2HaPfULcsmD-otc4",
+          "location": {
+            "city": "",
+            "continent": "North America",
+            "country": "United States",
+            "raw": "United States",
+            "state": ""
+          },
+          "professional_network_id": "167872",
+          "school": "Y Combinator",
+          "start_year": 2023
+        },
+        {
+          "activities_and_societies": "",
+          "degree": "Matura",
+          "description": "",
+          "end_year": 2016,
+          "field_of_study": "Main Subject: Physics and Applied Mathematics",
+          "institute_logo_permalink": null,
+          "institute_logo_url": "",
+          "location": {
+            "city": null,
+            "continent": null,
+            "country": null,
+            "raw": null,
+            "state": null
+          },
+          "professional_network_id": "",
+          "school": "Kantonsschule am Burggraben",
+          "start_year": 2011
+        },
+        {
+          "activities_and_societies": "",
+          "degree": "High School Diploma",
+          "description": "",
+          "end_year": 2015,
+          "field_of_study": "Exchange Year",
+          "institute_logo_permalink": null,
+          "institute_logo_url": "",
+          "location": {
+            "city": null,
+            "continent": null,
+            "country": null,
+            "raw": null,
+            "state": null
+          },
+          "professional_network_id": "",
+          "school": "Grants Pass High School",
+          "start_year": 2014
+        }
+      ]
+    },
+    "experience": {
+      "employment_details": {
+        "current": [
+          {
+            "company_description": "SID is an AI research lab based in San Francisco. We train models that can retrieve and reason over any data source. (YC S23)",
+            "company_professional_network_profile_url": "https://linkedin.com/company/92711502",
+            "company_profile_picture_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/company/f51eed60917b8fad6af1b5f720b48bf21be2472e75ff38c25d0acb78fd844ae6.jpg",
+            "company_website_domain": "sid.ai",
+            "crustdata_company_id": 881161,
+            "description": "Our agentic retrieval model SID-1 doubles embedding-only accuracy and outperforms frontier models on the most complex retrieval tasks. Backed by YC, Canaan, General Catalyst, as well as Jeff Dean and researchers from Anthropic, Deepmind, OpenAI, MIT, Cognition and Cursor.",
+            "employment_type": "Full-time",
+            "end_date": null,
+            "function_category": "",
+            "is_default": true,
+            "location": {
+              "raw": "Zurich, Switzerland"
+            },
+            "name": "SID.ai",
+            "position_id": 2109626580,
+            "professional_network_id": "92711502",
+            "seniority_level": "Owner / Partner",
+            "start_date": "2023-07-01T00:00:00+00:00",
+            "title": "Founder",
+            "years_at_company": "3 to 5 years",
+            "years_at_company_raw": 3.0
+          }
+        ],
+        "past": [
+          {
+            "company_description": "START Global is building the seeding ground for entrepreneurial talent. Our non-profit student initiative was established in 1996 at the University of St. Gallen. Since then, we have built a community of like-minded founders and entrepreneurial-minded individuals deeply embedded in Europe's startup ecosystem. Our organization hosts the annual START Summit x Hack, organizes the START Fellowship program, and connects entrepreneurial minds. Through these efforts, we aim to unleash the innovative potential of entrepreneurial ecosystems. Since 2016, START has been supported by the START Foundation and its advisory board, which includes ten distinguished Swiss entrepreneurs and investors, amongst others, Daniel Gutenberg, Urs Wietlisbach and Florian Schweitzer.",
+            "company_professional_network_profile_url": "https://linkedin.com/company/250700",
+            "company_profile_picture_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/company/77a3b63e996c7ea70b4148808b6600ac729ae636e91bee0ed00fb96cf2b00be2.jpg",
+            "company_website_domain": "startglobal.org",
+            "crustdata_company_id": 1097093,
+            "description": "",
+            "employment_type": "Full-time",
+            "end_date": "2021-04-01T00:00:00+00:00",
+            "function_category": "Engineering",
+            "is_default": false,
+            "location": {
+              "raw": "St. Gallen"
+            },
+            "name": "START Global",
+            "position_id": 1748507143,
+            "professional_network_id": "250700",
+            "seniority_level": "Entry Level",
+            "start_date": "2021-02-01T00:00:00+00:00",
+            "title": "Software Engineer",
+            "years_at_company": "Less than 1 year",
+            "years_at_company_raw": 0.0
+          },
+          {
+            "company_description": "Merantix Capital is a Berlin-based venture capital firm and a unit of Merantix, a group of companies and initiatives driving AI forward in Europe.We leverage our platform to attract and foster interactions between ideas, talent, industry, and policy. We combine our venture-building DNA, deep AI investing expertise, and our expansive community.",
+            "company_professional_network_profile_url": "https://linkedin.com/company/7943887",
+            "company_profile_picture_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/company/2bfe1a8bc8c205098de2964778ee2fa6cd83f126faec46145a5f1a56b71fe4e6.jpg",
+            "company_website_domain": "merantix-capital.com",
+            "crustdata_company_id": 2229119,
+            "description": "",
+            "employment_type": "Internship",
+            "end_date": "2020-12-01T00:00:00+00:00",
+            "function_category": "Sales",
+            "is_default": false,
+            "location": {
+              "raw": ""
+            },
+            "name": "Merantix",
+            "position_id": 1671440084,
+            "professional_network_id": "7943887",
+            "seniority_level": "Entry Level",
+            "start_date": "2020-09-01T00:00:00+00:00",
+            "title": "Business Development",
+            "years_at_company": "Less than 1 year",
+            "years_at_company_raw": 0.0
+          },
+          {
+            "company_description": "Mosan\u2019s mission is to co-create culturally appropriate, circular, and regenerative systems through ecological sanitation and innovative waste treatment, preventing contamination and enabling the recovery of valuable nutrients for safe reuse in agriculture.The approach is system-oriented, working across sanitation, material flows, and agriculture to restore ecological functions.Over time, Mosan has developed context-adapted systems and processes, including attractive ecological dry toilets, treatment of sewage sludge via pyrolysis, low-emission TLUD reactors, and soil amendment formulations.Together with local partners \u2014 including Mosan S.A. Guatemala and Association for Innovation \u2014 these systems are currently implemented in Guatemala, while Mosan provides strategic support, scientific partnerships, and overall facilitation.",
+            "company_professional_network_profile_url": "https://linkedin.com/company/11423932",
+            "company_profile_picture_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/company/e1a25e2d74307e4cabb9539d7129f7fb855e1a6c6c5a1750b4e75cc23a57d1cc.jpg",
+            "company_website_domain": "mosan.com",
+            "crustdata_company_id": 878950,
+            "description": "",
+            "employment_type": "",
+            "end_date": "2019-09-01T00:00:00+00:00",
+            "function_category": "",
+            "is_default": false,
+            "location": {
+              "raw": "Santa Catarina, Guatemala"
+            },
+            "name": "Mosan Sanitation Solution",
+            "position_id": 1496508321,
+            "professional_network_id": "11423932",
+            "seniority_level": "Entry Level",
+            "start_date": "2019-07-01T00:00:00+00:00",
+            "title": "Social and Environmental Impact Measurement",
+            "years_at_company": "Less than 1 year",
+            "years_at_company_raw": 0.0
+          },
+          {
+            "company_description": "START Global is building the seeding ground for entrepreneurial talent. Our non-profit student initiative was established in 1996 at the University of St. Gallen. Since then, we have built a community of like-minded founders and entrepreneurial-minded individuals deeply embedded in Europe's startup ecosystem. Our organization hosts the annual START Summit x Hack, organizes the START Fellowship program, and connects entrepreneurial minds. Through these efforts, we aim to unleash the innovative potential of entrepreneurial ecosystems. Since 2016, START has been supported by the START Foundation and its advisory board, which includes ten distinguished Swiss entrepreneurs and investors, amongst others, Daniel Gutenberg, Urs Wietlisbach and Florian Schweitzer.",
+            "company_professional_network_profile_url": "https://linkedin.com/company/250700",
+            "company_profile_picture_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/company/77a3b63e996c7ea70b4148808b6600ac729ae636e91bee0ed00fb96cf2b00be2.jpg",
+            "company_website_domain": "startglobal.org",
+            "crustdata_company_id": 1097093,
+            "description": "",
+            "employment_type": "",
+            "end_date": "2018-09-01T00:00:00+00:00",
+            "function_category": "",
+            "is_default": false,
+            "location": {
+              "raw": "St. Gallen, Switzerland"
+            },
+            "name": "START Global",
+            "position_id": 1109141996,
+            "professional_network_id": "250700",
+            "seniority_level": "Entry Level",
+            "start_date": "2017-10-01T00:00:00+00:00",
+            "title": "START Summit Team",
+            "years_at_company": "Less than 1 year",
+            "years_at_company_raw": 0.0
+          },
+          {
+            "company_description": "",
+            "company_professional_network_profile_url": null,
+            "company_profile_picture_permalink": "",
+            "company_website_domain": null,
+            "crustdata_company_id": null,
+            "description": "",
+            "employment_type": "",
+            "end_date": "2018-08-01T00:00:00+00:00",
+            "function_category": "",
+            "is_default": false,
+            "location": {
+              "raw": "St. Gallen, Switzerland"
+            },
+            "name": "Marketing Club University of St. Gallen",
+            "position_id": 1109144432,
+            "professional_network_id": "",
+            "seniority_level": "Vice President",
+            "start_date": "2017-08-01T00:00:00+00:00",
+            "title": "Vice President",
+            "years_at_company": "1 to 2 years",
+            "years_at_company_raw": 1.0
+          },
+          {
+            "company_description": "Mercedes-Benz (Thailand) Ltd, an automotive company operated under the umbrella of Mercedes-Benz AG, the world's largest manufacturer of Mercedes-Benz vehicles, was founded on January 14, 1998. Mercedes-Benz Thailand handles the importation, assembly, and distribution of passenger cars and commercial vehicles as well as provides full maintenance and after-sales services to its clientele.Mercedes-Benz AG is one of the world\u2019s most successful automotive companies. With its divisions Mercedes-Benz Cars,  Mercedes-Benz Vans and Mercedes Financial Services, the Mercedes-Benz Group is one of the biggest producers of premium cars and the world\u2019s biggest manufacturer of commercial vehicles with a global reach.Further information and career opportunities can be found on:https://jobs.mercedes-benz.com/en",
+            "company_professional_network_profile_url": "https://linkedin.com/company/1247164",
+            "company_profile_picture_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/company/d5ef0ed30d0b0e216766c52b8441cc219b82f4a52396613007307ecbd15dbeed.jpg",
+            "company_website_domain": "mercedes-benz.com",
+            "crustdata_company_id": 6376606,
+            "description": "",
+            "employment_type": "",
+            "end_date": "2017-09-01T00:00:00+00:00",
+            "function_category": "Operations",
+            "is_default": false,
+            "location": {
+              "raw": "Bangkok, Thailand"
+            },
+            "name": "Mercedes-Benz (Thailand) Ltd.",
+            "position_id": 1109145022,
+            "professional_network_id": "1247164",
+            "seniority_level": "In Training",
+            "start_date": "2017-08-01T00:00:00+00:00",
+            "title": "Procurement Intern",
+            "years_at_company": "Less than 1 year",
+            "years_at_company_raw": 0.0
+          }
+        ]
+      }
+    },
+    "professional_network": {
+      "connections": 3456,
+      "current_title": "Founder",
+      "followers": 6699,
+      "headline": "cofounder SID.ai | solving search",
+      "location": {
+        "city": "San Francisco",
+        "continent": "North America",
+        "country": "United States",
+        "raw": "San Francisco, California, United States",
+        "state": "California"
+      },
+      "metadata": {
+        "last_scraped_source": null
+      },
+      "name": "Lotte Seifert",
+      "profile_picture_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/person/1bb4db5979686916ff63f9ffad081454ad68e75b172cfdd61507408c135fb420.jpg",
+      "pronoun": "",
+      "summary": "SID is a research lab building the first search models that scale with compute. Humanity has had great web search for 20 years. We now have the tools to bring great search to any domain. We\u2019re backed backed by Y Combinator, Canaan, Rebel, and General Catalyst, as well as researchers from Anthropic, Deepmind, OpenAI, MIT, Cognition, Cursor, and Jeff Dean. \n\nWe're hiring exceptional team members across all functions."
+    },
+    "skills": {
+      "professional_network_skills": [
+        "Generative AI",
+        "Artificial Intelligence (AI)",
+        "Entrepreneurship",
+        "Segment",
+        "Microsoft Office"
+      ]
+    },
+    "social_handles": {
+      "dev_platform_identifier": {
+        "profile_url": null
+      },
+      "professional_network_identifier": {
+        "profile_url": "https://www.linkedin.com/in/lotteseifert"
+      },
+      "twitter_identifier": {
+        "slug": ""
+      }
+    },
+    "crustdata_person_id": 86237
+  }
+}

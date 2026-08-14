@@ -1,0 +1,89 @@
+{
+  "luma_user_id": "usr-Csff8p1N2mTNFGM",
+  "csv_name": "Vishal Yalla",
+  "csv_linkedin": "https://www.linkedin.com/in/vishalryalla",
+  "enriched_at": "2026-08-12T19:22:34.877776+00:00",
+  "batch_id": "sd_msqh2468i57o0acas",
+  "profile": {
+    "id": "vishalryalla",
+    "name": "Vishal Yalla",
+    "city": "Pasadena, California, United States",
+    "country_code": "US",
+    "position": null,
+    "about": "Working at the intersection of aerial intelligence and space robotics reach me at\u2026",
+    "current_company": {
+      "link": "https://www.linkedin.com/company/jet-propulsion-laboratory?trk=public_profile_topcard-current-company",
+      "name": "NASA Jet Propulsion Laboratory",
+      "company_id": "jet-propulsion-laboratory",
+      "location": null
+    },
+    "experience": null,
+    "url": "https://au.linkedin.com/in/vishalryalla",
+    "educations_details": "Caltech",
+    "education": [
+      {
+        "title": "Caltech",
+        "url": "https://www.linkedin.com/school/california-institute-of-technology/",
+        "start_year": "2025-08",
+        "end_year": "2029-06",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      },
+      {
+        "start_year": "2022-09",
+        "end_year": "2025-06",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      },
+      {
+        "start_year": "2021-09",
+        "end_year": "2025-06",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      }
+    ],
+    "avatar": "https://media.licdn.com/dms/image/v2/D4E03AQF0CRcvRxjvWA/profile-displayphoto-scale_200_200/B4EZnKt6m5IUAY-/0/1760042658639?e=2147483647&v=beta&t=1R4E3Rt3Od0YEC2IT0WZ9nwfld8xadrrH99ziDVptb0",
+    "certifications": [
+      {
+        "meta": "Issued Aug 2025",
+        "subtitle": "Federal Aviation Administration",
+        "title": "Private Pilot (Student)",
+        "credential_url": null,
+        "credential_id": null
+      }
+    ],
+    "followers": 276,
+    "connections": 275,
+    "current_company_company_id": "jet-propulsion-laboratory",
+    "current_company_name": "NASA Jet Propulsion Laboratory",
+    "location": "Pasadena",
+    "input_url": "https://www.linkedin.com/in/vishalryalla",
+    "linkedin_id": "vishalryalla",
+    "activity": null,
+    "linkedin_num_id": "962852039",
+    "banner_image": "https://media.licdn.com/dms/image/v2/D5616AQGR1w0AN88NhQ/profile-displaybackgroundimage-shrink_200_800/B56ZjijVo4G4AU-/0/1756147571900?e=2147483647&v=beta&t=Jfdp4YQz0gvOxoVUCq7XaNDSb3eT07lKJ0zckHlf14c",
+    "honors_and_awards": [
+      {
+        "title": "1st Place \u2013 Grand Award Recipient, Physics & Astronomy",
+        "publication": "International Science and Engineering Fair (ISEF)",
+        "date": "2024-05-01T00:00:00.000Z",
+        "description": null
+      }
+    ],
+    "similar_profiles": [],
+    "default_avatar": false,
+    "memorialized_account": false,
+    "bio_links": [],
+    "first_name": "Vishal",
+    "last_name": "Yalla",
+    "influencer": false,
+    "timestamp": "2026-08-12T19:18:18.436Z",
+    "input": {
+      "url": "https://www.linkedin.com/in/vishalryalla"
+    }
+  },
+  "local_photo": "data\\linkedin_photos\\vishalryalla__usr-Csff8p1N2mTNFGM.jpg"
+}

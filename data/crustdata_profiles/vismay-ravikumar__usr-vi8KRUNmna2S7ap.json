@@ -1,0 +1,417 @@
+{
+  "source": "crustdata",
+  "recovered_from": "brightdata_failed_private",
+  "luma_user_id": "usr-vi8KRUNmna2S7ap",
+  "csv_name": "Vismay Ravikumar",
+  "csv_linkedin": "https://www.linkedin.com/in/vismay-ravikumar",
+  "clean_linkedin": "https://www.linkedin.com/in/vismay-ravikumar",
+  "enriched_at": "2026-08-14T18:07:59.937250+00:00",
+  "person_data": {
+    "basic_profile": {
+      "current_title": "Incoming Software Engineer Intern",
+      "first_name": null,
+      "headline": "eng @ sofi, inc. @ aws | cs @ rice",
+      "languages": [
+        "French (Full professional proficiency)",
+        "English (Native or bilingual proficiency)",
+        "Kannada (Native or bilingual proficiency)"
+      ],
+      "last_name": null,
+      "location": {
+        "city": "",
+        "continent": "North America",
+        "country": "United States",
+        "full_location": null,
+        "raw": "Greater Boston",
+        "state": ""
+      },
+      "name": "Vismay Ravikumar",
+      "normalized_title": {
+        "confident": true,
+        "department": "Engineering & Technology",
+        "matched_title": "Software Engineer I Intern",
+        "similarity": 0.9865000247955322,
+        "sub_department": "Software Engineering"
+      },
+      "professional_network_name": "Vismay Ravikumar",
+      "profile_picture_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/person/061e5294f14fad5f382470216761a9301463896c3e865ba6ad33b1a868e69341.jpg",
+      "summary": "interested in backend systems, infra, and data; looking for fall \u201826, spring \u201827, & summer \u201827 internships\n\nreach me at vr50@rice.edu!"
+    },
+    "education": {
+      "schools": [
+        {
+          "activities_and_societies": "Rice Apps",
+          "degree": "Bachelor of Science - BS",
+          "description": "Trustee Distinguished Scholar",
+          "end_year": 2027,
+          "field_of_study": "Computer Science",
+          "institute_logo_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/company/009e42db64b343d17f5701dd3167585c2adec3fbaa51aa68161f3f3d932b2c2d.jpg",
+          "institute_logo_url": "https://media.licdn.com/dms/image/v2/C4E0BAQGBW9UluY3-Vg/company-logo_400_400/company-logo_400_400/0/1630602229448/riceuniversity_logo?e=1776902400&v=beta&t=XAy9ZJ6a9c3RPfVY9tRjWcjIJQeyVGooLkMI-7VWexE",
+          "location": {
+            "city": "Houston",
+            "continent": "North America",
+            "country": "United States",
+            "raw": "Houston, United States",
+            "state": "Texas"
+          },
+          "professional_network_id": "6076",
+          "school": "Rice University",
+          "start_year": null
+        }
+      ]
+    },
+    "experience": {
+      "employment_details": {
+        "current": [
+          {
+            "company_description": "Launched in 2006, Amazon Web Services (AWS) began exposing key infrastructure services to businesses in the form of web services -- now widely known as cloud computing. The ultimate benefit of cloud computing, and AWS, is the ability to leverage a new business model and turn capital infrastructure expenses into variable costs. Businesses no longer need to plan and procure servers and other IT resources weeks or months in advance. Using AWS, businesses can take advantage of Amazon's expertise and economies of scale to access resources when their business needs them, delivering results faster and at a lower cost.Today, Amazon Web Services provides a highly reliable, scalable, low-cost infrastructure platform in the cloud that powers hundreds of thousands of businesses in 190 countries around the world. With data center locations in the U.S., Europe, Singapore, and Japan, customers across all industries are taking advantage of our low cost, elastic, open and flexible, secure platform.",
+            "company_professional_network_profile_url": "https://linkedin.com/company/2382910",
+            "company_profile_picture_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/company/5ce46e90454eb6200f0fd30a6fdbba8112c41701c303d63cdc3a10059f33ada5.jpg",
+            "company_website_domain": "amazon.com",
+            "crustdata_company_id": 1033829,
+            "description": "gamelift foundations",
+            "employment_type": "",
+            "end_date": null,
+            "function_category": "Engineering",
+            "is_default": true,
+            "location": {
+              "raw": "Seattle, Washington, United States"
+            },
+            "name": "Amazon Web Services (AWS)",
+            "position_id": 2930740341,
+            "professional_network_id": "2382910",
+            "seniority_level": "In Training",
+            "start_date": "2026-06-01T00:00:00+00:00",
+            "title": "Incoming Software Engineer Intern",
+            "years_at_company": "Less than 1 year",
+            "years_at_company_raw": 0.0
+          },
+          {
+            "company_description": "As part of Rice University's George R. Brown School of Engineering and Computing, we offer graduate and undergraduate degrees in computer science. Our graduate degrees are offered both in-person and online. In fact, our online master of science is ranked #3 by the US News & World Report in 2026.We're one of the world's top CS departments, and that shows in what we do. Our faculty are thought leaders pushing cutting-edge research through partnerships with the Texas Medical Center, NASA and the local energy industry. They're also award-winning teachers who genuinely care about their students.Whether you're a PhD student, a tenure-track faculty prospect, an undergrad or pursuing a Master's degree, we want you to know what makes Rice different. Our department is diverse and welcoming (34% of our undergrads are women), and we're based in Houston, consistently ranked as one of America's most diverse major cities. The campus feels like a park, especially in winter when you can actually be outside.If you're considering joining us, come visit. We think you'll see why Rice is home.",
+            "company_professional_network_profile_url": "https://linkedin.com/company/11811382",
+            "company_profile_picture_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/company/79eb47de0fa531814319376b0bd217fa652a1686e68290480147573d2c967bbe.jpg",
+            "company_website_domain": "rice.edu",
+            "crustdata_company_id": 6395788,
+            "description": "discrete math & algo.",
+            "employment_type": "Part-time",
+            "end_date": null,
+            "function_category": "",
+            "is_default": true,
+            "location": {
+              "raw": "Houston, TX"
+            },
+            "name": "Rice Computer Science Department",
+            "position_id": 2784170105,
+            "professional_network_id": "11811382",
+            "seniority_level": "Entry Level",
+            "start_date": "2025-12-01T00:00:00+00:00",
+            "title": "Teaching Assistant",
+            "years_at_company": "Less than 1 year",
+            "years_at_company_raw": 0.0
+          },
+          {
+            "company_description": "SoFi is a values-driven company on a mission to help our members get their money right. We create modern financial products and services that help people borrow, save, spend, invest, and protect their money better, so that they can achieve financial independence and realize their ambitions\u2014from owning a home to saving for retirement, paying off their student loans, and more. CFL #6054612; NMLS #1121636 (www.nmlsconsumeraccess.org) Advisory services through SoFi LLC, a registered investment advisor. SoFi Checking and Savings is offered through SoFi Bank, N.A. Member FDIC. SoFi MoneyTM is offered through SoFi Securities LLC, member FINRA/SIPC.",
+            "company_professional_network_profile_url": "https://linkedin.com/company/2301992",
+            "company_profile_picture_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/company/56ed09916c72f68fbd9e6d5cc1000c0b8b02e72bcf1bb0ff2649d127b433416a.jpg",
+            "company_website_domain": "SoFi.com",
+            "crustdata_company_id": 631337,
+            "description": "lantern x smb",
+            "employment_type": "",
+            "end_date": null,
+            "function_category": "Engineering",
+            "is_default": false,
+            "location": {
+              "raw": "San Francisco, California, United States"
+            },
+            "name": "SoFi",
+            "position_id": 2888748453,
+            "professional_network_id": "2301992",
+            "seniority_level": "In Training",
+            "start_date": "2026-06-01T00:00:00+00:00",
+            "title": "Software Engineer Intern",
+            "years_at_company": "Less than 1 year",
+            "years_at_company_raw": 0.0
+          },
+          {
+            "company_description": "",
+            "company_professional_network_profile_url": "https://linkedin.com/company/107096594",
+            "company_profile_picture_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/company/88f14785b7ad6463260181be46d6f1e5009442b1155562d6b1959092412d2899.jpg",
+            "company_website_domain": "labshare.app",
+            "crustdata_company_id": 6593323,
+            "description": "reducing lab waste through resource sharing - piloting @ rice, houston methodist, md anderson",
+            "employment_type": "",
+            "end_date": null,
+            "function_category": "Engineering",
+            "is_default": false,
+            "location": {
+              "raw": "Houston, TX"
+            },
+            "name": "Labshare",
+            "position_id": 2699422767,
+            "professional_network_id": "107096594",
+            "seniority_level": "Entry Level",
+            "start_date": "2025-05-01T00:00:00+00:00",
+            "title": "Founding Engineer",
+            "years_at_company": "1 to 2 years",
+            "years_at_company_raw": 1.0
+          }
+        ],
+        "past": [
+          {
+            "company_description": "Air Alliance Houston is a non-profit advocacy organization working to reduce the public health impacts from air pollution and advance environmental justice. We believe everyone has the right to breathe clean air and where you live, work, learn, and play should not determine your health.",
+            "company_professional_network_profile_url": "https://linkedin.com/company/1585402",
+            "company_profile_picture_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/company/05a0e588eeea6828e823ef8892780b6bfb6d16945ca37a11159e780fa0637796.jpg",
+            "company_website_domain": "airalliancehouston.org",
+            "crustdata_company_id": 1530908,
+            "description": "real-time air quality alerts",
+            "employment_type": "Contract",
+            "end_date": "2026-04-01T00:00:00+00:00",
+            "function_category": "",
+            "is_default": false,
+            "location": {
+              "raw": "Houston, TX"
+            },
+            "name": "Air Alliance Houston",
+            "position_id": 2773636357,
+            "professional_network_id": "1585402",
+            "seniority_level": "Senior",
+            "start_date": "2025-08-01T00:00:00+00:00",
+            "title": "Technical Lead",
+            "years_at_company": "Less than 1 year",
+            "years_at_company_raw": 0.0
+          },
+          {
+            "company_description": "This page is dedicated to Federal Reserve System career and employment related information only.  Comments not pertaining to Fed recruiting will be removed.The Fed - Make a world of difference in the global economyOUR BANK has one of the most recognizable brands around the world. The Federal Reserve is the central bank of the United States\u2014one of the world's most influential, trusted and prestigious financial organizations. The Federal Reserve is charged with the important mission of promoting a strong economy and a stable financial system and fulfills this responsibility by formulating national monetary policy, supervising and regulating banks and bank holding companies, and providing financial services for banks and the U.S. government.OUR PEOPLE are diverse in background and ideas, which allows for ongoing creativity and innovation. Ultimately, they are the ones who push our high-performance, exchange-driven culture forward.Why Our People Choose Us:    Our reputation precedes us    There will always be room for personal growth    Our people are first    You\u2019ll find the right balance    Your responsibilities will be meaningfulWe hope that you will be our future colleague.Find your preferred locations around the United States and explore the breadth of opportunity available at the Federal Reserve.Atlanta https://www.frbatlanta.org/Boston http://www.bostonfed.org/Chicago https://www.chicagofed.org/Cleveland https://www.clevelandfed.org/Dallas http://dallasfed.org/Kansas City https://www.kansascityfed.org/Minneapolis https://www.minneapolisfed.org/New York http://www.newyorkfed.org/Philadelphia https://www.philadelphiafed.org/Richmond https://www.richmondfed.org/San Francisco http://www.frbsf.org/St. Louis https://www.stlouisfed.org/Board http://www.federalreserve.gov/",
+            "company_professional_network_profile_url": "https://linkedin.com/company/2789",
+            "company_profile_picture_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/company/480c7bd9ba1b6b3dfe0b3af5a804551e749856f49f6f9b2a31e2bd439a6cfe0e.jpg",
+            "company_website_domain": "selectminds.com",
+            "crustdata_company_id": 1130514,
+            "description": "data pipelines & data-access tooling",
+            "employment_type": "",
+            "end_date": "2025-08-01T00:00:00+00:00",
+            "function_category": "Engineering",
+            "is_default": false,
+            "location": {
+              "raw": "Boston, MA"
+            },
+            "name": "Federal Reserve Bank",
+            "position_id": 2712318950,
+            "professional_network_id": "2789",
+            "seniority_level": "In Training",
+            "start_date": "2025-06-01T00:00:00+00:00",
+            "title": "Software Engineer Intern",
+            "years_at_company": "Less than 1 year",
+            "years_at_company_raw": 0.0
+          },
+          {
+            "company_description": "The Federal Reserve Bank of Boston is one of 12 banks in the Federal Reserve System that serves as the central bank of the United States. As a leader in financial regulation, monetary policy, and a pioneer of new payment strategies the Boston Fed uses cutting edge technology to achieve its goals and ensure a vibrant economy. As part of the central bank of the United States the Fed is tasked with ensuring the growth and stability of the global economy, and is called upon to respond to financial crises. In order to do this the Federal Reserve Bank of Boston has pioneered cutting edge payment methods, developed state of the art data security programs, and conducted extensive research to assist in policy directives from the Federal Government.The Boston Federal Reserve serves the First Federal Reserve District that includes the six New England states: Connecticut (excluding Fairfield County), Massachusetts, Maine, New Hampshire, Rhode Island and Vermont. With a great and growing commitment to diversity and community outreach, the Boston Fed continues to promote sound growth and financial stability in New England and throughout the nation.",
+            "company_professional_network_profile_url": "https://linkedin.com/company/2790",
+            "company_profile_picture_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/company/b4ebb359feb352e58a8eb2d8b0f8c7959965271e216706007525fbdebfa314bf.jpg",
+            "company_website_domain": "bostonfed.org",
+            "crustdata_company_id": 1412221,
+            "description": "built real-time data pipelines for processing billions of bond trades",
+            "employment_type": "Internship",
+            "end_date": "2025-08-01T00:00:00+00:00",
+            "function_category": "Engineering",
+            "is_default": false,
+            "location": {
+              "raw": "Boston, MA"
+            },
+            "name": "Federal Reserve Bank of Boston",
+            "position_id": 2712318950,
+            "professional_network_id": "2790",
+            "seniority_level": "In Training",
+            "start_date": "2025-06-01T00:00:00+00:00",
+            "title": "Software Engineer Intern",
+            "years_at_company": "Less than 1 year",
+            "years_at_company_raw": 0.0
+          },
+          {
+            "company_description": "The Center for Health Information and Analysis (CHIA) is an independent state agency established as the Commonwealth\u2019s primary hub for health care data. We provide reliable information and meaningful analysis for those seeking to improve health care quality, affordability, access, and outcomes through our multifaceted datasets, unique analytic resources, and objective reporting.",
+            "company_professional_network_profile_url": "https://linkedin.com/company/25055833",
+            "company_profile_picture_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/company/7e9836dc54cdfeca4f8863f98e771f24c466f58d12e83b6aec469fdd84ca21f9.jpg",
+            "company_website_domain": "chiamass.gov",
+            "crustdata_company_id": 2031274,
+            "description": "qa tooling",
+            "employment_type": "Contract",
+            "end_date": "2025-06-01T00:00:00+00:00",
+            "function_category": "Engineering",
+            "is_default": false,
+            "location": {
+              "raw": "Boston, MA"
+            },
+            "name": "The Center for Health Information and Analysis",
+            "position_id": 2692950193,
+            "professional_network_id": "25055833",
+            "seniority_level": "In Training",
+            "start_date": "2025-05-01T00:00:00+00:00",
+            "title": "Software Engineer Intern",
+            "years_at_company": "Less than 1 year",
+            "years_at_company_raw": 0.0
+          },
+          {
+            "company_description": "The Texas Commission on Environmental Quality is the environmental agency for the state. We have approximately 2,800 employees, located in our central office in Austin and 16 regional offices around Texas. The Texas Commission on Environmental Quality strives to protect our state's human and natural resources consistent with sustainable economic development. Our goal is clean air, clean water, and the safe management of waste.To accomplish our mission, we will:base decisions on the law, common sense, good science, and fiscal responsibility;ensure that regulations are necessary, effective, and current;apply regulations clearly and consistently;ensure consistent, just, and timely enforcement when environmental laws are violated;ensure meaningful public participation in the decision-making process;promote and foster voluntary compliance with environmental laws and provide flexibility in achieving environmental goals; andhire, develop, and retain a high-quality, diverse workforce.View Agency Opportunities:https://www.tceq.texas.gov/jobsFollow us on Twitter: www.twitter.com/tceqEEO Commitment: The TCEQ is an equal opportunity employer. The agency does not allow discrimination on the basis of race, color, religion, national origin, sex, disability, age, sexual orientation or veteran status.",
+            "company_professional_network_profile_url": "https://linkedin.com/company/2955",
+            "company_profile_picture_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/company/6c4518badd7118a2219fcf7bcd747d03c5448044b357a75b402212ad807f7ff1.jpg",
+            "company_website_domain": "texas.gov",
+            "crustdata_company_id": 1404317,
+            "description": "superfund visualizer",
+            "employment_type": "",
+            "end_date": "2025-06-01T00:00:00+00:00",
+            "function_category": "Engineering",
+            "is_default": false,
+            "location": {
+              "raw": "Austin, TX"
+            },
+            "name": "TX COMMISSION ON ENVIRONMENTAL QUALITY",
+            "position_id": 2537454400,
+            "professional_network_id": "2955",
+            "seniority_level": "Entry Level",
+            "start_date": "2024-09-01T00:00:00+00:00",
+            "title": "Software Engineer",
+            "years_at_company": "Less than 1 year",
+            "years_at_company_raw": 0.0
+          },
+          {
+            "company_description": "The University of Texas MD Anderson Cancer Center is one of the world\u2019s most respected centers devoted exclusively to cancer patient care, research, education and prevention. Its sole mission is to end cancer for patients and their families around the world. UT MD Anderson provides cancer care in Houston\u2019s Texas Medical Center, as well as several locations throughout the Greater Houston Area. UT MD Anderson also collaborates with hospitals, health systems and organizations across the U.S. and around the world to advance our mission to end cancer. UT MD Anderson was created in 1941 as part of The University of Texas System, and, in 1971, it became one of the nation\u2019s original three comprehensive cancer centers designated by the National Cancer Act of 1971. U.S. News & World Report\u2019s \u201cBest Hospitals\u201d rankings has named UT MD Anderson the nation's top hospital for cancer care. The institution has been named one of the nation\u2019s top two hospitals for cancer care every year since the survey began in 1990. The recognition reflects the passion of our 27,000 extraordinary employees and 1,000 volunteers for providing exceptional care to our patients and their families, and for realizing our mission to #EndCancer. You can view all of our career opportunities at Careers.MDAnderson.Org.",
+            "company_professional_network_profile_url": "https://linkedin.com/company/164901",
+            "company_profile_picture_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/company/c46aa943f1cea6240b1941dec5560888909ffe80f03b67c182bb0d9888226be0.jpg",
+            "company_website_domain": "MDAnderson.org",
+            "crustdata_company_id": 1075696,
+            "description": "pan-cancer mil models under review for NeuIPS 2026",
+            "employment_type": "",
+            "end_date": "2025-05-01T00:00:00+00:00",
+            "function_category": "Research",
+            "is_default": false,
+            "location": {
+              "raw": "Houston, TX"
+            },
+            "name": "MD Anderson Cancer Center",
+            "position_id": 2488873764,
+            "professional_network_id": "164901",
+            "seniority_level": "Entry Level",
+            "start_date": "2024-09-01T00:00:00+00:00",
+            "title": "Research Assistant",
+            "years_at_company": "Less than 1 year",
+            "years_at_company_raw": 0.0
+          },
+          {
+            "company_description": "Dartmouth Health, New Hampshire's only academic health system and the state's largest private employer, serves patients across northern New England. Dartmouth Health provides access to more than 2,000 providers in almost every area of medicine, delivering care at its flagship hospital, Dartmouth Hitchcock Medical Center (DHMC) in Lebanon, NH, as well as across its wide network of hospitals, clinics and care facilities. DHMC is consistently named the #1 hospital in New Hampshire by U.S. News & World Report, and recognized for high performance in numerous clinical specialties and procedures. Dartmouth Health includes Dartmouth Cancer Center, one of only 54 National Cancer Institute-designated Comprehensive Cancer Centers in the nation, and the only such center in northern New England; Dartmouth Health Children\u2019s, which includes Children\u2019s Hospital at Dartmouth Hitchcock Medical Center, the state\u2019s only children\u2019s hospital, and multiple clinic locations around the region; member hospitals in Lebanon, Keene and New London, NH, and Bennington and Windsor, VT; Visiting Nurse and Hospice for Vermont and New Hampshire; and more than 24 clinics that provide ambulatory services across New Hampshire and Vermont. Through its historical partnership with Dartmouth and the Geisel School of Medicine, Dartmouth Health trains nearly 400 medical residents and fellows annually, and performs cutting-edge research and clinical trials recognized across the globe with Geisel and the White River Junction VA Medical Center in White River Junction, VT. Dartmouth Health and its more than 13,000 employees are deeply committed to serving the healthcare needs of everyone in our communities, and to providing each of our patients with exceptional, personal care.",
+            "company_professional_network_profile_url": "https://linkedin.com/company/56134040",
+            "company_profile_picture_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/company/93abc2230222ea153b7f159e52a8b06953d1f1cdcb532f9e12c14c43fb667a42.jpg",
+            "company_website_domain": "dartmouth-health.org",
+            "crustdata_company_id": 1223677,
+            "description": "computational analyses of als",
+            "employment_type": "",
+            "end_date": "2024-08-01T00:00:00+00:00",
+            "function_category": "Research",
+            "is_default": false,
+            "location": {
+              "raw": "Hanover, NH"
+            },
+            "name": "Dartmouth Health",
+            "position_id": 2400700014,
+            "professional_network_id": "56134040",
+            "seniority_level": "In Training",
+            "start_date": "2024-05-01T00:00:00+00:00",
+            "title": "Research Intern",
+            "years_at_company": "Less than 1 year",
+            "years_at_company_raw": 0.0
+          }
+        ]
+      }
+    },
+    "professional_network": {
+      "connections": 3019,
+      "current_title": "Incoming Software Engineer Intern",
+      "followers": 0,
+      "headline": "eng @ sofi, inc. @ aws | cs @ rice",
+      "location": {
+        "city": "",
+        "continent": "North America",
+        "country": "United States",
+        "raw": "Greater Boston",
+        "state": ""
+      },
+      "metadata": {
+        "last_scraped_source": null
+      },
+      "name": "Vismay Ravikumar",
+      "profile_picture_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/person/061e5294f14fad5f382470216761a9301463896c3e865ba6ad33b1a868e69341.jpg",
+      "pronoun": "He/Him",
+      "summary": "interested in backend systems, infra, and data; looking for fall \u201826, spring \u201827, & summer \u201827 internships\n\nreach me at vr50@rice.edu!"
+    },
+    "skills": {
+      "professional_network_skills": [
+        "Celery",
+        "Redis",
+        "Vite",
+        "Retrieval-Augmented Generation (RAG)",
+        "REST APIs",
+        "Apache Spark",
+        "Technical Documentation",
+        "Go",
+        "PyTorch",
+        "Apache Airflow",
+        "Bash",
+        "spaCy",
+        "SQL Server Management Studio",
+        "Software Documentation",
+        "Tailwind CSS",
+        "Next.js",
+        "Cloudflare",
+        "Selenium",
+        "Cronjobs",
+        "Pandas",
+        "Android Studio",
+        "XML",
+        "Gradle",
+        "MongoDB",
+        "Amazon Web Services (AWS)",
+        "TypeScript",
+        "Django",
+        "React.js",
+        "Svelte",
+        "Google Cloud Platform (GCP)",
+        "Python (Programming Language)",
+        "TensorFlow",
+        "Flask",
+        "SQL",
+        "Kotlin",
+        "C (Programming Language)",
+        "C++",
+        "Cascading Style Sheets (CSS)",
+        "Keras",
+        "JavaScript",
+        "Python",
+        "JSON",
+        "API",
+        "R",
+        "High Performance Computing (HPC)",
+        "Data Engineering",
+        "Cloud Computing",
+        "Feature Engineering",
+        "Java",
+        "Recurrent Neural Networks (RNN)",
+        "Deep Neural Networks (DNN)",
+        "Convolutional Neural Networks (CNN)",
+        "Computer-Aided Design (CAD)",
+        "Android Development",
+        "Arduino",
+        "Microsoft Excel"
+      ]
+    },
+    "social_handles": {
+      "dev_platform_identifier": {
+        "profile_url": null
+      },
+      "professional_network_identifier": {
+        "profile_url": "https://www.linkedin.com/in/vismay-ravikumar"
+      },
+      "twitter_identifier": {
+        "slug": ""
+      }
+    },
+    "crustdata_person_id": 1060687
+  }
+}

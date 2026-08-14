@@ -1,0 +1,149 @@
+{
+  "luma_user_id": "usr-59F9vGBnWJGXHwn",
+  "csv_name": "Alan Yu",
+  "csv_linkedin": "https://www.linkedin.com/in/alanzyu",
+  "enriched_at": "2026-08-12T18:55:27.683120+00:00",
+  "batch_id": "sd_msqg7js7a7y0irwot",
+  "profile": {
+    "id": "alanzyu",
+    "name": "Alan Yu",
+    "city": "North York, Ontario, Canada",
+    "country_code": "CA",
+    "position": null,
+    "about": null,
+    "current_company": {
+      "link": "https://www.linkedin.com/company/pave-robotics?trk=public_profile_topcard-current-company",
+      "name": "Pave Robotics (YC W25)",
+      "company_id": "pave-robotics",
+      "location": null
+    },
+    "experience": null,
+    "url": "https://ua.linkedin.com/in/alanzyu",
+    "educations_details": "University of Michigan",
+    "education": [
+      {
+        "title": "University of Michigan",
+        "url": "https://www.linkedin.com/school/university-of-michigan/",
+        "start_year": "2025",
+        "end_year": "2028",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      },
+      {
+        "start_year": "2019",
+        "end_year": "2025",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      }
+    ],
+    "avatar": "https://media.licdn.com/dms/image/v2/D5603AQGzYBhIZhOQMA/profile-displayphoto-scale_200_200/B56Zkwc_bXJ0AY-/0/1757454536088?e=2147483647&v=beta&t=MpebfKNlV2cyTWsPnVHLUW95_kvYq_5Smz1NPsN3yMQ",
+    "followers": 669,
+    "connections": 500,
+    "current_company_company_id": "pave-robotics",
+    "current_company_name": "Pave Robotics (YC W25)",
+    "location": "North York",
+    "input_url": "https://www.linkedin.com/in/alanzyu",
+    "linkedin_id": "alanzyu",
+    "activity": [
+      {
+        "interaction": null,
+        "link": "https://www.linkedin.com/posts/hansvador_weve-got-a-problem-v1s-demo-day-is-next-activity-7448080172139982852-Xx7A",
+        "title": "We\u2019ve got a problem. V1\u2019s Demo Day is next Thursday and you haven\u2019t RSVP\u2019d yet. No joke, I learned so much from watching my friends and classmates present at Demo Day last semester. It makes you expect more from yourself. It makes you want to become a better builder. Pull up next Thursday. See me, see the new cohort, and see what they\u2019ve built. \ud83d\udcc5 April 16th \u00b7 6:30 \u2013 9:00 PM \ud83d\udccd Blau Colloquium Link in comments",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQFoViAlT6gPEg/feedshare-shrink_800/B56Z1zlcm_IUAg-/0/1775760690769?e=2147483647&v=beta&t=J4Pvi28TLhn1rWtAMFfUS6Oe9caM1GIBYUqjy_ACUeE",
+        "id": "7448080172139982852"
+      },
+      {
+        "interaction": null,
+        "link": "https://www.linkedin.com/posts/hansvador_i-dont-think-anyone-is-ever-fully-qualified-activity-7438324696787578880-L0O3",
+        "title": "I don\u2019t think anyone is ever fully qualified when they take on a new project. Regardless of what they\u2019re doing. Alan Yu and I certainly weren\u2019t when we decided to build a robot in our dorm last semester. We were: - first-year engineering students - with little to no design or CAD experience - who had never touched an embedded system - and probably shouldn\u2019t be trusted with electronics in general So why on earth did we want to build a six-legged robot? I could tell you about how I think hardware modularity is the future. I could pitch you on how designs are moving away from big, rigid structures to flexible, plug-and-play components that can be swapped, upgraded or repurposed on the fly. I could walk you through how a modular architecture dramatically shortens iteration cycles, with each component as an independent unit you can test, break, and rebuild without touching the rest. I could even explain to you how that same modularity means swapping out an end effector for a different task\u2014a gripper, a sensor, a drill\u2014takes minutes, not a full redesign. But really, we just thought it would be fun. V1 @ Michigan \u2019s Product Studio\u2014an incubator where builders take ideas from \u2018maybe\u2019 to working product\u2014encouraged us to run with it. We felt that we\u2019d learn a lot from building it, even if it didn\u2019t work. But it worked. Well, sort of. After a few weeks of hard work, we had a moving, modular hexapod robot. As you can imagine, a dorm room isn\u2019t exactly a robotics factory, and our setup was far from perfect. But seeing it actually move\u2026 that made every late night, every soldering burn worth it. So next time you have some wild new idea and an itch to build it\u2014you should probably just say yes ;) *pictured below: the bot taking its first steps.*",
+        "img": "https://media.licdn.com/dms/image/v2/D5605AQHZz_0GOtPMXw/videocover-high/B56Zzo82hiKsBY-/0/1773434796436?e=2147483647&v=beta&t=i3D6xEeDkXJHvLhuza00sfotiLX7xwXHLdiAB7EeINc",
+        "id": "7438324696787578880"
+      },
+      {
+        "interaction": null,
+        "link": "https://www.linkedin.com/posts/v1-michigan_y-combinator-is-the-worlds-premier-startup-activity-7425584099576143872-hkCg",
+        "title": "Y Combinator is the world\u2019s premier startup accelerator, and V1 is the bridge connecting YC to Michigan founders. This February, YC is back on campus! At last years event, we: - Connected 350+ UMich students with YC - Hosted 15+ YC coffee chats - Saw 9 Michigan students get accepted into YC in the following batches - Continued building a community that has produced 6 YC-backed companies, including AgentMail (YC S25) , Embedder , and Orange Slice . This year, YC partners Jared Friedman , Ankit Gupta , and Harshita Arora are coming back to Michigan for a fireside chat \u2014 and coffee chats you won\u2019t get anywhere else. \ud83d\udd25 These coffee chats are GUARANTEED 15-minute 1:1\u2019s with YC partners. Ask them about advice on your startup ideas, what they look for in a founder, how to grow your startup, and much more. Spots are limited. RSVP now!! Fireside Chat: \ud83d\udccd Michigan Union \u2013 Rogel Ballroom \ud83d\udcc5 Thursday, February 19 \ud83d\udd54 5:00\u20137:00 PM \ud83d\udc49 RSVP: https://lnkd.in/gREMSWeP Coffee Chats: \ud83d\udccd Location TBD \ud83d\udcc5 Thursday, February 19 \ud83d\udd54 10:00 AM\u20134:00 PM \ud83d\udc49 RSVP: https://lnkd.in/gN3ndddy",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQHfZHYpNfSpQw/feedshare-shrink_800/B56ZwwQXqOKAAg-/0/1770336123822?e=2147483647&v=beta&t=29THC3EA1KirF7pj7cMNml9YVYPeb9RXllmFqXmQsgI",
+        "id": "7425584099576143872"
+      },
+      {
+        "interaction": "Alan Yu commented on a post 3w",
+        "link": "https://www.linkedin.com/posts/y-combinator_rational-yc-s26-builds-ai-employees-for-activity-7483943631490535424-sqLO",
+        "title": "Christ Xu \ud83d\udc10\ud83d\udc10",
+        "img": null,
+        "id": "7483943631490535424"
+      },
+      {
+        "interaction": "Alan Yu liked this",
+        "link": "https://www.linkedin.com/posts/sophia-klima_intriciti2026summerseries-activity-7490758443176210432-MfqR",
+        "title": "Incredibly grateful to have been invited as a guest panelist for the Intriciti 2026 Summer Series: On Generations Speaking alongside Dr. Colleen Batchelder (Writer, Forbes) and Jhonnattan Meneses (Boutique Director, Hublot LVMH), we explored how organizations can bridge generational gaps and better understand the expectations, values, and leadership styles of the next generation entering the workforce. As the student representative on the panel, I had the privilege of reflecting on my experiences during my first year at New York University -- from interning at a student-led AI startup to discussing how students navigate mentorship, faith, and career development while living in New York City. We also explored how corporations can create internship experiences that empower Gen Z to contribute beyond traditional work expectations, such as by prioritizing an authentic workplace culture. Thank you to Alana Walker Carpenter , Carter Carpenter , and the Intriciti team for the invitation to have such a thoughtful discussion! #Intriciti2026SummerSeries",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQFahINdkq6m3w/feedshare-shrink_1280/B56Z_SFHC7JgAM-/0/1785935983003?e=2147483647&v=beta&t=N8ZXF3od7jb3MTZp37I0YwqZUsLM5Un0amTV1QDGnqs",
+        "id": "7490758443176210432"
+      },
+      {
+        "interaction": "Alan Yu liked this",
+        "link": "https://www.linkedin.com/posts/y-combinator_vestris-yc-s26-runs-the-entire-real-estate-activity-7491206475646754817-PRvZ",
+        "title": "Vestris (YC S26) runs the entire real estate closing process. Title insurance is the thorn in the side of every home purchase in America, and almost nobody who buys it can tell you what it does. Behind the scenes, someone is opening emails one at a time as files and paperwork crawl through, manually copying info from pieces of paper. The \"modern\" software is a decade-old database most small shops can't even afford. So founders Aahil Valliani and Joshua Tang spent months working inside mom-and-pop title shops, closing real files alongside the processors, and built Vestris. It reads every document the moment it lands, pulls county records, drafts the title commitment, and reconciles the closing disclosure. Nothing goes out without a human signing off. Processors are handed a file with the busywork already done, so they can spend their time making judgment calls and the work clients actually remember: walking someone through the biggest purchase of their life. Vestris is already running alongside a shop settling millions in deals a month. Learn more at vestris.ai or reach out at founders@vestris.ai . Congrats on the launch, Aahil and Joshua! \ud83d\ude80 https://lnkd.in/gsMjiUm4",
+        "img": "https://media.licdn.com/dms/image/v2/D5605AQEPcU3jDPLM_Q/videocover-high/B56Z_YB8VeHUBM-/0/1786035824046?e=2147483647&v=beta&t=h9fhFcNQcqmoVcT5F1LOybONvXpvoeTLZOgz1MXVAH0",
+        "id": "7491206475646754817"
+      },
+      {
+        "interaction": "Alan Yu liked this",
+        "link": "https://www.linkedin.com/posts/generalistai_why-create-robot-intelligence-for-just-one-activity-7486059772383834112-LC-C",
+        "title": "Why create robot intelligence for just one hand, when we could have it learn from many? GEN-1, our latest embodied foundation model, now supports a broad range of end effectors from 5-finger hands, to specialized tools, and everything in between. Each hand is a different sensorimotor interface by which GEN-1 experiences the physical world. Scaling pretraining across thousands of these interfaces teaches GEN-1 a universal physical commonsense that transfers to new hands and new ways to grasp, push, pull, twist, and more. Nature didn\u2019t converge on just a single solution for manipulating the physical world. It exploded into millions. You can see this everywhere in the diversity of life around us: from the beak of a bird, to the trunk of an elephant, from the suction pads of an octopus, to the pollen baskets of a honeybee. The human hand is only a single point in a design space so large we\u2019ve barely begun to map. For machines, five-fingered hands will just be one tool among many; limiting robots to only that would be a failure of imagination. If we can build general intelligence that understands the underlying physics of interaction, then the shape of the hand becomes secondary to the intelligence that drives it. A suction pad, a gripper, a brush, a plasma welding nozzle \u2013 are all just different interfaces through which the same intelligence can reshape the physical world. The future of robot hands won\u2019t look like ours. It will look more like a toolbox with a thousand hands: augmented, recombined, and scaled. Robots were always meant to extend what humans can do \u2013 to empower people to shape the physical world in places and at scales we never could before. Read more about our work in the link in the comments below \ud83d\udc47",
+        "img": "https://media.licdn.com/dms/image/v2/D4E05AQGZKATU0-yFtA/videocover-high/B4EZ.PTo59JUBM-/0/1784815720829?e=2147483647&v=beta&t=FBLi7Ah48Nbqr8W11siacraj8L1_eIDUJU2Jzj9pgWU",
+        "id": "7486059772383834112"
+      },
+      {
+        "interaction": "Alan Yu liked this",
+        "link": "https://www.linkedin.com/posts/y-combinator_rational-yc-s26-builds-ai-employees-for-activity-7483943631490535424-sqLO",
+        "title": "Rational (YC S26) builds AI employees for accounting. Over 300,000 accountants have left the field in the past 5 years, and the talent shortage has led firms to reject clients and revenue because of a lack of capacity. That ends today. Rational's AI employees handle grunt work that never required human expertise, but which new software can\u2019t handle at enterprise security, scale, or completeness. They onboard themselves, know when to request human approval, and get you from 0 to 10, in a fraction of the time. From document chasing to research to tax preparation, our employees supplement your firm\u2019s labor without the significant onboarding curve or cost of a new hire. Rational already works with every firm size: from individuals to Fortune Global 500 companies. Visit rational.to/book-demo and hire your first AI employee today. Congrats on the launch, Jibril Moinuddin and Christ Xu ! \ud83d\ude80 https://lnkd.in/g7jfWapZ",
+        "img": "https://media.licdn.com/dms/image/v2/D5605AQGhZhJGzjkt_Q/videocover-high/B56Z9xAi._G0BM-/0/1784307406135?e=2147483647&v=beta&t=H5j6yXdS-njRLtmkL4jwy7P9m8zBammsygRK4FP5hTo",
+        "id": "7483943631490535424"
+      },
+      {
+        "interaction": "Alan Yu liked this",
+        "link": "https://www.linkedin.com/posts/adamhmlee_brookfieldrenewable-renewableenergy-universityofwaterloo-activity-7481154838819446784-S8zX",
+        "title": "I spent my past weekend competing at the S26 Brookfield Renewable Innovation Challenge in Waterloo - successfully winning the \"Best Impact\" award. Working with Victor Sabbagh , Ayaan Ghauce , Amyn Aung , and Julian Kapalanga , we combined our strengths to design Waterloos EnerSmart System. Specifically retrofit to the Psychology, Anthropology, and Sociology building (PAS) at Waterloo. Among the features of our design including solar panels, maintenance robots, and sensory HVAC and lighting systems, I was responsible for maximizing the natural light in an otherwise \"gloomy\" building through innovative architectural and structural concepts - my area of expertise. I began by examining the building's existing floorplans closely, searching for low-cost, high-impact opportunities to brighten the space: \u2022 Areas with existing windows: Interior glazing and strategic partitions on non-load-bearing walls to allow daylight to penetrate deeper into the building, supported by light shelves to further distribute light \u2022 Deeper, windowless areas (half of the building): Tubular daylight devices (TDDs). More expensive, but a minimally invasive solution to reliably channel natural light across multiple floors while reducing daytime lighting demand My contributions would effectively reduce overall daytime lighting demand and improve the mental health and well-being of students. Our group also accounted for engineering economics, lifecycle cost analysis, greenhouse gas reduction calculations, implementation planning, and return-on-investment modelling. I'm grateful to Brookfield Renewable and the University of Waterloo for an incredible competition, and for the opportunity to learn from Brookfield executives alongside such an amazing team. #BrookfieldRenewable #RenewableEnergy #UniversityofWaterloo",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQFNvRWc72NcmQ/feedshare-shrink_800/B56Z9JUAOaHcAc-/0/1783641409387?e=2147483647&v=beta&t=eMrtuHIctgcVJW_LIfBthM8pjMMcEtnzkDkaVATVoAE",
+        "id": "7481154838819446784"
+      },
+      {
+        "interaction": "Alan Yu liked this",
+        "link": "https://www.linkedin.com/posts/charlie-leversha-ab0891196_what-makes-a-great-engineer-just-over-a-activity-7479984929691394048-hnpM",
+        "title": "What makes a great engineer? Just over a year ago, if you'd asked me what a software engineer actually does, I couldn't have told you much beyond \"they write code.\" A side effect of growing up in a family with no ties to tech. Last night I visited Palo Alto for the first time. I overheard a conversation between two people (outside of the Amazon office, of all things), and one of them said this: \"A great engineer is someone who tries to obsolete themselves. From everything they do.\" I\u2019m now in a position where I actually work alongside engineers: in my internship and in V1. While I can\u2019t claim to do their jobs, that line feels like a nice guiding principle for almost any kind of work. If I can obsolete myself from a task, automate the mundane parts and hand off the repetitive stuff, then I trust that there\u2019s a better problem waiting for me on the other side. Agree or disagree? p.s. To the guy who drove by with the \u201c10XENGR\u201d license plate, you have my heart",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQFnJjjJOLESTg/feedshare-image-high-res/B56Z84.pe9IUAU-/0/1783367377376?e=2147483647&v=beta&t=xj4TFcCUj9CZntsfiHCTlI_cH8P65tG4eb6UKz-1WVw",
+        "id": "7479984929691394048"
+      },
+      {
+        "interaction": "Alan Yu liked this",
+        "link": "https://www.linkedin.com/posts/charlie-leversha-ab0891196_so-the-last-time-i-visited-sf-was-june-2010-activity-7478868166321012736-ThgF",
+        "title": "so the last time i visited sf was june 2010. for some context\u2026 - Toy Story 3 had just released in theatres - Spain was on their way to winning their first World Cup in history - Apple had unveiled the iPhone 4 - 4G was becoming a thing - most YouTube videos were in 240 or 360p - people were still receiving DVDs by mail - the \u201cmobile revolution\u201d was in 4 World Cups and 2 Toy Stories later, i\u2019m interning as a product manager remotely and decided i\u2019d spend the next few weeks getting reacquainted with the city. if you\u2019re in sf and want to talk about product, startups, marketing, storytelling, or where i can find the best double espresso, i\u2019d love to chat. feel free to leave a comment or message me directly :)",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQEY8XIYwBprUA/feedshare-image-high-res/B56Z8pG9QcH4AY-/0/1783101120095?e=2147483647&v=beta&t=OqHwOPp0u5M_NQgzj-jsBRlpfXEpdKE1jk_YQORVRDk",
+        "id": "2010"
+      }
+    ],
+    "linkedin_num_id": "1573811548",
+    "banner_image": "https://static.licdn.com/aero-v1/sc/h/5q92mjc5c51bjlwaj3rs9aa82",
+    "honors_and_awards": null,
+    "similar_profiles": [],
+    "default_avatar": false,
+    "memorialized_account": false,
+    "bio_links": [
+      {
+        "title": "Personal Website",
+        "link": "https://alanzyu.dev/"
+      }
+    ],
+    "first_name": "Alan",
+    "last_name": "Yu",
+    "influencer": false,
+    "timestamp": "2026-08-12T18:54:35.936Z",
+    "input": {
+      "url": "https://www.linkedin.com/in/alanzyu"
+    }
+  },
+  "local_photo": "data\\linkedin_photos\\alanzyu__usr-59F9vGBnWJGXHwn.jpg"
+}

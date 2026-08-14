@@ -1,0 +1,213 @@
+{
+  "luma_user_id": "usr-ENFIsg09kusq9zr",
+  "csv_name": "Shanay Gaitonde",
+  "csv_linkedin": "https://www.linkedin.com/in/shanay-gaitonde",
+  "enriched_at": "2026-08-12T19:16:49.720925+00:00",
+  "batch_id": "sd_msqgxyk1xj7v4ip1",
+  "profile": {
+    "id": "shanay-gaitonde",
+    "name": "Shanay Gaitonde",
+    "city": "San Francisco Bay Area",
+    "country_code": "US",
+    "position": null,
+    "about": "Passionate about building at the intersection of AI, systems design, and finance.",
+    "current_company": {
+      "link": "https://www.linkedin.com/company/openswarm?trk=public_profile_topcard-current-company",
+      "name": "Open Swarm",
+      "company_id": "openswarm",
+      "location": null
+    },
+    "experience": null,
+    "url": "https://www.linkedin.com/in/shanay-gaitonde",
+    "educations_details": "UC San Diego",
+    "education": [
+      {
+        "start_year": "2022",
+        "end_year": "2026",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      },
+      {
+        "start_year": "2024-06",
+        "end_year": "2024-08",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      }
+    ],
+    "avatar": "https://media.licdn.com/dms/image/v2/D5603AQGveFKV0d9ZWw/profile-displayphoto-scale_200_200/B56Z4kSTDYKEAc-/0/1778725241050?e=2147483647&v=beta&t=FPR2XKn27PssVtsCsP1EgcdBGxk_0DuyqK4ZO34SQ_k",
+    "languages": [
+      {
+        "subtitle": "Native or bilingual proficiency",
+        "title": "English"
+      },
+      {
+        "subtitle": "Elementary proficiency",
+        "title": "Spanish"
+      },
+      {
+        "subtitle": "Professional working proficiency",
+        "title": "Marathi"
+      }
+    ],
+    "certifications": [
+      {
+        "meta": "Issued Jul 2024 See credential",
+        "subtitle": "Codecademy",
+        "title": "Learn Java Course",
+        "credential_url": "https://www.codecademy.com/profiles/shanayGaitonde9349097820/certificates/d3f89367b558583e361640f778191345?trk=public_profile_see-credential",
+        "credential_id": null
+      },
+      {
+        "meta": "Issued Jun 2024 See credential",
+        "subtitle": "Coursera",
+        "title": "Supervised Machine Learning: Regression and Classification",
+        "credential_url": "https://coursera.org/verify/W7UNTY9LEGAW?trk=public_profile_see-credential",
+        "credential_id": null
+      },
+      {
+        "meta": "Issued Aug 2023 See credential",
+        "subtitle": "Codecademy",
+        "title": "Learn Intermediate Python 3 Course",
+        "credential_url": "https://www.codecademy.com/profiles/shanayGaitonde9349097820/certificates/18580789eaba28f09e116f4fc2acec44?trk=public_profile_see-credential",
+        "credential_id": null
+      },
+      {
+        "meta": "Issued Feb 2023 See credential",
+        "subtitle": "Codecademy",
+        "title": "Learn Python 3 Course",
+        "credential_url": "https://www.codecademy.com/profiles/shanayGaitonde9349097820/certificates/6c152bd262967f8c941c9707ed636bda?trk=public_profile_see-credential",
+        "credential_id": null
+      }
+    ],
+    "followers": 804,
+    "connections": 500,
+    "current_company_company_id": "openswarm",
+    "current_company_name": "Open Swarm",
+    "location": null,
+    "input_url": "https://www.linkedin.com/in/shanay-gaitonde",
+    "linkedin_id": "shanay-gaitonde",
+    "activity": [
+      {
+        "interaction": null,
+        "link": "https://www.linkedin.com/posts/pranavachar_ondeviceai-executorch-pytorch-activity-7482575523974586368-WkTU",
+        "title": "Thrilled to share that our team took 2nd place at the Qualcomm \u00d7 Meta ExecuTorch Hackathon with SixthSense, and got featured on the official PyTorch blog. SixthSense is a wearable navigation aid for blind and low-vision users. The goal was simple to say and hard to do: give someone real-time spatial awareness with no cloud connection, no data plan, and no phone dying in ten minutes. Everything runs fully on-device on a single Galaxy S25, in airplane mode: \u2022 Depth-Anything-V2 for monocular depth \u2022 YOLOv11 for object detection \u2022 Qwen2.5 as an offline voice agent \u2022 OCR for reading signs and labels A chest-mounted phone sees the world and steers the wearer through a directional haptic belt over BLE, backed by a fully offline voice assistant. No servers, no latency spikes, no privacy tradeoffs. I built the Android and ExecuTorch vision pipeline plus the on-device LLM voice agent. Getting four models to run together in real time on consumer hardware stretched everything I thought I knew about edge AI. Big thanks to Qualcomm and Meta for the hardware and the challenge, to the PyTorch and ExecuTorch teams, and to my teammates Sahiel Bose , Shanay Gaitonde , Anirudha Das who built this with me in a single weekend. Accessibility should not depend on a signal bar. This is one small step toward that. PyTorch blog: https://lnkd.in/gpktj_62 #OnDeviceAI #ExecuTorch #PyTorch #EdgeAI #Accessibility #ComputerVision #Qualcomm #Meta ...more ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQEbibz0UaAK8Q/feedshare-image-high-res/B56Z9dyyXyKEAU-/0/1783985023176?e=2147483647&v=beta&t=DHGDzKjhahgLKqXabL_n56q1ib1gd5RG4NJXwOaT6C4",
+        "id": "7482575523974586368"
+      },
+      {
+        "interaction": null,
+        "link": "https://www.linkedin.com/posts/sahiel-bose_we-won-2nd-place-at-the-qualcomm-x-meta-x-activity-7482567231504023552-M-kT",
+        "title": "We won 2nd Place at the Qualcomm x Meta x PyTorch Hackathon, and also took home a pair of Ray Ban Meta Glasses. We built SixthSense: https://lnkd.in/gBRda3rU SixthSense is a wearable system that uses on-device sensors to detect crowd density and proximity, then delivers haptic feedback to help users navigate spaces more safely and confidently, all running locally on the edge with no cloud dependency. Thanks to Derrick J. , Emre Gumus , and Lauren Lunde from Qualcomm for talking through on-device AI with us and how to actually get models running locally on the edge. Rafael Levi from Bright Data checked in with us throughout the build and kept pushing us to not give up. Siddartha Pothapragada from Meta gave us honest feedback on the demo that made us rework it. Julia Kasper from GitHub helped us out along the way too. Thank you to my team, Shanay Gaitonde , Pranav Achar , and Anirudha Das , for building this with me. And thanks to ExecuTorch, GitHub , lablab.ai , and Bright Data for hosting. ...more ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQGhV2g9FJ9Fxw/feedshare-shrink_800/B56Z9drPkKGgAc-/0/1783983045439?e=2147483647&v=beta&t=ATTbGxSstLGLG-MsMDTf-7y9LRSmTf9CEHanbcbJejE",
+        "id": "7482567231504023552"
+      },
+      {
+        "interaction": "Shanay Gaitonde shared this",
+        "link": "https://www.linkedin.com/posts/shanay-gaitonde_super-excited-to-share-that-my-team-and-i-activity-7482567075434102784--St_",
+        "title": "Super excited to share that my team and I took 2nd place at the Qualcomm x Meta x ExecuTorch Hackathon. My team and I built SixthSense, an affordable wearable that helps blind and low-vision people understand the obstacles around them, not just detect them. A phone mounted on the chest watches the path ahead while on-device models read how near obstacles are in the left, center, and right zones. That drives a sub-$20 vibration belt that buzzes on the side of the nearest obstacle to steer the user toward open space. You can also ask what's ahead and hear a spoken answer, or point the camera at a sign and have its text read aloud. Everything runs locally and fully offline through ExecuTorch on a Qualcomm Snapdragon 8 Elite, using YOLOv11n, Depth-Anything-V2, Qwen2.5-0.5B, and ML Kit. Huge thanks to everyone who pushed our thinking. Derrick J. and Emre Gumus from Qualcomm for a great conversation about on-device AI and running models locally on the edge. Rafael Levi from Bright Data for feedback throughout the entire build, including the idea of adding sensors at the ankle, wrist, or in glasses to unlock new triggers. Siddartha Pothapragada from Meta for pushing us to think about making this a fully immersive experience, describing a scene completely enough that the user feels present in it. And Julia Kasper from GitHub for the insights along the way. Thank you to Qualcomm, Meta, GitHub, the PyTorch Foundation, lablab.ai , and Bright Data for hosting and bringing everyone together. And most importantly, thank you to my amazing teammates Pranav Achar , Sahiel Bose , and Anirudha Das . Couldn't have done it without you all. Onto the next one. Looking forward to more events like this and building even more. ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQFfMgDeEGkQGA/feedshare-shrink_800/B56Z9drGhUKEAc-/0/1783983008445?e=2147483647&v=beta&t=lDhF_miMFaEm_MWDkQGREkYx0s6laK7e0MmOHQr2PsM",
+        "id": "7482567075434102784"
+      },
+      {
+        "interaction": null,
+        "link": "https://www.linkedin.com/posts/pytorch_pytorch-foundation-supported-the-executorch-activity-7478552321296310272-25S0",
+        "title": "PyTorch Foundation supported the ExecuTorch Hackathon in San Francisco, where more than 100 participants across 20+ teams built real-time AI applications using PyTorch and ExecuTorch. Teams built on Snapdragon -powered Samsung Electronics Galaxy S25 Ultra devices, focusing on latency, offline capability, privacy-sensitive processing, energy efficiency, and real-time user experience. Congratulations to the winning teams: 1st Place: SafeScreen AI, an on-device visual safety layer 2nd Place: SixthSense, an assistive wearable that converts visual information into directional haptic signals 3rd Place: Toddle AI, a privacy-first prototype for analyzing toddler walking patterns locally The winning projects showed how local execution can support applications that require immediate feedback, limited connectivity, or sensitive data processing. Read the full recap from Matt White (PyTorch Foundation), Andrew Caples ( Meta ), and Lauren Lunde ( Qualcomm ): https://lnkd.in/ee5T5qFK ...more ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQHIchsgVFIxBA/feedshare-shrink_800/B4EZ8kntPQHsAc-/0/1783025816859?e=2147483647&v=beta&t=JwdlWfSNZhnC2nopSFjQJVJBeBMkG2RedeegKehzAYs",
+        "id": "7478552321296310272"
+      },
+      {
+        "interaction": null,
+        "link": "https://www.linkedin.com/posts/pranavachar_thrilled-to-share-that-we-won-1st-place-at-activity-7464501361766731777-JEKW",
+        "title": "Thrilled to share that we won 1st Place at the Scalekit x Apify x Entire.io Hackathon \ud83c\udfc6 Huge shoutout to my incredible teammates Sahiel Bose , Shanay Gaitonde , and Nithin Aruswamy . Couldn\u2019t have done it without you guys! Also, big thanks to Samuel Nvota for judging, Petros Hong from Apify and Tamilselvi Ramasamy from Scalekit for hosting, and Jakub Wolf from the Apify team for being there and supporting the event. Grateful for everyone we met and for an amazing hackathon experience. ...more ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQEN-LsfExtavA/feedshare-shrink_800/B56Z5c8akTJEAc-/0/1779675803207?e=2147483647&v=beta&t=tolFA2dbCBzBzDPagE4dePWah5XlvhM7K8t6D3rNyyA",
+        "id": "7464501361766731777"
+      },
+      {
+        "interaction": "Shanay Gaitonde liked this",
+        "link": "https://www.linkedin.com/posts/openai-for-startups_presenting-a-different-kind-of-outside-lands-activity-7490829697174618113-kJQD",
+        "title": "Presenting a different kind of Outside Lands lineup: 50 apps for the music festival, shipped in just five hours with ChatGPT Sites. \ud83e\udd18 Ahead of the 3-day Outside Lands music festival in Golden Gate Park, we partnered with CODEMKRS ( Trav Lauren ) to hack on solutions for artists, fans, and festival-goers. Builders used Codex and ChatGPT Sites to turn an idea into a live app you can refine and publish from the same workflow. Big congratulations to our top three: \ud83e\udd47 No Bars Given \u2014 James Hurlbut & Lindo Akkarach Helps festival crews find and message each other without cell service using Bluetooth mesh networking and AR. \ud83e\udd48 Stage Dancer \u2014 Petros Hong Dance on camera, build your score, and bring the whole room into one shared stage with a QR link. \ud83e\udd49 Artistory \u2014 Michael Yu Cycle through an artist's life, one stop at a time with a 3D story world. Try the winning apps and explore all 50 projects at https://outsidellms.com",
+        "img": "https://media.licdn.com/dms/image/v2/D4E05AQEQ6YsVLEo1Fg/videocover-high/B4EZ_TF30nH0BU-/0/1785952962243?e=2147483647&v=beta&t=VB0-6kzQO2Dt-UAs-FiY8XcPIat7EVfvMb1O2CPfZiQ",
+        "id": "7490829697174618113"
+      },
+      {
+        "interaction": "Shanay Gaitonde liked this",
+        "link": "https://www.linkedin.com/posts/anish-dhamija_mechanicalengineering-engineeringinternship-activity-7489832553680424960-ONe0",
+        "title": "Thank you Swope Design Solutions for this amazing Internship opportunity this summer. I\u2019ve had an incredible experience this summer learning more about mechanical engineering through hands-on work in CAD, prototyping, manufacturing, and design. I\u2019m grateful to the entire SDS team for welcoming me, sharing their knowledge, and giving me the opportunity to contribute to real engineering projects. Excited to carry everything I\u2019ve learned into my future work in robotics and mechanical engineering! #MechanicalEngineering #EngineeringInternship #Robotics #SwopeDesignSolutions",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQF0y-VCqeIl8Q/feedshare-shrink_800/B56Z9xWGd5HUAc-/0/1784313047232?e=2147483647&v=beta&t=TMf0jGzo6nxvPRCozGNi7OMIaA85AETeY-PnQ55C_xY",
+        "id": "7489832553680424960"
+      },
+      {
+        "interaction": "Shanay Gaitonde liked this",
+        "link": "https://www.linkedin.com/posts/prakash-ach_hackathon-buildinpublic-auth0-activity-7488820649923145728-CnBR",
+        "title": "And guess what? We\u2019ve won the First Prize of the Auth0 \u00d7 Stripe hackathon! \ud83c\udfc6\ud83c\udf89 That\u2019s such a fun journey full of creation, learning, teamwork, and even a lack of sleep. Many thanks to my awesome teammates Ali Amjad and Gergana Dragoeva Quievy for adding so many fresh ideas and energy during the whole hackathon. Thanks to all the organizers, mentors, judges and everyone - Mira Sharma , Siva Venugopal , Gabriela de Queiroz , Shreya Gupta , Calah Vargas else who was behind this awesome event. The prize is a confirmation that great things happen when people work together to create. Can\u2019t wait to tell you more about our product. \ud83d\ude80 #Hackathon #BuildInPublic #Auth0 #Stripe",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQGW8u1k3c7EUg/feedshare-shrink_1280/B56Z.2isjKHYAM-/0/1785473976753?e=2147483647&v=beta&t=a64pqnXibAWbse_r-2ZwDJCr-324WJ0GGd92d8Zz4nQ",
+        "id": "7488820649923145728"
+      },
+      {
+        "interaction": "Shanay Gaitonde liked this",
+        "link": "https://www.linkedin.com/posts/meetsoham_what-better-time-to-get-back-into-hackathons-activity-7487220206243606528-NLBX",
+        "title": "what better time to get back into hackathons than Y Combinator startup school weekend? turns out, there's none better. the team and i won 2nd overall at the XTrace x Berkeley Summit House x Stanford University hackathon, taking home $1,500 and some clout. huge shoutout to the guys Rameez Malik Wali Viqas Prakhar Gupta . couldn't have been done without you all. we built Renovate, a first of its kind, all-in-one confidence layer for aspiring property renovators. here's the issue: most property owners don't have a CLUE about the true scope of that renovation project they've been considering without consulting 5 different contractors and getting conflicting prices. suddenly, a week-long backyard expansion turns into a multi-month back and forth between contractors, county offices, etc. our tool used a home address, natural language project ideation (ie. add two bathrooms), and a floor-plan to provide users with before-after property layouts, price ranges, comparison tools for similar project in the area, all within a self-improving architecture enabled by XTrace . big thanks to Austin Cai , Felix Meng and team for the awesome event + judges from NVIDIA , Electronic Arts (EA) , and General Motors , among others for the feedback!",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQFsoqp072fITg/feedshare-shrink_800/B56Z.dE7mTIUAc-/0/1785046743937?e=2147483647&v=beta&t=4iU1ZAz00LHj_q8FNNberT_HIZAmIRgxqLU6y-Q2fWw",
+        "id": "7487220206243606528"
+      },
+      {
+        "interaction": "Shanay Gaitonde liked this",
+        "link": "https://www.linkedin.com/posts/kabirkoratkar_went-down-a-rabbit-hole-on-what-happens-when-activity-7486646052591202304-k2Za",
+        "title": "Went down a rabbit hole on what happens when one AI agent fails. Built ForkLab around it solo & won Best Use of Braintrust at Daytona HackSprint. ForkLab tests recovery policies by replaying the same distributed-system failure across eight isolated environments. Across 160 episodes with 48 simulated agents, failure broadcasting reduced fleet-wide retry cascades from 22.5% to 0%. The placebo stayed at 22.5%, while added latency increased failures to 40.625%. Braintrust was the backbone of the project. It captured the hypothesis, infrastructure checks, experiments, results, and validity scores in one auditable trace hierarchy. More than showing whether a run completed, Braintrust helped verify that the experiment used consistent conditions, passed its controls, and produced evidence worth trusting. Really appreciate the team for building observability tooling that could serve as the scientific record for the entire project. Devpost: https://lnkd.in/gU2FMYKg",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQEKUCPwL3z96A/feedshare-shrink_800/B56Z.Xo5_qIMAk-/0/1784955512422?e=2147483647&v=beta&t=UlPzRS6hwZ8kejpf1ds8FEdbooH-en0JnHffaMpwDCg",
+        "id": "7486646052591202304"
+      },
+      {
+        "interaction": "Shanay Gaitonde liked this",
+        "link": "https://www.linkedin.com/posts/skyelam_matcha-mahjong-manhattan-the-big-three-activity-7485758794891698176-Nd4Q",
+        "title": "Matcha. Mahjong. Manhattan. The big three. Entrepreneurs First is coming to NYC next week to meet students and interns interested in learning more about startups. To kick things off, I'm hosting an evening rooftop social next Thursday, July 30th, with good conversation and even better people. You'll also get to meet some incredible individuals helping to shape what's next: Ryan Kiernan , Sophie Zhang , Yash Alluri , Carolyn He , and Andrew Fan . Invite only, and spots are limited. What have you built, or what do you want to build next? Comment below or DM me directly for the link.",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQGJBIXbiBVRMw/feedshare-shrink_1280/B56Z.LB9K3IQAQ-/0/1784743973918?e=2147483647&v=beta&t=DSuZGLwDqN3jDYeJ9L_41RGPgR-67eA-DCjcA4TwyPM",
+        "id": "7485758794891698176"
+      },
+      {
+        "interaction": "Shanay Gaitonde liked this",
+        "link": "https://www.linkedin.com/posts/aruswamy_i-taught-at-uc-berkeley-before-turning-18-activity-7485396942076788737-NHgi",
+        "title": "I taught at UC Berkeley before turning 18, before even starting as an undergrad student My journey at Cal began during my junior summer at the MET Innovation Academy (MET.ia), where late-night brainstorms with peers from Brazil to Turkey introduced me to Berkeley\u2019s entrepreneurial community. I returned soon after for the Berkeley Business Academy for Youth (B-BAY), where I learned the same product-validation process as Haas MBA students. I eventually became a Peer Leader, helping other students navigate the process I had once experienced myself. This summer, I became a Teaching Assistant for B-BAY\u2019s inaugural Summer Founder Bootcamp\u2014a first-of-its-kind accelerator, designed for high school founders with existing traction. It\u2019s exactly the kind of program I wish I had when I was in high school! Over 2 weeks at Haas, I mentored 20+ founders as they worked to scale their startups through co-working sessions, guest-speaker series, demo pitches, and an inspiring trip to Founders, Inc. Yet through their ambition, uncertainty & growth, I'm confident I learned just as much as they did. Thank you to Asra Khan , Soorbhi Khadilkar , Adam Ross , Coco Zhang & Maher Penglin for trusting me with this opportunity\u2014and to my fellow TAs, Linda An , Ivy Zhang & Akiyo Tani , for making it unforgettable. My job's not finished. This fall, I'll return to Cal\u2014this time as an official student. Go BEARS! \ud83d\udc3b",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQE0TDHx_63KYA/feedshare-image-high-res/B4EZ.C82MbIcAY-/0/1784608416983?e=2147483647&v=beta&t=e7QIfCW2VeRkObs9mV7-G2ar-30sZhKVPVl-nesIddc",
+        "id": "18"
+      },
+      {
+        "interaction": "Shanay Gaitonde liked this",
+        "link": "https://www.linkedin.com/posts/lablab-ai_we-gave-30-teams-48-hours-snapdragon-chips-activity-7484985634751799299--jol",
+        "title": "We gave 30 teams 48 hours, Snapdragon chips, and one rule: no cloud allowed. A few weeks ago in San Francisco, we hosted the ExecuTorch Hackathon - two days of builders turning PyTorch models into real, on-device AI running on Snapdragon-powered Samsung Galaxy S25 Ultra hardware. Everything from offline accessibility tools and on-device memory assistants to privacy-first medical scribes and a disaster-response AI mesh network - all running fully local, zero cloud. None of it happens without this lineup: \ud83d\udd39 Qualcomm - for Snapdragon, the AI Hub, and mentors on the floor all weekend \ud83d\udd39 Meta - for ExecuTorch itself, the whole reason on-device AI was buildable in 48 hours \ud83d\udd39 Samsung - for the Galaxy S25 Ultra devices that turned every idea into a live demo And the biggest shoutout goes to Bright Data \ud83d\ude4c - who opened up The Web Data Loft, their own San Francisco home, and hosted the entire hackathon under their roof. Workshops, mentoring, debugging sessions, the final demos - all of it happened because Bright Data said \"our space is yours.\" If you're building in SF and haven't been to the Loft, you're missing one of the best builder spaces in the city. Still buzzing about what these teams shipped in 48 hours. Check all the amazing projects that came out of this hackathon here: https://lnkd.in/d5QjJJKz",
+        "img": "https://media.licdn.com/dms/image/v2/D4D22AQFPI7B3Et0B_g/feedshare-image-high-res/B4DZ9_0.7oGYAU-/0/1784556024274?e=2147483647&v=beta&t=EZzqEDU0eKee5fEjVMPR-Rd_fXSbtnG0E7jZEKr6mAA",
+        "id": "30"
+      }
+    ],
+    "linkedin_num_id": "1344054065",
+    "banner_image": "https://media.licdn.com/dms/image/v2/D5616AQHYaBQNn_AGIw/profile-displaybackgroundimage-shrink_200_800/B56Z8pL2i2KEAY-/0/1783102401826?e=2147483647&v=beta&t=MxwwhOCwMwe4OwDAbzZK4th4uL5_4znE_SN72ZN5PsQ",
+    "honors_and_awards": [
+      {
+        "title": "2nd Place @ Qualcomm x Meta Hackathon",
+        "publication": "Qualcomm, Meta, Executorch",
+        "date": "2026-06-01T00:00:00.000Z",
+        "description": null
+      },
+      {
+        "title": "1st @ Scalekit x Apify Hackathon",
+        "publication": "Scalekit, Apify",
+        "date": "2026-05-01T00:00:00.000Z",
+        "description": null
+      }
+    ],
+    "similar_profiles": [],
+    "default_avatar": false,
+    "memorialized_account": false,
+    "bio_links": [],
+    "first_name": "Shanay",
+    "last_name": "Gaitonde",
+    "influencer": false,
+    "timestamp": "2026-08-12T19:15:02.268Z",
+    "input": {
+      "url": "https://www.linkedin.com/in/shanay-gaitonde"
+    }
+  },
+  "local_photo": "data\\linkedin_photos\\shanay-gaitonde__usr-ENFIsg09kusq9zr.jpg"
+}

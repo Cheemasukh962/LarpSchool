@@ -1,0 +1,71 @@
+{
+  "luma_user_id": "usr-GwKhzxXeDvWE9DF",
+  "csv_name": "Kevin Xie",
+  "csv_linkedin": "https://www.linkedin.com/in/kevinxie06",
+  "enriched_at": "2026-08-12T19:11:36.259744+00:00",
+  "batch_id": "sd_msqgoa0o2hh62sia9d",
+  "profile": {
+    "id": "kevinxie06",
+    "name": "Kevin Xie",
+    "city": "San Francisco, California, United States",
+    "country_code": "US",
+    "position": null,
+    "about": "Soren brings AI to the industries the world depends on. Transform your company\u2026",
+    "current_company": {
+      "link": "https://www.linkedin.com/company/soren-ai-inc?trk=public_profile_topcard-current-company",
+      "name": "Soren (YC F25)",
+      "company_id": "soren-ai-inc",
+      "location": null
+    },
+    "experience": null,
+    "url": "https://fr.linkedin.com/in/kevinxie06",
+    "educations_details": "Massachusetts Institute of Technology",
+    "education": null,
+    "avatar": "https://media.licdn.com/dms/image/v2/D4E03AQFdsHdRq8HI7g/profile-displayphoto-scale_200_200/B4EZ29HcrjIMAY-/0/1776994341952?e=2147483647&v=beta&t=ewAr-Q4oeub172FodQKvtUUBCXVuY_8KGuPCbT8_97A",
+    "followers": 6879,
+    "connections": 500,
+    "current_company_company_id": "soren-ai-inc",
+    "current_company_name": "Soren (YC F25)",
+    "publications": [
+      {
+        "title": "BRIDGE: Benchmarking Large Language Models for Understanding Real-world Clinical Practice Text",
+        "subtitle": "Nature Biomedical Engineering",
+        "date": "May 20, 2026",
+        "description": "Published in Nature BME. Largest benchmark for LLMs in real-world clinical tasks."
+      },
+      {
+        "title": "Why Chain of Thought Fails in Clinical Text Understanding",
+        "date": "September 26, 2025",
+        "description": "Co-first author.MIT-MGB AI Cures 2025: Spotlight PosterAMIA 2025: Selected Presentation"
+      },
+      {
+        "title": "Whole\u2010cerebrum guanidino and amide CEST mapping at 3 T by a 3D stack\u2010of\u2010spirals gradient echo acquisition",
+        "description": "Published in Magnetic Resonance in Medicine. MRI research with the Kennedy Krieger Institute and Johns Hopkins University."
+      }
+    ],
+    "location": "San Francisco",
+    "input_url": "https://www.linkedin.com/in/kevinxie06",
+    "linkedin_id": "kevinxie06",
+    "activity": null,
+    "linkedin_num_id": "1335603409",
+    "banner_image": "https://media.licdn.com/dms/image/v2/D4E16AQHq4gGX4zNJfA/profile-displaybackgroundimage-shrink_200_800/B4EZ7nQnNFKYAQ-/0/1781996352690?e=2147483647&v=beta&t=FI8duZX7l7KQPozqzPPxZR_0sAzbMR2on7YBaT2Cu9o",
+    "honors_and_awards": null,
+    "similar_profiles": [],
+    "default_avatar": false,
+    "memorialized_account": false,
+    "bio_links": [
+      {
+        "title": "Personal Website",
+        "link": "https://kevinxie.dev/"
+      }
+    ],
+    "first_name": "Kevin",
+    "last_name": "Xie",
+    "influencer": false,
+    "timestamp": "2026-08-12T19:07:32.412Z",
+    "input": {
+      "url": "https://www.linkedin.com/in/kevinxie06"
+    }
+  },
+  "local_photo": "data\\linkedin_photos\\kevinxie06__usr-GwKhzxXeDvWE9DF.jpg"
+}

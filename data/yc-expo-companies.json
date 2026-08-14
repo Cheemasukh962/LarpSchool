@@ -1,0 +1,1502 @@
+{
+  "generated_at": "2026-08-14",
+  "event": "YC Startup Internship Expo Aug 15 2026 SF",
+  "companies": [
+    {
+      "name": "EffiGov",
+      "batch": "S25",
+      "stage": "Seed",
+      "one_liner": "The AI OS for Cities",
+      "website": "https://effigov.com/",
+      "yc_url": "https://www.ycombinator.com/companies/effigov",
+      "linkedin": "https://www.linkedin.com/company/effigov",
+      "what_they_do": "EffiGov is building an AI operating system for local governments, starting with voice AI call operators that answer 311 and departmental lines 24/7. Agents take service requests, answer constituent questions, and route calls so cities that cannot afford a real 311 center still get round-the-clock coverage. They are already live with a county of about 160,000 residents.",
+      "who_they_hire": "Tiny founding team (~3) looking for a Fall 2026 SWE intern ($5–7k/mo) and a Founding Engineer who can ship voice agents against messy govtech CRMs.",
+      "intern_roles": ["Software Engineer Intern (Fall 2026)"],
+      "open_roles": ["Founding Engineer"],
+      "challenge": null,
+      "challenge_url": null,
+      "challenge_type": "none",
+      "fit": "high",
+      "talking_points": [
+        "Ask how the 311 voice agent files tickets into Munis/Accela/Tyler instead of just chatting.",
+        "Fall intern is paid $5–7k/mo — treat it as a founding-adjacent seat, not a generic SWE intern.",
+        "Lead with any voice-agent, telephony, or civic/govtech project; they care about reliability on real city lines."
+      ],
+      "sources": [
+        "https://effigov.com/",
+        "https://www.ycombinator.com/companies/effigov"
+      ]
+    },
+    {
+      "name": "Terranox AI",
+      "batch": "W26",
+      "stage": "Seed",
+      "one_liner": "The first AI-powered uranium discovery company",
+      "website": "https://terranox.ai/",
+      "yc_url": "https://www.ycombinator.com/companies/terranox-ai",
+      "linkedin": "https://www.linkedin.com/company/terranox-ai",
+      "what_they_do": "Terranox is a vertically integrated AI uranium exploration company. They train models on 70+ years of geoscience and exploration outcomes to find high-grade North American deposits and decide the next drill dollar. Mission is fueling the nuclear buildout, not selling a SaaS dashboard.",
+      "who_they_hire": "AI/ML engineers, Fall AI/ML interns, and a Summer applied-science intern aimed at MSc/PhD talent; founding ML is also in play.",
+      "intern_roles": [
+        "Fall Intern - AI/ML Engineering",
+        "Summer Intern - Applied Science MSc/PhD"
+      ],
+      "open_roles": ["AI/ML Engineer", "Founding ML Engineer"],
+      "challenge": null,
+      "challenge_url": null,
+      "challenge_type": "none",
+      "fit": "high",
+      "talking_points": [
+        "Best fit if you can talk geoscience, remote sensing, or multimodal scientific ML — not generic LLM wrappers.",
+        "Ask how they score prospectivity and choose the next drill vs. just producing heatmaps.",
+        "Summer applied-science seat is explicitly MSc/PhD; Fall intern is the undergrad/ML engineering path."
+      ],
+      "sources": [
+        "https://terranox.ai/",
+        "https://www.ycombinator.com/companies/terranox-ai"
+      ]
+    },
+    {
+      "name": "Socratix AI",
+      "batch": "S25",
+      "stage": "Seed",
+      "one_liner": "AI coworkers for fraud and compliance teams.",
+      "website": "https://getsocratix.ai/",
+      "yc_url": "https://www.ycombinator.com/companies/socratix-ai",
+      "linkedin": "https://www.linkedin.com/company/socratix-ai",
+      "what_they_do": "Socratix builds AI coworkers that investigate fraud and compliance alerts the way human analysts do — stitching context across tools and writing explainable decisions. Target customers are fintechs and banks drowning in alerts. Founders have DoorDash fraud and Unit21 product background.",
+      "who_they_hire": "Member of Technical Staff, AI Agents. Intern listing may 404; treat this as a full-time/new-grad agent-systems conversation unless they confirm internships at the booth.",
+      "intern_roles": [],
+      "open_roles": ["Member of Technical Staff, AI Agents"],
+      "challenge": null,
+      "challenge_url": null,
+      "challenge_type": "none",
+      "fit": "medium",
+      "talking_points": [
+        "Intern posting may be dead — ask in person whether they will take a fall/summer intern at all.",
+        "Talk evals, false-positive reduction, and agent tool-use over 'we built a chatbot.'",
+        "Founders lived alert queues at DoorDash/Unit21; ask what a good investigation trace looks like."
+      ],
+      "sources": [
+        "https://getsocratix.ai/",
+        "https://www.ycombinator.com/companies/socratix-ai"
+      ]
+    },
+    {
+      "name": "Parrot",
+      "batch": "F25",
+      "stage": "Seed",
+      "one_liner": "TikTok for language learning",
+      "website": "https://parrotapp.com/",
+      "yc_url": "https://www.ycombinator.com/companies/parrot",
+      "linkedin": "https://www.linkedin.com/company/parrotapp",
+      "what_they_do": "Parrot is a consumer language-learning app that turns doomscrolling into Spanish fluency with personalized short-form native videos. Pedagogy is comprehensible input, not Duolingo-style drills. Power users reportedly spend hours per week in-app.",
+      "who_they_hire": "Founding Mobile Engineer. Consumer/mobile product seat, not a research lab.",
+      "intern_roles": [],
+      "open_roles": ["Founding Mobile Engineer"],
+      "challenge": "Record a 60-second Loom and email it to founders@parrotapp.com.",
+      "challenge_url": "mailto:founders@parrotapp.com",
+      "challenge_type": "apply_with_artifact",
+      "fit": "medium",
+      "talking_points": [
+        "Do the 60s Loom before or right after the booth — that is the actual application.",
+        "Mobile/React Native + consumer growth stories land; generic backend AI pitches will feel off.",
+        "Ask how they sequence comprehensible-input videos vs. just wrapping TikTok."
+      ],
+      "sources": [
+        "https://parrotapp.com/",
+        "https://www.ycombinator.com/companies/parrot"
+      ]
+    },
+    {
+      "name": "Prox",
+      "batch": "F25",
+      "stage": "Seed",
+      "one_liner": "AI technical support for complex physical products",
+      "website": "https://useprox.com/",
+      "yc_url": "https://www.ycombinator.com/companies/prox",
+      "linkedin": "https://www.linkedin.com/company/prox-inc",
+      "what_they_do": "Prox builds multimodal AI agents that do technical support for complex physical products — welders, industrial gear, anything whose answers live in 48-page manuals and schematics. Off-the-shelf chatbots fail here because the knowledge is visual, tribal, and safety-critical. They want people who can ship agents that actually diagnose hardware.",
+      "who_they_hire": "Founding Engineer, Forward-Deployed Engineer, and Founding GTM Engineer. Strong intern/new-grad path if you complete the public challenge.",
+      "intern_roles": [],
+      "open_roles": [
+        "Founding Engineer at Prox",
+        "Forward-Deployed Engineer",
+        "Founding GTM Engineer"
+      ],
+      "challenge": "Clone the public welder-agent challenge repo, get it working, and submit at useprox.com/join.",
+      "challenge_url": "https://useprox.com/join",
+      "challenge_type": "public_challenge",
+      "fit": "high",
+      "talking_points": [
+        "Do the GitHub welder-agent challenge before the expo if you can — that is the filter.",
+        "Bring a multimodal/tool-using agent story (PDFs, diagrams, hardware), not a generic RAG demo.",
+        "FDE and founding eng are both open; say whether you want customer-facing deploy work or core agent runtime."
+      ],
+      "sources": [
+        "https://useprox.com/",
+        "https://www.ycombinator.com/companies/prox",
+        "https://github.com/prox-technologies/prox-challenge",
+        "https://useprox.com/join"
+      ]
+    },
+    {
+      "name": "GiveCampus",
+      "batch": "S15",
+      "stage": "Growth",
+      "one_liner": "The fundraising platform for schools.",
+      "website": "https://givecampus.com/",
+      "yc_url": "https://www.ycombinator.com/companies/givecampus",
+      "linkedin": "https://www.linkedin.com/company/givecampus",
+      "what_they_do": "GiveCampus is the fundraising platform for colleges, universities, and K-12 schools. They have facilitated billions in giving across 1,500+ institutions. This is a scaled edtech company, not a two-person AI seed.",
+      "who_they_hire": "Full Stack Engineer (3+ years) and Senior Engineering Manager. No intern role posted.",
+      "intern_roles": [],
+      "open_roles": ["Full Stack Engineer", "Senior Engineering Manager"],
+      "challenge": null,
+      "challenge_url": null,
+      "challenge_type": "none",
+      "fit": "low",
+      "talking_points": [
+        "No intern listing — only worth a stop if you have 3+ years or want EM/full-stack at a growth company.",
+        "DC-rooted, ~130 people; expect a real hiring bar, not a founding-intern pitch.",
+        "Skip if you are optimizing for AI-agent seed internships."
+      ],
+      "sources": [
+        "https://givecampus.com/",
+        "https://www.ycombinator.com/companies/givecampus"
+      ]
+    },
+    {
+      "name": "Koyal",
+      "batch": "F25",
+      "stage": "Seed",
+      "one_liner": "Agentic AI Filmmaking Platform",
+      "website": "https://koyal.ai/",
+      "yc_url": "https://www.ycombinator.com/companies/koyal",
+      "linkedin": "https://www.linkedin.com/company/koyal-ai",
+      "what_they_do": "Koyal is an agentic filmmaking platform that turns script or audio into cinematic video with consistent characters, lip-sync, and shot logic. Team has CMU/MIT/Meta video-gen background and NeurIPS research. They have run pilots with major music labels and production houses.",
+      "who_they_hire": "Founding Engineer. Generative-video / agentic media systems, not a generic fullstack intern posting.",
+      "intern_roles": [],
+      "open_roles": ["Founding Engineer @Koyal"],
+      "challenge": null,
+      "challenge_url": null,
+      "challenge_type": "none",
+      "fit": "medium",
+      "talking_points": [
+        "Lead with video gen, lip-sync, character consistency, or agentic creative tools.",
+        "Ask about CHARCHA (consent/captcha for likeness) if you have identity or safety angles.",
+        "Founding Engineer is the open seat — internships are not listed."
+      ],
+      "sources": [
+        "https://koyal.ai/",
+        "https://www.ycombinator.com/companies/koyal"
+      ]
+    },
+    {
+      "name": "AfterQuery",
+      "batch": "W25",
+      "stage": "Seed",
+      "one_liner": "Applied research lab curating data solutions for foundation model development",
+      "website": "https://www.afterquery.com/",
+      "yc_url": "https://www.ycombinator.com/companies/afterquery",
+      "linkedin": "https://www.linkedin.com/company/afterquery",
+      "what_they_do": "AfterQuery is an applied research lab that builds expert datasets and RLHF data for frontier foundation-model labs. They recruit domain experts and strong students to produce post-training data, custom benchmarks, and evaluation sets. Customers are the frontier labs themselves.",
+      "who_they_hire": "SWE intern plus a strategic/technical intern track; also hiring infra SWE (LatAm) and senior infra/platform. Interview includes a take-home.",
+      "intern_roles": ["Software Engineer Intern", "Strategic Intern"],
+      "open_roles": [
+        "Software Engineer - Hiring Infra (LatAM)",
+        "Senior Software Engineer, Infrastructure & Platform",
+        "Technical Strategic Projects Lead"
+      ],
+      "challenge": "Interview take-home (not a public bounty). Expect a work-sample after you apply.",
+      "challenge_url": null,
+      "challenge_type": "interview_takehome",
+      "fit": "high",
+      "talking_points": [
+        "Say you want to build data/eval infra for frontier labs, not a consumer app.",
+        "Ask what the intern take-home looks like and how strategic intern differs from SWE intern.",
+        "Name a domain where you can actually label or eval expert work (code, math, science, finance)."
+      ],
+      "sources": [
+        "https://www.afterquery.com/",
+        "https://www.ycombinator.com/companies/afterquery"
+      ]
+    },
+    {
+      "name": "Variance",
+      "batch": "W23",
+      "stage": "Series A",
+      "one_liner": "AI Agents for Fraud Review and Investigations",
+      "website": "https://variance.com/",
+      "yc_url": "https://www.ycombinator.com/companies/variance",
+      "linkedin": "https://www.linkedin.com/company/variancehq",
+      "what_they_do": "Variance builds AI agents for fraud review, identity, and investigations for Fortune 500s, marketplaces, and regulated financial services. The hard problem is judgment quality and evals, not a chatbot wrapper. Series A, ~12 people.",
+      "who_they_hire": "Research Engineer (Judgment Systems), Research Engineer (Evals), and Senior SWE. No intern listing.",
+      "intern_roles": [],
+      "open_roles": [
+        "Research Engineer, Judgment Systems",
+        "Research Engineer, Evals",
+        "Senior Software Engineer"
+      ],
+      "challenge": null,
+      "challenge_url": null,
+      "challenge_type": "none",
+      "fit": "medium",
+      "talking_points": [
+        "No intern posting — only pitch if you have evals/judgment-systems depth or senior SWE chops.",
+        "Ask how they measure investigation quality vs. raw automation rate.",
+        "Lower priority than seed intern booths unless research-evals is your exact lane."
+      ],
+      "sources": [
+        "https://variance.com/",
+        "https://www.ycombinator.com/companies/variance"
+      ]
+    },
+    {
+      "name": "Weave",
+      "batch": "W25",
+      "stage": "Series A",
+      "one_liner": "AI to understand and then route engineering work",
+      "website": "https://workweave.dev/",
+      "yc_url": "https://www.ycombinator.com/companies/weave-3",
+      "linkedin": "https://www.linkedin.com/company/weave-dev",
+      "what_they_do": "Weave measures software engineering work in the AI era — what shipped, what AI wrote, and whether quality held. They then route tasks to the most cost-efficient model without killing speed or quality. Used by 500+ orgs including companies like Robinhood and PostHog.",
+      "who_they_hire": "Product Engineer Intern plus founding ML/product engineer seats. Process is interview take-home plus a work trial.",
+      "intern_roles": ["Product Engineer Intern"],
+      "open_roles": [
+        "Founding ML Engineer",
+        "Founding Product Engineer"
+      ],
+      "challenge": "Interview take-home followed by a paid work trial. Not a public GitHub bounty.",
+      "challenge_url": null,
+      "challenge_type": "interview_takehome",
+      "fit": "high",
+      "talking_points": [
+        "Product Engineer Intern is the intern seat — talk PR attribution, evals, and developer tools.",
+        "Ask what a Weave Hour means and how they separate AI-written code from human code.",
+        "Be ready for a take-home + work trial, not a handshake offer at the booth."
+      ],
+      "sources": [
+        "https://workweave.dev/",
+        "https://www.ycombinator.com/companies/weave-3"
+      ]
+    },
+    {
+      "name": "Nowadays",
+      "batch": "S23",
+      "stage": "Seed",
+      "one_liner": "AI-native platform for corporate meetings and events",
+      "website": "https://www.nowadays.ai/careers",
+      "yc_url": "https://www.ycombinator.com/companies/nowadays",
+      "linkedin": "https://www.linkedin.com/company/getnowadays",
+      "what_they_do": "Nowadays is an AI-native platform for corporate meetings and events — planning, ops, and coordination that still runs on spreadsheets and agencies. Small SF team hiring founding product/design/eng plus a Fall 2026 intern.",
+      "who_they_hire": "Founding Product Designer, Founding SWE, Founding Product Engineer, Product Engineer Intern Fall 2026, Operations Intern Fall 2026. Expo puzzle: private dining finder; top 5 get a guaranteed intern interview.",
+      "intern_roles": [
+        "Product Engineer Intern (Fall 2026)",
+        "Operations Intern (Fall 2026)"
+      ],
+      "open_roles": [
+        "Founding Product Designer",
+        "Founding Software Engineer",
+        "Founding Product Engineer"
+      ],
+      "challenge": "Private Dining Finder. Deadline Fri Aug 14 2026 11:59pm PDT. React + Tailwind + Supabase. Rank trusted private-dining venues for 30–200 people from address, headcount, max commute. Three required scenarios (Times Square 50 / Salesforce Tower 30 / Waikiki Hilton 200). Submit private GitHub README + 3–5 min video + writeup. Top 5: intern interview, dinner with the team Expo night, office tour, merch.",
+      "challenge_url": "https://www.nowadays.ai/careers/yc",
+      "challenge_type": "public_challenge",
+      "fit": "high",
+      "talking_points": [
+        "This is a real client workflow: Airbnb/Google/BlackRock already book offsites; private dining is still manual.",
+        "Trust labels (verified / likely / needs a call) matter more than a Google Maps dump — they said 'options a planner can actually trust.'",
+        "If you ship the finder, bring the three required scenarios on your phone to the booth; do not pitch LarpSchool as the submission."
+      ],
+      "sources": [
+        "https://www.nowadays.ai/careers",
+        "https://www.nowadays.ai/careers/yc",
+        "https://www.ycombinator.com/companies/nowadays"
+      ]
+    },
+    {
+      "name": "Soren",
+      "batch": "F25",
+      "stage": "Seed",
+      "one_liner": "Specialized AI for Real-World Deployment",
+      "website": "https://soren-ai.com/",
+      "yc_url": "https://www.ycombinator.com/companies/soren",
+      "linkedin": "https://www.linkedin.com/company/soren-ai-inc",
+      "what_they_do": "Soren deploys private, specialized AI for regulated SMBs — community banks, boutique law firms, and similar teams that cannot send data to public models. They train and run systems inside the customer's environment and keep iterating on real workflows. Security and compliance are the product, not a slide.",
+      "who_they_hire": "SWE intern, growth intern, and Founding Engineer. Multiple intern tracks on a tiny team.",
+      "intern_roles": ["Software Engineer Intern", "Growth Intern"],
+      "open_roles": ["Founding Engineer"],
+      "challenge": null,
+      "challenge_url": null,
+      "challenge_type": "none",
+      "fit": "high",
+      "talking_points": [
+        "You can pick SWE intern, growth intern, or founding eng — say which lane on the first sentence.",
+        "Talk private deployment, on-prem/VPC, and regulated-industry constraints.",
+        "Ask how they adapt a frontier model to one bank's SOPs without leaking data."
+      ],
+      "sources": [
+        "https://soren-ai.com/",
+        "https://www.ycombinator.com/companies/soren"
+      ]
+    },
+    {
+      "name": "Datacurve",
+      "batch": "W24",
+      "stage": "Seed",
+      "one_liner": "Frontier coding data for training and evaluating LLMs",
+      "website": "https://datacurve.ai/careers",
+      "yc_url": "https://www.ycombinator.com/companies/datacurve",
+      "linkedin": "https://www.linkedin.com/company/datacurveai",
+      "what_they_do": "Datacurve produces expert-quality coding data at scale to train and evaluate LLMs. They run a gamified annotation platform that attracts competitive programmers and strong engineers. Buyers are frontier labs and AI coding-tool startups.",
+      "who_they_hire": "Email careers; internships are not a clean public listing. Historical take-home still exists at takehome.datacurve.ai.",
+      "intern_roles": [],
+      "open_roles": ["Email careers@ / apply via site"],
+      "challenge": "Historical coding take-home at takehome.datacurve.ai. Confirm with the team whether it is still the live intern screen.",
+      "challenge_url": "https://takehome.datacurve.ai/",
+      "challenge_type": "interview_takehome",
+      "fit": "high",
+      "talking_points": [
+        "If the take-home is still live, do it before the booth and bring results.",
+        "Competitive programming / hard coding-eval stories are the language they speak.",
+        "Ask what 'expert coding data' means for SWE-agent training vs. LeetCode dumps."
+      ],
+      "sources": [
+        "https://datacurve.ai/careers",
+        "https://www.ycombinator.com/companies/datacurve",
+        "https://takehome.datacurve.ai/"
+      ]
+    },
+    {
+      "name": "Veritus",
+      "batch": "S25",
+      "stage": "Seed",
+      "one_liner": "AI agents for the consumer lending industry",
+      "website": "https://veritusagent.ai",
+      "yc_url": "https://www.ycombinator.com/companies/veritus",
+      "linkedin": "https://www.linkedin.com/company/veritus-agent",
+      "what_they_do": "Veritus deploys omnichannel AI agents for consumer lending — origination, servicing, and collections across voice, SMS, email, and chat. Agents negotiate repayment plans with compliance baked in. They also pursue licensing as a collections agency.",
+      "who_they_hire": "Forward-Deployed Engineer and Full Stack Engineer; new grads OK. No dedicated intern listing.",
+      "intern_roles": [],
+      "open_roles": ["Forward Deployed Software Engineer", "Full Stack Engineer"],
+      "challenge": null,
+      "challenge_url": null,
+      "challenge_type": "none",
+      "fit": "medium",
+      "talking_points": [
+        "New grads are in-scope for FDE/fullstack even without an intern title.",
+        "Voice agents + regulated collections compliance is the core story.",
+        "Ask how they keep negotiation policies and state collections rules in the loop."
+      ],
+      "sources": [
+        "https://veritusagent.ai",
+        "https://www.ycombinator.com/companies/veritus"
+      ]
+    },
+    {
+      "name": "Hypercubic",
+      "batch": "F25",
+      "stage": "Seed",
+      "one_liner": "Agentic AI for Mainframe Operations and Modernization",
+      "website": "https://www.hypercubic.ai/",
+      "yc_url": "https://www.ycombinator.com/companies/hypercubic",
+      "linkedin": "https://www.linkedin.com/company/hypercubic-ai",
+      "what_they_do": "Hypercubic builds agents for COBOL and mainframe operations — the unsexy systems that still run banks and governments. Goal is modernization and day-to-day ops assistance, not a greenfield rewrite fantasy. New grads are explicitly welcome as founding SWE.",
+      "who_they_hire": "Founding Software Engineer, new grads OK. Hopper is their public try-it surface.",
+      "intern_roles": [],
+      "open_roles": ["Founding Software Engineer"],
+      "challenge": "Try Hopper, Hypercubic's public mainframe-agent demo, then talk to founders about what you broke or shipped.",
+      "challenge_url": "https://www.hypercubic.ai/hopper",
+      "challenge_type": "public_challenge",
+      "fit": "medium",
+      "talking_points": [
+        "Use Hopper before the booth so you have a concrete artifact to discuss.",
+        "COBOL/mainframe curiosity is a differentiator — most expo kids will skip this table.",
+        "Founding SWE is new-grad friendly; intern title is not the path."
+      ],
+      "sources": [
+        "https://www.hypercubic.ai/",
+        "https://www.hypercubic.ai/hopper",
+        "https://www.ycombinator.com/companies/hypercubic"
+      ]
+    },
+    {
+      "name": "Bluejay",
+      "batch": "P25",
+      "stage": "Seed",
+      "one_liner": "Test, monitor, and improve your voice and chat AI agents",
+      "website": "https://getbluejay.ai/",
+      "yc_url": "https://www.ycombinator.com/companies/bluejay",
+      "linkedin": "https://www.linkedin.com/company/get-bluejay",
+      "what_they_do": "Bluejay is the simulation, evaluation, and observability layer for voice and chat agents. They generate realistic digital customers, run pre-prod test suites, and watch production calls for failures. Founders are ex-Microsoft Copilot and AWS.",
+      "who_they_hire": "SWE intern plus MTS and Senior MTS. Public $6k bounty is the loudest intern signal at this expo.",
+      "intern_roles": ["Software Engineer Intern"],
+      "open_roles": ["Member of Technical Staff", "Senior Member of Technical Staff"],
+      "challenge": "Public $6k bounty for work on Bluejay's voice/chat agent testing platform.",
+      "challenge_url": "https://getbluejay.ai/bounty",
+      "challenge_type": "public_challenge",
+      "fit": "high",
+      "talking_points": [
+        "Do or at least read the $6k bounty before you walk up — that is the conversation starter.",
+        "Voice-agent evals, LiveKit/telephony, and failure-mode hunting are the technical hooks.",
+        "SWE intern is posted; bounty completion is the cheat code."
+      ],
+      "sources": [
+        "https://getbluejay.ai/",
+        "https://getbluejay.ai/bounty",
+        "https://www.ycombinator.com/companies/bluejay"
+      ]
+    },
+    {
+      "name": "Bild AI",
+      "batch": "W25",
+      "stage": "Seed",
+      "one_liner": "AI estimating & detailing for Division 8 doors, frames & hardware",
+      "website": "https://bild.ai/",
+      "yc_url": "https://www.ycombinator.com/companies/bild-ai",
+      "linkedin": "https://www.linkedin.com/company/bild-ai",
+      "what_they_do": "Bild AI does estimating and detailing for Division 8 construction — doors, frames, and hardware. They turn messy construction docs into takeoffs so contractors stop doing it by hand. Narrow vertical, real revenue workflow.",
+      "who_they_hire": "AI/SWE intern plus founding product and founding AI engineer seats.",
+      "intern_roles": ["AI/SWE Intern"],
+      "open_roles": ["Founding Product Engineer", "Founding AI Engineer"],
+      "challenge": null,
+      "challenge_url": null,
+      "challenge_type": "none",
+      "fit": "high",
+      "talking_points": [
+        "Intern is listed — bring document-AI, takeoff, or construction-software stories.",
+        "Ask how they parse Division 8 specs vs. generic PDF Q&A.",
+        "Founding AI/product seats are open if you want more than a summer."
+      ],
+      "sources": [
+        "https://bild.ai/",
+        "https://www.ycombinator.com/companies/bild-ai"
+      ]
+    },
+    {
+      "name": "Code Four",
+      "batch": "P25",
+      "stage": "Seed",
+      "one_liner": "Modernizing the police workflow.",
+      "website": "https://www.codefour.us",
+      "yc_url": "https://www.ycombinator.com/companies/code-four",
+      "linkedin": "https://www.linkedin.com/company/codefourus",
+      "what_they_do": "Code Four builds AI for police workflow — reports, evidence, and case context from body-worn camera and existing RMS/CAD systems. Officers still burn huge chunks of a shift on paperwork; Code Four drafts source-linked narratives instead of ripping out the stack.",
+      "who_they_hire": "Founding Fullstack Software Engineer with 3+ years. No intern listing.",
+      "intern_roles": [],
+      "open_roles": ["Founding Fullstack Software Engineer"],
+      "challenge": null,
+      "challenge_url": null,
+      "challenge_type": "none",
+      "fit": "medium",
+      "talking_points": [
+        "3+ years fullstack is the posted bar — intern-only pitches will bounce.",
+        "Be ready to talk about public-sector constraints and source-linked evidence, not 'AI cop.'",
+        "Worth a stop if you have video/audio transcription + workflow product chops."
+      ],
+      "sources": [
+        "https://www.codefour.us",
+        "https://www.ycombinator.com/companies/code-four"
+      ]
+    },
+    {
+      "name": "Artie",
+      "batch": "S23",
+      "stage": "Series A",
+      "one_liner": "Software that streams data from databases to warehouses in real-time",
+      "website": "https://www.artie.com",
+      "yc_url": "https://www.ycombinator.com/companies/artie",
+      "linkedin": "https://www.linkedin.com/company/artie-technologies",
+      "what_they_do": "Artie is managed CDC: it streams row-level database changes into warehouses in under a minute so analytics are not hours stale. Infra product for data teams, not an agent startup. ~16 people, Series A.",
+      "who_they_hire": "Product Engineer and Senior SWE. No intern role.",
+      "intern_roles": [],
+      "open_roles": ["Product Engineer", "Senior Software Engineer"],
+      "challenge": null,
+      "challenge_url": null,
+      "challenge_type": "none",
+      "fit": "low",
+      "talking_points": [
+        "No intern seat — skip unless you want full-time data-infra SWE.",
+        "Kafka/CDC/warehouse internals are the language; agent demos will miss.",
+        "Low priority relative to intern-heavy booths."
+      ],
+      "sources": [
+        "https://www.artie.com",
+        "https://www.ycombinator.com/companies/artie"
+      ]
+    },
+    {
+      "name": "Crustdata",
+      "batch": "F24",
+      "stage": "Seed",
+      "one_liner": "Real-time B2B data via simple APIs",
+      "website": "https://crustdata.com",
+      "yc_url": "https://www.ycombinator.com/companies/crustdata",
+      "linkedin": "https://www.linkedin.com/company/crustdata",
+      "what_they_do": "Crustdata sells live people and company data via APIs so AI SDR, recruiting, and investment agents can act on fresh B2B context. They index the web onto canonical entities instead of dumping stale CSV. Heavy intern hiring across FDE, ML, and AI.",
+      "who_they_hire": "FDE intern, ML intern, and AI intern. AI intern path includes a 3-hour assignment.",
+      "intern_roles": [
+        "Forward-Deployed Engineer Intern",
+        "ML Intern",
+        "AI Intern"
+      ],
+      "open_roles": [
+        "Founding Forward Deployed Engineer",
+        "Founding ML Engineer",
+        "Founding Product Engineer"
+      ],
+      "challenge": "AI intern track uses a 3-hour assignment as the screen.",
+      "challenge_url": null,
+      "challenge_type": "interview_takehome",
+      "fit": "high",
+      "talking_points": [
+        "Three intern tracks — pick FDE vs ML vs AI before you walk up.",
+        "Ask what the 3-hour assignment covers and whether you can start it from the expo.",
+        "People/company data + agent tooling is the product; bring scraping/entity-resolution stories."
+      ],
+      "sources": [
+        "https://crustdata.com",
+        "https://www.ycombinator.com/companies/crustdata"
+      ]
+    },
+    {
+      "name": "Innate",
+      "batch": "F24",
+      "stage": "Seed",
+      "one_liner": "Personal AI Robots",
+      "website": "https://www.innate.bot",
+      "yc_url": "https://www.ycombinator.com/companies/innate",
+      "linkedin": "https://www.linkedin.com/company/innate",
+      "what_they_do": "Innate is building personal AI robots — consumer robotics, not warehouse AMRs. Hardware + foundation-model interaction in the home. YC currently surfaces a marketing intern, not a robotics intern.",
+      "who_they_hire": "Marketing intern is the YC-listed intern. Engineering internships are not posted.",
+      "intern_roles": ["Marketing Intern"],
+      "open_roles": [],
+      "challenge": null,
+      "challenge_url": null,
+      "challenge_type": "none",
+      "fit": "medium",
+      "talking_points": [
+        "YC intern is marketing — only pitch SWE/robotics if a founder explicitly opens that door.",
+        "Consumer robot demos and social/content chops match the posted seat.",
+        "Ask whether expo conversations can unlock an unofficial eng intern."
+      ],
+      "sources": [
+        "https://www.innate.bot",
+        "https://www.ycombinator.com/companies/innate"
+      ]
+    },
+    {
+      "name": "Replit",
+      "batch": "W18",
+      "stage": "Growth",
+      "one_liner": "Collaborative in-browser IDE",
+      "website": "https://replit.com/careers",
+      "yc_url": "https://www.ycombinator.com/companies/replit",
+      "linkedin": "https://www.linkedin.com/company/replit",
+      "what_they_do": "Replit is the collaborative in-browser IDE and AI coding platform used by millions of developers. Growth-stage, high brand recognition. They are an expo coding-challenge sponsor with guaranteed interviews for challenge finishers.",
+      "who_they_hire": "Broad engineering hiring via replit.com/careers. Expo value is the sponsored coding challenge, not a single intern req.",
+      "intern_roles": ["Software Engineering Intern (via expo challenge / careers)"],
+      "open_roles": ["See replit.com/careers"],
+      "challenge": "Expo coding-challenge sponsor. Completing the on-site/event challenge is supposed to guarantee interviews.",
+      "challenge_url": "https://events.ycombinator.com/2027-summer-internship-expo",
+      "challenge_type": "expo_sponsor",
+      "fit": "high",
+      "talking_points": [
+        "Do the Replit-sponsored expo challenge first — it is the interview gate.",
+        "Talk Agent/IDE product sense, not 'I used Replit in class.'",
+        "Growth-stage bar; bring shipped projects and speed."
+      ],
+      "sources": [
+        "https://replit.com/careers",
+        "https://www.ycombinator.com/companies/replit",
+        "https://events.ycombinator.com/2027-summer-internship-expo"
+      ]
+    },
+    {
+      "name": "SID",
+      "batch": "S23",
+      "stage": "Seed",
+      "one_liner": "AI research lab for retrieval",
+      "website": "https://sid.ai",
+      "yc_url": "https://www.ycombinator.com/companies/sid",
+      "linkedin": "https://www.linkedin.com/company/sidai",
+      "what_they_do": "SID is an AI research lab focused on retrieval — beating vanilla RAG with better agentic retrieval models. Small research-heavy team. They want people who can publish and ship retrieval systems.",
+      "who_they_hire": "Research Intern (Summer 2026) and Research Engineer. High fit for ML/retrieval kids, not general fullstack.",
+      "intern_roles": ["Research Intern (Summer 2026)"],
+      "open_roles": ["Research Engineer"],
+      "challenge": null,
+      "challenge_url": null,
+      "challenge_type": "none",
+      "fit": "high",
+      "talking_points": [
+        "Lead with retrieval, embeddings, or agentic search papers/projects — not a CRUD app.",
+        "Summer 2026 research intern is the listed seat; ask if fall 2026 is possible too.",
+        "Ask how their retrieval stack differs from off-the-shelf RAG."
+      ],
+      "sources": [
+        "https://sid.ai",
+        "https://www.ycombinator.com/companies/sid"
+      ]
+    },
+    {
+      "name": "Lance",
+      "batch": "W26",
+      "stage": "Seed",
+      "one_liner": "AI Agents That Run Hotel Operations.",
+      "website": "https://lance.live",
+      "yc_url": "https://www.ycombinator.com/companies/lance",
+      "linkedin": "https://www.linkedin.com/company/trylance",
+      "what_they_do": "Lance builds AI agents that run hotel operations — the messy front-desk, ops, and staffing work that still lives in phone calls and PMS software. Vertical agents with real hospitality workflows. New grads are in scope for founding SWE.",
+      "who_they_hire": "Founding SWE (new grads OK), SWE intern, and GTM/content intern.",
+      "intern_roles": [
+        "Software Engineering Intern",
+        "GTM & Content Marketing Intern"
+      ],
+      "open_roles": ["Founding Software Engineer"],
+      "challenge": null,
+      "challenge_url": null,
+      "challenge_type": "none",
+      "fit": "high",
+      "talking_points": [
+        "Two intern tracks plus founding SWE — say eng vs GTM immediately.",
+        "Hospitality ops, voice agents, or PMS integrations are gold.",
+        "New-grad founding SWE is explicitly open if you want more than an intern title."
+      ],
+      "sources": [
+        "https://lance.live",
+        "https://www.ycombinator.com/companies/lance"
+      ]
+    },
+    {
+      "name": "Parahelp",
+      "batch": "S24",
+      "stage": "Series A",
+      "one_liner": "Build an AI support agent that can use all your tools",
+      "website": "https://www.parahelp.com",
+      "yc_url": "https://www.ycombinator.com/companies/parahelp",
+      "linkedin": "https://www.linkedin.com/company/parahelp-ai",
+      "what_they_do": "Parahelp builds AI support agents that can use a company's existing tools — not a FAQ bot. Series A, ~11 people. Focus is production support automation.",
+      "who_they_hire": "No open intern listing. Conversation is full-time unless a founder makes an exception.",
+      "intern_roles": [],
+      "open_roles": [],
+      "challenge": null,
+      "challenge_url": null,
+      "challenge_type": "none",
+      "fit": "medium",
+      "talking_points": [
+        "No intern req — ask bluntly if they will create one from expo conversations.",
+        "Tool-using support agents and evals are the product language.",
+        "Lower priority than intern-listed agent companies unless you want full-time."
+      ],
+      "sources": [
+        "https://www.parahelp.com",
+        "https://www.ycombinator.com/companies/parahelp"
+      ]
+    },
+    {
+      "name": "Partcl",
+      "batch": "P25",
+      "stage": "Seed",
+      "one_liner": "Design a chip in minutes",
+      "website": "https://partcl.com",
+      "yc_url": "https://www.ycombinator.com/companies/partcl",
+      "linkedin": "https://www.linkedin.com/company/partcl",
+      "what_they_do": "Partcl speeds up chip physical design with GPU-accelerated, physics-informed EDA — timing analysis, placement, and related tools orders of magnitude faster than legacy CPU flows. Goal is chip design in minutes, not weeks. Deep systems + ML, not a web app.",
+      "who_they_hire": "Founding Engineer (Systems + ML) and Backend EDA Compiler Engineer. New grads OK. No intern listing.",
+      "intern_roles": [],
+      "open_roles": [
+        "Founding Engineer (Systems + ML)",
+        "Backend EDA Compiler Engineer"
+      ],
+      "challenge": null,
+      "challenge_url": null,
+      "challenge_type": "none",
+      "fit": "medium",
+      "talking_points": [
+        "New-grad founding seats exist, but they want compilers/GPU/EDA, not generic SWE.",
+        "Talk CUDA, STA, placement, or compiler internals if you have them.",
+        "No intern posting — pitch founding/new-grad, not a summer internship."
+      ],
+      "sources": [
+        "https://partcl.com",
+        "https://www.ycombinator.com/companies/partcl"
+      ]
+    },
+    {
+      "name": "Relling",
+      "batch": "S25",
+      "stage": "Seed",
+      "one_liner": "deploying the first billion robots for manufacturing",
+      "website": "https://rellingsystems.com",
+      "yc_url": "https://www.ycombinator.com/companies/relling",
+      "linkedin": "https://www.linkedin.com/company/relling",
+      "what_they_do": "Relling is deploying manufacturing robots at scale — robot learning plus the software to actually put them on factory floors. Hardware/ML company with intern seats in learning, SWE, and growth. Ambition is a billion robots, not a lab demo.",
+      "who_they_hire": "Robot Learning Engineer, SWE intern, growth/content intern, plus other founding-adjacent roles. New grads OK on several reqs.",
+      "intern_roles": [
+        "Software Engineer Intern",
+        "Growth and Content Lead Intern"
+      ],
+      "open_roles": [
+        "Robot Learning Engineer",
+        "Partnerships Lead, Specialty Manufacturing"
+      ],
+      "challenge": null,
+      "challenge_url": null,
+      "challenge_type": "none",
+      "fit": "high",
+      "talking_points": [
+        "Pick robot-learning vs SWE intern vs growth before you talk.",
+        "Bring imitation learning, factory automation, or real robot hours — not only sim screenshots.",
+        "High-ownership internships on a seed robotics team; ask what you would own in week one."
+      ],
+      "sources": [
+        "https://rellingsystems.com",
+        "https://www.ycombinator.com/companies/relling"
+      ]
+    },
+    {
+      "name": "Laminar",
+      "batch": "F24",
+      "stage": "Seed",
+      "one_liner": "Enterprise systems delivery without the turbulence.",
+      "website": "https://www.laminar.com",
+      "yc_url": "https://www.ycombinator.com/companies/laminar-com",
+      "linkedin": "https://www.linkedin.com/company/sre-ai",
+      "what_they_do": "This Laminar (laminar.com, not lmnr.ai) builds AI agents for Salesforce DevOps — CI/CD, merge conflicts, environment spin-up, and impact analysis on enterprise Salesforce. Ex-Google Research/DeepMind founders. Enterprise delivery product, not agent observability.",
+      "who_they_hire": "Member of Technical Staff, 8+ years. No intern.",
+      "intern_roles": [],
+      "open_roles": ["Member of Technical Staff"],
+      "challenge": null,
+      "challenge_url": null,
+      "challenge_type": "none",
+      "fit": "low",
+      "talking_points": [
+        "Do not confuse them with Laminar/lmnr.ai observability — they will notice.",
+        "8+ years MTS bar; intern pitches are a miss unless a founder invites it.",
+        "Salesforce metadata/DevOps experience is the only strong opener."
+      ],
+      "sources": [
+        "https://www.laminar.com",
+        "https://www.ycombinator.com/companies/laminar-com"
+      ]
+    },
+    {
+      "name": "CTGT",
+      "batch": "F24",
+      "stage": "Seed",
+      "one_liner": "The deterministic layer for frontier intelligence",
+      "website": "https://ctgt.ai",
+      "yc_url": "https://www.ycombinator.com/companies/ctgt",
+      "linkedin": "https://www.linkedin.com/company/ctgt",
+      "what_they_do": "CTGT productizes mechanistic interpretability into a Policy Engine so enterprises can enforce deterministic constraints on models — 'policy as code' instead of prompt hope. Backed by Gradient Ventures, General Catalyst, and YC. They are an expo sponsor.",
+      "who_they_hire": "SWE intern (Summer 2027), research intern (artifact-based), plus ML interpretability and senior SWE. Expo sponsor booth.",
+      "intern_roles": [
+        "Software Engineering Intern (Summer 2027)",
+        "Research Intern (interpretability artifact)"
+      ],
+      "open_roles": [
+        "Machine Learning Engineer: LLM Interpretability & Systems",
+        "Senior Software Engineer"
+      ],
+      "challenge": "Expo sponsor. Research intern path asks for an interpretability artifact; SWE intern is a standard application plus booth conversation.",
+      "challenge_url": null,
+      "challenge_type": "expo_sponsor",
+      "fit": "high",
+      "talking_points": [
+        "Bring a mech-interp notebook, steering/probe demo, or eval artifact if you want the research intern.",
+        "Summer 2027 SWE intern is posted — still worth meeting now for pipeline.",
+        "Ask how Policy Engine differs from RAG/fine-tune guardrails."
+      ],
+      "sources": [
+        "https://ctgt.ai",
+        "https://www.ycombinator.com/companies/ctgt"
+      ]
+    },
+    {
+      "name": "hillclimb",
+      "batch": "F25",
+      "stage": "Seed",
+      "one_liner": "Training Data for Recursive Self-Improvement",
+      "website": "https://hillclimb.com",
+      "yc_url": "https://www.ycombinator.com/companies/hillclimb",
+      "linkedin": "https://www.linkedin.com/company/hillclimb",
+      "what_they_do": "hillclimb builds training data and RL environments so frontier agents can become AI research scientists, starting with elite math talent (IMO/Lean). They sell to frontier labs. Intern pay is unusually high at $10k/mo.",
+      "who_they_hire": "Research Engineer Intern and SWE Intern at $10k/mo, plus MTS Research.",
+      "intern_roles": [
+        "Research Engineer Intern",
+        "Software Engineer Intern"
+      ],
+      "open_roles": ["Member of Technical Staff, Research"],
+      "challenge": null,
+      "challenge_url": null,
+      "challenge_type": "none",
+      "fit": "high",
+      "talking_points": [
+        "Lead with contest math, Lean, or RL environments — that is the company.",
+        "$10k/mo intern is the number; treat it like a research-lab screen.",
+        "Ask what a good RSI training environment looks like vs. generic SFT data."
+      ],
+      "sources": [
+        "https://hillclimb.com",
+        "https://www.ycombinator.com/companies/hillclimb"
+      ]
+    },
+    {
+      "name": "Velvet",
+      "batch": "F25",
+      "stage": "Seed",
+      "one_liner": "Infra and data for interactive AI.",
+      "website": "https://www.ycombinator.com/companies/velvet",
+      "yc_url": "https://www.ycombinator.com/companies/velvet",
+      "linkedin": "https://www.linkedin.com/company/velvet-ai-lab",
+      "what_they_do": "Velvet builds infrastructure and data for interactive / audiovisual AI. Founders include ex-Meta FAIR video-data and ex-Adobe realtime delivery. Official reqs are founding ML and research scientist; a founder said they are hiring interns at the expo.",
+      "who_they_hire": "Founding ML Engineer (new grads OK), Research Scientist, and unofficial expo intern hiring.",
+      "intern_roles": ["Intern (unofficial; founder said hiring at expo)"],
+      "open_roles": [
+        "Founding Machine Learning Engineer",
+        "Research Scientist"
+      ],
+      "challenge": null,
+      "challenge_url": null,
+      "challenge_type": "none",
+      "fit": "high",
+      "talking_points": [
+        "Founder flagged intern hiring at this expo — ask directly and have a video/AV ML artifact.",
+        "New-grad founding ML is posted; intern may be created on the spot.",
+        "Interactive/video data > generic LLM fine-tunes."
+      ],
+      "sources": [
+        "https://www.ycombinator.com/companies/velvet"
+      ]
+    },
+    {
+      "name": "Circleback",
+      "batch": "W24",
+      "stage": "Seed",
+      "one_liner": "AI-powered meeting notes and automations",
+      "website": "https://circleback.ai",
+      "yc_url": "https://www.ycombinator.com/companies/circleback",
+      "linkedin": "https://www.linkedin.com/company/circlebackai",
+      "what_they_do": "Circleback turns meetings into notes, action items, and automations (Linear tickets, CRM updates, search across past calls). Product-minded SWE culture. Intern listing is Summer 2027.",
+      "who_they_hire": "Software Engineering Intern (Summer 2027) plus SWE and senior SWE.",
+      "intern_roles": ["Software Engineering Intern (Summer 2027)"],
+      "open_roles": ["Software Engineer", "Senior Software Engineer"],
+      "challenge": null,
+      "challenge_url": null,
+      "challenge_type": "none",
+      "fit": "high",
+      "talking_points": [
+        "Summer 2027 intern is the posted seat — still network now for the pipeline.",
+        "Talk meeting-graph search, workflow automations, and transcription quality.",
+        "Ask whether they will consider Fall 2026 / Summer 2026 from expo conversations."
+      ],
+      "sources": [
+        "https://circleback.ai",
+        "https://www.ycombinator.com/companies/circleback"
+      ]
+    },
+    {
+      "name": "Respan",
+      "batch": "W24",
+      "stage": "Seed",
+      "one_liner": "Self-driving observability, evals, and gateway for AI agents",
+      "website": "https://respan.ai",
+      "yc_url": "https://www.ycombinator.com/companies/respan",
+      "linkedin": "https://www.linkedin.com/company/keywords-ai",
+      "what_they_do": "Respan (formerly Keywords AI) is a control plane for agent observability, evals, and an adaptive AI gateway. They process huge log/token volume for 100+ AI startups and enterprises. Frontend intern is a fall co-op.",
+      "who_they_hire": "Frontend fall co-op intern, plus senior frontend, SWE AI, and related roles.",
+      "intern_roles": ["Software Engineering Intern, Frontend (fall co-op)"],
+      "open_roles": [
+        "Senior Software Engineer, Frontend",
+        "Software Engineer, AI"
+      ],
+      "challenge": null,
+      "challenge_url": null,
+      "challenge_type": "none",
+      "fit": "high",
+      "talking_points": [
+        "Fall co-op frontend intern is the intern seat — UI/systems for traces and evals.",
+        "Call them Respan, not Keywords AI, unless they do first.",
+        "Ask how gateway + evals close the loop on production agent failures."
+      ],
+      "sources": [
+        "https://respan.ai",
+        "https://www.ycombinator.com/companies/respan"
+      ]
+    },
+    {
+      "name": "Surface Labs",
+      "batch": "S23",
+      "stage": "Seed",
+      "one_liner": "Building the AI-powered marketing ops platform that turns website traffic into pipeline",
+      "website": "https://www.withsurface.com",
+      "yc_url": "https://www.ycombinator.com/companies/surface-labs",
+      "linkedin": "https://www.linkedin.com/company/surface-labs",
+      "what_they_do": "Surface Labs is AI marketing ops — content, ads, and GTM systems that turn website activity into pipeline. Three distinct intern tracks instead of one generic intern. Small SF team.",
+      "who_they_hire": "AI Content Intern, AI Ads Engineer Intern, and AI GTM Engineer Intern.",
+      "intern_roles": [
+        "AI Content Intern",
+        "AI Ads Engineer Intern",
+        "AI GTM Engineer Intern"
+      ],
+      "open_roles": [],
+      "challenge": null,
+      "challenge_url": null,
+      "challenge_type": "none",
+      "fit": "high",
+      "talking_points": [
+        "Pick one of the three intern tracks in your opener — content vs ads vs GTM.",
+        "Bring a growth/ads/content system you actually ran, not a brand essay.",
+        "Ask what 'AI marketing ops' owns vs. a human marketer."
+      ],
+      "sources": [
+        "https://www.withsurface.com",
+        "https://www.ycombinator.com/companies/surface-labs"
+      ]
+    },
+    {
+      "name": "primitive",
+      "batch": "P26",
+      "stage": "Seed",
+      "one_liner": "communication for agents",
+      "website": "https://primitive.dev/",
+      "yc_url": "https://www.ycombinator.com/companies/primitive",
+      "linkedin": "https://www.linkedin.com/company/primitivedotdev",
+      "what_they_do": "primitive is email infrastructure for autonomous agents — one HTTP verb to send mail and wait for a threaded reply, plus managed *.primitive.email inboxes with JS handlers. They own MX/SPF/DKIM so agents do not stuff SMTP creds into context. MCP and OpenAPI are first-class.",
+      "who_they_hire": "Founding DevRel Engineer and an 'anything' new-grad seat. Demo the MCP.",
+      "intern_roles": [],
+      "open_roles": [
+        "Founding Developer Relations (DevRel) Engineer",
+        "anything (new grads OK)"
+      ],
+      "challenge": "Demo their MCP (https://www.primitive.dev/mcp) — discover tools and show an agent sending/receiving mail. That is the application artifact.",
+      "challenge_url": "https://www.primitive.dev/mcp",
+      "challenge_type": "apply_with_artifact",
+      "fit": "medium",
+      "talking_points": [
+        "Show a working MCP demo instead of a resume walkthrough.",
+        "DevRel + new-grad 'anything' means they hire people who ship public artifacts.",
+        "Ask how agent email differs from SendGrid/Resend transactional mail."
+      ],
+      "sources": [
+        "https://primitive.dev/",
+        "https://www.primitive.dev/mcp",
+        "https://www.ycombinator.com/companies/primitive"
+      ]
+    },
+    {
+      "name": "Allus AI",
+      "batch": "F25",
+      "stage": "Seed",
+      "one_liner": "Transforming manufacturing with our next-gen Vision Foundation Model",
+      "website": "https://allus.ai/",
+      "yc_url": "https://www.ycombinator.com/companies/allus-ai",
+      "linkedin": "https://www.linkedin.com/company/allus-ai",
+      "what_they_do": "Allus builds a vision foundation model for manufacturing — defect detection and process monitoring trained on huge industrial datasets. Atlanta-based, already in Fortune 500 production lines. Implementation agents adapt the model from a few reference examples.",
+      "who_they_hire": "Software Engineer Internship plus Founding AI Agent Engineer. Atlanta HQ; confirm SF/remote from the booth.",
+      "intern_roles": ["Software Engineer Internship"],
+      "open_roles": ["Founding AI Agent Engineer"],
+      "challenge": null,
+      "challenge_url": null,
+      "challenge_type": "none",
+      "fit": "high",
+      "talking_points": [
+        "SWE internship is posted — CV + manufacturing vision is the hook.",
+        "Atlanta company at an SF expo; ask where the intern would sit.",
+        "Ask how few-shot line adaptation works vs. custom vision projects that take months."
+      ],
+      "sources": [
+        "https://allus.ai/",
+        "https://www.ycombinator.com/companies/allus-ai"
+      ]
+    },
+    {
+      "name": "Moda",
+      "batch": "W26",
+      "stage": "Seed",
+      "one_liner": "The continual learning layer for AI agents.",
+      "website": "https://moda.dev/",
+      "yc_url": "https://www.ycombinator.com/companies/moda",
+      "linkedin": "https://www.linkedin.com/company/modaflows",
+      "what_they_do": "Moda is the continual-learning layer for AI agents — validating and improving agent behavior over time instead of frozen prompts. Early W26 company. No jobs were posted at research time.",
+      "who_they_hire": "No public jobs. Expo conversation is the application.",
+      "intern_roles": [],
+      "open_roles": [],
+      "challenge": null,
+      "challenge_url": null,
+      "challenge_type": "none",
+      "fit": "medium",
+      "talking_points": [
+        "No reqs online — ask what they would hire an intern to own this fall.",
+        "Continual learning, online evals, and agent memory/improvement loops are the topics.",
+        "Treat as a founder coffee, not a posted intern pipeline."
+      ],
+      "sources": [
+        "https://moda.dev/",
+        "https://www.ycombinator.com/companies/moda"
+      ]
+    },
+    {
+      "name": "Aemon",
+      "batch": "W26",
+      "stage": "Seed",
+      "one_liner": "The Forward-Deployed AI Research Engineer",
+      "website": "https://aemon.ai/",
+      "yc_url": "https://www.ycombinator.com/companies/aemon",
+      "linkedin": "https://www.linkedin.com/company/aemon-ai",
+      "what_they_do": "Aemon is building the forward-deployed AI research engineer — an AI that does real R&D work with customers. Tiny team. Intern pay is $8–15k/mo for a 2027 MTS intern, aimed at contest/olympiad-caliber talent.",
+      "who_they_hire": "Member of Technical Staff Intern 2027 at $8–15k/mo. High bar, contest-kid shaped.",
+      "intern_roles": ["Member of Technical Staff Intern 2027"],
+      "open_roles": [],
+      "challenge": null,
+      "challenge_url": null,
+      "challenge_type": "none",
+      "fit": "high",
+      "talking_points": [
+        "Lead with olympiad/CP/research artifacts; this intern is priced and filtered like a junior researcher.",
+        "$8–15k/mo for 2027 — still meet now if that is your profile.",
+        "Ask what 'AI R&D engineer' does on a live customer problem vs. a coding agent."
+      ],
+      "sources": [
+        "https://aemon.ai/",
+        "https://www.ycombinator.com/companies/aemon"
+      ]
+    },
+    {
+      "name": "Industrial Next",
+      "batch": "W22",
+      "stage": "Seed",
+      "one_liner": "Tesla autonomous manufacturing for everyone",
+      "website": "https://industrialnext.ai/",
+      "yc_url": "https://www.ycombinator.com/companies/industrial-next",
+      "linkedin": "https://www.linkedin.com/company/industrial-next",
+      "what_they_do": "Industrial Next builds Tesla-style autonomous factory cells so manufacturers can get high-automation production without being Tesla. Robotics + manufacturing systems. Senior research hiring; no intern posting.",
+      "who_they_hire": "Senior research. No intern listing.",
+      "intern_roles": [],
+      "open_roles": ["Senior Research"],
+      "challenge": null,
+      "challenge_url": null,
+      "challenge_type": "none",
+      "fit": "medium",
+      "talking_points": [
+        "No intern posting — only pitch if you have real robotics/manufacturing research depth.",
+        "Ask what a factory cell includes vs. a single robot arm demo.",
+        "Lower priority than Relling/Allus if you need an intern title."
+      ],
+      "sources": [
+        "https://industrialnext.ai/",
+        "https://www.ycombinator.com/companies/industrial-next"
+      ]
+    },
+    {
+      "name": "Mem0",
+      "batch": "S24",
+      "stage": "Series A",
+      "one_liner": "The Memory layer for AI Agents",
+      "website": "https://mem0.ai/",
+      "yc_url": "https://www.ycombinator.com/companies/mem0",
+      "linkedin": "https://www.linkedin.com/company/mem0",
+      "what_they_do": "Mem0 is an open-source memory layer for AI agents — graph + vector + key-value so apps stay stateful across sessions. Series A, widely used OSS. Hiring DevRel, research (agent memory), and fullstack.",
+      "who_they_hire": "Developer Relations, Research Engineer (Agent Memory), Full Stack Engineer. Historical intern take-home was a local voice-controlled agent.",
+      "intern_roles": [],
+      "open_roles": [
+        "Developer Relations",
+        "Research Engineer - Agent Memory",
+        "Full Stack Engineer"
+      ],
+      "challenge": "Historical intern take-home: build a local voice-controlled agent that uses memory. Confirm with the team whether this is still the live screen.",
+      "challenge_url": null,
+      "challenge_type": "interview_takehome",
+      "fit": "medium",
+      "talking_points": [
+        "No current intern req — ask if the historical voice-agent take-home is still how they screen interns.",
+        "OSS memory, graph retrieval, and agent state are the technical hooks.",
+        "DevRel is a real path if you have public Mem0/agent content."
+      ],
+      "sources": [
+        "https://mem0.ai/",
+        "https://www.ycombinator.com/companies/mem0"
+      ]
+    },
+    {
+      "name": "Naïve",
+      "batch": "P25",
+      "stage": "Series A",
+      "one_liner": "Unified Agent Infrastructure",
+      "website": "https://usenaive.ai/",
+      "yc_url": "https://www.ycombinator.com/companies/naive",
+      "linkedin": "https://www.linkedin.com/company/usenaive",
+      "what_they_do": "Naïve is unified agent infrastructure — compute, payments, identity, tools, and company runtime in one config so agents can act in the real world. Paste a prompt, get naive.config.ts, provision the stack. Hiring SWE, research, and growth interns with a 48-hour take-home.",
+      "who_they_hire": "SWE intern, research intern, growth intern, plus MTS. 48-hour take-home is the screen.",
+      "intern_roles": [
+        "Software Engineering Intern",
+        "AI Computing Research Intern",
+        "Growth Engineer Intern"
+      ],
+      "open_roles": ["Member of Technical Staff"],
+      "challenge": "48-hour take-home assignment used in the intern/hiring process.",
+      "challenge_url": null,
+      "challenge_type": "interview_takehome",
+      "fit": "high",
+      "talking_points": [
+        "Three intern tracks — pick SWE, research, or growth in the first sentence.",
+        "Ask for the 48h take-home at the booth if they will open it from the expo.",
+        "Talk agent identity, payments, and tool infra, not a chatbot UI."
+      ],
+      "sources": [
+        "https://usenaive.ai/",
+        "https://www.ycombinator.com/companies/naive"
+      ]
+    },
+    {
+      "name": "Y/n",
+      "batch": "S23",
+      "stage": "Series A",
+      "one_liner": "Play your story",
+      "website": "https://yn.app/",
+      "yc_url": "https://www.ycombinator.com/companies/yn",
+      "linkedin": "https://www.linkedin.com/company/ynapp",
+      "what_they_do": "Y/n makes interactive stories you play rather than just read — consumer narrative product. Series A, small content/consumer team. Hiring founding eng and SWE; take-home is possible.",
+      "who_they_hire": "Founding Engineer and Software Engineer. Possible take-home. Intern not clearly posted.",
+      "intern_roles": [],
+      "open_roles": ["Founding Engineer", "Software Engineer"],
+      "challenge": "Possible interview take-home. Confirm at the booth; not a public bounty.",
+      "challenge_url": null,
+      "challenge_type": "interview_takehome",
+      "fit": "medium",
+      "talking_points": [
+        "Consumer interactive-story product — bring product/game/narrative systems, not infra flexing.",
+        "Ask whether they will intern from the expo or only full-time SWE.",
+        "If they mention a take-home, do it fast; consumer teams move on taste + speed."
+      ],
+      "sources": [
+        "https://yn.app/",
+        "https://www.ycombinator.com/companies/yn"
+      ]
+    },
+    {
+      "name": "Enhanced Radar",
+      "batch": "W25",
+      "stage": "Seed",
+      "one_liner": "AI for air traffic control",
+      "website": "https://enhancedradar.com/",
+      "yc_url": "https://www.ycombinator.com/companies/enhanced-radar",
+      "linkedin": "https://www.linkedin.com/company/enhanced-radar",
+      "what_they_do": "Enhanced Radar is building AI for air traffic control — safer, better ATC systems. Two-person founding team of pilots/engineers (professional pilot + satellite CV / HFT Rust). All hiring goes through email.",
+      "who_they_hire": "All roles via join@enhancedradar.com. High fit if you have aviation, radar, or safety-critical systems background.",
+      "intern_roles": [],
+      "open_roles": ["All roles (email join@enhancedradar.com)"],
+      "challenge": null,
+      "challenge_url": null,
+      "challenge_type": "none",
+      "fit": "high",
+      "talking_points": [
+        "Email join@enhancedradar.com and mention you are at the expo.",
+        "Pilot certs, ATC, radar, or safety-critical C++/Rust are the differentiators.",
+        "Two-person team — intern vs founding is a conversation, not a req database."
+      ],
+      "sources": [
+        "https://enhancedradar.com/",
+        "https://www.ycombinator.com/companies/enhanced-radar"
+      ]
+    },
+    {
+      "name": "Stellar Sleep",
+      "batch": "S23",
+      "stage": "Seed",
+      "one_liner": "We help people with chronic insomnia sleep better, using psychology.",
+      "website": "https://stellarsleep.com/",
+      "yc_url": "https://www.ycombinator.com/companies/stellar-sleep",
+      "linkedin": "https://www.linkedin.com/company/stellar-sleep",
+      "what_they_do": "Stellar Sleep delivers CBT-I (cognitive behavioral therapy for insomnia) digitally so people with chronic insomnia actually sleep. Boston-based health product, psychology-first. Founding PE has a take-home; intern exists unofficially.",
+      "who_they_hire": "Founding Product Engineer with take-home. Intern role exists unofficially — ask in person.",
+      "intern_roles": ["Intern (unofficial)"],
+      "open_roles": ["Founding Product Engineer"],
+      "challenge": "Founding product-engineer take-home. Intern path is unofficial; ask at the booth.",
+      "challenge_url": null,
+      "challenge_type": "interview_takehome",
+      "fit": "medium",
+      "talking_points": [
+        "Ask about the unofficial intern — it will not be obvious from YC jobs.",
+        "Health/CBT-I product sense matters more than model trivia.",
+        "Boston company; confirm location before chasing the PE take-home."
+      ],
+      "sources": [
+        "https://stellarsleep.com/",
+        "https://www.ycombinator.com/companies/stellar-sleep"
+      ]
+    },
+    {
+      "name": "Parameter (fka Hex Security)",
+      "batch": "W26",
+      "stage": "Seed",
+      "one_liner": "Agentic Offensive Security at Scale",
+      "website": "https://www.parameter.ai/",
+      "yc_url": "https://www.ycombinator.com/companies/hex-security",
+      "linkedin": "https://www.linkedin.com/company/parameter-ai",
+      "what_they_do": "Parameter (formerly Hex Security) builds agentic pentest — offensive security agents that find vulnerabilities at scale. Security + agent systems, new-grad MTS. Not a consumer startup.",
+      "who_they_hire": "Member of Technical Staff and Member of Security Staff; new grads OK. No intern listing.",
+      "intern_roles": [],
+      "open_roles": ["Member of Technical Staff", "Member of Security Staff"],
+      "challenge": null,
+      "challenge_url": null,
+      "challenge_type": "none",
+      "fit": "high",
+      "talking_points": [
+        "Call them Parameter, not Hex, unless they do.",
+        "New-grad MTS is the path — intern title may not exist.",
+        "CTF/pentest/agent-tool-use stories are the opener; stay on authorized, defensive framing."
+      ],
+      "sources": [
+        "https://www.parameter.ai/",
+        "https://www.ycombinator.com/companies/hex-security"
+      ]
+    },
+    {
+      "name": "Dedalus Labs",
+      "batch": "S25",
+      "stage": "Seed",
+      "one_liner": "Compute substrate for AI agents",
+      "website": "https://dedaluslabs.ai/",
+      "yc_url": "https://www.ycombinator.com/companies/dedalus-labs",
+      "linkedin": "https://www.linkedin.com/company/dedalus-labs",
+      "what_they_do": "Dedalus Labs is a compute substrate for AI agents — persistent VMs and MCP so long-running agents can use tools without sleeping. SDK connects any LLM to local or hosted MCP servers. They are running an expo popup.",
+      "who_they_hire": "PM intern, Growth intern, and Systems Engineer intern for Summer 2027, plus other roles. Expo popup is the live motion.",
+      "intern_roles": [
+        "Product Manager Summer 2027 Intern",
+        "Growth Summer 2027 Intern",
+        "Systems Engineer Summer 2027 Intern"
+      ],
+      "open_roles": [],
+      "challenge": "Expo popup sponsor/activation. Meet them on-site; intern reqs are Summer 2027 but the popup is the now conversation.",
+      "challenge_url": null,
+      "challenge_type": "expo_sponsor",
+      "fit": "high",
+      "talking_points": [
+        "Find the popup — that is the intended intern funnel.",
+        "Pick PM vs growth vs systems intern; do not give a generic 'I'll do anything.'",
+        "MCP + long-running agent VMs is the product; bring a tool-using agent demo."
+      ],
+      "sources": [
+        "https://dedaluslabs.ai/",
+        "https://www.ycombinator.com/companies/dedalus-labs"
+      ]
+    },
+    {
+      "name": "Domu",
+      "batch": "S24",
+      "stage": "Series A",
+      "one_liner": "AI Agents for collections",
+      "website": "https://domu.ai/",
+      "yc_url": "https://www.ycombinator.com/companies/domu-technology-inc",
+      "linkedin": "https://www.linkedin.com/company/domu-ai",
+      "what_they_do": "Domu builds voice agents for collections. Series A, ~50 people. Hiring is SWE in Brazil and South Africa plus Senior SWE in SF with 3+ years — not an intern machine.",
+      "who_they_hire": "Software Engineer Brazil, Software Engineer South Africa, Senior Software Engineer SF (3+ years). No intern.",
+      "intern_roles": [],
+      "open_roles": [
+        "Software Engineer Brazil",
+        "Software Engineer - South Africa",
+        "Senior Software Engineer"
+      ],
+      "challenge": null,
+      "challenge_url": null,
+      "challenge_type": "none",
+      "fit": "low",
+      "talking_points": [
+        "SF senior 3+ years or Brazil/SA SWE — US intern is the wrong ask.",
+        "Skip unless you match those geos/levels.",
+        "Collections voice agents if you are full-time and in-geo."
+      ],
+      "sources": [
+        "https://domu.ai/",
+        "https://www.ycombinator.com/companies/domu-technology-inc"
+      ]
+    },
+    {
+      "name": "Pure",
+      "batch": "S23",
+      "stage": "Series A",
+      "one_liner": "Marketplace for Rare Coins & Precious Metals",
+      "website": "https://collectpure.com/",
+      "yc_url": "https://www.ycombinator.com/companies/pure",
+      "linkedin": "https://www.linkedin.com/company/collectpure",
+      "what_they_do": "Pure is a marketplace for rare coins and precious metals. LA-based Series A consumer marketplace, not an AI lab. Hiring PE intern (Summer 2027), growth intern, and fullstack SWE.",
+      "who_they_hire": "Product Engineering Intern (Summer 2027), Growth Marketing Intern, Full-Stack Software Engineer. LA company.",
+      "intern_roles": [
+        "Product Engineering Intern (Summer 2027)",
+        "Growth Marketing Intern"
+      ],
+      "open_roles": ["Full-Stack Software Engineer"],
+      "challenge": null,
+      "challenge_url": null,
+      "challenge_type": "none",
+      "fit": "high",
+      "talking_points": [
+        "Marketplace/product intern energy — not an LLM research pitch.",
+        "Confirm LA vs remote; they are not an SF AI lab.",
+        "Growth intern vs PE intern: pick one and show a shipped consumer/marketplace artifact."
+      ],
+      "sources": [
+        "https://collectpure.com/",
+        "https://www.ycombinator.com/companies/pure"
+      ]
+    },
+    {
+      "name": "Garage",
+      "batch": "W24",
+      "stage": "Series A",
+      "one_liner": "Marketplace for America's most essential assets",
+      "website": "https://shopgarage.com/",
+      "yc_url": "https://www.ycombinator.com/companies/garage-2",
+      "linkedin": "https://www.linkedin.com/company/withgarage",
+      "what_they_do": "Garage is a marketplace for fire trucks and other essential municipal/industrial assets. NYC Series A. Expo sponsor with an intern take-home plus design eng, SWE, and growth SWE roles.",
+      "who_they_hire": "Founding Design Engineer, Software Engineer, Software Engineer Growth. Expo sponsor; intern take-home exists. NYC-based — medium fit if you need SF.",
+      "intern_roles": ["Software Engineering Intern (take-home; confirm current listing)"],
+      "open_roles": [
+        "Founding Design Engineer",
+        "Software Engineer",
+        "Software Engineer, Growth"
+      ],
+      "challenge": "Expo sponsor plus an intern take-home. Complete the sponsor/on-site flow and ask for the intern assignment.",
+      "challenge_url": null,
+      "challenge_type": "expo_sponsor",
+      "fit": "medium",
+      "talking_points": [
+        "NYC company — ask location before investing the take-home.",
+        "Do the expo-sponsor challenge/take-home; that is the intern path.",
+        "Marketplace/growth SWE and design-eng hybrids fit better than research ML."
+      ],
+      "sources": [
+        "https://shopgarage.com/",
+        "https://www.ycombinator.com/companies/garage-2"
+      ]
+    },
+    {
+      "name": "Clipboard",
+      "batch": "W17",
+      "stage": "Growth",
+      "one_liner": "Every shift, Covered.",
+      "website": "https://www.clipboardhealth.com/",
+      "yc_url": "https://www.ycombinator.com/companies/clipboard",
+      "linkedin": "https://www.linkedin.com/company/clipboard-health",
+      "what_they_do": "Clipboard Health staffs healthcare shifts — a large marketplace matching clinicians to facilities. ~1000 people, W17. They have an engineering intern and a Technical Support Engineer case study.",
+      "who_they_hire": "Engineering Intern and Technical Support Engineer (case study). Scaled marketplace, not a 4-person seed.",
+      "intern_roles": ["Engineering Intern"],
+      "open_roles": ["Technical Support Engineer"],
+      "challenge": "TSE hiring uses a case study. Engineering intern is a separate posted intern seat.",
+      "challenge_url": null,
+      "challenge_type": "interview_takehome",
+      "fit": "high",
+      "talking_points": [
+        "Engineering intern is posted — say intern vs TSE case-study path immediately.",
+        "Healthcare staffing marketplace problems (matching, reliability, ops) over model research.",
+        "Large company at a seed-heavy expo; process will feel more formal."
+      ],
+      "sources": [
+        "https://www.clipboardhealth.com/",
+        "https://www.ycombinator.com/companies/clipboard"
+      ]
+    },
+    {
+      "name": "Corgi Insurance",
+      "batch": "S24",
+      "stage": "Unicorn",
+      "one_liner": "Corgi is building an AI financial infrastructure company",
+      "website": "https://www.corgi.insure/",
+      "yc_url": "https://www.ycombinator.com/companies/corgi-insurance",
+      "linkedin": "https://www.linkedin.com/company/corgi-insurance",
+      "what_they_do": "Corgi is an AI insurance carrier / financial infrastructure company that scaled extremely fast (unicorn). Many SWE seats and a work-trial hiring loop. Intern listing appears stale — confirm in person.",
+      "who_they_hire": "Many SWE roles (including trucking insurance), sales engineer, work trials. Intern listing may be stale.",
+      "intern_roles": ["Software Engineer Intern (listing may be stale)"],
+      "open_roles": [
+        "Software Engineer",
+        "Senior Software Engineer, Trucking Insurance",
+        "Sales Engineer"
+      ],
+      "challenge": "Work trial is the main full-time loop. Do not rely on the intern listing without confirming it is live.",
+      "challenge_url": null,
+      "challenge_type": "interview_takehome",
+      "fit": "medium",
+      "talking_points": [
+        "Ask whether the intern req is real before spending a work-trial cycle.",
+        "In-person recruiting has worked here — the expo is on-brand.",
+        "Insurance/fintech SWE and work-trial stamina, not a research pitch."
+      ],
+      "sources": [
+        "https://www.corgi.insure/",
+        "https://www.ycombinator.com/companies/corgi-insurance"
+      ]
+    },
+    {
+      "name": "Mount",
+      "batch": "P26",
+      "stage": "Seed",
+      "one_liner": "AI agent insurance",
+      "website": "https://mount.insure",
+      "yc_url": "https://www.ycombinator.com/companies/mount",
+      "linkedin": "https://www.linkedin.com/company/mountyc26",
+      "what_they_do": "Mount insures AI agents — coverage for the agent economy rather than a traditional personal-lines carrier. P26 company and an expo challenge sponsor. Not on the core 51-company attendee list; they are a bonus sponsor presence.",
+      "who_they_hire": "Expo challenge sponsor. Treat the on-site challenge as the intern/hiring funnel until a req is posted.",
+      "intern_roles": [],
+      "open_roles": [],
+      "challenge": "Expo challenge sponsor. Complete the on-site Mount challenge for guaranteed visibility with the team.",
+      "challenge_url": "https://events.ycombinator.com/2027-summer-internship-expo",
+      "challenge_type": "expo_sponsor",
+      "fit": "medium",
+      "talking_points": [
+        "Do the sponsor challenge even if they are not on your core intern list.",
+        "Agent-economy insurance is a unique angle — ask what a claim looks like when an agent acts.",
+        "P26 seed: intern vs founding is likely invented from strong challenge finishes."
+      ],
+      "sources": [
+        "https://mount.insure",
+        "https://www.ycombinator.com/companies/mount",
+        "https://events.ycombinator.com/2027-summer-internship-expo"
+      ]
+    }
+  ],
+  "sponsors": [
+    {
+      "name": "Mount",
+      "batch": "P26",
+      "role": "Expo challenge sponsor",
+      "website": "https://mount.insure",
+      "yc_url": "https://www.ycombinator.com/companies/mount",
+      "challenge_type": "expo_sponsor"
+    },
+    {
+      "name": "Replit",
+      "batch": "W18",
+      "role": "Expo coding challenge sponsor (guaranteed interviews)",
+      "website": "https://replit.com/careers",
+      "yc_url": "https://www.ycombinator.com/companies/replit",
+      "challenge_type": "expo_sponsor"
+    },
+    {
+      "name": "CTGT",
+      "batch": "F24",
+      "role": "Expo sponsor",
+      "website": "https://ctgt.ai",
+      "yc_url": "https://www.ycombinator.com/companies/ctgt",
+      "challenge_type": "expo_sponsor"
+    },
+    {
+      "name": "Dedalus Labs",
+      "batch": "S25",
+      "role": "Expo popup",
+      "website": "https://dedaluslabs.ai/",
+      "yc_url": "https://www.ycombinator.com/companies/dedalus-labs",
+      "challenge_type": "expo_sponsor"
+    },
+    {
+      "name": "Garage",
+      "batch": "W24",
+      "role": "Expo sponsor + intern take-home",
+      "website": "https://shopgarage.com/",
+      "yc_url": "https://www.ycombinator.com/companies/garage-2",
+      "challenge_type": "expo_sponsor"
+    }
+  ]
+}

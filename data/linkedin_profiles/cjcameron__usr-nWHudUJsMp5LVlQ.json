@@ -1,0 +1,66 @@
+{
+  "luma_user_id": "usr-nWHudUJsMp5LVlQ",
+  "csv_name": "Collin Cameron",
+  "csv_linkedin": "https://www.linkedin.com/in/cjcameron",
+  "enriched_at": "2026-08-12T18:59:59.572298+00:00",
+  "batch_id": "sd_msqgcuh41lygyhc91a",
+  "profile": {
+    "id": "cjcameron",
+    "name": "Collin Cameron",
+    "city": "Oakland, California, United States",
+    "country_code": "US",
+    "position": null,
+    "about": null,
+    "current_company": {
+      "link": "https://www.linkedin.com/company/highlander-robotics-frc-8033?trk=public_profile_topcard-current-company",
+      "name": "Highlander Robotics",
+      "company_id": "highlander-robotics-frc-8033",
+      "location": null
+    },
+    "experience": null,
+    "url": "https://ae.linkedin.com/in/Cjcameron",
+    "educations_details": "University of California, Berkeley",
+    "education": [
+      {
+        "title": "University of California, Berkeley",
+        "url": "https://www.linkedin.com/school/uc-berkeley/",
+        "start_year": "2026",
+        "end_year": "2030",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      },
+      {
+        "start_year": "2022-08",
+        "end_year": "2026-06",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      }
+    ],
+    "avatar": "https://media.licdn.com/dms/image/v2/D5603AQHl2yND9OL51w/profile-displayphoto-scale_200_200/B56Z6vk06RIAAc-/0/1781062130503?e=2147483647&v=beta&t=RNV2s_CDdPMqrScAeHG5CtzeclwV6YIWRe7iiilxt6Y",
+    "followers": 557,
+    "connections": 500,
+    "current_company_company_id": "highlander-robotics-frc-8033",
+    "current_company_name": "Highlander Robotics",
+    "location": "Oakland",
+    "input_url": "https://www.linkedin.com/in/cjcameron",
+    "linkedin_id": "cjcameron",
+    "activity": null,
+    "linkedin_num_id": "1172168290",
+    "banner_image": "https://media.licdn.com/dms/image/v2/D5616AQEJaoGDbwoYiw/profile-displaybackgroundimage-shrink_200_800/B56Z6vobloHUAQ-/0/1781063072340?e=2147483647&v=beta&t=FXQUUS-w00SCVoQbrbA1p32yU5MKjOVMlwIJBahMuzY",
+    "honors_and_awards": null,
+    "similar_profiles": [],
+    "default_avatar": false,
+    "memorialized_account": false,
+    "bio_links": [],
+    "first_name": "Collin",
+    "last_name": "Cameron",
+    "influencer": false,
+    "timestamp": "2026-08-12T18:58:34.912Z",
+    "input": {
+      "url": "https://www.linkedin.com/in/cjcameron"
+    }
+  },
+  "local_photo": "data\\linkedin_photos\\cjcameron__usr-nWHudUJsMp5LVlQ.jpg"
+}

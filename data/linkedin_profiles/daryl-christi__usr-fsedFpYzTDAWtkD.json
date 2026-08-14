@@ -1,0 +1,253 @@
+{
+  "luma_user_id": "usr-fsedFpYzTDAWtkD",
+  "csv_name": "Daryl Christi",
+  "csv_linkedin": "https://www.linkedin.com/in/daryl-christi",
+  "enriched_at": "2026-08-12T19:26:51.914443+00:00",
+  "batch_id": "sd_msqhb4pfm4l4la4zs",
+  "profile": {
+    "id": "daryl-christi",
+    "name": "Daryl C.",
+    "city": "San Francisco Bay Area",
+    "country_code": "US",
+    "position": null,
+    "about": null,
+    "current_company": {
+      "link": "https://www.linkedin.com/company/tesla-motors?trk=public_profile_topcard-current-company",
+      "name": "Tesla",
+      "company_id": "tesla-motors",
+      "location": null
+    },
+    "experience": null,
+    "url": "https://www.linkedin.com/in/Daryl-christi",
+    "educations_details": "University of Southern California",
+    "education": [
+      {
+        "title": "University of Southern California",
+        "url": "https://www.linkedin.com/school/university-of-southern-california/",
+        "start_year": "2025-01",
+        "end_year": "2026-12",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      },
+      {
+        "start_year": "2020-01",
+        "end_year": "2023-03",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      },
+      {
+        "start_year": "2024",
+        "end_year": "2024",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      },
+      {
+        "start_year": "2019-02",
+        "end_year": "2019-12",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      },
+      {
+        "start_year": "2015",
+        "end_year": "2018",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      }
+    ],
+    "avatar": "https://media.licdn.com/dms/image/v2/D5603AQENddYazl1Hqg/profile-displayphoto-scale_200_200/B56Z129OLII8AY-/0/1775817255117?e=2147483647&v=beta&t=kt7M-zNSVIipoIcCJRJf0bzx4bly2J0xq9rZ3KuID1g",
+    "courses": [
+      {
+        "subtitle": "CSCI570",
+        "title": "Analysis of Algorithms"
+      },
+      {
+        "subtitle": "IS122",
+        "title": "Application Programming"
+      },
+      {
+        "subtitle": "CS211",
+        "title": "Computer Organization"
+      },
+      {
+        "subtitle": "IS202",
+        "title": "Data Science"
+      },
+      {
+        "subtitle": "INFO6105",
+        "title": "Data Science Engineering Methods"
+      },
+      {
+        "subtitle": "CS112",
+        "title": "Data Structures and Algorithms"
+      },
+      {
+        "subtitle": "IS222",
+        "title": "Database Management Systems"
+      },
+      {
+        "subtitle": "CS214",
+        "title": "Design & Analysis of Algorithms"
+      },
+      {
+        "subtitle": "MA161",
+        "title": "Discrete Mathematics"
+      },
+      {
+        "subtitle": "UU200",
+        "title": "Ethics & Good Governance"
+      },
+      {
+        "subtitle": "CS111",
+        "title": "Introduction to Computing Science"
+      },
+      {
+        "subtitle": "IS121",
+        "title": "Introduction to Information Systems"
+      },
+      {
+        "subtitle": "MA111",
+        "title": "Linear Algebra & Calculus 1"
+      },
+      {
+        "subtitle": "CS218",
+        "title": "Mobile Middleware"
+      },
+      {
+        "subtitle": "CS311",
+        "title": "Operating Systems"
+      },
+      {
+        "subtitle": "UU204",
+        "title": "Pacific Worlds"
+      },
+      {
+        "subtitle": "ST130",
+        "title": "Statistics"
+      },
+      {
+        "subtitle": "IS221",
+        "title": "Web App Development"
+      }
+    ],
+    "languages": [
+      {
+        "subtitle": "Native or bilingual proficiency",
+        "title": "English"
+      },
+      {
+        "subtitle": "Native or bilingual proficiency",
+        "title": "Gujarati"
+      }
+    ],
+    "certifications": [
+      {
+        "meta": "Issued Mar 2024 Credential ID D7172DD7BD05EB48 See credential",
+        "subtitle": "Microsoft",
+        "title": "Microsoft Certified: Azure Fundamentals (AZ-900)",
+        "credential_url": "https://learn.microsoft.com/api/credentials/share/en-us/DarylChristi-4616/D7172DD7BD05EB48?sharingId&trk=public_profile_see-credential",
+        "credential_id": "D7172DD7BD05EB48"
+      },
+      {
+        "meta": "Issued Jan 2024 Credential ID 7647667171372519825-FJ",
+        "subtitle": "SSI Scuba Schools International",
+        "title": "Open Water Diver",
+        "credential_url": null,
+        "credential_id": "7647667171372519825-FJ"
+      },
+      {
+        "meta": "Issued Jul 2022",
+        "subtitle": "The University of the South Pacific",
+        "title": "IEEE Arduino Uno Workshop",
+        "credential_url": null,
+        "credential_id": null
+      },
+      {
+        "meta": "Issued May 2021 Credential ID 3K3HEnXwH3caXqJDr See credential",
+        "subtitle": "Forage",
+        "title": "Data@ANZ Program",
+        "credential_url": "https://insidesherpa.s3.amazonaws.com/completion-certificates/ANZ/ZLJCsrpkHo9pZBJNY_ANZ_3K3HEnXwH3caXqJDr_completion_certificate.pdf?trk=public_profile_see-credential",
+        "credential_id": "3K3HEnXwH3caXqJDr"
+      },
+      {
+        "meta": "Issued Sep 2024 Expires Sep 2027 Credential ID 70e9e489b0344df8b24674e6fcf40c5b See credential",
+        "subtitle": "Amazon Web Services (AWS)",
+        "title": "AWS Certified: Solutions Architect \u2013 Associate (SAA-C03)",
+        "credential_url": "https://www.credly.com/badges/dd9f3632-4c44-4a8e-93b3-d02c22bea6a9/linked_in_profile?trk=public_profile_see-credential",
+        "credential_id": "70e9e489b0344df8b24674e6fcf40c5b"
+      }
+    ],
+    "volunteer_experience": [
+      {
+        "cause": "Education",
+        "duration": "Jan 2022 \u00b7 - Present \u00b7 \n\n4 years 8 months",
+        "duration_short": "- Present",
+        "info": "Volunteer in the Campus Life First Year Experience (CL FYE) Buddy Program which is designed to link senior students (known as buddies) to first year students to help them find support from each other through non- academic Buddy groups during their First Year of study at The University of the South Pacific (USP). Responsibilities include the following; \u2022 Providing guided tours for first year students. \u2022 Providing non- academic advice. \u2022 Assisting students during orientation\u2026 Show more Volunteer in the Campus Life First Year Experience (CL FYE) Buddy Program which is designed to link senior students (known as buddies) to first year students to help them find support from each other through non- academic Buddy groups during their First Year of study at The University of the South Pacific (USP). Responsibilities include the following; \u2022 Providing guided tours for first year students. \u2022 Providing non- academic advice. \u2022 Assisting students during orientation week. \u2022 Ensuring a smooth transition for new students. Show less",
+        "start_date": "Jan 2022",
+        "subtitle": "The University of the South Pacific",
+        "title": "Campus Life First Year Experience Buddy"
+      },
+      {
+        "cause": "Education",
+        "duration": "Sep 2019 \u00b7 - Present \u00b7 \n\n7 years",
+        "duration_short": "- Present",
+        "info": "Informed high school students of the different faculties and courses within the university to enable them to make appropriate decisions regarding their future education.",
+        "start_date": "Sep 2019",
+        "subtitle": "The University of the South Pacific",
+        "title": "Student Volunteer at Open Day"
+      }
+    ],
+    "followers": 1118,
+    "connections": 500,
+    "current_company_company_id": "tesla-motors",
+    "current_company_name": "Tesla",
+    "location": null,
+    "input_url": "https://www.linkedin.com/in/daryl-christi",
+    "linkedin_id": "daryl-christi",
+    "activity": null,
+    "linkedin_num_id": "900020024",
+    "banner_image": "https://media.licdn.com/dms/image/v2/D5616AQGYDGvdYcVnSg/profile-displaybackgroundimage-shrink_200_800/B56ZvvTIgvHAAU-/0/1769246330916?e=2147483647&v=beta&t=corSy3wEMx-_B2LGweSUlgobajjBhdgk6H19dFucTp0",
+    "honors_and_awards": [
+      {
+        "title": "1st Place UNDP RTI Hackathon",
+        "publication": "University of the South Pacific",
+        "date": "2022-05-01T00:00:00.000Z",
+        "description": "Prototyped and pitched a food delivery app that tackles the problem of food wastage."
+      },
+      {
+        "title": "1st Place Teens in Artificial Intelligence 2021 Global Hackathon - Fiji",
+        "publication": "Teens In AI",
+        "date": "2021-03-01T00:00:00.000Z",
+        "description": "Prototyped an e-learning platform for students during COVID 19."
+      },
+      {
+        "title": "Certificate of Completion : The Complete 2021 Web Development Bootcamp",
+        "publication": "Udemy",
+        "date": "2021-02-01T00:00:00.000Z",
+        "description": null
+      },
+      {
+        "title": "Certificate of Distinction at the Australian Mathematics Competition",
+        "publication": "Canberra Mathematical Association",
+        "date": "2017-01-01T00:00:00.000Z",
+        "description": null
+      }
+    ],
+    "similar_profiles": [],
+    "default_avatar": false,
+    "memorialized_account": false,
+    "bio_links": [],
+    "first_name": "Daryl",
+    "last_name": "C.",
+    "influencer": false,
+    "timestamp": "2026-08-12T19:25:16.343Z",
+    "input": {
+      "url": "https://www.linkedin.com/in/daryl-christi"
+    }
+  },
+  "local_photo": "data\\linkedin_photos\\daryl-christi__usr-fsedFpYzTDAWtkD.jpg"
+}

@@ -1,0 +1,107 @@
+{
+  "luma_user_id": "usr-vl0x7KhLIW6lTPq",
+  "csv_name": "August",
+  "csv_linkedin": "https://www.linkedin.com/in/august-andersen",
+  "enriched_at": "2026-08-12T18:58:28.966511+00:00",
+  "batch_id": "sd_msqgad6c2eeefcaqas",
+  "profile": {
+    "id": "august-andersen",
+    "name": "August Andersen",
+    "city": "San Francisco Bay Area",
+    "country_code": "US",
+    "position": null,
+    "about": null,
+    "current_company": {
+      "link": "https://www.linkedin.com/company/abundant-ai?trk=public_profile_topcard-current-company",
+      "name": "Abundant",
+      "company_id": "abundant-ai",
+      "location": null
+    },
+    "experience": null,
+    "url": "https://sg.linkedin.com/in/august-andersen",
+    "educations_details": "Yale University",
+    "education": [
+      {
+        "title": "Yale University",
+        "url": "https://www.linkedin.com/school/yale-university/",
+        "start_year": "2026",
+        "end_year": "2030",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      },
+      {
+        "start_year": "2022",
+        "end_year": "2026",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      }
+    ],
+    "avatar": "https://static.licdn.com/aero-v1/sc/h/9c8pery4andzj6ohjkjp54ma2",
+    "languages": [
+      {
+        "subtitle": "Native or bilingual proficiency",
+        "title": "English"
+      },
+      {
+        "subtitle": "Native or bilingual proficiency",
+        "title": "Danish"
+      },
+      {
+        "subtitle": "Professional working proficiency",
+        "title": "Spanish"
+      },
+      {
+        "subtitle": "Professional working proficiency",
+        "title": "Swedish"
+      }
+    ],
+    "followers": 939,
+    "connections": 500,
+    "current_company_company_id": "abundant-ai",
+    "current_company_name": "Abundant",
+    "location": null,
+    "input_url": "https://www.linkedin.com/in/august-andersen",
+    "linkedin_id": "august-andersen",
+    "activity": null,
+    "linkedin_num_id": "1209826660",
+    "banner_image": "https://media.licdn.com/dms/image/v2/D5616AQGjQiNYRP31Gw/profile-displaybackgroundimage-shrink_200_800/B56ZsA7KSxIsAU-/0/1765247068805?e=2147483647&v=beta&t=v1iLnwfJoCDAWn1CHk9vHRfkaG0yo57Kiq9feIRWxcM",
+    "honors_and_awards": [
+      {
+        "title": "Congressional App Challenge Winner",
+        "publication": "US Congress",
+        "date": "2025-12-01T00:00:00.000Z",
+        "description": null
+      },
+      {
+        "title": "ICDC, 4th Place",
+        "publication": "DECA Inc.",
+        "date": "2025-04-01T00:00:00.000Z",
+        "description": "fourth place in entrepreneurship internationally best business case study score in the world"
+      },
+      {
+        "title": "National Merit Scholar",
+        "publication": "-",
+        "date": null,
+        "description": null
+      }
+    ],
+    "similar_profiles": [],
+    "default_avatar": true,
+    "memorialized_account": false,
+    "bio_links": [
+      {
+        "title": "Personal Website",
+        "link": "https://augustandersen.com/"
+      }
+    ],
+    "first_name": "August",
+    "last_name": "Andersen",
+    "influencer": false,
+    "timestamp": "2026-08-12T18:56:42.253Z",
+    "input": {
+      "url": "https://www.linkedin.com/in/august-andersen"
+    }
+  }
+}

@@ -1,0 +1,145 @@
+{
+  "luma_user_id": "usr-GezlWWNkDi1nwHH",
+  "csv_name": "Srikara Vishnubhatla",
+  "csv_linkedin": "https://www.linkedin.com/in/srikara-vishnubhatla-674824289",
+  "enriched_at": "2026-08-12T19:18:07.767105+00:00",
+  "batch_id": "sd_msqh0fwb1tv6mjnbrd",
+  "profile": {
+    "id": "srikara-vishnubhatla-674824289",
+    "name": "Srikara Vishnubhatla",
+    "city": "St Paul, Minnesota, United States",
+    "country_code": "US",
+    "position": null,
+    "about": null,
+    "current_company": {
+      "link": "https://www.linkedin.com/company/prophecy-gov?trk=public_profile_topcard-current-company",
+      "name": "Prophecy Gov",
+      "company_id": "prophecy-gov",
+      "location": null
+    },
+    "experience": null,
+    "url": "https://pl.linkedin.com/in/Srikara-vishnubhatla-674824289",
+    "educations_details": "Yale University",
+    "education": [
+      {
+        "title": "Yale University",
+        "url": "https://www.linkedin.com/school/yale-university/",
+        "start_year": "2024-08",
+        "end_year": "2028-05",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      }
+    ],
+    "avatar": "https://media.licdn.com/dms/image/v2/D5603AQFPxS2oAdgRsQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1692677280552?e=2147483647&v=beta&t=0VqsvzCyTBREgG6M6yp5DiLGzwkwEkglL6WXv_mwUm4",
+    "followers": 604,
+    "connections": 418,
+    "current_company_company_id": "prophecy-gov",
+    "current_company_name": "Prophecy Gov",
+    "projects": [
+      {
+        "title": "An Exploratory Analysis of Mosaic Chromosomal Aberrations in the Canine Genome: Towards a Comparative Genomics Model",
+        "description": "Employed Shannon entropy and the MoChA pipeline (from the Broad Institute) to identify 5 novel biomarkers for cancer in canine genomes. First to detect mosaic chromosomal aberrations in dogs; corresponding human biomarkers identified. Findings were presented at the Broad Institute and at the Research Science Institute Symposium. Was identified as a top 300 entry in the Regeneron Science Talent Search."
+      },
+      {
+        "title": "smFRET.ai",
+        "description": "Designed and deployed a fully functional software suite for data analysis in single molecule FRET experiments with the Kobilka Lab at Stanford School of Medicine. Data filtration process fully automated via an RNN-LSTM pipeline with cross-validation for filtering smFRET time-series trace data.Work integrated into multiple published and internal studies. Examples include:Janetzko, J., Shivnaraine, R., Deutsch, J. C., Shi, Y., Liu, W., Masureel, ... & Kobilka, B. K. (2024). How membranes shape the \u03b2-arrestin conformational landscape to provide spatiotemporal control of GPCR desensitization and trafficking. The Journal of Pharmacology and Experimental Therapeutics, 389, 558.Janetzko, J., Inoue, A., Shi, Y., Deutsch, J. C., Ray, K. K., Masureel, M., ... & Shivnaraine, R. (2023). Arrestin C-tail dynamics regulate activation and GPCR engagement. Biophysical Journal, 122(3), 49a."
+      }
+    ],
+    "location": "St Paul",
+    "input_url": "https://www.linkedin.com/in/srikara-vishnubhatla-674824289",
+    "linkedin_id": "srikara-vishnubhatla-674824289",
+    "activity": [
+      {
+        "interaction": "Srikara Vishnubhatla liked this",
+        "link": "https://www.linkedin.com/posts/reyanshbahl_coursetable-2025-spring-2026-release-notes-activity-7454537354335264768-rC7G",
+        "title": "Proud of what the CourseTable team has shipped this past year: lots of new features (maps, profile pages, wishlists, and more!), and hard backend work to keep everything (including our scraper) up and running. Full writeup here if you use CourseTable or care about student-built tools. https://lnkd.in/expJYe3B",
+        "img": null,
+        "id": "2025"
+      },
+      {
+        "interaction": "Srikara Vishnubhatla liked this",
+        "link": "https://www.linkedin.com/posts/vedh-kannan-001b20225_a-lot-has-happened-over-the-last-few-months-activity-7416183931441487872-1rZe",
+        "title": "A lot has happened over the last few months, so thought I\u2019d post an update. In September, Tim Farrelly invited me to Demos Anon, where I showcased a drug discovery tool I\u2019d been working on to predict ADMET properties. While there, I met Lee Sherlock , and a few days before heading back to London I had a great chat with him and Brendan Martin about Meta-flux . Upon returning to London, Joe Michael Sakamura Sissons and I presented our module selection tool as part of the UCL Innovation Lab, where our project was selected for the Student Choice Award! Not long after, I found out that I\u2019d been accepted into the Patch SF fellowship. Spending 10 days in November in the Bay Area was amazing. I visited the Arc Institute and Stanford, met people at EF in San Francisco, and had lunch with Patrick Collison . It really opened my eyes to the range of opportunities and paths available. After more conversations with Lee and Brendan in Dublin, they offered me a part-time role in bioinformatics at Meta-Flux. The first week has been great and I'm excited to learn from the rest of the team, and contribute to the mission. ...more ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQF-QrRLdhRUGQ/feedshare-shrink_800/B4EZuuT_GTLsAg-/0/1768156034013?e=2147483647&v=beta&t=u_FYR5mC4P3duar0FAsh01qqin7mIYSnZj8rMyYr69Y",
+        "id": "7416183931441487872"
+      },
+      {
+        "interaction": "Srikara Vishnubhatla liked this",
+        "link": "https://www.linkedin.com/posts/charles-maddock-31798418b_weve-raised-6m-from-general-catalyst-eqt-activity-7383759767208345601-0QJQ",
+        "title": "We've raised $6M from General Catalyst, EQT Ventures, and founders of Lovable , Hugging Face and Supabase . Strawberry is much more than a browser, it's the most intuitive platform for teams to deploy AI agents. Let me explain. Most people already spend 80% of their day inside a browser. In the browser we research, communicate, write documents, deploy apps. We also waste hours doing repetitive grunt work: \u2022 Mindlessly sourcing hundreds of leads \u2022 Digging through old emails \u2022 Copying meeting notes into CRMs In the age of AI agents, you shouldn't need to do repetitive work like this. Yet, when you try to automate grunt work like this with AI today, you either need to code or learn loads of new complex interfaces. With Strawberry, it's easy. Download Strawberry and get a beautiful browser with bleeding edge AI automation out-of-the-box. No complex new interfaces, no coding, no switching between apps - just your familiar browser, supercharged with AI. In Strawberry, you'll get to set up your own team of \"AI Companions\", which are essentially small interns that live inside the browser that can be taught to do tasks for you. Want to automate on HubSpot, LinkedIn, Bullhorn, even your old internal dashboard? Your own team of AI companions inside Strawberry will just open their own tabs and start clicking around to get the job done! By building Strawberry, our mission is to make AI agents accessible to everyone and help modern workers do what they love, and skip the busy work. Today we're releasing limited access to Strawberry's Beta - first 10k sign-ups get free access, go to our website to get access, link in comments. ...more ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D4D05AQGDizpH_YkKPw/videocover-high/B4DZnhh6UUIcB0-/0/1760425485948?e=2147483647&v=beta&t=uE6Xuqf4R8jSik_xbZKlsJ9GlrV8L3OWFCWVcIr3XoU",
+        "id": "7383759767208345601"
+      },
+      {
+        "interaction": "Srikara Vishnubhatla liked this",
+        "link": "https://www.linkedin.com/posts/radostin-cholakov-bb4422146_two-years-ago-i-wouldnt-have-imagined-that-activity-7383604878167674880-bEdV",
+        "title": "Two years ago I wouldn\u2019t have imagined that this is possible! Today we're launching Polymath - a tool that lets you generate math explainer videos of up to two minutes in the style of 3Blue1Brown from a simple text prompt. Check it out at https://lnkd.in/dyjPkt3u and get 100+ videos worth of credits by commenting \"3bleu1brown\" below! Polymath is only a small part of a much larger platform that Joe Li , Matthew Li , and I have been working on and will be launching soon. It\u2019s a showcase of the kind of apps you'll be able to build in minutes with AI workflows. Stay tuned. ...more ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D4D05AQHyy7zuT4LA4Q/videocover-high/B4DZnfVbuCIgB8-/0/1760388575713?e=2147483647&v=beta&t=mKlDHrgvy_Z9PoSxIxB8KTn61_FJ21MVHMqq7cMoPYA",
+        "id": "7383604878167674880"
+      },
+      {
+        "interaction": "Srikara Vishnubhatla liked this",
+        "link": "https://www.linkedin.com/posts/eunicelai1_im-dropping-out-of-school-as-an-international-activity-7366492624901361665-2qdu",
+        "title": "I'm dropping out of school as an international student in the US to build a startup\u2026 Just kidding. I'm legally not allowed to do this. But what I am doing is trying to graduate early so I can jump right back in as soon as possible. That's the thing, we're given opportunities every day, but we have to be able to see them. Opportunities don't wait for you, so you have to fight for them. Back in Februrary, I received a call at 1am to complete a task for a startup. The easy way out was to pretend I was asleep and deal with it the next day, but instead I stayed up until 8am finishing this task despite having an exam later that day. This commitment helped me land a CMO role at this startup, and little did I know, this company would blow up over the summer, giving me the platform I have today. Many of the positive things I'm experiencing in my life now happened because I chased after an opportunity that changed everything. I now have the flexibility to choose what vertical I want to work in and connect with some of the most powerful and interesting people in the space. It was a hard choice to stop applying for internships, put my full trust in something not as stable as a corporate job, and work long hours throughout the summer, but now I'm living a much more comfortable life. Not in the physical sense, as I plan on flying between school and SF to continue working on my current startup, but in the way where I can put the puzzle pieces of my life together faster to reach my dreams. I used to be scared of saying yes from a fear of failure, but now I take in whatever opportunities come my way. I put myself in places that spark conversations or introductions, and no longer fear \"looking stupid\" for asking questions that may guide me in the right direction. As recruiting season fires up again, just remember to stay proactive. Go for every opportunity you see, no matter how far-fetched it may seem. Featuring my room in Pittsburgh that i'm obsessed with ...more ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D4D22AQErJSXOE2eubQ/feedshare-shrink_800/B4DZjsJ.UOG8Ak-/0/1756308702950?e=2147483647&v=beta&t=CseTDFfI1rJqm7af-ts7aMaD5jJogSeXcD0ja29t9Dw",
+        "id": "7366492624901361665"
+      },
+      {
+        "interaction": "Srikara Vishnubhatla liked this",
+        "link": "https://www.linkedin.com/posts/charles-englander-770b97264_i-just-landed-at-the-new-la-guardia-terminal-activity-7361499380735959040-xYZA",
+        "title": "I just landed at the new La Guardia terminal and the first thing I see is this dog shit software from the 90s This place is one of the most futuristic airports in the country - costing 8 billion dollars - yet this is the state of the software. The reason? An enterprise doesn\u2019t buy software because of what it can do. They never have. And they never will. They buy software because of how easy it is to install. Does it come with an army of consultants to implement? Does it comply with the regulations of my industry? Is the sales rep buddies with the contractor I work with and has my entire process mapped out before I pick up the phone? That is why shitty software wins. Stop innovating on the wrong things. ...more ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQGYpofUzrYsYw/feedshare-image-high-res/B4EZilMqzeHIAs-/0/1755118221927?e=2147483647&v=beta&t=225m2gY4U9NaqD6ZXKV1eA7EAAbK6EvfKMyqnmnQ1Kw",
+        "id": "7361499380735959040"
+      },
+      {
+        "interaction": "Srikara Vishnubhatla liked this",
+        "link": "https://www.linkedin.com/posts/charles-englander-770b97264_sea12-technologies-jobs-activity-7350227499487846400-bREr",
+        "title": "We\u2019ve been growing faster than we can keep track of, and we\u2019re hiring at Sea12 across engineering and operations. Sea12 is the Forward Deployed Engineering company built for critical industries, such as Manufacturing, Logistics, and Construction. We work boots on the ground with steel, chemicals, and logistics companies helping bring critical industries back to America. We\u2019re well funded from leading VCs, are growing quickly, and in only months have secured enterprise scale engagements with lasting impact. If you want to build things that drive tangible outcomes you can see with your own eyes, DM me or apply at https://lnkd.in/ensFTk8a ...more ...more",
+        "img": "https://media.licdn.com/dms/image/sync/v2/D4E27AQEJkC5MpXW6Qw/articleshare-shrink_800/B4EZgFA7gtGoAM-/0/1752430786878?e=2147483647&v=beta&t=p0_c1V7O0uymosX9L6yiPsb031KKm8kXhuSStkcLhFA",
+        "id": "7350227499487846400"
+      },
+      {
+        "interaction": "Srikara Vishnubhatla liked this",
+        "link": "https://www.linkedin.com/posts/hannan-hussain-71332b148_nora-recruiting-aiinterviews-activity-7343298723369598978-i7_5",
+        "title": "We just built the Cluely kryptonite. Our AI interviewer, Nora AI , now detects cheating \u2014 and yes, Cluely, the \u201cundetectable\u201d cheating tool, was first to be exposed Sorry Chungin Lee \u2014 respect the hustle, but not in our house \ud83e\udd37 #nora #recruiting #aiinterviews #startups ...more ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D5605AQHbXVBe5_QbTA/videocover-high/B56ZefuDdxGoB8-/0/1750731346425?e=2147483647&v=beta&t=mrl2q6i68S39r7riRAIU5HTKReJBXVOm1GK0kX6sD-0",
+        "id": "7343298723369598978"
+      }
+    ],
+    "linkedin_num_id": "1175531704",
+    "banner_image": "https://static.licdn.com/aero-v1/sc/h/5q92mjc5c51bjlwaj3rs9aa82",
+    "honors_and_awards": [
+      {
+        "title": "Regeneron Science Talent Search Scholar",
+        "publication": "Society for Science",
+        "date": "2024-01-01T00:00:00.000Z",
+        "description": "Was top 300 scholar in the 2024 Regeneron STS."
+      },
+      {
+        "title": "Lillehei Heart Institute Summer Scholars Award",
+        "publication": "Lillehei Heart Institute",
+        "date": "2023-05-01T00:00:00.000Z",
+        "description": "Was one of two selected high school students in Minnesota to conduct wet lab biological research at the Lillehei Heart Institute."
+      },
+      {
+        "title": "USABO Semifinalist",
+        "publication": "Center for Excellence in Education",
+        "date": "2021-02-01T00:00:00.000Z",
+        "description": "Was selected as a semifinalist in the United States Biolympiad"
+      }
+    ],
+    "similar_profiles": [],
+    "default_avatar": false,
+    "memorialized_account": false,
+    "bio_links": [],
+    "first_name": "Srikara",
+    "last_name": "Vishnubhatla",
+    "influencer": false,
+    "timestamp": "2026-08-12T19:17:54.854Z",
+    "input": {
+      "url": "https://www.linkedin.com/in/srikara-vishnubhatla-674824289"
+    }
+  },
+  "local_photo": "data\\linkedin_photos\\srikara-vishnubhatla-674824289__usr-GezlWWNkDi1nwHH.jpg"
+}

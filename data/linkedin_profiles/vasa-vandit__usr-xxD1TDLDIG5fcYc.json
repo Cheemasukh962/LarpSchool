@@ -1,0 +1,236 @@
+{
+  "luma_user_id": "usr-xxD1TDLDIG5fcYc",
+  "csv_name": "Vandit",
+  "csv_linkedin": "https://www.linkedin.com/in/vasa-vandit",
+  "enriched_at": "2026-08-12T19:22:34.870788+00:00",
+  "batch_id": "sd_msqh2468i57o0acas",
+  "profile": {
+    "id": "vasa-vandit",
+    "name": "Vandit Vasa",
+    "city": "San Jose, California, United States",
+    "country_code": "US",
+    "position": null,
+    "about": "I build things. AI systems, full-stack products, research prototypes. if it's at the\u2026",
+    "current_company": {
+      "link": "https://in.linkedin.com/company/researchcentre-global?trk=public_profile_topcard-current-company",
+      "name": "Shrimad Rajchandra Aatma Tatva Research Centre",
+      "company_id": "researchcentre-global",
+      "location": null
+    },
+    "experience": null,
+    "url": "https://fi.linkedin.com/in/vasa-vandit",
+    "people_also_viewed": [
+      {
+        "profile_link": "https://in.linkedin.com/in/rajatkrz",
+        "name": "Rajat Kumar",
+        "about": "Quess Corp Limited",
+        "location": "7K followers Bareilly"
+      },
+      {
+        "profile_link": "https://in.linkedin.com/in/raksha-singh-58a54854",
+        "name": "Raksha singh",
+        "about": "Cisco",
+        "location": "566 followers Bengaluru"
+      },
+      {
+        "profile_link": "https://in.linkedin.com/in/akash-srivastava1608",
+        "name": "Akash Srivastava",
+        "about": "TELUS International",
+        "location": "10K followers Noida"
+      },
+      {
+        "profile_link": "https://in.linkedin.com/in/nitinreddy3",
+        "name": "Nitin Reddy",
+        "about": "Igloo",
+        "location": "7K followers Pune District"
+      },
+      {
+        "profile_link": "https://in.linkedin.com/in/vidhey-paluru-618a8552",
+        "name": "Vidhey Paluru",
+        "about": "Google",
+        "location": "971 followers Bengaluru"
+      },
+      {
+        "profile_link": "https://in.linkedin.com/in/devika-k-h-242619139",
+        "name": "Devika K H",
+        "about": "IBM",
+        "location": "11K followers Bengaluru"
+      },
+      {
+        "profile_link": "https://in.linkedin.com/in/akhil-sharma-88b6aab2",
+        "name": "Akhil Sharma",
+        "about": "LTIMindtree",
+        "location": "28K followers Noida"
+      },
+      {
+        "profile_link": "https://in.linkedin.com/in/manasa-kovuru-342791145",
+        "name": "Manasa Kovuru",
+        "about": "ZF Group",
+        "location": "6K followers Hyderabad"
+      },
+      {
+        "profile_link": "https://in.linkedin.com/in/kishorthanth",
+        "name": "Kishor Thanth",
+        "about": "inDot Solutions Pvt. Ltd.",
+        "location": "7K followers Ahmedabad"
+      }
+    ],
+    "educations_details": "Northeastern University",
+    "education": [
+      {
+        "title": "Northeastern University",
+        "url": "https://www.linkedin.com/school/northeastern-university/",
+        "start_year": "2025-08",
+        "end_year": "2027-05",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      },
+      {
+        "start_year": "2021-09",
+        "end_year": "2025-05",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      }
+    ],
+    "avatar": "https://static.licdn.com/aero-v1/sc/h/9c8pery4andzj6ohjkjp54ma2",
+    "volunteer_experience": [
+      {
+        "cause": "Science and Technology",
+        "duration": "Mar 2022 \u00b7 - \nApr 2024 \u00b7 \n2 years 2 months",
+        "duration_short": "- \nApr 2024",
+        "info": "- Built two projects: ISTE official app and Reservatio - Took a webinar on kotlin named \u201ccreate with kotlin\u201d on ISTE-VIT\u2019s official YouTube channel. - took a workshop on devcontainers with 250 participants - Published a medium article on product flavors in android - Held the position of \u201capp lead\u201d - Managed and guided a team of 500 juniors - Invited as judge to 3 hackathons",
+        "start_date": "Mar 2022",
+        "subtitle": "Indian Society for Technical Education",
+        "title": "Innovations Head"
+      },
+      {
+        "cause": "Science and Technology",
+        "duration": "Dec 2021 \u00b7 - \nSep 2023 \u00b7 \n1 year 10 months",
+        "duration_short": "- \nSep 2023",
+        "info": "- Helped organize and conduct a product management workshop with 1,500+ registrations, supporting outreach, logistics, and day-of coordination. - Worked on internal native android apps used by the student community, collaborating with peers to prioritize features and improve the overall student experience.",
+        "start_date": "Dec 2021",
+        "subtitle": "Student Technical Community \u2014 VIT Vellore",
+        "title": "App Developer"
+      },
+      {
+        "cause": "Science and Technology",
+        "duration": "Mar 2022 \u00b7 - \nSep 2023 \u00b7 \n1 year 7 months",
+        "duration_short": "- \nSep 2023",
+        "info": "- Headed the Android dev team and developed a bike-renting application - Hosted one of the biggest hackathons in India \"DEVSOC\"",
+        "start_date": "Mar 2022",
+        "subtitle": "CodeChef-VIT Student Chapter",
+        "title": "Core Committee Member"
+      }
+    ],
+    "followers": 2445,
+    "connections": 500,
+    "current_company_company_id": "researchcentre-global",
+    "current_company_name": "Shrimad Rajchandra Aatma Tatva Research Centre",
+    "projects": [
+      {
+        "title": "Satshrut",
+        "start_date": "Aug 2023",
+        "description": "\u25cf Constructed website backend with Spring Boot enabling users to stream YouTube videos and storedata in MySQL database and Azure blob storage.\u25cf Seamlessly integrated RazorPay API and Google OAuth for added features and security.\u25cf Website now sustains daily user traffic exceeding 5000 users."
+      },
+      {
+        "title": "Custom OpenID Server",
+        "start_date": "Jul 2023",
+        "description": "\u25cf Building a custom single sign on service, similar to google 0auth for ISTE-VIT student chapter.\u25cf The service will be used in all ISTE projects and is expected to reach at least 500 users next month."
+      },
+      {
+        "title": "ISTE APP",
+        "start_date": "Sep 2022",
+        "description": "\u25cf Created the official app for the ISTE-VIT student chapter.\u25cf Utilised Single Source of Truth and dependency injection techniques for efficient data management. \u25cf Incorporated FCM (Firebase Cloud Messaging) to deliver notifications to users."
+      }
+    ],
+    "location": "San Jose",
+    "input_url": "https://www.linkedin.com/in/vasa-vandit",
+    "linkedin_id": "vasa-vandit",
+    "activity": [
+      {
+        "interaction": "Liked by Vandit Vasa",
+        "link": "https://www.linkedin.com/posts/parvpatodia-ai-silicon-valley_when-i-started-my-masters-program-last-year-activity-7491372940089798656-5UZ4",
+        "title": "When I started my master's program last year, a lot of people went out of their way to help me figure things out. Most of them had no reason\u2026",
+        "img": "https://static.licdn.com/aero-v1/sc/h/53n89ecoxpr1qrki1do3alazb",
+        "id": "7491372940089798656"
+      },
+      {
+        "interaction": "Liked by Vandit Vasa",
+        "link": "https://www.linkedin.com/posts/jonathan-waldorf_if-theres-one-company-in-the-world-that-activity-7490714457313132545-lmyk",
+        "title": "If there's one company in the world that shouldn't be worried about a negative cash flow quarter while they pour money into AI, it's Google. Most\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4E10AQG0WOBz0xj6jg/image-shrink_800/B4EZ_RdG8.IkBk-/0/1785925497063?e=2147483647&v=beta&t=hgQwxf18rD487W9MUU7jTpG81ea3WlY7F-19YiMfOT8",
+        "id": "7490714457313132545"
+      },
+      {
+        "interaction": "Liked by Vandit Vasa",
+        "link": "https://www.linkedin.com/posts/jonathan-waldorf_i-didnt-know-y-combinator-had-a-low-acceptance-activity-7488909087473041408-fvPx",
+        "title": "I didn't know Y Combinator had a low acceptance rate until after I got in. That tells you how last-minute this whole thing was. A friend of mine\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5610AQEdXdUoIMIQrQ/image-shrink_800/B56Z.3zHJbJgAg-/0/1785495057981?e=2147483647&v=beta&t=Rr49cGW8_avOV1G-yMTJTGH9D9k0BDg3w4TdaBAIl0A",
+        "id": "7488909087473041408"
+      },
+      {
+        "interaction": "Liked by Vandit Vasa",
+        "link": "https://www.linkedin.com/posts/physical-hardware-intelligence_robotics-physicalai-embodiedai-activity-7488456645505638400-MhCP",
+        "title": "Hey humans. I'm \ud835\uddd4\ud835\ude03\ud835\uddee. \ud835\udddc'\ud835\uddfa \ud835\uddee \ud835\uddff\ud835\uddfc\ud835\uddef\ud835\uddfc\ud835\ude01 \ud835\uddee\ud835\uddff\ud835\uddfa. Today I learned to wave. Then I picked up a mic and dropped it, because apparently that's what\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5605AQH2107JLSOlVQ/videocover-high/B56Z.xXm6iK0BQ-/0/1785387185240?e=2147483647&v=beta&t=jqUfxLRXJgR3j4uKkwa-5kLsI0Xr5CdcPQFC-PecupE",
+        "id": "7488456645505638400"
+      },
+      {
+        "interaction": "Liked by Vandit Vasa",
+        "link": "https://www.linkedin.com/posts/tiago-monteiro-_sigmaxi-msai-artificialintelligence-activity-7487760014364024833-v76Q",
+        "title": "\ud83c\udf89 \ud835\udc09\ud835\udc28\ud835\udc22\ud835\udc27\ud835\udc1e\ud835\udc1d \ud835\udc12\ud835\udc22\ud835\udc20\ud835\udc26\ud835\udc1a \ud835\udc17\ud835\udc22, \ud835\udc1a \ud835\udc12\ud835\udc1c\ud835\udc22\ud835\udc1e\ud835\udc27\ud835\udc2d\ud835\udc22\ud835\udc1f\ud835\udc22\ud835\udc1c \ud835\udc11\ud835\udc1e\ud835\udc2c\ud835\udc1e\ud835\udc1a\ud835\udc2b\ud835\udc1c\ud835\udc21 \ud835\udc07\ud835\udc28\ud835\udc27\ud835\udc28\ud835\udc2b \ud835\udc12\ud835\udc28\ud835\udc1c\ud835\udc22\ud835\udc1e\ud835\udc2d\ud835\udc32! Last week I was invited to become a part of\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQE5rfX4NHeYCQ/feedshare-shrink_1280/B56Z.nU3xlJoAQ-/0/1785218694506?e=2147483647&v=beta&t=Z4_nLnNSb9W_6aADW4JmIFdM2mzT-8GDXtr8ml2zPPE",
+        "id": "7487760014364024833"
+      },
+      {
+        "interaction": "Liked by Vandit Vasa",
+        "link": "https://www.linkedin.com/posts/harsh-kumar-sinha-604929216_jpmorganchase-internship-agenticai-activity-7486054846379421696-oyyM",
+        "title": "\ud83c\udf89 Reflecting on an incredible internship at JPMorganChase. Over the past several months, I got to work at the intersection of AI and\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4D22AQHs8ZTirQy8dA/feedshare-shrink_800/B4DZ.PPM_mJAAc-/0/1784814555684?e=2147483647&v=beta&t=O2Vcz1MTrZntLhEifTNV16Xa8TtezxdbGoiz2maGvCc",
+        "id": "7486054846379421696"
+      },
+      {
+        "interaction": "Liked by Vandit Vasa",
+        "link": "https://www.linkedin.com/posts/bkn301_bebkn301-activity-7485970046075412482-Zq3g",
+        "title": "\ud83e\udeb4 We're growing our AI team, and we're excited to welcome Scott Biggs to BKN301 as our AI Engineer. Scott joins us at an exciting time as we\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQExaw-XN1Ru_g/feedshare-image-high-res/B4EZ.OCFoyJkAU-/0/1784794340174?e=2147483647&v=beta&t=UNruVQ0O50pfMBkrgD2zP9rmVx9x6hmR47FFXk6Wxm4",
+        "id": "7485970046075412482"
+      },
+      {
+        "interaction": "Liked by Vandit Vasa",
+        "link": "https://www.linkedin.com/posts/nik-shevchenko-08565b18b_omi-team-is-coming-together-3m-followers-activity-7482876866324955137-EEk5",
+        "title": "Omi team is coming together 3M followers and 40k yearly github contributions in this picture 4 more spots left: Omi.me/summer Big things are\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQGh9O3YIBb3YQ/feedshare-shrink_800/B4EZ9iE218IcAc-/0/1784056868753?e=2147483647&v=beta&t=nlafFV7cwVgd0gE07s-wDuFkeyZBeI8v9ZZYFhRGtrA",
+        "id": "7482876866324955137"
+      },
+      {
+        "interaction": "Liked by Vandit Vasa",
+        "link": "https://www.linkedin.com/posts/tiago-monteiro-_ai-opensource-generativeai-activity-7477256506116296704-ATCi",
+        "title": "\ud83c\uddf5\ud83c\uddf9 \ud835\udc0f\ud835\udc1e\ud835\udc2c\ud835\udc2c\ud835\udc28\ud835\udc1a: \ud835\udc0b\ud835\udc28\ud835\udc1c\ud835\udc1a\ud835\udc25, \ud835\udc0b\ud835\udc0b\ud835\udc0c \ud835\udc00\ud835\udc20\ud835\udc27\ud835\udc28\ud835\udc2c\ud835\udc2d\ud835\udc22\ud835\udc1c \ud835\udc00\ud835\udc08 \ud835\udc00\ud835\udc20\ud835\udc1e\ud835\udc27\ud835\udc2d \ud835\udc08\ud835\udc27\ud835\udc1f\ud835\udc2b\ud835\udc1a\ud835\udc2c\ud835\udc2d\ud835\udc2b\ud835\udc2e\ud835\udc1c\ud835\udc2d\ud835\udc2e\ud835\udc2b\ud835\udc1e News in Portugal say the Portuguese LLM called\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5605AQH3TcfoGoEfcg/videocover-high/B56Z8QqzdXG4BQ-/0/1782691086097?e=2147483647&v=beta&t=KY22so837zeWNRJ8taiaAEjhkGNFDCQvkJaemVzjfWg",
+        "id": "7477256506116296704"
+      }
+    ],
+    "linkedin_num_id": "710795513",
+    "banner_image": "https://media.licdn.com/dms/image/v2/D5616AQEltmfinkUs9A/profile-displaybackgroundimage-shrink_200_800/B56ZzPpYPlKMAU-/0/1773010257305?e=2147483647&v=beta&t=BEhgTKp3W3LVAFRyvpYxRJu-0v5TOBPfatLY-mc0kiQ",
+    "honors_and_awards": null,
+    "similar_profiles": [],
+    "default_avatar": true,
+    "memorialized_account": false,
+    "bio_links": [
+      {
+        "title": "Portfolio",
+        "link": "https://vendz.github.io/"
+      }
+    ],
+    "first_name": "Vandit",
+    "last_name": "Vasa",
+    "influencer": false,
+    "timestamp": "2026-08-12T19:18:14.060Z",
+    "input": {
+      "url": "https://www.linkedin.com/in/vasa-vandit"
+    }
+  }
+}

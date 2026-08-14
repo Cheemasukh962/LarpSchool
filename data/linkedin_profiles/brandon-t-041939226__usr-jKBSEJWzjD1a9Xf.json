@@ -1,0 +1,180 @@
+{
+  "luma_user_id": "usr-jKBSEJWzjD1a9Xf",
+  "csv_name": "Brandon Tai",
+  "csv_linkedin": "https://www.linkedin.com/in/brandon-t-041939226",
+  "enriched_at": "2026-08-12T18:59:59.561406+00:00",
+  "batch_id": "sd_msqgcuh41lygyhc91a",
+  "profile": {
+    "id": "brandon-t-041939226",
+    "name": "Brandon T.",
+    "city": "San Francisco Bay Area",
+    "country_code": "US",
+    "position": null,
+    "about": "I\u2019m currently working as a Software Engineer at Besimple AI (YC X25).",
+    "current_company": {
+      "location": null
+    },
+    "experience": null,
+    "url": "https://it.linkedin.com/in/Brandon-t-041939226",
+    "education": null,
+    "avatar": "https://static.licdn.com/aero-v1/sc/h/9c8pery4andzj6ohjkjp54ma2",
+    "volunteer_experience": [
+      {
+        "duration": "Oct 2024 \u00b7 - \nApr 2025 \u00b7 \n7 months",
+        "duration_short": "- \nApr 2025",
+        "info": "Building software for nonprofits in a student-led team.",
+        "start_date": "Oct 2024",
+        "subtitle": "UofT Blueprint",
+        "title": "Software Engineer"
+      },
+      {
+        "duration": "Sep 2022 \u00b7 - \nJun 2024 \u00b7 \n1 year 10 months",
+        "duration_short": "- \nJun 2024",
+        "info": "Built a full-stack data analytics platform, led training, and won 1st in Galileo Division at Worlds",
+        "start_date": "Sep 2022",
+        "subtitle": "FIRST",
+        "title": "Lead Software Engineer, FIRST Robotics Competition Team 7558"
+      }
+    ],
+    "followers": 1598,
+    "connections": 500,
+    "location": null,
+    "input_url": "https://www.linkedin.com/in/brandon-t-041939226",
+    "linkedin_id": "brandon-t-041939226",
+    "activity": [
+      {
+        "interaction": null,
+        "link": "https://www.linkedin.com/posts/candice-fan_six-months-ago-juju-basically-had-the-activity-7490896566195544064-eUiH",
+        "title": "six months ago, juju \ud83d\udc36 basically had the Besimple office to himself. today, our team has doubled. juju has a little less room to roam, but way more humans to sniff :) watching the team grow and seeing how much we\u2019ve built together in such a short amount of time has been really special. everyone here is sooo incredibly smart and hardworking, and also genuinely kind, supportive, and fun to be around. dare i say, joining Besimple is one of the best decisions i\u2019ve made! which is why i\u2019m super excited that the team is growing again \u2b07\ufe0f we\u2019re hiring Strategic Projects Leads! we\u2019ll work closely together, so check out the role details below, and if it sounds like you, apply and message me! if someone great comes to mind, definitely send them our way! https://lnkd.in/gf7KsfZX (and yes, we do fun things outside of work too, like going to a Giants game against the Jays, casually invading Bill\u2019s house for a pool party, or having the World Cup on in the background during standup lol) come join us - you can help us pick our next team outing! ...more ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQGavjuB7DZ-Nw/feedshare-shrink_800/B56Z_KJ4V9KwAc-/0/1785803016016?e=2147483647&v=beta&t=Xi9d2oZxN_7qkxdWaZDyva0wUlYPf0MiLgAzovIvTjA",
+        "id": "7490896566195544064"
+      },
+      {
+        "interaction": null,
+        "link": "https://www.linkedin.com/posts/8illwang_voiceai-audioai-speechai-activity-7485758436710916097-TXm0",
+        "title": "Someone just tried to attack Pila8.com . We stopped them. In the past day, we had tons of scraping traffics targeting different parts of our infrastructure (database, storage blobs, identity service, etc.). At the same time, millions of legitimate requests continued normally. We cannot prove whether the objective was scraping, data access, or preparing an automated submission attack. But this is exactly why platform integrity matters (my cofounder Yi Zhong used to run integrity for Meta). The greatest threat to a voice AI dataset is not always someone stealing it. It is someone polluting it \ud83d\udeae Bots, account farms, duplicate submissions, cloned voices, manipulated recordings, and recycled AI-generated audio can quietly contaminate a training set. The dataset may look bigger while making your model worse, reinforcing synthetic artifacts, or producing no meaningful improvement at all. If a data provider cannot establish that its contributors are real, its voices are authentic, and its submissions pass serious integrity and quality controls, you may not be buying training data --> You may be buying contamination \ud83e\udd21. We built Pila8 differently: - Real people contributing real voices - Strong integrity controls around access and submission - Multiple quality gates before data reaches customers - Systems designed to detect suspicious and synthetic behavior - Legitimate contributors earning money for work that improves real models - Infrastructure that keeps operating when automated abuse appears We will not disclose how those protections work. We will disclose the outcome: The invalid traffic was rejected. Protected data remained protected. Legitimate contributors kept working \ud83d\ude80 For teams building speech recognition, voice AI, multilingual models, or audio intelligence, data quality is not just about sample rate, labels, and dataset size. It starts with knowing there is a real human behind the voice. Need high-quality voice data you can actually trust? Let\u2019s talk. #VoiceAI #AudioAI #SpeechAI #AIResearch #TrainingData #DataIntegrity #MachineLearning ...more ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQHZmyGJLCIH8Q/feedshare-shrink_800/B56Z.LBok_HUAk-/0/1784743889725?e=2147483647&v=beta&t=vBl34YuM1FaXTi9OYEW_r2GTmq3Nc8zuqBrsmNrPnxA",
+        "id": "7485758436710916097"
+      },
+      {
+        "interaction": null,
+        "link": "https://www.linkedin.com/posts/yzhong94_mobile-engineer-full-time-on-site-internships-activity-7480327845156884480-5Nrk",
+        "title": "We are hiring for mobile engineers! Full time or internship. Check out our posting here: https://lnkd.in/gaE-frUi",
+        "img": "https://media.licdn.com/dms/image/sync/v2/D5627AQHEhT9IR8wm0w/articleshare-shrink_800/B56Z892huUGoAY-/0/1783449132204?e=2147483647&v=beta&t=y5GNGyaAFftGw6tKlnFb3d53gTpXUCA1YBVv7NjRqHs",
+        "id": "7480327845156884480"
+      },
+      {
+        "interaction": null,
+        "link": "https://www.linkedin.com/posts/tyler-baumgartner_papervoice-code-benchpdf-besimple-ai-activity-7462192340070240256-qL0C",
+        "title": "\u201cHey Siri, read me my horoscope.\u201d \u201cGot it, releasing your source code.\u201d Ok, maybe your daily horoscope app isn't connected to your repo, but the truth is voice interfaces are no longer just producing transcripts for humans to skim. They\u2019re feeding tool calls, database writes, routing logic, form fills, code editors, CRMs, EHRs, and code agents. In that world, one corrupted structured token can break the whole workflow. That is why we built VoiceCodeBench 2.0: a benchmark for the ASR failure mode that matters most in real voice workflows... structured-token recovery. For decades, Word Error Rate has been the default way to measure ASR quality. But WER treats a dropped \u201cthe\u201d the same as a corrupted account number, a mangled file path, a broken URL, or a wrong dosage. When speech-to-text becomes software input, that distinction is everything. VoiceCodeBench asks a different question: Does your ASR preserve the exact entities that downstream systems need to parse, store, compare, or execute? Across 12 ASR systems, we found: - The best system by WER, at 8.6%, still failed to recover all structured values in 31.3% of recordings - URLs, commands, file paths, and email addresses accounted for 59.6% of all entity failures - WER was informative, but not deterministic, for actual value recovery The benchmark includes: - 300 human-recorded workplace segments - 85 speakers - 1,482 audited entities - 26 entity types - 8 workflow domains, from IT/dev to healthcare and finance - Two new metrics: CTEM for entity-level recovery and TSR for full-workflow success We tested Deepgram, OpenAI, Google Cloud, ElevenLabs, AssemblyAI, Amazon Transcribe, and Whisper in both batch and streaming modes. Top-line results: - Deepgram Nova-3 had the best WER, 8.6%, and best TSR, 68.7% - ElevenLabs Scribe v2 had the best CTEM, 91.6% - Streaming consistently degraded structured-token recovery compared with batch - The gap between \u201creadable transcript\u201d and \u201cusable for automation\u201d is real and measurable For anyone building voice agents: WER is not enough. You need to know which entity types break, how often full workflows fail, and where to add confirmation prompts, validation, or human review. VoiceCodeBench 2.0 is fully open under MIT. Dataset: https://lnkd.in/g9JYAhZU White paper: https://lnkd.in/g7iX7KP3 If your speech-to-text system feeds automation, you should know your CTEM and TSR \u2014 not just your WER. #ASR #SpeechRecognition #VoiceAI #VoiceAgents #Benchmark #MachineLearning #AI #OpenSource #BesimpleAI ...more ...more",
+        "img": "https://media.licdn.com/dms/image/sync/v2/D5627AQEexYDSoWDX1g/articleshare-shrink_800/B56Z48C29qHwAc-/0/1779123847628?e=2147483647&v=beta&t=xZGZulrUOaLxAQD7b4K5wow85AWRtHmIkPnwT8jv9KI",
+        "id": "7462192340070240256"
+      },
+      {
+        "interaction": null,
+        "link": "https://www.linkedin.com/posts/8illwang_besimple-aivoice-code-bench-datasets-at-activity-7457915583666216960-r5lo",
+        "title": "Your voice AI loses ready-to-pay customers 1 out of 10 times \ud83d\ude48 You bought a voice AI agent. The one that promised to take calls 24/7, qualify leads, book appointments, and never miss a customer. But they silently dropped critical informations and produce plausible-looking but wrong output. Most vendors will tell you they have great word error rate (WER). And they probably do (like 2%). They\u2019re using Deepgram, AssemblyAI, OpenAI. Even a simple wrapper looks impressive on WER. But WER is the wrong metric. WER treats every word: getting \"the\" wrong punishes the same as getting an address wrong. However, downstream LLM can recover from bad grammar, but it will dispatch your team to the wrong customer address. There had not been a way to test it reliably. So I am really proud of our team at Besimple AI \ud83c\udf4a -- Tyler B. and Brandon T. -- who just open sourced this real human dataset which will demonstrate even the best model can get those things wrong 1 of out 10 times: https://lnkd.in/eyuTqipM . ...more ...more",
+        "img": "https://media.licdn.com/dms/image/sync/v2/D5627AQFlw7zmSaaUtQ/articleshare-shrink_800/B56Z5X6TAwIsAU-/0/1779591366121?e=2147483647&v=beta&t=KIUk0VvVWD1fkJwfFQwsmcJyKJLVZcIXVeQK-22C-PY",
+        "id": "7457915583666216960"
+      },
+      {
+        "interaction": null,
+        "link": "https://www.linkedin.com/posts/besimple-ai_github-besimple-ossbroccoli-broccoli-activity-7452756579117928448-WSsD",
+        "title": "this is why we are able to build so quickly! give it a try!",
+        "img": "https://media.licdn.com/dms/image/sync/v2/D5627AQHdM68NTwGWMw/articleshare-shrink_1280_800/B56Z43XOznIYAc-/0/1779045298299?e=2147483647&v=beta&t=iOxyC0ehOeZFMr8IYPdBYZ-wqrq7dsmI5oIbiqf19WQ",
+        "id": "7452756579117928448"
+      },
+      {
+        "interaction": null,
+        "link": "https://www.linkedin.com/posts/yzhong94_github-besimple-ossbroccoli-broccoli-activity-7452756424872591361-vlTm",
+        "title": "\ud83d\udea2 We are opensourcing Broccoli, our internal coding agent! Investing in your own coding stack is the highest leverage thing your CTO can do for your company. We've been talking about Broccoli over the past few weeks, and it's clear there's significant interest in it. So we are opensourcing it with MIT license, check it out here: https://lnkd.in/gyvsFssT Broccoli gives you: 1. One-shot, prod-ready PRs 2. Code on the go 3. Anyone can ship 4. Infinitely parallel Give it a try! ...more ...more",
+        "img": "https://media.licdn.com/dms/image/sync/v2/D5627AQHdM68NTwGWMw/articleshare-shrink_1280_800/B56Z43XOznIYAc-/0/1779045298299?e=2147483647&v=beta&t=iOxyC0ehOeZFMr8IYPdBYZ-wqrq7dsmI5oIbiqf19WQ",
+        "id": "7452756424872591361"
+      },
+      {
+        "interaction": null,
+        "link": "https://www.linkedin.com/posts/8illwang_everyone-should-eat-more-broccoli-for-activity-7438298029167894528-y4Ky",
+        "title": "\ud83e\udd66 Everyone Should Eat More Broccoli For over a month Besimple AI has been running on Broccoli \ud83e\udd66 \u2014 our end-to-end feature agent \u2014 and it\u2019s one of those moments where you realize the floor under the software industry is moving. You assign Broccoli a Linear ticket. It: \u2022 implements the feature end-to-end \u2022 reviews its own code \u2022 ships to production \u2022 debugs and fixes issues when something breaks in prod Broccoli \ud83e\udd66 takes work that used to bounce between PM, engineer, reviewer, and oncall \u2014 and just\u2026 does it. Attached is our \ud83c\udf4a Besimple AI's productivity chart since dogfooding Broccoli in December. We have shipped roughly 10x faster. Our engineers spend far less time buried in if-else statements and far more time designing systems, orchestrating agents, and solving harder problems. It\u2019s the kind of environment where engineers level up fast \u2014 taking on larger scope, becoming stronger builders, and often the kind of people who go on to start companies themselves a few years later. We\u2019re actively hiring founding engineers and summer interns. If you want to build where the future of software is happening (or know someone who does), shoot me a message. ...more ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQEeP9JEmf-k3A/feedshare-shrink_800/B56Zzoko4WKMAc-/0/1773428445232?e=2147483647&v=beta&t=YIYKsuq5seeuxnnQhIHo5n2SwHJhH2KXJOxfdUGhzYk",
+        "id": "7438298029167894528"
+      },
+      {
+        "interaction": null,
+        "link": "https://www.linkedin.com/posts/vitddnv_hackai-20-7-days-ago-kevin-and-justin-activity-7423757049378852864-PPZp",
+        "title": "HackAI 2.0. 7 days ago, Kevin and Justin won $20,000 hacking at Stan . Should we do this again?",
+        "img": "https://media.licdn.com/dms/image/v2/D5605AQGJEFbpxJGUiA/feedshare-thumbnail_720_1280/B56ZwXGHAiHIA4-/0/1769914016706?e=2147483647&v=beta&t=2Beb0Sp8jjC7Oga2USjQYAA0RBnWZ60BATIdPKB-iEo",
+        "id": "20"
+      },
+      {
+        "interaction": "Brandon T. liked this",
+        "link": "https://www.linkedin.com/posts/matthew-r-ao_the-new-space-website-is-live-i-designed-activity-7493126170604077058-T8T7",
+        "title": "The new Space website is live. I designed and built the site in 8 hours. Mostly consisted of a lot of back and forth on the motion and tiny details. The process was basically describing what I wanted, explaining what looked off, checking the output, and repeat. We wanted the site to show what Space feels like. That meant rebuilding Finder in React and making the product demos part of the page itself. Everything was designed and built in code - every scroll interaction, animation, and easter egg. As someone who made websites for many years by hand, it\u2019s mind-blowing to see what can be achieved in such a short amount of time with the tools available today. Wait till you see the actual app onboarding ;)",
+        "img": "https://media.licdn.com/dms/image/v2/D5605AQGOrLEovAZd9Q/videocover-high/B56Z_zugzMG0BU-/0/1786500486755?e=2147483647&v=beta&t=ONXH59JwSANDxk68XmiXyVhA41HLjgQodmnLVWmipgc",
+        "id": "7493126170604077058"
+      },
+      {
+        "interaction": "Brandon T. liked this",
+        "link": "https://www.linkedin.com/posts/merrick-liu-89206822b_teaching-agents-to-navigate-janky-ivr-systems-activity-7493055859489468416-ebnu",
+        "title": "\ud83c\udfd4\ufe0f \ud83d\udcc8",
+        "img": "https://media.licdn.com/dms/image/sync/v2/D5627AQEIDDzgiNix0w/articleshare-shrink_800/B56Z_xyovjKoAY-/0/1786468012030?e=2147483647&v=beta&t=YF2uLMVtnG2lNjeJuYiBSuUxScjaq2z6Xl-hXSX9HWM",
+        "id": "7493055859489468416"
+      },
+      {
+        "interaction": "Brandon T. liked this",
+        "link": "https://www.linkedin.com/posts/candice-fan_six-months-ago-juju-basically-had-the-activity-7490896566195544064-eUiH",
+        "title": "six months ago, juju \ud83d\udc36 basically had the Besimple office to himself. today, our team has doubled. juju has a little less room to roam, but way more humans to sniff :) watching the team grow and seeing how much we\u2019ve built together in such a short amount of time has been really special. everyone here is sooo incredibly smart and hardworking, and also genuinely kind, supportive, and fun to be around. dare i say, joining Besimple is one of the best decisions i\u2019ve made! which is why i\u2019m super excited that the team is growing again \u2b07\ufe0f we\u2019re hiring Strategic Projects Leads! we\u2019ll work closely together, so check out the role details below, and if it sounds like you, apply and message me! if someone great comes to mind, definitely send them our way! https://lnkd.in/gf7KsfZX (and yes, we do fun things outside of work too, like going to a Giants game against the Jays, casually invading Bill\u2019s house for a pool party, or having the World Cup on in the background during standup lol) come join us - you can help us pick our next team outing!",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQGavjuB7DZ-Nw/feedshare-shrink_800/B56Z_KJ4V9KwAc-/0/1785803016016?e=2147483647&v=beta&t=Xi9d2oZxN_7qkxdWaZDyva0wUlYPf0MiLgAzovIvTjA",
+        "id": "7490896566195544064"
+      },
+      {
+        "interaction": "Brandon T. liked this",
+        "link": "https://www.linkedin.com/posts/ashlyn-van_in-january-i-started-as-an-automation-engineer-activity-7489415693013196800-FsBo",
+        "title": "In January, I started as an Automation Engineer Intern at Koch Ag & Energy Solutions, LLC . This role has led me to grow a new passion, an amazing team\u2026and of course healthier crops thanks to our fertilizer.\ud83c\udf31 During my time here, I worked on modernizing PLC communication paths for wastewater treatment, supporting fleet-wide PLC version control, developing new architecture to automate our chemical reordering process, and monitoring hardware nearing end-of-life. I've officially accepted to join my team for many more seasons to come. Thank you to everyone who has supported me in my journey!",
+        "img": "https://invalid//",
+        "id": "7489415693013196800"
+      },
+      {
+        "interaction": "Brandon T. liked this",
+        "link": "https://www.linkedin.com/posts/junaidmahmood-_dekai-li-and-i-are-excited-to-officially-activity-7489195180508463106-hSNl",
+        "title": "Dekai Li and I are excited to officially announce Trident is part of Y Combinator\u2019s Summer 2026 batch, and that we\u2019ve raised our pre-seed from Y Combinator, with participation from Cory Levy (Z Fellows). Here\u2019s why we built it: AI is accelerating how software is built, but on the opposite end, they\u2019re also accelerating how attackers find and exploit vulnerabilities. As AI gets more powerful, that gap will only grow. We built Trident to defend companies at the same speed. What it does: 1. Scans every pull request for known n day, vulnerable dependencies, and logic flaws before merge 2. Safely runs scheduled, continuous penetration tests against your web apps, APIs, and cloud infrastructure (AWS, GCP, Azure, Kubernetes) We've found $10,000+ critical vulnerabilities across bug bounty programs and in half a dozen unicorns and prevented tens of millions in potential losses with our existing clients if youre curious to see what we can find feel free to send me a dm!",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQH6MWqia0nUPA/feedshare-shrink_1280/B56Z.73VHRIMAM-/0/1785563271913?e=2147483647&v=beta&t=nojkHbm5vBe0o2YuVuS412rqFknT2bD1HJdqxs6wha0",
+        "id": "7489195180508463106"
+      },
+      {
+        "interaction": "Brandon T. liked this",
+        "link": "https://www.linkedin.com/posts/yzhong94_you-may-have-granola-recording-every-zoom-activity-7489078554387763201-YnRH",
+        "title": "You may have Granola recording every Zoom meeting, but what about in office impromptu sessions? We built Berry so we don't lose our in-office conversations. And our office dog Juju made to Berry's transcript! This is what Berry means by \"Juju interrupted work by sitting nearby.\" What is Berry? Berry is an internal tool we built. It is always on and records conversations in our office. Berry transcribes the conversations and then summarizes all decisions, to-dos, contexts, and chitchats. Recordings are deleted every night, and everyone at Besimple AI can query these summaries so we don't forget critical decisions discussed. Berry summaries are also used in other workflows, such as cross-checking with Linear tickets and Github commits, so decisions can be consistent across conversations, design docs, and code. Producing high quality human data remains very ops heavy, and that's why we invest in all these AI native workflows to reduce human errors in managing human operations.",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQGHFBm8IilsNQ/feedshare-image-high-res/B56Z.6NQHvHcAY-/0/1785535465602?e=2147483647&v=beta&t=rq2w-pS6HtiHn9dEIBJFiqEfmLoIEztJEvWlvJqJgq8",
+        "id": "7489078554387763201"
+      },
+      {
+        "interaction": "Brandon T. liked this",
+        "link": "https://www.linkedin.com/posts/anishjaygupta_%F0%9D%97%AA%F0%9D%97%B2%F0%9D%97%BF%F0%9D%97%B2-%F0%9D%97%B5%F0%9D%97%BC%F0%9D%98%80%F0%9D%98%81%F0%9D%97%B6%F0%9D%97%BB%F0%9D%97%B4-%F0%9D%97%AE-%F0%9D%97%AF%F0%9D%97%AE%F0%9D%98%80%F0%9D%97%B8%F0%9D%97%B2%F0%9D%98%81%F0%9D%97%AF%F0%9D%97%AE%F0%9D%97%B9%F0%9D%97%B9-activity-7485724138708537344-p-OG",
+        "title": "\ud835\uddea\ud835\uddf2'\ud835\uddff\ud835\uddf2 \ud835\uddf5\ud835\uddfc\ud835\ude00\ud835\ude01\ud835\uddf6\ud835\uddfb\ud835\uddf4 \ud835\uddee \ud835\uddef\ud835\uddee\ud835\ude00\ud835\uddf8\ud835\uddf2\ud835\ude01\ud835\uddef\ud835\uddee\ud835\uddf9\ud835\uddf9 \ud835\ude01\ud835\uddfc\ud835\ude02\ud835\uddff\ud835\uddfb\ud835\uddee\ud835\uddfa\ud835\uddf2\ud835\uddfb\ud835\ude01 \ud835\uddf3\ud835\uddfc\ud835\uddff \ud835\uddee $3,000 \ud835\uddf0\ud835\uddee\ud835\ude00\ud835\uddf5 \ud835\uddfd\ud835\uddff\ud835\uddf6\ud835\ude07\ud835\uddf2 \ud835\uddf6\ud835\uddfb \ud835\udde6\ud835\uddd9! \ud83d\udcc6 Sunday August 2 at 1:30 pm -> 3v3 for founders and startup teams -> World Cup bracket style -> Official NCAA referees -> Live DJ Each member of the winning team also gets $500 \ud835\uddf6\ud835\uddfb \ud835\udde8\ud835\uddfb\ud835\uddf1\ud835\uddf2\ud835\uddff\ud835\uddf1\ud835\uddfc\ud835\uddf4 \ud835\uddfd\ud835\uddff\ud835\uddfc\ud835\uddfa\ud835\uddfc \ud835\uddf3\ud835\ude02\ud835\uddfb\ud835\uddf1\ud835\ude00 with other bonuses for all competitors as well \ud83d\udc40 Comment \ud83c\udfc0 or something basketball-related, and I\u2019ll DM you the link. Thanks to our co-hosts MongoDB and Underdog and excited for some hoops!",
+        "img": "https://media.licdn.com/dms/image/v2/D5605AQGVzesOtnJMwA/videocover-high/B56Z.KiZ6gGgBM-/0/1784735704288?e=2147483647&v=beta&t=0Wjn7BOp4w6usBc9cJyOti31LY52r4fLBYjYiLCT-uw",
+        "id": "7485724138708537344"
+      },
+      {
+        "interaction": "Brandon T. liked this",
+        "link": "https://www.linkedin.com/posts/yzhong94_besimple-ai-is-a-proud-data-partner-of-the-activity-7488661115913023488-uF4d",
+        "title": "Besimple AI is a proud data partner of the Kalpa Lab team! So excited to for this launch - \ud83d\udc4f congratulations Prashant Shishodia ! \u2764\ufe0f",
+        "img": "https://dms.licdn.com/playlist/vid/v2/D5605AQHtsJ6LGw87zw/thumbnail-shrink_720_1280/B56Z.z4_3EKwAg-/0/1785429497874?e=2147483647&v=beta&t=QAgwpoahyYUo6Hdus8zjvSDHHERkpYTeAZs_pLs6DGQ",
+        "id": "7488661115913023488"
+      }
+    ],
+    "linkedin_num_id": "951860209",
+    "banner_image": "https://media.licdn.com/dms/image/v2/D4E16AQGWNJLOQufLHw/profile-displaybackgroundimage-shrink_200_800/B4EZm_jytMIoAU-/0/1759855455544?e=2147483647&v=beta&t=L1--w7PplxB4fb9KfsSFMMZgV5LsGvuvvA_YL8HxiNk",
+    "honors_and_awards": null,
+    "similar_profiles": [],
+    "default_avatar": true,
+    "memorialized_account": false,
+    "bio_links": [],
+    "first_name": "Brandon",
+    "last_name": "T.",
+    "influencer": false,
+    "timestamp": "2026-08-12T18:58:42.209Z",
+    "input": {
+      "url": "https://www.linkedin.com/in/brandon-t-041939226"
+    }
+  }
+}

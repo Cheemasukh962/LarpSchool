@@ -1,0 +1,267 @@
+{
+  "luma_user_id": "usr-mLDzaZbVqzIKAyN",
+  "csv_name": "Saksham Aggarwal",
+  "csv_linkedin": "https://www.linkedin.com/in/saksham-aggarwal-sa9",
+  "enriched_at": "2026-08-12T19:16:49.711232+00:00",
+  "batch_id": "sd_msqgxyk1xj7v4ip1",
+  "profile": {
+    "id": "saksham-aggarwal-sa9",
+    "name": "Saksham Aggarwal",
+    "city": "Champaign, Illinois, United States",
+    "country_code": "US",
+    "position": null,
+    "about": "I\u2019m a UIUC student studying Computer Science & Statistics (GPA 4.0) who likes building at\u2026",
+    "current_company": {
+      "link": "https://www.linkedin.com/company/productspaceuiuc?trk=public_profile_topcard-current-company",
+      "name": "Product Space UIUC",
+      "company_id": "productspaceuiuc",
+      "location": null
+    },
+    "experience": null,
+    "url": "https://sg.linkedin.com/in/saksham-aggarwal-sa9",
+    "educations_details": "University of Illinois Urbana-Champaign",
+    "education": [
+      {
+        "title": "University of Illinois Urbana-Champaign",
+        "url": "https://www.linkedin.com/school/university-of-illinois-urbana-champaign/",
+        "end_year": "2027-05",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      },
+      {
+        "start_year": "2021",
+        "end_year": "2024",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      },
+      {
+        "start_year": "2023-06",
+        "end_year": "2023-06",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      },
+      {
+        "end_year": "2022-08",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      },
+      {
+        "start_year": "2021-10",
+        "end_year": "2021-12",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      },
+      {
+        "start_year": "2021-08",
+        "end_year": "2021-08",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      },
+      {
+        "start_year": "2020-06",
+        "end_year": "2020-06",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      }
+    ],
+    "avatar": "https://media.licdn.com/dms/image/v2/D4E03AQG6gsgRtNTM5Q/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1693639671733?e=2147483647&v=beta&t=y3UhnAWeDYQ2G3ZETUUQm8nMXYdfCDeounKWC2gsyb8",
+    "volunteer_experience": [
+      {
+        "cause": "Environment",
+        "duration": "Apr 2020 \u00b7 - \nApr 2023 \u00b7 \n3 years 1 month",
+        "duration_short": "- \nApr 2023",
+        "info": "Actively participated in the \u2018WASH in Schools Project\u2019 and the \u2018Tree Plantation Campaign\u2019 undertaken in various government schools in Delhi by Rotary Clubs of District 3012 during the last 3 years. He diligently volunteered for various behavioral change communication activities, such as sensitizing students about good hygiene habits, handwashing with soap at critical times, imparting training to Child Cabinet members on WASH (water, sanitation, and hygiene), Operation and Maintenance of WASH\u2026 Show more Actively participated in the \u2018WASH in Schools Project\u2019 and the \u2018Tree Plantation Campaign\u2019 undertaken in various government schools in Delhi by Rotary Clubs of District 3012 during the last 3 years. He diligently volunteered for various behavioral change communication activities, such as sensitizing students about good hygiene habits, handwashing with soap at critical times, imparting training to Child Cabinet members on WASH (water, sanitation, and hygiene), Operation and Maintenance of WASH facilities and services, and launching public outreach campaigns in surrounding communities. He was also a part of various tree plantation drives as a volunteer team leader. Show less",
+        "start_date": "Apr 2020",
+        "subtitle": "Rotary Club",
+        "title": "Volunteer"
+      },
+      {
+        "cause": "Environment",
+        "duration": "Mar 2020 \u00b7 - \nDec 2022 \u00b7 \n2 years 10 months",
+        "duration_short": "- \nDec 2022",
+        "info": "Actively participated in many water pollution control projects undertaken by Namami Gange Program, National Mission for Clean Ganga, under ministry of Jal Shakti",
+        "start_date": "Mar 2020",
+        "subtitle": "Ministry of Jal Shakti, Department of Water Resources, RD & GR, Govt. of India",
+        "title": "Volunteer"
+      }
+    ],
+    "followers": 2117,
+    "connections": 500,
+    "current_company_company_id": "productspaceuiuc",
+    "current_company_name": "Product Space UIUC",
+    "publications": [
+      {
+        "title": "Music\u2019s Influence on Heart Rate, Blood Pressure, and Stress Levels in Working Adults",
+        "subtitle": "SSRG International Journal of Humanities and Social Science, Innosphere\u201923; Sigma Xi Conference (Sep 2023)",
+        "date": "August 24, 2023",
+        "description": "Independent research on the relationship between music exposure and physiological stress indicators (heart rate, blood pressure). Presented findings at Innosphere\u201923 and Sigma Xi Conference; informed follow-up work on an AI-assisted music therapy prototype (Heartune). Explored the impact of various technical aspects of music on heart rate variability, blood pressure, and stress levels. I specifically examined factors such as the song's beats per minute (BPM), which determines the tempo, and considered the influence of time of day and the individual's mental state. By analyzing these variables, I aimed to uncover how different musical characteristics can affect physiological responses and overall stress levels in individuals."
+      }
+    ],
+    "projects": [
+      {
+        "title": "ChillTrill: Real-time Facial Expression Detection",
+        "start_date": "Mar 2022",
+        "description": "Built a real-time facial expression classification prototype using Python, OpenCV (face detection), and a CNN-based classifier deployed via Streamlit WebRTC. Achieved F1 = 0.81 on ~1,200 labeled clips and optimized inference to ~55 ms/frame for interactive performance. Developed an evaluation pipeline (error analysis across lighting/occlusion/pose), iterated on preprocessing + model architecture, and packaged reproducible experiments with versioned configs and clear documentation. Deployed a pilot to 3 partner institutions and incorporated user feedback into a roadmap for next iterations (improved UX, calibration, and model robustness).Tech/Tools: Python, OpenCV, Streamlit, WebRTC, deep learning, model evaluation, Githttps://chilltrill.streamlit.app/https://github.com/Saksham9426/ChillTrill"
+      },
+      {
+        "title": "\u2018AquaSaaf\u2019",
+        "start_date": "May 2021",
+        "description": "Developed a working prototype for a solar-powered garbage collector to be used to clean a temple pond in my community, which was highly polluted. Partnered with multiple NGOs to clean various polluted water bodies in the Delhi NCR region.Removed 7 tons of waste from water bodies by developing a prototype for an autonomous solar-powered garbage collector using C++, ATmega328 microcontroller, servo motor, DC pump, IC sockets etc}. Recognized by India\u2019s government: Jal Shakti Ministry for environmental contributions."
+      },
+      {
+        "title": "Heartune: AI-assisted Music Therapy App + Research",
+        "start_date": "May 2021",
+        "description": "Developed an AI-assisted music therapy app prototype focused on personalization and measurable well-being outcomes. Built backend integration via REST APIs and implemented ML components for personalization and classification (e.g., kNN / Keras / TensorFlow prototypes depending on experiment), with an emphasis on evaluation and iterative improvement. Conducted independent research on the relationship between music and physiological stress signals; published and presented findings, including \u201cMusic\u2019s Influence on Heart Rate, Blood Pressure, and Stress Levels in Working Adults\u201d (presented at Innosphere\u201923 and the Sigma Xi Conference, Sep 2023). Received national media coverage (Times of India) and incorporated learnings into product iteration and research communication.Tech/Tools: Python, REST APIs, Keras, TensorFlow, kNN, experimentation, data analysis"
+      }
+    ],
+    "location": "Champaign",
+    "input_url": "https://www.linkedin.com/in/saksham-aggarwal-sa9",
+    "linkedin_id": "saksham-aggarwal-sa9",
+    "activity": [
+      {
+        "interaction": "Saksham Aggarwal shared this",
+        "link": "https://www.linkedin.com/posts/saksham-aggarwal-sa9_teen-tunes-in-songs-to-destress-minds-activity-7121868210219474944-vXTI",
+        "title": "\"ChillTrill\" \u2013 my AI-ML driven facial sentiment detection/recognition based music playing webapp was featured in the Times of India's educational supplement \"Newsmaker\" which essentially covers student tech projects creating a difference in people's lives. https://lnkd.in/daPucGF3 The Shri Ram School #AI #ML #MentalHealth ...more",
+        "img": "https://media.licdn.com/dms/image/sync/v2/D5627AQHqqxfvHyatSw/articleshare-shrink_800/articleshare-shrink_800/0/1711523489468?e=2147483647&v=beta&t=XQIDiX9HYW6Gay34GQHGPoND-MAu8OcKUPePDIBGAFM",
+        "id": "7121868210219474944"
+      },
+      {
+        "interaction": "Saksham Aggarwal liked this",
+        "link": "https://www.linkedin.com/posts/ojasvatsyayan_after-a-great-summer-at-visa-im-thrilled-activity-7492634101380771841-gybM",
+        "title": "After a great summer at Visa, I'm thrilled to share that I'll be joining Uber in Sunnyvale, CA as a Software Engineering Intern this fall! Grateful for the opportunity to be part of a company driving innovation in how the world moves and learn from so many talented individuals. A huge thank you to my recruiter, Jeremy Gaines , for a smooth recruiting process, and to my family and friends for all their support.",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQHVuDwwEEvyIQ/feedshare-shrink_800/B56Z_su._HKEAc-/0/1786383175628?e=2147483647&v=beta&t=mIREMwkxlNVElyaG_DIHyEebo4eDCC1um7q2DZ7-f6k",
+        "id": "7492634101380771841"
+      },
+      {
+        "interaction": "Saksham Aggarwal reacted on this",
+        "link": "https://www.linkedin.com/posts/sihan-frank-chen_we-hosted-the-official-yc-afterparty-for-activity-7488643347704844288-zPop",
+        "title": "We hosted the official YC afterparty for Startup School this year. More than 1000 people registered, but we could only fit about 200 in the room. After a day that big and that packed, we wanted something low-key. So we got a venue by the water, a DJ, and a couple hundred builders who wanted to keep the conversations going without the conference-hall energy. Spent four hours chit-chatting with students, developers, and future founders without any agenda. It's genuinely one of the best ways to meet the next wave of people building amazing things. Two years ago, we were the ones showing up to someone else's afterparty, asking founders for advice. Hosting our own this year felt like closing a loop. The reason afterparties are such big hits is that some of the most memorable conversations from events like this happen only after everyone's decompressed a bit.",
+        "img": "https://media.licdn.com/dms/image/v2/D5610AQF3IDgbwgL7pw/image-shrink_800/B56Z.0BbtgJoAk-/0/1785431703733?e=2147483647&v=beta&t=ru1PpCsBVpwo7AHUdLvj8kVrww1dbkaGX8GnFtZMPX8",
+        "id": "7488643347704844288"
+      },
+      {
+        "interaction": "Saksham Aggarwal liked this",
+        "link": "https://www.linkedin.com/posts/ekansh-arora_yc-delayed-startup-school-day-2-for-the-sf-activity-7487977261426728960-KtKi",
+        "title": "YC delayed Startup School Day 2 for the SF marathon... so why not do both? :)",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQGrxxnXGbUhbQ/feedshare-image-high-res/B56Z.qjo85KEAU-/0/1785272897647?e=2147483647&v=beta&t=GTUW24kjEB9Ticnq6KTpfGWJCISCemYB7ED_0ZReMiU",
+        "id": "2"
+      },
+      {
+        "interaction": "Saksham Aggarwal reacted on this",
+        "link": "https://www.linkedin.com/posts/kash-setty-21aa78290_ycstartupschool-ycombinator-sanfrancisco-activity-7490038519944527872-C8EJ",
+        "title": "sf was a reminder that the best stuff is built in person. so i went. i spent the last week at Y Combinator startup school events, hosting and attending, with some of the most talented builders i\u2019ve met. average age of startup school? 18-20. where was everyone at? Corgi cafe. youngest intern @ GitHub ? 16. here\u2019s the sauce: \u2022 jachacks at Founders, Inc. , inc: helped throw a hackathon with Jaseci Labs . builders from stanford, mit, and berkeley shipping with support from NVIDIA and Google DeepMind . building near the shore was something i've never done. \u2022 internapalooza with Cory Levy : joined 20,000+ technical interns and founders of companies like Etched , Whop , and Cal AI . with speakers like sam altman @ OpenAI and Zach Yadegari ,. loved talking to him backstage. Z Fellows lesson: all it takes is one hope. \u2022 Google DeepMind 's yc event: met Ruoyu Zhang and David Dai . highlight of the day: comparing google's ai race with current day space-tech. \u2022 Mintlify + LemonLime + Respan : shoutout to the mintlify team ( Justin Torre and Marco Dewey ) for putting together a high-caliber event. met great people in deep-tech and agriculture. appreciated Jordan Zietz as well for throwing at the office, and swung by fav uiuc alum Andy Li and Frank Chen at the pearl. scary that tech is only becoming younger. but more than events, sometimes you got to lock yourself in a room, stop networking, and start creating - Darsh Poddar @ Autumn AI (YC W26) all love to Shivam Sharma + Lakshan Veer Abimanyu Ramakrishnamoorthy :) if we met and you want to chat, let\u2019s keep the conversation going. daily reminder: altman at the age 19 had an interview with a top ceo and but was too young to rent a car. what can you do without a car? back to hustling \ud83e\uddbe \ud83c\udfc3\u200d\u2642\ufe0f #ycstartupschool #ycombinator #sanfrancisco #zfellows",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQFAol6pNr9MxQ/feedshare-shrink_800/B4EZ_H2V1JIQAg-/0/1785764339288?e=2147483647&v=beta&t=DSaftQZYJzsTkLbrl8wNMC6x1Bh-k_pUt0HH3f6mCKY",
+        "id": "7490038519944527872"
+      },
+      {
+        "interaction": "Saksham Aggarwal liked this",
+        "link": "https://www.linkedin.com/posts/ankur-aggarwal-2397b5_after-an-extraordinarily-fulfilling-and-unforgettable-activity-7487733439257972736-AS9A",
+        "title": "After an extraordinarily fulfilling and unforgettable 21+ year journey with Accenture, today marks my last day. When I first joined the firm after returning from New Zealand back in 2005 (with a much younger version of myself on that first badge!), I could never have imagined how deeply Accenture would grow on me. Looking back over more than two decades, it has been a jolly good ride\u2014always filled with passion, purpose, and energy. From building practices, driving large client transformations, and serving alongside world-class leaders on the India Market Unit Executive Committee and Global Leadership Council, every phase of this adventure has been deeply rewarding. Yet, when I look back, what I will cherish most isn't the business metrics or the scale\u2014it is the incredible people I\u2019ve had the privilege to work with across India, regional, and global ecosystems. To the senior leaders who provided invaluable guidance, mentorship, and strategic backing; to our clients who trusted us with their most critical challenges; and to my phenomenal colleagues and teammates who shared the trenches with me: thank you. Thank you for your trust, guidance, and the deep camaraderie that made navigating complex challenges so incredibly rewarding. Accenture will always hold a special place in my heart, and I leave with immense pride in everything we built together and full confidence in the firm\u2019s future. I\u2019m excited and look forward to stepping into my next professional chapter. More details on what\u2019s ahead soon! To everyone who has been part of this 21-year story\u2014thank you from the bottom of my heart. Please do stay in touch. Warmly, Ankur Arundhati Chakraborty Ryoji Sekido Abhishek Kahol John Walsh Leonardo Framil Sandeep Dutta Kanwar Singh Anindya Basu Piyush Singh Ramnath Venkataraman Bhaskar Ghosh Anish Gupta Rajat Agarwal Anoop Sagoo Pavan Sethi Rohit Gandhi Marco Ziegler Ari Torpo Jean-Christophe Ledoux Mahesh Zurale Fabio Vacirca Vishal Talwar Saurabh Kumar Sahu Manoj Bhadgaonkar Vineet Ahuja Amneet Singh Sourabh Jalan Manish Gupta Manoj Singodia Amit Khurma Rupal Saparia Tarun Jain Shouvik Paul Rajesh Thakur",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQFF0YBgx42_KA/feedshare-image-high-res/B56Z.nF4LWIoAY-/0/1785214764256?e=2147483647&v=beta&t=mtJCcYbDHw_FbA4A5ooJvkizPspKo3OI-eDLk56nrEQ",
+        "id": "7487733439257972736"
+      },
+      {
+        "interaction": "Saksham Aggarwal liked this",
+        "link": "https://www.linkedin.com/posts/kash-setty-21aa78290_yc-sanfrancisco-entrepreneurship-activity-7482428531101237248-iZT_",
+        "title": "SF: i'm heading your way july 25-27 \ud83e\udef5 spending time with Y Combinator founders taught me that the best opportunities always come from being in the right room, so i'm spending the weekend with the builders. i'll be scouting for G Fellows at yc startup school and looking to meet as many talented founders as possible. if you're around and want to grab a coffee or talk, let's make it happen. hosting + attending events: \u2022 jachacks (july 26th): we\u2019re bringing together 500+ builders from stanford, mit, harvard, and berkeley at Founders, Inc. with sponsors like NVIDIA and Google DeepMind . SH1P 's helping out big time :) hand-picking teams to connect directly with vcs like Pear VC . shoutout to Vatsal Shah for helping out \u2022 internpalooza (july 27th): joining Cory Levy and Z Fellows for the ultimate intern event with sponsors like a16z speedrun + Rho . cracked builders of tech + entrepreneurship all in one room. a few other events currently in the planning stages as well \ud83d\udc40 if you're an entrepreneur, vc, or operator, hit me up. COMMENT \u201cin\u201d if you want in on the hackathon next stop: san francisco \u2708\ufe0f \ud83d\udcf8 : cory + BuildIllinois team @ University of Illinois Urbana-Champaign #yc #sanfrancisco #entrepreneurship #vcs #hackathons #tech",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQEhMrCxpyZE5Q/feedshare-shrink_800/B4EZ9btGYaH8Ac-/0/1783949977500?e=2147483647&v=beta&t=vjMq9GJHBd08ElbCmGye4A-QnAicOMcI8-ZfATy8X30",
+        "id": "7482428531101237248"
+      },
+      {
+        "interaction": "Saksham Aggarwal liked this",
+        "link": "https://www.linkedin.com/posts/ekansh-arora_excited-to-be-heading-to-y-combinators-startup-activity-7485101946211549184-NfIh",
+        "title": "excited to be heading to Y Combinator 's Startup School at the end of the week :) (never quite got the bright orange colour on the ticket but i'll be repping orange for my school \ud83c\udf4a). if you're gonna be there, i'd love to meet!",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQGfNySA5TXiAw/feedshare-shrink_800/B56Z.BsjoeGQAg-/0/1784587369393?e=2147483647&v=beta&t=wdSgd8EAgBB4qtZk2e--ys6jjeKYCFjYiPJlteFmVMw",
+        "id": "7485101946211549184"
+      }
+    ],
+    "linkedin_num_id": "882710524",
+    "banner_image": "https://media.licdn.com/dms/image/v2/D5616AQHG0EAI5u3s9w/profile-displaybackgroundimage-shrink_200_800/B56Zv3OAXzIcAU-/0/1769379203163?e=2147483647&v=beta&t=oNYIEdNLyE7ttBRNVYBlT8Xh7PuUpE8HyYgN5Ls9gCM",
+    "honors_and_awards": [
+      {
+        "title": "Dean\u2019s List @ UIUC",
+        "publication": "-",
+        "date": "2025-08-01T00:00:00.000Z",
+        "description": "Named to the Dean\u2019s List for high academic achievement at UIUC (multiple semesters)."
+      },
+      {
+        "title": "James Scholar Honors Program",
+        "publication": "-",
+        "date": "2024-08-01T00:00:00.000Z",
+        "description": "Honors designation recognizing strong academic performance and participation in advanced/honors coursework at UIUC."
+      },
+      {
+        "title": "CAIE Star of the Year Award and the Academic Excellence Award from Cambridge",
+        "publication": "Cambridge",
+        "date": "2021-03-01T00:00:00.000Z",
+        "description": "Won CAIE Star of the Year Award and the Academic Excellence Award from Cambridge for my IGCSE board exam results: A*s in all my 9 subjects (most rigorous courses offered at my school)"
+      },
+      {
+        "title": "\u201cBest Junior CEO and Valedictorian\u201d",
+        "publication": "Junior CEO/Junior MBA - Brown University and Clever Harvey",
+        "date": "2021-02-01T00:00:00.000Z",
+        "description": "Won the award for \u201cBest Junior CEO and Valedictorian\u201d at Junior CEO/Junior MBA - Brown University and Clever Harvey. The Clever Harvey Junior MBA program introduced 21st-century skills and different aspects of entrepreneurship. At the end of the course, we had to make and present a business pitch. I won the award for \u201cBest Junior CEO and Valedictorian\u201d."
+      },
+      {
+        "title": "Finalist and one of the Top 16 teams at the Online Innovation Summit - IIT Roorkee and Clever Harvey",
+        "publication": "-",
+        "date": "2020-04-01T00:00:00.000Z",
+        "description": "Finalist and one of the Top 16 teams selected from 100+ teams at the Online Innovation Summit - IIT Roorkee and Clever Harvey"
+      },
+      {
+        "title": "Gold Medal, International rank \u2013 136 in English (IEO) Olympiad",
+        "publication": "-",
+        "date": "2020-03-01T00:00:00.000Z",
+        "description": "Gold Medal, International rank \u2013 136 in English (IEO) \u2013 2020"
+      },
+      {
+        "title": "Silver medal in SOF NCO Olympiad Zonal rank 2, International Rank 18",
+        "publication": "-",
+        "date": "2019-03-01T00:00:00.000Z",
+        "description": "Silver medal in SOF NCO Olympiad Zonal rank 2, international rank 18 - 2019"
+      },
+      {
+        "title": "Gold medal in SOF NSO Olympiad",
+        "publication": "-",
+        "date": "2018-03-01T00:00:00.000Z",
+        "description": "Gold medal in SOF NSO Olympiad - 2018"
+      },
+      {
+        "title": "Finalist of Google India Code to Learn Contest",
+        "publication": "-",
+        "date": "2017-03-01T00:00:00.000Z",
+        "description": "Finalist of Google India Code to Learn Contest (2017) (from students all over India who submitted a computer science related project for this competition, and the best projects were selected and announced as the finalists)"
+      },
+      {
+        "title": "Finalist \u2014 Google Code to Learn Contest",
+        "publication": "Google",
+        "date": null,
+        "description": "Finalist in Google Code to Learn Contest for building a project evaluated on creativity and technical execution."
+      }
+    ],
+    "similar_profiles": [],
+    "default_avatar": false,
+    "memorialized_account": false,
+    "bio_links": [
+      {
+        "title": "Portfolio",
+        "link": "https://saksham9426.github.io/saksham-portfolio"
+      }
+    ],
+    "first_name": "Saksham",
+    "last_name": "Aggarwal",
+    "influencer": false,
+    "timestamp": "2026-08-12T19:15:48.433Z",
+    "input": {
+      "url": "https://www.linkedin.com/in/saksham-aggarwal-sa9"
+    }
+  },
+  "local_photo": "data\\linkedin_photos\\saksham-aggarwal-sa9__usr-mLDzaZbVqzIKAyN.jpg"
+}

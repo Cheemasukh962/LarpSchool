@@ -1,0 +1,322 @@
+{
+  "source": "crustdata",
+  "recovered_from": "brightdata_failed_private",
+  "luma_user_id": "usr-g7WYWz1DkceiWDx",
+  "csv_name": "sashank batchu",
+  "csv_linkedin": "https://www.linkedin.com/in/sashankbatchu",
+  "clean_linkedin": "https://www.linkedin.com/in/sashankbatchu",
+  "enriched_at": "2026-08-14T18:07:59.937250+00:00",
+  "person_data": {
+    "basic_profile": {
+      "current_title": "Executive",
+      "first_name": null,
+      "headline": "CS @ Georgia Tech | Prev @ Meta",
+      "languages": [
+        "English (Full professional proficiency)",
+        "Spanish (Limited working proficiency)",
+        "Telugu (Native or bilingual proficiency)"
+      ],
+      "last_name": null,
+      "location": {
+        "city": "",
+        "continent": "North America",
+        "country": "United States",
+        "full_location": null,
+        "raw": "San Francisco Bay Area",
+        "state": "California"
+      },
+      "name": "Sashank  Batchu",
+      "normalized_title": {
+        "confident": true,
+        "department": "Executive Leadership",
+        "matched_title": "Executive",
+        "similarity": 0.9998999834060669,
+        "sub_department": "Executive & C-Suite Leadership"
+      },
+      "professional_network_name": "Sashank  Batchu",
+      "profile_picture_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/person/1d23a7e4a1c8e8e228fa66fd4d6212da9abcc7a1d2747056b5da37b36f6a059e.jpg",
+      "summary": "I'm a Computer Science student at Georgia Tech with a passion for developing innovative software solutions that make a tangible impact. My experience ranges from building AI-powered tools to optimize testflows and enhance user experiences, to creating mobile and web applications that leverage advanced technologies to solve issues in my community."
+    },
+    "education": {
+      "schools": [
+        {
+          "activities_and_societies": "Startup Exchange, Data Science Club, Big Data Big Impact, FinTech Club, Blockchain Club, WebDev Club, HexLabs",
+          "degree": "Bachelor of Science - BS",
+          "description": "",
+          "end_year": 2026,
+          "field_of_study": "Computer Science",
+          "institute_logo_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/company/046ccfdeb8e2b1c321950f03b46369d40e9119b9e1bbbdfa2f1ef931820f7dc5.jpg",
+          "institute_logo_url": "https://media.licdn.com/dms/image/v2/D4E0BAQFgQNnDJI5zRQ/company-logo_400_400/B4EZ9mNsbEHwAU-/0/1784126293906/georgia_institute_of_technology_logo?e=1787184000&v=beta&t=ePRVdO4jdz-dnz-Zn5by7FWyuRvwZa_j4BXsTYE0WrU",
+          "location": {
+            "city": "Atlanta",
+            "continent": "North America",
+            "country": "United States",
+            "raw": "Atlanta, Georgia, United States",
+            "state": "Georgia"
+          },
+          "professional_network_id": "3558",
+          "school": "Georgia Institute of Technology",
+          "start_year": 2023
+        }
+      ]
+    },
+    "experience": {
+      "employment_details": {
+        "current": [
+          {
+            "company_description": "Startup Exchange at Georgia Tech is the place for builders at Georgia Tech to build and launch their most ambitious ideas. Exceptional Georgia Tech companies have been started by members in Startup Exchange, including Stord, Sora Schools, Ox, Glovo, and Memora Health, with a combined valuation of $4B+. These high-value startups are disrupting their respective industries, and their success demonstrates the impact of SX on bringing the most ambitious students together. SX alumni have also received numerous accolades, such as the Forbes 30 under 30 list, the Kleiner Perkins Fellowship, the Bessemer Ventures Fellowship, and other notable awards/lists.About Startup Exchange: Startup Exchange (SX) is a student-run organization curating the largest community for college builders, makers, and creators. We enable you to build, launch, and grow your ideas",
+            "company_professional_network_profile_url": "https://linkedin.com/company/35537868",
+            "company_profile_picture_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/company/08c791d62174775f25c11ca8bcda4f561ff2f7521735116449da01e55149d303.jpg",
+            "company_website_domain": "startupexchangegt.org",
+            "crustdata_company_id": 2248936,
+            "description": "Led the largest student-run startup incubator in the U.S., working with design, engineering, and logistics departments to host pitch competitions, demo days and corporate-partnered Al, Web3, and XR hackathons. Built community of 5,000+ students at 40+ colleges and raised $70K+ in funding. Contributed to the Fellowship program in specific.",
+            "employment_type": "",
+            "end_date": null,
+            "function_category": "",
+            "is_default": true,
+            "location": {
+              "raw": ""
+            },
+            "name": "Startup Exchange",
+            "position_id": 2811635170,
+            "professional_network_id": "35537868",
+            "seniority_level": "Entry Level",
+            "start_date": "2025-08-01T00:00:00+00:00",
+            "title": "Executive",
+            "years_at_company": "1 to 2 years",
+            "years_at_company_raw": 1.0
+          },
+          {
+            "company_description": "The Georgia Institute of Technology is one of the nation's premier research universities providing a focused, technologically based education to more than 25,000 undergraduate and graduate students . Ranked seventh among U.S. News & World Report's top public universities, Georgia Tech offers degrees through the Colleges of Business, Computing, Design, Engineering, Liberal Arts and Sciences. The Institute offers research opportunities to both undergraduate and graduate students and is home to more than 100 centers that consistently contribute vital innovation to American government, industry, and business.",
+            "company_professional_network_profile_url": "https://linkedin.com/company/3558",
+            "company_profile_picture_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/company/046ccfdeb8e2b1c321950f03b46369d40e9119b9e1bbbdfa2f1ef931820f7dc5.jpg",
+            "company_website_domain": "gatech.edu",
+            "crustdata_company_id": 6035664,
+            "description": "CS 2200: Computer Systems and Networks\n\nSupported lectures for 500+ college students through lab instruction, hosting weekly office hours, designing projects and homework assignments, and grading submissions on a weekly basis.\n\nTopics Covered: Parallel Systems, Multithreading, Networking, Memory Management, Processor Scheduling, and Caching",
+            "employment_type": "",
+            "end_date": null,
+            "function_category": "",
+            "is_default": false,
+            "location": {
+              "raw": ""
+            },
+            "name": "Georgia Institute of Technology",
+            "position_id": 2579143650,
+            "professional_network_id": "3558",
+            "seniority_level": "Entry Level",
+            "start_date": "2025-01-01T00:00:00+00:00",
+            "title": "Undergraduate Teaching Assistant",
+            "years_at_company": "1 to 2 years",
+            "years_at_company_raw": 1.0
+          }
+        ],
+        "past": [
+          {
+            "company_description": "Meta's mission is to build the future of human connection and the technology that makes it possible. Our technologies help people connect, find communities, and grow businesses. When Facebook launched in 2004, it changed the way people connect. Apps like Messenger, Instagram and WhatsApp further empowered billions around the world. Now, Meta is moving beyond 2D screens toward immersive and intelligent experiences like virtual reality, wearables and AI to help build the next evolution in social technology.To help create a safe and respectful online space, we encourage constructive conversations on this page. Please note the following:\u2022 Start with an open mind. Whether you agree or disagree, engage with empathy.\u2022 Comments violating our Community Standards will be removed or hidden. Please treat everybody with respect.\u2022 Keep it constructive. Use your interactions here to learn about and grow your understanding of others.\u2022 Our moderators are here to uphold these guidelines for the benefit of everyone, every day.\u2022 If you are seeking support for issues related to your Facebook account, please reference our Help Center (https://www.facebook.com/help) or Help Community (https://www.facebook.com/help/community).For a full listing of our jobs, visit https://www.metacareers.com",
+            "company_professional_network_profile_url": "https://linkedin.com/company/10667",
+            "company_profile_picture_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/company/e84581be93525861b5db4eb0eee09ca9073b125906137ab22c99ba7079969e29.jpg",
+            "company_website_domain": "metacareers.com",
+            "crustdata_company_id": 6033736,
+            "description": "MBS (Meta Business Suite) and Facebook-WhatsApp linking",
+            "employment_type": "Internship",
+            "end_date": "2025-08-01T00:00:00+00:00",
+            "function_category": "Engineering",
+            "is_default": false,
+            "location": {
+              "raw": "Menlo Park, California, United States"
+            },
+            "name": "Meta",
+            "position_id": 2579143754,
+            "professional_network_id": "10667",
+            "seniority_level": "In Training",
+            "start_date": "2025-05-01T00:00:00+00:00",
+            "title": "Software Engineer Intern",
+            "years_at_company": "Less than 1 year",
+            "years_at_company_raw": 0.0
+          },
+          {
+            "company_description": "An estimated 73% of organizations utilize test automation yet continue to struggle with low test coverage and long test cycle times. AquilaTest reduces these software testing bottlenecks.Our solution is a codeless test automation platform that reduces testing bottlenecks common in legacy automation tools. The key benefits include minimizing script maintenance times, streamlining a single test workflow across multiple apps, and integrating different testing types in a single platform.",
+            "company_professional_network_profile_url": "https://linkedin.com/company/89787166",
+            "company_profile_picture_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/company/591ac4e104bb504d580a951c0027d517c44b2eb3af91acde8229c4dc30e987a1.jpg",
+            "company_website_domain": "aquilatest.ai",
+            "crustdata_company_id": 1595469,
+            "description": "- Architected a multi-AI-agent system using Autogen and PostgreSQL to query PDFs and employed a RabbitMQ architecture to automate PDF-related test cases.\n- Fine-tuned Llama 3 with QLoRA and instituted a RAG-LLM-based microservice with a Flask API to automate QA test flow segregation, streamlining client onboarding from months to minutes\n- Developed a customer-service chatbot with Langchain based on company documentation and established a Cron job with AWS Lambda to retrieve up-to-date info from videos/docs in AWS S3, minimizing response time by 99%.\n- Modularized code, integrated logging, engineered Flask APIs, and applied SOLID to refactor existing projects.\n- Reported directly to the CEO and worked with him to ideate and execute in addressing client issues and conduct market research.",
+            "employment_type": "Internship",
+            "end_date": "2024-08-01T00:00:00+00:00",
+            "function_category": "",
+            "is_default": false,
+            "location": {
+              "raw": "Remote"
+            },
+            "name": "AquilaTest",
+            "position_id": 2394854346,
+            "professional_network_id": "89787166",
+            "seniority_level": "In Training",
+            "start_date": "2024-05-01T00:00:00+00:00",
+            "title": "AI/ML Intern",
+            "years_at_company": "Less than 1 year",
+            "years_at_company_raw": 0.0
+          },
+          {
+            "company_description": "The Georgia Tech Research Institute (GTRI) is the nonprofit, applied research organization of the Georgia Institute of Technology (Georgia Tech). GTRI is a designated University Affiliated Research Center (UARC) and leverages its science and engineering expertise, in collaboration with Georgia Tech, to enhance the impact of our collective research output. We advance technology and provide innovative solutions to:\u2022Enhance State of Georgia economic development.\u2022Serve National Security.\u2022Improve the human condition.\u2022Educate future technology leaders.",
+            "company_professional_network_profile_url": "https://linkedin.com/company/3557",
+            "company_profile_picture_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/company/c9626398cb8c44400a46277c410672f83e62408eea1fb916b5d51f1c33cb709b.jpg",
+            "company_website_domain": "gatech.edu",
+            "crustdata_company_id": 6035962,
+            "description": "- Utilize Unity and C# to engincer the mobile app Popsign Al, a platform for individuals to learn American Sign Language\n- Collaborate with deaf UX researcher from Google and NTID on feature development to increase plaver acquisition\n- Curated and annotated 2.5k + signs from the largest mobile ASL Dataset of 210k+ signs to train and deploy robust CV pipeline \n- PopSign was recently featured in the Google I/O 2023 Developer Keynote and Forbes.",
+            "employment_type": "",
+            "end_date": "2024-05-01T00:00:00+00:00",
+            "function_category": "Research",
+            "is_default": false,
+            "location": {
+              "raw": "Atlanta, Georgia, United States"
+            },
+            "name": "Georgia Tech Research Institute",
+            "position_id": 2239427796,
+            "professional_network_id": "3557",
+            "seniority_level": "Entry Level",
+            "start_date": "2023-08-01T00:00:00+00:00",
+            "title": "Undergraduate Research Assistant",
+            "years_at_company": "Less than 1 year",
+            "years_at_company_raw": 0.0
+          },
+          {
+            "company_description": "Snap is a technology company. We believe the camera presents the greatest opportunity to improve the way people live and communicate. Snap contributes to human progress by empowering people to express themselves, live in the moment, learn about the world, and have fun together. The Company\u2019s three core products are Snapchat, a visual messaging app that enhances your relationships with friends, family, and the world; Lens Studio, an augmented reality platform that powers AR across Snapchat and other services; and its AR glasses, Spectacles.",
+            "company_professional_network_profile_url": "https://linkedin.com/company/15191764",
+            "company_profile_picture_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/company/0146f543d02da20e1af7271cd4c9a08e06ee651bad3cbb008aac4ed76b4e3c34.jpg",
+            "company_website_domain": "snap.com",
+            "crustdata_company_id": 832950,
+            "description": "",
+            "employment_type": "",
+            "end_date": "2024-04-01T00:00:00+00:00",
+            "function_category": "",
+            "is_default": false,
+            "location": {
+              "raw": "Remote"
+            },
+            "name": "Snap Inc.",
+            "position_id": 2394855094,
+            "professional_network_id": "15191764",
+            "seniority_level": "Entry Level",
+            "start_date": "2024-03-01T00:00:00+00:00",
+            "title": "Augmented Reality Development Extern",
+            "years_at_company": "Less than 1 year",
+            "years_at_company_raw": 0.0
+          },
+          {
+            "company_description": "Founded in 1861, the University of Washington is one of the oldest state-supported institutions of higher education on the West Coast and is one of the preeminent research universities in the world. Located minutes from downtown Seattle, the main UW campus provides gorgeous views of the Cascade and Olympic mountain ranges and, every spring, attracts visitors from all over to world who come to witness the blooming of its cherry blossom trees.As the state\u2019s flagship university, the UW serves more students than any other institution in the Northwest. In addition to its Seattle campus, the University has thriving campuses in Tacoma and Bothell and a robust professional and continuing education program. Anyone can enjoy and be enriched by all the UW has to offer, including world-class libraries, art, music, drama, sports and the highest quality medical care in Washington state.Being public also means being engaged with our communities, and through knowledge and discovery we are elevating the quality of lives of others.",
+            "company_professional_network_profile_url": "https://linkedin.com/company/2584",
+            "company_profile_picture_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/company/7fd609e5b334ab9b4a8a920beefa039be386fe1d4c708513ea8762d9cad3023a.jpg",
+            "company_website_domain": "uw.edu",
+            "crustdata_company_id": 6035302,
+            "description": "- Explored the differences and similarities between viral and non-viral asthma exacerbations to better understand the molecular immune responses that determine whether and how a viral respiratory infection (ex: Rhinoviruses) causes an exacerbation. \n- Ran gene set enrichment analysis, weighted correlation network analysis, hyperenrichment analysis and several forms of other analyses to study the LYSMD3 gene\n- Processed genomic data and used logistic regression to generate visually appealing figures regarding genomic expression in the four rhinitis phenotypes \n- Extensively researched RNAseq analysis methods such as edgeR, dream, limma, etc and identified their drawbacks and benefits\n- Tested the kimma data package with real-world data comparing RSTR vs LTBI, media vs Mtb and provided critical feedback\n- Ran kimma, limma, and dream analyses of differential expression and compared model fit and other metrics",
+            "employment_type": "",
+            "end_date": "2023-06-01T00:00:00+00:00",
+            "function_category": "",
+            "is_default": false,
+            "location": {
+              "raw": "Remote"
+            },
+            "name": "University of Washington, Department of Chemistry",
+            "position_id": 1806503857,
+            "professional_network_id": "2584",
+            "seniority_level": "In Training",
+            "start_date": "2021-03-01T00:00:00+00:00",
+            "title": "Data Science Intern",
+            "years_at_company": "3 to 5 years",
+            "years_at_company_raw": 2.0
+          },
+          {
+            "company_description": "Comet is an all-in-one task manager that will help you choose your major, find the RIGHT college(s), and organize your college apps. Join our Flight Test launching May 2021! As a trailblazer, you'll not only get free exclusive access, but you'll also help improve the platform so more students can reach their college goals.",
+            "company_professional_network_profile_url": "https://linkedin.com/company/73019933",
+            "company_profile_picture_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/company/e3bd181327027c8e815842a8441c40f848e405fc28f0772fec33edef2cca8dfb.jpg",
+            "company_website_domain": "applywithcomet.com",
+            "crustdata_company_id": 1414716,
+            "description": "- Analyzed user interface (UI) and experience (UX) and developed new design opportunities \n- Conducted marketing research, participated in focus groups, and tested incremental product versions\n- Leveraged Agile Scrum methodology to create seamless interfaces and implemented content-based filtering algorithms to connect 10k+ students to programs/careers.\n- Developed an in-production integrated CI/CD pipeline utilizing Jenkins to synchronize GitHub issues with Jira\n- Conducted functional/integration testing with Jest, achieving over 90% test coverage",
+            "employment_type": "",
+            "end_date": "2022-08-01T00:00:00+00:00",
+            "function_category": "Engineering",
+            "is_default": false,
+            "location": {
+              "raw": ""
+            },
+            "name": "Comet",
+            "position_id": 2097742239,
+            "professional_network_id": "73019933",
+            "seniority_level": "In Training",
+            "start_date": "2022-06-01T00:00:00+00:00",
+            "title": "Software Engineer Intern",
+            "years_at_company": "Less than 1 year",
+            "years_at_company_raw": 0.0
+          }
+        ]
+      }
+    },
+    "professional_network": {
+      "connections": 1041,
+      "current_title": "Executive",
+      "followers": 1049,
+      "headline": "CS @ Georgia Tech | Prev @ Meta",
+      "location": {
+        "city": "",
+        "continent": "North America",
+        "country": "United States",
+        "raw": "San Francisco Bay Area",
+        "state": "California"
+      },
+      "metadata": {
+        "last_scraped_source": null
+      },
+      "name": "Sashank  Batchu",
+      "profile_picture_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/person/1d23a7e4a1c8e8e228fa66fd4d6212da9abcc7a1d2747056b5da37b36f6a059e.jpg",
+      "pronoun": "",
+      "summary": "I'm a Computer Science student at Georgia Tech with a passion for developing innovative software solutions that make a tangible impact. My experience ranges from building AI-powered tools to optimize testflows and enhance user experiences, to creating mobile and web applications that leverage advanced technologies to solve issues in my community."
+    },
+    "skills": {
+      "professional_network_skills": [
+        "Postman API",
+        "Flask",
+        "PostgreSQL",
+        "Git",
+        "Amazon Web Services (AWS)",
+        "Microsoft Office",
+        "Redux.js",
+        "Data Science",
+        "REST APIs",
+        "Artificial Intelligence (AI)",
+        "HTML",
+        "Cascading Style Sheets (CSS)",
+        "Natural Language Processing (NLP)",
+        "Large Language Models (LLM)",
+        "Front-End Development",
+        "RabbitMQ",
+        "MongoDB",
+        "Firebase",
+        "Full-Stack Development",
+        "Back-End Web Development",
+        "R (Programming Language)",
+        "LangChain",
+        "Express.js",
+        "React Native",
+        "React.js",
+        "Node.js",
+        "JavaScript",
+        "Java",
+        "Python (Programming Language)",
+        "Generative AI"
+      ]
+    },
+    "social_handles": {
+      "dev_platform_identifier": {
+        "profile_url": null
+      },
+      "professional_network_identifier": {
+        "profile_url": "https://www.linkedin.com/in/sashankbatchu"
+      },
+      "twitter_identifier": {
+        "slug": ""
+      }
+    },
+    "crustdata_person_id": 172507500
+  }
+}

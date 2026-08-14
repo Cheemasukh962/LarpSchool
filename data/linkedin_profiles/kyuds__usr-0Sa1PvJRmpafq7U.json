@@ -1,0 +1,252 @@
+{
+  "luma_user_id": "usr-0Sa1PvJRmpafq7U",
+  "csv_name": "Daniel Shin",
+  "csv_linkedin": "https://www.linkedin.com/in/kyuds",
+  "enriched_at": "2026-08-12T19:01:42.778330+00:00",
+  "batch_id": "sd_msqgese9ztya3e3uk",
+  "profile": {
+    "id": "kyuds",
+    "name": "Daniel Shin",
+    "city": "Berkeley, California, United States",
+    "country_code": "US",
+    "position": null,
+    "about": "boba aficionado",
+    "current_company": {
+      "link": "https://www.linkedin.com/company/joinanyscale?trk=public_profile_topcard-current-company",
+      "name": "Anyscale",
+      "company_id": "joinanyscale",
+      "location": null
+    },
+    "experience": null,
+    "url": "https://br.linkedin.com/in/Kyuds",
+    "educations_details": "UC Berkeley College of Engineering",
+    "education": [
+      {
+        "title": "UC Berkeley College of Engineering",
+        "url": "https://www.linkedin.com/school/berkeleyengineering/",
+        "start_year": "2021-08",
+        "end_year": "2027-05",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      },
+      {
+        "start_year": "2017-08",
+        "end_year": "2021-06",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      }
+    ],
+    "recommendations_count": 2,
+    "avatar": "https://media.licdn.com/dms/image/v2/D5603AQEHfiWNl5gL5g/profile-displayphoto-scale_200_200/B56Zgwx17THQAY-/0/1753165030350?e=2147483647&v=beta&t=p7wcg5cXwnY-hI-_dyUroquTkm6LU5-WXHUXP3GWM4Y",
+    "languages": [
+      {
+        "subtitle": "Native or bilingual proficiency",
+        "title": "English"
+      },
+      {
+        "subtitle": "Native or bilingual proficiency",
+        "title": "Korean"
+      },
+      {
+        "subtitle": "Limited working proficiency",
+        "title": "Mandarin"
+      }
+    ],
+    "certifications": [
+      {
+        "meta": "Issued Feb 2025 Expires Feb 2028 See credential",
+        "subtitle": "Amazon Web Services (AWS)",
+        "title": "Amazon Web Services Solutions Architect - Associate",
+        "credential_url": "https://www.credly.com/badges/1b25081d-882e-40df-866a-b71f97789fc4?trk=public_profile_see-credential",
+        "credential_id": null
+      }
+    ],
+    "recommendations": [
+      "Junho Park \u201cDaniel is an outstanding problem solver who can solve algorithms, data structure, and other critical thinking problems in multifaceted ways. His academic prowess not only prevails in Berkeley\u2019s academic settings but also shines in research. No matter what problems or challenges given, he can adapt and approach them from a unique perspective.\u201d",
+      "Mason C. \u201cDaniel is a fantastic study partner, software engineer, and boba drinker. Not only does Daniel have the capability of solving projects/assignments with multiple different approaches, but he is also always willing to share his thoughts with his friends while drinking quality boba. Daniel is an extraordinary mentor and friend who has amazing leadership and collaborative skills. He helped me a lot throughout my time at UC Berkeley, and he always cheers me up when I'm down and guides me through difficult coding problems.\u201d"
+    ],
+    "followers": 1557,
+    "connections": 500,
+    "current_company_company_id": "joinanyscale",
+    "current_company_name": "Anyscale",
+    "organizations": [
+      {
+        "title": "KSEA Silicon Valley Chapter",
+        "membership_type": "Member; Developer",
+        "start_date": "Sep 2021",
+        "end_date": "Present",
+        "membership_number": null
+      },
+      {
+        "title": "Society for Science",
+        "membership_type": "Member; Alumni",
+        "start_date": "May 2020",
+        "end_date": "Present",
+        "description": "Eligible for membership as Regeneron ISEF Finalist 2021.",
+        "membership_number": null
+      },
+      {
+        "title": "Berkeley Kojobs",
+        "membership_type": "Member",
+        "start_date": "Jan 2023",
+        "end_date": "May 2023",
+        "membership_number": null
+      },
+      {
+        "title": "The Berkeley Forum",
+        "membership_type": "Member",
+        "start_date": "Jan 2023",
+        "end_date": "May 2023",
+        "membership_number": null
+      }
+    ],
+    "location": "Berkeley",
+    "input_url": "https://www.linkedin.com/in/kyuds",
+    "linkedin_id": "kyuds",
+    "activity": [
+      {
+        "interaction": "Daniel Shin shared this",
+        "link": "https://www.linkedin.com/posts/kyuds_super-excited-to-see-skypilot-out-of-stealth-activity-7485383557972975616-SfZI",
+        "title": "Super excited to see SkyPilot out of stealth! It's been a privilege contributing to the project over the past year and working with the team! For all the SkyPilot open-source users out there, the platform is even better (yes I know it's hard to believe). Request the demos and let's keep building! ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQEaXXtQvzEoBw/feedshare-shrink_1280/B56Z.FTUgzGQAM-/0/1784647862596?e=2147483647&v=beta&t=9tnPRs9pck6XZOnggF0YJFB_LTH0zTuYkdD6WSYcMLM",
+        "id": "7485383557972975616"
+      },
+      {
+        "interaction": null,
+        "link": "https://www.linkedin.com/posts/joinanyscale_raysummit2026-activity-7480334852957941760-t1OL",
+        "title": "The first wave of #RaySummit2026 breakout sessions are in with Spotify, Apple, Microsoft AI, Discord \ud83d\udd25 Sessions from: \ud83d\udd39 Spotify on Training LLMs with Their Hendrix Framework \ud83d\udd39 Microsoft AI on Ray and MAI-Thinking-1 \ud83d\udd39 Discord on Scaling ML with Ray and Anyscale \ud83d\udd39 Apple Maps on Batch Inference and LLM Evaluation at Scale \ud83d\udd39 Inside Lila Sciences ' AI Research Platform \ud83d\udd39 Latitude AI on Performant Training Across Workstreams Register now to catch these sessions live in SF, August 24\u201326: https://lnkd.in/gm52HNiW ...more ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D5610AQFP538deWNHpA/image-shrink_800/B56Z8985GnG8Ak-/0/1783450801036?e=2147483647&v=beta&t=TrlaEO698mBOBQE13hHT5MYV2-rfXrzw1-U58oE-qAA",
+        "id": "7480334852957941760"
+      },
+      {
+        "interaction": null,
+        "link": "https://www.linkedin.com/posts/zhanghaowu_10000-issues-and-prs-reached-at-skypilot-activity-7478148060771155968-xuOy",
+        "title": "10,000 issues and PRs reached at SkyPilot ! Each one a new feature, a hard bug fixed, or an idea shaped in the open. That is what a fast-moving project looks like. SkyPilot started as a research project at UC Berkeley's Sky Computing Lab, built to solve one hard problem: AI needs a single orchestration layer for GPUs, from multiple clouds. Today hundreds of frontier AI teams run their workloads and govern their GPUs on it. Thank you to everyone building this with us. On to the next 10,000. ...more ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQEVtpkTwfh8tQ/feedshare-shrink_800/B56Z8e4CPPIQAg-/0/1782929433897?e=2147483647&v=beta&t=HF5tINtM6sHLeQ-vozDo1SDq-w0PXd6EPuEsYTWRnSU",
+        "id": "7478148060771155968"
+      },
+      {
+        "interaction": "Daniel Shin shared this",
+        "link": "https://www.linkedin.com/posts/kyuds_storage-is-an-often-overlooked-but-critical-activity-7456020532342214656-Rc1i",
+        "title": "Storage is an often overlooked, but critical bottleneck for ML workloads. Wrote up some recent work on tuning SkyPilot's MountCached to solve these issues! ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D4D22AQH1V8oD0y39Wg/feedshare-shrink_800/B4DZ3kRhy1IEAc-/0/1777651293701?e=2147483647&v=beta&t=82atSfslAgdm6ZecsgGdNcLktRzAjnUMTwq_yDK67nw",
+        "id": "7456020532342214656"
+      },
+      {
+        "interaction": null,
+        "link": "https://www.linkedin.com/posts/skypilot-ai_skypilot-ai-infra-meetup-is-back-activity-7437527816629477376-miyo",
+        "title": "\ud83d\udc4b SkyPilot AI Infra Meetup is back! \ud83d\udcc6 Wed, Mar 25th, 5:00 PM \ud83d\udccd San Francisco Join us in person for the AI Infra Meetup with SkyPilot! We'll be talking about open-source AI infra for batch and training workloads, K8s, Slurm, and more! Come connect with fellow builders, share insights, and learn from experts on the latest in AI infra! \ud83d\ude80 \ud83d\udd17 RSVP now: https://lnkd.in/gHXaMbnM ...more ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQE3-hZxeZVwTg/feedshare-shrink_800/B56ZzZ.XFnH0Ag-/0/1773183529705?e=2147483647&v=beta&t=S06ptVEuV6qcaiYD5FNylr8COl1Y0oPkP4N849Bs5EI",
+        "id": "7437527816629477376"
+      },
+      {
+        "interaction": null,
+        "link": "https://www.linkedin.com/posts/skypilot-ai_%F0%9D%97%A6%F0%9D%97%B8%F0%9D%98%86%F0%9D%97%A3%F0%9D%97%B6%F0%9D%97%B9%F0%9D%97%BC%F0%9D%98%81-%F0%9D%98%83%F0%9D%9F%AC%F0%9D%9F%AD%F0%9D%9F%AD%F0%9D%9F%AE-%F0%9D%97%B6%F0%9D%98%80-%F0%9D%97%BC%F0%9D%98%82%F0%9D%98%81-activity-7435368564460670976-K_Qu",
+        "title": "\ud835\udde6\ud835\uddf8\ud835\ude06\ud835\udde3\ud835\uddf6\ud835\uddf9\ud835\uddfc\ud835\ude01 \ud835\ude03\ud835\udfec.\ud835\udfed\ud835\udfed.\ud835\udfee \ud835\uddf6\ud835\ude00 \ud835\uddfc\ud835\ude02\ud835\ude01! \ud83d\ude80 This release brings Slurm support, Job Groups for RL on heterogeneous hardware, enhanced Pools with autoscaling, external links in the dashboard, 7x faster object store access, and much more! Better scheduling, security, and multi-backend control for infra teams. Faster iteration and less infra wrangling for ML engineers. uv pip install \"skypilot>=0.11.2\" ...more ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQFbtANzTKkzxg/feedshare-shrink_800/B56Zy64uu_KEAg-/0/1772661959855?e=2147483647&v=beta&t=HDqQx37WpYZsh7LvqK3NihHci83vUbx18zfuU3BSkFk",
+        "id": "7435368564460670976"
+      },
+      {
+        "interaction": null,
+        "link": "https://www.linkedin.com/posts/skypilot-ai_dont-run-openclaw-on-your-main-machine-activity-7433194221924409344-GD7m",
+        "title": "\ud83d\udeab\ud83e\udd9e DON'T run OpenClaw on your main machine. \u2705\ud83e\udd9e DO run it in an isolated environment. But isolation isn't easy: provisioning, SSH, security groups, cost management. This post breaks down your options (Docker, dedicated hardware, cloud VM) and shows you how to launch a secure OpenClaw setup on any cloud with one command. \ud83d\udd17 in comments \ud83d\udc47 ...more ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQHdyus5Kd7ypw/feedshare-shrink_800/B56ZycTZTQKUAg-/0/1772148856409?e=2147483647&v=beta&t=6BJ5ON4tlmOfYP1Gh3nVmhCTHUL9pIH8B7RK6QXbXUo",
+        "id": "7433194221924409344"
+      },
+      {
+        "interaction": null,
+        "link": "https://www.linkedin.com/posts/skypilot-ai_skypilot-at-shopify-multi-cloud-gpus-without-activity-7421627510297321472-IMfO",
+        "title": "Shopify now runs all AI training on SkyPilot. \u2022 H200s on Nebius , L4s on Google Cloud - multi-cloud AI enabled by SkyPilot \u2022 One unified interface for engineers \u2022 Cost tracking, Inifiniband support, fair scheduling Excited to support Shopify 's journey to build the future of e-commerce with AI \ud83d\udcaa\ud83c\udffb ...more",
+        "img": "https://media.licdn.com/dms/image/sync/v2/D4E27AQFsGf0rPRQiZw/articleshare-shrink_800/B4EZv6zV.HJUAI-/0/1769439322825?e=2147483647&v=beta&t=sGDgb0U5X4c-tJgRReXJazQrkuD004IV_b8LsJF7kTk",
+        "id": "7421627510297321472"
+      },
+      {
+        "interaction": null,
+        "link": "https://www.linkedin.com/posts/skypilot-ai_ai-workloads-need-fast-storage-object-stores-activity-7420518591428698113-mF9t",
+        "title": "AI workloads need fast storage. Object stores aren't always the best fit. SkyPilot Volumes let you access to high-performance storage designed for AI. \ud83d\udcbe Persist and share datasets, checkpoints and code \u26a1 Easy to use - attach in 1 line \u2638\ufe0f Works with any Kubernetes PVC ...more ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D5605AQEn8PWpQUVBXA/feedshare-thumbnail_720_1280/B56Zvr6T2LIUA0-/0/1769189490289?e=2147483647&v=beta&t=HII6eICmUufdeeLN6DMS4c-bsCEZamiVh6JJfeO1H0Q",
+        "id": "7420518591428698113"
+      },
+      {
+        "interaction": "Daniel Shin commented on a post 3d",
+        "link": "https://www.linkedin.com/posts/at-12am-central-time-i-was-able-to-catch-activity-7492087327616512000-HIDD",
+        "title": "Yancho so goat",
+        "img": null,
+        "id": "7492087327616512000"
+      },
+      {
+        "interaction": "Daniel Shin commented on a post 2w",
+        "link": "https://www.linkedin.com/posts/romilb_excited-to-ship-day-0-support-for-kimi-k3-activity-7487575086699302912-CEQw",
+        "title": "Models are only truly \"open\" when they run on my machine",
+        "img": null,
+        "id": "0"
+      },
+      {
+        "interaction": "Daniel Shin liked this",
+        "link": "https://www.linkedin.com/posts/youcheng-lin_marking-my-100th-pr-on-ray-does-that-make-activity-7492483953619267584-gZMz",
+        "title": "Marking my 100th PR on Ray, does that make me\"rayasianboy\"?",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQGvGsVV_S6-iw/feedshare-shrink_800/B56Z_qmcfbHIAc-/0/1786347375135?e=2147483647&v=beta&t=JkFj1oEQwjJg1mCn-FGos95KGOpeDY0cecZVGOa_AAM",
+        "id": "7492483953619267584"
+      },
+      {
+        "interaction": "Daniel Shin liked this",
+        "link": "https://www.linkedin.com/posts/at-12am-central-time-i-was-able-to-catch-activity-7492087327616512000-HIDD",
+        "title": "At 12AM central time, I was able to catch the last bus to Wisconsin. Now that I have another 3-hour bus time, it's perfect to write something. I always hate the bus from O'Hare to Madison because it seems to take forever and corn fields are the only yet tedious scenery along the trip. For the last two months I have been moving fast in PA and SF, delivering with colleagues in different time zones, and witnessing several deals. It's a great time, and I am fortunate to spend a (short) fulfilled period of time with the most talented and indigenous colleagues at Anyscale . Thanks for everyone for reading my verbose words. Cheers for this great company and the time! \u957f\u98ce\u7834\u6d6a\u4f1a\u6709\u65f6 \u76f4\u6302\u4e91\u5e06\u6d4e\u6ca7\u6d77",
+        "img": null,
+        "id": "7492087327616512000"
+      },
+      {
+        "interaction": "Daniel Shin liked this",
+        "link": "https://www.linkedin.com/posts/hwpark25_yesterday-i-wrapped-up-my-summer-as-a-strategy-activity-7491776822297116672-pXHk",
+        "title": "Yesterday, I wrapped up my summer as a Strategy Consulting Intern at Kearney . A few months ago I walked in not really knowing what to expect from consulting. I'm walking out with not just how to be active on Microsoft Teams and some random Excel shortcuts, but real insight into how these industries actually work. I got to work on two very different problems: an OEM & ODM market strategy for a major appliance manufacturer, and a market entry strategy in the emerging humanoid robotics space for a global tech player. Going from refrigerators to humanoids in the same summer was a pretty wild range, and a great crash course in how consulting frameworks flex across industries. A few things I'll take with me: \u2192 Structuring overwhelming problems with a MECE framework \u2192 Organizing BOM spreadsheets from the ground up \u2192 Sourcing and running expert interviews, learning to think on my feet with follow-up questions Huge thanks to my mentors, teammates, and everyone who partnered with me this summer! Now, I'm returning to Berkeley for my bachelor's. Excited to bring some of this with me into California!",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQGD34GnYzNT-Q/feedshare-image-high-res/B56Z_gjTBfK8AY-/0/1786178781439?e=2147483647&v=beta&t=KeX3z7HBDJ85TSnTWvm8ydgn1FZTtYluHGHyWHfm94Y",
+        "id": "7491776822297116672"
+      },
+      {
+        "interaction": "Daniel Shin liked this",
+        "link": "https://www.linkedin.com/posts/john-kim-51915130a_spacex-starship-activity-7491306941843918848-EkLi",
+        "title": "I'm incredibly excited and grateful to share that I'll be joining SpaceX this fall as part of the Fall 2026 Engineering Internship/Co-op Program on the Starship Launch Fluid Systems Team at Starbase, Texas. \ud83d\ude80 This is truly a dream come true for me. Since I began studying mechanical engineering, I've been drawn to designing and building aerospace hardware and seeing ideas become reality through testing and iteration. During my time at UC Berkeley, I've had the opportunity to work on liquid rocket propulsion, UAV development, and aerospace structural design. Every challenge, redesign, failed test, and lesson learned along the way has strengthened my passion for engineering and my desire to build systems that perform in the real world. Joining SpaceX has been a goal I've worked toward throughout college, and I'm incredibly grateful for the opportunity to contribute to Starship while learning from some of the best engineers in the industry. This milestone wouldn't have been possible without the support of my family, friends, professors, mentors, and teammates. Thank you for believing in me, challenging me, and helping me grow both as an engineer and as a person. A special thank you to Sophia Castellanos for coordinating the interview process and making the entire experience such a positive one. I truly appreciate all of your support throughout the process. I'm excited for what's ahead and can't wait to get started. Dreams do come true. So chase yours. \ud83d\ude80 Ad Astra #SpaceX #Starship",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQEziuFPmmhK2Q/feedshare-shrink_1280/B56Z_Z39n6JkAM-/0/1786066754915?e=2147483647&v=beta&t=72yMdklEx9UIByu4pnA5QD4qXm4Ma94tJMVdQLNxunY",
+        "id": "7491306941843918848"
+      },
+      {
+        "interaction": "Daniel Shin liked this",
+        "link": "https://www.linkedin.com/posts/joinanyscale_ray-and-vllm-run-some-of-the-largest-ai-workloads-activity-7491176291581259776-mVbO",
+        "title": "Ray and vLLM run some of the largest AI workloads in production, and this year the teams building them share a stage. The first vLLM Conference runs inside Ray Summit 2026, and one ticket covers both. \u26a1 From the vLLM and Anyscale teams: \u2192 Woosuk Kwon , Cofounder / CTO, Inferact; Creator, vLLM \u2192 Simon Mo , Cofounder / CEO, Inferact; Core Maintainer, vLLM \u2192 Yifan Qiao , Member of Technical Staff, Inferact \u2192 Zijing L. , Member of Technical Staff, Inferact \u2192 Eric Tang , Software Engineer, Anyscale \u2192 Goku Mohandas , ML Platform Lead, Anyscale \u2192 Richard Liaw , Product Manager, Anyscale \u2192 Jeffrey (Yu-Che) Wang Wang, Software Engineer, Anyscale The state of vLLM, serving agentic workloads, SkyRL, KV cache aware routing, agent skills for Ray, and reliable training at scale, straight from the people building it. See you at San Francisco, Marriott Marquis on August 24\u201326. https://lnkd.in/g-QKsnEP",
+        "img": "https://media.licdn.com/dms/image/v2/D5610AQEiS7EqLvOsdg/image-shrink_800/B56Z_YBH64G0Ag-/0/1786035602668?e=2147483647&v=beta&t=bq4AQPSRxXTnvH0IA2vr0Miq2ZpkUYoA3JzKaEP1ckU",
+        "id": "7491176291581259776"
+      },
+      {
+        "interaction": "Daniel Shin liked this",
+        "link": "https://www.linkedin.com/posts/arpan-pathak-272341424_cuda-kernels-gpu-parallel-programming-activity-7490816186092318720-8x7q",
+        "title": "I felt left out watching master's & PhD grads and big tech folks build cool things with parallel computing... while I didn't even own a GPU. \ud83d\ude05 But I needed to understand GPU hardware for my capstone computer vision projects. So I used what I had: cloud GPUs \u2601\ufe0f, my brain \ud83e\udde0, compilers, and documentation. Docs are hard to navigate when the explanations aren't generous; so I wrote my own. \ud83d\udcd6 16 chapters on CUDA kernels, GPU architecture, memory optimization, modern C++, and writing GPU kernels in pure Rust with CUDA-Oxide. Every concept explained from first principles, every line of code commented. For every CS engineer who wants to stay ahead and enjoy the marvelous innovation of GPU computing \ud83d\ude80: \ud83d\udc49 https://lnkd.in/gxsXJj3S Check out the google collab notebook posted in comments for simple vector dot product and matrix multiplication code using cuda. #cuda #gpu #parallelcomputing #rust #computerscience",
+        "img": null,
+        "id": "7490816186092318720"
+      },
+      {
+        "interaction": "Daniel Shin liked this",
+        "link": "https://www.linkedin.com/posts/akulguptax_last-week-i-spoke-to-a-room-full-of-las-activity-7490783697835827200-r5VJ",
+        "title": "Last week, I spoke to a room full of LA's top security leaders on how MindFort is changing security. The consensus we\u2019re seeing is that teams want fully autonomous red teamers testing every inch of their attack surface around the clock. This was the dream we set out to make a reality with MindFort. Giving teams the ability to test everything, everywhere, all the time. But, it is an enormous infrastructure challenge, and takes highly coordinated and scalable systems to deliver effectively. Zero human in the loop, but designed to complement and work alongside your human teams. Today, our agents can cover your entire attack surface with continuous testing 24/7. We are glad to be sponsoring OWASP events, bringing together a community of security professionals for talks and workshops.",
+        "img": "https://media.licdn.com/dms/image/v2/D5610AQEslZ8DCWIlPQ/image-shrink_800/B56Z_ScFDAJcAk-/0/1785942004900?e=2147483647&v=beta&t=-jyoKaUa1HDT_3cHfEBjYNo7o52aLPRXpQ7_uwKZRDY",
+        "id": "7490783697835827200"
+      }
+    ],
+    "linkedin_num_id": "932143831",
+    "banner_image": "https://media.licdn.com/dms/image/v2/C4E16AQHIMCMgCGt05w/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1663792409735?e=2147483647&v=beta&t=t3SDbO1JNnxmrumcJTBOFYm1KR4sQD7ftSREgBicV0I",
+    "honors_and_awards": null,
+    "similar_profiles": [],
+    "default_avatar": false,
+    "memorialized_account": false,
+    "bio_links": [],
+    "first_name": "Daniel",
+    "last_name": "Shin",
+    "influencer": false,
+    "timestamp": "2026-08-12T19:01:00.165Z",
+    "input": {
+      "url": "https://www.linkedin.com/in/kyuds"
+    }
+  },
+  "local_photo": "data\\linkedin_photos\\kyuds__usr-0Sa1PvJRmpafq7U.jpg"
+}

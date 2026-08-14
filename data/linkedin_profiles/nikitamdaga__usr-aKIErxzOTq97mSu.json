@@ -1,0 +1,346 @@
+{
+  "luma_user_id": "usr-aKIErxzOTq97mSu",
+  "csv_name": "Nikita Daga",
+  "csv_linkedin": "https://www.linkedin.com/in/nikitamdaga",
+  "enriched_at": "2026-08-12T19:13:35.738027+00:00",
+  "batch_id": "sd_msqguuzo2o546dm49e",
+  "profile": {
+    "id": "nikitamdaga",
+    "name": "Nikita Daga",
+    "city": "Durham, North Carolina, United States",
+    "country_code": "US",
+    "position": null,
+    "about": "I thrive in environments that are dynamic and seek to make a significant impact through\u2026",
+    "current_company": {
+      "link": "https://www.linkedin.com/company/databricks?trk=public_profile_topcard-current-company",
+      "name": "Databricks",
+      "company_id": "databricks",
+      "location": null
+    },
+    "experience": null,
+    "url": "https://ch.linkedin.com/in/Nikitamdaga",
+    "people_also_viewed": [
+      {
+        "profile_link": "https://in.linkedin.com/in/hardikjain15",
+        "name": "Hardik Jain",
+        "about": "TT Limited",
+        "location": "4K followers New Delhi"
+      },
+      {
+        "profile_link": "https://in.linkedin.com/in/priyasha-chadha",
+        "name": "Priyasha Chhabra",
+        "about": "Collegify",
+        "location": "896 followers Delhi, India"
+      },
+      {
+        "profile_link": "https://in.linkedin.com/in/akshay-khatri-93691962",
+        "name": "Akshay Khatri",
+        "about": "ANTIQUE MATH",
+        "location": "86 followers Ahmedabad"
+      },
+      {
+        "profile_link": "https://in.linkedin.com/in/dr-maumita-banerjie-021b0514",
+        "name": "Dr. Maumita Banerjie",
+        "about": "Center of perfoming arts and culture",
+        "location": "2K followers Gurgaon"
+      },
+      {
+        "profile_link": "https://in.linkedin.com/in/girish-chadha",
+        "name": "Girish Chadha",
+        "about": "HabileLabs Private Limited",
+        "location": "2K followers New Delhi"
+      },
+      {
+        "profile_link": "https://in.linkedin.com/in/ardigantaragmaity",
+        "name": "Diganta Rag Maity",
+        "about": "AMA (Architect Maheshwari & Associates )",
+        "location": "3K followers Kolkata"
+      },
+      {
+        "profile_link": "https://in.linkedin.com/in/shanahuja",
+        "name": "Shan Ahuja",
+        "about": "Blue Lemon Entertainment",
+        "location": "881 followers Gurgaon"
+      },
+      {
+        "profile_link": "https://in.linkedin.com/in/shrishty-babel",
+        "name": "Shrishty Babel",
+        "about": "Czarr",
+        "location": "1K followers Mumbai"
+      },
+      {
+        "profile_link": "https://in.linkedin.com/in/aayushi-sharma-268430bb",
+        "name": "AAYUSHI SHARMA",
+        "about": "OP Jindal University",
+        "location": "89 followers Delhi, India"
+      },
+      {
+        "profile_link": "https://in.linkedin.com/in/dhritijain29",
+        "name": "Dhriti Jain",
+        "about": "American Express",
+        "location": "2K followers Delhi, India"
+      }
+    ],
+    "educations_details": "Duke University",
+    "education": [
+      {
+        "title": "Duke University",
+        "url": "https://www.linkedin.com/school/duke-university/",
+        "start_year": "2022-06",
+        "end_year": "2026-05",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      },
+      {
+        "start_year": "2018",
+        "end_year": "2022",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      }
+    ],
+    "avatar": "https://media.licdn.com/dms/image/v2/D4E03AQHqGPliJXxfYA/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1697828004277?e=2147483647&v=beta&t=QkXOzOX3DVrK9JRpUtVGf2v355Mwwzvk1G8JwbRB0YA",
+    "courses": [
+      {
+        "subtitle": "COMPSCI 308",
+        "title": "Advanced Software Design"
+      },
+      {
+        "subtitle": "STA 360",
+        "title": "Bayesian Statistics"
+      },
+      {
+        "subtitle": "COMPSCI 250",
+        "title": "Computer Architecture"
+      },
+      {
+        "subtitle": "STA 325",
+        "title": "Data Mining and Machine Learning"
+      },
+      {
+        "subtitle": "COMPSCI 201",
+        "title": "Data Structures and Algorithms"
+      },
+      {
+        "subtitle": "COMPSCI 316",
+        "title": "Databases"
+      },
+      {
+        "subtitle": "COMPSCI 330",
+        "title": "Design and Analysis of Algorithms"
+      },
+      {
+        "subtitle": "MATH 230",
+        "title": "Probability"
+      },
+      {
+        "subtitle": "STA 210",
+        "title": "Regression Analysis"
+      },
+      {
+        "subtitle": "COMPSCI 345",
+        "title": "Software Graphic Architecture"
+      }
+    ],
+    "certifications": [
+      {
+        "meta": "Issued Aug 2024",
+        "subtitle": "Amazon Web Services (AWS)",
+        "title": "AWS Cloud Practitioner Essentials",
+        "credential_url": null,
+        "credential_id": null
+      },
+      {
+        "meta": "Issued Aug 2021 Credential ID UC-03510a6e-e562-40f6-b18c-9bc0539ca588 See credential",
+        "subtitle": "Udemy",
+        "title": "Data Science and Machine Learning Bootcamp with R",
+        "credential_url": "https://www.linkedin.com/ude.my/UC-03510a6e-e562-40f6-b18c-9bc0539ca588?trk=public_profile_see-credential",
+        "credential_id": "UC-03510a6e-e562-40f6-b18c-9bc0539ca588"
+      },
+      {
+        "meta": "Issued Jul 2020 Credential ID PMYPV8NXU2ES See credential",
+        "subtitle": "Yale University",
+        "title": "Financial Markets (with Honors)",
+        "credential_url": "https://www.coursera.org/account/accomplishments/certificate/PMYPV8NXU2ES?trk=public_profile_see-credential",
+        "credential_id": "PMYPV8NXU2ES"
+      },
+      {
+        "meta": "Issued Jan 2023 Expires Jan 2026 Credential ID 53093777 See credential",
+        "subtitle": "CITI Program",
+        "title": "Undergraduate Student Responsible Conduct of Research",
+        "credential_url": "https://www.citiprogram.org/verify/?w6a8913f3-aed3-4f0b-999c-6d5c3ab5b8b0-53093777&trk=public_profile_see-credential",
+        "credential_id": "53093777"
+      }
+    ],
+    "volunteer_experience": [
+      {
+        "cause": "Education",
+        "duration": "Apr 2020 \u00b7 - \nSep 2022 \u00b7 \n2 years 6 months",
+        "duration_short": "- \nSep 2022",
+        "info": "Initiated the Child Rights Club at Canadian International School. Guided members to create learning aids for low-income students. Worked directly with the CRY South India team to complete assigned projects. Ran MUN conferences to raise INR 50k for children in need.",
+        "start_date": "Apr 2020",
+        "subtitle": "CRY - Child Rights and You",
+        "title": "Fundraising Volunteer and School Ambassador"
+      },
+      {
+        "cause": "Economic Empowerment",
+        "duration": "Jun 2021 \u00b7 - \nApr 2022 \u00b7 \n11 months",
+        "duration_short": "- \nApr 2022",
+        "info": "Designed financial literacy workshops for women by referring to the Penn State University financial literacy modules. Held interactive sessions for women in various sectors to educate them on personal finance.",
+        "start_date": "Jun 2021",
+        "subtitle": "Florence Capital",
+        "title": "Financial Training Volunteer"
+      }
+    ],
+    "followers": 2094,
+    "connections": 500,
+    "current_company_company_id": "databricks",
+    "current_company_name": "Databricks",
+    "publications": [
+      {
+        "title": "Blooming: Unfiltered Stories of Indian Women's Struggles with Financial Independence",
+        "subtitle": "Notion Press",
+        "date": "July 15, 2021",
+        "description": "This non-fiction book will transport you to the common households of India. With a mission of uncovering the hidden truths about Indian women's financial independence, this book captures unfiltered stories and suppressed emotions. Available on Amazon India and Flipkart."
+      },
+      {
+        "title": "Money to Call Her Own: An Empirical Study of the Relative Influence of Factors on Indian Women\u2019s Financial Independence",
+        "subtitle": "SSRG International Journal of Humanities and Social Science",
+        "date": "April 21, 2021",
+        "description": "Indian women have lower participation in the workforce, less control over their earnings, and lower financial literacy than men, leaving them less economically empowered. This study aimed to evaluate female Indian respondents\u2019 ratings of the importance of factors that affect their financial independence. Among the factors studied\u2014 Education, Financial Understanding, Cultural or Societal Pressure, Household Responsibilities, and Freedom and Empowerment \u2014 Financial Understanding and Household Responsibilities were rated the highest. The high mean ratings of Cultural or Societal Pressure and Freedom and Empowerment by unmarried respondents capture the unique dynamics of Indian society. Due to India housing a society that places a high priority on women\u2019s marriage, unmarried women are unable to get equitable financial treatment. This study explored potential solutions to combat these issues via both government and private action. The government curriculum can incorporate life skills such as housework and taxes for all students, irrespective of gender. The marketing strategies of financial companies can aim to make women literate about their offerings to attract diverse customers and increase revenues. Companies can offer flexible timings and leaves for both men and women in efforts to enable equal distribution of household responsibilities, hence enabling women\u2019s financial independence. doi: 10.14445/23942703/IJHSS-V8I2P114"
+      }
+    ],
+    "location": "Durham",
+    "input_url": "https://www.linkedin.com/in/nikitamdaga",
+    "linkedin_id": "nikitamdaga",
+    "activity": [
+      {
+        "interaction": "Liked by Nikita Daga",
+        "link": "https://www.linkedin.com/posts/hyped-to-have-shreyans-join-us-he-brings-activity-7488322881286864896-5HP_",
+        "title": "Hyped to have Shreyans join us! He brings invaluable experience from his time at the NBA and will play a huge role in helping us build the future of\u2026",
+        "img": "https://static.licdn.com/aero-v1/sc/h/53n89ecoxpr1qrki1do3alazb",
+        "id": "7488322881286864896"
+      },
+      {
+        "interaction": "Liked by Nikita Daga",
+        "link": "https://www.linkedin.com/posts/y-combinator_atlia-yc-s26-is-the-ai-native-short-term-activity-7488280949831655425-YJ3y",
+        "title": "Atlia (YC S26) is the AI-native short-term rental property management company. You give us your Airbnbs to manage, and you\u2019ll take home 10-20% more\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5605AQE3CYYzLMAQNA/videocover-high/B56Z.ukqEuKYBM-/0/1785340294102?e=2147483647&v=beta&t=QnGeIGgCACfTtwVAPf4n0wJuvoXIYbP12uXnPW-fba8",
+        "id": "7488280949831655425"
+      },
+      {
+        "interaction": "Liked by Nikita Daga",
+        "link": "https://www.linkedin.com/posts/pavankumarny_i-just-hosted-the-biggest-event-of-yc-startup-activity-7487639241221500928-EjfJ",
+        "title": "I just hosted the biggest event of YC Startup School. And had some of the best experiences ever, here\u2019s some: - YC, a16z, JSV and many other VC\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQE5vPFxH7pJFA/feedshare-shrink_800/B4EZ.lwMbYGgAc-/0/1785192306484?e=2147483647&v=beta&t=m6KN5RlOjx6p-K_DsiI31a1SjoJqL99nvupGY3foSV4",
+        "id": "7487639241221500928"
+      },
+      {
+        "interaction": "Liked by Nikita Daga",
+        "link": "https://www.linkedin.com/posts/sohinidas2_%F0%9D%90%88-%F0%9D%90%AC%F0%9D%90%A9%F0%9D%90%AB%F0%9D%90%A2%F0%9D%90%A7%F0%9D%90%AD%F0%9D%90%9E%F0%9D%90%9D-%F0%9D%90%9A-%F0%9D%90%A6%F0%9D%90%A2%F0%9D%90%A5%F0%9D%90%9E-%F0%9D%90%A2%F0%9D%90%A7-%F0%9D%90%A1%F0%9D%90%9E-activity-7487269341533716480-Kthq",
+        "title": "\ud835\udc08 \ud835\udc2c\ud835\udc29\ud835\udc2b\ud835\udc22\ud835\udc27\ud835\udc2d\ud835\udc1e\ud835\udc1d \ud835\udc1a \ud835\udc26\ud835\udc22\ud835\udc25\ud835\udc1e \ud835\udc22\ud835\udc27 \ud835\udc21\ud835\udc1e\ud835\udc1e\ud835\udc25\ud835\udc2c \ud835\udc2d\ud835\udc28 \ud835\udc1c\ud835\udc1a\ud835\udc2d\ud835\udc1c\ud835\udc21 \ud835\udc1a \ud835\udc32\ud835\udc1a\ud835\udc1c\ud835\udc21\ud835\udc2d. Three trains missed. Traffic that wouldn't budge. An Uber I gave up\u2026",
+        "img": "https://dms.licdn.com/playlist/vid/v2/D5605AQHE55JlzJcPaQ/thumbnail-shrink_720_1280/B56Z.gfwbHK4Ag-/0/1785104108615?e=2147483647&v=beta&t=5fy12ik4W96xS-FlGuSYjcP1Uo0vrqvMT148extJmWM",
+        "id": "7487269341533716480"
+      },
+      {
+        "interaction": "Liked by Nikita Daga",
+        "link": "https://www.linkedin.com/posts/radhika-hurkat-975125311_leadership-centreofexcellence-schooloflaw-activity-7487132956646346753-poZ3",
+        "title": "I am incredibly honoured and grateful to share that I have been appointed as the President of the Centre of Excellence Committee, School of\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4D22AQFfES19ZNnSxQ/feedshare-shrink_1280/B4DZ.ejv4KIEAM-/0/1785071599554?e=2147483647&v=beta&t=uVcF98SMgCAltXQ9viTUI54OnDltTj43l5rLd4RKwDI",
+        "id": "7487132956646346753"
+      },
+      {
+        "interaction": "Liked by Nikita Daga",
+        "link": "https://www.linkedin.com/posts/shalynbarrios_ill-be-attending-the-yc-startup-school-yacht-activity-7481908725641805824-dmWf",
+        "title": "I'll be attending the YC Startup School Yacht Gala! thank you team Ethan Yip, Jason Xu, Patricia Tani, Kevin Shim, Pavan Kumar, and Katie Chen for\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQFwWiUYnCyRnA/feedshare-image-high-res/B56Z9UUVvEIMAU-/0/1783826046261?e=2147483647&v=beta&t=mYmWXZvukmhjpejc6Ps2srOUoDejKBCTRRj3tSJ7IwM",
+        "id": "7481908725641805824"
+      },
+      {
+        "interaction": "Liked by Nikita Daga",
+        "link": "https://www.linkedin.com/posts/businessinsider_openai-techcareer-siliconvalley-activity-7485024507309625344-3DEZ",
+        "title": "While Hamza Mostafa studied software engineering at university in Canada, he made it his mission to get to San Francisco. \"To me, if you want to\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4E10AQGXBIIkpD5Xwg/image-shrink_1280/B4EZ.AmIK9KIAc-/0/1784568906802?e=2147483647&v=beta&t=NOkrtrSmvgtj2m3UFMuMsnEkEH-Qs2SLOSCBKxfnQsA",
+        "id": "7485024507309625344"
+      },
+      {
+        "interaction": "Liked by Nikita Daga",
+        "link": "https://www.linkedin.com/posts/databricks_were-launching-a-new-databricks-startup-activity-7475217135997399042-jvuQ",
+        "title": "We're launching a new Databricks Startup Program! Qualifying venture-backed startups can now receive up to $200K in credits across Databricks and\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5610AQE84xoqsnOG4Q/image-shrink_800/B56Z71OXbtK0Ak-/0/1782230645059?e=2147483647&v=beta&t=rE_m7Po0WEzI8kU2GMf2qOPtKp2ClsMS6FojmSu4-Hk",
+        "id": "7475217135997399042"
+      },
+      {
+        "interaction": "Liked by Nikita Daga",
+        "link": "https://www.linkedin.com/posts/kellyperri_loved-catching-up-with-amazing-dtech-scholars-activity-7483504229731610624-9ubm",
+        "title": "Loved catching up with amazing DTech Scholars & Alums in Chicago this weekend at Beatrix River North, along with my daughter, Kate! It's great\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQE_ZpwUk0bxRA/feedshare-shrink_800/B4EZ9q_cRUJMAc-/0/1784206444661?e=2147483647&v=beta&t=OJy42tePiw8d8nyfjJjfAMGxQdhbbQh7TgrCqDlnrnY",
+        "id": "7483504229731610624"
+      },
+      {
+        "interaction": "Liked by Nikita Daga",
+        "link": "https://www.linkedin.com/posts/ari-redbord_a-few-weeks-ago-i-heard-that-trm-labs-had-activity-7483500495899287552-fCba",
+        "title": "A few weeks ago, I heard that TRM Labs had hired someone straight out of Duke's undergraduate class. Over the last six years at TRM, we have not\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQHZy57ezL45EA/feedshare-image-high-res/B4EZ9q8ChRKQAU-/0/1784205553154?e=2147483647&v=beta&t=20I92LpYXZOE2v49Q2HbW0YS6w1fE9WWbhum7x5C1vk",
+        "id": "7483500495899287552"
+      },
+      {
+        "interaction": "Liked by Nikita Daga",
+        "link": "https://www.linkedin.com/posts/hema-dassani_youre-going-to-fall-in-love-on-july-23rd-activity-7483253075814780929-FAwj",
+        "title": "you're going to fall in love on july 23rd. we're hosting the first Y Combinator dating show with Ditto at their office in SF. here's how it works:\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQGNTxqLnavr3Q/image_627_1200/B56Z9nb2j4GcAQ-/0/1784146782682?e=2147483647&v=beta&t=4iz4_RViOy5biIxgduUWmoxhqI7FC5XWlGbHM5gDcj8",
+        "id": "7483253075814780929"
+      },
+      {
+        "interaction": "Liked by Nikita Daga",
+        "link": "https://www.linkedin.com/posts/edmond-niu_recently-i-got-accepted-into-y-combinator-activity-7483566658226147328-b1qd",
+        "title": "Recently, I got accepted into Y Combinator to build Atlia (YC S26) with one of my closest friends, Shaan Yadav. We are building the first AI-native\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQFs8NPZwytgfw/feedshare-shrink_800/B56Z9r4N1RKgAc-/0/1784221328394?e=2147483647&v=beta&t=Od1m_3YTvF5z_fCFVFBCm7yNBIjzCWwZnq_gPtgS2-I",
+        "id": "7483566658226147328"
+      },
+      {
+        "interaction": "Liked by Nikita Daga",
+        "link": "https://www.linkedin.com/posts/atchen_today-were-launching-catalyst-02where-activity-7482846227118612480-HkFF",
+        "title": "Today we\u2019re launching Catalyst 02: where founders meet their co-founders. Looking back on cohort 01, one thing stood out\u2026 \u2026 It was how quickly\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQE9LLf9SKZK5A/feedshare-shrink_800/B56Z9ho_LsKUAc-/0/1784049562877?e=2147483647&v=beta&t=rg3D9JjyUXbnYvhlu4NgWu4BJNk39B2f3hZGOnyM6Rw",
+        "id": "7482846227118612480"
+      },
+      {
+        "interaction": "Liked by Nikita Daga",
+        "link": "https://www.linkedin.com/posts/trininditas_growing-up-without-a-guide-book-ainhoa-activity-7481702345601601536-Imni",
+        "title": "Our first year in India, A\u00efnhoa Lamagnere was in my 8TS homeroom. I could tell that this girl could go places. I remember she asked my permission to\u2026",
+        "img": "https://media.licdn.com/dms/image/sync/v2/D4E27AQHV-LOEeEBRDg/articleshare-shrink_800/B4EZ9BZuv.JIAY-/0/1783508692527?e=2147483647&v=beta&t=q1IRrJ1vohJp4SMzr6zkg_m4Nmq-NRYTSl84hiMjMuk",
+        "id": "7481702345601601536"
+      }
+    ],
+    "linkedin_num_id": "833938293",
+    "banner_image": "https://media.licdn.com/dms/image/v2/D5616AQFAmYhf1DqOjg/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1690354285188?e=2147483647&v=beta&t=Rfm4HehCPklTpilPiKCBQAU55tzfHELA4wZjma5QvIA",
+    "honors_and_awards": [
+      {
+        "title": "75% Scholarship for IGCSE and IBDP",
+        "publication": "Canadian International School, Bangalore",
+        "date": "2018-08-01T00:00:00.000Z",
+        "description": "(Grades 9-12)"
+      },
+      {
+        "title": "Head of School Award",
+        "publication": "Canadian International School, Bangalore",
+        "date": null,
+        "description": "Awarded to the highest ranking student in the batch during graduation."
+      }
+    ],
+    "similar_profiles": [],
+    "default_avatar": false,
+    "memorialized_account": false,
+    "bio_links": [],
+    "first_name": "Nikita",
+    "last_name": "Daga",
+    "influencer": false,
+    "timestamp": "2026-08-12T19:12:37.406Z",
+    "input": {
+      "url": "https://www.linkedin.com/in/nikitamdaga"
+    }
+  },
+  "local_photo": "data\\linkedin_photos\\nikitamdaga__usr-aKIErxzOTq97mSu.jpg"
+}

@@ -1,0 +1,314 @@
+{
+  "source": "crustdata",
+  "recovered_from": "brightdata_failed_private",
+  "luma_user_id": "usr-zbbbHJSQENwCEiQ",
+  "csv_name": "Trisanth Srinivasan",
+  "csv_linkedin": "https://www.linkedin.com/in/trisanths",
+  "clean_linkedin": "https://www.linkedin.com/in/trisanths",
+  "enriched_at": "2026-08-14T18:07:59.937250+00:00",
+  "person_data": {
+    "basic_profile": {
+      "current_title": "Software Engineer Intern",
+      "first_name": null,
+      "headline": "SWE Intern @ Overshoot (YC W26) | DS @ UC Berkeley",
+      "languages": [
+        "English",
+        "Tamil",
+        "Spanish"
+      ],
+      "last_name": null,
+      "location": {
+        "city": "",
+        "continent": "North America",
+        "country": "United States",
+        "full_location": null,
+        "raw": "United States",
+        "state": ""
+      },
+      "name": "Trisanth Srinivasan",
+      "normalized_title": {
+        "confident": true,
+        "department": "Engineering & Technology",
+        "matched_title": "Software Engineer Intern",
+        "similarity": 0.9998999834060669,
+        "sub_department": "Software Engineering"
+      },
+      "professional_network_name": "Trisanth Srinivasan",
+      "profile_picture_permalink": "",
+      "summary": "trisanth.comcontact: trisanth[at]berkeley[dot]edu"
+    },
+    "education": {
+      "schools": [
+        {
+          "activities_and_societies": "",
+          "degree": "Bachelor of Arts",
+          "description": "",
+          "end_year": null,
+          "field_of_study": "Data Science",
+          "institute_logo_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/company/426acda7e092299f46c701d6bff10de72de3254f3dcec2e4abca75957537ee81.jpg",
+          "institute_logo_url": "https://media.licdn.com/dms/image/v2/D560BAQGwjF_5CYj_JQ/company-logo_400_400/company-logo_400_400/0/1732135669731/uc_berkeley_logo?e=1785974400&v=beta&t=bNPa_2kMZz8cMYJGg5z2Pihm-AMrNac4ZtqhlkA4yX0",
+          "location": {
+            "city": "Berkeley",
+            "continent": "North America",
+            "country": "United States",
+            "raw": "Berkeley, California, United States",
+            "state": "California"
+          },
+          "professional_network_id": "2517",
+          "school": "University of California, Berkeley",
+          "start_year": null
+        }
+      ]
+    },
+    "experience": {
+      "employment_details": {
+        "current": [
+          {
+            "company_description": "Overshoot is the video-native AI platform",
+            "company_professional_network_profile_url": "https://linkedin.com/company/111482118",
+            "company_profile_picture_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/company/eeb4930bf6acbf34a2384bb567d559249b5f780ce7de5538190798aa5a3f99ac.jpg",
+            "company_website_domain": "overshoot.ai",
+            "crustdata_company_id": 23289843,
+            "description": "high speed vlm inference",
+            "employment_type": "",
+            "end_date": null,
+            "function_category": "Engineering",
+            "is_default": true,
+            "location": {
+              "raw": "San Francisco, CA"
+            },
+            "name": "Overshoot (YC W26)",
+            "position_id": 2945184709,
+            "professional_network_id": "111482118",
+            "seniority_level": "In Training",
+            "start_date": "2026-06-01T00:00:00+00:00",
+            "title": "Software Engineer Intern",
+            "years_at_company": "Less than 1 year",
+            "years_at_company_raw": 0.0
+          },
+          {
+            "company_description": "Overshoot is the video-native AI platform",
+            "company_professional_network_profile_url": "https://linkedin.com/company/111482118",
+            "company_profile_picture_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/company/eeb4930bf6acbf34a2384bb567d559249b5f780ce7de5538190798aa5a3f99ac.jpg",
+            "company_website_domain": "overshoot.ai",
+            "crustdata_company_id": 23289843,
+            "description": "high speed vlm inference",
+            "employment_type": "",
+            "end_date": null,
+            "function_category": "",
+            "is_default": true,
+            "location": {
+              "raw": "San Francisco, CA"
+            },
+            "name": "Overshoot (YC W26)",
+            "position_id": 2945184709,
+            "professional_network_id": "111482118",
+            "seniority_level": "In Training",
+            "start_date": "2026-06-01T00:00:00+00:00",
+            "title": "Software Engineering Intern",
+            "years_at_company": "Less than 1 year",
+            "years_at_company_raw": 0.0
+          }
+        ],
+        "past": [
+          {
+            "company_description": "The world\u2019s most important organizations deserve the world\u2019s best financial infrastructure. We\u2019re here to make sure they do.At Givefront, we've built a modern financial management platform designed specifically for nonprofits. With real-time budgeting, built-in compliance, and easy integrations, we replace the spreadsheets and guesswork with smart, automated systems.By transforming financial operations from reactive to real-time, Givefront empowers nonprofits to control every dollar, protect every grant, and move their missions forward faster \u2014 with greater efficiency, transparency, and trust.",
+            "company_professional_network_profile_url": "https://linkedin.com/company/100306114",
+            "company_profile_picture_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/company/b88ed563ac260d0eef3316788065ab8db7a75beb08ace1de5b779f37bedf365d.jpg",
+            "company_website_domain": "givefront.com",
+            "crustdata_company_id": 1129057,
+            "description": "financial management for nonprofits",
+            "employment_type": "",
+            "end_date": "2025-09-01T00:00:00+00:00",
+            "function_category": "Engineering",
+            "is_default": false,
+            "location": {
+              "raw": ""
+            },
+            "name": "Givefront",
+            "position_id": 2871296937,
+            "professional_network_id": "100306114",
+            "seniority_level": "In Training",
+            "start_date": "2025-06-01T00:00:00+00:00",
+            "title": "Software Engineer Intern",
+            "years_at_company": "Less than 1 year",
+            "years_at_company_raw": 0.0
+          },
+          {
+            "company_description": "The world\u2019s most important organizations deserve the world\u2019s best financial infrastructure. We\u2019re here to make sure they do.At Givefront, we've built a modern financial management platform designed specifically for nonprofits. With real-time budgeting, built-in compliance, and easy integrations, we replace the spreadsheets and guesswork with smart, automated systems.By transforming financial operations from reactive to real-time, Givefront empowers nonprofits to control every dollar, protect every grant, and move their missions forward faster \u2014 with greater efficiency, transparency, and trust.",
+            "company_professional_network_profile_url": "https://linkedin.com/company/100306114",
+            "company_profile_picture_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/company/b88ed563ac260d0eef3316788065ab8db7a75beb08ace1de5b779f37bedf365d.jpg",
+            "company_website_domain": "givefront.com",
+            "crustdata_company_id": 1129057,
+            "description": "financial management for nonprofits",
+            "employment_type": "",
+            "end_date": "2025-09-01T00:00:00+00:00",
+            "function_category": "",
+            "is_default": false,
+            "location": {
+              "raw": ""
+            },
+            "name": "Givefront",
+            "position_id": 2871296937,
+            "professional_network_id": "100306114",
+            "seniority_level": "In Training",
+            "start_date": "2025-06-01T00:00:00+00:00",
+            "title": "Software Engineering Intern",
+            "years_at_company": "Less than 1 year",
+            "years_at_company_raw": 0.0
+          },
+          {
+            "company_description": "Founded in 1831, NYU is one of the world\u2019s foremost research universities and is a member of the selective Association of American Universities. The first Global Network University, NYU has degree-granting university campuses in New York and Abu Dhabi, and has announced a third in Shanghai; has a dozen other global academic sites, including London, Paris, Florence, Tel Aviv, Buenos Aires, and Accra; and sends more students to study abroad than any other U.S. college or university. Through its numerous schools and colleges, NYU conducts research and provides education in the arts and sciences, law, medicine, business, dentistry, education, nursing, the cinematic and performing arts, music and studio arts, public administration, social work, and continuing and professional studies, among other areas.",
+            "company_professional_network_profile_url": "https://linkedin.com/company/3159",
+            "company_profile_picture_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/company/dcad707db1d179a4fdc726c67b85bf8644b447d35c897e776c74e495ecae55ae.jpg",
+            "company_website_domain": "nyu.edu",
+            "crustdata_company_id": 6035698,
+            "description": "privacy in k-12 networks",
+            "employment_type": "",
+            "end_date": "2025-08-01T00:00:00+00:00",
+            "function_category": "Research",
+            "is_default": false,
+            "location": {
+              "raw": "New York, New York, United States"
+            },
+            "name": "New York University",
+            "position_id": 2932775078,
+            "professional_network_id": "3159",
+            "seniority_level": "In Training",
+            "start_date": "2025-03-01T00:00:00+00:00",
+            "title": "Research Intern",
+            "years_at_company": "Less than 1 year",
+            "years_at_company_raw": 0.0
+          },
+          {
+            "company_description": "Unlock your full potential with Extracurriculars.com, the trusted platform for over 80,000 students and parents. Designed to help you explore your passions, build essential skills, and achieve your goals.",
+            "company_professional_network_profile_url": "https://linkedin.com/company/103279985",
+            "company_profile_picture_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/company/30b1c3bfec15646368f90d94f0f948800522187184bff477da9d26be87d22543.jpg",
+            "company_website_domain": "extracurriculars.com",
+            "crustdata_company_id": 6652425,
+            "description": "connecting students with opportunities",
+            "employment_type": "",
+            "end_date": "2025-05-01T00:00:00+00:00",
+            "function_category": "",
+            "is_default": false,
+            "location": {
+              "raw": ""
+            },
+            "name": "extracurriculars.com",
+            "position_id": 2871299864,
+            "professional_network_id": "103279985",
+            "seniority_level": "Owner / Partner",
+            "start_date": "2024-12-01T00:00:00+00:00",
+            "title": "Co-Founder",
+            "years_at_company": "Less than 1 year",
+            "years_at_company_raw": 0.0
+          },
+          {
+            "company_description": "ScienceFair.io is creating the world's largest student research platform.",
+            "company_professional_network_profile_url": "https://linkedin.com/company/105989349",
+            "company_profile_picture_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/company/5fbca3afe61b7e76aee42d01664bec5c7f1a07fee220196efa3790e5df7cef13.jpg",
+            "company_website_domain": "sciencefair.io",
+            "crustdata_company_id": 3883976,
+            "description": "helping students win science fairs",
+            "employment_type": "",
+            "end_date": "2025-02-01T00:00:00+00:00",
+            "function_category": "Engineering",
+            "is_default": false,
+            "location": {
+              "raw": ""
+            },
+            "name": "ScienceFair.io",
+            "position_id": 2871504663,
+            "professional_network_id": "105989349",
+            "seniority_level": "Entry Level",
+            "start_date": "2024-10-01T00:00:00+00:00",
+            "title": "Software Engineer",
+            "years_at_company": "Less than 1 year",
+            "years_at_company_raw": 0.0
+          },
+          {
+            "company_description": "Ranked a Tier One research university by the Carnegie Classification, UNT is the flagship of the UNT System and is located in Denton, Texas. With 242 degree programs and a thriving community of nearly 44,000 students, UNT serves the North Texas region and helps drive the state\u2019s economy through groundbreaking research, educational excellence focused on career readiness, and a spirit of creativity, innovation, and entrepreneurship. Across its Denton and Frisco campuses, UNT students earned more than 13,000 degrees last year.",
+            "company_professional_network_profile_url": "https://linkedin.com/company/6464",
+            "company_profile_picture_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/company/90cfc967fdb570a23a3815efd1e7779837cb677c7b99743cd84543e0ac902353.jpg",
+            "company_website_domain": "unt.edu",
+            "crustdata_company_id": 6038682,
+            "description": "ai humans for training in vr",
+            "employment_type": "",
+            "end_date": "2024-11-01T00:00:00+00:00",
+            "function_category": "Research",
+            "is_default": false,
+            "location": {
+              "raw": ""
+            },
+            "name": "University of North Texas",
+            "position_id": 2932768234,
+            "professional_network_id": "6464",
+            "seniority_level": "In Training",
+            "start_date": "2024-09-01T00:00:00+00:00",
+            "title": "Research Intern",
+            "years_at_company": "Less than 1 year",
+            "years_at_company_raw": 0.0
+          },
+          {
+            "company_description": "",
+            "company_professional_network_profile_url": "https://linkedin.com/company/110112362",
+            "company_profile_picture_permalink": "https://media.licdn.com/dms/image/v2/D4E0BAQGfXkb1rVkg4A/company-logo_400_400/B4EZrnNIr8HgAY-/0/1764815573081?e=1785974400&v=beta&t=LV-ce2XdLwLQBPstNSTdIUeHINf26B38MaulXnECluc",
+            "company_website_domain": null,
+            "crustdata_company_id": null,
+            "description": "highspeed network connectivity worldwide",
+            "employment_type": "",
+            "end_date": "2023-08-01T00:00:00+00:00",
+            "function_category": "",
+            "is_default": false,
+            "location": {
+              "raw": ""
+            },
+            "name": "Nova",
+            "position_id": 2871508399,
+            "professional_network_id": "110112362",
+            "seniority_level": "Owner / Partner",
+            "start_date": "2020-12-01T00:00:00+00:00",
+            "title": "Founder",
+            "years_at_company": "3 to 5 years",
+            "years_at_company_raw": 2.0
+          }
+        ]
+      }
+    },
+    "professional_network": {
+      "connections": 678,
+      "current_title": "Software Engineer Intern",
+      "followers": 0,
+      "headline": "SWE Intern @ Overshoot (YC W26) | DS @ UC Berkeley",
+      "location": {
+        "city": "",
+        "continent": "North America",
+        "country": "United States",
+        "raw": "United States",
+        "state": ""
+      },
+      "metadata": {
+        "last_scraped_source": null
+      },
+      "name": "Trisanth Srinivasan",
+      "profile_picture_permalink": "",
+      "pronoun": "He/Him",
+      "summary": "trisanth.comcontact: trisanth[at]berkeley[dot]edu"
+    },
+    "skills": {
+      "professional_network_skills": []
+    },
+    "social_handles": {
+      "dev_platform_identifier": {
+        "profile_url": null
+      },
+      "professional_network_identifier": {
+        "profile_url": "https://www.linkedin.com/in/trisanths"
+      },
+      "twitter_identifier": {
+        "slug": ""
+      }
+    },
+    "crustdata_person_id": 173934324
+  }
+}

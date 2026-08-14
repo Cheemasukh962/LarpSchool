@@ -1,0 +1,85 @@
+{
+  "luma_user_id": "usr-PVkjJyHGbRAVPpc",
+  "csv_name": "Shayaan Uddin",
+  "csv_linkedin": "https://www.linkedin.com/in/shayaan-uddin-7ba105279",
+  "enriched_at": "2026-08-12T19:18:07.748199+00:00",
+  "batch_id": "sd_msqh0fwb1tv6mjnbrd",
+  "profile": {
+    "id": "shayaan-uddin-7ba105279",
+    "name": "Shayaan Uddin",
+    "city": "Dallas-Fort Worth Metroplex",
+    "country_code": "US",
+    "position": null,
+    "about": "CS @ UW. I like proteins \ud83d\ude42",
+    "current_company": {
+      "link": "https://www.linkedin.com/company/uwproteindesign?trk=public_profile_topcard-current-company",
+      "name": "Institute for Protein Design, University of Washington",
+      "company_id": "uwproteindesign",
+      "location": null
+    },
+    "experience": null,
+    "url": "https://www.linkedin.com/in/Shayaan-uddin-7ba105279",
+    "educations_details": "University of Washington",
+    "education": null,
+    "avatar": "https://media.licdn.com/dms/image/v2/D5603AQE8RHs4a0s4XQ/profile-displayphoto-scale_200_200/B56ZuSQPJ1HAAc-/0/1767685288966?e=2147483647&v=beta&t=1MF2PMTz1F-7uuHEpcPYoQGfBB2O3lli9baVGQL0Zew",
+    "followers": 353,
+    "connections": 353,
+    "current_company_company_id": "uwproteindesign",
+    "current_company_name": "Institute for Protein Design, University of Washington",
+    "location": null,
+    "input_url": "https://www.linkedin.com/in/shayaan-uddin-7ba105279",
+    "linkedin_id": "shayaan-uddin-7ba105279",
+    "activity": [
+      {
+        "interaction": "Shayaan Uddin liked this",
+        "link": "https://www.linkedin.com/posts/cayden-chik_had-an-amazing-weekend-at-y-combinator-startup-activity-7488760369985835009-XbfZ",
+        "title": "Had an amazing weekend at Y Combinator startup school! \u2192 Met talented builders, many who also just raised their first round (and a couple we\u2019ll be forward deploying Unbrowse to) \u2192 Hung out with researchers from Anthropic and OpenAI and learnt how different research is like at a big lab vs startup/academia \u2192 Heard from Sam Altman, Jensen Huang , Boris Cherny and Garry Tan on their takes on intelligence in an age of evolving machine intelligence \u2192 Had dinner with Charlie Warren where I learnt about his experiences as a partner at YC and where he thinks innovation is headed Glad to meet many other young, ambitious builders and researchers and all the best to everyone! ...more ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQGh5zKIVVEoqw/feedshare-shrink_800/B56Z.0R3SCHAAg-/0/1785436009851?e=2147483647&v=beta&t=rNaCmqGhEgMzJ7FDaJJOXp_cjoMWORiz1IJ4cu4KYYY",
+        "id": "7488760369985835009"
+      },
+      {
+        "interaction": "Shayaan Uddin liked this",
+        "link": "https://www.linkedin.com/posts/gaganshivakumara_we-got-1st-place-at-the-dell-nvidia-ai-activity-7487624027109470208-yEto",
+        "title": "WE GOT 1ST PLACE at the Dell \u00d7 NVIDIA AI Hackathon in Seattle!! 12 hours. One NVIDIA GB10. A crazy idea. And somehow\u2026 we made it happen. Going into this hackathon, I had almost no robotics experience. I came in with an idea, spent the day learning about robotics simulation, reinforcement learning, computer vision, and robot control, and started building something that felt much bigger than a weekend project. That idea became Simbiote. A local-first robotics platform that helps robots learn inside digital twins of real-world environments before being deployed into the real world. The goal was simple: What if robots could scan a space, learn in simulation, improve through human feedback, and keep sensitive data completely local? We built a pipeline that can: Turn scanned environments into simulation-ready digital twins Train robots using NVIDIA Isaac Sim + Isaac Lab Teach robots through hand-tracked teleoperation Use local AI reasoning for natural-language robot tasks The coolest part was seeing robotics, AI agents, computer vision, simulation, and local models all come together on the NVIDIA GB10. A huge thank you to my amazing teammates: Sky B. , Andrew Zhao , and Suraj Shivakumar for building this with me. Also, huge thanks to BuilderBase, Sean Chiu , the mentors, judges, organizers, and everyone who made this event possible. Shoutout to our amazing tablemates and moral support: Ridwan Grimes , Fuad Abdella , Khalid M. , and Johaan Mannanal appreciate all the support throughout the hackathon. One of my favorite parts of this weekend was meeting so many incredible builders, founders, students, engineers, and creators. Every conversation taught me something new, and I\u2019m grateful for everyone I met. The GB10 we won is being hosted by Advaith Vecham so our team can continue remotely SSHing into it and keep building without worrying about the electricity bill. Check out Simbiote here: https://lnkd.in/gSbV6iq3 If we met at the hackathon (or even if we didn\u2019t), feel free to reach out. Always happy to talk about AI, robotics, startups, hackathons, career advice, or building something cool together. Still can\u2019t believe we pulled this off. Hopefully this is just the beginning and we keep taking more dubs like this. ...more ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQF6pIlAuk0k_w/feedshare-image-high-res/B56Z.lVDF.IQAU-/0/1785185186414?e=2147483647&v=beta&t=yiQeiNzM2t4QTBVNpi8t2ooMxcs5M5zVf_gQhBzjNMI",
+        "id": "7487624027109470208"
+      },
+      {
+        "interaction": "Shayaan Uddin liked this",
+        "link": "https://www.linkedin.com/posts/surajshiv_im-super-proud-to-announce-that-my-team-activity-7487620327078850560-Bx23",
+        "title": "I'm SUPER proud to announce that my team, Gagan Shiva Kumara , Sky B. , Andrew Zhao and I have won 1ST PLACE at the NVIDIA x Dell Technologies Hackathon this weekend! \ud83e\udd47\ud83e\udd73 We get to take home the $6,300 Dell Pro Max we developed on, with specs of an NVIDIA GB10 Blackwell GPU and 128GB of RAM. Being the great friends we are (and wanting to avoid the insane electricity bill), we're handing it over to Advaith V. for us to Remote SSH into :P Currently, robotics teams struggle to safely train and refine robots in real facilities because real\u2011world testing is slow, risky, and exposes sensitive environment data to external cloud services. So, with the power of the GB10, we built Simbiote: a local-first platform for training, testing, and improving robots in digital twins of real-world environments before deploying them into the real world. Our pipeline turns scanned physical spaces into simulation-ready environments, where robots can learn through reinforcement learning, receive human demonstrations through hand-tracked teleoperation, and execute natural-language tasks. Super simple to use and super effective. Our primary stack included NVIDIA Isaac Sim + Isaac Lab and PhysX for robot simulation, physics, and training; NVIDIA Nemotron for local reasoning and task planning; MediaPipe/WiLoR for hand-tracked robot control and motion; and OpenClaw for agent orchestration, guardrails, and sandboxed execution. The result: scan \u2192 simulate \u2192 train \u2192 demonstrate \u2192 improve \u2192 deploy. Our demo if you're curious: https://lnkd.in/gSbV6iq3 Massive shoutout to BuilderBase and Sean Chiu for hosting this hackathon, and all of the participants we talked with, mentors, judges, and organizers who made this event possible! And of course, our goated tablemates and ultimate moral support, Ridwan Grimes , Fuad Abdella , and Khalid M. Couldn't have done it without you. Always open to connect and talk if you're interested in learning more about our project and anything else. We hope to keep working on this and take it to the next level, so always open to feedback and potential help! Super excited for what's to come. ...more ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQEtt0rNLjoVdQ/feedshare-image-high-res/B56Z.lfAk1GsAU-/0/1785187797602?e=2147483647&v=beta&t=K_mMNwHuvuZ0tuksAGxsYiFe1TNOMg2pYTGk9Wjx8-U",
+        "id": "7487620327078850560"
+      },
+      {
+        "interaction": "Shayaan Uddin liked this",
+        "link": "https://www.linkedin.com/posts/tejasnaladala_from-watching-jared-friedman-managing-partner-activity-7487226719029075968-Dsvp",
+        "title": "From watching Jared Friedman , Managing Partner at Y Combinator , on YouTube shorts, to sitting across from him at a private dinner, surrounded by people interning at OpenAI and Google DeepMind at 18. I also somehow ended up beatboxing for the entire table. I was also asked by Vivian Midha Shen , a visiting partner at YC, to be one of 15 people selected from 6,000+ attendees at this year's YC Startup School to get infront of a camera and share my story. I had a slightly different YC Startup School experience. It was surreal nonetheless. Their nachos were slightly soft though. ...more ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQH_i9hKLPbU3w/feedshare-shrink_1280/B56Z.f5BlcHYAM-/0/1785093954172?e=2147483647&v=beta&t=C37OGefNtmtPKCMXNxAg9P7qpEqxFOh23TUkywWPavA",
+        "id": "7487226719029075968"
+      },
+      {
+        "interaction": "Shayaan Uddin liked this",
+        "link": "https://www.linkedin.com/posts/moeltaeb_todays-my-last-day-at-science-corp-after-activity-7486575679807959041-Nddd",
+        "title": "Today\u2019s my last day at Science Corp after four years. I had the chance to work across a wide range of projects, from developing stem cell lines and building lab automation to releasing open-source software ( Galago.bio ) and working in vivo neuroscience. I\u2019m grateful for the team, the opportunity, and the problems we got to solve. Taking a little time before jumping into what\u2019s next. More soon. ...more ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQGA-0nsdpzmfQ/feedshare-image-high-res/B56Z.Wo5nsKwAU-/0/1784938735206?e=2147483647&v=beta&t=0nO6wwKoAhqcwke0G7acZFJHPyN3kcgBAEEKdyXb_Bk",
+        "id": "7486575679807959041"
+      }
+    ],
+    "linkedin_num_id": "1137918526",
+    "banner_image": "https://static.licdn.com/aero-v1/sc/h/5q92mjc5c51bjlwaj3rs9aa82",
+    "honors_and_awards": null,
+    "similar_profiles": [],
+    "default_avatar": false,
+    "memorialized_account": false,
+    "bio_links": [],
+    "first_name": "Shayaan",
+    "last_name": "Uddin",
+    "influencer": false,
+    "timestamp": "2026-08-12T19:17:02.605Z",
+    "input": {
+      "url": "https://www.linkedin.com/in/shayaan-uddin-7ba105279"
+    }
+  },
+  "local_photo": "data\\linkedin_photos\\shayaan-uddin-7ba105279__usr-PVkjJyHGbRAVPpc.jpg"
+}

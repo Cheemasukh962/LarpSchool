@@ -1,0 +1,420 @@
+{
+  "luma_user_id": "usr-jAo9FFrif7wuCAD",
+  "csv_name": "Pranav Bhargava",
+  "csv_linkedin": "https://www.linkedin.com/in/pranavb15",
+  "enriched_at": "2026-08-12T19:14:53.866816+00:00",
+  "batch_id": "sd_msqgwa7g10oeo6g7qx",
+  "profile": {
+    "id": "pranavb15",
+    "name": "Pranav Bhargava",
+    "city": "Greater Tampa Bay Area",
+    "country_code": "US",
+    "position": null,
+    "about": null,
+    "current_company": {
+      "link": "https://www.linkedin.com/company/dsiufl?trk=public_profile_topcard-current-company",
+      "name": "Data Science & Informatics",
+      "company_id": "dsiufl",
+      "location": null
+    },
+    "experience": null,
+    "url": "https://www.linkedin.com/in/Pranavb15",
+    "people_also_viewed": [
+      {
+        "profile_link": "https://www.linkedin.com/in/christinemillier",
+        "name": "Christine \"CG\" Millier",
+        "about": "Presidium",
+        "location": "30K followers Dallas-Fort Worth Metroplex"
+      },
+      {
+        "profile_link": "https://www.linkedin.com/in/nick-wood-10073828",
+        "name": "Nick Wood",
+        "about": "Custom Point Construction",
+        "location": "29K followers Dallas-Fort Worth Metroplex"
+      },
+      {
+        "profile_link": "https://www.linkedin.com/in/rebeccaforman",
+        "name": "Rebecca Forman",
+        "about": "Garner Health",
+        "location": "34K followers Boston, MA"
+      },
+      {
+        "profile_link": "https://www.linkedin.com/in/patrickwilsonrealestate",
+        "name": "Patrick Wilson",
+        "about": "Patrick Wilson",
+        "location": "27K followers Destin, FL"
+      },
+      {
+        "profile_link": "https://www.linkedin.com/in/dreldin",
+        "name": "Adel Eldin, MD FACC FACP, MBA, GGA",
+        "about": "Pronto Care",
+        "location": "31K followers Greater Tampa Bay Area"
+      },
+      {
+        "profile_link": "https://www.linkedin.com/in/dean-browning-86804729",
+        "name": "Dean Browning",
+        "about": "New World Aviation, Inc.",
+        "location": "28K followers Allentown, PA"
+      },
+      {
+        "profile_link": "https://www.linkedin.com/in/adrian-almeida-s",
+        "name": "Adrian Almeida",
+        "about": "I LOVE PRODUCE LLC",
+        "location": "30K followers Greater Boston"
+      },
+      {
+        "profile_link": "https://www.linkedin.com/in/cmayaud",
+        "name": "Christian Mayaud",
+        "about": "The Verticom Group [cmayaud@theverticomgroup.com]",
+        "location": "29K followers Yonkers, NY"
+      },
+      {
+        "profile_link": "https://www.linkedin.com/in/steve-andrews-1b43a23",
+        "name": "Steve Andrews",
+        "about": "Aegis Trust",
+        "location": "32K followers San Francisco, CA"
+      },
+      {
+        "profile_link": "https://www.linkedin.com/in/guy-la-rocque-m-m-0b615929",
+        "name": "Guy La Rocque, M.M",
+        "about": "ROCK Sports, LLC",
+        "location": "24K followers Newport Beach, CA"
+      },
+      {
+        "profile_link": "https://www.linkedin.com/in/joshheuchan",
+        "name": "Josh Heuchan",
+        "about": "FloodGate Medical Inc",
+        "location": "29K followers Tampa, FL"
+      },
+      {
+        "profile_link": "https://www.linkedin.com/in/vishnath",
+        "name": "Vish Nath",
+        "about": "Kanerika Inc",
+        "location": "32K followers Buford, GA"
+      },
+      {
+        "profile_link": "https://www.linkedin.com/in/katrinacmhaynes",
+        "name": "Katrina Montgomery HaynesCPA",
+        "about": "Haynes Global Tax Experts LLC",
+        "location": "30K followers Atlanta, GA"
+      },
+      {
+        "profile_link": "https://www.linkedin.com/in/elbert-lechtman-steinberg-724a5828",
+        "name": "Elbert Lechtman Steinberg",
+        "about": "Reshis Chochmah",
+        "location": "34K followers Miami-Fort Lauderdale Area"
+      },
+      {
+        "profile_link": "https://www.linkedin.com/in/alton-wilson-ms-mba-pmq-racr-sphr-shrm-scp-sta-78585a28",
+        "name": "Alton Wilson, MS, MBA, PMQ, RACR, SPHR , SHRM-SCP, STA",
+        "about": "NYC Health + Hospitals",
+        "location": "34K followers Bronx, NY"
+      },
+      {
+        "profile_link": "https://www.linkedin.com/in/aggarwalradhika",
+        "name": "Radhika Aggarwal",
+        "about": "Collective Health",
+        "location": "27K followers San Francisco, CA"
+      },
+      {
+        "profile_link": "https://www.linkedin.com/in/michaelhyatt",
+        "name": "Michael Hyatt",
+        "about": "Full Focus",
+        "location": "42K followers Franklin, TN"
+      },
+      {
+        "profile_link": "https://www.linkedin.com/in/howardglaubach",
+        "name": "Howard Glaubach",
+        "about": "Howard's Home Financing",
+        "location": "24K followers North Port-Sarasota Area"
+      },
+      {
+        "profile_link": "https://www.linkedin.com/in/billgerst",
+        "name": "William Gerst",
+        "about": "Innovative Transport Solutions (ITS)",
+        "location": "30K followers Greater Chicago Area"
+      }
+    ],
+    "educations_details": "University of Florida",
+    "education": [
+      {
+        "start_year": "2020-08",
+        "end_year": "2024-05",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      },
+      {
+        "start_year": "2021-01",
+        "end_year": "2023-12",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      }
+    ],
+    "recommendations_count": 2,
+    "avatar": "https://media.licdn.com/dms/image/v2/D5603AQF5yi66ew5pkA/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1700688439517?e=2147483647&v=beta&t=nDyORaQ65-h93S4lAIQ01WyM7K8O5yspDJmz_Ug1D3I",
+    "courses": [
+      {
+        "subtitle": "QMB3302",
+        "title": "Business Analytics & AI"
+      },
+      {
+        "subtitle": "COP3502C",
+        "title": "Programming 1"
+      },
+      {
+        "subtitle": "COP3503C",
+        "title": "Programming 2"
+      }
+    ],
+    "languages": [
+      {
+        "subtitle": "Native or bilingual proficiency",
+        "title": "English"
+      },
+      {
+        "subtitle": "Native or bilingual proficiency",
+        "title": "Hindi"
+      }
+    ],
+    "certifications": [
+      {
+        "meta": "Issued Dec 2022",
+        "subtitle": "Pearson",
+        "title": "IT Specialist Cloud Computing",
+        "credential_url": null,
+        "credential_id": null
+      },
+      {
+        "meta": "Issued Oct 2021",
+        "subtitle": "Microsoft",
+        "title": "Microsoft Technology Associate: Introduction to Programming Using JavaScript",
+        "credential_url": null,
+        "credential_id": null
+      },
+      {
+        "meta": "Issued May 2021",
+        "subtitle": "Adobe",
+        "title": "Adobe InDesign CC 2015",
+        "credential_url": null,
+        "credential_id": null
+      },
+      {
+        "meta": "Issued Feb 2021",
+        "subtitle": "Microsoft",
+        "title": "Microsoft Excel Expert (Office 2019)",
+        "credential_url": null,
+        "credential_id": null
+      },
+      {
+        "meta": "Issued Jan 2021",
+        "subtitle": "Microsoft",
+        "title": "Microsoft Technology Associate: Windows Operating System Fundamentals (MTA)",
+        "credential_url": null,
+        "credential_id": null
+      },
+      {
+        "meta": "Issued Dec 2020",
+        "subtitle": "Microsoft",
+        "title": "Microsoft Word Expert (Office 2019)",
+        "credential_url": null,
+        "credential_id": null
+      },
+      {
+        "meta": "Issued Sep 2020",
+        "subtitle": "Microsoft",
+        "title": "Microsoft Outlook (Office 2019)",
+        "credential_url": null,
+        "credential_id": null
+      },
+      {
+        "meta": "Issued Mar 2020",
+        "subtitle": "Microsoft",
+        "title": "Microsoft Excel (Office 2016)",
+        "credential_url": null,
+        "credential_id": null
+      },
+      {
+        "meta": "Issued Dec 2019",
+        "subtitle": "Microsoft",
+        "title": "Microsoft Powerpoint (Office 2016)",
+        "credential_url": null,
+        "credential_id": null
+      },
+      {
+        "meta": "Issued Nov 2019",
+        "subtitle": "Microsoft",
+        "title": "Microsoft Word (Office 2016)",
+        "credential_url": null,
+        "credential_id": null
+      }
+    ],
+    "recommendations": [
+      "LinkedIn User \u201cI had the pleasure of mentoring Pranav during his 2025 summer internship at ReliaQuest. From a technical standpoint, Pranav is very strong. He took full ownership of his intern project from start to finish, contributed meaningfully to a broader team initiative, and consistently produced solid, well thought out code. He ramped up quickly, asked thoughtful questions, and applied feedback immediately. Seeing his work ship to customers was well deserved and a direct reflection of the effort and care he put into his work. Equally important, Pranav is genuinely easy to work with. He is approachable, humble, and brings a positive attitude to everything he does. Our mentoring sessions were always productive, and he fit naturally into the team from day one. In just a few short weeks, Pranav made meaningful technical contributions and demonstrated strong work ethic alongside excellent technical ability. I would happily recommend him and would work with him again without hesitation\u201d",
+      "LinkedIn User \u201cI was team lead for Greymatter case management project, to which Pranav contributed greatly. Pranav approached tasks with a great deal of enthusiasm and intellectual curiosity and was widely regarded by the whole team. Would definitely hire him again without hesitation.\u201d"
+    ],
+    "followers": 2154,
+    "connections": 500,
+    "current_company_company_id": "dsiufl",
+    "current_company_name": "Data Science & Informatics",
+    "location": null,
+    "input_url": "https://www.linkedin.com/in/pranavb15",
+    "linkedin_id": "pranavb15",
+    "activity": [
+      {
+        "interaction": "Liked by Pranav Bhargava",
+        "link": "https://www.linkedin.com/posts/alexanderwangy_i-had-an-incredible-time-engineering-software-activity-7492978688280666112-NFmC",
+        "title": "I had an incredible time engineering software at NVIDIA this summer on the distributed GPU fleet team. I made a lot of great memories, met amazing\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQFJ1MtAucV3jA/feedshare-image-high-res/B56Z_xoaCTJsAU-/0/1786465330797?e=2147483647&v=beta&t=vCpa5yfDKZH05iVCgTaTod3F-O-TrxmfL-SaYskfsa4",
+        "id": "7492978688280666112"
+      },
+      {
+        "interaction": "Liked by Pranav Bhargava",
+        "link": "https://www.linkedin.com/posts/c%C3%A1tia-s-silva-a9215430_digitaltransformation-technology-leadership-activity-7492671807125295104-tUhc",
+        "title": "Digital transformation is not just about technology. In this podcast conversation, I share a perspective I strongly believe in: technology is only\u2026",
+        "img": "https://static.licdn.com/aero-v1/sc/h/53n89ecoxpr1qrki1do3alazb",
+        "id": "7492671807125295104"
+      },
+      {
+        "interaction": "Liked by Pranav Bhargava",
+        "link": "https://www.linkedin.com/posts/gael-garcia1627_vfaang-softwareengineering-internship-activity-7491509969595379712-FX41",
+        "title": "Today marks the final day of my 12-week Software Engineering Internship with Visa in Austin, TX, and what an incredible journey it's been! \ud83c\udf89 This\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQEaNaOLBMbAyw/feedshare-shrink_800/B4EZ_cwm6fHsAc-/0/1786115158442?e=2147483647&v=beta&t=cqaUgKI1ZtMdW3XJITXJjUe5wuoAjxjizCGrlG19mL4",
+        "id": "7491509969595379712"
+      },
+      {
+        "interaction": "Liked by Pranav Bhargava",
+        "link": "https://www.linkedin.com/posts/patricia-dodson-37090b119_middleton-hosa-had-a-great-experience-at-activity-7491120075408707585-uqJD",
+        "title": "Middleton HOSA had a great experience at International Leadership Conference in Indianapolis, Indiana over the summer. HOSA celebrated it's 50th\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQHiZihJdyta6g/feedshare-image-high-res/B4EZ_XOA6pJUAU-/0/1786022203399?e=2147483647&v=beta&t=DZBwtnY4V3JS7k9MJNP0FLCeYQe4uNyJHSj3ITxH44w",
+        "id": "7491120075408707585"
+      },
+      {
+        "interaction": "Liked by Pranav Bhargava",
+        "link": "https://www.linkedin.com/posts/brianmurphyreliaquest_been-a-great-week-at-black-hat-enjoying-activity-7490787011164028928-NO8C",
+        "title": "Been a great week at Black Hat, enjoying all the conversations with our customers and other security leaders. Cybersecurity continues to be one of\u2026",
+        "img": "https://static.licdn.com/aero-v1/sc/h/53n89ecoxpr1qrki1do3alazb",
+        "id": "7490787011164028928"
+      },
+      {
+        "interaction": "Liked by Pranav Bhargava",
+        "link": "https://www.linkedin.com/posts/matheusmaldaner_had-a-lot-of-fun-presenting-sentinelbench-activity-7490894490417692672-9G1e",
+        "title": "Had a lot of fun presenting SentinelBench, a benchmark for Long-Running Monitoring Agents, at YC's first research symposium. It was also great to\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQGpQWNN78Hhug/feedshare-image-high-res/B56Z_UA19aJoAU-/0/1785968419005?e=2147483647&v=beta&t=1G0whANFlsHUjwEKQUW-LskG7z2RIOUabFMPySI2_xc",
+        "id": "7490894490417692672"
+      },
+      {
+        "interaction": "Liked by Pranav Bhargava",
+        "link": "https://www.linkedin.com/posts/kapooramanpreet_student-perceptions-and-preferences-regarding-activity-7490435164788113408-axDP",
+        "title": "Should CS instructors use AI-generated instructional videos in classroom? We wanted to move beyond speculation and understand what students actually\u2026",
+        "img": "https://media.licdn.com/dms/image/sync/v2/D4E27AQF8_RBIyH3a0w/articleshare-shrink_800/B4EZ_Nd8tBHkAY-/0/1785858608362?e=2147483647&v=beta&t=MZwf0__HBsYobbSTloMlS_O5oNTxf1mI3JUnK7EBFGo",
+        "id": "7490435164788113408"
+      },
+      {
+        "interaction": "Liked by Pranav Bhargava",
+        "link": "https://www.linkedin.com/posts/kevinobrien-cs_aisecurity-defenseclaw-opensource-activity-7489045427380551680-RSGx",
+        "title": "This summer, I\u2019ve been working as an AI/Machine Learning Intern at Cisco. My project has been DefenseClaw, an open-source security layer for\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQGMU-s3qfJyzQ/feedshare-shrink_800/B4EZ.5vIeJKcAc-/0/1785527568517?e=2147483647&v=beta&t=I9gDpR6HLQJwO5V8hazlk2QKmaSUATvvbjR6mh9EASE",
+        "id": "7489045427380551680"
+      },
+      {
+        "interaction": "Liked by Pranav Bhargava",
+        "link": "https://www.linkedin.com/posts/michael-gannon_go-get-it-bronze-badge-was-issued-by-reliaquest-activity-7480239539051991040-QC_S",
+        "title": "View my verified achievement from ReliaQuest.",
+        "img": "https://media.licdn.com/dms/image/v2/D4D10AQH1f83NIjLdzg/image-shrink_1280/B4DZ88mOjPH0Ag-/0/1783428082151?e=2147483647&v=beta&t=mgTYLBPXzrSpvtftTWzpupdZI-CS6oH2iOur02LUrU4",
+        "id": "7480239539051991040"
+      },
+      {
+        "interaction": "Liked by Pranav Bhargava",
+        "link": "https://www.linkedin.com/posts/aryan-sayini_notion-invited-me-to-their-hq-to-learn-gtm-activity-7483894537854038016-avj3",
+        "title": "Notion invited me to their HQ to learn GTM from companies that actually optimize it. 7 live demos, no slides. Two takeaways I can't stop thinking\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQEZcyJYfDJpdg/feedshare-image-high-res/B56Z9vd8lIGoAU-/0/1784281552118?e=2147483647&v=beta&t=WoxYY330H6J69uth8j3WUOogzFjsxJ5rK5l_aBuCa1E",
+        "id": "7483894537854038016"
+      },
+      {
+        "interaction": "Liked by Pranav Bhargava",
+        "link": "https://www.linkedin.com/posts/brady-feher_as-of-july-31st-i-concluded-my-internship-activity-7490013616147095552-jDgQ",
+        "title": "As of July 31st, I concluded my internship as a Business Development Representative at ReliaQuest, a global AI-powered cybersecurity company\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQEGuwAlvwLkQQ/feedshare-image-high-res/B4EZ_C7i9yJYAU-/0/1785681818204?e=2147483647&v=beta&t=06D37th3ZZHbu1ccZvTKnql3c0VbmyBanX8E4ULxGi8",
+        "id": "7490013616147095552"
+      },
+      {
+        "interaction": "Liked by Pranav Bhargava",
+        "link": "https://www.linkedin.com/posts/aarav-verma-ba4985294_ive-recently-just-finished-my-11-month-intra-activity-7489685797328269312-xYYt",
+        "title": "Ive recently just finished my 11 month INTRA placement with KPMG Ireland in Risk Consulting. As I look back on the past year, Im genuinely grateful\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4D22AQEypqVAK94ivw/feedshare-image-high-res/B4DZ_C1if9I4AU-/0/1785680243914?e=2147483647&v=beta&t=SSHiDOblpIo8OB4YdQs-_TZ0VxW8UZQT1HxhmIsQto0",
+        "id": "11"
+      },
+      {
+        "interaction": "Liked by Pranav Bhargava",
+        "link": "https://www.linkedin.com/posts/niklas-tikka_incredibly-happy-to-announce-that-ill-be-activity-7489376602049622016-ftaJ",
+        "title": "Incredibly happy to announce that I'll be joining Optiver as a Quant Trading Intern in the summer of 2027, in their Amsterdam office. Looking forward\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4D22AQE12jH5dZ7rMg/feedshare-image-high-res/B4DZ..cVfOGkAY-/0/1785606527220?e=2147483647&v=beta&t=BtWeoynKXvxw6q76rXP5G1k0FKnl5J06xjhz5mun6JM",
+        "id": "7489376602049622016"
+      },
+      {
+        "interaction": "Liked by Pranav Bhargava",
+        "link": "https://www.linkedin.com/posts/abhinav-pothuri_and-thats-a-wrap-over-the-past-11-weeks-activity-7489356679143141377-ybdb",
+        "title": "And that\u2019s a wrap! Over the past 11 weeks, I had the incredible opportunity to spend my summer at Epic Systems as a Software Engineer\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQFj0g6XPpicrA/feedshare-shrink_800/B56Z..KNhOJgAc-/0/1785601776036?e=2147483647&v=beta&t=GtL1wcbe61EZG_tYsfLO6b-ue7KBYrr0EE0GtEN1_Wo",
+        "id": "11"
+      },
+      {
+        "interaction": "Liked by Pranav Bhargava",
+        "link": "https://www.linkedin.com/posts/kaden-nyilas-1a2711273_worldclass-aee-begreat-activity-7489439887121682432-2y8G",
+        "title": "As I wrap up my BDR internship, I just want to say how grateful I am for the experience and everyone who made it so memorable. This experience\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQEsuXt7q7nPSQ/feedshare-shrink_800/B4EZ._V4zmGoAc-/0/1785621614068?e=2147483647&v=beta&t=r33l6zr7BeXOZQLV1DXS2jIOA5YMPth0GNcv72Pboqo",
+        "id": "7489439887121682432"
+      },
+      {
+        "interaction": "Liked by Pranav Bhargava",
+        "link": "https://www.linkedin.com/posts/johanfortus_excited-to-share-that-ive-recently-started-activity-7489078726434054144-hVER",
+        "title": "Excited to share that I\u2019ve recently started as an Associate Software Engineer at ReliaQuest! After graduating from the University of Florida this\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQFz9VH755TZTw/feedshare-shrink_800/B4EZ.6Nar.IQAc-/0/1785535507532?e=2147483647&v=beta&t=Nqbfs2BONpEaz6QFcf-MRpzYG3kKP5vhCQ5Y4nSvcQY",
+        "id": "7489078726434054144"
+      },
+      {
+        "interaction": "Liked by Pranav Bhargava",
+        "link": "https://www.linkedin.com/posts/nicolas-velasco-11932a320_as-my-summer-internship-at-reliaquest-comes-activity-7488980347444047872-P0O6",
+        "title": "As my summer internship at ReliaQuest comes to a close, I've been reflecting on just how much these past 9 weeks have given me. This summer has been\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQGgOH11cnfTEw/feedshare-shrink_800/B4EZ.4z3yAKQAk-/0/1785512033712?e=2147483647&v=beta&t=LIwX1j9KkfAyO2m5Enpu2DfuY99cH57m3yihlhJumoM",
+        "id": "7488980347444047872"
+      },
+      {
+        "interaction": "Liked by Pranav Bhargava",
+        "link": "https://www.linkedin.com/posts/paighton-shirk_makesecuritypossible-summerinternship-activity-7488941829141381120-qAZk",
+        "title": "As my summer internship at ReliaQuest comes to a close, I have been reflecting on how much I have learned and grown during my time as an Operations\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQGzpCelJCefLA/feedshare-image-high-res/B4EZ.z1T8dIkAU-/0/1785428525617?e=2147483647&v=beta&t=K6N2hpqJPOd198kCKWCzgiX5bF0oVdBv0Pjfwjyc0LY",
+        "id": "7488941829141381120"
+      },
+      {
+        "interaction": "Liked by Pranav Bhargava",
+        "link": "https://www.linkedin.com/posts/lisa-guadan-7b766a48_primobrands-interns-activity-7488324093319036928-rEi8",
+        "title": "Shout out to Kushagra Katiyar for his intern presentation and impact this summer. I had the opportunity to join presentations and the work he\u2019s done\u2026",
+        "img": "https://static.licdn.com/aero-v1/sc/h/53n89ecoxpr1qrki1do3alazb",
+        "id": "7488324093319036928"
+      }
+    ],
+    "linkedin_num_id": "239322837",
+    "banner_image": "https://media.licdn.com/dms/image/v2/D4E16AQHg13sSgVhedg/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1727829774127?e=2147483647&v=beta&t=w-dAWkvkZDAZabis-3NWtsU8d2pGq9xatgEqNVxDsgE",
+    "honors_and_awards": null,
+    "similar_profiles": [],
+    "default_avatar": false,
+    "memorialized_account": false,
+    "bio_links": [
+      {
+        "title": "Personal Website",
+        "link": "https://pranavb.wiki/"
+      }
+    ],
+    "first_name": "Pranav",
+    "last_name": "Bhargava",
+    "influencer": false,
+    "timestamp": "2026-08-12T19:13:47.898Z",
+    "input": {
+      "url": "https://www.linkedin.com/in/pranavb15"
+    }
+  },
+  "local_photo": "data\\linkedin_photos\\pranavb15__usr-jAo9FFrif7wuCAD.jpg"
+}

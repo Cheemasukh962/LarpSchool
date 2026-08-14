@@ -1,0 +1,210 @@
+{
+  "luma_user_id": "usr-WePKZmRZUsFRyjY",
+  "csv_name": "Mohammad Sadiq",
+  "csv_linkedin": "https://www.linkedin.com/in/mohammad-h-sadiq",
+  "enriched_at": "2026-08-12T19:13:35.731000+00:00",
+  "batch_id": "sd_msqguuzo2o546dm49e",
+  "profile": {
+    "id": "mohammad-h-sadiq",
+    "name": "Mohammad Sadiq",
+    "city": "New York City Metropolitan Area",
+    "country_code": "US",
+    "position": null,
+    "about": "Interested in AI/ML infrastructure, distributed systems, high performance computing, and\u2026",
+    "current_company": {
+      "link": "https://www.linkedin.com/company/ironsite?trk=public_profile_topcard-current-company",
+      "name": "Ironsite",
+      "company_id": "ironsite",
+      "location": null
+    },
+    "experience": null,
+    "url": "https://cl.linkedin.com/in/Mohammad-h-sadiq",
+    "educations_details": "University of Maryland",
+    "education": null,
+    "avatar": "https://static.licdn.com/aero-v1/sc/h/9c8pery4andzj6ohjkjp54ma2",
+    "courses": [
+      {
+        "subtitle": "CMSC351",
+        "title": "Algorithms"
+      },
+      {
+        "subtitle": "CMSC216",
+        "title": "Computer Systems"
+      },
+      {
+        "subtitle": "-",
+        "title": "Data Structures"
+      },
+      {
+        "subtitle": "CMSC250",
+        "title": "Discrete Structures"
+      },
+      {
+        "subtitle": "-",
+        "title": "Linear Algebra"
+      },
+      {
+        "subtitle": "-",
+        "title": "Mobile Application Development"
+      },
+      {
+        "subtitle": "-",
+        "title": "Multivariable Calculus"
+      },
+      {
+        "subtitle": "CMSC132",
+        "title": "Object-Oriented Programming II"
+      },
+      {
+        "subtitle": "CMSC330",
+        "title": "Organization of Programming Languages"
+      },
+      {
+        "subtitle": "-",
+        "title": "Virtual Reality and Game Design"
+      }
+    ],
+    "languages": [
+      {
+        "subtitle": "Native or bilingual proficiency",
+        "title": "English"
+      },
+      {
+        "subtitle": "Native or bilingual proficiency",
+        "title": "Hindi"
+      },
+      {
+        "subtitle": "Native or bilingual proficiency",
+        "title": "Urdu"
+      },
+      {
+        "subtitle": "Elementary proficiency",
+        "title": "French"
+      }
+    ],
+    "followers": 1167,
+    "connections": 500,
+    "current_company_company_id": "ironsite",
+    "current_company_name": "Ironsite",
+    "location": null,
+    "input_url": "https://www.linkedin.com/in/mohammad-h-sadiq",
+    "linkedin_id": "mohammad-h-sadiq",
+    "activity": [
+      {
+        "interaction": null,
+        "link": "https://www.linkedin.com/posts/maximilian-mona_we-loved-our-time-at-the-university-of-maryland-activity-7436821870659899392-FRYn",
+        "title": "We loved our time at the University of Maryland . What a weekend! Thank you, Oliver D'Esposito ( Startup Shell ) and Sammy Popat , for spreading the word as over 170 builders came together to take on the future of Spatial Intelligence, and the results were incredible. Winners: 1st Place ($10,000) - Construction Site Safety Intelligence Dashboard Rajveer Singh , Ananth Sriram , and Neel Mokaria The hackathon winners built and published a mini research paper on an AI-powered Construction Site Safety Intelligence Dashboard that turns egocentric footage into clear, per-worker safety reports at the end of each shift. The system automatically detects PPE compliance, flags ergonomic and proximity risks, and maps issues to OSHA standards, delivering practical, actionable insights without requiring live human monitoring. 2nd Place ($5,000) - DeepAnchor Vishal Kotha , Eshan Singh , Ankit Nakhawa , Souptik Mandal , Utsav Kataria The DeepAnchor team also published a mini research paper introducing a powerful idea: if AI can see standardized construction objects (like bricks or electrical boxes), it can use them as \u201canchors\u201d to convert pixels into real-world measurements. DeepAnchor turns a single photo into a measurable scene by detecting known objects, calibrating a pixel-to-meter scale, and feeding structured measurements into a vision-language model to transform raw videos and images into clear, field-ready insights. 3rd Place ($2,500) - VISTA - Video Intelligence with Spatio-Temporal Augmented Retrieval for Egocentric Understanding Sneha Vellelath , Nithin Skantha Murugan , Santhi Prasanna , Shifa Mehreen , Swapnita Sahu The VISTA team published a mini research paper tackling a simple but powerful idea: today\u2019s AI can see what\u2019s in front of it, but it can\u2019t remember what just happened. VISTA changes that by adding a \u201cmemory layer\u201d to video and turning raw hardhat footage into a structured, searchable timeline of the physical world. Instead of scrubbing through hours of video, you can simply ask questions like \u201cWhen did the electrician start rough-in?\u201d or \u201cWhere is the scissor lift right now?\u201d and get precise, time-stamped answers. Honorable Mentions: Splatt - ($1,000) Aneesh Reddy , Mohammad Sadiq , Farhan Kittur , Ian Coutinho , Vishal Shah Splatt took on the challenge of Spatial Intelligence in the Physical World and pushed it into full 3D. They built a system that turns everyday first-person construction videos into a living, navigable 3D model of the jobsite, mapping objects globally, tracking site changes over time, and enabling natural-language queries across the space. Experience Engine - ($1,000) Anjali Sreenivasan , Stephen Shkeda , Alex Woodka Experience Engine turns egocentric video into a map of muscle memory for construction, capturing how experienced workers move and make decisions instinctively, and transforming that hidden expertise into teachable, easy-to-digest insights. ...more ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D5605AQFbJNV9PoTPvw/feedshare-thumbnail_720_1280/B56ZzQ53iXJ8A8-/0/1773031365644?e=2147483647&v=beta&t=bwLFPC42fR2WJkgQDnQLSvnjdQdsFBz5RSVyiXU4fQ0",
+        "id": "7436821870659899392"
+      },
+      {
+        "interaction": "Mohammad Sadiq liked this",
+        "link": "https://www.linkedin.com/posts/eschen003_excited-to-share-that-ive-joined-profound-activity-7490399319750234113-a4vT",
+        "title": "Excited to share that I've joined Profound . It's been over a month, and I've been able to ship at fractal speed alongside an incredibly talent-dense team. Huge thanks to Dylan Babbs and James Cadwallader for the opportunity. Can't wait to keep building the future of AI + marketing.",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQEGNuI5xsr9eQ/feedshare-image-high-res/B4EZ_I0Af2IgAU-/0/1785780510440?e=2147483647&v=beta&t=svrUVBPZbyNp-6LJJOp4f-J8PviFW1SbBQnXKE2jkMg",
+        "id": "7490399319750234113"
+      },
+      {
+        "interaction": "Mohammad Sadiq liked this",
+        "link": "https://www.linkedin.com/posts/construction-doesnt-have-a-labor-problem-activity-7488639580846534656-Zzd1",
+        "title": "Construction doesn\u2019t have a labor problem. It has a black box problem. The first project I ran on my own, my boss handed me a budget and said, \u201cThis budget is your box. Live inside it. Plan the work, work the plan.\u201d Then he gave me a stack of spreadsheets and wished me luck. The budget was never the problem. The problem was that the spreadsheets assumed the job would go exactly as planned. They didn\u2019t account for the excavation delays and compressed anchor bolt install, the design info that showed up late, or the underground fire water tank that became a five-month out-of-sequence delay. The production reports told me weekly where I was. They never told me why I got there. That\u2019s the black box of construction: everything that happens between production reports. It\u2019s the gap between what happened and why it happened. The decisions, constraints, delays, and coordination challenges that no spreadsheet captures. Without visibility into that work, uncertainty compounds week over week until we get to the end of the job asking, How did we get here? or How are we going to finish strong? It sits between the estimate and the final cost, yesterday\u2019s production and today\u2019s, hours worked and work actually installed. Inside it are the decisions, delays, rework, and coordination failures that decide whether a crew succeeds or struggles. Yet we still try to run operations with accounting tools: hours in, quantities out. Then we wonder why productivity is so hard to improve. Last week our team was at the CII Elevate Summit in Denver. What stuck with me was a question that kept coming up: do we actually understand how work happens on site, not just what it costs? Because once you understand the why, everything downstream gets better: estimating, scheduling, forecasting, and the daily calls superintendents have to make. And crews spend less time fighting problems they didn\u2019t create. Construction has never lacked hardworking people. We\u2019ve always had exceptional builders. What we\u2019ve lacked is visibility into the black box between planning and production. It\u2019s time we stopped asking our people to outperform with bad information and started giving them better information instead. (That water tank taught me a lot about not giving up, I\u2019ve been using that skill a lot these days)",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQGfBY4xBdpPOg/feedshare-image-high-res/B56Z.z5kb_JgAY-/0/1785429641586?e=2147483647&v=beta&t=5e7BimUnqngdKG8-zXZBmjX1RWzDsdp3oj4tKeD-k3E",
+        "id": "7488639580846534656"
+      },
+      {
+        "interaction": "Mohammad Sadiq liked this",
+        "link": "https://www.linkedin.com/posts/none-of-us-is-as-smart-as-all-of-us-those-activity-7485740481579073536-Bdsr",
+        "title": "\u201cNone of us is as smart as all of us.\u201d Those words hung in the conference room at Telligent Masonry\u2019s headquarters, and they perfectly capture what it means to build in this industry. A third-generation family business operating at such a high level doesn\u2019t happen by accident. It\u2019s built on discipline, commitment, and an unwavering focus on excellence. What impressed me most was that, after decades of success, the team still shows up every day looking for ways to improve, invest in their people, develop the next generation of craftsmen, and continue raising the bar. There is no \u201cI\u201d in the way they operate, only \u201cwe.\u201d Last week, the team at Telligent Masonry, LLC opened their doors to us. We spent time in the field, walked jobsites, joined internal operations meetings, listened, asked questions, and worked side by side with their team to better understand how they drive operational excellence every day. We\u2019re grateful for the opportunity to learn from exceptional builders and continue building tools that help teams operate safer, smarter, and more effectively. After starting to work together in April, we\u2019ll continue expanding across Telligent\u2019s workforce on projects throughout the East Coast over the coming months. By staying close to their teams, understanding how they operate, and learning from the field, we can help build technology that creates meaningful improvements in how work gets planned, executed, and measured. The construction industry is at an inflection point. Every company committed to building better is asking the same fundamental question: How do we take advantage of this moment? How do we operate 10x better than we did last year? The companies that embrace this opportunity will help define the next generation of construction. We\u2019re grateful to partner with teams like Telligent that are committed to continuous improvement, investing in their people, and raising the standard for the industry. We\u2019re just getting started.",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQFsIohRTEtJqA/feedshare-image-high-res/B56Z.IJoVvGoAY-/0/1784695656708?e=2147483647&v=beta&t=nQVVRpyEJfOv3TvK-SZeXrCAhqLP4Olytd1SbJv9kwU",
+        "id": "7485740481579073536"
+      },
+      {
+        "interaction": "Mohammad Sadiq liked this",
+        "link": "https://www.linkedin.com/posts/ananth-s_super-excited-to-be-joining-y-combinator-activity-7477763037278445568-tjK1",
+        "title": "Super excited to be joining Y Combinator this summer to build chromie.dev (YC S26) ! Akshay and I are building the deterministic stack for web agents, combining frontier AI with deterministic tooling so agents can be both intelligent and reliable. If you're building AI agents, automation, or deploying AI in high-stakes environments, we'd love to chat. And if you're in SF this summer, feel free to reach out! Thanks to everyone who helped me get here and excited to share what we've been building \ud83d\ude80",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQG1cS5uZ-BgMA/feedshare-shrink_800/B56Z8ZZ2iuJoAc-/0/1782837635578?e=2147483647&v=beta&t=WyKRfBCl7CHCdgojnBPshA9tuaD20ApvvSfia096luo",
+        "id": "7477763037278445568"
+      },
+      {
+        "interaction": "Mohammad Sadiq liked this",
+        "link": "https://www.linkedin.com/posts/yuvan-sundrani_autosana-acquired-meadow-meadow-does-customer-activity-7475217034369302529-67Th",
+        "title": "Autosana acquired Meadow. Meadow does customer personality testing on web apps. Understanding how your users think and behave is something every product team needs but most are guessing at. We're building the future of E2E testing and the last piece of code validation. Get started today: https://autosana.ai",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQGmihdQr9YI2Q/feedshare-image-high-res/B4EZ71OR_GHsAc-/0/1782230622440?e=2147483647&v=beta&t=AmaP2qYGtl351JFi8MuJTeMnKXYPfW1cTMj4l_RHenU",
+        "id": "7475217034369302529"
+      },
+      {
+        "interaction": "Mohammad Sadiq liked this",
+        "link": "https://www.linkedin.com/posts/maximilian-mona_today-we-are-introducing-ironsites-industry-activity-7472686935933755393-HTXt",
+        "title": "Today, we are introducing Ironsite 's Industry Advisory Council. It is a hand-selected group of senior leaders from the largest self-perform GCs and specialty contractors in the country. They guide us on product, pricing, union engagement, and go-to-market. They meet with us quarterly in person and stay engaged year-round. Founding members include: Brad Clearwater , Rex Moore Jeff Hartman, Nibbi Brothers Michael Pappas, Telligent Masonry Michael MacBean , DPR Construction Nathan Gamble , Pan Pacific Nick Perez , Frank M. Booth Ryan Mix , Kiewit Todd Lamberty, Webcor Builders Tony Pellegrini , Cahill Trevor Prater , Swinerton Vimal Patel , Kiewit Ironsite is being built by the people who actually do the work. A huge thank you to every founding member of our Industry Advisory Council for the time and expertise you shared this past week. Your feedback is directly shaping the future of Ironsite and making sure we\u2019re solving real problems for the industry. It was great to cap off the week together at a San Francisco Giants game. We\u2019re excited for what\u2019s ahead.",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQHXRnYFRdcJDA/feedshare-shrink_800/B56Z7JIDWuIQAc-/0/1781490792557?e=2147483647&v=beta&t=CGwZdSTw6mcUdZ1zTpjBvZlwEqQmiz7msUAa-cIxxTs",
+        "id": "7472686935933755393"
+      },
+      {
+        "interaction": "Mohammad Sadiq reacted on this",
+        "link": "https://www.linkedin.com/posts/farhan-kittur_this-year-has-been-a-lot-of-changes-i-walked-activity-7471318173250805760-hJwM",
+        "title": "This year has been a lot of changes. I walked into UMD not knowing a thing about how college would turn out, afraid of leaving home and more concerned that I\u2019d hate the dining food than anything. And then\u2026 it worked out. I pushed myself into every chance I could to build on teams, to challenge myself and try something that I hadn\u2019t before. Here\u2019s what I did: - Did months of research at Algoverse into LLM Bias Steering, running hundreds of experiments on models of all sizes with thousands of prompts to learn why LLMs make decisions the way they do - Developed Testudo AI and now OneClique with the ACM, building an agent system from the ground up and collecting data for our campus search platform - Worked on Leasetudo for UMD\u2019s TerpLabs, building a subleasing platform (pre-release) - Joined UMD\u2019s App Dev club to work for IonQ and build improved UNet models for 13% F1 increases as an ML Engineer - Worked for QuarterMill (startup) for a month to build their MVP as Ingest and Infra Lead, ingesting thousands of documents for a massive graph database. - Attended 6 hackathons all in the Spring Semester, won $3000+ in my first two and kept building from there - And I applied to over 200 jobs, interviewed for a couple, finally ending up at Ironsite And that was just setting the stage for this summer. This summer, I\u2019ve begun an internship as a Software Engineer Intern at Ironsite AI, working at a fast growing startup with engineers from Google Deepmind, Etched, Apple, and more, to build a product that\u2019s for the boots, not the suits. It\u2019s a mission I\u2019m passionate about, and I can\u2019t wait to be a part of it. I\u2019m also in San Francisco, so I\u2019m taking every opportunity I can get to venture into the startup world I can get. I already attended two hackathons in the last few days at WeaveHacks and Cursor x A16Z Night. I\u2019ll be attending YC Startup School, YC\u2019s internship fair, paper review nights, and nearly every luma event under the sun. The summer has just begun, but I\u2019m ready to take it far. Thank you to Jeffrey Ju , Christopher Yung , Ben Gold , Max Mona , and the rest of the team at Ironsite for welcoming me in this summer. Looking forward to building for the built world!",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQEwWqTR-l9oBQ/feedshare-image-high-res/B56Z690R.LIQAU-/0/1781301061455?e=2147483647&v=beta&t=G3r59cLoNo7s9SJfPjfZBNzfjm-YJlzGrXFQbDZnajE",
+        "id": "7471318173250805760"
+      },
+      {
+        "interaction": "Mohammad Sadiq liked this",
+        "link": "https://www.linkedin.com/posts/ananth-s_had-a-great-time-at-insurtech-insights-last-activity-7471254735837249536-uMQQ",
+        "title": "Had a great time at Insurtech Insights last week in NYC! After speaking with professionals across the industry, one theme kept coming up: end-to-end automation. While everyone was confident in the value of their solutions, two major bottlenecks kept showing up\u2014 claims data standardization and legacy systems. At chromie.dev (YC S26) , we're focused on the second challenge. Many critical insurance workflows still depend on legacy portals that don't offer APIs, creating friction for automation. We're building reliable infrastructure to automate work across these systems and help teams move faster. Check us out \ud83d\udc49 https://chromie.dev/ Insurance demo \ud83d\udc49 https://lnkd.in/eECa8MpQ",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQEnrca96KoLag/feedshare-shrink_800/B4EZ686k4SJkAc-/0/1781285934098?e=2147483647&v=beta&t=odkx3AnikeQ3n5Vvbtyoyo-5qyKm1fOkYCKe6VkD4-E",
+        "id": "7471254735837249536"
+      },
+      {
+        "interaction": "Mohammad Sadiq liked this",
+        "link": "https://www.linkedin.com/posts/muhammadyousufii_bearsstillsuck-activity-7471253845340303360-dR1q",
+        "title": "Started this week at Optiver as a Software Engineer Intern on the Systematic Volatility Trading team. Excited to spend the summer in Chicago ( #BearsStillSuck ).",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQHvQsC5naOt7A/feedshare-shrink_800/B4EZ685yC7KoAg-/0/1781285724674?e=2147483647&v=beta&t=QA7u6YJG-iISjWgvGU_ekz-f-eJMGyNVOEACpvExMEM",
+        "id": "7471253845340303360"
+      }
+    ],
+    "linkedin_num_id": "1047374164",
+    "banner_image": "https://media.licdn.com/dms/image/v2/D4E16AQGgvu-GAsGmnA/profile-displaybackgroundimage-shrink_200_800/B4EZ53Z.DuIAAQ-/0/1780119757318?e=2147483647&v=beta&t=NrLxUz5pLKzz-60V14qfX1YrYoKYcnmr_kk5VTKnISI",
+    "honors_and_awards": [
+      {
+        "title": "Bitcamp Hackathon",
+        "publication": "-",
+        "date": "2026-04-01T00:00:00.000Z",
+        "description": "Won Best App Dev Track Hack for building a position-aware 3D reconstruction and body capture system with LiDAR and ESP32 IMUs"
+      },
+      {
+        "title": "Ironsite x UMD Hackathon",
+        "publication": "-",
+        "date": "2026-02-01T00:00:00.000Z",
+        "description": "Won $1K for building a web app that superimposes egocentric construction videos to generate a 3D model of the jobsite and identify safety concerns"
+      },
+      {
+        "title": "Congressional App Challenge",
+        "publication": "-",
+        "date": "2024-01-01T00:00:00.000Z",
+        "description": "Earned 2nd place at Congressional App Challenge NJ (District 12) by creating a web app that converts handwritten text for those with dysgraphia into legible files"
+      },
+      {
+        "title": "Presidential Volunteer Service Award - Gold",
+        "publication": "Corporation for National and Community Service",
+        "date": "2022-10-01T00:00:00.000Z",
+        "description": null
+      },
+      {
+        "title": "VEX Robotics Competition",
+        "publication": "-",
+        "date": null,
+        "description": "Won 17 total awards in state-level competitions; placed 1st for robot skills at the 2023 New Jersey VEX Robotics State Championship; ranked 37 out of 12,000+ teams (top 0.29%) internationally for robot skills; qualified for the world championship tournament twice"
+      }
+    ],
+    "similar_profiles": [],
+    "default_avatar": true,
+    "memorialized_account": false,
+    "bio_links": [],
+    "first_name": "Mohammad",
+    "last_name": "Sadiq",
+    "influencer": false,
+    "timestamp": "2026-08-12T19:12:42.960Z",
+    "input": {
+      "url": "https://www.linkedin.com/in/mohammad-h-sadiq"
+    }
+  }
+}

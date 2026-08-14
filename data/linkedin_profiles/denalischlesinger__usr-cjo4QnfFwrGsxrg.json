@@ -1,0 +1,280 @@
+{
+  "luma_user_id": "usr-cjo4QnfFwrGsxrg",
+  "csv_name": "Denali Schlesinger",
+  "csv_linkedin": "https://www.linkedin.com/in/denalischlesinger",
+  "enriched_at": "2026-08-12T19:01:42.783074+00:00",
+  "batch_id": "sd_msqgese9ztya3e3uk",
+  "profile": {
+    "id": "denalischlesinger",
+    "name": "Denali Schlesinger",
+    "city": "Belmont, Massachusetts, United States",
+    "country_code": "US",
+    "position": null,
+    "about": "I am interested in the crossroads between Biology and Computer Science.",
+    "current_company": {
+      "link": "https://www.linkedin.com/company/foundersinc?trk=public_profile_topcard-current-company",
+      "name": "Founders, Inc.",
+      "company_id": "foundersinc",
+      "location": null
+    },
+    "experience": null,
+    "url": "https://kr.linkedin.com/in/denalischlesinger",
+    "educations_details": "Boston University",
+    "education": [
+      {
+        "title": "Boston University",
+        "url": "https://www.linkedin.com/school/boston-university/",
+        "start_year": "2024-09",
+        "end_year": "2028-06",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      },
+      {
+        "start_year": "2020",
+        "end_year": "2024",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      },
+      {
+        "start_year": "2022-08",
+        "end_year": "2022-12",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      }
+    ],
+    "avatar": "https://media.licdn.com/dms/image/v2/D4E03AQHCWYW45Nbnuw/profile-displayphoto-shrink_200_200/B4EZVFNczMG0AY-/0/1740622909350?e=2147483647&v=beta&t=3dsiTI048-un56DLqtGlzVLWh3_O5tV6sjM9Dx8sP1w",
+    "courses": [
+      {
+        "subtitle": "-",
+        "title": "AI & Health Bootcamp"
+      },
+      {
+        "subtitle": "CSCI E-80A (CRN 16439)",
+        "title": "Introduction to Artificial Intelligence"
+      }
+    ],
+    "certifications": [
+      {
+        "meta": "Issued Sep 2024 Credential ID e5487e4fc0a6466fa96e034d95245c1c See credential",
+        "subtitle": "edX",
+        "title": "From Linear Models to Deep Learning",
+        "credential_url": "https://courses.edx.org/certificates/e5487e4fc0a6466fa96e034d95245c1c?trk=public_profile_see-credential",
+        "credential_id": "e5487e4fc0a6466fa96e034d95245c1c"
+      },
+      {
+        "meta": "Issued May 2024 Credential ID cert_6sxgvm1k",
+        "subtitle": "Insilico Medicine",
+        "title": "PandaOmics: Disease Modeling and Target Discovery",
+        "credential_url": null,
+        "credential_id": "cert_6sxgvm1k"
+      }
+    ],
+    "volunteer_experience": [
+      {
+        "cause": "Education",
+        "info": "Aided in introductory python sessions. Topics ranged from Numpy arrays to training GNNs with PyTorch.",
+        "subtitle": "MIT Jameel Clinic - AI & Health",
+        "title": "Teacher Assistant"
+      }
+    ],
+    "followers": 1505,
+    "connections": 500,
+    "current_company_company_id": "foundersinc",
+    "current_company_name": "Founders, Inc.",
+    "publications": [
+      {
+        "title": "DiffDock Explained: Diffusion for Molecular Docking",
+        "date": "July 9, 2024",
+        "description": "Video explaining DiffDock, a diffusion-based molecular docking model. There are cool animations with Pymol!"
+      },
+      {
+        "title": "Tedx Talk (What is AI really?)",
+        "subtitle": "Belmont High School Tedx",
+        "date": "June 21, 2023",
+        "description": "Gave a talk about AI, focusing on misconceptions, basic structure, and potential of AI."
+      }
+    ],
+    "projects": [
+      {
+        "title": "Projects",
+        "description": "My website where I showcase my projects"
+      }
+    ],
+    "organizations": [
+      {
+        "title": "Avanade Scholars",
+        "membership_type": "Fellow",
+        "start_date": "Sep 2024",
+        "end_date": "Present",
+        "description": "Professional development and mentorship",
+        "membership_number": null
+      },
+      {
+        "title": "National Honors Society",
+        "membership_type": "Member",
+        "start_date": "Mar 2023",
+        "end_date": "Jun 2024",
+        "membership_number": null
+      }
+    ],
+    "location": "Belmont",
+    "input_url": "https://www.linkedin.com/in/denalischlesinger",
+    "linkedin_id": "denalischlesinger",
+    "activity": [
+      {
+        "interaction": null,
+        "link": "https://www.linkedin.com/posts/carecollaborative-training_undergraduate-opportunity-were-looking-activity-7493042871147581440-Cnsh",
+        "title": "UNDERGRADUATE OPPORTUNITY: We're looking for a new team member! The Care Collaborative team currently has an opening for a HR & Partnerships Project Manager (Remote). Read below for more information, and if you are interested, apply by September 15th by sending an email to support@carecollaborative.cloud with a short introduction about yourself (background, interests, etc) and resume. We will follow up with further information regarding interview scheduling and next steps. We look forward to hearing from you! Care Collaborative is a human compatibility-focused behavioral science research initiative developing AI-powered simulation tools that help organizations train people for the hard, high-stakes conversations they actually face at work. Trainees practice through realistic voice and video scenarios and get detailed feedback on their communication approach, tailored to an organization's specific policies and culture. While we are already active in healthcare, our platform is built to be industry agnostic, and we're now growing our reach across sectors. As we scale, we're looking for someone to help lead the HR and business-oriented side of that growth: connecting with partners, shaping strategy, and helping negotiate the deals that get our platform into new hands. Who we're looking for: - Undergrad students, preferably graduating May 2028 or later - No prior experience or specific major required, but interest in industrial/organizational psychology, communications, marketing, and/or business relations is a plus! - Skills required: professionalism in client communications, organization, strong attention to detail What you'll do: - Reach out to business decision makers to build new partnerships - Help develop strategy for identifying and prioritizing partnership sites - Support negotiations on pricing models - Explain platform features to prospective partners (full platform onboarding, technical support, and client call guidance provided) Details: - Remote, flexible location - Time commitment: minimum 4 hours/week, flexible schedule - Flexible duration - Unpaid, but comes with real access: you'll be on calls with decision makers at top businesses and building a network most undergraduate internships don't offer Want even more information about what we do? Check out our platform website here -> https://lnkd.in/gjvCYuyh and a short (~10min) demo video presented by our prior HR Project Manager, Shivalika Jhabua -> https://lnkd.in/g-xwWB9T Ronald Mikhail AngSiy Pratyaksh Gupta Baiwen Zheng Flora Ma ...more ...more",
+        "img": null,
+        "id": "7493042871147581440"
+      },
+      {
+        "interaction": null,
+        "link": "https://www.linkedin.com/posts/arvaan-mukherjee-12389a24a_were-hiring-a-founding-ml-engineer-to-join-activity-7492726351066497024-tACW",
+        "title": "We\u2019re hiring a Founding ML Engineer to join Proteus in San Francisco. We\u2019re building a Biological Intelligence Platform for the autonomous discovery of personalised medicine. Our platform reasons over disease targets, designs therapeutic and diagnostic candidates, and continuously learns from experimental results. We\u2019re looking for someone who: \u2192 Has strong ML engineering fundamentals and can take systems from idea to production \u2192 Has experience with post-training\u2014SFT, RL, preference optimization, evals, reward models, or data pipelines \u2192 Operates with a high degree of autonomy \u2192 Ideally knows biology, although curiosity and the ability to learn quickly matter more \u2192 Wants to leave the world better than they found it Biology experience is valuable, but not required. We care more about what you\u2019ve built, how you think, and whether you take ownership than where you went to school. We\u2019re backed by Founders, Inc. and work in person from their Fort Mason campus. If this sounds like you, DM me with something you\u2019ve built that you\u2019re proud of and why this problem interests you. If someone exceptional comes to mind, please send them my way. Pints on us if you land an interview, or if your recommendation does \ud83c\udf7b ...more ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D5605AQGM00tg2RbGjg/videocover-high/B56Z_uC3AyKoBQ-/0/1786405158081?e=2147483647&v=beta&t=-wft04ouZFCpGkMKwYww2gxHCH3S2ZFkoW9AuvFlp-E",
+        "id": "7492726351066497024"
+      },
+      {
+        "interaction": null,
+        "link": "https://www.linkedin.com/posts/zacharywalton302_hey-network-ive-recently-learned-that-i-activity-7487658086996987906-_UAe",
+        "title": "Hey network, I've recently learned that I won't be able to continue my work-study position at Boston University this fall. I'm excited for the semester ahead, but as anyone who's paid tuition knows, college isn't exactly cheap. My momma always told me to never waste a crisis, so here I am, humbly typing on this keyboard and looking for a part-time remote opportunity starting in September and beyond. Through three internships, research, and personal projects, I've worked across the full data lifecycle, from collection and engineering to analysis and decision-making. By the end of August, I'll be wrapping up my internship at IBM, where I've focused on data and process engineering. Some of my big wins include: \u2022 Automated timesheet, purchase order, and work order workflows, routing data directly to stakeholders and creating significant time and cost savings. \u2022 Independently engineering an MCP server and semantic layer that enables accurate, comprehensive BI dashboard generation from a single LLM prompt. If you're looking for someone with Python, SQL, R, Rust, or Excel skills, need help bringing an idea to life, or simply have an interesting project, I'd love to chat. Feel free to message me directly or reach out via email. Or, if this doesn't apply to you, a repost or comment for better visibility would mean a lot. Thank you! ...more ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQF57VjMIcDLWg/feedshare-shrink_800/B4EZ.l9vMmIAAc-/0/1785195853099?e=2147483647&v=beta&t=vBf5GEoENagSaSr-gK43w-mCPgvFtRJinjVzfy404O0",
+        "id": "7487658086996987906"
+      },
+      {
+        "interaction": "Denali Schlesinger shared this",
+        "link": "https://www.linkedin.com/posts/denalischlesinger_progress-activity-7487220215513051136-Vou5",
+        "title": "https://lnkd.in/guTWNYcF",
+        "img": "https://media.licdn.com/dms/image/sync/v2/D5627AQFHzTbmLmhhSA/articleshare-shrink_800/B56Z.cTAEnIUAY-/0/1785033656184?e=2147483647&v=beta&t=aakTDByfF0CS-NAuzxfJpuozZbdvcs9q7ltIG9JE6qY",
+        "id": "7487220215513051136"
+      },
+      {
+        "interaction": null,
+        "link": "https://www.linkedin.com/posts/denalischlesinger_llms-are-really-bad-at-reasoning-chain-of-activity-7483173624875511808-DNOg",
+        "title": "LLMs are really bad at reasoning. Chain of thought is expensive and internal reasoning circuits are limited. So why not build an architecture specifically for reasoning. That's what Tiny Recursive Models do. They recursively update latent reasoning and answer spaces. And because of this new training and inference procedure we can use smaller models. While Deepseek R1 has ~700 billion parameters it is incapable of playing Sudoko, 0% on sudoko-extreme. A TRM with 7 million parameters achieves 87.4% on the same benchmark. But applying the same weights to the same vectors is deterministic. If we add noise throughout the process we make a Probabilistic Tiny Recursive Model, which achieved 98.75% on sudoku-extreme. I explore these tiny models in this notebook submitted to Marimo\u2019s Notebook Challenge 2. I highly recommend the video explainer although I may be biased. Thanks to the marimo and alphaXiv teams for hosting this challenge and selecting such interesting papers! Paper: https://lnkd.in/gAWrKGxP Video Explainer: https://lnkd.in/gxvZ4jfg ...more",
+        "img": null,
+        "id": "7483173624875511808"
+      },
+      {
+        "interaction": "Denali Schlesinger shared this",
+        "link": "https://www.linkedin.com/posts/denalischlesinger_october-5-2025-activity-7475337921982590977-3US-",
+        "title": "I'm excited to announce that I have been accepted to Founders, Inc. Off Season II. I will be using EMGs to create new ways to interact with computers (see previous work https://lnkd.in/g3E2JVE9 ). I am looking for a co founder! If you are or know anyone interested please let me know. ...more",
+        "img": "https://media.licdn.com/dms/image/sync/v2/D4E27AQGEMxoysMAmcg/articleshare-shrink_800/B4EZm7MI2HIIBE-/0/1759782145747?e=2147483647&v=beta&t=0IrbDOZQZ9yrr4pywJSWJc4L6hEOHw4DvINEr7oJpoE",
+        "id": "5"
+      },
+      {
+        "interaction": null,
+        "link": "https://www.linkedin.com/posts/troy-gwdn_all-my-friends-are-too-busy-so-im-building-activity-7474447980973015040-f-Ut",
+        "title": "All my friends are too busy, so I'm building AI agents to play Minecraft with me instead. I'm at the Y Combinator office right now for HUD 's RSI and RL Environments hackathon - my ninth YC hackathon so far - and I decided to build something fun that'd also teach me more about these technologies. A few years ago, I saw a viral video about AI-powered Minecraft bots that \"simulated civilization.\" They formed \"cultures\" and waged \"wars.\" This piqued my curiosity immediately, and hasn't left my mind since. I thought it would be incredible to simulate factions of intelligent agents roaming an open world, gathering resources, dividing tasks, and achieving goals together. To my dismay, the project was closed-source, and no further updates have come out of it since that original demo. By 2026 standards, the technology available at the time that project was made is already aging. Multimodal LLMs, tool calling, structured output, reasoning, and the exponential improvement of the models overall make this project even more feasible than before - indeed, I think I can do better than the original if I continue beyond this hackathon! So far, the agents are capable of: - Navigating, fighting, gathering resources, and other basic abilities - Long and short-term planning and goals - Communicating with each other (or humans) to share info or divide tasks - Social intelligence - remembering good/bad interactions, holding grudges, etc. - \"Imagining\" and building complex structures Anyways, I'm posting this before the hackathon is even over for two reasons: 1. There's a Most Viral track \ud83d\ude05 2. I'd love to have humans play alongside my agents! If you'd like to play with the agents, comment or DM and I'll share access to a test server very shortly. ...more ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D5605AQHZe5wQL-BV_w/videocover-high/B56Z7qSz19JQBY-/0/1782047261336?e=2147483647&v=beta&t=k0sP3mZIuTDPyz2o45J5oIhjF2mjGQMweVSTffFvV7c",
+        "id": "7474447980973015040"
+      },
+      {
+        "interaction": null,
+        "link": "https://www.linkedin.com/posts/gcorso_big-news-from-boltz-our-biggest-update-activity-7472712734434983936-osws",
+        "title": "Big news from Boltz - our biggest update yet! \ud83d\ude80 Today we\u2019re releasing two new state-of-the-art models for protein design and small molecule hit discovery with extensive wet lab validation and a new API to run all of our models on scalable GPUs wherever you (or your agents) work today! \ud83d\udd25 Read the TLDR below, or check out our blog post: https://lnkd.in/gZSwW7hm \ud83e\uddec BoltzMol-1 \u2014 Our first hit-discovery pipeline for small molecules that leverages an optimized version of Boltz-2 and our new suite of ADMET models for solubility, lipophilicity and permeability. We tested BoltzMol on a set of 10 difficult, previously unseen targets and got confirmed hits on 6, while only testing a small number of compounds for each (28\u201351) \u2013 a fraction of the cost of a traditional screening. \ud83d\udd2c BoltzProt-1 \u2014 Our most powerful pipeline for protein design, powered by our new protein-protein affinity model (BoltzPPI) that prioritizes designs most likely to bind. We tested BoltzProt on a set of hard targets and found the model nearly tripled BoltzGen\u2019s zero-shot nanobody hit rate, and in head-to-head comparisons with other leading proprietary models BoltzProt shows higher success. Beyond binding, we found that 58% of those binders pass a stringent multi-criteria developability panel, on par or better than clinical-stage therapeutic nanobodies. \u26a1 The Boltz API \u2014 The fastest, cheapest and most flexible way to run Boltz models from just $0.025 per prediction on high-performance distributed compute. Built from the ground up for agentic workflows, the API is a powerful new set of primitives for drug discovery and molecular design. We\u2019ve partnered with Anthropic , Benchling , Phylo , Amazon Bio Discovery, Rowan, Tamarind Bio , Kiin Bio , PAULING.AI , Mirror Physics and Cultivarium on first-party integrations so that our newest models and primitives are natively supported in your favorite tool. We\u2019ve also built support for OpenAI Codex and Gemini CLI so you don\u2019t have to choose. As always: you own your inputs and outputs, and we don't train on your data. To celebrate, we're giving $2,000 in API credits to every company and $100 to every academic for the first two weeks. Grab a key at api.boltz.bio and start designing today! Join us for our launch events: Boston (June 18th), San Francisco (June 22nd) and London (July 2nd). Sign-up links in comments. All credit goes to the entire Boltz team. It is humbling and energizing to work every day alongside such a talented, motivated, and focused small team. If you are excited by our mission, join us. You won\u2019t regret it. ...more ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D5605AQGvU-T8EwfANw/videocover-high/B56Z7RonGtKsBM-/0/1781633545686?e=2147483647&v=beta&t=J1A-TfQiMX08XUldDzqD_mn7mahXfswwnn5klj42dac",
+        "id": "7472712734434983936"
+      },
+      {
+        "interaction": "Denali Schlesinger replied to a comment 2w",
+        "link": null,
+        "title": "Aditya Gupta Thinking about it. Currently don't have a clear vision on how to implement it but open to ideas!",
+        "img": null,
+        "id": null
+      },
+      {
+        "interaction": "Denali Schlesinger liked this",
+        "link": "https://www.linkedin.com/posts/pranamanam_with-so-many-exciting-areas-of-ai-advancement-activity-7493311150776934400-A1Ht",
+        "title": "With so many exciting areas of AI advancement, one NeurIPS workshop was not enough. \ud83d\ude05 This year, I\u2019m co-organizing/advising three (two in Sydney \ud83c\udde6\ud83c\uddfa and one in my hometown of Atlanta \ud83c\uddfa\ud83c\uddf8), each on unique topics! \ud83d\udc47 \ud83c\udf71 BeNTo | Sydney \ud83c\udde6\ud83c\uddfa https://lnkd.in/eBi7gxCm With Sophia and Molei , and led by Minhyuk , Jaihoon , along with Subham and Nolan , for everyone thinking beyond autoregressive next-token prediction, this workshop will be all about new generative modalities: discrete diffusion and flows, parallel decoding, optimal transport, Schr\u00f6dinger bridges, inference-time scaling, reward alignment, and more. \ud83e\udd16 \ud83e\uddec GEM | Atlanta \ud83c\uddfa\ud83c\uddf8 https://www.gembio.ai/ For our AIxBio community, with Lauren , Chenghao , Jarrid, Soojung , Jacob , Sidney , and Nick , GEM is back for V4: DNA/RNA/peptide/protein design, biological sequence models, wet-lab validation, and new ML approaches for engineering biology. \ud83e\uddd1\u200d\ud83d\udd2c\ud83e\uddd1\u200d\ud83d\udcbb We\u2019ll also have opportunities for experimental validation (with Adaptyv ) and seed grants! \ud83d\udcb8 \u2697\ufe0f SIMBIOCHEM II | Sydney \ud83c\udde6\ud83c\uddfa https://simbiochem.com/ For the exciting field of simulation + molecular ML crowd, led by the fearless Bruno Trentini and team, our second iteration will focus on molecular dynamics, computational chemistry, biophysics, physics-informed generative models, enhanced sampling, and ML for understanding molecular systems, with GPUs up for grabs! \ud83d\udcbd All three have open calls for papers (due in about two weeks). If you have exciting new work that fits one of these communities, send us your best stuff on OpenReview and come hang out with us at NeurIPS in December! \ud83d\ude80",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQGmN1hhP49gbg/feedshare-image-high-res/B4EZ_2Wx8ZJgAU-/0/1786544595135?e=2147483647&v=beta&t=lrkXsbHsq8eOPtbQcffyU9KZ-EQN9YLY5nvjQ2lZ71I",
+        "id": "7493311150776934400"
+      },
+      {
+        "interaction": "Denali Schlesinger reacted on this",
+        "link": "https://www.linkedin.com/posts/mhsung_neurips2026-neurips2026-generativeai-activity-7493318308755107840-SYvz",
+        "title": "\ud835\uddea\ud835\uddf5\ud835\uddee\ud835\ude01 \ud835\uddf0\ud835\uddfc\ud835\uddfa\ud835\uddf2\ud835\ude00 \ud835\uddee\ud835\uddf3\ud835\ude01\ud835\uddf2\ud835\uddff \ud835\uddfb\ud835\uddf2\ud835\ude05\ud835\ude01-\ud835\ude01\ud835\uddfc\ud835\uddf8\ud835\uddf2\ud835\uddfb \ud835\uddfd\ud835\uddff\ud835\uddf2\ud835\uddf1\ud835\uddf6\ud835\uddf0\ud835\ude01\ud835\uddf6\ud835\uddfc\ud835\uddfb? At #NeurIPS2026 , we are organizing \ud83c\udf71 \ud835\uddd5\ud835\uddf2\ud835\udde1\ud835\udde7\ud835\uddfc: \ud835\uddd5\ud835\uddf2\ud835\ude06\ud835\uddfc\ud835\uddfb\ud835\uddf1 \ud835\udde1\ud835\uddf2\ud835\ude05\ud835\ude01-\ud835\udde7\ud835\uddfc\ud835\uddf8\ud835\uddf2\ud835\uddfb \ud835\udde3\ud835\uddff\ud835\uddf2\ud835\uddf1\ud835\uddf6\ud835\uddf0\ud835\ude01\ud835\uddf6\ud835\uddfc\ud835\uddfb \u2014 \ud835\uddd7\ud835\uddf6\ud835\uddf3\ud835\uddf3\ud835\ude02\ud835\ude00\ud835\uddf6\ud835\uddfc\ud835\uddfb & \ud835\uddd9\ud835\uddf9\ud835\uddfc\ud835\ude04 \ud835\udde0\ud835\uddfc\ud835\uddf1\ud835\uddf2\ud835\uddf9\ud835\ude00 \ud835\uddf3\ud835\uddfc\ud835\uddff \ud835\udde1\ud835\uddf2\ud835\ude05\ud835\ude01-\ud835\uddda\ud835\uddf2\ud835\uddfb\ud835\uddf2\ud835\uddff\ud835\uddee\ud835\ude01\ud835\uddf6\ud835\uddfc\ud835\uddfb \ud835\uddd7\ud835\uddf2\ud835\uddf0\ud835\uddfc\ud835\uddf1\ud835\uddf6\ud835\uddfb\ud835\uddf4, a workshop in \ud835\udde6\ud835\ude06\ud835\uddf1\ud835\uddfb\ud835\uddf2\ud835\ude06 \ud83c\udde6\ud83c\uddfa exploring an increasingly important alternative: \ud835\uddfd\ud835\uddee\ud835\uddff\ud835\uddee\ud835\uddf9\ud835\uddf9\ud835\uddf2\ud835\uddf9, \ud835\uddfb\ud835\uddfc\ud835\uddfb-\ud835\uddf0\ud835\uddee\ud835\ude02\ud835\ude00\ud835\uddee\ud835\uddf9 \ud835\uddf4\ud835\uddf2\ud835\uddfb\ud835\uddf2\ud835\uddff\ud835\uddee\ud835\ude01\ud835\uddf6\ud835\uddfc\ud835\uddfb with diffusion and flow models. \ud83c\udf10 Webpage: https://lnkd.in/gNN8Vpgd The goal is to bring together researchers working across theory, algorithms, language modeling, systems, and scientific applications\u2014and ask a simple but fundamental question: \ud835\uddd6\ud835\uddee\ud835\uddfb \ud835\uddf1\ud835\uddf6\ud835\uddf3\ud835\uddf3\ud835\ude02\ud835\ude00\ud835\uddf6\ud835\uddfc\ud835\uddfb \ud835\uddee\ud835\uddfb\ud835\uddf1 \ud835\uddf3\ud835\uddf9\ud835\uddfc\ud835\ude04 \ud835\uddfa\ud835\uddfc\ud835\uddf1\ud835\uddf2\ud835\uddf9\ud835\ude00 \ud835\uddef\ud835\uddf2\ud835\uddf0\ud835\uddfc\ud835\uddfa\ud835\uddf2 \ud835\uddee \ud835\ude00\ud835\uddf2\ud835\uddff\ud835\uddf6\ud835\uddfc\ud835\ude02\ud835\ude00 \ud835\uddee\ud835\uddf9\ud835\ude01\ud835\uddf2\ud835\uddff\ud835\uddfb\ud835\uddee\ud835\ude01\ud835\uddf6\ud835\ude03\ud835\uddf2 \ud835\ude01\ud835\uddfc \ud835\uddee\ud835\ude02\ud835\ude01\ud835\uddfc\ud835\uddff\ud835\uddf2\ud835\uddf4\ud835\uddff\ud835\uddf2\ud835\ude00\ud835\ude00\ud835\uddf6\ud835\ude03\ud835\uddf2 \ud835\uddf4\ud835\uddf2\ud835\uddfb\ud835\uddf2\ud835\uddff\ud835\uddee\ud835\ude01\ud835\uddf6\ud835\uddfc\ud835\uddfb \ud835\uddf6\ud835\uddfb \ud835\uddf9\ud835\uddee\ud835\uddfb\ud835\uddf4\ud835\ude02\ud835\uddee\ud835\uddf4\ud835\uddf2 \ud835\uddfa\ud835\uddfc\ud835\uddf1\ud835\uddf2\ud835\uddf9\ud835\uddf6\ud835\uddfb\ud835\uddf4, \ud835\uddd4\ud835\udddc \ud835\uddf3\ud835\uddfc\ud835\uddff \ud835\ude00\ud835\uddf0\ud835\uddf6\ud835\uddf2\ud835\uddfb\ud835\uddf0\ud835\uddf2, \ud835\uddfa\ud835\ude02\ud835\uddf9\ud835\ude01\ud835\uddf6\ud835\uddfa\ud835\uddfc\ud835\uddf1\ud835\uddee\ud835\uddf9 \ud835\uddf4\ud835\uddf2\ud835\uddfb\ud835\uddf2\ud835\uddff\ud835\uddee\ud835\ude01\ud835\uddf6\ud835\uddfc\ud835\uddfb, \ud835\uddee\ud835\uddfb\ud835\uddf1 \ud835\uddef\ud835\uddf2\ud835\ude06\ud835\uddfc\ud835\uddfb\ud835\uddf1? We are excited to have an outstanding lineup of \ud835\uddf6\ud835\uddfb\ud835\ude03\ud835\uddf6\ud835\ude01\ud835\uddf2\ud835\uddf1 \ud835\ude00\ud835\uddfd\ud835\uddf2\ud835\uddee\ud835\uddf8\ud835\uddf2\ud835\uddff\ud835\ude00: \u2022 Stefano Ermon \u2014 Stanford University \u2022 Masatoshi Uehara \u2014 OpenAI \u2022 Jiaxin Shi \u2014 Meta Superintelligence Labs \u2022 Guan-Horng Liu \u2014 Meta Superintelligence Labs \u2022 Aditya Grover \u2014 UCLA / Inception \u2022 Arash Vahdat \u2014 NVIDIA Research \ud83d\udce2 \ud835\uddd6\ud835\uddee\ud835\uddf9\ud835\uddf9 \ud835\uddf3\ud835\uddfc\ud835\uddff \ud835\udde3\ud835\uddee\ud835\uddfd\ud835\uddf2\ud835\uddff\ud835\ude00 \ud83d\udcc5 \ud835\udde6\ud835\ude02\ud835\uddef\ud835\uddfa\ud835\uddf6\ud835\ude00\ud835\ude00\ud835\uddf6\ud835\uddfc\ud835\uddfb \ud835\uddf1\ud835\uddf2\ud835\uddee\ud835\uddf1\ud835\uddf9\ud835\uddf6\ud835\uddfb\ud835\uddf2: \ud835\uddd4\ud835\ude02\ud835\uddf4\ud835\ude02\ud835\ude00\ud835\ude01 \ud835\udfee\ud835\udff5, \ud835\udfee\ud835\udfec\ud835\udfee\ud835\udff2 \ud83d\udcdd \ud835\udde2\ud835\uddfd\ud835\uddf2\ud835\uddfb\ud835\udde5\ud835\uddf2\ud835\ude03\ud835\uddf6\ud835\uddf2\ud835\ude04: https://lnkd.in/gFwNCJAz \ud835\udde7\ud835\uddfc\ud835\uddfd\ud835\uddf6\ud835\uddf0\ud835\ude00 \ud835\uddf6\ud835\uddfb\ud835\uddf0\ud835\uddf9\ud835\ude02\ud835\uddf1\ud835\uddf2: \u2192 Discrete & continuous diffusion/flow models \u2192 Diffusion & flow for language modeling \u2192 AI for science \u2192 Multimodal generation \u2192 Reward alignment \u2192 Diffusion & flow samplers \u2192 Schr\u00f6dinger bridges \u2192 Optimal & stochastic control \u2192 Optimal transport \u2192 Foundation models & large-scale training/inference \u2192 Systems & hardware for diffusion and flow models \u2192 Benchmarks & datasets If you are working on diffusion language models, flow models, non-autoregressive generation, efficient decoding, generative modeling for science, or related directions, we would love to see your work. And even if you are firmly on Team Autoregressive, we especially want you in the conversation. Please share with anyone who might be interested! \ud835\uddea\ud835\uddfc\ud835\uddff\ud835\uddf8\ud835\ude00\ud835\uddf5\ud835\uddfc\ud835\uddfd \ud835\uddf0\ud835\uddfc-\ud835\uddfc\ud835\uddff\ud835\uddf4\ud835\uddee\ud835\uddfb\ud835\uddf6\ud835\ude07\ud835\uddf2\ud835\uddf1 \ud835\uddef\ud835\ude06: Minhyuk Sung , Jaihoon Kim , Molei Tao , Pranam Chatterjee , Sophia Tang , Nolan Dey , and Subham Sahoo #NeurIPS2026 #GenerativeAI #DiffusionModels #FlowMatching #LanguageModels #MachineLearning #GenerativeModels",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQHdAhhlgXAKFw/feedshare-shrink_1280/B56Z_2dS_UGQAU-/0/1786546303220?e=2147483647&v=beta&t=chVrxU7v6knrrX4ebJiK2MD5mlDx-AeWvimcaC8ypkM",
+        "id": "7493318308755107840"
+      },
+      {
+        "interaction": "Denali Schlesinger reacted on this",
+        "link": "https://www.linkedin.com/posts/iansun20_nice-webinar-preparing-todays-students-activity-7493293988670672896-0Ml0",
+        "title": "I am speaking at a NICE webinar on September 16! The webinar is titled \"Preparing Today's Students for Tomorrow's Cyber Careers,\" hosted by National Institute of Standards and Technology (NIST) . Faisal Abdullah and I will present \"When Labs Have Stakes\", which was the training approach we shared at the NICE Conference in June, and Rita Sabri will elaborate on her blueprint for teaching cloud security and GenAI to K-12 students. We will discuss how reality- and skills-based education can help students develop capabilities and hands-on experience that employers in 2026 are looking for. You can register for the webinar at this link: https://lnkd.in/ewh_q7sU",
+        "img": "https://media.licdn.com/dms/image/sync/v2/D4E27AQHRRJbsOWml8g/articleshare-shrink_800/B4EZ_0U_PjHMAY-/0/1786510570944?e=2147483647&v=beta&t=PrHyPuRdvQ2u2wMb1HQsX_pwA8nyOwrPyYDNbBsom9A",
+        "id": "7493293988670672896"
+      },
+      {
+        "interaction": "Denali Schlesinger liked this",
+        "link": "https://www.linkedin.com/posts/casey-medert-476a1b282_last-week-i-wrapped-up-my-human-resources-activity-7493326140191756288-KiMA",
+        "title": "Last week, I wrapped up my Human Resources Internship at ProAmpac! This experience was incredibly rewarding and valuable, as I had the opportunity to learn about various HR functions, get involved in multiple projects regarding organizational structure, facilitate an onboarding handoff process, collaborate with others to set the foundation for a rotational program, and much more. I am beyond privileged and thrilled to have experienced a summer full of learning, growth, and collaboration. I\u2019d like to give a special thank you to my manager Lillian Badofsky , who was always willing to help me learn and grow through exposure, involvement, and ownership. I could not be more grateful for the trust she had in me for my first internship. I\u2019d also like to thank Alicia Buchta and Emerson Brashear for not only making the internship experience possible, but also for their guidance and perspectives on projects we collaborated on. Lastly, thank you to my mentor Laurie Mallette for always guiding me in the best direction to achieve my goals, and to my Rotational Program team members\u2014 Lexi Boggess , Andrew Kendall , Samuel Gervasi , Luis Ronquillo Hernandez , Kacper Prus , it was amazing working with you \ud83d\ude01 As I enter my third year of undergrad at Boston University, I aim to take what I learned in and make an impact, while remaining curious and striving to see the value and talent in everyone.",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQEPsNSDgxFzfg/feedshare-image-high-res/B56Z_2kZk6JcAc-/0/1786548167875?e=2147483647&v=beta&t=BrfDShgoDUuqBKuU0R4H9a1sa1lEpxm6xoyYA-3e_lE",
+        "id": "7493326140191756288"
+      },
+      {
+        "interaction": "Denali Schlesinger liked this",
+        "link": "https://www.linkedin.com/posts/carecollaborative-training_undergraduate-opportunity-were-looking-activity-7493042871147581440-Cnsh",
+        "title": "UNDERGRADUATE OPPORTUNITY: We're looking for a new team member! The Care Collaborative team currently has an opening for a HR & Partnerships Project Manager (Remote). Read below for more information, and if you are interested, apply by September 15th by sending an email to support@carecollaborative.cloud with a short introduction about yourself (background, interests, etc) and resume. We will follow up with further information regarding interview scheduling and next steps. We look forward to hearing from you! Care Collaborative is a human compatibility-focused behavioral science research initiative developing AI-powered simulation tools that help organizations train people for the hard, high-stakes conversations they actually face at work. Trainees practice through realistic voice and video scenarios and get detailed feedback on their communication approach, tailored to an organization's specific policies and culture. While we are already active in healthcare, our platform is built to be industry agnostic, and we're now growing our reach across sectors. As we scale, we're looking for someone to help lead the HR and business-oriented side of that growth: connecting with partners, shaping strategy, and helping negotiate the deals that get our platform into new hands. Who we're looking for: - Undergrad students, preferably graduating May 2028 or later - No prior experience or specific major required, but interest in industrial/organizational psychology, communications, marketing, and/or business relations is a plus! - Skills required: professionalism in client communications, organization, strong attention to detail What you'll do: - Reach out to business decision makers to build new partnerships - Help develop strategy for identifying and prioritizing partnership sites - Support negotiations on pricing models - Explain platform features to prospective partners (full platform onboarding, technical support, and client call guidance provided) Details: - Remote, flexible location - Time commitment: minimum 4 hours/week, flexible schedule - Flexible duration - Unpaid, but comes with real access: you'll be on calls with decision makers at top businesses and building a network most undergraduate internships don't offer Want even more information about what we do? Check out our platform website here -> https://lnkd.in/gjvCYuyh and a short (~10min) demo video presented by our prior HR Project Manager, Shivalika Jhabua -> https://lnkd.in/g-xwWB9T Ronald Mikhail AngSiy Pratyaksh Gupta Baiwen Zheng Flora Ma",
+        "img": null,
+        "id": "7493042871147581440"
+      },
+      {
+        "interaction": "Denali Schlesinger liked this",
+        "link": "https://www.linkedin.com/posts/wpwalters_just-a-reminder-the-next-openadmet-webinar-activity-7492792225031127040--rjG",
+        "title": "Just a reminder: the next OpenADMET webinar is on Tuesday, August 11th. Sign up here: https://lnkd.in/gpAeJKiX",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQHQrYT8Dztt9g/feedshare-shrink_800/B56Z_u.05EGQAc-/0/1786420875100?e=2147483647&v=beta&t=K3BjKOP9cLNEzUUhzi70DhSd0ZV31XvUQF1jWUA8czU",
+        "id": "7492792225031127040"
+      },
+      {
+        "interaction": "Denali Schlesinger liked this",
+        "link": "https://www.linkedin.com/posts/arvaan-mukherjee-12389a24a_were-hiring-a-founding-ml-engineer-to-join-activity-7492726351066497024-tACW",
+        "title": "We\u2019re hiring a Founding ML Engineer to join Proteus in San Francisco. We\u2019re building a Biological Intelligence Platform for the autonomous discovery of personalised medicine. Our platform reasons over disease targets, designs therapeutic and diagnostic candidates, and continuously learns from experimental results. We\u2019re looking for someone who: \u2192 Has strong ML engineering fundamentals and can take systems from idea to production \u2192 Has experience with post-training\u2014SFT, RL, preference optimization, evals, reward models, or data pipelines \u2192 Operates with a high degree of autonomy \u2192 Ideally knows biology, although curiosity and the ability to learn quickly matter more \u2192 Wants to leave the world better than they found it Biology experience is valuable, but not required. We care more about what you\u2019ve built, how you think, and whether you take ownership than where you went to school. We\u2019re backed by Founders, Inc. and work in person from their Fort Mason campus. If this sounds like you, DM me with something you\u2019ve built that you\u2019re proud of and why this problem interests you. If someone exceptional comes to mind, please send them my way. Pints on us if you land an interview, or if your recommendation does \ud83c\udf7b",
+        "img": "https://media.licdn.com/dms/image/v2/D5605AQGM00tg2RbGjg/videocover-high/B56Z_uC3AyKoBQ-/0/1786405158081?e=2147483647&v=beta&t=-wft04ouZFCpGkMKwYww2gxHCH3S2ZFkoW9AuvFlp-E",
+        "id": "7492726351066497024"
+      }
+    ],
+    "linkedin_num_id": "1027277828",
+    "banner_image": "https://media.licdn.com/dms/image/v2/D4E16AQGQBrnQVc3sMw/profile-displaybackgroundimage-shrink_200_800/B4EZs0lymPIoAU-/0/1766113884123?e=2147483647&v=beta&t=NxgnTuPzT3w4tuimG6BJamNLQoR8wSHjmIZ5MQHjBlg",
+    "honors_and_awards": [
+      {
+        "title": "USABO Semifinalist + Semifinalist t225",
+        "publication": "Center for Excellence in Education",
+        "date": "2024-03-01T00:00:00.000Z",
+        "description": "Scored in the top 10% of the nationwide USABO Open exam and t225 on the Semifinalist exam. My favorite topics covered on the test were cell biology, human anatomy, and plant physiology!"
+      },
+      {
+        "title": "Lexhack 2023 1st Place + Most Socially Impactful",
+        "publication": "Lexhack",
+        "date": "2023-11-01T00:00:00.000Z",
+        "description": "Won first place and the most socially impactful award at Lexhack 2023. Created a website that takes the URL of a news article and shows biased paragraphs then finds opposing articles covering the same event."
+      },
+      {
+        "title": "National Merit Commended Student",
+        "publication": "National Merit Scholarship Program",
+        "date": "2023-09-01T00:00:00.000Z",
+        "description": "Scored in the top 50,000 PSAT takers nationally"
+      }
+    ],
+    "similar_profiles": [],
+    "default_avatar": false,
+    "memorialized_account": false,
+    "bio_links": [
+      {
+        "title": "Portfolio",
+        "link": "https://denalischlesinger.com/?theme=sapphire"
+      }
+    ],
+    "first_name": "Denali",
+    "last_name": "Schlesinger",
+    "influencer": false,
+    "timestamp": "2026-08-12T19:00:14.313Z",
+    "input": {
+      "url": "https://www.linkedin.com/in/denalischlesinger"
+    }
+  },
+  "local_photo": "data\\linkedin_photos\\denalischlesinger__usr-cjo4QnfFwrGsxrg.jpg"
+}

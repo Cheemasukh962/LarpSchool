@@ -1,0 +1,136 @@
+{
+  "luma_user_id": "usr-Bkm8UKL8p08e2fy",
+  "csv_name": "Erol Cetinok",
+  "csv_linkedin": "https://www.linkedin.com/in/erol-cetinok-387830348",
+  "enriched_at": "2026-08-12T19:06:01.799357+00:00",
+  "batch_id": "sd_msqgh02428smzgu5m",
+  "profile": {
+    "id": "erol-cetinok-387830348",
+    "name": "Erol Cetinok",
+    "city": "San Francisco Bay Area",
+    "country_code": "US",
+    "position": null,
+    "about": null,
+    "current_company": {
+      "link": "https://www.linkedin.com/company/ceramicai?trk=public_profile_topcard-current-company",
+      "name": "Ceramic.ai",
+      "company_id": "ceramicai",
+      "location": null
+    },
+    "experience": null,
+    "url": "https://my.linkedin.com/in/Erol-cetinok-387830348",
+    "educations_details": "Yale University",
+    "education": [
+      {
+        "title": "Yale University",
+        "url": "https://www.linkedin.com/school/yale-university/",
+        "start_year": "2026",
+        "end_year": "2030",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      },
+      {
+        "start_year": "2019-09",
+        "end_year": "2026-05",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      }
+    ],
+    "avatar": "https://media.licdn.com/dms/image/v2/D4E03AQE-0DqiqvGqXg/profile-displayphoto-scale_200_200/B4EZ9EIV9OKIAc-/0/1783554469284?e=2147483647&v=beta&t=Gc77RFmzlaCqHPhu-46cvwSjz6Xp4z30hYk25pFNp-A",
+    "volunteer_experience": [
+      {
+        "duration": "Apr 2025 \u00b7 - Present \u00b7 \n\n1 year 5 months",
+        "duration_short": "- Present",
+        "info": "CIP '25, '26 Teaching introductory computer science in Python, including flow control, data structures, and algorithms, to students around the world. Guided students on enhancing their coding skills and helped them problem-solve and debug.",
+        "start_date": "Apr 2025",
+        "subtitle": "Stanford University: Code In Place",
+        "title": "Section Leader"
+      }
+    ],
+    "followers": 396,
+    "connections": 396,
+    "current_company_company_id": "ceramicai",
+    "current_company_name": "Ceramic.ai",
+    "projects": [
+      {
+        "title": "Full-Stack Quadruped Robot",
+        "start_date": "Jan 2026",
+        "description": "Engineered a 12-DoF quadruped robot spanning CAD design, Arduino/C++ firmware, and a Python control stack, with analytic inverse kinematics and a gait generator (Raibert foothold planning, B\u00e9zier swing trajectories), validated in MuJoCo through a swappable sim/hardware backend."
+      },
+      {
+        "title": "Personal Website: erolcetinok.com",
+        "start_date": "Dec 2025",
+        "description": "Designed and built a personal portfolio site with Next.js 16 (App Router), React 19, TypeScript, and Tailwind v4, featuring file-based MDX content, light/dark theming via CSS custom properties and the View Transitions API, and a serverless contact form. Deployed on Vercel."
+      },
+      {
+        "title": "RoboForAll - Open-Source Classroom Robotics Kit",
+        "start_date": "Jan 2026",
+        "description": "Built RoboForAll, a fully replicable, low-cost educational robot (ESP32, TB6612FNG motor driver, and a 3D-printed chassis) paired with a web platform at roboforall.org featuring a Blockly programming Studio, a drop-in classroom curriculum, and an in-browser simulator for schools without hardware; shaped by interviews with STEM educators to put hands-on robotics in front of elementary students at a fraction of commercial-kit cost."
+      },
+      {
+        "title": "FIRST Robotics Competition - Team 751 (Barn2Robotics)",
+        "start_date": "Aug 2022",
+        "description": "Designed and manufactured a competition subsystem every season for four years on FRC Team 751. Including passive and articulating intakes, holding chambers, and the team's first in-tube elevator in six years, engineering each in SolidWorks for CNC, mill, and lathe fabrication in polycarbonate, box tubing, and 3D-printed parts; executed a complete intake redesign in under 10 days after a competition failure and mentored the next generation of component leads as a senior."
+      },
+      {
+        "title": "Omnidirectional Radial Microspine Gripper",
+        "start_date": "Dec 2025",
+        "description": "Designed and built a scaled-down, omnidirectional microspine gripper inspired by NASA JPL's LEMUR 3, arranging 40 fishing-hook microspines radially around a spring-loaded central plunger so each spine loads independently and the gripper holds onto rough surfaces regardless of pull direction."
+      },
+      {
+        "title": "Bio-Inspired Wall-Climbing Robot",
+        "start_date": "Oct 2025",
+        "description": "Designed and built a microspine wall-climbing robot inspired by JPL's compliant-roller climbers, pairing a 3D-printed chassis and roller-mounted compliant mechanisms with RC-car electronics, and repurposing 3D-printer nozzle-cleaning needles as a low-cost alternative to gecko-inspired microspines."
+      },
+      {
+        "title": "Custom Hardtail Conversion Linkage",
+        "start_date": "Nov 2024",
+        "description": "Engineered and fabricated a custom aluminum linkage to convert a full-suspension mountain bike into a hardtail. Measured the frame's geometry, iterated 3D-printed prototypes, and optimized for weight and stiffness with finite element analysis. The final part was CNC-machined and anodized; the modified bike is now in regular use."
+      },
+      {
+        "title": "Long Distance Running & Gravel Biking",
+        "description": "\u2022 Bay to Breakers 15K (May 2026, 2nd in age group U19, 31st of 3658)\u2022 Woodside Ramble Half Marathon (December 2024, 5th in age group U20, 14th place of 136)\u2022 Golden Gate Double 8K Race (August 2024, 2nd in age group U20, 4th place of 78)\u2022 Pacifica Foothills Half Marathon (May 2024, 4th in age group U20, 13th place of 73)\u2022 Sea Otter Classic 50-mile Gravel Race (April 2024)\u2022 Redtail Ridge Half Marathon (February 2024, 2nd in age group U20, 11th place of 65)"
+      }
+    ],
+    "location": null,
+    "input_url": "https://www.linkedin.com/in/erol-cetinok-387830348",
+    "linkedin_id": "erol-cetinok-387830348",
+    "activity": null,
+    "linkedin_num_id": "1459213591",
+    "banner_image": "https://media.licdn.com/dms/image/v2/D4E16AQFYVHxn8vHBrg/profile-displaybackgroundimage-shrink_200_800/B4EZ9EG82yKIAQ-/0/1783554101013?e=2147483647&v=beta&t=PBtxh4GsY8YWoTvoMYPrS8qcW9JModbMeVclKNfhsRc",
+    "honors_and_awards": [
+      {
+        "title": "Computer Science Department Award",
+        "publication": "-",
+        "date": "2026-05-01T00:00:00.000Z",
+        "description": null
+      },
+      {
+        "title": "History and Social Sciences Department Award",
+        "publication": "-",
+        "date": "2025-05-01T00:00:00.000Z",
+        "description": null
+      },
+      {
+        "title": "Model United Nations",
+        "publication": "-",
+        "date": null,
+        "description": "\u2022 Commendation at Berkeley Model United Nations 2026 \u2022 Best Research at Silicon Valley Model United Nations 2026 \u2022 Best Delegate at Silicon Valley Model United Nations 2025 \u2022 Outstanding Delegate at Berkeley Model United Nations 2025 \u2022 Outstanding Delegate at Priory Model United Nations 2025 \u2022 Outstanding Delegate at Priory Model United Nations 2025"
+      }
+    ],
+    "similar_profiles": [],
+    "default_avatar": false,
+    "memorialized_account": false,
+    "bio_links": [],
+    "first_name": "Erol",
+    "last_name": "Cetinok",
+    "influencer": false,
+    "timestamp": "2026-08-12T19:01:58.383Z",
+    "input": {
+      "url": "https://www.linkedin.com/in/erol-cetinok-387830348"
+    }
+  },
+  "local_photo": "data\\linkedin_photos\\erol-cetinok-387830348__usr-Bkm8UKL8p08e2fy.jpg"
+}

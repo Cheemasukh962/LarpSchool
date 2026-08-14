@@ -1,0 +1,284 @@
+{
+  "luma_user_id": "usr-WGu9wdJd1uCOFZu",
+  "csv_name": "Christopher Zarraga",
+  "csv_linkedin": "https://www.linkedin.com/in/christopher-zarraga",
+  "enriched_at": "2026-08-12T19:26:51.912713+00:00",
+  "batch_id": "sd_msqhb4pfm4l4la4zs",
+  "profile": {
+    "id": "christopher-zarraga",
+    "name": "Christopher Zarraga Jimenez",
+    "city": "San Francisco Bay Area",
+    "country_code": "US",
+    "position": null,
+    "about": "Hi! I'm a Computer Science student at UCSC and a Sabatte Family Full-Ride Scholar! I love\u2026",
+    "current_company": {
+      "link": "https://www.linkedin.com/company/tech4good-ucsc?trk=public_profile_topcard-current-company",
+      "name": "Tech4Good @ UCSC",
+      "company_id": "tech4good-ucsc",
+      "location": null
+    },
+    "experience": null,
+    "url": "https://cz.linkedin.com/in/christopher-zarraga",
+    "educations_details": "University of California, Santa Cruz",
+    "education": [
+      {
+        "title": "University of California, Santa Cruz",
+        "url": "https://www.linkedin.com/school/ucsc/",
+        "start_year": "2024-09",
+        "end_year": "2028-06",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      },
+      {
+        "start_year": "2023-09",
+        "end_year": "2024-04",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      },
+      {
+        "start_year": "2021-08",
+        "end_year": "2024-06",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      }
+    ],
+    "recommendations_count": 1,
+    "avatar": "https://media.licdn.com/dms/image/v2/D5603AQEM9TswOfXCeQ/profile-displayphoto-scale_200_200/B56ZjPqucWHkAc-/0/1755830741244?e=2147483647&v=beta&t=DVXy6mLKRoOkettiUnF59oM4C_U-G9dSAwxwX2rIqOQ",
+    "courses": [
+      {
+        "subtitle": "CSE 102",
+        "title": "Algorithm Analysis"
+      },
+      {
+        "subtitle": "CSE 140",
+        "title": "Artificial Intelligence"
+      },
+      {
+        "subtitle": "CSE 130",
+        "title": "Computer Systems Design"
+      },
+      {
+        "subtitle": "CSE 13s",
+        "title": "Computer Systems and C Programming"
+      },
+      {
+        "subtitle": "CSE 101",
+        "title": "Data Structures and Algorithms"
+      },
+      {
+        "subtitle": "CSE 40",
+        "title": "Machine Learning: Data Analysis and Empirical Methods"
+      },
+      {
+        "subtitle": "CSE 101M",
+        "title": "Mathematical Thinking for Computer Science"
+      },
+      {
+        "subtitle": "CSE 113",
+        "title": "Parallel & Concurrent Systems"
+      },
+      {
+        "subtitle": "CSE115A",
+        "title": "Software Engineering"
+      }
+    ],
+    "languages": [
+      {
+        "subtitle": "Native or bilingual proficiency",
+        "title": "English"
+      },
+      {
+        "subtitle": "Native or bilingual proficiency",
+        "title": "Spanish"
+      }
+    ],
+    "certifications": [
+      {
+        "meta": "Issued Jun 2026 See credential",
+        "subtitle": "Google",
+        "title": "Google AI Essentials",
+        "credential_url": "https://www.credly.com/badges/aa868193-a078-448c-a025-7c26ebf67036/linked_in_profile?trk=public_profile_see-credential",
+        "credential_id": null
+      },
+      {
+        "meta": "Issued Jun 2026 Credential ID FPKUUQDON1AV See credential",
+        "subtitle": "Google",
+        "title": "Google AI Professional",
+        "credential_url": "https://www.coursera.org/account/accomplishments/specialization/FPKUUQDON1AV?trk=public_profile_see-credential",
+        "credential_id": "FPKUUQDON1AV"
+      },
+      {
+        "meta": "Issued Oct 2025",
+        "subtitle": "American Red Cross",
+        "title": "Adult and Pediatric First Aid/CPR/AED",
+        "credential_url": null,
+        "credential_id": null
+      },
+      {
+        "meta": "Issued Oct 2025 Credential ID CERT-02302581 See credential",
+        "subtitle": "Simple Learning Systems",
+        "title": "Child Abuse & Neglect Mandated Reporter Training",
+        "credential_url": "https://mandatedreportertraining.com/validate/child-abuse?cert=253caf6b-9171-4d83-9e66-3c18f07a2686-2302581&trk=public_profile_see-credential",
+        "credential_id": "CERT-02302581"
+      },
+      {
+        "meta": "Issued Jul 2025 See credential",
+        "subtitle": "IBM",
+        "title": "Software Engineering Certification",
+        "credential_url": "https://www.credly.com/badges/a01ee6e1-af93-48a0-b5bf-5bcbb0bb09c5/linked_in_profile?trk=public_profile_see-credential",
+        "credential_id": null
+      }
+    ],
+    "recommendations": [
+      "Srushti C. \u201cChris was the Product Owner for our project, VeriFi, and led development of the custom C++ vector store. He designed and implemented the core similarity search system that loaded document embeddings, computed cosine similarity, and returned the most relevant policy excerpts to the rest of the pipeline. He brought strong systems level thinking to the project and helped ensure that each component integrated into a functional end to end product. Chris also kept the team aligned on priorities, showed strong initiative, and consistently helped resolve technical and integration issues. He is a reliable engineer and teammate, and I would gladly work with him again!\u201d"
+    ],
+    "followers": 794,
+    "connections": 500,
+    "current_company_company_id": "tech4good-ucsc",
+    "current_company_name": "Tech4Good @ UCSC",
+    "projects": [
+      {
+        "title": "VeriFi",
+        "start_date": "Jun 2026",
+        "description": "VeriFi \u2014 A C++ and React RAG chatbot that grounds answers in verified policy documents Product Owner & Vector Store Engineer \u00b7 5-person Agile team \u00b7 Live demoCustomer-facing chatbots hallucinate on dense policy questions \u2014 a regulatory and financial liability \u2014 and keyword search doesn't help, since it matches strings, not meaning. VeriFi constrains an LLM to answer only from passages retrieved at query time from verified Fidelity Investments policy documents, citing the document and page behind every claim.Offline, a Python pipeline extracts layout-aware text from PDFs with PyMuPDF, chunks it semantically, and embeds each chunk into a 384-dim vector via Sentence Transformers (all-MiniLM-L6-v2) \u2014 580 chunks, 59 pages. Per query, the question is embedded the same way, the C++ store ranks every chunk by cosine similarity and returns the top-K, and those passages plus a grounding prompt go to gpt-4o-mini. The React UI shows citations and match scores.My contribution: I owned the vector store \u2014 the core retrieval engine \u2014 and built it from scratch in C++17 rather than reaching for Pinecone or FAISS. I implemented the in-memory store and its load_from_jsonl parser (nlohmann/json), cosine similarity from its primitives (dot product, magnitude), and the O(N) brute-force k-NN search() with descending-score ranking. I added dimension and empty-input guardrails that fail loudly instead of returning silently wrong matches, property-based tests for self-retrieval correctness, and a benchmark harness measuring load and search throughput, then exposed the store to Python via a JSON-over-stdio CLI the FastAPI backend drives as a subprocess.As Product Owner: set scope, wrote the architecture docs, reviewed and merged every PR, ran the release across four sprints, and built the GitHub Actions workflow deploying the demo to GitHub Pages.Stack: C++17 \u00b7 Python \u00b7 FastAPI \u00b7 Sentence Transformers \u00b7 OpenAI API \u00b7 React 19 \u00b7 TypeScript \u00b7 Vite \u00b7 pytest \u00b7 GitHub Actions"
+      },
+      null,
+      null,
+      {
+        "title": "NVPilot",
+        "start_date": "May 2026",
+        "description": "NVPilot is like personalized medicine for your PC. Just as a doctor doesn't prescribe the same treatment to every patient, NVPilot doesn't apply the same settings to every machine \u2014 it reads your specific hardware, figures out what's actually holding your system back, and applies exactly the optimizations your machine needs for whatever you're running.Instead of nerfing your graphics like a one-size-fits-all preset, it identifies which settings are genuinely costing you performance on your GPU specifically, changes only those, and leaves everything else at full quality. It reasons about your whole system together \u2014 background apps eating your RAM, process priority, power plans, and game configs \u2014 rather than tuning each in isolation, so every optimization accounts for what's actually happening elsewhere on your machine."
+      },
+      {
+        "title": "multithreaded-http-server",
+        "start_date": "Apr 2026",
+        "description": "Engineered a highly concurrent HTTP server from scratch in C to handle rigorous, simultaneous client requests. Designed a robust threading model utilizing POSIX threads, implementing a thread pool over a bounded producer-consumer work queue. To ensure safe concurrent access and eliminate data races, I engineered fine-grained synchronization using per-URI reader-writer locks."
+      },
+      {
+        "title": "Neural-Inference-Engine",
+        "start_date": "Apr 2026",
+        "description": "This project is about understanding how neural network inference actually works \u2014 not by calling into a library, but by implementing the forward pass myself in C++.I train a small MNIST MLP in PyTorch (784 \u2192 128 \u2192 64 \u2192 10), export the learned weights to a flat binary format, then run inference in a hand-written C++ engine with no ML libraries at runtime. That means owning the core pieces end to end: matrix multiply, bias add, ReLU, and argmax, plus loading the PyTorch-exported weights into the network.The goal isn\u2019t just \u201cget MNIST working.\u201d It\u2019s to build a clear path from training \u2192 weight export \u2192 CPU inference, prove the C++ engine matches the PyTorch baseline numerically, and then optimize for real performance (SIMD, multithreading) with a CUDA port planned after the CPU path is validated.Right now, training/export and the C++ forward path (including weight loading) are in place and unit-tested; the next milestone is sample-level validation against PyTorch on the full test set."
+      },
+      {
+        "title": "Perspective Paint & Design Platform",
+        "start_date": "Jul 2025",
+        "description": "Independently prospected and secured a freelance engagement with a San Diego-based painting company through cold outreach. Designed, built, and deployed a fully responsive website from initial proposal to production.Built a custom CMS with 20+ project gallery, secure contact forms, and Netlify deploymentBoosted web performance and SEO metrics by 45% through caching, asset compression, and optimized metadataDeveloped interactive front-end with async video backgrounds, image galleries, and optimized animationsHTML5 | CSS3 | JavaScript | Netlify Forms | Google Maps API"
+      },
+      {
+        "title": "Limit Order Book - Custom Limit Implementations"
+      }
+    ],
+    "location": null,
+    "input_url": "https://www.linkedin.com/in/christopher-zarraga",
+    "linkedin_id": "christopher-zarraga",
+    "activity": [
+      {
+        "interaction": "Christopher Zarraga Jimenez shared this",
+        "link": "https://www.linkedin.com/posts/christopher-zarraga_im-excited-to-share-that-i-have-been-accepted-activity-7481049095017553920-evWp",
+        "title": "I'm excited to share that I have been accepted to attend Y Combinator's 2027 Summer Internship Expo this August in SF!! If you'll be there, or you're building something related to AI infrastructure, systems, or performance \u2014 I'd love to connect! See you there, Y Combinator \ud83d\ude80",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQET-zz9GD40ng/feedshare-shrink_800/B56Z9IGgjeGcAc-/0/1783621094039?e=2147483647&v=beta&t=IHSdkm6vLkHrFTuCdnw9BZMdWOhB1YmCjyFT4oZhPZk",
+        "id": "7481049095017553920"
+      },
+      {
+        "interaction": "Christopher Zarraga Jimenez shared this",
+        "link": "https://www.linkedin.com/posts/christopher-zarraga_i-finally-deployed-nvpilot-the-idea-was-activity-7480880046530801664-YPtA",
+        "title": "I finally deployed NVPilot!! The idea was born at the NVIDIA \u00d7 ASUS Hackathon at UCSC. My team ultimately pivoted away from it \u2014 but I did not want to let it go, so I finished it on my own time :) NVPilot is an autonomous performance agent for your PC. It reads your GPU's live telemetry, figures out what's actually holding your system back, and applies surgical, fully reversible optimizations \u2014 every change is journaled with its inverse, so one command undoes everything. A local LLM (Ollama) proposes the plan; deterministic code validates and clamps every action, and a rule engine takes over if the LLM is offline. Building it taught me a lot about how AI is changing software engineering workflows. The biggest lesson I learned: agents are a tool, not a replacement. The LLM plans \u2014 the code decides. That principle is shown within NVPilot's architecture, and lowkey, how I approached building it too. Feel free to check it out: https://lnkd.in/gzRD9pHt Source: https://lnkd.in/gnQNBD8S TypeScript \u00b7 Node.js \u00b7 NVML/nvidia-smi \u00b7 Ollama Baskin Engineering at UCSC NVIDIA",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQEiYR9vVZGF5A/feedshare-shrink_800/B56Z9FswtdGQAc-/0/1783580789831?e=2147483647&v=beta&t=VhUXwnmnHZoI7MB_XQESAWZZbAEIjJbV0Q-o1kPlQ_o",
+        "id": "7480880046530801664"
+      },
+      {
+        "interaction": null,
+        "link": "https://www.linkedin.com/posts/paoloperrone_cuda-has-a-brutal-learning-curve-i-got-through-activity-7466238192380448768-j5eW",
+        "title": "CUDA has a brutal learning curve. I got through it in 4 books No bootcamp. No course. No subscription. Just the curriculum NVIDIA engineers actually came up on. 1\ufe0f\u20e3 CUDA by Example Jason Sanders and Edward Kandrot. The on-ramp. Play with your GPU. Admire what it can do. Build intuition before you build kernels. 2\ufe0f\u20e3 Programming Massively Parallel Processors David B. Kirk and Wen-mei W. Hwu. The bible. You don't go into GPU programming without it. This is where the mental model gets built. 3\ufe0f\u20e3 CUDA Application Design and Development Rob Farber. The concepts book. Grasp the architecture, the memory hierarchy, the design patterns. Set up everything that comes next. 4\ufe0f\u20e3 CUDA Programming: A Developer's Guide to Parallel Computing Shane Cook. The application book. Picks up where Farber leaves off and shows you what every concept looks like in code. The order matters. Sanders builds curiosity. Kirk builds foundations. Farber builds concepts. Cook builds applications. By book 4, you're not learning CUDA. You're writing it. GPU programming pays $400K+ at NVIDIA. The books cost $200 total. \ud83d\udcbe Bookmark this before you pay $4K for a CUDA bootcamp. \u267b\ufe0f Repost for the engineer who keeps saying \"I'd learn CUDA if I had time.\"",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQEguoKfdRdEUA/feedshare-shrink_800/B56Z51gh4oIoAg-/0/1780087923039?e=2147483647&v=beta&t=VWX7_fhk0BXPEDZ2PaCIkK-q9JZN-_d92sdwCc05yLk",
+        "id": "7466238192380448768"
+      },
+      {
+        "interaction": "Christopher Zarraga Jimenez shared this",
+        "link": "https://www.linkedin.com/posts/christopher-zarraga_software-engineering-essentials-was-issued-activity-7354358864265310208-EEtX",
+        "title": null,
+        "img": "https://media.licdn.com/dms/image/v2/D5610AQH12rsIvBMN_A/image-shrink_800/B56Zg_uamdG4Ak-/0/1753415790433?e=2147483647&v=beta&t=mAQla_KosRLkz2CBuzm8ZCu3noWcnD6jgAh0X5SCgKQ",
+        "id": "7354358864265310208"
+      },
+      {
+        "interaction": "Christopher Zarraga Jimenez shared this",
+        "link": "https://www.linkedin.com/posts/christopher-zarraga_im-happy-to-share-that-ive-started-my-program-activity-7109729756899676160-pev9",
+        "title": "I\u2019m happy to share that I\u2019ve started my program at The Coding School! Grateful for the opportunity",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQHyhICvRgQimQ/feedshare-image-high-res/feedshare-image-high-res/0/1695091665522?e=2147483647&v=beta&t=yeTRAtF6ri0Uqz6D8dZewA_f9rd3e_NOkmFa_QGSgs0",
+        "id": "7109729756899676160"
+      },
+      {
+        "interaction": "Christopher Zarraga Jimenez liked this",
+        "link": "https://www.linkedin.com/posts/mariagorskikh_yesterday-felt-like-the-perfect-snapshot-activity-7487648316051279874-Cspv",
+        "title": "Yesterday felt like the perfect snapshot of why I moved to SF In the morning I stopped by the Y Combinator Startup School, and it was incredible to see so many ambitious people in one place, especially so many young founders already choosing to build. My biggest takeaway: just do things. Don\u2019t overthink everything. Start building the future you want to exist. It's now or never... Then we hosted the first Sundai in SF!! Sundai has shaped a big part of my life as a founder. I met both my co-founder Aryaman Shrivastava and our founding engineer Brandon Li at Sundai . Many of us started building together in Boston, and now, as more Sundai hackers and startups move to SF, we are bringing the community with us! Yesterday\u2019s SF Sundai was hosted at The Foundry hacker house with Maritime and Autolab (both out of sundai and mit) At the same time, Sundai was still happening in Boston! Brandon Li led the Boston group while we ran the SF meetup in parallel. It was very cool to see the same community building agents on Maritime together on both coasts. SF has an unbelievable number of events, but it can still be difficult to actually get to know people. Sundai is different because we meet every single Sunday. We work together, hack, test new tools, and slowly become close friends, not just people who recognize each other from events. We are going to keep doing this every Sunday (as we have for the past 2 years!), and we are looking for more companies to hack with us. If you are building something cracked and want a room full of developers to try it, break it, and build with it, come hack with us :)",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQE83niHRFrtOg/feedshare-shrink_800/B4EZ.l4dUTGgAc-/0/1785194470848?e=2147483647&v=beta&t=RFl7ly2d0MehhThRlab-l3AK1W6p7jhFmJ8c2O9kh5Q",
+        "id": "7487648316051279874"
+      },
+      {
+        "interaction": "Christopher Zarraga Jimenez liked this",
+        "link": "https://www.linkedin.com/posts/mariagorskikh_three-weeks-ago-i-finally-moved-to-sf-a-activity-7483671336679301120-BwZI",
+        "title": "Three weeks ago, I finally moved to SF A lot of people had been telling me to make the move, especially because we're building Maritime, cloud infrastructure for AI agents, and SF is currently the epicenter of that ecosystem. Three things I have learned so far: 1 / Being able to meet people for coffee really matters. I DMed the Series C founder of one of my favorite developer tools, asked if he wanted to grab coffee, and met him a few days later. That kind of access and openness is difficult to replicate anywhere else. 2 / Events are a real sales channel. There are almost too many events here, and I am still figuring out which ones are actually worth attending. But when your customers are other startups and founders, being in the same room as them matters. Events are not just networking. They are distribution. 3 / The energy changes how I work. In Boston, life often follows the academic calendar. Things restart in the fall, slow down around breaks, and become quieter during the summer. In SF, there barely seem to be seasons or weekends. Everyone is on the same build-every-day schedule, and time moves incredibly fast. So far, I really love the move. On another note, we're opening Maritime to the public. If you are building an AI agent startup and need to host thousands of independent agents for your customers, reach out. I will prioritize onboarding the first teams.",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQHlcemfQDGaKw/feedshare-shrink_800/B4EZ9tXbC9HkAc-/0/1784246285134?e=2147483647&v=beta&t=IMHyEQin2FoJF5gjemzXXaNHyj6OxwPuewLy56SLutE",
+        "id": "7483671336679301120"
+      },
+      {
+        "interaction": "Christopher Zarraga Jimenez liked this",
+        "link": "https://www.linkedin.com/posts/christopher-zarraga_i-finally-deployed-nvpilot-the-idea-was-activity-7480880046530801664-YPtA",
+        "title": "I finally deployed NVPilot!! The idea was born at the NVIDIA \u00d7 ASUS Hackathon at UCSC. My team ultimately pivoted away from it \u2014 but I did not want to let it go, so I finished it on my own time :) NVPilot is an autonomous performance agent for your PC. It reads your GPU's live telemetry, figures out what's actually holding your system back, and applies surgical, fully reversible optimizations \u2014 every change is journaled with its inverse, so one command undoes everything. A local LLM (Ollama) proposes the plan; deterministic code validates and clamps every action, and a rule engine takes over if the LLM is offline. Building it taught me a lot about how AI is changing software engineering workflows. The biggest lesson I learned: agents are a tool, not a replacement. The LLM plans \u2014 the code decides. That principle is shown within NVPilot's architecture, and lowkey, how I approached building it too. Feel free to check it out: https://lnkd.in/gzRD9pHt Source: https://lnkd.in/gnQNBD8S TypeScript \u00b7 Node.js \u00b7 NVML/nvidia-smi \u00b7 Ollama Baskin Engineering at UCSC NVIDIA",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQEiYR9vVZGF5A/feedshare-shrink_800/B56Z9FswtdGQAc-/0/1783580789831?e=2147483647&v=beta&t=VhUXwnmnHZoI7MB_XQESAWZZbAEIjJbV0Q-o1kPlQ_o",
+        "id": "7480880046530801664"
+      },
+      {
+        "interaction": "Christopher Zarraga Jimenez liked this",
+        "link": "https://www.linkedin.com/posts/casushin_formula-slugs-2025-2026-season-has-come-activity-7475216944577556480-aroR",
+        "title": "Formula Slug 's 2025-2026 season has come to a close. After fighting tooth and nail through each technical inspection: We failed the Brakes Test by less than 3 mph, and didn't get to race our car in Michigan. Many months of conquering several hurdles we genuinely thought were impossible to overcome resulted in us leaving MIS without touching the racetrack. But, not a single one of us thought that this season ended in vain. This past year, our engineers pulled out every stop in order to make us as competitive as possible: An entirely revised suspension system. A fully custom battery, built in-house. A complete aerodynamics package. All of this at one tenth of the budget of some top teams. FS-4 was so distinct from our previous car, you wouldn't even know they were made by the same team. This fiery bunch of young students from University of California, Santa Cruz became the second highest-scoring UC school in design, proving that we have the skills to compete at the highest level. A massive thank-you to all of our sponsors, donors, advisors, and members that made this year possible. The outcome might not have been what we imagined, but even with our heads hung low, our team spirit has never been stronger. Since we've learned so much this past season, the next will not be anything but exceptional. There will be many, many eyes watching us at competition next year. Keep 'em open. We'll show you what Formula Slug can do.",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQHnQZKeWnQTvA/feedshare-shrink_800/B56Z71OMg4HYAg-/0/1782230600610?e=2147483647&v=beta&t=E6fLtzXih0sGPbbscbLIO_43BTHfzK5fW3rr7YMjuJk",
+        "id": "2025"
+      },
+      {
+        "interaction": "Christopher Zarraga Jimenez liked this",
+        "link": "https://www.linkedin.com/posts/ucsc-ai-computerscience-activity-7478468241049210880-AlgC",
+        "title": "Honoured to deliver guest lectures for the Computer Science degree program at the University of California, Santa Cruz on AI and Product Delivery. AI will not replace these bright students, but they will leverage AI to radically change the world on their own. I see it. Uplifting! #UCSC #AI #ComputerScience #Mentorship #GenerativeAI #Scrum University of California, Santa Cruz InstaMart AI Inc",
+        "img": null,
+        "id": "7478468241049210880"
+      },
+      {
+        "interaction": "Christopher Zarraga Jimenez liked this",
+        "link": "https://www.linkedin.com/posts/saronekelete_linkedinlife-linkedinterns-ucsc-activity-7478202252608962561-JOYv",
+        "title": "I'm excited to share some news \u2014 back in October I accepted a full-time offer to join LinkedIn as a Software Engineer, and I start in just a few weeks!\ud83c\udf89\ud83e\udd73\ud83c\udf7e I also graduated with a BS in Computer Science! UCSC holds such a special place in my heart. It was such a privilege being the Research Pathways Coordinator for Baskin Engineering at UCSC , a Chancellor's Undergraduate Intern under Cynthia Larive , Regent Scholar, NSBE Professionals | National Society of Black Engineers Board Member, Mathematics, Engineering, Science Achievement (MESA) program Peer Staff, Learning Support Services and Baskin Engineering at UCSC Tutor (under the amazing Dr. Veenstra!!), and last but not least Researcher at Tech4Good @ UCSC (under David T. Lee ). To stay in touch with my creative side, I was also the KZSC Santa Cruz Digital Librarian and a DJ. I loved every second of being a part of this beautiful community and will miss it a ton. We spent so many nights goofing off in the station, listening to the latest album release, dancing, doing karaoke, movie/craft nights, I could go on forever tbh. If youre at UCSC, please stop by and consider volunteering, and make sure to tune into 88.1 or kzsc.fm/listen !! All of these experiences helped me become such a well-rounded person with a lot of skills under my belt. I truly couldn't have done it without these orgs and, of course, the friends I made along the way that made it so, so fun. Looking forward to what's next! \u2728 #LinkedInLife #LinkedInterns #UCSC #IJustGraduatedCollege #WOOOOO",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQEHQIgm2l_gxw/feedshare-shrink_800/B56Z8fpP0aG4Ag-/0/1782942344511?e=2147483647&v=beta&t=0IJA9q1BppeGFcd0AsrZ0t4UvkxjOwf6kKb-5ScrVJQ",
+        "id": "7478202252608962561"
+      }
+    ],
+    "linkedin_num_id": "1146799913",
+    "banner_image": "https://media.licdn.com/dms/image/v2/D5616AQGH5AoI8t4UeQ/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1719352076014?e=2147483647&v=beta&t=YhnUnj_SCBWqU99irRulifs-taYwgvwP_TaKgmBI7xU",
+    "honors_and_awards": [
+      {
+        "title": "Sabatte Family Full Ride Scholarship",
+        "publication": "Sabatte Family",
+        "date": "2024-09-01T00:00:00.000Z",
+        "description": null
+      }
+    ],
+    "similar_profiles": [],
+    "default_avatar": false,
+    "memorialized_account": false,
+    "bio_links": [
+      {
+        "title": "Portfolio",
+        "link": "https://kurisuo.github.io/Christopher-Zarraga-Portfolio-Website/"
+      }
+    ],
+    "first_name": "Christopher",
+    "last_name": "Zarraga Jimenez",
+    "influencer": false,
+    "timestamp": "2026-08-12T19:25:18.637Z",
+    "input": {
+      "url": "https://www.linkedin.com/in/christopher-zarraga"
+    }
+  },
+  "local_photo": "data\\linkedin_photos\\christopher-zarraga__usr-WGu9wdJd1uCOFZu.jpg"
+}

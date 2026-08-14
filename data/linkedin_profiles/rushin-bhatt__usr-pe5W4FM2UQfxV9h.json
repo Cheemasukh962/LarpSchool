@@ -1,0 +1,113 @@
+{
+  "luma_user_id": "usr-pe5W4FM2UQfxV9h",
+  "csv_name": "Rushin",
+  "csv_linkedin": "https://www.linkedin.com/in/rushin-bhatt",
+  "enriched_at": "2026-08-12T19:16:49.704774+00:00",
+  "batch_id": "sd_msqgxyk1xj7v4ip1",
+  "profile": {
+    "id": "rushin-bhatt",
+    "name": "Rushin Bhatt",
+    "city": "San Francisco, California, United States",
+    "country_code": "US",
+    "position": null,
+    "about": null,
+    "current_company": {
+      "link": "https://www.linkedin.com/company/spot-ai?trk=public_profile_topcard-current-company",
+      "name": "Spot AI",
+      "company_id": "spot-ai",
+      "location": null
+    },
+    "experience": null,
+    "url": "https://pt.linkedin.com/in/rushin-bhatt",
+    "educations_details": "Columbia University",
+    "education": [
+      {
+        "title": "Columbia University",
+        "url": "https://www.linkedin.com/school/columbia-university/",
+        "start_year": "2025-08",
+        "end_year": "2027-01",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      },
+      {
+        "start_year": "2025-08",
+        "end_year": "2027",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      },
+      {
+        "start_year": "2021-10",
+        "end_year": "2025-05",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      },
+      {
+        "start_year": "2011-11",
+        "end_year": "2021-04",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      },
+      {
+        "start_year": "2010-01",
+        "end_year": "2025-01",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      },
+      {
+        "start_year": "2014-07",
+        "end_year": "2015-07",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      },
+      {
+        "start_year": "2007-06",
+        "end_year": "2011-11",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      },
+      {
+        "start_year": "2006-06",
+        "end_year": "2007-06",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      }
+    ],
+    "avatar": "https://media.licdn.com/dms/image/v2/D5603AQEuQLdPeXh-FQ/profile-displayphoto-scale_200_200/B56Z7ORvRkH4Ac-/0/1781577218817?e=2147483647&v=beta&t=q7hXGFZuOtCuomgI2_PKKXqp7LgYySmNvgrdclYtRYE",
+    "followers": 8305,
+    "connections": 500,
+    "current_company_company_id": "spot-ai",
+    "current_company_name": "Spot AI",
+    "location": "San Francisco",
+    "input_url": "https://www.linkedin.com/in/rushin-bhatt",
+    "linkedin_id": "rushin-bhatt",
+    "activity": null,
+    "linkedin_num_id": "917830919",
+    "banner_image": "https://media.licdn.com/dms/image/v2/D4E16AQH4by7A8NhwoA/profile-displaybackgroundimage-shrink_200_800/B4EZ32oGELJIAU-/0/1777959199931?e=2147483647&v=beta&t=ourTeoBMJ0JvjlDya_-hLFb5GXs6prGLaU8flMuMg_M",
+    "honors_and_awards": null,
+    "similar_profiles": [],
+    "default_avatar": false,
+    "memorialized_account": false,
+    "bio_links": [
+      {
+        "title": "Personal Website",
+        "link": "https://rushin-bhatt.github.io/"
+      }
+    ],
+    "first_name": "Rushin",
+    "last_name": "Bhatt",
+    "influencer": false,
+    "timestamp": "2026-08-12T19:15:03.270Z",
+    "input": {
+      "url": "https://www.linkedin.com/in/rushin-bhatt"
+    }
+  },
+  "local_photo": "data\\linkedin_photos\\rushin-bhatt__usr-pe5W4FM2UQfxV9h.jpg"
+}

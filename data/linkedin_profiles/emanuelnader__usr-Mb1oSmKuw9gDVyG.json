@@ -1,0 +1,148 @@
+{
+  "luma_user_id": "usr-Mb1oSmKuw9gDVyG",
+  "csv_name": "Emanuel Nader",
+  "csv_linkedin": "https://www.linkedin.com/in/emanuelnader",
+  "enriched_at": "2026-08-12T19:01:42.794300+00:00",
+  "batch_id": "sd_msqgese9ztya3e3uk",
+  "profile": {
+    "id": "emanuelnader",
+    "name": "Emanuel Nader",
+    "city": "United States",
+    "country_code": "US",
+    "position": null,
+    "about": "HI! My name's Emanuel Nader, a Math - Computer Science student at UC San Diego. I am\u2026",
+    "current_company": {
+      "link": "https://www.linkedin.com/company/tesla-motors?trk=public_profile_topcard-current-company",
+      "name": "Tesla",
+      "company_id": "tesla-motors",
+      "location": null
+    },
+    "experience": null,
+    "url": "https://ph.linkedin.com/in/emanuelnader",
+    "educations_details": "UC San Diego",
+    "education": [
+      {
+        "title": "UC San Diego",
+        "url": "https://www.linkedin.com/school/ucsandiego/",
+        "start_year": "2024",
+        "end_year": "2028",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      },
+      {
+        "start_year": "2020",
+        "end_year": "2024",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      }
+    ],
+    "avatar": "https://media.licdn.com/dms/image/v2/D5603AQFdob375V0TZQ/profile-displayphoto-scale_200_200/B56Z4xk3k4JcAc-/0/1778948209160?e=2147483647&v=beta&t=p-SyeYJ_VsyWM28LGMWbNNxfFUGf5WnZSJcaJcRyqiY",
+    "followers": 887,
+    "connections": 500,
+    "current_company_company_id": "tesla-motors",
+    "current_company_name": "Tesla",
+    "projects": [
+      {
+        "title": "HealthBook (AI + Automation \u2014 Next.js, FastAPI, pgvector, Supabase)",
+        "start_date": "Apr 2026",
+        "description": "Built an AI medical booking agent that reduced appointment scheduling time by 90% (30 min \u2192 <3 min). Orchestrated a Browser Use SDK agent to automate Zocdoc navigation and trigger real AI phone calls to doctor offices via OpenAI Realtime API and Twilio. Eliminated repeated health history entry across sessions by engineering a pgvector semantic memory pipeline in Supabase \u2014 retrieving top-3 relevant memory chunks via cosine similarity and injecting them into each agent task prompt."
+      },
+      {
+        "title": "Nutribase (IoT & Full-Stack \u2014 MERN, C++, ESP32)",
+        "start_date": "May 2025",
+        "description": "Built a MERN-stack Smart Fridge Tracker with secure role-based authentication and user analytics dashboards. Programmed custom ESP32 firmware in C++ to stream real-time weight data (>10 payloads/second) to a scalable Node.js backend via low-latency MQTT/HTTP pipelines. Reduced food waste tracking errors and unauthorized access by 60%."
+      },
+      {
+        "title": "Quizki (Full-Stack \u2014 React, Node.js, Google Gemini API, Auth0, MongoDB)",
+        "start_date": "Apr 2025",
+        "description": "Grew platform to 100+ unique sessions by shipping gamified reward loops, progress dashboards, and Auth0/JWT authentication achieving <1s login latency. Cut average study session setup time by 50% by integrating the Google Gemini API to deliver personalized LLM-generated study prompts via Node.js endpoints (<1.5s response time)."
+      },
+      {
+        "title": "AutoBook (Automation Engine \u2014 Python, Selenium, WebDriver)",
+        "description": "Achieved >95% reservation success rate on high-demand UCSD library rooms by engineering a Python/Selenium automation engine that fully eliminates a 5-step manual booking workflow. Reduced room acquisition time by >90% (from ~10 min to <2 sec) by simulating WebDriver interactions with precise timing to capture slots within seconds of availability release."
+      },
+      {
+        "title": "ShortStack (Platform Architecture \u2014 Flask, Redis, Docker, Prometheus, Nginx)",
+        "description": "Reduced redirect latency by 93% (30ms \u2192 <2ms on cache hits) by integrating Redis caching across 3 load-balanced Nginx replicas, validated under 500 concurrent users via Locust load testing. Achieved 84% test coverage across 25 automated tests with a full CI pipeline (GitHub Actions) orchestrating 7 Docker containers with health checks, auto-restart policies, and Prometheus/Grafana monitoring."
+      }
+    ],
+    "location": null,
+    "input_url": "https://www.linkedin.com/in/emanuelnader",
+    "linkedin_id": "emanuelnader",
+    "activity": [
+      {
+        "interaction": "Liked by Emanuel Nader",
+        "link": "https://www.linkedin.com/posts/j-hawkins_extremely-proud-to-announce-that-i-switched-activity-7491146555262013440-vrIH",
+        "title": "extremely proud to announce that i switched from Fable 5 to Sonnet 4.6 for a small task and it saved me $0.37",
+        "img": "https://media.licdn.com/dms/image/v2/D4E10AQGEN_ILTMniBQ/image-shrink_1280/B4EZ_XmBWcHMAg-/0/1786028496681?e=2147483647&v=beta&t=2R9sjc1VWGsfeWOby7dbCeXOoO-yD_jY-0p4HmCMFXw",
+        "id": "7491146555262013440"
+      },
+      {
+        "interaction": "Liked by Emanuel Nader",
+        "link": "https://www.linkedin.com/posts/lakshgoyal_hacklist-sf-events-calendar-activity-7490462816278228993-NoV2",
+        "title": "I moved to the Bay Area with one goal: do more hackathons. So I checked Luma about as often as I checked Instagram. Then Cerebral Valley. Then\u2026",
+        "img": "https://media.licdn.com/dms/image/sync/v2/D4D27AQE8Sh7L88vCxw/articleshare-shrink_1280_800/B4DZ_LlDHRJMAg-/0/1785826915307?e=2147483647&v=beta&t=yXfUhJS-L1BNce433TZBwZ4P4nvllC-jTmEH5SDSZ_I",
+        "id": "7490462816278228993"
+      },
+      {
+        "interaction": "Liked by Emanuel Nader",
+        "link": "https://www.linkedin.com/posts/langston-reid-b1bb17278_opal-is-tech-jewelry-that-takes-action-working-activity-7485493339144982529-ONPz",
+        "title": "Opal is tech jewelry that takes action. Working towards a future where people buy advanced tech modifications & enhancements for the body as easily\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5605AQErOnJLZPjW9w/videocover-high/B56Z.HQdRJIoBM-/0/1784680670778?e=2147483647&v=beta&t=FJzPScnAR5MKCH8Yd12LgAs98P9jl0EpsKlbSFgpPr8",
+        "id": "7485493339144982529"
+      },
+      {
+        "interaction": "Liked by Emanuel Nader",
+        "link": "https://www.linkedin.com/posts/tejas-govind_it-was-an-important-week-for-me-after-a-activity-7486477474696953856-cs-o",
+        "title": "It was an important week for me. After a tedious and dry 1st-half of the year, I got 3 offers this week. Google , Capital One and DoorDash. Each\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQGEp2T9FWuZog/feedshare-shrink_800/B4EZ.VPl4fIAAg-/0/1784915320657?e=2147483647&v=beta&t=9p6bLv3K3D0RAb3jw42omISfQ_MMQoApIj2w53VRuVI",
+        "id": "7486477474696953856"
+      },
+      {
+        "interaction": "Liked by Emanuel Nader",
+        "link": "https://www.linkedin.com/posts/emilykai_teslainterns2026-structuralengineer-yay-activity-7485904839420321793-QCfD",
+        "title": "I'm so so excited to announce that I will be joining Tesla in the fall as a Structural Engineering Intern !! Very shocked and very grateful \ud83e\udd79\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQHqdE77jVhyCg/feedshare-shrink_1280/B56Z.M5wB7HUAM-/0/1784775378551?e=2147483647&v=beta&t=IFg9dVy1BROCaXeU4hml5QcUuQgXo8nnVvHuHdJAstM",
+        "id": "7485904839420321793"
+      },
+      {
+        "interaction": "Liked by Emanuel Nader",
+        "link": "https://www.linkedin.com/posts/vik-dhillon-b635b6241_im-excited-to-share-that-ill-be-joining-activity-7484308726808735744-eD39",
+        "title": "I\u2019m excited to share that I\u2019ll be joining Amazon Web Services (AWS) as a Software Development Engineer Intern in Seattle, Washington.",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQElQII5lHM7eQ/feedshare-shrink_800/B56Z92bIIqIoAc-/0/1784398250813?e=2147483647&v=beta&t=S2AKQ3QA1L5bmhIXsa25JTn_ji_HHn0EdQPl3Txznpo",
+        "id": "7484308726808735744"
+      },
+      {
+        "interaction": "Liked by Emanuel Nader",
+        "link": "https://www.linkedin.com/posts/marcusmendoza_im-excited-to-share-that-im-joining-truveta-activity-7480842475562037248-gtwY",
+        "title": "I\u2019m excited to share that I'm joining Truveta as a Software Engineering Intern this summer in Bellevue, WA! \ud83c\udf89 The opportunity to contribute to\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQHMSHd5jkMMgA/feedshare-shrink_1280/B56Z9FKlxMIgAU-/0/1783571832598?e=2147483647&v=beta&t=OCxQrzQeMV7dSb7O4Eg446Knh67OmoIpUcXD6v6NyM8",
+        "id": "7480842475562037248"
+      },
+      {
+        "interaction": "Liked by Emanuel Nader",
+        "link": "https://www.linkedin.com/posts/alexandria-theriault-b63194200_last-weeks-intern-lunch-was-a-great-opportunity-activity-7479622305891950593-BWcw",
+        "title": "Last week\u2019s intern lunch was a great opportunity to connect with fellow interns and full-time employees at Parker Hannifin. I\u2019m grateful to be part\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQFe0dclRt5epQ/feedshare-shrink_800/B56Z8z01X6G0Ac-/0/1783280921080?e=2147483647&v=beta&t=PJbRrJTFCZRuiG0LqLEKBgShkCXpoUfLC3aor4WgXME",
+        "id": "7479622305891950593"
+      }
+    ],
+    "linkedin_num_id": "1054547628",
+    "banner_image": "https://media.licdn.com/dms/image/v2/D5616AQEkXpLFCPAcXw/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1728544476596?e=2147483647&v=beta&t=Vryzbr_KOGysye7BBFmL6ektf3Kx__0_cuZzrwZ8bVA",
+    "honors_and_awards": null,
+    "similar_profiles": [],
+    "default_avatar": false,
+    "memorialized_account": false,
+    "bio_links": [],
+    "first_name": "Emanuel",
+    "last_name": "Nader",
+    "influencer": false,
+    "timestamp": "2026-08-12T19:00:13.191Z",
+    "input": {
+      "url": "https://www.linkedin.com/in/emanuelnader"
+    }
+  },
+  "local_photo": "data\\linkedin_photos\\emanuelnader__usr-Mb1oSmKuw9gDVyG.jpg"
+}

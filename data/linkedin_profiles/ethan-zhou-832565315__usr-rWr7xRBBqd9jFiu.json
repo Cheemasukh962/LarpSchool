@@ -1,0 +1,212 @@
+{
+  "luma_user_id": "usr-rWr7xRBBqd9jFiu",
+  "csv_name": "Ethan Zhou",
+  "csv_linkedin": "https://www.linkedin.com/in/ethan-zhou-832565315",
+  "enriched_at": "2026-08-12T19:06:01.810665+00:00",
+  "batch_id": "sd_msqgh02428smzgu5m",
+  "profile": {
+    "id": "ethan-zhou-832565315",
+    "name": "Ethan Zhou",
+    "city": "United States",
+    "country_code": "US",
+    "position": null,
+    "about": "info[at]ethanzhou[dot]ca",
+    "current_company": {
+      "link": "https://www.linkedin.com/company/revylai?trk=public_profile_topcard-current-company",
+      "name": "Revyl",
+      "company_id": "revylai",
+      "location": null
+    },
+    "experience": null,
+    "url": "https://be.linkedin.com/in/ethan-zhou-832565315",
+    "educations_details": "Western University",
+    "education": [
+      {
+        "start_year": "2022-09",
+        "end_year": "2025-06",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      },
+      {
+        "start_year": "2023-09",
+        "end_year": "2025-05",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      }
+    ],
+    "avatar": "https://media.licdn.com/dms/image/v2/D4E03AQGI6MRecxwXKw/profile-displayphoto-scale_200_200/B4EZycCy7fHMAc-/0/1772144509849?e=2147483647&v=beta&t=QrRdc4G6e5eqoBaqzF_8oQVzieL8ONEcOxE3Efkdk-s",
+    "languages": [
+      {
+        "subtitle": "Native or bilingual proficiency",
+        "title": "English"
+      },
+      {
+        "subtitle": "Professional working proficiency",
+        "title": "Chinese"
+      },
+      {
+        "subtitle": "Elementary proficiency",
+        "title": "French"
+      }
+    ],
+    "followers": 1519,
+    "connections": 500,
+    "current_company_company_id": "revylai",
+    "current_company_name": "Revyl",
+    "location": null,
+    "input_url": "https://www.linkedin.com/in/ethan-zhou-832565315",
+    "linkedin_id": "ethanzhoucool",
+    "activity": [
+      {
+        "interaction": "Ethan Zhou shared this",
+        "link": "https://www.linkedin.com/posts/ethanzhoucool_youre-too-privileged-to-play-it-safe-activity-7488669830045151233-2Ffz",
+        "title": "\"You're too privileged to play it safe.\" The co-founder of a billion dollar company said that at a talk, and it really stuck with me. At the end of the day, I'm surrounded by people who grew up in a home and food on their plate. I feel like if you're that privileged, when there are people out there wondering where their next meal is coming from, you almost have an obligation to go take risks. Make something that changes the world. And because you are in a position to do so, to not is almost a waste. My parents worked their asses off to get me where I am today. Obviously nothing is forcing me to work my ass off, but they worked this hard for me, so I might as well take advantage of it. Mostly I just feel lucky to be in the position to even think about it this way. If you agree/disagree, let me know what your thoughts are. ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D5610AQFCowctZ_DnYQ/image-shrink_800/B56Z.0Zg_WGgAg-/0/1785438019240?e=2147483647&v=beta&t=PbaZoLFHpF97GfVeigBsIEL9bSDfmeJYzi_QucRXxZQ",
+        "id": "7488669830045151233"
+      },
+      {
+        "interaction": "Ethan Zhou shared this",
+        "link": "https://www.linkedin.com/posts/ethanzhoucool_k-factor-is-probably-the-most-misunderstood-activity-7485001597215756289-7ooS",
+        "title": "K factor is probably the most misunderstood metric in startup growth most founders treat it like a binary. either your viral coefficient is above 1 and you scale exponentially, or it's below 1 and you're just lighting money on fire with paid acquisition. that's a myth. sustained K > 1 is rare. for 95% of startups the real value is in viral amplification. think of K as a discount on your CAC. acquire 100 users through ads or SEO with a K of 0.3 and those users bring in 30 more for free. those 30 bring 9. and so on. your 100 becomes 143. that's a 43% lift on your marketing spend for pretty much free also velocity matters more than volume. a K of 0.8 where people invite within 48 hours beats a K of 0.9 where it takes a month. how fast the loop closes is what makes the curve bend. and without retention K is meaningless. high virality plus low retention just means you're burning through your TAM faster. stop wasting energy chasing a mythical K > 1. ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D5610AQFrYyYRufpTyg/image-shrink_800/B56Z.ARSN4GsAs-/0/1784563443274?e=2147483647&v=beta&t=aR-WX2ZBhAPKFIEyAal2CAakMNyLPM0v8tnmkKa8090",
+        "id": "7485001597215756289"
+      },
+      {
+        "interaction": "Ethan Zhou shared this",
+        "link": "https://www.linkedin.com/posts/ethanzhoucool_biggest-thing-ive-learned-so-far-marketing-activity-7483958763348054016-ya2x",
+        "title": "biggest thing I've learned so far marketing dev tools at Revyl developers can smell a sales pitch from a mile away, and they hate it. your only real option is making something so obviously useful that devs love you for building it. our app store compliance CLI (greenlight) is a good example. we could've written fancy copy about what it does selling all the features, why it can save you so much time, etc. instead we showed a 30-second recording of it catching a rejection-worthy issue before submission. honestly the method is pretty simple, just show the value. photo: me and Michael booking some demos ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D5610AQFGyycvwXtZRA/image-shrink_800/B56Z9xc1VjH4Ag-/0/1784314813875?e=2147483647&v=beta&t=Uq_ZTaWjVI2531d7aWILg2r2-hh_algkALOHVcFMy6g",
+        "id": "7483958763348054016"
+      },
+      {
+        "interaction": null,
+        "link": "https://www.linkedin.com/posts/landseerenga_two-things-shipped-at-revyl-this-week-the-activity-7482841026362277888-RKGf",
+        "title": "Two things shipped at Revyl this week. The exploration agent, and remote builds. Full rundown in the video \u2193 ...more ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D5610AQGSjDOMb2X_6Q/videocover-high/B56Z9hkPaRG0As-/0/1784048320812?e=2147483647&v=beta&t=_Ns-wQi_2X0xuYGjepTV9tz5bGtq0IeamOLf3ax5H44",
+        "id": "7482841026362277888"
+      },
+      {
+        "interaction": "Ethan Zhou shared this",
+        "link": "https://www.linkedin.com/posts/ethanzhoucool_interesting-activity-7479931301723246592-MGOP",
+        "title": "Interesting...",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQGwIDDo4c3h6A/feedshare-shrink_800/B56Z8lxr3DG8Ac-/0/1783045209910?e=2147483647&v=beta&t=50W2_jkM7ec98z3JlX100E7_rTB3V9HAeFcbRSFCsHQ",
+        "id": "7479931301723246592"
+      },
+      {
+        "interaction": "Ethan Zhou shared this",
+        "link": "https://www.linkedin.com/posts/ethanzhoucool_confident-people-walk-around-certain-theyll-activity-7477852850589573120-EEou",
+        "title": "\"confident people walk around CERTAIN they'll win.\" That's the picture most of us have But nobody actually knows that they'll win. Certainty about how things turn out, turns out isn't available to anyone, so it can't be the thing that makes someone confident. It's much simpler then that Confidence is knowing that, no matter the outcome, you'll be okay. Shoot the shot. Inspired by: Charlie Houpert Photo: YYC airport ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQHPMXKaOhz11A/feedshare-image-high-res/B56Z8ariaQG4AU-/0/1782859050354?e=2147483647&v=beta&t=rU78u4UI_M-_PLfFtXcEm3ZoQ4a4jF3PlAmkETfC_5M",
+        "id": "7477852850589573120"
+      },
+      {
+        "interaction": "Ethan Zhou shared this",
+        "link": "https://www.linkedin.com/posts/ethanzhoucool_i-used-to-think-i-was-ambitious-then-i-came-activity-7477386664399593472-EOOl",
+        "title": "I used to think I was ambitious, then I came to San Francisco. I met people who genuinely believed they were going to change how an entire industry works, and meant it. These were people betting years of their lives on ideas that, by any reasonable measure, probably wouldn't work. And they talked about it like it was already done. It was contagious. You sit across from someone who casually assumes they'll win, and your own sense of what's possible changes. I didn't get more talented by being around them. My baseline for what's \"normal\" moved. This is the most underrated reason to put yourself in rooms you don't fully belong in yet. Spend enough time around people who refuse to be realistic and you slowly stop being so realistic yourself :) Photo: Golden Gate Bridge with Friends ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQFeTH7ED_1hJw/feedshare-image-high-res/B56Z8R6DTRG8AU-/0/1782711859981?e=2147483647&v=beta&t=XTg2HKOPuo4oR5VRfBfIdxqj0WrT5A9s3IbyIEebIKM",
+        "id": "7477386664399593472"
+      },
+      {
+        "interaction": "Ethan Zhou shared this",
+        "link": "https://www.linkedin.com/posts/ethanzhoucool_quality-of-life-updates-activity-7476308073649758208-TFCT",
+        "title": "Quality of life updates!",
+        "img": "https://media.licdn.com/dms/image/v2/D5605AQG167DIBdT7hQ/videocover-high/B56Z8Beo4dKcBM-/0/1782436239511?e=2147483647&v=beta&t=JA3sEI_rkbn3F1c13EI_EFKaUJuqnA6qyLvDphyCLnA",
+        "id": "7476308073649758208"
+      },
+      {
+        "interaction": "Ethan Zhou shared this",
+        "link": "https://www.linkedin.com/posts/ethanzhoucool_imposter-syndrome-runs-on-one-assumption-activity-7475427591273959424-HKmJ",
+        "title": "Imposter syndrome runs on one assumption: that somewhere there's a version of you who actually belongs in the seat you're in. And you're the fake sitting in for them. But that person doesn't exist. You're the only version of you there is. There's nobody to be an imposter of. You can't be a fake of yourself. So why do you feel it? Two reasons. Both (in my opinion) are good things. 1. everyone around you is genuinely ahead of you. That's a great room to be in. You should always want to be the one with the most to learn. If you're never the least experienced person at the table, you picked the wrong table. 2. the room is at a normal level, and you're just behind it. Even this works in your favor Because being aware of your shortcomings is a genuine advantage that you have. The first step to solving a problem is to understand it! Anyway, that's my sober thought for today. Photo: group of talented individuals (except me \ud83d\ude06 ) ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQE9fNaLEo1Bcw/feedshare-shrink_800/B4EZ74Nx1TKIAg-/0/1782280822515?e=2147483647&v=beta&t=dOCVdEoU7w_r_whI3i5EZ6wcj9ETYCICRYj23P0_TRQ",
+        "id": "7475427591273959424"
+      },
+      {
+        "interaction": "Ethan Zhou replied to a comment 1w",
+        "link": null,
+        "title": "Grace Tan thanks!",
+        "img": null,
+        "id": null
+      },
+      {
+        "interaction": "Ethan Zhou liked this",
+        "link": "https://www.linkedin.com/posts/kshitij-jhunjhunwala11_been-a-long-time-coming-but-im-excited-activity-7493338338519756801-RH4z",
+        "title": "Been a long time coming, but I'm excited to announce that I moved to San Francisco and joined Composio as a Member of Technical staff a couple of months ago. It's been a wild journey so far, and I'm excited to see where the company grows in the new few months. If you're in the Bay, don't be a stranger!",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQEQql3GtCATCg/feedshare-shrink_800/B56Z_2vg1jKEAc-/0/1786551078626?e=2147483647&v=beta&t=fSbE26EJ-OsMG5PKTMLIrMIAInKry99vphv1JDCJA88",
+        "id": "7493338338519756801"
+      },
+      {
+        "interaction": "Ethan Zhou liked this",
+        "link": "https://www.linkedin.com/posts/anam-h-5b37a2125_at-uber-shipping-software-was-a-coordination-activity-7493339086947082242-oYRw",
+        "title": "At Uber, shipping software was a coordination problem. Design had Figma. Engineering had code. Product had a roadmap. None of them described the same reality. Teams spent hours in meetings reconstructing what had shipped, what had changed, and what still needed work. That was difficult when humans made every change. Now coding agents produce work an order of magnitude faster then humans. The old coordination layer cannot keep up. So we built Revyl to give people and agents the same view of reality. What once required days of meetings and manual work now happens asynchronously in the clooud. Software is becoming autonomous. The infrastructure around it needs to do the same.",
+        "img": "https://media.licdn.com/dms/image/v2/D5610AQHJ6vmX4GHllw/videocover-high/B56Z_2wLASKEAo-/0/1786551255340?e=2147483647&v=beta&t=oagniN0A0bWfCQkJ907ZYyXWzw5PrNn18DbOrxK1_Rc",
+        "id": "7493339086947082242"
+      },
+      {
+        "interaction": "Ethan Zhou liked this",
+        "link": "https://www.linkedin.com/posts/hayden-choi9_excited-to-share-ill-be-joining-wealthsimple-activity-7493018429151395841-4miu",
+        "title": "Excited to share I'll be joining Wealthsimple this fall as a Software Engineering Intern! Thank you to my recruiter Eileen W. and my interviewers Adrian Leung and Randy Singh for such a smooth process. Looking forward to meeting everyone in Toronto! Let's make wealth simple \ud83d\udcb8",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQGkJXOeKy4Wow/feedshare-shrink_800/B56Z_dOfwAJ0Ac-/0/1786122999446?e=2147483647&v=beta&t=Bcnd_yzmYZ2hjXeIBSPsCRStemTAhTIepkntHXjPG9o",
+        "id": "7493018429151395841"
+      },
+      {
+        "interaction": "Ethan Zhou liked this",
+        "link": "https://www.linkedin.com/posts/danielparkk_today-were-launching-inspiration-on-stanley-activity-7483266263574700033-gFSG",
+        "title": "Today, we're launching Inspiration on Stanley Studio. Inspiration allows you to take any video and steal like an artist. Sample its font, music, pacing, colours, or all of it. Available to try now for free at studio[dot]getstanley[dot]ai",
+        "img": "https://media.licdn.com/dms/image/v2/D4D05AQHxtSfG0SkIIA/videocover-high/B4DZ9nm9o0JwBU-/0/1784149699236?e=2147483647&v=beta&t=A9PrduBLa288RWGXQr9OylyiAY7aDhZANv-roprHsug",
+        "id": "7483266263574700033"
+      },
+      {
+        "interaction": "Ethan Zhou liked this",
+        "link": "https://www.linkedin.com/posts/noahkostesku_my-optometrist-told-me-to-cut-down-on-blue-activity-7483531361383776256-1N5K",
+        "title": "my optometrist told me to cut down on blue light me:",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQFBIhs_jOueXg/feedshare-shrink_800/B56Z9rYHf9KcAc-/0/1784212912957?e=2147483647&v=beta&t=8lEgYBiU24BDLpZcurJkKkzd3NZsyAvHySVyaFn9_Ug",
+        "id": "7483531361383776256"
+      },
+      {
+        "interaction": "Ethan Zhou liked this",
+        "link": "https://www.linkedin.com/posts/noahkostesku_turns-out-3-weeks-in-sf-is-a-lot-of-life-activity-7492965750232522753-uNGl",
+        "title": "Turns out 3 weeks in SF is a lot of life. met people i\u2019d wanted to meet for over a year and said yes to things my past self would\u2019ve normally overthought i think a past version of me would\u2019ve cared a lot about getting to do all of this. being in sf, meeting certain people, going certain places. and it is still cool but when you\u2019re actually living it, none of it feels like some big milestone. it\u2019s just a moment you happen to be in i think the number one thing holding me back for a long time was thinking in a time that didn\u2019t exist we think about the past because it\u2019s comfortable. we use what happened before as evidence for what we should or shouldn\u2019t do now. then we think about the future and convince ourselves there\u2019ll be a better time to try something, say something, go somewhere but the past isn\u2019t here anymore, and the future has never happened there\u2019s a difference between being strategic about your life and thinking about it so much that you forget to actually live it. i\u2019ve been reassured for awhile now that a lot of the best decisions never came from having every variable figured out maybe being present is just learning not to leave a moment before it\u2019s over because eventually the labels, titles and accolades get forgotten anyway the stories stay the random nights, the people you met, the things you tried, the times you went for it when you could\u2019ve simply not done it. those are the things you actually get to keep it was a pleasure sf. see you soon :)",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQH9o1BLLq4q5w/feedshare-shrink_1280/B56Z_xcpJPH0AM-/0/1786462245822?e=2147483647&v=beta&t=TXYJMeemLIDeETuxjDtw9mQUfcrUfmEu8r0yYGcx7yU",
+        "id": "3"
+      },
+      {
+        "interaction": "Ethan Zhou liked this",
+        "link": "https://www.linkedin.com/posts/landseerenga_we-built-a-tool-that-turns-a-github-pr-into-activity-7492666373144498176-h-L9",
+        "title": "We built a tool that turns a GitHub PR into a Mobile QA engineer. It reads what changed, tests the affected flows, and sends back video proof. No more manually checking every PR.",
+        "img": "https://media.licdn.com/dms/image/v2/D4E10AQGBcxBGtMLRhQ/videocover-high/B4EZ_tMWZhIYAs-/0/1786390867789?e=2147483647&v=beta&t=sYyPdITCdIhWdmfTSWsppG3PPjxbXDJG6Byvs-YirLk",
+        "id": "7492666373144498176"
+      },
+      {
+        "interaction": "Ethan Zhou liked this",
+        "link": "https://www.linkedin.com/posts/ashkan-yazdi-zadeh_there-have-been-points-where-i-was-close-activity-7492646634280083456-lDiC",
+        "title": "There have been points where I was close to giving up. But it was messages like this that kept me going. Even today, hearing students getting jobs through our platform is the biggest driver for me and everyone on the team. I firsthand know how badly finding an internship sucks, it took me three years to get my first one. That was the whole reason I built an entire job search platform dedicated to only and only students. Reminder that Summer 2027 recruiting has already started. The earlier you start the more likely you are to land something \u23f3",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQFz_IscmJm82g/feedshare-shrink_800/B56Z_s6aQiGgAc-/0/1786386162936?e=2147483647&v=beta&t=jaXTmxNCpHtNSdkU8d83p5qRtltqj1MyY2jij_7n1X8",
+        "id": "7492646634280083456"
+      },
+      {
+        "interaction": "Ethan Zhou liked this",
+        "link": "https://www.linkedin.com/posts/aayush-grover-06_a-few-internships-in-i-finally-know-what-activity-7491666765777694720-I_yp",
+        "title": "A few internships in, I finally know what I'm optimizing for. Not the stack. Not the brand name. Not even the problem space. The people. Insanely cracked engineers. Real taste. And a genuine obsession with the people they build for. That's what made the difference, every single time. So that became the thing I optimized for. Which is why I'm beyond excited to join Ramp this fall in NYC (back in the big apple again haha), working on their core infrastructure team. Can't wait to start building! \ud83d\udcb3",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQGJ6tHwR7zMiQ/feedshare-shrink_1280/B56Z_e_OYEGcAM-/0/1786152544333?e=2147483647&v=beta&t=Lj3YORUT-OTNM_arNPcTKlQsHPXbm_XzBhASg3qZTp4",
+        "id": "7491666765777694720"
+      }
+    ],
+    "linkedin_num_id": "1342085222",
+    "banner_image": "https://media.licdn.com/dms/image/v2/D5616AQGvw3qBCrAPxA/profile-displaybackgroundimage-shrink_200_800/B56Z9eGGptGUAU-/0/1783990088262?e=2147483647&v=beta&t=5-hXqwO4daBTRuVxfC9hW9zyGRJQpI4MRp26n4fI5K8",
+    "honors_and_awards": null,
+    "similar_profiles": [],
+    "default_avatar": false,
+    "memorialized_account": false,
+    "bio_links": [],
+    "first_name": "Ethan",
+    "last_name": "Zhou",
+    "influencer": false,
+    "timestamp": "2026-08-12T19:02:01.249Z",
+    "input": {
+      "url": "https://www.linkedin.com/in/ethan-zhou-832565315"
+    }
+  },
+  "local_photo": "data\\linkedin_photos\\ethan-zhou-832565315__usr-rWr7xRBBqd9jFiu.jpg"
+}

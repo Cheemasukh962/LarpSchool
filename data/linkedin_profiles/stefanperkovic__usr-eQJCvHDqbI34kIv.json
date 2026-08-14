@@ -1,0 +1,123 @@
+{
+  "luma_user_id": "usr-eQJCvHDqbI34kIv",
+  "csv_name": "Stefan Perkovic",
+  "csv_linkedin": "https://www.linkedin.com/in/stefanperkovic",
+  "enriched_at": "2026-08-12T19:18:07.768274+00:00",
+  "batch_id": "sd_msqh0fwb1tv6mjnbrd",
+  "profile": {
+    "id": "stefanperkovic",
+    "name": "Stefan Perkovic",
+    "city": "Atherton, California, United States",
+    "country_code": "US",
+    "position": null,
+    "about": null,
+    "current_company": {
+      "link": "https://www.linkedin.com/company/information-sciences-institute?trk=public_profile_topcard-current-company",
+      "name": "USC Information Sciences Institute",
+      "company_id": "information-sciences-institute",
+      "location": null
+    },
+    "experience": null,
+    "url": "https://eg.linkedin.com/in/stefanperkovic",
+    "educations_details": "University of California, Berkeley",
+    "education": null,
+    "avatar": "https://media.licdn.com/dms/image/v2/D5603AQFoq5WHHzlQgQ/profile-displayphoto-scale_200_200/B56ZxVTG0tIEAc-/0/1770957598489?e=2147483647&v=beta&t=xpf9Kb_C7eu-4m94l8JKsqRSjODExbNKKSovgtXqcv4",
+    "languages": [
+      {
+        "subtitle": "Native or bilingual proficiency",
+        "title": "English"
+      },
+      {
+        "subtitle": "Native or bilingual proficiency",
+        "title": "Serbian"
+      }
+    ],
+    "followers": 857,
+    "connections": 500,
+    "current_company_company_id": "information-sciences-institute",
+    "current_company_name": "USC Information Sciences Institute",
+    "location": "Atherton",
+    "input_url": "https://www.linkedin.com/in/stefanperkovic",
+    "linkedin_id": "stefanperkovic",
+    "activity": [
+      {
+        "interaction": null,
+        "link": "https://www.linkedin.com/posts/sphere-research-infrastructure_uscisi-sphere-reu-activity-7467388103071264768-hjOF",
+        "title": "USC Information Sciences Institute is proud to welcome this summer\u2019s SPHERE interns and REU students. We are welcoming a total of 33 students across the two programs, and we are excited to have them with us this summer. The SPHERE interns span three locations and a virtual cohort: 13 interns are joining us onsite in Marina del Rey, CA; two at Northeastern University in Boston, MA; three at University of Utah in Salt Lake City, UT; and five working virtually. Alongside them, 10 REU students are working onsite in Marina del Rey on hands-on research experiences that will help shape their futures. These students chose to spend their summer working with us on hard problems in cybersecurity and privacy research. That says something. We take that seriously, and we are committed to making this a summer worth their time. #USCISI #SPHERE #REU #CybersecurityResearch #SummerInterns ...more ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQFOJTnHsfe5uA/feedshare-shrink_800/B56Z6F96HTG0Ac-/0/1780364059838?e=2147483647&v=beta&t=epnKIbDbpnXrOsO0Q_M5PqLajRVV4-fXX63dHd77yn4",
+        "id": "7467388103071264768"
+      },
+      {
+        "interaction": null,
+        "link": "https://www.linkedin.com/posts/shreyes-sridhara_not-too-long-ago-a-couple-of-us-folks-at-activity-7399891312776404992-lDv7",
+        "title": "Not too long ago, a couple of us folks at the Sports Analytics Group at Berkeley had the chance to sit down with someone I never thought we\u2019d actually get on a call at 1:00 a.m. his time. \ud83c\udfbe Mischa Zverev \u2013 former ATP World No. 25, founder of M22 , one of the last true serve-and-volleyers\u2026 and now a pilot? We talked tennis analytics, tactics, the \u201cdead\u201d serve-and-volley strategy he used to beat world #1 Andy Murray, the future of sports tech, and what it takes to rebuild a career after dropping to #1067 in the world. Mischa was incredibly open, thoughtful, and hilarious, and it was genuinely one of the most insightful conversations I\u2019ve been part of. Huge thanks to him for staying up past midnight (!!) to chat with a group of Berkeley analysts, and shoutout to Chaewon Park , Adrian Nguyen , Kartik Pandian , Stefan Perkovic , and special thanks to Alp Senay for editing and putting together the video. If you want to check it out, the full episode is now live on Spotify and YouTube! Happy Thanksgiving everyone! \ud83e\udd83 ...more ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D5605AQH8ogK1IKa82w/videocover-high/B56ZrGx60jKABY-/0/1764271567390?e=2147483647&v=beta&t=XNG90aZSFrzYwx17VeW1qWtcsojzmk4u-fEhl8pS0x4",
+        "id": "7399891312776404992"
+      },
+      {
+        "interaction": "Stefan Perkovic liked this",
+        "link": "https://www.linkedin.com/posts/tania-amanda_i-just-wrapped-up-my-summer-internship-at-activity-7492839139193593857-lrs5",
+        "title": "I just wrapped up my summer internship at USC\u2019s Information Sciences Institute, where I worked on SPHERE Research Infrastructure , a national testbed for reproducible cybersecurity experimentation. My role involved taking published research artifacts from venues including IEEE S&P, USENIX Security, ACSAC, NDSS, and PETS and getting them running on SPHERE so that other researchers could redeploy and verify them. It sounds straightforward. It is not. What I did not expect was that the hardest failures would be the quiet ones: scripts that report success while producing empty output files, a locale setting that silently corrupts results, or a configuration path with the wrong quotation marks that fills a disk without warning until the build fails 40 minutes later. Almost nothing announced itself as broken. Another major lesson was that testing on the machine you built on proves very little. A development node accumulates state that your installation script never had to earn. The real test is deploying on a fresh node from scratch, and that exposed gaps every single time. Reproducibility is often discussed as a research virtue. Up close, it is mostly unglamorous debugging, careful documentation, and being honest when something does not reproduce, then clearly documenting why. Thank you to Jelena Mirkovic , David Balenson , and the SPHERE Research Infrastructure team for their guidance. And thank you to my fellow interns, Allison Lu , Yizhu Wen , Prathyush Turaga, and Sonali Singh, for making a summer full of stack traces genuinely fun.",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQEhaekQetIF6Q/feedshare-shrink_800/B56Z_vpfGSH0Ac-/0/1786432058590?e=2147483647&v=beta&t=jqq-wqtyQIRdm1a56Kl8lHSFs9kQZBLu9EXGMRN9NK4",
+        "id": "7492839139193593857"
+      },
+      {
+        "interaction": "Stefan Perkovic liked this",
+        "link": "https://www.linkedin.com/posts/sphere-research-infrastructure_sphere-cybersecurity-privacy-activity-7492349116736512000-i6OJ",
+        "title": "That\u2019s a wrap on the 2026 SPHERE summer internship program! This year, 23 interns worked with SPHERE, including 18 students onsite with our teams at USC Information Sciences Institute , Northeastern University , and the University of Utah , and five virtual interns. Over the summer, they made real contributions to SPHERE, working on projects ranging from IoT and industrial control systems to experiment automation, reusable research artifacts, and the software and operations that keep the testbed running. They capped off the summer by presenting their work at our 2026 SPHERE Intern Showcase. We\u2019re grateful to all of our interns for their hard work, creativity, and enthusiasm, and to the SPHERE team members who mentored them throughout the summer. We wish them all the best in their studies, research, and whatever comes next! Their work also helps make SPHERE a more capable and useful research infrastructure for the broader cybersecurity and privacy community. We\u2019re excited to build on their contributions as SPHERE continues to grow with support from the National Science Foundation (NSF) Science Foundation. #SPHERE #Cybersecurity #Privacy #ResearchInfrastructure #Internships",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQFm4nLhRCHxGw/feedshare-shrink_800/B56Z_orx0FHIAg-/0/1786315218742?e=2147483647&v=beta&t=8hd7QRpE5qt6maAS7QifHJnptPdDlYa_-DT6J6lLjkM",
+        "id": "7492349116736512000"
+      },
+      {
+        "interaction": "Stefan Perkovic liked this",
+        "link": "https://www.linkedin.com/posts/vikghai_everyone-asking-what-ai-will-do-to-next-generation-activity-7491616617001345024-Sk1W",
+        "title": "Everyone asking what AI will do to next generation\u2026. I think we\u2019re asking the wrong question Spersh spent a short stint with us at G2C Ventures before heading to college at Washington University in St. Louis He picked up our investment rubric quickly, started applying it and then asked why it was built that way.. \"why are we asking these questions in first place?\" AI will get very good at answering questions. What\u2019s harder to automate is judgment: knowing which question matters, when the framework is wrong and when to challenge the premise itself That\u2019s what we want around an investment table Give smart young people real problems then get out of the way\u2026. Was great to have you Spersh \ud83d\ude4c",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQEvdu_R33-4VA/feedshare-shrink_800/B56Z_eRmnAH4Ac-/0/1786140588082?e=2147483647&v=beta&t=Z0plzCWjvXZSuasju6VR1vClgTKVTwNS4tq82G6ZIps",
+        "id": "7491616617001345024"
+      },
+      {
+        "interaction": "Stefan Perkovic liked this",
+        "link": "https://www.linkedin.com/posts/dragan-%C5%A1utanovac-6baa966a_thank-you-to-representatives-claudia-tenney-activity-7490942250424881153-Z4vL",
+        "title": "Thank you to Representatives Claudia Tenney, Emanuel Cleaver, Scott Fitzgerald, Victoria Spartz, Anna Paulina Luna, and Michael Cloud for supporting H.Res. 1474, recognizing February as Serbian-American Heritage Month. Your bipartisan support honors the contributions of Serbian Americans to the United States and celebrates the enduring friendship between our two nations. We look forward to additional Members of Congress joining this important bipartisan initiative. \ud83c\uddf7\ud83c\uddf8\ud83e\udef1\ud83c\udffb\u200d\ud83e\udef2\ud83c\udffc\ud83c\uddfa\ud83c\uddf8",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQGz1UBsFw5dnw/feedshare-shrink_1280/B4EZ_UsSKQIYAM-/0/1785979806649?e=2147483647&v=beta&t=or0a6MpME8K7yjT0J1T8nMVAKiwgn_nsE40UkOqXq-I",
+        "id": "7490942250424881153"
+      },
+      {
+        "interaction": "Stefan Perkovic liked this",
+        "link": "https://www.linkedin.com/posts/zoran-dimitrijevic_4-of-googles-top-ai-brains-are-leavingand-activity-7490840646090452992-81Ma",
+        "title": "Congratulations and good luck! https://lnkd.in/gmAewZCT",
+        "img": "https://media.licdn.com/dms/image/sync/v2/D4E27AQFjiTqacsPoLg/articleshare-shrink_800/B4EZ_SqcmlKUAY-/0/1785945770930?e=2147483647&v=beta&t=xr2LDR7oNCoI4WA_JQZvFAH-KNAU5HeHPCYEF1XgPtQ",
+        "id": "7490840646090452992"
+      },
+      {
+        "interaction": "Stefan Perkovic liked this",
+        "link": "https://www.linkedin.com/posts/mprerad_serbia-has-its-first-tech-unicorn-ominimo-activity-7487439913278402560-ZU6s",
+        "title": "Serbia has its first tech unicorn! \ud83e\udd29 Ominimo has reached a valuation of $1.6 billion following its Series B investment which included participation from the investment arm of the EBRD - European Bank for Reconstruction and Development. ( EBRD VC ) A remarkable achievement for the company and an important milestone for the entire Serbian startup community. But the real value is much bigger... This success will change how international investors perceive our market. And it also shows that young founders & tech entrepreneurs do not need to leave Serbia to build something that has Global impact. HUGE congratulations to Dusan Komar , Laslo Horvath and whole Ominimo team. The first unicorn is not only a success story... This is a signal to the next generation that everything is possible. \ud83d\udc4f\ud83c\udffb",
+        "img": "https://media.licdn.com/dms/image/v2/D4D22AQGm5UFzqi7ohw/feedshare-shrink_800/B4DZ.i67A4J4Ag-/0/1785144783747?e=2147483647&v=beta&t=SX8PPR2WKwCHnDt5cf2ZPZ7fb4fUwz0qHBcxdynuliU",
+        "id": "7487439913278402560"
+      },
+      {
+        "interaction": "Stefan Perkovic liked this",
+        "link": "https://www.linkedin.com/posts/kanavmittal314_i-recently-graduated-from-uc-berkeley-with-activity-7490595050284883968-kQDk",
+        "title": "I recently graduated from UC Berkeley with my BS (with Highest Honors) and MS in EECS! I was not alone in this journey, and I have many people to thank: As I learned in my first semester, Berkeley is a fantastic place for research, and I am very grateful to the professors and mentors who supported me. I enjoyed working on machine learning and genomics with Professor Nilah Ioannidis and Ruchir Rastogi , student-AI tutor interactions with Narges Norouzi , and AI agents that summarize news with Serina Chang . Special thank you to my Master\u2019s advisor Gireeja Ranade as we worked on studying alignment challenges in educational AI. I am also grateful to the Siebel Scholars Program and Mark Asta for recognizing me as a Siebel Scholar and for supporting me financially during my Master\u2019s. I also spent eight semesters serving as a TA for EECS16A, CS61B, and CS188. These experiences, particularly my three semesters as head TA, showed me how much effort it takes to run a 500+ student course\u2014and how seeing students\u2019 progress makes it all worth it. Thank you to numerous faculty who trusted me in these positions, including Dan Klein , Stuart Russell , Emma Pierson , Peyrin Kao, Josh Hug , and Justin Yokota . One highlight: getting to give a guest lecture in CS61B on collaboration in software engineering! Living at Bowles Hall Residential College with Gasper Begus and antje postema taught me what it means to live as a community and exposed me to a wide variety of ways of thinking across disciplines. I especially enjoyed getting to advise younger students academically, professionally, and socially as an Undergraduate Fellow. Finally, a load of thanks to the friends who made my grueling Berkeley experience so fun, and to my family for their unwavering support since day one. Graduation is always bittersweet, and while I will miss being a student at Berkeley, I look forward to this next chapter where I can now give back to the university. Go Bears!",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQE3YfPGUApnRA/feedshare-image-high-res/B4EZ_Pwf9rHkAU-/0/1785897026678?e=2147483647&v=beta&t=bAUCQiy63cCN9eKRJItze7ZXmGB2FrroQOhvhlPaDv0",
+        "id": "7490595050284883968"
+      }
+    ],
+    "linkedin_num_id": "1190846373",
+    "banner_image": "https://static.licdn.com/aero-v1/sc/h/5q92mjc5c51bjlwaj3rs9aa82",
+    "honors_and_awards": null,
+    "similar_profiles": [],
+    "default_avatar": false,
+    "memorialized_account": false,
+    "bio_links": [],
+    "first_name": "Stefan",
+    "last_name": "Perkovic",
+    "influencer": false,
+    "timestamp": "2026-08-12T19:17:04.543Z",
+    "input": {
+      "url": "https://www.linkedin.com/in/stefanperkovic"
+    }
+  },
+  "local_photo": "data\\linkedin_photos\\stefanperkovic__usr-eQJCvHDqbI34kIv.jpg"
+}

@@ -1,0 +1,209 @@
+{
+  "luma_user_id": "usr-lfifNHTXAt8G2xh",
+  "csv_name": "Devom Brahmbhatt",
+  "csv_linkedin": "https://www.linkedin.com/in/devomb",
+  "enriched_at": "2026-08-12T19:01:42.785517+00:00",
+  "batch_id": "sd_msqgese9ztya3e3uk",
+  "profile": {
+    "id": "devomb",
+    "name": "Devom B.",
+    "city": "Los Angeles Metropolitan Area",
+    "country_code": "US",
+    "position": null,
+    "about": "Devom Brahmbhatt is a software engineer based in the Greater Los Angeles Area who has six\u2026",
+    "current_company": {
+      "link": "https://www.linkedin.com/school/eleanor-roosevelt-high-school-95/?trk=public_profile_topcard-current-company",
+      "name": "Eleanor Roosevelt High School",
+      "location": null
+    },
+    "experience": null,
+    "url": "https://dk.linkedin.com/in/Devomb",
+    "educations_details": "Norco College",
+    "education": [
+      {
+        "title": "Norco College",
+        "url": "https://www.linkedin.com/school/norco-college/",
+        "start_year": "2024-06",
+        "end_year": "2026-06",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      },
+      {
+        "start_year": "2025-06",
+        "end_year": "2025-12",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      }
+    ],
+    "avatar": "https://media.licdn.com/dms/image/v2/D5603AQEbURLVwEtQFw/profile-displayphoto-scale_200_200/B56Z4BT__qGUAc-/0/1778138481951?e=2147483647&v=beta&t=tkR4nqyaUbSl_7eH9gH0IljUyo1joshss78aBKBir24",
+    "languages": [
+      {
+        "subtitle": "Native or bilingual proficiency",
+        "title": "English"
+      },
+      {
+        "subtitle": "Native or bilingual proficiency",
+        "title": "Gujarati"
+      }
+    ],
+    "followers": 783,
+    "connections": 500,
+    "current_company_name": "Eleanor Roosevelt High School",
+    "projects": [
+      {
+        "title": "Geometry Of Poker",
+        "start_date": "May 2026",
+        "description": "Geometry of Poker is a production-deployed research visualization for Texas Hold'em state space. It converts poker states into compact feature vectors, embeds those vectors into a three-dimensional manifold, and serves the resulting map as an interactive GPU point cloud."
+      },
+      {
+        "title": "Poker-Calculator ( 3k+ Downloads )",
+        "start_date": "Apr 2026",
+        "description": "No-Limit Texas Hold\u2019em hand evaluation, Monte Carlo equity, and more\u2014implemented in C++ and exposed to Node via N-API."
+      }
+    ],
+    "location": null,
+    "input_url": "https://www.linkedin.com/in/devomb",
+    "linkedin_id": "devomb",
+    "activity": [
+      {
+        "interaction": null,
+        "link": "https://www.linkedin.com/posts/devomb_i-am-not-18-yet-i-published-an-npm-package-activity-7475752791282438146-q0LK",
+        "title": "I am not 18 yet. I published an npm package with 3,000+ downloads anyway. Poker-Calculations is my no-limit Hold'em math library for Node.js: equity simulation, ICM, pot odds, tournament utilities, and strategy helpers like decideAction. C++20 under the hood. TypeScript on top. Prebuilt binaries so install is one command. I also built the documentation site from scratch: guides, concepts, and an API reference for all 300 exports at https://pc.devomb.com If you work on poker software, simulators, or training tools, I am looking for people who will break this and tell me what is missing. npm: https://lnkd.in/gpXfgFpa ...more",
+        "img": null,
+        "id": "18"
+      },
+      {
+        "interaction": null,
+        "link": "https://www.linkedin.com/posts/mikelevin-_my-agent-cant-stop-messaging-my-friends-activity-7456884515819626496-QGqE",
+        "title": "my agent can't stop messaging my friends",
+        "img": "https://media.licdn.com/dms/image/v2/D5605AQGJqB-be_woDA/videocover-high/B56Z3ws6faIsBQ-/0/1777859800817?e=2147483647&v=beta&t=Xzw9-6eWnteQg8WhfqIk6gB3DWF1W0s4HYO1wKbMLss",
+        "id": "7456884515819626496"
+      },
+      {
+        "interaction": null,
+        "link": "https://www.linkedin.com/posts/mikelevin-_i-left-a-comment-about-ai-agents-using-blockchains-activity-7439426763752898561-VZR_",
+        "title": "I left a comment about AI agents using blockchains, and the CEO of Alchemy , Nikil Viswanathan , replied. His point was that the transaction itself is stored on-chain. That\u2019s true. But most of the actual agent execution still happens off-chain across APIs, tools, and services. When something goes wrong, reconstructing what actually happened can get surprisingly tricky. Curious how teams building agents are solving this today. ...more ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQFqxW8fHYiInA/feedshare-shrink_1280/B56Zz4nOInKIAM-/0/1773697557339?e=2147483647&v=beta&t=Sb37DIphnzFC7nZdege9ECyaO6jmlKypcO2gREYikRg",
+        "id": "7439426763752898561"
+      },
+      {
+        "interaction": null,
+        "link": "https://www.linkedin.com/posts/aryanwadhera_introducing-insky-by-the-moonlit-company-activity-7388640790442545153-S16R",
+        "title": "\ud83d\ude80 Introducing InSky by The Moonlit Company \u2014 The 6-Month Student Startup Challenge \u2601\ufe0f The future isn\u2019t waiting for permission it\u2019s being built by students who ship, dream, and create. InSky is a 6-month, venture backed competition where students have 6 months turn ideas into working SaaS startups. Over the next half-year, student teams from across the country will build real startups, The best startup team earns $1,000,000 in VC funding to launch their company into the sky. \ud83d\udca1 Applications open soon. Signup to stay updated at https://lnkd.in/gN9Jhmbw . \ud83c\udf0e Investors & Partners: We\u2019re currently onboarding partners and venture collaborators who believe in the next generation of founders. If you\u2019d like to join the mission reach out. \u2709\ufe0f Aryan@wadheras.com ...more ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQETU8_VaqwbOg/feedshare-shrink_800/B56Zom5owfJQAg-/0/1761589237423?e=2147483647&v=beta&t=RiR1CYPfj2tF_v4CqPQUtZsTVjIofzZ4Iso-7T7BPhY",
+        "id": "7388640790442545153"
+      },
+      {
+        "interaction": null,
+        "link": "https://www.linkedin.com/posts/saw-this-quote-from-elon-musk-and-really-activity-7367447784393699328-8ckk",
+        "title": "Saw this quote from Elon Musk and really made me think yes you can fail. But its better to fail fast. Breakthroughs are not for those who are linearly cautious. Instead, remember there is always a solution to the problem in front of you. You have to stretch out your cognitive ability to think differently. Discard any self-limitations. If you fail, you still are better off then going for something \"easy.\" Why? You are actual further along and not cutting any important corners. You will find this through practice and experience, there is an lot of truth to this. #27/31 ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQGtNJVG2fYEAA/feedshare-shrink_1280/B4EZj5uuBGIIAs-/0/1756536430993?e=2147483647&v=beta&t=KQeNstolJgt5yPC5AG5c7pNb9N-I8CP8RCvjm7aSG0w",
+        "id": "7367447784393699328"
+      },
+      {
+        "interaction": "Devom B. commented on a post 1w",
+        "link": "https://www.linkedin.com/posts/kevalpatelnevada_excited-activity-7488997347633553409-go7P",
+        "title": "Tuff twin",
+        "img": null,
+        "id": "7488997347633553409"
+      },
+      {
+        "interaction": "Devom B. liked this",
+        "link": "https://www.linkedin.com/posts/jane-street-global_memory-management-activity-7492927807065456640-lDZJ",
+        "title": "How should a program decide where its data lives, and when it's safe to throw it away? In this episode from the Signals & Threads archives, Jane Street's Stephen Dolan joins Ron to weigh the trade-offs between reference counting and garbage collection, the surprising gains of prefetching, and how features like local allocation and unboxed types give OCaml users more control over their memory. https://lnkd.in/eSNyu7Ux",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQE6YZSK_uKE8g/feedshare-image-high-res/B4EZ_sSEUeJQAY-/0/1786375587325?e=2147483647&v=beta&t=EV7voYvXkw_JP_GLZILNZ17SeSoTYGgceMj145zMa-k",
+        "id": "7492927807065456640"
+      },
+      {
+        "interaction": "Devom B. liked this",
+        "link": "https://www.linkedin.com/posts/bridgefellows_up-next-we-have-aryaa-sk-building-zoral-activity-7490413772466188289-ZP-x",
+        "title": "Up next we have Aryaa SK building Zoral, to replicate the entire knowledge workforce, starting with one laptop, one week, one human. A University of Cambridge Computer Science undergraduate at Trinity College Cambridge , he has spent 5+ years building ed-tech, which he scaled to 1800 users via TikTok and then used to score himself an A* in Biology in just three weeks. He also built a 117M-parameter quant trading model returning 705%.",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQEdP_aHCr9pYw/feedshare-shrink_1280/B56Z._EwUhHAAM-/0/1785617122892?e=2147483647&v=beta&t=cRKy2hucadgmeIHOfZ4YgUbkFsEM-F0XsUI77k09bTA",
+        "id": "7490413772466188289"
+      },
+      {
+        "interaction": "Devom B. liked this",
+        "link": "https://www.linkedin.com/posts/github-securitylab_github-security-githubsecurity-on-x-activity-7491254799427010560-pOAK",
+        "title": "Hello Security researchers! Here are GitHub's July bug bounty stats! \ud83d\udcaa \ud83d\udc1b 530 bounty reports submitted \ud83d\udc65 284 hackers participated in our program \ud83d\udcb0 Awarded $267,652 in bounties Found a vulnerability? Submit it here: https://bounty.github.com Heading to DefCon? Come find us, details here: https://lnkd.in/egHwy3FY",
+        "img": "https://media.licdn.com/dms/image/v2/D4E10AQEnAa7o14GjQg/image-shrink_480/B4EZ_ZIjHCIgAU-/0/1786054324998?e=2147483647&v=beta&t=rtzxg8vSxfTne74RzA6mujwBbPeROwiXRd0DPQHUVeg",
+        "id": "7491254799427010560"
+      },
+      {
+        "interaction": "Devom B. liked this",
+        "link": "https://www.linkedin.com/posts/ntnhut_ive-spent-some-time-during-the-summer-reading-activity-7490335561501683713-_T8M",
+        "title": "I've spent some time during the summer reading \"GPU Programming with C++ and CUDA\" by Paulo Motta, Ph.D. What stuck with me wasn't another walkthrough of CUDA kernels. It was the engineering mindset behind the book. A few things stood out, as someone who spends a lot of time thinking about performance in modern C++: 1. GPU programming as engineering, not just kernels - Testing with Google Test and Pytest. - Profiling with Nsight Compute. - Knowing when to reach for cuBLAS or Thrust instead of writing a custom kernel. This is how real production systems get built. 2. Hardware understanding over blind offloading. Performance isn't just faster kernels. It's PCIe bandwidth, data transfer sizes, overlapping communication with computation, and knowing where the real bottleneck sits. The same questions we ask when optimizing CPU-bound low-latency systems. 3. The C++/Python bridge Exposing GPU-accelerated C++ libraries to Python, without unnecessary NumPy copies. Increasingly relevant when Python handles orchestration and C++ handles execution. 4. Written for C++ dev, not GPU researchers The examples build up gradually, stay focused on programming, and skip the math barrier that keeps a lot of C++ developers away from GPU work. My takeaway: - Whether you're optimizing a low-latency trading engine or a GPU workload, the principles don't change. - Understand the hardware. Measure before you optimize. - Treat performance as an engineering discipline, not a collection of tricks. Recommended for any C++ developer curious about GPU computing who isn't sure where to start.",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQG6AABj24dJYA/feedshare-shrink_800/B4EZ_MEf6EI0Ag-/0/1785835160166?e=2147483647&v=beta&t=zeIcXGkFfGYNi9wBSJdzCOYzPJwn3wNB4x-uUXT11ns",
+        "id": "7490335561501683713"
+      },
+      {
+        "interaction": "Devom B. liked this",
+        "link": "https://www.linkedin.com/posts/david-liang-012357267_thats-my-quant-life-update-ill-be-joining-activity-7486080206177218560-Ol0O",
+        "title": "that\u2019s my quant! Life update: I\u2019ll be joining Axiom Math as a Research Engineer Intern in Palo Alto this fall, and Susquehanna International Group (SIG) as a Quantitative Trading Intern next summer. I\u2019d like to dedicate this post to my friends and mentors, many of whom I wouldn\u2019t be here without: this is as much their achievement as it is mine. As I wrap up my first year at Waterloo, the best advice I can give to anyone starting in the fall is to be kind and stay true to yourself. Excited for what\u2019s ahead :) A non-exhaustive list of people I\u2019d like to thank: Victor Guo , Parth Sheth , Winston Yu , Vincent Zhong , Chinmay Jindal , Jun Park, Harry Jiang , Austin Jian , David Yang , Alan Cai , Aiden Zhang , Ryan Nguyen , Carolyn Zhu , Lance Yan , Zachary Yu , Patrick He , Eric Song , Nelson Kang , Grace Tan Thank you to Carina Hong , Shubho Sengupta , Taylor Anthony and the Axiom team for believing in me. Lastly, thank you to Molly Weber and Sarah Diehl for making the interview process as smooth as it was.",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQGH47R7WHoKKw/feedshare-shrink_800/B56Z.PTCC2KkAc-/0/1784815559092?e=2147483647&v=beta&t=Gx1g1bDa32TsNXtB-E3xYF3TC-hU6jYW-bEAlCZo6LE",
+        "id": "7486080206177218560"
+      },
+      {
+        "interaction": "Devom B. liked this",
+        "link": "https://www.linkedin.com/posts/satyamallick_github-rameau-frmc-calib-a-generic-and-activity-7487572061863952385-ZC5-",
+        "title": "Upgrade to OpenCV 5. You will love it.",
+        "img": "https://media.licdn.com/dms/image/sync/v2/D4E27AQHnQEk5_L994A/articleshare-shrink_800/B4EZ.h26fsJIAY-/0/1785126955822?e=2147483647&v=beta&t=wTwm91Uk9Oiw9K0GQQscudybhPewh9V7_vDPfwm1a2w",
+        "id": "7487572061863952385"
+      },
+      {
+        "interaction": "Devom B. liked this",
+        "link": "https://www.linkedin.com/posts/gerko_over-the-last-month-i-vibe-researched-several-activity-7488987698834178048-tqnp",
+        "title": "Over the last month I \"vibe researched\" several PhDs' worth of maths results in and around the field I did my research in 25+ years ago (complete with Lean formalization and passable text). This includes a counterexample to a top-5 major conjecture in the field! I assume any active researcher in the field would have done even better. What does this mean for the bar for a \"significant\" maths contribution going forward? Clearly you can't just give out PhDs for what I did, so the bar must already be much higher today (even if nothing better than 5.6 shows up), not in some kind of distant and hypothetical future. And if the gap between \"5.7\" and 5.6 is the same size as the gap between 5.6 and 5.5, we are talking mostly superhuman performance in all aspects of maths. We are going to see 50 years' worth of maths progress in the next 2 years, but there won't be nearly enough human mathematicians around to process and understand all of it, let alone figure out how to apply it all or what new questions to ask.",
+        "img": null,
+        "id": "7488987698834178048"
+      },
+      {
+        "interaction": "Devom B. liked this",
+        "link": "https://www.linkedin.com/posts/kevin-liu-princeton_at-yc-startup-school-2026-i-posted-a-photo-activity-7488361020835450881-ViG4",
+        "title": "At YC Startup School 2026, I posted a photo of Alexandr Wang \u2019s \u201ctop 10 mane.\u201d Alexandr replied. Y Combinator reposted another post, and Garry Tan reposted another photo from the same afternoon. The throwaway jokes and ramblings reached 111.3k views. A couple months earlier, I spoke with Evil Rabbit , Vercel\u2019s founding designer and former head of design, at Designers & Machines. I've met YC founders at my climbing gym, gotten hats and a JBL from VC partners, got sushi with a member of OpenAI. I met an OpenAI intern who once carried a briefcase with GPT-4o's parameters, and the friend of the owner of Molly Tea\u2019s New York franchises explaining why they split from the China business. This keeps happening here. SF is so small that you keep running into the craziest people, and they can just as easily find you. The most memorable line from Startup School came from Alexandr: start from first principles. He built Scale AI after training-data friction blocked his own work. SF has a social version of that lesson. Put enough builders, designers, researchers, and founders into 49 square miles. Keep showing up. The people you follow become conversations. The conversations expose problems. Then the problems become things worth building. The talks were fantastic, but the city around them has been the real school \ud83c\udf01",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQESEFaE0oPygQ/feedshare-image-high-res/B56Z.wAqafGUAU-/0/1785364392099?e=2147483647&v=beta&t=gpQ0OzoAHivexCC4prNc13GVqsr8ruOGg8Xfxy7BzZM",
+        "id": "2026"
+      }
+    ],
+    "linkedin_num_id": "1199021499",
+    "banner_image": "https://media.licdn.com/dms/image/v2/D5616AQFQFQyv4zUThA/profile-displaybackgroundimage-shrink_200_800/B56ZvKcMvCIEAU-/0/1768627949541?e=2147483647&v=beta&t=B72zmflVehr55OMHmXouihPzVLyBFU14ebhdPycCOB4",
+    "honors_and_awards": [
+      {
+        "title": "USACO Platinum",
+        "publication": "United States Computing Olympiad",
+        "date": "2026-02-01T00:00:00.000Z",
+        "description": "Achieved Platinum division in the USA Computing Olympiad. Top 2%."
+      },
+      {
+        "title": "Riverside County Programming Competition Winner",
+        "publication": "Riverside Office of Education",
+        "date": "2025-05-01T00:00:00.000Z",
+        "description": "Won 1st Place in the Individual Category"
+      },
+      {
+        "title": "Riverside County Hackathon Winner",
+        "publication": "University of California, Riverside",
+        "date": "2024-04-01T00:00:00.000Z",
+        "description": "Secured second place in the RCOE County Hackathon alongside my partner, contributing 20+ hours toward practicing and solving problems."
+      }
+    ],
+    "similar_profiles": [],
+    "default_avatar": false,
+    "memorialized_account": false,
+    "bio_links": [
+      {
+        "title": "Personal Website",
+        "link": "https://devomb.com/"
+      }
+    ],
+    "first_name": "Devom",
+    "last_name": "B.",
+    "influencer": false,
+    "timestamp": "2026-08-12T19:00:14.434Z",
+    "input": {
+      "url": "https://www.linkedin.com/in/devomb"
+    }
+  },
+  "local_photo": "data\\linkedin_photos\\devomb__usr-lfifNHTXAt8G2xh.jpg"
+}

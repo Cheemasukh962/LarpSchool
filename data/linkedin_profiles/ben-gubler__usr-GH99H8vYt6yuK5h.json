@@ -1,0 +1,127 @@
+{
+  "luma_user_id": "usr-GH99H8vYt6yuK5h",
+  "csv_name": "Ben Gubler",
+  "csv_linkedin": "https://www.linkedin.com/in/ben-gubler",
+  "enriched_at": "2026-08-12T18:59:59.556686+00:00",
+  "batch_id": "sd_msqgcuh41lygyhc91a",
+  "profile": {
+    "id": "ben-gubler",
+    "name": "Ben Gubler",
+    "city": "Orem, Utah, United States",
+    "country_code": "US",
+    "position": null,
+    "about": "I love open-source, React, AI, and language learning. I'm currently pursuing a dual B.S\u2026",
+    "current_company": {
+      "link": "https://www.linkedin.com/company/vercel?trk=public_profile_topcard-current-company",
+      "name": "Vercel",
+      "company_id": "vercel",
+      "location": null
+    },
+    "experience": null,
+    "url": "https://qa.linkedin.com/in/ben-gubler",
+    "people_also_viewed": [
+      {
+        "profile_link": "https://www.linkedin.com/in/front-end-web-developer-remote",
+        "name": "Pavel Maximov - React Angular",
+        "about": "Self-employed (US LLC)",
+        "location": "29K followers Brooklyn, NY"
+      },
+      {
+        "profile_link": "https://www.linkedin.com/in/carlossantanar",
+        "name": "Carlos Santana",
+        "about": "Universal Music Group",
+        "location": "14K followers Los Angeles, CA"
+      },
+      {
+        "profile_link": "https://www.linkedin.com/in/tuckertriggs",
+        "name": "Tucker Triggs",
+        "about": "tuckertriggs.com",
+        "location": "29K followers Boulder, CO"
+      },
+      {
+        "profile_link": "https://ca.linkedin.com/in/ivikash",
+        "name": "Vikash Agrawal",
+        "about": "Amazon",
+        "location": "20K followers Canada"
+      },
+      {
+        "profile_link": "https://www.linkedin.com/in/bryan-hadaway-b9491097",
+        "name": "Bryan Hadaway",
+        "about": "Patient.com",
+        "location": "24K followers Roswell, GA"
+      },
+      {
+        "profile_link": "https://www.linkedin.com/in/martin-genev-63287a46",
+        "name": "Martin Genev",
+        "about": "Villa Geneva Media",
+        "location": "27K followers Seattle, WA"
+      },
+      {
+        "profile_link": "https://www.linkedin.com/in/kenthamilton",
+        "name": "Kent Hamilton",
+        "about": "Self-employed",
+        "location": "13K followers Atlanta Metropolitan Area"
+      },
+      {
+        "profile_link": "https://www.linkedin.com/in/samuel-y-singer",
+        "name": "Samuel Singer",
+        "about": "Amazon",
+        "location": "11K followers Seattle, WA"
+      },
+      {
+        "profile_link": "https://www.linkedin.com/in/alison-n-stuart",
+        "name": "Alison N. Stuart",
+        "about": "CyberSecOp - Cyber Security Operations Consulting",
+        "location": "10K followers Oberlin, OH"
+      }
+    ],
+    "educations_details": "Brigham Young University",
+    "education": [
+      {
+        "title": "Brigham Young University",
+        "url": "https://www.linkedin.com/school/brigham-young-university/",
+        "start_year": "2023-01",
+        "end_year": "2027-04",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      },
+      {
+        "start_year": "2017",
+        "end_year": "2020",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      }
+    ],
+    "avatar": "https://media.licdn.com/dms/image/v2/D4D03AQEFG6N7AU59Vw/profile-displayphoto-scale_200_200/B4DZ3cMAR1GcAY-/0/1777515632579?e=2147483647&v=beta&t=dR25masMGMX5_ZX7XQkhc_vURymt1euciGt1cGOtWxs",
+    "followers": 563,
+    "connections": 500,
+    "current_company_company_id": "vercel",
+    "current_company_name": "Vercel",
+    "location": "Orem",
+    "input_url": "https://www.linkedin.com/in/ben-gubler",
+    "linkedin_id": "ben-gubler",
+    "activity": null,
+    "linkedin_num_id": "508366529",
+    "banner_image": "https://media.licdn.com/dms/image/v2/D5616AQGmeawrGap1CQ/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1701231300330?e=2147483647&v=beta&t=bBtm-aStO9CPRRmK0XLN2Dm47EUYkwSONwbaI_DRTZQ",
+    "honors_and_awards": null,
+    "similar_profiles": [],
+    "default_avatar": false,
+    "memorialized_account": false,
+    "bio_links": [
+      {
+        "title": "Personal Website",
+        "link": "https://bengubler.com/"
+      }
+    ],
+    "first_name": "Ben",
+    "last_name": "Gubler",
+    "influencer": false,
+    "timestamp": "2026-08-12T18:58:49.025Z",
+    "input": {
+      "url": "https://www.linkedin.com/in/ben-gubler"
+    }
+  },
+  "local_photo": "data\\linkedin_photos\\ben-gubler__usr-GH99H8vYt6yuK5h.jpg"
+}

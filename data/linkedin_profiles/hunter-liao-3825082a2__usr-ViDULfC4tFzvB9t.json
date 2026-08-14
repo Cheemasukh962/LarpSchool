@@ -1,0 +1,236 @@
+{
+  "luma_user_id": "usr-ViDULfC4tFzvB9t",
+  "csv_name": "Hunter Liao",
+  "csv_linkedin": "https://www.linkedin.com/in/hunter-liao-3825082a2",
+  "enriched_at": "2026-08-12T19:07:22.273088+00:00",
+  "batch_id": "sd_msqgmjx4y9b9cgg4i",
+  "profile": {
+    "id": "hunter-liao-3825082a2",
+    "name": "Hunter Liao",
+    "city": "Hagerstown, Maryland, United States",
+    "country_code": "US",
+    "position": null,
+    "about": null,
+    "current_company": {
+      "link": "https://www.linkedin.com/company/wood-wide-ai?trk=public_profile_topcard-current-company",
+      "name": "Wood Wide AI",
+      "company_id": "wood-wide-ai",
+      "location": null
+    },
+    "experience": null,
+    "url": "https://www.linkedin.com/in/hunter-liao-3825082a2",
+    "educations_details": "Massachusetts Institute of Technology",
+    "education": null,
+    "avatar": "https://media.licdn.com/dms/image/v2/D4E03AQGWld84SwwWoA/profile-displayphoto-shrink_200_200/B4EZNwKbpdHAAY-/0/1732753603962?e=2147483647&v=beta&t=0MkBM3B44HoZIhh9zHKi157CSvKkAacofM7-Iuks1UA",
+    "followers": 135,
+    "connections": 134,
+    "current_company_company_id": "wood-wide-ai",
+    "current_company_name": "Wood Wide AI",
+    "publications": [
+      {
+        "title": "Detecting and Analyzing Tennis Ball Movements with AI, Deep Learning, Computer Vision and Large Multimodal Models",
+        "subtitle": "40th CCSC Eastern Annual Conference",
+        "date": "October 15, 2024"
+      },
+      {
+        "title": "Building a Navigation Game That Helps Screen and Treat Patients with Alzheimer\u2019s",
+        "subtitle": "The Journal of Student-Scientists\u2019 Research",
+        "date": "October 27, 2023"
+      }
+    ],
+    "projects": [
+      {
+        "title": "TrafiQ",
+        "description": "trafiq.tech"
+      },
+      {
+        "title": "ZetaMonkey",
+        "description": "zetamonkey.com"
+      }
+    ],
+    "location": "Hagerstown",
+    "input_url": "https://www.linkedin.com/in/hunter-liao-3825082a2",
+    "linkedin_id": "hunterliao",
+    "activity": [
+      {
+        "interaction": "Liked by Hunter Liao",
+        "link": "https://www.linkedin.com/posts/wood-wide-ai_physicalai-enterpriseai-foundationmodels-activity-7493359903445798912-sBPR",
+        "title": "Most digital AI stops at documents, conversations, and code. We came across a piece arguing that physical AI work clearly doesn't live there, and\u2026",
+        "img": "https://static.licdn.com/aero-v1/sc/h/53n89ecoxpr1qrki1do3alazb",
+        "id": "7493359903445798912"
+      },
+      {
+        "interaction": "Liked by Hunter Liao",
+        "link": "https://www.linkedin.com/posts/wood-wide-ai_structureddata-itbench-agents-activity-7491560941906599936-b8LY",
+        "title": "Artificial Analysis and IBM released a benchmark for agentic enterprise IT work. 59 Kubernetes incidents where the agent gets alerts, events, traces,\u2026",
+        "img": "https://static.licdn.com/aero-v1/sc/h/53n89ecoxpr1qrki1do3alazb",
+        "id": "7491560941906599936"
+      },
+      {
+        "interaction": "Liked by Hunter Liao",
+        "link": "https://www.linkedin.com/posts/wood-wide-ai_pinecone-aiagents-enterpriseai-activity-7488269757700276224-Ef9h",
+        "title": "Pinecone shipped something this month under the headline \"Better models won't save your agent.\" That is notable coming from the company that helped\u2026",
+        "img": "https://static.licdn.com/aero-v1/sc/h/53n89ecoxpr1qrki1do3alazb",
+        "id": "7488269757700276224"
+      },
+      {
+        "interaction": "Liked by Hunter Liao",
+        "link": "https://www.linkedin.com/posts/growthfactorai_congrats-tocole-ruehleon-his-first-day-activity-7487901746443411456-0IZS",
+        "title": "Congrats to Cole Ruehle on his first day with us as a full time employee! He joins as from Massachusetts Institute of Technology as a Founding\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4E10AQHUaQbQzPGdZQ/image-shrink_800/B4EZ.pe7InJkAg-/0/1785254884762?e=2147483647&v=beta&t=4mvBHtE50LdARuxsH90hKevQw73t9VyHEXYG-gVXh8k",
+        "id": "7487901746443411456"
+      },
+      {
+        "interaction": "Liked by Hunter Liao",
+        "link": "https://www.linkedin.com/posts/wood-wide-ai_thinkingmachineslab-inkling-ainews-activity-7486461224272949249-HKMY",
+        "title": "Thinking Machines, one of the most watched AI labs in the world, founded by OpenAI's former CTO, released its first open-weight model this week, a\u2026",
+        "img": "https://static.licdn.com/aero-v1/sc/h/53n89ecoxpr1qrki1do3alazb",
+        "id": "7486461224272949249"
+      },
+      {
+        "interaction": "Liked by Hunter Liao",
+        "link": "https://www.linkedin.com/posts/wood-wide-ai_inside-wood-wide-ai-the-pittsburgh-startup-activity-7472592001897680898-abxw",
+        "title": "Thank you to Alice Crow and Technical.ly for the thoughtful look at what we are building at Wood Wide AI. Giving AI systems a reliable way to reason\u2026",
+        "img": "https://media.licdn.com/dms/image/sync/v2/D4E27AQEqvatqJF1dJg/articleshare-shrink_1280_800/B4EZ7LyUawHoAg-/0/1781535426887?e=2147483647&v=beta&t=1yD-64B-F0KujuAwEGOqaFYjQLHJOcLlHRczVJNSUqI",
+        "id": "7472592001897680898"
+      },
+      {
+        "interaction": "Liked by Hunter Liao",
+        "link": "https://www.linkedin.com/posts/arkog10_mit-ai-ibm-activity-7467304754168250368-zrNQ",
+        "title": "I am excited to share that I\u2019ve earned my Bachelor\u2019s degree in Computer Science, with a focus on Artificial Intelligence and Decision Making, from\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQFXyJ40mjMfTA/feedshare-shrink_800/B4EZ6EyGnaHQAc-/0/1780344188188?e=2147483647&v=beta&t=A2I5IFUq8zeoXPnvmknMQ-Q28AAKP5ICWgwjIEZLErU",
+        "id": "7467304754168250368"
+      },
+      {
+        "interaction": "Liked by Hunter Liao",
+        "link": "https://www.linkedin.com/posts/elad-hershkovitz_thrilled-to-share-that-a-few-months-ago-activity-7455726815337295872-0KZD",
+        "title": "Thrilled to share that a few months ago, I joined Wood Wide AI as a Member of Technical Staff. We\u2019re building the numeric reasoning layer for the\u2026",
+        "img": "https://static.licdn.com/aero-v1/sc/h/53n89ecoxpr1qrki1do3alazb",
+        "id": "7455726815337295872"
+      },
+      {
+        "interaction": "Liked by Hunter Liao",
+        "link": "https://www.linkedin.com/posts/kevinxie06_today-were-launching-soren-yc-f25-over-activity-7454574720940851201-5koU",
+        "title": "Today, we\u2019re launching Soren (YC F25). Over the past few years, AI has transformed what humans can build, understand, and automate. In industries\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4E05AQGWymRimxPd5g/videocover-high/B4EZ3N_hPKIoBQ-/0/1777277488142?e=2147483647&v=beta&t=hLagCe9NcLMHGpwyAo_hCE2ixbTvwsUUc928GsYaMv0",
+        "id": "7454574720940851201"
+      },
+      {
+        "interaction": "Liked by Hunter Liao",
+        "link": "https://www.linkedin.com/posts/david-lom_a-lot-can-change-in-a-month-excited-to-activity-7449940134403313665-M6ta",
+        "title": "A lot can change in a month. Excited to be building Arden (YC P26) with Aryaman Khanna!!",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQGBDLIXjwpa7A/feedshare-shrink_1280/B4EZ2OBEYNHYAQ-/0/1776204138386?e=2147483647&v=beta&t=baAfguwX9MrTv0QcDMT-f07btoJYG2yn1Oyx-MeEqrc",
+        "id": "7449940134403313665"
+      },
+      {
+        "interaction": "Liked by Hunter Liao",
+        "link": "https://www.linkedin.com/posts/wood-wide-ai_thank-you-swartz-center-for-entrepreneurship-activity-7449803073285246976--mgA",
+        "title": "Thank you Swartz Center for Entrepreneurship and BNY for the opportunity to hear from the BNY AI Labs leadership team and share our vision for the\u2026",
+        "img": "https://static.licdn.com/aero-v1/sc/h/53n89ecoxpr1qrki1do3alazb",
+        "id": "7449803073285246976"
+      },
+      {
+        "interaction": "Liked by Hunter Liao",
+        "link": "https://www.linkedin.com/posts/mathisseidl_im-happy-to-share-that-i-will-be-joining-activity-7449180458044706817-vwVV",
+        "title": "I\u2019m happy to share that I will be joining Amazon as an Operations Engineer Intern in Erfurt, Germany, for Summer 2026.",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQFdyt12RBdesA/feedshare-shrink_800/B4EZ2DOJ8QHQAc-/0/1776023019594?e=2147483647&v=beta&t=uTqbxMRAy6ugFUqIAtKZ3659FhVJPkYInZw9RwR9m8E",
+        "id": "7449180458044706817"
+      },
+      {
+        "interaction": "Liked by Hunter Liao",
+        "link": "https://www.linkedin.com/posts/beshalaby_incredibly-grateful-to-share-that-our-team-activity-7444846878384406528-IV-w",
+        "title": "Incredibly grateful to share that our team won 1st Place Overall and 1st Place in the Societal Impact track at YHack 2026! We built Circa a smart\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQH_R3IVFQ9UWw/feedshare-shrink_800/B4EZ1FoyKUGkAc-/0/1774989813164?e=2147483647&v=beta&t=Z_6ldtEyyFBfocmgdpsvX25Y0yR9I_n_bLNz4XjHyr4",
+        "id": "7444846878384406528"
+      },
+      {
+        "interaction": "Liked by Hunter Liao",
+        "link": "https://www.linkedin.com/posts/derek-shen-793641bb_after-a-few-really-rewarding-years-at-bcg-activity-7447094039956426752-IpBO",
+        "title": "After a few really rewarding years at BCG, my time has come to start a new chapter! I\u2019m so excited to be joining the product team at Percepta - a\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQH6FpsDvpJ77A/feedshare-shrink_800/B4EZ1lkkHwHUAc-/0/1775525577854?e=2147483647&v=beta&t=yEkN00oQWc2e4F6G7TvgzKANTyCreKwiTCVCxLjc4Z4",
+        "id": "7447094039956426752"
+      },
+      {
+        "interaction": "Liked by Hunter Liao",
+        "link": "https://www.linkedin.com/posts/omicron-delta-epsilon_were-pleased-to-recognize-shawn-lisann-activity-7383520654999867392-rsY5",
+        "title": "We\u2019re pleased to recognize Shawn Lisann, a finalist for the Undergraduate Research Award, for his paper \u201cWhat Really Drives Effective Corporate\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQHBFhDlITZ91A/feedshare-image-high-res/B56Zm_KIPOIYAs-/0/1759848730924?e=2147483647&v=beta&t=K8rTDG6_ePPGXMUkEafHR5aaRYnidp8UCzkVTlkzKeA",
+        "id": "7383520654999867392"
+      },
+      {
+        "interaction": "Liked by Hunter Liao",
+        "link": "https://www.linkedin.com/posts/kevinxie06_i-left-mit-at-19-now-im-in-y-combinator-activity-7382123138567901185-lg0A",
+        "title": "I left MIT at 19. Now I\u2019m in Y Combinator. It feels a bit surreal to write that. I always knew I wanted to build a startup, but I never knew when\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4D22AQHsnglo77km4A/feedshare-shrink_800/B4DZnGLO0gHsAg-/0/1759966458282?e=2147483647&v=beta&t=5yVxGZ33R-ZgTh68ZJ0TE51AmVsz_jZiYWGIK7wB_T8",
+        "id": "19"
+      },
+      {
+        "interaction": "Liked by Hunter Liao",
+        "link": "https://www.linkedin.com/posts/g-krishna-vamsi_last-weekend-i-had-the-privilege-of-judging-activity-7375567999006797825-TyZk",
+        "title": "Last weekend I had the privilege of judging at HackMIT, and it was nothing short of inspiring. From late-night debugging to polished demos, the\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQF1Ed3BL9JGSA/feedshare-shrink_800/B56ZltH__UJkAg-/0/1758472439858?e=2147483647&v=beta&t=AP7u-3hpxgHQCoODpb_YQNGDDDCpyVsUPdAHQNwecCg",
+        "id": "7375567999006797825"
+      },
+      {
+        "interaction": "Liked by Hunter Liao",
+        "link": "https://www.linkedin.com/posts/mit_qs-ranks-mit-the-worlds-no-1-university-activity-7348409510253719552-IIZN",
+        "title": "QS ranks MIT the world\u2019s No. 1 university for 2025-26. This is the 14th year in a row MIT has received this distinction. https://lnkd.in/epDjAfdV",
+        "img": "https://media.licdn.com/dms/image/v2/D4E10AQG1Ypk8bMjplQ/image-shrink_800/B4EZfrLg4LGwAc-/0/1751997353767?e=2147483647&v=beta&t=ZT1Dl1z7m7x_XCanR5YGsUKHq5FUdgRJK5cnlfRRe30",
+        "id": "1"
+      },
+      {
+        "interaction": "Liked by Hunter Liao",
+        "link": "https://www.linkedin.com/posts/jakob-esterowitz-777755322_its-crazy-what-networking-can-really-do-activity-7338569479171330048-rxAv",
+        "title": "It\u2019s crazy what networking can really do. When Jonah Dickson and I first had the idea to turn old tennis strings into clothing, we had no clue where\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQEG2XeWxfHZTg/feedshare-shrink_800/B4EZdcckgiH0Ag-/0/1749602683640?e=2147483647&v=beta&t=Xbt1jSNNVE9Tr3a_CkfVEtxrTKPhvApiohrd0HkNYTE",
+        "id": "7338569479171330048"
+      }
+    ],
+    "linkedin_num_id": "1225511954",
+    "banner_image": "https://media.licdn.com/dms/image/v2/D4E16AQEL1tzDkHSt5w/profile-displaybackgroundimage-shrink_200_800/B4EZzz0pGgKkAU-/0/1773617190358?e=2147483647&v=beta&t=NAPjNlu3NxsmNHw6G0fs1UFr6ERUoCRtVQx51tcil0g",
+    "honors_and_awards": [
+      {
+        "title": "4x Maryland Singles State Champion",
+        "publication": "MPSSAA",
+        "date": null,
+        "description": null
+      },
+      {
+        "title": "AMC Distinction and AIME Qualifier",
+        "publication": "USAMO",
+        "date": null,
+        "description": null
+      },
+      {
+        "title": "All-USA TODAY Boys Tennis Player of the Year Nominee",
+        "publication": "USA TODAY",
+        "date": null,
+        "description": null
+      },
+      {
+        "title": "Congressional App Challenge Winner",
+        "publication": "CAC",
+        "date": null,
+        "description": null
+      },
+      {
+        "title": "National Merit Scholar",
+        "publication": "NMSQT",
+        "date": null,
+        "description": null
+      }
+    ],
+    "similar_profiles": [],
+    "default_avatar": false,
+    "memorialized_account": false,
+    "bio_links": [],
+    "first_name": "Hunter",
+    "last_name": "Liao",
+    "influencer": false,
+    "timestamp": "2026-08-12T19:06:08.255Z",
+    "input": {
+      "url": "https://www.linkedin.com/in/hunter-liao-3825082a2"
+    }
+  },
+  "local_photo": "data\\linkedin_photos\\hunter-liao-3825082a2__usr-ViDULfC4tFzvB9t.jpg"
+}

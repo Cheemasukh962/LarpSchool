@@ -1,0 +1,142 @@
+{
+  "luma_user_id": "usr-sDvSAeJ93zu6elC",
+  "csv_name": "Ashwin Prabou",
+  "csv_linkedin": "https://www.linkedin.com/in/aprabou",
+  "enriched_at": "2026-08-12T18:58:28.965110+00:00",
+  "batch_id": "sd_msqgad6c2eeefcaqas",
+  "profile": {
+    "id": "aprabou",
+    "name": "Ashwin Prabou",
+    "city": "San Francisco Bay Area",
+    "country_code": "US",
+    "position": null,
+    "about": "I'm a CS student at UC Santa Cruz building across ML and full-stack systems, with a focus\u2026",
+    "current_company": {
+      "link": "https://www.linkedin.com/company/google-summer-of-code-2019?trk=public_profile_topcard-current-company",
+      "name": "Google Summer of Code",
+      "company_id": "google-summer-of-code-2019",
+      "location": null
+    },
+    "experience": null,
+    "url": "https://mx.linkedin.com/in/aprabou",
+    "educations_details": "University of California, Santa Cruz",
+    "education": [
+      {
+        "title": "University of California, Santa Cruz",
+        "url": "https://www.linkedin.com/school/ucsc/",
+        "start_year": "2023-09",
+        "end_year": "2027-06",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      },
+      {
+        "start_year": "2019",
+        "end_year": "2023",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      }
+    ],
+    "avatar": "https://media.licdn.com/dms/image/v2/D5603AQF-Zvva_bca9w/profile-displayphoto-scale_200_200/B56ZyPA5ryGoAc-/0/1771925907428?e=2147483647&v=beta&t=kpnfj5b8-zPP2wcvnu2DXZD81iZUpg1KycJ_h6M_e4g",
+    "followers": 1594,
+    "connections": 500,
+    "current_company_company_id": "google-summer-of-code-2019",
+    "current_company_name": "Google Summer of Code",
+    "projects": [
+      {
+        "title": "Better-Auth (YC S25) \u2013 better-icons",
+        "description": "\u27a4 Built a dynamic versioning system for the better-icons CLI and a preview feature for instant browser-based icon audits\u27a4 Merged PRs through maintainer review on a high-growth authentication tooling project"
+      },
+      {
+        "title": "EY AI & Data Challenge \u2013 1st Place USA, 1st Runner-Up Global",
+        "description": "\u27a4 Built an end-to-end geospatial ML pipeline across 9,300+ records and 3 water-quality targets; designed a two-stage ensemble that lifted leaderboard R\u00b2 by 1.43%\u27a4 Mentored by industry experts to present a deployment plan, exploring stakeholder engagement and scaling our product beyond South Africa"
+      },
+      {
+        "title": "Tideline \u2013 Most Innovative Idea Winner, DataHacks",
+        "description": "\u27a4 Marine heatwave forecasting system using LightGBM: 0.92 AUC at 1-day lead, 83% detection rate, 72-hour probabilistic predictions served via FastAPI/Cloud Run for aquaculture operators\u27a4 Unified feature pipeline integrating NOAA buoys, satellite SST, and CalCOFI data across 1,000+ features; reduced Brier score to 0.061"
+      }
+    ],
+    "location": null,
+    "input_url": "https://www.linkedin.com/in/aprabou",
+    "linkedin_id": "aprabou",
+    "activity": [
+      {
+        "interaction": "Liked by Ashwin Prabou",
+        "link": "https://www.linkedin.com/posts/john-corbacho_wrapped-up-my-internship-at-lennar-last-week-activity-7493074794586869760-gBRB",
+        "title": "Wrapped up my internship at Lennar last week, and I\u2019ve been thinking about how much I was able to learn in such a short amount of time. The main\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQEmKiAO7LS9XA/feedshare-shrink_1280/B4EZ_y_0czG8AQ-/0/1786488244363?e=2147483647&v=beta&t=B_zjozHSe2glwvG4Szavw3pvyZXt_xPrpLazQ0BBAyQ",
+        "id": "7493074794586869760"
+      },
+      {
+        "interaction": "Liked by Ashwin Prabou",
+        "link": "https://www.linkedin.com/posts/tobyzh_i-had-a-blast-taking-jack-silberman-phd-activity-7492701344617611264-PyXO",
+        "title": "I had a blast taking Jack Silberman Ph.D. 's class: DSC 190 - Autonomous Vehicles - Enabling Perception, Understanding Surroundings, and Navigating.\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQHLrsh385uM6Q/feedshare-image-high-res/B56Z.6Hx3xG4AY-/0/1785534030181?e=2147483647&v=beta&t=7bKG3OWHS5NugsPSlf1A6rz2QZ-4QYJE7h3i37EOmsc",
+        "id": "7492701344617611264"
+      },
+      {
+        "interaction": "Liked by Ashwin Prabou",
+        "link": "https://fr.linkedin.com/posts/mamadou-tahirou-diallo-27361032b_cest-avec-un-immense-honneur-que-je-vous-activity-7488928885687087104-X56s",
+        "title": "C'est avec un immense honneur que je vous annonce ma nomination en tant que Pr\u00e9sident de la Commission Scientifique Nationale de l'ASEGUIM pour le\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQGnBOT_AF4o6w/feedshare-shrink_1280/B4EZ.0gUyIKUAQ-/0/1785439800791?e=2147483647&v=beta&t=p-gy5m5nihDoLwT5b6Dn997X-dxDp-JV7fgoqgMcFnk",
+        "id": "7488928885687087104"
+      },
+      {
+        "interaction": "Shared by Ashwin Prabou",
+        "link": "https://www.linkedin.com/posts/aprabou_midterm-reflection-extensions-to-the-scenic-activity-7486419981354831872-RwZg",
+        "title": "Just over half of the summer has passed, and I've been contributing to Scenic by extending its parser to enable more informative reasoning for\u2026",
+        "img": "https://media.licdn.com/dms/image/sync/v2/D5627AQGlmkm7V69dvg/articleshare-shrink_800/B56Z.QxsJEHYAY-/0/1784840373347?e=2147483647&v=beta&t=rxI5hdZf16bES1JxKmlmFah46Pjtxd8IuUx8RaTRfiw",
+        "id": "7486419981354831872"
+      },
+      {
+        "interaction": "Liked by Ashwin Prabou",
+        "link": "https://www.linkedin.com/posts/joedepa_shapethefuturewithconfidence-activity-7485317523996004353-Kwt3",
+        "title": "I'm incredibly proud to see ey. ai The Reimagination Engine go live! There has never been a more exciting time to help clients move from AI\u2026",
+        "img": "https://static.licdn.com/aero-v1/sc/h/53n89ecoxpr1qrki1do3alazb",
+        "id": "7485317523996004353"
+      },
+      {
+        "interaction": "Liked by Ashwin Prabou",
+        "link": "https://www.linkedin.com/posts/soundarya-balasubramani_big-news-for-international-students-whether-activity-7484992077907267584-KSx9",
+        "title": "\ud83d\udea8 BIG NEWS for international students: whether you\u2019re in America or plan to come here. Context: On July 17th, 2026, the Trump administration\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQH3mTRrB6_jSQ/feedshare-shrink_800/B56Z9.1MCuHYAg-/0/1784539300308?e=2147483647&v=beta&t=Ynr-bfc_BBgyeUJMW9sDFcOGyBMMJuaS7JHDnZpRPko",
+        "id": "7484992077907267584"
+      },
+      {
+        "interaction": "Liked by Ashwin Prabou",
+        "link": "https://www.linkedin.com/posts/supriyo-chowdhury-963a01263_me-pretending-i-came-for-the-networking-and-activity-7484959500664201216-Bw8N",
+        "title": "Me pretending I came for the networking and not the GSoC cake \ud83c\udf82\ud83d\udc40 But honestly? Two days of talking to some of the most experienced folks in open\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4D22AQE9FTCrBE9trA/feedshare-shrink_800/B4DZ9_q_8TJsAc-/0/1784553406902?e=2147483647&v=beta&t=6cJmxrFdGfEdjEe-0HqasMi2TH3DYRiFV5pBjGbz11E",
+        "id": "7484959500664201216"
+      },
+      {
+        "interaction": "Liked by Ashwin Prabou",
+        "link": "https://www.linkedin.com/posts/brian-cisto_google-googleinterns-softwareengineering-activity-7484464398657347584-3gbd",
+        "title": "Four weeks in already! Officially one month into my SWE internship at Google Mountain View. \ud83d\ude80 I'm slowly learning my way around the codebase, but\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQHc2dqM5rskCQ/feedshare-shrink_800/B56Z94otGyKcAc-/0/1784435365883?e=2147483647&v=beta&t=-u8YpowkVKmTtLqes28VCp-zZggfdvEr9aRnP6HXVUI",
+        "id": "7484464398657347584"
+      }
+    ],
+    "linkedin_num_id": "1029533554",
+    "banner_image": "https://media.licdn.com/dms/image/v2/D5616AQGXJdFBgMIjmg/profile-displaybackgroundimage-shrink_200_800/B56Z9adcyTG0AY-/0/1783929097615?e=2147483647&v=beta&t=weoq77o2CYkZ9hZH-Yn6E7_fTkyahS2AYQmeQxBoOJs",
+    "honors_and_awards": null,
+    "similar_profiles": [],
+    "default_avatar": false,
+    "memorialized_account": false,
+    "bio_links": [
+      {
+        "title": "Personal Website",
+        "link": "https://aprabou.vercel.app/"
+      }
+    ],
+    "first_name": "Ashwin",
+    "last_name": "Prabou",
+    "influencer": false,
+    "timestamp": "2026-08-12T18:56:43.897Z",
+    "input": {
+      "url": "https://www.linkedin.com/in/aprabou"
+    }
+  },
+  "local_photo": "data\\linkedin_photos\\aprabou__usr-sDvSAeJ93zu6elC.jpg"
+}

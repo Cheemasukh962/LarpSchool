@@ -1,0 +1,189 @@
+{
+  "luma_user_id": "usr-Nl0HgTanxAz0C6I",
+  "csv_name": "Hao Yan",
+  "csv_linkedin": "https://www.linkedin.com/in/hao-yan-212921274",
+  "enriched_at": "2026-08-12T19:06:01.822229+00:00",
+  "batch_id": "sd_msqgh02428smzgu5m",
+  "profile": {
+    "id": "hao-yan-212921274",
+    "name": "Hao Yan",
+    "city": "San Francisco, California, United States",
+    "country_code": "US",
+    "position": null,
+    "about": null,
+    "current_company": {
+      "link": "https://www.linkedin.com/company/traceroot-ai?trk=public_profile_topcard-current-company",
+      "name": "TraceRoot.AI (YC S25)",
+      "company_id": "traceroot-ai",
+      "location": null
+    },
+    "experience": null,
+    "url": "https://co.linkedin.com/in/Hao-yan-212921274",
+    "educations_details": "McMaster University",
+    "education": [
+      {
+        "title": "McMaster University",
+        "url": "https://ca.linkedin.com/school/mcmaster-university/",
+        "start_year": "2025-09",
+        "end_year": "2029-04",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      },
+      {
+        "start_year": "2022-09",
+        "end_year": "2025-06",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      },
+      {
+        "start_year": "2022-09",
+        "end_year": "2025-06",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      }
+    ],
+    "avatar": "https://media.licdn.com/dms/image/v2/D4E03AQHwbxcWw0fsfQ/profile-displayphoto-scale_200_200/B4EZz83UEkJEAY-/0/1773768887949?e=2147483647&v=beta&t=Lv3RGi7P6313wlFF1lAf6Kcq9Q2nyoJcmdoLKwwn-yI",
+    "languages": [
+      {
+        "subtitle": "Native or bilingual proficiency",
+        "title": "English"
+      },
+      {
+        "subtitle": "Full professional proficiency",
+        "title": "Mandarin"
+      }
+    ],
+    "followers": 798,
+    "connections": 500,
+    "current_company_company_id": "traceroot-ai",
+    "current_company_name": "TraceRoot.AI (YC S25)",
+    "publications": [
+      {
+        "title": "Kalman Filtering Under Noisy Measurement Conditions",
+        "date": "February 28, 2025",
+        "description": "\ud83d\udccaFormal derivation and quantitative evaluation of state estimation convergence under varying noise covariance models."
+      }
+    ],
+    "projects": [
+      {
+        "title": "ClaudeOps",
+        "start_date": "Mar 2026",
+        "description": "\ud83e\udd16 An orchestrated team of Claude-powered AI agents that takes a GitLab issue and autonomously produces a complete, ready-to-review MR \u2014 with code, tests, and a security scan"
+      },
+      {
+        "title": "Neurinese",
+        "start_date": "Dec 2025",
+        "description": "\u270d\ufe0f Grammarly/Copilot for Handwritten Chinese"
+      },
+      {
+        "title": "Syntra - AI Calendar",
+        "start_date": "Nov 2025",
+        "description": "\ud83e\udde0 Learn and improve your own habits and time management"
+      },
+      {
+        "title": "VerifAI",
+        "start_date": "Feb 2026",
+        "description": "Multimodal misinformation detection across text, video, and images"
+      },
+      {
+        "title": "Color Spot",
+        "start_date": "Nov 2025",
+        "description": "\ud83c\udfa8"
+      },
+      {
+        "title": "Motion Algorithm Simulator",
+        "start_date": "Oct 2024",
+        "description": "\ud83d\udd79\ufe0f"
+      },
+      {
+        "title": "Discord Giveaway Bot",
+        "start_date": "Feb 2022",
+        "description": "\ud83c\udf89 Peaked at 50K users"
+      }
+    ],
+    "location": "San Francisco",
+    "input_url": "https://www.linkedin.com/in/hao-yan-212921274",
+    "linkedin_id": "hao-yan-212921274",
+    "activity": [
+      {
+        "interaction": "Hao Yan shared this",
+        "link": "https://www.linkedin.com/posts/hao-yan-212921274_excited-to-share-that-ive-been-given-the-activity-7465808762528792576-eYA6",
+        "title": "Excited to share that I've been given the opportunity to join TraceRoot.AI (YC S25) as a Software Engineering Intern down in San Francisco this summer! I'm especially excited to work at the intersection of AI agents, developer tooling, and infrastructure \u2014 building directly with the founder, talking to users, and shipping fast in a startup environment. TraceRoot is building the self-healing layer for AI agents \u2014 helping engineering teams trace, debug, and automatically fix agentic systems in production. If your team is shipping AI agents and thinking about reliability or debugging, it's worth checking out. Huge thank you to Xinwei He for this opportunity. Can't wait to get started. If you're in the Bay Area this summer, would love to connect! ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQHoKFTFOEdhVA/feedshare-shrink_800/B56Z5teIIFHAAc-/0/1779953074931?e=2147483647&v=beta&t=s9K4xshbdMGuVjvsJlQ55fr5ISFNTIRwgRJNdBPL75Q",
+        "id": "7465808762528792576"
+      },
+      {
+        "interaction": "Hao Yan liked this",
+        "link": "https://www.linkedin.com/posts/marie-adant_i-personally-found-my-job-at-corgi-yc-s24-activity-7493082586605318144-1WcD",
+        "title": "I personally found my job at Corgi (YC S24) by going to an in-person recruiting event instead of applying online, and it quite literally changed my life. This is why I'm super excited to partner with Y Combinator 's Internship Expo this Saturday, August 15th, from 10 am to 5 pm. There will be over 50 of YC's top startups, on-site interviews, coding challenges, food trucks, and YC merch. If you're a talented young person looking to break into startups, take this as your sign. Spots are limited and acceptance-only, so apply using the link below + drop a comment once you've applied so I can refer you: https://yc.link/r/FUmXCywS",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQHCuRM1PBpxdA/feedshare-shrink_800/B56Z_y8iN1H0Ag-/0/1786487384063?e=2147483647&v=beta&t=RZrj46pwL3wpBwnzo7TC-KmEP2ZF52fJ81195ljmorY",
+        "id": "7493082586605318144"
+      },
+      {
+        "interaction": "Hao Yan liked this",
+        "link": "https://www.linkedin.com/posts/tyler-wortley_today-marked-my-last-day-as-a-cloud-data-activity-7491666113110417408-SL6-",
+        "title": "Today marked my last day as a Cloud, Data, and AI Intern at PwC ! Over the past few months, I have had the opportunity to get hands-on with spatial data modelling and agentic architecture. A few highlights from the summer: \u2022 I implemented a density-based clustering algorithm to map and analyze large-scale regional incident data, identifying spatial hotspots for resource deployment optimization. \u2022 I attended TMLS - Toronto Machine Learning Summit , where I connected with ML practitioners, researchers, and executives to learn about the cutting-edge work being deployed across the industry. Talks and workshop topics included long-context training, foundation models, and reinforcement learning. \u2022 I developed a comprehensive benchmark comparing an internal SDK against standard agentic systems, which demonstrated up to a 26% F1 improvement and quantified the specific efficiency trade-offs of these systems. A massive thank you to Shiva Sathia , Ryan Barnhart , Melika Vahdat , and Andrew F. for the support over the summer, and I\u2019m incredibly grateful to everyone else I had the pleasure of connecting with along the way. Excited for what\u2019s next!",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQFgokzOy0JChQ/feedshare-shrink_800/B56Z_e.oKsGQAc-/0/1786152388245?e=2147483647&v=beta&t=KP0KLQLyCPHkci7uCt4vjezFvskbZdBQmptto_wtHVo",
+        "id": "7491666113110417408"
+      },
+      {
+        "interaction": "Hao Yan liked this",
+        "link": "https://www.linkedin.com/posts/disara-kodisinghe_excited-to-share-that-ill-be-joining-samsung-activity-7491537590936829952-kdyF",
+        "title": "Excited to share that I\u2019ll be joining Samsung Electronics as an AI/Automation Engineer Intern for the fall 2026 work term. A big thank you to Dhriti Joneja and Angela Yoonsun Shin for the opportunity.",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQGNBeasb9eM1g/feedshare-shrink_800/B56Z_dJvgNH0Ac-/0/1786121746691?e=2147483647&v=beta&t=3PvXAZvVJt5WJ6ncqJE9FGRQ5tx0L-132l9YjPKtGcY",
+        "id": "7491537590936829952"
+      },
+      {
+        "interaction": "Hao Yan liked this",
+        "link": "https://www.linkedin.com/posts/xinwei-he-586512134_ai4-ai42026-aiagents-activity-7490497322078846976-SFu8",
+        "title": "We're live at Ai4 2026 \u2014 America's largest AI conference \u2014 at the Venetian in Las Vegas! \ud83c\udfb0 Come find TraceRoot.AI (YC S25) at Booth K816. We are building the open-source self-improving layer for AI agents \u2014 observability that detects failures in production, root-causes them against your source code and GitHub history, opens verified fix PRs, and evals every fix \u2014 so your agent gets better with every release. If you're at Ai4, stop by K816 \u2014 we'd love to show you a live demo and hear what you're building with agents. \ud83d\udc4b #Ai4 #Ai42026 #AIagents #observability #opensource #LLM #AI",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQEwc9hesJJtaQ/feedshare-image-high-res/B56Z_OXnyrHUAU-/0/1785873727110?e=2147483647&v=beta&t=9MsuV8VGLxKZkuU1DFLDpYVKWvrFeus5aWjKr6WXZQE",
+        "id": "7490497322078846976"
+      },
+      {
+        "interaction": "Hao Yan liked this",
+        "link": "https://www.linkedin.com/posts/xinwei-he-586512134_tracerootai-yc-s25-now-natively-traces-activity-7488000275077812224-a9UE",
+        "title": "TraceRoot.AI (YC S25) now natively traces pi-mono! A few weeks ago Databricks benchmarked coding agents on their own multi-million-line codebase. The surprise winner on cost-efficiency: pi \u2014 the minimal, white-box harness from Mario Zechner . Running the same models, it matched the vendor harnesses (Claude Code / Codex) on quality at up to 2\u00d7 lower cost per task \u2014 mostly because it feeds the model ~3\u00d7 less context per turn: a tighter working set, fewer runs. Honestly, I've been recommending pi to my founder friends for a while now: it's minimal, fully customizable (the whole harness is yours to edit), and you adapt it to your workflow instead of the other way around. If you're building agents, it's worth a serious look. And the moment you host one in your product, observability stops being optional. And now you can see exactly what a pi run is doing with traceroot! 1. CLI extension \u2192 if you run pi as a coding agent `pi install npm:@traceroot-ai/pi-extension` Every pi run you kick off from the terminal gets traced automatically \u2014 conversation turns, LLM calls, tool executions, cost, tokens. 2. pi SDK wrapper (v0.1.8) \u2192 if you build on pi inside your own product When pi is the engine behind your customer-facing agent, wire it in with a few lines: `TraceRoot.initialize({ instrumentModules: { piCodingAgent: pi } })` Traces flow straight to our cloud platform \u2014 into CI or any automations. Same rich output either way: per-query traces, planning \u2192 every tool call \u2192 final output, with the token count on each step \u2014 so you can watch where your context budget goes, and see for yourself why pi is so lean. Open source, free tier, a few lines to get going. - pi extension: https://lnkd.in/eMCdkp7W - SDK (v0.1.8): https://lnkd.in/eVnMcV4u Give it a try! \ud83d\udc49 app.traceroot.ai",
+        "img": "https://media.licdn.com/dms/image/v2/D4E05AQE1KiF8_WtoYQ/videocover-high/B4EZ.q4jVxHoBM-/0/1785278380696?e=2147483647&v=beta&t=tElb2KQE0JiFeQRj6anqJ5ihkcHAxU06RCJh4xL3XCk",
+        "id": "7488000275077812224"
+      },
+      {
+        "interaction": "Hao Yan liked this",
+        "link": "https://www.linkedin.com/posts/xinwei-he-586512134_tracerootai-yc-s25-now-has-dashboards-activity-7485881807477821440-5fD8",
+        "title": "TraceRoot.AI (YC S25) now has dashboards, purpose-built for AI agents! \ud83d\udcca Individual traces are perfect for deep dives. But when you want the big picture \u2014 latency, cost, tokens, and error rate across all your agents over time \u2014 aggregated metrics just belong in a dashboard. So we built one. What's in Dashboard v1: - A seeded Overview dashboard out of the box, so you're never staring at a blank page - A widget builder with live preview \u2014 build the charts you want and watch them render as you go - Time-series charts with percentiles, averages, counts, and category breakdowns, over any time range - A trace-feed widget where every row clicks straight through to the actual trace behind the number Coming soon: - Pull your dashboard's aggregated metrics straight from the CLI \ud83d\udda5\ufe0f - Create persistent dashboards from the CLI instead of the UI stay tuned~ \ud83d\udc49 app.traceroot.ai",
+        "img": "https://media.licdn.com/dms/image/v2/D5605AQEQYZdN63iklQ/videocover-high/B56Z.Mx0LFKABM-/0/1784773298012?e=2147483647&v=beta&t=2bZ1G8yK0640JAZB5I4KG6T6lIpELn2q0nWKuOFRow8",
+        "id": "7485881807477821440"
+      },
+      {
+        "interaction": "Hao Yan liked this",
+        "link": "https://www.linkedin.com/posts/mazen-youssef1004_im-excited-to-share-that-ive-joined-rbc-activity-7483519563897282560-ftUu",
+        "title": "I'm excited to share that I've joined RBC Borealis as a Machine Learning Software Engineer! I\u2019m incredibly grateful for this opportunity and excited to work on ML systems and tools with impact across the organization. I look forward to building solutions that make people\u2019s work easier, faster, and more efficient. A big thank you to Ryan Crawford and Salma Arabie for all of your support throughout the hiring process. I'm looking forward to learning, growing, and contributing to the incredible work being done at RBC Borealis.",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQFTnL6C2fejlw/feedshare-shrink_800/B56Z9oPRqwGcAc-/0/1784160263093?e=2147483647&v=beta&t=NBWLWPNwjr7THc7K0Q2SyHFpsJ5Fozfgw07br2zOedI",
+        "id": "7483519563897282560"
+      }
+    ],
+    "linkedin_num_id": "1125012974",
+    "banner_image": "https://media.licdn.com/dms/image/v2/D5616AQFtSGaJhxg-GA/profile-displaybackgroundimage-shrink_200_800/B56Z.msSFHGoAU-/0/1785208055355?e=2147483647&v=beta&t=fNvKbE3gNk7QeYBIG1GUD9ze8kdJy4dur364nHsLxpA",
+    "honors_and_awards": null,
+    "similar_profiles": [],
+    "default_avatar": false,
+    "memorialized_account": false,
+    "bio_links": [
+      {
+        "title": "Personal Website",
+        "link": "https://haoyan.ca/"
+      }
+    ],
+    "first_name": "Hao",
+    "last_name": "Yan",
+    "influencer": false,
+    "timestamp": "2026-08-12T19:02:49.143Z",
+    "input": {
+      "url": "https://www.linkedin.com/in/hao-yan-212921274"
+    }
+  },
+  "local_photo": "data\\linkedin_photos\\hao-yan-212921274__usr-Nl0HgTanxAz0C6I.jpg"
+}

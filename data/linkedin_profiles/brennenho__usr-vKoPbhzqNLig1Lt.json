@@ -1,0 +1,65 @@
+{
+  "luma_user_id": "usr-vKoPbhzqNLig1Lt",
+  "csv_name": "Brennen Ho",
+  "csv_linkedin": "https://www.linkedin.com/in/brennenho",
+  "enriched_at": "2026-08-12T18:59:59.562746+00:00",
+  "batch_id": "sd_msqgcuh41lygyhc91a",
+  "profile": {
+    "id": "brennenho",
+    "name": "Brennen Ho",
+    "city": "Palo Alto, California, United States",
+    "country_code": "US",
+    "position": null,
+    "about": "I create intuitive products that simplify, accelerate, and personalize \u2014 with an emphasis\u2026",
+    "current_company": {
+      "location": null
+    },
+    "experience": null,
+    "url": "https://cl.linkedin.com/in/brennenho",
+    "educations_details": "University of Southern California",
+    "education": [
+      {
+        "title": "University of Southern California",
+        "url": "https://www.linkedin.com/school/university-of-southern-california/",
+        "start_year": "2023",
+        "end_year": "2027",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      },
+      {
+        "start_year": "2019-08",
+        "end_year": "2023-06",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      }
+    ],
+    "avatar": "https://static.licdn.com/aero-v1/sc/h/9c8pery4andzj6ohjkjp54ma2",
+    "followers": 1229,
+    "connections": 500,
+    "location": "Palo Alto",
+    "input_url": "https://www.linkedin.com/in/brennenho",
+    "linkedin_id": "brennenho",
+    "activity": null,
+    "linkedin_num_id": "891290036",
+    "banner_image": "https://static.licdn.com/aero-v1/sc/h/5q92mjc5c51bjlwaj3rs9aa82",
+    "honors_and_awards": null,
+    "similar_profiles": [],
+    "default_avatar": true,
+    "memorialized_account": false,
+    "bio_links": [
+      {
+        "title": "Personal Website",
+        "link": "https://brennen.dev/"
+      }
+    ],
+    "first_name": "Brennen",
+    "last_name": "Ho",
+    "influencer": false,
+    "timestamp": "2026-08-12T18:58:39.554Z",
+    "input": {
+      "url": "https://www.linkedin.com/in/brennenho"
+    }
+  }
+}

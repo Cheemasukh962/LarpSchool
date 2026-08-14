@@ -1,0 +1,323 @@
+{
+  "luma_user_id": "usr-bvUo9WLBWQIFGSr",
+  "csv_name": "IMINABO ROBERTS",
+  "csv_linkedin": "https://www.linkedin.com/in/iminabo-roberts",
+  "enriched_at": "2026-08-12T19:07:22.275136+00:00",
+  "batch_id": "sd_msqgmjx4y9b9cgg4i",
+  "profile": {
+    "id": "iminabo-roberts",
+    "name": "Iminabo Roberts",
+    "city": "Grambling, Louisiana, United States",
+    "country_code": "US",
+    "position": null,
+    "about": "I\u2019m interested in building high performance systems where latency, correctness, and scale\u2026",
+    "current_company": {
+      "link": "https://www.linkedin.com/company/mongodbinc?trk=public_profile_topcard-current-company",
+      "name": "MongoDB",
+      "company_id": "mongodbinc",
+      "location": null
+    },
+    "experience": null,
+    "url": "https://sa.linkedin.com/in/iminabo-roberts",
+    "education": null,
+    "avatar": "https://media.licdn.com/dms/image/v2/D5603AQFgV01Zdrmbbw/profile-displayphoto-scale_200_200/B56Z_FcN8JGsAc-/0/1785723937920?e=2147483647&v=beta&t=eTPQWNCWH0H5QVLU-e-rpxcYYDAxShCryv1QLj3PYeI",
+    "courses": [
+      {
+        "subtitle": "-",
+        "title": "Data Visualization with Python"
+      },
+      {
+        "subtitle": "CS 6.006",
+        "title": "MIT OCW Data Structure and Algorithms"
+      },
+      {
+        "subtitle": "-",
+        "title": "Machine Learning by Andrew Ng"
+      },
+      {
+        "subtitle": "-",
+        "title": "Tools for Data Science by IBM"
+      }
+    ],
+    "certifications": [
+      {
+        "meta": "Issued Aug 2025 See credential",
+        "subtitle": "CodePath",
+        "title": "Intro to Cybersecurity",
+        "credential_url": "https://drive.google.com/file/d/1Tysdd-BPMxcfO78guz21zjZbdd4GbpKW/view?trk=public_profile_see-credential",
+        "credential_id": null
+      },
+      {
+        "meta": "Issued Jul 2025 Credential ID 446999af-6dd2-4af8-862f-cc5f5b788d89 See credential",
+        "subtitle": "IBM",
+        "title": "Building AI Solutions Using Advanced Algorithms and Open Source Frameworks",
+        "credential_url": "https://www.credly.com/badges/446999af-6dd2-4af8-862f-cc5f5b788d89/linked_in_profile?trk=public_profile_see-credential",
+        "credential_id": "446999af-6dd2-4af8-862f-cc5f5b788d89"
+      },
+      {
+        "meta": "Issued Dec 2024 Credential ID 13b90bd5-5d97-415e-b60a-c6567dd34986 See credential",
+        "subtitle": "IBM",
+        "title": "Getting Started with Artificial Intelligence",
+        "credential_url": "https://www.credly.com/badges/13b90bd5-5d97-415e-b60a-c6567dd34986/linked_in_profile?trk=public_profile_see-credential",
+        "credential_id": "13b90bd5-5d97-415e-b60a-c6567dd34986"
+      },
+      {
+        "meta": "Issued Dec 2024 Credential ID 12fb955e-0c83-4a36-afab-db3097afa1c8 See credential",
+        "subtitle": "IBM",
+        "title": "Getting Started with Cybersecurity",
+        "credential_url": "https://www.credly.com/badges/12fb955e-0c83-4a36-afab-db3097afa1c8/linked_in_profile?trk=public_profile_see-credential",
+        "credential_id": "12fb955e-0c83-4a36-afab-db3097afa1c8"
+      },
+      {
+        "meta": "Issued Nov 2024 Credential ID b1d00fa2-2f19-49d1-a51e-47bf6c0b9ee8 See credential",
+        "subtitle": "IBM",
+        "title": "Getting Started with Data",
+        "credential_url": "https://www.credly.com/badges/b1d00fa2-2f19-49d1-a51e-47bf6c0b9ee8/linked_in_profile?trk=public_profile_see-credential",
+        "credential_id": "b1d00fa2-2f19-49d1-a51e-47bf6c0b9ee8"
+      }
+    ],
+    "volunteer_experience": [
+      {
+        "duration": "Jun 2025 \u00b7 - \nAug 2025 \u00b7 \n3 months",
+        "duration_short": "- \nAug 2025",
+        "start_date": "Jun 2025",
+        "subtitle": "eBay",
+        "title": "Pathways Program"
+      },
+      {
+        "duration": "Jan 2025 \u00b7 - \nSep 2025 \u00b7 \n9 months",
+        "duration_short": "- \nSep 2025",
+        "start_date": "Jan 2025",
+        "subtitle": "Intel Corporation",
+        "title": "Student Ambassador"
+      },
+      {
+        "duration": "Jun 2025 \u00b7 - \nAug 2025 \u00b7 \n3 months",
+        "duration_short": "- \nAug 2025",
+        "start_date": "Jun 2025",
+        "subtitle": "NVIDIA",
+        "title": "Summer Bridge"
+      },
+      {
+        "duration": "Nov 2024 \u00b7 - \nAug 2025 \u00b7 \n10 months",
+        "duration_short": "- \nAug 2025",
+        "info": "Selected to participate in the Engineering Possibilities Summit to learn about software engineering, systems engineering, cyber security, and quantitative strategy",
+        "start_date": "Nov 2024",
+        "subtitle": "Goldman Sachs",
+        "title": "Possibilities Summit"
+      },
+      {
+        "duration": "May 2025 \u00b7 - \nJun 2025 \u00b7 \n2 months",
+        "duration_short": "- \nJun 2025",
+        "start_date": "May 2025",
+        "subtitle": "Capital One",
+        "title": "First Gen Focus"
+      },
+      {
+        "duration": "May 2025 \u00b7 - \nApr 2026 \u00b7 \n1 year",
+        "duration_short": "- \nApr 2026",
+        "start_date": "May 2025",
+        "subtitle": "National Society of Black Engineers",
+        "title": "Community Service Chair"
+      },
+      {
+        "duration": "Nov 2024 \u00b7 - Present \u00b7 \n\n1 year 10 months",
+        "duration_short": "- Present",
+        "start_date": "Nov 2024",
+        "subtitle": "The Lantern Network",
+        "title": "Mentee"
+      },
+      {
+        "duration": "Feb 2023 \u00b7 - \nAug 2024 \u00b7 \n1 year 7 months",
+        "duration_short": "- \nAug 2024",
+        "start_date": "Feb 2023",
+        "subtitle": "EducationUSA",
+        "title": "EducationUSA Scholar"
+      },
+      {
+        "duration": "Aug 2025 \u00b7 - \nMay 2026 \u00b7 \n10 months",
+        "duration_short": "- \nMay 2026",
+        "info": "Selected to be a fellow and won the annual hackathon",
+        "start_date": "Aug 2025",
+        "subtitle": "Code2040",
+        "title": "Fellow"
+      }
+    ],
+    "followers": 1228,
+    "connections": 500,
+    "current_company_company_id": "mongodbinc",
+    "current_company_name": "MongoDB",
+    "projects": [
+      {
+        "title": "ClassSync",
+        "start_date": "Mar 2025",
+        "description": "Collaborated to develop an iOS app that streamlines real-time class attendance tracking using Nearby Share to detect student presence and trigger instant alerts"
+      },
+      {
+        "title": "MissDiagnosis AI",
+        "start_date": "Nov 2024",
+        "description": "Built a microservices-based AI bot that checks health news and warns doctors about any potential misdiagnoses in a patient's Electronic Health Record and warns about any pandemic/epidemic"
+      },
+      {
+        "title": "Theraplane AI",
+        "start_date": "Oct 2024",
+        "description": "Theraplane is an innovative AI-powered therapist scheduling tool designed specifically for college students and counselors. Imagine a chatbox that not only engages users with tailored questions but also analyzes their responses to gauge the urgency of their psychological needs. If Theraplane detects severe depression or suicidal thoughts, it flags the situation as urgent, ensuring a prompt appointment. Conversely, if it identifies mild stress, it schedules a later date. This proactive approach could revolutionize mental health support on campuses!"
+      },
+      null,
+      null,
+      null,
+      {
+        "title": "IRecycle GramHack 2024",
+        "start_date": "Sep 2024",
+        "description": "Led a team to develop a web application that classifies trash and suggests ways to recycle them instead of discarding them"
+      },
+      null,
+      null,
+      null,
+      null,
+      {
+        "title": "Image2Sound",
+        "start_date": "Dec 2023",
+        "description": "Developed a program that would turn a coloured image to piano musical notes"
+      }
+    ],
+    "location": "Grambling",
+    "input_url": "https://www.linkedin.com/in/iminabo-roberts",
+    "linkedin_id": "iminabo-roberts",
+    "activity": [
+      {
+        "interaction": "Liked by Iminabo Roberts",
+        "link": "https://www.linkedin.com/posts/maryokumodi_today-im-20-and-honestly-im-just-sitting-activity-7492249862114017280-8mLq",
+        "title": "Today, I\u2019m 20! And honestly? I\u2019m just sitting here feeling overwhelmingly grateful. Looking back at the journey so far as a girl from Nigeria with\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQHjqvS2g_7suA/feedshare-shrink_1280/B56Z_nRjKqG4AM-/0/1786291565452?e=2147483647&v=beta&t=LwS0u2uM226QaOzRImFPxgDb5e4IG5npLYURwC5kTvI",
+        "id": "20"
+      },
+      {
+        "interaction": "Liked by Iminabo Roberts",
+        "link": "https://www.linkedin.com/posts/oluwatamilore-bamidele-sanni_%F0%9D%90%93%F0%9D%90%A1%F0%9D%90%9E-%F0%9D%90%92%F0%9D%90%AD%F0%9D%90%9A%F0%9D%90%9C%F0%9D%90%A4%F0%9D%90%9E%F0%9D%90%9D-%F0%9D%90%94%F0%9D%90%A9-%F0%9D%90%92%F0%9D%90%AE%F0%9D%90%A6%F0%9D%90%A6%F0%9D%90%A2%F0%9D%90%AD-%F0%9D%90%B0%F0%9D%90%9A%F0%9D%90%AC-activity-7492322496646402048-GP9y",
+        "title": "\ud835\udc13\ud835\udc21\ud835\udc1e \ud835\udc12\ud835\udc2d\ud835\udc1a\ud835\udc1c\ud835\udc24\ud835\udc1e\ud835\udc1d \ud835\udc14\ud835\udc29 \ud835\udc12\ud835\udc2e\ud835\udc26\ud835\udc26\ud835\udc22\ud835\udc2d \ud835\udc30\ud835\udc1a\ud835\udc2c \ud835\udc00\ud835\udc0c\ud835\udc00\ud835\udc19\ud835\udc08\ud835\udc0d\ud835\udc06!!!!!! Two weeks ago, I wrote about how much I was looking forward to the Stacked Up\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQGnP1EOvneKVw/feedshare-shrink_800/B56Z_oTmsgG4Ac-/0/1786308881427?e=2147483647&v=beta&t=e3HDFnpEiU1wQypbBbbdTXXJmmNN-c79c4aaTgyvKew",
+        "id": "7492322496646402048"
+      },
+      {
+        "interaction": "Liked by Iminabo Roberts",
+        "link": "https://www.linkedin.com/posts/olasubomiawodipe_time-really-goes-by-fast-a-few-months-ago-activity-7492027792138625024-ra5V",
+        "title": "Time really goes by fast. A few months ago, I shared that I'd be joining Microsoft within the CISO organization, working on the control plane for\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQHPeQBLORCEQA/feedshare-image-high-res/B56Z_kHkNPGgAU-/0/1786238618152?e=2147483647&v=beta&t=qAyoB_AqzXcQjdIXfUMhFm0OKaWtSv63ii_7xlSv2Os",
+        "id": "7492027792138625024"
+      },
+      {
+        "interaction": "Liked by Iminabo Roberts",
+        "link": "https://www.linkedin.com/posts/netzerepstein_in-the-past-half-year-i-participated-in-spar-activity-7490040064425652224-20OK",
+        "title": "In the past half year I participated in SPAR AI Safety fellowship, working on evaluation awareness (more on that in the future - I know, there have\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4D22AQFHpC4jA9tIbA/feedshare-shrink_800/B4DZ.seRv5KwAc-/0/1785305046333?e=2147483647&v=beta&t=gdByF-db0yRqD9IgJ2wlZAdmWrPQhxomN7DnPzNSWX8",
+        "id": "7490040064425652224"
+      },
+      {
+        "interaction": "Liked by Iminabo Roberts",
+        "link": "https://www.linkedin.com/posts/emmanuelreese_hello-linkedin-family-i-am-happy-to-share-activity-7491867829177143297-O1rC",
+        "title": "Hello LinkedIn family, I am happy to share that I have successfully completed my internship at Apple as a Software Engineer! \ud83c\udf89 I had an amazing\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQHujmD42NLz_Q/feedshare-shrink_800/B56Z_h2FffHcAc-/0/1786200481177?e=2147483647&v=beta&t=UJnvH8U8oQRwcBcjsP3_S2Z93iSJ0Rkf3iknouvSfJA",
+        "id": "7491867829177143297"
+      },
+      {
+        "interaction": "Liked by Iminabo Roberts",
+        "link": "https://www.linkedin.com/posts/ayodejiades_coherelabs-openscience-machinelearning-activity-7491254573496586241-nXJ8",
+        "title": "I just finished the Cohere Labs Open Science ML Summer School. What I like most about Cohere Labs' open-science community is how they prioritise real\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQGMZF8Tx76jwg/feedshare-shrink_800/B4EZ_ZIVhpHMAg-/0/1786054269551?e=2147483647&v=beta&t=DFw-EDnLFkrnEoZoHga0IIDeAidZiHsh6a_2Lj17eAE",
+        "id": "7491254573496586241"
+      },
+      {
+        "interaction": "Liked by Iminabo Roberts",
+        "link": "https://www.linkedin.com/posts/maya-mukabe_nationalurbanleague-nulconference-beep-activity-7490817401823952896-XVWz",
+        "title": "How can a just God allow men to be shipped into slavery from Africa into the Western world? That was the question posed by Van Jones as the\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQH2CUd4ThNSXA/feedshare-shrink_1280/B4EZ_S4D5VH4AQ-/0/1785949339477?e=2147483647&v=beta&t=2HNqX7cZdvBjmT3ThVsOjhsVga7DE950yNOlkfzdnU0",
+        "id": "7490817401823952896"
+      },
+      {
+        "interaction": "Liked by Iminabo Roberts",
+        "link": "https://www.linkedin.com/posts/j-udo_i-spent-this-entire-summer-playing-gta-activity-7490905278008287232-tZ6V",
+        "title": "I spent this entire summer playing GTA Okay... not exactly. But working with the CARLA simulator (which looks a bit like GTA but is designed for\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQEi9rMAufxAzA/feedshare-shrink_1280/B4EZ_UKpM5KUAU-/0/1785970988547?e=2147483647&v=beta&t=LlGVymblVrJjn82wV1EN53p9owJi2VNBXEGbCRsBVG0",
+        "id": "7490905278008287232"
+      },
+      {
+        "interaction": "Liked by Iminabo Roberts",
+        "link": "https://www.linkedin.com/posts/natwange-chiwele_sf-weekend-recap-first-stackedup-summit-activity-7490813913748488193-6GVO",
+        "title": "SF weekend recap \u2728 \u2022 First StackedUp Summit \u2705 \u2022 An inspiring keynote from Kay Malcolm about staying resilient in the face of adversity and staying\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQEZtU19cukROg/feedshare-image-high-res/B4EZ_R3oT5KsAU-/0/1785932452265?e=2147483647&v=beta&t=EBOquy5ob1189_GVGAYsA0Bv-jjwP7_sazZPSkCMIRM",
+        "id": "7490813913748488193"
+      },
+      {
+        "interaction": "Liked by Iminabo Roberts",
+        "link": "https://www.linkedin.com/posts/ladicodes_last-week-the-tech-odyssey-by-gdg-on-campus-activity-7490837837714538496-gU6n",
+        "title": "Last week, The Tech Odyssey by GDG On Campus UNILAG came to an end, and I can confidently say it was a huge success. In just four days, we visited\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQFS8_c7n0EOTw/feedshare-image-high-res/B4EZ_TNTMiKQAU-/0/1785954910554?e=2147483647&v=beta&t=h_DmkDurp9Zo3GIc2I-2hPGDjXqjMCEeDhMLQF53gIk",
+        "id": "7490837837714538496"
+      },
+      {
+        "interaction": "Liked by Iminabo Roberts",
+        "link": "https://www.linkedin.com/posts/brawal_congratulations-to-all-of-youwe-are-incredibly-activity-7484256642541309952-u_aw",
+        "title": "Congratulations to all of you\u2014we are incredibly proud of your achievements!",
+        "img": "https://static.licdn.com/aero-v1/sc/h/53n89ecoxpr1qrki1do3alazb",
+        "id": "7484256642541309952"
+      },
+      {
+        "interaction": "Liked by Iminabo Roberts",
+        "link": "https://www.linkedin.com/posts/billco22_microsoftinterns-microsoftlife-softwareengineering-activity-7490563898023018496--o5N",
+        "title": "I just wrapped up my final presentation. And I'm happy to say that I got to experience Microsoft beyond my project. \ud835\udc03\ud835\udc1a\ud835\udc32 \ud835\udfd7: \ud835\udc04\ud835\udc27\ud835\udc23\ud835\udc28\ud835\udc32 \ud835\udc2d\ud835\udc21\ud835\udc1e\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQFj-1EkpcUjyw/feedshare-image-high-res/B56Z_PUKjfG4AU-/0/1785889600011?e=2147483647&v=beta&t=yGMkb64G-CL-Sm8aowSZU7BKfDK5jwo5nikO-CeGHgQ",
+        "id": "7490563898023018496"
+      },
+      {
+        "interaction": "Liked by Iminabo Roberts",
+        "link": "https://www.linkedin.com/posts/filippo-fonseca_yc-sf-ai-activity-7487584649012133888-FJMb",
+        "title": "after an insane weekend in SF, I'm back from Y Combinator Startup School 2026, where ~5k top builders and researchers were invited to hear the likes\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQEIjH17Nl7ShA/feedshare-image-high-res/B4EZ.k.jmlIgAU-/0/1785179290396?e=2147483647&v=beta&t=jr75PlxYKOo1McJu7lX6nTgH2M5_v-rWcoDrPo1TIRo",
+        "id": "7487584649012133888"
+      },
+      {
+        "interaction": "Liked by Iminabo Roberts",
+        "link": "https://www.linkedin.com/posts/ellaobd_tmcf-gramfam-hbcupride-activity-7484236070520315905-sU44",
+        "title": "From July 8\u201312, I had the opportunity to attend TMCF DEVCON Houston, and I\u2019m so grateful to have been selected for my first Thurgood Marshall College\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQHKhnFb2eAHFw/feedshare-image-high-res/B56Z91ZCFMHcAU-/0/1784380927394?e=2147483647&v=beta&t=xH5ykmPC2J8cKvCUI5czgYoKKAPDQAcHJoELFH2zjxY",
+        "id": "7484236070520315905"
+      },
+      {
+        "interaction": "Liked by Iminabo Roberts",
+        "link": "https://www.linkedin.com/posts/lilyynguyy_i-got-into-jane-street-twice-in-one-summer-activity-7490585003802767360-qpCD",
+        "title": "I got into Jane Street twice in one summer. Last May, I attended their FOCUS program, and soon, I\u2019ll be heading back for a longer stay as part of\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQHpOwO7GW5ZGw/feedshare-shrink_800/B56Z_PnWICGgAc-/0/1785894626062?e=2147483647&v=beta&t=DF_1ftIaia8HM_8jRfVFciUhPRFTyvSCDlyvzkvkU2A",
+        "id": "7490585003802767360"
+      }
+    ],
+    "linkedin_num_id": "1061855210",
+    "banner_image": "https://media.licdn.com/dms/image/v2/D4D16AQG0fquvq8HbZg/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1736073959605?e=2147483647&v=beta&t=DJZ8-3Byvxnl4ziJcuXJGNP8hdVMkhEmRzwaqszJFn4",
+    "honors_and_awards": [
+      {
+        "title": "Prosperity Challenge",
+        "publication": "IMC Trading",
+        "date": "2025-04-01T00:00:00.000Z",
+        "description": "Placed in the top 5 % globally (14,000+ competitors) in IMC\u2019s 2025 Prosperity Trading Challenge by developing high-performance Python algorithms and strategic market analyses."
+      },
+      {
+        "title": "National 2nd place",
+        "publication": "Google Student Developer Community (GDSC) Hungary",
+        "date": "2024-04-01T00:00:00.000Z",
+        "description": "Participated in the biggest collegiate algorithm competition in Hungary and won 2nd place"
+      }
+    ],
+    "similar_profiles": [],
+    "default_avatar": false,
+    "memorialized_account": false,
+    "bio_links": [],
+    "first_name": "Iminabo",
+    "last_name": "Roberts",
+    "influencer": false,
+    "timestamp": "2026-08-12T19:06:12.961Z",
+    "input": {
+      "url": "https://www.linkedin.com/in/iminabo-roberts"
+    }
+  },
+  "local_photo": "data\\linkedin_photos\\iminabo-roberts__usr-bvUo9WLBWQIFGSr.jpg"
+}

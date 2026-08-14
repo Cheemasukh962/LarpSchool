@@ -1,0 +1,235 @@
+{
+  "luma_user_id": "usr-StFOVbsizMTxh3o",
+  "csv_name": "Varun Yelluru",
+  "csv_linkedin": "https://www.linkedin.com/in/varun-yelluru",
+  "enriched_at": "2026-08-12T19:22:34.871936+00:00",
+  "batch_id": "sd_msqh2468i57o0acas",
+  "profile": {
+    "id": "varun-yelluru",
+    "name": "Varun Y.",
+    "city": "United States",
+    "country_code": "US",
+    "position": null,
+    "about": null,
+    "current_company": {
+      "link": "https://www.linkedin.com/company/amazon?trk=public_profile_topcard-current-company",
+      "name": "Amazon",
+      "company_id": "amazon",
+      "location": null
+    },
+    "experience": null,
+    "url": "https://id.linkedin.com/in/varun-yelluru",
+    "people_also_viewed": [
+      {
+        "profile_link": "https://www.linkedin.com/in/christenesisti",
+        "name": "Christene Sisti",
+        "about": "Biodiversity Research Institute",
+        "location": "1K followers South Portland, ME"
+      },
+      {
+        "profile_link": "https://www.linkedin.com/in/stephen-heck-35a6931b",
+        "name": "Stephen Heck",
+        "about": "Stony Brook University",
+        "location": "841 followers Southampton, NY"
+      },
+      {
+        "profile_link": "https://www.linkedin.com/in/kurtachtenhagen",
+        "name": "Kurt Achtenhagen",
+        "about": "Leave No Trace",
+        "location": "857 followers Boulder, CO"
+      },
+      {
+        "profile_link": "https://www.linkedin.com/in/scheier",
+        "name": "Eric Scheier",
+        "about": "University of North Carolina at Chapel Hill",
+        "location": "2K followers United States"
+      },
+      {
+        "profile_link": "https://www.linkedin.com/in/benmurphyislinkedin",
+        "name": "Ben Murphy",
+        "about": "Murphy Bros. Design | Build | Remodel",
+        "location": "870 followers St Paul, MN"
+      },
+      {
+        "profile_link": "https://www.linkedin.com/in/mehdimehrazaran",
+        "name": "Mehdi Mehrazaran, PE",
+        "about": "Geosyntec Consultants",
+        "location": "894 followers Chicago, IL"
+      },
+      {
+        "profile_link": "https://www.linkedin.com/in/carmen-vescia",
+        "name": "Carmen Vescia",
+        "about": "Ayudando Latinos A So\u00f1ar",
+        "location": "555 followers San Francisco Bay Area"
+      },
+      {
+        "profile_link": "https://www.linkedin.com/in/julian-gordon-369734129",
+        "name": "Julian Gordon",
+        "about": "Greensboro Staffing Consultants",
+        "location": "664 followers Greensboro--Winston-Salem--High Point Area"
+      },
+      {
+        "profile_link": "https://www.linkedin.com/in/stevie-kamp-96810884",
+        "name": "Stevie Kamp",
+        "about": "Two Hawks Design and Development",
+        "location": "1K followers Scottsdale, AZ"
+      },
+      {
+        "profile_link": "https://www.linkedin.com/in/sofia-benzi",
+        "name": "Sofia Benzi",
+        "about": "Weyerhaeuser",
+        "location": "833 followers Atlanta, GA"
+      }
+    ],
+    "educations_details": "Georgia Institute of Technology",
+    "education": [
+      {
+        "start_year": "2019",
+        "end_year": "2023",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      }
+    ],
+    "avatar": "https://static.licdn.com/aero-v1/sc/h/9c8pery4andzj6ohjkjp54ma2",
+    "languages": [
+      {
+        "subtitle": "Full professional proficiency",
+        "title": "English"
+      },
+      {
+        "subtitle": "Native or bilingual proficiency",
+        "title": "Kannada"
+      },
+      {
+        "subtitle": "Professional working proficiency",
+        "title": "Spanish"
+      },
+      {
+        "subtitle": "Professional working proficiency",
+        "title": "Sanskrit"
+      }
+    ],
+    "followers": 557,
+    "connections": 500,
+    "current_company_company_id": "amazon",
+    "current_company_name": "Amazon",
+    "publications": [
+      {
+        "title": "A Large Language Model-Powered Map of Metabolomics Research",
+        "subtitle": "bioRxiv",
+        "date": "March 19, 2025",
+        "description": "We present a comprehensive map of the metabolomics research landscape, synthesizing insights from over 80,000 publications. Using PubMedBERT, we transformed abstracts into 768-dimensional embeddings that capture the nuanced thematic structure of the field. Dimensionality reduction with t-SNE revealed distinct clusters corresponding to key domains such as analytical chemistry, plant biology, pharmacology, and clinical diagnostics. In addition, a neural topic modeling pipeline refined with GPT-4o mini reclassified the corpus into 20 distinct topics-ranging from \"Plant Stress Response Mechanisms\" and \"NMR Spectroscopy Innovations\" to \"COVID-19 Metabolomic and Immune Responses.\" Temporal analyses further highlight trends including the rise of deep learning methods post-2015 and a continued focus on biomarker discovery. Integration of metadata such as publication statistics and sample sizes provide additional context to these evolving research dynamics. An interactive web application (https://metascape.streamlit.app/) enables dynamic exploration of these insights. Overall, this study offers a robust framework for literature synthesis that empowers researchers, clinicians, and policymakers to identify emerging research trajectories and address critical challenges in metabolomics, while also sharing our perspectives on key trends shaping the field."
+      },
+      {
+        "title": "IE-GADCI: An End-to-End Incoherence-Enhanced Generative Adversarial Deep Compressive Imaging",
+        "subtitle": "IEEE",
+        "date": "October 1, 2024",
+        "description": "In this work, we present a new computational framework designed to jointly optimize both the illumination pattern and the image reconstruction algorithm for block-scanning SPI, under the principle of compressive sensing. Our architecture employs a neural network that learns the latent sparse representations of the scene and integrates information from both the image and sparsity domains to achieve high-resolution reconstructions with high computational efficiency. A key innovation of IE-GADCI is its optimization of the incoherence between the illumination pattern and the sparse representation, which substantially improves reconstruction fidelity. We validated the performance of IE-GADCI through numerical simulations on natural and biomedical image datasets."
+      }
+    ],
+    "location": null,
+    "input_url": "https://www.linkedin.com/in/varun-yelluru",
+    "linkedin_id": "varun-yelluru",
+    "activity": [
+      {
+        "interaction": null,
+        "link": "https://www.linkedin.com/posts/obifarin_metabolomics-transformer-activity-7206023395904212993-wnFd",
+        "title": "Last week, I presented an ongoing project at the American Society For Mass Spectrometry (ASMS) conference: With thousands of #metabolomics papers published each year, staying up-to-date is a challenge. To tackle this, we harnessed unsupervised word embeddings using a #transformer based model to extract latent knowledge from the metabolomics literature. My presentation highlighted preliminary findings on mapping the evolution and trends within the field. Shoutout to my two undergraduate mentees at Georgia Institute of Technology School of Computing, Varun Y. and Aditya Simhadri , for their contributions to this research. Work is still ongoing on the project, as we are currently developing an app to help fellow scientists explore the embedding, among other things. Link to Poster: https://lnkd.in/eM7uh5p2 Link to Video/Poster Tour: https://lnkd.in/eVyCnuxv ...more ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQERWv4I3qn1aw/feedshare-image-high-res/feedshare-image-high-res/0/1719135542503?e=2147483647&v=beta&t=cr0NvdVS4CVjaUnUKkBwN-EhgY3j-CT0LeDJX7OR2T4",
+        "id": "7206023395904212993"
+      },
+      {
+        "interaction": null,
+        "link": "https://www.linkedin.com/posts/avirath-tibrewala_hey-everyone-i-am-so-happy-and-grateful-activity-7185138519214899200-Ez1j",
+        "title": "Hey everyone! I am so happy and grateful to launch Weave\u2019s beta today with Sashank and Sathwik ! In one line, Weave is an app that autodetects your screenshots and uses AI to find relevant links from screenshots and makes them actionable. Think about all screenshots you take - images of reels or TikToks of good restaurants in your area, Twitter bookmarks, products you buy or a long list of links. All these images just gather virtual dust in your Photos library! The biggest problem is that these screenshots are not actionable upon. If I had to use any of the images I stated above, I\u2019d actually have to open a browser, type my query again and surf to get to my link. Weave seamlessly detects your screenshots from your Photos folder, filters away sensitive and private images, and contextually understands the rest to find relevant links to your images. For example, a marketplace site for a product you want to buy, the Maps/Reservation/Web link to a reel of the best mexican restaurants in NYC and so on. Please sign up for our beta here: https://www.weave.team ...more ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D5605AQEZdihnX7fcTw/videocover-high/videocover-high/0/1713070509706?e=2147483647&v=beta&t=dAYCbR8aQR7cY_ucsaA9_hbVLtW7yJBz0KKGyhG-7Fw",
+        "id": "7185138519214899200"
+      },
+      {
+        "interaction": "Varun Y. commented on a post 4mo",
+        "link": "https://www.linkedin.com/posts/trinayaan-hariharan_the-hot-topic-this-weekend-has-been-meta-activity-7439383842492346368-mWjn",
+        "title": "slait \ud83d\ude80",
+        "img": null,
+        "id": "7439383842492346368"
+      },
+      {
+        "interaction": "Varun Y. liked this",
+        "link": "https://www.linkedin.com/posts/harish-viswanathan_why-test-data-is-so-hard-and-how-we-solved-activity-7493308113689681920-yGrC",
+        "title": "rly excited to announce this initiative that we've been working on behind the scenes for a while now. i wanted to start the Labs because the world needed to see what i saw in us: PrizePicks doesn't just know ball when it comes to sports - ppl often forget we also build the tech and the team that makes us the fastest growing dfs company in the industry. read more articles: https://lnkd.in/e3Chpudv follow us: https://lnkd.in/eU3PV-hG",
+        "img": "https://media.licdn.com/dms/image/sync/v2/D4E27AQGIwOviU6ERwg/articleshare-shrink_800/B4EZ_2LuO3JEAY-/0/1786541696556?e=2147483647&v=beta&t=ICROC7DhQJpkauSrkMtD5D-AXifH20ZPllNu_Vx_Z9Q",
+        "id": "7493308113689681920"
+      },
+      {
+        "interaction": "Varun Y. liked this",
+        "link": "https://www.linkedin.com/posts/stevevassallo_every-silicon-wave-follows-the-same-law-activity-7490398663987351553-Mb9e",
+        "title": "Every silicon wave follows the same law. Most people see the term GPU and forget what the G actually stands for. Graphics. It was purpose-built for exactly that workload: rendering graphics, floating point math, managing lots of cores. It was never designed for AI. It was a battlefield promotion - better than a CPU, but not what anyone would build starting from a blank sheet of paper. If you zoom out, you\u2019ll see the same pattern has repeated across 5 decades: - 70s-80s: Personal computers. Serial single-threaded, scalar performance, standard instruction set, perfectly suited to x86. - 90s: Graphics - a new workload with highly parallel floating-point operations, created a new chip. The GPU. - 00-10s: Mobile came along. It needed low power, a small form factor and always-on connectivity. Those constraints created the opportunity for ARM - a wildly successful business for two decades. Then around 2015, we saw it again through the lens of our portfolio at Foundation Capital : statistical inference over large datasets. AI workloads that are intensely data I/O bound and were ramping very, very steeply. Whenever you see a workload spiking that hard, there's an opportunity to replace the compute layer. So you ask the first-principles question: \u201cIf you were designing for this workload from scratch, what would you build?\u201d You'd build what we built at Cerebras . New workloads deserve custom, purpose-built silicon. That's been the story of every silicon wave for 50 years. If you want to know where the next generational chip company comes from, don't watch the chips. Watch the workloads. Thanks again for a great conversation Oz Woloshyn",
+        "img": "https://media.licdn.com/dms/image/v2/D5605AQFlcTiUpRXb8Q/videocover-high/B56Z_LzxoiGUBM-/0/1785830780303?e=2147483647&v=beta&t=HKGfDZJN3MHIIeXnL9hUKxUfeK4nZO6a5-V-IMJDLTY",
+        "id": "7490398663987351553"
+      },
+      {
+        "interaction": "Varun Y. liked this",
+        "link": "https://www.linkedin.com/posts/karolinadubiel_some-life-updates-1-my-rl-drone-project-activity-7489082017276674049-PAuK",
+        "title": "Some life updates: 1) My RL drone project is complete!! I designed, built, and trained a reinforcement learning fault-tolerant octocopter from scratch with 0 prior hardware experience -- from idea to flying (non-RL) drone in 2.5 weeks (this was when I last posted about it) and idea to RL flight in < 8 weeks. Since my last post, I measured the airframe (mass, MOI via bifilar pendulum, etc), built a MuJoCo simulator, and trained the policy with PPO (asymmetric actor-critic) via PufferLib and heavy domain randomization. 20M steps later, I hand-ported the observation pipeline and network into C++ as a custom ArduPilot flight mode and motor mixer. The policy overrides AP_Motors' output stage and writes all eight motor commands directly, replacing the position controller, the attitude/rate PID cascade, and the mixer (EKF state in, motor commands out, at 50 Hz). Then, I flew the policy in real life: the drone survives all single and dual motor failures, and also survives triple and quad motor failures zero-shot, despite having never seen them before in training. One flight vid below + full build log and more details at https://lnkd.in/gwvhq-RZ 2) I attended Y Combinator Startup School, where I met so many incredible people and listened to inspiring talks from speakers like Chelsea Finn and Boris Cherny . Garry Tan and I are now mutuals on X \ud83d\udc7e 3) I'm wrapping up my second internship with Apple in the Information Security org. Thank you so much for another incredible summer and so many lessons learned! 4) After almost 15 months away, I'm returning to Georgia Institute of Technology this August to complete the last 2 semesters of my degree. See you on campus! \ud83d\udc1d \ud83d\udcf8: the drone maintaining a stable hover thanks to RL, even after I shut off 3 of its motors",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQHACD2bp1LKwA/feedshare-shrink_800/B56Z.6QaDOLAAc-/0/1785536291667?e=2147483647&v=beta&t=CDktfrh6fnI3RTOfloRKNCFTQdQ4U5I7XL6e7o_helc",
+        "id": "1"
+      },
+      {
+        "interaction": "Varun Y. liked this",
+        "link": "https://www.linkedin.com/posts/jayagupta10_forms-automated-workflows-powered-by-ai-activity-7488715810090176513-InKZ",
+        "title": "Fellow Georgia Tech founders! Less than 2 weeks left to apply for Foundation Capital's next FC Build cohort. As a Georgia Tech alum, some of the most impressive technical founders I've met have come from this community. I'm excited to support the next generation of Georgia Tech founders through FC Build, our free accelerator for technical founders at the earliest stages. The best part? It\u2019s completely free, and we\u2019ll give you $1M in credits to get started. \u2192 What is FC Build? FC Build is Foundation Capital's free accelerator for technical founders at the earliest stages. \u2192 Who should apply? Georgia Tech alumni and students who've recently started a company, or are seriously thinking about starting one this year. \u2192 What do founders get? $1 million in startup credits, a small cohort of exceptional founders, hands-on support from our investment team, office hours, workshops, SF office space, and more. \u2192 What's the catch? There isn't one. The program is completely free. No fees. No equity. Applications close August 14. Apply here: https://lnkd.in/gtnSu7Fx foundation.typeform.com FC Build Application Apply to FC Build - Foundation Capital's free accelerator for top founders.",
+        "img": "https://media.licdn.com/dms/image/sync/v2/D4E27AQGzSTa5BHo-yg/articleshare-shrink_800/B56Z502hejHkAQ-/0/1780076911897?e=2147483647&v=beta&t=P4jCsMz_8xnw-oC2F5CZv0_ftBnhsYL3hXiidOaeYEw",
+        "id": "7488715810090176513"
+      },
+      {
+        "interaction": "Varun Y. liked this",
+        "link": "https://www.linkedin.com/posts/mehulmshah22_a-year-ago-nick-matthew-and-i-were-building-activity-7487657874840764416-1KVZ",
+        "title": "A year ago, Nick , Matthew , and I were building GroundControl during YC P25. Yesterday I went back to YC Startup School as a Friend of YC. In the last year, we've grown to serve hundreds of manufacturers around the world as a team of 14. A few insights that stuck out: 1. Your brain is still the fastest chip you own. Everyone's racing to outsource thinking to AI. But for a lot of judgment calls, your own head is faster than any tool call. Round-tripping to a model for things you already know how to reason through is often slower, not faster. 2. The lean startup playbook isn't the only playbook anymore. For years, \"start narrow, find your wedge\" was the only reliable path. Now there are real tailwinds for going bigger, faster. We've taken that approach as we now have 4 products across GroundControl. The question isn't lean vs. ambitious but which one actually matches the moment you're building in? 3. Acceleration is exponential. 6 years ago, the top LLM user was using ~100K tokens a month. Today, the top user uses 100M+. 4. Sam Altman's quote that stuck with me: He expects the next 6 months of model progress to feel as big as the last 2 years combined. If that's even directionally right, most roadmaps are already out of date. It was exciting to meet a new wave of builders! We\u2019re hiring, DM me.",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQHh8WgGupcMMQ/feedshare-image-high-res/B56Z.mBJl4KAAU-/0/1785196748107?e=2147483647&v=beta&t=7CzugRVZk-5UQpqaf_vm1ICM3MHoL6iJop_qtQFghv4",
+        "id": "7487657874840764416"
+      },
+      {
+        "interaction": "Varun Y. liked this",
+        "link": "https://www.linkedin.com/posts/sourabhyelluru_a-new-chapter-begins-im-excited-to-share-activity-7481201262475104256-JYcj",
+        "title": "A new chapter begins. I\u2019m excited to share that I\u2019ve joined Goldman Sachs as an Associate As I take this next step in my career. Wells Fargo was my first professional home after graduating, and I\u2019m incredibly grateful for everything I learned there. It gave me the opportunity to grow as a software engineer, work on meaningful projects, and collaborate with talented colleagues and mentors who made the experience truly rewarding. Thank you to everyone at Wells Fargo who supported, challenged, and encouraged me along the way. The lessons, friendships, and experiences I\u2019ve gained will stay with me throughout my career. I\u2019m thrilled to begin this new chapter at Goldman Sachs and take on the exciting opportunities and challenges that lie ahead. I\u2019m looking forward to learning, growing, and contributing alongside some incredibly talented people. Here\u2019s to new beginnings and continuous growth!",
+        "img": null,
+        "id": "7481201262475104256"
+      },
+      {
+        "interaction": "Varun Y. liked this",
+        "link": "https://www.linkedin.com/posts/revanthrao_im-happy-to-share-that-ive-started-my-summer-activity-7473386466472112128-F8Ni",
+        "title": "I\u2019m happy to share that I\u2019ve started my summer role as a Decision Analytics Associate Intern with ZS in San Francisco! Over the next few months, I\u2019m excited to gain hands-on experience in the analytics space, learn from the talented people at the company, and help solve meaningful business problems using data. I\u2019m especially thankful to Nathalie Rochel for her guidance and support throughout my recruiting process. I\u2019m looking forward to making the most of this opportunity, connecting with new people, and learning throughout the summer!",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQG9-NbXWuLUbg/feedshare-shrink_800/B56Z7bNX.6K4Ag-/0/1781794177169?e=2147483647&v=beta&t=8X0sky8shq4VkhkyNW_ny1YMZMJmXIs6UAlxLeA2FOY",
+        "id": "7473386466472112128"
+      },
+      {
+        "interaction": "Varun Y. liked this",
+        "link": "https://www.linkedin.com/posts/yash-dulla_everyone-says-ai-is-going-to-kill-saas-were-activity-7472695311895851010-VExg",
+        "title": "Everyone says AI is going to kill SaaS. We're betting it rebuilds it. Today we're announcing Ergo 's $2.8M seed, led by FundersClub . We now manage over $3B in pipeline for revenue teams. With participation from Y Combinator , Georgia Institute of Technology , Coughdrop Capital , Kulveer Taggar , and many more. Every revenue team runs on conversations: cold calls, meetings, emails, Slack threads, in person meetings, and more. That's where the real signal lives, and today it's scattered across a dozen tools, and most of it goes nowhere. Ergo is the revenue infrastructure layer for AI-native GTM teams. We capture every conversation, turn it into a unified data layer, and run agents on top for follow-ups, CRM automations, coaching, forecasting, reporting \u2014 so reps spend less time on manual admin, no deals slip through the cracks, and leaders get a pipeline they can actually trust. Teams like Rho , Corgi , Retell , Agency Cybersecurity , Greptile , Sully.ai , and more already run on Ergo . The next generation of GTM won't be built on software designed for humans doing manual entry. It'll be built on infrastructure designed for agents and humans to move forward together. Thank you to our investors, customers, and the team who got us here. We're just getting started, and did a full brand refresh. Come see what Ergo can do, website linked in the comment section!",
+        "img": "https://media.licdn.com/dms/image/v2/D5605AQF-tSw-OuT3TA/videocover-high/B56Z7RYp9.HIBU-/0/1781629382872?e=2147483647&v=beta&t=DEYYSWMnMz1E9_2XCHFCr5sLd9uxuFDb-xlgPdjuh_0",
+        "id": "7472695311895851010"
+      },
+      {
+        "interaction": "Varun Y. liked this",
+        "link": "https://www.linkedin.com/posts/trinayaan-hariharan_y-combinator-just-stole-our-idea-garry-activity-7469429876517801984-kwnI",
+        "title": "Y Combinator just stole our idea. Garry Tan just built Paxel( https://lnkd.in/eABb52qx ). I\u2019ve gotten countless messages from friends asking, \u201cYo, isn\u2019t this what you guys are building?\u201d (Grateful to those friends!) This is actually pretty validating for us. YC themselves saw something we also believed: that judging and improving AI workflows is necessary if people want to become better builders. That doesn\u2019t mean we stop. We\u2019re going to keep building Slait in a new direction that we believe has barely been explored, while staying true to our vision of making everyone AI-enabled. Over the last few weeks, we\u2019ve been talking to customers and exploring industries where AI adoption is still early. We\u2019re excited about where we\u2019re heading next and believe we can bring this vision into the hands of far more people. Stay tuned for updates. And if you\u2019d like to chat about industries or verticals where AI workflows are still broken, we\u2019d love to hear from you.",
+        "img": null,
+        "id": "7469429876517801984"
+      }
+    ],
+    "linkedin_num_id": "568846795",
+    "banner_image": "https://static.licdn.com/aero-v1/sc/h/5q92mjc5c51bjlwaj3rs9aa82",
+    "honors_and_awards": null,
+    "similar_profiles": [],
+    "default_avatar": true,
+    "memorialized_account": false,
+    "bio_links": [],
+    "first_name": "Varun",
+    "last_name": "Y.",
+    "influencer": false,
+    "timestamp": "2026-08-12T19:18:17.477Z",
+    "input": {
+      "url": "https://www.linkedin.com/in/varun-yelluru"
+    }
+  }
+}

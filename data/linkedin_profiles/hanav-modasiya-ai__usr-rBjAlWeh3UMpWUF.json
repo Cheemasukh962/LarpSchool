@@ -1,0 +1,141 @@
+{
+  "luma_user_id": "usr-rBjAlWeh3UMpWUF",
+  "csv_name": "Hanav Modasiya",
+  "csv_linkedin": "https://www.linkedin.com/in/hanav-modasiya-ai",
+  "enriched_at": "2026-08-12T19:26:51.919279+00:00",
+  "batch_id": "sd_msqhb4pfm4l4la4zs",
+  "profile": {
+    "id": "hanav-modasiya-ai",
+    "name": "Hanav Modasiya",
+    "city": "Santa Clara, California, United States",
+    "country_code": "US",
+    "position": null,
+    "about": "Agentic AI and NeuroAI. Open to more opportunities developing them, feel free to contact\u2026",
+    "current_company": {
+      "link": "https://www.linkedin.com/school/ucsf/?trk=public_profile_topcard-current-company",
+      "name": "University of California, San Francisco",
+      "location": null
+    },
+    "experience": null,
+    "url": "https://nz.linkedin.com/in/hanav-modasiya-ai",
+    "educations_details": "University of California, Berkeley",
+    "education": [
+      {
+        "start_year": "2022",
+        "end_year": "2026",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      }
+    ],
+    "avatar": "https://media.licdn.com/dms/image/v2/D5603AQHQk3h6ttbKFA/profile-displayphoto-scale_200_200/B56Z1vQdqCH4Ac-/0/1775688085055?e=2147483647&v=beta&t=v08XwNfqtgXmGKnuFHOw33XjiLI50B9fl4EbwjPxyU8",
+    "followers": 446,
+    "connections": 446,
+    "current_company_name": "University of California, San Francisco",
+    "publications": [
+      {
+        "title": "Enabling Lifelong Learning in AI with Biologically-inspired Neural Networks Based on Short-Term, Working, and Long-Term Memory",
+        "subtitle": "IEEE Computer Society",
+        "date": "November 12, 2025",
+        "description": "Achieving lifelong learning, the ability of a learning system to continuously acquire and adapt to changing data, in Artificial Intelligence (AI) is crucial to achieving Artificial General Intelligence (AGI), a hypothetical, human-like version of AI that has endless possibilities in various domains. Currently, the vast majority of models are incapable of exhibiting lifelong learning because they demonstrate catastrophic forgetting. This research theorizes the first Neural Network architecture based on combining the Three-stage Memory Model, Working Memory Model, and Complementary Learning Systems (CLS) Theory, key theories on our brain\u2019s cognitive processes, to overcome catastrophic forgetting. By developing a complementary learning architecture comprising the Cerebral Cortex, Prefrontal Cortex, and Hippocampus, mimicking Long-term, Working, and Short-term memory, respectively, this research achieves lifelong learning on the CLEAR benchmark and an artificial form of lifelong learning on the CIFAR dataset. This research also proved the favorability of using combined principles of the Three-stage Memory Model, Working Memory Model, and CLS theory to further achieve human-like cognition in AI. To support that, experiments revealed that the complementary learning nature of the architecture creates an unexpected learning phenomenon and pattern of machine \"reasoning\" that increases accuracy. Therefore, this research reveals this architecture as a possible way of further achieving human-like cognition in AI, and consequently a pathway to add to the body of research in achieving AGI one day."
+      },
+      {
+        "title": "Enabling Lifelong Learning in AI with Biological Neural Networks Based on Short-Term, Working, and Long-Term Memory",
+        "subtitle": "8th Annual Conference on Cognitive Computational Neuroscience",
+        "date": "August 12, 2025",
+        "description": "Achieving Lifelong Learning, the ability of a learning system to continuously acquire and adapt to changing data over time, in Artificial Intelligence (AI) is an integral step towards achieving Artificial General Intelligence (AGI), a hypothetical version of AI that can change our world forever. Currently, the vast majority of models are incapable of exhibiting Lifelong Learning. This research theorizes the first Neural Network architecture inspired by the Three-stage Memory Model--a theory on our brain's memory. By developing a complementary Neural Network learning system comprising the Cerebral Cortex, Prefrontal Cortex, and Hippocampus, mimicking Long-term, Working, and Short-term memory, respectively, this research achieves Lifelong Learning on a simulated computer vision task and develops the first Working memory-inspired model. It also demonstrates the feasibility of using the Three-stage Memory Model for achieving human-like cognition in AI. Therefore, this research reveals a pathway for future research in achieving AGI: the Three-stage Memory Model."
+      },
+      {
+        "title": "Resolving Gender Biases in LLMs at Inference Time with Novel Dijkstra\u2019s-based K-Explorers Neural Network Traversal (KeNNT)",
+        "subtitle": "Association of Computational Linguistics",
+        "date": "October 1, 2024",
+        "description": "The vast growth of Large Language Models (LLMs) has increased the need for larger data corpora, and researchers often turn to the internet for a source of that data. However, with rising online sexism, LLMs start to pick up on gender biases in the text they generate. Despite protective measures, biases still infiltrate newer models like ChatGPT and LLaMA 2. In this research, we introduce a novel Dijkstra\u2019s-based algorithm called K-explorers Neural Network Traversal (KeNNT), that we hypothesize can be attached to models and algorithms to solve optimization problems. KeNNT is a novel method to guide Transformer models away from generating gender biases. KeNNT, based on Dijkstra\u2019s shortest path algorithm, was tested on a GPT-2 model fine-tuned on the WinoBias benchmark dataset. KeNNT reduced gender bias in generated texts by 84.79% (K = 3) and 95.93% (K = 4), outperforming some industry standards. Based on the promising results, it is hypothesized that KeNNT can enhance other optimization algorithms, such as Gradient Descent, improving accuracy and avoiding local minima convergence. With this work, we hope to inspire further, novel endeavors into gender bias resolution and new perspectives on optimization problems."
+      }
+    ],
+    "projects": [
+      {
+        "title": "Enabling Lifelong Learning in AI with Biologically-inspired Neural Networks Based on Short-Term, Working, and Long-Term Memory",
+        "start_date": "Sep 2024",
+        "description": "Designed a convolutional neural network paradigm based on the mammalian brain's memory systems and learning theories, enabling lifelong learning on CLEAR and CIFAR-10 datasets by 50%, paramount to developing AGI.Paper accepted (four peer revisions) to IEEE Computer Society's CogMi Conference as only high schooler. Publication in IEEE Xplore."
+      },
+      {
+        "title": "Resolving Gender Biases in LLMs at Inference Time with Novel Dijkstra\u2019s-based K-Explorers Neural Network Traversal (KeNNT)",
+        "start_date": "Sep 2023",
+        "description": "Novelly formulated LLM sexism reduction into a shortest path finding graph theory problem. Thus applying Dijkstra's algorithm, I decreased sexism by 95.93% in GPT-2 on the WinoBias benchmark.Paper accepted (two peer revisions) as only high schooler at ICNLSP 2024, published in ACL Anthology, and invited for extended publication in Springer Nature \"Signals and Communication Technology\""
+      },
+      {
+        "title": "Predictive Growth Simulations of Glioblastoma Multiforme Through a Cyclic Genetic Algorithm-Diffusion Model Architecture",
+        "description": "Collaboratively developed a Gaussian Diffusion Model + Genetic Algorithm framework to simulate the future growth of a brain tumor both phenotypically and genotypically. Tested on clinical data from UPenn and UTaipei. Won first award at the Synopsys Science Fair in the biological sciences category, and advanced to the California Science and Engineering Fair."
+      }
+    ],
+    "location": "Santa Clara",
+    "input_url": "https://www.linkedin.com/in/hanav-modasiya-ai",
+    "linkedin_id": "hanav-modasiya-ai",
+    "activity": [
+      {
+        "interaction": "Hanav Modasiya commented on a post 1y",
+        "link": "https://www.linkedin.com/posts/satvik-vale_im-thrilled-to-announce-that-im-starting-activity-7334751314205163520-Wh_-",
+        "title": "Keep shining, Satvik \u2b50",
+        "img": null,
+        "id": "7334751314205163520"
+      },
+      {
+        "interaction": "Hanav Modasiya liked this",
+        "link": "https://www.linkedin.com/posts/bensonluhuang_regeneronisef-activity-7329570889065263105-1IPy",
+        "title": "What an unforgettable week at #RegeneronISEF 2025. I'm beyond grateful to have received the 3rd Place Grand Award in the Biomedical Engineering category for my project, \"Enabling a Softer Touch for Robotic Surgery.\" The people, the passion, and the energy I encountered here were truly unmatched. From Puerto Rico to Taiwan, Brazil, and over 70 countries represented at ISEF, I had the honor of connecting with brilliant and inspiring individuals from around the world. I\u2019m reminded that human connection, love, and passion for what we do are some of the most beautiful qualities that define us. I want to thank my mother, Yi (Elaine) Lu , and my brother, Alex Huang , for their unwavering support through both science fair and school, all while we navigated one of the most difficult times in our lives. The personal challenges we faced sparked my passion for this field of medicine and deepened my dedication to innovation in robotic surgery and in everything I pursue. I\u2019m constantly reminded that while people may forget what you did, they\u2019ll never forget how you made them feel. Facing personal challenges and time constraints taught me something important: science is truly accessible to everyone, even those without a formal mentor. With limited resources, I turned to what I had around me, repurposing parts from an old TV to build my device. I even drew on my love for cooking, using supermarket-bought pork to conduct my experiments. Also, a heartfelt thank you to Regeneron , Dr. Serena McCalla , Dr. Mike Lake, and to all my mentors, teachers, and peers who supported me on this journey. I\u2019m especially grateful to Dr. Laura Jao from NY Presbyterian Hospital for giving me the opportunity to witness robotic surgery firsthand: an experience that deeply shaped my project. Beyond the science, what helped me through this past year was the kindness and strength of genuine friendships. Lastly, I\u2019m so thankful to have met some of the most incredible people here at ISEF, and I will carry those memories and connections with me.",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQGjmRQ6LM6UpA/feedshare-shrink_800/B4EZbfd4EkHMAg-/0/1747505875523?e=2147483647&v=beta&t=NOukg9rGkBpm0aafMSRRKXEQ9hFweLtbXioNYdbj1Qg",
+        "id": "7329570889065263105"
+      },
+      {
+        "interaction": "Hanav Modasiya liked this",
+        "link": "https://www.linkedin.com/posts/bensonluhuang_im-thrilled-to-announce-that-ive-been-selected-activity-7323108624787042305-PEPE",
+        "title": "I'm thrilled to announce that I\u2019ve been selected as one of just 50 students from New York State to receive the 2025 Taco Bell Live M\u00e1s Scholarship! I'm incredibly grateful to the Taco Bell Foundation for supporting my passion for biomedical engineering. My guiding belief has always been: \"Nature spent millions of years engineering intricate anatomical machines, so why not draw inspiration from them?\" Thanks to the Foundation\u2019s generous support, I now have the opportunity to continue my passion and work toward reverse-engineering nature\u2019s designs to create innovative biomedical solutions.",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQHGkLz5_22E0w/feedshare-shrink_800/B4EZaDofFLHMAg-/0/1745965151407?e=2147483647&v=beta&t=grFbaCkuVbwelOCCJqCRkMQ-y77ySM_KCwYGIPVhPwE",
+        "id": "7323108624787042305"
+      },
+      {
+        "interaction": "Hanav Modasiya liked this",
+        "link": "https://www.linkedin.com/posts/bensonluhuang_im-grateful-to-have-my-bioimpedance-based-activity-7310268899374100481-xMTo",
+        "title": "I\u2019m grateful to have my bioimpedance-based force sensor for robotic surgery be selected as best in category biomedical engineering at the New York State Science Fair and the Yale Most Outstanding Science, Engineering, and Math Exhibit/Presentation. I\u2019m excited to represent New York State at the International Science and Engineering Fair (ISEF) this may. However, the most important thing that came about this week wasn\u2019t winning, it was meeting and connecting with wonderful judges and more opportunities to spread my passion. I want to thank judge Karrer Alghazali for referring me the Biomedical Engineering Society Annual Conference which I hope to attend this October. I want to thank Milan Toma for enlightening possible publication pathways. Furthermore, I would like to thank Laura Jao from NewYork-Presbyterian Hospital who invited me to try out the Da Vinci Surgical Robots that they use! I couldn\u2019t have produced a award-winning board without the help of the patent office at Intuitive and Principal Engineer Dr. Stephen J. Blumenkranz . Lastly, special thanks to Dr. Mike Lake from Half Hollow Hills High School West . Without his words of encouragement and confidence in me more than I had in myself, I wouldn\u2019t have had the courage to make a home-grown project without a mentor.",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQFz8IMhJxjQTA/feedshare-shrink_800/B4EZXNKzUvGwAg-/0/1742903922586?e=2147483647&v=beta&t=pdMWaXByhNAgnca1YSg79bH5EVivNx4yoyfVyvDAfHs",
+        "id": "7310268899374100481"
+      },
+      {
+        "interaction": "Hanav Modasiya liked this",
+        "link": "https://www.linkedin.com/posts/abhishek-krishnan3141_worldsummitai-ai-artificialintelligence-activity-7234649707057213440-YteA",
+        "title": "\ud83c\udf1f Excited to Attend World Summit AI in Amsterdam! \ud83c\udf1f I\u2019m thrilled to share that I've been selected as a complimentary guest for the World Summit AI in Amsterdam! \ud83c\udf89 As the founder of Cogent , a personal tutor platform that leverages AI to enhance student learning through innovative organizational and collaborative features, this event offers an unparalleled opportunity to connect with experts who can directly influence and inspire our mission. I\u2019m particularly excited to learn from these distinguished speakers: Carol Reiley , Co-Founder of DeepMusic.ai and a pioneer in AI robotics and healthcare. Carol\u2019s experience in creating AI systems that interact naturally with humans could offer valuable insights into how Cogent can further enhance the student experience by making our AI tutors more intuitive and responsive to individual learning styles. Michael Bronstein , DeepMind Professor of AI at Oxford University. Michael\u2019s work in geometric deep learning and its application in educational contexts could provide a new perspective on how Cogent can analyze and adapt to the complex needs of students, offering them more personalized and effective learning paths. Petri Myllym\u00e4ki , Professor of Artificial Intelligence and Machine Learning at the University of Helsinki. Petri\u2019s expertise in probabilistic modeling and decision analysis can help us refine Cogent\u2019s AI-driven tools to better support students in problem-solving, enabling them to explore multiple approaches rather than just finding a single answer. Thomas Wolf , Co-Founder & CSO of Hugging Face. His work in making AI models more accessible and ethical aligns perfectly with our goal at Cogent to democratize education. I\u2019m eager to explore how we can incorporate Hugging Face\u2019s advancements in natural language processing to make our tutoring services even more effective and inclusive. Attending this summit will allow me to gather new ideas, network with industry leaders, and explore the latest in AI technology, all of which are critical to driving Cogent's mission forward. \ud83c\udf10 If you\u2019re attending as well, I\u2019d love to connect and discuss how we can collaborate to push the boundaries of AI in education! \ud83d\udca1 See you on October 9-10!!!! #WorldSummitAI #AI #ArtificialIntelligence #EdTech #AIinEducation #StudentStartups #Innovation #Cogent",
+        "img": "https://media.licdn.com/dms/image/v2/D4D22AQEruzPXKkjL1g/feedshare-shrink_800/feedshare-shrink_800/0/1724874901349?e=2147483647&v=beta&t=pxVUH-HtsZOCEtM6QtZk3AgQPKGPq4dllMbuNf9qZGk",
+        "id": "7234649707057213440"
+      },
+      {
+        "interaction": "Hanav Modasiya liked this",
+        "link": "https://www.linkedin.com/posts/abhishek-krishnan3141_im-thrilled-to-announce-that-cogent-has-activity-7230177749502431232-sItv",
+        "title": "I\u2019m thrilled to announce that Cogent has been accepted into the Microsoft for Startups for Startups Founders Hub! This is a huge milestone for our team, and we're just getting started. In the coming weeks, we\u2019ll be unlocking Level 2 benefits, including $5,000 in Azure Credits. Currently, we have access to $1,000 in Azure Credits and $2,500 in OpenAI credits, with even more to come as we finalize our incorporation. As part of this accelerator, we\u2019ll be working towards leveraging up to $150,000 in resources at the highest level. This is an incredible opportunity for us to scale and innovate. I want to give a massive shoutout to my amazing co-founders\u2014 David Cardenas , Yekaterina Kossenkova , and Yul Sung \u2014for their dedication and hard work. This journey wouldn\u2019t be possible without you. In the upcoming weeks, Cogent will be launching and piloting our platform with our lifetime access users, waitlist members, and testing within our respective schools. We can\u2019t wait to share what we\u2019ve been building! Stay connected with us: Instagram: https://lnkd.in/e_RdD83H LinkedIn: Cogent Website: https://lnkd.in/et46nBGi Thank you for your support",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQEMZBwFX1-MBA/feedshare-shrink_800/feedshare-shrink_800/0/1723808703712?e=2147483647&v=beta&t=Q3hrXRNra_w4uDOk7WCOSUts5MpVUXPd3LB0WTMnyEw",
+        "id": "7230177749502431232"
+      },
+      {
+        "interaction": "Hanav Modasiya liked this",
+        "link": "https://www.linkedin.com/posts/cogentai_cogent-your-specialized-personal-ai-tutor-activity-7221544894337581056-C1Jb",
+        "title": "COGENT - Your Specialized Personal AI Tutor is HERE \ud83c\udf1f \ud83d\udd3bAI-driven organizational and collaborative features \ud83d\udd3bSpecialized tools across various subjects \ud83d\udd3bHelping find solutions rather than simply giving the answers Join the waiting list via the link in our Instagram @cogent_ai to be the first to try all our features for free! \ud83d\ude0e",
+        "img": "https://media.licdn.com/dms/image/v2/D4D22AQH_GoWagwFJPA/feedshare-image-high-res/feedshare-image-high-res/0/1721750472118?e=2147483647&v=beta&t=Td3wfHCjuKnr2qhKFU4Ff6d5J942WEwOXHms_oAiU3Q",
+        "id": "7221544894337581056"
+      }
+    ],
+    "linkedin_num_id": "1076459367",
+    "banner_image": "https://static.licdn.com/aero-v1/sc/h/5q92mjc5c51bjlwaj3rs9aa82",
+    "honors_and_awards": null,
+    "similar_profiles": [],
+    "default_avatar": false,
+    "memorialized_account": false,
+    "bio_links": [],
+    "first_name": "Hanav",
+    "last_name": "Modasiya",
+    "influencer": false,
+    "timestamp": "2026-08-12T19:25:21.878Z",
+    "input": {
+      "url": "https://www.linkedin.com/in/hanav-modasiya-ai"
+    }
+  },
+  "local_photo": "data\\linkedin_photos\\hanav-modasiya-ai__usr-rBjAlWeh3UMpWUF.jpg"
+}

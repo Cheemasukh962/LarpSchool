@@ -1,0 +1,49 @@
+{
+  "luma_user_id": "usr-m4FRPWwM2aBEc9B",
+  "csv_name": "Nathan Kong",
+  "csv_linkedin": "https://www.linkedin.com/in/nathankong999",
+  "enriched_at": "2026-08-12T19:13:35.733190+00:00",
+  "batch_id": "sd_msqguuzo2o546dm49e",
+  "profile": {
+    "id": "nathankong999",
+    "name": "Nathan Kong",
+    "city": "San Francisco, California, United States",
+    "country_code": "US",
+    "position": null,
+    "about": "nkong.inquries@gmail.com https://nathankong.netlify.app/ Sometimes you must\u2026",
+    "current_company": {
+      "link": "https://www.linkedin.com/company/zoox-inc?trk=public_profile_topcard-current-company",
+      "name": "Zoox",
+      "company_id": "zoox-inc",
+      "location": null
+    },
+    "experience": null,
+    "url": "https://kw.linkedin.com/in/Nathankong999",
+    "educations_details": "Penn State University",
+    "education": null,
+    "avatar": "https://media.licdn.com/dms/image/v2/D4E03AQG-c71_tI2VlQ/profile-displayphoto-scale_200_200/B4EZ0Mk9vYHAAc-/0/1774032511424?e=2147483647&v=beta&t=80UZesEuRuk4Z6AfuR5KnA3C7PrwCVBuPfxKfQMYhOs",
+    "followers": 361,
+    "connections": 344,
+    "current_company_company_id": "zoox-inc",
+    "current_company_name": "Zoox",
+    "location": "San Francisco",
+    "input_url": "https://www.linkedin.com/in/nathankong999",
+    "linkedin_id": "nathankong999",
+    "activity": null,
+    "linkedin_num_id": "1336604822",
+    "banner_image": "https://media.licdn.com/dms/image/v2/D4E16AQEDeRZk6QkPIw/profile-displaybackgroundimage-shrink_200_800/B4EZ0Rg23xIUAU-/0/1774115320482?e=2147483647&v=beta&t=WkvS5sQQY7iJaV6pr1ddTUE6F8eAx_5xbYe98l7-4Uk",
+    "honors_and_awards": null,
+    "similar_profiles": [],
+    "default_avatar": false,
+    "memorialized_account": false,
+    "bio_links": [],
+    "first_name": "Nathan",
+    "last_name": "Kong",
+    "influencer": false,
+    "timestamp": "2026-08-12T19:12:43.094Z",
+    "input": {
+      "url": "https://www.linkedin.com/in/nathankong999"
+    }
+  },
+  "local_photo": "data\\linkedin_photos\\nathankong999__usr-m4FRPWwM2aBEc9B.jpg"
+}

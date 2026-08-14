@@ -1,0 +1,363 @@
+{
+  "luma_user_id": "usr-L5AsjHvmgNBUDzk",
+  "csv_name": "Eidan Erlich",
+  "csv_linkedin": "https://www.linkedin.com/in/eidanerlich",
+  "enriched_at": "2026-08-12T19:01:42.792173+00:00",
+  "batch_id": "sd_msqgese9ztya3e3uk",
+  "profile": {
+    "id": "eidanerlich",
+    "name": "Eidan Erlich",
+    "city": "Greater Toronto Area, Canada",
+    "country_code": "CA",
+    "position": null,
+    "about": null,
+    "current_company": {
+      "link": "https://www.linkedin.com/company/dreamtechnologies-inc?trk=public_profile_topcard-current-company",
+      "name": "Dream Technologies",
+      "company_id": "dreamtechnologies-inc",
+      "location": null
+    },
+    "experience": null,
+    "url": "https://kw.linkedin.com/in/Eidanerlich",
+    "educations_details": "University of Waterloo",
+    "education": [
+      {
+        "title": "University of Waterloo",
+        "url": "https://ca.linkedin.com/school/uwaterloo/",
+        "start_year": "2022-09",
+        "end_year": "2027-04",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      }
+    ],
+    "avatar": "https://media.licdn.com/dms/image/v2/D5603AQHZ49Oph9vB6A/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1690217142666?e=2147483647&v=beta&t=MNYaTT1iDzUIrYQdsXQ3_N0pY5FOsWtoob_o8BDVrJI",
+    "certifications": [
+      {
+        "meta": "Issued Jan 2023 See credential",
+        "subtitle": "Kaggle",
+        "title": "Intro to Machine Learning",
+        "credential_url": "https://www.kaggle.com/learn/certification/eidanerlich/intro-to-machine-learning?trk=public_profile_see-credential",
+        "credential_id": null
+      },
+      {
+        "meta": "Issued Jan 2023 See credential",
+        "subtitle": "Kaggle",
+        "title": "Intro to Programming",
+        "credential_url": "https://www.kaggle.com/learn/certification/eidanerlich/intro-to-programming?trk=public_profile_see-credential",
+        "credential_id": null
+      },
+      {
+        "meta": "Issued Dec 2022 See credential",
+        "subtitle": "LinkedIn",
+        "title": "Cert Prep: Certified SOLIDWORKS Associate",
+        "credential_url": "https://www.linkedin.com/learning/certificates/1f85969248aef891bd9d578915c7a5b225f77505f397f918cf083612e1999a1b?trk=public_profile_see-credential",
+        "credential_id": null
+      },
+      {
+        "meta": "Issued Nov 2022",
+        "subtitle": "The Zero Experience",
+        "title": "Certificate of Innovation",
+        "credential_url": null,
+        "credential_id": null
+      },
+      {
+        "meta": "Issued May 2022",
+        "subtitle": "NCSY Canada",
+        "title": "Certificate of Leadership",
+        "credential_url": null,
+        "credential_id": null
+      },
+      {
+        "meta": "Issued Jul 2023 Expires Jul 2028 Credential ID D106012",
+        "subtitle": "Natural Resources Canada | Ressources naturelles Canada",
+        "title": "Fireworks Display Operator - Display Assistant",
+        "credential_url": null,
+        "credential_id": "D106012"
+      },
+      {
+        "meta": "Issued Mar 2022 Expires Mar 2025 Credential ID EREA4A See credential",
+        "subtitle": "The Lifesaving Society Canada",
+        "title": "CPR/AED/First Aid",
+        "credential_url": "https://www.lifesavingsociety.com/find-a-member.aspx?trk=public_profile_see-credential",
+        "credential_id": "EREA4A"
+      },
+      {
+        "meta": "Issued Mar 2022 Expires Mar 2024 Credential ID EREA4A See credential",
+        "subtitle": "The Lifesaving Society Canada",
+        "title": "Lifeguard",
+        "credential_url": "https://www.lifesavingsociety.com/find-a-member.aspx?trk=public_profile_see-credential",
+        "credential_id": "EREA4A"
+      },
+      {
+        "meta": "Issued Sep 2021 Expires Aug 2023 Credential ID EREA4A See credential",
+        "subtitle": "The Lifesaving Society Canada",
+        "title": "Swim Instructor",
+        "credential_url": "https://www.lifesavingsociety.com/find-a-member.aspx?trk=public_profile_see-credential",
+        "credential_id": "EREA4A"
+      }
+    ],
+    "volunteer_experience": [
+      {
+        "cause": "Education",
+        "duration": "Aug 2020 \u00b7 - \nJul 2022 \u00b7 \n2 years",
+        "duration_short": "- \nJul 2022",
+        "info": "\u2022 Plan, advertise and run weekly club meetings in school (80+ members) \u2022 Wrote and received an international grant for a community-wide youth event \u2022 Volunteer event coordinator for the event",
+        "start_date": "Aug 2020",
+        "subtitle": "NCSY",
+        "title": "Club Head & Volunteer Leadership"
+      },
+      {
+        "cause": "Education",
+        "duration": "Sep 2021 \u00b7 - \nJul 2022 \u00b7 \n11 months",
+        "duration_short": "- \nJul 2022",
+        "info": "\u2022 Designed and built an electric Go Kart while staying within budget while meeting deadline requirements \u2022 Organized weekly meetings & activities for club members",
+        "start_date": "Sep 2021",
+        "subtitle": "The Anne & Max Tanenbaum Community Hebrew Academy of Toronto",
+        "title": "Engineering Club Head"
+      },
+      {
+        "cause": "Education",
+        "duration": "Sep 2021 \u00b7 - \nJul 2022 \u00b7 \n11 months",
+        "duration_short": "- \nJul 2022",
+        "info": "\u2022 Weekly one-on-one tutor sessions with a grade-12 student with learning and developmental disabilities \u2022 Increased business communication mark by 15% and English mark by 20% \u2022 Taught problem-solving, time management, and communication skills over 10 months of sessions",
+        "start_date": "Sep 2021",
+        "subtitle": "Jewish Family and Child Service of Greater Toronto",
+        "title": "General Studies Tutor"
+      },
+      {
+        "cause": "Education",
+        "duration": "Jul 2021 \u00b7 - \nAug 2022 \u00b7 \n1 year 2 months",
+        "duration_short": "- \nAug 2022",
+        "info": "\u2022 Schedule 2-3 weekly one-on-one tutoring sessions for grade 11 chemistry \u2022 Taught the chemistry curriculum to a student facing language barriers",
+        "start_date": "Jul 2021",
+        "subtitle": "JIAS Toronto",
+        "title": "Chemistry Tutor"
+      }
+    ],
+    "followers": 1495,
+    "connections": 500,
+    "current_company_company_id": "dreamtechnologies-inc",
+    "current_company_name": "Dream Technologies",
+    "publications": [
+      {
+        "title": "Workshop: From Pit Stop to Podium: Mastering Technical Project Management for Complex Engineering Teams",
+        "subtitle": "Hack The North",
+        "date": "September 14, 2024",
+        "description": "This workshop focuses on technical project management within the context of developing a fully autonomous Indy race car. Participants will learn strategies for leading a large, multi-layered, technically diverse team through the stages of designing, building, and racing a self-driving race car."
+      },
+      {
+        "title": "Applications for a mobile, vision-based sensor system in passive production and intralogistics monitoring",
+        "subtitle": "Conference on Intelligent Computation in Manufacturing Engineering",
+        "description": "Today's rapidly evolving industrial landscape and the progressive digitization of production processes require massive amounts of real-time data on the current production and logistical status. This work proposes a multi-modal mobile sensor system that captures and perceives the production facility environment and fits into a standard load carrier, e.g., to be transported using logistic assets and existing transport routes. In contrast to using numerous stationary sensor solutions, the mobile system especially stands out in lot size one production sites, e.g., in aircraft assembly lines. Besides presenting the overall system, we elaborate on possible applications and prototypical demonstrate and evaluate these."
+      },
+      {
+        "title": "BETTY Dataset: A Multi-modal Dataset for Full-Stack Autonomy",
+        "subtitle": "The International Conference on Robotics and Automation",
+        "description": "We present the BETTY dataset, a large-scale, multi-modal dataset collected on several autonomous racing vehicles, targeting supervised and self-supervised state estimation, dynamics modeling, motion forecasting, perception, and more. Existing large-scale datasets, especially autonomous vehicle datasets, focus primarily on supervised perception, planning, and motion forecasting tasks. Our work enables multi-modal, data-driven methods by including all sensor inputs and the outputs from the software stack, along with semantic metadata and ground truth information. The dataset encompasses 4 years of data, currently comprising over 13 hours and 32 TB, collected on autonomous racing vehicle platforms. This data spans 6 diverse racing environments, including high-speed oval courses, for single and multi-agent algorithm evaluation in feature-sparse scenarios, as well as high-speed road courses with high longitudinal and lateral accelerations and tight, GPS-denied environments. It captures highly dynamic states, such as 63 m/s crashes, loss of tire traction, and operation at the limit of stability. By offering a large breadth of cross-modal and dynamic data, the BETTY dataset enables the training and testing of full autonomy stack pipelines, pushing the performance of all algorithms to the limits."
+      },
+      {
+        "title": "Leveraging passive monitoring applications in production and intralogistics",
+        "subtitle": "Conference on Intelligent Computation in Manufacturing Engineering",
+        "description": "Today's rapidly evolving industrial landscape and the progressive digitization of products, processes, and resources require massive amounts of online data on the current production and logistical status. Fixed-positioned sensor systems have a constrained Field of View (FoV), while a mobile system can significantly extend these, enabling further applications due to the larger observed space. In this work, we elaborate on potential applications that utilize incidentally acquired data from various locations from the perspective of a mobile, vision-based sensor system. We exemplarily demonstrate an application within the scope of capturing and triggering the intralogistics chain with data from a vision-based sensor system that can be carried by an Autonomous Guided Vehicle (AGV)."
+      }
+    ],
+    "projects": [
+      {
+        "title": "Jane Street x GPU Mode Hackathon",
+        "start_date": "Sep 2025",
+        "description": "Competed in Jane Street\u2019s East Coast GPU Mode Hackathon, a high-performance ML optimization challenge focused on sequence models in market-making scenarios.- Distilled four pre-trained models into a single low-latency model for a simulated market.- Achieved 5\u00d7 faster inference than the second-fastest team while maintaining accuracy in a simulated market-making environment.- Optimized across the full pipeline: model distillation, tuning, and system-level profiling for bottleneck identification"
+      },
+      null,
+      {
+        "title": "Insight AI - Best generative AI hack - HackMIT 23\u2019",
+        "start_date": "Sep 2023",
+        "description": "- Created a personalized, context-aware integrated learning environment for students to simulate 1 on 1 meetings with a teacher- Spearheaded the development and integration of an Optical Character Recognition (OCR) and Large Language Model (LLM) pipeline"
+      },
+      {
+        "title": "Machine Learning Home Price Prediction in Python",
+        "start_date": "Dec 2022",
+        "description": "\u2022Trained 2 supervised machine learning models to precisely predict house prices by analyzing metrics from public datasets\u2022 Utilized mean absolute error and cross-validation trade-off to optimize decision tree depth, maximizing model accuracy to +/- 25%\u2022 Identified the most accurate model by comparing a random forest model to the decision tree model, increasing accuracy to +/- 15%"
+      },
+      {
+        "title": "Chess Robot",
+        "start_date": "Oct 2022",
+        "description": "Designed and built a robot that plays against the player in real time. Using Tetrix integrated with Lego for the assembly, developed with C++ and RobotC."
+      },
+      {
+        "title": "Autonomous Machine Vision Algorithm",
+        "start_date": "Oct 2022",
+        "description": "Developed object detection & classification software to track and simulate a manufacturing environment using machine vision with C++ in partnership with Toyota."
+      },
+      {
+        "title": "Electric Go Kart",
+        "start_date": "Jan 2022",
+        "description": "Pitched, designed, and developed a fully functioning electric Go Kart as a senior year engineering project. Used principles of electric circuits to wire electronic controls to custom powertrain."
+      },
+      {
+        "title": "Potato Canon",
+        "start_date": "Oct 2021",
+        "description": "Designed, assembled, and developed a custom potato canon for a school event. Modelled and printed components."
+      },
+      {
+        "title": "Song Sorter",
+        "start_date": "Oct 2020",
+        "description": "Developed a song sorter with an interactive GUI using Java"
+      },
+      {
+        "title": "Macro Pad",
+        "start_date": "Sep 2020",
+        "description": "Developed and coded a macro pad using a custom 3D printed case with an Arduino board and toggleable macros using C++"
+      },
+      {
+        "title": "Room Alarm System",
+        "start_date": "Sep 2020",
+        "description": "Developed an alarm system with a keypad and security code that triggers upon door opening using an Arduino board and C++"
+      },
+      {
+        "title": "TV Remote Duplicator",
+        "start_date": "Jun 2020",
+        "description": "Developed a TV Remote duplicator with adaptable buttons, using an Arduino board, IR receiver/emitter, and C++."
+      }
+    ],
+    "location": "Greater Toronto Area",
+    "input_url": "https://www.linkedin.com/in/eidanerlich",
+    "linkedin_id": "eidanerlich",
+    "activity": [
+      {
+        "interaction": "Liked by Eidan Erlich",
+        "link": "https://www.linkedin.com/posts/hannah-griller_inspiring-execution-activity-7482930943003897856-g2Gc",
+        "title": "Inspiring execution!",
+        "img": "https://static.licdn.com/aero-v1/sc/h/53n89ecoxpr1qrki1do3alazb",
+        "id": "7482930943003897856"
+      },
+      {
+        "interaction": "Liked by Eidan Erlich",
+        "link": "https://www.linkedin.com/posts/michelle-dor-43901b33_96-of-jewish-college-students-in-canada-activity-7492643653870407680-AKH0",
+        "title": "95.7% of Jewish university students surveyed in Canada reported experiencing or witnessing antisemitism on campus. That number should stop us in our\u2026",
+        "img": "https://media.licdn.com/dms/image/sync/v2/D5627AQG6qMwQAS0XjQ/articleshare-shrink_1280_800/B56Z_s3Z9.JcBg-/0/1786385375696?e=2147483647&v=beta&t=SpyGHLJiEBsJQUxfDqyP-OcNg58EDaChVrNay-V64mI",
+        "id": "7492643653870407680"
+      },
+      {
+        "interaction": "Liked by Eidan Erlich",
+        "link": "https://www.linkedin.com/posts/andrewshum8_i-am-excited-to-share-that-mirai-is-officially-activity-7491189071260639232-oEmG",
+        "title": "I am excited to share that Mirai is officially backed by a16z speedrun. When people buy a home, they are not just buying the property. They are\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQHSNQdOedTTDw/feedshare-shrink_800/B56Z_YMwxTGQAc-/0/1786038652567?e=2147483647&v=beta&t=V2tVNKjbN_cEyPvJ3ZsrCuPgTCZlZIFNU-Dt7EJje0o",
+        "id": "7491189071260639232"
+      },
+      {
+        "interaction": "Liked by Eidan Erlich",
+        "link": "https://www.linkedin.com/posts/orthotron-lab_spring-achievements-congratulations-activity-7486489682143490048-5erL",
+        "title": "\ud83c\udf89 Spring Achievements! Congratulations to the following lab members on their awards and accomplishments: - Jonah Leinwand received the Natural\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQG5eSFbAR82ig/feedshare-shrink_1280/B56Z.Var90KMAQ-/0/1784918229135?e=2147483647&v=beta&t=OWPo96-82wPRbjio_uSPpLZfaeHjWuJ2Ni4zS5QIsoY",
+        "id": "7486489682143490048"
+      },
+      {
+        "interaction": "Liked by Eidan Erlich",
+        "link": "https://www.linkedin.com/posts/nir-naamani-3299821b1_the-first-one-to-build-an-agent-that-orders-activity-7491574949124476928-pJ4Y",
+        "title": "The first one to build an agent that orders a pizza and get it to the door wins $2,500 cash. That was the challenge we ran yesterday with Alex\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQE8mGm1JrC_ZQ/feedshare-shrink_800/B4EZ_drtYaJEAc-/0/1786130652818?e=2147483647&v=beta&t=ak8nEh_0aA5QhA6In_8WHdxg7R3CHfGrfFtw6lvkZvw",
+        "id": "7491574949124476928"
+      },
+      {
+        "interaction": "Liked by Eidan Erlich",
+        "link": "https://www.linkedin.com/posts/markus-lienkamp-720665179_a2rl-imola-today-we-had-a-great-testing-activity-7491231797029085184-jOX0",
+        "title": "A2RL @ Imola Today we had a great testing day at the famous race track in Imola. We pushed the car to the limit and acquired a lot of data. Currently\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4E05AQHfGFab0Gnohg/videocover-high/B4EZ_YzjOYHoBQ-/0/1786048823774?e=2147483647&v=beta&t=uPlKkj8mzqxEXppa89OArFtvKpayuEPHJfuaxfYa10g",
+        "id": "7491231797029085184"
+      },
+      {
+        "interaction": "Liked by Eidan Erlich",
+        "link": "https://www.linkedin.com/posts/joshualeezhang_im-excited-to-share-that-mirai-has-raised-activity-7491178782309998592-JbdP",
+        "title": "I\u2019m excited to share that Mirai has raised $500,000 in pre-seed investment from a16z speedrun. When people look for a home, they\u2019re not just buying\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQFh7EJp-t7XHg/feedshare-shrink_800/B56Z_Vtu16HIAc-/0/1785996963771?e=2147483647&v=beta&t=Cs3VJN3kLcKMpR5fPYIwlnMbM5yyVKdy-KcengGHyno",
+        "id": "7491178782309998592"
+      },
+      {
+        "interaction": "Liked by Eidan Erlich",
+        "link": "https://fr.linkedin.com/posts/chartwell-retirement-residences_bees-sustainability-chartwell-activity-7490859414011248640-4yew",
+        "title": "We've welcomed some very special new residents to our Head Office! \ud83d\udc1d Our rooftop beehive is officially home to thousands of busy bees who will help\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4E10AQFUR_bQSdLA1A/image-shrink_800/B4EZ_Tg761IQAk-/0/1785960054860?e=2147483647&v=beta&t=aYCWkI8M9ovJufJUO4ikiYEefj_s-_uq-ddMHX75SB8",
+        "id": "7490859414011248640"
+      },
+      {
+        "interaction": "Liked by Eidan Erlich",
+        "link": "https://www.linkedin.com/posts/arash-ali-mahdavi-amiri-40319920_siggraph2026-activity-7490464100683186176-01_V",
+        "title": "\ud83d\udce3#siggraph2026 was fun as always. We had two papers to present. \u2b50\ufe0f Hairport, which was a method to transfer hair from one ID to another done by\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQHrN0gdxAN-jQ/feedshare-image-high-res/B56Z_N5YsPKEAU-/0/1785865800943?e=2147483647&v=beta&t=J1IxusVWblf_DVrDhBQkzu94JCUPN8E0oy-6ui2gxzE",
+        "id": "7490464100683186176"
+      },
+      {
+        "interaction": "Liked by Eidan Erlich",
+        "link": "https://www.linkedin.com/posts/aaron-paul-emmett-austin_obc2026-wcb2026-activity-7488434525832880129-PJ8E",
+        "title": "Lot's of updates from the past few months. In April, I presented my undergraduate Thesis titled Strength and Kinematic Analysis of Fatigue in\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQHiC2dNQDiVUw/feedshare-image-high-res/B56Z.xDg03JgAY-/0/1785381916662?e=2147483647&v=beta&t=iQc_TPs2Iz1Z-a6mDz5moDq4KDcQIkcs8cyTQ1_2TdU",
+        "id": "7488434525832880129"
+      },
+      {
+        "interaction": "Liked by Eidan Erlich",
+        "link": "https://www.linkedin.com/posts/ji-ung-kim_i-am-pleased-to-share-our-recent-publication-activity-7488254039164350464-Ggf7",
+        "title": "I am pleased to share our recent publication at the University of Waterloo. In liquid metal embrittlement (LME), especially during resistance spot\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQH0ruZNIXcOsA/feedshare-image-high-res/B56Z.ufXfdK0AY-/0/1785338886432?e=2147483647&v=beta&t=qebCJR52YkbYia_BTjCYx2e27LU-igrR-qqyZURi5EA",
+        "id": "7488254039164350464"
+      },
+      {
+        "interaction": "Liked by Eidan Erlich",
+        "link": "https://www.linkedin.com/posts/adrian-rocca-b555a563_this-morning-our-team-picked-up-bagels-from-activity-7487495447922565120-_20h",
+        "title": "This morning our team picked up bagels from Kiva\u2019s. It won\u2019t undo what happened this weekend but it sends a simple message: hate has no place in our\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQG83VBZpJHKiA/feedshare-image-high-res/B56Z.jtY_KHUAY-/0/1785158013364?e=2147483647&v=beta&t=gfZXyZh8Y32CNx0d79CQvCRfQ1KqxzyJsfQxagEI7Ms",
+        "id": "7487495447922565120"
+      },
+      {
+        "interaction": "Liked by Eidan Erlich",
+        "link": "https://www.linkedin.com/posts/josh-sirota_everything-that-matters-about-eragon-started-activity-7485363183613042688-XOYV",
+        "title": "Everything that matters about Eragon started in one room. But today, we're moving out of 188 King St. When I moved in last August, I was sharing the\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQGj7HqQlMsh_A/feedshare-shrink_800/B4EZ.FaJZLJUAc-/0/1784649652207?e=2147483647&v=beta&t=xNqlYFXG2PFcT10Xta2VWNT1dPKCDkPB9SujHaw_A28",
+        "id": "7485363183613042688"
+      },
+      {
+        "interaction": "Liked by Eidan Erlich",
+        "link": "https://www.linkedin.com/posts/jona-kosoy-50720228b_im-very-excited-to-announce-i-will-be-joining-activity-7484312962464382976-XN93",
+        "title": "I'm very excited to announce I will be joining GM this coming September as a Production Group Leader at the Oshawa production plant! Thank you\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQG63QDfHoYt-A/feedshare-shrink_1280/B56Z92e.vDJoAM-/0/1784399260807?e=2147483647&v=beta&t=jL8QxsEZb_vHlXJNJpOijHdCIF_1YTwZiqVDqJvJ_cA",
+        "id": "7484312962464382976"
+      },
+      {
+        "interaction": "Liked by Eidan Erlich",
+        "link": "https://www.linkedin.com/posts/jacob-perrin_after-10-incredible-years-today-marks-my-activity-7483985532465692672-IwgZ",
+        "title": "After 10+ incredible years, today marks my last day at dSPACE. I can't say enough good things about this company and the people who make it what it\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQFCPAOBGConqw/feedshare-image-high-res/B4EZ9x1L24KoAc-/0/1784321195714?e=2147483647&v=beta&t=6sZijBAhFtFgL_8soA52sdOmcah7T9N_xqozOOKTpic",
+        "id": "10"
+      },
+      {
+        "interaction": "Liked by Eidan Erlich",
+        "link": "https://www.linkedin.com/posts/lionsgate_internfeature-lionsgateinterns-activity-7483950719168040960-FiRk",
+        "title": "#InternFeature: Hi, I\u2019m Noa Garmaise! I just graduated from McGill University in Montreal, where I majored in Strategic Management and minored in\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQG32erbr2y5EA/feedshare-image-high-res/B56Z9xVhSUG0AU-/0/1784312895012?e=2147483647&v=beta&t=4APX9c6dni6_1wkeVClQ_MG_WKffexlgGtE2rFRtDmA",
+        "id": "7483950719168040960"
+      },
+      {
+        "interaction": "Liked by Eidan Erlich",
+        "link": "https://www.linkedin.com/posts/ahmad-aminzadeh_salzburg-rsw-iiw2026-activity-7483834093466451968-_80z",
+        "title": "An unforgettable summer of innovation in Europe! \ud83c\uddea\ud83c\uddfa\u2728 I had a fantastic time at the International Institute of Welding, Annual Assembly in\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQHWndVi5UYlyQ/feedshare-image-high-res/B56Z9vrZGeG0AU-/0/1784285076710?e=2147483647&v=beta&t=HgHRBluoIzhedWG2j5XdPDiLzph2kczIjAUlvFGRSss",
+        "id": "7483834093466451968"
+      }
+    ],
+    "linkedin_num_id": "828005151",
+    "banner_image": "https://media.licdn.com/dms/image/v2/D5616AQF9NDiNiJqplQ/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1687551892345?e=2147483647&v=beta&t=Tjd5YMcZdPq0BgMskOcT8vARgkGFSaAKF0VVpQadChs",
+    "honors_and_awards": null,
+    "similar_profiles": [],
+    "default_avatar": false,
+    "memorialized_account": false,
+    "bio_links": [],
+    "first_name": "Eidan",
+    "last_name": "Erlich",
+    "influencer": false,
+    "timestamp": "2026-08-12T19:00:14.661Z",
+    "input": {
+      "url": "https://www.linkedin.com/in/eidanerlich"
+    }
+  },
+  "local_photo": "data\\linkedin_photos\\eidanerlich__usr-L5AsjHvmgNBUDzk.jpg"
+}

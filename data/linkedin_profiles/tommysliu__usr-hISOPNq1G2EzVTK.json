@@ -1,0 +1,43 @@
+{
+  "luma_user_id": "usr-hISOPNq1G2EzVTK",
+  "csv_name": "Tommy Liu",
+  "csv_linkedin": "https://www.linkedin.com/in/tommysliu",
+  "enriched_at": "2026-08-12T19:22:34.863101+00:00",
+  "batch_id": "sd_msqh2468i57o0acas",
+  "profile": {
+    "id": "tommysliu",
+    "name": "Tommy Liu",
+    "city": "Cupertino, California, United States",
+    "country_code": "US",
+    "position": null,
+    "about": null,
+    "current_company": {
+      "location": null
+    },
+    "experience": null,
+    "url": "https://ro.linkedin.com/in/tommysliu",
+    "education": null,
+    "avatar": "https://media.licdn.com/dms/image/v2/D5603AQFHMPOXZfGtOg/profile-displayphoto-scale_200_200/B56Zkhrbu2HUAY-/0/1757206658573?e=2147483647&v=beta&t=TEjwyjeHiq1PuSe6Mm9E44YbBOeLRgUqlGGTx7ND2m0",
+    "followers": 1219,
+    "connections": 500,
+    "location": "Cupertino",
+    "input_url": "https://www.linkedin.com/in/tommysliu",
+    "linkedin_id": "tommysliu",
+    "activity": null,
+    "linkedin_num_id": "1091820699",
+    "banner_image": "https://media.licdn.com/dms/image/v2/D5616AQFOs2vV1MLBEw/profile-displaybackgroundimage-shrink_200_800/B56Z.lt9EEGQAU-/0/1785191715367?e=2147483647&v=beta&t=55hYMf7IMUqOS26akE2FM76yAA2aZwdgjoc6w-K9ozg",
+    "honors_and_awards": null,
+    "similar_profiles": [],
+    "default_avatar": false,
+    "memorialized_account": false,
+    "bio_links": [],
+    "first_name": "Tommy",
+    "last_name": "Liu",
+    "influencer": false,
+    "timestamp": "2026-08-12T19:18:14.917Z",
+    "input": {
+      "url": "https://www.linkedin.com/in/tommysliu"
+    }
+  },
+  "local_photo": "data\\linkedin_photos\\tommysliu__usr-hISOPNq1G2EzVTK.jpg"
+}

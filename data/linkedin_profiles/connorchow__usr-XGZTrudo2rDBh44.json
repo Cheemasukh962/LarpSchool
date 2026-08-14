@@ -1,0 +1,159 @@
+{
+  "luma_user_id": "usr-XGZTrudo2rDBh44",
+  "csv_name": "connor chow",
+  "csv_linkedin": "https://www.linkedin.com/in/connorchow",
+  "enriched_at": "2026-08-12T18:59:59.572640+00:00",
+  "batch_id": "sd_msqgcuh41lygyhc91a",
+  "profile": {
+    "id": "connorchow",
+    "name": "Connor Chow",
+    "city": "Los Altos, California, United States",
+    "country_code": "US",
+    "position": null,
+    "about": "researching agentic & compound ai systems.",
+    "current_company": {
+      "link": "https://www.linkedin.com/company/databricks?trk=public_profile_topcard-current-company",
+      "name": "Databricks",
+      "company_id": "databricks",
+      "location": null
+    },
+    "experience": null,
+    "url": "https://ro.linkedin.com/in/connorchow",
+    "educations_details": "University of California, Berkeley",
+    "education": [
+      {
+        "start_year": "2021",
+        "end_year": "2025",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      },
+      {
+        "start_year": "2017",
+        "end_year": "2021",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      }
+    ],
+    "avatar": "https://static.licdn.com/aero-v1/sc/h/9c8pery4andzj6ohjkjp54ma2",
+    "followers": 388,
+    "connections": 378,
+    "current_company_company_id": "databricks",
+    "current_company_name": "Databricks",
+    "location": "Los Altos",
+    "input_url": "https://www.linkedin.com/in/connorchow",
+    "linkedin_id": "connorchow",
+    "activity": [
+      {
+        "interaction": "Connor Chow shared this",
+        "link": "https://www.linkedin.com/posts/connorchow_excited-to-share-what-ive-been-working-on-activity-7315808175234994176-7aLn",
+        "title": "Excited to share what I\u2019ve been working on under the leadership of Jared Quincy Davis and many others! This framework\u2014Ember\u2014simplifies the creation of Compound AI Systems. It enables the development of today\u2019s AI systems at a fraction of the cost and unlocks greater performance as compound system\u2019s architecture evolves. With Ember, components like LLMs, verifiers, etc. as nodes can be connected into a graph-based architecture called a Network of Networks (NoN). It works similarly to neurons or layers within PyTorch\u2019s Neural Network composition! Jason Lee , Kathleen Ge , and I have been addressing metrics for mode collapse or the response diversity regarding these Compound AI Systems. Check it out below! \ud83d\ude0a:",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQGs7q341wY0Hg/feedshare-shrink_800/B56ZYYG9s6H0A0-/0/1744161201583?e=2147483647&v=beta&t=KZORZSGOrA7w9f8_14QWzOysVSJKDTYH9E3OPbFATAg",
+        "id": "7315808175234994176"
+      },
+      {
+        "interaction": "Connor Chow liked this",
+        "link": "https://www.linkedin.com/posts/shangyin-tan_gepa-optimizeanything-goes-omni-composing-activity-7486150039895961600--2WN",
+        "title": "Many LLM-based optimization algorithms have been proposed recently. We find that GEPA, AutoResearch, and Meta-Harness each win on different tasks, and no single LLM optimizer wins everywhere. How do we leverage the complementary performance profiles of these optimization algorithms? Today, we release optimize_anything omni: a meta-optimizer that leverages the best of each optimizer. At a matched budget, omni beats every standalone optimizer. Text optimization is a general problem-solving paradigm: if your artifact is describable as text and its quality can be measured, you can optimize it. optimize_anything lets you express your problem once and benefit from continued research into optimizers. It is now engine-pluggable and pipeline-composable: one argument dispatches the same task to GEPA, AutoResearch (inspired by Andrej Karpathy ), or Meta-Harness ( Yoonho Lee ), and the engines compose into multi-stage pipelines. We evaluated all three on Frontier-CS using Terrarium, our new evaluation framework that runs every optimizer with a matched budget. Under the same model, thinking effort, and budget, no optimization engine dominates: out of 10 tasks, GEPA wins 3, AutoResearch 3, and Meta-Harness 4. We could not predict the winner from the problem itself. All optimizers hill-climb very fast, making great progress with just a few iterations, but eventually plateau. Handing the stalled candidate to a different optimizer unblocks progress: different optimizers approach the problem differently. Rather than bet the whole budget on one optimizer, explore with several and continue from the best. omni puts both findings to work. Phase 1: run all the optimizers in parallel, each with a fraction of the budget, and pick the best candidate. Phase 2: hand it to a new, fresh optimizer for the rest of the budget. This meta-optimizer pipeline is only about 10 lines of code in optimize_anything. The result: omni scores +7.8 points over the best standalone optimizer under the same budget, and runs faster too. Every omni variant beats its standalone counterpart. The reliable win comes from the composition. To use the latest optimize_anything API, point your coding agent at gepa-ai/gepa and ask it to use the gepa-optimize-anything skill. In collaboration with an incredible team: Lakshya A Agrawal Donghyun Lee Jialin Zhang Dan Klein Koushik Sen Alex Dimakis Matei Zaharia Read more: https://lnkd.in/geDYfpeA",
+        "img": "https://media.licdn.com/dms/image/sync/v2/D5627AQEbVLCiz4lz1Q/articleshare-shrink_800/B56Z.QlC_cHcAY-/0/1784837059587?e=2147483647&v=beta&t=EXdOiJ6pVTibVPaWGA5defDjC4UBF2NXkAXR3Au8jbI",
+        "id": "7486150039895961600"
+      },
+      {
+        "interaction": "Connor Chow liked this",
+        "link": "https://www.linkedin.com/posts/mateizaharia_really-excited-to-open-source-a-new-project-activity-7471594037934723073-YCPO",
+        "title": "Really excited to open source a new project: Omnigent, a meta-harness for AI agents. https://lnkd.in/g5QfG_aw It lets you build multi-agent coding and custom agents, sitting above Claude Code, Codex, Pi, and agent SDKs to let you compose them. It also adds live collaboration and rich control policies. Omnigent is based on the trend we saw with AI usage at Databricks and Neon: engineers were combining multiple agents into loops and workflows, and this was difficult above the harness layer. We add a uniform API above any harness that enables rich features on top. For composition, it lets you create multi-agent teams with different harnesses or swap harness and model mid-session and mid-loop. For collaboration, Omnigent adds a common UI above any agents, with native app, web and mobile UIs and live collaboration with teammates. No more copy-pasting text and screenshots between agents, Slack, and Docs! For security & cost control, Omnigent introduces a *contextual* policy model that can track session state (e.g. ask for permission to git push if an agent downloaded an untrusted npm package, or ask you after every $100 of spend) and a strong OS sandbox from our security team. We think a lot of work will move beyond the individual agent level and to a meta-harness layer like this as agents get more widely adopted, so we're very excited to open source our foundation for it, based on our needs for coding and custom agents at Databricks and Neon. I'm doing all my coding, and product management in this now and love having a single interface to all my agents. Try it out and join the open source community to contribute!",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQFYbIwWPXVyfg/feedshare-image-high-res/B56Z7BvLfPIMAU-/0/1781366832371?e=2147483647&v=beta&t=BFDdZku1aiJOst8T0ObkbqQ7GWGEQAAgSQ5fIiZGHP0",
+        "id": "7471594037934723073"
+      },
+      {
+        "interaction": "Connor Chow liked this",
+        "link": "https://www.linkedin.com/posts/lakshyaaagrawal_gepa-and-dspy-used-in-pretraining-data-curation-activity-7467822418447970304-yAQ5",
+        "title": "GEPA and DSPy used in pretraining data curation in the new Microsoft AI effort. Microsoft AI used GEPA optimized LLM judges for data filtering in MAI-Thinking-1 model's pre-training pipeline!",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQF8jovyK5HiDw/feedshare-shrink_800/B56Z6MI6vkH0Ac-/0/1780467608794?e=2147483647&v=beta&t=WVpNRXz-ByRKHlxu_F9j3lSt-pLbKWLlWJVLB8B1QLs",
+        "id": "7467822418447970304"
+      },
+      {
+        "interaction": "Connor Chow liked this",
+        "link": "https://www.linkedin.com/posts/lakshyaaagrawal_since-gepa-weve-shown-that-llms-learn-dramatically-activity-7460402289158262784-mV2-",
+        "title": "Since GEPA, we've shown that LLMs learn dramatically faster from rich textual feedback (error messages, execution traces, partial reasoning) the \"Actionable Side Information\" available in any task domain, instead of just a scalar reward. In prompt/context space, this works incredibly well: we have demonstrated frontier results at a fraction of the cost of RL. But, can we get the same kind of signal into weight space and push the asymptote? Today our team is releasing Fast-Slow Training (FST) that treats the context layer (including prompts, agent harnesses, etc.) as \"fast weights\", and the model parameters as \"slow weights\". The idea is a clean division of labor between two interleaved loops: \ud83d\udd39 Fast loop (context): GEPA reads rich rollout feedback and updates the context layer. The context becomes a fast-updating, declarative scratchpad of what the model needs to know about this task, right now. \ud83d\udd39 Slow loop (model parameters): RL updates the model's parameters (\"slow weights\") conditioned on the evolving context. Because the prompt already carries the task-specific nuances, the model parameters are freed from absorbing them and focus on what actually generalizes across tasks and pushes the frontier. Weight-space training has historically had to absorb everything about a new task: output formats, task-specific tricks, transient batch-level lessons, AND general reasoning patterns, all into the same persistent set of parameters. That's why heavy RL distorts a base model quickly, leading to plasticity loss, reducing the model's ability to learn new tasks. The effects of FST's fast/slow division fall out almost mechanically: - 3\u00d7 more sample-efficient than RL alone on math, code, and physics reasoning - ~70% lower KL divergence from the base model at matched accuracy, the model isn't drifting as far from its pretrained capabilities, and forgetting less (context layer shares the burden of learning task-specific info) - Plasticity preserved: FST checkpoints respond better to additional RL on new tasks than RL-only ones do! - Continual learning across changing tasks where RL-only training stalls the moment the task switches, whereas FST continues acquiring new tasks! If you let the prompt carry the parts that don't actually push the model's reasoning frontier, the weights stay closer to the base, keep their capacity, and keep learning across tasks. Continual learning falls out as a consequence of routing the right kind of signal to the right kind of weight. FST also provides a natural blueprint for model-harness co-evolution, employing a two-loop structure that iteratively advances both systems. \ud83c\udfa5 https://lnkd.in/g8HsNAds \ud83d\udcc4 Paper: https://lnkd.in/gZp5UA8u \ud83d\udcdd Blog: https://lnkd.in/gQph34ER Incredibly grateful to the wonderful team that made this possible: Rishabh Tiwari Kusha S. Joseph Gonzalez Matei Zaharia Kurt Keutzer Inderjit Dhillon Rishabh A. and Devvrit K. !",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQHv9sUfrQxeqw/feedshare-shrink_800/B56Z4isWFXKQAc-/0/1778698510922?e=2147483647&v=beta&t=1N3NgoVRJMiGjht7QyooQD167LqmzM9-SQpbUA9iNdo",
+        "id": "7460402289158262784"
+      },
+      {
+        "interaction": "Connor Chow liked this",
+        "link": "https://www.linkedin.com/posts/lakshyaaagrawal_iclr2026-ai-machinelearning-activity-7453251857562640384-2OkT",
+        "title": "\ud83c\udde7\ud83c\uddf7 Thrilled to present GEPA as an Oral Talk at ICLR 2026 in Rio today! \ud83d\udccd Oral Session 3A (Agents), 10:30 AM BRT, Amphitheater \ud83d\udccd Poster Session 4, 3:15 PM, Pavilion 3 The Core Idea: As AI tackles harder problems, FLOPs keep getting cheaper, but capabilities are bottlenecked by the cost of rollouts. What if AI systems could learn the way humans do, by reflecting on what worked and what didn't? That led to GEPA, a reflective optimizer that outperforms RL methods like GRPO by up to 20% with 35\u00d7 fewer rollouts. GEPA launched as a core optimizer in DSPy, and has since been integrated into Google Cloud ADK, Pydantic, Comet, MLflow, and Prime Intellect Verifiers. Alongside the release, we showed an automated agent architecture discovery demo, improving Gemini's ARC-AGI performance by 3\u00d7 without modifying GEPA. The deeper insight: GEPA is a text evolution engine. Given any target metric, it can search and evolve the right text, prompts, code, agent harnesses, cloud policies, even visual descriptions. That became optimize_anything: a universal API to express problems from any domain as text optimization. If you can measure it, you can optimize it. We then applied it to agent skills, boosting Claude Code with Sonnet to 100% accuracy on repository tasks while cutting runtime by 47%, with skills transferring from cheaper models. GEPA is now used in production by Shopify, Dropbox, Databricks, OpenAI, Uber, Meta, and AWS: \u2022 OpenAI + Bain published a cookbook on building self-evolving agents with GEPA \u2022 Databricks achieved a 90\u00d7 cost reduction on information extraction with gpt-oss-120B outperforming Claude-Opus \u2022 Shopify and Dropbox presented enterprise case studies at the recent DSPy Meetup \u2022 Hermes-Agent, one of the most popular agents on OpenRouter, integrated GEPA for self-evolution \u2022 Tobi L\u00fctke (Shopify CEO) called GEPA \"severely under-hyped in the AI context engineering world\" GEPA is also being applied to AI safety research: GEPA-optimized monitors achieve ~90% safety with a 1% audit budget, where baseline monitors fail to exceed 70% (\"Prompt Optimization Can Enable AI Control Research\", Hopman & Parent). Deeply grateful to my team and advisors: Shangyin Tan , Dilara Soylu, Noah Ziems , Donghyun Lee, Wenjie Ma , Krista Opsahl-Ong , Arnav Singhvi, Herumb S. , Michael Ryan , Sanjith Sesia, Meng Jiang , Christopher Potts, Koushik Sen , Alex Dimakis , Joseph Gonzalez , Ion Stoica , Dan Klein , Matei Zaharia , and Omar Khattab. And to the community that keeps pushing GEPA forward, thank you. If you're at ICLR, come say hi at the oral or poster. Excited to meet people working on self-improving AI systems, prompt optimization, and agent evaluation. \ud83d\udd17 Project Page: https://lnkd.in/gCsnfAhx \ud83d\udd17 Discord: https://lnkd.in/gRnFDtzJ \ud83d\udd17 Slack: https://lnkd.in/gYYs8FYh #ICLR2026 #AI #MachineLearning #PromptOptimization #Agents #GEPA",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQFJM8bYsfR_NQ/feedshare-shrink_1280/B56Z29FCZEHAAM-/0/1776993707867?e=2147483647&v=beta&t=QAOe0sBJoo4OvWip-qbGWDH-H7A45IoAiw290401vV8",
+        "id": "7453251857562640384"
+      },
+      {
+        "interaction": "Connor Chow liked this",
+        "link": "https://www.linkedin.com/posts/alighodsi_big-congrats-to-matei-zaharia-this-is-the-activity-7447687044039979008-bm3D",
+        "title": "Big congrats to Matei Zaharia , this is the second most prestigious prize in Computer Science (after Turing=Nobel prize). Databricks wouldn't exist without him. Everything Matei touches turns into gold!",
+        "img": "https://media.licdn.com/dms/image/v2/D5610AQGGHNoHRIehNg/image-shrink_800/B56Z1tokjRIoAk-/0/1775660845684?e=2147483647&v=beta&t=D13j6AfEibqCG0AnLuomCdkSgw39XFUHK1E0Fnupn44",
+        "id": "7447687044039979008"
+      },
+      {
+        "interaction": "Connor Chow liked this",
+        "link": "https://www.linkedin.com/posts/jaredquincydavis_the-most-innovative-artificial-intelligence-activity-7442290187335864320-_R4R",
+        "title": "Neat!",
+        "img": "https://media.licdn.com/dms/image/sync/v2/D5627AQHT1JFB1tvu5Q/articleshare-shrink_800/B4EZ5txJwzH8A0-/0/1779958064642?e=2147483647&v=beta&t=dNN6sz55rHfZaYgZd5Wm9zKpFsS5nU1QUOnGLsz0SvE",
+        "id": "7442290187335864320"
+      },
+      {
+        "interaction": "Connor Chow liked this",
+        "link": "https://www.linkedin.com/posts/mateizaharia_i-think-this-is-going-to-grow-into-a-major-activity-7430465615162900480-ag7j",
+        "title": "I think this is going to grow into a major new use case of GenAI: AI as an optimizer for any task you can measure reliably, using any form of feedback or side-information available. We\u2019ve been exploring this in my research group with GEPA for prompts and there\u2019s work like AlphaEvolve and OpenEvolve to evolve programs for a task, but we think you can go much further, with support for very different parameters, fitness metrics, and what we call Actionable Side Information (ASI). If you can pose your problem as an optimization problem against a reasonably reliable metric, AI can be a great search tool.",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQGdgv_xZWKF5Q/feedshare-shrink_800/B56Zx4qLpMIIAg-/0/1771550850058?e=2147483647&v=beta&t=1A4obxJFLltO5cK-o8MINUHxN-gi22CP6BUI4WJWY8M",
+        "id": "7430465615162900480"
+      },
+      {
+        "interaction": "Connor Chow reacted on this",
+        "link": "https://www.linkedin.com/posts/lakshyaaagrawal_excited-to-release-optimizeanything-a-universal-activity-7430422823430471681-SNoY",
+        "title": "Excited to release optimize_anything, a universal API for optimizing any text artifact \u2014 code, prompts, agent architectures, configs. It extends GEPA, our state-of-the-art prompt optimizer far beyond prompts. With one API, you can get: - Near-perfect Claude Code repository task completion, 47% faster (via learned repo-specific Agent Skills), - Cloud scheduling algorithms that cut costs by 40% outperforming expert heuristics, - Bespoke task-specific agent harness, that nearly tripled Gemini Flash's ARC-AGI accuracy, - Prompts boosting GPT's math accuracy by +13%, - Problem-specific custom solver code matching or outperforming Optuna in blackbox optimization, - and, even model a 3D Unicorn! If you can measure it, you can optimize it. The API is minimal, requiring only 2 things: what to optimize (starting artifact or objective) and how to measure it: import gepa.optimize_anything as oa result = oa.optimize_anything( evaluator=evaluate, objective=\"Write a fast CUDA...\" ) optimize_anything unifies three optimization modes in one interface: (1) Single-task search \u2014 solve one hard problem (circle packing, blackbox opt) (2) Multi-task search \u2014 solve related problems with cross-transfer (CUDA kernels) (3) Generalization \u2014 build artifacts that transfer to unseen inputs (agent skills, prompts, scheduling policies) Prior LLM-evolution frameworks only express (1) directly. Checkout our detailed blogpost with full results, and runnable code for all 8 case studies in comments. Huge thanks to the incredible team: Donghyun Lee Wenjie Ma Karim E. Shangyin Tan Sanjit Seshia Koushik Sen Sewon Min Dan Klein Ion Stoica Joseph Gonzalez Omar Khattab Alex Dimakis Matei Zaharia",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQGdgv_xZWKF5Q/feedshare-shrink_800/B56Zx4qLpMIIAg-/0/1771550850058?e=2147483647&v=beta&t=1A4obxJFLltO5cK-o8MINUHxN-gi22CP6BUI4WJWY8M",
+        "id": "7430422823430471681"
+      }
+    ],
+    "linkedin_num_id": "943845671",
+    "banner_image": "https://media.licdn.com/dms/image/v2/C4E16AQH0vp-Stmf_HA/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1635228857395?e=2147483647&v=beta&t=unOT17HT6hY_v4Gos3YyjaQmHtDHeooMbEI3zEDzbOM",
+    "honors_and_awards": [
+      {
+        "title": "Upsilon Pi Epsilon Honor Society",
+        "publication": "-",
+        "date": "2023-12-01T00:00:00.000Z",
+        "description": null
+      },
+      {
+        "title": "Phi Theta Kappa Honor Society",
+        "publication": "-",
+        "date": "2022-04-01T00:00:00.000Z",
+        "description": null
+      },
+      {
+        "title": "Japanese National Honor Society",
+        "publication": "-",
+        "date": "2021-06-01T00:00:00.000Z",
+        "description": "Achieved over a 4.0 weighted average as a graduating senior."
+      },
+      {
+        "title": "Bayco Hackathan Award Winner",
+        "publication": "Bayco",
+        "date": "2021-05-01T00:00:00.000Z",
+        "description": "Created a Java-based program to store classroom and video meeting links and to improve the students' online learning experience. Led team of three and was awarded 3rd place."
+      }
+    ],
+    "similar_profiles": [],
+    "default_avatar": true,
+    "memorialized_account": false,
+    "bio_links": [],
+    "first_name": "Connor",
+    "last_name": "Chow",
+    "influencer": false,
+    "timestamp": "2026-08-12T18:58:36.699Z",
+    "input": {
+      "url": "https://www.linkedin.com/in/connorchow"
+    }
+  }
+}

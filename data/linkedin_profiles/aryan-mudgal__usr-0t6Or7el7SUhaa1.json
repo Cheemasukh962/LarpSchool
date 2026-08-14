@@ -1,0 +1,393 @@
+{
+  "luma_user_id": "usr-0t6Or7el7SUhaa1",
+  "csv_name": "Aryan Mudgal",
+  "csv_linkedin": "https://www.linkedin.com/in/aryan-mudgal",
+  "enriched_at": "2026-08-12T18:58:28.961535+00:00",
+  "batch_id": "sd_msqgad6c2eeefcaqas",
+  "profile": {
+    "id": "aryan-mudgal",
+    "name": "Aryan Mudgal",
+    "city": "New York City Metropolitan Area",
+    "country_code": "US",
+    "position": null,
+    "about": "moved to the US when I was 17 to pursue my bachelor\u2019s degree in CS. won awards\u2026",
+    "current_company": {
+      "link": "https://uk.linkedin.com/company/linde?trk=public_profile_topcard-current-company",
+      "name": "Linde",
+      "company_id": "linde",
+      "location": null
+    },
+    "experience": null,
+    "url": "https://pt.linkedin.com/in/Aryan-mudgal",
+    "educations_details": "University at Buffalo",
+    "education": null,
+    "avatar": "https://media.licdn.com/dms/image/v2/D4E03AQGyAIQISAwsAw/profile-displayphoto-scale_200_200/B4EZ7Y6FhAJYAc-/0/1781755567226?e=2147483647&v=beta&t=Rx5A16ZATXjAHwKyc71ZeZxPY8C0fxBs42cBlTYiGvw",
+    "courses": [
+      {
+        "subtitle": "CSE 331",
+        "title": "Algorithms and Complexity"
+      },
+      {
+        "subtitle": "CSE 341",
+        "title": "Computer Organization"
+      },
+      {
+        "subtitle": "CSE 115",
+        "title": "Computer Science I"
+      },
+      {
+        "subtitle": "CSE 116",
+        "title": "Computer Science II"
+      },
+      {
+        "subtitle": "CSE 250",
+        "title": "Data structures and Algorithms"
+      },
+      {
+        "subtitle": "MTH 309",
+        "title": "Linear Algebra"
+      },
+      {
+        "subtitle": "CSE220",
+        "title": "Systems Progarmming"
+      }
+    ],
+    "languages": [
+      {
+        "subtitle": "Native or bilingual proficiency",
+        "title": "English"
+      },
+      {
+        "subtitle": "Native or bilingual proficiency",
+        "title": "Hindi"
+      }
+    ],
+    "certifications": [
+      {
+        "meta": "Issued Aug 2025",
+        "subtitle": "Microsoft",
+        "title": "Microsoft AI Product Management",
+        "credential_url": null,
+        "credential_id": null
+      },
+      {
+        "meta": "Issued Feb 2024",
+        "subtitle": "University at Buffalo",
+        "title": "Startup-Bootcamp",
+        "credential_url": null,
+        "credential_id": null
+      },
+      {
+        "meta": "Issued Dec 2023 Credential ID UC-625d791a-c121-4c3a-9e50-6823ed0b675f See credential",
+        "subtitle": "London App Brewery",
+        "title": "Python 100 days Code by Angela Yu",
+        "credential_url": "https://www.udemy.com/course/100-days-of-code/?trk=public_profile_see-credential",
+        "credential_id": "UC-625d791a-c121-4c3a-9e50-6823ed0b675f"
+      }
+    ],
+    "volunteer_experience": [
+      {
+        "cause": "Social Services",
+        "duration": "Jun 2024 \u00b7 - Present \u00b7 \n\n2 years 3 months",
+        "duration_short": "- Present",
+        "info": "- Led 3+ campus tours for 10+ prospective students and their families, showcasing the university and its Honors College offerings. - Collaborated in organizing Honors College events with 200+ people, fostering academic engagement, networking opportunities, and community building among students and faculty.",
+        "start_date": "Jun 2024",
+        "subtitle": "University at Buffalo",
+        "title": "Student Ambassador"
+      },
+      {
+        "cause": "Education",
+        "duration": "Jun 2024 \u00b7 - Present \u00b7 \n\n2 years 3 months",
+        "duration_short": "- Present",
+        "info": "- Mentored 20+ first-year students in the Honors College, providing guidance on navigating academic and campus life. - Offered advice on time management, course selection, and engagement with extracurricular activities, ensuring a smooth transition to university life.",
+        "start_date": "Jun 2024",
+        "subtitle": "University at Buffalo",
+        "title": "Peer Mentor"
+      },
+      {
+        "cause": "Social Services",
+        "duration": "Aug 2024 \u00b7 - Present \u00b7 \n\n2 years 1 month",
+        "duration_short": "- Present",
+        "info": "- Held office hours to guide and assist students in engaging with the university community, providing consultations on joining or establishing student clubs. - Organized and hosted large-scale networking events, connecting over 200 participants and fostering opportunities for professional growth among peers.",
+        "start_date": "Aug 2024",
+        "subtitle": "University at Buffalo",
+        "title": "Student Engagement Ambassador"
+      },
+      {
+        "cause": "Politics",
+        "duration": "Sep 2023 \u00b7 - \nMay 2024 \u00b7 \n9 months",
+        "duration_short": "- \nMay 2024",
+        "info": "- Executed smooth flow of funds for the clubs on campus. - Allocated over $40000 to various clubs for their operations. - Drafted laws and regulations which would further enhance students' college experience",
+        "start_date": "Sep 2023",
+        "subtitle": "Undergraduate Student Association - University at Buffalo",
+        "title": "Senator"
+      },
+      {
+        "cause": "Economic Empowerment",
+        "duration": "May 2024 \u00b7 - Present \u00b7 \n\n2 years 4 months",
+        "duration_short": "- Present",
+        "info": "- Conducted club meetings which educate students about quant and fintech sector and got 35+ regular club members enrolled in the first 3 months.",
+        "start_date": "May 2024",
+        "subtitle": "Quant Club UB",
+        "title": "President"
+      }
+    ],
+    "followers": 3918,
+    "connections": 500,
+    "current_company_company_id": "linde",
+    "current_company_name": "Linde",
+    "projects": [
+      {
+        "title": "Dots.",
+        "start_date": "Apr 2026",
+        "description": "helping SMBs get ADA compliant, specifically for users with visual impairments. built in 36 hours."
+      },
+      {
+        "title": "StreamFair",
+        "start_date": "Feb 2026",
+        "description": "- StreamFair is built in 24 hours which is a browser extension + backend system that introduces per-second streaming payments for video content using RLUSD (Ripple's USD stablecoin) on the XRP Ledger.- Instead of subscriptions, viewers pay micro-amounts in real-time as they watch. Close the video halfway? You paid for half. - The price itself is shaped by community engagement. If most people watch only 30% of a video, the price adjusts to reflect that."
+      },
+      {
+        "title": "Armie",
+        "start_date": "Jan 2026",
+        "description": "- ARMIE is a mixed-reality surgical training system built in 48 hours that allows students to practice procedures safely, affordably, and repeatedly.- Students operate a real robotic arm while visualizing a virtual patient through AR. All movements are captured, logged, and compared against expert demonstrations.- ARMIE is designed to augment, not replace, cadaveric training.- It provides a pre-clinical simulation layer that enables repetition, standardization, and objective skill measurement before live tissue exposure."
+      },
+      {
+        "title": "Feel-IT",
+        "start_date": "Nov 2025",
+        "description": "- Feel-IT is built in 36 hours- Millions of deaf or hard-of-hearing people miss critical audio cues like alarms, knocks, or cries \u2014 Feel-IT turns these sounds into clear, recognizable vibrations- Using Apple\u2019s SoundAnalysis, the iPhone identifies over 100 environmental sounds and only alerts the user for the specific ones they choose, preventing sensory overload- The ESP32 wearable displays the detected sound label and triggers a precise DRV2605L-powered \u201cTriple Click\u201d vibration within a second, giving users immediate awareness of their surroundings"
+      },
+      null,
+      {
+        "title": "Meetwise",
+        "start_date": "Jun 2025",
+        "description": "\u2022 Built an AI-powered meeting transcription app with speaker diarization and JWT auth to solve the customer and businessproblems and improve user experience\u2022 Debugged the RESTful endpoints using request logs and monitored RunPod GPU logs to handle inference bottlenecks\u2022 Reduced manual transcription effort by 90% through accurate, timestamped transcripts and scalable microservices design"
+      },
+      null,
+      {
+        "title": "Pehcharm",
+        "start_date": "May 2025",
+        "description": "- Launched a secure MERN-based portfolio & networking platform with ChatGPT 3.5-powered AI feedback, helping 100+ users improve online presence, beta-tested with 4.5/5 avg rating.- Implemented profile viewer tracking, recommendation requests, and real-time job search to support professional networking features and boost the user experience."
+      },
+      null,
+      {
+        "title": "EchoVote",
+        "start_date": "Oct 2024",
+        "description": "- Developed a full-stack web application using Node.js, Express.js, and PostgreSQL to enable SUNY students to raise issues, prioritize them through likes, and facilitate structured discussions in the SUNY assembly.- Implemented dynamic content rendering with EJS and designed a responsive interface using HTML/CSS, ensuring user-friendly interaction and streamlined issue visibility.- Optimized database integration with PostgreSQL, creating a scalable solution to manage posts and like counts, enabling real-time updates and reliable data persistence."
+      },
+      null,
+      {
+        "title": "Simon Game Challenge",
+        "start_date": "May 2024",
+        "description": "I developed an interactive Simon Game Challenge website, utilizing a combination of JavaScript (with jQuery), Bootstrap, and HTML to create a dynamic and engaging user experience. This project not only demonstrates my skills in front-end web development but also highlights my ability to create engaging and user-friendly web applications."
+      },
+      {
+        "title": "Writers\u2019 Blog",
+        "start_date": "Oct 2023",
+        "description": "Enhanced user experience by 45% by enabling authentication for viewing, authoring blog posts, and direct communication with creators.Developed a responsive blog website using Flask and Bootstrap for a dynamic user interface to create an interactive design.Ensured secure user login and efficient password hashing by integrating SQLAlchemy for robust database interactions."
+      },
+      {
+        "title": "Stock Trading Alert",
+        "start_date": "Sep 2023",
+        "description": "Engineered a real-time model that monitors over 20,000 companies' stock prices, alerting users via SMS when a designated company's stock price decreases significantly.Utilized the News API to track and analyze stock price movements, enhancing market responsiveness by 4x than usual.Integrated the Twilio API to ensure swift and reliable SMS notification delivery, keeping users promptly informed of market developments."
+      }
+    ],
+    "organizations": [
+      {
+        "title": "Quant Club",
+        "membership_type": "Vice President",
+        "start_date": "Dec 2023",
+        "end_date": "Present",
+        "description": "As Vice President of QuantClub, I lead efforts to spread knowledge about quantitative finance and related fields. I organize events and guest speaker sessions, providing students with valuable insights from industry experts. By managing meetings and ensuring the smooth administration of the club, we help create a dynamic learning environment.",
+        "membership_number": null
+      },
+      {
+        "title": "University at Buffalo Student Association",
+        "membership_type": "Senator",
+        "start_date": "Sep 2023",
+        "end_date": "Mar 2024",
+        "description": "As a Senator at the University at Buffalo Student Association, I facilitate funding for club events and draft resolutions for incoming clubs. We, as Senators, play a key role in streamlining the administration process, ensuring clubs receive necessary resources promptly. By passing major regulations, I contribute to the smooth functioning of student organizations, enhancing their overall experience and success at the university.",
+        "membership_number": null
+      }
+    ],
+    "location": null,
+    "input_url": "https://www.linkedin.com/in/aryan-mudgal",
+    "linkedin_id": "aryan-mudgal",
+    "activity": [
+      {
+        "interaction": "Aryan Mudgal shared this",
+        "link": "https://www.linkedin.com/posts/aryan-mudgal_just-landed-in-sf-to-attend-y-combinator-activity-7486701600544227329-B525",
+        "title": "just landed in sf to attend Y Combinator startup school, happening this weekend. if you're here for the same, would love to meet!",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQHunE9NMgWZKw/feedshare-image-high-res/B56Z.YbaxZJEAU-/0/1784968755030?e=2147483647&v=beta&t=K9qP3PpVWmg_GOtiv-_GvG27IEo8AVOEH-OpoL7aXlE",
+        "id": "7486701600544227329"
+      },
+      {
+        "interaction": null,
+        "link": "https://www.linkedin.com/posts/universityatbuffalo_celebrating-student-excellence-ubuffalo-activity-7473369937642934273-MFit",
+        "title": "#UBTrueBlue proud \ud83c\udfc5 The 2026 SUNY Chancellor's Award for Student Excellence recipients embody the best of what it means to be part of the #UBuffalo community! Hear as they reflect on their journeys and the experiences that shaped them. Learn more about all of this year's award recipients \u25b6\ufe0f http://ms.spr.ly/6049vYAbN ...more ...more",
+        "img": "https://dms.licdn.com/playlist/vid/v2/D4E10AQEiX4jA-XoOMQ/thumbnail-scale_720_1280/B4EZ7Xzd2aJgAA-/0/1781737055586?e=2147483647&v=beta&t=YuK23ONZV7jD801wVhqSTTwJ8voo3NgvuUU8QtfGONk",
+        "id": "7473369937642934273"
+      },
+      {
+        "interaction": "Aryan Mudgal shared this",
+        "link": "https://www.linkedin.com/posts/aryan-mudgal_just-came-from-y-combinator-hosted-voice-activity-7467002769065975808-uKMz",
+        "title": "just came from Y Combinator hosted voice agents hackathon. didn't win anything but we'll come back stronger on a positive note, - enjoyed chatting with Cekura 's founders - Tarush Agarwal and Sidhant Kabra . - it was great building with Cekura , NVIDIA and Daily back at my internship now, attending startup school is next ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQGnstjegMZneQ/feedshare-image-high-res/B4EZ6Afb.FG0AU-/0/1780272188889?e=2147483647&v=beta&t=7IEJMIHcIq7L8PkCt1WuZGzEklx-Hlv6n4RQwfGroYM",
+        "id": "7467002769065975808"
+      },
+      {
+        "interaction": "Aryan Mudgal shared this",
+        "link": "https://www.linkedin.com/posts/aryan-mudgal_last-week-of-april-was-quite-eventful-after-activity-7461160765614350336-iEmV",
+        "title": "last week of april was quite eventful. after coming back with 2 awards from LA Hacks : - received the innovative student leader award, given annually to 2 students out of 20k students. what made this so special is that one of my best friends, Shaurya Jain (right in the first photo), got the exemplary student leader award at the same event. so crazy to share this moment with him. - had the honor of receiving the SUNY chancellor's award for student excellence, given to 15 students out of the class of '26, in Albany from chancellor John King himself. (2nd photo) - honored for the same chancellor's award at University at Buffalo by President Satish K. Tripathi . (3rd photo) - honored to be inducted into The Phi Beta Kappa Society . top 10% of the class get invited. (5th photo) link to Pillars of Leadership Award - https://lnkd.in/eV2Fydxs link to SUNY Chancellor's Award for Student Excellence - https://lnkd.in/eBUhkEY6 video of me larping (skip to 2:55) - https://lnkd.in/gFXhwfMf p.s. if anyone has tips on how to pose in these situations, please let me know. my current approach is not working and the photos below prove it. ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQE8Px817RYPFg/feedshare-image-high-res/B4EZ4teKk7HQAY-/0/1778879344642?e=2147483647&v=beta&t=tV1kRC8C6qhRFVaiRpugHxuWCxnUobju0aFGhHpmJTQ",
+        "id": "7461160765614350336"
+      },
+      {
+        "interaction": "Aryan Mudgal shared this",
+        "link": "https://www.linkedin.com/posts/aryan-mudgal_stacked-2-wins-at-la-hacks-won-overall-activity-7455098635580665856-sPHu",
+        "title": "stacked 2 wins at LA Hacks . won overall track of catalyst for change and company track of Fetch.ai . we built dots. an app that helps businesses make their spaces accessible to blind people at a fraction of today's cost. a tactile braille map and an ai voice agent at every room entrance. before stepping in, you know exactly what's inside. my cousin brother karan is visually impaired. we interviewed him before writing a single line of code. he walked us through the daily friction of navigating spaces and served as a massive inspiration for the project. sharing the win with him on facetime broke me in the best way. his reaction made the 36 hours worth it ten times over. would like to thank Sana Wajid , Devam Sheth , Rajashekar V , Martin Angel Ceballos for their support throughout the hackathon. had an absolute honor to present this idea to incredible judges like Megha Manglani , Baba J. , Vartul Agrawal , Sanket Gautam , Parth Chandak , and more. check out our demo here - https://lnkd.in/gesrY3UA ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQFeji_hs8vAGQ/feedshare-shrink_1280/B56Z3XUs87IQAM-/0/1777434021963?e=2147483647&v=beta&t=xhOeLdV7ujD1fxlKSYROuZntmVOIM8dV5e_BHYxSf8o",
+        "id": "2"
+      },
+      {
+        "interaction": null,
+        "link": "https://www.linkedin.com/posts/fetch-ai-innovation-lab_lahacks-hackathon-ucla-activity-7454874574631993345-bSgp",
+        "title": "LA Hacks x Fetch.ai Innovation Lab : Meet the winners of Fetch.ai Tracks \ud83d\ude80 Check out these cool projects built with Fetch.ai , Agentverse by Fetch.ai and ASI:One. (1) 1st Place - Conjure Tom Almog , Paul Chike-Igwe and Alejandro Pinto built a walkable 3D model building rendered worlds in your browser, using agents from Agentverse and ASI:One to search, discover and interact with agents \u2192 Check the project here: https://lnkd.in/eRAN9MNA (2) 2nd Place - Multieval Alfred Sj\u00f6qvist , Lamek T. , Stuti G. . and Jahanvi Jeswani proposed a system of 50 agents creating an agent eval platform tuned for multi-agent orchestration. \u2192 Check the project here: https://lnkd.in/ez89p2t4 (3) 3rd Place - Dots Manav Sharma , Ayush Srivastava , Abhi Ramtel and Aryan Mudgal made dots to turn floor plans into ADA-compliant tactile maps, giving architects and businesses a way to turn static maps into accessible navigation. \u2192 Check the project here: https://lnkd.in/ea_5-f_H (4) 4th Place - Pols 15 & Jarvis & NeuralLens Pranjal Adhikari made Pols 15 for aspiring politicians to campaign, stress-test their policies, and run ads on social media through just an ASI:One chat. \u2192 Check the project here: https://lnkd.in/egYkvF4K Jonathan Pan , Ashley Zhou , Vyom Shah and Maan Patel proposed Jarvis, a personalized acoustic intelligence app for studying. \u2192 Check the project here: https://lnkd.in/ej3xhf9d Anirudh Mazumder , Peem Puangmaha and Jwei Wei enabled an agentic system that models visual attention and neural engagement to optimize your content. \u2192 Check the project here: https://lnkd.in/egZz3wwt Best Use of ASI:One - RIIS Krish Kankure , Varun Sinha , Srinivas Sriram and Aaditya Pillai built an autonomous post-disaster survivor discovery and VR scene reconstruction. \u2192 Check the project here: https://lnkd.in/e7zPetrJ Congratulations to all the winners and participants building with Fetch.ai ! Sana Wajid #lahacks #hackathon #ucla #fetchai #innovation #technology ...more ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQGjmRH683lQ-A/feedshare-shrink_800/B4EZ3UI6nvK8Ac-/0/1777380600921?e=2147483647&v=beta&t=2bJtYSvF7akLVP_BZ0K_EGfsyMQe-g8coiaNSyU2t4o",
+        "id": "7454874574631993345"
+      },
+      {
+        "interaction": "Aryan Mudgal shared this",
+        "link": "https://www.linkedin.com/posts/aryan-mudgal_i-got-into-y-combinator-startup-school-and-activity-7450976936031387648-rfad",
+        "title": "i got into Y Combinator startup school and can refer a limited number of people. drop a comment, follow me, and i'll check your profile. if you're someone who is genuinely trying to build something, i'll send it your way. plus, i'll also share my application which helped me get in. or just share this with someone who should see it. ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQG8et9yI0_Idw/feedshare-image-high-res/B56Z2cwCg9HkAU-/0/1776451332378?e=2147483647&v=beta&t=p_cvnJT8WCsRZ0vullByZBe9RNbBIjKtRopXZ1LmwwU",
+        "id": "7450976936031387648"
+      },
+      {
+        "interaction": "Aryan Mudgal shared this",
+        "link": "https://www.linkedin.com/posts/aryan-mudgal_ill-be-in-san-francisco-to-attend-y-combinator-activity-7450712891605028864-jtB5",
+        "title": "I'll be in San Francisco to attend Y Combinator Startup School on 25-26 July. Comment \"yc\" and I'll sent over my application that helped me get into the program. If you're attending Startup School this year, let's connect! ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQFp32wtvl2lNg/feedshare-shrink_20/B56Z2Y_4.rKsAI-/0/1776388379052?e=2147483647&v=beta&t=o4x4UN3lzqU7XaBAGnXaTNr0o0bKjWMzCuf6EO18Lk4",
+        "id": "7450712891605028864"
+      },
+      {
+        "interaction": "Aryan Mudgal shared this",
+        "link": "https://www.linkedin.com/posts/aryan-mudgal_honored-to-share-that-ive-received-the-suny-activity-7440242052950507520-D15m",
+        "title": "Honored to share that I've received the SUNY Chancellor's Award for Student Excellence, chosen to be 1 of 15 students out of class of '26. This means more than I can put into words. A heartfelt thank you to Megan Stewart for believing in me, and to the entire University at Buffalo community for their trust and support throughout this journey. Grateful for everything. More about the Chancellor's Award for Student Excellence - https://lnkd.in/gSPB_qHn ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQH_sISsy6BuXQ/feedshare-shrink_800/B56Z0EMt5HJYAc-/0/1773891936485?e=2147483647&v=beta&t=3obwjvvPxgFXMJVWQ7JmwTPZXK5lBxo5_06iMAbe9Ww",
+        "id": "7440242052950507520"
+      },
+      {
+        "interaction": "Aryan Mudgal reacted on this",
+        "link": "https://www.linkedin.com/posts/shivansh-shalabh_ycombinator-startupschool-buildinpublic-activity-7493096392924553216-iNUZ",
+        "title": "Going to Y Combinator Startup School was rewarding in itself. I got to hear from inspiring speakers, not to mention receiving freebies like never before, from thousands in cloud and AI credits to Anthropic 's Max 20x \ud83e\udd73 But that wasn't all. Thanks to the amazing LegalOS (YC W26) team for hosting a fun afterparty, where I won a Mac Mini in the raffle!! Definitely check them out if you're looking for immigration help as a startup founder. Being a Linux Evangelist, I never imagined owning a Mac, but I cannot wait to host my local agent on it! Look out for future posts to see what I build. #YCombinator #StartupSchool #BuildInPublic #AIAgents #EdgeAI",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQHgR4rHOeIBxw/feedshare-shrink_800/B4EZ_zTdmjJQAc-/0/1786493393841?e=2147483647&v=beta&t=EugnwnPwoPF0vtKgFgNEu2TRO0ZR_C5oc3WiVcq7L0I",
+        "id": "7493096392924553216"
+      },
+      {
+        "interaction": "Aryan Mudgal liked this",
+        "link": "https://www.linkedin.com/posts/yuchiaolin1996_a-special-thank-you-to-professor-jenny-ty-activity-7491244502356140033-8531",
+        "title": "A special thank you to Professor Jenny T.Y. Ling of Tamkang University for inviting me to join Nomad Studio, an architectural exchange program in New York, and to deliver a lecture on XR and demonstrate a OXR at Columbia University GSAPP. It was a pleasure to introduce OXR to architecture students and share its spatial presentation and orchestration capabilities with faculty from New York Institute of Technology ( Evan Shieh )and Parsons School of Design - The New School ( Hyon Woo Scott Chung ). I was also grateful for the opportunity to meet members of the GSAPP leadership, including its dean and associate dean. During the exchange, I shared how my architectural education laid the foundation for my journey into human-computer interaction, mixed reality, and entrepreneurship. I also spoke with the students about moving to the United States, building OXR, and eventually securing investment from U.S. venture capital firms. Architecture opens doors far beyond the traditional path of becoming an architect. I encouraged the students to explore broadly and discover how architectural thinking can contribute to technology, research, entrepreneurship, and many other fields. I especially appreciate Professor Lin for organizing Nomad Studio and giving students the opportunity to develop an international perspective at such an early stage in their education. I am grateful for everyone\u2019s encouragement and look forward to exploring future collaborations.",
+        "img": "https://media.licdn.com/dms/image/v2/D4D22AQGKIFuDKd-50g/feedshare-image-high-res/B4DZ_Y_LHhI4AU-/0/1786051867616?e=2147483647&v=beta&t=2MQ21c1OBFv-WYtScxpn7xNDVkpZ0i0PRfRZZDim1Qk",
+        "id": "7491244502356140033"
+      },
+      {
+        "interaction": "Aryan Mudgal liked this",
+        "link": "https://www.linkedin.com/posts/krish--shroff_im-delighted-to-have-graduated-with-a-first-class-activity-7490908710605832192-_aKq",
+        "title": "I\u2019m delighted to have graduated with a First-Class BSc (Hons) in Computer Science with Artificial Intelligence from the University of Nottingham last week! This happened right after a busy weekend in San Francisco at the Y Combinator Startup School, where I got to see leaders in tech such as Jensen Huang , Sam Altman, Garry Tan , and Boris Cherny , to name a few, give really interesting talks regarding frontier models, the latest harnesses, and industry adoption, along with a lot of free AI credits. Excited to return to Goldman Sachs full-time on the Electronic Trading Platforms team, where I will be working on high-performance compute infra for trading systems, FPGA development, and monitoring.",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQG3DhDVHfHK9g/feedshare-image-high-res/B4EZ_UNutzHwAU-/0/1785971802184?e=2147483647&v=beta&t=eSCAEMaenkkREtg8RCQJAc9RV2qL_F-j4D_-IgF6WEs",
+        "id": "7490908710605832192"
+      },
+      {
+        "interaction": "Aryan Mudgal liked this",
+        "link": "https://www.linkedin.com/posts/ucla_hello-summer-laurattruong-on-instagram-activity-7474172250582126593-bwMg",
+        "title": "Hello, summer. \u2600\ufe0f \ud83d\udcf8: laurattruong on Instagram",
+        "img": "https://media.licdn.com/dms/image/v2/D4E10AQElXuG_Wptp-w/image-shrink_1280/B4EZ7mYCcBHwAg-/0/1781981521987?e=2147483647&v=beta&t=drYt0T4dDagUdZR-uDcc0FRBAGiota2L3DJ1537pkM0",
+        "id": "7474172250582126593"
+      },
+      {
+        "interaction": "Aryan Mudgal reacted on this",
+        "link": "https://www.linkedin.com/posts/nakadiyash_undergraduateresearch-sure-opticalcoherencetomography-activity-7490448616529039360-41Pt",
+        "title": "Recently, I had the opportunity to present my research poster, \u201cReal-Time Image-Guided Focus Control in Optical Coherence Tomography,\u201d at the 2026 Summer Undergraduate Research Symposium. This experience was a meaningful conclusion to my SURE internship and allowed me to share my work on liquid-lens focus control, OCT imaging, and image processing. I am very grateful to Dr. Jenny (Jungeun) Won for being a great mentor throughout this project and to Dr. Cecilia Mart\u00ednez Le\u00f3n for leading and supporting our SURE cohort. #UndergraduateResearch #SURE #OpticalCoherenceTomography #BiomedicalImaging #ImageProcessing #UniversityAtBuffalo",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQHNdxQjACU_Mg/feedshare-shrink_800/B4EZ_NrUgrH8Ac-/0/1785862115014?e=2147483647&v=beta&t=ODspv0k9ezE31Fk4pfW9psDWdlQv_ZCGqaGTI3fVis4",
+        "id": "7490448616529039360"
+      }
+    ],
+    "linkedin_num_id": "963951505",
+    "banner_image": "https://media.licdn.com/dms/image/v2/D5616AQFqvs-Y4PqzEw/profile-displaybackgroundimage-shrink_200_800/B56Z3rFNuFI8AU-/0/1777765507487?e=2147483647&v=beta&t=SMYnCY8rL2VG7W1NUFqdB2UkGIL0LWAy_Ta9QfwV42Q",
+    "honors_and_awards": [
+      {
+        "title": "SUNY Chancellor's Award for Student Excellence",
+        "publication": "State University of New York Chancellor John B. King Jr",
+        "date": "2026-05-01T00:00:00.000Z",
+        "description": "1 of 15 in class of '26"
+      },
+      {
+        "title": "Innovative Student Leadership Award",
+        "publication": "University at Buffalo",
+        "date": "2026-04-01T00:00:00.000Z",
+        "description": "1 of 2 out of 20K students"
+      },
+      {
+        "title": "LAHacks - 2 awards",
+        "publication": "LAHacks",
+        "date": "2026-04-01T00:00:00.000Z",
+        "description": "- best in healthcare/accessibility track - 3rd best in Fetch.ai track"
+      },
+      {
+        "title": "TartanHacks Winner (First Place)",
+        "publication": "Carnegie Mellon University",
+        "date": "2026-02-01T00:00:00.000Z",
+        "description": "winner of Carnegie Mellon hosted competition. Competed with over 1000 partcipants and ranked first in the Ripple track."
+      },
+      {
+        "title": "StanfordXR Hackathon Winner (First Place)",
+        "publication": "Immerse The Bay",
+        "date": "2025-11-01T00:00:00.000Z",
+        "description": "hackathon for XR at Stanford, competed with over 100 teams and got the first price in the Moonlake Track."
+      },
+      {
+        "title": "Dean's List",
+        "publication": "University at Buffalo",
+        "date": "2024-05-01T00:00:00.000Z",
+        "description": "Dean's List all semesters"
+      },
+      {
+        "title": "Get Seeded Pitching Competition",
+        "publication": "University at Buffalo",
+        "date": "2024-03-01T00:00:00.000Z",
+        "description": null
+      },
+      {
+        "title": "EY hosted Public Speaking Competition",
+        "publication": "EY",
+        "date": "2023-12-01T00:00:00.000Z",
+        "description": null
+      },
+      {
+        "title": "President's Merit Scholarship",
+        "publication": "University at Buffalo",
+        "date": "2023-08-01T00:00:00.000Z",
+        "description": null
+      },
+      {
+        "title": "Cleared National Defence Academy interview with All India Rank 393",
+        "publication": "Government of India",
+        "date": "2023-07-01T00:00:00.000Z",
+        "description": "Cleared the national exam and recommended to become an officer in the Indian Army Got All India Rank 393 out of 800K applicants."
+      }
+    ],
+    "similar_profiles": [],
+    "default_avatar": false,
+    "memorialized_account": false,
+    "bio_links": [],
+    "first_name": "Aryan",
+    "last_name": "Mudgal",
+    "influencer": false,
+    "timestamp": "2026-08-12T18:56:43.428Z",
+    "input": {
+      "url": "https://www.linkedin.com/in/aryan-mudgal"
+    }
+  },
+  "local_photo": "data\\linkedin_photos\\aryan-mudgal__usr-0t6Or7el7SUhaa1.jpg"
+}

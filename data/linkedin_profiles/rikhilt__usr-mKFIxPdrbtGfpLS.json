@@ -1,0 +1,88 @@
+{
+  "luma_user_id": "usr-mKFIxPdrbtGfpLS",
+  "csv_name": "Rikhil Tanugula",
+  "csv_linkedin": "https://www.linkedin.com/in/rikhilt",
+  "enriched_at": "2026-08-12T19:14:53.873988+00:00",
+  "batch_id": "sd_msqgwa7g10oeo6g7qx",
+  "profile": {
+    "id": "rikhilt",
+    "name": "Rikhil Tanugula",
+    "city": "San Francisco Bay Area",
+    "country_code": "US",
+    "position": null,
+    "about": "rikhiltanugula.com ti@berkeley.edu",
+    "current_company": {
+      "link": "https://www.linkedin.com/school/harvard-university/?trk=public_profile_topcard-current-company",
+      "name": "Harvard University",
+      "location": null
+    },
+    "experience": null,
+    "url": "https://fr.linkedin.com/in/Rikhilt",
+    "educations_details": "University of California, Berkeley",
+    "education": [
+      {
+        "title": "University of California, Berkeley",
+        "url": "https://www.linkedin.com/school/uc-berkeley/",
+        "start_year": "2026",
+        "end_year": "2030",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      },
+      {
+        "start_year": "2022",
+        "end_year": "2026",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      }
+    ],
+    "avatar": "https://static.licdn.com/aero-v1/sc/h/9c8pery4andzj6ohjkjp54ma2",
+    "followers": 224,
+    "connections": 222,
+    "current_company_name": "Harvard University",
+    "location": null,
+    "input_url": "https://www.linkedin.com/in/rikhilt",
+    "linkedin_id": "rikhilt",
+    "activity": null,
+    "linkedin_num_id": "1114215728",
+    "banner_image": "https://media.licdn.com/dms/image/v2/D5616AQH7K-YXFAqJ6w/profile-displaybackgroundimage-shrink_200_800/B56Z6GXqRhJkAQ-/0/1780370810567?e=2147483647&v=beta&t=P9OM9PT2eCcb52rSF1WS2Z9EPyWSeJXUDusOElqXjaA",
+    "honors_and_awards": [
+      {
+        "title": "Competitions",
+        "publication": "-",
+        "date": null,
+        "description": "- Los Altos Hacks VIII Winner, Most Fun Hack - Los Altos Hacks IX Winner, Best UI/UX & Most Technically Complex - South Bay Agent Hack 1st Place - American Computer Science League Finalist & Bronze Medal - Harker Programming Invitational 2nd Place - Lockheed Martin Codequest 3rd Place"
+      },
+      {
+        "title": "Olympiads",
+        "publication": "-",
+        "date": null,
+        "description": "- USA Physics Olympiad Semifinalist & Distinction - USA Informatics Olympiad in Teams 3rd Place at Nationals"
+      },
+      {
+        "title": "Research",
+        "publication": "-",
+        "date": null,
+        "description": "- NeurIPS Efficient Reasoning Workshop Paper Acceptance - Santa Clara Valley (Synopsys) Science & Engineering Fair 1st Place, Physical Sciences Category - California Science & Engineering Fair Qualifier"
+      },
+      {
+        "title": "Scholarships",
+        "publication": "-",
+        "date": null,
+        "description": "- UC Berkeley Regents' and Chancellor's Scholarship Finalist - Eunice Jackson Scholarship - Marilyn Cox Scholarship"
+      }
+    ],
+    "similar_profiles": [],
+    "default_avatar": true,
+    "memorialized_account": false,
+    "bio_links": [],
+    "first_name": "Rikhil",
+    "last_name": "Tanugula",
+    "influencer": false,
+    "timestamp": "2026-08-12T19:13:44.826Z",
+    "input": {
+      "url": "https://www.linkedin.com/in/rikhilt"
+    }
+  }
+}

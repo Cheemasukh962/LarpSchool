@@ -1,0 +1,192 @@
+{
+  "luma_user_id": "usr-zDEBAg7VXJFNBkg",
+  "csv_name": "Subodh Thallada",
+  "csv_linkedin": "https://www.linkedin.com/in/subodh-thallada",
+  "enriched_at": "2026-08-12T19:18:07.769022+00:00",
+  "batch_id": "sd_msqh0fwb1tv6mjnbrd",
+  "profile": {
+    "id": "subodh-thallada",
+    "name": "Subodh Thallada",
+    "city": "Greater Toronto Area, Canada",
+    "country_code": "CA",
+    "position": null,
+    "about": null,
+    "current_company": {
+      "link": "https://ca.linkedin.com/company/rbc?trk=public_profile_topcard-current-company",
+      "name": "RBC",
+      "company_id": "rbc",
+      "location": null
+    },
+    "experience": null,
+    "url": "https://vn.linkedin.com/in/subodh-thallada",
+    "educations_details": "McMaster University",
+    "education": [
+      {
+        "title": "McMaster University",
+        "url": "https://ca.linkedin.com/school/mcmaster-university/",
+        "start_year": "2024-09",
+        "end_year": "2028-04",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      },
+      {
+        "start_year": "2020-09",
+        "end_year": "2024-06",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      }
+    ],
+    "avatar": "https://media.licdn.com/dms/image/v2/D4E03AQGOJ-w6fm3MjA/profile-displayphoto-scale_200_200/B4EZ2u702gIMAY-/0/1776756413254?e=2147483647&v=beta&t=gkivRrLoJZqz8QvxdOZ6UZvfm5avXVIi4qhBEVP6Z_M",
+    "followers": 3215,
+    "connections": 500,
+    "current_company_company_id": "rbc",
+    "current_company_name": "RBC",
+    "projects": [
+      {
+        "title": "AI Innovation Manager (SAMM)",
+        "description": "Won the Aucctus Track at Soon hackathon. An AI innovation manager for physical consumer brands. It runs a 6 agent swarm to do brand research, market research, product visuals, ad campaign, a pitch deck and a 3D prototype allowing you to go from idea to pitching to management in just 1 evening."
+      },
+      null,
+      null,
+      null,
+      {
+        "title": "Baymax Bot",
+        "description": "Healthcare companion robot with emotion detection and age-aware responses, combining computer vision with real-time motor control."
+      },
+      null,
+      null,
+      null,
+      {
+        "title": "InvestPro",
+        "description": "Top 5 at the EasyA \u00d7 Consensus Hackathon. Crypto copy-trading platform enabling transparent, diversified investing through trader-issued strategy tokens."
+      },
+      null,
+      null,
+      {
+        "title": "Pickle",
+        "description": "Offline-first emergency response app using SMS and AI agents; won Best Use of AI Agents at DeltaHacks for enabling coordination without internet access."
+      },
+      null,
+      null,
+      {
+        "title": "Plannr",
+        "description": "AI-powered hackathon organizer that automates sponsorships, logistics, outreach, marketing, and website generation using coordinated multi-agent workflows."
+      },
+      null,
+      {
+        "title": "ScribbleSync",
+        "description": "AI-powered sticky note app that converts handwritten notes into Google Calendar events; won Best Use of AI in Education at UofT Hacks."
+      },
+      {
+        "title": "XRSZE",
+        "description": "Computer-vision fitness app that tracks reps and form while generating personalized workout and nutrition plans using AI."
+      }
+    ],
+    "location": "Greater Toronto Area",
+    "input_url": "https://www.linkedin.com/in/subodh-thallada",
+    "linkedin_id": "subodh-thallada",
+    "activity": [
+      {
+        "interaction": "Liked by Subodh Thallada",
+        "link": "https://www.linkedin.com/posts/zain-hing_ontariopowergeneration-opg-electrifyyourcareer-activity-7491246746082328576-0QM6",
+        "title": "I'm incredibly excited to be joining Ontario Power Generation (OPG) as a Mechanical Engineering Intern on the Components & Equipment Engineering team\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4D22AQGVwFj9yu7rgA/feedshare-shrink_800/B4DZ_ZBOMPIEAc-/0/1786052404246?e=2147483647&v=beta&t=P7lZ9WuKQmFHh9gyqc6SiOqw5fcwRbHAC7nT9hvhbok",
+        "id": "7491246746082328576"
+      },
+      {
+        "interaction": "Liked by Subodh Thallada",
+        "link": "https://www.linkedin.com/posts/dorothy-zheng07_organizing-torontos-largest-summer-hackathon-activity-7486466139548590080-oypO",
+        "title": "ORGANIZING TORONTO'S LARGEST SUMMER HACKATHON?! Hell yeah! \ud83c\udf89 I had a BLAST this past weekend as Hack the 6ix's Relationships Director, from getting\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQFVcMbhQz0C7g/feedshare-shrink_800/B56Z.VFSJ0HYAc-/0/1784912618657?e=2147483647&v=beta&t=NzD9zQRT-CCdeNzEjB61hcVgUfkxhya6eS4M_avghKA",
+        "id": "7486466139548590080"
+      },
+      {
+        "interaction": "Liked by Subodh Thallada",
+        "link": "https://www.linkedin.com/posts/angelo-riv_in-2-weeks-my-teams-won-the-last-2-hackathons-activity-7485830619688620032-y9M-",
+        "title": "In 2 weeks, my teams won the last 2 hackathons before I move to Japan: 1st overall at cuHacking, and Best Use of QNX at Hack the 6ix. \ud83c\udf1f \ud83c\udf59 With\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQHKGNxBb_y-Ew/feedshare-shrink_800/B56Z.MDRx9KwAg-/0/1784761097981?e=2147483647&v=beta&t=GvDyTXplHHujasGjVEg42y08fIZkAUHkqecL8FzIgE0",
+        "id": "2"
+      },
+      {
+        "interaction": "Liked by Subodh Thallada",
+        "link": "https://www.linkedin.com/posts/wasayaamir_30-minute-meeting-wasay-aamir-activity-7483194170887598080-UXS0",
+        "title": "I\u2019ve been getting a lot of messages from CS students asking for advice on breaking into tech and landing internships \ud83d\udc40 Instead of replying to\u2026",
+        "img": "https://static.licdn.com/aero-v1/sc/h/53n89ecoxpr1qrki1do3alazb",
+        "id": "7483194170887598080"
+      },
+      {
+        "interaction": "Liked by Subodh Thallada",
+        "link": "https://www.linkedin.com/posts/content-growth-storytelling-activity-7482871562757513216-SY3h",
+        "title": "If you're chasing your dreams, it's only when you remove the ropes that you'll make it. This is my story of how I ended up at Parrot (YC F25)\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5605AQGE6Hp2Te9krw/videocover-high/B56Z9faaR1KgBM-/0/1784012196430?e=2147483647&v=beta&t=R9o87ovHQRgDVAQouaj4dNfOTZnrqbJYPtvfYEjd4sI",
+        "id": "7482871562757513216"
+      },
+      {
+        "interaction": "Liked by Subodh Thallada",
+        "link": "https://www.linkedin.com/posts/huu-an-duc-le_agenticai-buildweek-vng-activity-7482431302948802561-mlEE",
+        "title": "\ud835\udc02\ud835\udc28\ud835\udc26\ud835\udc22\ud835\udc27\ud835\udc20 \ud835\udc1b\ud835\udc1a\ud835\udc1c\ud835\udc24 \ud835\udc2d\ud835\udc28 \ud835\udc21\ud835\udc1a\ud835\udc1c\ud835\udc24\ud835\udc1a\ud835\udc2d\ud835\udc21\ud835\udc28\ud835\udc27\ud835\udc2c, \ud835\udc30\ud835\udc1e \ud835\udc30\ud835\udc28\ud835\udc27 $\ud835\udfd0\ud835\udfd4\ud835\udc0a+ \ud835\udc1a\ud835\udc2d \ud835\udc2d\ud835\udc21\ud835\udc1e \ud835\udc25\ud835\udc1a\ud835\udc2b\ud835\udc20\ud835\udc1e\ud835\udc2c\ud835\udc2d \ud835\udc00\ud835\udc08 \ud835\udc21\ud835\udc1a\ud835\udc1c\ud835\udc24\ud835\udc1a\ud835\udc2d\ud835\udc21\ud835\udc28\ud835\udc27 \ud835\udc22\ud835\udc27 \ud835\udc12\ud835\udc28\ud835\udc2e\ud835\udc2d\ud835\udc21\ud835\udc1e\ud835\udc1a\ud835\udc2c\ud835\udc2d\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQG-kwjyaVXvlw/feedshare-shrink_800/B56Z9bvnceIQAo-/0/1783950637126?e=2147483647&v=beta&t=HyJGFHQ999yEr9IXJBoHZ_1IBaGn5fFjHBIu701-s7g",
+        "id": "7482431302948802561"
+      },
+      {
+        "interaction": "Liked by Subodh Thallada",
+        "link": "https://www.linkedin.com/posts/reyab-saluja_halfway-through-my-internship-at-shopify-activity-7482207945330597888-cJmD",
+        "title": "Halfway through my internship at Shopify \ud83d\udecd\ufe0f \ud83d\uded2 I\u2019m working on GraphQL API infrastructure and Shopify\u2019s migration toward Cardinal, a new\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQFNBtUnpjePvw/feedshare-shrink_800/B4EZ9YkeddH8Ac-/0/1783897385195?e=2147483647&v=beta&t=b4DS876Fxz7QvF6hKZ5UxxHbU7Q-52765tcu4lJOWvs",
+        "id": "7482207945330597888"
+      },
+      {
+        "interaction": "Liked by Subodh Thallada",
+        "link": "https://www.linkedin.com/posts/hmulji_i-volunteered-%F0%9D%97%BA%F0%9D%97%BC%F0%9D%97%BF%F0%9D%97%B2-%F0%9D%98%81%F0%9D%97%B5%F0%9D%97%AE%F0%9D%97%BB-%F0%9D%9F%AF%F0%9D%9F%B1%F0%9D%9F%AC%F0%9D%9F%AC-activity-7478850883108118528-gzaC",
+        "title": "i volunteered \ud835\uddfa\ud835\uddfc\ud835\uddff\ud835\uddf2 \ud835\ude01\ud835\uddf5\ud835\uddee\ud835\uddfb \ud835\udfef,\ud835\udff1\ud835\udfec\ud835\udfec \ud835\uddf5\ud835\uddfc\ud835\ude02\ud835\uddff\ud835\ude00 \ud835\uddf6\ud835\uddfb \ud835\uddf5\ud835\uddf6\ud835\uddf4\ud835\uddf5 \ud835\ude00\ud835\uddf0\ud835\uddf5\ud835\uddfc\ud835\uddfc\ud835\uddf9. here\u2019s why i did it. in ontario, high school students need to\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQHe3Dg26_3KhA/feedshare-shrink_800/B56Z8o3PudIoAc-/0/1783096999504?e=2147483647&v=beta&t=OkPuhAyfpoqjfKR0Amy2ckDnQBEaZPkGFiWVoatmDfs",
+        "id": "7478850883108118528"
+      },
+      {
+        "interaction": "Liked by Subodh Thallada",
+        "link": "https://www.linkedin.com/posts/dorothy-zheng07_i-walked-27km-to-reconnect-with-nature-after-activity-7478880536841605120-cijb",
+        "title": "I walked 27km to reconnect with nature after 3 back-to-back hackathons... Starting with the Cursor hackathon, Emily Yan, John Xu, Jack Cai, Emilie\u2026",
+        "img": "https://static.licdn.com/aero-v1/sc/h/53n89ecoxpr1qrki1do3alazb",
+        "id": "7478880536841605120"
+      },
+      {
+        "interaction": "Liked by Subodh Thallada",
+        "link": "https://www.linkedin.com/posts/sahandsojoodi_big-news-we-raised-a-135m-series-a-round-activity-7478496028292300800-pPuU",
+        "title": "Big news! We raised a $135M Series A round at 8090 Solutions, led by Salesforce. Back in 2024, I joined Chamath Palihapitiya Sina Sojoodi and the\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5605AQEObNVJo6aKDA/videocover-high/B56Z8j0dBCKUBM-/0/1783012383447?e=2147483647&v=beta&t=Lbk7Yr8DDD0umakqA5bzCbZ4NceiFBTVSX0Cs-iOAS8",
+        "id": "7478496028292300800"
+      },
+      {
+        "interaction": "Liked by Subodh Thallada",
+        "link": "https://www.linkedin.com/posts/razeenali_graduated-from-the-university-of-toronto-activity-7478190309315633152-sgef",
+        "title": "Graduated from the University of Toronto \ud83c\udf93 Happy to close this chapter and even more excited for what\u2019s ahead. Grateful for everyone I met along\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQFu98rY5LGITQ/feedshare-image-high-res/B56Z8fedZwIoAU-/0/1782939506568?e=2147483647&v=beta&t=cesJRul1QjeDsOQdjd4_eTSjcUM1-mDXdAKlq-sSfEY",
+        "id": "7478190309315633152"
+      },
+      {
+        "interaction": "Liked by Subodh Thallada",
+        "link": "https://www.linkedin.com/posts/ankit-prajapati1278_graduation-convocation-universityofwindsor-activity-7478189581645869057-pnb5",
+        "title": "\ud83c\udf93 Officially a Master of Applied Computing graduate! On June 4th, I had the honor of walking across the stage at my convocation\u2014a moment that\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQFwjEGfy_4e5Q/feedshare-shrink_800/B56Z8fdy5AHYAc-/0/1782939332423?e=2147483647&v=beta&t=vGSB9PaxpTeP5zfKOASTCx9nXUzNqXOhe-VFbqWGUMI",
+        "id": "7478189581645869057"
+      }
+    ],
+    "linkedin_num_id": "1053269456",
+    "banner_image": "https://media.licdn.com/dms/image/v2/D4E16AQHnovYm8on84Q/profile-displaybackgroundimage-shrink_200_800/B4EZ3bwHJYJgAU-/0/1777508321976?e=2147483647&v=beta&t=4ZLX98KilGAuqgOMtahcLpbalyeySkFD691IUEfvyCQ",
+    "honors_and_awards": null,
+    "similar_profiles": [],
+    "default_avatar": false,
+    "memorialized_account": false,
+    "bio_links": [],
+    "first_name": "Subodh",
+    "last_name": "Thallada",
+    "influencer": false,
+    "timestamp": "2026-08-12T19:17:00.201Z",
+    "input": {
+      "url": "https://www.linkedin.com/in/subodh-thallada"
+    }
+  },
+  "local_photo": "data\\linkedin_photos\\subodh-thallada__usr-zDEBAg7VXJFNBkg.jpg"
+}

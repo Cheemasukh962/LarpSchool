@@ -1,0 +1,398 @@
+{
+  "luma_user_id": "usr-GQ2DVN6Mi1w3ygB",
+  "csv_name": "Richard Sun",
+  "csv_linkedin": "https://www.linkedin.com/in/richardjiakangsun",
+  "enriched_at": "2026-08-12T19:14:53.873634+00:00",
+  "batch_id": "sd_msqgwa7g10oeo6g7qx",
+  "profile": {
+    "id": "richardjiakangsun",
+    "name": "Richard S.",
+    "city": "Washington DC-Baltimore Area",
+    "country_code": "US",
+    "position": null,
+    "about": "\"Code isn't real until it ships.\" That's the mindset I bring to everything I\u2026",
+    "current_company": {
+      "location": null
+    },
+    "experience": null,
+    "url": "https://eg.linkedin.com/in/Richardjiakangsun",
+    "education": null,
+    "avatar": "https://static.licdn.com/aero-v1/sc/h/9c8pery4andzj6ohjkjp54ma2",
+    "courses": [
+      {
+        "subtitle": "-",
+        "title": "AP Computer Science A"
+      },
+      {
+        "subtitle": "CSCI-2800",
+        "title": "Computer Architecture and Operating Systems"
+      },
+      {
+        "subtitle": "Advanced",
+        "title": "Computer Programming 3 (Data Structures)"
+      },
+      {
+        "subtitle": "CSCI-1200",
+        "title": "Data Structures"
+      },
+      {
+        "subtitle": "CSCI-1700",
+        "title": "Early Introduction to Rensselaer Center for Open Source"
+      },
+      {
+        "subtitle": "CSCI-2200",
+        "title": "Foundations of Computer Science (Discrete Mathematics and Theory of Computing)"
+      },
+      {
+        "subtitle": "CSCI-2300",
+        "title": "Intro to Algorithms"
+      },
+      {
+        "subtitle": "BIOL-1016",
+        "title": "Intro to Computational Biology Lab"
+      },
+      {
+        "subtitle": "CSCI-2300",
+        "title": "Introduction to Algorithms"
+      },
+      {
+        "subtitle": "CSCI-2700",
+        "title": "Introduction to Rensselaer Center for Open Source"
+      },
+      {
+        "subtitle": "CSCI-2600",
+        "title": "Principles of Software"
+      }
+    ],
+    "certifications": [
+      {
+        "meta": "Issued Oct 2025",
+        "subtitle": "NYDesign",
+        "title": "Intro to Semiconductor Industry and Integrated Circuit Design",
+        "credential_url": null,
+        "credential_id": null
+      },
+      {
+        "meta": "Issued Oct 2025",
+        "subtitle": "MercerX Lab",
+        "title": "Level 1 Blue Badge for \"IC Designer\"",
+        "credential_url": null,
+        "credential_id": null
+      },
+      {
+        "meta": "Issued Dec 2018 Credential ID CT-PGMXKHXY See credential",
+        "subtitle": "Sololearn",
+        "title": "JavaScript",
+        "credential_url": "https://www.sololearn.com/certificates/CT-PGMXKHXY?trk=public_profile_see-credential",
+        "credential_id": "CT-PGMXKHXY"
+      },
+      {
+        "meta": "Issued Nov 2018 Credential ID CT-OU5C8IPG See credential",
+        "subtitle": "Sololearn",
+        "title": "CSS",
+        "credential_url": "https://www.sololearn.com/certificates/CT-OU5C8IPG?trk=public_profile_see-credential",
+        "credential_id": "CT-OU5C8IPG"
+      },
+      {
+        "meta": "Issued Nov 2018 Credential ID CT-1LN2LSIP See credential",
+        "subtitle": "Sololearn",
+        "title": "PHP",
+        "credential_url": "https://www.sololearn.com/certificates/CT-1LN2LSIP?trk=public_profile_see-credential",
+        "credential_id": "CT-1LN2LSIP"
+      },
+      {
+        "meta": "Issued Sep 2018 Credential ID CT-D6IXTHMG See credential",
+        "subtitle": "Sololearn",
+        "title": "HTML",
+        "credential_url": "https://www.sololearn.com/certificates/CT-D6IXTHMG?trk=public_profile_see-credential",
+        "credential_id": "CT-D6IXTHMG"
+      }
+    ],
+    "volunteer_experience": [
+      {
+        "cause": "Arts and Culture",
+        "duration": "2018 \u00b7 - \n2022 \u00b7 \n4 years",
+        "duration_short": "- \n2022",
+        "info": "The Balancing Act Documentary",
+        "start_date": "2018",
+        "subtitle": "CAPA-MC Junior Reporting Club",
+        "title": "Videographer"
+      }
+    ],
+    "followers": 3075,
+    "connections": 500,
+    "projects": [
+      {
+        "title": "Autonomous Discord Conversational System",
+        "start_date": "Mar 2026",
+        "description": "Built an adaptive AI for Discord that uses long-term memory, summarization, proactive messaging, and relationship-state modeling to support more natural, human-like conversation over time. Designed the system around cognitive science ideas like memory, social cognition, and personality perception, while implementing the underlying LLM prompting, routing, and context-management pipeline."
+      },
+      {
+        "title": "Shubble",
+        "start_date": "Sep 2025",
+        "description": "Shuttle Tracker for RPI campus."
+      },
+      null,
+      null,
+      null,
+      null,
+      {
+        "title": "AI Judge",
+        "start_date": "Mar 2026"
+      },
+      {
+        "title": "ISOQuest (HackRPI 2025)",
+        "start_date": "Nov 2025"
+      },
+      null,
+      null,
+      {
+        "title": "Skytils",
+        "start_date": "Dec 2020"
+      },
+      {
+        "title": "Impause (BitCamp 2025)",
+        "start_date": "May 2025"
+      },
+      null,
+      null,
+      null,
+      {
+        "title": "Wumpus World",
+        "start_date": "Nov 2024",
+        "description": "Created logical agent to solve the Wumpus World problem, in an Arduino robot and in a Minecraft simulation."
+      },
+      null,
+      null,
+      {
+        "title": "ShareTheRail (HackRPI 2024)",
+        "start_date": "Nov 2024"
+      },
+      null,
+      {
+        "title": "WAVER Cafe (WolfJam 2024 3rd Place Winner)",
+        "start_date": "Nov 2024",
+        "description": "WAVER Cafe is a restaurant management visual novel where you play as a foxy (quite literally) barista. Serve coffee to a diverse cast of NPCs through engaging mini-games, uncovering their fascinating lives in end-of-day encounters. Brace yourself for dark twists and unexpected reveals along the way.I created the dialogue for Mittens, the cat. I was responsible for handling character interactions and story progression. I designed and implemented the freehand latte art minigame, added a realistic coffee pouring animation, and changed our foam minigame to be percentage based. Finally, I added a scoring system and implemented a game end screen with different variations based on the player's performance.This was a contest entry in the Wolfjaw Studios 2024 Wolfjam. We placed third out of 57 entries."
+      }
+    ],
+    "organizations": [
+      {
+        "title": "Upsilon Pi Epsilon",
+        "membership_type": "Member",
+        "start_date": "Apr 2026",
+        "end_date": "Present",
+        "description": "UPE is the first and only, existing international honor society in the Computing and Information disciplines.I co-led exam workshop reviews for the following:CSCI-2800 Exam 2 (S26) for 25+ studentsCSCI-1200 Final Exam (S26) for 25+ students",
+        "membership_number": null
+      },
+      {
+        "title": "Flying Pig Society",
+        "membership_type": "-",
+        "start_date": "Aug 2024",
+        "end_date": "Present",
+        "description": "Entrepreneurship and RPI Innovator Network run by the Severino Center for Technological Innovation.",
+        "membership_number": null
+      },
+      {
+        "title": "Rensselaer Center for Open Source",
+        "membership_type": "-",
+        "start_date": "Aug 2024",
+        "end_date": "Present",
+        "description": "Open source at RPI!",
+        "membership_number": null
+      },
+      {
+        "title": "Society of Asian Scientists and Engineers @ RPI",
+        "membership_type": "Workshop Lead, Events Committee, Tech Committee, Treasury Committee, Mentee",
+        "start_date": "Aug 2024",
+        "end_date": "Present",
+        "description": "Collaborated with Events Directors and committee to plan events for SASE members.Held Data Structures exam review workshops for 30+ students/session.Acted and scripted for content creation to promote events on Instagram.",
+        "membership_number": null
+      },
+      {
+        "title": "RPISEC",
+        "membership_type": "-",
+        "start_date": "Aug 2024",
+        "end_date": "May 2026",
+        "description": "Learned static and dynamic binary analysis techniques from the Boston Cybernetics Institute such as symbolic execution using angr, and how to utilize the strengths of IDA Pro and Ghidra.Practiced SQL Injection on CTFs. Experimented with web replay attacks using Burp Suite and Fiddler. Explored how to defend against credential stuffing.",
+        "membership_number": null
+      },
+      {
+        "title": "RPI eSports",
+        "membership_type": "Interim Treasurer",
+        "start_date": "Dec 2025",
+        "end_date": "Feb 2026",
+        "description": "Support RPI Engineers by managing a budget of $3500.Played as sub for RPI VALORANT Black.",
+        "membership_number": null
+      },
+      {
+        "title": "RPI ECSE Department Undergraduate Student Council",
+        "membership_type": "Vice President",
+        "start_date": "Dec 2024",
+        "end_date": "Dec 2025",
+        "description": "Plan events for the undergraduate ECSE student body at RPI.",
+        "membership_number": null
+      },
+      {
+        "title": "RPI eSports",
+        "membership_type": "Team Member",
+        "start_date": "Aug 2024",
+        "end_date": "Aug 2025",
+        "description": "Played VALORANT for RPI Red. NECC, CVAL, and ECAC. I think we got some kind of trophy in Fall 2024 from NECC",
+        "membership_number": null
+      },
+      {
+        "title": "Rensselaer Union Web Technologies Group",
+        "membership_type": "Student Developer",
+        "start_date": "Aug 2024",
+        "end_date": "May 2025",
+        "description": "Work on applications that serve the RPI campus community. Most of the work has been moved into RCOS.",
+        "membership_number": null
+      }
+    ],
+    "location": null,
+    "input_url": "https://www.linkedin.com/in/richardjiakangsun",
+    "linkedin_id": "richardjiakangsun",
+    "activity": [
+      {
+        "interaction": "Liked by Richard S.",
+        "link": "https://www.linkedin.com/posts/thenameisj1_after-graduating-from-rpi-this-spring-i-activity-7492720189629763584-BYrN",
+        "title": "After graduating from RPI this spring, I decided to take the summer off to travel, reset, and enjoy some time to reconnect with myself and friends\u2026",
+        "img": "https://static.licdn.com/aero-v1/sc/h/53n89ecoxpr1qrki1do3alazb",
+        "id": "7492720189629763584"
+      },
+      {
+        "interaction": "Liked by Richard S.",
+        "link": "https://www.linkedin.com/posts/miranda-mzheng_while-it-feels-bittersweet-to-say-goodbye-activity-7492012488553758720-FFa-",
+        "title": "While it feels bittersweet to say goodbye, I am happy to share that I've graduated from RPI and started at Bloomberg as a Software Engineer! It's\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQE4me4mq6QC7g/feedshare-image-high-res/B4EZ_j5pxhJUAU-/0/1786234970365?e=2147483647&v=beta&t=F9OXgJ0sxusSr1s6rTxSkt4aXU3zoXOjfxZ9KuxVYj4",
+        "id": "7492012488553758720"
+      },
+      {
+        "interaction": "Liked by Richard S.",
+        "link": "https://www.linkedin.com/posts/y-combinator_in-2009-patrick-collison-and-john-collison-activity-7489033755882385408-nVi5",
+        "title": "In 2009, Patrick Collison and John Collison went to Startup School in Berkeley, got sushi in Potrero Hill afterward, and decided on the walk home to\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5605AQEtKhUiJ6JooQ/videocover-high/B56Z.5kUxYGQBM-/0/1785524764596?e=2147483647&v=beta&t=nujwp6hDvm1ps5gizSyoq0S_HaaU7I6ohDrpFZ7fTfM",
+        "id": "2009"
+      },
+      {
+        "interaction": "Liked by Richard S.",
+        "link": "https://www.linkedin.com/posts/jordanmazer_excited-to-share-more-about-our-first-graduating-activity-7491511461270233088-W81w",
+        "title": "Excited to share more about our first graduating a16z speedrun Alpha fellows next week. For now, I want to just talk about consistency and\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQFfyC0-iZ1JPw/feedshare-shrink_800/B4EZ_cx.MLJUAk-/0/1786115516041?e=2147483647&v=beta&t=NGCXd5c5kDTDz-qYPBTl3iMLPYSTQM0PoZxFrHFJ4Po",
+        "id": "7491511461270233088"
+      },
+      {
+        "interaction": "Liked by Richard S.",
+        "link": "https://www.linkedin.com/posts/epochai_weve-launched-a-new-game-puzzles-benchmark-activity-7491229621263220737-js3B",
+        "title": "We\u2019ve launched a new \u201cgame puzzles\u201d benchmark, similar to our Chess Puzzles benchmark but using puzzles from a different, undisclosed game. This\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4D10AQFelKlDx9QhmQ/image-shrink_800/B4DZ_YxomhIEAg-/0/1786048318256?e=2147483647&v=beta&t=sPkpJmo2w9B9bAgqhsJii0aEmVE1Qm_5AaOMc1vug9c",
+        "id": "7491229621263220737"
+      },
+      {
+        "interaction": "Liked by Richard S.",
+        "link": "https://www.linkedin.com/posts/y-combinator_the-next-generation-of-startups-will-be-built-activity-7491553772683382786-hD-7",
+        "title": "The next generation of startups will be built by smaller teams than ever before. At Startup School 2026, YC President & CEO Garry Tan explains why\u2026",
+        "img": "https://dms.licdn.com/playlist/vid/v2/D5605AQG5UB2c2G99Eg/thumbnail-shrink_720_1280/B56Z_crlgHHUAg-/0/1786113847835?e=2147483647&v=beta&t=FCV7Gt7VFFPs9BfW-shFnn6G-4SUM6quTAFSvWa4oZo",
+        "id": "7491553772683382786"
+      },
+      {
+        "interaction": "Liked by Richard S.",
+        "link": "https://www.linkedin.com/posts/openai_expanding-access-to-gpt-56-for-free-users-activity-7491202676404334592-lQVt",
+        "title": "We\u2019re making better intelligence easier to access in ChatGPT for everyone: - GPT-5.6 Sol now powers both Instant and deeper reasoning for Plus and\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4E05AQF0lqIKnjpq9w/videocover-high/B4EZ_YZHZ3GoBM-/0/1786041891969?e=2147483647&v=beta&t=UC6GiEhv3grFcWdGQanBwYeL0Jsrm8soDBKiZ-SicyM",
+        "id": "56"
+      },
+      {
+        "interaction": "Liked by Richard S.",
+        "link": "https://www.linkedin.com/posts/openai-devs_how-to-use-agent-plugins-activity-7491166789234622465-lm0M",
+        "title": "Introducing Agent Plugins, an open standard developed in collaboration with partners across the AI ecosystem. Bundle Agent Skills and supported MCP\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4E05AQF5tf8_WrxwxA/videocover-high/B4EZ_X4Za2IsBM-/0/1786033318380?e=2147483647&v=beta&t=_yntW99kIi1yG4-KmbnqYNEovSgj7OHJ75_Rc9TKYic",
+        "id": "7491166789234622465"
+      },
+      {
+        "interaction": "Liked by Richard S.",
+        "link": "https://www.linkedin.com/posts/debarghyadas_google-is-in-talks-to-acquire-mechanize-activity-7490803091227770880-Smw9",
+        "title": "Google is in talks to acquire Mechanize, a startup that creates high quality RL coding environments, for $1.5B. This is the biggest AI data business\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4D10AQF5KU1nGyHoyg/image-shrink_800/B4DZ_SttdIIwAg-/0/1785946626318?e=2147483647&v=beta&t=NXXhUdVM9yE8EgMMYsBiDuxvMrY9_nkeaR2VWMXyX90",
+        "id": "7490803091227770880"
+      },
+      {
+        "interaction": "Liked by Richard S.",
+        "link": "https://www.linkedin.com/posts/bland-ai_today-were-launching-bland-speech-v3-activity-7490452236893024257-ovtO",
+        "title": "Today, we\u2019re launching Bland Speech v3 - The world's first Human Speech Engine. In Design Arena\u2019s Audio Realism benchmark, Speech v3 is the top\u2026",
+        "img": "https://dms.licdn.com/playlist/vid/v2/D5605AQFrcwsSTsFYdg/thumbnail-shrink_720_1280/B56Z_NuZ6iKIAk-/0/1785862932856?e=2147483647&v=beta&t=eEsdcwNTpcfe01numjfiZDISkCDJnSOgbbYnVXq1Crw",
+        "id": "7490452236893024257"
+      },
+      {
+        "interaction": "Liked by Richard S.",
+        "link": "https://www.linkedin.com/posts/cursorai_were-open-sourcing-mixture-of-kittens-mok-activity-7490437495151722497-SlqS",
+        "title": "We're open-sourcing Mixture-of-Kittens (MoK), our MoE training megakernel for NVL72s. It fuses all Mixture-of-Experts communication and computation\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4D22AQGhZUcJQhwsdA/feedshare-shrink_800/B4DZ_NhNccKMAc-/0/1785859463359?e=2147483647&v=beta&t=YFd6DT67We-HPd7zDx0pN1TZHOHutPzNCpp16L7l-uw",
+        "id": "7490437495151722497"
+      },
+      {
+        "interaction": "Liked by Richard S.",
+        "link": "https://www.linkedin.com/posts/jenhsunhuang_today-were-launching-alpamayo-2-super-activity-7490422037753036800-8R82",
+        "title": "Today, we\u2019re launching Alpamayo 2 Super, our frontier open reasoning model for autonomous vehicles. Beyond seeing, Alpamayo understands and reasons\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQFtb31IwPnlSA/feedshare-shrink_800/B56Z_NTJx4J0Ac-/0/1785855778160?e=2147483647&v=beta&t=2jKPPa5dkZCiPbR0BDsRpJ9WYbqUmfpRvpgc2loSj_g",
+        "id": "2"
+      },
+      {
+        "interaction": "Liked by Richard S.",
+        "link": "https://www.linkedin.com/posts/debarghyadas_startups-regularly-underestimate-how-difficult-activity-7490256306612813824-eN92",
+        "title": "Startups regularly underestimate how difficult hiring gets, especially after an expensive Series B/C. 1. Mission matters more. The people who join\u2026",
+        "img": "https://static.licdn.com/aero-v1/sc/h/53n89ecoxpr1qrki1do3alazb",
+        "id": "7490256306612813824"
+      },
+      {
+        "interaction": "Liked by Richard S.",
+        "link": "https://www.linkedin.com/posts/nousresearch_the-first-official-hermes-desktop-plugin-activity-7490035558841393152-YpoW",
+        "title": "The first official Hermes Desktop plugin is Kanban, now desktop native by popular request and significantly upgraded. A plugin can add its own page,\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4E05AQGp4dTQvLn4gg/videocover-high/B4EZ_HzmtvJEBU-/0/1785763624885?e=2147483647&v=beta&t=KnMrElV6q1euEEmv6YDSIoqUjeur8cPuwPPmeCBR0Nw",
+        "id": "7490035558841393152"
+      },
+      {
+        "interaction": "Liked by Richard S.",
+        "link": "https://www.linkedin.com/posts/zuhayeer_anthropics-ceo-dario-amodei-is-reportedly-activity-7490123460489420800-bVDy",
+        "title": "Anthropic\u2019s CEO, Dario Amodei, is reportedly worried that talent is now joining for the money rather than the mission. A look at Anthropic\u2019s pay\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQGNgnCvMSEkAQ/feedshare-shrink_800/B56Z_JDmJXIMAc-/0/1785784591367?e=2147483647&v=beta&t=MQ_6pxOLqvCib1eTA0eSo91fAOoKuNIc7h3kRgdRLGQ",
+        "id": "7490123460489420800"
+      },
+      {
+        "interaction": "Liked by Richard S.",
+        "link": "https://www.linkedin.com/posts/openai-devs_how-we-built-a-realtime-system-for-responsive-activity-7490146885303779328-oXfv",
+        "title": "GPT-Live can listen while it speaks. To make that feel natural at ChatGPT scale, we rebuilt the voice stack from client to model. The new\u2026",
+        "img": "https://media.licdn.com/dms/image/sync/v2/D4E27AQGDaKd_48p23Q/articleshare-shrink_800/B4EZ_JS7ixIsAY-/0/1785788613161?e=2147483647&v=beta&t=j9T9jszExhhAY59f746GIxxrR6lZ-fgCqAkUeYhIZaA",
+        "id": "7490146885303779328"
+      },
+      {
+        "interaction": "Liked by Richard S.",
+        "link": "https://www.linkedin.com/posts/emilychuu_im-excited-to-share-that-ill-be-joining-activity-7490236776473722880-WUC6",
+        "title": "I\u2019m excited to share that I\u2019ll be joining SpaceX this fall as an engineering intern on the Starship Operations Engineering team, in Starbase, TX!\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQFJqQnofHdqTA/feedshare-shrink_800/B4EZ_KqqD0HkAc-/0/1785811608091?e=2147483647&v=beta&t=YGGnMpBy436bqEkpA_m3LkBg5n40wyWdqznzl_YGZjo",
+        "id": "7490236776473722880"
+      },
+      {
+        "interaction": "Liked by Richard S.",
+        "link": "https://www.linkedin.com/posts/y-combinator_the-best-way-to-learn-how-startups-work-is-activity-7490097268663177217-d1sl",
+        "title": "The best way to learn how startups work is to work at one. On August 15, we're inviting ambitious students to YC HQ to meet more than 50 YC\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5605AQFN24IibpW8Vg/videocover-low/B56Z_IpOT1IcBI-/0/1785777679234?e=2147483647&v=beta&t=jIvwt3q1Gmqc4kgQW9xSvgi5v_z88c8NmJ0WntqHJKo",
+        "id": "7490097268663177217"
+      }
+    ],
+    "linkedin_num_id": "1246336611",
+    "banner_image": "https://media.licdn.com/dms/image/v2/D4E16AQHu1ODefAyrWw/profile-displaybackgroundimage-shrink_200_800/B4EZ2kbMrbIcAU-/0/1776580088481?e=2147483647&v=beta&t=GfDFGPw9XDNxHhNgoAqK9agDlnMN8V0VpRv8bkAmYvU",
+    "honors_and_awards": null,
+    "similar_profiles": [],
+    "default_avatar": true,
+    "memorialized_account": false,
+    "bio_links": [],
+    "first_name": "Richard",
+    "last_name": "S.",
+    "influencer": false,
+    "timestamp": "2026-08-12T19:13:48.081Z",
+    "input": {
+      "url": "https://www.linkedin.com/in/richardjiakangsun"
+    }
+  }
+}

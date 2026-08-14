@@ -1,0 +1,197 @@
+{
+  "luma_user_id": "usr-s7Wn3tZ2Jvxk1Ym",
+  "csv_name": "Anmol Singh",
+  "csv_linkedin": "https://www.linkedin.com/in/anmols-",
+  "enriched_at": "2026-08-12T18:56:33.271281+00:00",
+  "batch_id": "sd_msqg8yml2ia5na9bcp",
+  "profile": {
+    "id": "anmols-",
+    "name": "Anmol Singh",
+    "city": "San Francisco, California, United States",
+    "country_code": "US",
+    "position": null,
+    "about": "Hey, I'm Anmol! I'm interested in enhancing the human condition. Feel free to\u2026",
+    "current_company": {
+      "link": "https://www.linkedin.com/company/lotus?trk=public_profile_topcard-current-company",
+      "name": "Lotus AI",
+      "company_id": "lotus",
+      "location": null
+    },
+    "experience": null,
+    "url": "https://no.linkedin.com/in/anmols-",
+    "educations_details": "University of Michigan",
+    "education": null,
+    "avatar": "https://media.licdn.com/dms/image/v2/D5603AQElJU9RzUKXiA/profile-displayphoto-scale_200_200/B56Zz3IG3.H8AY-/0/1773672626652?e=2147483647&v=beta&t=iEgiNgyPPMReASqhQcDU-k8M2xMxlrkj4bS1x1wOYF4",
+    "certifications": [
+      {
+        "meta": "Issued Jul 2023 See credential",
+        "subtitle": "DeepLearning.AI",
+        "title": "Machine Learning",
+        "credential_url": "https://www.coursera.org/account/accomplishments/specialization/YM3QJ7DDK5GD?trk=public_profile_see-credential",
+        "credential_id": null
+      },
+      {
+        "meta": "Issued Apr 2023 See credential",
+        "subtitle": "HackerRank",
+        "title": "Python",
+        "credential_url": "https://www.hackerrank.com/certificates/709527d25fc2?utm_medium=email&utm_source=mail_template_1393&utm_campaign=hrc_skills_certificate&trk=public_profile_see-credential",
+        "credential_id": null
+      }
+    ],
+    "followers": 4948,
+    "connections": 500,
+    "current_company_company_id": "lotus",
+    "current_company_name": "Lotus AI",
+    "location": "San Francisco",
+    "input_url": "https://www.linkedin.com/in/anmols-",
+    "linkedin_id": "anmols-",
+    "activity": [
+      {
+        "interaction": "Anmol Singh shared this",
+        "link": "https://www.linkedin.com/posts/anmols-_just-presented-swarm-to-2500-people-at-activity-7452472883756560384-Fnx6",
+        "title": "Just presented Swarm to 2,500+ people at ClawCon Michigan at Crisler Arena. Swarm is a multi-agent self-healing system that finds viral short-form content. It won me a Mac Mini at the YC x BrowserUse hackathon. One of the biggest challenges with long-running multi-agent systems is context management. Passing everything through the orchestrator gets messy, and summarizing is costly and time-consuming. That's why I gave each sub-agent its own state. A set of variables storing each sub-agents' discoveries, current task, search terms, and energy level. This lets the main orchestrator efficiently keep track of all of the sub-agents in real-time. Web-agents aren't quite there either. They stall, get stuck on captchas, and sometimes don't find anything valuable. That's where the energy level comes in. The energy level depletes over time, and gets reset on every new viral reel it finds. If a sub-agent's energy level gets to 0, then that sub-agent is redirected and copies the most successful sub-agents with a twist. For example, if a certain search term on TikTok is doing great, the failed sub-agent will attempt to try that same search term on YouTube shorts. This project goes past just marketing - The possibilities of long-running multi-agent systems like Swarm are endless and quite powerful. ClawCon Michigan was truly something special - I had a great time meeting everyone :) ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQFoBwxsWxG1lA/feedshare-shrink_1280/B4EZ2yAl6XIAAM-/0/1776807993828?e=2147483647&v=beta&t=TkY44LPjqVxXq-4BGBUoU35kbfcQu_OsiWUimySWCT4",
+        "id": "2500"
+      },
+      {
+        "interaction": "Anmol Singh shared this",
+        "link": "https://www.linkedin.com/posts/anmols-_ai-webagents-hackathon-activity-7435130827895742464-Mc1V",
+        "title": "Last weekend, I went solo to the Y Combinator x Browser Use Web Agents Hackathon\u2026 and won a new Mac Mini I waste 80% of my time manually doomscrolling Instagram to find viral reel formats for my 12 marketing clients. Traditional scrapers hit CAPTCHAs and break. Single AI agents are just too slow. So I built a self-healing, multi-agent hive mind that runs 9 concurrent browser agents across every platform. Huge shoutout to Browser Use for hosting a hackathon that literally upgraded my workflow (and my desk setup). #AI #WebAgents #Hackathon #YCombinator #MarketingAI #Automation ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQEOdA5f_DTqag/feedshare-shrink_800/B56Zy7kFmNKUAg-/0/1772673326188?e=2147483647&v=beta&t=vVjx_T1lZgVde7LjwCKrkQkoUsKSMRQrVJfGh5iLm4U",
+        "id": "7435130827895742464"
+      },
+      {
+        "interaction": null,
+        "link": "https://www.linkedin.com/posts/amulya-agape_congrats-team-this-happened-less-than-a-activity-7420607910096900096-PJGT",
+        "title": "Congrats team, this happened less than a week after the Photon house hackathon! Jacob and Anmol gave me a call and said can you help us help build on Photon and Elevenlabs, -- we hopped on a call and came on a structure structure of how they could start the UI/UX conversation in a hackathon setting, helped them diagram out the use case, tossed some creds and they built something cool. and then demo'd me a functional product the next morning Congrats team on the award Jacob and Anmol . Loved the behind the scenes, I'm long on you both. And Daniel and Ryan congrats on the continued traction with the Photon builder community! Just the beginning gents ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D5605AQHbSrRaLAM8UQ/videocover-high/B56ZvmjbXhIsBY-/0/1769099609061?e=2147483647&v=beta&t=hXQlNthdvy0Ull65qGZsoc8iGOmYc3UZsQ4U2NwoJZc",
+        "id": "7420607910096900096"
+      },
+      {
+        "interaction": "Anmol Singh shared this",
+        "link": "https://www.linkedin.com/posts/anmols-_fifteen-minutes-before-nexhacks-my-entire-activity-7420141630566920192-tKym",
+        "title": "Fifteen minutes before NexHacks \u2026 my entire team bailed. I showed up anyway and left with two WINS I stood there with two choices: Give up. Or show up anyway. I chose to show up. I called Jacob Mazelin , convinced him to drive me there, and we built Checkr from the ground up. We had no pitch, no video, just a QR code for our live demo. What happened next? \ud83c\udfc6 Best Photon Hack - Daniel Tian \ud83c\udfc6 Leanmcp 3rd Place - Dheeraj Pai Two wins. Two people. Zero excuses. The lesson? When everything falls apart, show up anyway. Because sometimes courage looks like showing up when no one else does. Life rewards those who take the risk and refuse to back down. Huge thanks to Amulya Parmar for the support. Hope you enjoy the demo :) ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D5605AQHbSrRaLAM8UQ/videocover-high/B56ZvmjbXhIsBY-/0/1769099609061?e=2147483647&v=beta&t=hXQlNthdvy0Ull65qGZsoc8iGOmYc3UZsQ4U2NwoJZc",
+        "id": "7420141630566920192"
+      },
+      {
+        "interaction": "Anmol Singh shared this",
+        "link": "https://www.linkedin.com/posts/anmols-_thanks-leanmcp-had-a-lot-of-fun-building-activity-7419587978907471873-DB8b",
+        "title": "Thanks Leanmcp ! Had a lot of fun building our project. More details soon :) ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQH5YCBr1Shv5A/feedshare-shrink_800/B56ZvcNxtXKwAk-/0/1768926157878?e=2147483647&v=beta&t=agfDLZ6zILR-RHDXU40mB-jj0EhC4duV_MlcjQxXktA",
+        "id": "7419587978907471873"
+      },
+      {
+        "interaction": "Anmol Singh shared this",
+        "link": "https://www.linkedin.com/posts/anmols-_today-im-excited-to-announce-mailey-an-activity-7396973951899361280-lrY7",
+        "title": "Today, I\u2019m excited to announce Mailey - an intelligent email platform backed by Alya Capital. Forward any email to Mailey, and it instantly replies for you. No setup or stress, just smarter email. Sign up for the waitlist today at usemailey[dot]com. Huge thanks to Alya Capital and shoutout to Agentmail for the free dev api ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D5605AQGZRnC8qlgYKQ/videocover-high/B56ZqdUiwgJUBU-/0/1763576002188?e=2147483647&v=beta&t=txS4kCF7dsfxvsWmoVqD5vvN63V0E3E6WZm97lpdsUk",
+        "id": "7396973951899361280"
+      },
+      {
+        "interaction": "Anmol Singh shared this",
+        "link": "https://www.linkedin.com/posts/anmols-_just-built-the-future-of-healthcare-at-the-activity-7394440226405810176-WSRR",
+        "title": "Just built the future of healthcare at the MIT of the South Unnecessary doctor appointments in the United States cost hospitals over $150 billion each year. We examined this problem and developed a solution. Meet Lotus AI, your fully agentic pre-screening nurse > Utilizes Semantic thinking for accurate results > Searches the web for context > Uses location to find nearby clinics > Books appointments near you via selenium > Emails reports to you & your doctor Built in 24 hours at HackUTD with Jacob Mazelin and Ali Nawab \u2026 while I was literally sick ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D5605AQEtZjlRaKcwmQ/feedshare-thumbnail_720_1280/B56Zp5UFNQIsBA-/0/1762971899987?e=2147483647&v=beta&t=h09T5HOXjs4oMnMJHfNyYqtytdknRmadvEbW35DG-NU",
+        "id": "7394440226405810176"
+      },
+      {
+        "interaction": "Anmol Singh shared this",
+        "link": "https://www.linkedin.com/posts/anmols-_heres-what-i-built-for-mhacks-2025-as-a-activity-7382040643314909185-OUzm",
+        "title": "here's what I built for MHacks 2025 as a 2x high school hackathon winner \u2193 I haven\u2019t been sleeping much lately. Too many thoughts keeping me up. One of them has been hard to ignore: more than 5 billion people around the world still don\u2019t have access to safe surgical care. That leads to about 18 million preventable deaths every year. That number hit me. I couldn\u2019t stop thinking about what it would mean if someone I cared about was part of that statistic. In just 24 hours, I teamed up with Jacob Mazelin , Ethan Wang , and Yamato M. to build Surgent, a prototype for scalable surgical education. It uses Snap AR and a custom AI model powered by the Gemini API that can see, hear, and respond in real time. The AI gives suggestions and corrections as users go, helping future surgeons practice safely wherever they are. We built this to make surgical training more accessible to anyone, anywhere. Huge thanks to Peng Guo and Steven Le for supporting us on this project and the debugging sessions that made this product possible. Shout out to Alexander Salinas and Mihir Arya for making this event possible ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D5605AQEfvo936EqhTw/videocover-high/B56ZnFuiMcKICA-/0/1759958952550?e=2147483647&v=beta&t=VqGBIuhGpOaICIquATJJsLqjYyMGYGqtp9SMUi0NNFE",
+        "id": "2025"
+      },
+      {
+        "interaction": "Anmol Singh shared this",
+        "link": "https://www.linkedin.com/posts/anmols-_the-tech-roast-show-ripped-apart-a-project-activity-7379887203721719808-CBjg",
+        "title": "The Tech Roast Show ripped apart a project I poured 24 hours of heart, Gatorade (my \u201ccaffeine\u201d), and sheer determination into. This past weekend, I attended MHacks 2025, my first hackathon as a university student. Walking in, I felt intimidated. Everyone looked like they had it all figured out. But then my team and I started talking about a problem too big to ignore: over 5 billion people worldwide still lack access to safe surgical care, leading to 18 million preventable deaths every year. That number shook me. I couldn\u2019t stop thinking: What if someone I loved was part of that statistic? So, in just 24 hours, alongside Jacob Mazelin , Ethan Wang , and Yamato M. , we built Surgent, a prototype for scalable surgical education. Using Snap AR and a custom AI model that listens, sees, and suggests in real-time, we wanted to empower future surgeons, no matter where they live. Did it work perfectly? Not at all. Did we survive the roast? Barely, especially after the project was dubbed \"Slop MD\" by Jesse. But that\u2019s the beauty of hackathons: you put yourself out there, fail in public, and leave a little braver (and a lot more sleep-deprived). Shoutout to my team for pushing through every \u201cthis will never work\u201d momen, and to everyone at MHacks who reminded me why I love building in the first place. More on Surgent soon. ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQF_BorxB2snzw/feedshare-shrink_1280/B56ZmqeFxAI8As-/0/1759501639353?e=2147483647&v=beta&t=ahKO0OIFzF_34rl0o4etzWQaZMHnmRpT1-2UBDm5Grs",
+        "id": "7379887203721719808"
+      },
+      {
+        "interaction": "Anmol Singh liked this",
+        "link": "https://www.linkedin.com/posts/khosraw_pointer-is-hiring-were-growing-faster-activity-7492980694671974400-sxYR",
+        "title": "Pointer is hiring! We're growing faster than we can handle and need people across every function: engineering, deployment, growth, and operations. We build AI systems that do a company's hardest work and prove it was done right, deployed in some of the highest-stakes operations in the world. Our team is tight-knit, highly technical, jolly, and unusually close to the work itself. Everyone talks to customers and ships full systems end to end. We're based in downtown San Francisco. If this sounds interesting, learn more: https://pointer.ai/careers Refer someone we hire and we'll pay you $15,000.",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQHHw0K3_Xt5ig/feedshare-shrink_800/B4EZ_vOpmHIgAg-/0/1786425023414?e=2147483647&v=beta&t=mOM3VMTpgaksuQb46u7oQrgEkZuHJ-vpA7T2WqQeNmY",
+        "id": "7492980694671974400"
+      },
+      {
+        "interaction": "Anmol Singh liked this",
+        "link": "https://www.linkedin.com/posts/yongmin-kwon-6740b728a_kpmger-activity-7490979381398360065-TIeo",
+        "title": "I\u2019m thrilled and grateful to share that I will be returning to KPMG US full-time as an Audit Associate in the San Francisco office starting in 2027! I had an incredible experience this summer as an Audit Intern, where I was challenged to grow both technically and professionally while gaining hands-on experience supporting our team and clients. What made this experience truly special was KPMG's culture of mentorship, collaboration, and support. I want to give a special thank you to my PML, Nina C. , for all of her guidance and encouragement throughout the internship, as well as my teammates for investing in my growth and making the summer so valuable. Excited for what lies ahead and to officially join the firm full-time! #KPMGer",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQGdhZYSAu8wag/feedshare-shrink_1280/B56Z_VODY4J0AM-/0/1785988658974?e=2147483647&v=beta&t=_1eV6gYXVisZ28gTUZV0OeUAP6iN3Fd9Z84Fz-hc3vA",
+        "id": "7490979381398360065"
+      },
+      {
+        "interaction": "Anmol Singh liked this",
+        "link": "https://www.linkedin.com/posts/ustalos_we-are-excited-to-announce-that-talos-is-activity-7490953267452071936-8lOj",
+        "title": "We are excited to announce that Talos is joining Y Combinator as part of the Fall 26 batch! We are building the future of predictive maintenance for power infrastructure. Amitav Kohli Himani Musku Kevin Hwang",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQHsNTsPH0vgew/feedshare-shrink_800/B4EZ_U2TczJQAc-/0/1785982433383?e=2147483647&v=beta&t=-RxO4uIMZ5lxmxrzKYRfUi0j1NPBl0UGnj-KuNK5EoE",
+        "id": "7490953267452071936"
+      },
+      {
+        "interaction": "Anmol Singh liked this",
+        "link": "https://www.linkedin.com/posts/clevy_thank-you-for-surprising-everyone-and-making-activity-7488045269822136320-VkP0",
+        "title": "Thank you for surprising everyone And making time for the next generation @SamAltman",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQGCh3qDlnV3Hw/feedshare-image-high-res/B56Z.rhfkXKAAU-/0/1785289112155?e=2147483647&v=beta&t=nRpnfwrmghKTndb6S3F0QNaZQdXzUUHEcPDLUmzLWw8",
+        "id": "7488045269822136320"
+      },
+      {
+        "interaction": "Anmol Singh liked this",
+        "link": "https://www.linkedin.com/posts/kjdhaliwal_lotus-health-was-just-named-to-the-forbes-activity-7487966241211719680-2naI",
+        "title": "Lotus Health was just named to the Forbes Next Billion-Dollar Startups 2026 list. I grew up translating doctor visits into Punjabi for my immigrant parents. At 18, I herniated two discs and learned firsthand how broken, confusing, and expensive American healthcare is when you don't have someone to guide you. That's why we built Lotus: 24/7 primary care powered by AI and real licensed physicians, available in 50+ languages. Our doctors can care for 10x the patients of a traditional practice. 60% of the companies on this list historically go on to become unicorns. Duolingo and DoorDash were on it once. But honestly, the number I care about most isn't the valuation. It's the number of people who get a doctor for the first time. Grateful to my team who show up every day like it's day one, our physicians, our patients, and our investors at CRV and Kleiner Perkins who believed early. We're just getting started on our vision of infinite care for all. Full list in the comments.",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQHxlU0zyE9YTA/feedshare-shrink_1280/B56Z.qZnrAJoAQ-/0/1785270270926?e=2147483647&v=beta&t=wFNHBL2uDc0yDYn9cMqYbqTJRHFYfyI7uwPqctzAIVY",
+        "id": "7487966241211719680"
+      },
+      {
+        "interaction": "Anmol Singh liked this",
+        "link": "https://www.linkedin.com/posts/arcalabs-ai_one-sentence-in-a-finished-comps-workbook-activity-7487265121434619904-L9Dt",
+        "title": "One sentence in, a finished comps workbook out. Deal work does not end in a chatbot answer or a half baked deliverable, it ends in a bullet proof deliverable that you can stand behind. This is the gap. Type the ask in plain English. The agent picks the peer set, pulls the filing data, calendarizes everyone to a common year end, and hands back an Excel workbook where every multiple is a live formula and every sourced figure carries its citation. Click any cell. Check the math. Check the source. Book a demo and we will run it on your own peer set.",
+        "img": "https://media.licdn.com/dms/image/v2/D5605AQFnl5_CaMV1_A/videocover-high/B56Z.gb6XtHYBU-/0/1785103101394?e=2147483647&v=beta&t=fmQvAcH7Co88im_rCrIzMlLaMdweP_sUpSkcSVbSfA8",
+        "id": "7487265121434619904"
+      },
+      {
+        "interaction": "Anmol Singh liked this",
+        "link": "https://www.linkedin.com/posts/amitprakash101_openai-devday-ai-activity-7486847949759508480-b_gt",
+        "title": "I\u2019m humbled and excited to share that I've been selected as an OpenAI DevDay 2026 Scholarship Recipient. This scholarship will allow me to attend OpenAI DevDay in San Francisco this September, where I\u2019ll learn from researchers, engineers, and developers at the forefront of AI. I\u2019m incredibly grateful to OpenAI for this opportunity and am excited to learn, connect with others, and bring new ideas about the future of AI back to my medical research and school communities. If you\u2019ll be attending DevDay, I\u2019d love to connect! Feel free to reach out. #OpenAI #DevDay #AI #ChatGPT",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQECFxHS6HyO2Q/feedshare-shrink_1280/B56Z.agiWmJgAM-/0/1785003648628?e=2147483647&v=beta&t=tx-tfytRR4avsoRmVNXyfcgTrYdwmGCMJH2f0XD1_SE",
+        "id": "7486847949759508480"
+      },
+      {
+        "interaction": "Anmol Singh liked this",
+        "link": "https://www.linkedin.com/posts/mihir-kaushal_i-am-thrilled-to-share-this-update-from-my-activity-7481060618133790721-R4bv",
+        "title": "I am thrilled to share this update from my teammates on what we have been building! We are getting closer to launching Studi app at UW-Madison. Check out the details below to see how you can get early access and help us shape the future of campus studying.",
+        "img": "https://media.licdn.com/dms/image/v2/D4D22AQGD9Xlsr7ldQw/feedshare-shrink_1280/B4DZ9H1zq8K8AM-/0/1783616715817?e=2147483647&v=beta&t=LQgJQRex7Qu7pXuz9IAyTu3GgI2bslc_q0HexkpcX3c",
+        "id": "7481060618133790721"
+      },
+      {
+        "interaction": "Anmol Singh liked this",
+        "link": "https://www.linkedin.com/posts/blackfordcapital_veer-saini-joins-blackford-capital-this-summer-activity-7485402019764121601-YJwl",
+        "title": "Veer Saini joins Blackford Capital this summer as a Deal Team Intern. A sophomore at the University of Michigan\u2019s Ross School of Business pursuing a BBA, Veer is involved in investing on campus through Victors Value Investments . This summer, he is supporting Blackford\u2019s Texas Injection Molding platform, contributing to add-on acquisition work and deal execution. Beyond his professional and academic pursuits, Veer enjoys staying active through lifting, spending summer weekends at the beach and out on the water boating and watching Michigan sports. Go Blue! Here's a little more about Veer, in his own words: \ud835\udfed) \ud835\uddec\ud835\uddfc\ud835\ude02'\ud835\ude03\ud835\uddf2 \ud835\uddfa\ud835\uddf2\ud835\uddfb\ud835\ude01\ud835\uddf6\ud835\uddfc\ud835\uddfb\ud835\uddf2\ud835\uddf1 \ud835\uddff\ud835\uddf2\ud835\uddee\ud835\uddf9\ud835\uddf9\ud835\ude06 \ud835\uddf2\ud835\uddfb\ud835\uddf7\ud835\uddfc\ud835\ude06\ud835\uddf6\ud835\uddfb\ud835\uddf4 \ud835\ude01\ud835\uddf5\ud835\uddf2 \ud835\uddfd\ud835\uddf2\ud835\uddfc\ud835\uddfd\ud835\uddf9\ud835\uddf2 \ud835\ude06\ud835\uddfc\ud835\ude02 \ud835\ude04\ud835\uddfc\ud835\uddff\ud835\uddf8 \ud835\ude04\ud835\uddf6\ud835\ude01\ud835\uddf5 \ud835\uddfc\ud835\uddfb \ud835\ude01\ud835\uddf5\ud835\uddf2 \ud835\uddf1\ud835\uddf2\ud835\uddee\ud835\uddf9 \ud835\ude01\ud835\uddf2\ud835\uddee\ud835\uddfa. \ud835\uddea\ud835\uddf5\ud835\uddfc'\ud835\ude00 \ud835\ude00\ud835\uddfc\ud835\uddfa\ud835\uddf2\ud835\uddfc\ud835\uddfb\ud835\uddf2 \ud835\uddf5\ud835\uddf2\ud835\uddff\ud835\uddf2 \ud835\ude04\ud835\uddf5\ud835\uddfc'\ud835\ude00 \ud835\uddf5\ud835\uddee\ud835\uddf1 \ud835\uddee \ud835\uddff\ud835\uddf2\ud835\uddee\ud835\uddf9 \ud835\uddf6\ud835\uddfa\ud835\uddfd\ud835\uddee\ud835\uddf0\ud835\ude01 \ud835\uddfc\ud835\uddfb \ud835\ude06\ud835\uddfc\ud835\ude02, \ud835\uddee\ud835\uddfb\ud835\uddf1 \ud835\ude04\ud835\uddf5\ud835\ude06? Working with Rishabh Mukherjee, CFA has had a real impact on me. His leadership style has greatly impacted my ability to learn and pick up information fast. He makes it a mission to throw me in the deep end and figure it out. This has allowed me to get immense exposure to the industry and the work we do at Blackford. \ud835\udfee) \ud835\uddea\ud835\uddf5\ud835\uddee\ud835\ude01 \ud835\uddf5\ud835\uddee\ud835\ude00 \ud835\ude06\ud835\uddfc\ud835\ude02\ud835\uddff \ud835\uddf2\ud835\ude05\ud835\uddfd\ud835\uddf2\ud835\uddff\ud835\uddf6\ud835\uddf2\ud835\uddfb\ud835\uddf0\ud835\uddf2 \ud835\uddef\ud835\uddf2\ud835\uddf2\ud835\uddfb \ud835\ude04\ud835\uddf6\ud835\ude01\ud835\uddf5 \ud835\ude01\ud835\uddf5\ud835\uddf2 \ud835\uddd5\ud835\uddf9\ud835\uddee\ud835\uddf0\ud835\uddf8\ud835\uddf3\ud835\uddfc\ud835\uddff\ud835\uddf1 \ud835\ude01\ud835\uddff\ud835\uddee\ud835\uddf6\ud835\uddfb\ud835\uddf6\ud835\uddfb\ud835\uddf4\ud835\ude00 \ud835\ude00\ud835\uddfc \ud835\uddf3\ud835\uddee\ud835\uddff (\ud835\uddf9\ud835\uddf2\ud835\uddf4\ud835\uddee\ud835\uddf9 \ud835\ude04\ud835\uddf6\ud835\ude01\ud835\uddf5 Varnum LLP , \ud835\uddee\ud835\uddf0\ud835\uddf0\ud835\uddfc\ud835\ude02\ud835\uddfb\ud835\ude01\ud835\uddf6\ud835\uddfb\ud835\uddf4 \ud835\ude04\ud835\uddf6\ud835\ude01\ud835\uddf5 Grant Thornton (US) , \ud835\uddd9\ud835\uddf6\ud835\uddfb\ud835\uddee\ud835\uddfb\ud835\uddf0\ud835\uddf6\ud835\uddee\ud835\uddf9 \ud835\udde0\ud835\uddfc\ud835\uddf1\ud835\uddf2\ud835\uddf9\ud835\uddf6\ud835\uddfb\ud835\uddf4 \ud835\ude04\ud835\uddf6\ud835\ude01\ud835\uddf5 Joerg Picard , \ud835\uddf2\ud835\ude01\ud835\uddf0.) \ud835\uddee\ud835\uddfb\ud835\uddf1 \ud835\ude04\ud835\uddf5\ud835\uddee\ud835\ude01'\ud835\ude00 \ud835\uddef\ud835\uddf2\ud835\uddf2\ud835\uddfb \ud835\ude01\ud835\uddf5\ud835\uddf2 \ud835\uddef\ud835\uddf6\ud835\uddf4\ud835\uddf4\ud835\uddf2\ud835\ude00\ud835\ude01 \ud835\ude01\ud835\uddee\ud835\uddf8\ud835\uddf2\ud835\uddee\ud835\ude04\ud835\uddee\ud835\ude06 \ud835\ude00\ud835\uddfc \ud835\uddf3\ud835\uddee\ud835\uddff? Having training sessions in legal compliance, financial modeling, and due diligence has been extremely helpful in getting more efficient in my role and has taught me about the different perspectives in the deal process from experts in the industry. My biggest takeaway has been learning about the legal procedures of M&A and how negotiation can affect the payment structure of a transaction. \ud835\udfef) \ud835\uddea\ud835\uddf5\ud835\uddee\ud835\ude01 \ud835\uddf5\ud835\uddee\ud835\ude00 \ud835\uddf6\ud835\ude01 \ud835\uddef\ud835\uddf2\ud835\uddf2\ud835\uddfb \ud835\uddf9\ud835\uddf6\ud835\uddf8\ud835\uddf2 \ud835\ude04\ud835\uddfc\ud835\uddff\ud835\uddf8\ud835\uddf6\ud835\uddfb\ud835\uddf4 \ud835\ude04\ud835\uddf6\ud835\ude01\ud835\uddf5 \ud835\udde7\ud835\uddf2\ud835\ude05\ud835\uddee\ud835\ude00 \ud835\udddc\ud835\uddfb\ud835\uddf7\ud835\uddf2\ud835\uddf0\ud835\ude01\ud835\uddf6\ud835\uddfc\ud835\uddfb \ud835\udde0\ud835\uddfc\ud835\uddf9\ud835\uddf1\ud835\uddf6\ud835\uddfb\ud835\uddf4, \ud835\uddee\ud835\uddfb\ud835\uddf1 \ud835\ude04\ud835\uddf5\ud835\uddee\ud835\ude01 \ud835\uddf5\ud835\uddee\ud835\ude00 \ud835\ude00\ud835\ude01\ud835\uddfc\ud835\uddfc\ud835\uddf1 \ud835\uddfc\ud835\ude02\ud835\ude01 \ud835\ude01\ud835\uddfc \ud835\ude06\ud835\uddfc\ud835\ude02? My main responsibility at Blackford alongside working on deals is working on our plastic injection molding platform Texas Injection Molding. Having been acquired just last year, we see lots of add-on opportunities, so I get to present them to the TXIM team. TXIM's CEO Scott Osterling and founder Jeff Applegate are my favorite parts of working with TXIM. The vast knowledge base they pull from when I pitch companies to them inspires me to become an expert in my field like they have. Veer, we're thrilled to have you on the team this summer!",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQFhesurSb8DQw/feedshare-image-high-res/B56Z.F9dogGgAY-/0/1784658910363?e=2147483647&v=beta&t=fF9WpYSbRfhnT2Dl3Qulyk2Z_PvNbKK0Bo7nqC4PexU",
+        "id": "7485402019764121601"
+      }
+    ],
+    "linkedin_num_id": "1119467267",
+    "banner_image": "https://media.licdn.com/dms/image/v2/D5616AQHo3-adguB42g/profile-displaybackgroundimage-shrink_200_800/B56Z.QfNTaKMAQ-/0/1784835528148?e=2147483647&v=beta&t=PzhcArhu_D4OYRDANHJOg5UNDJLqqBK7TaVBq9LEeWI",
+    "honors_and_awards": null,
+    "similar_profiles": [],
+    "default_avatar": false,
+    "memorialized_account": false,
+    "bio_links": [
+      {
+        "title": "Portfolio",
+        "link": "https://anmolsingh.dev/"
+      }
+    ],
+    "first_name": "Anmol",
+    "last_name": "Singh",
+    "influencer": false,
+    "timestamp": "2026-08-12T18:55:39.400Z",
+    "input": {
+      "url": "https://www.linkedin.com/in/anmols-"
+    }
+  },
+  "local_photo": "data\\linkedin_photos\\anmols-__usr-s7Wn3tZ2Jvxk1Ym.jpg"
+}

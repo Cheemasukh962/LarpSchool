@@ -1,0 +1,199 @@
+{
+  "luma_user_id": "usr-QUhM1uDdOigd5vj",
+  "csv_name": "Idan Kestenbom",
+  "csv_linkedin": "https://www.linkedin.com/in/idan-kestenbom-1319a0283",
+  "enriched_at": "2026-08-12T19:26:51.920301+00:00",
+  "batch_id": "sd_msqhb4pfm4l4la4zs",
+  "profile": {
+    "id": "idan-kestenbom-1319a0283",
+    "name": "Idan Kestenbom",
+    "city": "Sunnyvale, California, United States",
+    "country_code": "US",
+    "position": null,
+    "about": "Aspiring AI Research Scientist focused on robotics, reinforcement learning, and\u2026",
+    "current_company": {
+      "link": "https://www.linkedin.com/company/zealdotcom?trk=public_profile_topcard-current-company",
+      "name": "Zeal",
+      "company_id": "zealdotcom",
+      "location": null
+    },
+    "experience": null,
+    "url": "https://pe.linkedin.com/in/Idan-kestenbom-1319a0283",
+    "educations_details": "Santa Clara High School",
+    "education": [
+      {
+        "title": "Santa Clara High School",
+        "url": "https://www.linkedin.com/school/santa-clara-high-school/",
+        "start_year": "2024-08",
+        "end_year": "2028-06",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      }
+    ],
+    "avatar": "https://media.licdn.com/dms/image/v2/D5603AQEKZChiAStwkA/profile-displayphoto-scale_200_200/B56Z.wIGkvG0Ag-/0/1785366344586?e=2147483647&v=beta&t=x2XhQ5lhCNwwclBtBlxLBf3Fp9z34OMfIv0Mg66IHoA",
+    "languages": [
+      {
+        "subtitle": "Native or bilingual proficiency",
+        "title": "English"
+      },
+      {
+        "subtitle": "Limited working proficiency",
+        "title": "Russian"
+      },
+      {
+        "subtitle": "Native or bilingual proficiency",
+        "title": "Hebrew"
+      }
+    ],
+    "followers": 863,
+    "connections": 500,
+    "current_company_company_id": "zealdotcom",
+    "current_company_name": "Zeal",
+    "projects": [
+      {
+        "title": "VASARA: Autonomous Robotic Venous Anastomosis for Rapid Microvascular Trauma Vessel Repair Using Reinforcement Learning and Sim-to-Real Transfer\u200b\u200b",
+        "start_date": "Jun 2025",
+        "description": "Developed VASARA (Autonomous Robotic Venous Anastomosis for Rapid Microvascular Trauma Vessel Repair), an autonomous microsurgical robotic system leveraging reinforcement learning and sim-to-real transfer for precise vascular suturing. Built a custom CoreXY robotic platform with closed-loop vision and trained policies in simulation before deploying to physical hardware for sub-millimeter autonomous vessel repair tasks. Recognized with top placements at major science and engineering competitions."
+      },
+      null,
+      {
+        "title": "Upregulated phosphorylation in Alzheimer\u2019s disease links excitotoxicity of NMDA receptors and impaired long-term potentiation",
+        "start_date": "Jan 2025",
+        "description": "Co-authored a research abstract linking Alzheimer's disease to inhibited long-term potentiation using differential gene expression data."
+      },
+      null,
+      null,
+      null,
+      null,
+      {
+        "title": "Utilizing Deep Learning to Forecast Humanitarian Crises Through Media Coverage Patterns",
+        "start_date": "Aug 2024",
+        "description": "This project develops a deep learning model that analyzes global news coverage to identify media-driven patterns associated with emerging crises. A custom large language model was fine-tuned using LoRA (Low-Rank Adaptation), allowing the system to process historical news data efficiently and recognize trends associated with humanitarian emergencies."
+      },
+      {
+        "title": "PhysioRise: An Application Utilizing Machine Learning to Guide Users Through Effective Warm-Up Sessions to Avoid Sports-Related Injuries",
+        "start_date": "Sep 2023",
+        "description": "Our application aims to utilize Artificial Intelligence to generate a personalized warm-up routine tailored to individual fitness levels, goals, and limitations, and Apple\u2019s Machine Learning action classification for users to receive real-time feedback during warm-up exercises, ensuring correct form and technique."
+      }
+    ],
+    "location": "Sunnyvale",
+    "input_url": "https://www.linkedin.com/in/idan-kestenbom-1319a0283",
+    "linkedin_id": "idan-kestenbom-1319a0283",
+    "activity": [
+      {
+        "interaction": "Liked by Idan Kestenbom",
+        "link": "https://www.linkedin.com/posts/y-combinator_every-game-imaginable-is-about-to-exist-activity-7490805540265144321-La-R",
+        "title": "Every game imaginable is about to exist, and you'll find it or make it on Instaplay (YC S26). Instaplay is home to over 20,000 creators and 100,000\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5605AQFD6HWbpsk9iQ/videocover-high/B56Z_Sv4KeHIBM-/0/1785947200357?e=2147483647&v=beta&t=JgG26ZTTnnN4tbpFLpQFrqTRqD-LlxeZeX7XtpSmDBI",
+        "id": "7490805540265144321"
+      },
+      {
+        "interaction": "Liked by Idan Kestenbom",
+        "link": "https://www.linkedin.com/posts/palantir-technologies_palantir-is-proud-to-support-ukraine-a-segment-activity-7486021313745096704-YEex",
+        "title": "Palantir is proud to support Ukraine. A segment from Ukraine\u2019s wartime broadcast on our role in helping defend Ukrainian sovereignty: \u201cA genuine\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4E05AQEoMPGb5wfwmg/videocover-high/B4EZ.Owoj7HwBM-/0/1784806544086?e=2147483647&v=beta&t=Z_9TzMXU2ywGdNUSF5At2-Mu6KObKpfzDmUSwM9-vFo",
+        "id": "7486021313745096704"
+      },
+      {
+        "interaction": "Liked by Idan Kestenbom",
+        "link": "https://www.linkedin.com/posts/y-combinator_zeal-yc-s19-has-raised-15-million-in-series-activity-7250550727306027008-6dAP",
+        "title": "Zeal (YC S19) has raised $15 million in Series B funding to bring powerful automation and native experiences to payroll for modern work. Workers\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5605AQGaseWXWPMU3Q/videocover-high/videocover-high/0/1728660166899?e=2147483647&v=beta&t=zfU2ZC7ReTAqA5kjz1PT7mMsXd9KtORPCGcFwe0sSRQ",
+        "id": "15"
+      },
+      {
+        "interaction": "Liked by Idan Kestenbom",
+        "link": "https://www.linkedin.com/posts/kirti-shenoy-9501a8145_theres-no-best-workforce-model-there-activity-7488249699112480768-wWgs",
+        "title": "There\u2019s no \u201cbest\u201d workforce model. There are only tradeoffs. Some companies want complete control over employment. Others, like international\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQF4QjYmr-u0xg/feedshare-shrink_800/B56Z.ubapbJsAc-/0/1785337852496?e=2147483647&v=beta&t=cNEgbAyHwVBCH6odQ6M2tgwlxFc11-KTUAjNwhh2qj4",
+        "id": "7488249699112480768"
+      },
+      {
+        "interaction": "Liked by Idan Kestenbom",
+        "link": "https://www.linkedin.com/posts/alexwang67_just-finished-y-combinators-startup-school-activity-7487885452709040128-BBmQ",
+        "title": "Just finished Y Combinator's Startup School Event. A little bit late but here's the ticket :)",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQEeX4HqJ58gVA/feedshare-shrink_800/B4EZ.pQJHLIAAg-/0/1785251009573?e=2147483647&v=beta&t=5z-r8DHIZ4rpwLmDTZhJVOFyTASCMW-6Xob7xXcjF5I",
+        "id": "7487885452709040128"
+      },
+      {
+        "interaction": "Liked by Idan Kestenbom",
+        "link": "https://www.linkedin.com/posts/y-combinator_nvidia-started-with-the-wrong-technology-activity-7487247135730462720-JWc3",
+        "title": "NVIDIA started with the wrong technology, learned the right one from three textbooks bought at Fry\u2019s, and went on to invent most of the major\u2026",
+        "img": "https://dms.licdn.com/playlist/vid/v2/D5605AQGrnj6sabvrgA/thumbnail-shrink_720_1280/B56Z.gLYlqKMAk-/0/1785098784466?e=2147483647&v=beta&t=rEvbtwgOw7DzppnqyUWUQGacr6LVq6U2HAMFB8BG_1k",
+        "id": "7487247135730462720"
+      },
+      {
+        "interaction": "Liked by Idan Kestenbom",
+        "link": "https://www.linkedin.com/posts/hema-dassani_youre-going-to-fall-in-love-on-july-23rd-activity-7483253075814780929-FAwj",
+        "title": "you're going to fall in love on july 23rd. we're hosting the first Y Combinator dating show with Ditto at their office in SF. here's how it works:\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQGNTxqLnavr3Q/image_627_1200/B56Z9nb2j4GcAQ-/0/1784146782682?e=2147483647&v=beta&t=4iz4_RViOy5biIxgduUWmoxhqI7FC5XWlGbHM5gDcj8",
+        "id": "7483253075814780929"
+      },
+      {
+        "interaction": "Liked by Idan Kestenbom",
+        "link": "https://www.linkedin.com/posts/ayush-garg-3554962b1_heading-to-sf-this-month-for-y-combinator-activity-7479995301127270400-1m6N",
+        "title": "Heading to SF this month for Y Combinator Startup School 2026. If you're attending or will be in the area from July 25-26, I'd love to connect!",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQEWzocEGcFqVA/feedshare-shrink_800/B56Z85IFwYGcAg-/0/1783369850304?e=2147483647&v=beta&t=j_ymVw8IzNGs8U_aUKYwq77LNTiOuO_TrlpRkccq-94",
+        "id": "7479995301127270400"
+      }
+    ],
+    "linkedin_num_id": "1158022837",
+    "banner_image": "https://media.licdn.com/dms/image/v2/D5616AQE_4LpVq7uM1g/profile-displaybackgroundimage-shrink_200_800/B56Z5vd18GHwAQ-/0/1779986555911?e=2147483647&v=beta&t=MYoIzKf3LvuEaSAvD2fGSOms-YGnzKkMqd-YuZyB72c",
+    "honors_and_awards": [
+      {
+        "title": "Dr. Michael V. McCusker Award",
+        "publication": "Dr. Michael V. McCusker via Santa Clara Valley Science & Engineering Fair Association",
+        "date": "2026-03-01T00:00:00.000Z",
+        "description": "VASARA: Autonomous Vascular Anastomosis Utilizing a Reinforcement Learning Robotic Suturing Apparatus (Biological Science and Engineering)"
+      },
+      {
+        "title": "Honorable Mention, Biological Science and Engineering Category",
+        "publication": "Santa Clara Valley Science & Engineering Fair Association",
+        "date": "2026-03-01T00:00:00.000Z",
+        "description": "VASARA: Autonomous Vascular Anastomosis Utilizing a Reinforcement Learning Robotic Suturing Apparatus (Biological Science and Engineering)"
+      },
+      {
+        "title": "Exceptional Project For The Betterment of Humanity",
+        "publication": "SVP Market Research",
+        "date": "2025-04-01T00:00:00.000Z",
+        "description": "Project: Utilizing Deep Learning to Forecast Humanitarian Crises Through Media Coverage Patterns"
+      },
+      {
+        "title": "Honorable Mention, Physical Science and Engineering Category",
+        "publication": "Synopsys Silicon Valley Science and Technology Championship",
+        "date": "2025-04-01T00:00:00.000Z",
+        "description": "Project: Utilizing Deep Learning to Forecast Humanitarian Crises Through Media Coverage Patterns (Physical Science and Engineering)"
+      },
+      {
+        "title": "California Science & Engineering Fair (CSEF) - 3rd Place Mathematical Sciences",
+        "publication": "California Science & Engineering Fair",
+        "date": "2024-04-01T00:00:00.000Z",
+        "description": "PhysioRise: An Application Utilizing Machine Learning to Guide Users Through Effective Warm-Up Sessions to Avoid Sports-Related Injuries - 3rd Award Mathematical Sciences - Nominated to compete in the envelope for the Thermo Fisher Scientific JIC"
+      },
+      {
+        "title": "Synopsys Science & Technology Championship - 1st Place Physical Science and Engineering",
+        "publication": "Synopsys Championship",
+        "date": "2024-03-01T00:00:00.000Z",
+        "description": "PhysioRise: An Application Utilizing Machine Learning to Guide Users Through Effective Warm-Up Sessions to Avoid Sports-Related Injuries - 1st Award for the Physical Science and Engineering Category - Castro Family Award for Best Physical Science Projects - Nominated to compete in the envelope for the Thermo Fisher Scientific JIC - Qualified for the California State Science Fair"
+      }
+    ],
+    "similar_profiles": [],
+    "default_avatar": false,
+    "memorialized_account": false,
+    "bio_links": [
+      {
+        "title": "Personal Website",
+        "link": "https://kestenbom.com/"
+      }
+    ],
+    "first_name": "Idan",
+    "last_name": "Kestenbom",
+    "influencer": false,
+    "timestamp": "2026-08-12T19:25:19.430Z",
+    "input": {
+      "url": "https://www.linkedin.com/in/idan-kestenbom-1319a0283"
+    }
+  },
+  "local_photo": "data\\linkedin_photos\\idan-kestenbom-1319a0283__usr-QUhM1uDdOigd5vj.jpg"
+}

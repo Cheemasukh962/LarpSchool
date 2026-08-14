@@ -1,0 +1,130 @@
+{
+  "luma_user_id": "usr-zIAXVB9YQSgfVk0",
+  "csv_name": "Arnav Lohiya",
+  "csv_linkedin": "https://www.linkedin.com/in/arnav-lohiya",
+  "enriched_at": "2026-08-12T18:58:28.957775+00:00",
+  "batch_id": "sd_msqgad6c2eeefcaqas",
+  "profile": {
+    "id": "arnav-lohiya",
+    "name": "Arnav Lohiya",
+    "city": "Tempe, Arizona, United States",
+    "country_code": "US",
+    "position": null,
+    "about": null,
+    "current_company": {
+      "link": "https://www.linkedin.com/company/elitemaintenancemgroup?trk=public_profile_topcard-current-company",
+      "name": "Elite Maintenance Group",
+      "company_id": "elitemaintenancemgroup",
+      "location": null
+    },
+    "experience": null,
+    "url": "https://www.linkedin.com/in/Arnav-lohiya",
+    "educations_details": "Barrett, The Honors College",
+    "education": [
+      {
+        "title": "Barrett, The Honors College",
+        "url": "https://www.linkedin.com/school/barrett-the-honors-college-asu/",
+        "start_year": "2022-08",
+        "end_year": "2026-05",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      }
+    ],
+    "avatar": "https://media.licdn.com/dms/image/v2/D5603AQHnIwKvBoRCng/profile-displayphoto-scale_200_200/B56Z6P6OF4KMAc-/0/1780530866824?e=2147483647&v=beta&t=R6Z9aivz2jqj3uv5_JSgFsPFT2I3puwE_Be2Czsc5ds",
+    "followers": 496,
+    "connections": 492,
+    "current_company_company_id": "elitemaintenancemgroup",
+    "current_company_name": "Elite Maintenance Group",
+    "location": "Tempe",
+    "input_url": "https://www.linkedin.com/in/arnav-lohiya",
+    "linkedin_id": "arnav-lohiya",
+    "activity": [
+      {
+        "interaction": null,
+        "link": "https://www.linkedin.com/posts/aman-adhav_kirosparkchallenge-agenticai-accessibility-activity-7482153278009643008-PS5p",
+        "title": "A few days ago, Arnav Lohiya , Tejas Shah , and I were on the Amazon Kiro YouTube channel walking through AllVoice, the voice-controlled Chrome extension we built in 24 hours for blind and low-vision users at the ASU Kiro Spark Challenge. Brian asked what advice we'd give students heading into an industry moving this fast. My take: AI shouldn't replace the learning itself. Use it as a tool, learn from it, but don't get dependent on it. Learn the fundamentals deeply first, because that's what lets you actually direct AI well instead of just accepting whatever it gives you. Then use it to build things you couldn't have built otherwise. The part I keep coming back to is the ethics gate. Pure synchronous function, four rules, and if it blocks a command, the executor is just gone. There's no code path to it. We built it that way because the thing deciding whether a blind user's password field gets touched can't be something that fails quietly on a weird edge case. Someone in the live chat called out, \"Adding ethical rules as steering files is a smart idea.\" That genuinely made my day. What made the three-person team actually work: we wrote the shared data contract before anyone touched code. I had the pipeline, Tejas had the ethics gate, and Arnav had the UI. When we brought it together, it fit. That's the spec. Thanks to Brian Beach , Helen Hasbun , and the Kiro and Amazon Web Services (AWS) team for having us. And Arnav and Tejas, good team. Full hour on the Kiro channel if you want to watch: https://lnkd.in/gtziJSMt #KiroSparkChallenge #AgenticAI #Accessibility #AWS #BuildInPublic ...more ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQEEOGA09TxWDQ/feedshare-shrink_800/B56Z9Xywi.G4Ag-/0/1783884352123?e=2147483647&v=beta&t=VIIa2dnBG48C1-Ml04Kf2WPqB9WTKQc4pe85pP-qQOo",
+        "id": "7482153278009643008"
+      },
+      {
+        "interaction": null,
+        "link": "https://www.linkedin.com/posts/asuenterprisetech_24-hour-hackathon-results-in-ai-enhanced-activity-7458604995395940352-ynly",
+        "title": "Access to new AI tools. Mentorship from industry leaders. $10,000 in prize money on the line. Over 140 students at Arizona State University took advantage of these unique offers at the Kiro Spark Challenge. Learn more: https://lnkd.in/etR794_e And the results are in, with the top prize going to Aman Adhav , Arnav Lohiya and Tejas Shah for their app AllVoice, which aims to boost the accessibility of AI for the visually impaired. Read on to learn about the Kiro Spark Challenge: https://lnkd.in/etR794_e Big thanks to our industry partners at Kiro , Amazon Web Services (AWS) and Toptal for their support and sponsorship! Lev Gonick , Olivia Herneddo, Bonnie Wilde , Kyle Bowen , John Rome , Lorena Costanza, Colleen Schwab , Kimberly C. , Lester Godsey ...more ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D4E05AQFek3gKlJDKMw/feedshare-thumbnail_720_1280/B4EZ4JJlXwJMA0-/0/1778269968138?e=2147483647&v=beta&t=yGC9J2Or2rgB54l6NdU5MUwftKxiG_T6ItuFzKhuq7w",
+        "id": "7458604995395940352"
+      },
+      {
+        "interaction": null,
+        "link": "https://www.linkedin.com/posts/aman-adhav_kirosparkchallenge-asu-accessibility-activity-7455055524049375232-lvNy",
+        "title": "We won the Grand Prize and Collab at the Kiro Spark Challenge, also earning a cash prize of $6,000. Out of 50 teams at Arizona State University, our team (Aman, Tejas, and Arnav) built AllVoice, a voice-controlled Chrome Extension copilot for blind and low-vision users. We chose the Ethics frame and built a six-stage pipeline with a mandatory Ethics Logic Gate, a pure function that blocks privacy violations before they reach the page. Passwords, payment fields, and PII, if it's unsafe, the action never executes. We also got nominated for the Build signal, which meant a lot because we went deep on Kiro's toolkit: a three-layer spec (requirements, design, tasks), five steering files, eight agent hooks automating everything from type checks to ethics gate integrity reviews, and MCP for live web access. 103 tests. All in one day. What made the difference for Story: we documented the entire journey on LinkedIn as we built, not as an afterthought, but as part of the workflow. We used Kiro hooks to generate posts at key milestones, showing the community what spec-driven, ethical AI development looks like in practice. The judges valued that transparency. This was my first hackathon ever. Walking in, I didn't know what to expect. Walking out with Best in Story, a Build nomination, and Grand Prize runners-up, that's something I'll carry for a long time. This experience reinforced something I deeply believe: accessibility, AI, and ethics aren't trade-offs. They're layers of the same system. AllVoice proves that software can be powerful and principled at the same time. Huge thanks to ASU Enterprise Technology, Kiro, Toptal, and all the mentors and judges- Olivia Herneddo, MFA , Brian Eisenlauer , Paul Cioni, Jackee Kenny, Kofi Obo Wood , Danny Kim, and the entire organizing team. And to my teammates, Tejas Shah and Arnav Lohiya , I couldn't have done it without you. YouTube Link: https://lnkd.in/g-6aXUQj The code is open source: https://lnkd.in/gEJacUHK #KiroSparkChallenge #ASU #Accessibility #EthicsInAI #ChromeExtension #KiroIDE #Hackathon ...more ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQHO4a4zTuOYWg/feedshare-shrink_800/B56Z3Wte2KH0Ag-/0/1777423740552?e=2147483647&v=beta&t=IduBXuZ_-UNQNzg2_Ly4WIkJRjZbcozt5z9brh2dO2g",
+        "id": "7455055524049375232"
+      },
+      {
+        "interaction": "Arnav Lohiya commented on a post 2w",
+        "link": "https://www.linkedin.com/posts/matsherman_major-milestone-just-connected-a-founder-activity-7485413998394245121-hmgO",
+        "title": "Good work Mat",
+        "img": null,
+        "id": "7485413998394245121"
+      },
+      {
+        "interaction": "Arnav Lohiya liked this",
+        "link": "https://www.linkedin.com/posts/dhanush-vardhan-30bb881b0_this-is-how-the-top-1-startups-hire-builders-activity-7492988283891630081-ryCF",
+        "title": "This is how the top 1% startups hire builders. A founder booked a call with us today. We showed them the quality of builders inside Devlabs and the amount of data we have behind every profile. What surprised them most wasn\u2019t just the talent. It was the proof. What each builder has built. What they\u2019ve shipped. Their hackathon projects, GitHub activity, portfolios, and traces of how they work with tools like Codex and Claude Code. That\u2019s why we love community led hiring and that's the advantage of spending two years hosting hackathons, hacker houses, and builder programs. We don\u2019t recommend builders because their resumes look impressive. We recommend them because we\u2019ve watched them build. If you\u2019re hiring, tell us who you need and see the builders DevLabs finds for you. Try it free at devlabs.club .",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQFpo5q91gbY3A/feedshare-shrink_800/B56Z_ulWN8JYAc-/0/1786414195959?e=2147483647&v=beta&t=Ve5XFuEEeCCAJ_iRNIct9Q09ejYAKmrQLKg0N5sCyH8",
+        "id": "1"
+      },
+      {
+        "interaction": "Arnav Lohiya liked this",
+        "link": "https://www.linkedin.com/posts/viraj-gajria_i-am-excited-to-share-that-i-have-begun-a-activity-7492785369344573440-Zd3o",
+        "title": "I am excited to share that I have begun a new chapter as an Equipment Engineer in the Etch Department at TSMC Arizona (FAB21)! Being part of TSMC during such a monumental milestone of building and scaling advanced semiconductor manufacturing in the United States is incredible. I\u2019m thrilled to work alongside incredible engineers and help maintain the precision required to shape the future of technology. Big thanks to my family, friends, and the TSMC team for all the support along the way. Excited for what is ahead in Phoenix! \ud83c\udf35\u2600\ufe0f",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQH8OFvFbKDmpw/feedshare-shrink_800/B56Z_u4lnmGQAc-/0/1786419240591?e=2147483647&v=beta&t=jtHAypfmYMxkqokxQ-OWlJ7RhydK1uUHuYAh9uyqT9M",
+        "id": "7492785369344573440"
+      },
+      {
+        "interaction": "Arnav Lohiya liked this",
+        "link": "https://www.linkedin.com/posts/shravan-karande_ai-aiagents-mcp-activity-7491662782640123905-lPLm",
+        "title": "This event pushed me to think about AI agents beyond just prompting. I attended Camp AI Seattle, hosted by Auth0 , and spent the evening seeing demos, hearing from people building in the space, and talking with other engineers and founders about where agentic AI is actually heading. A few things that stood out to me: * Human-in-the-loop still matters. One demo showed an agent that could book a flight and add it directly to a calendar, while still keeping the user involved at important decision points. Okta * Authentication becomes much more important when agents can take actions. I saw how agents can handle internal company workflows like requesting access, resetting passwords, or connecting employees to other tools, but only if permissions and identity are handled correctly. Ravenna * Observability is becoming essential for MCP and agent workflows. Being able to see whether an API or MCP call actually worked in real time becomes incredibly valuable once agents start chaining tools together. APIContext * Agents are moving beyond software. I also learned about using agents for testing physical devices and started thinking more about the safety implications when AI can affect real-world systems. FlintLab Inc. One question I kept coming back to throughout the night was: As AI gets better at generating code, where does prompt engineering end and software engineering begin? Beyond the technical discussions, I also got to meet a lot of people who are genuinely excited about building in this space and came away with some great conversations and new connections. Thanks to Auth0 and everyone involved in Camp AI Seattle for putting together such a great evening. Looking forward to building more in this space. #AI #AIAgents #MCP #SoftwareEngineering #SeattleTech #ArtificialIntelligence",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQE_T2QMNekNMw/feedshare-image-high-res/B56Z_e7jzPGUAU-/0/1786151585870?e=2147483647&v=beta&t=yD32-N7o6DhUQSonVCgKmJp8sHQeJ7xSr09pwwWW3Qk",
+        "id": "7491662782640123905"
+      },
+      {
+        "interaction": "Arnav Lohiya liked this",
+        "link": "https://www.linkedin.com/posts/swayammehta10_one-week-in-san-francisco-first-hackathon-activity-7489242272396439552-2EV8",
+        "title": "\ud83c\udf99\ufe0f One week in San Francisco. First hackathon here. 3rd place + a special prize. I moved to SF 7 days ago and was still finding my footing when I signed up for the a1mobile Voice AI Hackathon at frontiertower -- solo, after my friend's registration didn't get approved. No team, no idea what I was going to build. Right before the event started, a guy walked up with zero introduction and just asked, \"Are you looking for a team?\" That was Ali Amjad, turned out he already had a team going with Aaquila M. and Piotr Kram, and I joined in. Calling ourselves WinTeam turned out to be fitting. We picked a problem a lot of cafe and restaurant managers deal with constantly: when an employee can't make a shift, the manager has to drop what they're doing, call people one by one, explain the shift details, wait for a yes, text a confirmation, and manually update the schedule. It eats up hours every week. So we built ShiftRescue -- a voice agent that handles the entire process. It calls through the employee roster, talks to them in English, Spanish, or Hindi (and can switch languages mid-conversation), gets a yes or no, sends an SMS confirmation once someone agrees, and updates the manager's dashboard automatically. We used a1mobile for the phone number and Vapi to handle STT, TTS and voice orchestration. We also ran VoiceOS (YC P25) on top of the product, which won us a separate prize. It was great talking to Kasim Inan , Darryl Foong , Maksim Liashch along with the rest of the a1mobile and VoiceOS folks who stuck around to give feedback and talk through ideas. Also got to demo ShiftRescue for Utkarsh Bajpai along the way, a definite highlight. Congratulations to the other winners and all fellow cracked builders who were there! If you're a founder (especially if you're hiring), a builder or a creator in SF, I'd love to meet you!",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQETTn9o39ZcVw/feedshare-shrink_800/B56Z.8iKHYJgAg-/0/1785574499008?e=2147483647&v=beta&t=uHesXlXAIaV9YV4U2f5Xs8Q9H5TcL3WENfeWDiRbaww",
+        "id": "7489242272396439552"
+      },
+      {
+        "interaction": "Arnav Lohiya liked this",
+        "link": "https://www.linkedin.com/posts/sanjavan-ghodasara-854138235_weeklypresentations-psychology-ai-activity-7487524956197703680-2z08",
+        "title": "I was told not to picture a pink elephant in sunglasses. I pictured it instantly. Then I \"remembered\" a word that was never on the screen. Then I completely blew a guess about the height of Everest. By the end of the hour I'd failed multiple psychology experiments in a row - and understood how AI actually \"thinks\" better than any textbook ever managed. (New here? Every week a group of us picks something from our field - AI, finance, cloud, psychology - and breaks it down for everyone else, then argues about it. This week was Kevin Doshi 's turn.) And instead of slides full of theory, he just ran the experiments on us, live, and watched the whole room fall for every single one. What he was really showing: \u2192 \"Peanut butter and ___\" - your brain autocompletes before you choose to. So does an LLM. \u2192 Flash the words Dream, Bed, Night, Pillow\u2026 and half of us were sure we'd seen \"Sleep.\" It was never there. Your brain filled it in - the human version of an AI hallucination. \u2192 Two answers, same meaning: we trust whichever one sounds more confident. Even when it's wrong. His closing line stuck with me: You didn't see the world. You saw what your brain expected. So next time an AI sounds certain, ask what your own head is doing - showing you reality, or just predicting what comes next? One of the most memorable sessions we've run. Kevin Doshi didn't explain cognitive bias to us - he made us feel it in real time, then held up the mirror to AI. Hard to forget a lesson you personally fell for. Swipe through: https://lnkd.in/ee8DE9CD More to come \ud83d\udc40 #WeeklyPresentations #Psychology #AI #CognitiveScience #LearningInPublic",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQHjHJ2cQBzGkg/feedshare-shrink_800/B4EZ.hXHivHoAc-/0/1785118620858?e=2147483647&v=beta&t=dS_A4DhS-mE4pWG6TBWOz7ZstClF8eFhZnPmK5T5iN8",
+        "id": "7487524956197703680"
+      },
+      {
+        "interaction": "Arnav Lohiya liked this",
+        "link": "https://www.linkedin.com/posts/matsherman_major-milestone-just-connected-a-founder-activity-7485413998394245121-hmgO",
+        "title": "Major milestone - Just connected a founder in the MatCap portfolio to an angel investor in Arizona who invested $100,000! That's a first, and certainly not a last. Would love to see more angels like this surfacing. I know we have the $$$. But do we have the guts?",
+        "img": null,
+        "id": "7485413998394245121"
+      }
+    ],
+    "linkedin_num_id": "1192751046",
+    "banner_image": "https://media.licdn.com/dms/image/v2/D5616AQFBfZNZyaMquA/profile-displaybackgroundimage-shrink_200_800/B56ZnlAxDnJYAU-/0/1760483809320?e=2147483647&v=beta&t=gKTMOps04AIACfawqXeU7lXX1spuYrriFaY4z1nzfXk",
+    "honors_and_awards": null,
+    "similar_profiles": [],
+    "default_avatar": false,
+    "memorialized_account": false,
+    "bio_links": [],
+    "first_name": "Arnav",
+    "last_name": "Lohiya",
+    "influencer": false,
+    "timestamp": "2026-08-12T18:56:40.136Z",
+    "input": {
+      "url": "https://www.linkedin.com/in/arnav-lohiya"
+    }
+  },
+  "local_photo": "data\\linkedin_photos\\arnav-lohiya__usr-zIAXVB9YQSgfVk0.jpg"
+}

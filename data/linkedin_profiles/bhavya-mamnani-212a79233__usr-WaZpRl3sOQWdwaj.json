@@ -1,0 +1,370 @@
+{
+  "luma_user_id": "usr-WaZpRl3sOQWdwaj",
+  "csv_name": "Bhavya Mamnani",
+  "csv_linkedin": "https://www.linkedin.com/in/bhavya-mamnani-212a79233",
+  "enriched_at": "2026-08-12T18:59:59.558213+00:00",
+  "batch_id": "sd_msqgcuh41lygyhc91a",
+  "profile": {
+    "id": "bhavya-mamnani-212a79233",
+    "name": "Bhavya Mamnani",
+    "city": "Berkeley, California, United States",
+    "country_code": "US",
+    "position": null,
+    "about": "\u2709\ufe0f: bhavya_mamnani@berkeley.edu",
+    "current_company": {
+      "link": "https://www.linkedin.com/company/lucidmotors?trk=public_profile_topcard-current-company",
+      "name": "Lucid Motors",
+      "company_id": "lucidmotors",
+      "location": null
+    },
+    "experience": null,
+    "url": "https://dk.linkedin.com/in/Bhavya-mamnani-212a79233",
+    "educations_details": "UC Berkeley College of Engineering",
+    "education": [
+      {
+        "title": "UC Berkeley College of Engineering",
+        "url": "https://www.linkedin.com/school/berkeleyengineering/",
+        "end_year": "2027-12",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      },
+      {
+        "end_year": "2027-12",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      }
+    ],
+    "avatar": "https://media.licdn.com/dms/image/v2/D5603AQEmBfMMROu6iQ/profile-displayphoto-scale_200_200/B56Z0ybpffHwAY-/0/1774667604021?e=2147483647&v=beta&t=gT9NuFOfrDDCr5G2lJavMLY7Ys_KqWn8PeyFRExFzCI",
+    "courses": [
+      {
+        "subtitle": "ENGIN 26",
+        "title": "3D Modeling for Design"
+      },
+      {
+        "subtitle": "EECS 16A",
+        "title": "Designing Information Devices and Systems I"
+      },
+      {
+        "subtitle": "ENGIN 7",
+        "title": "Introduction to Computer Programming for Scientist and Engineers"
+      },
+      {
+        "subtitle": "MEC ENG 127",
+        "title": "ME Composite Materials"
+      },
+      {
+        "subtitle": "ENGIN 29",
+        "title": "Manufacturing and Design Communication"
+      },
+      {
+        "subtitle": "MEC ENG C85",
+        "title": "Mechanics of Materials"
+      },
+      {
+        "subtitle": "PHYSICS 7A + 7B",
+        "title": "Physics for Scientists and Engineers"
+      }
+    ],
+    "languages": [
+      {
+        "subtitle": "Native or bilingual proficiency",
+        "title": "English"
+      },
+      {
+        "subtitle": "Native or bilingual proficiency",
+        "title": "Hindi"
+      },
+      {
+        "subtitle": "Elementary proficiency",
+        "title": "Spanish"
+      }
+    ],
+    "volunteer_experience": [
+      {
+        "duration": "Aug 2020 \u00b7 - \nMay 2024 \u00b7 \n3 years 10 months",
+        "duration_short": "- \nMay 2024",
+        "start_date": "Aug 2020",
+        "subtitle": "National Honor Society",
+        "title": "Co President"
+      },
+      {
+        "duration": "Aug 2022 \u00b7 - \nMay 2024 \u00b7 \n1 year 10 months",
+        "duration_short": "- \nMay 2024",
+        "start_date": "Aug 2022",
+        "subtitle": "Mira Loma High School",
+        "title": "Peer Math Tutor"
+      },
+      {
+        "duration": "Dec 2024 \u00b7 - \nMay 2025 \u00b7 \n6 months",
+        "duration_short": "- \nMay 2025",
+        "start_date": "Dec 2024",
+        "subtitle": "Society of Women Engineers",
+        "title": "Startup Spring Officer"
+      }
+    ],
+    "followers": 2424,
+    "connections": 500,
+    "current_company_company_id": "lucidmotors",
+    "current_company_name": "Lucid Motors",
+    "projects": [
+      {
+        "title": "CAD Saab JAS 39 Gripen Fighter Jet",
+        "start_date": "Jul 2025",
+        "description": "Created a detailed CAD model of the Saab JAS 39 Gripen in SolidWorks using complex 3D sketches, loft features, and advanced mating techniques. Applied realistic appearances, decals, and color schemes to replicate the visual profile of the Swedish fighter aircraft. Conducted a linear static FEA to simulate aerodynamic lift on the wings, evaluating structural response under upward force conditions."
+      },
+      {
+        "title": "MATLAB Asymmetrical Bending Analysis Tool",
+        "start_date": "Apr 2025",
+        "description": "\u25cf Developed a MATLAB suite to model stress distributions in femur cross-sections under asymmetrical bending with and without implants\u25cf Computed stress distributions, neutral axis orientation, and centroid locations using BMD-weighted Young\u2019s modulus maps derived from medical image data\u25cf Evaluated stress normalization metrics and visualized results via custom contour plots"
+      },
+      {
+        "title": "3D Printed Wind Turbine Design and Testing",
+        "start_date": "Mar 2025",
+        "description": "Designed and tested a 3D-printed wind turbine to optimize power output, structural stability, and weight efficiency. Developed a rotor blade and generator housing within strict design constraints, achieving a peak power output of 0.8041 W and a tower stiffness of 18.0 N/m (evaluated through linear regression analysis of applied load vs. displacement). Applied iterative CAD modeling and performance testing, ensuring compliance with project guidelines while refining key engineering metrics."
+      },
+      {
+        "title": "Night Phone Holder \u2013 Adjustable Rotating Stand",
+        "start_date": "Feb 2025",
+        "description": "\u25cf Developed a phone clamp system with upper and lower jaws, dual railings, and adjustable arms for a secure fit\u25cf Engineered ball and socket joints for rotational flexibility, incorporating knurled surfaces and sticky coatings to enhance grip\u25cf Manufactured components using resin for durability and flexibility, preventing breakage compared to PLA alternatives\u25cf Designed a base clamp with interference fit, ensuring stability on various surfaces\u25cf Drafted fully dimensioned detail and assembly drawings with Geometric Dimensioning & Tolerancing (GD&T), applying tolerances using ANSI B4.1 Standard Limits and Fits to ensure intended function\u25cf Conducted performance testing, refining the design for ease of use and accessibility"
+      },
+      {
+        "title": "LEAPFROG",
+        "start_date": "Sep 2024",
+        "description": "As a member of Space Technologies at California, I led the development of a custom testing rig for our hopper system. The compression phase of the hopper is constrained by the bending strength of carbon fiber rods, allowing a maximum vertical contraction of 40% before risking fracture.Each carbon fiber rod experiences approximately 10N of force in a short burst, generating a high impulse that enables substantial propulsion despite the hopper\u2019s small size. I also assisted in refining the compression-based jumping mechanism, utilizing carbon fiber rods to achieve a projected jump height of 14 meters on the moon."
+      }
+    ],
+    "organizations": [
+      {
+        "title": "The Sacramento Zeitgeist - Voices of Now",
+        "membership_type": "Editor-in-Chief, Writer, and Social Media Creator",
+        "start_date": "Jan 2023",
+        "end_date": "Jun 2024",
+        "description": "- Supervised team for a student-run magazine dedicated to empowering Sacramento youth through activism, art, and culture- Reviewed and edited articles- Designed and organized magazine on Canvahttps://thesacramentozeitg.wixsite.com/sac-zeitgeist",
+        "membership_number": null
+      }
+    ],
+    "location": "Berkeley",
+    "input_url": "https://www.linkedin.com/in/bhavya-mamnani-212a79233",
+    "linkedin_id": "bhavya-mamnani-212a79233",
+    "activity": [
+      {
+        "interaction": null,
+        "link": "https://www.linkedin.com/posts/gabrielsavinaud_two-all-nighters-no-wi-fi-and-the-first-activity-7389190520234811392-MXwu",
+        "title": "Two all-nighters. No Wi-Fi. And the first prototype of KitchenOS was born. Last weekend, I built the first prototype of KitchenOS during Cal Hacks , the world\u2019s largest hackathon. Our vision: reinvent food automation. With no internet connection for two days, we had to improvise and optimize locally \u2014 fine-tuning the ACT Vision-Language-Action (VLA) model to control a robotic arm with precision. We relied on LeRobot, a Hugging Face framework for embodied AI, and pushed it to its limits. Two all-nighters, three hours of sleep, and one dream taking shape. This is just the first step for KitchenOS , a project I\u2019ll be developing all year long. Massive thanks to my incredible teammates Princess Tayab , Bhavya Mamnani , Zahra Mokhtari and to the mentors Th\u00e9o Michel , David Dobas , George K. , and Alan Helmick who helped me navigate such a complex technical roadmap. If you\u2019re passionate about robotics, food automation, or embodied AI \u2014 or if you\u2019re an investor interested in the future of kitchens \u2014 feel free to reach out. This journey is just beginning, and it\u2019s going to be wild :) \ud83d\ude80\ud83c\udf54",
+        "img": "https://media.licdn.com/dms/image/v2/D4E05AQEaZuu4sk9r7g/videocover-high/B4EZouWGKUHMBU-/0/1761714137883?e=2147483647&v=beta&t=95ui8vs1WIONOACN0LgNZjwesC6_iXR4J-WWQuSvrmY",
+        "id": "7389190520234811392"
+      },
+      {
+        "interaction": "Bhavya Mamnani shared this",
+        "link": "https://www.linkedin.com/posts/bhavya-mamnani-212a79233_tesla-teslainterns2025-activity-7343847253519831041-1NEE",
+        "title": "I'm thrilled to announce that I'll be joining Tesla this Fall as a Safety Engineering Intern on the Vehicle Engineering Team in Fremont, California! Huge thanks to Aline Cutsforth and everyone involved in the interview process. I'm extremely excited to meet the team and begin working on safety-critical systems that push the boundaries of vehicle engineering and help shape the future of transportation! #tesla #teslainterns2025",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQHRoQb77DBzqA/feedshare-shrink_800/B56ZeqWKQ_HoAg-/0/1750909626188?e=2147483647&v=beta&t=czzSLILTva8_FY1_y5X_QN9y-f5t8D18bgBzkyNoa3I",
+        "id": "7343847253519831041"
+      },
+      {
+        "interaction": null,
+        "link": "https://www.linkedin.com/posts/sutardjacenter_ucberkeley-pepsico-sustainability-activity-7264670057996181504-QzbL",
+        "title": "The Peps Towards Sustainability Team-- Andrea Li , Bhavya Mamnani , Julia Mathew , and Jaansi Parsa --explain their project that was submitted to PepsiCo x SCET's Sustainability Track at Cal Hacks 11.0. The team won second place for their suitability metric calculator! UC Berkeley College of Engineering #ucberkeley #PepsiCo #sustainability #CalHacks #SCET #innovation #sustainabletech #Hackathon #greeninnovation #Pepsi",
+        "img": "https://media.licdn.com/dms/image/v2/D5610AQGmSGCUqBEssQ/ads-video-thumbnail_720_1280/ads-video-thumbnail_720_1280/0/1732032191988?e=2147483647&v=beta&t=Z9kcC8ltb4HhDWpbGIo9S9qxGBxYxTbRPgSy0d6PAes",
+        "id": "7264670057996181504"
+      },
+      {
+        "interaction": null,
+        "link": "https://www.linkedin.com/posts/andrea-yilu-li_second-place-at-my-first-ever-hackathon-activity-7254768032546201600-_EKo",
+        "title": "Second place at my first ever hackathon \ud83e\udd17 Last weekend, I had the amazing experience of taking part in the world's largest collegiate hackathon, Cal Hacks , in San Francisco! Jaansi Parsa , Julia Mathew , Bhavya Mamnani , and I created Peps Towards Sustainability, an interactive web app that visualizes how effectively PepsiCo 's numerous sustainability initiatives are contributing to its 2030 ESG goals. Using data from published reports and linear regression models, we classify whether the company is on track to meet key benchmarks in agriculture, packaging, water, transportation, etc., and summarize their overall performance using a unified metric. We ended up winning UC Berkeley Sutardja Center for Entrepreneurship and Technology (SCET) and PepsiCo 's PEP+ Sustainability Prize! I feel incredibly grateful to have gotten the opportunity to meet all the other passionate hackers at the competition and be inspired by their projects. Excited for more to come!!!",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQH_GQSx3ovmmA/feedshare-image-high-res/feedshare-image-high-res/0/1729671485048?e=2147483647&v=beta&t=DwLoG_RxcMy5qLAsYhLnjdogn_mhvZHGaQ4CxF2QipY",
+        "id": "7254768032546201600"
+      },
+      {
+        "interaction": null,
+        "link": "https://www.linkedin.com/posts/jaansi_a-year-ago-i-had-no-idea-what-a-hackathon-activity-7254768016796585985-Lc8d",
+        "title": "A year ago, I had no idea what a hackathon even entailed. So, when Andrea Li , Julia Mathew , Bhavya Mamnani , and I decided to form a team for Cal Hacks 11.0, our first ever hackathon, we never could have imagined that we would walk away with a second place award in the Pepsico Sustainability Prize! Inspired by Pepsico\u2019s vast global operations and commitment to sustainability, we sought to create a centralized system to assess their sustainability efforts. We developed an interactive web app that creates a unified metric to measure the company's sustainability performance across agriculture, packaging, water, and transportation. It quantifies Pepsi's environmental impact, then predicts future progress and calculates their deviation from optimal sustainability targets. More than anything, I'm really grateful for how much I learned at Cal Hacks, both from people and experiences. This was such an amazing opportunity, and I am so excited to keep on learning at future hackathons! Shoutout to the Cal Hacks team for organizing such an incredible event, Insomnia Cookies for the 2am fuel, and the kind managers at the nearby Hilton hotel who let us crash in their lobby when we couldn't find any available outlets at the Metreon <3",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQFQvJLLn72enQ/feedshare-image-high-res/feedshare-image-high-res/0/1729671477848?e=2147483647&v=beta&t=jkAnI2LQ5DB6UcY8VrtHq42KaP2w6Zdg0EpTiD6OO44",
+        "id": "7254768016796585985"
+      },
+      {
+        "interaction": "Bhavya Mamnani commented on a post 9mo",
+        "link": "https://www.linkedin.com/posts/gabrielsavinaud_two-all-nighters-no-wi-fi-and-the-first-activity-7389190520234811392-MXwu",
+        "title": "It was nice working with you!",
+        "img": null,
+        "id": "7389190520234811392"
+      },
+      {
+        "interaction": "Bhavya Mamnani liked this",
+        "link": "https://www.linkedin.com/posts/arikacherryjackson_happy-national-intern-day-to-all-the-incredible-activity-7488761439206416384-jMOv",
+        "title": "Happy National Intern Day to all the incredible interns at Lucid Motors ! \ud83c\udf93\ud83d\ude97 It has been an absolute pleasure witnessing you all advance your academic skill set while building meaningful and lasting connections with your fellow interns, mentors, and colleagues. Cheers to you and all the amazing work you\u2019ve done this summer, you should all be very proud \ud83c\udf89",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQESnJoMTYIxew/feedshare-shrink_800/B56Z.1s0oMHAAc-/0/1785459856492?e=2147483647&v=beta&t=EUidzoKW0GQuUec-xplfpN_CWXgvchkzr5hthRxVps8",
+        "id": "7488761439206416384"
+      },
+      {
+        "interaction": "Bhavya Mamnani liked this",
+        "link": "https://www.linkedin.com/posts/lucidmotors_nationalinternday-lifeatlucid-ev-activity-7488728869475164160-chvq",
+        "title": "Happy National Intern Day to our incredible intern community! \u200b Throughout the summer, our interns had the opportunity to connect with peers and leaders across the organization through experiences like tech talks, networking events with our Launch ERG, an executive town hall with Gale Halsey , and professional development sessions designed to support their growth both during and beyond their time at Lucid.\u200b Thank you for bringing your ideas, ambition, and energy to Lucid. We're proud to be part of your journey and excited to see where it takes you next.\u200b #NationalInternDay #LifeAtLucid #EV #Innovation",
+        "img": "https://media.licdn.com/dms/image/v2/D4E10AQHtyJYBfwotUg/image-shrink_800/B4EZ.1PN4uH8Ao-/0/1785452094170?e=2147483647&v=beta&t=J1zUTVu1z7O_JWbNAKdMjAP2pBlAAYu7hThrNhUvVkY",
+        "id": "7488728869475164160"
+      },
+      {
+        "interaction": "Bhavya Mamnani liked this",
+        "link": "https://www.linkedin.com/posts/sindhya-balasubramanian_a-true-full-circle-moment-today-i-got-to-activity-7484405852544688128-ijgo",
+        "title": "A true full-circle moment. Today, I got to see Andrew Ng speak\u2014the person who inspired me to pursue AI, earn my master's, and build my career in this field. Fittingly, it was also my first voice agents hackathon. I loved the experience, and it reinforced how quickly voice is reshaping what's possible with AI agents. Grateful for the inspiration, then and now.",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQEVoV-6EDUuFA/feedshare-shrink_800/B56Z93zdJOKcAg-/0/1784421407826?e=2147483647&v=beta&t=ufjXfCyEflIuc5oZSTn4EPnwKirSbIpvNix3jGowsnI",
+        "id": "7484405852544688128"
+      },
+      {
+        "interaction": "Bhavya Mamnani liked this",
+        "link": "https://www.linkedin.com/posts/ava-brielle-martinez_i-am-excited-to-share-that-it-has-been-a-activity-7480352700077981696-txBB",
+        "title": "I am excited to share that it has been a little over two weeks since I started working with the UC Davis Health Pathology Department as an intern for the Hugh Edmondson Program. During these past two weeks I have gained insight into the workflow of translational pathology research and worked with my mentors to define the research aims for my project. I am excited to be working with Dr. Imran Khan and Dr. Resmi Ravindran to identify biomarkers to detect hepatocellular carcinoma in dog liver tissue. I will be using techniques such as manual immunohistochemistry staining and ELISA testing to determine the efficacy of the chosen biomarker.",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQE-3N7iMLl7kg/feedshare-shrink_800/B56Z8.NJFkGgAc-/0/1783455060585?e=2147483647&v=beta&t=9QnsUYxK4qYug1eXJiNfEZ6lhbLOYEMHBFk6num4aTg",
+        "id": "7480352700077981696"
+      },
+      {
+        "interaction": "Bhavya Mamnani liked this",
+        "link": "https://www.linkedin.com/posts/kayla-lowenberg_im-excited-to-share-that-ive-graduated-activity-7469817883120857090-IhZO",
+        "title": "I'm excited to share that I've graduated from University of California, Berkeley with a Bachelor of Science in Mechanical Engineering. Looking back, my time at Berkeley challenged me in ways I never expected. Through coursework, engineering projects, student organizations, and leadership experiences, I developed not only my technical skills but also the ability to collaborate, adapt, and solve complex problems. I'm incredibly grateful to the professors, mentors, friends, teammates, and family members who supported me throughout this journey. As one chapter closes, another begins. This July, I'll be moving to New York City to join Helen of Troy as an Operations Associate Product Engineer. I'm especially excited to work with brands like OXO , Hydro Flask , and PUR , helping bring innovative consumer products from concept to reality. Special thank you to Anna Bae and Andrew DePerro for all their help throughout this process. Thank you to everyone who has been part of my journey so far. I'm looking forward to continuing to learn, grow, and contribute as I begin this next adventure. Go Bears!",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQG2RABe0qtPQg/feedshare-image-high-res/B56Z6ofx7aLAAU-/0/1780943364085?e=2147483647&v=beta&t=emb4q1FScPm8vtDWttu2uvtcOicWdyxMPhwT5wsbm3s",
+        "id": "7469817883120857090"
+      },
+      {
+        "interaction": "Bhavya Mamnani liked this",
+        "link": "https://www.linkedin.com/posts/arikacherryjackson_lucidmotors-compromisenothing-summer2026-activity-7462601110877511681-j3d7",
+        "title": "\u2600\ufe0f\ud83c\udf93 Welcome Summer Interns! Excited to celebrate and officially welcome the first cohort of interns kicking off their summer experience with Lucid Motors across California and Arizona! This incredible group of emerging talent is stepping into an innovative environment at the forefront of electric vehicle technology, sustainability, and cutting-edge engineering. From day one, they\u2019ll have the opportunity to contribute, learn, and help shape the future of mobility. #LucidMotors #CompromiseNothing #Summer2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQFTdPExplB5NQ/feedshare-shrink_800/B56Z5B8KP9HYAg-/0/1779222751642?e=2147483647&v=beta&t=4S90wVtvfzG3daiVpZDRsSOG6oKPQoHb08YdSJo_YZ8",
+        "id": "7462601110877511681"
+      },
+      {
+        "interaction": "Bhavya Mamnani liked this",
+        "link": "https://www.linkedin.com/posts/diyagirishkumar_from-zero-permissions-to-full-instance-control-activity-7453526974238547968-d8bR",
+        "title": "We\u2019ve already identified another attack path in production. More things coming soon.",
+        "img": null,
+        "id": "7453526974238547968"
+      },
+      {
+        "interaction": "Bhavya Mamnani liked this",
+        "link": "https://www.linkedin.com/posts/yashisura_from-zero-permissions-to-full-instance-control-activity-7453525531448332291-44wa",
+        "title": "Two of the biggest breaches of 2026 so far had nothing to do with weak passwords or unpatched CVEs. They operated entirely on credential trust. The Mercor breach (March) started several layers upstream. A threat actor group known as TeamPCP compromised the CI/CD pipeline of LiteLLM, an open-source Python library with 97 million monthly downloads, by first using a supply chain attack on Trivy, a widely used security scanner, to obtain credentials belonging to a LiteLLM maintainer. Those stolen maintainer credentials were used to publish malicious versions of the package. Organizations using lockfiles with poetry.lock or uv.lock were completely protected, but those relying on unpinned or mutable version references inherited the full attack chain. Once you have valid credentials, whether stolen from a CI pipeline or vended by an instance metadata endpoint, the blast radius is determined entirely by what IAM role backs them. The Vercel breach (April) is an even closer analog to the OAuth and credential trust issues that make IAM privilege escalation so dangerous. The attacker inherited a valid OAuth token from a compromised third-party app, and to every system downstream, that token looked completely legitimate. Specifically, a Vercel employee connected a third-party AI tool to their corporate Google account, and attackers used that OAuth connection to take over the employee's Google Workspace account and gain access to Vercel's internal systems, including credentials that were not encrypted. Once inside, the attacker accessed environment variables that weren't marked as sensitive, enumerated them, and used them to expand access further within the environment. A valid token is a valid token, regardless of if it came from a poisoned npm package, a hijacked OAuth app, or an instance metadata endpoint on a port. tldr; the surface changes, the trust model doesn't. I spun up a sandboxed AWS environment to simulate an analogous attack path. Check out my walkthrough!",
+        "img": null,
+        "id": "7453525531448332291"
+      },
+      {
+        "interaction": "Bhavya Mamnani liked this",
+        "link": "https://www.linkedin.com/posts/nidhi-gaonkar_finance-activity-7450285656662126593-W8f3",
+        "title": "Super excited to join Stripe as a Software Engineering Intern this summer in SF! Special thanks to Tricia Tran and my interviewers for a smooth and enjoyable process!! #\ud83d\udcb8 #finance",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQHLLeT9lulo6g/feedshare-shrink_800/B56Z2S7UhlIsAg-/0/1776286518709?e=2147483647&v=beta&t=_rn1G7FyzEApC2g5FCJwczmAnRSE2Ee6BavBaXmVfeE",
+        "id": "7450285656662126593"
+      }
+    ],
+    "linkedin_num_id": "979066094",
+    "banner_image": "https://media.licdn.com/dms/image/v2/D5616AQHC1ZHXRF0IWA/profile-displaybackgroundimage-shrink_200_800/B56Z0yc9naHEAU-/0/1774667947250?e=2147483647&v=beta&t=AtyFrLpQ6qUcAtdFlRsClMYkvkYLQj6hKdVrVkkaVDg",
+    "honors_and_awards": [
+      {
+        "title": "Jacobs Institute Innovation Catalyst Spark Grant",
+        "publication": "Jacob's Institute, UC Berkeley",
+        "date": "2026-02-01T00:00:00.000Z",
+        "description": null
+      },
+      {
+        "title": "1,000 Dreams Fund Team New Face of Tech Winner - $1500",
+        "publication": "1,000 Dreams Fund Team",
+        "date": "2026-01-01T00:00:00.000Z",
+        "description": null
+      },
+      {
+        "title": "Stantec Equity and Diversity Scholarship Recipient - $4500",
+        "publication": "Stantec Equity and Diversity Scholarship Program",
+        "date": "2024-12-01T00:00:00.000Z",
+        "description": null
+      },
+      {
+        "title": "Cal Hacks Pepisco Sustainability Prize - 2nd place",
+        "publication": "Cal Hackathon 11.0",
+        "date": "2024-10-01T00:00:00.000Z",
+        "description": "Created an interactive web app that visualizes how effectively PepsiCo's numerous sustainability initiatives are contributing to its 2030 ESG goals. Used data from published reports and linear regression models to classify whether the company is on track to meet key benchmarks in agriculture, packaging, water, transportation, etc. and summarized their overall performance using a unified metric."
+      },
+      {
+        "title": "Blue Umbrella Waterproofing & Foundations Scholarship Fund - $500",
+        "publication": "Blue Umbrella Waterproofing",
+        "date": "2024-08-01T00:00:00.000Z",
+        "description": null
+      },
+      {
+        "title": "SEMA Memorial Scholarship Fund - $2500",
+        "publication": "SEMA Scholarship and Loan Forgiveness",
+        "date": "2024-06-01T00:00:00.000Z",
+        "description": null
+      },
+      {
+        "title": "Schwab-Rosenhouse Memorial Scholarship - $1000",
+        "publication": "Schwab-Rosenhouse Memorial Scholarship Foundation",
+        "date": "2024-06-01T00:00:00.000Z",
+        "description": null
+      },
+      {
+        "title": "Sacramento Association of Realtors Scholarship - Honorary Scholarship - $2500",
+        "publication": "Sacramento Association of Realtors",
+        "date": "2024-05-01T00:00:00.000Z",
+        "description": null
+      },
+      {
+        "title": "Valedictory Scholar",
+        "publication": "Mira Loma High School",
+        "date": "2024-05-01T00:00:00.000Z",
+        "description": null
+      },
+      {
+        "title": "Zeta Amicae Scholarship - Ina Badger Book Scholarship",
+        "publication": "Zeta Phi Beta Sorority",
+        "date": "2024-05-01T00:00:00.000Z",
+        "description": null
+      },
+      {
+        "title": "State Seal of Biliteracy - Spanish",
+        "publication": "Mira Loma High School",
+        "date": "2024-04-01T00:00:00.000Z",
+        "description": null
+      },
+      {
+        "title": "ELKS Lodge Carmichael Local Winner - $500",
+        "publication": "ELKS Lodge Carmichael",
+        "date": "2024-03-01T00:00:00.000Z",
+        "description": null
+      },
+      {
+        "title": "NCWIT Award for Aspirations in Computing Northern California Affiliate Winner",
+        "publication": "National Center for Women & Information Technology",
+        "date": "2024-02-01T00:00:00.000Z",
+        "description": null
+      },
+      {
+        "title": "Ronald Reagan Scholarship Foundation Semi-Finalist",
+        "publication": "Reagan Foundation",
+        "date": "2024-01-01T00:00:00.000Z",
+        "description": "The GE-Reagan Foundation Scholarship offers college scholarships of up to $40,000 for high school seniors nationwide who showcase leadership, drive, integrity, and citizenship."
+      },
+      {
+        "title": "2x Highest Honors at the US Navy Naval Horizons Essay Contest",
+        "publication": "US Department of Navy",
+        "date": "2023-06-01T00:00:00.000Z",
+        "description": null
+      }
+    ],
+    "similar_profiles": [],
+    "default_avatar": false,
+    "memorialized_account": false,
+    "bio_links": [
+      {
+        "title": "Portfolio",
+        "link": "https://bmcal2005.github.io/"
+      }
+    ],
+    "first_name": "Bhavya",
+    "last_name": "Mamnani",
+    "influencer": false,
+    "timestamp": "2026-08-12T18:58:42.255Z",
+    "input": {
+      "url": "https://www.linkedin.com/in/bhavya-mamnani-212a79233"
+    }
+  },
+  "local_photo": "data\\linkedin_photos\\bhavya-mamnani-212a79233__usr-WaZpRl3sOQWdwaj.jpg"
+}

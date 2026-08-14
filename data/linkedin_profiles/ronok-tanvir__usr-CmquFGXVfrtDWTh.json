@@ -1,0 +1,193 @@
+{
+  "luma_user_id": "usr-CmquFGXVfrtDWTh",
+  "csv_name": "Ronok Tanvir",
+  "csv_linkedin": "https://www.linkedin.com/in/ronok-tanvir",
+  "enriched_at": "2026-08-12T19:16:49.703932+00:00",
+  "batch_id": "sd_msqgxyk1xj7v4ip1",
+  "profile": {
+    "id": "ronok-tanvir",
+    "name": "Ronok Tanvir",
+    "city": "United States",
+    "country_code": "US",
+    "position": null,
+    "about": "https://ronok.dev/",
+    "current_company": {
+      "link": "https://www.linkedin.com/company/halluminate?trk=public_profile_topcard-current-company",
+      "name": "Halluminate (YC S25)",
+      "company_id": "halluminate",
+      "location": null
+    },
+    "experience": null,
+    "url": "https://au.linkedin.com/in/ronok-tanvir",
+    "educations_details": "University of California, Berkeley",
+    "education": null,
+    "avatar": "https://media.licdn.com/dms/image/v2/D5603AQFD-0Vg67Drww/profile-displayphoto-scale_200_200/B56Zy3qaELIYAc-/0/1772607873805?e=2147483647&v=beta&t=aMNGFAdHC8_AKOvRCGcbnnTAViZaqqDleViUur3Yuck",
+    "followers": 698,
+    "connections": 500,
+    "current_company_company_id": "halluminate",
+    "current_company_name": "Halluminate (YC S25)",
+    "projects": [
+      {
+        "title": "Overseer (Meta's OpenEnv Winner)",
+        "start_date": "Mar 2026",
+        "description": "overseer is a 0.5B parameter oversight model trained to infer the hidden strategies of 7 LLM-based Diplomacy agents using only public signals, no access to private messages or model internals. used Qwen2.5-0.5B using Transformers, SFT + GRPO, qLoRA, across 185 simulated games and 17K episodes. implemented an LLM-as-judge evaluation loop that improved hidden-strategy prediction from a 0% baseline to 52.1% accuracy, with results displayed through a live strategy-prediction dashboard"
+      },
+      null,
+      null,
+      {
+        "title": "Guardian (CalHacks 12.0 Winner)",
+        "start_date": "Oct 2025",
+        "description": "guardian is a real-time fraud detection platform that identifies suspicious transactions before they occur. Built in 36 hours at Cal Hacks 12.0, it combines IsolationForest anomaly detection with SHAP-based explainability, giving users transparent insights into why transactions are flagged, not just black-box predictions. won 1st place ($2,000) in BrightData's track at Cal Hacks 12.0"
+      }
+    ],
+    "location": null,
+    "input_url": "https://www.linkedin.com/in/ronok-tanvir",
+    "linkedin_id": "ronok-tanvir",
+    "activity": [
+      {
+        "interaction": "Liked by Ronok Tanvir",
+        "link": "https://www.linkedin.com/posts/maksym-andriushchenko_our-new-116-pages-long-paper-we-extract-activity-7493008192109555712-nL6M",
+        "title": "\ud83d\udca5 Our new 116-pages long paper: we extract encrypted raw reasoning from OpenAI, Anthropic, and Gemini models at scale. This vulnerability leads to\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQH6H1H6Uga00Q/feedshare-shrink_1280/B4EZ_yDPgOI0AM-/0/1786472364307?e=2147483647&v=beta&t=WjwHiaNyP-mKV49eRiqk0JY1tv6IAAkC2OazV5BXJfE",
+        "id": "116"
+      },
+      {
+        "interaction": "Liked by Ronok Tanvir",
+        "link": "https://www.linkedin.com/posts/omarisealey_openai-hiring-mountainview-activity-7490867810865356800-crFv",
+        "title": "\ud83d\ude80 OpenAI is coming to the South Bay! In just two weeks, we\u2019ll officially open our new Mountain View office \u2014 and I\u2019m especially excited about what\u2026",
+        "img": "https://static.licdn.com/aero-v1/sc/h/53n89ecoxpr1qrki1do3alazb",
+        "id": "7490867810865356800"
+      },
+      {
+        "interaction": "Liked by Ronok Tanvir",
+        "link": "https://www.linkedin.com/posts/alyssaluoo_honestly-ive-always-struggled-with-commitment-activity-7490103888281251840-4UGo",
+        "title": "honestly, i've always struggled with commitment, especially when it comes to work \ud83d\ude2c this summer, i've taken on tasks and shipped projects that the\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQHAj0ePFIdcyA/feedshare-image-high-res/B56Z_Ixy7WJkAY-/0/1785779925310?e=2147483647&v=beta&t=3SKRHlBqGNSHnYi7Mmmmv9ks_g1FjyOGiBsD3r7gy5A",
+        "id": "7490103888281251840"
+      },
+      {
+        "interaction": "Liked by Ronok Tanvir",
+        "link": "https://www.linkedin.com/posts/victoria-knapp-perez-a52857387_researchiscoming-activity-7486576768896770048-AbGi",
+        "title": "I am thrilled to announce that as of July, I started a very exciting new chapter in my life. I graduated with my PhD in physics, and I have\u2026",
+        "img": "https://static.licdn.com/aero-v1/sc/h/53n89ecoxpr1qrki1do3alazb",
+        "id": "7486576768896770048"
+      },
+      {
+        "interaction": "Liked by Ronok Tanvir",
+        "link": "https://www.linkedin.com/posts/alinahyk_a-couple-of-months-ago-before-i-officially-activity-7485163601108824066-QLcW",
+        "title": "A couple of months ago, before I officially joined Halluminate, I built DealTrace as my trial project. I fell in love with the work, and it became\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQHEHvguR3bLEw/feedshare-shrink_800/B56Z.CkoKPHcAc-/0/1784602068108?e=2147483647&v=beta&t=CLVg8UHzedjJaXEgjGeo0v0WC0ufo5Qy-81cQq808AU",
+        "id": "7485163601108824066"
+      },
+      {
+        "interaction": "Liked by Ronok Tanvir",
+        "link": "https://www.linkedin.com/posts/alinahyk_new-chapter-i-am-a-founding-member-of-technical-activity-7483338337030778880-lR3W",
+        "title": "New chapter! I am a Founding Member of Technical Staff at Halluminate (YC S25) as of today! \ud83c\udf89 We are building the RL environments and benchmarks\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQF7Z-gSrqTwDA/feedshare-shrink_800/B56Z9ookD_G4Ak-/0/1784166891996?e=2147483647&v=beta&t=CcLAJ91i17ecUCThYFzVKKS5EwjefwVBVBNQzFYZ2sc",
+        "id": "7483338337030778880"
+      },
+      {
+        "interaction": "Liked by Ronok Tanvir",
+        "link": "https://www.linkedin.com/posts/langdonhuynh_we-won-1st-place-grand-prize-5000-in-activity-7480392298845851648--BRL",
+        "title": "We won 1st Place Grand Prize ($5,000) in the Toolbox Track at the Cal Hacks UC Berkeley AI Hackathon, competing against ~ 400 teams! We built\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQHhhpo34QQ1qg/feedshare-shrink_800/B56Z8.xJZmHUAc-/0/1783464499949?e=2147483647&v=beta&t=ZEwX1Bw5WWqMN-AUUd9zP-K5Bx8TbFv0Pb0DxoQz5zc",
+        "id": "5000"
+      },
+      {
+        "interaction": "Liked by Ronok Tanvir",
+        "link": "https://www.linkedin.com/posts/yousef-abdelfattah-b0906b336_have-spent-all-of-2026-building-something-activity-7475280218790985728-uAX2",
+        "title": "Have spent all of 2026 building something new post-FaZe. Excited to join Y Combinator this summer as I continue on this next chapter. Ten years ago\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQEAO8-K_xohgA/feedshare-image-high-res/B56Z72HuaoG4AU-/0/1782245687614?e=2147483647&v=beta&t=qmUVq7Yg4h0ybq4p8h8PEzPcc7YOu6G88EmEtEOCjwI",
+        "id": "2026"
+      },
+      {
+        "interaction": "Liked by Ronok Tanvir",
+        "link": "https://www.linkedin.com/posts/therne_today-were-launching-aside-yc-f25-an-activity-7475267050425282560-W9Qz",
+        "title": "Today, we\u2019re launching Aside (YC F25), an AI browser that outperforms Claude Fable. Over the past few months, we've been building a new kind of\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4E05AQHuzRaQufV19A/videocover-high/B4EZ717syoKIBQ-/0/1782242532045?e=2147483647&v=beta&t=gL1yM_9z1NRT6qFcNhes-olFdjvuKDNADSs87MaApWs",
+        "id": "7475267050425282560"
+      },
+      {
+        "interaction": "Liked by Ronok Tanvir",
+        "link": "https://www.linkedin.com/posts/riya-khasnis-in_i-won-at-the-calhacks-ai-hackathon-this-activity-7475208821091753985-R1J6",
+        "title": "I won at the CalHacks AI Hackathon! \ud83c\udfc6 This weekend at UC Berkeley\u2019s AI Hackathon, Aniket Gupta, Neel Panchumarthi, Ashwin Kalyan, and I built\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQHkmD4Y_w2uMQ/feedshare-image-high-res/B56Z71G0FQGQAY-/0/1782228665356?e=2147483647&v=beta&t=ZFe_Zh11flARAoSI6Tvkzq5e1JG-YtoBAI5A_jwLt9A",
+        "id": "7475208821091753985"
+      },
+      {
+        "interaction": "Liked by Ronok Tanvir",
+        "link": "https://www.linkedin.com/posts/cerebralvalley_were-hosting-the-second-official-worlds-activity-7474907124381302784-QqKu",
+        "title": "We\u2019re hosting the second official World\u2019s Fair Hackathon with AI Engineer The world is moving toward recursive self-improvement, where AI systems\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4E10AQFcPaiQdG9xKw/image-shrink_800/B4EZ7w0ajxJgAo-/0/1782156733465?e=2147483647&v=beta&t=DLTVocptRisePIO3tUpqU7IbeRBpY3t3zYf0hmT2bNc",
+        "id": "7474907124381302784"
+      },
+      {
+        "interaction": "Liked by Ronok Tanvir",
+        "link": "https://www.linkedin.com/posts/uc-berkeley_ucberkeley-cal-uswnr-activity-7472680977945796608-m6EE",
+        "title": "UC Berkeley has been named the top public university in the U.S., and No. 7 globally in U.S. News & World Report\u2019s 2026 Best Global Universities\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQFEbBLQboLtJA/feedshare-image-high-res/B56Z7RLwItHUAU-/0/1781625979704?e=2147483647&v=beta&t=m3A-Ez7h-NPNWa0v7Ztyy5Lvx6ljHgbnYzpUQcx2pSw",
+        "id": "7472680977945796608"
+      },
+      {
+        "interaction": "Liked by Ronok Tanvir",
+        "link": "https://www.linkedin.com/posts/orenyunger_every-summer-we-bring-together-a-cohort-activity-7467257793671028737-OlA7",
+        "title": "Every summer, we bring together a cohort of students who are already building before the program even starts. This year's Notable Capital NextGen\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQGm1_RM-ohgEQ/feedshare-shrink_800/B56Z6EHZLdKMAc-/0/1780332991645?e=2147483647&v=beta&t=RfYTCaQ0Os65p_g4twhF1mvdNA1nYmPwN8-ZSHwKpEA",
+        "id": "7467257793671028737"
+      },
+      {
+        "interaction": "Liked by Ronok Tanvir",
+        "link": "https://www.linkedin.com/posts/mercor-ai_agents-are-only-as-good-as-the-environments-activity-7470886799519678464-Mazv",
+        "title": "Agents are only as good as the environments behind them. At Mercor, we've built deep expertise in the realistic, economically-grounded environments\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQFIeNGmxk8NeQ/feedshare-shrink_800/B56Z63r9V.GkAc-/0/1781198214781?e=2147483647&v=beta&t=5NawB_SNi9LINLwLs1PNyCyXGPAiRV4P9TyezfhKHRc",
+        "id": "7470886799519678464"
+      },
+      {
+        "interaction": "Liked by Ronok Tanvir",
+        "link": "https://www.linkedin.com/posts/theodore-grether-murray_i-joined-a-startup-browseros-yc-s24-already-activity-7469812301114576896-XqC7",
+        "title": "I joined a startup. BrowserOS (YC S24) already has half a million downloads and 10k GitHub stars as an open source browser! The reason it's growing\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQG9hIPcLcTr-g/feedshare-shrink_800/B56Z6oatDeGsAc-/0/1780942034153?e=2147483647&v=beta&t=aQ3P4LDSQEoc7GuTCkiBI2DymTda5C3Oa9p_t79t7Xw",
+        "id": "7469812301114576896"
+      }
+    ],
+    "linkedin_num_id": "1232392931",
+    "banner_image": "https://media.licdn.com/dms/image/v2/D5616AQGblF4I69JN0g/profile-displaybackgroundimage-shrink_200_800/B56Z.if9M6HYAQ-/0/1785137714252?e=2147483647&v=beta&t=m09NlOcCIhoL0NS_AFetNC7T9VvDHEVbdXKFt6h_clI",
+    "honors_and_awards": [
+      {
+        "title": "AIME Qualification",
+        "publication": "Mathematical Association of America",
+        "date": "2025-02-01T00:00:00.000Z",
+        "description": "AIME Qualification from AMC: Scored 10 out of 15: USAMO Index: 238"
+      },
+      {
+        "title": "AMC12 Honor Roll (138)",
+        "publication": "Mathematical Association of America",
+        "date": "2024-12-01T00:00:00.000Z",
+        "description": "Distinguished Honor Roll - Top 1% Scorer out of 21000+ students across 1700+ schools"
+      },
+      {
+        "title": "Presidential Volunteer Service Gold Award",
+        "publication": "-",
+        "date": null,
+        "description": "270+ Volunteer Hours Per Year"
+      }
+    ],
+    "similar_profiles": [],
+    "default_avatar": false,
+    "memorialized_account": false,
+    "bio_links": [
+      {
+        "title": "Personal Website",
+        "link": "https://ronok.dev/"
+      }
+    ],
+    "first_name": "Ronok",
+    "last_name": "Tanvir",
+    "influencer": false,
+    "timestamp": "2026-08-12T19:15:09.240Z",
+    "input": {
+      "url": "https://www.linkedin.com/in/ronok-tanvir"
+    }
+  },
+  "local_photo": "data\\linkedin_photos\\ronok-tanvir__usr-CmquFGXVfrtDWTh.jpg"
+}

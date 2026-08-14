@@ -1,0 +1,183 @@
+{
+  "luma_user_id": "usr-TuxlWQK8ieFZBCI",
+  "csv_name": "Dael Amzalag",
+  "csv_linkedin": "https://www.linkedin.com/in/dael-amzalag",
+  "enriched_at": "2026-08-12T19:26:51.913616+00:00",
+  "batch_id": "sd_msqhb4pfm4l4la4zs",
+  "profile": {
+    "id": "dael-amzalag",
+    "name": "Dael Amzalag",
+    "city": "San Francisco Bay Area",
+    "country_code": "US",
+    "position": null,
+    "about": null,
+    "current_company": {
+      "link": "https://www.linkedin.com/company/velvet-ai-lab?trk=public_profile_topcard-current-company",
+      "name": "Velvet",
+      "company_id": "velvet-ai-lab",
+      "location": null
+    },
+    "experience": null,
+    "url": "https://uk.linkedin.com/in/dael-amzalag",
+    "educations_details": "University of Chicago",
+    "education": [
+      {
+        "title": "University of Chicago",
+        "url": "https://www.linkedin.com/school/uchicago/",
+        "start_year": "2022",
+        "end_year": "2026",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      }
+    ],
+    "avatar": "https://media.licdn.com/dms/image/v2/D5603AQGpaRoe7sfnSQ/profile-displayphoto-scale_200_200/B56Z8Hr22dKEAc-/0/1782540365464?e=2147483647&v=beta&t=brZMJWFXvZNLSC55tostLY0vCuD_glXcbjXC1s406hc",
+    "languages": [
+      {
+        "subtitle": "Native or bilingual proficiency",
+        "title": "Hebrew"
+      },
+      {
+        "subtitle": "Native or bilingual proficiency",
+        "title": "English"
+      }
+    ],
+    "followers": 374,
+    "connections": 374,
+    "current_company_company_id": "velvet-ai-lab",
+    "current_company_name": "Velvet",
+    "organizations": [
+      {
+        "title": "UChicago Math Club",
+        "membership_type": "President",
+        "start_date": "Mar 2024",
+        "end_date": "Jun 2026",
+        "membership_number": null
+      }
+    ],
+    "location": null,
+    "input_url": "https://www.linkedin.com/in/dael-amzalag",
+    "linkedin_id": "dael-amzalag",
+    "activity": [
+      {
+        "interaction": "Liked by Dael Amzalag",
+        "link": "https://www.linkedin.com/posts/gcloix_spent-a-weekend-in-san-francisco-locked-in-activity-7487799007390453761-Ru9_",
+        "title": "Spent a weekend in San Francisco locked in with 200+ engineers and it was worth it. We organized our first hackathon in SF with NVIDIA, based on our\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4D22AQEK0fuxZOvCRA/feedshare-shrink_800/B4DZ.oBg2BJwAg-/0/1785230398286?e=2147483647&v=beta&t=Fk8RPkt4QGTlOOZoZpXuVnuaq1dA6onXS7ZvcjR149o",
+        "id": "7487799007390453761"
+      },
+      {
+        "interaction": "Liked by Dael Amzalag",
+        "link": "https://www.linkedin.com/posts/ernestyalumni_i-had-to-leave-the-hackathon-early-to-catch-activity-7487260028052099072-jEIF",
+        "title": "I had to leave the hackathon early to catch my flight SFO -> LAX when I got this pleasant news. Thank you Greg Tanaka for sitting me and many others\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQFssTsTr7cHxA/feedshare-image-high-res/B56Z.gL8.TKAAU-/0/1785098919309?e=2147483647&v=beta&t=atTUC8Xayb7z6-vqcRAEwPrYmlXoyLAZFXhCODlqm_4",
+        "id": "7487260028052099072"
+      },
+      {
+        "interaction": "Liked by Dael Amzalag",
+        "link": "https://www.linkedin.com/posts/h-company-ai_last-week-%F0%9D%9F%AD%F0%9D%9F%AE%F0%9D%9F%AC-%F0%9D%97%AF%F0%9D%98%82%F0%9D%97%B6%F0%9D%97%B9%F0%9D%97%B1%F0%9D%97%B2%F0%9D%97%BF%F0%9D%98%80-spent-activity-7486057611960864768-JLy_",
+        "title": "Last week, \ud835\udfed\ud835\udfee\ud835\udfec+ \ud835\uddef\ud835\ude02\ud835\uddf6\ud835\uddf9\ud835\uddf1\ud835\uddf2\ud835\uddff\ud835\ude00 spent 48 hours building \ud835\uddf0\ud835\uddfc\ud835\uddfa\ud835\uddfd\ud835\ude02\ud835\ude01\ud835\uddf2\ud835\uddff-\ud835\ude02\ud835\ude00\ud835\uddf2 \ud835\uddee\ud835\uddf4\ud835\uddf2\ud835\uddfb\ud835\ude01\ud835\ude00 at the H Company \u00d7 NVIDIA Computer-Use Agents\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4E05AQFElIXaJa85MQ/videocover-high/B4EZ.PHqE5HoBM-/0/1784812627738?e=2147483647&v=beta&t=0TWla3efA9kUr_TawnBD_vi9rzSll2XPJeTEuRh9mGY",
+        "id": "7486057611960864768"
+      },
+      {
+        "interaction": "Liked by Dael Amzalag",
+        "link": "https://www.linkedin.com/posts/inge-informatique-alexisdeprez_3sigma-demo-video-privacy-layer-between-activity-7483085756735881216-ddHl",
+        "title": "This weekend we hosted our computer-use agents Hackathon in San Francisco. The winning team (Jerry Gu, Trisanth Srinivasan, Zach Chen, Anantha\u2026",
+        "img": "https://media.licdn.com/dms/image/sync/v2/D4E27AQGcTVz0lFT51g/articleshare-shrink_800/B4EZ9k_eESKoAY-/0/1784105788228?e=2147483647&v=beta&t=5y3-3wn2jrxRqCOzmus6L78sUOTdBhg6NcUhwtwJu0U",
+        "id": "7483085756735881216"
+      },
+      {
+        "interaction": "Liked by Dael Amzalag",
+        "link": "https://www.linkedin.com/posts/ernestyalumni_i-was-really-happy-to-be-a-finalist-in-h-activity-7482649324900864002-XYBk",
+        "title": "I was really happy to be a finalist in H Company 's Computer Use hackathon this past weekend in San Francisco; was not expecting it at all\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5605AQGBOQnvObhHRQ/videocover-high/B56Z9e1z9XJoBM-/0/1784002596275?e=2147483647&v=beta&t=nZyyciimU0s2whC4rM-JWi2chnWVm9mXUh3XxE3jlgI",
+        "id": "7482649324900864002"
+      },
+      {
+        "interaction": "Liked by Dael Amzalag",
+        "link": "https://www.linkedin.com/posts/zachary-chen31415_over-this-past-weekend-we-jerry-gu-trisanth-activity-7482590793463906304-QTdo",
+        "title": "Over this past weekend, we (Jerry Gu, Trisanth Srinivasan, Anantha Kandrapu, and Dael Amzalag) won 1st place at the H Company's Computer Use Agent\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQEo9WHyLaVFqw/feedshare-image-high-res/B56Z9eAqrRJoAU-/0/1783988663942?e=2147483647&v=beta&t=lPSBYPUmbFBfHekQxeNVPlH7Vv7kxFJLcWWZVpqiQ_Q",
+        "id": "7482590793463906304"
+      },
+      {
+        "interaction": "Liked by Dael Amzalag",
+        "link": "https://www.linkedin.com/posts/h-company-ai_how-are-people-whove-never-touched-computer-use-activity-7482513700260749312-wQIC",
+        "title": "How are people who've never touched computer-use agents this good at it, this fast? 43 projects, 120 builders, one weekend, way more energy than\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQGMKtzVUxg6pQ/feedshare-shrink_800/B4EZ9c6i8BIsAc-/0/1783970280242?e=2147483647&v=beta&t=9TwsYj-u-0EnWHhbDUWj1c-6Ank79Lnsbh98oez3GJ4",
+        "id": "7482513700260749312"
+      },
+      {
+        "interaction": "Liked by Dael Amzalag",
+        "link": "https://www.linkedin.com/posts/amishabansal_some-personal-news-i-no-longer-work-at-omni-activity-7481027724040384512-aJ7y",
+        "title": "Some personal news: I no longer work at Omni AI \ud83d\ude14 Because as of today, I work at Monumint!! Same team, bigger mission, better name. I joined Omni\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQG5lR6z-EWCsQ/feedshare-shrink_800/B56Z9HzEgsLAAc-/0/1783615998806?e=2147483647&v=beta&t=6WM8PisKW8PWFPn_PX7-qPv_YZJ6sW1Gls2Wk_MjISk",
+        "id": "7481027724040384512"
+      },
+      {
+        "interaction": "Liked by Dael Amzalag",
+        "link": "https://www.linkedin.com/posts/sethu-chandra_what-is-san-franciscos-moat-within-my-activity-7480319288726167552-Tcez",
+        "title": "What is San Francisco\u2019s moat? Within my first week in SF, I have: - Interacted with a 7-figure founder on a random park bench - Had my cold outreach\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQEjUi1Ef5A8VQ/feedshare-shrink_800/B56Z87jqfJIgAo-/0/1783410633213?e=2147483647&v=beta&t=HuZ8TWsCbyHjnkhJ01_M5sI4tCH_E4WdKoYujS1dFuA",
+        "id": "7480319288726167552"
+      },
+      {
+        "interaction": "Liked by Dael Amzalag",
+        "link": "https://www.linkedin.com/posts/lucas-mantovani-a446a61a9_ever-since-we-crossed-7-figures-in-contracts-activity-7477801318351314944-7eK4",
+        "title": "Ever since we crossed 7 figures in contracts, we've started orienting more of our work towards longer-term multimodal research efforts in\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQHpDWoGM7FH9A/feedshare-shrink_1280/B56Z8Z8rWaG0AM-/0/1782846764681?e=2147483647&v=beta&t=r8XLR1hgCs-HSU5e-n6T8wr9HTPceQzJg1YvkFCR1cU",
+        "id": "7"
+      },
+      {
+        "interaction": "Liked by Dael Amzalag",
+        "link": "https://www.linkedin.com/posts/lyxia_proud-to-have-presented-my-own-independent-activity-7461154329954107392-Ll8F",
+        "title": "Proud to have presented my OWN INDEPENDENT RESEARCH at the 2026 UCI UROP Symposium today. In this work, I argue for a minimum-curvature model of\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQGmqlUs_5Xstg/feedshare-shrink_800/B56Z4tYOvIIEAc-/0/1778877787768?e=2147483647&v=beta&t=g2t6lfZEOsOwx0O0OElKh0MvgzyK-PFzudRCAmiXtuU",
+        "id": "7461154329954107392"
+      },
+      {
+        "interaction": "Liked by Dael Amzalag",
+        "link": "https://www.linkedin.com/posts/hebrew-university_thehebrewuniversity-israelprize-mathematics-activity-7424392830854483968-otVM",
+        "title": "We are proud to congratulate Prof. Benjamin Weiss of the Einstein Institute of Mathematics on being awarded the Israel Prize in Mathematics, Computer\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4D22AQF0tIrmUjhMWw/feedshare-image-high-res/B4DZwi98BiJQAY-/0/1770113188315?e=2147483647&v=beta&t=mlSHgPAGCLCjKOshmrYyNsOLN8gAFknlchtGigfRHvA",
+        "id": "7424392830854483968"
+      },
+      {
+        "interaction": "Liked by Dael Amzalag",
+        "link": "https://www.linkedin.com/posts/daniel-brin_last-month-i-graduated-from-the-university-activity-7348384089835454465-lqw7",
+        "title": "Last month, I graduated from the University of Chicago with a B.S. in Mathematics. I am grateful for the dedicated professors who challenged me, the\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQGWXD4tKcN6pQ/feedshare-shrink_800/B56Zfq0SX5G0Ak-/0/1751991283195?e=2147483647&v=beta&t=MS0ZvRXmT65nJM_80gfHM9uoj_OpqYQBfXCyb-6Y9o0",
+        "id": "7348384089835454465"
+      }
+    ],
+    "linkedin_num_id": "1050355109",
+    "banner_image": "https://static.licdn.com/aero-v1/sc/h/5q92mjc5c51bjlwaj3rs9aa82",
+    "honors_and_awards": [
+      {
+        "title": "Paul R. Cohen Memorial Prize in Mathematics",
+        "publication": "-",
+        "date": "2026-05-01T00:00:00.000Z",
+        "description": null
+      },
+      {
+        "title": "NSF GRFP",
+        "publication": "-",
+        "date": null,
+        "description": null
+      }
+    ],
+    "similar_profiles": [],
+    "default_avatar": false,
+    "memorialized_account": false,
+    "bio_links": [],
+    "first_name": "Dael",
+    "last_name": "Amzalag",
+    "influencer": false,
+    "timestamp": "2026-08-12T19:26:14.730Z",
+    "input": {
+      "url": "https://www.linkedin.com/in/dael-amzalag"
+    }
+  },
+  "local_photo": "data\\linkedin_photos\\dael-amzalag__usr-TuxlWQK8ieFZBCI.jpg"
+}

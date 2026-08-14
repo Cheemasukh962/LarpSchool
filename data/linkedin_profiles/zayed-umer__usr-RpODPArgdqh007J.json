@@ -1,0 +1,208 @@
+{
+  "luma_user_id": "usr-RpODPArgdqh007J",
+  "csv_name": "Zayed Umer",
+  "csv_linkedin": "https://www.linkedin.com/in/zayed-umer",
+  "enriched_at": "2026-08-12T19:25:08.258278+00:00",
+  "batch_id": "sd_msqh7u7r1xzwli6vdk",
+  "profile": {
+    "id": "zayed-umer",
+    "name": "Zayed Umer",
+    "city": "San Francisco Bay Area",
+    "country_code": "US",
+    "position": null,
+    "about": "1.01^365 E: umerzayed1@gmail.com",
+    "current_company": {
+      "link": "https://www.linkedin.com/company/coinbase?trk=public_profile_topcard-current-company",
+      "name": "Coinbase",
+      "company_id": "coinbase",
+      "location": null
+    },
+    "experience": null,
+    "url": "https://at.linkedin.com/in/zayed-umer",
+    "educations_details": "McMaster University",
+    "education": [
+      {
+        "title": "McMaster University",
+        "url": "https://ca.linkedin.com/school/mcmaster-university/",
+        "start_year": "2022-09",
+        "end_year": "2027-04",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      },
+      {
+        "start_year": "2018-09",
+        "end_year": "2022-06",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      }
+    ],
+    "avatar": "https://media.licdn.com/dms/image/v2/D4E03AQEZuj5ZGkRFhA/profile-displayphoto-shrink_200_200/B4EZbLdM4gGQAg-/0/1747170153526?e=2147483647&v=beta&t=U-9tHUp7cU5pBn9-cqlb4HdGhMWMbWkvqXYyGmrdc-4",
+    "certifications": [
+      {
+        "meta": "Issued May 2024 Credential ID UC-8e6a696f-9354-47df-bc06-1bede1075879 See credential",
+        "subtitle": "Udemy",
+        "title": "Developing ASP.NET MVC Web Applications",
+        "credential_url": "https://www.linkedin.com/ude.my/UC-8e6a696f-9354-47df-bc06-1bede1075879?trk=public_profile_see-credential",
+        "credential_id": "UC-8e6a696f-9354-47df-bc06-1bede1075879"
+      },
+      {
+        "meta": "Issued May 2024 Credential ID UC-a7322341-9154-42dc-903e-afdc79b10fe1 See credential",
+        "subtitle": "Udemy",
+        "title": "Microsoft IIS Web Server Mastery",
+        "credential_url": "https://www.linkedin.com/ude.my/UC-a7322341-9154-42dc-903e-afdc79b10fe1?trk=public_profile_see-credential",
+        "credential_id": "UC-a7322341-9154-42dc-903e-afdc79b10fe1"
+      }
+    ],
+    "followers": 3828,
+    "connections": 500,
+    "current_company_company_id": "coinbase",
+    "current_company_name": "Coinbase",
+    "projects": [
+      {
+        "title": "Sign Simplified",
+        "description": "TOP 10 @ Deltahacks X: Sign Simplified is a computer vision project that leverages OpenCV, TensorFlow, and Python libraries to recognize American Sign Language characters in real-time. It showcases the power of AI and computer vision, making it a valuable tool for ASL learners and enthusiasts."
+      },
+      {
+        "title": "Ai Financial Assistant",
+        "description": "This Ai Financial Assistant Chatbot is an AI-powered tool for real-time stock market insights. It uses OpenAI, Pandas, YFinance, Matplotlib, and Streamlit to provide fast and accurate financial data, making it a valuable resource for investors and finance enthusiasts."
+      },
+      {
+        "title": "EmotionRecognitionAI",
+        "description": "EmotionRecognitionAI: Real-time emotion detection using facial expressions. It identifies and categorizes emotions like anger, joy, surprise, and more, making it a valuable tool for understanding human expressions."
+      },
+      {
+        "title": "Movie Recommendation Site",
+        "description": "A Python web app that recommends similar movies based on user input. Powered by cosine similarity and presents suggestions with movie posters."
+      },
+      {
+        "title": "Personal Portfolio",
+        "description": "A modern personal portfolio website showcasing my software engineering journey and projects. Designed with React, HTML, and CSS for an elegant and responsive user experience."
+      }
+    ],
+    "location": null,
+    "input_url": "https://www.linkedin.com/in/zayed-umer",
+    "linkedin_id": "zayed-umer",
+    "activity": [
+      {
+        "interaction": "Zayed Umer shared this",
+        "link": "https://www.linkedin.com/posts/zayed-umer_excited-to-announce-that-ill-be-joining-activity-7442983330956099605-D9u2",
+        "title": "Excited to announce that I\u2019ll be joining Coinbase this summer as a Software Engineering Intern. Huge thank you to Edith Andersen and Allessandra (Alle) Cacchione for facilitating such a great interview process. Hyped to be building the future of finance. ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D5605AQE7uFWE7StYiQ/videocover-high/B56Z0rJ4OjKEBY-/0/1774545504314?e=2147483647&v=beta&t=J4qCEGXOsC0RYTRhwyzMKPf3u7X3SfdrG00fYQYrcq4",
+        "id": "7442983330956099605"
+      },
+      {
+        "interaction": "Zayed Umer shared this",
+        "link": "https://www.linkedin.com/posts/zayed-umer_spacex-activity-7387187359932657664-m-Fo",
+        "title": "Excited to announce that I'll be joining SpaceX this spring in Los Angeles, California as a Software Engineering Intern. The opportunity to contribute to humanity's journey to becoming a spacefaring civilization is incredible. Really looking forward to working alongside the team building the technology that will take us to Mars and beyond. Grateful for everyone who supported me through this process, especially Lucy Gradinger for such a smooth onboarding process. Ready to get to work. #SpaceX ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQGmJ6LY8g2uyw/feedshare-shrink_800/B4EZoSPwUrIoAg-/0/1761242712103?e=2147483647&v=beta&t=cu8HH6n4RLg8EoEHLcQaQfYa1uqKEtxTCCw0qZ8v9sw",
+        "id": "7387187359932657664"
+      },
+      {
+        "interaction": "Zayed Umer shared this",
+        "link": "https://www.linkedin.com/posts/zayed-umer_excited-to-share-that-ill-be-joining-wealthsimple-activity-7371936515490242561-4ySe",
+        "title": "Excited to share that I\u2019ll be joining Wealthsimple this Fall as a Software Engineering Intern. Really looking forward to contributing to the team, and an awesome overall product. A big thank you to all the people who helped along the way, especially Ashley Selim and Shanze Bukhtawer for all their support throughout the hiring and onboarding process. Can't wait to get to work! ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQEpxe84r34Qow/feedshare-shrink_800/B56Zk5hJhjG0Ag-/0/1757606622891?e=2147483647&v=beta&t=glyJaFc0QJULP6uDU9ocrQVAtiICDrUB2VfZ_cc0ANU",
+        "id": "7371936515490242561"
+      },
+      {
+        "interaction": "Zayed Umer shared this",
+        "link": "https://www.linkedin.com/posts/zayed-umer_rbcamplify-activity-7303533123890282497-GGLL",
+        "title": "I'm thrilled and grateful to announce I'll be returning to RBC this summer within the Amplify Program as a Software Development Engineer. Grateful for the opportunity to collaborate, innovate, and contribute to impactful projects. Huge thanks to the Amplify program team for helping me through this process. #RBCAmplify ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQHqEot-tNO4qw/feedshare-shrink_800/B4EZVtcq.YGwAk-/0/1741297988456?e=2147483647&v=beta&t=No8Gk4GLxx5MmfRvEM-kETndsJkJ62X41RlLM3ikL44",
+        "id": "7303533123890282497"
+      },
+      {
+        "interaction": "Zayed Umer shared this",
+        "link": "https://www.linkedin.com/posts/zayed-umer_rbc-rbcsummer2024-webinfrastructure-activity-7192216943586607105-C8Mb",
+        "title": "I am thrilled to share that I will be joining RBC Technology & Operations as a Software Engineering Intern for the next 4 months as a part of the Web Infrastructure team. I am extremely grateful for this opportunity and look forward to developing my skills and making meaningful contributions to the team. #RBC #RBCSummer2024 #WebInfrastructure #SoftwareEngineering ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQF6oJ7ckWigqA/feedshare-shrink_800/feedshare-shrink_800/0/1714758143483?e=2147483647&v=beta&t=s_x4TVQvileQE4cqBaupvD6fcWogaiceMctoZ1FCAi0",
+        "id": "7192216943586607105"
+      },
+      {
+        "interaction": "Zayed Umer liked this",
+        "link": "https://www.linkedin.com/posts/tedmalaska_activity-7492235327953096704-w7nY",
+        "title": null,
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQGhjVELZHNtKQ/feedshare-image-high-res/B56Z_nETy.KAAU-/0/1786288100026?e=2147483647&v=beta&t=O9MC29MHXSunAuYjE5Dt5-xWA6CCrwRazh8NMPb5XfM",
+        "id": "7492235327953096704"
+      },
+      {
+        "interaction": "Zayed Umer liked this",
+        "link": "https://www.linkedin.com/posts/junaidmahmood-_dekai-li-and-i-are-excited-to-officially-activity-7489195180508463106-hSNl",
+        "title": "Dekai Li and I are excited to officially announce Trident is part of Y Combinator\u2019s Summer 2026 batch, and that we\u2019ve raised our pre-seed from Y Combinator, with participation from Cory Levy (Z Fellows). Here\u2019s why we built it: AI is accelerating how software is built, but on the opposite end, they\u2019re also accelerating how attackers find and exploit vulnerabilities. As AI gets more powerful, that gap will only grow. We built Trident to defend companies at the same speed. What it does: 1. Scans every pull request for known n day, vulnerable dependencies, and logic flaws before merge 2. Safely runs scheduled, continuous penetration tests against your web apps, APIs, and cloud infrastructure (AWS, GCP, Azure, Kubernetes) We've found $10,000+ critical vulnerabilities across bug bounty programs and in half a dozen unicorns and prevented tens of millions in potential losses with our existing clients if youre curious to see what we can find feel free to send me a dm!",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQH6MWqia0nUPA/feedshare-shrink_1280/B56Z.73VHRIMAM-/0/1785563271913?e=2147483647&v=beta&t=nojkHbm5vBe0o2YuVuS412rqFknT2bD1HJdqxs6wha0",
+        "id": "7489195180508463106"
+      },
+      {
+        "interaction": "Zayed Umer liked this",
+        "link": "https://www.linkedin.com/posts/vtmeche_internday-activity-7488639717362720768-snO4",
+        "title": "This #internday intern shoots for the stars! At SpaceX , Ghaleeb Hakim supports ramping up speed and reliability for Starship rocket engine turbo pumps. Those are the cryogenic, high-speed pumps that pressurize and feed propellant (liquid oxygen and liquid methane) throughout the rocket engines. More on our intern day page: https://lnkd.in/dTCg7yC4",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQHXbKMRpxbxcA/feedshare-image-high-res/B4EZ.z.ImQJEAU-/0/1785430839577?e=2147483647&v=beta&t=i0pArHVHo5PYsj2h-xrJ98W3fB2_Kyw6HeajBXoPcIo",
+        "id": "7488639717362720768"
+      },
+      {
+        "interaction": "Zayed Umer liked this",
+        "link": "https://www.linkedin.com/posts/coinbase_this-is-an-intern-appreciation-post-show-activity-7488585063031476224-_Aji",
+        "title": "This is an intern appreciation post. Show love if you were ever an intern during your career.",
+        "img": null,
+        "id": "7488585063031476224"
+      },
+      {
+        "interaction": "Zayed Umer liked this",
+        "link": "https://www.linkedin.com/posts/stanleytang_doordash-air-beyond-the-line-of-sight-activity-7488216883398320128-RUYL",
+        "title": "Today we\u2019re launching DoorDash Air, our drone program designed and built in-house at DoorDash Labs! We earned Federal Aviation Administration Part 135 air carrier certification, clearing us to operate our own drone delivery service created specifically for local commerce. I believe it\u2019s the next frontier of delivery, and what we\u2019ve learned after years of progress is that you have to solve the full end-to-end system to find out what works and what scales with your customer. The aircraft is one unique challenge, but the bigger problem I\u2019m most excited about is the ground infrastructure: enabling autonomy to work seamlessly inside one of the largest delivery networks in the world. A delivery drone or ground robot is worthless if it doesn't connect a customer who needs something with a local merchant selling it. Across billions of orders and millions of customers, we\u2019ve been purposeful about building our Autonomous Delivery Network with the integration of drones and Dot in a way that helps businesses reach more customers faster. We attract builders. People come here to solve real problems and see their work show up in the physical world, not to sit in R&D hell or in a demo that never moves outside the lab. Read the full story on what we\u2019re building, and if you want to help us solve some of the most interesting problems in autonomy, we\u2019re hiring. \u2b07\ufe0f",
+        "img": "https://media.licdn.com/dms/image/v2/D5612AQGLbfaQPC_yUQ/videocover-high/B56Z.sG3ZYJsAg-/0/1785298920180?e=2147483647&v=beta&t=6FFuaj2v6BpLi883R6p4KqKN4W3OeE5dQa11qW4OxYA",
+        "id": "7488216883398320128"
+      },
+      {
+        "interaction": "Zayed Umer liked this",
+        "link": "https://www.linkedin.com/posts/ericpark11_we-built-gavel-app-because-most-people-are-activity-7487884596647440386-qsXw",
+        "title": "We built Gavel App because most people are short on one of two things: Money or time. Student looking for extra cash? Find a side hustle on Gavel App , or offer tutoring, moving help, tech support, or whatever you\u2019re good at. Homeowner with a dirty car, overgrown lawn, or furniture that still needs assembling? Post it on Gavel App and let people nearby send you offers. Busy professional with errands piling up? Put them on Gavel App and get your time back. Cleaner, handyman, tutor, photographer, or other independent professional looking for more clients? Advertise your services on Gavel App and connect with people nearby who already need your help. Whatever you need done, or whatever you can do there\u2019s probably someone nearby looking for the opposite. Post a job. Get real offers. Choose one. Done. Or offer your time, name your price, and get paid. Gavel is officially live on iOS and Android. gavel-app.com/download Which one are you: looking to earn money or save time?",
+        "img": "https://media.licdn.com/dms/image/v2/D5605AQFXQAz9q2NjQw/videocover-high/B56Z.mU46pJoBQ-/0/1785201927424?e=2147483647&v=beta&t=pYTHyCLZhsl3Rra5RLbApIUt8d9vWcoEql1C3_0ucC4",
+        "id": "7487884596647440386"
+      },
+      {
+        "interaction": "Zayed Umer liked this",
+        "link": "https://www.linkedin.com/posts/amazon-web-services_database-savings-plans-reduce-database-cost-activity-7459955233230663680-J639",
+        "title": "Save up to 35% across all database usage. Automatically applies to eligible serverless and provisioned instance usage regardless of supported engine, instance family, size, deployment option, or AWS Region. Database Savings Plans are available with no upfront payment and a 1-year term.",
+        "img": "https://media.licdn.com/dms/image/v2/D4E10AQE9en97dycITQ/ads-video-thumbnail_720_1280/B4EZ4YesUyJAAU-/0/1778527159829?e=2147483647&v=beta&t=LWeAqsJQGg2eFgvpFVConnYkQxoy3AAJpTf2L68d10k",
+        "id": "7459955233230663680"
+      },
+      {
+        "interaction": "Zayed Umer liked this",
+        "link": "https://www.linkedin.com/posts/junaidmahmood-_im-really-grateful-to-everyone-who-came-out-activity-7481082870292295682-xa1u",
+        "title": "Im really grateful to everyone who came out, It was great meeting founders from across the YC S26 batch and hearing what everyone is building. Looking forward to the journey and hopefully helping create more opportunities for the community to connect!! \ud83d\ude80",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQGsz6isjDrkQw/feedshare-shrink_800/B56Z9IkMUCG0Ag-/0/1783628875802?e=2147483647&v=beta&t=aC1sDC8go6SLm8yzCkb7paIwTzZQXpI1pyTlm1pgdXY",
+        "id": "7481082870292295682"
+      },
+      {
+        "interaction": "Zayed Umer liked this",
+        "link": "https://www.linkedin.com/posts/someshkarthi_i-am-happy-to-share-that-i-have-joined-bloomberg-activity-7480038676173910016-Tvme",
+        "title": "I am happy to share that I have joined Bloomberg as a full-time Software Engineer in New York City! Thank you to everyone who supported me on this journey.",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQHYeU9ZP_s_bw/feedshare-shrink_1280/B56Z85viMbKcAQ-/0/1783380191889?e=2147483647&v=beta&t=QH7maLGW5GTtvN8LKNuVJIqQbavtf6-O4F8YNF_qOZ4",
+        "id": "7480038676173910016"
+      }
+    ],
+    "linkedin_num_id": "1027869626",
+    "banner_image": "https://media.licdn.com/dms/image/v2/D4D16AQGTzn16t9phhw/profile-displaybackgroundimage-shrink_350_1400/B4DZivo3MuGQAo-/0/1755293382073?e=2147483647&v=beta&t=tYasYwHiPUG3BsggGs21PSS57WybTg8zuB413nDu8cw",
+    "honors_and_awards": null,
+    "similar_profiles": [],
+    "default_avatar": false,
+    "memorialized_account": false,
+    "bio_links": [
+      {
+        "title": "Personal Website",
+        "link": "https://zayedu.github.io/"
+      }
+    ],
+    "first_name": "Zayed",
+    "last_name": "Umer",
+    "influencer": false,
+    "timestamp": "2026-08-12T19:22:45.986Z",
+    "input": {
+      "url": "https://www.linkedin.com/in/zayed-umer"
+    }
+  },
+  "local_photo": "data\\linkedin_photos\\zayed-umer__usr-RpODPArgdqh007J.jpg"
+}

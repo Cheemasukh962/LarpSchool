@@ -1,0 +1,113 @@
+{
+  "luma_user_id": "usr-1RDl1W1RkfNSeOi",
+  "csv_name": "Ben Juntilla",
+  "csv_linkedin": "https://www.linkedin.com/in/benjuntilla",
+  "enriched_at": "2026-08-12T18:59:59.557501+00:00",
+  "batch_id": "sd_msqgcuh41lygyhc91a",
+  "profile": {
+    "id": "benjuntilla",
+    "name": "Ben Juntilla",
+    "city": "Greater Phoenix Area",
+    "country_code": "US",
+    "position": null,
+    "about": "Here's a profound statement to paste into your profile: LinkedIn isn't just a networking\u2026",
+    "current_company": {
+      "link": "https://www.linkedin.com/company/palantir-technologies?trk=public_profile_topcard-current-company",
+      "name": "Palantir Technologies",
+      "company_id": "palantir-technologies",
+      "location": null
+    },
+    "experience": null,
+    "url": "https://qa.linkedin.com/in/benjuntilla",
+    "educations_details": "Barrett, The Honors College",
+    "education": [
+      {
+        "title": "Barrett, The Honors College",
+        "url": "https://www.linkedin.com/school/barrett-the-honors-college-asu/",
+        "end_year": "2027",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      }
+    ],
+    "avatar": "https://media.licdn.com/dms/image/v2/D5603AQGIQlKw11wH9g/profile-displayphoto-scale_200_200/B56ZqVEnUVH8AY-/0/1763437609625?e=2147483647&v=beta&t=rVfTuIHtqrRAlxSDi6Hhowg5R2YTXLMWlW64X-4b4oc",
+    "volunteer_experience": [
+      {
+        "cause": "Science and Technology",
+        "duration": "Jan 2024 \u00b7 - Present \u00b7 \n\n2 years 8 months",
+        "duration_short": "- Present",
+        "info": "Leveraging the largest student org at ASU to help raise the skill level of every software-curious person",
+        "start_date": "Jan 2024",
+        "subtitle": "The Software Developers Association at ASU",
+        "title": "Senior Organizer"
+      }
+    ],
+    "followers": 479,
+    "connections": 460,
+    "current_company_company_id": "palantir-technologies",
+    "current_company_name": "Palantir Technologies",
+    "location": null,
+    "input_url": "https://www.linkedin.com/in/benjuntilla",
+    "linkedin_id": "benjuntilla",
+    "activity": [
+      {
+        "interaction": "Liked by Ben Juntilla",
+        "link": "https://www.linkedin.com/posts/chris-hodges-software-engineer_introducing-nova-our-internal-platform-for-activity-7463279666296963072-Ft2o",
+        "title": "It\u2019s been amazing to be on a team helping shape how AI agents support engineering at Dropbox. Coding agents are already useful for writing code\u2026",
+        "img": "https://media.licdn.com/dms/image/sync/v2/D4E27AQGZfASirqrO3g/articleshare-shrink_800/B4EZ59fbxVJsAQ-/0/1780221854424?e=2147483647&v=beta&t=2m__ffqsKGXuS9dJBdz2gxRyxcrzH5OeDvXaITilhwc",
+        "id": "7463279666296963072"
+      }
+    ],
+    "linkedin_num_id": "1069541825",
+    "banner_image": "https://media.licdn.com/dms/image/v2/D5616AQFDfwTsIT5OAg/profile-displaybackgroundimage-shrink_200_800/B56ZsGZ70TIcAU-/0/1765339021996?e=2147483647&v=beta&t=sycOQyqUf7q1KOlRErOjeFz7Sd9IyzzZ2WHLzWvVNzg",
+    "honors_and_awards": [
+      {
+        "title": "2nd in track, TreeHacks",
+        "publication": "Cloudflare",
+        "date": "2026-02-01T00:00:00.000Z",
+        "description": "Best Use of the Cloudflare Developer Platform, $100k credit award"
+      },
+      {
+        "title": "1st overall, AI Agents in Education Hackathon",
+        "publication": "ScaleU",
+        "date": "2025-03-01T00:00:00.000Z",
+        "description": "Built & pitched for money from ScaleU (https://scaleu.org), ASU's $330M edtech accelerator"
+      },
+      {
+        "title": "1st in track, sunhacks",
+        "publication": "Fidelity Investments",
+        "date": "2024-09-01T00:00:00.000Z",
+        "description": "sunhacks (https://sunhacks.io) is the largest student-led hackathon in Arizona, backed by MLH (https://mlh.io)"
+      },
+      {
+        "title": "National Merit Scholarship Award",
+        "publication": "Arizona State University",
+        "date": "2023-08-01T00:00:00.000Z",
+        "description": "Won full-tuition scholarship after being named a Finalist by the National Merit Scholarship Corporation"
+      },
+      {
+        "title": "National Leadership Conference Winner",
+        "publication": "Future Business Leaders of America",
+        "date": "2023-06-01T00:00:00.000Z",
+        "description": "For the Parliamentary Procedure competition event, out of ~100 finalists from across the US. Learned way too much about Robert's Rules of Order (1915) and can say I can run a pretty good meeting"
+      }
+    ],
+    "similar_profiles": [],
+    "default_avatar": false,
+    "memorialized_account": false,
+    "bio_links": [
+      {
+        "title": "Personal Website",
+        "link": "https://www.benjuntilla.com/"
+      }
+    ],
+    "first_name": "Ben",
+    "last_name": "Juntilla",
+    "influencer": false,
+    "timestamp": "2026-08-12T18:58:44.392Z",
+    "input": {
+      "url": "https://www.linkedin.com/in/benjuntilla"
+    }
+  },
+  "local_photo": "data\\linkedin_photos\\benjuntilla__usr-1RDl1W1RkfNSeOi.jpg"
+}

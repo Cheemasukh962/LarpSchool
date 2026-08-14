@@ -1,0 +1,162 @@
+{
+  "luma_user_id": "usr-VJH4HbgTCS7EAPR",
+  "csv_name": "Ben",
+  "csv_linkedin": "https://www.linkedin.com/in/ben-bioren",
+  "enriched_at": "2026-08-12T18:59:59.555176+00:00",
+  "batch_id": "sd_msqgcuh41lygyhc91a",
+  "profile": {
+    "id": "ben-bioren",
+    "name": "Ben Bioren",
+    "city": "Seattle, Washington, United States",
+    "country_code": "US",
+    "position": null,
+    "about": null,
+    "current_company": {
+      "link": "https://www.linkedin.com/company/annapurna-labs?trk=public_profile_topcard-current-company",
+      "name": "Annapurna Labs",
+      "company_id": "annapurna-labs",
+      "location": null
+    },
+    "experience": null,
+    "url": "https://br.linkedin.com/in/ben-bioren",
+    "educations_details": "University of Washington",
+    "education": [
+      {
+        "title": "University of Washington",
+        "url": "https://www.linkedin.com/school/university-of-washington/",
+        "start_year": "2023",
+        "end_year": "2027",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      },
+      {
+        "start_year": "2022-09",
+        "end_year": "2023-06",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      }
+    ],
+    "avatar": "https://media.licdn.com/dms/image/v2/D4D03AQEU4aZn3hu4kA/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1701919192491?e=2147483647&v=beta&t=t0Ua-83jYM5k_WT_zUjLktsmNbg830_491zVm4y54zU",
+    "volunteer_experience": [
+      {
+        "duration": "Sep 2025 \u00b7 - Present \u00b7 \n\n1 year",
+        "duration_short": "- Present",
+        "start_date": "Sep 2025",
+        "subtitle": "UW Robinson Center For Young Scholars",
+        "title": "Student Mentor - Early Entrance Program"
+      },
+      {
+        "duration": "Aug 2025 \u00b7 - Present \u00b7 \n\n1 year 1 month",
+        "duration_short": "- Present",
+        "start_date": "Aug 2025",
+        "subtitle": "Reading Partners",
+        "title": "Technical Consultant"
+      },
+      {
+        "cause": "Science and Technology",
+        "duration": "Sep 2022 \u00b7 - \nOct 2025 \u00b7 \n3 years 2 months",
+        "duration_short": "- \nOct 2025",
+        "start_date": "Sep 2022",
+        "subtitle": "FIRST",
+        "title": "Robotics Mentor"
+      },
+      {
+        "duration": "Feb 2026 \u00b7 - Present \u00b7 \n\n7 months",
+        "duration_short": "- Present",
+        "start_date": "Feb 2026",
+        "subtitle": "Seattle Science Lab",
+        "title": "SROP Mentor"
+      },
+      {
+        "subtitle": "Software Engineering Career Club at UW (SWECC)",
+        "title": "Mentor"
+      },
+      {
+        "duration": "Apr 2026 \u00b7 - Present \u00b7 \n\n5 months",
+        "duration_short": "- Present",
+        "start_date": "Apr 2026",
+        "subtitle": "COM\u00b2 at UW",
+        "title": "Mentor"
+      }
+    ],
+    "followers": 1177,
+    "connections": 500,
+    "current_company_company_id": "annapurna-labs",
+    "current_company_name": "Annapurna Labs",
+    "location": "Seattle",
+    "input_url": "https://www.linkedin.com/in/ben-bioren",
+    "linkedin_id": "ben-bioren",
+    "activity": [
+      {
+        "interaction": "Ben Bioren liked this",
+        "link": "https://www.linkedin.com/posts/jackblair876_last-weekend-terac-sponsored-a-track-at-activity-7475617481810878466-obz0",
+        "title": "Last weekend, Terac sponsored a track at the Berkeley AI Hackathon built around a simple challenge: Can you collect your own human data and use it to make an AI system better? Congratulations to the winners, MatchVision, who made soccer more accessible for blind and low-vision fans ahead of the 2026 World Cup. They started with a vision-language model and quickly discovered something surprising: modern VLMs are actually pretty bad at understanding what matters in a soccer match. The ball is small. Important actions happen off-ball. Crowd reactions don't explain why something happened. And generic video captioning models often miss the context that makes the game understandable. So instead of accepting the model's output, they built a human feedback pipeline. Using Terac, they collected annotations describing what an announcer should actually say during key moments in a match. They also collected gaze heatmaps showing where humans naturally focus their attention during play. Those two signals became training data. One taught the model where to look. And the other taught the model what was worth saying. The result wasn't just a better soccer accessibility product. It was a great example of a broader trend we're seeing across AI. For years, progress came from bigger models and bigger datasets. Increasingly, the bottleneck is becoming access to high-quality human judgment. The teams that win won't necessarily be the ones with the biggest models. They'll be the ones that can most effectively turn human expertise into training data, evaluations, and feedback loops. Shoutout to the incredible judges from the Terac team Giovanni Borgogno , Nicol\u00e1s Russo , Moritz Kamke , Germ\u00e1n Fern\u00e1ndez , and Vaibhav Vasudevan ! Also, a shoutout to the runners-up, Captain Ddoski, who tackled a completely different but equally important problem: helping AI systems determine whether information is actually trustworthy before acting on it. ...more ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQGbcHaHlhCxWQ/feedshare-shrink_800/B56Z766fA2G4Ag-/0/1782326096898?e=2147483647&v=beta&t=TsDJfHGJHgfTAMg6AsEEJw_99dH8hwGZJQCMteJxBEI",
+        "id": "7475617481810878466"
+      },
+      {
+        "interaction": "Ben Bioren liked this",
+        "link": "https://www.linkedin.com/posts/camie-sawa_as-an-engineering-intern-on-shopifys-search-activity-7399496086714769408-fGvx",
+        "title": "As an engineering intern on Shopify 's search and recommendations team, I build systems that help merchants focus on what they love: their products. This isn't my first time doing this work. In a radiation oncology lab at UW Medicine , I built an end-to-end clustering system to organize thousands of cancer research abstracts, automating what used to take medical professionals hundreds of hours. I started university at 15, not entirely sure where math and coding would take me. But I knew I wanted to work on something that mattered: whether it's clinicians advancing cancer research or merchants building their dream products, I'm here for it.\ud83d\udc9a Thank you to Julia Fedorin for capturing my journey! ...more ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D5605AQEZwPJL5LceTg/feedshare-thumbnail_720_1280/B56ZrBKbU7HkA0-/0/1764177331817?e=2147483647&v=beta&t=a-Q5tLm-bVraoN2BAqxqczJFQGy35vIT7WH4KnkVtws",
+        "id": "7399496086714769408"
+      },
+      {
+        "interaction": "Ben Bioren liked this",
+        "link": "https://www.linkedin.com/posts/tisyabhatia_cseed-buildspace-uw-activity-7397722982921457664-Qn2J",
+        "title": "Over the past 6 weeks, I've been a part of cseed 's amazing buildspace program, where the UW's most innovative and creative builders come together to make something amazing! I talked to some crazy cracked people who had so many creative ideas. I built checkpoint ( https://lnkd.in/gm3gWfda ), a fitness tracking app! Thanks to the GOATED buildspace team and mentors for an amazing experience :) #cseed #buildspace #uw ...more ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQFQhzIQCFDo0g/feedshare-shrink_800/B56Zqn6.OFIcAg-/0/1763753846570?e=2147483647&v=beta&t=imdGajT4oyQJiVpB1YO5vBM-yABFfYqQQDMxcpCtzAc",
+        "id": "7397722982921457664"
+      },
+      {
+        "interaction": "Ben Bioren liked this",
+        "link": "https://www.linkedin.com/posts/allen-ai_today-were-announcing-olmo-3our-leading-activity-7397278155201323008-iXIE",
+        "title": "Today we\u2019re announcing Olmo 3\u2014our leading fully open language model suite built for reasoning, chat, and tool use, & an open model flow that exposes not just the final weights, but the entire training journey. Most models ship as a single opaque snapshot. Olmo 3 opens the model flow end to end \u2013 pretraining, mid-training, and post-training \u2013 plus data recipes and code, so you can see how capabilities are built and customize any stage of the process. Meet the Olmo 3 family: \ud83c\udfd7\ufe0f Olmo 3-Base (7B, 32B)\u2014foundations for post-training with strong code, math, and reading comprehension skills \ud83d\udee0\ufe0f Olmo 3-Instruct (7B)\u2013focused on multi-turn chat and tool use \ud83e\udde0 Olmo 3-Think (7B, 32B)\u2013\u201cthinking\u201d models that surface their reasoning steps All are compact, dense models designed to run on hardware ranging from laptops to research clusters. Under the hood, we trained Olmo 3 on ~6T tokens from our new Dolma 3 pretraining dataset, plus new post-training sets with stronger data decontamination and richer math/code/reasoning mixes. A long-context extension pushes Olmo 3\u2019s context window to ~65K tokens\u2014enough for full papers, books, and other long files. At the center is Olmo 3-Think (32B), the best fully open 32B-scale reasoning model we\u2019re aware of, alongside our strongest 32B base model. In our evaluations: \u29bf Olmo 3-Think (32B) is the strongest fully open 32B-scale reasoning model \u29bf Olmo 3-Base models beat fully open Marin & Apertus and rival Qwen 2.5 and Gemma 3 \u29bf Olmo 3-Instruct (7B) beats Qwen 2.5, Gemma 3, and Llama 3.1 on tough chat + tool-use benchmarks We\u2019re also rolling out a major Ai2 Playground upgrade alongside Olmo 3: \ud83e\udd14 Thinking mode to see intermediate reasoning on complex tasks \ud83e\uddf0 Tool calling so you can define JSON-schema tools or call tools via our Asta platform Olmo 3 is wired into OlmoTrace in the Ai2 Playground, so you don\u2019t just see its behavior\u2014you can trace it. For example, you can ask Olmo 3-Think (32B) to answer a general-knowledge question, then use OlmoTrace to inspect where and how the model may have learned to generate parts of its response. If you care about AI you can customize, inspect, and improve, Olmo 3 is for you\u2014available now under Apache 2.0. Watch an interview with Olmo leads Hanna Hajishirzi and Noah Smith about how & why we built Olmo 3 and what comes next \ud83d\udc49 https://lnkd.in/eGHnu6TH Then, dive deeper & get started: \u2728 Try Olmo 3 in the Ai2 Playground \u2192 https://lnkd.in/eniFwyWC \ud83d\udcbb Download the models: https://lnkd.in/eMQWZr2q \ud83d\udcdd Read more in our blog: https://lnkd.in/e3vDT25z \ud83d\udcda Check out the tech report: https://lnkd.in/ek-ucc2Q ...more ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D4E05AQFjpoEQfCMaLA/videocover-high/B4EZqhpRoHIQBY-/0/1763648544499?e=2147483647&v=beta&t=9pIIz5Awh0Mm2uV6uZXVy0U9ngPUjTX0nuviaZnxW18",
+        "id": "7397278155201323008"
+      },
+      {
+        "interaction": "Ben Bioren liked this",
+        "link": "https://www.linkedin.com/posts/wuseokjung_were-inviting-10-people-to-the-corgi-office-activity-7379891494662356992-l2Ws",
+        "title": "we\u2019re inviting 10 people to the Corgi office for dinner. requirements: - you\u2019re in sf (10/9) - currently in college (willing to drop out/graduate in december/new grad) - experience in sales/marketing/product/engineering - you like halal guys and domino\u2019s you\u2019ll get to spend the evening with our team at our office. we\u2019ll give you the proper startup experience you won\u2019t find in startups anymore. food and drinks will be provided. comment your email and i\u2019ll send over the partiful. ...more ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D4D22AQF9jk47EfHbZA/feedshare-shrink_800/B4DZmqkK6CH0Ag-/0/1759503242719?e=2147483647&v=beta&t=NERj4TmoPpqFKdK0jUD5LFBwZRSzjV-qWch4C8rrUAI",
+        "id": "10"
+      }
+    ],
+    "linkedin_num_id": "1198834334",
+    "banner_image": "https://media.licdn.com/dms/image/v2/D5616AQF7ouKj8XcUSw/profile-displaybackgroundimage-shrink_200_800/B56ZqGsHrOI8AU-/0/1763196304626?e=2147483647&v=beta&t=hp0GrfL1m4hNQkT9rxKQKT5PRjcS6-Oka7YZdTBeBHQ",
+    "honors_and_awards": [
+      {
+        "title": "First Place at DubHacks",
+        "publication": "DubHacks",
+        "date": "2025-10-01T00:00:00.000Z",
+        "description": null
+      },
+      {
+        "title": "Julian C. Stanley Study of Exceptional Talent",
+        "publication": "Johns Hopkins Center for Talented Youth",
+        "date": "2021-08-01T00:00:00.000Z",
+        "description": null
+      }
+    ],
+    "similar_profiles": [],
+    "default_avatar": false,
+    "memorialized_account": false,
+    "bio_links": [
+      {
+        "title": "Personal Website",
+        "link": "https://bbioren.github.io/"
+      }
+    ],
+    "first_name": "Ben",
+    "last_name": "Bioren",
+    "influencer": false,
+    "timestamp": "2026-08-12T18:58:42.212Z",
+    "input": {
+      "url": "https://www.linkedin.com/in/ben-bioren"
+    }
+  },
+  "local_photo": "data\\linkedin_photos\\ben-bioren__usr-VJH4HbgTCS7EAPR.jpg"
+}

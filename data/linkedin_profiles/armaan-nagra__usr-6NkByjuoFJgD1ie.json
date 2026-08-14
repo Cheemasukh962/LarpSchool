@@ -1,0 +1,256 @@
+{
+  "luma_user_id": "usr-6NkByjuoFJgD1ie",
+  "csv_name": "Armaan",
+  "csv_linkedin": "https://www.linkedin.com/in/armaan-nagra",
+  "enriched_at": "2026-08-12T18:58:28.955504+00:00",
+  "batch_id": "sd_msqgad6c2eeefcaqas",
+  "profile": {
+    "id": "armaan-nagra",
+    "name": "Armaan Nagra",
+    "city": "San Francisco Bay Area",
+    "country_code": "US",
+    "position": null,
+    "about": "armaann.com",
+    "current_company": {
+      "link": "https://uk.linkedin.com/company/entrepreneurs-first?trk=public_profile_topcard-current-company",
+      "name": "Entrepreneurs First",
+      "company_id": "entrepreneurs-first",
+      "location": null
+    },
+    "experience": null,
+    "url": "https://in.linkedin.com/in/Armaan-nagra",
+    "educations_details": "University of Warwick",
+    "education": [
+      {
+        "title": "University of Warwick",
+        "url": "https://uk.linkedin.com/school/uniofwarwick/",
+        "start_year": "2024-09",
+        "end_year": "2026-06",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      },
+      {
+        "start_year": "2022-09",
+        "end_year": "2024-06",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      }
+    ],
+    "avatar": "https://media.licdn.com/dms/image/v2/D5603AQH9QtIS5H76ww/profile-displayphoto-scale_200_200/B56Z_ju82hJ8Ac-/0/1786232166633?e=2147483647&v=beta&t=Hn9omwzEmpkE0swya-yLPgw5zq41gJ5HROlJ5GTBuKg",
+    "languages": [
+      {
+        "subtitle": "Native or bilingual proficiency",
+        "title": "English"
+      },
+      {
+        "subtitle": "Full professional proficiency",
+        "title": "Italian"
+      },
+      {
+        "subtitle": "Full professional proficiency",
+        "title": "Hindi"
+      },
+      {
+        "subtitle": "Native or bilingual proficiency",
+        "title": "Punjabi"
+      }
+    ],
+    "certifications": [
+      {
+        "meta": "Issued Jun 2025",
+        "subtitle": "Y Combinator",
+        "title": "AI Startup School 2025",
+        "credential_url": null,
+        "credential_id": null
+      }
+    ],
+    "followers": 4626,
+    "connections": 500,
+    "current_company_company_id": "entrepreneurs-first",
+    "current_company_name": "Entrepreneurs First",
+    "projects": [
+      {
+        "title": "Clone Yourself",
+        "start_date": "Dec 2025",
+        "description": "A Chrome extension that deploys an autonomous AI agent into meetings on your behalf. It joins calls, listens, responds, and makes decisions in your voice and style, letting you be in multiple places at once. Built to handle low-to-mid value meetings without requiring your direct involvement."
+      },
+      {
+        "title": "Sub $50 Gaze Prediction System (Entrepreneurs First Hackathon). \"Computer Vision-Powered Eye Tracking with Ensemble Learning and Real-Time Inference Pipeline\"",
+        "start_date": "May 2025",
+        "description": "Developed an affordable eye tracking system using dual webcam configuration and advanced computer vision techniques. Implemented pupil detection via dlib facial landmark recognition, MediaPipe iris tracking, and adaptive thresholding with contour detection. Built a machine learning pipeline using scikit-learn that generates polynomial features from eye coordinates and feeds them into a RandomForest regression model to accurately map eye movements to screen coordinates. Incorporated Kalman filtering for tracking stability and a historical buffer system for robust performance in varying lighting conditions."
+      },
+      null,
+      null,
+      {
+        "title": "Fetch360",
+        "start_date": "Dec 2024",
+        "description": "A browser extension to allow students across the world to download lecture recordings from Echo360.Used to be published on the Chrome Web Store with 10,000+ impressions, with positive feedback from students across the country at Warwick, LSE and more.I had to remove Fetch 360 from the Chrome Web Store after being contacted by The University of Warwick and Echo360, to avoid facing disciplinary and legal actions"
+      },
+      {
+        "title": "ASL Buddy (HackSheffield 2024 2x Winning Project)",
+        "start_date": "Nov 2024",
+        "description": "An award-winning iOS application that leverages cutting-edge computer vision to interpret American Sign Language (ASL) and gamifies learning through interactive quizzes. This project won the Top Sponsor Prize at HackSheffield 9 (sponsored by Frasers Group) and an additional prize from SWICS."
+      },
+      null,
+      null,
+      {
+        "title": "Scholarly (DurHack 2024)",
+        "start_date": "Nov 2024",
+        "description": "A web application that eases scholarship discovery. Using advanced web scraping, it pushes scholarships into a centralized database. Users provide their details, and AI matches them with scholarships they are most likely to succeed in securing."
+      },
+      null,
+      {
+        "title": "Money Mentor (The Warwick Hackathon 2024)",
+        "start_date": "Oct 2024",
+        "description": "A financial literacy app that leverages OCR and computer vision to analyse receipts, providing users with actionable spending insights.The project was presented in front of judges from Capital One, Netcraft and the University of Warwick as part of The Warwick Hackathon 2024."
+      },
+      null,
+      null,
+      null,
+      {
+        "title": "Decipher",
+        "start_date": "Sep 2022",
+        "description": "A web app designed to explain python code to beginners starting out in their programming journey.Leverages Machine Learning through the OpenAI API to analyse and explain each line of code in plain, beginner friendly language.Platform uses a robust user authentication system with login and registration, enabling users to save and revisit previous code queries for continuous learning."
+      }
+    ],
+    "location": null,
+    "input_url": "https://www.linkedin.com/in/armaan-nagra",
+    "linkedin_id": "armaan-nagra",
+    "activity": [
+      {
+        "interaction": null,
+        "link": "https://www.linkedin.com/posts/a-burmistrov_commoditytrading-agritech-graintrading-activity-7492688238256705537-9N8f",
+        "title": "We opened individual free 3-day access to AgroGate for you to try. Built for agricultural commodity desks buried in scattered deal flow. agrogate.net Connect your WhatsApp and email and watch your trade messages structure themselves live. We're genuinely rebuilding this around what real trading desks tell us they need. So if you trade physical commodities \u2013 grains, oils, softs, metals, anything \u2013 we'd love to hear how your team handles this today. Comment or send a message if you trade, or tag someone who does. Every conversation helps us build this right. Every conversation helps us build this right. #CommodityTrading #AgriTech #GrainTrading #Agriculture #SupplyChain #InternationalTrade ...more ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D4D22AQHQjtidPewktQ/feedshare-image-high-res/B4DZ_tgPy8HEAU-/0/1786396081654?e=2147483647&v=beta&t=lXDtAbqTKTVV4buHBhnjoh-DHVxLib_BZBH-ULZZfwc",
+        "id": "7492688238256705537"
+      },
+      {
+        "interaction": null,
+        "link": "https://www.linkedin.com/posts/djahitgench_were-building-something-cool-for-factories-activity-7492293757938102272-uGMZ",
+        "title": "We\u2019re building something cool for factories/warehouses at The Bridge by Entrepreneurs First . If: -you work(ed) at one -you\u2019ve worked at a company selling to these customers We want to talk to you. Comment/dm us. Armaan Nagra ...more ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQHr5JrMf90Bsw/feedshare-shrink_800/B4EZ_n5cCGI0Ac-/0/1786302022384?e=2147483647&v=beta&t=DOZqpSNcU3XL8-24yaL4eCn-tmfSSH9y4M2baw7wJVg",
+        "id": "7492293757938102272"
+      },
+      {
+        "interaction": "Armaan Nagra shared this",
+        "link": "https://www.linkedin.com/posts/armaan-nagra_had-a-great-time-last-weekend-at-y-combinators-activity-7488698312863227904-DOJa",
+        "title": "Had a great time last weekend at Y Combinator 's Startup School 2026. I got the chance to hear from people that have truly changed the trajectory of technology (some being role models of mine) including: Jensen Huang , Alexandr Wang , Sam Altman, Jeff Dean , Boris Cherny , Blake Scholl , \ud83e\udd84 Peter Steinberger , among many others. More importantly, though, were the people I met throughout the week. I spoke with founders and engineers from all over the world, each working on genuinely important and interesting problems. To everyone I met: stay in touch :) I\u2019m now in San Francisco with Entrepreneurs First , working on a startup. If you\u2019re around, building something interesting or just want to grab a coffee, reach out! ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQG2e9JV5lTzZw/feedshare-image-high-res/B4EZ.0zaMQIkAc-/0/1785444803655?e=2147483647&v=beta&t=Ve7UR_WFU4gSoA7PcgZ6MqbJkwAXYL3IzJyBnj23SjY",
+        "id": "7488698312863227904"
+      },
+      {
+        "interaction": "Armaan Nagra shared this",
+        "link": "https://www.linkedin.com/posts/armaan-nagra_it-was-so-good-the-first-time-i-had-to-run-activity-7455241844214546432-h-4_",
+        "title": "it was so good the first time, i had to run it back i'll be attending Y Combinator 's startup school. last year's was one of the best events i went to all year, and this lineup is insaneee \u2014 Jensen Huang , Sam Altman and Alexandr Wang to name a few. i'll be in SF for Entrepreneurs First , say hi if you're around :) ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQFNjIYv_z94kA/feedshare-shrink_800/B4EZ3ZW83eKQAc-/0/1777468166108?e=2147483647&v=beta&t=whU3I5OUeT0yMNZdO1b3IL4LxPq9m_PBKctP-Feu17g",
+        "id": "7455241844214546432"
+      },
+      {
+        "interaction": null,
+        "link": "https://www.linkedin.com/posts/stmio_im-delighted-to-share-that-i-will-be-joining-activity-7447970968179793920-UZEb",
+        "title": "I'm delighted to share that I will be joining Google as an intern this summer! I'd like to thank my recruiters Danny L. and Alicja Cybulska for all of their support throughout the application process, and Bindu Padmalayam for inviting me to join her SRE team in London. I'm really thankful for the support of everyone I met at Google during the process \ud83d\ude0a I was also lucky to have had such great advice and support from my close friends at Warwick: Louis , Jakub , Finlay , Armaan and Aaron among many others :) ...more ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQEkSKO9MqPy0g/feedshare-shrink_800/B4EZ1x9TNlHsAc-/0/1775733388854?e=2147483647&v=beta&t=LS2_X7lQqF60LR6MD3-N4LokkFy0nj5go3b7vxhtqjc",
+        "id": "7447970968179793920"
+      },
+      {
+        "interaction": "Armaan Nagra shared this",
+        "link": "https://www.linkedin.com/posts/armaan-nagra_im-joining-entrepreneurs-first-as-a-founder-activity-7443378250099232768-y7Ry",
+        "title": "I'm joining Entrepreneurs First as a founder in residence. EF backs exceptional individuals with $250k to build startups from scratch. Their portfolio is now collectively valued at over $16B. It\u2019s not an easy decision. I was fortunate enough to get internship offers in Quant, Big Tech/FAANG and IB. I also got elected President of the Warwick Coding Society . Leaving all of that on the table isn\u2019t easy. My time at Warwick was great. I met some of my closest friends, found a love for hackathons (9 and counting), and somehow learnt to feed myself. But more than anything, it gave me the space to figure out what I want to spend every waking hour doing. Turns out I love building things fast with people who care whilst being sleep deprived and running on caffeine. I wish every day was a hackathon. So hopefully this next chapter feels like one. Massive thank you to the Entrepreneurs First and The Bridge team for betting on me. And to my friends and family for putting up with me. ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQHD8Q8aEbmAxg/feedshare-image-high-res/B4EZ0wxDmpIwAU-/0/1774639664722?e=2147483647&v=beta&t=VQtumRuw7quTHQ8-VLoZjMH8mAfg3DgFnnmaBayhWTg",
+        "id": "7443378250099232768"
+      },
+      {
+        "interaction": null,
+        "link": "https://www.linkedin.com/posts/warwickcodingsociety_after-nearly-60-applications-to-various-roles-activity-7441190727163957248-iLGo",
+        "title": "After nearly 60 applications to various roles and a massive 1.6k votes cast, the results are IN!\ud83d\udd25 We are delighted to announce the new exec for the 2026/2027 academic year\ud83d\ude80 A massive thank you to every single person who stepped up and applied, the competition this year was fiercer than ever. And to everyone who voted: thank you for shaping the future of Warwick Coding Society! Swipe through to meet the team!\u27a1\ufe0f Which event are you most excited for next year? ...more ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQF-MGeZNfoyMw/feedshare-shrink_1280/B4EZ0RriG.JEAM-/0/1774118118111?e=2147483647&v=beta&t=8bgTJd8KxBDN5HhfgIXJ_P2kiI7n1g7iuUZkjTrSiPc",
+        "id": "60"
+      },
+      {
+        "interaction": null,
+        "link": "https://www.linkedin.com/posts/warwickcodingsociety_we-are-excited-to-announce-that-we-are-partnering-activity-7420389871116062721-q-cw",
+        "title": "We are excited to announce that we are partnering with HackEurope , Europe\u2019s largest student hackathon. On February 21st-22nd, they are bringing Europe\u2019s top 1,000 student engineers to Dublin, Stockholm, Paris to hack for 30 hours non-stop! There will be: \u2022 \u20ac250k+ Prize Pool (\u20ac50k Cash) \u2022 Flight reimbursements for talent from across Europe to Dublin, Paris and Stockholm \u2022 Credits & compute, and loads of other stuff! Come meet the sponsors, (many recruiting) at HackEurope! Susquehanna International Group , Crusoe , Paid , Monzo Bank , Stripe , Anthropic , Intercom , Zed Industries , ElevenLabs , Miro , Lovable , Project Europe , BearingPoint , Hugging Face , BlueDot Impact , TCD Computer Science and Statistics , incident.io , Trinity Business School , Norrsken , CentraleSup\u00e9lec, Picsart , Patch , Granola , Evervault . If you\u2019re a bright and ambitious student thinking of applying, reach out to us for a limited priority referral and be fast-tracked! ...more ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D4E05AQEZt0grBTWJpg/videocover-high/B4EZvnV0meH8BU-/0/1769112819370?e=2147483647&v=beta&t=3q2i9aK86TYIrejRkaCnV9yUgznp9NTLovCX0TKeNp0",
+        "id": "7420389871116062721"
+      },
+      {
+        "interaction": null,
+        "link": "https://www.linkedin.com/posts/armaan-nagra_i-cloned-myself-imagine-a-world-where-activity-7416223448613773312-p5_O",
+        "title": "I cloned myself?! \ud83e\udd16 Imagine a world where you can deploy instances/clones/copies/agents of yourself out there that sound indistinguishable from you, reason and decide (with the same gut feeling) as you, and operate autonomously in real world contexts, handling low to mid value interactions without requiring your direct involvement, well that's what I'm trying to do. It'll save you a lot of time \u23f1\ufe0f and increase productivity as you'll be able to be in 2 or more meetings/calls/places in parallel. stick around if you want to see the progress I make with this and if you're interested in trying it out for yourself, go to armaann.com/clone shoutout to my good friends Demir and Carlos for allowing me to demo and test this on them :) \ud83d\ude4c ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D4E05AQEaNfPK3WrQhw/videocover-high/B4EZuu34GvLwBU-/0/1768165446179?e=2147483647&v=beta&t=Z-TKs_ulu6wMp2Qjx8TBD9ao2iK3kvTbiHVF2QS5Vso",
+        "id": "7416223448613773312"
+      },
+      {
+        "interaction": "Armaan Nagra replied to a comment 2d",
+        "link": null,
+        "title": "all you Alex GPT \ud83d\ude4f",
+        "img": null,
+        "id": null
+      },
+      {
+        "interaction": "Armaan Nagra replied to a comment 2d",
+        "link": null,
+        "title": "likewise!",
+        "img": null,
+        "id": null
+      },
+      {
+        "interaction": "Armaan Nagra liked this",
+        "link": "https://www.linkedin.com/posts/christianbakhos_i-thought-finding-a-cofounder-was-mostly-activity-7492942975442915328-kSc_",
+        "title": "I thought finding a cofounder was mostly about chemistry. One week in San Francisco changed my mind. It\u2019s been a wild first week. I watched a SpaceX launch, met some incredibly sharp people, and had conversations that completely shifted how I think about building. But the biggest thing I\u2019ve been thinking about is this: Finding a cofounder is a lot like getting into a relationship. Chemistry matters, but chemistry alone is not enough. Complementary skills are not enough either. You can get along incredibly well with someone, and still be completely wrong for each other as cofounders. What matters first is whether you want to build toward the same future. Do you share the same level of ambition? Do you agree on what is worth spending the next 10 years chasing? Do you actually want to build the same kind of company? Then comes the second part: What is your edge? What is theirs? And when you put the two together, do those edges compound toward the same vision? That\u2019s when the relationship starts to make sense. The other thing that has surprised me about SF is how willing people are to help. You can meet someone who has already built something huge, tell them you\u2019re still at the beginning, and they\u2019ll still give you their time. They\u2019ll challenge your thinking, share what they learned, make an introduction, or point you in a better direction. There\u2019s a ridiculous amount of ambition here, but also a ridiculous amount of generosity. One week down. Still learning, still testing ideas, still figuring out what is worth dedicating the next decade to. But I know why I came here. To build. For the founders here: What made you realize you\u2019d found the right cofounder?",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQGYXlrNdBzh5Q/feedshare-shrink_800/B4EZ_uR8eYGoAk-/0/1786409109653?e=2147483647&v=beta&t=JZlCoA43B9n931xcgoGbNB29stV_6PR1wAM7I05-NSI",
+        "id": "7492942975442915328"
+      },
+      {
+        "interaction": "Armaan Nagra reacted on this",
+        "link": "https://www.linkedin.com/posts/a-burmistrov_commoditytrading-agritech-graintrading-activity-7492688238256705537-9N8f",
+        "title": "We opened individual free 3-day access to AgroGate for you to try. Built for agricultural commodity desks buried in scattered deal flow. agrogate.net Connect your WhatsApp and email and watch your trade messages structure themselves live. We're genuinely rebuilding this around what real trading desks tell us they need. So if you trade physical commodities \u2013 grains, oils, softs, metals, anything \u2013 we'd love to hear how your team handles this today. Comment or send a message if you trade, or tag someone who does. Every conversation helps us build this right. Every conversation helps us build this right. #CommodityTrading #AgriTech #GrainTrading #Agriculture #SupplyChain #InternationalTrade",
+        "img": "https://media.licdn.com/dms/image/v2/D4D22AQHQjtidPewktQ/feedshare-image-high-res/B4DZ_tgPy8HEAU-/0/1786396081654?e=2147483647&v=beta&t=lXDtAbqTKTVV4buHBhnjoh-DHVxLib_BZBH-ULZZfwc",
+        "id": "7492688238256705537"
+      },
+      {
+        "interaction": "Armaan Nagra liked this",
+        "link": "https://www.linkedin.com/posts/nihal-d-a67845132_we-rejected-a-candidate-he-referred-us-6-activity-7492561645580296192-wd48",
+        "title": "we rejected a candidate. he referred us 6 engineers anyway. true story. went through our full process at whop. didn't work out. normally that's where the relationship dies. instead, he kept referring people. five or six genuinely insane engineers, straight into our pipeline. why? - we responded fast, every single time - no ghosting after the rejection - treated him like a person, not a pipeline stage A positive candidate experience is game-changing. acceptance and rejection are outcomes you can't fully control. the experience is the part you can. the biggest compliment a candidate can give you isn't accepting the offer. it's getting rejected and still sending you their friends :) p.s. we're accepting referrals too ($10k per person) know a high-agency engineer or designer? we pay top dollar, provide housing in palo alto, and give you end-to-end ownership at a company growing 350% year-over-year.",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQFZO1-fgAcXdA/feedshare-shrink_800/B4EZ_p_G1QIQAc-/0/1786337062914?e=2147483647&v=beta&t=orfom4a0exStpa3R0aA0LzasaxaT_9CgaGsXvWHOouQ",
+        "id": "6"
+      },
+      {
+        "interaction": "Armaan Nagra liked this",
+        "link": "https://www.linkedin.com/posts/nina-varadarajan_after-4-years-at-the-university-of-warwick-activity-7488928969740849152-_f4J",
+        "title": "After 4 years at The University of Warwick , I have graduated with a First Class in Computer Science MEng and received the Women in STEM prize for the best overall female mark \ud83c\udf89 A highlight of fourth year was completing my group dissertation, \u201cDesign and Evaluation of a Domain-Specific AI Platform to Enhance Undergraduate Student Attainment\u201d, working with a great team to achieve 80% on our final report. Thank you to Yulia Timofeeva , my personal tutor and head of department, for your encouragement and support during my time at university! Looking ahead, I\u2019m excited to be returning to JPMorganChase as a Software Engineer on their graduate program, and hope to get involved with more women in tech initiatives! \ud83c\udf1f",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQFzizOd1a5Dbg/feedshare-shrink_800/B4EZ.4FMbkJIAc-/0/1785499797838?e=2147483647&v=beta&t=xPn6Tp6daIyg3Co-uHiSYsKgS3asa8SIHfvRZWvTi6M",
+        "id": "4"
+      },
+      {
+        "interaction": "Armaan Nagra reacted on this",
+        "link": "https://www.linkedin.com/posts/joseph-yewlett-7574bb178_qui-ne-tente-rien-na-rien-nothing-activity-7492680558423175169-7DB3",
+        "title": "\u00ab Qui ne tente rien, n'a rien \u00bb \ud83d\udcab {nothing ventured, nothing gained} Un mois \u00e0 Sciences Po, sans raison particuli\u00e8re (ou presque) \ud83c\uddeb\ud83c\uddf7 A month ago, I packed my bags for Paris, venturing on my first study abroad, leaving behind home comfort, exchanging it for a thirst of the unknown. I decided to go to the university, Sciences Po in Paris to study French intensively at B2-C1 level for a month. This involved writing and standard exam practice, alongside real world speaking experience, often in the form of social and historically contextual visits during our atelier {workshop} sessions. I decided to take part in this venture, purely because I believe each language we know gives us a different perspective on the world... \u00ab apprendre une nouvelle langue, c'est avoir une nouvelle \u00e2me \u00bb {to learn a new language, is to have a new soul}. Having taken French for so long before I came to university, it only felt like a natural step, and one that will allow me to later take the DALF C1 exam, signalling recognised proficiency / fluency, ideally within the next 3-6 months. As a Computer Science student, this was a wholly new domain, especially studying alongside and socialising with people who came mainly from a humanities / political science background, and it gave me new insights and ways of thinking I will take back with me. I am so glad that I partook in this course, deepening my level of the French language, and more importantly motivating me to keep it up in the future. To my 2 professors, Marie LeCocq and Assia M'Jalled, and to all the friends I made along the way - it was a pleasure to spend the month with you guys \u203c\ufe0f Now the computer science lock-in resumes... \ud83d\udc40",
+        "img": "https://media.licdn.com/dms/image/v2/D4D22AQH8AflCdNe-5g/feedshare-shrink_800/B4DZ_tZQx4I8Ac-/0/1786394251083?e=2147483647&v=beta&t=z0BMspxZhPGySyZDvRDmLIiM3QX1t_moLqFsvk9DtnM",
+        "id": "7492680558423175169"
+      }
+    ],
+    "linkedin_num_id": "892606049",
+    "banner_image": "https://media.licdn.com/dms/image/v2/D4E16AQGLToQnTnLjqg/profile-displaybackgroundimage-shrink_200_800/B4EZ9lL78xJYAQ-/0/1784109056131?e=2147483647&v=beta&t=cX4_ugb2PptScs09ogKFy4KEq9zqtn5uIo3OdSbLQRM",
+    "honors_and_awards": null,
+    "similar_profiles": [],
+    "default_avatar": false,
+    "memorialized_account": false,
+    "bio_links": [
+      {
+        "title": "Personal Website",
+        "link": "https://armaann.com/"
+      }
+    ],
+    "first_name": "Armaan",
+    "last_name": "Nagra",
+    "influencer": false,
+    "timestamp": "2026-08-12T18:56:44.926Z",
+    "input": {
+      "url": "https://www.linkedin.com/in/armaan-nagra"
+    }
+  },
+  "local_photo": "data\\linkedin_photos\\armaan-nagra__usr-6NkByjuoFJgD1ie.jpg"
+}

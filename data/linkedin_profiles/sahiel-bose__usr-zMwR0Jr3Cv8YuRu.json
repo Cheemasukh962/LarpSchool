@@ -1,0 +1,173 @@
+{
+  "luma_user_id": "usr-zMwR0Jr3Cv8YuRu",
+  "csv_name": "Sahiel Bose",
+  "csv_linkedin": "https://www.linkedin.com/in/sahiel-bose",
+  "enriched_at": "2026-08-12T19:16:49.709028+00:00",
+  "batch_id": "sd_msqgxyk1xj7v4ip1",
+  "profile": {
+    "id": "sahiel-bose",
+    "name": "Sahiel Bose",
+    "city": "San Francisco Bay Area",
+    "country_code": "US",
+    "position": null,
+    "about": "sahielbose[at]g[dot]ucla[dot]edu sahielbose[dot]com",
+    "current_company": {
+      "link": "https://www.linkedin.com/company/openswarm?trk=public_profile_topcard-current-company",
+      "name": "Open Swarm",
+      "company_id": "openswarm",
+      "location": null
+    },
+    "experience": null,
+    "url": "https://ph.linkedin.com/in/Sahiel-bose",
+    "educations_details": "UCLA",
+    "education": [
+      {
+        "start_year": "2022-08",
+        "end_year": "2026-06",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      }
+    ],
+    "avatar": "https://media.licdn.com/dms/image/v2/D5603AQFpezLztsjteQ/profile-displayphoto-scale_200_200/B56Z5nJ6yrIIAc-/0/1779847114544?e=2147483647&v=beta&t=bFuq5MrEwYQUjFsPLOz61PCiqP0DLq8LhNTvwkPPF2M",
+    "followers": 1457,
+    "connections": 500,
+    "current_company_company_id": "openswarm",
+    "current_company_name": "Open Swarm",
+    "location": null,
+    "input_url": "https://www.linkedin.com/in/sahiel-bose",
+    "linkedin_id": "sahiel-bose",
+    "activity": [
+      {
+        "interaction": "Sahiel Bose shared this",
+        "link": "https://www.linkedin.com/posts/sahiel-bose_we-were-finalists-at-the-abridge-x-anthropic-activity-7484507463120211970-_k2F",
+        "title": "We were finalists at the Abridge x Anthropic x Lightspeed Hackathon, top 6 out of 115 teams. We built Vigil: https://lnkd.in/ghUyiZex Vigil is a continuous re-triage agent for clinic and ER waiting rooms. Most patients get triaged once at intake and then wait, sometimes for hours, while their condition keeps changing and no one is watching. We fine-tuned a YOLO pose model to pick up on fainting, falling, and seizures, paired it with audio distress detection, and fed those signals through Claude alongside the patient's clinical chart to catch when someone's urgency has likely increased. If the evidence is serious, Vigil calls the charge nurse directly. It also writes up a clinical note and a FHIR record automatically, so the whole incident is documented. Thank you to Pranav Achar for building this with me from idea to demo, and to John Albert for the insight that helped shape the idea early on. Thanks to Cerebral Valley for hosting, and to the judges from Anthropic, Abridge, Lightspeed, and Cerebral Valley for their time and feedback. ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQHNqwPyNMKSgQ/feedshare-image-high-res/B56Z95P3xJHIAc-/0/1784445631864?e=2147483647&v=beta&t=UgmXVHgv0bgv6pe-jzumDBQ9NmSqWQCBBFd73cIp3YU",
+        "id": "7484507463120211970"
+      },
+      {
+        "interaction": "Sahiel Bose shared this",
+        "link": "https://www.linkedin.com/posts/sahiel-bose_we-won-2nd-place-at-the-qualcomm-x-meta-x-activity-7482567231504023552-M-kT",
+        "title": "We won 2nd Place at the Qualcomm x Meta x PyTorch Hackathon, and also took home a pair of Ray Ban Meta Glasses. We built SixthSense: https://lnkd.in/gBRda3rU SixthSense is a wearable system that uses on-device sensors to detect crowd density and proximity, then delivers haptic feedback to help users navigate spaces more safely and confidently, all running locally on the edge with no cloud dependency. Thanks to Derrick J. , Emre Gumus , and Lauren Lunde from Qualcomm for talking through on-device AI with us and how to actually get models running locally on the edge. Rafael Levi from Bright Data checked in with us throughout the build and kept pushing us to not give up. Siddartha Pothapragada from Meta gave us honest feedback on the demo that made us rework it. Julia Kasper from GitHub helped us out along the way too. Thank you to my team, Shanay Gaitonde , Pranav Achar , and Anirudha Das , for building this with me. And thanks to ExecuTorch, GitHub , lablab.ai , and Bright Data for hosting. ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQGhV2g9FJ9Fxw/feedshare-shrink_800/B56Z9drPkKGgAc-/0/1783983045439?e=2147483647&v=beta&t=ATTbGxSstLGLG-MsMDTf-7y9LRSmTf9CEHanbcbJejE",
+        "id": "7482567231504023552"
+      },
+      {
+        "interaction": null,
+        "link": "https://www.linkedin.com/posts/pytorch_pytorch-foundation-supported-the-executorch-activity-7478552321296310272-25S0",
+        "title": "PyTorch Foundation supported the ExecuTorch Hackathon in San Francisco, where more than 100 participants across 20+ teams built real-time AI applications using PyTorch and ExecuTorch. Teams built on Snapdragon -powered Samsung Electronics Galaxy S25 Ultra devices, focusing on latency, offline capability, privacy-sensitive processing, energy efficiency, and real-time user experience. Congratulations to the winning teams: 1st Place: SafeScreen AI, an on-device visual safety layer 2nd Place: SixthSense, an assistive wearable that converts visual information into directional haptic signals 3rd Place: Toddle AI, a privacy-first prototype for analyzing toddler walking patterns locally The winning projects showed how local execution can support applications that require immediate feedback, limited connectivity, or sensitive data processing. Read the full recap from Matt White (PyTorch Foundation), Andrew Caples ( Meta ), and Lauren Lunde ( Qualcomm ): https://lnkd.in/ee5T5qFK ...more ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQHIchsgVFIxBA/feedshare-shrink_800/B4EZ8kntPQHsAc-/0/1783025816859?e=2147483647&v=beta&t=JwdlWfSNZhnC2nopSFjQJVJBeBMkG2RedeegKehzAYs",
+        "id": "7478552321296310272"
+      },
+      {
+        "interaction": null,
+        "link": "https://www.linkedin.com/posts/pranavachar_thrilled-to-share-that-we-won-1st-place-at-activity-7464501361766731777-JEKW",
+        "title": "Thrilled to share that we won 1st Place at the Scalekit x Apify x Entire.io Hackathon \ud83c\udfc6 Huge shoutout to my incredible teammates Sahiel Bose , Shanay Gaitonde , and Nithin Aruswamy . Couldn\u2019t have done it without you guys! Also, big thanks to Samuel Nvota for judging, Petros Hong from Apify and Tamilselvi Ramasamy from Scalekit for hosting, and Jakub Wolf from the Apify team for being there and supporting the event. Grateful for everyone we met and for an amazing hackathon experience. ...more ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQEN-LsfExtavA/feedshare-shrink_800/B56Z5c8akTJEAc-/0/1779675803207?e=2147483647&v=beta&t=tolFA2dbCBzBzDPagE4dePWah5XlvhM7K8t6D3rNyyA",
+        "id": "7464501361766731777"
+      },
+      {
+        "interaction": "Sahiel Bose liked this",
+        "link": "https://www.linkedin.com/posts/jasonlai150_we-won-at-spacexais-grokathon-this-past-activity-7493085463931420673-rCaO",
+        "title": "We won at SpaceXAI \u2019s Grokathon this past weekend! We took 2nd place by building Signal: an app that indexes your X followers, clusters them, and runs A/B testing with a human behavior engine for your next X post. Our product helps you understand your followers, and figure out how to maximize engagement. Shout out my cracked teammates Aditya Bilawar , Sam Chen , and Jeffrey Zhou for making this possible. Check it out at use-signal.com",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQEJtnHUVmKKyQ/feedshare-shrink_800/B56Z_zJhYdJMAc-/0/1786490788775?e=2147483647&v=beta&t=6P4ABVYMVWhyWsv5NA5qw-VgBWgxwT6mBg37ItoP1_g",
+        "id": "7493085463931420673"
+      },
+      {
+        "interaction": "Sahiel Bose liked this",
+        "link": "https://www.linkedin.com/posts/yma-santos_internship-college-communityservice-activity-7493090340166438912-QiQ2",
+        "title": "Recently, I spent the day interning for Mayor Hu during the NNO, also known as the National Night Out. All across the City of Dublin, CA , families and neighborhoods come together to celebrate with food, fun games, and other festivities. I was privileged to meet various community members and leaders who showed me the warmth of Dublin's community. Thank you to Dr. Sherry Hu for giving students the opportunity to see what makes this city so great first hand! #Internship #College #CommunityService",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQGo2NJUBpv0Rg/feedshare-shrink_800/B56Z_zN8HsIEAc-/0/1786491950531?e=2147483647&v=beta&t=OU7M1PMwz9-xKC9gSC0U4iTjigiuOmdj8NNiCf4gTvQ",
+        "id": "7493090340166438912"
+      },
+      {
+        "interaction": "Sahiel Bose liked this",
+        "link": "https://www.linkedin.com/posts/aanya-pandia-43b653283_im-happy-to-share-that-my-team-won-1st-place-activity-7493075358154403840-RmHX",
+        "title": "I'm happy to share that my team won 1st place at Hack the Town hackathon sponsored by Google Play , presented by Hack the Hood ! We won $1800 :) and what's more exciting is to see my first app published on the Google Play Store! This was a 2-day event and my first hackathon experience. We built TrashGO, a community-driven platform designed to make neighborhood cleanups more accessible, engaging, and rewarding. Our goal with TrashGO was to create a platform where anyone can report local trash, discover cleanup events, and organize meetups to work together to clean up their communities. A big inspiration behind TrashGO was Pok\u00e9mon GO. We wanted to take this idea of people meeting together and catching Pokemon and apply it to cleaning up neighborhoods. We plan to build upon this with gamified points and a rewards system that encourages users to participate, stay active, and be engaged. We also want to collaborate with local restaurants and businesses to offer benefits for members. In just two days, we built the full user experience, including authentication, an interactive map, event pages, progress tracking, event creation, scheduling, location finder, personal activity tracking, and an impact dashboard! Since this was my first hackathon, I learned so much about building under a tight deadline, turning an idea into a working product, designing around user needs, and collaborating with an amazing team. The most important lesson I learnt is building a good product isn't just about writing code or coming up with a solution, rather finding a real problem that solves a need while contributing to a meaningful cause and it's broader impact. A huge thank you to our awesome coach, Zain Shafique , for guiding us throughout the hackathon, helping us work through the idea, and pushing us to build TrashGO. I'm incredibly grateful to have built this with my team Owen Cruz, Solomon, Jason, and Johann. This was an amazing first hackathon experience, and I can't wait to continue my adventure of ideating and building! Check out our GitHub and Presentation: https://lnkd.in/gqNjTcnN https://lnkd.in/gtDucJVR",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQGQ8-0Wxm0E8w/feedshare-image-high-res/B56Z_zAUi6H4AU-/0/1786488378463?e=2147483647&v=beta&t=ipg8XpYJRUX4Rf7QzIItwQ_6x_6EVjS7hRvNb4rgGQ8",
+        "id": "7493075358154403840"
+      },
+      {
+        "interaction": "Sahiel Bose liked this",
+        "link": "https://www.linkedin.com/posts/francis-walsh_you-cant-ctrlf-a-podcast-ive-lost-count-activity-7492349856779440128-zuUl",
+        "title": "You can't ctrl+F a podcast. I've lost count of the times I've half-remembered a rule of thumb or a number from an Amp Hour episode and had no way to find it again. Every episode has nuggets you don't get from a textbook - the stuff you only learn by doing, or by hearing from someone who has. So when Chris Gammell transcribed all 719 episodes, I built what I'd always wanted: that knowledge, indexed by topic and searchable. 209 articles. 8,676 citations. Every claim traces back to a verbatim quote from a real episode. amphourwiki.tech",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQFwa8OGfRr5RA/feedshare-shrink_800/B56Z_osfMHKcAg-/0/1786315404431?e=2147483647&v=beta&t=ESut9fVtP4jgzUvoUYZ3Pci99kuqqlKvbt5Frd6kCqo",
+        "id": "7492349856779440128"
+      },
+      {
+        "interaction": "Sahiel Bose liked this",
+        "link": "https://www.linkedin.com/posts/vikram-vemuri-74283a2ab_stanford-research-medicine-activity-7486875961007841280-pDVm",
+        "title": "This summer, I had the incredible opportunity to spend seven weeks as a student researcher in the Pediatrics Internship Program at Stanford (PIPS). I worked in the REACH Lab, where I researched adolescent perceptions of tobacco health policy and helped create engaging curriculum activities for Stanford's youth vaping prevention program. It was inspiring to see how research can directly inform education, advocacy, and public health. Beyond the research itself, I had the privilege of learning from physicians, researchers, and healthcare professionals across Stanford Pediatrics. Hearing about their work broadened my perspective on medicine and strengthened my passion for pursuing a career in medicine and research. I'm deeply grateful to my mentors, Bonnie Halpern-Felsher , Devin McCauley , and Carly Noelani Kajiwara , along with everyone in the REACH Lab, for welcoming me so warmly and showing me how research can create meaningful change for children, adolescents, and communities. A special thank you to my research partner, Rosal\u00eda, for making this experience so memorable. I couldn't have asked for a better teammate and friend to begin this journey with. I'm also thankful for the 32 incredible students in my cohort. Being surrounded by such driven, kind, and talented people made this experience even more meaningful, and I know the friendships we built will last well beyond this summer. Thank you as well to my near-peer mentors, Aimee, Esmeralda, and Liz, for your guidance and encouragement throughout the program. To my family, thank you for everything. Whether it was spending hours driving me to and from Stanford each day or encouraging me every step of the way, I wouldn't have been able to do this without your unwavering support. Finally, thank you to the entire PIPS administration team for believing in me and creating such an impactful program. This experience has given me a deeper appreciation for the power of research to improve health outcomes and has further motivated me to advocate for youth health and well-being. I'm excited to bring what I've learned back to my community and continue pursuing my goals in medicine, public health, and research. #Stanford #Research #Medicine #Science #STEM #SummerProgram #Internship #HighSchool",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQFNK-PNYrXt0w/feedshare-image-high-res/B56Z.a6AcgHIAY-/0/1785010325546?e=2147483647&v=beta&t=CDntVGErf6LdNuTFqs9Xo2xeRvU4SC79RfTrm0brf4o",
+        "id": "7486875961007841280"
+      },
+      {
+        "interaction": "Sahiel Bose liked this",
+        "link": "https://www.linkedin.com/posts/amyjiang-aj_feexam-mechanicalengineering-ncees-activity-7491304985448599552-5bjK",
+        "title": "I\u2019m excited to share that I have officially passed the Fundamentals of Engineering (FE) Mechanical exam! This milestone represents an important step in my engineering career and reflects the foundation of engineering knowledge I\u2019ve built throughout my education. I\u2019m incredibly grateful for the support and encouragement from my peers and mentors along the way. I look forward to continuing to learn, grow, and take on new challenges as I begin the next chapter of my engineering career. #FEExam #MechanicalEngineering #NCEES",
+        "img": null,
+        "id": "7491304985448599552"
+      },
+      {
+        "interaction": "Sahiel Bose liked this",
+        "link": "https://www.linkedin.com/posts/rajeev-sethuraman-45b37833b_im-happy-to-end-off-the-nasa-chsle-internship-activity-7491320635671859200-DO9y",
+        "title": "I'm happy to end off the NASA CHSLE internship on a good note. Thanks so much to Vandana Jha, Ph.D and Arwen Dave for their amazing guidance, kindness, and cooperation. I enjoyed talking about the project with my partner Ethan Yu to NASA Ames director Eugene Tu as well. Very grateful for the experience.",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQHHN2e4JjNh0g/feedshare-shrink_800/B56Z_aEZ3FJsAc-/0/1786070020704?e=2147483647&v=beta&t=2ySjgU8RpQ-ugZwmKUWCQ10B40s27EnTzI74Wsg_4_0",
+        "id": "7491320635671859200"
+      },
+      {
+        "interaction": "Sahiel Bose liked this",
+        "link": "https://www.linkedin.com/posts/ethan-bell-434a47260_really-grateful-that-our-team-took-1st-place-activity-7490229512429789184-E_6y",
+        "title": "Really grateful that our team took 1st place at the Y Combinator \u00d7 Medplum Agentic Healthcare Hackathon this weekend in San Francisco! We built Lamina, a physician network where AI agents help surface relevant clinical experience, draft physician-reviewed contributions, and turn clinical collaboration into trusted referral relationships. We had a lot of fun building it and learned an incredible amount over the weekend. Huge thank you to Diana Hu , Reshma Khilnani , Cody Ebberson , Naomi Carrigan , Sri Raghu Malireddi , Oliver Aalami , and the teams at Medplum , Deepgram , Stedi , and Moss (YC F25) for making the event possible, as well as all the teams we had the chance to build alongside. And a special thank you to Val Tidva for being such an amazing teammate throughout the weekend. Excited to see what comes next!",
+        "img": "https://media.licdn.com/dms/image/v2/D4D22AQHqrR2AmAlaww/feedshare-shrink_800/B4DZ_KkDLKK4Ac-/0/1785809876176?e=2147483647&v=beta&t=aeTcRCOg3U71FzxGrJX4RzVU5sTX2aHYMNyrN1dS4Qs",
+        "id": "7490229512429789184"
+      },
+      {
+        "interaction": "Sahiel Bose liked this",
+        "link": "https://www.linkedin.com/posts/sakettoshniwal_im-excited-to-share-that-we-won-2nd-place-activity-7489540698619191296-snUd",
+        "title": "I\u2019m excited to share that we won 2nd place at the Y Combinator x Medplum Agentic Healthcare Hackathon in San Francisco! \u2764\ufe0f We were honored to receive the award from Diana Hu , Managing Partner at YC, along with $24K in credits from amazing sponsors \ud83d\ude04 Deepgram , Moss AI , Stedi and Medplum . Super proud of my amazing team Eshan Toshniwal and Suryansh Sharma ! Want to know what we built at the hackathon? Video is in the comments. \ud83d\udc47",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQHfxwGvbko8Mw/feedshare-image-high-res/B56Z_AxkhkGUAU-/0/1785645648663?e=2147483647&v=beta&t=XvUU2CxgVvusQ4T7b_P1hFsP1xAWiE9BqOH4fEhL9h8",
+        "id": "7489540698619191296"
+      }
+    ],
+    "linkedin_num_id": "1239823739",
+    "banner_image": "https://media.licdn.com/dms/image/v2/D5616AQHjXuQzW5_Apw/profile-displaybackgroundimage-shrink_200_800/B56Z1mjRzWJgAY-/0/1775542018998?e=2147483647&v=beta&t=MlaMVLOZI-PyBzROP0fnC4RBu_2yku1MnDXXaNpxdrs",
+    "honors_and_awards": [
+      {
+        "title": "Finalist @ Abridge x Anthropic x Lightspeed Hackathon",
+        "publication": "Abridge, Anthropic, Lightspeed",
+        "date": "2026-07-01T00:00:00.000Z",
+        "description": "Top 6 out of 115 Teams"
+      },
+      {
+        "title": "2nd Place @ Qualcomm x Meta Hackathon",
+        "publication": "Qualcomm, Meta, Executorch",
+        "date": "2026-06-01T00:00:00.000Z",
+        "description": "Partners: Qualcomm, Meta, Github, Pytorch Foundation, Samsung, Bright Data"
+      },
+      {
+        "title": "1st @ Scalekit x Apify Hackathon",
+        "publication": "Scalekit, Apify",
+        "date": "2026-05-01T00:00:00.000Z",
+        "description": "Partners: Entrepreneurs First, Apify, Scalekit"
+      }
+    ],
+    "similar_profiles": [],
+    "default_avatar": false,
+    "memorialized_account": false,
+    "bio_links": [
+      {
+        "title": "Portfolio",
+        "link": "https://www.sahielbose.com/"
+      }
+    ],
+    "first_name": "Sahiel",
+    "last_name": "Bose",
+    "influencer": false,
+    "timestamp": "2026-08-12T19:15:05.224Z",
+    "input": {
+      "url": "https://www.linkedin.com/in/sahiel-bose"
+    }
+  },
+  "local_photo": "data\\linkedin_photos\\sahiel-bose__usr-zMwR0Jr3Cv8YuRu.jpg"
+}

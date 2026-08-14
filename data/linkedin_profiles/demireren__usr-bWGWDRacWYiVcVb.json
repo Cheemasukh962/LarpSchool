@@ -1,0 +1,492 @@
+{
+  "luma_user_id": "usr-bWGWDRacWYiVcVb",
+  "csv_name": "Demir Eren",
+  "csv_linkedin": "https://www.linkedin.com/in/demireren",
+  "enriched_at": "2026-08-12T19:01:42.782348+00:00",
+  "batch_id": "sd_msqgese9ztya3e3uk",
+  "profile": {
+    "id": "demireren",
+    "name": "Demir Eren",
+    "city": "Toronto, Ontario, Canada",
+    "country_code": "CA",
+    "position": null,
+    "about": "\"Make something people want\" \u2192 demireren.ca",
+    "current_company": {
+      "link": "https://www.linkedin.com/company/finta?trk=public_profile_topcard-current-company",
+      "name": "Finta",
+      "company_id": "finta",
+      "location": null
+    },
+    "experience": null,
+    "url": "https://il.linkedin.com/in/demireren",
+    "educations_details": "University of Waterloo",
+    "education": [
+      {
+        "title": "University of Waterloo",
+        "url": "https://ca.linkedin.com/school/uwaterloo/",
+        "start_year": "2023",
+        "end_year": "2028",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      }
+    ],
+    "avatar": "https://media.licdn.com/dms/image/v2/D4E03AQHJ8E5xL80geA/profile-displayphoto-scale_200_200/B4EZzgy0D0HEAY-/0/1773297946357?e=2147483647&v=beta&t=VtZmYScGLEusznKkiYWNsDzLD1blrEzcIm364EqZH8E",
+    "courses": [
+      {
+        "subtitle": "MSE271",
+        "title": "Advanced Calculus and Numerical Methods"
+      },
+      {
+        "subtitle": "MSE240",
+        "title": "Algorithms and Data Structures (Python)"
+      },
+      {
+        "subtitle": "COMMST192",
+        "title": "Communication in the Engineering Profession"
+      },
+      {
+        "subtitle": "MSE245",
+        "title": "Databases and Software Design (React, Node.js, SQL)"
+      },
+      {
+        "subtitle": "MSE261",
+        "title": "Engineering Economics: Financial Management for Engineers"
+      },
+      {
+        "subtitle": "MSE331",
+        "title": "Introduction to Optimization"
+      },
+      {
+        "subtitle": "MSE121",
+        "title": "Introduction to Programming"
+      },
+      {
+        "subtitle": "MATH115",
+        "title": "Linear Algebra"
+      },
+      {
+        "subtitle": "MSE100",
+        "title": "Management Engineering Concepts"
+      },
+      {
+        "subtitle": "MSE263",
+        "title": "Managerial Economics"
+      },
+      {
+        "subtitle": "MSE251",
+        "title": "Probability and Statistics (R)"
+      },
+      {
+        "subtitle": "MSE253",
+        "title": "Probability and Statistics 2"
+      },
+      {
+        "subtitle": "MSE131",
+        "title": "Work Design and Facilities Planning"
+      }
+    ],
+    "languages": [
+      {
+        "subtitle": "Native or bilingual proficiency",
+        "title": "Turkish"
+      },
+      {
+        "subtitle": "Native or bilingual proficiency",
+        "title": "French"
+      },
+      {
+        "subtitle": "Native or bilingual proficiency",
+        "title": "English"
+      }
+    ],
+    "certifications": [
+      {
+        "meta": "Issued Nov 2025",
+        "subtitle": "Project Management Institute",
+        "title": "Certified Associate in Project Management (CAPM) - Ongoing",
+        "credential_url": null,
+        "credential_id": null
+      }
+    ],
+    "volunteer_experience": [
+      {
+        "duration": "May 2026 \u00b7 - Present \u00b7 \n\n4 months",
+        "duration_short": "- Present",
+        "start_date": "May 2026",
+        "subtitle": "Hack the North",
+        "title": "Volunteer Lead"
+      },
+      {
+        "duration": "Apr 2025 \u00b7 - Present \u00b7 \n\n1 year 5 months",
+        "duration_short": "- Present",
+        "info": "Supporting Canadian startups and partnering with the best firms",
+        "start_date": "Apr 2025",
+        "subtitle": "Waterloo Venture Group",
+        "title": "Managing Director"
+      },
+      {
+        "duration": "Oct 2025 \u00b7 - \nDec 2025 \u00b7 \n3 months",
+        "duration_short": "- \nDec 2025",
+        "info": "A program designed to challenge mindsets and refine decision-making processes",
+        "start_date": "Oct 2025",
+        "subtitle": "Cansbridge Scholars",
+        "title": "Scholar"
+      },
+      {
+        "cause": "Education",
+        "duration": "Sep 2023 \u00b7 - \nApr 2026 \u00b7 \n2 years 8 months",
+        "duration_short": "- \nApr 2026",
+        "info": "Built a team (and website) on yearly design competition, workshops, and software development",
+        "start_date": "Sep 2023",
+        "subtitle": "Industry 4.0 Design Team",
+        "title": "President"
+      },
+      {
+        "cause": "Social Services",
+        "duration": "Feb 2024 \u00b7 - Present \u00b7 \n\n2 years 7 months",
+        "duration_short": "- Present",
+        "info": "Rebuilt the Turkish Students Association from scratch at my university as a first-year student",
+        "start_date": "Feb 2024",
+        "subtitle": "UW Turkish Students Association",
+        "title": "Founder, President"
+      },
+      {
+        "cause": "Science and Technology",
+        "duration": "Feb 2025 \u00b7 - \nMay 2025 \u00b7 \n4 months",
+        "duration_short": "- \nMay 2025",
+        "info": "Recommender system to match students with ideal banking products",
+        "start_date": "Feb 2025",
+        "subtitle": "University of Waterloo's FinTech Club",
+        "title": "Machine Learning Engineer"
+      },
+      {
+        "cause": "Education",
+        "duration": "Jan 2025 \u00b7 - \nAug 2025 \u00b7 \n8 months",
+        "duration_short": "- \nAug 2025",
+        "start_date": "Jan 2025",
+        "subtitle": "Tech+ UW",
+        "title": "Strategic Data Analyst"
+      },
+      {
+        "cause": "Education",
+        "duration": "Aug 2024 \u00b7 - Present \u00b7 \n\n2 years 1 month",
+        "duration_short": "- Present",
+        "start_date": "Aug 2024",
+        "subtitle": "Waterloo Engineering Society",
+        "title": "Management Engineering Mentor"
+      },
+      {
+        "cause": "Health",
+        "duration": "Sep 2022 \u00b7 - \nJun 2023 \u00b7 \n10 months",
+        "duration_short": "- \nJun 2023",
+        "info": "Fundraised over $25,000 for the Canadian Cancer Society",
+        "start_date": "Sep 2022",
+        "subtitle": "Markville Athletic Council",
+        "title": "President"
+      },
+      {
+        "duration": "Oct 2022 \u00b7 - \nFeb 2023 \u00b7 \n5 months",
+        "duration_short": "- \nFeb 2023",
+        "info": "Coached and mentored the Junior Boys Basketball Team, being the first ever student-coach",
+        "start_date": "Oct 2022",
+        "subtitle": "Markville Secondary School",
+        "title": "Head Basketball Coach"
+      },
+      {
+        "cause": "Health",
+        "duration": "Oct 2022 \u00b7 - \nOct 2022 \u00b7 \n1 month",
+        "duration_short": "- \nOct 2022",
+        "start_date": "Oct 2022",
+        "subtitle": "Canada Running Series",
+        "title": "Volunteer"
+      },
+      {
+        "cause": "Education",
+        "duration": "Sep 2021 \u00b7 - \nDec 2021 \u00b7 \n4 months",
+        "duration_short": "- \nDec 2021",
+        "start_date": "Sep 2021",
+        "subtitle": "The Canadian Youth Champions",
+        "title": "Volunteer"
+      },
+      {
+        "cause": "Education",
+        "duration": "Oct 2019 \u00b7 - \nNov 2019 \u00b7 \n2 months",
+        "duration_short": "- \nNov 2019",
+        "start_date": "Oct 2019",
+        "subtitle": "York Region District School Board",
+        "title": "Teacher Assistant"
+      },
+      {
+        "duration": "Dec 2017 \u00b7 - \nFeb 2020 \u00b7 \n2 years 3 months",
+        "duration_short": "- \nFeb 2020",
+        "start_date": "Dec 2017",
+        "subtitle": "Ontario Basketball",
+        "title": "Scorekeeper"
+      }
+    ],
+    "followers": 2414,
+    "connections": 500,
+    "current_company_company_id": "finta",
+    "current_company_name": "Finta",
+    "projects": [
+      {
+        "title": "standup.",
+        "start_date": "Feb 2026",
+        "description": "Morning plan and evening reality in two quick check-ins. Tracks how you're feeling, what you committed to, and what actually happened + insights. Built with Ruby on Rails, React, TypeScript, and OpenAI :)"
+      },
+      {
+        "title": "Various communities + websites",
+        "start_date": "Oct 2023",
+        "description": "Helped curate all groups listed on my website, and built full-stack websites for:\u2192 Waterloo Venture Group, Turkish Students Association, Industry 4.0 Design Team"
+      },
+      {
+        "title": "GPU Cost Analyzer",
+        "start_date": "Dec 2025",
+        "description": "CLI tool for NVIDIA Brev that scans ML projects and recommends cost-effective GPU configurations. Detects models (Stable Diffusion, LLaMA, Whisper, etc.) from code, estimates VRAM, and suggests the cheapest instance across 490+ Brev options."
+      },
+      null,
+      {
+        "title": "Industry 4.0 Team Website",
+        "start_date": "Sep 2024",
+        "description": "Led the technical redesign of the team & website (responsive layout with React)"
+      },
+      null,
+      null,
+      null,
+      null,
+      null,
+      {
+        "title": "Spaces: Campus Location Finder",
+        "start_date": "Jul 2024",
+        "description": "Web app built to streamline the discovery/sharing of campus locations"
+      },
+      null,
+      null,
+      null,
+      {
+        "title": "Financial Tracking Tool",
+        "start_date": "Sep 2023",
+        "description": "Using MS Excel, VBA, Macros, Pivot Tables, Userforms, and Charts, the tool captures and analyzes user data via userforms to deliver concise written and visual summaries of trends + offer guidance"
+      },
+      {
+        "title": "Arrow Master - Video Game in Java",
+        "start_date": "Feb 2022",
+        "description": "Applied object-oriented programming, Java Swing for GUI development, multithreading, file I/O operations"
+      }
+    ],
+    "location": "Toronto",
+    "input_url": "https://www.linkedin.com/in/demireren",
+    "linkedin_id": "demireren",
+    "activity": [
+      {
+        "interaction": null,
+        "link": "https://www.linkedin.com/posts/finta_finta-takes-on-la-last-week-we-brought-activity-7476023708386512896-WBcQ",
+        "title": "Finta takes on LA \ud83c\udf34 Last week, we brought the whole team together for our annual offsite A great way to celebrate the hardest-working team in startup finance P.S. We're hiring! ...more ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQHZaERVHbSyqA/feedshare-shrink_800/B56Z8Ar8MFKgAc-/0/1782422947128?e=2147483647&v=beta&t=nDNF1IGsSw7UZs4AOWUE8epcFJuKFeb2EpR_s5mYpnI",
+        "id": "7476023708386512896"
+      },
+      {
+        "interaction": null,
+        "link": "https://www.linkedin.com/posts/sammytourani_today-polarity-crossed-10-billion-lines-activity-7453072732579323905-MgV1",
+        "title": "Today, Polarity crossed 10 billion lines of code reviewed. What started as a hackathon project is now the AI QA engineer for 50+ companies worldwide. And this is just the beginning. For the next 48 hours, everyone who signs up gets 100 credits on us. ...more ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D4E05AQE84HaG75Oe6w/feedshare-thumbnail_720_1280/B4EZ24yYXxIwAw-/0/1776921710410?e=2147483647&v=beta&t=j92mA552gMG4JDZ2lS6dbWixDO4aJIpi0TBAszFG-Eo",
+        "id": "10"
+      },
+      {
+        "interaction": "Demir Eren shared this",
+        "link": "https://www.linkedin.com/posts/demireren_two-years-ago-turkish-students-association-activity-7445962593216696320-0ocM",
+        "title": "Two years ago, Turkish Students Association UW didn't exist. No club, no budget, no exec team. Just a few Turkish students at Waterloo who kept bumping into each other saying \"we should do something.\" Nil Aksu and I took on that challenge at the University of Waterloo . If you're a first-year student sitting on an idea right now, thinking you need more time or more experience before you start, you don't. Just start. Last week, 100+ people packed into Maxwell's in Waterloo for Careers Night, our biggest event yet. A heartfelt thank you to our panelists: Nurhan Aycan , Ahmet Faruk Ocak , Zeynep Akkalyoncu , Hasan Alkumru , and Dr. Pinar Alkumru D. It was a very diverse room, with a Partner at the world's largest law firm, a physician who just matched into a Canadian residency after training abroad, and an ML engineering manager who walked the same halls at Waterloo not long ago. This event was free and open to everyone, and that's just how I think. I've never believed in gatekeeping culture or opportunity. We've collaborated with 10+ cultural student clubs at Waterloo this year, and we brought in professionals across law, medicine, engineering, and immigration because our members are going everywhere. The room should reflect that :) Special recognition to C&C - Kanada'da E\u011fitim / Vize / G\u00f6\u00e7menlik , WUSA SLEF, and Pasha BBQ for making the night possible. And to McMaster Turkish Students Association for co-hosting with us. If you want to follow along with what we're building, I put everything on our website \u2192 uwtsa.com Couldn't be more proud of what this community is becoming. This is just the beginning! ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQEcEcR9SVOe5g/feedshare-image-high-res/B4EZ1VfhCEJEAU-/0/1775255819382?e=2147483647&v=beta&t=Zr-Q271ycYR0REog2adkIonhYUp37mN_OMndEz6B0J0",
+        "id": "7445962593216696320"
+      },
+      {
+        "interaction": "Demir Eren shared this",
+        "link": "https://www.linkedin.com/posts/demireren_super-pumped-to-be-joining-finta-yc-w23-activity-7443380431464550400-EjUj",
+        "title": "Super pumped to be joining Finta (YC W23) as an AI Software Engineering Intern in San Francisco this summer! Grateful to Andy Wang for the opportunity. This whole process started with a cold challenge, and it goes to show how actions speak louder than words :) Trying to meet as many people as possible in the next few months. If you're in the Bay Area over the summer, send me a DM and let's connect! ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQGhWzGbtQchxg/feedshare-shrink_1280/B4EZ0wzD4dIwAM-/0/1774640185120?e=2147483647&v=beta&t=8VE_7J0Fuh-debZrXFb-gLlIjahcga4WXNz2pw_u658",
+        "id": "7443380431464550400"
+      },
+      {
+        "interaction": null,
+        "link": "https://www.linkedin.com/posts/uwtsa_waterloo-networking-studentlife-activity-7440560339164823552-b4BG",
+        "title": "So excited to be partnering with McMaster Turkish Students Association on a TSA Careers Night & Social at Maxwell's in Waterloo, next Tuesday March 24th! We're bringing together 150+ students from Waterloo, McMaster, and beyond for a night of keynote speakers and networking across tech, engineering, business, healthcare, and global careers. Think free food, sponsor booths, and a full social and dance to close it out. Open to everyone, free to attend \ud83c\udf9f\ufe0f Huge thank you to our sponsors who made this possible: Waterloo Undergraduate Student Association (WUSA) 's Student Life Endowment Fund and C&C Education, Visa and Immigration Canada at cc-kanadadaegitim.com Register here (spots are going fast!): https://luma.com/sxtdj1sk #waterloo #networking #studentlife #career #tech ...more ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQEoA-IHnKwpyQ/feedshare-image-high-res/B4EZ0IuM2oJEAU-/0/1773967822609?e=2147483647&v=beta&t=Bua8lwRL435MxciYWD5SvSfpMfn4OySqmBpNeSKfFR0",
+        "id": "7440560339164823552"
+      },
+      {
+        "interaction": null,
+        "link": "https://www.linkedin.com/posts/alexander-mcisaac_hiring-social-ft-yc-backed-founders-northside-activity-7432491387255951360-rG5u",
+        "title": "Northside Ventures will be in Waterloo on March 20th during Socratica Symposium week hosting our first Hiring Social with four exceptional portfolio companies who graduated from Y Combinator to help fill the talent gap with the best engineers in the Waterloo region! Whether you're looking for a senior engineering role or an internship we encourage you to apply at the Luma event link below. We're excited to partner with Connor Giles at Terminal (YC S23) , Josh Lampen at Cartage (YC S24), Adhityaa Chandrasekar at Subtrace (YC W25) and Jai Relan at Relling (YC S25) to make this happen! Thank you to Demir Eren and the Waterloo Venture Group for supporting the event! https://luma.com/psehtf33 ...more ...more",
+        "img": "https://media.licdn.com/dms/image/sync/v2/D5627AQFeZqd6JvSdQQ/articleshare-shrink_800/B56ZyWAcEtKUAI-/0/1775675575821?e=2147483647&v=beta&t=d7rLWIfSV9sWUL9ZSyIgEUCrxymGCtwPaMHyb4vkhKA",
+        "id": "7432491387255951360"
+      },
+      {
+        "interaction": "Demir Eren shared this",
+        "link": "https://www.linkedin.com/posts/demireren_rl-style-environments-are-powerful-but-they-activity-7422702017305022464-HkzS",
+        "title": "RL-style environments are powerful, but they\u2019re hard to understand and even harder to document. After working with Muhib Waqar , we started thinking about how much product knowledge is locked inside PDFs. PRDs, specs, and design docs carry intent, decisions, and tradeoffs, but machines mostly see them as raw text. So we built a small experiment on top of NVIDIA nv-ingest \u2192 https://lnkd.in/gUG5APNf nv-ingest is an open-source document extraction pipeline designed for RAG workflows. It orchestrates OCR, layout detection, tables, and structure, and connects to NVIDIA NIM microservices for multimodal understanding. We used it to process a real Amazon PRD, generated structured JSON (text, tables, images, layout), and wrote a reasoning framework ( claude.md , cursor.md ) to see whether an AI could reconstruct a product spec from structured data alone. From JSON alone, the system was able to extract requirements, personas, user journeys, UI flows, system structure, and even surface gaps in the original PRD. What surprised me wasn\u2019t that it worked, but how close the reconstructed spec was to the original. It felt less like \u201cdocument parsing\u201d and more like treating PRDs as data that systems can reason over. If this approach improves, PRD updates could be ingested continuously, reducing cognitive overhead for engineers and PMs and making product knowledge easier to operationalize \ud83e\udde0 ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D5605AQFCtQcSf16t1w/feedshare-thumbnail_720_1280/B56ZwK8GmSHMA0-/0/1769710055737?e=2147483647&v=beta&t=8GrRBAwNjRNSA4oCXW9Q-2t9uJw-2i7l8Pqr44W2uK8",
+        "id": "7422702017305022464"
+      },
+      {
+        "interaction": "Demir Eren shared this",
+        "link": "https://www.linkedin.com/posts/demireren_my-2026-predictions-activity-7414010230495186944-rqtr",
+        "title": "As 2026 approaches, feeling grateful for the chance to learn inside the VC ecosystem at Northside Ventures . Getting exposure to early stage investing, AI, and founder conversations has been a rewarding learning curve. Looking forward to what\u2019s next! Check out Alex McIsaac 's predictions below \ud83d\udc47 ...more",
+        "img": "https://media.licdn.com/dms/image/sync/v2/D5627AQFtMDl_Ck0ODA/articleshare-shrink_800/B56ZuPB0WJGwAI-/0/1767631178171?e=2147483647&v=beta&t=f-4qSWhzC_0avdHfH-E7J7gQfeo0001YS0tBC1nz66M",
+        "id": "2026"
+      },
+      {
+        "interaction": null,
+        "link": "https://www.linkedin.com/posts/waterlooventuregroup_uwaterloo-tech-venture-activity-7412743771152359424-Emkp",
+        "title": "Welcome to the talent room \u26a1 On January 15, WVG is opening the doors to an intentional gathering with Theory Ventures plus leaders from their portfolio companies flying in from across North America. Waterloo is quietly producing some of the strongest startup talent on the continent. This night is about putting that talent in the same room as the teams actively hiring co-op and early career talent across AI, engineering, product, and data. These are early, high-ownership roles where you work close to the product and the people making the calls. And applying doesn\u2019t just get you into the room. It puts you on the radar for WVG\u2019s talent network and future invite-only rooms like this one. Join us: Thursday, January 15, 2026 | 6:00 - 8:00 PM ET | Waterloo, Ontario \ud83c\udf7d\ufe0f Food, drinks, good energy. \ud83d\udccd Location shared with accepted applicants. \u23f3 Limited spots. Application required. If you\u2019re ready to step out of the applicant pool and into the rooms where teams form, apply below: https://luma.com/m45t4l9a See you inside. #UWaterloo #Tech #Venture #AI #Internships ...more ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQH-yrA_6NVoQQ/feedshare-shrink_1280/B4EZt9bLjHGYAs-/0/1767335836431?e=2147483647&v=beta&t=VL7gtzfTMsYGwlPsq12TfvYIdx5S2fhbbId58GHcIZo",
+        "id": "7412743771152359424"
+      },
+      {
+        "interaction": "Demir Eren commented on a post 19h",
+        "link": "https://www.linkedin.com/posts/y-combinator_belvedir-yc-s26-is-making-private-ai-models-activity-7493063706931548160-SBOZ",
+        "title": "bro's not shipping he's just winning",
+        "img": null,
+        "id": "7493063706931548160"
+      },
+      {
+        "interaction": "Demir Eren commented on a post 2w",
+        "link": "https://www.linkedin.com/posts/connorgiles_raghav-midha-and-i-started-terminal-three-activity-7488217069230915585-veOo",
+        "title": "Congrats connor!",
+        "img": null,
+        "id": "7488217069230915585"
+      },
+      {
+        "interaction": "Demir Eren liked this",
+        "link": "https://www.linkedin.com/posts/milind-kumar-7228191b7_careerjourney-connectthedots-productmanagement-activity-7493305104545030144-f9Gk",
+        "title": "Three years ago I did my first internship at a research lab in a children's hospital. It wasn't really aligned with the engineering and PM work I wanted. I was running samples, gathering data for experiments, and using software I thought I'd never touch again. But I took the job because it was the only one that said yes. Fast forward to my first product role, at a company building AI tools for lab scientists. As I was doing customer interviews and trying to understand these scientists' pain points, I had such a clear picture of what they were talking about. When they brought up their software, instrumentation, and the tiny issues eating up their day, I could put myself in their shoes by channelling my earlier research role. I felt like an engineer who understood the science and could make a real impact. It reminded me of Steve Jobs' quote: \"You cannot connect the dots looking forward; you can only connect them looking backward.\" Because when you're young and trying to make a name for yourself, you think that unless every minute is spent in the perfect role, you're automatically falling behind. And the truth is you're not. You just need to collect as many dots as possible, knowing that future you will connect them all together. If you're early in your career and can't see how what you're doing now fits into where you're going, it probably doesn't need to make sense yet. Just keep collecting. #CareerJourney #ConnectTheDots #ProductManagement #EarlyCareer",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQFOOFujT4UJyg/feedshare-shrink_800/B56Z_2RSIeH0Ac-/0/1786543153925?e=2147483647&v=beta&t=Mvq_pak0aeQEBOouzFcP3tRtoCc1aBxuLSH02kUSNVI",
+        "id": "7493305104545030144"
+      },
+      {
+        "interaction": "Demir Eren reacted on this",
+        "link": "https://www.linkedin.com/posts/y-combinator_belvedir-yc-s26-is-making-private-ai-models-activity-7493063706931548160-SBOZ",
+        "title": "Belvedir (YC S26) is making private AI models cheap and easy, so the world can have trillions of them. In the past year, many big companies started paying millions of dollars to make internal private AI models. These models are cheaper, better, faster, and protect the company\u2019s data from frontier labs. But right now these models are still only realistic for big companies since they\u2019re really difficult and expensive to build. Belvedir makes private AI models autonomously with less than 5 minutes of setup, so that private AI can finally be accessible to startups and eventually everyone. Belvedir is live with 10 companies who are seeing up to 10x lower inference costs and 2x improved performance on benchmarks. Congrats on the launch, Zachary Yu ! \ud83d\ude80 https://lnkd.in/gaG7KT7K",
+        "img": "https://media.licdn.com/dms/image/v2/D5605AQFs45m76VzjpA/videocover-high/B56Z_xXcqSHcBM-/0/1786460898214?e=2147483647&v=beta&t=6TSfa03s7xArw8UxqAYtvuIzr1v9Xxb1g9XZEMgmeaE",
+        "id": "7493063706931548160"
+      },
+      {
+        "interaction": "Demir Eren reacted on this",
+        "link": "https://www.linkedin.com/posts/conradyu_find-your-passion-might-be-the-worst-yet-activity-7492996703265075200-f1_2",
+        "title": "\u201cFind your passion\u201d might be the worst, yet most often parroted piece of advice ever. It\u2019s an incredible feeling, but it won\u2019t be there for you when the chips are down; you\u2019re facing failure and rejection; and you feel like you just can\u2019t get anything right. Just ask any repeatedly successful person and they\u2019ll tell you that what got them through their lows was the discipline, determination, and support from others to build something to completion and see it through. And it\u2019s because when you\u2019re betting on yourself, the biggest risk you take isn\u2019t failing, but rather not failing enough. If you stop a quarter of the way through, when the dopamine rush is nowhere to be found and suddenly it\u2019s not fun any more, you\u2019ll always leave lessons on the table. Building and, subsequently, launching will always be worth it if you\u2019re able to maximize your learning. And lest we all forget Master Yoda\u2019s words: The greatest teacher, failure is. So, think of passion as a reward and draw your energy and motivation from something that is far better suited to pushing through. And follow along Lucas Chan \u2019s journey of betting on himself!",
+        "img": "https://dms.licdn.com/playlist/vid/v2/D5605AQFDvmyAagGjBw/thumbnail-shrink_720_1280/B56Z_x4qj2G4Ak-/0/1786469599940?e=2147483647&v=beta&t=7lX3fHCJEd57hoWKtD6yKJ-3Wd6UIOPyzHF5-0UkCt4",
+        "id": "7492996703265075200"
+      },
+      {
+        "interaction": "Demir Eren reacted on this",
+        "link": "https://www.linkedin.com/posts/a27wang_1-we-just-launched-a-way-to-forecast-and-activity-7492974125804728320-YVVi",
+        "title": "1/ We just launched a way to forecast and plan in Finta using your accounting data in real-time. 2/ This was one of my personal struggles as Head of Finance at three VC-backed startups. Getting historical accounting data ready for planning took weeks. It\u2019s now instant in Finta. 3/ We now help startups file taxes, automate accounting, and forecast finances as an all-in-one platform. 4/ We drew a lot of inspiration from Mercury on this launch video, huge shoutout to their talented design and marketing teams. 5/ To all Finta customers and supporters, thank you so much for giving us the opportunity to keep building for you. 6/ I\u2019ve never been more excited to simplify taxes, accounting, and now, financial planning! Available now at finta.com",
+        "img": "https://media.licdn.com/dms/image/v2/D5605AQFPBy4Nt70a1Q/videocover-high/B56Z_xjx44HABc-/0/1786464120340?e=2147483647&v=beta&t=pCVK9sFilekMiWMdEBVLr-uSyzq699nzvFxL9tyibPw",
+        "id": "7492974125804728320"
+      },
+      {
+        "interaction": "Demir Eren liked this",
+        "link": "https://www.linkedin.com/posts/terminal-api_last-week-we-went-out-as-a-team-to-celebrate-activity-7492958131480616960-Mtf-",
+        "title": "Last week we went out as a team to celebrate our Series A! \ud83c\udf89 An afternoon of lawn games on the Toronto Islands, then a sunset dinner cruise across the harbour. For the evening we were joined by our partners, families, and close friends. They carry this company too, and it wouldn't have felt like a celebration without them. Milestones like this one don't come around often, and when they do, the only job is to look around and say thank you. We're incredibly grateful for this team, and for the customers and partners who have been with us from the start. And it's still early. If you'd like to be part of what comes next, we have more than 11 open roles right now \u2192 https://lnkd.in/gpm2TXaM Thank you to Island Yacht Club and the crew of the Challenger for a perfect day. \u26f5",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQGxT_pDQMGoHw/feedshare-shrink_800/B56Z_sPh5JH0Ak-/0/1786374922130?e=2147483647&v=beta&t=eDe1RPte1Rog9xOAL3TTq5iraN0GuDghkXoEOh_tXxU",
+        "id": "7492958131480616960"
+      },
+      {
+        "interaction": "Demir Eren liked this",
+        "link": "https://www.linkedin.com/posts/mazinalani_the-definite-team-will-be-at-the-microsoft-activity-7492647027135389696-kgj1",
+        "title": "The Definite team will be at the Microsoft Dynamics Communities Roadshow tomorrow at Microsoft\u2019s Toronto office. We\u2019re building a better way for teams to work with the data already spread across Dynamics and the rest of their systems. Definite connects that data, applies business context, and turns it into accurate, traceable work without adding more manual processes or complexity. We\u2019ll have a booth set up, so if you\u2019re attending, come say hi and see what we\u2019re building. We\u2019re also hosting a small dinner for finance, audit, and other business leaders in Toronto later this week. Good food, a small group, and a chance to talk about what people are actually building and dealing with across data, ERPs, and AI. Reach out if you want to grab a seat.",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQGeghfSrQt_hw/feedshare-shrink_800/B56Z_s6xDCH0Ac-/0/1786386256368?e=2147483647&v=beta&t=4qDcdrtoEPSjQYONwmhF6Hbrte_Bj8ff8JlCh0BZVbc",
+        "id": "7492647027135389696"
+      },
+      {
+        "interaction": "Demir Eren liked this",
+        "link": "https://www.linkedin.com/posts/fwhittington_introducing-the-fall-2026-class-of-cursor-activity-7492355572281823232-z96n",
+        "title": "Introducing the Fall 2026 class of Cursor Campus Leads. Every AI company is launching a new campus ambassador program right now but this one is going to be different. I've used my 8+ years of campus community experience to hand select the best student leaders and instructed them to throw the typical, boring ambassador playbook out the window. We just spent a 3-day weekend together at the Cursor office in San Francisco and I'm fired up. See you all on campus VERY soon!!",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQFXjTkaVwXBBg/feedshare-shrink_800/B56Z_oxsVuHcAc-/0/1786316768930?e=2147483647&v=beta&t=mRZIy-T8ezcv4voFSOCB4P59mIT3ezsGnvFMOjT8JLY",
+        "id": "2026"
+      },
+      {
+        "interaction": "Demir Eren liked this",
+        "link": "https://www.linkedin.com/posts/ella-schlaghecke_this-past-week-corgi-hosted-an-intimate-dinner-activity-7492017475417649153-paz4",
+        "title": "This past week Corgi hosted an intimate dinner for founders in San Francisco. Getting to share a meal like this with people who are just as thoughtful as they are ambitious was incredibly special. Thank you to all the people who joined us, trusted us with their evening, and brought so much curiosity and warmth to the table! Another thank you to the incredible team at Nisei for making the night feel so intentional. As we were leaving, the team who took care of us said they assumed we were all old friends. They couldn\u2019t believe it when I told them some of us had been strangers at the beginning of the evening. Can\u2019t think of a better measure of a good dinner!!",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQGaOj36g6JxqQ/feedshare-shrink_800/B56Z_j.LxKKAAc-/0/1786236157516?e=2147483647&v=beta&t=09LeLu1ZjHpDLiN5_YS5Z85bKwl2Ww4bhvXg8eWsP3w",
+        "id": "7492017475417649153"
+      }
+    ],
+    "linkedin_num_id": "921239671",
+    "banner_image": "https://media.licdn.com/dms/image/v2/D4E16AQFV_Iq2e4YVeQ/profile-displaybackgroundimage-shrink_200_800/B4EZvjaNzMKgAc-/0/1769046859777?e=2147483647&v=beta&t=Zx3ZPtrRhuDHknPqRX69-a_CCVMBgn-8ui_QfMKsC18",
+    "honors_and_awards": [
+      {
+        "title": "Athletic Leadership Award",
+        "publication": "Markville Athletic Council",
+        "date": "2023-06-01T00:00:00.000Z",
+        "description": null
+      },
+      {
+        "title": "Director's Achievement Award",
+        "publication": "York Region District School Board",
+        "date": "2023-06-01T00:00:00.000Z",
+        "description": null
+      },
+      {
+        "title": "French Top Mark Award",
+        "publication": "Markville Secondary School",
+        "date": "2023-06-01T00:00:00.000Z",
+        "description": null
+      },
+      {
+        "title": "Honour Team",
+        "publication": "Markville Athletic Council",
+        "date": "2023-06-01T00:00:00.000Z",
+        "description": null
+      },
+      {
+        "title": "Ultimate Frisbee Champions",
+        "publication": "York Region Athletic Association",
+        "date": "2023-06-01T00:00:00.000Z",
+        "description": null
+      },
+      {
+        "title": "Varsity Basketball Character Award",
+        "publication": "Markville Athletic Council",
+        "date": "2023-06-01T00:00:00.000Z",
+        "description": null
+      },
+      {
+        "title": "Top 10 Overall",
+        "publication": "DECA",
+        "date": "2022-11-01T00:00:00.000Z",
+        "description": null
+      },
+      {
+        "title": "Junior Varsity Basketball Character Award",
+        "publication": "Markville Athletic Council",
+        "date": "2020-06-01T00:00:00.000Z",
+        "description": null
+      },
+      {
+        "title": "Junior Varsity Volleyball Champions",
+        "publication": "York Region Athletic Association",
+        "date": "2019-11-01T00:00:00.000Z",
+        "description": null
+      }
+    ],
+    "similar_profiles": [],
+    "default_avatar": false,
+    "memorialized_account": false,
+    "bio_links": [
+      {
+        "title": "Personal Website",
+        "link": "https://www.demireren.ca/"
+      }
+    ],
+    "first_name": "Demir",
+    "last_name": "Eren",
+    "influencer": false,
+    "timestamp": "2026-08-12T19:01:09.552Z",
+    "input": {
+      "url": "https://www.linkedin.com/in/demireren"
+    }
+  },
+  "local_photo": "data\\linkedin_photos\\demireren__usr-bWGWDRacWYiVcVb.jpg"
+}

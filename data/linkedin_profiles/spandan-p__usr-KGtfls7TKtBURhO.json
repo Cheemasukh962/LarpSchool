@@ -1,0 +1,220 @@
+{
+  "luma_user_id": "usr-KGtfls7TKtBURhO",
+  "csv_name": "Spandan Patel",
+  "csv_linkedin": "https://www.linkedin.com/in/spandan-p",
+  "enriched_at": "2026-08-12T19:18:07.765573+00:00",
+  "batch_id": "sd_msqh0fwb1tv6mjnbrd",
+  "profile": {
+    "id": "spandan-p",
+    "name": "Spandan Patel",
+    "city": "Los Angeles, California, United States",
+    "country_code": "US",
+    "position": null,
+    "about": null,
+    "current_company": {
+      "link": "https://www.linkedin.com/company/coinbase?trk=public_profile_topcard-current-company",
+      "name": "Coinbase",
+      "company_id": "coinbase",
+      "location": null
+    },
+    "experience": null,
+    "url": "https://il.linkedin.com/in/Spandan-p",
+    "educations_details": "UCLA",
+    "education": null,
+    "avatar": "https://media.licdn.com/dms/image/v2/D5603AQHrw7gh7cMKxg/profile-displayphoto-scale_200_200/B56ZvH6GYeJAAg-/0/1768585455959?e=2147483647&v=beta&t=l58LeXrSYUEXH6WL5x1UhMfdEl2FT9Ci2fAzib68d90",
+    "certifications": [
+      {
+        "meta": "Issued Aug 2024 Credential ID 113516462 See credential",
+        "subtitle": "Citadel",
+        "title": "Correlation One Summer Invitational Terminal 2024",
+        "credential_url": "https://www.credential.net/28c79833-91cd-438c-b595-d1409b9806f8?trk=public_profile_see-credential",
+        "credential_id": "113516462"
+      }
+    ],
+    "followers": 1957,
+    "connections": 500,
+    "current_company_company_id": "coinbase",
+    "current_company_name": "Coinbase",
+    "publications": [
+      {
+        "title": "Humanity's Last Exam",
+        "subtitle": "Center for AI Safety",
+        "date": "April 19, 2025",
+        "description": "Contributions: Data AuditorBenchmarks are important tools for tracking the rapid advancements in large language model (LLM) capabilities. However, benchmarks are not keeping pace in difficulty: LLMs now achieve over 90\\% accuracy on popular benchmarks like MMLU, limiting informed measurement of state-of-the-art LLM capabilities. In response, we introduce Humanity's Last Exam (HLE), a multi-modal benchmark at the frontier of human knowledge, designed to be the final closed-ended academic benchmark of its kind with broad subject coverage. HLE consists of 2,500 questions across dozens of subjects, including mathematics, humanities, and the natural sciences. HLE is developed globally by subject-matter experts and consists of multiple-choice and short-answer questions suitable for automated grading. Each question has a known solution that is unambiguous and easily verifiable, but cannot be quickly answered via internet retrieval. State-of-the-art LLMs demonstrate low accuracy and calibration on HLE, highlighting a significant gap between current LLM capabilities and the expert human frontier on closed-ended academic questions. To inform research and policymaking upon a clear understanding of model capabilities, we publicly release HLE at this https URL."
+      }
+    ],
+    "projects": [
+      {
+        "title": "HackUTD X - Winner",
+        "start_date": "Nov 2023",
+        "description": "HomeReady Pro offers a multifaceted set of functionalities to users, including:Financial Eligibility Assessment: Users can input their financial data, including credit score, income, monthly expenses, and other relevant variables. The application then employs a complex algorithm to evaluate their eligibility for their desired homeownership.Data Analysis: The app conducts an in-depth analysis of user data, looking for patterns and trends that affect homeownership eligibility. This analysis provides valuable insights into which financial variables are most likely to impact a user's eligibility. This feature is crucial for users who wish to understand common obstacles to homeownership.Customized Recommendations: Based on the analysis and the user's eligibility status, the app generates personalized recommendations. The app provides unique tips and suggestions to improve their financial situation for future homeownership.Winner of Best Use of Kintone at HackUTD X"
+      },
+      null,
+      null,
+      {
+        "title": "AIFAHacks - Winner",
+        "start_date": "Sep 2023",
+        "description": "PaveGuard is a user-friendly mobile app that revolutionizes pothole reporting. Users can instantly scan potholes which are then uploaded to a database. Our trained model then classifies the images by obstruction type (pothole, fallen tree, crack, etc) and then uploads the images and the user provided data and geodata to an admin console. City officials can then log in and access these images, where they can then take action on these potholes in a much more proficient manner. This reduces the $3 billion spent annually by drivers on pothole-related damages, which could be much better used in America's growing cities to address social issues.Winner of 3rd Place Overall at AIFAHacks - AI Hackathon For Social Good"
+      },
+      null,
+      null,
+      {
+        "title": "HackSMU V - Winner",
+        "start_date": "Sep 2023",
+        "description": "UniSync is a comprehensive note-taking app that streamlines the entire note-taking process for students. It allows users to collect notes from various text sources and then employs AI algorithms to organize, combine, and generate comprehensive notes summaries UniSync makes studying a breeze and facilitates collaboration among students.Winner of Best Accessibility Hack sponsored by Fidelity at HackSMU V"
+      }
+    ],
+    "location": "Los Angeles",
+    "input_url": "https://www.linkedin.com/in/spandan-p",
+    "linkedin_id": "spandan-p",
+    "activity": [
+      {
+        "interaction": "Spandan Patel shared this",
+        "link": "https://www.linkedin.com/posts/spandan-p_im-excited-to-share-that-ill-be-joining-activity-7469792361599127552-63-e",
+        "title": "I'm excited to share that I'll be joining Coinbase this summer as a Software Engineer Intern in San Francisco! I'll be working on the Infrastructure team under the Platform organization, helping power asynchronous and long running workflows across the company. I would like to thank Rebhi Oweis and the rest of the recruiting team for being super supportive throughout the process. And of course, a huge shoutout to friends and family for always being there. I'd love to connect with anyone else in the bay this summer. Thrilled for what's ahead! ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQGeoZ5qjH48AA/feedshare-image-high-res/B56Z6mdafoHEAU-/0/1780909197708?e=2147483647&v=beta&t=fldTTQBNOmMnKBnpy1c3bsSr--grS_NT9-S_Lylnu2I",
+        "id": "7469792361599127552"
+      },
+      {
+        "interaction": null,
+        "link": "https://www.linkedin.com/posts/daryl-echeazu_stanford-treehacks-google-activity-7429955473321373697-3Cvz",
+        "title": "We went to Stanford University and won Google\u2019s AI track at TreeHacks \ud83c\udfc6 This weekend, my team, Spandan Patel , Ekagra Gupta , and I built Clarifyd, a classroom support tool for students with disabilities. Our goal? Provide teachers and students with immediate help, without waiting through lengthy school licensing and accommodations workflows. But honestly, the win was a small part of it. TreeHacks was unreal. 1,098 participants and $606,605 in cash on the line. Sam Altman, Garry Tan, and Ali Partovi opened, and afterwards it was straight to building. We pulled an all-nighter, took a 1am poker break to reset our brains, then went right back to debugging before demos and judging. And somehow, everything came together at the end. I did all of it on basically no sleep. Left Chicago at 3am for my flight out, got back at 7am, then had a midterm that afternoon. Worth it. Big thanks to Benedict (couldn\u2019t find your LinkedIn), Michelle Vinocour , Anson Omar , and the whole TreeHacks team for running a great event and taking care of everyone all weekend! On to the next one \ud83d\ude80 #Stanford #Treehacks #Google #Hackathon ...more ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQHulNyCcIwnCQ/feedshare-shrink_800/B56ZxyBIBZGoAo-/0/1771439423840?e=2147483647&v=beta&t=Ne07ujpdNUXFxxR1k6oKkm6UH3EhiZEVn1aPKb7LqYA",
+        "id": "7429955473321373697"
+      },
+      {
+        "interaction": "Spandan Patel shared this",
+        "link": "https://www.linkedin.com/posts/spandan-p_treehacks-google-stanford-activity-7429786353749426178-uuxe",
+        "title": "Wrapped up TreeHacks this past weekend and... we won! Our team placed 2nd in the Cloud AI Track sponsored by Google . After 36 hours of coming up with the perfect idea and executing, I'm glad to have walked away from this amazing event with a win. Our team built Clarifyd, a real-time lecture platform where students watch AI-generated videos, compete on quiz leaderboards, and get instant answers \u2014 all while the lecture is happening. It was surreal to see big names in tech like Sam Altman and Garry Tan in person, speaking openly about their experiences. I also want to give a massive shout-out to the team at Google that showed up, including Benedict and Vivian , and other sponsors I was able to talk to, including Amanda Yiu and Grace Gong . Also, thank you to the organizing team that coordinated such an amazing event. Finally, I can't thank my team members, Daryl Echeazu and Ekagra Gupta , enough for locking in with me to pull off this win. (p.s. I had to recreate the project announcement picture because we were too excited to take it in time) #TreeHacks #Google #Stanford ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQFxoapG5X_hiw/feedshare-shrink_800/B56ZxvnUMXJ4Ak-/0/1771399103598?e=2147483647&v=beta&t=hHQ9a9ZrbC9yQ8FuZgRpjTcdGWwzT0FL3d__7deJKeg",
+        "id": "7429786353749426178"
+      },
+      {
+        "interaction": "Spandan Patel shared this",
+        "link": "https://www.linkedin.com/posts/spandan-p_my-finally-made-it-to-sf-well-deserved-activity-7350604896112373760--CZX",
+        "title": "My \ud83d\udc10finally made it to SF. Well deserved!",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQFkFaPQ9UglTQ/feedshare-shrink_800/B56ZgKGE1EHcAk-/0/1752516022865?e=2147483647&v=beta&t=AgM72DY0IwPaB0topU4F2acNVillJUm-BdFKhzQXhKE",
+        "id": "7350604896112373760"
+      },
+      {
+        "interaction": null,
+        "link": "https://www.linkedin.com/posts/daryl-echeazu_i-was-going-to-write-a-longer-post-but-its-activity-7331364845746905088-DLbj",
+        "title": "I was going to write a longer post, but it's too yappy, so I'll keep it short(er). 2000+ applicants. A 5% acceptance rate. My questionable essay topics and a pipe dream. Somehow, I got into the University of Chicago , where I'll pursue a double major in Computer Science & Economics or Computer Science & Computational and Applied Mathematics. (I'm indecisive \ud83d\udc94) Leaving A&M is extremely bittersweet, to say the least. I'm grateful for every friendship and memory I made this year. Huge thanks to these amazing people (in no particular order): Zeshan Javaid for all the late nights we spent, jokes, and for being there for me through thick and thin. Sanya K. for the craziest clutches revising my essays at ungodly times. Jonathan Aizik for your flamboyant personality and for pulling through with a 10/10 referral (TAI misses you). S. Niki Ritchey and Anthony Pham , you've both put up with my constant stupidity. I couldn't be more appreciative of your support, LEEWAY, and advice. Brent Vela for being a mentor since last summer and meeting me at whatever point I'm at. Spandan Patel , and Raghav K. , you two are my boys. Let's keep the momentum going. ...more ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQEkYGqdSxhC8Q/feedshare-shrink_800/B56Zb49eUVHUAg-/0/1747933587802?e=2147483647&v=beta&t=97mNe8aOdN6onk0-4yBMJVljry1GGlFE3ZiF2nbsbOY",
+        "id": "7331364845746905088"
+      },
+      {
+        "interaction": null,
+        "link": "https://www.linkedin.com/posts/raghav-katta_remote-internship-opportunity-backend-activity-7244359951937069059-qoAB",
+        "title": "REMOTE INTERNSHIP OPPORTUNITY -Backend (with Python/Flask) -Frontend (with React Native) -Social Media Manager ~5 hrs a week Hey y'all, I'm expanding my work on The Safe Walking App. I have recently won the BEST AI project in Midwest Disruption Hackathon with this project with a $1500 prize, and am working to deploy this in the app store. We put out an initial survey and had 80% of people show interest, and have DOZENS of people on the waitlist for a mobile version. I am also entering this in various pitch competitions to raise money, which you can get the chance to help in! If you are interested in being a part of this project, connect with me and write your email in the comments. ...more ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQFedt_D2gxqQQ/feedshare-shrink_800/feedshare-shrink_800/0/1727155177264?e=2147483647&v=beta&t=8c08JgJnUl12rkfNyBvpzu4MLQ-kLaaPWOZo8SJBom8",
+        "id": "7244359951937069059"
+      },
+      {
+        "interaction": "Spandan Patel replied to a comment 2mo",
+        "link": null,
+        "title": "Aneesh Ratnala Holy aneesh",
+        "img": null,
+        "id": null
+      },
+      {
+        "interaction": "Spandan Patel replied to a comment 2mo",
+        "link": null,
+        "title": "William Jiang blessed to have jiangoat comment on my post",
+        "img": null,
+        "id": null
+      },
+      {
+        "interaction": "Spandan Patel liked this",
+        "link": "https://www.linkedin.com/posts/skj21_its-official-im-staying-a-denver-nugget-activity-7487522204054646784-2Op3",
+        "title": "It's official. I'm staying a Denver Nugget. Plot twist. Yes, I signed an offer sheet with Oklahoma City and yes, Denver matched it. I know some people are confused, and some fans are even upset. How could I sign with a rival? I get it. But I also need people to understand something. This is a business. Front offices treat it that way every day and players have to do the same. I went into free agency with clear priorities: a team that fits my skillset, a championship culture, and an organization I believe in. Both Denver and OKC checked those boxes. Either way, I was landing somewhere that made sense. The offer sheet was a business decision. It ensured I ended up in the right situation w/ what I felt was the right compensation regardless of what happened next. And along the way, I made a little history. The largest fully guaranteed offer sheet ever signed by an undrafted player converted from a two-way contract. From a two-way with no safety net to this. I don't take that lightly. Now I get to keep building with the team that bet on me from the start. Back to work!",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQETYep4RxYqow/feedshare-shrink_800/B56Z.kFxJ0JEAg-/0/1785164403691?e=2147483647&v=beta&t=_GTYeGBrS-xRGoWby-hWv9fC0M4hiQV2W1NtAPm7Pok",
+        "id": "7487522204054646784"
+      },
+      {
+        "interaction": "Spandan Patel liked this",
+        "link": "https://www.linkedin.com/posts/tyler-xiao_last-saturday-i-served-as-a-host-and-judge-activity-7485706484560093184-8MO1",
+        "title": "Last Saturday, I served as a host and judge for Ramp 's largest-ever external hackathon. Months ago, I reached out to Richard Noguchi to see if a Codex sponsorship for a Ramp hackathon would be possible. Months of back and forth helped us prepare all the logistics for the hackathon. I\u2019m here to share the top 3 winners in the Codex prize track. \ud83e\udd47 Relay, by Ryan Amiri , Aadi Biyani , and Kile H. Relay built custom \u201cadapters\u201d for Codex to use Desktop Apps. It made Codex play Minecraft PVPs, and nobody beat the AI. \ud83e\udd48 Spex, by Sofia Bodnar , Chris Chang , Armaan Agrawal , and Santosh S. Spex built a custom model to predict Codex tool calls + events. Benchmarked against vanilla Codex and offered significant latency improvement. \ud83e\udd49 Governor, by Aarav Raina , Aryan Sharma , Azdeen Zack , and Thomas Ou Governor deployed an AI token spend management system inside of VSCode\u2019s extension marketplace + a router to set spend limits on existing token spend. Thanks to everyone who competed! Picking the winners was not an easy decision at all. A special shoutout to Sandra Yang , Satyam Singh , Richard Noguchi , Angela Wu , Katherine W. , and Cat Choy for organizing, judging, and supporting the event! PS: I\u2019m currently working on a longer-form article to break down the behind the scenes of developing the hackathon's software. Stay tuned. :)",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQGaLqmFr3a0JQ/feedshare-shrink_800/B4EZ.IKvi7IAAc-/0/1784695946279?e=2147483647&v=beta&t=ek-Du3unF9U_JdoruLFJ6txh40oYOW0BLymcB-xSgbA",
+        "id": "7485706484560093184"
+      },
+      {
+        "interaction": "Spandan Patel liked this",
+        "link": "https://www.linkedin.com/posts/yangroland_after-four-unforgettable-years-im-grateful-activity-7481813266411855872-Q4CH",
+        "title": "After four unforgettable years, I\u2019m grateful to share that I\u2019ve graduated from UCLA with a B.S. in Computer Science. \ud83c\udf93 I\u2019m also honored to have received the Engineering Achievement Award in Student Welfare, which recognizes students who have made outstanding contributions to student welfare and service to the campus community. Looking back, some of my most memorable college experiences came from saying yes to opportunities I never could have predicted. One of the most fulfilling parts of my experience was helping organize LA Hacks . I had the opportunity to work with an incredible team to grow the event, reach thousands of students, partner with dozens of sponsors, and break several organization records along the way. It became one of my biggest professional experiences in college teaching me how to lead an organization, manage large-scale logistics and budgeting, and coordinate across multiple stakeholders under pressure. Helping LA Hacks be recognized as UCLA Engineering\u2019s Most Grown Student Organization of 2026 was an honor, but what I\u2019m most proud of is the community we built and the impact we created together. \ud83d\udcbb The UCLA Association of Chinese Americans also became one of the most meaningful communities I was part of, in ways I didn\u2019t expect. While I\u2019m grateful for the professional side of networking with sponsors and creating opportunities for members of the Chinese community, what stood out most were the friendships, mentorship, and belonging that came from it. Helping coordinate one of ACA\u2019s largest intern classes, watching new members find their place, and forming so many meaningful connections helped make a big school like UCLA feel closer. \ud83e\udd1d Playing drums with the UCLA Marching Band was another unforgettable part of my time in college. It allowed me to continue pursuing a hobby I\u2019ve always loved at a higher level while sharing that passion through performances for others. Through the band, I had the privilege of performing across the country and even in Taiwan, represent UCLA at gigs throughout LA, and accidentally create some funny social media content along the way that reached far more people than I ever expected. \ud83e\udd41 Looking back, the moments I\u2019ll remember most aren\u2019t just the big milestones, but the late nights, spontaneous adventures, long trips, and people who made UCLA feel like home. I came to school with the intent to only focus on academics and get a good job, but I\u2019m leaving with a much greater appreciation for everything outside the classroom: the people you surround yourself with, the opportunities you say yes to, and the unexpected moments that teach you how to grow. Thank you to my family, friends, mentors and everyone who supported me along the way. I wouldn\u2019t be where I am today without you. I\u2019m excited to begin my next chapter as a Software Engineer at Anduril Industries in Costa Mesa this August. \ud83d\ude80 I'm grateful for everything this chapter gave me, and I'm excited for what comes next. Go Bruins! \ud83d\udc3b",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQHJImDC-EIK4A/feedshare-shrink_800/B56Z9S9hBDIgAc-/0/1783803286285?e=2147483647&v=beta&t=UW4dqfipXgBIFgxF_64v3aZzfIonYWoaYoI1lRls0Mg",
+        "id": "7481813266411855872"
+      },
+      {
+        "interaction": "Spandan Patel liked this",
+        "link": "https://www.linkedin.com/posts/mikesiko_im-thrilled-to-announce-that-ive-joined-activity-7479982338580414464-fuWN",
+        "title": "I\u2019m thrilled to announce that I\u2019ve joined Coinbase as the Chief Information Security Officer (CISO)! My career has focused on advising security teams on emerging threats, building security products, and supporting organizations through high-stakes incident response. As the threat landscape evolves toward increasingly complex, decentralized ecosystems with AI-enabled attackers, it\u2019s time to step out of the advisory seat and take on this challenge directly. I\u2019m honored to join Jeff Lunglhofer and the exceptional team at Coinbase. Together, we will secure the future of financial services, disrupt threat actors, and scale a highly resilient world-class security architecture. Incredibly excited for this next chapter. Let\u2019s go!",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQHYOupxvGVTlg/feedshare-image-high-res/B4EZ848S3YJ0AU-/0/1783366759883?e=2147483647&v=beta&t=mCpeLwN0JQm8UAtm52e3veVMxd_8EIJcTIe-bVSoQSw",
+        "id": "7479982338580414464"
+      },
+      {
+        "interaction": "Spandan Patel liked this",
+        "link": "https://www.linkedin.com/posts/i-am-grateful-to-share-that-i-have-been-accepted-activity-7478995918978170880-YPFP",
+        "title": "I am grateful to share that I have been accepted to the Icahn School of Medicine at Mount Sinai via the Donald and Vera Blinken FlexMed Program, with plans to matriculate in 2028. This still feels surreal, and I am incredibly thankful for the people who helped me get to where I am today. I am especially grateful to my family, friends, peers, and mentors who supported me throughout this process. Thank you to Dr. Raj Apte , Dr. Kathleen Tebb , Dr. Meera Patel, Dr. Jim P. Stimpson , Dr. Marcia Zorrilla , Harper Byers , Dr. Bryn Austin , Dr. Melvin R. Echols, MD, MSCR, FACC, FASPC, FHFSA , Melissa Helmkamp , Ethan Lowder, MD , Faraan Rahim , Emaad Khan , Arnav Ajay Jadav , Kenta Kato , Kaushal Parimi and Nam Nguyen , as well as the rest of the GHSEN team, the School-Based Health Alliance , the WashU Vagelos Scholars Program, and the WashU Medicine & Society Program. Additionally, I want to thank my parents for supporting me every step of the way. I'm excited to spend my final two years at WashU continuing to pursue opportunities and projects that first drew me to medicine and public health. I am very grateful for this next step and excited for what lies ahead!",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQH2Rof6qzxcEQ/feedshare-shrink_800/B4EZ8q7J9fIsAc-/0/1783131578654?e=2147483647&v=beta&t=avBXraus4VyYx-KYvD2VEtOck96nOCL_v-7ydCjC8Yc",
+        "id": "7478995918978170880"
+      },
+      {
+        "interaction": "Spandan Patel liked this",
+        "link": "https://www.linkedin.com/posts/sophia-sharif_my-first-six-months-at-ucla-were-lonely-activity-7475971202994360321-QAnr",
+        "title": "My first six months at UCLA were lonely. It was my first time living away from home, and I was surrounded by amazing people but couldn't seem to actually connect with any of them. I called my mom Vera Shokina every day, and she drove down from the Bay whenever she could. What I didn't know yet was that I'd already met most of the people this post is about: the ones I'd end up pulling all-nighters with, trading secrets with, and, four years later, calling my closest friends. It was just a matter for spending some more time with them. In honors calculus, I trauma-bonded with Yutian Yang (who would become my roommate for the next three years!), Julia Gu , Kuan Qian , and Karley Tioran . My next-door neighbors Hannah Kendall and Annie Feng , plus their friend Abigail Chang , became a weekly breakfast club where we'd debrief the week. Joy Cheng was one of the first people I met as a move-in assistant, and I met Surya Subbarao at a math competition (which he ended up winning!). I thought I was meeting them in passing, but four years later they're some of my best friends. When I showed up to my first LA Hacks meeting, I was disappointed to learn it was for organizing the hackathon, not competing in it. I was too embarrassed to leave. So I sat through it, realized what an incredible group of people it was, and ended up finding my biggest group of friends: Shubham Kumar , Claire Chien , Priyanshu Sharma , Anagha Srivatsav , Allison Huang , Zoey Ho , Sean Chan, Isabella Qian , Arya Bhalla , Armaan Bassi , Julie Cover , Anooshkha Shetty , Asmi K. , Sonav Agarwal , John Connell , and Tom Binford . Shubham, Sonav, John, and Tom became my go-to hackathon teammates once I started competing myself. They\u2019ve seen me at rock bottom when I lose all hope for our project at 4am, and then in a giggle fit 5 minutes later going delirious from the sleep deprivation. I joined club track and met two of my closest friends today, Evan Leach and Nick Pavlosky . Something about feeling like you\u2019re about to pass out after a 400 gets you really close, I guess! I bonded with Rory Hemmings, Amanda W , and Sam Gerstmann while interning in New York, and kept in touch with them once we were back at UCLA because I have the best conversations with them. I ran into Nyla Zia during a UCLA event she was organizing, and we hit it off immediately and started getting coffee together regularly. And I met with Maxine Wu, Alina Susu , Peter Nguyen , Joyce Chen , and Eric Wang through mutual friends in passing, but ended up bonding with them more deeply. To all of you, and the many others I bumped into along the way, thank you. You made me who I am now, and created memories I\u2019ll look back at fondly for the rest of my life. UCLA, I\u2019ll miss you!",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQE_na5ysVm9vw/feedshare-shrink_1280/B56Z7_8MCBG4AM-/0/1782410428809?e=2147483647&v=beta&t=ZT9cxyYhCb0-QI1wMRJlll722kBqlchyu1i0XbFbBCI",
+        "id": "7475971202994360321"
+      },
+      {
+        "interaction": "Spandan Patel liked this",
+        "link": "https://www.linkedin.com/posts/d-zhou_i-will-be-joining-databricks-as-a-software-activity-7474845076586864641-o-WG",
+        "title": "I will be joining Databricks as a Software Engineer Intern in SF this summer! I am really grateful for the opportunity and excited to learn lots.",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQHRRcjj1RUtZQ/feedshare-image-high-res/B56Z7ZZyZbGUAU-/0/1781763876738?e=2147483647&v=beta&t=jmjDorl51DmvtnYQcYYQLsGNf5D5pgYq-eKTKXVWtt8",
+        "id": "7474845076586864641"
+      },
+      {
+        "interaction": "Spandan Patel liked this",
+        "link": "https://www.linkedin.com/posts/danny-super-chmaytelli_super-excited-to-announce-blooms-partnership-activity-7473512473686364160-gnic",
+        "title": "Super excited to announce Bloom 's partnership with Howie Mandel \ud83e\udd73",
+        "img": "https://media.licdn.com/dms/image/v2/D5605AQH9vM0zGkO10A/videocover-high/B56Z7c_9I.GsBM-/0/1781824216876?e=2147483647&v=beta&t=0Ff_ur04ScHRZc9zmIibXcI7uytm2DJt2nX6kP6vntc",
+        "id": "7473512473686364160"
+      },
+      {
+        "interaction": "Spandan Patel liked this",
+        "link": "https://www.linkedin.com/posts/jalenbrunson1_winning-an-nba-championship-with-the-new-activity-7473181771698798592-FpKA",
+        "title": "Winning an NBA Championship with the New York Knicks is everything I ever dreamed of. The fans, the city, this organization\u2026 This is why I came to New York. I\u2019m so proud of this team. No matter the situation, we never stopped believing in each other or lost sight of our goal. With enough work and enough belief, your dreams are possible and you can overcome any obstacle. Whatever it is in life, believe that you belong. People might disagree but let that strengthen your belief because with hard work, preparation, and the right mindset, anything is possible. I can't wait to celebrate with my family, my teammates, the city of New York, and everyone who's been here from day one. We don\u2019t win this championship without you! I also look forward to continuing to support other people's dreams through my work with the Second Round Foundation , where our mission is helping young people determine their own success no matter where they come from. It is important to me to support the under-resourced, under-represented, and under-estimated, and to ensure that they have the tools, guidance, and belief they need to achieve their dreams. Thank you, New York. I am forever grateful. And always remember\u2026The Magic is in the Work. - JB",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQG4L0vGNWeSgQ/feedshare-shrink_800/B4EZ7YTN8cHwAc-/0/1781745377584?e=2147483647&v=beta&t=xKQmNzxdNG2Fammmhl-r_UHdhCt4RXhg2PtXb9UlF9Q",
+        "id": "7473181771698798592"
+      }
+    ],
+    "linkedin_num_id": "1291831634",
+    "banner_image": "https://media.licdn.com/dms/image/v2/D4E16AQH4xySNtuf8kg/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1728630581034?e=2147483647&v=beta&t=h2z7TQ-Sw_Cpsraqe1QW6_p77WgZQOHbxEWoV9LFy9Y",
+    "honors_and_awards": [
+      {
+        "title": "Gold Division",
+        "publication": "USA Computing Olympiad",
+        "date": null,
+        "description": null
+      },
+      {
+        "title": "National Merit Scholar Finalist",
+        "publication": "National Merit Scholarship Corporation",
+        "date": null,
+        "description": null
+      }
+    ],
+    "similar_profiles": [],
+    "default_avatar": false,
+    "memorialized_account": false,
+    "bio_links": [],
+    "first_name": "Spandan",
+    "last_name": "Patel",
+    "influencer": false,
+    "timestamp": "2026-08-12T19:16:59.609Z",
+    "input": {
+      "url": "https://www.linkedin.com/in/spandan-p"
+    }
+  },
+  "local_photo": "data\\linkedin_photos\\spandan-p__usr-KGtfls7TKtBURhO.jpg"
+}

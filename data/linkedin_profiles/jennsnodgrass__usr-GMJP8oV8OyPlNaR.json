@@ -1,0 +1,195 @@
+{
+  "luma_user_id": "usr-GMJP8oV8OyPlNaR",
+  "csv_name": "Jennifer Snodgrass",
+  "csv_linkedin": "https://www.linkedin.com/in/jennsnodgrass",
+  "enriched_at": "2026-08-12T19:07:22.294052+00:00",
+  "batch_id": "sd_msqgmjx4y9b9cgg4i",
+  "profile": {
+    "id": "jennsnodgrass",
+    "name": "Jennifer Snodgrass",
+    "city": "San Francisco Bay Area",
+    "country_code": "US",
+    "position": null,
+    "about": null,
+    "current_company": {
+      "link": "https://www.linkedin.com/company/repl-it?trk=public_profile_topcard-current-company",
+      "name": "Replit",
+      "company_id": "repl-it",
+      "location": null
+    },
+    "experience": null,
+    "url": "https://cl.linkedin.com/in/jennsnodgrass",
+    "people_also_viewed": [
+      {
+        "profile_link": "https://www.linkedin.com/in/sawm",
+        "name": "Sawm Soltani PMP",
+        "about": "Founders First Capital Partners",
+        "location": "1K followers San Diego, CA"
+      },
+      {
+        "profile_link": "https://www.linkedin.com/in/andre-mcgee-88039b106",
+        "name": "Andre' McGee",
+        "about": "U.S. Department of Veterans Affairs",
+        "location": "3K followers Pittsburgh, PA"
+      },
+      {
+        "profile_link": "https://www.linkedin.com/in/shannon-beck-737aa9a9",
+        "name": "Shannon Beck",
+        "about": "MISA Imports Inc.",
+        "location": "2K followers Denver, CO"
+      },
+      {
+        "profile_link": "https://www.linkedin.com/in/marymcnamara150",
+        "name": "Mary McNamara",
+        "about": null,
+        "location": "1K followers Tucson, AZ"
+      },
+      {
+        "profile_link": "https://www.linkedin.com/in/michelle-batte-24b95590",
+        "name": "Michelle McUmber",
+        "about": "City of Greenbrier",
+        "location": "1K followers Springfield, TN"
+      },
+      {
+        "profile_link": "https://uk.linkedin.com/in/shenalo",
+        "name": "Shena Lohardjo",
+        "about": "Flywire",
+        "location": "2K followers United Kingdom"
+      },
+      {
+        "profile_link": "https://www.linkedin.com/in/paige-muehlberg-05729458",
+        "name": "Paige Muehlberg",
+        "about": "Ameriprise Financial Services, LLC",
+        "location": "1K followers Greater Minneapolis-St. Paul Area"
+      },
+      {
+        "profile_link": "https://www.linkedin.com/in/lena-dobreer-bb683733",
+        "name": "Lena Dobreer",
+        "about": "Opus Connect",
+        "location": "2K followers Los Angeles, CA"
+      },
+      {
+        "profile_link": "https://www.linkedin.com/in/levettew",
+        "name": "William Levette, II",
+        "about": "Guilford County Schools",
+        "location": "2K followers Greensboro, NC"
+      },
+      {
+        "profile_link": "https://www.linkedin.com/in/angela-pierucci-51460b2b",
+        "name": "Angela Pierucci",
+        "about": "By the Teashore",
+        "location": "1K followers Half Moon Bay, CA"
+      },
+      {
+        "profile_link": "https://pr.linkedin.com/in/hannabryce",
+        "name": "Hanna Johnson",
+        "about": "Self-employed",
+        "location": "897 followers Isabela"
+      },
+      {
+        "profile_link": "https://www.linkedin.com/in/marykatemeedzan",
+        "name": "MaryKate Meedzan",
+        "about": "Empower",
+        "location": "2K followers San Diego Metropolitan Area"
+      },
+      {
+        "profile_link": "https://www.linkedin.com/in/robert-hornbeak-282360110",
+        "name": "Robert Hornbeak",
+        "about": "U.S. Department of Housing and Urban Development",
+        "location": "26K followers Dallas-Fort Worth Metroplex"
+      },
+      {
+        "profile_link": "https://www.linkedin.com/in/william-kazlauskas-587b59a5",
+        "name": "William Kazlauskas",
+        "about": "Markets Group",
+        "location": "2K followers Asheville, NC"
+      },
+      {
+        "profile_link": "https://www.linkedin.com/in/max-giella-39640660",
+        "name": "Max Giella",
+        "about": "San Francisco City Attorney's Office",
+        "location": "3K followers Oakland, CA"
+      },
+      {
+        "profile_link": "https://www.linkedin.com/in/melody-iuliano-458a6359",
+        "name": "Melody Iuliano",
+        "about": "JPMorganChase",
+        "location": "5K followers Queens, NY"
+      },
+      {
+        "profile_link": "https://www.linkedin.com/in/sara-deich-sphr-7a58b18",
+        "name": "Sara Deich, SPHR",
+        "about": "Farm Bureau Financial Services",
+        "location": "2K followers West Des Moines, IA"
+      },
+      {
+        "profile_link": "https://www.linkedin.com/in/rooneynick",
+        "name": "Nick Rooney",
+        "about": "Portland Timbers",
+        "location": "1K followers Portland, Oregon Metropolitan Area"
+      },
+      {
+        "profile_link": "https://www.linkedin.com/in/theresa-hagel-819ba826",
+        "name": "Theresa Hagel",
+        "about": "Stripe",
+        "location": "2K followers San Francisco Bay Area"
+      },
+      {
+        "profile_link": "https://www.linkedin.com/in/christiemorton",
+        "name": "Christie Morton",
+        "about": "SoFi",
+        "location": "2K followers Denver, CO"
+      }
+    ],
+    "educations_details": "University of California, Santa Cruz",
+    "education": null,
+    "avatar": "https://static.licdn.com/aero-v1/sc/h/9c8pery4andzj6ohjkjp54ma2",
+    "languages": [
+      {
+        "subtitle": "-",
+        "title": "English"
+      },
+      {
+        "subtitle": "Limited working proficiency",
+        "title": "Css"
+      },
+      {
+        "subtitle": "Limited working proficiency",
+        "title": "Java"
+      }
+    ],
+    "volunteer_experience": [
+      {
+        "cause": "Civil Rights and Social Action",
+        "duration": "Mar 2014 \u00b7 - \nMar 2018 \u00b7 \n4 years 1 month",
+        "duration_short": "- \nMar 2018",
+        "info": "HEAR aims to explore, develop and evaluate the impact of innovative technologies and traditional mental health services in a comparative setting to better understand how to help and support former foster youth in order to offer effective mental health services.",
+        "start_date": "Mar 2014",
+        "subtitle": "Health Education Advocates & Research",
+        "title": "Board Member"
+      }
+    ],
+    "followers": 1266,
+    "connections": 500,
+    "current_company_company_id": "repl-it",
+    "current_company_name": "Replit",
+    "location": null,
+    "input_url": "https://www.linkedin.com/in/jennsnodgrass",
+    "linkedin_id": "jennsnodgrass",
+    "activity": null,
+    "linkedin_num_id": "395893433",
+    "banner_image": "https://media.licdn.com/dms/image/v2/D5616AQEWRqoG7WngCA/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1718833326807?e=2147483647&v=beta&t=HNfqYlmJ2yXbgxq0Y6xtsafj77D7pWX9WMstcZyrhm0",
+    "honors_and_awards": null,
+    "similar_profiles": [],
+    "default_avatar": true,
+    "memorialized_account": false,
+    "bio_links": [],
+    "first_name": "Jennifer",
+    "last_name": "Snodgrass",
+    "influencer": false,
+    "timestamp": "2026-08-12T19:06:10.428Z",
+    "input": {
+      "url": "https://www.linkedin.com/in/jennsnodgrass"
+    }
+  }
+}

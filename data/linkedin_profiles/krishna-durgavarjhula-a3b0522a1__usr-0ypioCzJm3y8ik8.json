@@ -1,0 +1,253 @@
+{
+  "luma_user_id": "usr-0ypioCzJm3y8ik8",
+  "csv_name": "Krishna Durgavarjhula",
+  "csv_linkedin": "https://www.linkedin.com/in/krishna-durgavarjhula-a3b0522a1",
+  "enriched_at": "2026-08-12T19:12:29.382348+00:00",
+  "batch_id": "sd_msqgtpzbeylkhkm9p",
+  "profile": {
+    "id": "krishna-durgavarjhula-a3b0522a1",
+    "name": "Krishna Durgavarjhula",
+    "city": "Fremont, California, United States",
+    "country_code": "US",
+    "position": null,
+    "about": "Incoming freshman at UC Berkeley building a career in Computer Science. I'm currently\u2026",
+    "current_company": {
+      "link": "https://www.linkedin.com/company/weliftandshift?trk=public_profile_topcard-current-company",
+      "name": "Lift and Shift Foundation",
+      "company_id": "weliftandshift",
+      "location": null
+    },
+    "experience": null,
+    "url": "https://bd.linkedin.com/in/Krishna-durgavarjhula-a3b0522a1",
+    "educations_details": "American High School",
+    "education": [
+      {
+        "title": "American High School",
+        "url": "https://www.linkedin.com/school/ahs-eagles/",
+        "start_year": "2022-08",
+        "end_year": "2026-06",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      },
+      {
+        "start_year": "2026",
+        "end_year": "2030",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      }
+    ],
+    "avatar": "https://media.licdn.com/dms/image/v2/D5603AQFANCnHIYG0ug/profile-displayphoto-scale_200_200/B56Z3_MHUUIkAc-/0/1778102862217?e=2147483647&v=beta&t=sQj3zdVtv9cMou9UDbMIUJ67tZ0NjuhaDI--wVSndU4",
+    "volunteer_experience": [
+      {
+        "cause": "Education",
+        "duration": "Jun 2025 \u00b7 - \nJul 2025 \u00b7 2 months",
+        "duration_short": "- \nJul 2025",
+        "info": "Volunteered as an instructor teaching a class to 20 middle schoolers online my high school's branch of Coding Tomorrow, a non-profit for programming education. Created a web development curriculum with lesson plans, coding examples, and homework assignments, and taught classes every week for about a month.",
+        "start_date": "Jun 2025",
+        "subtitle": "Coding Tomorrow Initiative",
+        "title": "Instructor"
+      },
+      {
+        "cause": "Health",
+        "duration": "Aug 2025 \u00b7 - \nJun 2026 \u00b7 11 months",
+        "duration_short": "- \nJun 2026",
+        "info": "The Safe Seniors Initiative aims to foster tech literacy and reduce isolation among seniors to combat online fraud. As founder of the Safe Seniors Initiative, prepared a fraud-detection curriculum for seniors to teach them how to avoid online financial fraud, presented lessons at the center, and distributed educational material. Led a crowdfunding campaign towards building an indoor safe space where seniors could gather and organize events during the winter.",
+        "start_date": "Aug 2025",
+        "subtitle": "Safe Seniors Initiative",
+        "title": "Founder"
+      }
+    ],
+    "followers": 348,
+    "connections": 348,
+    "current_company_company_id": "weliftandshift",
+    "current_company_name": "Lift and Shift Foundation",
+    "publications": [
+      {
+        "title": "An Assistive Sensory-Based System for Integrated Fall and Obstacle Detection",
+        "subtitle": "IEEE",
+        "date": "March 9, 2026",
+        "description": "Traditional walking canes have offered limited mobility to elderly individuals, while leaving critical safety gaps in spatial awareness and emergency response. This paper presents a novel integrated assistive system that combines obstacle detection, fall detection, biometric monitoring, and sustainable energy harvesting in a single low-cost device, helping to minimize falls in seniors without compromising comfort. The system utilizes ultrasonic sensors with haptic feedback to give the user ample time to respond to obstacles and uneven surfaces with an accuracy of 97.75% \u00b1 1.2% (agreement with a meter-stick baseline) up to 1.5 meters and 100% detection across 27 simulated fall trials. Alongside the hardware, the companion mobile application enables real-time pulse monitoring for the user and comprehensive emergency response capabilities for caregivers. If a fall is detected by the built-in gyroscope, the location is automatically recorded in the mobile app, and an emergency call is placed to emergency services or a family member. A thermoelectric energy harvesting system converts body heat from the user\u2019s palm into electrical energy, sustainably powering two LEDs controlled by a switch. Comprehensive testing validates the effective delivery of haptic feedback and the reliable performance of sensors with a user-adjustable detection range. Results are preliminary from bench/lab simulations; future development includes expanded user testing and baseline comparisons."
+      }
+    ],
+    "projects": [
+      {
+        "title": "An Assistive Sensory-Based System for Integrated Fall and Obstacle Detection",
+        "start_date": "Sep 2024",
+        "description": "Worked in a 3-member team for 8 months to design an eco-friendly smart cane system for seniors with terrain profiling, fall detection, pulse tracking, and a caretaker mobile app. Integrated ultrasonic sensors, thermoelectric generators, Bluetooth module, haptic motors, gyroscope, pulse sensor into a cohesive system.- Earned Alameda County Science & Engineering Fair 1st category award among 200+ projects. Evaluated across 3 rounds by panels of judges for technical rigor and oral defense. Selected as 1 of 15 projects advancing to CSEF.- Drafted and filed a provisional patent.- Co-authored research paper on \"An Assistive Sensory-Based System for Integrated Fall and Obstacle Detection\". Selected for presentation and publication at IEEE-sponsored COSITE 2025. Serving as presenting author to deliver findings virtually at the conference in December 2025."
+      },
+      null,
+      {
+        "title": "Breathe App",
+        "start_date": "Aug 2024",
+        "description": "Inspired by personal struggles with asthma, developed Breathe, an Android app using Javascript, Node.js and Expo for logging respiratory symptoms and tracking triggers based on weather data. Optimized API calls for daily weather data, conducted beta testing with 20 users, and published app to the Google Play Store."
+      }
+    ],
+    "location": "Fremont",
+    "input_url": "https://www.linkedin.com/in/krishna-durgavarjhula-a3b0522a1",
+    "linkedin_id": "krishna-durgavarjhula",
+    "activity": [
+      {
+        "interaction": "Liked by Krishna Durgavarjhula",
+        "link": "https://www.linkedin.com/posts/tanisha-arora-2009z_last-friday-i-wrapped-up-my-second-consecutive-activity-7489712139205562369-6XBx",
+        "title": "Last Friday, I wrapped up my second consecutive summer as an intern at the NASA Ames Research Center. Returning to the NASA\u2019s Intelligence Systems\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQH5EXoHx0FdXA/feedshare-image-high-res/B56Z_DNerDIcAY-/0/1785686518711?e=2147483647&v=beta&t=aWkEZx3S1xJJ0bntvZDo4TptHVIl4iVTEmgngbecV7A",
+        "id": "7489712139205562369"
+      },
+      {
+        "interaction": "Liked by Krishna Durgavarjhula",
+        "link": "https://www.linkedin.com/posts/kevin-hill-9291693b0_computervision-mediapipe-opencv-activity-7491224975396438016-U_mA",
+        "title": "I (sort of) made an invisibility cloak. And 9 other filters. Hold up both hands, and the moment all your index fingers and thumbs are in frame, they\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5605AQEEwVV-f5FTnA/videocover-high/B56Z_YtYR2J8BM-/0/1786047205762?e=2147483647&v=beta&t=yxi_SQ88DTj5q1vXr89YO4WfalBnBxVBAViEC9lzkYI",
+        "id": "7491224975396438016"
+      },
+      {
+        "interaction": "Liked by Krishna Durgavarjhula",
+        "link": "https://www.linkedin.com/posts/adityadas71_im-happy-to-share-that-rishabh-b-and-i-activity-7490802567115866112-ExZ8",
+        "title": "I'm happy to share that Rishabh B. and I won 2nd place for Best Use of Guild.ai at Memory Meets Motion in San Francisco! We built Muscle Memory, a\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQEdNMLkmdPVEA/feedshare-image-high-res/B56Z_RSZLrJgAU-/0/1785922689028?e=2147483647&v=beta&t=4dRB-_2csYyExgUxjyoP5Lic-tcTo-r5HXRiwPnlPdk",
+        "id": "7490802567115866112"
+      },
+      {
+        "interaction": "Liked by Krishna Durgavarjhula",
+        "link": "https://www.linkedin.com/posts/junhyun-kim-15840128b_had-a-great-time-chatting-with-kulveer-taggar-activity-7487413451657490433-WGZW",
+        "title": "Had a great time chatting with Kulveer Taggar and Christina Gilbert, Y Combinator Visiting Partners, about startups and token management. Always\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQEpHDQkhuZTSQ/feedshare-image-high-res/B56Z.ii2dbJoAU-/0/1785138473233?e=2147483647&v=beta&t=Af9psiP3ZF-G62fSEly7UgL03nma1lgmvoCYFMTyzjs",
+        "id": "7487413451657490433"
+      },
+      {
+        "interaction": "Liked by Krishna Durgavarjhula",
+        "link": "https://www.linkedin.com/posts/shreyas-prasad-b0904027a_first-hackathon-in-the-books-at-the-qbi-activity-7487021338935820288-ZGs-",
+        "title": "First Hackathon in the books! At the QBI Hackathon at UCSF, my team built Cell Horizon, a cancer image analysis tool focused on making microscopy and\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQHDvZpLUUaYKg/feedshare-shrink_1280/B56Z.c.NruKoAM-/0/1785044982740?e=2147483647&v=beta&t=SCtqfjmk7DWm6SSxzWZLGCC9etJnDdxfWt-4fC6jjrs",
+        "id": "7487021338935820288"
+      },
+      {
+        "interaction": "Liked by Krishna Durgavarjhula",
+        "link": "https://www.linkedin.com/posts/adityadas71_jachacks-socialimpact-emergencytechnology-activity-7488865737688928256-EMoi",
+        "title": "What happens when a natural disaster destroys the infrastructure you need to call for help? California constantly faces the threat of earthquakes\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQHSvm-nCgYuKg/feedshare-shrink_800/B56Z.3Ls2pGUAc-/0/1785484726771?e=2147483647&v=beta&t=hCcB64k62cHAKeb2vIPcy033K0Axs1n3J0k8sPXqGK0",
+        "id": "7488865737688928256"
+      },
+      {
+        "interaction": "Liked by Krishna Durgavarjhula",
+        "link": "https://www.linkedin.com/posts/rb-rishabh_im-happy-to-share-that-aditya-das-zhiyu-activity-7488466232480825344-zN5l",
+        "title": "I'm happy to share that Aditya Das, Zhiyu Wen, and I won 1st place in the Social Impact track at JacHacks SF! We built SafeRelay, an app that gets an\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQGOCkzmiok_cw/feedshare-shrink_800/B56Z.xgVLTHAAc-/0/1785389470972?e=2147483647&v=beta&t=RfzoqZMi7CJWig-B2kmPQqCGsGoQ3CJAgBlJfJfBciE",
+        "id": "7488466232480825344"
+      },
+      {
+        "interaction": "Liked by Krishna Durgavarjhula",
+        "link": "https://www.linkedin.com/posts/vedant-ramani_small-weekend-project-i-made-a-while-back-activity-7479780748581920769-v4Zx",
+        "title": "Small weekend project I made a while back about virtual machine interpreters in offensive security. Rather than the traditional indirect syscalls\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQFgwBoEiOgeDw/feedshare-shrink_800/B56Z82E9A5JoAc-/0/1783318696524?e=2147483647&v=beta&t=OWKOTEIjXB3GsT-pKlCZEQEeChTTbGHauCAzuoA_FIY",
+        "id": "7479780748581920769"
+      },
+      {
+        "interaction": "Liked by Krishna Durgavarjhula",
+        "link": "https://www.linkedin.com/posts/vidit-kulkarni_excited-to-share-that-ill-be-joining-initium-activity-7472301975985016832-XDIA",
+        "title": "Excited to share that I'll be joining Initium Technologies this summer as a Software Engineering Intern! Looking forward to working with machine\u2026",
+        "img": "https://static.licdn.com/aero-v1/sc/h/53n89ecoxpr1qrki1do3alazb",
+        "id": "7472301975985016832"
+      },
+      {
+        "interaction": "Liked by Krishna Durgavarjhula",
+        "link": "https://www.linkedin.com/posts/junhyun-kim-15840128b_won-individual-1st-place-at-hackamerica-out-activity-7467376813237882880-ZDIn",
+        "title": "Won Individual 1st Place at HackAmerica out of 550+ participants. First online hackathon I\u2019ve competed in. Grateful to the judges: Sanjay Subbaraj,\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQGr258ZnedEog/feedshare-image-high-res/B56Z6FzogWJsAU-/0/1780361365772?e=2147483647&v=beta&t=GV8kLoa_SUgpfbnRasmWlIQPaHVCovfmW_7cLpwX_K0",
+        "id": "7467376813237882880"
+      },
+      {
+        "interaction": "Liked by Krishna Durgavarjhula",
+        "link": "https://www.linkedin.com/posts/shaunakjog_ive-spent-the-past-week-reflecting-on-isef-activity-7465092037965492225-6OGo",
+        "title": "I\u2019ve spent the past week reflecting on ISEF 2026. Not just on what I saw, but who I met. It was an absolute joy to present our team's research at\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQFAmuyvGZBJug/feedshare-shrink_800/B56Z5lVppbGgAs-/0/1779816635994?e=2147483647&v=beta&t=rrPY6BaNm_zkljHB7vcboW4RSAs7uABJY0Zydc1UR8c",
+        "id": "7465092037965492225"
+      },
+      {
+        "interaction": "Liked by Krishna Durgavarjhula",
+        "link": "https://www.linkedin.com/posts/adityadas71_last-sunday-i-was-at-the-yc-call-my-agent-activity-7462947854706188289-X8IK",
+        "title": "Last Sunday, I was at the YC \"Call My Agent\" Hackathon. But, the adventure began way before we started hacking. To reach the Hackathon from the Bart\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQE5hsqAZ3A1EA/feedshare-shrink_800/B56Z5G3hOcIEAc-/0/1779305420591?e=2147483647&v=beta&t=Dj0fdOjYZ4KJs9Bgk147mO8C9LT7j5MzRxDXKc4S4gw",
+        "id": "7462947854706188289"
+      },
+      {
+        "interaction": "Liked by Krishna Durgavarjhula",
+        "link": "https://www.linkedin.com/posts/rb-rishabh_last-sunday-i-had-the-incredible-opportunity-activity-7462767940392615936-ldqK",
+        "title": "Last Sunday, I had the incredible opportunity to participate in the Call my Agent hackathon at YC! I had a great time building with Google DeepMind\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQGGYrHY2vkUug/feedshare-image-high-res/B56Z5ET4.yIEAU-/0/1779262526847?e=2147483647&v=beta&t=bp4P4T7rwQb1Eoy5gYfg10i6vxyhBtufVORdPIp50_k",
+        "id": "7462767940392615936"
+      },
+      {
+        "interaction": "Liked by Krishna Durgavarjhula",
+        "link": "https://www.linkedin.com/posts/junhyun-kim-15840128b_i-just-got-into-yc-startup-school-would-activity-7460190892101111809-2iKO",
+        "title": "I just got into YC Startup School. Would love to connect with others going.",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQEqggR6sNgQdw/feedshare-shrink_800/B4EZ4fsFbFGkAc-/0/1778648111177?e=2147483647&v=beta&t=3fcuiaNW6GHf6mN12M3fJYIoIN1PcI678FMm7eUHx6A",
+        "id": "7460190892101111809"
+      },
+      {
+        "interaction": "Liked by Krishna Durgavarjhula",
+        "link": "https://www.linkedin.com/posts/santoshsingh11_prouddad-fordham-leadership-activity-7454528739457241090-euo6",
+        "title": "Four years ago, we moved from the Philadelphia suburbs to the West Coast. My son traded a quiet pace for the high-intensity environment of Bay Area\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQFCJNnZsZLaPQ/feedshare-shrink_800/B56Z3LjBcLJ0Ac-/0/1777236449294?e=2147483647&v=beta&t=hjmVbuAGQpDpcWz3b9p86eBIccQ7hAAYA75eVBoNFm4",
+        "id": "7454528739457241090"
+      },
+      {
+        "interaction": "Liked by Krishna Durgavarjhula",
+        "link": "https://www.linkedin.com/posts/ayaansh-singh-5ab54b319_fordham-gabelli-finance-activity-7454269954549252096-KqOr",
+        "title": "Officially committed to Fordham University\u2019s Gabelli School of Business! Grateful for my family, friends, and teachers who got me to this\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQFCJNnZsZLaPQ/feedshare-shrink_800/B56Z3LjBcLJ0Ac-/0/1777236449294?e=2147483647&v=beta&t=hjmVbuAGQpDpcWz3b9p86eBIccQ7hAAYA75eVBoNFm4",
+        "id": "7454269954549252096"
+      },
+      {
+        "interaction": "Liked by Krishna Durgavarjhula",
+        "link": "https://www.linkedin.com/posts/junhyun-kim-15840128b_a-few-weeks-ago-i-won-the-tavily-and-digitalocean-activity-7454555245747130368-WNmJ",
+        "title": "A few weeks ago, I won the Tavily and DigitalOcean hackathon and received over $1,000 in developer credits, and I\u2019ve honestly been loving it. With\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQFpuPvqDa6UMw/feedshare-shrink_800/B56Z3PmfJxKEAg-/0/1777304467290?e=2147483647&v=beta&t=rblAxz29oJDz7MgwHWnKw1CM6AVQXaJu1Kcgzwn7X1Q",
+        "id": "7454555245747130368"
+      },
+      {
+        "interaction": "Liked by Krishna Durgavarjhula",
+        "link": "https://www.linkedin.com/posts/vidit-kulkarni_excited-to-share-that-i-have-committed-to-activity-7454563901620355073-0aJq",
+        "title": "Excited to share that I have committed to University of California, Santa Cruz for Computer Science! Thank you to my parents, friends, peers\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQH37nUcGSHS1w/feedshare-shrink_800/B4EZ3PuXfvIgAg-/0/1777306532112?e=2147483647&v=beta&t=voru9tZeinIuE6CeEIOCRHfKWHFYsf6fr7IHITyHUqU",
+        "id": "7454563901620355073"
+      },
+      {
+        "interaction": "Liked by Krishna Durgavarjhula",
+        "link": "https://www.linkedin.com/posts/vidit-kulkarni_hackathon-minimax-ai-activity-7444546972331425792-LvUX",
+        "title": "\"What's your most controversial food opinion?\" That's the kind of prompt that starts a war in Hot Take Arena, the real-time multiplayer game I built\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQERSWNf8SGODQ/feedshare-image-high-res/B4EZ1BYBW2HAAU-/0/1774918309796?e=2147483647&v=beta&t=Hi584ZFEaHUVAsC88aYSBR0SG72O-kz1GEbhJKzQqHE",
+        "id": "7444546972331425792"
+      },
+      {
+        "interaction": "Liked by Krishna Durgavarjhula",
+        "link": "https://www.linkedin.com/posts/dhruv-gannamraju-307696349_i-am-incredibly-thrilled-and-blessed-to-announce-activity-7445148367401418752-PMbP",
+        "title": "I am incredibly thrilled and blessed to announce my commitment to the University of Illinois Urbana-Champaign in the fall of 2026!",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQF79vy3gLZipg/feedshare-image-high-res/B56Z1J6_YWJYAU-/0/1775061694223?e=2147483647&v=beta&t=RUL03P3KGJxNEjErSsXyZ6mYS6UmX44MfiBXGAglsd4",
+        "id": "7445148367401418752"
+      }
+    ],
+    "linkedin_num_id": "1221376079",
+    "banner_image": "https://media.licdn.com/dms/image/v2/D5616AQESiLHAMv0QVQ/profile-displaybackgroundimage-shrink_200_800/B56Z4EXVZlHEAQ-/0/1778189686855?e=2147483647&v=beta&t=boNCXEN0_0eqQEbWWwlVgwvCrgMYXokVMLHAY2duA40",
+    "honors_and_awards": null,
+    "similar_profiles": [],
+    "default_avatar": false,
+    "memorialized_account": false,
+    "bio_links": [
+      {
+        "title": "Personal Website",
+        "link": "https://kri-dur.github.io/website/"
+      }
+    ],
+    "first_name": "Krishna",
+    "last_name": "Durgavarjhula",
+    "influencer": false,
+    "timestamp": "2026-08-12T19:11:41.697Z",
+    "input": {
+      "url": "https://www.linkedin.com/in/krishna-durgavarjhula-a3b0522a1"
+    }
+  },
+  "local_photo": "data\\linkedin_photos\\krishna-durgavarjhula-a3b0522a1__usr-0ypioCzJm3y8ik8.jpg"
+}

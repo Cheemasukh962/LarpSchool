@@ -1,0 +1,270 @@
+{
+  "luma_user_id": "usr-tad2S41AFFOmb9r",
+  "csv_name": "Ponita Ty",
+  "csv_linkedin": "https://www.linkedin.com/in/ponitaty",
+  "enriched_at": "2026-08-12T19:14:53.865728+00:00",
+  "batch_id": "sd_msqgwa7g10oeo6g7qx",
+  "profile": {
+    "id": "ponitaty",
+    "name": "Ponita Ty",
+    "city": "United States",
+    "country_code": "US",
+    "position": null,
+    "about": "\ud83d\uddfa\ufe0f currently building, exploring, and growing things! \ud83c\udfc6 3x hackathon winner",
+    "current_company": {
+      "link": "https://www.linkedin.com/company/jaseci-labs?trk=public_profile_topcard-current-company",
+      "name": "Jaseci Labs",
+      "company_id": "jaseci-labs",
+      "location": null
+    },
+    "experience": null,
+    "url": "https://hu.linkedin.com/in/ponitaty",
+    "educations_details": "University of Michigan",
+    "education": null,
+    "recommendations_count": 1,
+    "avatar": "https://media.licdn.com/dms/image/v2/D5603AQFEEg8vIGIsgg/profile-displayphoto-scale_200_200/B56Z_TgDzYG0Ac-/0/1785959828733?e=2147483647&v=beta&t=9b8qvO4BNLS6LY1KWTlKk83F_Qznv2nRFHUwBJa9HrI",
+    "courses": [
+      {
+        "subtitle": "MATH 214",
+        "title": "Applied Linear Algebra"
+      },
+      {
+        "subtitle": "EECS 281",
+        "title": "Data Structures & Algorithms"
+      },
+      {
+        "subtitle": "MATH.3230",
+        "title": "Discrete Structures II"
+      },
+      {
+        "subtitle": "EECS 376",
+        "title": "Foundations of Computer Science"
+      },
+      {
+        "subtitle": "CSCI-S7",
+        "title": "Introduction into Computer Science with Python"
+      },
+      {
+        "subtitle": "EECS 498",
+        "title": "Quantum Computers"
+      }
+    ],
+    "languages": [
+      {
+        "subtitle": "Native or bilingual proficiency",
+        "title": "English"
+      },
+      {
+        "subtitle": "Native or bilingual proficiency",
+        "title": "Khmer"
+      }
+    ],
+    "recommendations": [
+      "Richard Juknavorian \u201cPonita was an exceptional student Co-Op for the Rist DifferenceMaker Institute. Her creativity, professionalism, and attention to detail consistently exceeded expectations. From producing high-quality video content to managing digital assets with precision, Ponita brought tremendous value to our team. She\u2019s a rising star with limitless potential. \u201d"
+    ],
+    "volunteer_experience": [
+      {
+        "cause": "Education",
+        "duration": "Dec 2019 \u00b7 - \nMar 2020 \u00b7 \n4 months",
+        "duration_short": "- \nMar 2020",
+        "info": "Tutored elementary students with homework in math, science, and social studies.",
+        "start_date": "Dec 2019",
+        "subtitle": "Saint Christopher Academy",
+        "title": "Student Tutor"
+      },
+      {
+        "cause": "Education",
+        "duration": "Jul 2021 \u00b7 - \nAug 2023 \u00b7 \n2 years 2 months",
+        "duration_short": "- \nAug 2023",
+        "start_date": "Jul 2021",
+        "subtitle": "OneProsper International",
+        "title": "English Tutor"
+      },
+      {
+        "cause": "Health",
+        "duration": "Feb 2022 \u00b7 - \nFeb 2023 \u00b7 \n1 year 1 month",
+        "duration_short": "- \nFeb 2023",
+        "info": "Volunteer in a church food pantry by organizing food for locals in need.",
+        "start_date": "Feb 2022",
+        "subtitle": "Fusion Church Lowell",
+        "title": "Food Pantry Volunteer"
+      }
+    ],
+    "followers": 2315,
+    "connections": 500,
+    "current_company_company_id": "jaseci-labs",
+    "current_company_name": "Jaseci Labs",
+    "projects": [
+      {
+        "title": "Ventura",
+        "start_date": "Sep 2025",
+        "description": "\u2022 AI-powered community Q&A platform that matches queries to existing discussions, preventing duplicates.\u2022 Built semantic search using FastEmbed, achieving 92%+ similarity accuracy in matching queries to existing discussions. \u2022 Developed full-stack application with React frontend and Gemini API integration, supporting real-time community threads with social media-style interactions.\u2022 Designed PostgreSQL schema with optimized indexing for fast semantic search queries.\u2022 Won first place at a hackathon for Overdrive (Optimization) track by demonstrating working prototype to judges in 24 hours."
+      },
+      {
+        "title": "iPrep",
+        "start_date": "Feb 2025",
+        "description": "\u2022 AI career coaching platform that analyzes resumes and identifies skill gaps for job seekers\u2022 Secured $4,000 in seed funding through university pitch competition by demonstrating product-market fit for AI career development platform. \u2022 Led technical prototyping with LLMs, implementing testing frameworks that improved response accuracy by 40% through iterative evaluation.\u2022 Conducted 30+ user interviews to validate pain points, resulting in pivot from generic career advice to skill gap analysis for specific job targets."
+      },
+      {
+        "title": "Algorithm in Graph Edge Coloring",
+        "start_date": "Sep 2024",
+        "description": "\u2022 Implemented Vizing\u2019s Theorem in Python to ensure distinct edge colors at each vertex through optimized data structures and memory-efficient design using Python slots\u2022 Awarded the Honors Fellowship, a $1,500 grant from the Honors College"
+      },
+      {
+        "title": "Greek Letters Book Project",
+        "start_date": "Nov 2023",
+        "description": "\u2022Interpreted the connections with astronomy, identifying relevant documents or object, and configuring them into a format that correlates with the written text\u2022Collaborated with Professor Carlsmith and the author to organize his personal book on Greek Letters"
+      },
+      {
+        "title": "Stock Market Technical Indicator Project",
+        "start_date": "Apr 2023",
+        "description": "\u2022Delivered valuable insights on trends, market volatility, and potential entry or exit points.\u2022Developed an improved version of the Chandelier Exit indicator by integrating Exponential Moving Average (EMA) and Average True Range (ATR) using a programming language called PineScript on TradingView.\u2022Empowered traders with enhanced market analysis, enabling them to make more informed trading decisions."
+      },
+      {
+        "title": "Aerodynamics Wing Spoilers Research",
+        "start_date": "Sep 2021",
+        "description": "\u2022Constructed a specialized contraction cone to connect a 25-mph fan to the wind tunnel and designed three wing spoilers with varying independent variables using CAD software for comparative analysis.\u2022Conducted data collection to examine lift characteristics and perform lift calculations, while investigating diverse spoiler configurations to analyze their impact on airflow patterns.\u2022Aimed to optimize wing spoiler designs, enhancing overall aircraft performance and efficiency."
+      },
+      {
+        "title": "The Art Day Project",
+        "start_date": "May 2022",
+        "description": "Hosted an art event for the Boys and Girls club community by providing the resources for an opportunity to explore and continue their interests in creative arts."
+      },
+      {
+        "title": "The Exploration of Exoplanets",
+        "start_date": "Jul 2021",
+        "description": "\u2022Conducted astronomical research on exoplanets with Dr. Allison Bieryla, collaborating on the TESS project, a space-based NASA satellite mission led by MIT and Harvard. \u2022Extracted data to contribute to the all-sky survey, monitoring thousands of stars for potential transiting exoplanets through a software called AstroImageJ.\u2022Examined dips in brightness that indicate the presence of exoplanets."
+      }
+    ],
+    "location": null,
+    "input_url": "https://www.linkedin.com/in/ponitaty",
+    "linkedin_id": "ponitaty",
+    "activity": [
+      {
+        "interaction": "Shared by Ponita Ty",
+        "link": "https://www.linkedin.com/posts/ponitaty_i-hosted-my-first-event-in-sf-last-month-activity-7491254508849664000-WCDh",
+        "title": "i hosted my first event in sf last month. it was my 3rd hackathon overall, but the first one i've run in this city. JacHacks SF at Founders, Inc.\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4D22AQHN7xJQ3w8_Vg/feedshare-shrink_800/B4DZ_ZIRsnGkAc-/0/1786054254077?e=2147483647&v=beta&t=ZDAoQyMCsp530uANJEikNwyLOR2cDDR3Nr4ouDy0vp8",
+        "id": "7491254508849664000"
+      },
+      {
+        "interaction": "Liked by Ponita Ty",
+        "link": "https://www.linkedin.com/posts/tankots_its-no-secret-how-we-feel-about-typing-at-activity-7490798897259237376-qZn6",
+        "title": "It's no secret how we feel about typing at Wispr Flow. The truth is, we hate messy meeting notes too. So today, we're launching Notetaker. It\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5605AQHNq4MnVtai7Q/videocover-high/B56Z_SiDnoK8BM-/0/1785943596901?e=2147483647&v=beta&t=tRdfnFkj_A7WcUuprUjcUxC_uHhg8t_wHXIVPuXJ-pE",
+        "id": "7490798897259237376"
+      }
+    ],
+    "linkedin_num_id": "905103157",
+    "banner_image": "https://media.licdn.com/dms/image/v2/D4E16AQG1FW8_qXp7QA/profile-displaybackgroundimage-shrink_200_800/B4EZh76Ww3GwAY-/0/1754425552565?e=2147483647&v=beta&t=vPeexkDs4iLpFNjDKMOrDTTzsc0XWFbwiSAN27DLl4s",
+    "honors_and_awards": [
+      {
+        "title": "YHack Personal AI Track Winner",
+        "publication": "-",
+        "date": "2026-03-01T00:00:00.000Z",
+        "description": null
+      },
+      {
+        "title": "Hack@Brown MLH Best Use of ElevenLabs",
+        "publication": "-",
+        "date": "2026-02-01T00:00:00.000Z",
+        "description": null
+      },
+      {
+        "title": "MHacks Overdrive Track - First Place Winner",
+        "publication": "MHacks",
+        "date": "2025-09-01T00:00:00.000Z",
+        "description": null
+      },
+      {
+        "title": "Dean's List",
+        "publication": "-",
+        "date": "2025-05-01T00:00:00.000Z",
+        "description": "Dean's List for Fall 2023, Spring 2024, Fall 2024, Spring 2025"
+      },
+      {
+        "title": "Sutherland Innovative Technology Solution Award",
+        "publication": "The DifferenceMaker Idea Challenge",
+        "date": "2025-04-01T00:00:00.000Z",
+        "description": "Awarded the $4,000 Andrew Sutherland \u201994 Innovative Technology Solution Award at the DifferenceMaker Idea Challenge for co-developing iPrep, an AI-powered 24/7 career coach. Our platform uses machine learning to analyze students\u2019 skills and interests to generate personalized career roadmaps."
+      },
+      {
+        "title": "Honors College Fellowship",
+        "publication": "-",
+        "date": "2024-12-01T00:00:00.000Z",
+        "description": "An Honors College Fellowship is a $1,500 grant awarded to an honors student for scholarly engagement that is overseen and guided by a mentor."
+      },
+      {
+        "title": "Toby Hodes Fellowship",
+        "publication": "-",
+        "date": "2024-05-01T00:00:00.000Z",
+        "description": "Bestowed a $1,500 grant awarded to an honors student for scholarly engagement that is overseen and guided by a mentor in the Honors College."
+      },
+      {
+        "title": "First to Launch",
+        "publication": "-",
+        "date": "2023-06-01T00:00:00.000Z",
+        "description": "Bestowed a summer scholarship that covered the full tuition cost of one summer course."
+      },
+      {
+        "title": "Immersive Scholars Program",
+        "publication": "-",
+        "date": "2023-01-01T00:00:00.000Z",
+        "description": "A highly-selective program provides a $4,000 award tied to a research position, community work placement or international experience in the summer."
+      },
+      {
+        "title": "Recipient of International Scholarship",
+        "publication": "-",
+        "date": "2023-01-01T00:00:00.000Z",
+        "description": "A selective scholarship of $16,000 that is limited to first-year students of the highest caliber for four academic years."
+      },
+      {
+        "title": "National Honors Society",
+        "publication": "-",
+        "date": "2022-11-01T00:00:00.000Z",
+        "description": null
+      },
+      {
+        "title": "QuestBridge National College Match Finalist",
+        "publication": "QuestBridge",
+        "date": "2022-10-01T00:00:00.000Z",
+        "description": null
+      },
+      {
+        "title": "Highest Honors",
+        "publication": "The Derryfield School",
+        "date": "2021-05-01T00:00:00.000Z",
+        "description": null
+      },
+      {
+        "title": "Founders Scholars Merit Award",
+        "publication": "-",
+        "date": "2020-09-01T00:00:00.000Z",
+        "description": "Bestowed a 50% scholarship towards high school tuition for the remaining academic years."
+      },
+      {
+        "title": "Cardinal Convocation Student Activity Award",
+        "publication": "Bishop Guertin High School",
+        "date": "2020-05-01T00:00:00.000Z",
+        "description": "Conferred for outstanding contribution to student life and extracurricular activities by establishing the Astronomy club."
+      }
+    ],
+    "similar_profiles": [],
+    "default_avatar": false,
+    "memorialized_account": false,
+    "bio_links": [
+      {
+        "title": "Portfolio",
+        "link": "https://ponitaty.me/"
+      }
+    ],
+    "first_name": "Ponita",
+    "last_name": "Ty",
+    "influencer": false,
+    "timestamp": "2026-08-12T19:13:55.892Z",
+    "input": {
+      "url": "https://www.linkedin.com/in/ponitaty"
+    }
+  },
+  "local_photo": "data\\linkedin_photos\\ponitaty__usr-tad2S41AFFOmb9r.jpg"
+}

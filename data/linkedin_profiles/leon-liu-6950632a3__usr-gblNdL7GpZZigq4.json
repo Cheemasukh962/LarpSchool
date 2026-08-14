@@ -1,0 +1,120 @@
+{
+  "luma_user_id": "usr-gblNdL7GpZZigq4",
+  "csv_name": "Leon Liu",
+  "csv_linkedin": "https://www.linkedin.com/in/leon-liu-6950632a3",
+  "enriched_at": "2026-08-12T19:12:29.386312+00:00",
+  "batch_id": "sd_msqgtpzbeylkhkm9p",
+  "profile": {
+    "id": "leon-liu-6950632a3",
+    "name": "Leon Liu",
+    "city": "Pittsburgh, Pennsylvania, United States",
+    "country_code": "US",
+    "position": null,
+    "about": null,
+    "current_company": {
+      "link": "https://www.linkedin.com/company/abundant-ai?trk=public_profile_topcard-current-company",
+      "name": "Abundant",
+      "company_id": "abundant-ai",
+      "location": null
+    },
+    "experience": null,
+    "url": "https://be.linkedin.com/in/leon-liu-6950632a3",
+    "educations_details": "Carnegie Mellon University",
+    "education": null,
+    "avatar": "https://media.licdn.com/dms/image/v2/D4E03AQFCP1a1330pfg/profile-displayphoto-scale_200_200/B4EZrX38J3HgAY-/0/1764558358270?e=2147483647&v=beta&t=JQ7p9jZJSQ4ms8RFsKHIv_mG2xHG7KYbxM6Sd-zZYJU",
+    "followers": 456,
+    "connections": 456,
+    "current_company_company_id": "abundant-ai",
+    "current_company_name": "Abundant",
+    "location": "Pittsburgh",
+    "input_url": "https://www.linkedin.com/in/leon-liu-6950632a3",
+    "linkedin_id": "leon-liu-6950632a3",
+    "activity": [
+      {
+        "interaction": "Leon Liu commented on a post 6mo",
+        "link": "https://www.linkedin.com/posts/bryan-yung-9724952b9_we-won-the-applovin-track-at-tartanhacks-activity-7426682086251626496-nDpC",
+        "title": "Goat",
+        "img": null,
+        "id": "7426682086251626496"
+      },
+      {
+        "interaction": "Leon Liu liked this",
+        "link": "https://www.linkedin.com/posts/sudhir-chebiyyam-479505288_some-summer-updates-1-i-got-to-attend-activity-7493022716497711105-3EiN",
+        "title": "Some summer updates: 1. I got to attend Y Combinator Startup School in San Francisco, and hear from various technology leaders on a variety of topics. One idea I found quite interesting was in Dmitri Dolgov's (Waymo Co-CEO) talk on physical AI, where he spoke about scaling demos to products as a game of 9s. The point was that every additional 9 in performance/efficiency/reliability required doing something fundamentally differently (99 --> 99.9, etc), and I thought this was especially relevant today in the context of AI coding tools. AI coding tools can quickly get to an initial set of 9s but building scalable physical AI products requires more effort, and I thought this rule of 9s described that balance quite well. 2. I got my own SO-101 robotic arm, and have been training it to do various tasks. I've been documenting my progress here: https://lnkd.in/gfsj8DpT 3. I finished my summer internship at Humana , working within the Primary Care Organization team and developing an AI service which pulls patient data and evaluates prescription renewal requests. It was quite cool to actually see our service populate notes on the real electronic health record system, and cite the information used in the final determination. I wanted to thank Mohammed Inayathullah , my manager, for guiding me through this project and giving me a great summer experience!",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQGoklJeTeM3wQ/feedshare-shrink_1280/B56Z_yQdBCKAAU-/0/1786475827845?e=2147483647&v=beta&t=9ic3fYMORU35MbRepR2AIaw6zQOzKdrh2odP8DBFVlw",
+        "id": "1"
+      },
+      {
+        "interaction": "Leon Liu liked this",
+        "link": "https://www.linkedin.com/posts/jessehu_the-hack-reported-by-openai-and-hugging-face-activity-7489020818883223552-MW7R",
+        "title": "The hack reported by OpenAI and Hugging Face is a direct result of the lack of data quality practices coming from RL environments. RLVR is an extremely powerful tool that has brought us into superhuman coding agents and more. But that\u2019s the problem: They are extremely powerful optimizers, and will do anything to receive a reward. Every benchmark, every RL environment, and every verifier is a potential attack surface. Even SWE-bench Verified had a bug in it for over one and a half years where part of the GitHub history was leaking. What have we done about this? 1. We published a paper back in April about verifying the verifiers. We were the first to do so. 2. We released SWE-Marathon, which is focusing on reward hacking in the ultra-long horizon setting. 3. We published blog posts about reward hacking and are working with numerous partners to increase visibility of this issue. There\u2019s a lot more work to be done here. If you want to work on high-impact problems like this, check our careers page - my DMs are open.",
+        "img": null,
+        "id": "7489020818883223552"
+      },
+      {
+        "interaction": "Leon Liu liked this",
+        "link": "https://www.linkedin.com/posts/scottylabs_cmu-activity-7488688971317968896-jOpH",
+        "title": "Incoming #CMU First-Years: Ready to start your college journey? The countdown to move-in is officially on! To help you start strong, ScottyLabs is hosting an Ask-Me-Anything (AMA) Panel for the Class of 2030+. Join us on August 8th, from 6:00\u20137:30 PM EDT to connect with upperclassmen and alumni across all majors and colleges. They\u2019ve been in your shoes and are ready to share their best advice. Topics include: \u2764\ufe0f The best study spots on campus \ud83d\udc99 Balancing a heavy course load \u2764\ufe0f CMU traditions & social life \ud83d\udc99 Navigating Pittsburgh like a local Sign up here: https://lnkd.in/g49n2XhE See you soon! with <3, ScottyLabs",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQEETNRw4QfVxA/feedshare-image-high-res/B56Z.0q79bHYAU-/0/1785442582669?e=2147483647&v=beta&t=0e4ZeL2OfjGLySLySFvkGOBkHo9Q_CS_O7QpumRVTdc",
+        "id": "7488688971317968896"
+      },
+      {
+        "interaction": "Leon Liu liked this",
+        "link": "https://www.linkedin.com/posts/jo%C3%A3o-pedro-fortes-ribeiro-661250348_very-grateful-to-have-had-the-opportunity-activity-7486754652739411968-NZAF",
+        "title": "Very grateful to have had the opportunity to present yesterday at Duke\u2019s 2026 Summer Research Showcase. Sincere thanks to everyone in the lab for their support, with special appreciation to Mia Keller and Dr. Arnaldo Carreira-Rosario, PhD, whose continuous guidance, mentorship, and encouragement made this project possible.",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQHgtYZY186lxg/feedshare-shrink_800/B4EZ.ZLpkLKIAc-/0/1784981402292?e=2147483647&v=beta&t=gVOx9ytWPCvi8DQho_wmKUgU_nTEHfv20MABDUQGSkU",
+        "id": "7486754652739411968"
+      },
+      {
+        "interaction": "Leon Liu liked this",
+        "link": "https://www.linkedin.com/posts/sudhir-chebiyyam-479505288_see-you-in-sf-activity-7485030138577899522-iNhd",
+        "title": "See you in SF",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQGFhMma_WTm_g/feedshare-shrink_800/B56Z.ArP0ZHIAc-/0/1784570248858?e=2147483647&v=beta&t=MJUtZUieOlO1mEKPsXG1vMk4gbgNaz19HOoaUlstoEo",
+        "id": "7485030138577899522"
+      },
+      {
+        "interaction": "Leon Liu liked this",
+        "link": "https://www.linkedin.com/posts/zacvalles_this-is-the-team-at-fort-the-team-that-activity-7482853435017543681-U_mT",
+        "title": "This is the team at Fort - the team that will be shipping some of the coolest consumer hardware designed in San Francisco. We just partnered with Equinox where we demo\u2019ed hardware and talked with the tech + wellness community in San Francisco. Stay tuned! We will be hosting many events like this in the future. We\u2019re growing quickly and seeking out our first key hires for growth marketing, design, and social content. If you\u2019re passionate about building at the intersection of wellness and technology, we want you at Fort . Bonus is you get paid to get jacked.",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQFKcvpc2vVBkw/feedshare-image-high-res/B56Z9hvh5CGcAU-/0/1784051278301?e=2147483647&v=beta&t=VKm_sIOwwWJPmpXbkvXC3sss8ZIpRXLkodfNnbSmH3I",
+        "id": "7482853435017543681"
+      },
+      {
+        "interaction": "Leon Liu liked this",
+        "link": "https://www.linkedin.com/posts/ethanzhoucool_i-used-to-think-i-was-ambitious-then-i-came-activity-7477386664399593472-EOOl",
+        "title": "I used to think I was ambitious, then I came to San Francisco. I met people who genuinely believed they were going to change how an entire industry works, and meant it. These were people betting years of their lives on ideas that, by any reasonable measure, probably wouldn't work. And they talked about it like it was already done. It was contagious. You sit across from someone who casually assumes they'll win, and your own sense of what's possible changes. I didn't get more talented by being around them. My baseline for what's \"normal\" moved. This is the most underrated reason to put yourself in rooms you don't fully belong in yet. Spend enough time around people who refuse to be realistic and you slowly stop being so realistic yourself :) Photo: Golden Gate Bridge with Friends",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQFeTH7ED_1hJw/feedshare-image-high-res/B56Z8R6DTRG8AU-/0/1782711859981?e=2147483647&v=beta&t=XTg2HKOPuo4oR5VRfBfIdxqj0WrT5A9s3IbyIEebIKM",
+        "id": "7477386664399593472"
+      },
+      {
+        "interaction": "Leon Liu liked this",
+        "link": "https://www.linkedin.com/posts/hana-benko_excited-to-share-that-ive-wrapped-up-my-activity-7477464565505609728-ELak",
+        "title": "Excited to share that I\u2019ve wrapped up my first two weeks as a Go-to-Market Intern at Daytona !! It\u2019s been an incredible start, and I\u2019m especially grateful to Borna Perak for making the recruiting and onboarding process so smooth. This summer, I\u2019ll be working on reinforcement learning solutions powered by Daytona\u2019s infrastructure, exploring how scalable cloud environments can support RL training and evaluation for computer-use agents. I\u2019m excited to dive deeper into the intersection of AI infrastructure and RL and share what I learn along the way. --- This past weekend was also a highlight: I had the opportunity to represent Daytona as a sponsor at the YC \u00d7 HUD Hackathon. It was amazing meeting so many talented builders and seeing the projects everyone put together. If you\u2019re around San Francisco this week, come say hi at AI Engineer World\u2019s Fair 2026! And if you\u2019d like to follow along with what I\u2019m building this summer, I\u2019ll be sharing updates on X: https://x.com/hanabenko . Looking forward to an exciting summer!!!! <3",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQEsmqsZhs64dw/feedshare-image-high-res/B56Z8VKZdaGUAU-/0/1782766475484?e=2147483647&v=beta&t=cier5ozs2UalJTj0Y-ArEabpUErvBpoQEFAEq8D8joo",
+        "id": "7477464565505609728"
+      },
+      {
+        "interaction": "Leon Liu liked this",
+        "link": "https://www.linkedin.com/posts/abundant-ai_can-coding-agents-stay-coherent-over-a-1-activity-7468832826243813376-gsqj",
+        "title": "Can coding agents stay coherent over a 1 billion token budget? Can they build Slack from scratch? Rewrite a JAX codebase in PyTorch? Build a C compiler in Rust? Enter SWE-Marathon: a benchmark for autonomous long-horizon software work. Check out https://lnkd.in/dKY-pf7e",
+        "img": "https://media.licdn.com/dms/image/v2/D4D22AQGs59U2T_Lyaw/feedshare-shrink_800/B4DZ6af4IQGwAc-/0/1780708508390?e=2147483647&v=beta&t=hhs4Effia2zMyBiYmOTivnrwnMt8ObevZn7ROoiImvA",
+        "id": "1"
+      }
+    ],
+    "linkedin_num_id": "1227370001",
+    "banner_image": "https://media.licdn.com/dms/image/v2/D4E16AQFoUHdFSo0OfA/profile-displaybackgroundimage-shrink_200_800/B4EZ5ImAK2IcAQ-/0/1779334383154?e=2147483647&v=beta&t=bbC0glsw3FuBB8eaV2eOXAJiG8omidCbQCHPztHcVeM",
+    "honors_and_awards": null,
+    "similar_profiles": [],
+    "default_avatar": false,
+    "memorialized_account": false,
+    "bio_links": [],
+    "first_name": "Leon",
+    "last_name": "Liu",
+    "influencer": false,
+    "timestamp": "2026-08-12T19:11:49.818Z",
+    "input": {
+      "url": "https://www.linkedin.com/in/leon-liu-6950632a3"
+    }
+  },
+  "local_photo": "data\\linkedin_photos\\leon-liu-6950632a3__usr-gblNdL7GpZZigq4.jpg"
+}

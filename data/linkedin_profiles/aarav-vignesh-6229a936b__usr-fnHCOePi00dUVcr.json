@@ -1,0 +1,265 @@
+{
+  "luma_user_id": "usr-fnHCOePi00dUVcr",
+  "csv_name": "Aarav Vignesh",
+  "csv_linkedin": "https://www.linkedin.com/in/aarav-vignesh-6229a936b",
+  "enriched_at": "2026-08-12T18:55:27.667886+00:00",
+  "batch_id": "sd_msqg7js7a7y0irwot",
+  "profile": {
+    "id": "aarav-vignesh-6229a936b",
+    "name": "Aarav Vignesh",
+    "city": "San Ramon, California, United States",
+    "country_code": "US",
+    "position": null,
+    "about": null,
+    "current_company": {
+      "link": "https://www.linkedin.com/company/dvhs-robotics?trk=public_profile_topcard-current-company",
+      "name": "DVHS Robotics",
+      "company_id": "dvhs-robotics",
+      "location": null
+    },
+    "experience": null,
+    "url": "https://www.linkedin.com/in/aarav-vignesh-6229a936b",
+    "educations_details": "Dougherty Valley High School",
+    "education": [
+      {
+        "title": "Dougherty Valley High School",
+        "url": "https://www.linkedin.com/school/dougherty-valley-high-school-1/",
+        "start_year": "2024-08",
+        "end_year": "2028-06",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      },
+      {
+        "start_year": "2025-01",
+        "end_year": "2025-07",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      },
+      {
+        "start_year": "2024-06",
+        "end_year": "2024-07",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      }
+    ],
+    "avatar": "https://media.licdn.com/dms/image/v2/D5603AQG4iuMR4N-ehA/profile-displayphoto-scale_200_200/B56Zlo08IUJoAY-/0/1758400333408?e=2147483647&v=beta&t=6RwIdrq3oRQaI92UrcPSJJhUkxibo6eI5_Uxp-8DHh0",
+    "courses": [
+      {
+        "subtitle": "CS50",
+        "title": "CS50: Introduction to Computer Science | Harvard University"
+      },
+      {
+        "subtitle": "-",
+        "title": "VEX AI Robotics SUmmer Academy - UC Berkeley Summer 2025"
+      }
+    ],
+    "certifications": [
+      {
+        "meta": "Issued Jan 2026 Credential ID d85f13cd8eb74a7eba62ba423e6921e0 See credential",
+        "subtitle": "edX",
+        "title": "Verified Certificate for Harvard's CS50 Introduction to Computer Science",
+        "credential_url": "https://courses.edx.org/certificates/d85f13cd8eb74a7eba62ba423e6921e0?trk=public_profile_see-credential",
+        "credential_id": "d85f13cd8eb74a7eba62ba423e6921e0"
+      }
+    ],
+    "volunteer_experience": [
+      {
+        "cause": "Education",
+        "duration": "Jan 2024 \u00b7 - \nAug 2025 \u00b7 \n1 year 8 months",
+        "duration_short": "- \nAug 2025",
+        "info": "Tutored young students in learning fundamental math concepts, fostering a positive and supportive learning environment. - Developed personalized strategies to help students improve their understanding of math.",
+        "start_date": "Jan 2024",
+        "subtitle": "IBEST LEARNING CENTER, LLC",
+        "title": "Teaching Volunteer"
+      },
+      {
+        "cause": "Education",
+        "duration": "Jul 2024 \u00b7 - Present \u00b7 \n\n2 years 2 months",
+        "duration_short": "- Present",
+        "info": "- Coached the Gale Ranch Middle School Team which finished Top 3 in the County and represented the County at the State Level Championship - Guided middle school students in preparing for the MATHCOUNTS competition, focusing on problem-solving strategies and team collaboration. - Helped students improve their mathematical skills and gain confidence in competition settings.",
+        "start_date": "Jul 2024",
+        "subtitle": "Gale Ranch Middle School",
+        "title": "MathCounts Coach"
+      }
+    ],
+    "followers": 165,
+    "connections": 164,
+    "current_company_company_id": "dvhs-robotics",
+    "current_company_name": "DVHS Robotics",
+    "publications": [
+      {
+        "title": "Piezoelectricity: A Step Towards Cleaner Energy",
+        "date": "October 4, 2025",
+        "description": "Co-developed a piezoelectric energy-harvesting system (piezo sensors + Arduino Uno) that converts footstep pressure into electricity, about 15 mW per step, and analyzed its potential to power low-energy applications in high-traffic urban settings."
+      },
+      {
+        "title": "AI and Robotics in Medicine",
+        "subtitle": "Cornell Undergraduate Research Magazine",
+        "date": "April 8, 2025",
+        "description": "Reviewed recent advances in AI and robotics in medicine and outlined a roadmap for how these technologies could improve human health."
+      }
+    ],
+    "projects": [
+      {
+        "title": "GlassBox",
+        "start_date": "Jul 2026",
+        "description": "Built a multi-agent lending system where every decision is auditable and every denial comes with a way to fix it, addressing a real gap under ECOA/Reg B, which requires lenders to give specific reasons for a denial rather than a black-box score.7 AI agents (Jac walkers over a provenance graph) assess an application in parallel, then draft a decision. A dedicated No-Discrimination agent reaches its OWN verdict from permissible facts BEFORE seeing the draft, then checks it for reliance on a protected characteristic or a proxy (e.g. ZIP code standing in for race), and can veto in either direction.Key decision: access to protected data is enforced structurally, by graph edge type, not by a prompt \u2014 analysts are physically unable to read it, not just asked not to.On a denial, a recourse agent tells the user exactly what to fix, and a Re-check button re-runs the real decision on corrected numbers, so they see a result, not a promise.Stack: Jac for the decision engine, Groq (byLLM) for document reading, Next.js/React frontend. Verdict logic stays fully deterministic."
+      },
+      {
+        "title": "ExoPlanet Hunters",
+        "start_date": "Apr 2026",
+        "description": "Planet Hunters is a machine learning project that uses a convolutional neural network (CNN) to help identify possible exoplanets from astronomical light curve data. The goal is to build an assistant that can analyze patterns in star brightness over time and flag signals that may indicate a planet passing in front of its host star.This project combines astronomy, data science, and deep learning. I wanted to explore how artificial intelligence can support real space exploration by helping scientists search through large amounts of telescope data more efficiently."
+      },
+      {
+        "title": "VibeGuard: AI-Powered Sensory Scanner for Inclusive Spaces",
+        "start_date": "Nov 2025",
+        "description": "Hackathon Project (Arduino + OpenCV + Gemini AI) | Nov 2025Built after noticing neurodivergent classmates hesitate outside loud rooms because of sensory overload. VibeGuard reads a room\u2019s \u201cvibe\u201d and gives a simple report so someone can decide whether to walk in.\u2022Hardware: Elegoo UNO R3 with a microphone, PIR motion sensor, and webcam to capture noise, movement, and activity in real time.\u2022Software: a web app using OpenCV and Google Gemini to turn that data into plain mood labels (Calm, Social, Loud, Overwhelming) with confidence scores and coping tips.\u2022Output: scan a space from a laptop or phone, get an instant report plus a QR-log export."
+      },
+      {
+        "title": "SafeHaven: sensor network to connect outreach non-profits with people in need",
+        "start_date": "Oct 2025",
+        "description": "A prototype that helps homeless-outreach non-profits respond faster by flagging activity in public spaces and routing alerts to the nearest partner organization.\u2022Sensor node: Arduino Uno with HC-SR04 ultrasonic and PIR motion sensors to pick up presence and activity, in a low-power, weather-resistant design.\u2022Backend: Python/Flask with OpenCV and AI inference to classify situations (e.g. \u201cperson resting,\u201d \u201cpossible need\u201d) and trigger location-based alerts to partnered non-profits.\u2022Frontend: a live dashboard (HTML/CSS/JS) where outreach teams get prioritized alerts, map pins, and response logs."
+      }
+    ],
+    "location": "San Ramon",
+    "input_url": "https://www.linkedin.com/in/aarav-vignesh-6229a936b",
+    "linkedin_id": "aarav-vignesh-6229a936b",
+    "activity": [
+      {
+        "interaction": "Liked by Aarav Vignesh",
+        "link": "https://www.linkedin.com/posts/manitguliani_strawberry-cheesecake-vapes-in-the-activity-7488320852166488065-7Itt",
+        "title": "Strawberry Cheesecake Vapes. In the era of AI, flying cars, and alcohol consumption being at an all-time low, it truly takes a moment of\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4D22AQEtyd2L6bzIWw/feedshare-image-high-res/B4DZ.vcIn7J8AU-/0/1785354816340?e=2147483647&v=beta&t=kKwwazQo4ennZD3eQEm03B7VfmBcud9fGmgp9x2nfIU",
+        "id": "7488320852166488065"
+      },
+      {
+        "interaction": "Liked by Aarav Vignesh",
+        "link": "https://www.linkedin.com/posts/ishaan-garg-7a699241b_artificialintelligence-machinelearning-activity-7489844590263558144-FrO7",
+        "title": "Happy to share that I have completed the COSMOS program this month in the Cluster AI at Scale! Over the past month, I had an incredible experience\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQFTF2m__6j1iQ/feedshare-shrink_800/B56Z_FF9gsJsAg-/0/1785718103480?e=2147483647&v=beta&t=VIdf4LXrbc40wozSofdGKKF_yeqsVRfN7AeXrZ1_rNc",
+        "id": "7489844590263558144"
+      },
+      {
+        "interaction": "Liked by Aarav Vignesh",
+        "link": "https://www.linkedin.com/posts/manitguliani_do-you-gamble-probably-not-but-activity-7490091737953259521-Y5fn",
+        "title": "Do you gamble? Probably not... but what even counts as gambling? 4 days ago the State of New York sued Kalshi because they think its gambling.\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQE5pEDtpfhLVQ/feedshare-shrink_800/B56Z_ImvtKK0Ac-/0/1785777028903?e=2147483647&v=beta&t=HgtW31MlvDWqILuflse3zbD1Gv2rJ0fNJEYtYgNxIJE",
+        "id": "7490091737953259521"
+      },
+      {
+        "interaction": "Liked by Aarav Vignesh",
+        "link": "https://www.linkedin.com/posts/zip-game_zip-no-1-activity-7307749273050259458-r3LI",
+        "title": "We are so excited to share that Zip No. 1 is now live: lnkd.in/zip! Share your thoughts and any tips for other players below. (Spoiler alert for\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5605AQE64vzRezlp0Q/feedshare-thumbnail_720_1280/B56ZWpW_GpGUA8-/0/1742303130742?e=2147483647&v=beta&t=0dxrXYv766Sof6VBeizJx06hn_BzLpD8mrEU3YxVilc",
+        "id": "1"
+      },
+      {
+        "interaction": "Shared by Aarav Vignesh",
+        "link": "https://www.linkedin.com/posts/aarav-vignesh-6229a936b_proud-to-share-that-my-robotics-team-dougherty-activity-7403256864190349312-gcS2",
+        "title": "Proud to share that my robotics team, Dougherty Valley High School Robotics Team 5776T, took home 1st place at the Dublin Robotics Competition for\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQE39uD04jKEKQ/feedshare-image-high-res/B56Zr2m42aL8AU-/0/1765073981176?e=2147483647&v=beta&t=1PQSExqwgWKr2aR0oERUrQwIAA208ZgJvf8cmBpvtyk",
+        "id": "7403256864190349312"
+      },
+      {
+        "interaction": "Liked by Aarav Vignesh",
+        "link": "https://www.linkedin.com/posts/mykhailo-nosov-574614183_llm-ai-transformers-activity-7401728267373694976-PoFf",
+        "title": "LLMs don't read text like humans. They don't read left > right at all. Here's what actually happens when an AI reads your message. Everything starts\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4D22AQGthItnxj4DZw/feedshare-shrink_800/B4DZrg4oiYG4Ak-/0/1764709534796?e=2147483647&v=beta&t=fgHE5FNix6pUf-7TW3YB9S6FqPf77ezyDCDreZ4zt4Q",
+        "id": "7401728267373694976"
+      },
+      {
+        "interaction": "Shared by Aarav Vignesh",
+        "link": "https://www.linkedin.com/posts/aarav-vignesh-6229a936b_why-anthropic-ceo-dario-amodei-spends-so-activity-7396062433712218112-uX5G",
+        "title": "https://lnkd.in/gdJAiYTt",
+        "img": "https://media.licdn.com/dms/image/sync/v2/D4E27AQGBuI8ibNlt5g/articleshare-shrink_800/B4EZqPWR9wGYAI-/0/1763341574329?e=2147483647&v=beta&t=YpHGhZxjQFgbF9pvzGdrEODT2eE35P5iG_rbQuDSvZE",
+        "id": "7396062433712218112"
+      },
+      {
+        "interaction": "Shared by Aarav Vignesh",
+        "link": "https://www.linkedin.com/posts/aarav-vignesh-6229a936b_lg-hacks-20-activity-7396061348532543488-y3L5",
+        "title": "Thrilled to share that my team won the Most Creative Idea Award at LG Hacks 2025! SafeHaven uses Arduino-powered sensors to detect human presence in\u2026",
+        "img": "https://media.licdn.com/dms/image/sync/v2/D5627AQFGEaP-E4K04w/articleshare-shrink_800/B56ZqOGF3CJwAI-/0/1763320553552?e=2147483647&v=beta&t=6chI1ChoJOs7BhTtg0TbVIXRcSlLyPD434WE145oVsI",
+        "id": "20"
+      }
+    ],
+    "linkedin_num_id": "1540245050",
+    "banner_image": "https://static.licdn.com/aero-v1/sc/h/5q92mjc5c51bjlwaj3rs9aa82",
+    "honors_and_awards": [
+      {
+        "title": "Honorable Mention for Outstanding Research at the 6th Annual DVHS Research Competition",
+        "publication": "-",
+        "date": "2026-06-01T00:00:00.000Z",
+        "description": "Awarded for \"Piezoelectricity: A Step Towards Cleaner Energy,\" published in The Harvard Undergraduate Research Journal. Co-developed a piezoelectric energy-harvesting system (piezo sensors + Arduino Uno) that converts footstep pressure into electricity, generating ~15 mW per step, and analyzed its potential to power low-energy applications in high-traffic urban settings."
+      },
+      {
+        "title": "Most Innovative Project Award \u2013 VibeGuard",
+        "publication": "SierraHacks 2025",
+        "date": "2025-11-01T00:00:00.000Z",
+        "description": "Won Most Innovative Project out of 80+ submissions for VibeGuard, an AI-powered sensory scanner that translates room \"vibes\" into neurodiversity-friendly mood labels. Stood out for multimodal AI (Gemini + OpenCV) and real-time hardware-webapp sync\u2014built in under 10 hours with Arduino and Streamlit. Judges highlighted: \"Redefines accessibility with empathy-driven tech.\""
+      },
+      {
+        "title": "Most Creative Project Award \u2013 SafeHaven",
+        "publication": "LG Hacks 2025",
+        "date": "2025-10-01T00:00:00.000Z",
+        "description": "Won Most Creative Project out of 60+ teams for SafeHaven, an AI-sensor system that detects unsheltered individuals and instantly alerts nearby non-profits. Recognized for novel integration of Arduino edge computing, Flask backend, and OpenCV AI to turn public spaces into proactive support networks. Judges praised: \"A compassionate, technically elegant solution to a silent crisis.\""
+      },
+      {
+        "title": "Honors Award - Cornell Undergraduate Research Magazine Research Competition - 2025",
+        "publication": "Cornell Undergraduate Research Magazine Research Competition",
+        "date": "2025-05-01T00:00:00.000Z",
+        "description": "Received the Honors Award for submitting a Research Paper on 'AI and Robotics in Medicine' which laid out the recent advancements in AI and Robotics in the field of medicine and a roadmap for the future that will see a major positive impact to Human Health from these from these advancements."
+      },
+      {
+        "title": "Special Award Winner - National History Day - Senior Division - California State - Labor History - 2025",
+        "publication": "National History Day California",
+        "date": "2025-05-01T00:00:00.000Z",
+        "description": "Built a website based on a comprehensive research the West Virginia Coal Wars which catalyzed labor movements across America and paved the way for workers' rights. The website won a special award for Labor History at the California State Level National History Day Competition in Sacramento."
+      },
+      {
+        "title": "Winner - National History Day - Website Category - Senior Division - Contra Costa County - 2025",
+        "publication": "National History Day",
+        "date": "2025-05-01T00:00:00.000Z",
+        "description": "Built a website based on a comprehensive research the West Virginia Coal Wars which catalyzed labor movements across America and paved the way for workers' rights. The website won first place at the Contra Costa County competition and was selected to represent the County at the California State Level National History Day Competition in Sacramento."
+      },
+      {
+        "title": "Honor Award for Volunteering - California Junior Scholarship Foundation",
+        "publication": "California Junior Scholarship Foundation",
+        "date": "2024-06-01T00:00:00.000Z",
+        "description": "Received the Honor Award for volunteering 150 hours through Middle School, primarily supporting math and science tutoring for Elementary School kids"
+      },
+      {
+        "title": "Winner - National History Day - Exhibit Category - Junior Division - Contra Costa County - 2024",
+        "publication": "National History Day",
+        "date": "2024-04-01T00:00:00.000Z",
+        "description": "Built an exhibit based on a comprehensive research of the rivalry between automobile giants Ford and GM that laid the foundation for American Leadership in manufacturing. The exhibit won first place at the Contra Costa County competition and was selected to represent the County at the California State Level National History Day Competition in Sacramento."
+      },
+      {
+        "title": "Honor Roll - AMC 8",
+        "publication": "American Math Competition - 8",
+        "date": "2024-01-01T00:00:00.000Z",
+        "description": null
+      },
+      {
+        "title": "Honor Roll - Berkeley Mini Math Tournament",
+        "publication": "Berkeley Mini Math Tournament",
+        "date": "2024-01-01T00:00:00.000Z",
+        "description": null
+      }
+    ],
+    "similar_profiles": [],
+    "default_avatar": false,
+    "memorialized_account": false,
+    "bio_links": [],
+    "first_name": "Aarav",
+    "last_name": "Vignesh",
+    "influencer": false,
+    "timestamp": "2026-08-12T18:54:29.374Z",
+    "input": {
+      "url": "https://www.linkedin.com/in/aarav-vignesh-6229a936b"
+    }
+  },
+  "local_photo": "data\\linkedin_photos\\aarav-vignesh-6229a936b__usr-fnHCOePi00dUVcr.jpg"
+}

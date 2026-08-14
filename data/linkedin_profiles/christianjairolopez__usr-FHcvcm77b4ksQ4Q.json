@@ -1,0 +1,65 @@
+{
+  "luma_user_id": "usr-FHcvcm77b4ksQ4Q",
+  "csv_name": "Christian Lopez",
+  "csv_linkedin": "https://www.linkedin.com/in/christianjairolopez",
+  "enriched_at": "2026-08-12T18:59:59.571169+00:00",
+  "batch_id": "sd_msqgcuh41lygyhc91a",
+  "profile": {
+    "id": "christianjairolopez",
+    "name": "Christian Lopez",
+    "city": "Greater Orlando",
+    "country_code": "US",
+    "position": null,
+    "about": "Welcome! I\u2019m a developer with a passion for building things that make a real difference\u2026",
+    "current_company": {
+      "link": "https://www.linkedin.com/company/google?trk=public_profile_topcard-current-company",
+      "name": "Google",
+      "company_id": "google",
+      "location": null
+    },
+    "experience": null,
+    "url": "https://nz.linkedin.com/in/christianjairolopez",
+    "educations_details": "University of Central Florida",
+    "education": null,
+    "avatar": "https://media.licdn.com/dms/image/v2/D4E03AQHszy2ozfRFMQ/profile-displayphoto-scale_200_200/B4EZqUK8hlGYAY-/0/1763422491826?e=2147483647&v=beta&t=2ePr1CO8L2Idr0J3VpcyN890HIquMFz0yaKgLo4FX0Y",
+    "followers": 1551,
+    "connections": 500,
+    "current_company_company_id": "google",
+    "current_company_name": "Google",
+    "projects": [
+      {
+        "title": "S&P 500 LSTM Analysis"
+      },
+      {
+        "title": "Transformer Decoder Architecture From Scratch"
+      },
+      {
+        "title": "Transformer Encoder Architecture From Scratch."
+      }
+    ],
+    "location": null,
+    "input_url": "https://www.linkedin.com/in/christianjairolopez",
+    "linkedin_id": "christianjairolopez",
+    "activity": null,
+    "linkedin_num_id": "787076495",
+    "banner_image": "https://media.licdn.com/dms/image/v2/D4E16AQEAhdcQcMnEIQ/profile-displaybackgroundimage-shrink_200_800/B4EZrfSOqCIQAU-/0/1764682690382?e=2147483647&v=beta&t=tFA3qZwuoLft-juNkMuEEtO3FHZmFRFwyHswIFl8qqk",
+    "honors_and_awards": null,
+    "similar_profiles": [],
+    "default_avatar": false,
+    "memorialized_account": false,
+    "bio_links": [
+      {
+        "title": "Portfolio",
+        "link": "https://github.com/legendarychristian?tab=repositories"
+      }
+    ],
+    "first_name": "Christian",
+    "last_name": "Lopez",
+    "influencer": false,
+    "timestamp": "2026-08-12T18:58:42.047Z",
+    "input": {
+      "url": "https://www.linkedin.com/in/christianjairolopez"
+    }
+  },
+  "local_photo": "data\\linkedin_photos\\christianjairolopez__usr-FHcvcm77b4ksQ4Q.jpg"
+}

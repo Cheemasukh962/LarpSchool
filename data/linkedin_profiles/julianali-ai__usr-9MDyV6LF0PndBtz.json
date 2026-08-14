@@ -1,0 +1,186 @@
+{
+  "luma_user_id": "usr-9MDyV6LF0PndBtz",
+  "csv_name": "Juliana Li",
+  "csv_linkedin": "https://www.linkedin.com/in/julianali-ai",
+  "enriched_at": "2026-08-12T19:11:36.239218+00:00",
+  "batch_id": "sd_msqgoa0o2hh62sia9d",
+  "profile": {
+    "id": "julianali-ai",
+    "name": "Juliana Li",
+    "city": "Saratoga, California, United States",
+    "country_code": "US",
+    "position": null,
+    "about": "julianali.dev",
+    "current_company": {
+      "link": "https://www.linkedin.com/company/amazon?trk=public_profile_topcard-current-company",
+      "name": "Amazon",
+      "company_id": "amazon",
+      "location": null
+    },
+    "experience": null,
+    "url": "https://dk.linkedin.com/in/Julianali-ai",
+    "educations_details": "Harvard University",
+    "education": [
+      {
+        "title": "Harvard University",
+        "url": "https://www.linkedin.com/school/harvard-university/",
+        "start_year": "2025",
+        "end_year": "2029",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      },
+      {
+        "start_year": "2014",
+        "end_year": "2025",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      }
+    ],
+    "avatar": "https://media.licdn.com/dms/image/v2/D4E03AQEbr6S_6as7Fg/profile-displayphoto-scale_200_200/B4EZvXs8zhGsAY-/0/1768850444158?e=2147483647&v=beta&t=25bsMpf67DEKf4BOPx-Jbh8div3JtaiqyNAoadwRnhA",
+    "volunteer_experience": [
+      {
+        "duration": "Jan 2023 \u00b7 - \nJun 2025 \u00b7 2 years 6 months",
+        "duration_short": "- \nJun 2025",
+        "info": "\u2219 Provided free advanced STEM education to 700+ students across 20+ countries \u2219 Taught AMC 10/12 & AIME course and USACO Silver course",
+        "start_date": "Jan 2023",
+        "subtitle": "ParagonX Academy",
+        "title": "Co-President & Olympiad Math/Programming Instructor"
+      },
+      {
+        "duration": "Jul 2024 \u00b7 - \nNov 2024 \u00b7 5 months",
+        "duration_short": "- \nNov 2024",
+        "start_date": "Jul 2024",
+        "subtitle": "Evan Low for Congress",
+        "title": "Congressional Campaign Intern"
+      },
+      {
+        "duration": "Jun 2024 \u00b7 - \nNov 2024 \u00b7 6 months",
+        "duration_short": "- \nNov 2024",
+        "start_date": "Jun 2024",
+        "subtitle": "APAPA - Asian Pacific American Public Affairs Association",
+        "title": "Intern, Office of Saratoga Mayor Yan Zhao"
+      },
+      {
+        "duration": "Apr 2021 \u00b7 - \nMay 2025 \u00b7 4 years 2 months",
+        "duration_short": "- \nMay 2025",
+        "start_date": "Apr 2021",
+        "subtitle": "Friends of Children with Special Needs (FCSN)",
+        "title": "Lead Dance Teacher & Choreographer"
+      }
+    ],
+    "followers": 1603,
+    "connections": 500,
+    "current_company_company_id": "amazon",
+    "current_company_name": "Amazon",
+    "publications": [
+      {
+        "title": "Outcome-Free Arbitrage Audits and Coherence Repairs for LLM Forecasters",
+        "subtitle": "International Conference on Machine Learning (ICML) Forecast Workshop",
+        "date": "July 2, 2026"
+      },
+      {
+        "title": "Natural Ungrokking: Asymmetric Control of Which Rules Survive Pretraining",
+        "subtitle": "International Conference on Machine Learning (ICML): FoGen Workshop",
+        "date": "June 24, 2026"
+      },
+      {
+        "title": "A Two-Stage Cross-Attention Circuit for Spatial-Relation Binding in Diffusion Transformers",
+        "subtitle": "International Conference on Machine Learning (ICML): Mech Interp Workshop",
+        "date": "June 12, 2026"
+      },
+      {
+        "title": "Deep Learning Modeling and Increasing Interpretability of Lung Nodule Classification",
+        "subtitle": "Institute of Electrical and Electronics Engineers (IEEE)",
+        "date": "July 30, 2024"
+      }
+    ],
+    "location": "Saratoga",
+    "input_url": "https://www.linkedin.com/in/julianali-ai",
+    "linkedin_id": "julianali-ai",
+    "activity": null,
+    "linkedin_num_id": "1325552670",
+    "banner_image": "https://media.licdn.com/dms/image/v2/D4E16AQGWlthZx3rUYg/profile-displaybackgroundimage-shrink_200_800/B4EZfjtoXiHwAU-/0/1751872087628?e=2147483647&v=beta&t=WVhz2pU9rHJjKpgeHmXwjxJs4e56fQo-pFn7TKBXdBA",
+    "honors_and_awards": [
+      {
+        "title": "4x AIME Qualifier \u00b7 USACO Gold \u00b7 3x NACLO Invitational Qualifier",
+        "publication": "Mathematical Association of America / USA Computing Olympiad / NACLO",
+        "date": "2025-01-01T00:00:00.000Z",
+        "description": null
+      },
+      {
+        "title": "California Science & Engineering Fair (CSEF) 1st Place Winner",
+        "publication": "California Science & Engineering Fair (CSEF)",
+        "date": "2024-04-01T00:00:00.000Z",
+        "description": null
+      },
+      {
+        "title": "Synopsys Science Fair 1st Place & Grand Prize Alternate",
+        "publication": "Santa Clara Valley Science and Engineering Fair Association",
+        "date": "2024-02-01T00:00:00.000Z",
+        "description": null
+      },
+      {
+        "title": "USA Biology Olympiad (USABO) Honorable Mention",
+        "publication": "Center for Excellence in Education",
+        "date": "2024-02-01T00:00:00.000Z",
+        "description": null
+      },
+      {
+        "title": "Presidential Volunteer Service Award (PVSA) Gold Award",
+        "publication": "Presidential Volunteer Service Award (PVSA)",
+        "date": "2024-01-01T00:00:00.000Z",
+        "description": null
+      },
+      {
+        "title": "MATHCOUNTS Nationals Qualifier",
+        "publication": "MATHCOUNTS Foundation",
+        "date": "2020-04-01T00:00:00.000Z",
+        "description": null
+      },
+      {
+        "title": "2x International Conference on Machine Learning (ICML) Workshop First Author & Presenter",
+        "publication": "International Conference on Machine Learning (ICML)",
+        "date": null,
+        "description": null
+      },
+      {
+        "title": "International Conference on Computing and Machine Intelligence (ICMI) First Author & Presenter",
+        "publication": "Institute of Electrical and Electronics Engineers (IEEE)",
+        "date": null,
+        "description": null
+      },
+      {
+        "title": "International Conference on Electronic Computers and Artificial Intelligence (ECAI) First Author & Presenter",
+        "publication": "Institute of Electrical and Electronics Engineers (IEEE)",
+        "date": null,
+        "description": null
+      },
+      {
+        "title": "National Merit Scholarship Winner (2x perfect PSAT)",
+        "publication": "National Merit Scholarship Corporation (NMSC\u00ae)",
+        "date": null,
+        "description": null
+      },
+      {
+        "title": "Various Dance Awards, 3x Scholarship Winner & 7x Event Invitee",
+        "publication": "-",
+        "date": null,
+        "description": "Youth America Grand Prix 2024 Semifinals 2nd Place Youth America Grand Prix 2023 Semifinals Top 12 Spotlight Dance Cup 2024 Senior Elite 1st Place \u2219 Spotlight Senior Title Winner \u2219 FOCUS 2024 $750 Scholarship KAR Dance Competition 2024 Senior Intermediate 2nd Place \u2219 Intermediate Miss Dance Title First Runner-Up Rainbow National Dance Competition 2023 Senior Elite 1st Place \u2219 Senior Elite Dancer of the Year 2023 \u2219 New York City All Stars 2023 Invitation KAR Dance\u2026 Show more"
+      }
+    ],
+    "similar_profiles": [],
+    "default_avatar": false,
+    "memorialized_account": false,
+    "bio_links": [],
+    "first_name": "Juliana",
+    "last_name": "Li",
+    "influencer": false,
+    "timestamp": "2026-08-12T19:08:23.456Z",
+    "input": {
+      "url": "https://www.linkedin.com/in/julianali-ai"
+    }
+  },
+  "local_photo": "data\\linkedin_photos\\julianali-ai__usr-9MDyV6LF0PndBtz.jpg"
+}

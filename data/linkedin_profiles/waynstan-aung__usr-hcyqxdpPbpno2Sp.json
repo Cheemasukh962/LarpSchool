@@ -1,0 +1,205 @@
+{
+  "luma_user_id": "usr-hcyqxdpPbpno2Sp",
+  "csv_name": "Waynstan Aung",
+  "csv_linkedin": "https://www.linkedin.com/in/waynstan-aung",
+  "enriched_at": "2026-08-12T19:22:34.879215+00:00",
+  "batch_id": "sd_msqh2468i57o0acas",
+  "profile": {
+    "id": "waynstan-aung",
+    "name": "Waynstan Aung",
+    "city": "Daly City, California, United States",
+    "country_code": "US",
+    "position": null,
+    "about": "I'm Wayne, an undergraduate at UC Berkeley studying Data Science, and I have a passion\u2026",
+    "current_company": {
+      "link": "https://www.linkedin.com/school/uc-berkeley/?trk=public_profile_topcard-current-company",
+      "name": "University of California, Berkeley",
+      "location": null
+    },
+    "experience": null,
+    "url": "https://pl.linkedin.com/in/waynstan-aung",
+    "educations_details": "UC Berkeley College of Computing, Data Science, and Society",
+    "education": null,
+    "avatar": "https://media.licdn.com/dms/image/v2/D5603AQGVVNQ2nh_B5A/profile-displayphoto-scale_200_200/B56Z1_rFuiIcAg-/0/1775963500181?e=2147483647&v=beta&t=3H0gfIHuFvTVEPbbbYfX22Gs-QcVcm73mx84xtCmHNk",
+    "courses": [
+      {
+        "subtitle": "-",
+        "title": "AP Statistics"
+      },
+      {
+        "subtitle": "Data C88C",
+        "title": "Computational Structures in Data Science"
+      },
+      {
+        "subtitle": "LD ARCH 12",
+        "title": "Environmental Science for Sustainable Development"
+      },
+      {
+        "subtitle": "Data C8",
+        "title": "Foundations of Data Science"
+      },
+      {
+        "subtitle": "Data 100",
+        "title": "Principles and Techniques of Data Science"
+      }
+    ],
+    "certifications": [
+      {
+        "meta": "Issued Jun 2026 Credential ID ec9kgt8eq5df See credential",
+        "subtitle": "Anthropic",
+        "title": "Certificate of Completion: Al Fluency Framework & Foundations",
+        "credential_url": "https://verify.skilljar.com/c/ec9kgt8eq5df?trk=public_profile_see-credential",
+        "credential_id": "ec9kgt8eq5df"
+      },
+      {
+        "meta": "Issued Jun 2026 Credential ID sp7kxrfffb9p See credential",
+        "subtitle": "Anthropic",
+        "title": "Certificate of completion: Claude 101",
+        "credential_url": "https://verify.skilljar.com/c/sp7kxrfffb9p?trk=public_profile_see-credential",
+        "credential_id": "sp7kxrfffb9p"
+      }
+    ],
+    "followers": 1480,
+    "connections": 500,
+    "current_company_name": "University of California, Berkeley",
+    "location": "Daly City",
+    "input_url": "https://www.linkedin.com/in/waynstan-aung",
+    "linkedin_id": "waynstan",
+    "activity": [
+      {
+        "interaction": null,
+        "link": "https://www.linkedin.com/posts/arhaanaggarwal_the-more-i-see-ai-move-into-enterprise-the-activity-7482525809942073344-GaCm",
+        "title": "The more I see AI move into enterprise, the more I think the biggest constraint is not intelligence. It is execution. Most companies already know what they want to change. The challenge is making that change across Salesforce , NetSuite , SAP , Workday , ServiceNow , and the many dependencies connecting them, without adding more risk along the way. That work still requires a huge amount of specialized knowledge, manual coordination, and institutional memory. And too often, the people responsible for moving the business forward are also spending their time rediscovering why systems were configured a certain way five years ago. This is why Assemble caught my attention. Assemble is building an AI Solutions Engineer for enterprise IT. It maps dependencies across core systems, runs changes from a single interface, and verifies them against a shadow environment before they reach production. The important part is not simply that it can execute faster. It is that execution is designed to be controlled: blast-radius analysis before a change, auditable traces for every action, and a revertible ledger when something needs to be rolled back. I do not see this as replacing the people who understand these systems. I see it as giving those teams a better operating layer, one that helps them spend less time on repetitive implementation work and more time on architecture, judgment, and the projects that actually move the business forward. The organizations that make the most of AI may not be the ones experimenting with the most models. They may be the ones that become best at translating ambition into safe, repeatable execution. Where do you see the biggest constraint today, is it deciding what to change, or navigating the systems required to actually ship it? Assemble is now live at assemble.ai to help enterprise teams integrate, migrate, and operate the systems their businesses already run on. ...more ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D5605AQHNkgSww_eIHA/videocover-high/B56Z9dFhJKIMBM-/0/1783973157023?e=2147483647&v=beta&t=d5KdaVkTNUT7MRCqKldiwg56_Qf4fh3CpbW4qyJA6_Q",
+        "id": "7482525809942073344"
+      },
+      {
+        "interaction": "Waynstan Aung shared this",
+        "link": "https://www.linkedin.com/posts/waynstan_if-youre-a-community-college-student-or-activity-7478542755502170113-cabV",
+        "title": "If you're a community college student or planning to transfer, please look into this, it's super helpful and FREE.",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQHkGO_YJOrf9w/feedshare-shrink_800/B56Z8kcZg9G8Ac-/0/1783022852551?e=2147483647&v=beta&t=5eKbsUgPKKZhsRiPtuLX6obNCM4scxz30yhd4JPlj2w",
+        "id": "7478542755502170113"
+      },
+      {
+        "interaction": "Waynstan Aung shared this",
+        "link": "https://www.linkedin.com/posts/waynstan_dittoai-activity-7425251898523402241-Bo9c",
+        "title": "It's been a long journey. What people see now are the headlines and articles, but the flyers across campus late at night, the tabling day after day, the nonstop posting, and the repeated appearances were the grind that really built the momentum around Ditto . Our efforts turned into bigger moments, like throwing a yacht party and other events that brought people together around what we were building at Ditto . Now, we\u2019ve raised $9.2M, we\u2019re officially launching in California, and Ditto has become something far bigger than just a startup. Seeing articles about our story feels unreal, but we're ready for more, and we\u2019re only getting started \ud83d\ude80 #DittoAI ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQFQlQ9FCv4emw/feedshare-shrink_800/B56ZwsuCmRIsAg-/0/1770276793018?e=2147483647&v=beta&t=ssM8jhqHyrRn-eN3A0e4O403o-L6AQNhmfSQxW8U3Gk",
+        "id": "7425251898523402241"
+      },
+      {
+        "interaction": null,
+        "link": "https://www.linkedin.com/posts/olivia-gasson-_everyone-says-big-things-coming-we-actually-activity-7421740150541533185-js3B",
+        "title": "Everyone says \u201cbig things coming\u201d We actually mean it 2026 is gonna be a big year for Ditto Stay tuned \ud83d\ude80 ...more ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQFjtJmoqZF6Mg/feedshare-shrink_800/B56Zv9RVxFGYAg-/0/1769480740487?e=2147483647&v=beta&t=Y8OS7WjVU_Wq2G83Nqjo-wP_tELPV0qdNS6SVkWPmUE",
+        "id": "7421740150541533185"
+      },
+      {
+        "interaction": "Waynstan Aung shared this",
+        "link": "https://www.linkedin.com/posts/waynstan_activity-7417389093061582848-1Lkm",
+        "title": "\ud83d\udc40\ud83d\udc40\ud83d\udc40\ud83d\udc40",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQHW0loPbYheuA/feedshare-shrink_1280/B56Zu.gyv3GcAc-/0/1768427826409?e=2147483647&v=beta&t=47_moyrePyzqGVI_MIpPZy8gxauRS-btbX1Kuum_9hM",
+        "id": "7417389093061582848"
+      },
+      {
+        "interaction": "Waynstan Aung shared this",
+        "link": "https://www.linkedin.com/posts/waynstan_i-wouldve-never-guessed-that-id-be-working-activity-7415105030770483200-M-xD",
+        "title": "I would've never guessed that I'd be working for a company like Ditto . It's no surprise that there is an insane startup culture at Cal, where people as young as 17 come up with their own business ideas, fueled by their peers, environment, and opportunities that exist here. When Alex Xiao asked me to come work for Ditto, I thought to myself, \"Oh my god. He's just another kid at Berkeley promoting another startup.\" But I'd soon realize that Ditto was much more than \"just a startup.\" On a surface level, we're redefining how AI interacts with people and the way we connect with one another. But if you ask me what I really think of Ditto, I'd tell you I've been given many firsts here. Travelling to LA with friends, meeting an internet celebrity, and going to a yacht party are just the beginning of the opportunities I had at Ditto. To me, Ditto isn't just a company that I work at; it's a family, and I'm proud to be a part of this. ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQH6mWbmsogTDw/feedshare-image-high-res/B56ZudFkawGsAo-/0/1767867041872?e=2147483647&v=beta&t=OMtERQ59I8Fnmfgjjs1cZ_X_oXObNQlviTKf8GeZR4A",
+        "id": "7415105030770483200"
+      },
+      {
+        "interaction": null,
+        "link": "https://www.linkedin.com/posts/allen-wang-1b82761b8_no-one-believed-ditto-would-even-survive-activity-7399847859568857088-bHy2",
+        "title": "No one believed Ditto would even survive a month, but we refused to quit Today, we proved them wrong by running one of the hottest startup Grateful for the struggles, grateful for the team that never gave up, grateful for friends who helped us along the way Grateful for myself for not giving up and still showing up after countless sleepless nights ...more ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQF4lY5uvjZtyA/feedshare-shrink_800/B56ZrGKRoeHkAg-/0/1764261209098?e=2147483647&v=beta&t=kriJyqb4XxJ6IdH72MzfCahta4vSBeyrnFqzJ0c5RWw",
+        "id": "7399847859568857088"
+      },
+      {
+        "interaction": null,
+        "link": "https://www.linkedin.com/posts/allen-wang-1b82761b8_we-at-ditto-bought-100-roses-120-bottles-activity-7390953003182153729-cFMp",
+        "title": "We at Ditto bought 100 roses, 120 bottles of wine, 40 Polaroid cameras, and rented an $8,000 yacht: just to make college dating fun again Last Sunday, we paired 50 college couples to blind date with each other on a yacht for free We matched everyone with their soulmate, carved wooden invitations by hand, brought roses and wine, and even designed a couple bingo game It went so well that no one showed up to the afterparty because everyone was too busy hanging out with their dates after the yacht We at Ditto believe that dating should be genuine, IRL, and fun Our next stop for the yacht party is at LA and NY. Think you will be a good fit? We will literally fly you out for it Only requirement? Delete Hinge & Tinder :) ps kudos to our friends at berkeley sandbox! best cohost ever\ud83e\udef6 ...more ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D5605AQF51HBdb0miKQ/videocover-high/B56ZpHwh0OJ4BU-/0/1762140499928?e=2147483647&v=beta&t=blQ4OEBTL3d2fkL23Arii-BXoDY8x0W2cG3KEmmi9dE",
+        "id": "100"
+      },
+      {
+        "interaction": "Waynstan Aung liked this",
+        "link": "https://www.linkedin.com/posts/aditi-bordia_just-did-it-this-summer-i-worked-at-activity-7493331743215706112-z4MP",
+        "title": "Just Did It! \u2714\ufe0f This summer, I worked at Nike as an AI, Data, and Machine Learning Engineering Intern on the AI Platform team at the World Headquarters in Beaverton, Oregon. I had the opportunity to contribute to the development of a widely used business intelligence agent supporting employees across product, design, and business enterprise. I gained valuable hands-on experience with AI engineering, system design, and seeing code come to life in production. Special shoutout to my manager Brooke Waldt , project mentor Mark Labinski , and the rest of the team for all of their support, for helping me grow as an engineer, and for answering all of my many questions! But working on my project wasn\u2019t the only thing I did this summer. Between morning NRC runs, workout classes, intern events, coffee chats, meeting CEO Elliott Hill \ud83d\udc40 , and exploring the beautiful PNW, I got to make the most of both work and play. I even had the chance to participate in an Intern Innovation Sprint with seven other interns (shoutout Team Let's Run It!) where we worked cross-functionally to tackle a real-world opportunity for the business. Of course, this summer wouldn\u2019t have been the same if it weren\u2019t for the people who made this experience so special. I would like to thank my mentor, Anna Zimmerman , for her guidance and support as I navigated a new place, new experiences, and so much growth this summer. The Emerging Talent team also did a spectacular job creating a community for us, from fireside chats to taking us to a Thorns game. There was never a dull moment! And a huge thank you to my recruiter, David Jasso , for giving me the opportunity to experience this summer in the first place. Thank you Nike for bringing my dream of a summer to life! The best 10 weeks ever! \u2b50",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQF3LjCEm16c5A/feedshare-image-high-res/B56Z_0agNFKUAU-/0/1786512017926?e=2147483647&v=beta&t=tuZy23O4n1qLv124CC5BZuvVZWie_JtGdIZJM5v5rlI",
+        "id": "7493331743215706112"
+      },
+      {
+        "interaction": "Waynstan Aung liked this",
+        "link": "https://www.linkedin.com/posts/omarisealey_openai-hiring-mountainview-activity-7490867810865356800-crFv",
+        "title": "\ud83d\ude80 OpenAI is coming to the South Bay! In just two weeks, we\u2019ll officially open our new Mountain View office \u2014 and I\u2019m especially excited about what this means for candidates across the South Bay. If you\u2019ve previously explored or thought about exploring opportunities at OpenAI but commuting to San Francisco was a blocker, we\u2019d love to connect with you. The new Mountain View office opens up another way to work alongside our teams and contribute to OpenAI\u2019s mission \u2014 without the commute into the city. Whether we\u2019ve connected before or OpenAI has simply been on your radar, we\u2019d love to hear from you. Interested? Reach out to me directly or explore our open opportunities. \ud83d\ude80 #OpenAI #Hiring #MountainView #SouthBay #AI #Careers",
+        "img": null,
+        "id": "7490867810865356800"
+      },
+      {
+        "interaction": "Waynstan Aung liked this",
+        "link": "https://www.linkedin.com/posts/ericou626_joining-soar-as-head-of-growth-goodbye-unemployment-activity-7488839449435578369-HgGo",
+        "title": "Joining Soar as Head of Growth Goodbye unemployment!",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQFeNb29Q_cEBA/feedshare-shrink_800/B56Z.2zy3FGsAk-/0/1785478459107?e=2147483647&v=beta&t=wjHcc2RQtedIIDZ3eIskhHFC7FmHaoVAssb1-jgv8MU",
+        "id": "7488839449435578369"
+      },
+      {
+        "interaction": "Waynstan Aung liked this",
+        "link": "https://www.linkedin.com/posts/bradnemire_new-opening-on-my-team-at-nvidia-im-looking-activity-7490878784418668544-PZku",
+        "title": "New opening on my team at NVIDIA . I'm looking for a social beast to help manage our developer social channels. Someone who really gets social, loves making content, has strong instincts, and is always coming up with creative ideas. Must live in the bay area. Job description \ud83d\udc49 https://lnkd.in/duNCGg3e",
+        "img": "https://media.licdn.com/dms/image/v2/D4D22AQGYVaFE5xylQg/feedshare-shrink_800/B4DZ_TykCOIoAc-/0/1785964675450?e=2147483647&v=beta&t=d9jwufc6JzVXB0zInj1YSR4BRCryS3H7E1ZglQNjPAg",
+        "id": "7490878784418668544"
+      },
+      {
+        "interaction": "Waynstan Aung liked this",
+        "link": "https://www.linkedin.com/posts/antonio-pio-colapietra_googleai-studentdeveloper-aihackathon-activity-7490387454244392960-y7m6",
+        "title": "\ud83d\udea8 Cool opportunity warning! \ud83d\udea8 Undergraduate students currently studying Computer Science or related fields at an Ireland-based university: are you ready to stop just learning about AI and start building? The 2026 Google Student AI Hackathon is officially open for applications! This is your opportunity to tackle real-world challenges, collaborate with peers and create groundbreaking AI solutions. Apply today to secure your spot for the Sept 11th event: https://goo.gle/4fw9KiI #GoogleAI #StudentDeveloper #AIHackathon",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQEoXqt-Pzfrzg/feedshare-shrink_800/B4EZ_MzssdKQAc-/0/1785847532692?e=2147483647&v=beta&t=9nmH5W3bL4s3n4yY52lgxeeWiUelg-f9SLY_Zwa4mmU",
+        "id": "7490387454244392960"
+      },
+      {
+        "interaction": "Waynstan Aung liked this",
+        "link": "https://www.linkedin.com/posts/williamjaychoi_in-case-no-one-told-you-this-activity-7490644022781386752-WerX",
+        "title": "In case no one told you this...",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQEW11D4wAtrkQ/feedshare-image-high-res/B56Z_GBQ98GQAY-/0/1785733648508?e=2147483647&v=beta&t=8UUB6TQSJ_X7HQJVZFBBKCTo3sdG0c6ebm0Cdvr9N6o",
+        "id": "7490644022781386752"
+      },
+      {
+        "interaction": "Waynstan Aung liked this",
+        "link": "https://www.linkedin.com/posts/saniyakhan-resumewriter357_claim-this-activity-7489910361861693440-cZjO",
+        "title": "Claim this \u2728",
+        "img": "https://media.licdn.com/dms/image/v2/D4D22AQFCjF43_0fQtg/feedshare-shrink_800/B4DZ_GByKIIEAc-/0/1785733784639?e=2147483647&v=beta&t=VWadAf_QTxO7S0PKdCwHZn60fMRaUs7BoPbV6TiBBjM",
+        "id": "7489910361861693440"
+      },
+      {
+        "interaction": "Waynstan Aung liked this",
+        "link": "https://www.linkedin.com/posts/rajatrajjha_excited-to-share-that-i-have-joined-nvidia-activity-7490229641073479681-PQwz",
+        "title": "Excited to share that I have joined NVIDIA as a Product Manager. I\u2019m really grateful for this opportunity! Looking forward to collaborating with an amazing team and tackling some incredible new challenges.",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQEJKJgQb1PBBw/feedshare-shrink_800/B4EZ_KkKxGJUAc-/0/1785809907367?e=2147483647&v=beta&t=B_RHyleXWkeICirUBgrfjScsu5k9ddKfkCcA_ZF5sLI",
+        "id": "7490229641073479681"
+      },
+      {
+        "interaction": "Waynstan Aung liked this",
+        "link": "https://www.linkedin.com/posts/samarthmathur04_just-wrapped-up-the-machine-learning-foundations-activity-7490183794260332544-oCdk",
+        "title": "Just wrapped up the Machine Learning Foundations program with Cornell. 135 hours deep in everything from decision trees and neural nets to LLMs, RAG, and agentic AI. Learned a ton and excited to put it to use in data science roles. https://lnkd.in/gw7yKuC7",
+        "img": "https://media.licdn.com/dms/image/v2/D5610AQFAapUNIGlX4g/image-shrink_1280/B56Z_J6c8LGcAk-/0/1785798971572?e=2147483647&v=beta&t=gJ9M8PlZzKI5_dAITi5e5vExyZRWGk779lzyRCeFhGU",
+        "id": "7490183794260332544"
+      }
+    ],
+    "linkedin_num_id": "1262116824",
+    "banner_image": "https://media.licdn.com/dms/image/v2/D5616AQF1VnTyf6qB9A/profile-displaybackgroundimage-shrink_200_800/B56Z7kiTN5IoAU-/0/1781950657688?e=2147483647&v=beta&t=k4E8O6AvB7wkgdPEZKmKkXBfucOz1lF7r7a4p64f4YM",
+    "honors_and_awards": null,
+    "similar_profiles": [],
+    "default_avatar": false,
+    "memorialized_account": false,
+    "bio_links": [],
+    "first_name": "Waynstan",
+    "last_name": "Aung",
+    "influencer": false,
+    "timestamp": "2026-08-12T19:18:16.505Z",
+    "input": {
+      "url": "https://www.linkedin.com/in/waynstan-aung"
+    }
+  },
+  "local_photo": "data\\linkedin_photos\\waynstan-aung__usr-hcyqxdpPbpno2Sp.jpg"
+}

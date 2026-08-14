@@ -1,0 +1,271 @@
+{
+  "luma_user_id": "usr-twjHap89PtSBA36",
+  "csv_name": "Aishat Yatarova",
+  "csv_linkedin": "https://www.linkedin.com/in/aishat-yatarova",
+  "enriched_at": "2026-08-12T18:55:27.681667+00:00",
+  "batch_id": "sd_msqg7js7a7y0irwot",
+  "profile": {
+    "id": "aishat-yatarova",
+    "name": "Aishat Yatarova",
+    "city": "United States",
+    "country_code": "US",
+    "position": null,
+    "about": "I want to build hardware and robotics systems that actually do something useful, whether\u2026",
+    "current_company": {
+      "link": "https://www.linkedin.com/company/prorataai?trk=public_profile_topcard-current-company",
+      "name": "ProRata.ai",
+      "company_id": "prorataai",
+      "location": null
+    },
+    "experience": null,
+    "url": "https://pk.linkedin.com/in/Aishat-yatarova",
+    "educations_details": "Caltech",
+    "education": [
+      {
+        "title": "Caltech",
+        "url": "https://www.linkedin.com/school/california-institute-of-technology/",
+        "start_year": "2024",
+        "end_year": "2028",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      },
+      {
+        "start_year": "2026-07",
+        "end_year": "2026-07",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      }
+    ],
+    "avatar": "https://static.licdn.com/aero-v1/sc/h/9c8pery4andzj6ohjkjp54ma2",
+    "languages": [
+      {
+        "subtitle": "Native or bilingual proficiency",
+        "title": "English"
+      },
+      {
+        "subtitle": "Native or bilingual proficiency",
+        "title": "Russian"
+      },
+      {
+        "subtitle": "Native or bilingual proficiency",
+        "title": "Kazakh"
+      },
+      {
+        "subtitle": "Elementary proficiency",
+        "title": "Turkish"
+      }
+    ],
+    "followers": 667,
+    "connections": 500,
+    "current_company_company_id": "prorataai",
+    "current_company_name": "ProRata.ai",
+    "projects": [
+      {
+        "title": "Transmission Project",
+        "start_date": "Apr 2026",
+        "description": "- Designed and built a compound gear transmission driven by a brushed DC motor to power a bicycle wheel, taking it from initial design through fabrication and final assembly.- Milled the acrylic walls and base, machined bearing press fit features on a lathe, dialed in fits by testing bore diameters in 0.001-inch increments, and assembled the complete transmission.- Optimized the gear ratio in MATLAB using power and speed equation sweeps, selecting a 5.76:1 gear ratio across two symmetric 2.4:1 stages, and calculated bearing bore positions and gear center distances to hold correct gear mesh alignment."
+      },
+      {
+        "title": "Autonomous Robot Car",
+        "start_date": "Apr 2025",
+        "description": "- Built and tested the electro-mechanical system for a robot car, from concept to reality, to enable autonomous navigation, mapping, and path planning.- Integrated and calibrated sensors, motors, and microcontrollers into a ROS-based communication system and developed hysteresis-based algorithms for intersection, dead-end, and obstacle detection to enable real-time obstacle avoidance and dynamic rerouting.- Reduced navigation errors by 85% across repeated runs on complex tracks by developing Python scripts to automate testing, log data, and diagnose hardware-software behavior through root cause analysis."
+      },
+      {
+        "title": "Beer Pong Robot",
+        "start_date": "Jan 2025",
+        "description": "Ping, Pong, Shots All Night Long!- Built a flywheel-based 2-DOF ball-launching mechanism with motor-driver and servo-angle control.- CAD-modeled and fabricated full mechanical system.- Tuned for repeatable, consistent firing and validated reliability through iterative testing."
+      },
+      {
+        "title": "Object Detection Robot",
+        "start_date": "Oct 2024",
+        "description": "- Built a 2-axis object-tracking gimbal using manipulation via motor control and perception via computer vision to enable reliable, real-time target detection and tracking.- Developed a real-time HSV-based computer vision pipeline with noise filtering, contour extraction, and area gating to reliably detect and localize a target object.- Built a 2-axis pan\u2013tilt motor control system using cubic-spline trajectory generation at 100 Hz, enabling smooth tracking and immediate response to key commands.- Designed and fabricated custom CAD components for mounting the motors and camera, ensuring structural alignment and low vibration."
+      }
+    ],
+    "location": null,
+    "input_url": "https://www.linkedin.com/in/aishat-yatarova",
+    "linkedin_id": "aishat-yatarova",
+    "activity": [
+      {
+        "interaction": "Liked by Aishat Yatarova",
+        "link": "https://www.linkedin.com/posts/dinara-usonova-53a480329_missed-y-combinator-startup-school-2026-activity-7493025223601074176-qH9g",
+        "title": "Missed Y Combinator Startup School 2026, but not missing this one :) Excited to be attending my first Y Combinator Startup Internship Expo in San\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQG2rkDq1u9LCA/feedshare-shrink_800/B56Z_ySvJOGUAg-/0/1786476426116?e=2147483647&v=beta&t=j9-clmMk9kneglkf3MWmp3ztzI6bY28rAsUnNL_6-6U",
+        "id": "2026"
+      },
+      {
+        "interaction": "Liked by Aishat Yatarova",
+        "link": "https://www.linkedin.com/posts/luzhang8_your-next-internship-might-be-at-a-yc-startup-activity-7493039060958044161-f8QE",
+        "title": "Your next internship might be at a YC startup. I'm referring people for the YC startup intern expo. If you're into tech, Y Combinator is the place\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQFsUYeZ-Vo7gA/feedshare-image-high-res/B56Z_yfTOeJoAU-/0/1786479724834?e=2147483647&v=beta&t=mITujIvKPvPLpJ_co04friHf2pmTRVno9vqpguWBVCc",
+        "id": "7493039060958044161"
+      },
+      {
+        "interaction": "Liked by Aishat Yatarova",
+        "link": "https://www.linkedin.com/posts/y-combinator_chemistry-has-countless-software-one-predicts-activity-7490129715597332481-nLox",
+        "title": "Chemistry has countless software. One predicts a structure, another proposes a route, another reads a spectrum. None of them talk to each other, so\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5605AQGSK8tb7HMU-g/videocover-high/B56Z_JJO8yGsBM-/0/1785786072178?e=2147483647&v=beta&t=EDqNZXxDuDRTc-NUbi9p9RSzEhRJyqbkiz-GlnbSsBY",
+        "id": "7490129715597332481"
+      },
+      {
+        "interaction": "Liked by Aishat Yatarova",
+        "link": "https://www.linkedin.com/posts/rachel-d-995b91208_spent-this-weekend-at-yc-startup-school-activity-7487382136316915713-JiSt",
+        "title": "Spent this weekend at YC Startup School, and it was easily one of the most inspiring events I've been to. I met so many talented builders from\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQF2Ig967Aj4CQ/feedshare-shrink_800/B56Z.iGX09HYAk-/0/1785131009111?e=2147483647&v=beta&t=8EGG-5o6PIDVln2UVCg-9AsF2OaskLUtlfkSAaFoJCM",
+        "id": "7487382136316915713"
+      },
+      {
+        "interaction": "Liked by Aishat Yatarova",
+        "link": "https://www.linkedin.com/posts/sophial25_had-an-amazing-time-attending-y-combinator-activity-7487591238142087168-6Zo4",
+        "title": "Had an amazing time attending Y Combinator Startup School 2026 this weekend! It was inspiring to hear founders and builders like Jensen Huang, Sam\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQHKMe551ET2XQ/feedshare-shrink_800/B4EZ.lEgh_JYAc-/0/1785180851064?e=2147483647&v=beta&t=bDk53iCO7lGKOF_1F1KVACJVDpSgzmqX9R_yWPLPNco",
+        "id": "7487591238142087168"
+      },
+      {
+        "interaction": "Liked by Aishat Yatarova",
+        "link": "https://www.linkedin.com/posts/edward-lai-3ab2a6297_i-just-got-accepted-to-yc-startup-school-activity-7488777469026529280-dqKI",
+        "title": "I JUST GOT ACCEPTED TO YC STARTUP SCHOOL 2026 AFTER BEING REJECTED. wait isn't it already over \ud83d\ude2d \ud83d\ude2d \ud83d\ude2d \ud83d\ude2d \ud83d\ude2d \ud83d\ude2d (joke post)",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQFil6k6Utb0VA/feedshare-shrink_800/B56Z.17bOBIcAc-/0/1785463682215?e=2147483647&v=beta&t=IaHVl3CsrHLJ-kTRuuHhbQlJ9x7WO80WUt-jwqKdCBA",
+        "id": "7488777469026529280"
+      },
+      {
+        "interaction": "Liked by Aishat Yatarova",
+        "link": "https://www.linkedin.com/posts/katielb_for-any-of-the-cool-people-i-met-at-y-combinator-activity-7488013766882942977-eF5c",
+        "title": "For any of the cool people I met at Y Combinator startup school this past weekend, DM if you\u2019d like to visit our office in SF sometime this\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQFdeVSNOiaUFg/feedshare-image-high-res/B56Z.rE0VTIcAU-/0/1785281599754?e=2147483647&v=beta&t=yVkTSsAx5027sWJc2VgJAU9k7XbnEYNuaupnnZzHXm4",
+        "id": "7488013766882942977"
+      },
+      {
+        "interaction": "Liked by Aishat Yatarova",
+        "link": "https://www.linkedin.com/posts/j-hawkins_its-important-to-meticulously-review-every-activity-7490844596181221377-I_o9",
+        "title": "it's important to meticulously review every command your agent sends",
+        "img": "https://media.licdn.com/dms/image/v2/D4E10AQH3v39MXAr-0g/image-shrink_800/B4EZ_TTZEzHwAg-/0/1785956504280?e=2147483647&v=beta&t=0ScOzzPiuPhAHURmdwJRbC45qouaD_-QM24Sa71nayQ",
+        "id": "7490844596181221377"
+      },
+      {
+        "interaction": "Liked by Aishat Yatarova",
+        "link": "https://www.linkedin.com/posts/romeohazel_so-im-better-than-you-activity-7490834090728824832-9MTz",
+        "title": "so im better than you",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQHBqqpNPTVm4Q/feedshare-shrink_1280/B56Z_TJ6e2GUAM-/0/1785954019515?e=2147483647&v=beta&t=SJ96fXpIA4L_vKua8wbpTEvkGWFvaxSyFrQC2ai6SM8",
+        "id": "7490834090728824832"
+      },
+      {
+        "interaction": "Liked by Aishat Yatarova",
+        "link": "https://www.linkedin.com/posts/ayaangazali_an-ai-model-just-broke-out-of-its-test-environment-activity-7485467918999166976-v-mY",
+        "title": "An AI model just broke out of its test environment and hacked a real company, stole their data and no one even knew about it until just now. During\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQH0zV2Jr1Vj8A/feedshare-shrink_800/B56Z.G5aMpIQAc-/0/1784674624582?e=2147483647&v=beta&t=3LhZR4wT0ZUghwomD9PYiz0xzqNSk7UUaVUfqesOQf8",
+        "id": "7485467918999166976"
+      },
+      {
+        "interaction": "Liked by Aishat Yatarova",
+        "link": "https://www.linkedin.com/posts/riyajain-_i-had-the-opportunity-to-attend-y-combinator-activity-7490132946100695040-H5yY",
+        "title": "I had the opportunity to attend Y Combinator\u2019s Startup School, where thousands of builders gathered to learn from the most influential technology\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQHnHZBR8mF7ig/feedshare-image-high-res/B56Z_JMNzOIMAk-/0/1785786851429?e=2147483647&v=beta&t=d-cTW6CErNTKsXfRYsGKc3Eg1zjFN2yzmayrk8Jo1Co",
+        "id": "7490132946100695040"
+      },
+      {
+        "interaction": "Liked by Aishat Yatarova",
+        "link": "https://www.linkedin.com/posts/armaan-nagra_had-a-great-time-last-weekend-at-y-combinators-activity-7488698312863227904-DOJa",
+        "title": "Had a great time last weekend at Y Combinator's Startup School 2026. I got the chance to hear from people that have truly changed the trajectory of\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQG2e9JV5lTzZw/feedshare-image-high-res/B4EZ.0zaMQIkAc-/0/1785444803655?e=2147483647&v=beta&t=Ve7UR_WFU4gSoA7PcgZ6MqbJkwAXYL3IzJyBnj23SjY",
+        "id": "7488698312863227904"
+      },
+      {
+        "interaction": "Liked by Aishat Yatarova",
+        "link": "https://www.linkedin.com/posts/thomas-d-97221a327_ycombinator-startupschool-garytan-activity-7488666413331816448-Y7-Y",
+        "title": "Glad to have attended Y Combinator Startup School 2036 in New York City! Really enjoyed the talks from MrBeast, Joe Rogan, and Kai Cenat. Lots of\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQFofwHSx-HynA/feedshare-shrink_800/B56Z.0Wa4dGcAc-/0/1785437204268?e=2147483647&v=beta&t=-aAPRWZRL2CxzLg36W3qKIY0L0INFJ-q3oeWbQ5wYYE",
+        "id": "7488666413331816448"
+      },
+      {
+        "interaction": "Liked by Aishat Yatarova",
+        "link": "https://www.linkedin.com/posts/galombardi_these-are-the-smartest-18-year-olds-alive-activity-7488533890823913472-DiKg",
+        "title": "These are the smartest 18-year-olds alive. The question is what we let them build. International Physics Olympiad, 2026. Six countries tied at the\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQEtsE6Lpnj38g/feedshare-shrink_800/B4EZ.p9QylIkAc-/0/1785262837191?e=2147483647&v=beta&t=6yYUwk81CU6xa3B_1X7VFZrn9C2vwKDDGrPVB3Psyf8",
+        "id": "18"
+      },
+      {
+        "interaction": "Liked by Aishat Yatarova",
+        "link": "https://www.linkedin.com/posts/j-hawkins_look-im-sorry-im-booked-back-to-back-activity-7488670147939942400-J5bX",
+        "title": "look, i'm sorry, i'm booked back-to-back today",
+        "img": "https://media.licdn.com/dms/image/v2/D4E10AQGaKLNVq_CW0g/image-shrink_800/B4EZ.0Zux.I0Ag-/0/1785438072257?e=2147483647&v=beta&t=oaD6cB0EXhJuHT6d2VDY6fuuWNd0TxDnYfQ3D2oKUds",
+        "id": "7488670147939942400"
+      },
+      {
+        "interaction": "Liked by Aishat Yatarova",
+        "link": "https://www.linkedin.com/posts/artash-nath_physicalai-robotics-aerialrobotics-activity-7488307383056654336-37UO",
+        "title": "This summer, I\u2019m interning at FlyX Technologies. We\u2019re building drones that can dock on and recharge from live power lines, allowing them to keep\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQFhzYKWzPS9tA/feedshare-image-high-res/B56Z.sPtusG4AU-/0/1785301228753?e=2147483647&v=beta&t=wexOmCR930TbSBRtXFC00b8sG8XPp0ZQ5IBbMQesNRo",
+        "id": "7488307383056654336"
+      },
+      {
+        "interaction": "Liked by Aishat Yatarova",
+        "link": "https://www.linkedin.com/posts/ramtin-shahzanian_i-got-into-y-combinator-im-18-solo-founder-activity-7488378687885774848-DZX4",
+        "title": "I got into Y Combinator I'm 18, solo founder, and 3 years ago was studying 10th grade at a random city in Iran (Qazvin, love it). In Iran, I had to\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQHgNh2j0lf5Gw/feedshare-shrink_800/B4EZ.wQu95H8Ac-/0/1785368605430?e=2147483647&v=beta&t=72aqKiAQhuE9k5XhQgkReYpHUbMEjiXcCh7BPxrP5Cs",
+        "id": "18"
+      },
+      {
+        "interaction": "Liked by Aishat Yatarova",
+        "link": "https://www.linkedin.com/posts/katie-chen-71540724a_notallhumorisgood-thisisreallyfunnythohaha-activity-7488247022991540225-CaEu",
+        "title": "WHAT IS GOING ON ON LINKEDIN \ud83d\ude2d Explored a founder's profile today and found this I chuckled a lil. Then I realized something. The internet\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQG3X4lPreIRgQ/feedshare-image-high-res/B56Z8_tLUaKcAU-/0/1783480235537?e=2147483647&v=beta&t=gn61Snfy2CDM7tL8sAV3mMWQ_ysVftj51P2rRlPwLdA",
+        "id": "7488247022991540225"
+      },
+      {
+        "interaction": "Liked by Aishat Yatarova",
+        "link": "https://www.linkedin.com/posts/gsdv_y-combinator-startup-school-just-ended-activity-7487328975539679233-72kj",
+        "title": "Y Combinator Startup School just ended! I got to hear from people shaping the AI industry: Sam Altman, Jensen Huang, Boris Cherny, Jeff Dean, Garry\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQEF-dCk6vs0lg/feedshare-shrink_800/B56Z.hWBxcHcAc-/0/1785118334411?e=2147483647&v=beta&t=RMIAwXJn4rf5C9_RwTcU_pX-pMyw4xkH9zm4IZ6vXtw",
+        "id": "7487328975539679233"
+      },
+      {
+        "interaction": "Liked by Aishat Yatarova",
+        "link": "https://www.linkedin.com/posts/johnghu_age-1-move-to-the-us-with-my-single-immigrant-activity-7488247071402000386-h52y",
+        "title": "Age 1: Move to the US with my single immigrant mom. Age 12: Get bullied for being the only Asian at school. Age 17: Take on student loans to pay\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5610AQH3rOfn4-5i2A/image-shrink_800/B56Z.uY_36GgAg-/0/1785337217218?e=2147483647&v=beta&t=1N7lfSOv2AAozZIYKt2RjqLowDnp_yAu3E6ViZNhQfY",
+        "id": "1"
+      }
+    ],
+    "linkedin_num_id": "1055139031",
+    "banner_image": "https://media.licdn.com/dms/image/v2/D4D16AQEnBW5sGoxlHQ/profile-displaybackgroundimage-shrink_200_800/B4DZjHcd8JH0AY-/0/1755692786066?e=2147483647&v=beta&t=h834H-2XXzSg6BvGU8E9ykBhxZe4D_92A95gkZ4_1bo",
+    "honors_and_awards": [
+      {
+        "title": "The Timothy D. Ryan Entrepreneurship Program Awardee",
+        "publication": "Caltech",
+        "date": "2025-06-01T00:00:00.000Z",
+        "description": null
+      },
+      {
+        "title": "British Physics Olympiad Silver Award '23",
+        "publication": "BPhO",
+        "date": "2023-01-01T00:00:00.000Z",
+        "description": null
+      },
+      {
+        "title": "Uber Global Hackathon Finalist \u201822",
+        "publication": "Uber",
+        "date": "2022-08-01T00:00:00.000Z",
+        "description": "Named Finalist in the International Uber Global Hackathon 2022 among 700+ teams, 1800+ competitors from 68 countries."
+      },
+      {
+        "title": "Infomatrix-Asia Winner \u201822",
+        "publication": "Infomatrix Asia",
+        "date": "2022-06-01T00:00:00.000Z",
+        "description": "Won an international CS project competition among 50+ Finalists."
+      }
+    ],
+    "similar_profiles": [],
+    "default_avatar": true,
+    "memorialized_account": false,
+    "bio_links": [],
+    "first_name": "Aishat",
+    "last_name": "Yatarova",
+    "influencer": false,
+    "timestamp": "2026-08-12T18:54:35.233Z",
+    "input": {
+      "url": "https://www.linkedin.com/in/aishat-yatarova"
+    }
+  }
+}

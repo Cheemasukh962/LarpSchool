@@ -1,0 +1,83 @@
+{
+  "luma_user_id": "usr-gOtj7ACGA3nZWe3",
+  "csv_name": "Yasith",
+  "csv_linkedin": "https://www.linkedin.com/in/yasith-md",
+  "enriched_at": "2026-08-12T19:25:08.254476+00:00",
+  "batch_id": "sd_msqh7u7r1xzwli6vdk",
+  "profile": {
+    "id": "yasith-md",
+    "name": "Yasith Medagama Disanayakage",
+    "city": "Cambridge, England, United Kingdom",
+    "country_code": "GB",
+    "position": null,
+    "about": "Fellow at Y Combinator. Computer Science @ Cambridge. I like winning\u2026",
+    "current_company": {
+      "link": "https://www.linkedin.com/school/y-combinator/?trk=public_profile_topcard-current-company",
+      "name": "Y Combinator",
+      "location": null
+    },
+    "experience": null,
+    "url": "https://il.linkedin.com/in/yasith-md",
+    "educations_details": "University of Cambridge",
+    "education": [
+      {
+        "title": "University of Cambridge",
+        "url": "https://uk.linkedin.com/school/university-of-cambridge/",
+        "start_year": "2025-09",
+        "end_year": "2026-07",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      },
+      {
+        "start_year": "2022-09",
+        "end_year": "2025-05",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      },
+      {
+        "start_year": "2020-09",
+        "end_year": "2022-06",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      }
+    ],
+    "avatar": "https://media.licdn.com/dms/image/v2/D4E03AQG5-XbtsnapKA/profile-displayphoto-scale_200_200/B4EZhijj1iGcAY-/0/1754000147250?e=2147483647&v=beta&t=uRFy5fcr5AP73yGFmL9MISgC48a2DklFVrWKHD96v2w",
+    "followers": 1079,
+    "connections": 500,
+    "current_company_name": "Y Combinator",
+    "location": "Cambridge",
+    "input_url": "https://www.linkedin.com/in/yasith-md",
+    "linkedin_id": "yasith-md",
+    "activity": null,
+    "linkedin_num_id": "1033362017",
+    "banner_image": "https://media.licdn.com/dms/image/v2/D4E16AQEc88OpJM__Hw/profile-displaybackgroundimage-shrink_200_800/B4EZqRhoFJKcAU-/0/1763378103480?e=2147483647&v=beta&t=nPTTwiw3V5w1PmHOLgF0YM_Ng91GobQu2NCO32nL_Jc",
+    "honors_and_awards": [
+      {
+        "title": "King\u2019s Experience Research Award",
+        "publication": "King\u2019s College London",
+        "date": null,
+        "description": null
+      }
+    ],
+    "similar_profiles": [],
+    "default_avatar": false,
+    "memorialized_account": false,
+    "bio_links": [
+      {
+        "title": "Personal Website",
+        "link": "https://yasith.co.uk/"
+      }
+    ],
+    "first_name": "Yasith",
+    "last_name": "Medagama Disanayakage",
+    "influencer": false,
+    "timestamp": "2026-08-12T19:22:41.326Z",
+    "input": {
+      "url": "https://www.linkedin.com/in/yasith-md"
+    }
+  },
+  "local_photo": "data\\linkedin_photos\\yasith-md__usr-gOtj7ACGA3nZWe3.jpg"
+}

@@ -1,0 +1,490 @@
+{
+  "luma_user_id": "usr-vgANR4l41rDvQFx",
+  "csv_name": "Amol Venkataraman",
+  "csv_linkedin": "https://www.linkedin.com/in/amolven16",
+  "enriched_at": "2026-08-12T18:56:33.260960+00:00",
+  "batch_id": "sd_msqg8yml2ia5na9bcp",
+  "profile": {
+    "id": "amolven16",
+    "name": "Amol Venkataraman",
+    "city": "San Francisco Bay Area",
+    "country_code": "US",
+    "position": null,
+    "about": "\ud83d\udc4b Hi, I'm Amol. I am studying Computer Science at the University of\u2026",
+    "current_company": {
+      "link": "https://www.linkedin.com/company/assorthealth?trk=public_profile_topcard-current-company",
+      "name": "Assort Health",
+      "company_id": "assorthealth",
+      "location": null
+    },
+    "experience": null,
+    "url": "https://vn.linkedin.com/in/Amolven16",
+    "people_also_viewed": [
+      {
+        "profile_link": "https://ca.linkedin.com/in/rezamokari60",
+        "name": "Reza M.",
+        "about": "Dilawri Group of Companies",
+        "location": "5K followers Montreal, QC"
+      },
+      {
+        "profile_link": "https://ca.linkedin.com/in/paul-de-la-haye-16016632",
+        "name": "Paul de la Haye",
+        "about": "GoodLiving Technologies",
+        "location": "9K followers Victoria, BC"
+      },
+      {
+        "profile_link": "https://in.linkedin.com/in/shagunsodhani",
+        "name": "Shagun Sodhani",
+        "about": "Google DeepMind",
+        "location": "26K followers India"
+      },
+      {
+        "profile_link": "https://www.linkedin.com/in/sankarshan1993",
+        "name": "Sankarshan Purkayastha",
+        "about": "Amazon",
+        "location": "7K followers Bellevue, WA"
+      },
+      {
+        "profile_link": "https://www.linkedin.com/in/alexander-wu-aw",
+        "name": "Alexander Wu",
+        "about": "Mason",
+        "location": "4K followers New York, NY"
+      },
+      {
+        "profile_link": "https://ca.linkedin.com/in/arber-caushi-sd35",
+        "name": "Arber Caushi",
+        "about": "Langley School District #35",
+        "location": "7K followers Vancouver, BC"
+      },
+      {
+        "profile_link": "https://ca.linkedin.com/in/mdabydeen",
+        "name": "Mike Dabydeen",
+        "about": "Purolator Inc.",
+        "location": "7K followers Kitchener, ON"
+      },
+      {
+        "profile_link": "https://ca.linkedin.com/in/yhashmi",
+        "name": "Yasir Hashmi",
+        "about": "Employment Hero",
+        "location": "7K followers Greater Toronto Area, Canada"
+      },
+      {
+        "profile_link": "https://ca.linkedin.com/in/chevalierg",
+        "name": "Guillaume Chevalier",
+        "about": "helloDarwin",
+        "location": "6K followers Greater Montreal Metropolitan Area"
+      }
+    ],
+    "educations_details": "University of Waterloo",
+    "education": [
+      {
+        "title": "University of Waterloo",
+        "url": "https://ca.linkedin.com/school/uwaterloo/",
+        "start_year": "2022-09",
+        "end_year": "2027-04",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      },
+      {
+        "start_year": "2018-09",
+        "end_year": "2022-06",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      }
+    ],
+    "recommendations_count": 2,
+    "avatar": "https://static.licdn.com/aero-v1/sc/h/9c8pery4andzj6ohjkjp54ma2",
+    "courses": [
+      {
+        "subtitle": "MATH 135",
+        "title": "Algebra"
+      },
+      {
+        "subtitle": "MATH 137",
+        "title": "Calculus 1"
+      },
+      {
+        "subtitle": "MATH 138",
+        "title": "Calculus 2"
+      },
+      {
+        "subtitle": "CS 251",
+        "title": "Computer Organization and Design"
+      },
+      {
+        "subtitle": "CS 240",
+        "title": "Data Structures and Data Management"
+      },
+      {
+        "subtitle": "CS 135",
+        "title": "Designing Functional Programs"
+      },
+      {
+        "subtitle": "CS 136",
+        "title": "Elementary Algorithm Design and Data Abstraction"
+      },
+      {
+        "subtitle": "CS 241",
+        "title": "Foundations of Sequential Programsn"
+      },
+      {
+        "subtitle": "MATH 239",
+        "title": "Introduction to Combinatorics"
+      },
+      {
+        "subtitle": "CO 250",
+        "title": "Introduction to Optimization"
+      },
+      {
+        "subtitle": "MATH 136",
+        "title": "Linear Algebra 1"
+      },
+      {
+        "subtitle": "CS 245",
+        "title": "Logic and Computation"
+      },
+      {
+        "subtitle": "PHYS 121",
+        "title": "Mechanics"
+      },
+      {
+        "subtitle": "CS 246",
+        "title": "Object-Oriented Software Development"
+      },
+      {
+        "subtitle": "STAT 230",
+        "title": "Probability"
+      },
+      {
+        "subtitle": "STAT 231",
+        "title": "Statistics"
+      },
+      {
+        "subtitle": "CS 136L",
+        "title": "Tools and Techniques for Software Development"
+      },
+      {
+        "subtitle": "PHYS 122",
+        "title": "Waves, Electricity, and Magnetism"
+      }
+    ],
+    "certifications": [
+      {
+        "meta": "Issued Jun 2020 Credential ID 5ee37b171d41c8b55a3c75c3 See credential",
+        "subtitle": "Indian Institute of Technology, Kanpur",
+        "title": "Learning Physics Through Simple Experiments",
+        "credential_url": "http://outreach.iitk.ac.in/v/5ee37b171d41c8b55a3c75c3?trk=public_profile_see-credential",
+        "credential_id": "5ee37b171d41c8b55a3c75c3"
+      },
+      {
+        "meta": "Issued Jun 2020 Credential ID 13dd08bafbb344898adcbb0a70b81808 See credential",
+        "subtitle": "The Linux Foundation",
+        "title": "LFS101x: Introduction to Linux",
+        "credential_url": "https://courses.edx.org/certificates/13dd08bafbb344898adcbb0a70b81808?trk=public_profile_see-credential",
+        "credential_id": "13dd08bafbb344898adcbb0a70b81808"
+      },
+      {
+        "meta": "Issued Jun 2020 Credential ID LJWPVWMWXQRY See credential",
+        "subtitle": "Coursera",
+        "title": "Operating Systems and You: Becoming a Power User",
+        "credential_url": "https://www.coursera.org/account/accomplishments/certificate/LJWPVWMWXQRY?trk=public_profile_see-credential",
+        "credential_id": "LJWPVWMWXQRY"
+      },
+      {
+        "meta": "Issued Jun 2020 Credential ID SN2NH4X2YNHQ See credential",
+        "subtitle": "Coursera",
+        "title": "System Administration and IT Infrastructure Services",
+        "credential_url": "https://www.coursera.org/account/accomplishments/certificate/SN2NH4X2YNHQ?trk=public_profile_see-credential",
+        "credential_id": "SN2NH4X2YNHQ"
+      },
+      {
+        "meta": "Issued Jun 2020 Credential ID 84MBJ8F8JQ7X See credential",
+        "subtitle": "Coursera",
+        "title": "The Bits and Bytes of Computer Networking",
+        "credential_url": "http://coursera.org/verify/84MBJ8F8JQ7X?trk=public_profile_see-credential",
+        "credential_id": "84MBJ8F8JQ7X"
+      },
+      {
+        "meta": "Issued May 2020 Credential ID 2E5B6X25J8J3 See credential",
+        "subtitle": "Coursera",
+        "title": "Data Science Math Skills",
+        "credential_url": "https://www.coursera.org/account/accomplishments/certificate/2E5B6X25J8J3?trk=public_profile_see-credential",
+        "credential_id": "2E5B6X25J8J3"
+      },
+      {
+        "meta": "Issued May 2020 See credential",
+        "subtitle": "Harvardx on edX",
+        "title": "Professional Certificate in Computer Science for Artificial Intelligence",
+        "credential_url": "https://credentials.edx.org/credentials/b5545dc8554042119fedd13e272c4e6a/?trk=public_profile_see-credential",
+        "credential_id": null
+      },
+      {
+        "meta": "Issued May 2020 Credential ID 2G36TPFSH2EF See credential",
+        "subtitle": "Coursera",
+        "title": "Technical Support Fundamentals",
+        "credential_url": "https://www.coursera.org/account/accomplishments/certificate/2G36TPFSH2EF?trk=public_profile_see-credential",
+        "credential_id": "2G36TPFSH2EF"
+      },
+      {
+        "meta": "Issued Apr 2020 See credential",
+        "subtitle": "Harvardx on edX",
+        "title": "Professional Certificate in Computer Science for Web Programming",
+        "credential_url": "https://credentials.edx.org/credentials/787cc0b7face46ea8267a3c5b9b4ab16/?trk=public_profile_see-credential",
+        "credential_id": null
+      },
+      {
+        "meta": "Issued Aug 2019 See credential",
+        "subtitle": "Harvardx on edX",
+        "title": "CS50's Introduction to Computer Science",
+        "credential_url": "https://courses.edx.org/certificates/191f5b211d0f489baf44c1980e063c24?trk=public_profile_see-credential",
+        "credential_id": null
+      }
+    ],
+    "recommendations": [
+      "Siva V. \u201cFrom the moment Amol joined our team, it was evident that he is committed to producing high-quality work. His ability to swiftly grasp new concepts and apply them to various tasks was truly impressive. He tackled each project with enthusiasm and a determination to excel. What truly sets Amol apart is his exceptional communication skills. He consistently provided clear updates on project progress, actively participated in team discussions, and collaborated seamlessly with colleagues across departments. Amol's positive attitude and willingness to share ideas greatly contributed to our team's success. He consistently met and often exceeded expectations, demonstrating a strong work ethic and a passion for learning. His dedication to personal and professional growth was inspiring to both fellow interns and full-time employees alike. Based on Amol\u2019s outstanding performance and the impact he made during his time with us, I have no doubt that he will excel in any future endeavors he pursues. Amol Venkataraman has my highest recommendation, and I am confident that he will make significant contributions to any team or organization he joins.\u201d",
+      "Jonathan Crone \u201cI've been in high tech for 30 years, I've mentored hundreds of high school and university coop students. And thanks to the challenges of Covid, Amol was the first time I mentored a high school coop student from a city other than Ottawa. If there's a silver lining in Covid, its that I'd never have been able to work with Amol without the workplace flexibility of 'remote work' The TL;DR Amol worked very well for me in the two months we spent together in the high school internship: he worked in Python and Locust, in JavaScript and Selenium and SeleniumGrid. He did the tasks I asked for quickly and well, with some mistakes of course, but caught the mistakes and moved forward. I would enjoy working with Amol in the future. Want more detail? Amol was part of the \"Future Tech\" intern program at Nokia and made a marvellous contribution to my project. I needed a student who could quickly come up to speed on Python based test automation, to learn a Python automation framework called Locust, and a student who was capable of keeping up with the demands of the work projects I would ask for, as the project needs would likely shift during the summer. Amol arrived within my team, worked very effectively and quickly to understand the project needs. I must admit that I was testing Amol when he first joined, and I threw work at him at speed, threw project ideas at him at speed, and deliberately left him with tasks that were somewhat open ended to see how he handled his time. Amol delighted me with figuring out several interesting and challenging tasks within his first two weeks. Mistakes were made of course, but Amol accepted my feedback and continued to work and learn, to research technologies and ways to solve the problems. I gave Amol the opportunity to also work on some Selenium based test automation for automated UI Pipeline tests. Amol did well in these tasks as well. He investigated the test suite we assigned him, he recommended a refactoring, executed the refactoring: moved forward with a set of code reviews, and extensively pushed to ensure his code met the team needs. In this role he needed to understand and work with the input of four different people all at once. So: all in all, I'm delighted that Amol worked with me this summer. His key strengths: willingness to dive into s/w problems, help figure out test solutions, and implement. Like a lot of younger technology folks: Amol has a lot of enthusiasm. So one of the projects that Amol and I have taken on is to talk about some soft skills learning to help to understand how to work in a large complex team. I know he'll figure it out: he did ok: but he will be an even better contributor to a project as he understands some of the team collaboration nuances. It takes time and practice. I've also suggested that Amol develop some presentation skills: it can be challenging speaking to a team, especially when they are all older than him. For now, I've recommended he do a 'dr\u201d"
+    ],
+    "volunteer_experience": [
+      {
+        "duration": "Sep 2023 \u00b7 - \nSep 2023 \u00b7 \n1 month",
+        "duration_short": "- \nSep 2023",
+        "info": "Organized and led various events to help incoming students learn about, and adapt to life in university. Engaged with incoming students and answered their doubts and questions. Worked with the other orientation leaders and faculty members to ensure that the event ran smoothly.",
+        "start_date": "Sep 2023",
+        "subtitle": "University of Waterloo",
+        "title": "Orientation Leader"
+      },
+      {
+        "cause": "Education",
+        "duration": "Oct 2021 \u00b7 - \nJun 2022 \u00b7 \n9 months",
+        "duration_short": "- \nJun 2022",
+        "info": "Organized the largest extracurricular club in my high school and ran weekly meetings where students taught each other advanced programming concepts beyond the level normally taught in school.",
+        "start_date": "Oct 2021",
+        "subtitle": "Sir John A Macdonald CI Coding Club",
+        "title": "President and Lead Mentor"
+      },
+      {
+        "duration": "Oct 2021 \u00b7 - \nJun 2022 \u00b7 \n9 months",
+        "duration_short": "- \nJun 2022",
+        "info": "Organized weekly meetings for students interested in learning Math beyond the level taught in high school. Created weekly videos explaining solutions to contest problems. Worked with teachers and other club members to organize a schoolwide Math contest.",
+        "start_date": "Oct 2021",
+        "subtitle": "Sir John A Macdonald CI Math Club",
+        "title": "Co President"
+      }
+    ],
+    "followers": 1280,
+    "connections": 500,
+    "current_company_company_id": "assorthealth",
+    "current_company_name": "Assort Health",
+    "projects": [
+      {
+        "title": "Docket",
+        "start_date": "Apr 2020",
+        "description": "Innovative cloud-based calendar app that shows information from a variety of sources using their APIs, helping people with time management."
+      },
+      {
+        "title": "Connect",
+        "description": "A lightweight mobile app to quickly share contact details with people you meet."
+      },
+      {
+        "title": "PikPic",
+        "description": "Self-hosted photo gallery app that leverages deep neural networks to allow users to search through their images using people, places, things, and text."
+      },
+      {
+        "title": "Singularity",
+        "description": "A CLI script that can automatically download content from Google Classroom and Brightspace using their APIs."
+      },
+      {
+        "title": "TraceMe",
+        "description": "A simple mapping app that lets you visually represent your travels."
+      },
+      {
+        "title": "VidScribe",
+        "description": "A feature-rich web-based video player that lets you take notes while watching videos."
+      }
+    ],
+    "location": null,
+    "input_url": "https://www.linkedin.com/in/amolven16",
+    "linkedin_id": "amolven16",
+    "activity": [
+      {
+        "interaction": null,
+        "link": "https://www.linkedin.com/posts/jefferyliu300_today-were-announcing-a-120-million-series-activity-7475563241016807424-x6L2",
+        "title": "Today we're announcing a $120 million Series C led by Menlo Ventures , bringing Assort Health 's total funding to $222 million and our valuation to $1.2 billion. The number is a milestone. But it was never the point. Growing up, I was a patient transport volunteer. I helped people physically get to appointments and navigate a healthcare system that often didn't make sense to them. For some, simply having someone there to help made all the difference. Helping one patient get the care they needed was rewarding. But it was one person at a time. That experience has stayed with me. It's why Assort exists: to make exceptional healthcare accessible anytime, anywhere, for anyone, and to reach as many patients as possible. This funding is fuel for that mission. Every call, text, referral, form, appointment, and outreach creates context. Without Assort, context gets lost. Patients repeat themselves. Staff become the glue between systems that don't talk. Follow-ups slip. People fall through the cracks. Care gets delayed. Not because healthcare lacks information. Because it lacks continuity. What started as an AI agent answering phone calls has grown into a platform that schedules appointments, manages referrals, completes intake, proactively reaches patients, and helps healthcare organizations run the operational work for every visit. The part that matters most is that every interaction builds on the last. We call this Patient Journey Memory: turning disconnected touchpoints into one continuous conversation, so patients don't have to start over every step. Our brand film says it simply: Healthcare That Remembers. With this funding, we'll reach far more patients, serve many more healthcare organizations, keep building the product, and bring exceptional people onto the team. One full-circle detail: in the cofounder-dating questionnaire Jon Wang and I filled out before starting Assort, I wrote that building a company worth $100 million would be an incredible outcome. We've now passed that by more than 10x. It's a surreal milestone, and a reminder that the problem and opportunity are far bigger than we thought. None of this is ours alone. To the customers and partners who trusted us early, challenged our thinking, and shaped Assort: thank you. You took a chance on a young company, held us to a very high standard, and made us better than we could have become on our own. To Jean-Paul (J.P.) Sanday and Matt Murphy from Menlo Ventures and all new and returning investors: thank you for believing in our team and our mission. And to the Assort team: building AI systems in healthcare is hard. Building them in a way that patients trust and healthcare organizations rely on every day is even harder. Thank you for how much you care, how hard you push, and the standard you continue to set. We're still early. There are more patients to reach and a lot to build. That's why we're excited. Come help make healthcare remember every patient. We're hiring. ...more ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D5610AQEWujzQU4bZGA/videocover-high/B56Z76JF5iLAAo-/0/1782313153082?e=2147483647&v=beta&t=aW4El16yhf_ZClvkwbKzH0Yc2yXdg_AT42_Rc_NXN1A",
+        "id": "120"
+      },
+      {
+        "interaction": null,
+        "link": "https://www.linkedin.com/posts/jonxwang_today-we-raised-a-120m-series-c-at-a-12b-activity-7475562990616924160-vmLu",
+        "title": "Today we raised a $120M Series C at a $1.2B valuation, led by Menlo Ventures . We now have over $220M to become the standard for how healthcare providers transform the patient journey with AI. As a medical student at UCSF, I watched patients fall through the cracks for reasons that had nothing to do with medicine. Healthcare has spent decades improving clinical outcomes, yet patients were still repeating their story, navigating disconnected systems, and too often giving up before they got the care they needed. I couldn't accept that patients spent more time on hold than with their doctors. It felt like one of the biggest unsolved problems in healthcare. So I left to build Assort Health . Our first chapter was learning how complex each practice's care protocols really are. It took us months to build a single agent. That's why we built Synapse, our agentic model. It gets sharper with every edge case it sees, and with 190M+ patient interactions behind it, no one's model has seen more. That's what lets non-technical people build agents in weeks, even for the most complex workflows, with industry-leading automation rates. This is how we grew revenue 20x in 15 months, as leading providers chose the one platform proven to handle the complexity of healthcare workflows at scale. But this was always meant to be just the first chapter. The first interaction isn't only where care begins. It's where patient context is created. Get that right, and every step after becomes easier. Today we're a platform for the whole journey. Our AI agents answer calls, schedule appointments, manage referrals, complete intake, refill medications, reach patients proactively, and collect payments, all personalized to each patient. Grateful to Jean-Paul (J.P.) Sanday , Matt Murphy and the team at Menlo Ventures for leading, and to Lightspeed , Felicis , First Round Capital , Chemistry , Quiet Capital , and Joe Montana for backing us again. To the Assort team and my co-founder Jeffery L. : none of this happens without your relentless focus and care. Fired up to build Healthcare that Remembers alongside you. Still Day One. ...more ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D5610AQGN7jSKFSBP5g/videocover-high/B56Z76I3OBIUAo-/0/1782313094168?e=2147483647&v=beta&t=zrRoyjRJdYd6xLVIteXppRpK0weOHjqQvb7uMItBR-U",
+        "id": "7475562990616924160"
+      },
+      {
+        "interaction": "Amol Venkataraman shared this",
+        "link": "https://www.linkedin.com/posts/amolven16_find-your-dream-job-activity-7428375289686077440-InnM",
+        "title": "If you are seeing this post, there\u2019s a good chance you have been applying to co-ops and/or new grad roles recently, and you likely know just how annoying it is: - Look through Github lists, LinkedIn, different websites, and a random spreadsheet. Find the PERFECT role\u2026 posted a week ago, and already has thousands of applicants. - See the same job on top of the list for the 4th day in a row (you already applied). - Try to filter for what you want (spoiler, Github lists don\u2019t have filtering) Nathan C. and I got tired of this mess and decided to make a solution to the problem instead of\u2026 applying for more jobs. Introducing AllTheCareers - all co-op and new grad roles, updated regularly, in one place. No one-week delay, no old zombie postings that keep showing up as new. And yes, actual filtering that works. Made by students, for students, and it\u2019s free! Check it out: https://lnkd.in/e2JbCNqn Currently limited to tech roles in the US and Canada. Feel free to use the feedback form to suggest which fields / regions you want added next. Found a bug? Have any suggestions? Please fill out the feedback form on the site, or send us a DM. \u2014 Companies interested in partnerships and advertising? contact@allthecareers.com , or DM either of us. ...more",
+        "img": null,
+        "id": "7428375289686077440"
+      },
+      {
+        "interaction": "Amol Venkataraman shared this",
+        "link": "https://www.linkedin.com/posts/amolven16_grindset-calendar-activity-7413382858284621824-hgOv",
+        "title": "It's 2026 now, and the start of a new year (usually) brings new goals and ambitions. But let's be honest, most new year's resolutions are active for less time than a junior dev's first deployment. By February, most of these goals are quietly abandoned. The problem? It's really hard to stay motivated for months on end if you can't regularly see your progress. Miss a few days, and your brain decides, \"guess I can't do it after all\", despite all the progress you made. The solution? Some way to see your progress at a glance. Github, Leetcode, Duolingo, and many more already do something like this, so why not make a generalized version of it? Introducing the Grindset Calendar How it works: - The heatmap: There's an empty box for every day of the year. At the end of each day, shade it in with different colours, shades, or patterns based on how well you stuck to your goal. - The retrospective: The empty lines below each month are to write down your top achievements for that month. Things that you are genuinely proud of, that you want to remember. - You are reminded of your progress (or sometimes the lack thereof) every day, which keeps you motivated to do better and keep going. You can use it to track: - Academic productivity (studying or \"studying\") - Job applications - Gym / athletic consistency - Personal habits - Just about anything else Print it in letter size paper for a desktop version, or tabloid (11x17) size for a poster size version that you can hang on a wall, always visible out of the corner of your eye whenever you decide to not follow your goals. Stop relying on \"vibes\" to track your habits; print this out, grab a marker, and start tracking your progress in a visual and quantitative way! ...more",
+        "img": null,
+        "id": "7413382858284621824"
+      },
+      {
+        "interaction": null,
+        "link": "https://www.linkedin.com/posts/uw-code-lab_join-us-for-out-first-in-person-event-this-activity-7263316974393274368-ZrYD",
+        "title": "Join us for out first in-person event this Sunday from 12 PM to 4 PM in DC 1350. We will have a networking session, a workshop hosted by AWS Cloud Clubs UW, Free food, and a Karaoke session. ...more ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQGi_1GaymeTgg/feedshare-image-high-res/feedshare-image-high-res/0/1731709711333?e=2147483647&v=beta&t=g1vdOjEDUApy1t6s1nbOFOD2-cMI2OuclZlE58P9kIs",
+        "id": "7263316974393274368"
+      },
+      {
+        "interaction": null,
+        "link": "https://www.linkedin.com/posts/uw-code-lab_uw-code-lab-linkedin-activity-7202877306720165888-1rIQ",
+        "title": "Are you a UWaterloo student with a passion for coding and tech? Do you want to make a positive difference in the lives of other students around you? UW Code Lab is the place for you. We are a dynamic group of student developers working to create tools and software that enhance student life. Whether you are a programmer, designer, project manager, or someone just wanting to make a difference, join us to innovate, collaborate, and shape the future of campus tech. Be a part of something bigger - sign up today and let's build something amazing together! Sign up using the link below: https://lnkd.in/gXHhWPpx ...more ...more",
+        "img": "https://media.licdn.com/dms/image/sync/v2/D5627AQFcz547QJvG0A/articleshare-shrink_800/articleshare-shrink_800/0/1717299678688?e=2147483647&v=beta&t=gqeG732KOy2JaPEfRHbWkgDtE_wdM9TRsg5MWckYHVk",
+        "id": "7202877306720165888"
+      },
+      {
+        "interaction": "Amol Venkataraman liked this",
+        "link": "https://www.linkedin.com/posts/sunny-eappen-0965a6b_i-just-wanted-everyone-to-know-that-assort-activity-7490441217172791299--O04",
+        "title": "I just wanted everyone to know that Assort Health is officially announcing my role as their Chief Medical Officer today. I\u2019ve been working with them for the last 6 weeks and it has been very exciting. So much going on, with so much potential to change the way patients connect with their providers and eliminate so much of the \u201cfriction\u201d that currently creates obstacles to the process. Look forward to talking to all of you about this work. Watch the video if you have a chance.",
+        "img": "https://media.licdn.com/dms/image/v2/D5605AQFPHEwE9Er2wQ/videocover-high/B56Z_NkeupJ0BM-/0/1785860328884?e=2147483647&v=beta&t=3Z-hODPYcOTha9_rIsTY3LfeCT4jIpLWaMjhPSl7oG8",
+        "id": "7490441217172791299"
+      },
+      {
+        "interaction": "Amol Venkataraman liked this",
+        "link": "https://www.linkedin.com/posts/yarlas_hi-everyone-im-excited-to-share-that-i-activity-7484659984035667968-T6a1",
+        "title": "Hi everyone! I\u2019m excited to share that I\u2019ve graduated from the University of Waterloo Faculty of Mathematics with a Bachelor of Honours Mathematics, majoring in Statistics and Computing. Over the past few years, I\u2019ve had the opportunity to learn from incredible professors, work alongside talented peers, and challenge myself. I\u2019m incredibly grateful for the experiences, opportunities, and friendships that have shaped my journey at Waterloo. And, of course, a special thank you to all my professors\u2014for the knowledge, the support, and the curves. ;) Most importantly, SHOUT OUT TO MY MOMMMYYYY!!! Without whom none of this would have been possible. <3 <3 Here\u2019s to the next chapter! GO WARRIORS!!",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQE5ZP8VWNZQsQ/feedshare-image-high-res/B56Z97al4gHIAY-/0/1784481996589?e=2147483647&v=beta&t=fIuJ5OOv5V-QuTdZ53GLTmr5uwEWRlxJihzzw4W-OHQ",
+        "id": "7484659984035667968"
+      },
+      {
+        "interaction": "Amol Venkataraman liked this",
+        "link": "https://www.linkedin.com/posts/juliette-vermelle_im-thrilled-to-share-that-i-recently-joined-activity-7484983500526305280-lbpr",
+        "title": "I\u2019m thrilled to share that I recently joined Assort Health as a Customer Success Associate, based in San Francisco! \ud83d\ude80 Looking forward to this new chapter and excited to be working alongside such a talented team!",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQF7rmiFa7H63Q/feedshare-shrink_800/B4EZ.AA1JCKQAc-/0/1784559129437?e=2147483647&v=beta&t=yx8kPpKlG7FwbUxSgki1_uNeFC9GwqTHkuvnGyD-7os",
+        "id": "7484983500526305280"
+      },
+      {
+        "interaction": "Amol Venkataraman liked this",
+        "link": "https://www.linkedin.com/posts/jonxwang_jeffery-l-and-i-started-assort-health-with-activity-7482819982532165632-SeMo",
+        "title": "Jeffery L. and I started Assort Health with the belief that if we could earn the front door, we could improve every interaction that follows. Over the past few years, that conviction has shaped nearly everything we've built, from teaching AI agents how healthcare works to creating a platform that shares context across the entire patient journey. We wrote about how we got here: what it took to build it, what we learned along the way, and what changes once a system remembers instead of records. None of this happens without the team that built it, one workflow and one edge case at a time. Grateful to every Assortie who's shipped a piece of this. Read more about how the front door unlocks the entire patient journey: https://lnkd.in/gwiFj8zJ",
+        "img": "https://media.licdn.com/dms/image/v2/D5610AQG2F48WoICp9A/image-shrink_800/B56Z9hRHyjLAAk-/0/1784043307082?e=2147483647&v=beta&t=VOFOTdv_rjigzdd_cRoFWOuhbzSBVdwgee9wBSSMWAc",
+        "id": "7482819982532165632"
+      },
+      {
+        "interaction": "Amol Venkataraman liked this",
+        "link": "https://www.linkedin.com/posts/assorthealth_thank-you-to-nasdaq-for-celebrating-this-activity-7477842171925135360-RgEt",
+        "title": "Thank you to Nasdaq for celebrating this milestone with us. \ud83d\ude80 Every milestone like this lets us invest even more in the future of patient access.",
+        "img": "https://media.licdn.com/dms/image/v2/D5610AQEDJFy4s7MLUA/image-shrink_800/B56Z8ah1GyG8Ag-/0/1782856504552?e=2147483647&v=beta&t=oYfwmpEVRiZPx53glx6rYFTdBB88s-lIYoi9b3zoYDA",
+        "id": "7477842171925135360"
+      },
+      {
+        "interaction": "Amol Venkataraman liked this",
+        "link": "https://www.linkedin.com/posts/jerryzhu2_everyone-should-follow-claudes-gtm-plan-activity-7482143589146206209-6v3h",
+        "title": "Everyone should follow Claude's GTM plan of just doing whatever they want.",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQFKgA49nNdhig/feedshare-shrink_800/B56Z9Xp8teIMAg-/0/1783882042428?e=2147483647&v=beta&t=XXJq5uzwl0_JE6zb5a8tjCTjYINxSZTym0BbZIn5C1M",
+        "id": "7482143589146206209"
+      },
+      {
+        "interaction": "Amol Venkataraman liked this",
+        "link": "https://www.linkedin.com/posts/tanisha-dhami_just-started-an-internship-and-working-with-activity-7471050638445969408-wVsB",
+        "title": "Just started an internship, and working with Python looks a little different than expected... Super excited to be interning at Point72 on the investment services team this summer. If you're in NY let's get matcha!",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQEEPhc5B-Brig/feedshare-shrink_1280/B4EZ66A9hlKQAM-/0/1781237274970?e=2147483647&v=beta&t=EA0hhZAPY0aoleoFysUEX39mVrLwFObF1r8NhCWCV2Q",
+        "id": "7471050638445969408"
+      }
+    ],
+    "linkedin_num_id": "812022619",
+    "banner_image": "https://media.licdn.com/dms/image/v2/D5616AQHKEGO2-SAINQ/profile-displaybackgroundimage-shrink_200_800/B56Z76w6rQLAAQ-/0/1782323588109?e=2147483647&v=beta&t=ioIyFo6I5UbCuN91JCozC3j6ntmePh5TDqeTemVOvHM",
+    "honors_and_awards": [
+      {
+        "title": "University of Waterloo First-Year Honours Distinction",
+        "publication": "University of Waterloo",
+        "date": "2023-05-01T00:00:00.000Z",
+        "description": "Honours Distinction is awarded to students with an overall 80% or higher average."
+      },
+      {
+        "title": "University of Waterloo President's Scholarship of Distinction",
+        "publication": "University of Waterloo",
+        "date": "2022-08-01T00:00:00.000Z",
+        "description": "The President's Scholarship of Distinction is offered to students who are accepted into the university with a top-6 average in high school of 95% or more."
+      },
+      {
+        "title": "Grade 12 Medallion Honors Certificate",
+        "publication": "Sir John A Macdonald CI",
+        "date": "2022-06-01T00:00:00.000Z",
+        "description": "The Medallion Honors Certificate is issued to students who have achieved an average of at least 90% for the school year."
+      },
+      {
+        "title": "Ontario Merit Scholar",
+        "publication": "Ontario Ministry of Education",
+        "date": "2022-06-01T00:00:00.000Z",
+        "description": "The Ontario Merit Scholar award is awarded to students graduating with an Ontario Secondary School Diploma who have an average of at least 80% in their final year (grade 12)."
+      },
+      {
+        "title": "Grade 11 Medallion Honors Certificate",
+        "publication": "Sir John A Macdonald CI",
+        "date": "2021-11-01T00:00:00.000Z",
+        "description": "The Medallion Honors Certificate is issued to students who have achieved an average of at least 90% for the school year."
+      },
+      {
+        "title": "Academic Achievement Award - Core French Year 1 (Beginner)",
+        "publication": "Sir John A Macdonald CI",
+        "date": "2020-06-01T00:00:00.000Z",
+        "description": "The Academic Achievement Award is issued to the student who secured the highest mark in the subject."
+      },
+      {
+        "title": "Academic Achievement Award - Science Year 2 Medallion",
+        "publication": "Sir John A Macdonald CI",
+        "date": "2020-06-01T00:00:00.000Z",
+        "description": "The Academic Achievement Award is issued to the student who secured the highest mark in the subject."
+      },
+      {
+        "title": "Academic Achievement Award - Technological Studies year 2 Computer Engineering Tech",
+        "publication": "Sir John A Macdonald CI",
+        "date": "2020-06-01T00:00:00.000Z",
+        "description": "The Academic Achievement Award is issued to the student who secured the highest mark in the subject."
+      },
+      {
+        "title": "Grade 10 Medallion Honors Certificate",
+        "publication": "Sir John A Macdonald CI",
+        "date": "2020-06-01T00:00:00.000Z",
+        "description": "The Medallion Honors Certificate is issued to students who have achieved an average of at least 90% for the school year."
+      },
+      {
+        "title": "Academic Achievement Award - Technology Studies Exploring Technologies Year 1",
+        "publication": "Sir John A Macdonald CI",
+        "date": "2019-06-01T00:00:00.000Z",
+        "description": "The Academic Achievement Award is issued to the student who secured the highest mark in the subject."
+      },
+      {
+        "title": "Grade 9 Honors Certificate",
+        "publication": "Sir John A Macdonald CI",
+        "date": "2019-06-01T00:00:00.000Z",
+        "description": "The Honours Certificate is issued to students with an average of at least 80% for the school year."
+      }
+    ],
+    "similar_profiles": [],
+    "default_avatar": true,
+    "memorialized_account": false,
+    "bio_links": [
+      {
+        "title": "Personal Website",
+        "link": "https://amolvenkataraman.github.io/"
+      }
+    ],
+    "first_name": "Amol",
+    "last_name": "Venkataraman",
+    "influencer": false,
+    "timestamp": "2026-08-12T18:55:40.853Z",
+    "input": {
+      "url": "https://www.linkedin.com/in/amolven16"
+    }
+  }
+}

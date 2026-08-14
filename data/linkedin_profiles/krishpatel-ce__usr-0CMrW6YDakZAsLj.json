@@ -1,0 +1,58 @@
+{
+  "luma_user_id": "usr-0CMrW6YDakZAsLj",
+  "csv_name": "Krish Patel",
+  "csv_linkedin": "https://www.linkedin.com/in/krishpatel-ce",
+  "enriched_at": "2026-08-12T19:12:29.382919+00:00",
+  "batch_id": "sd_msqgtpzbeylkhkm9p",
+  "profile": {
+    "id": "krishpatel-ce",
+    "name": "Krish Patel",
+    "city": "San Francisco Bay Area",
+    "country_code": "US",
+    "position": null,
+    "about": "Big fan of systems programming and problem solving. \ud83d\udce7 krish.patel3@uwaterloo.ca",
+    "current_company": {
+      "link": "https://www.linkedin.com/company/nuro-inc.?trk=public_profile_topcard-current-company",
+      "name": "Nuro",
+      "company_id": "nuro-inc.",
+      "location": null
+    },
+    "experience": null,
+    "url": "https://vn.linkedin.com/in/krishpatel-ce",
+    "educations_details": "University of Waterloo",
+    "education": [
+      {
+        "title": "University of Waterloo",
+        "url": "https://ca.linkedin.com/school/uwaterloo/",
+        "start_year": "2023-09",
+        "end_year": "2028-04",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      }
+    ],
+    "avatar": "https://static.licdn.com/aero-v1/sc/h/9c8pery4andzj6ohjkjp54ma2",
+    "followers": 1001,
+    "connections": 500,
+    "current_company_company_id": "nuro-inc.",
+    "current_company_name": "Nuro",
+    "location": null,
+    "input_url": "https://www.linkedin.com/in/krishpatel-ce",
+    "linkedin_id": "krishpatel-ce",
+    "activity": null,
+    "linkedin_num_id": "1190221985",
+    "banner_image": "https://media.licdn.com/dms/image/v2/D4E16AQEdWY2DOBKW3w/profile-displaybackgroundimage-shrink_200_800/B4EZqD2RNrGcAY-/0/1763148635237?e=2147483647&v=beta&t=_1E22w_ZlCj9KV2WP6VE1lA9klSLvG9DqKJnHCoLMwU",
+    "honors_and_awards": null,
+    "similar_profiles": [],
+    "default_avatar": true,
+    "memorialized_account": false,
+    "bio_links": [],
+    "first_name": "Krish",
+    "last_name": "Patel",
+    "influencer": false,
+    "timestamp": "2026-08-12T19:11:45.165Z",
+    "input": {
+      "url": "https://www.linkedin.com/in/krishpatel-ce"
+    }
+  }
+}

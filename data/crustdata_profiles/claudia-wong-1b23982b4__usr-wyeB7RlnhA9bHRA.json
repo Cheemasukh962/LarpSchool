@@ -1,0 +1,421 @@
+{
+  "source": "crustdata",
+  "recovered_from": "brightdata_failed_private",
+  "luma_user_id": "usr-wyeB7RlnhA9bHRA",
+  "csv_name": "Claudia",
+  "csv_linkedin": "https://www.linkedin.com/in/claudia-wong-1b23982b4",
+  "clean_linkedin": "https://www.linkedin.com/in/claudia-wong-1b23982b4",
+  "enriched_at": "2026-08-14T18:07:59.937250+00:00",
+  "person_data": {
+    "basic_profile": {
+      "current_title": "Forward Deployed Engineer",
+      "first_name": null,
+      "headline": "FDE @ Bubble Lab (YC W26) | Product Eng @ InstaAgent (YC P26) | CS @ Cornell",
+      "languages": [
+        "Chinese (Cantonese) (Native or bilingual proficiency)",
+        "Chinese (Mandarin) (Native or bilingual proficiency)",
+        "English (Native or bilingual proficiency)"
+      ],
+      "last_name": null,
+      "location": {
+        "city": "",
+        "continent": "Asia",
+        "country": "Hong Kong",
+        "full_location": null,
+        "raw": "Hong Kong, Hong Kong SAR",
+        "state": ""
+      },
+      "name": "Claudia Wong",
+      "normalized_title": {
+        "confident": true,
+        "department": "Engineering & Technology",
+        "matched_title": "Forward Deployed Engineer",
+        "similarity": 0.9998999834060669,
+        "sub_department": "Field & Technical Service Engineering"
+      },
+      "professional_network_name": "Claudia Wong",
+      "profile_picture_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/person/4328efc3e28c21d505a192395644a29e9e0262aae6fe1cbd04e7cdbf91ac4678.jpg",
+      "summary": ""
+    },
+    "education": {
+      "schools": [
+        {
+          "activities_and_societies": "",
+          "degree": "",
+          "description": "A Levels: Math, Further Math, Computer Science, Economics, EPQ: Can Machines Think?",
+          "end_year": null,
+          "field_of_study": "",
+          "institute_logo_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/company/d1d6aa3eb9c7359ad88acf7c5c84f48cad75dd82e4862638c23c96370fafebaa.jpg",
+          "institute_logo_url": "https://media.licdn.com/dms/image/v2/D4E0BAQH9QcoVbokUDA/company-logo_400_400/B4EZ2b.pzEJcAY-/0/1776438386889/the_cheltenham_ladies_college_logo?e=1786579200&v=beta&t=rt17PaGxBdMqalIGk_iHLcII9UVt0InLyte4KrtA4Bk",
+          "location": {
+            "city": "Cheltenham",
+            "continent": "Europe",
+            "country": "United Kingdom",
+            "raw": "Cheltenham, England, United Kingdom",
+            "state": "England"
+          },
+          "professional_network_id": "1850436",
+          "school": "Cheltenham Ladies'\u200b College",
+          "start_year": null
+        },
+        {
+          "activities_and_societies": "",
+          "degree": "",
+          "description": "",
+          "end_year": null,
+          "field_of_study": "",
+          "institute_logo_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/company/6beaea3f545ae0e535a492582b75e151f91f7c349c89d3db6dc3890eceaf7351.jpg",
+          "institute_logo_url": "https://media.licdn.com/dms/image/v2/C560BAQGnHScibRb6FA/company-logo_400_400/company-logo_400_400/0/1637901821638?e=1786579200&v=beta&t=hQdUKi6umuC16oH5BkgMFma01A4-nmhH7OLAwGrPfXA",
+          "location": {
+            "city": "Hong Kong",
+            "continent": "Asia",
+            "country": "China",
+            "raw": "Hong Kong, Hong Kong",
+            "state": ""
+          },
+          "professional_network_id": "69158853",
+          "school": "Diocesan Girls' School",
+          "start_year": null
+        },
+        {
+          "activities_and_societies": "Cornell Entrepreneurship Club",
+          "degree": "Bachelor of Science - BS",
+          "description": "",
+          "end_year": null,
+          "field_of_study": "Computer Science",
+          "institute_logo_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/company/a62fca8ee50cfd46e59efc9b849bab4585508d476ccfa8e582eb60504750532a.jpg",
+          "institute_logo_url": "https://media.licdn.com/dms/image/v2/C560BAQE8SOXGRyv7LA/company-logo_400_400/company-logo_400_400/0/1631339899678?e=1786579200&v=beta&t=azgQL8266j7l5x3oPnWMWaJ3ZGYdw78cDMwH_hthzNI",
+          "location": {
+            "city": "Ithaca",
+            "continent": "North America",
+            "country": "United States",
+            "raw": "Ithaca, New York, United States",
+            "state": "New York"
+          },
+          "professional_network_id": "3523",
+          "school": "Cornell University",
+          "start_year": null
+        }
+      ]
+    },
+    "experience": {
+      "employment_details": {
+        "current": [
+          {
+            "company_description": "Bubble Lab is the home base for premium professional communities.We help career networks, investor communities, and operator collectives launch branded member hubs with directories, applications, payments, Slack sync, onboarding automation, analytics, and warm 1:1 matchmaking \u2014 so a single operator can run a community that feels personal and high-touch, without the ops headache.",
+            "company_professional_network_profile_url": "https://linkedin.com/company/108130987",
+            "company_profile_picture_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/company/107cd519053d19d43be9b695f21fb9923e041101136d0243d6b815226716e710.jpg",
+            "company_website_domain": "bubblelab.ai",
+            "crustdata_company_id": 13989981,
+            "description": "",
+            "employment_type": "",
+            "end_date": null,
+            "function_category": "Engineering",
+            "is_default": true,
+            "location": {
+              "raw": ""
+            },
+            "name": "Bubble Lab",
+            "position_id": 2898889000,
+            "professional_network_id": "108130987",
+            "seniority_level": "Entry Level",
+            "start_date": "2026-07-01T00:00:00+00:00",
+            "title": "Forward Deployed Engineer",
+            "years_at_company": "Less than 1 year",
+            "years_at_company_raw": 0.0
+          },
+          {
+            "company_description": "Sip & Scale is a community built around one simple idea: the best opportunities often start with a conversation.We bring together founders, operators, students, creatives, developers, and curious minds through curated dinners, intimate gatherings, and activity-based events. In a world where most networking feels transactional, we're creating spaces where relationships come first. Some people come to meet the co-founders. Some come to learn from experienced operators. Others come to find friends who share the same ambition and curiosity. Many leave with all three.What started as a small dinner series has grown into a global network spanning 25+ cities, connecting thousands of people across technology, startups, AI, design, investing, and beyond.Our community is made up of people who are generous with their knowledge, open to new ideas, and willing to help others succeed. Whether you're launching your first startup, exploring a new career path, building side projects, or simply looking to meet exceptional people, Sip & Scale is where meaningful connections happen.We're not building another networking group.We're building the community we wish existed when we started.Learn more at sipnscale.com",
+            "company_professional_network_profile_url": "https://linkedin.com/company/105338751",
+            "company_profile_picture_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/company/c7af0c890b671d5425a70b79d6a074f8000f3f0d10c36691dee1bccb089b0430.jpg",
+            "company_website_domain": "sipnscale.com",
+            "crustdata_company_id": 7565392,
+            "description": "- organising events for good convos between founders, builders and investors",
+            "employment_type": "",
+            "end_date": null,
+            "function_category": "",
+            "is_default": false,
+            "location": {
+              "raw": ""
+            },
+            "name": "Sip & Scale",
+            "position_id": 2940460123,
+            "professional_network_id": "105338751",
+            "seniority_level": "Senior",
+            "start_date": "2026-06-01T00:00:00+00:00",
+            "title": "Hong Kong Lead",
+            "years_at_company": "Less than 1 year",
+            "years_at_company_raw": 0.0
+          },
+          {
+            "company_description": "Last semester we raised +40M, had 9 dropouts, and sent 5 kids to YC. Why are you just now hearing about us? We used to be called called Life Changing Labs, named after and sponsored by the non-profit. But LCL shut down recently, so we had no reason to keep our name. Also we used to be \"underground\" \u2014 we did no marketing. However, now we want to make entrepreneurship mainstream at Cornell, so expect to see more of us : ) Part of popularizing & unifying entrepreneurship at Cornell means being open to everybody. We host weekly Startup Hours every Thursday @ eHub collegetown 7:30 - 9:00PM. We cater FREE Chipotle or Dos Amigos. Sometimes we bring speakers like YC, a16z, etc backed founders or billionaires. SIGN UP - we pub weekly Startup Hours sign up links on our IG, website, and the Cornell Entrepreneurship Email List Serv (recommend joining!)  Our goal is to make entrepreneurship more prevalent at Cornell by sharing our resources with EVERYBODY not gatekeeping them for just our E-Board. Reach out if we can help with anything!",
+            "company_professional_network_profile_url": "https://linkedin.com/company/108991486",
+            "company_profile_picture_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/company/e6f5dfd15ef6404437b7c9d64cf541061100377cdba7cbc26ac4f057f4d4c58f.jpg",
+            "company_website_domain": "cornell-entrepreneurship-club.com",
+            "crustdata_company_id": 13602149,
+            "description": "- i get cracked speakers to come share at cornell",
+            "employment_type": "",
+            "end_date": null,
+            "function_category": "",
+            "is_default": false,
+            "location": {
+              "raw": ""
+            },
+            "name": "Cornell Entrepreneurship Club",
+            "position_id": 2873854270,
+            "professional_network_id": "108991486",
+            "seniority_level": "Entry Level",
+            "start_date": "2026-03-01T00:00:00+00:00",
+            "title": "Events",
+            "years_at_company": "Less than 1 year",
+            "years_at_company_raw": 0.0
+          },
+          {
+            "company_description": "Last semester we raised +40M, had 9 dropouts, and sent 5 kids to YC. Why are you just now hearing about us? We used to be called called Life Changing Labs, named after and sponsored by the non-profit. But LCL shut down recently, so we had no reason to keep our name. Also we used to be \"underground\" \u2014 we did no marketing. However, now we want to make entrepreneurship mainstream at Cornell, so expect to see more of us : ) Part of popularizing & unifying entrepreneurship at Cornell means being open to everybody. We host weekly Startup Hours every Thursday @ eHub collegetown 7:30 - 9:00PM. We cater FREE Chipotle or Dos Amigos. Sometimes we bring speakers like YC, a16z, etc backed founders or billionaires. SIGN UP - we pub weekly Startup Hours sign up links on our IG, website, and the Cornell Entrepreneurship Email List Serv (recommend joining!)  Our goal is to make entrepreneurship more prevalent at Cornell by sharing our resources with EVERYBODY not gatekeeping them for just our E-Board. Reach out if we can help with anything!",
+            "company_professional_network_profile_url": "https://linkedin.com/company/108991486",
+            "company_profile_picture_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/company/e6f5dfd15ef6404437b7c9d64cf541061100377cdba7cbc26ac4f057f4d4c58f.jpg",
+            "company_website_domain": "cornell-entrepreneurship-club.com",
+            "crustdata_company_id": 13602149,
+            "description": "- i get cracked speakers to come share at cornell",
+            "employment_type": "",
+            "end_date": null,
+            "function_category": "",
+            "is_default": false,
+            "location": {
+              "raw": ""
+            },
+            "name": "Cornell Entrepreneurship Club",
+            "position_id": 2873854270,
+            "professional_network_id": "108991486",
+            "seniority_level": "Director",
+            "start_date": "2026-03-01T00:00:00+00:00",
+            "title": "Head of Events",
+            "years_at_company": "Less than 1 year",
+            "years_at_company_raw": 0.0
+          }
+        ],
+        "past": [
+          {
+            "company_description": "InstaAgent is a collaborative workspace for marketers and AI agents.We\u2019re rebuilding the traditional agency model as an AI-native system, where humans set direction and autonomous agents execute across strategy, content creation, distribution, and analytics. The result is faster execution, lower overhead, and a more scalable way for brands to run marketing.In just 10 months, InstaAgent reached $1M ARR and expanded to serve clients across 10+ countries, including P&G, Hang Seng, and Lee Kum Kee.",
+            "company_professional_network_profile_url": "https://linkedin.com/company/112974856",
+            "company_profile_picture_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/company/712351809d1438f0433e641faa420d9488350f86c5fad55f2acf09a41d7b67b4.jpg",
+            "company_website_domain": "instaagent.com",
+            "crustdata_company_id": 29304938,
+            "description": "- YC P26\n- figured out what makes a good ad",
+            "employment_type": "",
+            "end_date": "2026-07-01T00:00:00+00:00",
+            "function_category": "Engineering",
+            "is_default": false,
+            "location": {
+              "raw": ""
+            },
+            "name": "InstaAgent",
+            "position_id": 2933393851,
+            "professional_network_id": "112974856",
+            "seniority_level": "Entry Level",
+            "start_date": "2026-06-01T00:00:00+00:00",
+            "title": "Product Engineer",
+            "years_at_company": "Less than 1 year",
+            "years_at_company_raw": 0.0
+          },
+          {
+            "company_description": "InstaAgent is a collaborative workspace for marketers and AI agents.We\u2019re rebuilding the traditional agency model as an AI-native system, where humans set direction and autonomous agents execute across strategy, content creation, distribution, and analytics. The result is faster execution, lower overhead, and a more scalable way for brands to run marketing.In just 10 months, InstaAgent reached $1M ARR and expanded to serve clients across 10+ countries, including P&G, Hang Seng, and Lee Kum Kee.",
+            "company_professional_network_profile_url": "https://linkedin.com/company/112974856",
+            "company_profile_picture_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/company/712351809d1438f0433e641faa420d9488350f86c5fad55f2acf09a41d7b67b4.jpg",
+            "company_website_domain": "instaagent.com",
+            "crustdata_company_id": 29304938,
+            "description": "- YC P26\n- figured out what makes a good ad",
+            "employment_type": "",
+            "end_date": "2026-07-01T00:00:00+00:00",
+            "function_category": "",
+            "is_default": false,
+            "location": {
+              "raw": ""
+            },
+            "name": "InstaAgent",
+            "position_id": 2933393851,
+            "professional_network_id": "112974856",
+            "seniority_level": "In Training",
+            "start_date": "2026-06-01T00:00:00+00:00",
+            "title": "Product Engineering Intern",
+            "years_at_company": "Less than 1 year",
+            "years_at_company_raw": 0.0
+          },
+          {
+            "company_description": "Algoverse is dedicated to empowering students to create authentic and impactful AI research.By leveraging our deep teaching and research experience from OpenAI, Meta, Stanford, and Berkeley, we aim to make top-tier research and industry-relevant skills more accessible. Our program empowers students to excel in artificial intelligence, equipping them for success in academia and impactful careers in the tech industry.By providing unparalleled opportunities in AI education, we enhance their prospects for admission to top universities, tech companies, and graduate programs, and nurture the future innovators of the field.Apply on our website: https://algoverseairesearch.org/",
+            "company_professional_network_profile_url": "https://linkedin.com/company/102722245",
+            "company_profile_picture_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/company/8d41ef6eb4ed1fe89397ff5f6f7bb22fe011c565ceb5b79488ac48206b229e07.jpg",
+            "company_website_domain": "algoverseairesearch.org",
+            "crustdata_company_id": 1557633,
+            "description": "- planning a robot\u2019s action trajectory with reusable code instead of raw number commands",
+            "employment_type": "",
+            "end_date": "2026-06-01T00:00:00+00:00",
+            "function_category": "Research",
+            "is_default": false,
+            "location": {
+              "raw": ""
+            },
+            "name": "Algoverse",
+            "position_id": 2831605186,
+            "professional_network_id": "102722245",
+            "seniority_level": "Entry Level",
+            "start_date": "2026-01-01T00:00:00+00:00",
+            "title": "AI Researcher",
+            "years_at_company": "Less than 1 year",
+            "years_at_company_raw": 0.0
+          },
+          {
+            "company_description": "Novl AI is a tech-driven startup transforming productivity for professional services. Focused on consulting and banking teams, we automate the formatting of slides, spreadsheets, and documents\u2014tasks that currently cost analysts over 10 hours each week. Our proprietary one-click AI technology integrates seamlessly into existing Office-style workflows, producing polished, client-ready deliverables in seconds. Our goal is to end repetitive tasks in everyday workflows and empower knowledge workers to focus on high-value problem-solving.",
+            "company_professional_network_profile_url": "https://linkedin.com/company/107677862",
+            "company_profile_picture_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/company/67e63fadf50f6aae606740c8c4e12d8cd14221ac44c18a547a137557948a28b7.jpg",
+            "company_website_domain": "trynovl.ai",
+            "crustdata_company_id": 13938906,
+            "description": "- cornell e-lab startup",
+            "employment_type": "",
+            "end_date": "2026-01-01T00:00:00+00:00",
+            "function_category": "",
+            "is_default": false,
+            "location": {
+              "raw": "Ithaca, NY"
+            },
+            "name": "Novl",
+            "position_id": 2803422155,
+            "professional_network_id": "107677862",
+            "seniority_level": "In Training",
+            "start_date": "2025-12-01T00:00:00+00:00",
+            "title": "SWE Intern",
+            "years_at_company": "Less than 1 year",
+            "years_at_company_raw": 0.0
+          },
+          {
+            "company_description": "",
+            "company_professional_network_profile_url": null,
+            "company_profile_picture_permalink": "",
+            "company_website_domain": null,
+            "crustdata_company_id": null,
+            "description": "MicroGlio - a mobile app for dementia patients and elderly. \n\n- in collaboration with 23 care homes/ hospitals/ charity organisations over 4 countries\n- verified by 4 professional doctors/ professors/ care home system developers\n- pitched in NVIDIA headquarters\n- awarded $3000 USD cash prize\n- published to Apple Store",
+            "employment_type": "",
+            "end_date": "2025-12-01T00:00:00+00:00",
+            "function_category": "",
+            "is_default": false,
+            "location": {
+              "raw": ""
+            },
+            "name": "MicroGlio",
+            "position_id": 2640970935,
+            "professional_network_id": "",
+            "seniority_level": "Owner / Partner",
+            "start_date": "2024-02-01T00:00:00+00:00",
+            "title": "Founder",
+            "years_at_company": "1 to 2 years",
+            "years_at_company_raw": 1.0
+          },
+          {
+            "company_description": "",
+            "company_professional_network_profile_url": null,
+            "company_profile_picture_permalink": "",
+            "company_website_domain": null,
+            "crustdata_company_id": null,
+            "description": "- an app that helps dementia patients navigate daily life\n- won pitch in NVIDIA hq, collabed with 23 facilities / 4 countries, flown out for 5 day sf trip, 3K cash prize",
+            "employment_type": "",
+            "end_date": "2025-12-01T00:00:00+00:00",
+            "function_category": "",
+            "is_default": false,
+            "location": {
+              "raw": ""
+            },
+            "name": "MicroGlio",
+            "position_id": 2640970935,
+            "professional_network_id": "",
+            "seniority_level": "Owner / Partner",
+            "start_date": "2024-02-01T00:00:00+00:00",
+            "title": "Founder and SWE",
+            "years_at_company": "1 to 2 years",
+            "years_at_company_raw": 1.0
+          },
+          {
+            "company_description": "Empowering Web3 Compliance. We provide a comprehensive KYC/AML solution for Web3 platforms, enabling secure and compliant user verification. With a focus on privacy and regulatory compliance, Authento helps DeFi platforms, token issuers, and digital asset service providers build trust, mitigate risks, and ensure regulatory compliance. Simplify compliance and embrace the future of Web3 with Authento.",
+            "company_professional_network_profile_url": "https://linkedin.com/company/93377444",
+            "company_profile_picture_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/company/f186c7db86e4085a3a35e5d6c00b07e31ec0ee77d0e0576c79363a0eefcd3487.jpg",
+            "company_website_domain": "authento.io",
+            "crustdata_company_id": 1111987,
+            "description": "- assisted with KYC (Know-Your-Customer) and KYB (Know-Your-Business) screenings\n- published 3 articles on Medium conveying how Authento\u2019s tech infrastructure benefits different facets of the Web3 industry\n- wrote in Cyberport\u2019s May issue",
+            "employment_type": "",
+            "end_date": "2024-04-01T00:00:00+00:00",
+            "function_category": "",
+            "is_default": false,
+            "location": {
+              "raw": "Hong Kong SAR"
+            },
+            "name": "Authento",
+            "position_id": 2640975670,
+            "professional_network_id": "93377444",
+            "seniority_level": "In Training",
+            "start_date": "2024-03-01T00:00:00+00:00",
+            "title": "Student Intern",
+            "years_at_company": "Less than 1 year",
+            "years_at_company_raw": 0.0
+          },
+          {
+            "company_description": "The Raspberry Pi Foundation is a UK-based charity with the mission to enable young people to realise their full potential through the power of computing and digital technologies.Our visionOur vision is that every young person develops:\u2022 The knowledge, skills, and confidence to use computers and digital technologies effectively in their work, community, and personal life; to solve problems and to express themselves creatively\u2022 Sufficient understanding of societal and ethical issues to be able to critically evaluate digital technologies and their application, and to design and use technology for good\u2022 The mindsets that enable them to confidently engage with technological change and to continue learning about new and emerging technologiesOur long-term goals1. Education: To enable any school to teach students about computing and how to create with digital technologies, through providing the best possible curriculum, resources, and training for teachers.2. Non-formal learning: To engage millions of young people in learning about computing and how to create with digital technologies outside of school, through online resources and apps, clubs, competitions, and partnerships with youth organisations.3. Research: To deepen our understanding of how young people learn about computing and how to create with digital technologies, and we use that knowledge to increase the impact of our work and advance the field of computing education.",
+            "company_professional_network_profile_url": "https://linkedin.com/company/10384354",
+            "company_profile_picture_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/company/491a9a5542e0f5d307b9467f8fb90a61b10b2eab6f962b0fb2bacda378bafcb4.jpg",
+            "company_website_domain": "raspberrypi.org",
+            "crustdata_company_id": 664164,
+            "description": "- sent code to the ISS, calculated the speed it was travelling at with ~80% accuracy",
+            "employment_type": "",
+            "end_date": "2024-03-01T00:00:00+00:00",
+            "function_category": "Research",
+            "is_default": false,
+            "location": {
+              "raw": ""
+            },
+            "name": "Raspberry Pi Foundation",
+            "position_id": 2640980010,
+            "professional_network_id": "10384354",
+            "seniority_level": "Entry Level",
+            "start_date": "2024-01-01T00:00:00+00:00",
+            "title": "Astro-Pi Mission Space Lab",
+            "years_at_company": "Less than 1 year",
+            "years_at_company_raw": 0.0
+          }
+        ]
+      }
+    },
+    "professional_network": {
+      "connections": 1417,
+      "current_title": "Forward Deployed Engineer",
+      "followers": 1705,
+      "headline": "FDE @ Bubble Lab (YC W26) | Product Eng @ InstaAgent (YC P26) | CS @ Cornell",
+      "location": {
+        "city": "",
+        "continent": "Asia",
+        "country": "Hong Kong",
+        "raw": "Hong Kong, Hong Kong SAR",
+        "state": ""
+      },
+      "metadata": {
+        "last_scraped_source": null
+      },
+      "name": "Claudia Wong",
+      "profile_picture_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/person/4328efc3e28c21d505a192395644a29e9e0262aae6fe1cbd04e7cdbf91ac4678.jpg",
+      "pronoun": "",
+      "summary": ""
+    },
+    "skills": {
+      "professional_network_skills": []
+    },
+    "social_handles": {
+      "dev_platform_identifier": {
+        "profile_url": null
+      },
+      "professional_network_identifier": {
+        "profile_url": "https://www.linkedin.com/in/claudia-wong-1b23982b4"
+      },
+      "twitter_identifier": {
+        "slug": ""
+      }
+    },
+    "crustdata_person_id": 416372253
+  }
+}

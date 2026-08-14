@@ -1,0 +1,85 @@
+{
+  "luma_user_id": "usr-ZDQtxDVGe2N4faL",
+  "csv_name": "Michael Xu",
+  "csv_linkedin": "https://www.linkedin.com/in/mxu-michael",
+  "enriched_at": "2026-08-12T19:13:35.726845+00:00",
+  "batch_id": "sd_msqguuzo2o546dm49e",
+  "profile": {
+    "id": "mxu-michael",
+    "name": "Michael Xu",
+    "city": "United States",
+    "country_code": "US",
+    "position": null,
+    "about": null,
+    "current_company": {
+      "link": "https://www.linkedin.com/school/y-combinator/?trk=public_profile_topcard-current-company",
+      "name": "Y Combinator",
+      "location": null
+    },
+    "experience": null,
+    "url": "https://pt.linkedin.com/in/mxu-michael",
+    "educations_details": "Brown University",
+    "education": [
+      {
+        "title": "Brown University",
+        "url": "https://www.linkedin.com/school/brown-university/",
+        "start_year": "2025-09",
+        "end_year": "2026-05",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      },
+      {
+        "start_year": "2021-09",
+        "end_year": "2025-05",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      }
+    ],
+    "avatar": "https://media.licdn.com/dms/image/v2/D4E03AQHCLzh6z0ExkQ/profile-displayphoto-scale_200_200/B4EZ5J3ahDJAAg-/0/1779355724456?e=2147483647&v=beta&t=7uk3z9EaErich1S-lsaAAUHPBFPUZNNpT7CdXOsosEA",
+    "followers": 553,
+    "connections": 500,
+    "current_company_name": "Y Combinator",
+    "publications": [
+      {
+        "title": "CLE-SMOTE: Addressing Extreme Imbalanced Data Classification with Contrastive Learning-Enhanced SMOTE",
+        "subtitle": "ICLR (DMLR Workshop)",
+        "date": "March 3, 2024",
+        "description": "Making synthetically generated data more reliable"
+      }
+    ],
+    "location": null,
+    "input_url": "https://www.linkedin.com/in/mxu-michael",
+    "linkedin_id": "mxu-michael",
+    "activity": null,
+    "linkedin_num_id": "1334412275",
+    "banner_image": "https://media.licdn.com/dms/image/v2/D5616AQHoTffpAGng8w/profile-displaybackgroundimage-shrink_200_800/B56ZngqHmXJYAU-/0/1760410776467?e=2147483647&v=beta&t=fhcq4m_2GbbHKqzbcXijzrRcuXHZs-YLQgTBnT_ss08",
+    "honors_and_awards": [
+      {
+        "title": "Catan ELO World Record",
+        "publication": "Colonist.io",
+        "date": "2026-01-01T00:00:00.000Z",
+        "description": "https://colonist.io/profile/BrickedUp25#ranked"
+      },
+      {
+        "title": "ISEF Grand & Special Awards",
+        "publication": "International Science and Engineering Fair",
+        "date": "2024-05-01T00:00:00.000Z",
+        "description": "1st Place in Global Health from US Agency for International Development ($5k) 4th Place Grand Award in Robotics and Intelligent Machines from Regeneron"
+      }
+    ],
+    "similar_profiles": [],
+    "default_avatar": false,
+    "memorialized_account": false,
+    "bio_links": [],
+    "first_name": "Michael",
+    "last_name": "Xu",
+    "influencer": false,
+    "timestamp": "2026-08-12T19:12:36.265Z",
+    "input": {
+      "url": "https://www.linkedin.com/in/mxu-michael"
+    }
+  },
+  "local_photo": "data\\linkedin_photos\\mxu-michael__usr-ZDQtxDVGe2N4faL.jpg"
+}

@@ -1,0 +1,317 @@
+{
+  "luma_user_id": "usr-2wOXSZ5PowwVSZR",
+  "csv_name": "Polina Harkusha",
+  "csv_linkedin": "https://www.linkedin.com/in/polinah2",
+  "enriched_at": "2026-08-12T19:14:53.865294+00:00",
+  "batch_id": "sd_msqgwa7g10oeo6g7qx",
+  "profile": {
+    "id": "polinah2",
+    "name": "Polina Harkusha",
+    "city": "Urbana-Champaign Area",
+    "country_code": "US",
+    "position": null,
+    "about": "Hi! I am a Computer Science student at the University of Illinois\u2026",
+    "current_company": {
+      "link": "https://www.linkedin.com/school/illinoissiebelschool/?trk=public_profile_topcard-current-company",
+      "name": "Siebel School of Computing and Data Science",
+      "location": null
+    },
+    "experience": null,
+    "url": "https://hu.linkedin.com/in/polinah2",
+    "educations_details": "University of Illinois Urbana-Champaign",
+    "education": [
+      {
+        "title": "University of Illinois Urbana-Champaign",
+        "url": "https://www.linkedin.com/school/university-of-illinois-urbana-champaign/",
+        "start_year": "2024",
+        "end_year": "2027",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      },
+      {
+        "start_year": "2025-10",
+        "end_year": "2025-12",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      },
+      {
+        "start_year": "2022-08",
+        "end_year": "2024-05",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      },
+      {
+        "start_year": "2023-06",
+        "end_year": "2023-07",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      },
+      {
+        "end_year": "2022",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      }
+    ],
+    "avatar": "https://media.licdn.com/dms/image/v2/D4D03AQF8zrCXURug-g/profile-displayphoto-scale_200_200/B4DZn3ZLcCIcAY-/0/1760792197812?e=2147483647&v=beta&t=I9abG150H_zMKTsy1CyPjyMXD-wUHkl-c3D7jIL3s9c",
+    "courses": [
+      {
+        "subtitle": "CS233",
+        "title": "Computer Architecture"
+      },
+      {
+        "subtitle": "CS225",
+        "title": "Data Structures"
+      },
+      {
+        "subtitle": "CS411",
+        "title": "Database systems"
+      },
+      {
+        "subtitle": "CS173",
+        "title": "Discrete Structures"
+      },
+      {
+        "subtitle": "TE466",
+        "title": "High Tech Marketing"
+      },
+      {
+        "subtitle": "CS124",
+        "title": "Intro to Computer Science I"
+      },
+      {
+        "subtitle": "CS128",
+        "title": "Intro to Computer Science II"
+      },
+      {
+        "subtitle": "-",
+        "title": "Linear Algebra for Machine Learning"
+      }
+    ],
+    "languages": [
+      {
+        "subtitle": "Native or bilingual proficiency",
+        "title": "Ukrainian"
+      },
+      {
+        "subtitle": "Full professional proficiency",
+        "title": "English"
+      },
+      {
+        "subtitle": "Native or bilingual proficiency",
+        "title": "Russian"
+      },
+      {
+        "subtitle": "Elementary proficiency",
+        "title": "Spanish"
+      }
+    ],
+    "certifications": [
+      {
+        "meta": "Issued Jan 2026 See credential",
+        "subtitle": "University of Illinois College of Liberal Arts and Sciences",
+        "title": "Certificate in Data Science",
+        "credential_url": "https://www.credential.net/a773df61-6903-4478-b71e-f587eeade790#acc.k6eTbv2X?trk=public_profile_see-credential",
+        "credential_id": null
+      },
+      {
+        "meta": "Issued Dec 2025 Credential ID 86800159838369 See credential",
+        "subtitle": "Computing Research Association",
+        "title": "UR2PhD Undergraduate Research Training Course Participant",
+        "credential_url": "https://verified.sertifier.com/en/verify/86800159838369/?trk=public_profile_see-credential",
+        "credential_id": "86800159838369"
+      },
+      {
+        "meta": "Issued Aug 2025 See credential",
+        "subtitle": "IBM",
+        "title": "Artificial Intelligence Fundamentals",
+        "credential_url": "https://www.credly.com/badges/6f1fd944-1f7a-43f3-b568-660a4eea09e1/linked_in_profile?trk=public_profile_see-credential",
+        "credential_id": null
+      },
+      {
+        "meta": "Issued May 2025 Credential ID Spring 2025 See credential",
+        "subtitle": "University of Illinois Urbana-Champaign",
+        "title": "Data Science DISCOVERY",
+        "credential_url": "https://d7.cs.illinois.edu/badges/stat107-sp25-hH26E95Skoo7qHfg2PhT7xVLpBptjd/?trk=public_profile_see-credential",
+        "credential_id": "Spring 2025"
+      }
+    ],
+    "volunteer_experience": [
+      {
+        "duration": "Aug 2022 \u00b7 - \nMay 2024 \u00b7 \n1 year 10 months",
+        "duration_short": "- \nMay 2024",
+        "info": "- Served as vice president of Rotary International\u2019s Interact Club, contributing to community service planning and member coordination. - Selected as one of five students to represent the school at the Rotary Youth Leadership Awards Seminar (RYLA), demonstrating leadership potential and commitment to service.",
+        "start_date": "Aug 2022",
+        "subtitle": "Interact: Rotary Sponsored Club (at Randolph-Macon Academy)",
+        "title": "Vice President"
+      }
+    ],
+    "followers": 1266,
+    "connections": 500,
+    "current_company_name": "Siebel School of Computing and Data Science",
+    "projects": [
+      {
+        "title": "Pneumonia Detection Project // Inspirit AI Scholar",
+        "start_date": "Jul 2021",
+        "description": "- Developed a computer vision model using CNNs to detect pneumonia in chest X-ray images, demonstrating the potential of deep learning in medical diagnostics.- Trained, evaluated, and compared multiple machine learning algorithms, including KNN, Logistic Regression, and Decision Trees, using performance metrics such as accuracy and precision."
+      }
+    ],
+    "location": null,
+    "input_url": "https://www.linkedin.com/in/polinah2",
+    "linkedin_id": "polinah2",
+    "activity": [
+      {
+        "interaction": "Liked by Polina Harkusha",
+        "link": "https://www.linkedin.com/posts/aadishree-j_i-recently-wrapped-up-a-12-week-internship-activity-7492733203527581697-4Hft",
+        "title": "I recently wrapped up a 12-week internship with Caterpillar Inc., and I\u2019m incredibly grateful for everything I was able to learn and work on this\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQH4ZqESZ3fwCw/feedshare-shrink_800/B56Z_uJH0VJMAg-/0/1786406801826?e=2147483647&v=beta&t=8Nji6jyPkxnTZZ9ipayKjktY_DEPS6rQB-Pyj1rfDZ4",
+        "id": "12"
+      },
+      {
+        "interaction": "Liked by Polina Harkusha",
+        "link": "https://www.linkedin.com/posts/veda-fernandes_eight-weeks-ago-i-joined-servicenows-ai-activity-7492953295007711232-xNa4",
+        "title": "Eight weeks ago, I joined ServiceNow's AI Accelerate program as one of the 20 selected engineers. Last week, it culminated in attending Discover\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQGdDNF9VnjjqA/feedshare-shrink_800/B56Z_t1H81GsAc-/0/1786401554494?e=2147483647&v=beta&t=es9Fmoi1JGP4aLLVIFP8AQ9rmSsbTbE_uPNsJq0BTf0",
+        "id": "7492953295007711232"
+      },
+      {
+        "interaction": "Liked by Polina Harkusha",
+        "link": "https://www.linkedin.com/posts/yassa-mazhar-811b26273_computervision-depthestimation-robotics-activity-7491872327387918336-v4O9",
+        "title": "\ud835\uddd4\ud835\ude00\ud835\ude01\ud835\uddff\ud835\uddfc \ud835\uddd5\ud835\uddf2\ud835\uddf2: \ud835\uddd5\ud835\ude02\ud835\uddf6\ud835\uddf9\ud835\uddf1\ud835\uddf6\ud835\uddfb\ud835\uddf4 \ud835\uddee \ud835\udfef\ud835\uddd7 \ud835\udde0\ud835\uddee\ud835\uddfd \ud835\uddf3\ud835\uddff\ud835\uddfc\ud835\uddfa \ud835\uddee \ud835\udde6\ud835\uddf6\ud835\uddfb\ud835\uddf4\ud835\uddf9\ud835\uddf2 \ud835\uddd6\ud835\uddee\ud835\uddfa\ud835\uddf2\ud835\uddff\ud835\uddee \ud83d\uddfa\ufe0f One of the core challenges on this project was\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4E05AQFhVd24wUxd9Q/videocover-low/B4EZ_h6JMlHsBI-/0/1786201545100?e=2147483647&v=beta&t=fEVAeICn9jI6R8fX_9gmyFi5laHi6rCQrue-Ed6YiQE",
+        "id": "7491872327387918336"
+      },
+      {
+        "interaction": "Liked by Polina Harkusha",
+        "link": "https://www.linkedin.com/posts/ojasvatsyayan_after-a-great-summer-at-visa-im-thrilled-activity-7492634101380771841-gybM",
+        "title": "After a great summer at Visa, I'm thrilled to share that I'll be joining Uber in Sunnyvale, CA as a Software Engineering Intern this fall! Grateful\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQHVuDwwEEvyIQ/feedshare-shrink_800/B56Z_su._HKEAc-/0/1786383175628?e=2147483647&v=beta&t=mIREMwkxlNVElyaG_DIHyEebo4eDCC1um7q2DZ7-f6k",
+        "id": "7492634101380771841"
+      },
+      {
+        "interaction": "Liked by Polina Harkusha",
+        "link": "https://www.linkedin.com/posts/mirayajain_were-launching-the-the-collective-talent-activity-7490860742875963392-g1V9",
+        "title": "We\u2019re launching the The Collective Talent Network! For the past few months, we've been connecting engineering, product, GTM, and design talent with\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQEA592Awyc_bQ/feedshare-shrink_1280/B56Z_TiJtSG8AM-/0/1785960373340?e=2147483647&v=beta&t=9UcYKIfILst7hbiPeq6U6eQtu3PoT8FdcGM3KF48rHg",
+        "id": "7490860742875963392"
+      },
+      {
+        "interaction": "Liked by Polina Harkusha",
+        "link": "https://www.linkedin.com/posts/tanvikamat_im-excited-to-announce-that-ive-graduated-activity-7482811152176140288-1hRx",
+        "title": "I'm excited to announce that I've graduated from the University of Illinois Urbana-Champaign with a B.S. in Computer Science & Economics, and I've\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQEnR3Y89-ewJg/feedshare-shrink_800/B56Z9eSaXCIoAk-/0/1783993312946?e=2147483647&v=beta&t=XKbAC9qhXTlSplaiF0bVBVBCUtOAFD6aAFo65_cQkuA",
+        "id": "7482811152176140288"
+      },
+      {
+        "interaction": "Liked by Polina Harkusha",
+        "link": "https://www.linkedin.com/posts/udig_dig-in-with-jai-gupta-an-engineering-intern-activity-7483143409331953664-s1SU",
+        "title": "Dig in with Jai Gupta, an engineering intern! \ud83d\udd38 Tell us a little bit about yourself. I\u2019m from Naperville, IL and I\u2019m majoring in CS at UIUC. I\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQEz761-PKP9sg/feedshare-shrink_1280/B4EZ9hpmRQH8AM-/0/1784049722731?e=2147483647&v=beta&t=V_dH0ycF_1IPMjQHbs1S2phPEO6FXfIaBlmBdFvdn7I",
+        "id": "7483143409331953664"
+      },
+      {
+        "interaction": "Liked by Polina Harkusha",
+        "link": "https://www.linkedin.com/posts/kaavyavassa_hackathon-uiuc-researchpark-activity-7480687625520185346-w8hJ",
+        "title": "We took 3rd Place at the U of I Research Park Hackathon! It was an amazing experience from start to finish. We had 12 hours to build on Tuesday, and\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5605AQHZ4TQ1YYt_FQ/videocover-high/B56Z9C9uBHKcBM-/0/1783534907272?e=2147483647&v=beta&t=LkQAQUaxYv19N2QZ_RRDjovQIZknk6qANRhl6KgyaTk",
+        "id": "7480687625520185346"
+      },
+      {
+        "interaction": "Liked by Polina Harkusha",
+        "link": "https://www.linkedin.com/posts/dheera-prattipati-706051313_i-am-excited-to-share-that-i-will-be-joining-activity-7481386070895452160-6Cpb",
+        "title": "I am excited to share that I will be joining Verkada as a Software Engineering Intern this fall! I\u2019ll be working with the Core Licensing and Devices\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQG9qZ0xJUVOLQ/feedshare-shrink_800/B56Z9M4_UIJoAc-/0/1783701435918?e=2147483647&v=beta&t=Dgq7sl82HWriTsHfcZJ0IQhwOBAoT5V5sAwuhWgogs8",
+        "id": "7481386070895452160"
+      },
+      {
+        "interaction": "Liked by Polina Harkusha",
+        "link": "https://www.linkedin.com/posts/adi-dora_opentowork-internship-softwareengineering-activity-7480999210449035266-8LMb",
+        "title": "Due to Kumo's recent acquisition by NVIDIA, I was unfortunately informed that my Fall 2026 internship has been rescinded due to technical logistics\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQFidkkDdUOICQ/feedshare-shrink_800/B4EZ9Fv3X2IkAc-/0/1783581603547?e=2147483647&v=beta&t=ZxS_N7HlxBhHG8_JCGajkkw9wamALOU01LLO0e3TcSs",
+        "id": "7480999210449035266"
+      },
+      {
+        "interaction": "Liked by Polina Harkusha",
+        "link": "https://www.linkedin.com/posts/anna-grigorescu_spent-some-time-exploring-an-ai-skills-fest-activity-7472351774381604864-AdmC",
+        "title": "Spent some time exploring an AI Skills Fest this weekend! While I've already been working with agents this summer, I really enjoyed learning more\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQHCeekZhtx4Lg/feedshare-shrink_1280/B56Z7MgWIRHIAM-/0/1781547492175?e=2147483647&v=beta&t=nKCBqBz0_kPkwaEiAU7JOsFBYzOhla08dKCGxBdQezI",
+        "id": "7472351774381604864"
+      },
+      {
+        "interaction": "Liked by Polina Harkusha",
+        "link": "https://www.linkedin.com/posts/join-thecollective_were-super-excited-to-announce-our-2026-activity-7470871403802734593-XOIk",
+        "title": "We\u2019re super excited to announce our 2026 Fall Fellows! Meet the fellows: - Sarah Fan: USC, GTM Lemma (YC F25), ex-Photon, Paramount - Mason Arditi:\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQF7Dq3pweHbYA/feedshare-shrink_800/B4EZ63d9GjIkAc-/0/1781194543925?e=2147483647&v=beta&t=t_CB2npeTByi6L_BGG1UYnBegpl7L8qlsE_oYYpKhPs",
+        "id": "2026"
+      },
+      {
+        "interaction": "Liked by Polina Harkusha",
+        "link": "https://www.linkedin.com/posts/anvesha-saraf_im-excited-to-share-that-lil-be-joining-activity-7469231145918922752--txV",
+        "title": "I'm excited to share that l'Il be joining Doxel as a Software Engineering Intern this summer and HERE Technologies as a Data Science Intern this fall\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQFRIEgavZGfUQ/feedshare-shrink_800/B56Z6gKJRHKIAc-/0/1780803474988?e=2147483647&v=beta&t=RRvODVh1DOgZn2Xn2M-BxLHIjw6YzBzAQUHMdOO6rjM",
+        "id": "7469231145918922752"
+      },
+      {
+        "interaction": "Liked by Polina Harkusha",
+        "link": "https://www.linkedin.com/posts/miguelangelhuamani_excited-to-share-that-on-june-1st-i-officially-activity-7471509236011790336-LxcZ",
+        "title": "Excited to share that on June 1st I officially joined Quantrue as a full-time Forward Deployed Engineer. Quantrue is a forward-deployed AI\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQHrPCgAwz9m_g/feedshare-shrink_800/B4EZ7AiDr7JMAc-/0/1781346614265?e=2147483647&v=beta&t=moTuXHYeHo2uVSvqG-BoNDMosbSuPwVXh-Ph53J-m6E",
+        "id": "7471509236011790336"
+      },
+      {
+        "interaction": "Liked by Polina Harkusha",
+        "link": "https://www.linkedin.com/posts/lihaoyili_roblox-amazon-softwareengineering-activity-7470124067631853568-sbAc",
+        "title": "I\u2019m happy to announce that I\u2019ll be joining Roblox as a Software Engineering Intern this summer, and Amazon as a Software Development Engineer Intern\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQFX3jE3DYLFqw/feedshare-shrink_1280/B4EZ6s2PNAJgAU-/0/1781016364455?e=2147483647&v=beta&t=HKrHj-JYJ4AFRVffR4xkUGZuw38GnM15O6Kpr8V26V0",
+        "id": "7470124067631853568"
+      },
+      {
+        "interaction": "Liked by Polina Harkusha",
+        "link": "https://www.linkedin.com/posts/annarudenkouiuc_excited-to-spend-my-summer-at-hydraforce-activity-7468742742366388224--2yz",
+        "title": "Excited to spend my summer at HydraForce, a Bosch Rexroth company, as a Manufacturing Engineering Intern. Grateful for the opportunity to learn\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5610AQHxbPmX89_Lzw/image-shrink_800/B56Z6YMOLDJoAg-/0/1780669801736?e=2147483647&v=beta&t=uQpj0YLk8rN6tl_wXvpTFbxqmSnk0qWAlEc7gxm1B88",
+        "id": "7468742742366388224"
+      },
+      {
+        "interaction": "Liked by Polina Harkusha",
+        "link": "https://www.linkedin.com/posts/cliff-sun_happy-to-have-been-selected-as-a-2026-astronaut-activity-7468285433886695424-Htl9",
+        "title": "Happy to have been selected as a 2026 Astronaut Scholar by the Astronaut Scholarship Foundation! Around 70 scholars are announced annually. I've\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQFOnU4_jrOBvQ/feedshare-shrink_800/B56Z6QIvdXKMAc-/0/1780534671507?e=2147483647&v=beta&t=AzQNWLl-WZQa0D1dGnxeB4m7UZNoGG3GmWHEw3-ySfE",
+        "id": "2026"
+      },
+      {
+        "interaction": "Liked by Polina Harkusha",
+        "link": "https://www.linkedin.com/posts/sofiahryhorasz_i-am-thrilled-to-announce-that-i-have-been-activity-7468300556328038401-3-gL",
+        "title": "I am thrilled to announce that I have been accepted into the The Hoeft Technology & Management Program at UIUC! The T&M minor is the perfect bridge,\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQH5toslOoquCg/feedshare-shrink_1280/B56Z6Qu5ZXG0AM-/0/1780544673586?e=2147483647&v=beta&t=ObKM1WIzkcZuOL7J2x3ZBJThkS1AqFlrYpqX5uhy1Kc",
+        "id": "7468300556328038401"
+      },
+      {
+        "interaction": "Liked by Polina Harkusha",
+        "link": "https://www.linkedin.com/posts/anna-grigorescu_just-wrapped-up-my-second-year-at-uiuc-and-activity-7461119092457041921-MUPp",
+        "title": "Just wrapped up my second year at UIUC, and I\u2019m so excited for what\u2019s coming next! \ud83d\udd34 This year I completed courses in machine learning\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQHmbcG0UZzwFw/feedshare-shrink_800/B56Z4s4RUWHEAc-/0/1778869411251?e=2147483647&v=beta&t=llwqKLroOH17SX3CFV0PaZsBUbpNu6VOcSoo0P4fvCw",
+        "id": "7461119092457041921"
+      }
+    ],
+    "linkedin_num_id": "1390369751",
+    "banner_image": "https://media.licdn.com/dms/image/v2/D4D16AQH9ABBX1_Iqng/profile-displaybackgroundimage-shrink_200_800/B4DZn3aFibJIAU-/0/1760792435576?e=2147483647&v=beta&t=Wiq4Cd0vSeknzQnYIY0idZmHaSrG0jn7JwqW37ssIzQ",
+    "honors_and_awards": null,
+    "similar_profiles": [],
+    "default_avatar": false,
+    "memorialized_account": false,
+    "bio_links": [],
+    "first_name": "Polina",
+    "last_name": "Harkusha",
+    "influencer": false,
+    "timestamp": "2026-08-12T19:13:50.321Z",
+    "input": {
+      "url": "https://www.linkedin.com/in/polinah2"
+    }
+  },
+  "local_photo": "data\\linkedin_photos\\polinah2__usr-2wOXSZ5PowwVSZR.jpg"
+}

@@ -1,0 +1,204 @@
+{
+  "luma_user_id": "usr-Z9vKJ8xAQGqJWDC",
+  "csv_name": "Frank Chen",
+  "csv_linkedin": "https://www.linkedin.com/in/sihan-frank-chen",
+  "enriched_at": "2026-08-12T19:26:51.917015+00:00",
+  "batch_id": "sd_msqhb4pfm4l4la4zs",
+  "profile": {
+    "id": "sihan-frank-chen",
+    "name": "Frank Chen",
+    "city": "San Francisco Bay Area",
+    "country_code": "US",
+    "position": null,
+    "about": null,
+    "posts": [
+      {
+        "title": "How RAG/VectorDB actually works \u2014 an egg example with really simple math",
+        "attribution": "Suppose we have a documentation like this: \"Boil an egg. Poach an egg.",
+        "link": "https://www.linkedin.com/pulse/how-ragvectordb-actually-works-egg-example-real-math-chen-05pzc",
+        "created_at": "2025-07-04T00:00:00.000Z",
+        "interaction": "2 - 6 Comments",
+        "id": "7347003123564990465"
+      }
+    ],
+    "current_company": {
+      "link": "https://www.linkedin.com/company/respan-ai?trk=public_profile_topcard-current-company",
+      "name": "Respan",
+      "company_id": "respan-ai",
+      "location": null
+    },
+    "experience": null,
+    "url": "https://pl.linkedin.com/in/Sihan-frank-chen",
+    "educations_details": "University of Illinois Urbana-Champaign",
+    "education": [
+      {
+        "title": "University of Illinois Urbana-Champaign",
+        "url": "https://www.linkedin.com/school/university-of-illinois-urbana-champaign/",
+        "start_year": "2021-08",
+        "end_year": "2025-12",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      }
+    ],
+    "avatar": "https://static.licdn.com/aero-v1/sc/h/9c8pery4andzj6ohjkjp54ma2",
+    "courses": [
+      {
+        "subtitle": "ECE486",
+        "title": "Control System"
+      },
+      {
+        "subtitle": "ECE 385",
+        "title": "Digital Lab - FPGA"
+      },
+      {
+        "subtitle": "ECE 310",
+        "title": "Digital Signal Processing"
+      },
+      {
+        "subtitle": "ECE 342",
+        "title": "Electronic Circuits"
+      }
+    ],
+    "followers": 2416,
+    "connections": 500,
+    "current_company_company_id": "respan-ai",
+    "current_company_name": "Respan",
+    "location": null,
+    "input_url": "https://www.linkedin.com/in/sihan-frank-chen",
+    "linkedin_id": "sihan-frank-chen",
+    "activity": [
+      {
+        "interaction": "Frank Chen shared this",
+        "link": "https://www.linkedin.com/posts/sihan-frank-chen_we-had-a-serious-security-incident-last-month-activity-7491556792112693248-9lbM",
+        "title": "We had a serious security incident last month. Not going to get into the specifics, but it was something most teams building agents have already hit. It made something click for us: API keys are treated like a minor inconvenience if they leak, but for AI they're closer to a blank check. A leaked credit card number costs someone a few hundred bucks. But a leaked API key to a model provider can cost someone a lot, fast, because every company is already burning serious spend on inference. The labs don't have great monitoring for this yet. Some are building it now, mostly reactively, following their own incidents. So we shipped an open source red-teaming tool. Point your agent's endpoint at it, we run an audit, and you get a concrete proof of concept of where your agent is actually exposed. We're dogfooding this internally too. If you're building agents in production, this is worth taking seriously to avoid an unpleasant surprise. ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D4D10AQFkNgeNVRUyPw/image-shrink_800/B4DZ_dbM5nGwAg-/0/1786126324110?e=2147483647&v=beta&t=PQIEvTN4GrN07B6mL_V33nK9RFRQqGUAdAGcqLfZOGo",
+        "id": "7491556792112693248"
+      },
+      {
+        "interaction": null,
+        "link": "https://www.linkedin.com/posts/respan-ai_your-agent-produced-10000-errors-you-probably-activity-7491161580869636097-Y0Zb",
+        "title": "Your agent produced 10,000 errors. You probably have three problems. Today, we\u2019re launching Respan Error Tracking. As errors arrive, Respan: \u2022 Groups repeated errors into distinct groups \u2022 Tracks their activity over time \u2022 Detects unusual spikes and turns them into incidents \u2022 Shows which error groups contributed to each spike Open an incident to see when it happened, where the errors occurred, and which groups contributed most. From there, you can inspect the errors, jump into the logs, acknowledge the incident, and leave notes for your team. We built the entire experience around that model, with the timeline as the starting point for investigation instead of another giant table. We deserve better error tracking. Try it for free at https://lnkd.in/gptqhqCu ...more ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D5610AQGTbQEDuoOeyw/videocover-high/B56Z_Xzs6hKAAo-/0/1786032089935?e=2147483647&v=beta&t=sQm4J-i3khcrCxVjQ5FACWb333bmTrQ7_H_6dzBGLqw",
+        "id": "10000"
+      },
+      {
+        "interaction": null,
+        "link": "https://www.linkedin.com/posts/sihan-frank-chen_i-dont-think-aeo-is-a-separate-discipline-activity-7491195153466990593-nhk3",
+        "title": "I don't think AEO is a separate discipline yet. Google has a mature, well-understood algorithm. You can study it, reverse-engineer patterns, and build a playbook that works for your company. AI search engines don't expose anything like that. So anyone doing aeo right now is mostly guessing at an algorithm nobody's shown them. I'd rather keep doing seo well, because the fundamentals carry over regardless of who's reading it, be it a human or a model. SEO used to take about 6 months to show results. People expect leads in three months now. Well, it's still not going to spike in a week. And traffic isn't the win condition. We built a thousand landing pages once and got a ton of traffic. But then we had to figure out why that traffic wasn't converting. ...more",
+        "img": null,
+        "id": "7491195153466990593"
+      },
+      {
+        "interaction": "Frank Chen shared this",
+        "link": "https://www.linkedin.com/posts/sihan-frank-chen_in-2024-i-showed-up-to-y-combinator-startup-activity-7490820667941179392-ZIvH",
+        "title": "In 2024, I showed up to Y Combinator Startup School knowing no one. I'd never even heard of Garry Tan. This year, I hosted the official Startup School afterparty and hire for Respan . Huge thanks to my co-hosts: MongoDB Paradigm General Legal (YC26) sieve (YC X25) Here's the story of everything in between\ud83d\udc47 ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D5610AQEAxVmzMzAWRQ/videocover-high/B56Z_S9orDJgAo-/0/1785950814773?e=2147483647&v=beta&t=mK5QJrCupSaWqAIS_1uf7Z_ENRS4jJPX2Xua_osquaY",
+        "id": "2024"
+      },
+      {
+        "interaction": "Frank Chen shared this",
+        "link": "https://www.linkedin.com/posts/sihan-frank-chen_two-months-ago-i-was-doing-everything-myself-activity-7490462830643564544-vPVK",
+        "title": "Two months ago, I was doing everything myself: SEO, events, writing docs, some dev work on integrations, posting on socials, etc. Now I have 2 direct reports. One of them is working on marketing, and the other on onboarding. More than half my job is now talking to them and figuring out what they should be working on. I still keep about 30% of the actual work for myself on every part of it because I don't think you can manage something well if you've fully let go of it. It's still very early, and we are figuring a lot of things out together, but delegating isn't really that hard imo. Instead, figuring out which 30% you're not ready to give up yet is where you spend most of your time. ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D5610AQE9b1L4nBMj-g/image-shrink_800/B56Z_N4QJcG8Ag-/0/1785865503819?e=2147483647&v=beta&t=-93zOFfJpmbBZNrk9KI9qaHTIWCwHDHGbjhre13lnkM",
+        "id": "7490462830643564544"
+      },
+      {
+        "interaction": "Frank Chen shared this",
+        "link": "https://www.linkedin.com/posts/sihan-frank-chen_in-college-i-interned-at-nasa-then-worked-activity-7490100447207149568-Y4z9",
+        "title": "In college, I interned at nasa, then worked as a full-time founding engineer before doing devrel at a yc startup I met two of our co-founders, Andy and Hendrix , on my first day of college, and we eventually became roommates in junior year. They applied to yc with their initial idea and got an interview, but yc didn't think it was a good fit. Then they applied again with a different idea (unified devops platform to build and monitor AI applications in production) and got in. I had an FT job at the time and watched from the outside while they figured out how to actually build the software. I finally joined Respan after I graduated last December, and it's been nothing short of a crazy ride so far. ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D5610AQHytoPcAijihQ/image-shrink_800/B56Z_Iuqh2JoAg-/0/1785779104993?e=2147483647&v=beta&t=F67bA6hHD5ol4NgzPHt9iWbOVAtyiqIqRA65Za1gbjw",
+        "id": "7490100447207149568"
+      },
+      {
+        "interaction": null,
+        "link": "https://www.linkedin.com/posts/hendrix-liu-7a015822b_besides-our-zip-code-moving-to-sf-for-yc-activity-7489062372481884160-9k3O",
+        "title": "Besides our zip code, moving to SF for YC also changed the ceiling on what we thought we were allowed to build. Our original plan was to move back to Illinois once the batch ended, but that never happened. When we were still in Illinois, we were just students. We knew the basic rule: build something people actually want. But the only people around us were other college students, so that's exactly what we built - a job search platform, sized to the world we could see from campus. Within a week or two of arriving here, the plan to \"spend a few months here, then move back to Illinois\" was dead. We went to events constantly, met founders every week, and a surprising number of them became friends (some eventually became customers). We'd run into people from companies like Stripe and Azure at almost every event, and they'd walk us through credits and product details we never would have found sitting in a dorm room. Looking back, I don't think our instinct back in Illinois was wrong. Plenty of great companies get built for a local community first. But the scale of what you believe is possible tends to mirror the scale of what you see around you every day. Surrounded by students, we built for students. And once we were surrounded by people trying to build global companies, we started to believe we had a fair shot at it, too. ...more ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D5610AQErMxEuhokJlg/image-shrink_1280/B56Z.5.igoKoAc-/0/1785531607601?e=2147483647&v=beta&t=9CJQB4ZaIg1YYDJkmW5olBSCOwUDkbRioGtOWv3YNdY",
+        "id": "7489062372481884160"
+      },
+      {
+        "interaction": "Frank Chen shared this",
+        "link": "https://www.linkedin.com/posts/sihan-frank-chen_were-almost-15-people-now-and-have-a-proper-activity-7489006499826987008-spLk",
+        "title": "We're almost 15 people now and have a proper office close to where we live, but most of us still work out of our OG hacker house. We didn't plan to build a hacker house in the first place. Andy , Hendrix , Michael , and I lived together in college. When we moved to SF, the house we were looking at was big enough to fit more people, so we turned it into a den we could work out of. When I'm not in there, I'm just less motivated. But once I go downstairs and see everyone working, I feel like showing up too. Easily one of the best internal decisions made at Respan so far. ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D5610AQEo-SsqAK33ig/image-shrink_800/B56Z.5Lue_KYAg-/0/1785518287989?e=2147483647&v=beta&t=q1nKG3SA-S5fvnbWMypHsW_QkYqdkz9X_x-rAmfDY8Q",
+        "id": "15"
+      },
+      {
+        "interaction": "Frank Chen shared this",
+        "link": "https://www.linkedin.com/posts/sihan-frank-chen_we-hosted-the-official-yc-afterparty-for-activity-7488643347704844288-zPop",
+        "title": "We hosted the official YC afterparty for Startup School this year. More than 1000 people registered, but we could only fit about 200 in the room. After a day that big and that packed, we wanted something low-key. So we got a venue by the water, a DJ, and a couple hundred builders who wanted to keep the conversations going without the conference-hall energy. Spent four hours chit-chatting with students, developers, and future founders without any agenda. It's genuinely one of the best ways to meet the next wave of people building amazing things. Two years ago, we were the ones showing up to someone else's afterparty, asking founders for advice. Hosting our own this year felt like closing a loop. The reason afterparties are such big hits is that some of the most memorable conversations from events like this happen only after everyone's decompressed a bit. ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D5610AQF3IDgbwgL7pw/image-shrink_800/B56Z.0BbtgJoAk-/0/1785431703733?e=2147483647&v=beta&t=ru1PpCsBVpwo7AHUdLvj8kVrww1dbkaGX8GnFtZMPX8",
+        "id": "7488643347704844288"
+      },
+      {
+        "interaction": "Frank Chen commented on a post 1w",
+        "link": "https://www.linkedin.com/posts/sihan-frank-chen_in-2024-i-showed-up-to-y-combinator-startup-activity-7490820667941179392-ZIvH",
+        "title": "Looking around the room, everyone was there for the same reason I came in 2024: to build something that doesn't exist yet. That's what we're doing at Respan. Join us: https://www.ycombinator.com/companies/respan/jobs",
+        "img": null,
+        "id": "2024"
+      },
+      {
+        "interaction": "Frank Chen commented on a post 3w",
+        "link": "https://www.linkedin.com/posts/respan-ai_its-way-too-easy-to-exploit-ai-agents-activity-7483932409567133696-tLKs",
+        "title": "no matter how small your startup is. if you\u2019re shipping an agent, you have to be redteaming it",
+        "img": null,
+        "id": "7483932409567133696"
+      },
+      {
+        "interaction": "Frank Chen liked this",
+        "link": "https://www.linkedin.com/posts/hendrix-liu-7a015822b_we-ran-the-company-on-500k-for-two-years-activity-7491584471700299776-79IC",
+        "title": "We ran the company on $500k for two years and still had $200,000 left in the bank when we decided to raise. And we grew close to 600% last year before closing our seed round. Speed and closeness to customers did most of the work. We talked to customers constantly, asking for feedback directly instead of guessing. That closeness let us iterate on the product fast enough to earn word-of-mouth. We never spent a dollar on marketing or ads. A meaningful amount of our growth came from other YC founders recommending us to each other. There's a WhatsApp group of YC founders, and in a typical week, 2-3 of them would recommend us to someone else without us ever asking them. We also got a lot of intros and platform credits through the broader YC network, often through customers who'd point us toward the right people. We didn't engineer any of this. It came from spending two years staying frugal and trying to build a product good enough for other founders to vouch for it themselves. When you're not spending on acquisition, the product and the relationships have to do the heavy lifting, so you gotta make sure they actually can.",
+        "img": "https://media.licdn.com/dms/image/v2/D5610AQFU6ytzNy4smA/image-shrink_800/B56Z_d0YEQHAAg-/0/1786132923391?e=2147483647&v=beta&t=QRGjQVm7L0YzeduP0Ks1wTionCbiExPz8cpO-aXSjEU",
+        "id": "7491584471700299776"
+      },
+      {
+        "interaction": "Frank Chen liked this",
+        "link": "https://www.linkedin.com/posts/respan-ai_you-checked-your-cost-dashboard-on-monday-activity-7492625864115974144-xfNO",
+        "title": "You checked your cost dashboard on Monday. The spike started Friday night. A monitor would have told you about it before you closed your laptop. Respan monitors watch a metric over time and alert you via email, Slack, or webhook when it crosses a threshold you set: \u2192 When cost is above $1.00 over 5 minutes \u2192 When error rate is above 5% over 10 minutes \u2192 When average latency is above 3 seconds Point a monitor at one model, project, environment, or user so it only fires on what you care about. Test the alert before you deploy it, and pause or roll it back anytime. Configure it once, then forget it's there until it matters. Check it out: https://lnkd.in/gUmXSv2X",
+        "img": "https://media.licdn.com/dms/image/v2/D5610AQEJqaISB38Qbg/image-shrink_800/B56Z_snhCjG4Ag-/0/1786381210308?e=2147483647&v=beta&t=pOPiwWiBi0pi7kRlbjrOTnUEn2-mfL7oKkNq9v0j0Kc",
+        "id": "7492625864115974144"
+      },
+      {
+        "interaction": "Frank Chen liked this",
+        "link": "https://www.linkedin.com/posts/sihan-frank-chen_we-had-a-serious-security-incident-last-month-activity-7491556792112693248-9lbM",
+        "title": "We had a serious security incident last month. Not going to get into the specifics, but it was something most teams building agents have already hit. It made something click for us: API keys are treated like a minor inconvenience if they leak, but for AI they're closer to a blank check. A leaked credit card number costs someone a few hundred bucks. But a leaked API key to a model provider can cost someone a lot, fast, because every company is already burning serious spend on inference. The labs don't have great monitoring for this yet. Some are building it now, mostly reactively, following their own incidents. So we shipped an open source red-teaming tool. Point your agent's endpoint at it, we run an audit, and you get a concrete proof of concept of where your agent is actually exposed. We're dogfooding this internally too. If you're building agents in production, this is worth taking seriously to avoid an unpleasant surprise.",
+        "img": "https://media.licdn.com/dms/image/v2/D4D10AQFkNgeNVRUyPw/image-shrink_800/B4DZ_dbM5nGwAg-/0/1786126324110?e=2147483647&v=beta&t=PQIEvTN4GrN07B6mL_V33nK9RFRQqGUAdAGcqLfZOGo",
+        "id": "7491556792112693248"
+      },
+      {
+        "interaction": "Frank Chen liked this",
+        "link": "https://www.linkedin.com/posts/heyshrutimishra_your-error-log-says-you-have-500-errors-activity-7491164298040320001-Rjig",
+        "title": "Your error log says you have 500 errors. That tells you nothing. Most teams dealing with AI products end up staring at a giant table of failures. Every error looks important. None of them feel urgent. So nothing gets investigated properly. The better approach: group the similar ones, catch the unusual spikes, and turn them into focused incidents. Not a table to scroll through. A starting point. Simple idea, but it completely changes how teams debug.",
+        "img": "https://media.licdn.com/dms/image/v2/D5610AQGTbQEDuoOeyw/videocover-high/B56Z_Xzs6hKAAo-/0/1786032089935?e=2147483647&v=beta&t=sQm4J-i3khcrCxVjQ5FACWb333bmTrQ7_H_6dzBGLqw",
+        "id": "500"
+      },
+      {
+        "interaction": "Frank Chen liked this",
+        "link": "https://www.linkedin.com/posts/respan-ai_your-agent-produced-10000-errors-you-probably-activity-7491161580869636097-Y0Zb",
+        "title": "Your agent produced 10,000 errors. You probably have three problems. Today, we\u2019re launching Respan Error Tracking. As errors arrive, Respan: \u2022 Groups repeated errors into distinct groups \u2022 Tracks their activity over time \u2022 Detects unusual spikes and turns them into incidents \u2022 Shows which error groups contributed to each spike Open an incident to see when it happened, where the errors occurred, and which groups contributed most. From there, you can inspect the errors, jump into the logs, acknowledge the incident, and leave notes for your team. We built the entire experience around that model, with the timeline as the starting point for investigation instead of another giant table. We deserve better error tracking. Try it for free at https://lnkd.in/gptqhqCu",
+        "img": "https://media.licdn.com/dms/image/v2/D5610AQGTbQEDuoOeyw/videocover-high/B56Z_Xzs6hKAAo-/0/1786032089935?e=2147483647&v=beta&t=sQm4J-i3khcrCxVjQ5FACWb333bmTrQ7_H_6dzBGLqw",
+        "id": "10000"
+      }
+    ],
+    "linkedin_num_id": "943846598",
+    "banner_image": "https://media.licdn.com/dms/image/v2/D5616AQFB1WLgdmxqGw/profile-displaybackgroundimage-shrink_200_800/B56ZyP7eGTHUAY-/0/1771941258463?e=2147483647&v=beta&t=gp1wgSYIEc7R91yIbDkQ6dwE5mM6P7CdCAOO0OzIIm0",
+    "honors_and_awards": null,
+    "similar_profiles": [],
+    "default_avatar": true,
+    "memorialized_account": false,
+    "bio_links": [
+      {
+        "title": "Personal Website",
+        "link": "https://www.youtube.com/@francc333"
+      }
+    ],
+    "first_name": "Frank",
+    "last_name": "Chen",
+    "influencer": false,
+    "timestamp": "2026-08-12T19:25:23.418Z",
+    "input": {
+      "url": "https://www.linkedin.com/in/sihan-frank-chen"
+    }
+  }
+}

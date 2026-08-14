@@ -1,0 +1,187 @@
+{
+  "luma_user_id": "usr-pczVPbUtaGMej4Y",
+  "csv_name": "B Barath srinivasan",
+  "csv_linkedin": "https://www.linkedin.com/in/b-barath-srinivasan-4721b220b",
+  "enriched_at": "2026-08-12T18:59:59.554329+00:00",
+  "batch_id": "sd_msqgcuh41lygyhc91a",
+  "profile": {
+    "id": "b-barath-srinivasan-4721b220b",
+    "name": "B Barath Srinivasan",
+    "city": "Pittsburgh, Pennsylvania, United States",
+    "country_code": "US",
+    "position": null,
+    "about": null,
+    "current_company": {
+      "link": "https://www.linkedin.com/company/google?trk=public_profile_topcard-current-company",
+      "name": "Google",
+      "company_id": "google",
+      "location": null
+    },
+    "experience": null,
+    "url": "https://at.linkedin.com/in/b-barath-srinivasan-4721b220b",
+    "educations_details": "Carnegie Mellon University",
+    "education": [
+      {
+        "title": "Carnegie Mellon University",
+        "url": "https://www.linkedin.com/school/carnegie-mellon-university/",
+        "start_year": "2025-08",
+        "end_year": "2026-12",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      },
+      {
+        "start_year": "2019",
+        "end_year": "2023",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      },
+      {
+        "start_year": "2007",
+        "end_year": "2019",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      }
+    ],
+    "recommendations_count": 2,
+    "avatar": "https://media.licdn.com/dms/image/v2/D5603AQH2PoW00Yr6dw/profile-displayphoto-scale_200_200/B56Zfg6rsiHUAY-/0/1751825170012?e=2147483647&v=beta&t=YpmRNOg-ZfjqugCRlpmKjl1r1LQ_ThbTa_idH3drVz8",
+    "languages": [
+      {
+        "subtitle": "Full professional proficiency",
+        "title": "English"
+      },
+      {
+        "subtitle": "Limited working proficiency",
+        "title": "Hindi"
+      },
+      {
+        "subtitle": "Limited working proficiency",
+        "title": "Telugu"
+      },
+      {
+        "subtitle": "Native or bilingual proficiency",
+        "title": "Tamil"
+      }
+    ],
+    "certifications": [
+      {
+        "meta": "Issued Oct 2020 Credential ID 7512d355764fc2e7f54363211a7bccfa See credential",
+        "subtitle": "HSE University",
+        "title": "Probability Theory, Statistics and Exploratory Data Analysis",
+        "credential_url": "https://coursera.org/share/7512d355764fc2e7f54363211a7bccfa?trk=public_profile_see-credential",
+        "credential_id": "7512d355764fc2e7f54363211a7bccfa"
+      },
+      {
+        "meta": "Issued Sep 2020 Credential ID ec25870343383af47890303cebaca9b3 See credential",
+        "subtitle": "University of Michigan | Coursera",
+        "title": "Using Python to Access Web Data",
+        "credential_url": "https://coursera.org/share/ec25870343383af47890303cebaca9b3?trk=public_profile_see-credential",
+        "credential_id": "ec25870343383af47890303cebaca9b3"
+      },
+      {
+        "meta": "Issued Dec 2023 Expires Dec 2026 Credential ID 90505432 See credential",
+        "subtitle": "Google Cloud Security",
+        "title": "Cloud Digital Leader",
+        "credential_url": "https://www.credential.net/db2b8b91-ba88-4708-9a87-82683caf12c9?trk=public_profile_see-credential",
+        "credential_id": "90505432"
+      }
+    ],
+    "recommendations": [
+      "Nilay Shah \u201cI am pleased to recommend Barath, who has consistently demonstrated expertise in the field of Artificial Intelligence. At Wells Fargo, he has contributed to several key organizational initiatives, where he not only led projects successfully but also mentored and trained interns with great dedication. Barath possesses strong technical skills, especially in Java and Spring Boot based applications, and combines them with excellent communication and collaboration abilities. His commitment, leadership, and ability to deliver high-quality results have always been extraordinary. I am confident that Barath will continue to excel in any role he takes on and will be a valuable asset to any organization.\u201d",
+      "Jim Keck \u201cBarath is driven and talented and is an asset to any team lucky enough to attract him. He was on two hackathon teams in the same event, both created apps using agentic agents. He led one team and the other where he wrote core code won the entire event. His team and their solution got funded and recognized by the head of Technology beating out a field of talented projects. Excited to watch him grow and push limits wherever he goes!\u201d"
+    ],
+    "followers": 3099,
+    "connections": 500,
+    "current_company_company_id": "google",
+    "current_company_name": "Google",
+    "publications": [
+      {
+        "title": "AGeES: Automatic Multiple Choice Question (MCQ) Generation from Extractive Summary of Video Lectures Using BertSum",
+        "subtitle": "Springer",
+        "date": "September 1, 2023",
+        "description": "Multiple-choice questions (MCQs) from online lectures can benefit students in a number of ways. MCQs are a quick and accurate technique to evaluate knowledge and understanding since they can rapidly and accurately reinforce important topics discussed in the lectures. They are adaptable and time-effective, and they encourage students to study the content covered in class. Existing re- search focuses on generating MCQs from textbook data which are typically well formatted and structural in the way the information is conveyed, unlike Youtube or any other educational videos where typically, the information is conveyed in an informal or casual manner without upholding the appropriate formal structures or grammar of the sentences. The present technologies for generating MCQs have a number of limitations which include the ability to create MCQs from only highly informative textual content, employing a singular approach for sentence selection, and inefficient keyword extraction for scientific data. The proposed work AGeES overcomes the challenges of generating efficient MCQs from less in-formative content retrieved from video lectures. To enhance the effectiveness of MCQ generation, the proposed method uses a dual approach for sentence selection and works well with generation for scientific data as well. In conclusion, the proposed work overcomes the structural differences that hinder the system\u2019s ability to isolate factual information from the video. As a result, this methodology generates coherent MCQs by extracting transcripts from video lectures followed by a dual sentence selection approach."
+      }
+    ],
+    "projects": [
+      {
+        "title": "ELITA - Enhanced Logging and Intelligent Telemetry Assistant",
+        "start_date": "Mar 2025",
+        "description": "\ud83d\udccc Overview This AI-powered Retrieval-Augmented Generation (RAG) Agent is designed to enhance the efficiency of Support Engineers by providing context-aware assistance, incident auto-resolution, and intelligent recommendations. It integrates with ServiceNow, logs, metrics, dashboards, and past incident records to streamline incident management and resolution workflows."
+      },
+      {
+        "title": "CoviProtec"
+      },
+      {
+        "title": "Dynamic Hand Sign Detection"
+      },
+      {
+        "title": "Handwritten Number Recognization"
+      },
+      {
+        "title": "Image Caption Generation Using Deep Architecture"
+      },
+      {
+        "title": "Invoice Generator"
+      },
+      {
+        "title": "Loan Management"
+      },
+      {
+        "title": "NEWS Web Application"
+      },
+      {
+        "title": "University Admit Eligibility Predictor"
+      }
+    ],
+    "location": "Pittsburgh",
+    "input_url": "https://www.linkedin.com/in/b-barath-srinivasan-4721b220b",
+    "linkedin_id": "b-barath-srinivasan-4721b220b",
+    "activity": [
+      {
+        "interaction": "Liked by B Barath Srinivasan",
+        "link": "https://www.linkedin.com/posts/annie-cheng-83772b1_waymo-co-ceo-dmitri-dolgov-the-demo-is-only-activity-7491955689318379520-mVoS",
+        "title": "Building autonomous systems requires more than just training a model\u2014it requires building an entire ecosystem. In his recent Y Combinator talk, our\u2026",
+        "img": "https://media.licdn.com/dms/image/sync/v2/D5627AQG5_tApt0p_gA/articleshare-shrink_800/B56Z_J2lJOHIAY-/0/1785797958236?e=2147483647&v=beta&t=ORp5QqNtxv8H_RnQf9bOJHxzrp4U1BRX43kYT6M1HyY",
+        "id": "7491955689318379520"
+      },
+      {
+        "interaction": "Liked by B Barath Srinivasan",
+        "link": "https://www.linkedin.com/posts/aarushijaitly_hi-everyone-im-so-happy-to-finally-share-activity-7491585744621232128-YBOy",
+        "title": "Hi everyone, I\u2019m so happy to finally share that I\u2019ve graduated from Carnegie Mellon University with my Master\u2019s in Public Policy Management and Data\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQFH0pouOuqQDA/feedshare-image-high-res/B56Z_d1iHPH0AY-/0/1786133226664?e=2147483647&v=beta&t=UUTWRPtkeiMsGxZFVGxOzgh72QcSgVHKrG33tLkyR3I",
+        "id": "7491585744621232128"
+      },
+      {
+        "interaction": "Liked by B Barath Srinivasan",
+        "link": "https://www.linkedin.com/posts/linhong-zhu_introducing-muse-code-and-muse-spark-12-activity-7490975294775009280-3lo2",
+        "title": "Excited to see Muse Code released in beta today! I feel fortunate to be part of Meta\u2019s Coding Acceleration V-Team and to have supported the\u2026",
+        "img": "https://media.licdn.com/dms/image/sync/v2/D5627AQGCLejbJjVkBQ/articleshare-shrink_1280_800/B56Z_T7qinG0Ag-/0/1785967064004?e=2147483647&v=beta&t=oGyyLjP4Mpb4DsGIj_tKcQndoJyj58DRD5CsGIanEVI",
+        "id": "12"
+      },
+      {
+        "interaction": "Liked by B Barath Srinivasan",
+        "link": "https://www.linkedin.com/posts/avinatan-hassidim-4a89646_today-in-a-new-paper-published-in-nature-activity-7491150622969376769-jdPF",
+        "title": "Today, in a new paper published in Nature, Google Research and Google DeepMind share a major breakthrough. Our WeatherNext AI model has achieved\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQGaGyvq4pjZ6g/feedshare-image-high-res/B4EZ_Xpy1nJYAU-/0/1786029485715?e=2147483647&v=beta&t=Z-ivljsLa1CeKrOPi0-GZZAgeg2a8cTwqIQpbDJBuEc",
+        "id": "7491150622969376769"
+      }
+    ],
+    "linkedin_num_id": "893290262",
+    "banner_image": "https://media.licdn.com/dms/image/v2/D5616AQG4Xs6VHyGdTA/profile-displaybackgroundimage-shrink_200_800/B56ZiQBQPNHkAY-/0/1754762906413?e=2147483647&v=beta&t=flcig3kt1_NIRGBK6Dtb1gpdjWS2iJlxBcbLhmMWmrY",
+    "honors_and_awards": null,
+    "similar_profiles": [],
+    "default_avatar": false,
+    "memorialized_account": false,
+    "bio_links": [],
+    "first_name": "B",
+    "last_name": "Barath Srinivasan",
+    "influencer": false,
+    "timestamp": "2026-08-12T18:58:37.156Z",
+    "input": {
+      "url": "https://www.linkedin.com/in/b-barath-srinivasan-4721b220b"
+    }
+  },
+  "local_photo": "data\\linkedin_photos\\b-barath-srinivasan-4721b220b__usr-pczVPbUtaGMej4Y.jpg"
+}

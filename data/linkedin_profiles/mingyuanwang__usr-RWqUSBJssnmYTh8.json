@@ -1,0 +1,254 @@
+{
+  "luma_user_id": "usr-RWqUSBJssnmYTh8",
+  "csv_name": "Mingyuan Wang",
+  "csv_linkedin": "https://www.linkedin.com/in/mingyuanwang",
+  "enriched_at": "2026-08-12T19:13:35.729134+00:00",
+  "batch_id": "sd_msqguuzo2o546dm49e",
+  "profile": {
+    "id": "mingyuanwang",
+    "name": "Mingyuan W.",
+    "city": "San Francisco Bay Area",
+    "country_code": "US",
+    "position": null,
+    "about": "I'm genuinely, restlessly curious about many topics, like how magnetic systems undergo\u2026",
+    "current_company": {
+      "link": "https://www.linkedin.com/company/meta?trk=public_profile_topcard-current-company",
+      "name": "Meta",
+      "company_id": "meta",
+      "location": null
+    },
+    "experience": null,
+    "url": "https://jp.linkedin.com/in/Mingyuanwang",
+    "educations_details": "St Catherine's College, Oxford",
+    "education": [
+      {
+        "title": "St Catherine's College, Oxford",
+        "url": "https://uk.linkedin.com/school/adilok-mahila-b-ed-college-goregaon/",
+        "start_year": "2026",
+        "end_year": "2026-12",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      },
+      {
+        "start_year": "2026",
+        "end_year": "2026-07",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      },
+      {
+        "start_year": "2023-09",
+        "end_year": "2027-06",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      },
+      {
+        "start_year": "2025-06",
+        "end_year": "2025-06",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      }
+    ],
+    "avatar": "https://media.licdn.com/dms/image/v2/D5603AQElUf6OaZYAzQ/profile-displayphoto-scale_200_200/B56Z99KHeyHYAc-/0/1784511233171?e=2147483647&v=beta&t=dP2mYZsOzgcfghFNX5mEz7E4AsNshUl3HPL4ZdVrV34",
+    "languages": [
+      {
+        "subtitle": "Native or bilingual proficiency",
+        "title": "Chinese"
+      },
+      {
+        "subtitle": "Limited working proficiency",
+        "title": "Spanish"
+      }
+    ],
+    "volunteer_experience": [
+      {
+        "cause": "Environment",
+        "duration": "Feb 2014 \u00b7 - \nDec 2022 \u00b7 \n8 years 11 months",
+        "duration_short": "- \nDec 2022",
+        "info": "- Built a roofed bulletin board for UC master gardeners\u2019 edible, native, and low-water plants demo garden - Organized and taught scouts on campouts and provided ~50 service hours - Kept troop website records updated as Webmaster for historical reference",
+        "start_date": "Feb 2014",
+        "subtitle": "Boy Scouts of America",
+        "title": "Eagle Scout"
+      }
+    ],
+    "followers": 698,
+    "connections": 500,
+    "current_company_company_id": "meta",
+    "current_company_name": "Meta",
+    "projects": [
+      {
+        "title": "METALS: Metallic Expandable Technology for Artemis Lunar Structures",
+        "start_date": "Dec 2023",
+        "description": "- Authored proposal securing $146K from NASA as 1 of 6 teams; presented to NASA, APL, and aerospace experts- Modeled liquid oxygen pressure through lunar pipeline in Python to optimize inflated metal diameters- Tested liquid Nitrogen inflation of welded long-term cryogenic fluid storage to reach TRL 5 for Artemis lunar missions"
+      },
+      {
+        "title": "FTC Robotics Software Lead Team 13162",
+        "start_date": "Jul 2018",
+        "description": "- Tuned PID and TensorFlow vision with OOP in Java to control autonomous robot's Mecanum drive and servos- Designed a user-friendly robot control interface, enhancing efficiency of driver teams in high-pressure competitions- Won Northern California Regionals competition to advance to Houston World Championships"
+      }
+    ],
+    "organizations": [
+      {
+        "title": "Willard Residential College",
+        "membership_type": "Academic Chair",
+        "start_date": "Mar 2024",
+        "end_date": "Mar 2025",
+        "description": "Planned and budgeted >$500 toward community-building lecture and food events for >300 students, 26 affiliated professors",
+        "membership_number": null
+      }
+    ],
+    "location": null,
+    "input_url": "https://www.linkedin.com/in/mingyuanwang",
+    "linkedin_id": "mingyuanwang",
+    "activity": [
+      {
+        "interaction": "Mingyuan W. shared this",
+        "link": "https://www.linkedin.com/posts/mingyuanwang_i-wrapped-up-my-meta-internship-on-friday-activity-7373845162084663297-D_qP",
+        "title": "I wrapped up my Meta internship on Friday, and I can\u2019t help but feel incredibly lucky for the experience. I\u2019d like to thank my managers and peers\u2014 Wang Xu , Daniel Hou , Simon Mahns , Yanjia Li, and Bill Alves\u2014and the rest of the MTIA Software Runtime team for the support and encouragement throughout the summer. I learned so much from them about how PyTorch kernels are launched and got the chance to work with Meta\u2019s newest custom chips. Over the summer, I built a kernel replayer to improve debugging and reproducibility in ML training, and it was exciting to see it adopted by other subteams before the internship ended. The experience gave me a new appreciation for the invisible work behind today\u2019s models and confidence in ramping up on a brand-new stack. I also enjoyed hearing about the future of PyTorch and AI Infra in their all-hands, learning from leaders like Chris Cox , Andrew Bosworth , and Ime Archibong through the intern speaker series, and getting an inside look at Meta Superintelligence Labs through weekly AMAs with Alexandr Wang . Finally, I\u2019m thankful for the fellow interns and employees I met \u2014 hope we stay in touch! ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQH46gTyF_4H4w/feedshare-shrink_800/B56ZlUaXUgKIAk-/0/1758057823997?e=2147483647&v=beta&t=NWbPsBSCascdt_s8n7TfACP_Qt2-zkH7XEdNXMJHOq4",
+        "id": "7373845162084663297"
+      },
+      {
+        "interaction": "Mingyuan W. shared this",
+        "link": "https://www.linkedin.com/posts/mingyuanwang_the-first-two-weeks-of-this-summer-were-a-activity-7345466251051225089-Mltl",
+        "title": "The first two weeks of this summer were a blur! I loved Y Combinator \u2019s AI Startup School and its speakers, all at the cutting edge of technology. More importantly, I met old friends and incredible people from all over the world. However, the highlight was definitely getting to talk to Nobel Laureate John Jumper at the Google Cloud afterparty for an hour. I also finally rode a Waymo , probably a decade after I first saw one and wanted a ride. My first week at Meta has also been fast\u2014landing my changes to the codebase of one of the world\u2019s largest companies is incredibly validating. It makes me excited for the rest of my work on the software team for their AI inference and training chips. If anyone is in the Bay Area this summer, let me know and let\u2019s meet up on a weekend! ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQH6hF-8Se1EWg/feedshare-shrink_800/B56Ze0nU_THoAg-/0/1751081898521?e=2147483647&v=beta&t=8qmgmYNvknswuey3Squtt-O_MtKK_IeCFmKr2lSm_dI",
+        "id": "7345466251051225089"
+      },
+      {
+        "interaction": null,
+        "link": "https://www.linkedin.com/posts/mingyuanwang_a-huge-thank-you-to-bri-hatch-and-the-entire-activity-7308110065465446400-b3bo",
+        "title": "A huge thank you to Bri Hatch and the entire Dropzone AI team for such a welcoming and insightful externship experience! It was incredible to see the inner workings of a fully remote startup with team members across the U.S. and to be welcomed like a new team member myself. I loved sitting in on meetings and experiencing the fast-paced, collaborative atmosphere. I got a broad view of the company, from proof-of-concept discussions and new feature design meetings to company-wide planning. It was also eye-opening to learn about the many technologies that keep a startup running, including compliance, ticketing systems, and sales tools. One of the most interesting takeaways was Dropzone\u2019s focus on using AI to augment, not replace, security teams\u2014leveraging AI to analyze and derive meaning from the overwhelming volume of threat alerts. I also really enjoyed learning about scaling a startup and the tradeoffs between scale and security in the cattle vs. pets model. Thanks to the Northwestern Alumni Association \u2019s Externship Program for this amazing opportunity! ...more",
+        "img": null,
+        "id": "7308110065465446400"
+      },
+      {
+        "interaction": null,
+        "link": "https://www.linkedin.com/posts/northwestern-university_a-team-of-mccormick-school-of-engineering-activity-7269440240451223552-H5P6",
+        "title": "A team of McCormick School of Engineering students won the highest honors at NASA's 2024 BIG Idea Challenge for their space-saving metal inflatable system \ud83d\udca1\ud83c\udfc6 NASA - National Aeronautics and Space Administration 's Artemis Award recognizes the idea with the best potential to contribute to future moon missions\u2014congrats! http://spr.ly/6042txLOa ...more ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D5610AQHSlZrExil3Jg/image-shrink_1280/image-shrink_1280/0/1733169602199?e=2147483647&v=beta&t=j9z4gDiqd50J8H5ZOSDoe9bYtIHuJzTYKfvdSdFBYF4",
+        "id": "7269440240451223552"
+      },
+      {
+        "interaction": "Mingyuan W. shared this",
+        "link": "https://www.linkedin.com/posts/mingyuanwang_two-weeks-ago-i-had-the-amazing-opportunity-activity-7266827982990655490-nUMs",
+        "title": "Two weeks ago, I had the amazing opportunity to attend the NASA - National Aeronautics and Space Administration BIG Idea Challenge Forum in Las Vegas! Representing Northwestern University , our Northwestern University Space Technology and Rocketry Society team presented our metal inflatable technology for cryogenic fluid storage, METALS, to a panel of NASA, JHU APL , and industry judges. To top it all off, we were honored with the Artemis Award, the competition's top prize! Being part of this project over the past year has been an incredible learning experience. I\u2019ve gained valuable skills in FEA analysis, working with cryogenics and pressure vessels, structural stress, fluid mechanics, presentation skills, and technical report writing. I am especially grateful to Juli\u00e1n Rocher for his advice and for teaching me to use Ansys for stress analysis; Omar Kamil , Joshua Natelson , and Enrique Montemayor for being incredible teammates on the Analysis and Cryogenics subteam; and Benjamin Taalman , Trevor A., and Victoria Israel for their exceptional leadership and management. Check out our presentation and paper as well as the amazing projects from other teams here: https://lnkd.in/gJ4kMme5 . I can\u2019t wait to see what\u2019s next for this technology and our team! ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQHn2g64GLOePQ/feedshare-shrink_800/feedshare-shrink_800/0/1732325142319?e=2147483647&v=beta&t=bshsdXtNMtuc-qIXT5cNA0kKzkXo6RhcD1j4t4VXuD4",
+        "id": "7266827982990655490"
+      },
+      {
+        "interaction": "Mingyuan W. commented on a post 9mo",
+        "link": "https://www.linkedin.com/posts/roland-hu-bb6b5a173_a-bit-late-to-announce-but-im-excited-to-activity-7394868335412424704-aMki",
+        "title": "Let\u2019s meet up! I can\u2019t believe I haven\u2019t seen you around campus already.",
+        "img": null,
+        "id": "7394868335412424704"
+      },
+      {
+        "interaction": "Mingyuan W. liked this",
+        "link": "https://www.linkedin.com/posts/nashbrown1_weve-open-sourced-mixture-of-kittens-the-activity-7490444889722363904-Q_Pt",
+        "title": "We've open-sourced Mixture-of-Kittens, the MoE megakernel we use to train models at Cursor. The MoE layer can take up over half of training time. So we designed MoK from first principles to fuse communication and computation into a single kernel. It supports both BF16 and MXFP8 precision, has configurable overlap granularity, is fully deterministic, and eliminates CPU-GPU syncs. Joint work with Stuart Sul , Henry Wildermuth , William Lin , and Federico Cassano . Read our blog and code for more details!",
+        "img": "https://media.licdn.com/dms/image/v2/D4D22AQGhZUcJQhwsdA/feedshare-shrink_800/B4DZ_NhNccKMAc-/0/1785859463359?e=2147483647&v=beta&t=YFd6DT67We-HPd7zDx0pN1TZHOHutPzNCpp16L7l-uw",
+        "id": "7490444889722363904"
+      },
+      {
+        "interaction": "Mingyuan W. liked this",
+        "link": "https://www.linkedin.com/posts/jasonlatz_every-site-you-visit-is-an-opportunity-to-activity-7490764818128441344-ixlO",
+        "title": "Every site you visit is an opportunity to learn a language. All the cool kids know that immersion is the gold standard for language learning, yet it often gets left behind due to the time and effort required (except for my daily dose of Bad Bunny). Introducing Contexto, a Chrome extension that turns everyday reading into passive vocabulary practice. It replaces a (custom) percentage of English words on webpages into your target language, with definitions and examples available upon hover. Instead of additional language study, Contexto allows you to slowly build your vocabulary alongside the reading you\u2019re already doing. Importantly, this provides a sustainable middle ground between old fashioned studying (lame) and reading fully translated pages (hard to do, especially if you need to fully understand the webpage). Download contexto for free at trycontexto.org ! --- Special thanks to Rahul Rangaraaj for the original idea, and for the various people that beta tested this. If you\u2019re interested in testing my (numerous) other ideas in the works, dm me! p.s. This is the first in a series of free, open source pieces of software I\u2019ll be releasing this summer devoted to public good. Stay tuned :)",
+        "img": "https://dms.licdn.com/playlist/vid/v2/D5605AQGVsCF3z5YUzA/thumbnail-shrink_720_1280/B56Z_QsXHLG8Ag-/0/1785912718513?e=2147483647&v=beta&t=hxkbWzN5imZDzl3avjeLviOGf57XtF0t7h9lqWldZ-A",
+        "id": "7490764818128441344"
+      },
+      {
+        "interaction": "Mingyuan W. liked this",
+        "link": "https://www.linkedin.com/posts/adaptional_makesomethingpeoplewant-activity-7486516542453616640-_COG",
+        "title": "Over 7,000 of the brightest young engineers and builders are coming to SF this weekend for Y Combinator Startup School, and we're excited to host an official YC afterparty at our office in the Presidio. If you're joining us, expect great food, conversation, weather (Karl the fog not invited), and incredible views of the Bay! #Makesomethingpeoplewant",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQG3W1cgkmkU6w/feedshare-shrink_800/B4EZ.VzH6gJMAc-/0/1784924635312?e=2147483647&v=beta&t=0hpzstOORZYb-R-M4H0J9AMD0iKlTMDEqejaM_YXU3s",
+        "id": "7486516542453616640"
+      },
+      {
+        "interaction": "Mingyuan W. reacted on this",
+        "link": "https://www.linkedin.com/posts/devan-chanda-02a1661b4_after-four-transformative-years-im-excited-activity-7485487890202771457-imn7",
+        "title": "After four transformative years, I'm excited to share that I've graduated from Northwestern University with a Bachelor of Science in Computer Engineering and a Minor in Business Institutions. Looking back, I'm incredibly grateful for everything Northwestern has given me. To my professors, mentors, classmates, and friends - thank you for challenging me, supporting me, and making these years so meaningful. Outside the classroom, I was fortunate to be involved with the NUSTARS Space Technology Team, build alongside incredible founders and innovators through The Garage at Northwestern University , and make lifelong memories through intramural sports. These experiences taught me lessons that extended far beyond engineering and helped shape the person and teammate I strive to be. Most importantly, thank you to my family. None of this would have been possible without your unwavering support, encouragement, and belief in me every step of the way. As one chapter closes, I'm incredibly excited for the next. This August, I'll be joining Everpure in Santa Clara, California, as an Operations Automation Analyst on the Operations Program Management NPI Team. I'm looking forward to helping bring new products to life, working across engineering and operations, and learning from an outstanding team in the heart of Silicon Valley. A heartfelt thank you to Ryan Saade , Lucy Sun , Tiphanie Cimoli , Michelle Clemente , George Solomon , and especially Mike Torre for your time, support, mentorship, and confidence and belief in me throughout this process. I'm truly grateful for the opportunity and can't wait to get started. I'm excited for this next chapter of my life - continuing to learn, grow as a leader, and begin my career in the heart of the tech industry.",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQFXX9KA1aP4kg/feedshare-image-high-res/B56Z.HLj6XKEAc-/0/1784679384320?e=2147483647&v=beta&t=w4owYH5OMUdUHejgC70ynTg86bnsDRXAZxzKgdBv66M",
+        "id": "7485487890202771457"
+      },
+      {
+        "interaction": "Mingyuan W. reacted on this",
+        "link": "https://www.linkedin.com/posts/victoriaisrael_four-years-two-degrees-and-one-school-ill-activity-7483913502491820033-cGa5",
+        "title": "Four years, two degrees, and one school I'll never stop being grateful for. This June, I graduated from Northwestern University with a BS and MS in Mechanical Engineering. I'm honored to share that I received the McCormick Alumni Award, presented to one student among the school's 400+ graduating engineers for extraordinary service and scholastic merit, as well as the Leadership and Service Award from the Department of Mechanical Engineering. Everything behind these awards started with curiosity: problems that were fun, hardware that had to work, and people worth showing up for. Being recognized for that is an incredible honor, and it belongs just as much to the teams who made it real: the NUSTARS team that showed me that \"impossible\" is just an invitation to look harder, the HaptE crew that taught me the courage it takes to be an entrepreneur, the Medical Makers team whose assistive arm proved that engineering at its best is an act of care, my capstone team who made even the final stretch feel like the fun part, and the students I got to mentor, who gave me back more than I ever gave them. Thank you as well to the professors who guided and encouraged me, and the friends, classmates, and family who kept me going. Next stop: Los Angeles, where I'm joining Salient Motion as a Technical Program Manager. Let's build!",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQFoERig417xSg/feedshare-image-high-res/B56Z9sx_cLIMAU-/0/1784236472893?e=2147483647&v=beta&t=81DlYTm9yShU74QNc5uP_ygmDzsuFvc3voOt5k7HO6U",
+        "id": "7483913502491820033"
+      },
+      {
+        "interaction": "Mingyuan W. reacted on this",
+        "link": "https://www.linkedin.com/posts/hunterleeprofile_predicting-ceiling-temperature-for-recyclable-activity-7482850630932254720-owvQ",
+        "title": "I had the privilege of collaborating with Shivani Kozarekar on the Cell Press publication, \"Predicting Ceiling Temperature for Recyclable Polymer Design Using Machine Learning.\" Under her mentorship I developed a machine learning model to predict entropy of polymerization. Combined with Shivani's enthalpy of polymerization model, a polymer's ceiling temperature could be calculated to provide insight into the chemical recyclability of a polymer. I would like to extend a huge congratulations to Shivani for passing her Thesis Defense and this successful publication. In addition to Shivani's exceptional technical expertise in polymers, machine learning, and thermodynamics, one of her standout strengths was her ability to communicate complex technical concepts to a broader audience. I admire her strong work ethic and her ability to consistently produce work of the highest quality. She was also a key contributor to the welcoming and collaborative atmosphere of the lab and went out of her way to schedule team bonding activities that included research interns. Any team that has the opportunity to work with Shivani will be fortunate to benefit from her critical thinking skills, high quality work and warmth that she brings to a group. I am thankful to Professor Linda Broadbelt for taking me into her lab and giving me the opportunity to work under Shivani. I learned a lot and look forward to applying the machine learning, data analysis, and polymer engineering skills I gained through this experience to future challenges.",
+        "img": "https://media.licdn.com/dms/image/sync/v2/D5627AQF2RbM59C_POg/articleshare-shrink_800/B56Z9hrOX6GQAc-/0/1784050149242?e=2147483647&v=beta&t=CM9pmxdQuJOvtdMee4Rw8eMeyAZZwDU-F6RYdLcFv_g",
+        "id": "7482850630932254720"
+      },
+      {
+        "interaction": "Mingyuan W. reacted on this",
+        "link": "https://www.linkedin.com/posts/jamie-hodari-4397897_im-hiring-a-ceo-for-industrious-and-the-activity-7475187034912022529-ESl0",
+        "title": "I\u2019m hiring a CEO for Industrious and the posting is now live! More than anything, I want whoever applies to actually understand the role before they do. So in addition to the job post, I wrote the next CEO a letter (it\u2019s in the post, but I also attached it in images here) It\u2019s the best description I could give of what this job actually is, and who it\u2019s really for. If it resonates, I\u2019d love to hear from you. https://lnkd.in/egxCBsT8",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQHsGCjHSshWFw/feedshare-shrink_800/B4EZ70y_gwK4Ag-/0/1782223468908?e=2147483647&v=beta&t=4P03vSI4S00y6FJ7QIARXdLB2yNdpWLk2FUSZc8-S0Q",
+        "id": "7475187034912022529"
+      },
+      {
+        "interaction": "Mingyuan W. reacted on this",
+        "link": "https://www.linkedin.com/posts/cooper-stringer_hello-seeing-as-a-lot-has-happened-in-these-activity-7476384623468470272-qw7I",
+        "title": "Hello! Seeing as a lot has happened in these last few weeks, it felt like the right time to (finally) make a post here. I\u2019m no Hemingway, so bear with me, this may get long. Last week, I graduated from Northwestern University with my BA in Biological Sciences (Cell & Developmental Biology), and two minors in Science in Human Culture (Medicine & Society in History) and Classical Studies. First, I am thrilled to share that my senior thesis, 'Mechanistic analysis of atypical secretion by a novel microprotein', not only earned me departmental honors from Northwestern\u2019s Department of Molecular Biosciences, but was also recognized with their annual David Shemin Prize for Basic Research! I\u2019m also deeply honored to have been selected as Northwestern\u2019s 2026 Findlay Fellow, which supports one graduating senior each year to pursue graduate study in the UK. This award will allow me to earn a Master\u2019s degree from the Department of Physiology, Development and Neuroscience at the University of Cambridge , an opportunity that I am incredibly excited (and nervous and scared, but excited!) to take. If you want to read more about my path to the Findlay, you can check out this awesome piece from the Office of Fellowships: https://lnkd.in/gDTi_Bze Before I hop across the pond this fall, I\u2019m delighted to be spending the summer teaching Principles of Genetic Engineering for high schoolers at the Northwestern University Center for Talent Development . Teaching has always been one of the most rewarding (and fun!) parts of science for me, and I\u2019m so grateful for the chance to design and lead a course this soon after undergrad. None of this would have happened without the extraordinary efforts of so many people. To mention a few, thank you to Profs. Richard Carthew and Xiaomin Bao at Northwestern, Prof. Kevin Nyberg at Ohio University, and Prof. Andrew Goldstein at UCLA for their mentorship; to my advisor Dr. Evangeline S. , without whom I\u2019d still be terrified to write an email; to the Amgen Scholars Program and the Northwestern University Office of Undergraduate Research for their support to pursue my interests; and to Northwestern\u2019s Office of Fellowships, including Dr. LaTanya Williams and Dr. Elizabeth Lewis Pardoe, PhD , who opened so many doors I often didn\u2019t even know existed. This has been a very long post, so I think I\u2019ll leave it here. If y\u2019all would excuse me ending on a slightly sentimental note, I\u2019ve been thinking about my favorite Latin passage a lot recently. In book nine of the \ud835\ude08\ud835\ude26\ud835\ude2f\ud835\ude26\ud835\ude2a\ud835\ude25, the young Ascanius has won his first victory in battle and is commended by Apollo, but also advised to return to safety, because he still has great things to accomplish. The god says: \ud835\ude14\ud835\ude22\ud835\ude24\ud835\ude35\ud835\ude26 \ud835\ude2f\ud835\ude30\ud835\ude37\ud835\ude22 \ud835\ude37\ud835\ude2a\ud835\ude33\ud835\ude35\ud835\ude36\ud835\ude35\ud835\ude26, \ud835\ude31\ud835\ude36\ud835\ude26\ud835\ude33; \ud835\ude34\ud835\ude2a\ud835\ude24 \ud835\ude2a\ud835\ude35\ud835\ude36\ud835\ude33 \ud835\ude22\ud835\ude25 \ud835\ude22\ud835\ude34\ud835\ude35\ud835\ude33\ud835\ude22\u2014 \u201chail to your new courage, boy; this is the way to the stars.\u201d",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQE72lw5UpiM-A/feedshare-shrink_800/B56Z8FymNNHYAc-/0/1782508578067?e=2147483647&v=beta&t=2MYzhA9S7FKzftkhFn7LgUsuz9yO4azLq6jO_26h47I",
+        "id": "7476384623468470272"
+      },
+      {
+        "interaction": "Mingyuan W. reacted on this",
+        "link": "https://www.linkedin.com/posts/gustavo-mercier_little-late-to-the-party-thanks-quarter-activity-7472303669674356737-6ZHJ",
+        "title": "Little late to the party (thanks quarter system) but yesterday I graduated with my bachelor\u2019s degree from Northwestern University ! It\u2019s been a crazy four years, but I\u2019m so glad that I got to meet so many awesome people during that time. Also thanks Joanna Soltys for the awesome diploma photo last Saturday.",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQGwNVCFIeAH9w/feedshare-image-high-res/B56Z7L0bveGgAU-/0/1781535983333?e=2147483647&v=beta&t=BmTWgR-DDoUuaqOrmz8SiQ_GCfXIzp3hdI1543D-YC8",
+        "id": "7472303669674356737"
+      }
+    ],
+    "linkedin_num_id": "1073291193",
+    "banner_image": "https://media.licdn.com/dms/image/v2/D5616AQFfcxhvsEp5Qw/profile-displaybackgroundimage-shrink_200_800/B56Z4vZ2cvJ0AQ-/0/1778911766606?e=2147483647&v=beta&t=Rixv7ijFW8SljxHkUnBLlwU8XW79cJ8SFjrOtNZ0RkE",
+    "honors_and_awards": [
+      {
+        "title": "NASA BIG Idea Challenge Artemis Award (Top Honors) Winner",
+        "publication": "NASA",
+        "date": "2024-11-01T00:00:00.000Z",
+        "description": "The Artemis Award is given to the team whose concept has the best potential to contribute to and be integrated into an Artemis mission."
+      },
+      {
+        "title": "WCAS Summer Grant Award",
+        "publication": "Northwestern",
+        "date": "2024-05-01T00:00:00.000Z",
+        "description": "$4000 stipend to cover research and living expenses for a continuous eight-week summer period"
+      },
+      {
+        "title": "NASA BIG Idea Challenge Finalist",
+        "publication": "NASA",
+        "date": "2024-02-01T00:00:00.000Z",
+        "description": "One of 6 teams, selected for $146,420.85 in funding"
+      },
+      {
+        "title": "USABO Semifinals Honorable Mention",
+        "publication": "USA Biolympiad",
+        "date": "2023-03-01T00:00:00.000Z",
+        "description": "Top 125 in the US on the USA Biolympiad"
+      }
+    ],
+    "similar_profiles": [],
+    "default_avatar": false,
+    "memorialized_account": false,
+    "bio_links": [],
+    "first_name": "Mingyuan",
+    "last_name": "W.",
+    "influencer": false,
+    "timestamp": "2026-08-12T19:13:28.262Z",
+    "input": {
+      "url": "https://www.linkedin.com/in/mingyuanwang"
+    }
+  },
+  "local_photo": "data\\linkedin_photos\\mingyuanwang__usr-RWqUSBJssnmYTh8.jpg"
+}

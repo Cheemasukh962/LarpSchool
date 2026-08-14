@@ -1,0 +1,289 @@
+{
+  "luma_user_id": "usr-LyvPFhurKpgUcoh",
+  "csv_name": "Jonathan",
+  "csv_linkedin": "https://www.linkedin.com/in/jon-ouyang",
+  "enriched_at": "2026-08-12T19:07:22.298296+00:00",
+  "batch_id": "sd_msqgmjx4y9b9cgg4i",
+  "profile": {
+    "id": "jon-ouyang",
+    "name": "Jonathan Ouyang",
+    "city": "San Francisco Bay Area",
+    "country_code": "US",
+    "position": null,
+    "about": "I like robots and ramen. Reach me at jonsouyang@ucla.edu",
+    "current_company": {
+      "link": "https://uk.linkedin.com/company/googledeepmind?trk=public_profile_topcard-current-company",
+      "name": "Google DeepMind",
+      "company_id": "googledeepmind",
+      "location": null
+    },
+    "experience": null,
+    "url": "https://de.linkedin.com/in/Jon-ouyang",
+    "educations_details": "UCLA",
+    "education": [
+      {
+        "title": "UCLA",
+        "url": "https://www.linkedin.com/school/ucla/",
+        "start_year": "2024-09",
+        "end_year": "2028-06",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      },
+      {
+        "start_year": "2023-08",
+        "end_year": "2024-07",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      },
+      {
+        "start_year": "2020-08",
+        "end_year": "2024-07",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      }
+    ],
+    "avatar": "https://media.licdn.com/dms/image/v2/D5603AQHrb5dueWvWSA/profile-displayphoto-scale_200_200/B56ZjzQNdCH8AY-/0/1756427770638?e=2147483647&v=beta&t=KJ2IMmhwCTREBcg-dohmbpY-DgXEb2V3faijtLA8f7w",
+    "followers": 11417,
+    "connections": 500,
+    "current_company_company_id": "googledeepmind",
+    "current_company_name": "Google DeepMind",
+    "publications": [
+      {
+        "title": "Proximal State Nudging: Reducing Skill Atrophy from AI Assistance",
+        "subtitle": "International Conference on Machine Learning (ICML) 2026",
+        "date": "June 3, 2026",
+        "description": "Presented in person in Seoul, South KoreaSkill atrophy, the gradual decline of human capability under AI assistance, poses a safety risk in shared-control of semi-autonomous systems, where operators may be unable to distinguish their own inputs from autonomous corrections. We propose Proximal State Nudging (PSN), a shared autonomy algorithm that jointly optimizes for skill development and task performance by nudging users toward states estimated to be most learnable. We first show that PSN outperforms existing shared autonomy baselines in balancing student improvement in unassisted reward with overall shared performance, using simulated students in the classic LunarLander environment. We then present, to the best of our knowledge, the first human subject studies of a planner incorporating learning-compatible shared autonomy: across two driving tasks in the CARLA simulator (High Performance Racing and Parallel Parking, n = 60), PSN produces up to 7x larger gains in unassisted skill than standard blended shared autonomy, while incurring 50 fewer collisions than unassisted self-practice."
+      },
+      {
+        "title": "Intent at a Glance: Gaze-Guided Robotic Manipulation via Foundation Models",
+        "subtitle": "Robotics: Science & Systems (RSS) 2025",
+        "date": "January 8, 2026",
+        "description": "Presented in person in Los Angeles, CaliforniaDesigning intuitive interfaces for robotic control remains a central challenge in enabling effective human-robot interaction, particularly in assistive care settings. Eye gaze offers a fast, non-intrusive, and intent-rich input modality, making it an attractive channel for conveying user goals. In this work, we present GAMMA (Gaze Assisted Manipulation for Modular Autonomy), a system that leverages ego-centric gaze tracking and a vision-language model to infer user intent and autonomously execute robotic manipulation tasks. By contextualizing gaze fixations within the scene, the system maps visual attention to high-level semantic understanding, enabling skill selection and parameterization without task-specific training. We evaluate GAMMA on a range of table-top manipulation tasks and compare it against baseline gaze-based control without reasoning. Results demonstrate that GAMMA provides robust, intuitive, and generalizable control, highlighting the potential of combining foundation models and gaze for natural and scalable robot autonomy. Project website: this https URL"
+      },
+      {
+        "title": "Optimization of Swim Pose Estimation and Recognition with Data Augmentation",
+        "subtitle": "IEEE Southwest Symposium on Image Analysis and Interpretation (SSIAI 2024)",
+        "date": "March 18, 2024",
+        "description": "Presented in person at Santa Fe, New MexicoSwim pose estimation and recognition is a challenging problem in machine learning and artificial intelligence as the body of the swimmer is continuously submerged under the water. The objective of this paper is to enhance existing ML models for estimating swim poses and for recognizing strokes to aid swimmers in pursuing a more perfect technique. We developed a novel methodology augmenting raw video data and adjusting a YOLOv7 base model to enhance swim pose estimation."
+      },
+      {
+        "title": "Design and Analysis of an FPGA-based CNN for Exercise Recognition",
+        "subtitle": "IEEE TRON Symposium (TRONSHOW 2023)",
+        "date": "December 6, 2023",
+        "description": "Presented by first author Derrick Trinh (virtually) in TRON Symposium, hosted in Tokyo, JapanIn this paper, we describe the design and analysis of an FPGA-based exercise detector, and show the improvement in performance of an FPGA-based over a GPU-based human action recognition application. Using the Xilinx Kria KV260 development board and a USB webcam, the pose of a person is tracked to determine what kind of exercise they are doing. OpenPose is used to obtain the coordinates of a person\u2019s body parts. Using Vitis AI and Tensorflow, multiple neural networks to identify different exercises were designed using a sequence of the coordinates as an input. These models have different input sizes and number of convolutional layers. These neural network models were run directly on the programmable logic (Zynq UltraScale+ MPSoC FPGA) of the Kria board, and their performance in frames per second (FPS) was analyzed. Our simulation results show that the FPGA\u2019s performance based on a relatively simple CNN reached 372 to 722 FPS while the ResNet-based GPU (Jetson Nano) performance was 32 FPS, for which the accuracy degradation is less than 10%."
+      }
+    ],
+    "projects": [
+      {
+        "title": "Project CLOVIS",
+        "start_date": "Mar 2025",
+        "description": "Redefining Human Computer Interaction.Stay Tuned."
+      },
+      null,
+      {
+        "title": "Jayu | Google Gemini API Developer Competition WINNER ($300k USD)",
+        "start_date": "Jul 2024",
+        "description": "Jayu is a next generation AI personal assistant fully powered by Google Gemini. It is capable of interacting directly with applications just like a user would, powered by Gemini's powerful Computer Vision capabilities."
+      },
+      {
+        "title": "BruinBite",
+        "description": "CS35L Final Project"
+      },
+      {
+        "title": "LEVIATHAN | Sushihacks 2025",
+        "description": "Bringing Big Insights No Matter The Crew Size"
+      },
+      null,
+      null,
+      null,
+      {
+        "title": "Project Montgomery | CalHacks 2024",
+        "description": "Project Montgomery is an AI powered interactive interface that allows users to animate step-by-step math and physics equations using the Manim animation engine (from 3Blue1Brown)."
+      },
+      null,
+      null,
+      null,
+      {
+        "title": "SABRE (Shared Autonomy for Battlefield Response & Engagement)",
+        "description": "Semi-autonomous drone swarm control"
+      },
+      null,
+      {
+        "title": "Sir Syncs A Lot | LA Hacks 2025",
+        "description": "A Computer Use Agent synced with your phone. Clearly the judges did not like the pun as much as we did."
+      }
+    ],
+    "location": null,
+    "input_url": "https://www.linkedin.com/in/jon-ouyang",
+    "linkedin_id": "jon-ouyang",
+    "activity": [
+      {
+        "interaction": null,
+        "link": "https://www.linkedin.com/posts/megha-srivastava-79858ba2_icml2026-ai4good-activity-7480404229581348864-X2P5",
+        "title": "I'm at #ICML2026 \ud83c\uddf0\ud83c\uddf7 to present our new work on reducing skill atrophy from AI overreliance with Toyota Research Institute ! As AI systems improve their capabilities, how can we use them to also support a human user\u2019s own skill development? At the #AI4GOOD workshop, I\u2019ll be presenting Proximal State Nudging (PSN): an assistance algorithm that balances between task performance and human learning. https://lnkd.in/gShT9nUn We were inspired by control tasks (surgery, driving, teleoperation) where AI has been shown to improve task safety and performance, but also has a deskilling effect on people! For example: \u2022 Medicine ( https://lnkd.in/gynVuqqx ) \u2022 Driving ( https://lnkd.in/g5ddkbpa ) \u2022 Coding ( https://lnkd.in/g-pcKaVw ) Prior works often remove AI support entirely so that people can learn. PSN offers a new option: modulate *how* AI assistance is given in order to both ensure safe performance and scaffold human learning. PSN works by (i) estimating which environment states are most \u201clearnable\u201d for an individual user, and then (ii) adjusting the *level* and *type\u201d of AI assistance to gradually nudge the user to these states, while still optimizing for task reward. Similar to how a parent might hold and help their kid learning how to ride a bike! \ud83d\ude0a We evaluate PSN in both the Lunar Lander environment and with 60 human participants in two CARLA driving tasks: parallel parking and high-performance racing. PSN produced up to 7x gains in unassisted skill learning compared to standard shared autonomy methods, while incurring 50% fewer collisions than unassisted self-practice. This is joint work with Yuchen Cui Deepak Gopinath, PhD Emily Sumner, PhD and Guy Rosman , and I\u2019ll be at ICML if interested in learning more! ...more ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQEohoAwZIG1rQ/feedshare-shrink_800/B56Z8.8AfQGoAc-/0/1783467346704?e=2147483647&v=beta&t=jpxboryOEB2WlWs9aWeovdJfq1akc-KT2s7dmNSasbg",
+        "id": "7480404229581348864"
+      },
+      {
+        "interaction": "Jonathan Ouyang shared this",
+        "link": "https://www.linkedin.com/posts/jon-ouyang_im-joining-google-deepmind-in-5-weeks-finals-activity-7459663639713820672-pwn_",
+        "title": "I\u2019m joining Google DeepMind in 5 weeks. Finals are in 4. But this week, I\u2019m flying to Palo Alto with my co-founder Eric Ziyang Zhou to turn 2 years of research into a startup. For the past 2 years, I\u2019ve been working in UCLA\u2019s Robotics Intelligence Lab with Professor Yuchen Cui to figure out how to teach AI to see and pay attention to images like humans do. But somewhere along the way, we realized the bigger opportunity might be somewhere else entirely: understanding what actually captures human attention. Ads. Design. Products. Visual decisions. If you\u2019re in the Bay Area this week and you\u2019re an investor, engineer, designer, founder, or builder who can challenge our thinking and help us move faster, we\u2019d love to talk. DMs are open We\u2019ll be in Palo Alto for only 7 days. Let\u2019s see how far we can take it. ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQGmIgJpQWqOOg/feedshare-image-high-res/B56Z4X.sVXHEAU-/0/1778518772721?e=2147483647&v=beta&t=6-52PFYjwJy7pGEXrreyWgJxzuvK1X0WJ9yLD9tSr0U",
+        "id": "5"
+      },
+      {
+        "interaction": "Jonathan Ouyang shared this",
+        "link": "https://www.linkedin.com/posts/jon-ouyang_bruins-activity-7454608847706554369-Zrhq",
+        "title": "I literally just failed my Linear Algebra midterm 5 minutes ago. But that's ok, because we won over $20\ud835\udc24 in 3 \ud835\udc2d\ud835\udc2b\ud835\udc1a\ud835\udc1c\ud835\udc24\ud835\udc2c \ud835\udc1a\ud835\udc2d \ud835\udc07\ud835\udc1a\ud835\udc1c\ud835\udc24\ud835\udc13\ud835\udc1e\ud835\udc1c\ud835\udc21 2026 \ud835\udc1a\ud835\udc2d \ud835\udc02\ud835\udc1a\ud835\udc25\ud835\udc2d\ud835\udc1e\ud835\udc1c\ud835\udc21 yesterday! \ud83e\udd47 [Main Track] Best Creative Project \ud835\udc16\ud835\udc22\ud835\udc27\ud835\udc27\ud835\udc1e\ud835\udc2b (Logitech Mouse) \ud83e\udd47 [Sponsor Track] Palohouse - Projects closest to becoming a startup \ud835\udc16\ud835\udc22\ud835\udc27\ud835\udc27\ud835\udc1e\ud835\udc2b (all expenses paid trip to their Palo Alto hacker house + 20k investment into our product) \ud83e\udd49 [Sponsor Track] IronSite - Solve spatial reasoning problems \ud835\udc13\ud835\udc21\ud835\udc22\ud835\udc2b\ud835\udc1d \ud835\udc0f\ud835\udc25\ud835\udc1a\ud835\udc1c\ud835\udc1e (1k USD) We built a mini foundational model that simulates human gaze from an image, building on our previous research in Robotics (shoutout Professor Yuchen Cui and my coauthor Yike Shi !). We proved that the model produces highly accurate estimates with serious potential in design iteration and advertisement analytics. Huge shoutout to my incredible teammates Eric Ziyang Zhou , William Jiang , and Tyler Xiao for grinding until the very last second. And special thank you to Jeffrey Z. and all the Hacktech organizers for hosting and providing ungodly amounts of food and boba. And of course big thanks to all the judges as well! Go #Bruins wooooooo ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQEDZnIjrqMscg/feedshare-shrink_800/B4EZ3QXPNNIcAc-/0/1777317247487?e=2147483647&v=beta&t=shMNjIORVP6ZimM-Wjx0jHSot8PDD5-_2paMvwaetIw",
+        "id": "7454608847706554369"
+      },
+      {
+        "interaction": "Jonathan Ouyang shared this",
+        "link": "https://www.linkedin.com/posts/jon-ouyang_intern-google-summer2026-activity-7436831263732297729-hy_L",
+        "title": "I'll be joining Google DeepMind this summer as a Software Engineer Intern in Mountain View, reporting directly to Logan Kilpatrick ! It was an incredible journey to get to this point, and I can't believe I finally have the honor of saying that sentence. Thank you so much everyone who stood behind me and fought for me. I would like to thank all my recruiters: Marcelo S. (my main recruiter!), Rachel Barnes , Gillian Barnes, and the unnamed DeepMind recruiters behind the scenes! I would like to thank ALL the Googlers who vouched me internally at Google : Barrett Rosenbaum (THE GOAT), Lloyd Bryant Hightower and Jay C. , (my favorite PMMs) Paige Bailey , Joana Carrasqueira , Jackson Steele , and Omar Elamri And thank you to my host Logan Kilpatrick for taking the chance on me. I love Gemini, and I'll be sure that my work this summer reflects my love for the game and what we do. My personal goal this summer is to meet as many new people as possible! Googler or not, If you're in the Bay Area this summer lets chat! Google for Developers Google AI for Developers #Intern #Google #Summer2026 #AI #DeepMind #Gemini ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQF_qUl6ASMb1w/feedshare-image-high-res/B56ZzTuoMzIYAU-/0/1773078742057?e=2147483647&v=beta&t=CNy462IeW5ZqicSoXjlKBBGqV8ufvvRBRqGbw8mTwfQ",
+        "id": "7436831263732297729"
+      },
+      {
+        "interaction": "Jonathan Ouyang shared this",
+        "link": "https://www.linkedin.com/posts/jon-ouyang_gemini-gemini-aistudio-activity-7427449842383196161-IKg1",
+        "title": "This is my vision for the future of Gemini and AI Assistants. Computer Use + Browser Use + Command Line Agent + On Screen Annotation. I finally got around to building a quick experimental product and demo (although a bit rushed), using the #Gemini models (thanks Barrett Rosenbaum & Lloyd Bryant Hightower for convincing me to post!). It's powered by: \ud83d\udd39 JAYU: My original computer-use agent architecture. \ud83d\udd39 Gemini Agentic Vision (thanks for the inspiration \ud83e\udd9d Paul Ruiz Ruiz) \ud83d\udd39 Browserbase (shoutout Paul Klein IV & Kyle Jeong for always showing up in my feed) \ud83d\udd39 Gemini CLI (modified from the open source code) \ud83d\udd39 Native Drawing: My own architecture enabling real-time on-screen annotation. I'm continuing my work on general Computer Use agents, but this is an area and mission that I think I've committed to working towards for the forseeable future (hopefully at Google or Google DeepMind \ud83d\ude36 ) If you also love this space, let's chat! Also if you're hiring a SWE/AI intern.... Check out the teaser here: https://lnkd.in/gMpCTYm8 #Gemini #AIStudio #BuildWithGemini #GoogleDeepMind Google AI for Developers Google Research ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D5605AQFndIaVNMkwZQ/feedshare-thumbnail_720_1280/B56ZxOaKytJoA4-/0/1770842018009?e=2147483647&v=beta&t=a_TwAt1yr2Dj8fN1Omvrpw_DycQkIyB2Et04J43VEsI",
+        "id": "7427449842383196161"
+      },
+      {
+        "interaction": null,
+        "link": "https://www.linkedin.com/posts/uclaengineering_ucla-computer-science-student-winner-of-activity-7354625551757660160-klZV",
+        "title": "Jonathan Ouyang , a rising second year UCLA Computer Science student, won a Google Gemini Developer competition in his freshman year for developing a voice-activated #AI assistant that can interact directly with on-screen content to improve user experience. #engineerchange UCLA https://lnkd.in/g2SuH2kW ...more ...more",
+        "img": "https://media.licdn.com/dms/image/sync/v2/D5627AQGQq35KFU_vxw/articleshare-shrink_800/B56ZgPWhdBGUAM-/0/1752604220895?e=2147483647&v=beta&t=KoxndUbxE1z-4FKNV7r0H9dyYZO9WpgQhU2FgjsMrlE",
+        "id": "7354625551757660160"
+      },
+      {
+        "interaction": null,
+        "link": "https://www.linkedin.com/posts/googleai_developed-using-geminis-advanced-vision-activity-7328449153234096129-XEkN",
+        "title": "Developed using Gemini\u2019s advanced vision capabilities, Jayu is an agentic AI assistant designed for seamless interaction. It responds to voice and hand commands, tracks gestures, and interacts directly with digital elements on your computer screen. ...more ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D5610AQFF135T8marnw/ads-video-thumbnail_720_1280/B56ZbPhjZnGgAo-/0/1747238413133?e=2147483647&v=beta&t=IZOAzbMCmztoENJN8MigtvIAvQCa8AqeTb3xgaRjez0",
+        "id": "7328449153234096129"
+      },
+      {
+        "interaction": "Jonathan Ouyang shared this",
+        "link": "https://www.linkedin.com/posts/jon-ouyang_amazon-swe-amazonintern-activity-7298170681614028800-2kP5",
+        "title": "I'm excited to share that I will be joining Amazon as a Software Engineer Intern this summer in Culver City. Thank you everyone who supported me, including but not limited to my goated mentors Gloria Yang and Jackson Steele , and my boy Sunny Vinay who went through this journey with me and will also be joining Amazon this summer as well, and all of my friends who cheered me on! And Cris Velazquez for motivating me. And for those of you who are still reading, stay tuned for more crazy projects with Google Gemini and the Google Team \ud83d\ude0e Now here's some hashtags that I definitely didn't steal from someone else's post: #Amazon #SWE #AmazonIntern #SoftwareEngineering #Intern #CareerGrowth ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQHzfXE1dZHEeg/feedshare-shrink_800/B56ZUhPjk5GsAk-/0/1740019483194?e=2147483647&v=beta&t=GRATa_G8wbvyrD488ds40A_w6Cf8QIAklUGDMA6cy9w",
+        "id": "7298170681614028800"
+      },
+      {
+        "interaction": null,
+        "link": "https://www.linkedin.com/posts/lloydhightower_announcing-the-winners-of-the-gemini-api-activity-7265491824939544576-MbKR",
+        "title": "Inspired by the Future of AI: This year, we were blown away by the incredible talent and innovation showcased by developers worldwide. Over 45,000 registered and 4,500 submitted their AI-powered creations to the Gemini API developer competition! A standout was Jonathan Ouyang , a first-semester college student who took home the grand prize for his next-gen AI personal assistant. He started building this groundbreaking app before even stepping foot on UCLA's campus! \ud83e\udd2f Guido Marangoni built \u2764\ufe0f Vite Vere. An app that aims to support people with cognitive disabilities in their journey to independence won the most impactful & people\u2019s choice award. Both apps video submissions can be found below as well as the other amazing winners and their projects. #AI #innovation #futureoftech #developer #machinelearning #google #LLM ...more ...more",
+        "img": "https://media.licdn.com/dms/image/sync/v2/D4D27AQGQC9WPxR-agQ/articleshare-shrink_800/articleshare-shrink_800/0/1732212650869?e=2147483647&v=beta&t=8z8_TWqMDoe0M1NLNs_-teLRxN3_WTlswo25X39hVXQ",
+        "id": "7265491824939544576"
+      },
+      {
+        "interaction": "Jonathan Ouyang liked this",
+        "link": "https://www.linkedin.com/posts/tuanng_reaching-%F0%9D%9F%AD-%F0%9D%97%AF%F0%9D%97%B6%F0%9D%97%B9%F0%9D%97%B9%F0%9D%97%B6%F0%9D%97%BC%F0%9D%97%BB-monthly-users-activity-7493245999876952064-WwcK",
+        "title": "\ud83c\udf89 Reaching \ud835\udfed \ud835\uddef\ud835\uddf6\ud835\uddf9\ud835\uddf9\ud835\uddf6\ud835\uddfc\ud835\uddfb monthly users on the \ud835\uddda\ud835\uddf2\ud835\uddfa\ud835\uddf6\ud835\uddfb\ud835\uddf6 \ud835\uddee\ud835\uddfd\ud835\uddfd makes it the fastest-growing product in Google history! \ud83c\udf89 In my 12+ years at Google, I have seen many 1-billion-user success stories. But none of them have touched my heart \ud83d\udc96 like this one. It is my career, my best friends' careers, and it has our souls in it. I am very proud to be a part of this journey and beyond. At I/O 2024, when we showed the world Project Astra, Demis Hassabis shared a vision of the universal assistant. Look how far we've come! It has transformed how people interact with our technology, and the Gemini app has made Gemini feel more human. I am committed to working hard to bring this vision to life. This is a huge accomplishment, but it is still just the beginning. There are 7+ billion people out there who do not use Gemini yet\u2014many of them not because they don't want to, but because they don't have the tech and hardware to access it. Let's never stop working together toward the mission: \"to make AI helpful for everyone.\" We are almost at the point of solving intelligence, and then we will be ready to use that to solve everything else. \ud83d\ude0a Here's how people are using it every day: \u2022 \ud835\udff0\ud835\udfec+ Android apps with automated actions \u2022 \ud835\udfed \ud835\uddf6\ud835\uddfb \ud835\udff1 Live sessions use camera or screen sharing \u2022 \ud835\udfef\ud835\udff4% of school requests include an attachment. \u2022 \ud835\udff2\ud835\udfef% talk directly via voice \u2022 \ud835\udfed\ud835\udff1\ud835\udfec\ud835\udde0+ images generated daily \u2022 \ud835\udfed\ud835\udfec\ud835\udfec\ud835\udde0+ active users on iOS Read the full blog post: https://lnkd.in/eAJGtGDK",
+        "img": "https://media.licdn.com/dms/image/v2/D4E05AQEf_7LOXc_GbQ/videocover-high/B4EZ_1bfjzJQBQ-/0/1786529054636?e=2147483647&v=beta&t=trJQYUf_a7v8AvHAMr2isSlfFv9-C7DH_YGS8ilaVf0",
+        "id": "7493245999876952064"
+      },
+      {
+        "interaction": "Jonathan Ouyang liked this",
+        "link": "https://www.linkedin.com/posts/logankilpatrick_there-is-something-beautiful-about-the-rawness-activity-7492574751706603520-gYWC",
+        "title": "there is something beautiful about the rawness of the morning: the quiet, the calm, the body and mind still warming up, feels incredibly human",
+        "img": null,
+        "id": "7492574751706603520"
+      },
+      {
+        "interaction": "Jonathan Ouyang liked this",
+        "link": "https://www.linkedin.com/posts/rosey-choi_happy-to-share-that-i-had-the-opportunity-activity-7491560251373162496-n-Of",
+        "title": "Happy to share that I had the opportunity to participate in K Tech Pioneers, a startup program that brought together aspiring entrepreneurs, innovators, and great minds! It was a truly meaningful experience where I had the chance to learn more about the startup journey, gain valuable insights, and connect with so many amazing people. A special thank you to our guest speaker, Ken, Hyung Il Kim , for sharing their experience, knowledge, and valuable advice with us. Grateful for the experience, the connections, and everything I learned! \ud83d\ude80",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQEVGdE5sbuXyw/feedshare-shrink_800/B4EZ_deWZSHMAc-/0/1786127148923?e=2147483647&v=beta&t=8Aupqe7OuyqeWgGjOSYyQq8O2mKF6gi0GBmBRqHy3wc",
+        "id": "7491560251373162496"
+      },
+      {
+        "interaction": "Jonathan Ouyang liked this",
+        "link": "https://www.linkedin.com/posts/jvngyn_sohow-are-students-expected-to-figure-activity-7489851715073236992-W0Wj",
+        "title": "So....how are students expected to figure out which university recruiter is supposed to be recruiting for what? I highkey think it is running it down mid when people encourage students to reach out to recruiters, but not specify to them the person they're reaching out to might not (A) be a university recruiter in the first place, (B) be the aligned recruiter for what they're interested in, or (C) be someone that can even help. All the while, they burn their precious InMail credits in doing so. I think students are frustrated with recruiting because they don't know who is responsible for what, because they believe that knowing will give them an edge. At the same time, I am experienced enough to know that everyone has different worldviews when it comes to their social media and privacy, and a response is not owed. Which is why most recruiters might not be respond to LinkedIn messages. The thing is, if it stands that there are those who don't respond to messages, it stands to reason that some \ud835\udc26\ud835\udc22\ud835\udc20\ud835\udc21\ud835\udc2d. In that vein, my reminder to my students is this - congratulation posts and announcement posts do serve a purpose, and this can help if you plan ahead. When written on LinkedIn , students usually thank their recruiting coordinators, sourcers, and/or university recruiters that they've worked with. I can happily confirm this because I'm tagged in these posts. So if that connection of yours has the internship/new grad role you're specifically interested in, they likely have survived the recruiting process and those people they've thanked, were \ud835\udc22\ud835\udc27\ud835\udc2f\ud835\udc28\ud835\udc25\ud835\udc2f\ud835\udc1e\ud835\udc1d with their recruiting in that genre of internship. hint >_> hint >_> !!!! hint >_> !!!!!!!!!!!!! Check their profiles. Check their job title. Check their posts. Use context clues to come to a conclusion. Then, send a message respectfully. And be mindful of the calendar too! The world is a big place and recruiters are \ud835\udc27\ud835\udc28\ud835\udc2d all the same. In the vein that some recruiters don't respond to everyone, then there has to be recruiters that sincerely try when they can. So it is my hope that this advice helps students find those rare recruiters, because I promise that they do exist! I choose to believe that there are recruiters out there that do fight the good fight and when they find windows for air, they respond where they can. Whether they are able to help depends entirely on circumstance, so please be mature enough to accept this. I do believe there are lots of kind recruiters out there, because I choose to believe there are kind people. You'd be surprised how big the world is and what kind of internships exist, when you look at different avenues that others aren't. I hope this helps :)",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQEdzBiuf1U0bw/feedshare-shrink_800/B56Z_FMcmsGQAg-/0/1785719802509?e=2147483647&v=beta&t=cg7NDZmnx6XSUB9Vt-ewTkyGL_rkFFkB08GdFXIAlAA",
+        "id": "7489851715073236992"
+      },
+      {
+        "interaction": "Jonathan Ouyang liked this",
+        "link": "https://www.linkedin.com/posts/nicolas-heess-5600922b8_dexterity-is-not-all-about-hands-heres-activity-7488906445023903744-1tpc",
+        "title": "Dexterity is not all about hands: Here's a glance of the precision and robustness of Google DeepMind 's Gemini Robotics 2 on the FR3 Duo with grippers: 20 minutes of uninterrupted, real-time tool kitting. Notice the emergent recovery behaviours! Stay tuned for more \ud83d\ude42",
+        "img": "https://media.licdn.com/dms/image/v2/D4E05AQGCengW1qcHxg/videocover-high/B4EZ.3woz3HsBQ-/0/1785494415397?e=2147483647&v=beta&t=chUulmqgv6eMPf-6mg9N-PmsNqZHTtmJOxYUXWLI0NM",
+        "id": "7488906445023903744"
+      },
+      {
+        "interaction": "Jonathan Ouyang liked this",
+        "link": "https://www.linkedin.com/posts/william-xp-wei_opentowork-activity-7486215628714876928-OM-u",
+        "title": "Just this past Tuesday night, when I finished babysitting my Codex \"/goal\" and went to bed, I did not expect to wake up at 3AM to a message saying that my role at the Amazon AGI SF Lab had been eliminated. It turned out that it was not just me\u2014the entire lab had been shut down. I am still processing the news, but I have calmed down enough to reflect on my one year and two months at the lab. It was my first full-time job, and it was a team and mission that I cared about deeply. Looking back, the feeling that stands out most is gratitude. First, I want to thank my manager, Xiangjun (XJ) Wang , for allowing me to enter the world of large-scale reinforcement learning for agent training. I still remember we started on veRL, added vision-language model(VLM) support, and integrated internal WebGym environments so we could train RL exceeding 1,000 steps, and we delivered Nova Act at last year\u2019s re:Invent, pushing the frontier of computer-use agents(CUA). This year, with only two engineers, we migrated to Slime to take advantage of its modular architecture and stronger support for asynchronous RL. We improved its fully asynchronous training, added support for long-horizon agent training, and ultimately used it to train a 100B MoE model that achieved 70 on SWE-bench Verified and 45 on Terminal-Bench, surpassing GPT-OSS, Nemotron 3 super, and Gemm4 31B. After DeepSeek V4 was released, we decided to scale our RL even further, toward models with more than 1T+ parameters. We migrated to Miles for faster support of open-source models and better compatibility with Blackwell GPUs. We were almost there. The mid-train was nearly complete. The RL data was ready. And then, everything stopped. I am equally grateful to my talented and extraordinarily reliable colleagues. You have been my closest friends, collaborators, and teachers. One of the things I valued most about this team was that there was no rigid boundary between infra and algorithms. Cross-disciplinary collaboration was not only encouraged\u2014it was essential. Many of the hardest problems in RL require expertise from both sides. For example, truncated importance sampling(TIS) is an algo solution to a difficult systems problem: the mismatch between training and inference engines. Our fully asynchronous RL training recipe was also the result of close collaboration between infrastructure and algorithm researchers. Also, as someone who wants to understand the entire stack, I learned far more than infra alone. PPO, GRPO, value functions, etc., are no longer black boxes to me; data triage and curation were equally fascinating; I learned which metrics matter for evaluating an RL run. The list goes on. This experience will remain one of the highlights of my life. I will remember this team, the problems we tackled, and everything we built together. I wish everyone the very best, and I sincerely hope our paths cross again. Finally, I am open to new opportunities. #OpenToWork",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQHoyuI3dxuoGw/feedshare-shrink_800/B56Z.RhcUMKgAc-/0/1784852891174?e=2147483647&v=beta&t=Ysvu2_qqKp39DbbTiwe5Q0somPVd0vnqEw0jYIO176s",
+        "id": "7486215628714876928"
+      },
+      {
+        "interaction": "Jonathan Ouyang liked this",
+        "link": "https://www.linkedin.com/posts/ravid-shwartz-ziv-8bb18761_neurips-reviews-are-out-at-this-point-its-activity-7486123230894743554-m28j",
+        "title": "NeurIPS reviews are out. At this point it's an arms race where both sides have the same supplier. You write the paper with Opus 4.6, the reviewer writes the review with Opus 4.7, and now we get to rebut with Opus 4.8. Let's just hope Opus 5 doesn't ship before the discussion period closes.",
+        "img": null,
+        "id": "7486123230894743554"
+      },
+      {
+        "interaction": "Jonathan Ouyang liked this",
+        "link": "https://www.linkedin.com/posts/jwaterman_huge-thank-you-to-everyone-who-joined-us-activity-7486087770575220736-mtPh",
+        "title": "Huge thank you to everyone who joined us for Greylock Techfair 2026 at Oracle Park last week! The energy everyone brought was infectious. Bringing together 500+ students and 30+ startups sparked countless new connections and meaningful conversations among an incredibly talent-dense community of builders and founders. Thank you to the teams from OpenAI , Ramp , Baseten , Applied Intuition , Nuro , Cognition , Harvey , Glean , Instawork , Modular , Cresta , Snorkel AI , LlamaIndex , Opal Security , Onehouse , Bedrock Data , Axiamatic , Cylake , Locus, Forge , Cogent , Lightfield , Mandolin , Netic , Listen Labs , Altara , Fable Security , Poetic , SuperMe , AHUM AI , and others (still in stealth) for taking the time to meet with students and offer them a closer look at what you're building. Already counting down to next year!",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQHs1HxNV5XiXg/feedshare-shrink_800/B56Z.MAGejKMAg-/0/1784760266804?e=2147483647&v=beta&t=TRL2WF2A6uSos_qUfMrJdjN7EPDYgygSL_RZAGFHpxs",
+        "id": "7486087770575220736"
+      }
+    ],
+    "linkedin_num_id": "1077115790",
+    "banner_image": "https://media.licdn.com/dms/image/v2/D5616AQEa6c-NYi9BtA/profile-displaybackgroundimage-shrink_200_800/B56Z3EvZTyGgAU-/0/1777122258017?e=2147483647&v=beta&t=F6ioJfEAhCDsMhGMulyw9P8oFshlgilCJfoi1AYVAQw",
+    "honors_and_awards": [
+      {
+        "title": "Google Gemini API Developer Competition Grand Prize Winner",
+        "publication": "Google",
+        "date": "2024-11-01T00:00:00.000Z",
+        "description": "Winner of the Grand Prize of a CUSTOM 1981 ELECTRIC DELOREAN + 60k Cash. First place out of 4,500+ submissions from 45,500+ developers from 119 countries. Developed a next generation AI personal assistant that can access and interact with your screen and computer directly. The first computer use agent before Anthropic Claude Computer Use, OpenAI Operator, and Google Gemini Project Mariner"
+      },
+      {
+        "title": "ACM Tech Gala Winner",
+        "publication": "ACM",
+        "date": null,
+        "description": "Won a $60 Amazon Giftcard for most innovative! Thank you Professor Eggert :)"
+      },
+      {
+        "title": "Gerald J. Popek Scholarship",
+        "publication": "UCLA Samueli School of Engineering",
+        "date": null,
+        "description": "The Gerald J. Popek Scholarship was established in 2008 to support undergraduate engineering students in Computer Science, and who plan to pursue graduate education in Computer Science. Awarded $6,677.00 USD"
+      },
+      {
+        "title": "Samueli Foundation Engineering Undergraduate Centennial Matching Scholarship",
+        "publication": "UCLA Samueli School of Engineering",
+        "date": null,
+        "description": "To support scholarships for undergraduate students at the UCLA Henry Samueli School of Engineering and Applied Science. The funding will also provide aid to students to participate in an internship or research program as well as to support diversity programming, under the direction of the Dean. Awarded $8,323.00 USD"
+      }
+    ],
+    "similar_profiles": [],
+    "default_avatar": false,
+    "memorialized_account": false,
+    "bio_links": [
+      {
+        "title": "Portfolio",
+        "link": "https://www.jonathanouyang.com/projects"
+      }
+    ],
+    "first_name": "Jonathan",
+    "last_name": "Ouyang",
+    "influencer": false,
+    "timestamp": "2026-08-12T19:06:14.337Z",
+    "input": {
+      "url": "https://www.linkedin.com/in/jon-ouyang"
+    }
+  },
+  "local_photo": "data\\linkedin_photos\\jon-ouyang__usr-LyvPFhurKpgUcoh.jpg"
+}

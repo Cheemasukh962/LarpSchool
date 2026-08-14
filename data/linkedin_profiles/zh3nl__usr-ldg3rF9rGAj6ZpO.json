@@ -1,0 +1,653 @@
+{
+  "luma_user_id": "usr-ldg3rF9rGAj6ZpO",
+  "csv_name": "Zhen Liu",
+  "csv_linkedin": "https://www.linkedin.com/in/zh3nl",
+  "enriched_at": "2026-08-12T19:25:08.258968+00:00",
+  "batch_id": "sd_msqh7u7r1xzwli6vdk",
+  "profile": {
+    "id": "zh3nl",
+    "name": "Zhen Liu",
+    "city": "San Francisco Bay Area",
+    "country_code": "US",
+    "position": null,
+    "about": "Interested in foundational models, ML systems, trading, math, and physics. Contact\u2026",
+    "current_company": {
+      "link": "https://www.linkedin.com/school/ucsf/?trk=public_profile_topcard-current-company",
+      "name": "University of California, San Francisco",
+      "location": null
+    },
+    "experience": null,
+    "url": "https://ch.linkedin.com/in/zh3nl",
+    "educations_details": "University of California, Berkeley",
+    "education": [
+      {
+        "title": "University of California, Berkeley",
+        "url": "https://www.linkedin.com/school/uc-berkeley/",
+        "start_year": "2024-08",
+        "end_year": "2028-05",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      },
+      {
+        "start_year": "2024-08",
+        "end_year": "2028-05",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      },
+      {
+        "start_year": "2020",
+        "end_year": "2024",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      },
+      {
+        "start_year": "2023-08",
+        "end_year": "2023-12",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      }
+    ],
+    "avatar": "https://static.licdn.com/aero-v1/sc/h/9c8pery4andzj6ohjkjp54ma2",
+    "courses": [
+      {
+        "subtitle": "Math 110",
+        "title": "Abstract Linear Algebra"
+      },
+      {
+        "subtitle": "Physics 7A",
+        "title": "Classical Mechanics"
+      },
+      {
+        "subtitle": "CDSS 170",
+        "title": "Data Discovery Research Practicum"
+      },
+      {
+        "subtitle": "CS 61B",
+        "title": "Data Structures"
+      },
+      {
+        "subtitle": "CS C182",
+        "title": "Designing, Visualizing and Understanding Deep Neural Networks"
+      },
+      {
+        "subtitle": "CS 70",
+        "title": "Discrete Mathematics and Probability Theory"
+      },
+      {
+        "subtitle": "Physics 7B",
+        "title": "Electricity & Magnetism"
+      },
+      {
+        "subtitle": "EECS 16A",
+        "title": "Foundations of Signals, Dynamical Systems, and Information Processing"
+      },
+      {
+        "subtitle": "CS 61C",
+        "title": "Great Ideas of Computer Architecture (Machine Structures)"
+      },
+      {
+        "subtitle": "IEOR 198",
+        "title": "Intro to Quant Finance"
+      },
+      {
+        "subtitle": "EECS 16B",
+        "title": "Introduction to Circuits & Devices"
+      },
+      {
+        "subtitle": "CS 365",
+        "title": "Introduction to Instructional Methods in Computer Science for Academic Interns"
+      },
+      {
+        "subtitle": "CS 189",
+        "title": "Introduction to Machine Learning"
+      },
+      {
+        "subtitle": "EECS 183",
+        "title": "Natural Language Processing"
+      },
+      {
+        "subtitle": "CS 162",
+        "title": "Operating Systems and System Programming"
+      },
+      {
+        "subtitle": "EECS 127",
+        "title": "Optimization Models in Engineering"
+      },
+      {
+        "subtitle": "EECS 126",
+        "title": "Probability and Random Processes"
+      },
+      {
+        "subtitle": "CS 164",
+        "title": "Programming Languages & Compilers"
+      },
+      {
+        "subtitle": "CS 61A",
+        "title": "The Structure and Interpretations of Computer Programs"
+      }
+    ],
+    "languages": [
+      {
+        "subtitle": "Native or bilingual proficiency",
+        "title": "English"
+      },
+      {
+        "subtitle": "Native or bilingual proficiency",
+        "title": "Chinese"
+      }
+    ],
+    "certifications": [
+      {
+        "meta": "Issued Aug 2025 See credential",
+        "subtitle": "Akuna Capital",
+        "title": "Options Trading 101",
+        "credential_url": "https://akunacapital.teachable.com/courses/837423/certificate?utm_source=student_mailer&utm_medium=email&utm_campaign=issued_certificate_notification&trk=public_profile_see-credential",
+        "credential_id": null
+      },
+      {
+        "meta": "Issued Jul 2025 See credential",
+        "subtitle": "Anthropic",
+        "title": "Claude Code in Action",
+        "credential_url": "https://verify.skilljar.com/c/7dgguu7jiuz5?trk=public_profile_see-credential",
+        "credential_id": null
+      },
+      {
+        "meta": "Issued Jul 2025 See credential",
+        "subtitle": "Udacity",
+        "title": "Introduction to Generative AI with AWS",
+        "credential_url": "https://www.linkedin.com/www.udacity.com/certificate/e/149c3dec-5187-11f0-8fa0-0fcae1e6c2ba?trk=public_profile_see-credential",
+        "credential_id": null
+      },
+      {
+        "meta": "Issued Jul 2025 See credential",
+        "subtitle": "Amazon Web Services (AWS)",
+        "title": "Machine Learning Foundation (AWS Labs)",
+        "credential_url": "https://www.credly.com/badges/2ccead58-bce5-4971-8032-0892580e25e4?trk=public_profile_see-credential",
+        "credential_id": null
+      },
+      {
+        "meta": "Issued Jun 2025 Credential ID zh3nl-fedl See credential",
+        "subtitle": "freeCodeCamp",
+        "title": "Front End Development Libraries",
+        "credential_url": "https://freecodecamp.org/certification/zh3nl/front-end-development-libraries?trk=public_profile_see-credential",
+        "credential_id": "zh3nl-fedl"
+      },
+      {
+        "meta": "Issued Oct 2024 Credential ID zh3nl-jaads See credential",
+        "subtitle": "freeCodeCamp",
+        "title": "JavaScript Algorithms and Data Structures (Beta)",
+        "credential_url": "https://freecodecamp.org/certification/zh3nl/javascript-algorithms-and-data-structures-v8?trk=public_profile_see-credential",
+        "credential_id": "zh3nl-jaads"
+      },
+      {
+        "meta": "Issued Jun 2024 See credential",
+        "subtitle": "LinkedIn",
+        "title": "Public Speaking: Find Your Confidence",
+        "credential_url": "https://www.linkedin.com/learning/certificates/0558f105ec339fd511bc19afa2643747c7b65d7d977c136bb17fce51c838edce?trk=public_profile_see-credential",
+        "credential_id": null
+      },
+      {
+        "meta": "Issued May 2024 See credential",
+        "subtitle": "LinkedIn",
+        "title": "Crunch Time Tips to Nail Your Next Presentation",
+        "credential_url": "https://www.linkedin.com/learning/certificates/7279922af596e73bf63d2464d96bf9535c64552a3b4d200e1114c67ea7e40a51?trk=public_profile_see-credential",
+        "credential_id": null
+      },
+      {
+        "meta": "Issued Jun 2023 See credential",
+        "subtitle": "freeCodeCamp",
+        "title": "Legacy JavaScript Algorithms and Data Structures",
+        "credential_url": "https://freecodecamp.org/certification/zh3nl/javascript-algorithms-and-data-structures?trk=public_profile_see-credential",
+        "credential_id": null
+      },
+      {
+        "meta": "Issued Apr 2023 See credential",
+        "subtitle": "freeCodeCamp",
+        "title": "Responsive Web Design",
+        "credential_url": "https://freecodecamp.org/certification/zh3nl/responsive-web-design?trk=public_profile_see-credential",
+        "credential_id": null
+      }
+    ],
+    "volunteer_experience": [
+      {
+        "duration": "Aug 2025 \u00b7 - Present \u00b7 \n\n1 year 1 month",
+        "duration_short": "- Present",
+        "start_date": "Aug 2025",
+        "subtitle": "Independent",
+        "title": "Poker Player"
+      },
+      {
+        "cause": "Science and Technology",
+        "duration": "Sep 2025 \u00b7 - \nDec 2025 \u00b7 \n4 months",
+        "duration_short": "- \nDec 2025",
+        "info": "Quantum ML: Reducing the time complexity of tree of thought prompting (ToT) using Grover's Algorithm",
+        "start_date": "Sep 2025",
+        "subtitle": "Quantum Computing at Berkeley",
+        "title": "ML Subgroup"
+      },
+      {
+        "cause": "Social Services",
+        "duration": "Oct 2023 \u00b7 - \nJun 2024 \u00b7 \n9 months",
+        "duration_short": "- \nJun 2024",
+        "start_date": "Oct 2023",
+        "subtitle": "City of Rancho Cucamonga",
+        "title": "Student Volunteer"
+      },
+      {
+        "cause": "Social Services",
+        "duration": "Aug 2020 \u00b7 - \nApr 2024 \u00b7 \n3 years 9 months",
+        "duration_short": "- \nApr 2024",
+        "info": "430+ service hours across various community events and service projects. Fundraising Committee, Fundraising Chair, Treasurer, President, D15N Main Merch Coordinator, CNH District Technology Team.",
+        "start_date": "Aug 2020",
+        "subtitle": "Key Club International",
+        "title": "Student Volunteer + Various Leadership Roles"
+      },
+      {
+        "cause": "Science and Technology",
+        "duration": "Aug 2021 \u00b7 - \nMay 2024 \u00b7 \n2 years 10 months",
+        "duration_short": "- \nMay 2024",
+        "info": "Lead4Change Committee Public Relations + Competitions in Computer Science, Finance, and Business.",
+        "start_date": "Aug 2021",
+        "subtitle": "Future Business Leaders of America, Inc. (FBLA)",
+        "title": "Various Roles"
+      },
+      {
+        "cause": "Social Services",
+        "duration": "Aug 2021 \u00b7 - \nMay 2024 \u00b7 \n2 years 10 months",
+        "duration_short": "- \nMay 2024",
+        "start_date": "Aug 2021",
+        "subtitle": "National Honors Society (NHS)",
+        "title": "Member"
+      },
+      {
+        "cause": "Health",
+        "duration": "Aug 2022 \u00b7 - \nMay 2024 \u00b7 \n1 year 10 months",
+        "duration_short": "- \nMay 2024",
+        "start_date": "Aug 2022",
+        "subtitle": "American Cancer Society",
+        "title": "Chapter Public Relations + Activities Director"
+      },
+      {
+        "duration": "Aug 2019 \u00b7 - \nMay 2024 \u00b7 \n4 years 10 months",
+        "duration_short": "- \nMay 2024",
+        "start_date": "Aug 2019",
+        "subtitle": "California Scholarship Federation",
+        "title": "Highest Honor Elite Member"
+      },
+      {
+        "duration": "Aug 2022 \u00b7 - \nMay 2024 \u00b7 \n1 year 10 months",
+        "duration_short": "- \nMay 2024",
+        "info": "Assisted with fund management and development of Computer Science education.",
+        "start_date": "Aug 2022",
+        "subtitle": "Science National Honor Society",
+        "title": "Chapter Co-Founder + Treasurer"
+      },
+      {
+        "cause": "Arts and Culture",
+        "duration": "Aug 2021 \u00b7 - \nMay 2024 \u00b7 \n2 years 10 months",
+        "duration_short": "- \nMay 2024",
+        "start_date": "Aug 2021",
+        "subtitle": "Asian Student Union",
+        "title": "Co-Founder + Treasurer"
+      },
+      {
+        "duration": "Jul 2025 \u00b7 - \nDec 2025 \u00b7 \n6 months",
+        "duration_short": "- \nDec 2025",
+        "info": "TMT L/S equity.",
+        "start_date": "Jul 2025",
+        "subtitle": "Global Delta Securities",
+        "title": "Equity Research Analyst"
+      }
+    ],
+    "followers": 1553,
+    "connections": 500,
+    "current_company_name": "University of California, San Francisco",
+    "projects": [
+      {
+        "title": "Chocopy Compiler - Programming Languages & Compilers (CS 164)",
+        "start_date": "Feb 2026",
+        "description": "- Built an end-to-end compiler in Java for ChocoPy, a statically typed Python dialect, covering lexical analysis, parsing, semantic analysis, type checking, and RISC-V code generation- Implemented a JFlex/CUP front end to tokenize ChocoPy programs and parse them into JSON abstract syntax trees- Developed semantic analysis passes with symbol tables, scope resolution, type inference annotations, and error reporting for invalid declarations, inheritance rules, and type mismatches- Generated executable RV32IM RISC-V assembly from typed ASTs, supporting functions, methods, classes, control flow, expressions, lists, strings, runtime checks, and dynamic dispatch- Validated compiler correctness using Maven, instructor-provided test suites, reference compiler comparisons, and execution in the Venus 164 RISC-V simulator- Optimized generated code using local and global optimization techniques to outperform the reference compiler on benchmark programs, reducing dynamic instruction counts by 30% on average (and up to 77% overall)"
+      },
+      null,
+      {
+        "title": "AlphaHedge",
+        "start_date": "Jan 2026",
+        "description": "AlphaHedge brings market research and stock analysis to retail investors through a multi-agent AI system. Get comprehensive fundamental, technical, and sentiment analysis for any stock in under 2 minutes."
+      },
+      null,
+      null,
+      {
+        "title": "CS61CPU",
+        "start_date": "Oct 2025",
+        "description": "Designed and built a 2-stage pipelined CPU that runs RISC-V instructions from scratch."
+      },
+      {
+        "title": "Posterity",
+        "start_date": "Oct 2025",
+        "description": "A prediction markets analytics platform that uses Bayesian statistical analysis to draw potential correlations between different prediction markets. The app also features AI-powered insights using cosine similarity calculations between different semantic embeddings of prediction markets."
+      },
+      null,
+      {
+        "title": "CS61Classify",
+        "start_date": "Sep 2025",
+        "description": "RISC-V machine learning classification algorithm for handwritten digits.Focused on implementing matrix operations and linear algebra concepts using RISC-V."
+      },
+      {
+        "title": "snek",
+        "start_date": "Sep 2025",
+        "description": "The Snake game coded in C.Focused on concepts of algorithmic logic and memory management in C."
+      },
+      {
+        "title": "Axon - HackTech 2025",
+        "start_date": "Apr 2025",
+        "description": "Axon is a lightweight software that intuitively visualizes your codebase using a tree. Axon can also detect high-risk code components and create automated refactoring suggestions (with code snippet) using LLMs and GitHub Actions."
+      },
+      null,
+      null,
+      null,
+      {
+        "title": "Knowledge Graph",
+        "start_date": "Mar 2025",
+        "description": "A second brain for those late-night study sessions.Tech-stack:Frontend: React, Tailwind CSS, TypeScript, Vite, ShadcnUI, and Sigma.jsBackend: SupabaseAI: ClaudeMade entirely on Lovable, with love (and the help of manual debugging in my own IDE)."
+      },
+      {
+        "title": "Syllabus Scanner - SB Hacks XI",
+        "start_date": "Jan 2025",
+        "description": "Syllabus Scanner is a comprehensive academic planner that provides syllabus summaries, review course prerequisites, and add key course events to Google Calendars.Tech-Stack:Front-end: React, Tailwind CSSBack-end: FlaskAPIs: Anthropic Claude, Google OAuth"
+      },
+      null,
+      null,
+      null,
+      {
+        "title": "That's Fire! - UofT Hacks 12",
+        "start_date": "Jan 2025",
+        "description": "A web app that utilizes a self-trained machine learning model to locate wildfires and predict their potential trajectories.Tech-Stack:Front-end: Next.JS, Tailwind CSS, Three.JSBack-end: FlaskML: TensorFlowOther Tech: OpenAI API, MapBox GL JS Framework"
+      },
+      null,
+      null,
+      null,
+      {
+        "title": "Quizcribe - Cal Hacks 11.0",
+        "start_date": "Oct 2024",
+        "description": "Quizcribe is an educational software that supplements students with AI-powered study resources generated from inputted videos/audio. This project combines Deepgram's Speech-to-Text API and YouTube DL API for video/audio extraction and transcription. Quizcribe's content generation is powered by Google GeminiTech Stack: - Front-end: Next.js/React, Tailwind CSS, Material UI- Back-end: Django, Python- APIs: Deegram, Google Gemini, YouTube DL"
+      },
+      null,
+      null,
+      null,
+      {
+        "title": "Job Application Portal for Kaiba",
+        "start_date": "Jan 2024",
+        "description": "Job application portal and landing page for Kaiba Japanese Ramen & Sushi GrillThe website features an informational home page, a job listing page, a job application form, a contact form, and an about us page.Frontend: HTML, CSS, JavaScriptBackend: node.js, Google App Script, FormSubmitTools: VSCode, Github, Google Spreadsheets"
+      },
+      {
+        "title": "Storefront Website for Kaiba Japanese Ramen & Sushi Grill",
+        "start_date": "Dec 2022",
+        "description": "Project website for FBLA Web Design Competition. This website features a home page, email newsletter subscription, menu page, forms for fundraiser and catering organization, contact form, and an about page. The website is created in collaboration with local Asian American restaurant Kaiba Japanese Ramen & Sushi Grill.Awards: 9th Place for Web Design at FBLA National Leadership Conference, 4th Place for Web Design at FBLA California State Leadership Conference.Frontend: HTML, CSS, JavaScript, swiper.jsBackend: JavaScript, FormSubmitTools: VSCode, Github"
+      },
+      null,
+      null,
+      {
+        "title": "Word Password Generator",
+        "start_date": "Oct 2021",
+        "description": "Password generator designed to create passwords based on words rather than individual characters. This makes it easier to memorize while optimizing password strength. All rights reserved to Zhen Liu and contributing members.Frontend: HTML, CSS, JavaScriptBackend: JavaScriptTeam: Zhen Liu, Yan Bao, Ryan Kim, Zahed Siddiqui"
+      }
+    ],
+    "location": null,
+    "input_url": "https://www.linkedin.com/in/zh3nl",
+    "linkedin_id": "zh3nl",
+    "activity": [
+      {
+        "interaction": "Zhen Liu shared this",
+        "link": "https://www.linkedin.com/posts/zh3nl_recently-placed-40th-out-of-4013-competitors-activity-7485030773176094721-YLQP",
+        "title": "Recently placed 40th out of 4013 competitors in the Jump Trading Probability Cup, co-hosted by Jump Trading and SportsPredict.com for the FIFA 2026 World Cup! Overall stats: \ud83d\udccc 40th out of 4000+ players (top 1% globally) and 9th in the US \ud83d\udcca Collected +3.7 RBP of edge on average against the crowd, which converts to an average performance higher than 87% of participants \ud83c\udfc6 Achieved optimal calibration on 7 out of 7 categories, with a confidence bias of +3% Being my first forecasting competition, I didn't expect to do as well going into the World Cup, but here are my key takeaways: - Forecast the crowd, not the ground truth: Trying to predict the crowd average, then adjusting 1-3% in the direction you are more confident in resulted in better RBP performance on average while minimizing the risk you take. On multiple events, I received positive RBP for both outcomes, which helped hedge against some of the riskier bets I made - Adjust your forecasts right before the match: Checking lineups when they were announced gave me my best-performing category. Oftentimes this resulted in an edge greater than 10%, which was especially helpful during knockout games where there was 2x and 3x EV - Classical methods in statistics are still great: Rather than running complex ML models that I didn't understand, I modeled many events using Poisson distributions and Monte Carlo simulations, which proved to be just as accurate - Don't be afraid to take the contrarian bet: 2 out of 3 of my best-performing categories were due to contrarian bets, where my win rate was 55% and 73% respectively It was a great opportunity to dive into forecasting and apply probability, discretionary methods, and AI in decision-making under uncertainty. Thank you to Jump Trading and SportsPredict for organizing this competition. Looking forward to more forecasting in the future! ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQHRALPg-b3LAw/feedshare-shrink_800/B56Z99w6x0LAAc-/0/1784521403765?e=2147483647&v=beta&t=y4pujJApo9lqQNzFA6T_jzCYMoYrhFUBqRZMSgVsE80",
+        "id": "4013"
+      },
+      {
+        "interaction": "Zhen Liu shared this",
+        "link": "https://www.linkedin.com/posts/zh3nl_demoless-activity-7474883932757442561-YNTX",
+        "title": "For most B2B software companies, the live demo is where deals are won, and it is also the biggest bottleneck in the funnel. Demos do not scale: reps are expensive, they may not be available the instant a prospect is curious, and they cannot be in fifty time zones at once. Introducing Demoless, an agentic platform that embeds directly into Sales and GTM teams. Within the platform lives Messi, an AI product specialist who runs live, personalized software demos on your website, 24/7. Built in 24 hours during the Berkeley AI Hackathon, Messi listens through the microphone (speech to text), thinks, and answers out loud with a natural, low-latency voice. The visitor can interrupt mid-sentence, and Messi stops and adjusts, the way a real rep would. Before stating a fact, Messi retrieves the most relevant product documentation through semantic search, so answers are grounded in the company's real docs rather than random guesses. Every session is saved and analyzed into a post-demo packet for an operator dashboard, so the sales team gets structured, evidence-backed insights instead of a raw transcript. After each demo, the agent also reflects on how it went and creates self-improving learning loops to enhance future experiences. The voice architecture is powered by Deepgram , which was combined with WebSocket gateways that manage each conversation. Anthropic 's Claude Haiku was used as the brain and agent orchestrator, as we wanted to take a cost-conscious approach in scaling GTM automations. The browser sessions themselves were powered by Browserbase , with Redis and Redis Stack integrated for agent memory and the storage layer for knowledge bases of the products being demoed. Linked up with Fisher Zhang , Daniel Lin , and Jack Chen Lexin to spin up this agentic system from scratch and make it genuinely useful in real time. Shoutout to Tyler Lacroix and Shrey Pandya for the amazing feedback as we iterated. Give it a try and let me know what you think! Devpost: https://lnkd.in/gubbN2DC ...more",
+        "img": "https://media.licdn.com/dms/image/sync/v2/D5627AQFL6x9BGFFp4Q/articleshare-shrink_480/B56Z7tre9zGQAY-/0/1782104061001?e=2147483647&v=beta&t=H6iQ1g1ygi3UoCMpxXlz0UAHILHCZa2CdZ0RYg7JdaY",
+        "id": "7474883932757442561"
+      },
+      {
+        "interaction": "Zhen Liu shared this",
+        "link": "https://www.linkedin.com/posts/zh3nl_excited-to-announce-that-ill-be-attending-activity-7456439838481743872-y1bm",
+        "title": "Excited to announce that I'll be attending Y Combinator 's Startup School in July, where I'll learn from the likes of Jensen Huang , Sam Altman, Alexandr Wang, Tarek Mansour , Chelsea Finn , Jeff Dean , Blake Scholl , and Max Junestrand . If you're in the Bay Area this summer and working on: \u2192 Foundational models and ML systems \u2192 Developer tools \u2192 Fintech or trading \u2192 AI for science I'd love to connect and grab a coffee around the time of the event. Always down to meet new people and see what everyone is building. ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQHrGG31okLveA/feedshare-shrink_800/B56Z3qYhVaK4Ag-/0/1777753790225?e=2147483647&v=beta&t=RVjlA0QYXJqoz1iABgsPnN7ixvBcofTWbmN4ewrTsEM",
+        "id": "7456439838481743872"
+      },
+      {
+        "interaction": null,
+        "link": "https://www.linkedin.com/posts/spencermateega_today-im-thrilled-to-announce-afterquery-activity-7448024990865629184-F4hA",
+        "title": "Today, I\u2019m thrilled to announce AfterQuery \u2019s $30 million series A at a $300 million valuation to build the data layer powering the next generation of professional AI. Since closing a few months ago, we\u2019ve grown exponentially and have surpassed $100 million in revenue run rate. This round was led by Altos Ventures , with participation from The Raine Group , Y Combinator , Latitude Capital , and BoxGroup , and angels from Google DeepMind , OpenAI , Anthropic , Meta Superintelligence Labs, and Microsoft AI . For most of history, expertise has been scarce, constrained by time and reach: one person, one career, one lifetime. Now, for the first time, we can encode, evaluate, and scale it. We believe the wisdom that once took a lifetime to build shouldn\u2019t take a lifetime to find. Our datasets and reinforcement learning environments power every frontier AI lab and will redefine how millions of people around the world think, work, and interact. To our customers, colleagues, and partners, thank you. This is just the beginning. Read about our announcement blog post in the comments. ...more ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D4D05AQFoDFxPESnhbw/feedshare-thumbnail_720_1280/B4DZ1yzI4WLEA4-/0/1775747514981?e=2147483647&v=beta&t=tROaO2jJXj217zq6kzYyHHk9oaKVnb2D6fmUOkKQwiw",
+        "id": "7448024990865629184"
+      },
+      {
+        "interaction": "Zhen Liu shared this",
+        "link": "https://www.linkedin.com/posts/zh3nl_excited-to-announce-that-i-recently-joined-activity-7440089805591511040-EX3n",
+        "title": "Excited to announce that I recently joined Break Through Tech 's AI program as an AI/ML fellow as a part of the 2026-2027 cohort! Break Through Tech is an initiative of Cornell Tech that equips students with essential experience in data science, AI, and machine learning in the modern tech ecosystem. After completing a course in ML foundations this summer, I'll be tackling some interesting projects with industry leaders during the academic year. I like to thank my friends, family, and mentors for supporting me along the way. If you are also joining the AI program this cohort, I'd love to connect. Always down to chat with people building in the space. ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQGAR_OSiEdN9g/feedshare-shrink_800/B56Z0CCQVMKkAc-/0/1773855639108?e=2147483647&v=beta&t=r0VOVj6trttiePSsv59zUGWYHDiBiMO_FTe700xE0PQ",
+        "id": "7440089805591511040"
+      },
+      {
+        "interaction": "Zhen Liu shared this",
+        "link": "https://www.linkedin.com/posts/zh3nl_this-past-weekend-i-attended-the-sim-full-stack-activity-7421652999019859970-gy6J",
+        "title": "This past weekend, I attended the Sim Full-Stack Hackathon at the Y Combinator SF headquarters! Being my first time building with agents, I experimented with cross-agent orchestration by building AlphaHedge, An AI-powered quantitative research platform that provides quick market research and stock analysis for retail investors. Given the user's portfolio size, risk tolerance, and time horizon, the platform composes of a 4-agent council that each specialize in a different task: - Fundamental Agent: Evaluates financial statements, revenue growth, margins, and balance sheet health to identify the fair value of the equity in question. - Quant Agent: Assesses price trends, moving averages, volatility, and momentum indicators to identify future price trajectories and potential risk. - Sentiment Analyst: Analyzes market sentiment, news flow, and analyst consensus to capture macroeconomic and social signals. The agents collaborate through an orchestration workflow (powered by Sim.ai ) with a final Judge Agent to produce a unified investment verdict with confidence ratings and time horizon recommendations. As someone in the intersection of finance and tech, this project was a great way to benchmark how AI can be utilized to accelerate market research for retail investors who might not have the time and resources to conduct deep research on specific stocks. Shoutout to my teammates Ayan Bin Saif and Isha Shenoy for building with me! GitHub: https://lnkd.in/gZiumAWx *DISCLAIMER: This application is for informational and educational purposes only and does not constitute investment advice or financial advice. All analyses and results are illustrative and past performance does not guarantee future results. Always do your own research and consult with a qualified financial advisor before making investment decisions. ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D5605AQFCJoAOH5jRzg/videocover-high/B56Zv8CCB5IUBU-/0/1769459951543?e=2147483647&v=beta&t=dnhGpGcFUhyz5hkTc_Cl41sqU-1DpZcAEQFVFwIPuuQ",
+        "id": "7421652999019859970"
+      },
+      {
+        "interaction": null,
+        "link": "https://www.linkedin.com/posts/zh3nl_excited-to-kick-off-the-new-year-by-announcing-activity-7414437793055141888-z2zG",
+        "title": "Excited to kick off the new year by announcing that I was recently named as 1 of 2 recipients of the Tai Family Scholarship within UC Berkeley College of Engineering ! The Tai Family Scholarship specifically aims to empower the next generation of builders who are tackling complex problems in decentralized systems and AI. As someone who's been deep in the AI space through my startup work and hackathon projects, this scholarship represents an incredible opportunity to scale my impact in areas that will define the next decade of technology. If you're currently working on projects in this space, I'd love to hear about what you're building. Grateful to my family, friends, and mentors for supporting me throughout this journey! \ud83d\ude80 ...more",
+        "img": null,
+        "id": "7414437793055141888"
+      },
+      {
+        "interaction": null,
+        "link": "https://www.linkedin.com/posts/spencermateega_today-humanity-is-shackled-by-scarcity-of-activity-7391885841373126656-_RVQ",
+        "title": "Today, humanity is shackled by scarcity of expertise. When expertise becomes infinitely scalable, humans will be freed to tackle problems we can't even conceive of today. Introducing AfterQuery . We\u2019re building a world where expertise is abundant. Domain by domain, profession by profession, AfterQuery is crafting datasets that encode excellence into forms that machines can learn. Data is the final frontier. ...more ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D5605AQEO-vIdmo6cZA/videocover-high/B56ZpVA7KYKACI-/0/1762362906429?e=2147483647&v=beta&t=B5yEyK-_avwa18WvTWsRdr0YPwwZ0g6O2jtZ2-TjUMw",
+        "id": "7391885841373126656"
+      },
+      {
+        "interaction": null,
+        "link": "https://www.linkedin.com/posts/spencermateega_im-hiring-an-operations-technical-sales-activity-7386822352908673025-lqdm",
+        "title": "I\u2019m hiring an operations + technical sales intern to work directly with me at AfterQuery in our SF office. You\u2019ll own technical sales, data operations, and partnerships with the companies that power frontier models (we work with every top AI lab). This fall, Devansh Taliyan led a $100K contract for a Big Tech company. Last summer, Eduardo Rengifo brought in over $2M in data deals. As we scale, these numbers will become table stakes. I\u2019m looking for people with: - Technical fluency \u2014 studying CS, stats, or math; experience in ML or research - Ability to own outcomes and learn fast - Appetite for ambiguity with extremely high agency - Willingness to take a gap semester and relocate to SF You\u2019ll join a high-caliber team with experience from Jane Street, Goldman Sachs, Google, Citadel Securities, and SAIL. You\u2019ll work much harder than your friends, but you\u2019ll also have better stories. We\u2019ll also send you to Bali for team off-sites, cover your Equinox membership, and keep you caffeinated and fueled with unlimited Celsius and Uber Eats. If you're a good fit, comment your email below and we'll reach out. ...more ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQGpeaDkGQbILg/feedshare-shrink_1280/B56ZoNDyPrG4Aw-/0/1761155687971?e=2147483647&v=beta&t=iZaHnyqGvsdoci_gPRdRpg2Ea2qQUtH7LUIUiTVPovs",
+        "id": "7386822352908673025"
+      },
+      {
+        "interaction": "Zhen Liu liked this",
+        "link": "https://www.linkedin.com/posts/im-excited-to-share-that-after-an-incredible-activity-7493323958889443328-dsM5",
+        "title": "I\u2019m excited to share that after an incredible summer at BlackRock , I will be returning full-time as an Analyst on the Defined Contribution team in Chicago following my graduation from The Ohio State University Fisher College of Business in May! A huge thank you to everyone who made this summer such a meaningful experience, especially the Chicago office. I\u2019m truly grateful for the opportunity and look forward to continuing to learn, grow, and contribute at BlackRock!",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQHExyQ8Q-5WsA/feedshare-shrink_1280/B56Z_2ibmPKkAM-/0/1786547649237?e=2147483647&v=beta&t=WlxPuJtXFhjAReuKEXDc1qIs2ivyqb5eCyYhHToWY_4",
+        "id": "7493323958889443328"
+      },
+      {
+        "interaction": "Zhen Liu liked this",
+        "link": "https://www.linkedin.com/posts/mirayajain_this-summer-i-entered-my-software-engineering-activity-7493122317678620672-DUKa",
+        "title": "This summer, I entered my software engineering internship at BlackRock with essentially no knowledge of asset management, and definitely not specialized knowledge about post trade workflows, derivatives operations, and collateral management. By the end of the internship, I had designed and implemented a wide range of backend contributions spanning several MCP tools, a multi-agent orchestration layer, and a custom RAG pipeline - all of which supported transparency into margin calculations for derivatives portfolios. My project gave me hands-on experience building agentic AI systems for a highly regulated environment, where accuracy and explainability matter just as much as functionality. I also focused on soaking up as much as I could about the broader industry by attending firesides and AMAs, coffee chatting with people across the firm - from systematic researchers to portfolio managers, and taking fun courses like Private Markets and Index Investing. More than anything, this internship taught me how to learn fast and build in an unfamiliar, technical domain. Huge thanks to Gururaj Govindarajulu and Raghu Gella as well as the entire Aladdin team for the mentorship and trust to run with my project, and to the fellow interns and analysts for all the SF sidequests. Very grateful for a rewarding summer!!",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQF5gFUrkeNDxw/feedshare-shrink_1280/B56Z_zrClMHIAM-/0/1786499574430?e=2147483647&v=beta&t=qImC2WNSNJ-GtEdxRzxPULMRKZebCG2jacAC3leL8kA",
+        "id": "7493122317678620672"
+      },
+      {
+        "interaction": "Zhen Liu liked this",
+        "link": "https://www.linkedin.com/posts/andrea-li-caltech_who-builds-better-east-coast-or-west-coast-activity-7492960772331851777-5gNO",
+        "title": "Who builds better: East coast or West coast? (There\u2019s a wrong answer btw). On Sep 12-14, we\u2019re settling this debate by bringing together 500 of the top builders, engineers, and entrepreneurs from each coast to SF. $1M+ in prizes, 1,000 hackers, 1 winner. Apply by Aug. 24, and comment someone who you would like to compete with. https://luma.com/74eae254 Thank you to Maxime Andre (Caleb) Moulema Douala from Underscore VC",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQGNPEWRmwmnCw/feedshare-shrink_1280/B56Z_xYHk7HcAU-/0/1786461059627?e=2147483647&v=beta&t=OgV7OgtJaAs_rWdCrsC-Avb4o7Rz1msj-JV4srRM-FQ",
+        "id": "7492960772331851777"
+      },
+      {
+        "interaction": "Zhen Liu liked this",
+        "link": "https://www.linkedin.com/posts/davidongchoco_very-excited-to-be-releasing-our-first-comma-activity-7492977591927373824-KYHB",
+        "title": "Very excited to be releasing our first Comma Capital Deep Dive on the \" SpaceX Constellation: The Ultimate Talent Incubator\" written by our Deep Tech Fellow Aakarsh Agrawal . SpaceX happens to be one of my favorite companies but also one of the most important companies shaping the future of technology. In this piece, we deep dive into the SpaceX Mafia and the various companies that have spawn out of SpaceX and what has enabled SpaceX to become this space exploration platform for everyone to build on top off. It's not a surprise at all that SpaceX alums have gone on to raise over $9.2B in capital. It's hard not to be inspired by the SpaceX Mafia and the founders building towards making our world interplanetary. Through this series of Deep Dives, we plan to highlight the stories of important companies that are shaping the future of technology. Link to the full article below.",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQFWHXX_35Yj7A/feedshare-image-high-res/B4EZ_xnagdIYAU-/0/1786465069374?e=2147483647&v=beta&t=YSw6C5XqAt1I5Tn0JqUJkZs2q3da0mrx6RnzEGM5w18",
+        "id": "7492977591927373824"
+      },
+      {
+        "interaction": "Zhen Liu liked this",
+        "link": "https://www.linkedin.com/posts/nathangendler_im-excited-to-announce-that-i-will-be-joining-activity-7492705042815275009-oHJl",
+        "title": "I'm excited to announce that I will be joining Citadel as a Software Engineering Intern in New York City in Summer 2027! Thank you to my recruiter, Shaili Shah , for her guidance throughout the process. A special thank you to Ariana Sol Zavala , Niranjan Mediratta , and Matthew Wang , and to all my friends and family for the support and encouragement along the way. I'm grateful for the opportunity and looking forward to joining such an incredible team.",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQFJqIPhMWysfg/feedshare-shrink_1280/B4EZ_tviITLAAM-/0/1786400088879?e=2147483647&v=beta&t=OhtMNCc2BJSvWSPxsQe9H7UJl1ZU-mHsCWrrIS_QTgg",
+        "id": "7492705042815275009"
+      },
+      {
+        "interaction": "Zhen Liu liked this",
+        "link": "https://www.linkedin.com/posts/forbes-magazine_larry-fink-ceo-of-blackrock-the-worlds-activity-7492603442067103744-iWLj",
+        "title": "Larry Fink, CEO of BlackRock, the world\u2019s largest asset manager with $15 trillion under management, has called tokenization \u201cthe next generation for markets.\u201d After a decade of hype, false starts and promising pilots, mainstream financial institutions are moving real assets onto blockchains in earnest. Read more: https://lnkd.in/gBqtqFKr Photo: Markus Schreiber via Associated Press",
+        "img": "https://media.licdn.com/dms/image/v2/D5610AQFxl2mmXBi80Q/image-shrink_1280/B56Z_sTHpeGQAc-/0/1786375863255?e=2147483647&v=beta&t=1TCQ5GDabLmpMZ_hHJKZC3cNJNNZce5QlBNgiVns0rM",
+        "id": "7492603442067103744"
+      },
+      {
+        "interaction": "Zhen Liu liked this",
+        "link": "https://www.linkedin.com/posts/gerko_does-anyone-else-find-the-tone-of-anthropic-activity-7492662009314988032-RWGD",
+        "title": "Does anyone else find the tone of Anthropic people announcing major maths discoveries jarring. \"while watching football final\" \"while jogging\" \"no idea what it means but some people are excited\". Very different attitude to OpenAI people who actually seem to care about science. Incidentally consumer grade Claude is just useless for maths compared to Sol Ultra.",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQGKg9IxIT-a8w/feedshare-shrink_800/B4EZ_tIZYbIAAc-/0/1786389829409?e=2147483647&v=beta&t=K2D7DW8-TTuoJv3RhD6kG04X9m11ic0xSR6QDJZ6ttM",
+        "id": "7492662009314988032"
+      },
+      {
+        "interaction": "Zhen Liu liked this",
+        "link": "https://www.linkedin.com/posts/alex-remorov-0a9b3412_associate-quantitative-researcher-systematic-activity-7492632661237055489-UdqF",
+        "title": "A very exciting opportunity to join our team - for a full-time Quantitative Researcher position at BlackRock Systematic Active Equities. You will help shape the next generation of alpha by conducting cutting-edge research across financial markets, machine learning, artificial intelligence, data science and economics. This is an exceptional opportunity for intellectually curious researchers who enjoy solving difficult problems, challenging conventional thinking, combining scientific methods with investment insight, and seeing their ideas deployed in live portfolios with real-world impact. Open to both New York and London locations - please apply on the link below corresponding to the preferred location. https://lnkd.in/gYD9Z4QY https://lnkd.in/gupUQaPx",
+        "img": "https://media.licdn.com/dms/image/sync/v2/D5627AQEGX8bIHBOP7g/articleshare-shrink_1280_800/B56Z_ssW4dHUAg-/0/1786382479485?e=2147483647&v=beta&t=Jp5B5C6DLjlkm_86gnFnqqMrzJ-Z4uC2SBz-4ajn5qs",
+        "id": "7492632661237055489"
+      },
+      {
+        "interaction": "Zhen Liu liked this",
+        "link": "https://www.linkedin.com/posts/poetiq_public-leaderboards-cant-tell-you-which-activity-7492626771100672000-1QZP",
+        "title": "Public leaderboards can't tell you which model to trust in your domain. And most static benchmarks are rapidly beaten. Introducing Augur: it maps where a model's knowledge ends and its reasoning breaks, then generates the data to fix it. Augur separates three things ordinary benchmarks blur: - Knowledge: Does the model know the fact? - Tools: Can search resolve a disagreement? - Reasoning: Can it correctly compose multiple known facts? The third is where real agentic workflows often break. An example: Ask a model who each of five CEOs was, and when each departed. It gets all five right. Ask the composite question \u2014 how many were still in the role five years later \u2014 and it answers 3 where the verified answer is 2. Five right facts, one wrong answer. That\u2019s a reasoning failure, not a knowledge gap. That distinction matters for training. Knowledge failures become fine-tuning data. Reasoning failures become RL tasks. Contested questions are discarded. Augur builds a benchmark for your domain and shows where frontier and open models are\u2014or aren\u2019t\u2014interchangeable. For example, in our Kimi K3 study, more than 75% of its compositional divergences happened even when K3 knew all the underlying facts. What separated it from frontier models was increasingly not what it knew, but how it composed what it already knew. For Poetiq, Augur closes the RSI loop: Map the model boundary \u2192 Generate the exact data to move it \u2192 Train \u2192 Re-measure. The result is a continuously refreshed map of where models break, plus the data needed to make them better. For customers, Augur produces the custom dataset to fix your model, and the dataset you'd use afterward to check that the fix worked. The exact, domain specific, facts, ready for human labeling, for training open models and testing that the training worked. Full post: https://lnkd.in/gVswZ-bW",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQG650gJf5SSzA/feedshare-shrink_800/B56Z_soV.wGgAc-/0/1786381427431?e=2147483647&v=beta&t=a0P7EoPhhtv3riwxBWecdGFc-XCJ1RTBVX1ocBYWIk0",
+        "id": "7492626771100672000"
+      }
+    ],
+    "linkedin_num_id": "1238991048",
+    "banner_image": "https://media.licdn.com/dms/image/v2/D5616AQGg3h89u53RIg/profile-displaybackgroundimage-shrink_200_800/B56Z.iRBdmHcAQ-/0/1785133799621?e=2147483647&v=beta&t=GKmWWWJz2zAsfAMBrAxZtfB0OLEIcM8nQzvyY7czqmA",
+    "honors_and_awards": [
+      {
+        "title": "Jane Street Mystery Planet - 1st Overall",
+        "publication": "Jane Street",
+        "date": "2026-07-01T00:00:00.000Z",
+        "description": "Jane Street Mystery Planet (commodities trading) - 1st overall in the rations track"
+      },
+      {
+        "title": "Jump Trading Probability Cup: 40th Overall Globally",
+        "publication": "Jump Trading",
+        "date": "2026-07-01T00:00:00.000Z",
+        "description": "Jump Trading x SportsPredict Probability Cup for the 2026 FIFA World Cup: - 40th out of 4013 globally - 9th in the US - 2nd at UC Berkeley"
+      },
+      {
+        "title": "The Showdown Qualifier 10th Overall - Susquehanna",
+        "publication": "Susquehanna International Group",
+        "date": "2026-01-01T00:00:00.000Z",
+        "description": "First real poker tournament; 10th out of 128 participants."
+      },
+      {
+        "title": "Tai Family Scholarship",
+        "publication": "UC Berkeley College of Engineering",
+        "date": "2025-11-01T00:00:00.000Z",
+        "description": "1 of 2 students in the entire College of Engineering awarded for passion and initiative in AI and blockchain (0.05% AR)."
+      },
+      {
+        "title": "AIEB x Trae Hackathon - 2nd Overall",
+        "publication": "-",
+        "date": "2025-04-01T00:00:00.000Z",
+        "description": "Agent for software compliance; Won 2nd overall out of 9 teams."
+      },
+      {
+        "title": "BlackRock Hallac Scholar",
+        "publication": "BlackRock",
+        "date": "2025-03-01T00:00:00.000Z",
+        "description": "1 out 10 recipients between the EECS and IEOR freshman class (~1% AR)."
+      },
+      {
+        "title": "The Spears Family Scholarship",
+        "publication": "Kiwanis of Upland-Foothill",
+        "date": "2024-06-01T00:00:00.000Z",
+        "description": "$2,000 scholarship awarded in recognition of outstanding leadership, community service, and academic achievement. Received by 3 students across 5 high school Key Club chapters within the Upland-Foothill Kiwanis branch."
+      },
+      {
+        "title": "Advanced Systems Programming 2 Year Pathway Achievement Award",
+        "publication": "Los Osos High School",
+        "date": "2024-05-01T00:00:00.000Z",
+        "description": "Awarded to students at Los Osos High School who completed the Advanced Systems Programming 2 Year Pathway program. Relevant Classes: AP Computer Science Principles, AP Computer Science A, Game Design and Programming I."
+      },
+      {
+        "title": "FBLA SLC Computer Applications 7th Place",
+        "publication": "Future Business Leaders of America",
+        "date": "2024-04-01T00:00:00.000Z",
+        "description": "State-level placement for Computer Applications (see ISLC award for details)."
+      },
+      {
+        "title": "FBLA ISLC Computer Applications 2nd Place",
+        "publication": "Future Business Leaders of America",
+        "date": "2024-02-01T00:00:00.000Z",
+        "description": "2nd place in Inland Empire Section for Computer Applications. 100-question objective test on the following competencies: Basic Computer Terminology and Concepts, Presentation, Publishing, Multimedia Applications, Spreadsheet and Database Applications, Basic Application Knowledge and Word Processing, E-mail, Integrated, Collaboration Applications, Netiquette and Legal Issues, Security, Formatting, Grammar, Punctuation, Spelling, and Proofreading Project production test on the following\u2026 Show more"
+      },
+      {
+        "title": "FBLA ISLC Securities and Investment 6th Place",
+        "publication": "Future Business Leaders of America",
+        "date": "2024-02-01T00:00:00.000Z",
+        "description": "6th place in Inland Empire Section for Securities and Investment. 100-question objective test on concepts such as Investment Fundamentals, Investments Wrappers, Taxation, and Trusts, Investment Product and Funds, Stock Market, Stocks Versus Other Investments, Mutual Funds, Basics of Bonds, Derivatives, Financial Services Regulation"
+      },
+      {
+        "title": "FBLA NLC Website Design 9th Place",
+        "publication": "Future Business Leaders of America",
+        "date": "2023-07-01T00:00:00.000Z",
+        "description": "9th Place internationally for Website Design; continuation of Website Design project (see below). Competed against teams from other states and nations such as China."
+      },
+      {
+        "title": "FBLA SLC Business Calculations 7th Place",
+        "publication": "Future Business Leaders of America",
+        "date": "2023-04-01T00:00:00.000Z",
+        "description": "7th place for Business Calculations in California; continuation of previous Business Calculation competitive event. 100-question object test on concepts such as consumer credit, markup and discounts, investments, taxes, interests, insurance, and other business-related topics."
+      },
+      {
+        "title": "FBLA SLC Website Design 4th Place",
+        "publication": "Future Business Leaders of America",
+        "date": "2023-04-01T00:00:00.000Z",
+        "description": "4th place for Website Design in California Partnered with a local restaurant chain in Southern California to create a website for customers to order food, subscribe to an email newsletter, contact the restaurant, and be informed about the restaurant chain\u2019s history. This website was presentation to computer science teachers and software engineers in a 7-minute presentation. The award was also recognized by the Chaffey Joint Union High School District. Platform used: Visual Studios\u2026 Show more"
+      },
+      {
+        "title": "FBLA ISLC Business Calculations 4th Place",
+        "publication": "Future Business Leaders of America",
+        "date": "2023-02-01T00:00:00.000Z",
+        "description": "4th place in the Inland Empire Section 100-question objective test on concepts such as consumer credit, markup and discounts, investments, taxes, interests, insurance, and other business-related topics."
+      },
+      {
+        "title": "FBLA SLC Digital Video Production State Champion",
+        "publication": "Future Business Leaders of America",
+        "date": "2022-04-01T00:00:00.000Z",
+        "description": "1st place for Digital Video Production in California. Created a 2-minute video educating the youth on the job application process and completed a 7-minute presentation that was judged by industry professionals. Group Members: Zhen Liu, Yan Bao, Ryan Kim Role: Scriptwriter and on-screen actor."
+      },
+      {
+        "title": "FBLA ISLC Introduction to Information Technology 2nd Place",
+        "publication": "Future Business Leaders of America",
+        "date": "2022-02-01T00:00:00.000Z",
+        "description": "2nd place at the Inland Empire Section 100-question objective test on concepts such as computer hardware and software, operating systems, word processing/spreadsheets, networking concepts, and email/electronic communication."
+      }
+    ],
+    "similar_profiles": [],
+    "default_avatar": true,
+    "memorialized_account": false,
+    "bio_links": [
+      {
+        "title": "Other",
+        "link": "https://github.com/zh3nl"
+      }
+    ],
+    "first_name": "Zhen",
+    "last_name": "Liu",
+    "influencer": false,
+    "timestamp": "2026-08-12T19:22:44.223Z",
+    "input": {
+      "url": "https://www.linkedin.com/in/zh3nl"
+    }
+  }
+}

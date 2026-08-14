@@ -1,0 +1,205 @@
+{
+  "luma_user_id": "usr-nFQ4tDtElgROCtZ",
+  "csv_name": "Hetansh Kevadia",
+  "csv_linkedin": "https://www.linkedin.com/in/hkayy47",
+  "enriched_at": "2026-08-12T19:06:01.826470+00:00",
+  "batch_id": "sd_msqgh02428smzgu5m",
+  "profile": {
+    "id": "hkayy47",
+    "name": "Hetansh Kevadia",
+    "city": "San Francisco Bay Area",
+    "country_code": "US",
+    "position": null,
+    "about": "Currently pursuing a Bachelor of Science in Mathematics and Computer Science at the\u2026",
+    "current_company": {
+      "link": "https://www.linkedin.com/school/university-of-maryland/?trk=public_profile_topcard-current-company",
+      "name": "University of Maryland",
+      "location": null
+    },
+    "experience": null,
+    "url": "https://ch.linkedin.com/in/hkayy47",
+    "educations_details": "University of Maryland",
+    "education": [
+      {
+        "title": "University of Maryland",
+        "url": "https://www.linkedin.com/school/university-of-maryland/",
+        "start_year": "2023-08",
+        "end_year": "2027-05",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      },
+      {
+        "start_year": "2021-07",
+        "end_year": "2023-04",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      },
+      {
+        "start_year": "2009-05",
+        "end_year": "2021-04",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      }
+    ],
+    "avatar": "https://media.licdn.com/dms/image/v2/D4E03AQFOXOORk6DHUQ/profile-displayphoto-scale_200_200/B4EZ_K37cVHwAg-/0/1785815088443?e=2147483647&v=beta&t=tyDGUz18AZOBdPGHgmN4FcPWbEYs086VWhLeXSRDyw8",
+    "languages": [
+      {
+        "subtitle": "Native or bilingual proficiency",
+        "title": "English"
+      },
+      {
+        "subtitle": "Native or bilingual proficiency",
+        "title": "Hindi"
+      },
+      {
+        "subtitle": "Native or bilingual proficiency",
+        "title": "Gujarati"
+      }
+    ],
+    "certifications": [
+      {
+        "meta": "Issued Jun 2026 Credential ID 64p9tp2434km See credential",
+        "subtitle": "Anthropic",
+        "title": "Certificate of Completion: Al Fluency Framework & Foundations",
+        "credential_url": "https://verify.skilljar.com/c/64p9tp2434km?trk=public_profile_see-credential",
+        "credential_id": "64p9tp2434km"
+      },
+      {
+        "meta": "Issued Jun 2026 Credential ID ip9us3gmn3f6 See credential",
+        "subtitle": "Anthropic",
+        "title": "Certificate of completion: Claude 101",
+        "credential_url": "https://verify.skilljar.com/c/ip9us3gmn3f6?trk=public_profile_see-credential",
+        "credential_id": "ip9us3gmn3f6"
+      }
+    ],
+    "followers": 1219,
+    "connections": 500,
+    "current_company_name": "University of Maryland",
+    "projects": [
+      {
+        "title": "Wait-list-watcher-320",
+        "start_date": "Aug 2025",
+        "description": "\u2022 Configured and deployed an AWS EC2 instance to host a production-ready backend, leveraging pm2 for persistentprocess management and automated scheduling of seat availability checks every 5 minutes.\u2022 Designed a secure private API and integrated a Discord bot to deliver real-time seat availability alerts withsub-second latency, ensuring seamless user notifications.\u2022 Implemented scalable monitoring and logging practices to maintain reliability and minimize downtime"
+      },
+      {
+        "title": "Pulsify",
+        "start_date": "Oct 2024",
+        "description": "\u2022 Developed a medical app which when used by 6 simulated clinics, reduced EHR review time by 65%\u2022 Designed backend pipeline to parse and normalize 2,500+ JSON EHR records into queryable tabular structures\u2022 Implemented Flask APIs to handle semantic search serving 100+ summaries weekly with 90% correctness rate"
+      },
+      null,
+      null,
+      null,
+      null,
+      {
+        "title": "YouSure?",
+        "start_date": "Apr 2024",
+        "description": "\u2022 Built backend Flask APIs to handle PDF ingestion, preprocessing, and semantic search queries with a retrieval of3,000+ policy sections in under 2s\u2022 Implemented semantic search with vector embedding-based semantic search to retrieve 3,000+ relevant policies\u2022 Designed a ranking algorithm that scored 200+ policies across 3 categories with 87% accuracy in internal tests\u2022 Integrated backend Flask APIs with frontend React components for live scoring and comparison features"
+      }
+    ],
+    "location": null,
+    "input_url": "https://www.linkedin.com/in/hkayy47",
+    "linkedin_id": "hkayy47",
+    "activity": [
+      {
+        "interaction": null,
+        "link": "https://www.linkedin.com/posts/palmetto_palmettos-api-wins-at-mits-10th-annual-activity-7274808606900858880-jXcv",
+        "title": "\ud83c\udf1f Big Win at the MIT Energy & Climate Hack Summit! \ud83c\udf1f We\u2019re thrilled to celebrate an incredible achievement at MIT\u2019s 10th Annual Hackathon. The winning team built their groundbreaking solution, Incenzo, using Palmetto\u2019s Energy Intelligence API. Read how they did it here \ud83d\udc49 https://lnkd.in/eHBbs9pD Incenzo\u2019s success reaffirms the power of Palmetto\u2019s technology and the brilliant ideas it inspires. We\u2019re excited to officially launch the Palmetto Energy Intelligence API to the public in early 2025! A huge thank you to the hackathon organizers, judges, and all the participants who showcased innovation in action. Jennifer Turliuk , Becca Sandercock , Jayant W. , Far\u00e8s Kammourieh , Yash Chiplunkar, Riya Malhotra , Anoushka Tamhane , Logan Reich , Sophie Nguyen, Hetansh Kevadia , Pratyaksh Mishra , Rudank Singh, Emily Pastewka , Stefano Polloni , Rob Spencer , Ben Garrett , Lucas Volle , Eduardo Berlin , Michael Bratsafolis , Sofie Netteberg , Chris Johnson, Constantine Athanitis , Luc Cote #HackathonWin #ClimateTech #Innovation #PalmettoAPI #EnergyIntelligence #Sustainability #MITHackathon #APISolutions ...more ...more",
+        "img": "https://media.licdn.com/dms/image/sync/v2/D4E27AQEVBa9_Cv8cNg/articleshare-shrink_800/articleshare-shrink_800/0/1774971852179?e=2147483647&v=beta&t=teYsuFCTJEvqbfZQiEyXCCnbG8RrgtWtzuhvmvKNUmw",
+        "id": "7274808606900858880"
+      },
+      {
+        "interaction": "Hetansh Kevadia commented on a post 1w",
+        "link": "https://www.linkedin.com/posts/samaipatel_introducing-axal-yc-w25-a-services-company-activity-7488306310594289664-TZiH",
+        "title": "Congrats!",
+        "img": null,
+        "id": "7488306310594289664"
+      },
+      {
+        "interaction": "Hetansh Kevadia liked this",
+        "link": "https://www.linkedin.com/posts/david-schmotz-840660150_we-found-a-way-to-extract-the-hidden-reasoning-activity-7492928847689195520-sFmN",
+        "title": "We found a way to extract the hidden reasoning of frontier models using a vulnerability in the APIs of every major frontier AI company we tested. For most prompts, the length of the reasoning we recover matches the hidden thinking-token count reported by the API almost 1:1. Some background: in May, Matthew Green found that encrypted reasoning could be replayed outside its original context and reported this to the labs. At the time, the labs said that they \u201cdon\u2019t see any security implications in side channels or replays.\u201d We took this further and found that encrypted thoughts are portable across sessions, users, and models within the same provider. Cross-model portability means, for example, that Haiku 4.5 can read Opus 4.8\u2019s thoughts. With a bit of jailbreaking, you can take an Opus thought, replay it into Haiku, and make Haiku transcribe Opus\u2019s raw reasoning verbatim, without ever attacking Opus directly. The same trick works with OpenAI and Gemini models. As you might guess, this suggests that distilling proprietary reasoning traces may have been possible for a long time without ever breaking the cryptography. One anecdote: prefilling Kimi-K3\u2019s reasoning with just a few tokens of Opus reasoning measurably shifts its response toward Opus\u2019s. There is also a direct privacy problem. If you have ever shared a Claude Code, Codex, or similar agent session online while leaving encrypted reasoning blobs in the trace, those blobs may contain information you cannot see but somebody else can decode. We scanned ~7,000 public traces and recovered 62 unique API keys, 33 passwords, 30 personal email addresses, and other sensitive information. In the paper, we also discuss misuse uplift, jailbreaking through the hidden reasoning channel, and invisible prompt injection. Since we suddenly had access to a lot of reasoning traces from real agent sessions, we also looked at some of the stranger things models do in the wild. Reasoning summaries sometimes omit important information from the original trace: in one example, Opus 4.8 realizes it already knows the answer to an AIME problem and then tries to fit a solution to that answer, while the summary reads like a clean derivation. We also confirm prior reports by @ApolloResearch that OpenAI models sometimes reason in alien-like language, referring to themselves as \u201cwe\u201d or \u201cit,\u201d or spiraling into loops of \u201cvantages,\u201d \u201cmarinades,\u201d and \u201cwatchers.\u201d Sometimes models are kind enough to literally use words like \u201ccheat\u201d in their CoT. We found several cases where models consider cheating on the task. We went through responsible disclosure with the labs and they have already patched several issues caused by this vulnerability. This project was led my Alexander Panfilov , me, Ilia Shumailov, together with Luca Beurer-Kellner , Joachim Schaeffer , Ameya Prabhu , Jonas Geiping and Maksym Andriushchenko . More cool stuff in the paper. Paper: https://lnkd.in/gv7_bXxm Reasoning examples: https://lnkd.in/ghU22RGx",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQGpDMMM8va41Q/feedshare-shrink_1280/B56Z_w7FXxKoAM-/0/1786453448437?e=2147483647&v=beta&t=_wibqCnqXB5-7HZSAjQAqQ7fpReMea6KnUEPDio16OE",
+        "id": "7492928847689195520"
+      },
+      {
+        "interaction": "Hetansh Kevadia liked this",
+        "link": "https://www.linkedin.com/posts/justinhtech_googlecareers-softwareengineering-earlycareer-activity-7492983482969743360-eJF1",
+        "title": "\ud83d\udea8 Google New Grad Software Engineering Role just dropped!! As a SWE intern, it has been pretty fun working here, so definitely apply! What you need: \u2705 Bachelor\u2019s in CS or equivalent practical experience \u2705 Coursework/project/internship experience with data structures & algorithms \u2705 Coding experience in Python, C, C++, Java, or JavaScript \u2705 Experience using AI tools to boost your workflow (yes, this is now a listed requirement \u203c\ufe0f) Nice-to-haves: Master\u2019s degree, experience with distributed systems, ML, NLP, accessibility, or large-scale systems. Pay: $123K\u2013$174K base + 15% bonus target + equity + benefits Know someone who\u2019d be a great fit? Tag them or send this to them! \ud83d\udd17 Apply here: https://lnkd.in/gr7pC8Df #GoogleCareers #SoftwareEngineering #EarlyCareer #NewGrad #TechJobs #Hiring",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQFxPSBomkaAKg/feedshare-shrink_800/B56Z_xsxFJIsAg-/0/1786466472874?e=2147483647&v=beta&t=UjuP8666f-2kMAhIgnn5EjCxznvGrhT8f8pcRhVfyig",
+        "id": "7492983482969743360"
+      },
+      {
+        "interaction": "Hetansh Kevadia liked this",
+        "link": "https://www.linkedin.com/posts/xuanyu-lu-993424362_snowflake-internship-cpt-activity-7493014732359000065-BBtl",
+        "title": "RIP to my Snowflake Fall internship \ud83e\udd72\u2744\ufe0f After months of trying, successfully passing all the interviews, waiting for headcount, and finally seeing everything come together, my Fall internship ended up being blocked by something I honestly didn\u2019t expect: a start-date conflict. As a student on the quarter system, my summer CPT overlaps with Snowflake\u2019s required Fall internship start window, and unfortunately there was no way to make the transition work. We tried pretty much every option we could think of, but sometimes timing just doesn\u2019t work out. Definitely heartbreaking after making it this far \ud83e\udd72 A small PSA for fellow international students at quarter-system schools: double-check Fall internship start dates and CPT timelines as early as possible! Huge thanks to everyone at Snowflake who helped and advocated for me along the way. \u2744\ufe0f :) #Snowflake #Internship #CPT #InternationalStudents #SoftwareEngineering",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQEdYejQHGm2xA/feedshare-shrink_800/B56Z_yJMfiJMAc-/0/1786473924829?e=2147483647&v=beta&t=oj9E2gXZTycSWkRoVsN8R7UXvmrDHIp68nm_kZpZ1HA",
+        "id": "7493014732359000065"
+      },
+      {
+        "interaction": "Hetansh Kevadia liked this",
+        "link": "https://www.linkedin.com/posts/kedaarr_tradeform-is-hiring-our-early-engineering-activity-7492969368771801090-M00r",
+        "title": "TradeForm is hiring our early engineering team! We\u2019re building a self-learning AI workforce for direct procurement, and with more customer demand than ever, we\u2019re ready to build out our team. We\u2019re looking for full-stack and applied ML builders with strong technical foundations, excellent product judgment, and a sharp eye for design. You should be able to turn ambiguous customer problems into reliable production systems. You\u2019ll work on-site in San Francisco but travel frequently to our enterprise customers\u2019 sites. Apply below or email recruiting@trade-form.com with proof of exceptional technical ability and a few sentences on why TradeForm interests you. If you know someone exceptional, tag them or send this their way! https://lnkd.in/gmmc4RDM",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQEdgL12cDF1JA/feedshare-image-high-res/B56Z_wjYsQGQAU-/0/1786447237080?e=2147483647&v=beta&t=IoKmIWML0F6B1IroGeH9hlNB-xvpbAPs0o2YuhRp6E0",
+        "id": "7492969368771801090"
+      },
+      {
+        "interaction": "Hetansh Kevadia liked this",
+        "link": "https://www.linkedin.com/posts/bendee983_this-contradicts-what-leaders-at-ai-labs-activity-7491864272650518529-Ujs0",
+        "title": "This contradicts what leaders at AI labs have been pushing: Keep the harness and scaffolding light and let the LLM do its thing. However, what Uncle Bob says makes sense, especially when you want to run AI agents in production and at scale. Every deterministic task that you let the agent do means LLM tokens spent on something that could have been done with fast and cheap code. It results in slower and more expensive execution. It also reduces the reliability of your process. The LLM does not guarantee to do the same thing 100% of the time when you expect full deterministic behavior. My experience is to start with light or no scaffolding as you explore the problem you're solving and gradually add determinism as the boundaries and shape of the task become clearer.",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQEy225pn0r47Q/feedshare-image-high-res/B56Z_hyvjpH0AU-/0/1786199603684?e=2147483647&v=beta&t=paRpP0EWnKGcXtI2rELv3Fox01yyYF56AUg90SX33b8",
+        "id": "7491864272650518529"
+      },
+      {
+        "interaction": "Hetansh Kevadia liked this",
+        "link": "https://www.linkedin.com/posts/kubermehta_humanising-llm-outputs-is-dumb-ive-seen-activity-7492908958932783104-bowH",
+        "title": "Humanising LLM Outputs is Dumb I've seen an uptick of skills or instructions to make LLM output more \"human\" and honestly it's probably the biggest output mistake you can make if you work with coding harnesses. Wrote a short piece on failure masking, subagent abstraction and what's the actual non-band-aid solution to it. Link in comments.",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQEtwJSUplX--Q/feedshare-shrink_800/B56Z_vzulVGcAc-/0/1786434743534?e=2147483647&v=beta&t=eGW_X1ug2rhTrwhU52QgfViobySCnDxy8bJhjkU3Sc4",
+        "id": "7492908958932783104"
+      },
+      {
+        "interaction": "Hetansh Kevadia liked this",
+        "link": "https://www.linkedin.com/posts/jaylynj_i-now-have-the-ai-slop-button-for-those-activity-7490915621883437056-zlfi",
+        "title": "I now have the AI slop button. For those of you still struggling without it, just know that your day will come. It only takes one yes.",
+        "img": null,
+        "id": "7490915621883437056"
+      },
+      {
+        "interaction": "Hetansh Kevadia liked this",
+        "link": "https://www.linkedin.com/posts/valentin-guigon-phd-61024a92_announcing-neurodesign-plus-a-python-package-activity-7490084792596672512-uBKf",
+        "title": "Announcing Neurodesign-plus, a Python package for optimizing task-based fMRI designs. In many task-fMRI experiments, paradigms constrain and counterbalance sequences of multiple events, with trial types that may differ in structure and timing. Yet existing experimental design optimization tools were largely built around single-event trial representations. As a result, many modern paradigms cannot be represented faithfully during optimization. Together with Atharv Umap and Caroline Charpentier , we introduce Neurodesign-plus, a Python package built as a maintained fork of Neurodesign for representing and optimizing these structured, multi-event paradigms. Neurodesign-plus supports: \u2022 multi-event trials \u2022 fixed or probabilistic trial templates \u2022 event-specific durations \u2022 transition-dependent intervals \u2022 constrained event sequences Researchers can construct counterbalanced schedules directly, or search the design space using either repeated simulation or genetic cross-over. Candidate schedules are evaluated using four criteria: detection efficiency for specified contrasts between conditions; estimation efficiency for recovering event-related BOLD responses; agreement with target event frequencies; and balance in the event sequence. This makes it possible to quantify how event order, durations, and intervals affect the ability to distinguish conditions and estimate responses to individual events, and to compare candidate schedules under a common acquisition and analysis specification. Selected schedules can be exported and summarized in automated PDF reports. Eleven runnable tutorials cover the package\u2019s inherited and new workflows. We hope Neurodesign-plus will make it easier to design and optimize structured task-fMRI paradigms. Paper: https://lnkd.in/eYmiMrNR Documentation and tutorials: https://lnkd.in/e7pv6B9x GitHub: https://lnkd.in/ejS6SGQJ PyPI: https://lnkd.in/eXsDRWpf",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQFYL_rlRrr6YA/feedshare-shrink_800/B4EZ_IgbKfHoAc-/0/1785775372299?e=2147483647&v=beta&t=xT08sf3nuDmpANH93nqI42-lrKlXgTuwMymcviwW3hI",
+        "id": "7490084792596672512"
+      },
+      {
+        "interaction": "Hetansh Kevadia liked this",
+        "link": "https://www.linkedin.com/posts/michael-muehlebach_reinforcementlearning-controltheory-adaptivecontrol-activity-7491154338145390592-LpbX",
+        "title": "Reinforcement learning and control theory both seek to optimize controllers for unknown dynamical systems using feedback. Yet the two communities differ sharply in their academic cultures, mathematical tools, applications, aspirations, and even the way they formulate problems. Our new preprint, \u201cFoundations of Reinforcement Learning and Control: Connections and New Perspectives,\u201d explores the gap between these fields, explains how they complement one another, and highlights important open problems. So, whether you are a control theorist asking, \"But is it stable?\", or an RL researcher asking, \"But does it work on a nonlinear high-dimensional benchmark?\" -- we've got you covered. It also turns out that RL and control have a great deal to learn from each other. We illustrate this through a running tutorial example that combines the strengths of Soft Actor-Critic (SAC) and Model Reference Adaptive Control (MRAC): SAC provides the base policy, while MRAC enables online adaptation as the system dynamics change. The work will be presented this November as an INFORMS Tutorial in San Francisco. It has been a joy to work with such a wonderful group of collaborators -- truly spanning both communities: Claire Vernade , Onno Eberhard , Martha White , Florian Dorfler , Csaba Szepesvari , Miroslav Krstic Preprint: https://lnkd.in/eFPepqGZ #ReinforcementLearning #ControlTheory #AdaptiveControl #MachineLearning #INFORMS",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQHDMvhJTfkBkw/feedshare-shrink_800/B4EZ_XtLHtI0Ac-/0/1786030371609?e=2147483647&v=beta&t=RE5x25C6QDeSNW6_xk5woGI6WqN8L2HyUK6JcOcM5eA",
+        "id": "7491154338145390592"
+      }
+    ],
+    "linkedin_num_id": "1150287601",
+    "banner_image": "https://media.licdn.com/dms/image/v2/D5616AQFu_vHQvhJkKA/profile-displaybackgroundimage-shrink_200_800/B56Z9kvpe5IMAQ-/0/1784101640376?e=2147483647&v=beta&t=FLZaWvLy3C-cGby8a_7_XMZJt3dyUxx75YMj2CHX1pw",
+    "honors_and_awards": null,
+    "similar_profiles": [],
+    "default_avatar": false,
+    "memorialized_account": false,
+    "bio_links": [
+      {
+        "title": "Personal Website",
+        "link": "https://hkayy47.github.io/Hetansh-Kevadia-Portfolio/"
+      }
+    ],
+    "first_name": "Hetansh",
+    "last_name": "Kevadia",
+    "influencer": false,
+    "timestamp": "2026-08-12T19:02:05.246Z",
+    "input": {
+      "url": "https://www.linkedin.com/in/hkayy47"
+    }
+  },
+  "local_photo": "data\\linkedin_photos\\hkayy47__usr-nFQ4tDtElgROCtZ.jpg"
+}

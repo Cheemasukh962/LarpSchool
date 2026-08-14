@@ -1,0 +1,192 @@
+{
+  "luma_user_id": "usr-8A29bV6l9BvgDGc",
+  "csv_name": "James Nguyen",
+  "csv_linkedin": "https://www.linkedin.com/in/james-nguyen8",
+  "enriched_at": "2026-08-12T19:07:22.290936+00:00",
+  "batch_id": "sd_msqgmjx4y9b9cgg4i",
+  "profile": {
+    "id": "james-nguyen8",
+    "name": "James Nguyen",
+    "city": "Tampa, Florida, United States",
+    "country_code": "US",
+    "position": null,
+    "about": "I\u2019m a student at University of South Florida. Doing challenging things, growing everyday,\u2026",
+    "current_company": {
+      "link": "https://www.linkedin.com/company/amazon-web-services?trk=public_profile_topcard-current-company",
+      "name": "Amazon Web Services (AWS)",
+      "company_id": "amazon-web-services",
+      "location": null
+    },
+    "experience": null,
+    "url": "https://nl.linkedin.com/in/james-nguyen8",
+    "educations_details": "University of South Florida",
+    "education": null,
+    "avatar": "https://media.licdn.com/dms/image/v2/D5603AQGF0_gaqDHy0A/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1664321477653?e=2147483647&v=beta&t=RuQAassdw-_4PJCCZDz0CvO33XuXhPm2CGUeJlTY1DM",
+    "certifications": [
+      {
+        "meta": "Issued Mar 2024 See credential",
+        "subtitle": "Kaggle",
+        "title": "Intro to Machine Learning",
+        "credential_url": "https://www.kaggle.com/learn/certification/minhnguyen8/intro-to-machine-learning?trk=public_profile_see-credential",
+        "credential_id": null
+      },
+      {
+        "meta": "Issued Feb 2024 Credential ID WL68QAHY7CCU See credential",
+        "subtitle": "DeepLearning.AI, Stanford University",
+        "title": "Machine Learning Specialization",
+        "credential_url": "https://www.coursera.org/account/accomplishments/specialization/WL68QAHY7CCU?trk=public_profile_see-credential",
+        "credential_id": "WL68QAHY7CCU"
+      },
+      {
+        "meta": "Issued Feb 2024 Credential ID 8DGH8BX2MAPM See credential",
+        "subtitle": "DeepLearning.AI, Stanford University",
+        "title": "Unsupervised Learning, Recommenders, Reinforcement Learning",
+        "credential_url": "https://www.coursera.org/account/accomplishments/records/8DGH8BX2MAPM?trk=public_profile_see-credential",
+        "credential_id": "8DGH8BX2MAPM"
+      },
+      {
+        "meta": "Issued Sep 2023 See credential",
+        "subtitle": "DeepLearning.AI, Stanford University",
+        "title": "Advanced Learning Algorithms",
+        "credential_url": "https://coursera.org/share/36a9945f9da31e498c44e8a882018387?trk=public_profile_see-credential",
+        "credential_id": null
+      },
+      {
+        "meta": "Issued Sep 2023 See credential",
+        "subtitle": "LinkedIn",
+        "title": "SQL Essential Training",
+        "credential_url": "https://www.linkedin.com/learning/certificates/a8d45c5f24dd3fccfcf4251a201f31a18f5406a5fbc5b3c422b983aa8f00f755?trk=public_profile_see-credential",
+        "credential_id": null
+      },
+      {
+        "meta": "Issued Apr 2023 See credential",
+        "subtitle": "DeepLearning.AI, Stanford University",
+        "title": "Supervised Machine Learning: Regression and Classification",
+        "credential_url": "https://coursera.org/verify/QQV6Z8L8TXYV?trk=public_profile_see-credential",
+        "credential_id": null
+      },
+      {
+        "meta": "Issued Feb 2023 See credential",
+        "subtitle": "LinkedIn",
+        "title": "Excel Essential Training",
+        "credential_url": "https://www.linkedin.com/learning/certificates/e512ffc398f62245f308fc29a87f8f9735695840449cd2eb8932fdaa8bc80fd8?u=2343682&trk=public_profile_see-credential",
+        "credential_id": null
+      },
+      {
+        "meta": "Issued Feb 2023 See credential",
+        "subtitle": "Coursera",
+        "title": "Introduction to Statistic",
+        "credential_url": "https://www.linkedin.com/coursera.org/verify/Y2RW25CDNXU7?trk=public_profile_see-credential",
+        "credential_id": null
+      },
+      {
+        "subtitle": "Harvard University",
+        "title": "CS50x",
+        "credential_url": null,
+        "credential_id": null
+      }
+    ],
+    "followers": 1916,
+    "connections": 500,
+    "current_company_company_id": "amazon-web-services",
+    "current_company_name": "Amazon Web Services (AWS)",
+    "projects": [
+      {
+        "title": "Harvard CS50 Finance",
+        "description": "Built a web application through which users can manage portfolios of stocks. Implemented IEX\u2019s API, which helps users search, buy, and sell stocks in real time. Created and manipulated multiple SQLite databases to display the user's portfolio value"
+      },
+      {
+        "title": "Stock Prediction",
+        "description": "Created a basic prediction model using supervised learning and linear regression to predict the stock price. Built functionality to predict a specific stock at a specific time period given by the user's input.Improved the prediction accuracy by using various hypotheses, resulting in up to 80% accuracy in the predicted value"
+      },
+      null,
+      {
+        "title": "UC Berkeley CS61B 2048 Project",
+        "description": "Built the core logic of the game \u201c2048\", a computer single-player game developed by Gabriele Cirulli. Built functionality to determine game status, count the number of points, and update the highest score throughout the period to make the game more fun and interactive. Created and applied helper functions to manage and reduce the complexity of the project"
+      }
+    ],
+    "location": "Tampa",
+    "input_url": "https://www.linkedin.com/in/james-nguyen8",
+    "linkedin_id": "james-nguyen8",
+    "activity": [
+      {
+        "interaction": "James Nguyen liked this",
+        "link": "https://www.linkedin.com/posts/andigutmans_googlecloud-dataanalytics-apacheiceberg-activity-7488409222804574208-jzF6",
+        "title": "Your AI agents are only as smart as the data they can access\u2014but copying that data across clouds is slow, expensive, and a governance nightmare. At Next Tokyo, we\u2019re changing that. We\u2019ve introduced major enhancements to our borderless Lakehouse. Built on open Apache Iceberg, we\u2019ve added catalog federation (in preview) for AWS Glue, Databricks Unity, and Snowflake Horizon. Your agents can now query and act on multi-cloud data in-place without moving physical files or building fragile ETL pipelines. Check out the full blog post to see how we're reshaping the economics of enterprise AI: https://lnkd.in/dGa44-fn #GoogleCloud #DataAnalytics #ApacheIceberg #MultiCloud",
+        "img": "https://media.licdn.com/dms/image/v2/D4D22AQFxx4UpAdpgVQ/feedshare-shrink_800/B4DZ.wsf5bGYAc-/0/1785375886032?e=2147483647&v=beta&t=vEATdUevv0l_YUecyfiozTyaegzo8dPG-loyVr_4pOA",
+        "id": "7488409222804574208"
+      },
+      {
+        "interaction": "James Nguyen liked this",
+        "link": "https://www.linkedin.com/posts/vaigup_slop-is-code-you-dont-read-and-better-models-activity-7488958194791317504-Mgof",
+        "title": "Slop is code you dont read. And better models means more slop. The solution? Write sloppy tools to build stable systems. But for the most committed people, go build new foundational systems. Rebuild github, rebuild tmux, rebuild database, and yes rebuild programming languages. Big thanks to swyx and the whole community for having us out at AI Engineer",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQFul7oTDEtPHg/feedshare-shrink_1280/B56Z.4fy5dHAAM-/0/1785506770805?e=2147483647&v=beta&t=P57viNs-TCzrZDxg-zUF3rNxJZXfcaWIZQmd15nC4-A",
+        "id": "7488958194791317504"
+      },
+      {
+        "interaction": "James Nguyen liked this",
+        "link": "https://www.linkedin.com/posts/amd-developer_join-the-amd-ai-devmaster-hackathon-activity-7483277933013454848-gSM_",
+        "title": "Registration Is Open for the AMD AI DevMaster Hackathon! Join the global online competition for developers, researchers, students, AI practitioners, and open-source contributors. Build innovative AI applications accelerated by AMD Radeon\u2122 GPUs and the ROCm\u2122 software stack and compete for a share of the $30,000 USD prize pool. Why Join? $30,000 USD in prizes Free AMD Radeon\u2122 GPU access for eligible participants Three innovation tracks: Agentic AI, Multimodal AI, and Physical AI Compete solo or in teams of up to three Bring your ideas to life, showcase what you can build with AMD and compete with innovators from around the world. Register today and start building",
+        "img": null,
+        "id": "7483277933013454848"
+      },
+      {
+        "interaction": "James Nguyen liked this",
+        "link": "https://www.linkedin.com/posts/yagehu_google-activity-7486489423392448512-CuHp",
+        "title": "Neural Net + Symbolic Verifier = Compilers go brrr \ud83e\udd2f We won 1st place \ud83c\udfc6 at the first ever Google AI & Infrastructure Intern Hackathon! Our scrappy team of 2 PhD students and 2 undergrads bagged $5500. The cherry on top? We were lucky enough to have a Google Engineering Fellow step up as our project champion. No pressure at all presenting compiler theory to the people who literally built the infrastrcture, right? Here's to my amazing teammates: Zijian Yi, Emily Qin , and Ashna Nayak . #Google",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQEedTIW2MCRHw/feedshare-shrink_800/B56Z.Vac4XKMAc-/0/1784918170010?e=2147483647&v=beta&t=HqTzQjk0Bxvi0Dx1fWT32dgPzQODKiqszPjBVTA1VVw",
+        "id": "7486489423392448512"
+      },
+      {
+        "interaction": "James Nguyen liked this",
+        "link": "https://www.linkedin.com/posts/namrata-nam-dhingreja-21773641_ive-joined-fluidstack-as-director-of-design-activity-7484070686039363584-9pHg",
+        "title": "I\u2019ve joined Fluidstack as Director of Design Engineering, Capacity Delivery \u2014 designing and building gigawatt-scale AI compute infrastructure at speed and scale, while staying lean and efficient. FluidStack builds and operates the data centers behind frontier AI, and every function owns its outcomes end to end. We\u2019re hiring broadly across the company, especially in Engineering. If you\u2019re the kind of person who wants to see your work energized and serving racks, my DMs are open!",
+        "img": null,
+        "id": "7484070686039363584"
+      },
+      {
+        "interaction": "James Nguyen liked this",
+        "link": "https://www.linkedin.com/posts/abed-bachir-97b2b65a_after-ten-years-at-gfiber-n%C3%A9e-google-fiber-activity-7484641676179791872-g_wm",
+        "title": "After ten years at GFiber (n\u00e9e Google Fiber), I've joined Fluidstack to help build and run the infra behind AI. From a company whose mission was broadband abundance to one driving AI abundance. Different decade, same job for us network engineers: keep the network boring! Thank you to everyone at Google Fiber who made the last ten years what they were.",
+        "img": null,
+        "id": "7484641676179791872"
+      },
+      {
+        "interaction": "James Nguyen liked this",
+        "link": "https://www.linkedin.com/posts/elsa-ibarra-63186b218_looking-for-opportunities-at-ai-companies-activity-7487482184669237248-uyoZ",
+        "title": "Looking for opportunities at AI companies? Here is a new list of AI companies pushing the boundaries and actively hiring engineers and talent like you. Luma - Tools to generate photorealistic images and videos from prompts. (various open roles) Goldcast - Platform for creating and repurposing B2B video content at scale. (various engineering roles open) Flex - AI-Native Private Banking for Business Owners. (various open roles in every department) Harmattan AI - AI company building autonomous systems for defense and military use. (various open roles in every department) Zafran Security - Cybersecurity platform that automatically identifies and fixes vulnerabilities. Listen Labs - Platform that automates customer interviews and insights. Neural Concept - Intelligence platform for 3D deep-learning\u2013driven product design Starlab - Commercial space station using AI to support research, operations, and human life in orbit. Yoodli AI Roleplays - AI platform for personalized communication coaching. Character.AI - Platform for creating and chatting with custom characters. (Various Product, Engineering and ML roles) Articul8 AI - Enterprise platform to build and manage generative AI apps. (various open roles) webAI - AI platform for building and running private, on-prem custom models. FINNY - AI platform that helps financial advisors find and reach prospects. Momentum.io - Platform that turns customer interactions into real-time GTM execution. These companies are solving problems with AI and need top talent like you. Explore their teams and find your perfect fit. Career page links are available in the comments! If you are hiring, please mention your company in the comments and follow me for curated lists of fast-growing AI startups.",
+        "img": null,
+        "id": "7487482184669237248"
+      },
+      {
+        "interaction": "James Nguyen liked this",
+        "link": "https://www.linkedin.com/posts/grafana-labs_observabilitycon-2026-grafana-labs-grafana-activity-7482547667051442176-DOXB",
+        "title": "\ud83c\udf9f\ufe0f \ud835\uddd5\ud835\uddee\ud835\ude06 \ud835\uddd4\ud835\uddff\ud835\uddf2\ud835\uddee, \ud835\uddf7\ud835\uddfc\ud835\uddf6\ud835\uddfb \ud835\ude02\ud835\ude00 \ud835\uddf3\ud835\uddfc\ud835\uddff \ud835\udde2\ud835\uddef\ud835\ude00\ud835\uddf2\ud835\uddff\ud835\ude03\ud835\uddee\ud835\uddef\ud835\uddf6\ud835\uddf9\ud835\uddf6\ud835\ude01\ud835\ude06\ud835\uddd6\ud835\udde2\ud835\udde1 Join Grafana engineers and observability practitioners in San Francisco, October 19\u201321, for live demos and practical sessions on AI-powered operations, observability for AI, and full-stack observability at scale. \ud835\udddf\ud835\uddf6\ud835\uddfa\ud835\uddf6\ud835\ude01\ud835\uddf2\ud835\uddf1 \ud835\ude01\ud835\uddf6\ud835\uddf0\ud835\uddf8\ud835\uddf2\ud835\ude01\ud835\ude00 \ud835\uddee\ud835\uddff\ud835\uddf2 \ud835\uddee\ud835\ude03\ud835\uddee\ud835\uddf6\ud835\uddf9\ud835\uddee\ud835\uddef\ud835\uddf9\ud835\uddf2 \ud835\uddee\ud835\ude01 \ud835\udfef\ud835\udfec% \ud835\uddfc\ud835\uddf3\ud835\uddf3. Register now to secure your pass at the best available price.",
+        "img": "https://media.licdn.com/dms/image/v2/D5610AQEH4NEfRet8rg/image-shrink_800/B56Z9dpt8AGQAg-/0/1783982645273/Obscon26_registration_v3png?e=2147483647&v=beta&t=WIMNbQ8gmwVP4fvyeb3nvn_OXvQpbl8PdR5-cWvcCFg",
+        "id": "2026"
+      },
+      {
+        "interaction": "James Nguyen liked this",
+        "link": "https://www.linkedin.com/posts/tam-cs_i-quitted-this-year-yc-startup-school-activity-7488775466091245568-tIO8",
+        "title": "I Quitted this year YC Startup School... But I don't regret it. This time last year, I was attending the first ever YC startup school in the world. Being one of the pioneering participants bring me a very exciting and unique experience. But this year, I'm not going there. Instead, I spent a whole month in Vietnam, went back and forth between cities, met a bunch of new friends, and learned a lot of new things. During the time, I was lucky enough to attend the GRAB the Future Hackathon, which eventually granted me a Data Analyst intern at Grab. Later, I went to the Agentic AI Build Week from GenAI Fund, where I built and integrated Muster Task Delegator into internal operations at KT One. Closing the month was an amazing time at the 2nd SEA Quantathon in Vietnam, where KT One was able to secured a 3rd place along with investment opportunities. Thank you for making my summer extraordinaries, my G Duc-Kha Vu , Long Le , Marc Jermaine Pontiveros, and also with a lot of friends we talked along the way. P/s: First time on live broadcast, would prepare better next time!",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQHw5g52rbHkwA/feedshare-shrink_800/B56Z.zowg2JgAg-/0/1785425235536?e=2147483647&v=beta&t=rRb0b4Oqu4hDfiiTWwcsNThbBNPEAwD0xMVFDE6JY2c",
+        "id": "7488775466091245568"
+      }
+    ],
+    "linkedin_num_id": "915193359",
+    "banner_image": "https://media.licdn.com/dms/image/v2/D5616AQFGuRp747eb3g/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1690498756261?e=2147483647&v=beta&t=A8rk0BW79zGaetHlATzcGO509yej3stZVlnGvOFrPWY",
+    "honors_and_awards": null,
+    "similar_profiles": [],
+    "default_avatar": false,
+    "memorialized_account": false,
+    "bio_links": [],
+    "first_name": "James",
+    "last_name": "Nguyen",
+    "influencer": false,
+    "timestamp": "2026-08-12T19:06:07.731Z",
+    "input": {
+      "url": "https://www.linkedin.com/in/james-nguyen8"
+    }
+  },
+  "local_photo": "data\\linkedin_photos\\james-nguyen8__usr-8A29bV6l9BvgDGc.jpg"
+}

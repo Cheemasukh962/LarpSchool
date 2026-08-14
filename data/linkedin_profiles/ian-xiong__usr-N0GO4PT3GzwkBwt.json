@@ -1,0 +1,177 @@
+{
+  "luma_user_id": "usr-N0GO4PT3GzwkBwt",
+  "csv_name": "Ian Xiong",
+  "csv_linkedin": "https://www.linkedin.com/in/ian-xiong",
+  "enriched_at": "2026-08-12T19:07:22.274758+00:00",
+  "batch_id": "sd_msqgmjx4y9b9cgg4i",
+  "profile": {
+    "id": "ian-xiong",
+    "name": "Ian Xiong",
+    "city": "San Francisco Bay Area",
+    "country_code": "US",
+    "position": null,
+    "about": "Interested in mechatronics, robotics, or computer vision internships for winter 2027!",
+    "current_company": {
+      "link": "https://www.linkedin.com/company/tesla-motors?trk=public_profile_topcard-current-company",
+      "name": "Tesla",
+      "company_id": "tesla-motors",
+      "location": null
+    },
+    "experience": null,
+    "url": "https://de.linkedin.com/in/Ian-xiong",
+    "educations_details": "University of Waterloo",
+    "education": [
+      {
+        "title": "University of Waterloo",
+        "url": "https://ca.linkedin.com/school/uwaterloo/",
+        "start_year": "2024-09",
+        "end_year": "2029-04",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      }
+    ],
+    "recommendations_count": 1,
+    "avatar": "https://static.licdn.com/aero-v1/sc/h/9c8pery4andzj6ohjkjp54ma2",
+    "recommendations": [
+      "Adam Annosantini \u201cIan has been a remarkable addition to the team. He\u2019s enthusiastic, energetic, and driven\u2014qualities that make him a delight to work with. During his term Ian implemented two data-processing applications in C#. He translated the requirements into robust solutions. He actively sought feedback and communicated effectively with different stakeholders. He implemented state-of-the art CI pipelines (GitHub Actions) and managed the deployment these applications to a production environment. Of special note was Ian's work on a machine vision project. He developed an algorithm to identify components for robotic pick-and-place processes. With minimal supervision, he learned to use OpenCV (python) and created a robust feature identification and extraction algorithm. Technically, the algorithm is resilient to noise, can identify an arbitrary number of target features, and is agnostic to feature rotation relative to the image coordinate space. Ian also possesses strong interpersonal and communication skills. He presented his work to the broader organization, clearly describing his results in digestible language. He asks insightful questions, actively seeks feedback, and constantly looks for ways to improve. I am confident Ian will be an asset to any organization lucky enough to have him.\u201d"
+    ],
+    "volunteer_experience": [
+      {
+        "duration": "May 2026 \u00b7 - Present \u00b7 \n\n4 months",
+        "duration_short": "- Present",
+        "info": "LED controllers for art-tech installations!",
+        "start_date": "May 2026",
+        "subtitle": "PRISM Collective",
+        "title": "Hardware Designer"
+      },
+      {
+        "duration": "Jan 2025 \u00b7 - \nApr 2026 \u00b7 \n1 year 4 months",
+        "duration_short": "- \nApr 2026",
+        "info": "Solar roof-tilt mechanism, chassis jig, floor panel",
+        "start_date": "Jan 2025",
+        "subtitle": "Midnight Sun Solar Rayce Car Team",
+        "title": "Structures Core Member"
+      },
+      {
+        "duration": "Jan 2026 \u00b7 - \nApr 2026 \u00b7 \n4 months",
+        "duration_short": "- \nApr 2026",
+        "start_date": "Jan 2026",
+        "subtitle": "Vision and Image Processing Group",
+        "title": "ML Research Assistant"
+      },
+      {
+        "duration": "Sep 2023 \u00b7 - \nJun 2024 \u00b7 \n10 months",
+        "duration_short": "- \nJun 2024",
+        "info": "2nd in command for Canada's largest Air Cadets squadron, 400+ hours spent organizing training opportunities for 300 youth.",
+        "start_date": "Sep 2023",
+        "subtitle": "Royal Canadian Air Cadets",
+        "title": "Training Senior Warrant Officer"
+      },
+      {
+        "duration": "Oct 2022 \u00b7 - \nFeb 2023 \u00b7 \n5 months",
+        "duration_short": "- \nFeb 2023",
+        "start_date": "Oct 2022",
+        "subtitle": "Shoppers Drug Mart",
+        "title": "Pharmacy Assistant"
+      }
+    ],
+    "followers": 877,
+    "connections": 500,
+    "current_company_company_id": "tesla-motors",
+    "current_company_name": "Tesla",
+    "location": null,
+    "input_url": "https://www.linkedin.com/in/ian-xiong",
+    "linkedin_id": "ian-xiong",
+    "activity": [
+      {
+        "interaction": "Liked by Ian Xiong",
+        "link": "https://www.linkedin.com/posts/erickang27_im-excited-to-announce-that-im-going-to-activity-7492820636306903040-yGDN",
+        "title": "I\u2019m excited to announce that I\u2019m going to Hack the North this September!! I applied solo, so if you want to partner up to build something cool while\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQH9gTXEg8ht0Q/feedshare-shrink_800/B56Z_vYqeSHIAc-/0/1786427648317?e=2147483647&v=beta&t=4r4n0PP0WGoyFWrXuOO-QOykkCn8-moHS3dM5DwxqKs",
+        "id": "7492820636306903040"
+      },
+      {
+        "interaction": "Liked by Ian Xiong",
+        "link": "https://www.linkedin.com/posts/jalenbrunson1_im-excited-to-announce-that-my-upcoming-activity-7490798811456593920-0ISu",
+        "title": "I'm excited to announce that my upcoming children's book has a new (earlier) release date of November 24, 2026. Yes, November of THIS year! \ud83d\udcda\ud83d\udd25 I\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQFluK_lS0ySnQ/feedshare-image-high-res/B4EZ_OpwmSJEAY-/0/1785878481570?e=2147483647&v=beta&t=J9uDUIGB-IYmJBBVdgHLD7ASt5JFYNLEvyqtzykdNmQ",
+        "id": "7490798811456593920"
+      },
+      {
+        "interaction": "Liked by Ian Xiong",
+        "link": "https://www.linkedin.com/posts/angelina-wang632_justimagine-onelegoteam-behindthebricks-activity-7490131348259545088-YCgI",
+        "title": "For the past 10 years, I have been in a constant LEGO gift-giving chain with my mom. Safe to say, our collection of LEGO Star Wars and LEGO Technic\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQG90atD0aZDEA/feedshare-image-high-res/B56Z_JKxLXIMAU-/0/1785786471390?e=2147483647&v=beta&t=UrmwnQwUUnjS0SllZA5n7zpoIhQiGLxwzUQ-uxXT-cI",
+        "id": "7490131348259545088"
+      },
+      {
+        "interaction": "Liked by Ian Xiong",
+        "link": "https://www.linkedin.com/posts/shuyangzhou_something-big-is-coming-ryan-ly-september-activity-7490587122366803968-Gh7A",
+        "title": "Something big is coming\u2026 @Ryan Ly September 2026 University of Waterloo Get ready.",
+        "img": "https://media.licdn.com/dms/image/v2/D5605AQGH-l4m56SZXw/videocover-high/B56Z_PpP_HGUBM-/0/1785895127922?e=2147483647&v=beta&t=VB5ZcYRNvfTuILIAuPU_AUFao_zM6tqEMVozZ3I_OYM",
+        "id": "7490587122366803968"
+      },
+      {
+        "interaction": "Liked by Ian Xiong",
+        "link": "https://www.linkedin.com/posts/bilal-albezreh-49273a284_ycombinator-startups-activity-7488316581077397505-HD5_",
+        "title": "Just got back from San Francisco after attending Y Combinator's Startup School. Good talks, better conversations. Met founders, students and\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4D22AQH2tPyR_wg8EQ/feedshare-shrink_800/B4DZ.vYPKeIsAc-/0/1785353795485?e=2147483647&v=beta&t=CKbTA1ZGIUc_Dvl4MF75OnCemuEks6zGCy2QsQHlJ9g",
+        "id": "7488316581077397505"
+      },
+      {
+        "interaction": "Liked by Ian Xiong",
+        "link": "https://www.linkedin.com/posts/shiden-y-853b801a1_i-cant-tell-you-how-many-sls-deals-ive-activity-7487820038276808704-K8mX",
+        "title": "I can\u2019t tell you how many SLS deals I\u2019ve lost over the years for one simple reason: \"The build volume is just too small for our parts.\" It\u2019s a\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4D22AQEsqCakbmxH1Q/feedshare-image-high-res/B4DZ.oUo_wGYAY-/0/1785235412620?e=2147483647&v=beta&t=195dOv1Om3HPbVirKy-Z81jqekA9DsUstmw76M8VOdk",
+        "id": "7487820038276808704"
+      },
+      {
+        "interaction": "Liked by Ian Xiong",
+        "link": "https://www.linkedin.com/posts/saketh-baddam_im-17-and-i-moved-to-san-francisco-alone-activity-7486186551190671360-dFGr",
+        "title": "I'm 17, and I moved to San Francisco alone to fix the thing that killed my best friend. Two years ago, he died in a building collapse in India\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQHZog7KvIUS8A/feedshare-image-high-res/B56Z.RG_0MIUAU-/0/1784845958876?e=2147483647&v=beta&t=2d4DWsbTYjQXSj8OPsHe4Myb1Xl48ZPbn9VBeu5tE6M",
+        "id": "17"
+      }
+    ],
+    "linkedin_num_id": "1026412958",
+    "banner_image": "https://media.licdn.com/dms/image/v2/D4E16AQHb6L6MuR4-Ng/profile-displaybackgroundimage-shrink_200_800/B4EZ2QZ_XVJsAU-/0/1776244227163?e=2147483647&v=beta&t=fgNXJ4g-X8jjnC7Q5HGfF7sE7keMIdAfI_Oh6ODDKvA",
+    "honors_and_awards": [
+      {
+        "title": "Lord Strathcona Trust Fund Medal",
+        "publication": "Air Cadet League of Canada",
+        "date": "2024-05-01T00:00:00.000Z",
+        "description": "Nationally awarded to one cadet per squadron in recognition of exemplary performance and military training."
+      },
+      {
+        "title": "Senior Athletic Letter",
+        "publication": "A.Y. Jackson Secondary School",
+        "date": "2023-06-01T00:00:00.000Z",
+        "description": "Awarded to a student demonstrating exceptional commitment to A.Y. Jackson's athletic programs."
+      },
+      {
+        "title": "5-year Air Cadet Service Medal",
+        "publication": "351 Silver Star Royal Canadian Air Cadet Squadron",
+        "date": "2022-06-01T00:00:00.000Z",
+        "description": "Issued to cadets who have demonstrated meritorious service of at least 5 years and recommended by the squadron Commanding Officer."
+      },
+      {
+        "title": "ANAVETS Cadet Medal of Merit",
+        "publication": "Air Cadet League of Canada",
+        "date": "2021-08-01T00:00:00.000Z",
+        "description": "Nationally awarded to the top cadet in an advanced 6-week summer training course who demonstrates top leadership qualities, instructional abilities, dress, deportment and motivation, and cooperation with others."
+      }
+    ],
+    "similar_profiles": [],
+    "default_avatar": true,
+    "memorialized_account": false,
+    "bio_links": [],
+    "first_name": "Ian",
+    "last_name": "Xiong",
+    "influencer": false,
+    "timestamp": "2026-08-12T19:06:09.987Z",
+    "input": {
+      "url": "https://www.linkedin.com/in/ian-xiong"
+    }
+  }
+}

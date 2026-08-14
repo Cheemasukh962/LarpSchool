@@ -1,0 +1,214 @@
+{
+  "source": "crustdata",
+  "recovered_from": "brightdata_failed_private",
+  "luma_user_id": "usr-bPkzCVP7WxRAlWG",
+  "csv_name": "Priyam Rangwala",
+  "csv_linkedin": "https://www.linkedin.com/in/priyam-r-5b8238293",
+  "clean_linkedin": "https://www.linkedin.com/in/priyam-r-5b8238293",
+  "enriched_at": "2026-08-14T18:07:59.937250+00:00",
+  "person_data": {
+    "basic_profile": {
+      "current_title": "Software Engineer",
+      "first_name": null,
+      "headline": "CS @ UCLA",
+      "languages": [],
+      "last_name": null,
+      "location": {
+        "city": "Los Angeles",
+        "continent": "North America",
+        "country": "United States",
+        "full_location": null,
+        "raw": "Los Angeles, California, United States",
+        "state": "California"
+      },
+      "name": "Priyam Rangwala",
+      "normalized_title": {
+        "confident": true,
+        "department": "Engineering & Technology",
+        "matched_title": "Software Engineer",
+        "similarity": 0.9998999834060669,
+        "sub_department": "Software Engineering"
+      },
+      "professional_network_name": "Priyam Rangwala",
+      "profile_picture_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/person/a5cd0c64588e926b36b30788f818f8d2eea8d6cdc2ff61b66e04254d4c6b18c1.jpg",
+      "summary": ""
+    },
+    "education": {
+      "schools": [
+        {
+          "activities_and_societies": "",
+          "degree": "",
+          "description": "",
+          "end_year": 2025,
+          "field_of_study": "",
+          "institute_logo_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/company/37d590af027ca95f96de2144cd69287268dc973b4861679808152fe43efa6724.jpg",
+          "institute_logo_url": "https://media.licdn.com/dms/image/v2/C4E0BAQEY3DxkrW3DvA/company-logo_400_400/company-logo_400_400/0/1630563263115?e=1784160000&v=beta&t=SVGIzX7bEmk0frJnmGRIhSi39xxy_vThV4Ho-d8RUKQ",
+          "location": {
+            "city": "Elk Grove",
+            "continent": "North America",
+            "country": "United States",
+            "raw": "Elk Grove, California, United States",
+            "state": "California"
+          },
+          "professional_network_id": "34216130",
+          "school": "Franklin High School",
+          "start_year": 2021
+        },
+        {
+          "activities_and_societies": "",
+          "degree": "Bachelor of Science - BS",
+          "description": "",
+          "end_year": null,
+          "field_of_study": "Computer Science and Engineering",
+          "institute_logo_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/company/f7e58bce24a1c3c4c91a59606f86933e9f77bce8442bf48efcc269f4063af056.jpg",
+          "institute_logo_url": "https://media.licdn.com/dms/image/v2/D560BAQEDHp-TpD9AYQ/company-logo_400_400/company-logo_400_400/0/1688403831517/ucla_logo?e=1784160000&v=beta&t=e-tDzOFKfEG55eJfgr-E5gS1u2RoWH_KnX1Xue1z3tk",
+          "location": {
+            "city": "Los Angeles",
+            "continent": "North America",
+            "country": "United States",
+            "raw": "Los Angeles, United States",
+            "state": "California"
+          },
+          "professional_network_id": "2477",
+          "school": "UCLA",
+          "start_year": null
+        }
+      ]
+    },
+    "experience": {
+      "employment_details": {
+        "current": [
+          {
+            "company_description": "The system of record for all company and agent spend",
+            "company_professional_network_profile_url": "https://linkedin.com/company/110937246",
+            "company_profile_picture_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/company/354adf7a16697e48489cfcd121c3b9215d152eae4b5c93f2a6c2e06edf2bda6d.jpg",
+            "company_website_domain": "drippay.dev",
+            "crustdata_company_id": 29304455,
+            "description": "YC P26",
+            "employment_type": "",
+            "end_date": null,
+            "function_category": "Engineering",
+            "is_default": true,
+            "location": {
+              "raw": "San Francisco Bay Area"
+            },
+            "name": "Drip",
+            "position_id": 2949434532,
+            "professional_network_id": "110937246",
+            "seniority_level": "Entry Level",
+            "start_date": "2026-06-01T00:00:00+00:00",
+            "title": "Software Engineer",
+            "years_at_company": "Less than 1 year",
+            "years_at_company_raw": 0.0
+          },
+          {
+            "company_description": "The UCLA Henry Samueli School of Engineering and Applied Science, established in 1945, offers 28 academic and professional degree programs and has an enrollment of more than 5,000 students. The School's distinguished faculty are leading research to address many of the critical challenges of the 21st century, including renewable energy, clean water, health care, wireless sensing and networking, and cybersecurity. Ranked among the top 10 engineering schools at public universities nationwide, the School is home to nine multimillion-dollar interdisciplinary research centers in wireless sensor systems, nanoelectronics, nanomedicine, renewable energy, customized computing, and the smart grid, all funded by federal and private agencies.",
+            "company_professional_network_profile_url": "https://linkedin.com/company/18108926",
+            "company_profile_picture_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/company/a6c5f45fbd260d763b146d9c292c0ca4e340cfd8df685f4344863ad435c0ee5e.jpg",
+            "company_website_domain": "ucla.edu",
+            "crustdata_company_id": 6093550,
+            "description": "Security & Privacy Lab",
+            "employment_type": "",
+            "end_date": null,
+            "function_category": "Research",
+            "is_default": false,
+            "location": {
+              "raw": "Los Angeles, CA"
+            },
+            "name": "UCLA",
+            "position_id": 2858898973,
+            "professional_network_id": "18108926",
+            "seniority_level": "Entry Level",
+            "start_date": "2025-12-01T00:00:00+00:00",
+            "title": "Research Assistant",
+            "years_at_company": "Less than 1 year",
+            "years_at_company_raw": 0.0
+          }
+        ],
+        "past": [
+          {
+            "company_description": "Code Ninjas\u00ae is the world\u2019s largest and fastest-growing coding franchise. At hundreds of Code Ninjas centers across the globe, kids have fun learning how to code, no matter what their skill level. Learn about programs, locations, and franchise opportunities at https://www.codeninjas.com.",
+            "company_professional_network_profile_url": "https://linkedin.com/company/12902865",
+            "company_profile_picture_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/company/8b7b993b70fd8ac7f146eb0460c049c599502bd4dd8e5bfd9953f70ef3f2cfe8.jpg",
+            "company_website_domain": "codeninjas.com",
+            "crustdata_company_id": 6224495,
+            "description": "- Taught children programming in C# through Unity and JavaScript through Microsoft MakeCode\n- Taught version control through Git and GitHub\n- Worked with other instructors to explain programming concepts",
+            "employment_type": "",
+            "end_date": "2025-09-01T00:00:00+00:00",
+            "function_category": "",
+            "is_default": false,
+            "location": {
+              "raw": "Elk Grove, California, United States"
+            },
+            "name": "Code Ninjas",
+            "position_id": 2680922579,
+            "professional_network_id": "12902865",
+            "seniority_level": "Entry Level",
+            "start_date": "2025-06-01T00:00:00+00:00",
+            "title": "Programming Instructor",
+            "years_at_company": "Less than 1 year",
+            "years_at_company_raw": 0.0
+          },
+          {
+            "company_description": "EGUSD is a company based out of 8661 Power Inn Rd, Elk Grove, California, United States.",
+            "company_professional_network_profile_url": "https://linkedin.com/company/97144952",
+            "company_profile_picture_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/company/b561e904983f937d2a69abe0613663d3ad0384c32906e0399dcc776655067096.jpg",
+            "company_website_domain": "egusd.net",
+            "crustdata_company_id": 6795826,
+            "description": "- Designed and tested an inventory database for thousands of devices used across EGUSD classrooms\n- Learned enterprise-level security and networking practices through implementing detection systems, firewalls, and network segmentation\n- Configured, cleaned, and collected data on networking equipment",
+            "employment_type": "",
+            "end_date": "2024-08-01T00:00:00+00:00",
+            "function_category": "",
+            "is_default": false,
+            "location": {
+              "raw": "Elk Grove, California, United States"
+            },
+            "name": "EGUSD",
+            "position_id": 2680922410,
+            "professional_network_id": "97144952",
+            "seniority_level": "In Training",
+            "start_date": "2024-06-01T00:00:00+00:00",
+            "title": "Tech Services Intern",
+            "years_at_company": "Less than 1 year",
+            "years_at_company_raw": 0.0
+          }
+        ]
+      }
+    },
+    "professional_network": {
+      "connections": 585,
+      "current_title": "Software Engineer",
+      "followers": 0,
+      "headline": "CS @ UCLA",
+      "location": {
+        "city": "Los Angeles",
+        "continent": "North America",
+        "country": "United States",
+        "raw": "Los Angeles, California, United States",
+        "state": "California"
+      },
+      "metadata": {
+        "last_scraped_source": null
+      },
+      "name": "Priyam Rangwala",
+      "profile_picture_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/person/a5cd0c64588e926b36b30788f818f8d2eea8d6cdc2ff61b66e04254d4c6b18c1.jpg",
+      "pronoun": "He/Him",
+      "summary": ""
+    },
+    "skills": {
+      "professional_network_skills": []
+    },
+    "social_handles": {
+      "dev_platform_identifier": {
+        "profile_url": null
+      },
+      "professional_network_identifier": {
+        "profile_url": "https://www.linkedin.com/in/priyamrangw"
+      },
+      "twitter_identifier": {
+        "slug": ""
+      }
+    },
+    "crustdata_person_id": 482183213
+  }
+}

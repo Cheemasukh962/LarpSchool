@@ -1,0 +1,229 @@
+{
+  "luma_user_id": "usr-TJKsktkVcr9bpp9",
+  "csv_name": "Ryan Chow",
+  "csv_linkedin": "https://www.linkedin.com/in/ryan-chow-a56576368",
+  "enriched_at": "2026-08-12T19:16:49.705972+00:00",
+  "batch_id": "sd_msqgxyk1xj7v4ip1",
+  "profile": {
+    "id": "ryan-chow-a56576368",
+    "name": "Ryan Chow",
+    "city": "San Francisco, California, United States",
+    "country_code": "US",
+    "position": null,
+    "about": null,
+    "current_company": {
+      "link": "https://www.linkedin.com/company/clapperlabs?trk=public_profile_topcard-current-company",
+      "name": "Clapper Labs",
+      "company_id": "clapperlabs",
+      "location": null
+    },
+    "experience": null,
+    "url": "https://pe.linkedin.com/in/Ryan-chow-a56576368",
+    "educations_details": "UC San Diego",
+    "education": [
+      {
+        "start_year": "2022-08",
+        "end_year": "2026-06",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      }
+    ],
+    "avatar": "https://static.licdn.com/aero-v1/sc/h/9c8pery4andzj6ohjkjp54ma2",
+    "languages": [
+      {
+        "subtitle": "Limited working proficiency",
+        "title": "Cantonese"
+      },
+      {
+        "subtitle": "Native or bilingual proficiency",
+        "title": "English"
+      }
+    ],
+    "certifications": [
+      {
+        "meta": "Issued Jul 2025 Credential ID S2Y5Z5I34S30 See credential",
+        "subtitle": "IBM",
+        "title": "IBM RAG: Develop Generative AI Applications",
+        "credential_url": "https://www.coursera.org/account/accomplishments/verify/S2Y5Z5I34S30?trk=public_profile_see-credential",
+        "credential_id": "S2Y5Z5I34S30"
+      },
+      {
+        "meta": "Issued Jul 2025 Credential ID A00ZSQ0OJ45C See credential",
+        "subtitle": "IBM",
+        "title": "Build RAG Applications",
+        "credential_url": "https://www.coursera.org/account/accomplishments/verify/A00ZSQ0OJ45C?trk=public_profile_see-credential",
+        "credential_id": "A00ZSQ0OJ45C"
+      },
+      {
+        "meta": "Issued Jul 2025 Credential ID B42K6YLS5AI2 See credential",
+        "subtitle": "IBM",
+        "title": "Vector Databases for RAG",
+        "credential_url": "https://www.coursera.org/account/accomplishments/verify/B42K6YLS5AI2?trk=public_profile_see-credential",
+        "credential_id": "B42K6YLS5AI2"
+      },
+      {
+        "meta": "Issued Jun 2025 Credential ID XEZZOVS3WJ8F See credential",
+        "subtitle": "University of Michigan",
+        "title": "Capstone: Retrieving, Processing, and Visualizing Data with Python",
+        "credential_url": "https://www.coursera.org/account/accomplishments/records/XEZZOVS3WJ8F?trk=public_profile_see-credential",
+        "credential_id": "XEZZOVS3WJ8F"
+      },
+      {
+        "meta": "Issued Jun 2025 Credential ID 7OUIWTGN4C32 See credential",
+        "subtitle": "Georgia Institute of Technology",
+        "title": "Introduction to Engineering Mechanics",
+        "credential_url": "https://www.coursera.org/account/accomplishments/records/7OUIWTGN4C32?trk=public_profile_see-credential",
+        "credential_id": "7OUIWTGN4C32"
+      },
+      {
+        "meta": "Issued Jun 2025 Credential ID PX495E21LR76 See credential",
+        "subtitle": "University of Michigan",
+        "title": "Programming for Everybody (Getting Started with Python)",
+        "credential_url": "https://www.coursera.org/account/accomplishments/records/PX495E21LR76?trk=public_profile_see-credential",
+        "credential_id": "PX495E21LR76"
+      },
+      {
+        "meta": "Issued Jun 2025 Credential ID F3V28HFHJ72O See credential",
+        "subtitle": "University of Michigan",
+        "title": "Python Data Structures",
+        "credential_url": "https://www.coursera.org/account/accomplishments/records/F3V28HFHJ72O?trk=public_profile_see-credential",
+        "credential_id": "F3V28HFHJ72O"
+      },
+      {
+        "meta": "Issued Jun 2025 Credential ID IO3I2L4OQ6EZ See credential",
+        "subtitle": "University of Michigan",
+        "title": "Using Databases with Python",
+        "credential_url": "https://www.coursera.org/account/accomplishments/records/IO3I2L4OQ6EZ?trk=public_profile_see-credential",
+        "credential_id": "IO3I2L4OQ6EZ"
+      },
+      {
+        "meta": "Issued May 2025 Credential ID PX495E21LR76 See credential",
+        "subtitle": "University of Michigan",
+        "title": "Programming for Everybody (Getting Started with Python)",
+        "credential_url": "https://www.coursera.org/account/accomplishments/records/PX495E21LR76?trk=public_profile_see-credential",
+        "credential_id": "PX495E21LR76"
+      },
+      {
+        "meta": "Issued Feb 2025 Credential ID XIIGULAPGUY0 See credential",
+        "subtitle": "DeepLearning.AI, Coursera, Stanford CPD, UVM",
+        "title": "Supervised Machine Learning: Regression and Classification",
+        "credential_url": "https://www.coursera.org/account/accomplishments/records/XIIGULAPGUY0?trk=public_profile_see-credential",
+        "credential_id": "XIIGULAPGUY0"
+      }
+    ],
+    "followers": 487,
+    "connections": 484,
+    "current_company_company_id": "clapperlabs",
+    "current_company_name": "Clapper Labs",
+    "location": "San Francisco",
+    "input_url": "https://www.linkedin.com/in/ryan-chow-a56576368",
+    "linkedin_id": "ryan-choww",
+    "activity": [
+      {
+        "interaction": "Ryan Chow shared this",
+        "link": "https://www.linkedin.com/posts/ryan-choww_i-attended-y-combinator-startup-school-2026-activity-7489040027469893633-r7dD",
+        "title": "I attended Y Combinator Startup School 2026 and heard from speakers like Jensen Huang, Sam Altman, and my personal favorite, the Clawfather. Here\u2019s some of my takeaways: I learned that the best startup ideas don\u2019t come from random epiphanies, but rather from solving problems that annoy you specifically. Resilience is the most important character trait of a founder. Find something to believe in, and stick with it through and through despite what others may say. I\u2019ve enjoyed my weekend exploring SF startup culture and I\u2019m really grateful for the connections, people, and experiences I\u2019ve gained this weekend. Special thanks to Blake Almon , Vaishnav Anand , and Yuvraj Dhamija for making this weekend as awesome as it was! Also thanks for Claude Max 20x*",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQHsqSV8vJrKPw/feedshare-image-high-res/B56Z.2i7A0GQAU-/0/1785474038885?e=2147483647&v=beta&t=tlBdAUJT4JsjvmrUf-D3PVlvuFwu-nBG4j0zWs0iJrI",
+        "id": "2026"
+      },
+      {
+        "interaction": "Ryan Chow shared this",
+        "link": "https://www.linkedin.com/posts/ryan-choww_im-heading-to-y-combinator-startup-school-activity-7460047884647022592-2WEq",
+        "title": "I'm heading to Y Combinator Startup School this summer, and I'm still in high school. \ud83d\ude80 Out of 30,000+ applicants, I'm thrilled to be one of the founders selected for YC Startup School. I can't wait to be in a room with some of the most ambitious builders on the planet, learn from incredible founders, and come home with clarity, connections, and fire. If you're attending or just love what's being built at the frontier of AI, let's connect! \ud83d\udcac Thank you Blake Almon for the referral!",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQHnz9m71i-uVg/feedshare-shrink_800/B56Z4dqBY5GgAc-/0/1778614015901?e=2147483647&v=beta&t=AME5XN27egbRVQXAbRyWn1ZcrQiWqSFKNiwka7mOTV0",
+        "id": "7460047884647022592"
+      },
+      {
+        "interaction": null,
+        "link": "https://www.linkedin.com/posts/blakealmon_high-school-financeai-summit-get-an-internship-activity-7356750346448199680-r2s0",
+        "title": "If you're in High School or know somebody, I am hosting this event for Finance/AI in SF Register Now! https://luma.com/6grneky4",
+        "img": "https://media.licdn.com/dms/image/sync/v2/D5627AQFBCy6gQ5H4gQ/articleshare-shrink_800/B56Zhcc8c.HcAI-/0/1775653363955?e=2147483647&v=beta&t=oLqnKsI_PyM-hxbn6-mS5Sm9cvj-E4trFaFs6sjr5Lc",
+        "id": "7356750346448199680"
+      },
+      {
+        "interaction": "Ryan Chow replied to a comment 1w",
+        "link": "https://www.linkedin.com/posts/ryan-choww_activity-7489162890617180160-72ah",
+        "title": "Pablo Gracia Caceres future cofounder \ud83d\udc40",
+        "img": null,
+        "id": "7489162890617180160"
+      },
+      {
+        "interaction": "Ryan Chow replied to a comment 1w",
+        "link": "https://www.linkedin.com/posts/ryan-choww_activity-7489162607103238144-YJIt",
+        "title": "Yuvraj Dhamija good larp sesh brother",
+        "img": null,
+        "id": "7489162607103238144"
+      },
+      {
+        "interaction": "Ryan Chow commented on a post 1w",
+        "link": "https://www.linkedin.com/posts/matteo-gupta-34bb4b34b_i-analyzed-visas-fy23fy25-form-10-k-and-activity-7488757063024525312-SCxp",
+        "title": "Day 2 of asking for a TMC analysis \ud83d\ude05",
+        "img": null,
+        "id": "10"
+      },
+      {
+        "interaction": "Ryan Chow liked this",
+        "link": "https://www.linkedin.com/posts/yan-milman-15baa4319_last-month-i-had-the-opportunity-to-intern-activity-7491532494488371200-KMif",
+        "title": "Last month, I had the opportunity to intern at New Green Power \u6c38\u946b\u80fd\u6e90 in Taipei, a leading renewable energy developer in Taiwan backed by Global Infrastructure Partner / Blackrock. As part of the investment team, I gained valuable exposure to how renewable energy projects are evaluated, financed, and developed from early-stage planning through operations. During my internship, I was involved in various investment-related tasks, including: - Conducting renewable energy market research for investment teaser - Supporting a new facility set up for a project finance, covering financial model sensitive analysis, IM preparation - Assisting with IC memo, including industry research, financial analysis, and project updates. - Reviewing commercial agreements and project documents to better understand transaction structures. One of my biggest takeaways was learning how different functions, including investment, engineering, legal, and operations teams, collaborate to successfully deliver renewable energy projects. I would like to sincerely thank everyone at New Green Power, especially Allen Hsueh , for the guidance and support throughout my internship. This experience strengthened my understanding of infrastructure investment and renewable energy, and further motivated me to continue exploring opportunities in finance and the energy sector.",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQF8qRY3372vgA/feedshare-shrink_800/B56Z_dFGZwH4Ac-/0/1786120530666?e=2147483647&v=beta&t=KgafgBX-JdTiGqq8GSzAHoCjj5XcsVby4bj8NPkhA8I",
+        "id": "7491532494488371200"
+      },
+      {
+        "interaction": "Ryan Chow liked this",
+        "link": "https://www.linkedin.com/posts/y-combinator_the-best-way-to-learn-how-startups-work-is-activity-7490097268663177217-d1sl",
+        "title": "The best way to learn how startups work is to work at one. On August 15, we're inviting ambitious students to YC HQ to meet more than 50 YC startups. Meet founders and engineers directly, hear what they\u2019re building, participate in AI coding challenges, interview on site, collect swag, and find internships, co-ops, and new-grad roles. The companies attending are working across AI, robotics, biotech, defense, developer tools, and more. Apply to join: https://lnkd.in/g3w3-7em",
+        "img": "https://media.licdn.com/dms/image/v2/D5605AQFN24IibpW8Vg/videocover-low/B56Z_IpOT1IcBI-/0/1785777679234?e=2147483647&v=beta&t=jIvwt3q1Gmqc4kgQW9xSvgi5v_z88c8NmJ0WntqHJKo",
+        "id": "7490097268663177217"
+      },
+      {
+        "interaction": "Ryan Chow liked this",
+        "link": "https://www.linkedin.com/posts/context-vc_executive-summary-thank-you-context-ventures-activity-7490812037149745152-1wex",
+        "title": "Executive Summary: Thank You Context Ventures 2026 Summer Analysts 1/ I\u2019d like to recognize and thank our fantastic team of Summer Analysts. Our analysts became an integral part of the Context VC team this summer. They conducted due diligence on investment opportunities, analyzed market and AI adoption trends, and did deep research beyond just using AI on deeptech, drones, national labs, and more. They also provided feedback & new perspectives on founder pitch meetings. They helped manage deal flow, supported portfolio companies, attended events, contributed to our social media, and kept us organized across several projects. 2/ All four high school analysts are Sacred Heart Cathedral Preparatory (SHC) students or alums, and we're especially excited to celebrate what's next for each of them: \ud83c\udf93 Martin Levy is a recent graduate of SHC, and he is currently preparing for his next academic chapter. During his time at SHC, he demonstrated significant leadership as the president of the Finance Club, where he served as the lead speaker and played a pivotal role in organizing meetings and driving the club's growth. Marty will attend Loyola University Chicago to study finance and minor in economics in the fall. \ud83d\udcca Michael Elsbernd is a rising senior, and he is a member of the varsity golf team, the California Scholarship Federation, and several other student organizations. He is especially interested in finance, mathematics, community service, and quantitative research. Michael has developed a range of projects in quantitative finance and has recently pursued independent mathematical research related to the Riemann Hypothesis and the Navier\u2013Stokes equations. \ud83d\udcc8 Henry Dougherty is a rising junior with a strong passion for finance. As co-president of the Finance Club, he is dedicated to promoting financial literacy, helping students deepen their understanding of markets and personal finance. Henry has demonstrated proactive leadership by organizing speaker events featuring industry leaders, such as a CFO from a public fintech company, and plans to expand the series further. Beyond his leadership in finance, Henry is an active member of SHC\u2019s varsity speech and debate team and a dedicated member of the lacrosse team. \ud83d\udcbc Brett Berthiaume is also a rising junior with a strong passion for finance and investing. As co-president of the Finance Club, he is committed to promoting financial literacy and helping students develop a stronger understanding of investing and personal finance. Brett is also a member of SHC\u2019s varsity speech and debate team, competing at both the state and national levels, where he has developed exceptional public speaking and critical thinking skills. He is also a captain of the lacrosse team. 3/ Thank you, Marty, Henry, Brett, and Michael, for all your hard work this summer. We really appreciated having you on the team and are excited to follow your future successes. We will be rooting and celebrating all of your future successes!",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQGVyXtwZefDZw/feedshare-shrink_800/B4EZ_S12cyKQAc-/0/1785948760204?e=2147483647&v=beta&t=vYmAGx9P_2t6fLjHEdk0lCOVLkUYPimkw_ere7sDAT4",
+        "id": "7490812037149745152"
+      },
+      {
+        "interaction": "Ryan Chow liked this",
+        "link": "https://www.linkedin.com/posts/ryan-choww_i-attended-y-combinator-startup-school-2026-activity-7489040027469893633-r7dD",
+        "title": "I attended Y Combinator Startup School 2026 and heard from speakers like Jensen Huang, Sam Altman, and my personal favorite, the Clawfather. Here\u2019s some of my takeaways: I learned that the best startup ideas don\u2019t come from random epiphanies, but rather from solving problems that annoy you specifically. Resilience is the most important character trait of a founder. Find something to believe in, and stick with it through and through despite what others may say. I\u2019ve enjoyed my weekend exploring SF startup culture and I\u2019m really grateful for the connections, people, and experiences I\u2019ve gained this weekend. Special thanks to Blake Almon , Vaishnav Anand , and Yuvraj Dhamija for making this weekend as awesome as it was! Also thanks for Claude Max 20x*",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQHsqSV8vJrKPw/feedshare-image-high-res/B56Z.2i7A0GQAU-/0/1785474038885?e=2147483647&v=beta&t=tlBdAUJT4JsjvmrUf-D3PVlvuFwu-nBG4j0zWs0iJrI",
+        "id": "2026"
+      },
+      {
+        "interaction": "Ryan Chow liked this",
+        "link": "https://www.linkedin.com/posts/matteo-gupta-34bb4b34b_visa-inc-nyse-v-3-year-10-k-business-activity-7488757063024525312-GS5V",
+        "title": "I analyzed Visa's FY23\u2013FY25 Form 10-K and built a five-tab Excel model to understand how the company generates revenue, what drives its growth, and how it sustains its margins. The model covers: Historical Financials Revenue Breakdown Business Drivers (MD&A) Business Performance Key Insights",
+        "img": null,
+        "id": "3"
+      }
+    ],
+    "linkedin_num_id": "1530224994",
+    "banner_image": "https://media.licdn.com/dms/image/v2/D5616AQEDpX2_YunYDA/profile-displaybackgroundimage-shrink_200_800/B56Z4eS_6wIQAU-/0/1778624759709?e=2147483647&v=beta&t=Pl5vICPm8ika8_IVdm_7nDR6aCc-sLj8zkezpspcFP4",
+    "honors_and_awards": [
+      {
+        "title": "National Merit Finalist",
+        "publication": "National Merit Scholarship Corporation",
+        "date": "2026-02-01T00:00:00.000Z",
+        "description": null
+      },
+      {
+        "title": "AP Scholar with Distinction",
+        "publication": "CollegeBoard",
+        "date": "2025-07-01T00:00:00.000Z",
+        "description": "Every fall, the AP Program recognizes high school students who have demonstrated outstanding college-level achievement through their performance on multiple AP Exams. The AP Scholar with Distinction Award is granted to students who receive an average score of at least 3.5 on all AP Exams taken, and scores of 3 or higher on five or more of these exams."
+      }
+    ],
+    "similar_profiles": [],
+    "default_avatar": true,
+    "memorialized_account": false,
+    "bio_links": [],
+    "first_name": "Ryan",
+    "last_name": "Chow",
+    "influencer": false,
+    "timestamp": "2026-08-12T19:15:15.274Z",
+    "input": {
+      "url": "https://www.linkedin.com/in/ryan-chow-a56576368"
+    }
+  }
+}

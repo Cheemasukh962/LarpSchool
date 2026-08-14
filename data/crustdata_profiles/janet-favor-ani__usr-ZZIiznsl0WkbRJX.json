@@ -1,0 +1,484 @@
+{
+  "source": "crustdata",
+  "recovered_from": "brightdata_failed_private",
+  "luma_user_id": "usr-ZZIiznsl0WkbRJX",
+  "csv_name": "Janet ani",
+  "csv_linkedin": "https://www.linkedin.com/in/janet-favor-ani",
+  "clean_linkedin": "https://www.linkedin.com/in/janet-favor-ani",
+  "enriched_at": "2026-08-14T18:07:59.937250+00:00",
+  "person_data": {
+    "basic_profile": {
+      "current_title": "Computer Vision Intern",
+      "first_name": null,
+      "headline": "UC Berkeley M.E.T (AeroE + Business \u201829) | Boeing Summer Intern \u201824",
+      "languages": [],
+      "last_name": null,
+      "location": {
+        "city": "",
+        "continent": "North America",
+        "country": "United States",
+        "full_location": null,
+        "raw": "Los Angeles Metropolitan Area",
+        "state": "California"
+      },
+      "name": "Janet Favor Ani",
+      "normalized_title": {
+        "confident": true,
+        "department": "Engineering & Technology",
+        "matched_title": "Computer Vision Intern",
+        "similarity": 0.9998999834060669,
+        "sub_department": "Machine Learning & AI Engineering"
+      },
+      "professional_network_name": "Janet Favor Ani",
+      "profile_picture_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/person/14b3ca03b33ce4ce293ee8bc72415016089945637d04f4c6dd8482c9087c3b62.jpg",
+      "summary": ""
+    },
+    "education": {
+      "schools": [
+        {
+          "activities_and_societies": "FRC Captain, Engineering Design and Development Systems Director, HEAR club president, BSA fundraising Commissioner, Class of 2025 Events & Spirit Rally Commissioner",
+          "degree": "High School Diploma",
+          "description": "",
+          "end_year": 2025,
+          "field_of_study": "",
+          "institute_logo_permalink": null,
+          "institute_logo_url": "",
+          "location": {
+            "city": null,
+            "continent": null,
+            "country": null,
+            "raw": null,
+            "state": null
+          },
+          "professional_network_id": "",
+          "school": "California Academy of Mathematics and Science",
+          "start_year": 2021
+        },
+        {
+          "activities_and_societies": "",
+          "degree": "",
+          "description": "",
+          "end_year": 2025,
+          "field_of_study": "",
+          "institute_logo_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/company/ce597cf81c411a6caa4f80e4197c15cc26a3b369db578121e76c57d8666b9bfa.jpg",
+          "institute_logo_url": "https://media.licdn.com/dms/image/v2/C510BAQF4VF__hzXRbQ/company-logo_400_400/company-logo_400_400/0/1631321430953?e=1776902400&v=beta&t=16x3Qxw7IifzHJyJg4kCQ6KBDS4A48t7tMN5qFdKk6w",
+          "location": {
+            "city": "Long Beach",
+            "continent": "North America",
+            "country": "United States",
+            "raw": "Long Beach, United States",
+            "state": "California"
+          },
+          "professional_network_id": "21389",
+          "school": "Long Beach City College",
+          "start_year": 2021
+        },
+        {
+          "activities_and_societies": "",
+          "degree": "Bachelor of Science - BS",
+          "description": "",
+          "end_year": 2029,
+          "field_of_study": "Aerospace Engineering",
+          "institute_logo_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/company/426acda7e092299f46c701d6bff10de72de3254f3dcec2e4abca75957537ee81.jpg",
+          "institute_logo_url": "https://media.licdn.com/dms/image/v2/D560BAQGwjF_5CYj_JQ/company-logo_400_400/company-logo_400_400/0/1732135669731/uc_berkeley_logo?e=1776902400&v=beta&t=ihsqGpnHzj0nlc8nr3zQwTYbq6GYQDs_WRmOHxXO6Cs",
+          "location": {
+            "city": "Berkeley",
+            "continent": "North America",
+            "country": "United States",
+            "raw": "Berkeley, California, United States",
+            "state": "California"
+          },
+          "professional_network_id": "2517",
+          "school": "University of California, Berkeley",
+          "start_year": 2025
+        }
+      ]
+    },
+    "experience": {
+      "employment_details": {
+        "current": [
+          {
+            "company_description": "SkyMapper is revolutionizing astronomical research by merging cutting-edge telescope technology with Web3 innovation to democratize space exploration. This decentralized network empowers astronomers, researchers, and enthusiasts worldwide to collaboratively observe, analyze, and share cosmic discoveries.",
+            "company_professional_network_profile_url": "https://linkedin.com/company/105814081",
+            "company_profile_picture_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/company/34c2fba775ea386bfeffa98ae1b82b3fed760448f22b0bc3be8f7173d4b93648.jpg",
+            "company_website_domain": "skymapper.io",
+            "crustdata_company_id": 2807615,
+            "description": "Apart of the Product Strike Team\u2014supporting product development on SkyMapper's enterprise platform supporting a decentralized network of 52 telescopes across 6 continents\n\nDeveloped computer vision and machine learning pipelines for drone detection, localization, and classification using real-time and archived imagery, applying image processing, model evaluation, and ROC curve analysis to improve detection accuracy under varying environmental conditions. \n \n Designed and implemented a vision-based camera orientation algorithm that estimates cardinal directions (N/S/E/W) from a single sky image by detecting the Sun, computing its expected position using astronomical models, and comparing observed and predicted solar vectors to infer camera heading without requiring an IMU or compass.   \n \nBuilt image-processing pipelines using OpenCV, Photutils, and Astropy to perform sun detection, centroid extraction, fisheye image correction, and astronomical coordinate transformations for autonomous sensor calibration.   \n \nIntegrated and validated computer vision algorithms on Raspberry Pi\u2013based camera systems, conducting data collection, algorithm development, model validation, and technical documentation to support deployment within the SkySphere platform.",
+            "employment_type": "",
+            "end_date": null,
+            "function_category": "",
+            "is_default": true,
+            "location": {
+              "raw": "San Francisco, CA"
+            },
+            "name": "Skymapper Inc",
+            "position_id": 2963153399,
+            "professional_network_id": "105814081",
+            "seniority_level": "In Training",
+            "start_date": "2026-06-01T00:00:00+00:00",
+            "title": "Computer Vision Intern",
+            "years_at_company": "Less than 1 year",
+            "years_at_company_raw": 0.0
+          }
+        ],
+        "past": [
+          {
+            "company_description": "",
+            "company_professional_network_profile_url": null,
+            "company_profile_picture_permalink": "",
+            "company_website_domain": null,
+            "crustdata_company_id": null,
+            "description": "I contributed to the development of a full-stack web application that improved user engagement and administrative efficiency.  \n\n\u2022 Worked with React, CSS, and Figma to create a user-friendly interface for over 100 users.  \n\u2022 Designed and implemented a robust SQL-based database architecture for effective data management.  \n\u2022 Developed secure user authentication and role-based access control to facilitate mentor-student interactions.",
+            "employment_type": "",
+            "end_date": "2026-06-01T00:00:00+00:00",
+            "function_category": "Engineering",
+            "is_default": false,
+            "location": {
+              "raw": "Oakland, CA"
+            },
+            "name": "Next4Autism",
+            "position_id": 2963163081,
+            "professional_network_id": "",
+            "seniority_level": "Entry Level",
+            "start_date": "2026-01-01T00:00:00+00:00",
+            "title": "Software Engineer",
+            "years_at_company": "Less than 1 year",
+            "years_at_company_raw": 0.0
+          },
+          {
+            "company_description": "Blue Origin manufactures and operates rocket engines, reusable launch vehicles, lunar landers, and satellite systems. Discover more at BlueOrigin.com. *We hope you engage with us and our community. However, we reserve the right to remove derogatory or off-topic comments from our social media accounts. Thank you for understanding.*",
+            "company_professional_network_profile_url": "https://linkedin.com/company/40018",
+            "company_profile_picture_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/company/0f558e3f28661a702421bb841810962307a3b7c33d32bbf703b6ca61a37c0b47.jpg",
+            "company_website_domain": "blueorigin.com",
+            "crustdata_company_id": 780096,
+            "description": "Conducted industry research and competitive analysis of the commercial space sector, evaluating strategic positioning, market dynamics, and long-term growth opportunities for Blue Origin.\n\nDesigned and pitched a space-based data center concept leveraging Blue Origin technologies, incorporating market forecasting, financial modeling, and innovation strategy to project $1B+ in potential free cash flow by 2030.",
+            "employment_type": "",
+            "end_date": "2025-12-01T00:00:00+00:00",
+            "function_category": "Consulting",
+            "is_default": false,
+            "location": {
+              "raw": ""
+            },
+            "name": "Blue Origin",
+            "position_id": 2963148618,
+            "professional_network_id": "40018",
+            "seniority_level": "Strategic",
+            "start_date": "2025-10-01T00:00:00+00:00",
+            "title": "Strategy Consultant",
+            "years_at_company": "Less than 1 year",
+            "years_at_company_raw": 0.0
+          },
+          {
+            "company_description": "FRC Team 687: The Nerd Herd is a company based out of 1000 East Victoria St, Carson, California, United States.",
+            "company_professional_network_profile_url": "https://linkedin.com/company/15954006",
+            "company_profile_picture_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/company/b78e68b5ae80a1d016c4bf37fee562f03f19ffe0e0eaf2b045632d24a162f531.jpg",
+            "company_website_domain": null,
+            "crustdata_company_id": 7904001,
+            "description": "Co-managed 110-member team, led triweekly meetings, organized design-to-build timelines, and coordinated across departments\n\nFacilitated end-to-end robot design process, interfacing with all technical departments to develop feasible concepts\n\nDirected quantitative/qualitative operations\u2014collecting performance metrics on competing robots to optimize match strategies\n\nProduced the 2023\u20132025 Technical Data Packages\n\n2025 Aerospace Valley Regional Winners, 2024 Hopper Finalists (72/3000 teams), 2023 Archimedes World Champs (24/3000 teams)\n\nAuthored and delivered technical documentation in judge interviews, explaining engineering processes and business operations\n\nContributed to win of 5 major awards including Excellence in Engineering Award (2025), Engineering Inspiration Award (World Championship qualifier, 2024), and Industrial Design Award (2023)",
+            "employment_type": "",
+            "end_date": "2025-06-01T00:00:00+00:00",
+            "function_category": "",
+            "is_default": true,
+            "location": {
+              "raw": "Carson, California, United States"
+            },
+            "name": "FRC Team 687: The Nerd Herd",
+            "position_id": 2386837224,
+            "professional_network_id": "15954006",
+            "seniority_level": "Entry Level",
+            "start_date": "2024-04-01T00:00:00+00:00",
+            "title": "Captain",
+            "years_at_company": "1 to 2 years",
+            "years_at_company_raw": 1.0
+          },
+          {
+            "company_description": "The Aquarium of the Pacific is Southern California\u2019s largest Aquarium. It displays about 12,000 animals and more than 100 exhibits that celebrate the planet\u2019s largest and most diverse body of water, the Pacific Ocean. Its galleries represent the frigid waters of the Northern Pacific, the temperate Southern California region, and the warm coral reefs and lagoons of the Tropical Pacific.Each year approximately 1.7 million people visit the Aquarium, making it consistently one of the leading attractions in the Los Angeles region. Beyond its world-class animal exhibits, the Aquarium offers educational programs for people of all ages from hands-on activities to lectures by leading scientists. Through these programs and a variety of multimedia experiences, the Aquarium provides opportunities to delve deeper into ocean science and learn more about our planet.",
+            "company_professional_network_profile_url": "https://linkedin.com/company/31416",
+            "company_profile_picture_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/company/d38d8de497c8c34f0fb164ec5fddd201c4d5995313a87c6a1f3992b490461aac.jpg",
+            "company_website_domain": "aquariumofpacific.org",
+            "crustdata_company_id": 1897399,
+            "description": "The Science Caf\u00e9 team plans and develops a talk or casual learning program along with Aquarium professionals. The talks are designed to help scientists connect with local teens about the science and technology changing their world and discover new opportunities for ocean stewardship. Teen Science Caf\u00e9 programs engage scientists and the public in conversation on interesting current topics in a highly social setting. By specifically connecting teens to scientists, students will work to help create an interactive and highly engaging learning experience.",
+            "employment_type": "",
+            "end_date": "2025-06-01T00:00:00+00:00",
+            "function_category": "",
+            "is_default": false,
+            "location": {
+              "raw": "Long Beach, California, United States"
+            },
+            "name": "Aquarium of the Pacific",
+            "position_id": 2255259693,
+            "professional_network_id": "31416",
+            "seniority_level": "Entry Level",
+            "start_date": "2023-09-01T00:00:00+00:00",
+            "title": "Teen Science Cafe",
+            "years_at_company": "1 to 2 years",
+            "years_at_company_raw": 1.0
+          },
+          {
+            "company_description": "The Aquarium of the Pacific is Southern California\u2019s largest Aquarium. It displays about 12,000 animals and more than 100 exhibits that celebrate the planet\u2019s largest and most diverse body of water, the Pacific Ocean. Its galleries represent the frigid waters of the Northern Pacific, the temperate Southern California region, and the warm coral reefs and lagoons of the Tropical Pacific.Each year approximately 1.7 million people visit the Aquarium, making it consistently one of the leading attractions in the Los Angeles region. Beyond its world-class animal exhibits, the Aquarium offers educational programs for people of all ages from hands-on activities to lectures by leading scientists. Through these programs and a variety of multimedia experiences, the Aquarium provides opportunities to delve deeper into ocean science and learn more about our planet.",
+            "company_professional_network_profile_url": "https://linkedin.com/company/31416",
+            "company_profile_picture_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/company/d38d8de497c8c34f0fb164ec5fddd201c4d5995313a87c6a1f3992b490461aac.jpg",
+            "company_website_domain": "aquariumofpacific.org",
+            "crustdata_company_id": 1897399,
+            "description": "Exhibit Interpreter volunteers staff exhibit galleries, touch labs, Shark Lagoon, Ray Pool, biofact carts, and more.\n\nThey are stationed primarily at those places where guests may have interaction with our marine animals or benefit from more information about exhibits and animals.\n\nProvide accurate information about the animals and their ecosystems to guests, while assuring the safety of both the animal and the guest during the interaction.\n\nEngage guests in informative dialogue in the Galleries and throughout the Aquarium.\n\nEnsure a safe and healthy environment for Aquarium staff and guests.",
+            "employment_type": "",
+            "end_date": "2025-06-01T00:00:00+00:00",
+            "function_category": "",
+            "is_default": false,
+            "location": {
+              "raw": "Long Beach, California, United States"
+            },
+            "name": "Aquarium of the Pacific",
+            "position_id": 2255260475,
+            "professional_network_id": "31416",
+            "seniority_level": "Entry Level",
+            "start_date": "2023-06-01T00:00:00+00:00",
+            "title": "Education Volunteer",
+            "years_at_company": "3 to 5 years",
+            "years_at_company_raw": 2.0
+          },
+          {
+            "company_description": "Boeing is a leading global aerospace company that designs, builds and supports commercial airplanes, defense products and space systems for customers in more than 150 countries. Guided by our commitment to safety and quality, we innovate to deliver solutions that bring real value to our customers and the industry. As a top U.S. exporter, we work with a strong global supply base to drive economic opportunity and community impact worldwide. Our team leads with integrity and passion as it shapes the future of aerospace. Explore careers with us: boeing.com/careers Boeing is an Equal Opportunity Employer. Employment decisions are made without regard to race, color, religion, national origin, gender, sexual orientation, gender identity, age, physical or mental disability, genetic factors, military/veteran status or other characteristics protected by law.",
+            "company_professional_network_profile_url": "https://linkedin.com/company/1384",
+            "company_profile_picture_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/company/b8bda47159ca58c0371f7b157d7d63570f639f67006b5883c6f99444ee7b34a4.jpg",
+            "company_website_domain": "boeing.com",
+            "crustdata_company_id": 681038,
+            "description": "Designed Solar Weather Space Measurement Satellite based on fictitious Announcement of Opportunity working to secure a contract\nHad 4 Major presentations and reports (15-30 pgs) throughout the internship \nProduced portion of System requirements document and tree +risk assessment/ risk mitigation strategies, did extensive preliminary research on ground navigation and control systems, bus, and sensors, along with  research + down selection of energy collection subsystem  (solar panels) also produced poster summarizing project",
+            "employment_type": "",
+            "end_date": "2024-08-01T00:00:00+00:00",
+            "function_category": "",
+            "is_default": false,
+            "location": {
+              "raw": "Huntington Beach, California, United States"
+            },
+            "name": "Boeing",
+            "position_id": 2417552804,
+            "professional_network_id": "1384",
+            "seniority_level": "In Training",
+            "start_date": "2024-06-01T00:00:00+00:00",
+            "title": "Intern",
+            "years_at_company": "Less than 1 year",
+            "years_at_company_raw": 0.0
+          },
+          {
+            "company_description": "FRC Team 687: The Nerd Herd is a company based out of 1000 East Victoria St, Carson, California, United States.",
+            "company_professional_network_profile_url": "https://linkedin.com/company/15954006",
+            "company_profile_picture_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/company/b78e68b5ae80a1d016c4bf37fee562f03f19ffe0e0eaf2b045632d24a162f531.jpg",
+            "company_website_domain": null,
+            "crustdata_company_id": 7904001,
+            "description": "",
+            "employment_type": "Full-time",
+            "end_date": "2024-05-01T00:00:00+00:00",
+            "function_category": "Arts and Design",
+            "is_default": false,
+            "location": {
+              "raw": "Carson, California, United States"
+            },
+            "name": "FRC Team 687: The Nerd Herd",
+            "position_id": 2245547789,
+            "professional_network_id": "15954006",
+            "seniority_level": "Senior",
+            "start_date": "2023-04-01T00:00:00+00:00",
+            "title": "Design Team Lead",
+            "years_at_company": "1 to 2 years",
+            "years_at_company_raw": 1.0
+          },
+          {
+            "company_description": "Rising Communities, formerly Community Health Councils (CHC) is a non-profit, community-based health education and policy organization. Established in 1992, our mission is to promote social justice and achieve equity in community and environmental resources to improve the health and well-being of underserved populations.Highlight Video: http://bit.ly/CHCAboutUsStrategic Plan: http://bit.ly/CHCSPFullFact Sheet: http://bit.ly/CHCFactSheet",
+            "company_professional_network_profile_url": "https://linkedin.com/company/1681808",
+            "company_profile_picture_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/company/0d08d9c875200fd98eb4c3a05be0ac94be46d120aeb05e0e92dc22481550ffe7.jpg",
+            "company_website_domain": "chc-inc.org",
+            "crustdata_company_id": 1197705,
+            "description": "Increased understanding of concepts and theories of activism, civic engagement through expressive mediums, social movement building, systems-change and political advocacy work\n\nDiscussed advocacy issues that impact their neighborhoods, South Los Angeles, and the broader state of California in relation to the war on drugs and proposition 64\n\nLeveraged leadership skills to work collectively across local boundaries and achieve collective impact on policies and systems that impact them through art projects rooted in healing, co-liberation, and awareness building around identified issue\n\nCreated a capstone project on the effect of Prop 64 and presented it\n\nStipend received: $1000",
+            "employment_type": "Internship",
+            "end_date": "2023-08-01T00:00:00+00:00",
+            "function_category": "",
+            "is_default": false,
+            "location": {
+              "raw": ""
+            },
+            "name": "Community Health Councils (CHC)",
+            "position_id": 2246717363,
+            "professional_network_id": "1681808",
+            "seniority_level": "Entry Level",
+            "start_date": "2023-06-01T00:00:00+00:00",
+            "title": "P.E.A.R.R Scholar",
+            "years_at_company": "Less than 1 year",
+            "years_at_company_raw": 0.0
+          },
+          {
+            "company_description": "The Aquarium of the Pacific is Southern California\u2019s largest Aquarium. It displays about 12,000 animals and more than 100 exhibits that celebrate the planet\u2019s largest and most diverse body of water, the Pacific Ocean. Its galleries represent the frigid waters of the Northern Pacific, the temperate Southern California region, and the warm coral reefs and lagoons of the Tropical Pacific.Each year approximately 1.7 million people visit the Aquarium, making it consistently one of the leading attractions in the Los Angeles region. Beyond its world-class animal exhibits, the Aquarium offers educational programs for people of all ages from hands-on activities to lectures by leading scientists. Through these programs and a variety of multimedia experiences, the Aquarium provides opportunities to delve deeper into ocean science and learn more about our planet.",
+            "company_professional_network_profile_url": "https://linkedin.com/company/31416",
+            "company_profile_picture_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/company/d38d8de497c8c34f0fb164ec5fddd201c4d5995313a87c6a1f3992b490461aac.jpg",
+            "company_website_domain": "aquariumofpacific.org",
+            "crustdata_company_id": 1897399,
+            "description": "I educated over 150 guests a day on conservation issues. VolunTEENS are trained to interpret to our guests about the Aquarium, its inhabitants and ecosystem, focusing on experiential learning for guests. I used carts to educate guests on conservation issues and assisted other volunteers with touch pool experiences.",
+            "employment_type": "Internship",
+            "end_date": "2023-05-01T00:00:00+00:00",
+            "function_category": "",
+            "is_default": false,
+            "location": {
+              "raw": "Long Beach, California, United States"
+            },
+            "name": "Aquarium of the Pacific",
+            "position_id": 2255258532,
+            "professional_network_id": "31416",
+            "seniority_level": "Entry Level",
+            "start_date": "2023-01-01T00:00:00+00:00",
+            "title": "Volunteens",
+            "years_at_company": "Less than 1 year",
+            "years_at_company_raw": 0.0
+          },
+          {
+            "company_description": "Youth Leadership Institute builds communities where young people and their adult allies come together to create positive community change. For over 20 years, we have sparked change through our California community-based programs--in San Francisco, Marin, San Mateo and Fresno Counties--and our national Training and Consulting Services. The Youth Leadership Institute leads the way in engaging youth in several key areas of community change, including food access, youth philanthropy, educational equity, civic engagement, and prevention of alcohol, tobacco, and other drug use. YLI is committed to engaging and developing young people of color, low-income youth, and other non-traditional leaders as agents for social justice.",
+            "company_professional_network_profile_url": "https://linkedin.com/company/48032",
+            "company_profile_picture_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/company/e0a9737252bd23d7a0a55c638a3a1fbeb63ac981e8b2675f66dfae15082634c6.jpg",
+            "company_website_domain": "yli.org",
+            "crustdata_company_id": 1202264,
+            "description": "Partner with the California Department of Public Health\u2019s VAX58 Program to increase availability of COVID-19 vaccinations in all 58 California Counties. Implementing mobile vaccination clinics for underserved populations throughout the Los Angeles Region. Conducting interviews and co-directing a documentary on vaccination stories of LA County youth.\n\nStipend recieved: $3500",
+            "employment_type": "Internship",
+            "end_date": "2023-04-01T00:00:00+00:00",
+            "function_category": "",
+            "is_default": false,
+            "location": {
+              "raw": "Los Angeles County, California, United States"
+            },
+            "name": "Youth Leadership Institute",
+            "position_id": 2255249854,
+            "professional_network_id": "48032",
+            "seniority_level": "Entry Level",
+            "start_date": "2022-06-01T00:00:00+00:00",
+            "title": "VAX 58 Youth Ambassador",
+            "years_at_company": "Less than 1 year",
+            "years_at_company_raw": 0.0
+          },
+          {
+            "company_description": "FRC Team 687: The Nerd Herd is a company based out of 1000 East Victoria St, Carson, California, United States.",
+            "company_professional_network_profile_url": "https://linkedin.com/company/15954006",
+            "company_profile_picture_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/company/b78e68b5ae80a1d016c4bf37fee562f03f19ffe0e0eaf2b045632d24a162f531.jpg",
+            "company_website_domain": null,
+            "crustdata_company_id": 7904001,
+            "description": "",
+            "employment_type": "Full-time",
+            "end_date": "2023-04-01T00:00:00+00:00",
+            "function_category": "Arts and Design",
+            "is_default": false,
+            "location": {
+              "raw": "Carson, California, United States"
+            },
+            "name": "FRC Team 687: The Nerd Herd",
+            "position_id": 2245547910,
+            "professional_network_id": "15954006",
+            "seniority_level": "Entry Level",
+            "start_date": "2022-03-01T00:00:00+00:00",
+            "title": "Design Team member",
+            "years_at_company": "1 to 2 years",
+            "years_at_company_raw": 1.0
+          },
+          {
+            "company_description": "Youth Leadership Institute builds communities where young people and their adult allies come together to create positive community change. For over 20 years, we have sparked change through our California community-based programs--in San Francisco, Marin, San Mateo and Fresno Counties--and our national Training and Consulting Services. The Youth Leadership Institute leads the way in engaging youth in several key areas of community change, including food access, youth philanthropy, educational equity, civic engagement, and prevention of alcohol, tobacco, and other drug use. YLI is committed to engaging and developing young people of color, low-income youth, and other non-traditional leaders as agents for social justice.",
+            "company_professional_network_profile_url": "https://linkedin.com/company/48032",
+            "company_profile_picture_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/company/e0a9737252bd23d7a0a55c638a3a1fbeb63ac981e8b2675f66dfae15082634c6.jpg",
+            "company_website_domain": "yli.org",
+            "crustdata_company_id": 1202264,
+            "description": "Learned about public health through the history of social, racial, gendered, and economic inequity that that affects certain communities to this day. And how one\u2019s gender, one\u2019s ethnicity, and even one\u2019s zip code tragically predicts health prognosis.\n\nCreated a Zine on Black women and how their increased rates of misdiagnosis.\n\nStipend received: $400",
+            "employment_type": "",
+            "end_date": "2022-06-01T00:00:00+00:00",
+            "function_category": "",
+            "is_default": false,
+            "location": {
+              "raw": ""
+            },
+            "name": "Youth Leadership Institute",
+            "position_id": 2255251980,
+            "professional_network_id": "48032",
+            "seniority_level": "Entry Level",
+            "start_date": "2022-01-01T00:00:00+00:00",
+            "title": "Miller Project Participant",
+            "years_at_company": "Less than 1 year",
+            "years_at_company_raw": 0.0
+          },
+          {
+            "company_description": "FRC Team 687: The Nerd Herd is a company based out of 1000 East Victoria St, Carson, California, United States.",
+            "company_professional_network_profile_url": "https://linkedin.com/company/15954006",
+            "company_profile_picture_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/company/b78e68b5ae80a1d016c4bf37fee562f03f19ffe0e0eaf2b045632d24a162f531.jpg",
+            "company_website_domain": null,
+            "crustdata_company_id": 7904001,
+            "description": "",
+            "employment_type": "Full-time",
+            "end_date": "2022-03-01T00:00:00+00:00",
+            "function_category": "",
+            "is_default": false,
+            "location": {
+              "raw": "Carson, California, United States"
+            },
+            "name": "FRC Team 687: The Nerd Herd",
+            "position_id": 2245548985,
+            "professional_network_id": "15954006",
+            "seniority_level": "Entry Level",
+            "start_date": "2021-10-01T00:00:00+00:00",
+            "title": "Mechanical and Electrical Assembly Member",
+            "years_at_company": "Less than 1 year",
+            "years_at_company_raw": 0.0
+          }
+        ]
+      }
+    },
+    "professional_network": {
+      "connections": 624,
+      "current_title": "Computer Vision Intern",
+      "followers": 625,
+      "headline": "UC Berkeley M.E.T (AeroE + Business \u201829) | Boeing Summer Intern \u201824",
+      "location": {
+        "city": "",
+        "continent": "North America",
+        "country": "United States",
+        "raw": "Los Angeles Metropolitan Area",
+        "state": "California"
+      },
+      "metadata": {
+        "last_scraped_source": null
+      },
+      "name": "Janet Favor Ani",
+      "profile_picture_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/person/14b3ca03b33ce4ce293ee8bc72415016089945637d04f4c6dd8482c9087c3b62.jpg",
+      "pronoun": "She/Her",
+      "summary": ""
+    },
+    "skills": {
+      "professional_network_skills": [
+        "Geometric Dimensioning & Tolerancing",
+        "Service Work",
+        "Team Leadership",
+        "CATIA",
+        "Public Speaking",
+        "Organization Skills",
+        "NI Multisim",
+        "Zines",
+        "Leadership",
+        "Urban Planning",
+        "JavaScript",
+        "Crimping",
+        "Soldering",
+        "Drill Press",
+        "Computer-Aided Design (CAD)",
+        "Technical Drawing",
+        "CNC Manufacturing",
+        "Engineering",
+        "Research Skills",
+        "Design"
+      ]
+    },
+    "social_handles": {
+      "dev_platform_identifier": {
+        "profile_url": null
+      },
+      "professional_network_identifier": {
+        "profile_url": "https://www.linkedin.com/in/janet-favor-ani"
+      },
+      "twitter_identifier": {
+        "slug": ""
+      }
+    },
+    "crustdata_person_id": 21576812
+  }
+}

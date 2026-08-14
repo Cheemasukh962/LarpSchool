@@ -1,0 +1,225 @@
+{
+  "luma_user_id": "usr-5OM4aIC5lB59yDZ",
+  "csv_name": "Murtaza Nikzad",
+  "csv_linkedin": "https://www.linkedin.com/in/murtaza-nikzad-877722158",
+  "enriched_at": "2026-08-12T19:13:35.732043+00:00",
+  "batch_id": "sd_msqguuzo2o546dm49e",
+  "profile": {
+    "id": "murtaza-nikzad-877722158",
+    "name": "Murtaza Nikzad",
+    "city": "San Francisco Bay Area",
+    "country_code": "US",
+    "position": null,
+    "about": "I am interested in how minds work.",
+    "current_company": {
+      "link": "https://www.linkedin.com/company/frontline-education?trk=public_profile_topcard-current-company",
+      "name": "Frontline Education",
+      "company_id": "frontline-education",
+      "location": null
+    },
+    "experience": null,
+    "url": "https://www.linkedin.com/in/Murtaza-nikzad-877722158",
+    "educations_details": "Davidson College",
+    "education": [
+      {
+        "title": "Davidson College",
+        "url": "https://www.linkedin.com/school/davidson-college/",
+        "start_year": "2023-08",
+        "end_year": "2027-08",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      }
+    ],
+    "avatar": "https://media.licdn.com/dms/image/v2/D5603AQH6TKmGGaKIdg/profile-displayphoto-scale_200_200/B56Z7MC90RKMAc-/0/1781539791109?e=2147483647&v=beta&t=uSaL20OIAsDixEPn6erKVW4mc4ym5Y5g4wnooUsLMcI",
+    "followers": 2320,
+    "connections": 500,
+    "current_company_company_id": "frontline-education",
+    "current_company_name": "Frontline Education",
+    "publications": [
+      {
+        "title": "Forward versus Backward: Comparing Reasoning Objectives in Direct Preference Optimization",
+        "date": "January 12, 2026"
+      }
+    ],
+    "projects": [
+      {
+        "title": "Artki.tech",
+        "description": "AI-native interior design that learns taste profiles, lifts 2D plans into 3D scenes, and linksshoppable furnishings"
+      },
+      {
+        "title": "Paddington",
+        "description": "Real-time voice AI pairing Whisper with Llama 3.1 to keep end-to-end latency under 1.5s"
+      },
+      {
+        "title": "Pragma",
+        "description": "Retrieval-guided fact-checker verifying 90% of claims (HackNC Winner)"
+      },
+      {
+        "title": "Spyder",
+        "description": "Interactive D3.js visualization of scholarly citation networks"
+      }
+    ],
+    "location": null,
+    "input_url": "https://www.linkedin.com/in/murtaza-nikzad-877722158",
+    "linkedin_id": "murtaza-nikzad-877722158",
+    "activity": [
+      {
+        "interaction": null,
+        "link": "https://www.linkedin.com/posts/forestinc_artificialintelligence-generativeai-familyoffice-activity-7479938490898513920-k5kr",
+        "title": "There's no better place to explore the future of artificial intelligence than San Francisco. Every conversation brings new ideas, new perspectives, and new opportunities to learn from the people building the next generation of AI. Our CEO, Ed Van Deman, recently attended an AI conference alongside the newest member of the Forest team, our AI Summer Intern, Murtaza. It was a great opportunity to connect with innovators, exchange ideas, and stay at the forefront of the rapidly evolving AI landscape. As Forest AI continues to grow, experiences like these help shape how we bring practical, secure AI capabilities directly into financial workflows. From learning about emerging technologies to building relationships within the AI community, we are committed to developing solutions that deliver real value for family offices, wealth managers, and financial organizations. We're excited to have Murtaza on the team this summer and look forward to the contributions he will make as we continue expanding Forest AI. The future of AI is being built through collaboration, and we're excited to be part of the journey. #ArtificialIntelligence #GenerativeAI #FamilyOffice #WealthManagement #Accounting #FinancialTechnology #MachineLearning #DataSecurity #SOC2 #ForestSystems ...more ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQEBMwIXXtjnlA/feedshare-image-high-res/B4EZ8zH925JEAU-/0/1783269158022?e=2147483647&v=beta&t=x-ivWIOyzEZypMlEjqoYN37RTAPy6Ko1ZDOykjlpNaw",
+        "id": "7479938490898513920"
+      },
+      {
+        "interaction": "Murtaza Nikzad shared this",
+        "link": "https://www.linkedin.com/posts/murtaza-nikzad-877722158_teaching-smolvla-to-drive-a-rover-activity-7475068652686307328-nYdL",
+        "title": "This weekend with the help of my friends, I worked on training a local vision-language-action model (SmolVLA) model to drive a rover autonomously. It is trained on demonstrations generated in a MuJoCo sim; scored on a HUD leaderboard that proves the learned policy beats random / scripted-expert baselines. The judged artifact (P0) needs no working rover. The learned policy does surprisingly well for a small local model that has ~450 million parameters. Though the gap between sim and real is big. I have open sourced the trained model and it is available on HuggingFace for those who would be interested on further training it on real-world data. demo: https://lnkd.in/gqjqG_QE ...more",
+        "img": "https://media.licdn.com/dms/image/sync/v2/D5627AQFX2aqS6uaq7A/articleshare-shrink_800/B56Z7zE5jdG0Ac-/0/1782194610183?e=2147483647&v=beta&t=Ha7Ay2bra0xQG5Rj67AdKoWZWfhPcvRP1NmFbQ0x3Ac",
+        "id": "7475068652686307328"
+      },
+      {
+        "interaction": "Murtaza Nikzad shared this",
+        "link": "https://www.linkedin.com/posts/murtaza-nikzad-877722158_im-excited-to-share-a-follow-up-to-my-previous-activity-7472313683906482177-kU2r",
+        "title": "I\u2019m excited to share a follow up to my previous project artki dot tech: Gaud\u00ed! In the updated version, you can draw a 2D floor plan in the browser, click build, and walk through the 3D model of the house designed. The biggest update in this version is moving from uploading a static floor plan to a dynamic one where you can draw and decor the interiors of your house. Live website here: https://lnkd.in/e-rs2nfH ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D4E05AQGvkZ5HjeZvXA/videocover-high/B4EZ7L9qusJEBQ-/0/1781538402706?e=2147483647&v=beta&t=RBerAaktOzDyDnGb3htS1nSxr2lUP9Tbzv_oVwIC2QM",
+        "id": "7472313683906482177"
+      },
+      {
+        "interaction": "Murtaza Nikzad shared this",
+        "link": "https://www.linkedin.com/posts/murtaza-nikzad-877722158_registration-for-hackdavidson-2026-is-officially-activity-7415439236126216192-dUsw",
+        "title": "Registration for Hack@Davidson 2026 is officially open. We're hosting a 48-hour hackathon at Davidson College from February 20-22. All skill levels are welcome, and no prior experience is required. Come build something cool, learn from workshops and mentors, and meet other students who love creating things. Register at https://lnkd.in/e6s7F6_f . Hope to see you in February. ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQGJMOYfNckgpg/feedshare-shrink_800/B4EZujusDdHsAg-/0/1767978485106?e=2147483647&v=beta&t=O4YfFdeLiddfrbtNo9K07ZYS2UY2P1UqKgUjcU0sDds",
+        "id": "2026"
+      },
+      {
+        "interaction": "Murtaza Nikzad shared this",
+        "link": "https://www.linkedin.com/posts/murtaza-nikzad-877722158_i-participated-in-cal-hacks-the-worlds-activity-7391343248767885312-AGQb",
+        "title": "I participated in Cal Hacks , the world's largest collegiate hackathon, last weekend and won the Chroma track. We worked on Artki.tech , an AI-native interior design platform that learns users' taste and given a 2d image of a floor plan reconstruct 3D visualizations of the room with products you could buy off of Amazon. Shoutout to my amazing teammates Tien P. , Rishi Golla , and Fawwaz Firdaus devpost link: https://lnkd.in/exkwqqyG ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQGq4RIGwnx-dw/feedshare-shrink_800/B4EZpNThGNKsAg-/0/1762233554187?e=2147483647&v=beta&t=V5QTWTQEz0QdJk4DiZ4Pb6inPT0Phr9i6zPjPzFIUyI",
+        "id": "7391343248767885312"
+      },
+      {
+        "interaction": "Murtaza Nikzad shared this",
+        "link": "https://www.linkedin.com/posts/murtaza-nikzad-877722158_im-glad-to-have-participated-in-vandyhacks-activity-7246605975330111488-jaGs",
+        "title": "I'm glad to have participated in VandyHacks and won the first place and best use of Defang awards!",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQEJ5v1_W63DWw/feedshare-image-high-res/feedshare-image-high-res/0/1727725099911?e=2147483647&v=beta&t=j1TDvo_Xy-f0tt4BnGt9eTqa-FotyLF22VMkr1SBVPc",
+        "id": "7246605975330111488"
+      },
+      {
+        "interaction": "Murtaza Nikzad shared this",
+        "link": "https://www.linkedin.com/posts/murtaza-nikzad-877722158_i-am-glad-to-share-that-i-accepted-an-offer-activity-7184264599813156864-5L5L",
+        "title": "I am glad to share that I accepted an offer from ALPhA (Algorithms for Learning Physics Applications) to do research under the mentorship of Dr. Raghuram Ramanujan and Dr. Michelle Kuchera . In my research, I will focus on applying machine learning techniques to fundamental nuclear physics applications. This is an invaluable opportunity for me, since I have always been passionate about applying machine learning in scientific research, and this summer I will have the chance to finally do it. I am grateful to Dr. Ramanujan and Dr. Kuchera for providing me with this opportunity and I am excited to work alongside other distinguished researchers. ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQHJtTEMRn1Iqw/feedshare-shrink_800/feedshare-shrink_800/0/1712862156915?e=2147483647&v=beta&t=PYuMdeYjVbWlnlU68OCog_Ibi8-fQbiQVRCzzFLC9CQ",
+        "id": "7184264599813156864"
+      },
+      {
+        "interaction": "Murtaza Nikzad shared this",
+        "link": "https://www.linkedin.com/posts/murtaza-nikzad-877722158_just-hacked-hophacks-a-hackathon-by-johns-activity-7114368777168822272-XLPs",
+        "title": "Just hacked HopHacks, a hackathon by Johns Hopkins University! In 36 hours, my team crafted AviCenna, a medical chatbot for better healthcare access. We used Flask, Taipy, and OpenAI API in the back, and plain old JavaScript in the front. Honored to received the 'Best Use of Taipy' award among 50 teams! This was an adventure, especially as it was my first month in the U.S. and college. Check our project: GitHub: https://lnkd.in/dbZBfs7s Devpost: https://lnkd.in/dGQGvqGf ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D4D22AQHCcA73Ih9vyg/feedshare-shrink_800/feedshare-shrink_800/0/1696197694531?e=2147483647&v=beta&t=5Itv9yZkyJ1otzsWIGSK9WbMekBWTtkxrfosw_GpuOY",
+        "id": "7114368777168822272"
+      },
+      {
+        "interaction": "Murtaza Nikzad reacted on this",
+        "link": "https://www.linkedin.com/posts/shangen_im-with-the-goat-alp-niksarli-jason-qin-activity-7490905000525791233--N87",
+        "title": "im with the goat Alp Niksarli Jason Qin",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQGCORO3jHSVTw/feedshare-shrink_800/B56Z_UKZSnGsAk-/0/1785970924894?e=2147483647&v=beta&t=WyLuc4wx33NdbyWIdWIqVYjlZuOsV1SShTHq3yxeVjA",
+        "id": "7490905000525791233"
+      },
+      {
+        "interaction": "Murtaza Nikzad reacted on this",
+        "link": "https://www.linkedin.com/posts/justinhtech_google-internday-internship-activity-7488836050291671040-Z_V-",
+        "title": "Happy International Intern Day! \ud83e\udd73\ud83e\udd73\ud83e\udd73 It\u2019s honestly hard to believe how quickly this summer has flown by Being a Software Engineering Intern on Google Maps Platform has been one of the most rewarding experiences of my career From exploring Google \u2019s different campuses, to the countless activities happening every week, to truly growing and falling in love with the Bay Area! (The weather is too good!!) One of my favorite parts has been seeing just how many teams and product areas exist within Google Every conversation has introduced me to people solving completely different problems, all contributing to the next generation of products and experiences It\u2019s been incredibly inspiring to be surrounded by so many talented and passionate people I\u2019m incredibly thankful for everyone who\u2019s made this experience so memorable, and I\u2019m excited to make the most of these final weeks Happy International Intern Day to all of the interns out there! Keep learning, keep asking questions, and enjoy every moment. #google #internday #internship #tech",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQFFAqOUqpZMCg/feedshare-image-high-res/B56Z.2wsoCHYAU-/0/1785477647635?e=2147483647&v=beta&t=757bD2rT1CWrzwfdkuP8wbRcPw0KPEjv7NiyzzEcM0Y",
+        "id": "7488836050291671040"
+      },
+      {
+        "interaction": "Murtaza Nikzad liked this",
+        "link": "https://www.linkedin.com/posts/layma-murtaza-ma-ms-01a6325_yesterday-standing-in-front-of-a-room-full-activity-7488967595388301312-mSdB",
+        "title": "Yesterday, standing in front of a room full of investors in Arlington, I pitched AidOS \u2014 and I and Aseel walked out with the B Ventures SAFE investment as the winner of the inaugural PeaceTech Accelerator Demo Day cohort. \ud83d\udd4a\ufe0f I am still processing what this means and how this feels. Two months ago, six founders walked into the first cohort of the PeaceTech Accelerator, an experiment one mile from the Pentagon built on a premise: that peace is a market, and that founders building technology to reduce violent conflict deserve the same effort, capital, and go-to-market machinery as any defense tech company. To Shane Ray Martin and @Brian Adams \u2014 thank you for betting on us. To our partners and sponsors \u2014 @Salesforce, @Carta, @Rho, @FinStrat, @Arlington Economic Development, \u2014 thank you for two months of providing advice, sharpened messaging, sharper pipelines, and warm introductions that will outlast this program. To the founders in our cohort \u2014 we came in as strangers and left as a network. I learned from every one of you. I won't lie: I was nervous walking on stage. But somewhere between the practice reps and the third version of the pitch, the message was clear. AidOS isn't a nice-to-have. It is the operating system for a new humanitarian aid architecture. We are building the infrastructure for decentralized, verifiable, community-led aid \u2014 powered by a unique digital identity, a local hero's network for last-mile delivery, and Buy Good for economic dignity. Today, 3,500+ agents across all 34 provinces of Afghanistan and Gaza, already run on this rail. Tomorrow, it powers response in Syria, Sudan, Yemen and across Africa. The peace sector has been told for decades that it isn't investable and yesterday we provided otherwise. To the investors, funders, and operators in my network: if you believe humanitarian infrastructure is a category \u2014 not a charity line item \u2014 I want to talk to you. This is a $30B+ market moving toward decentralization, and we are building the layer it runs on. Send me a DM. Let's make time to create meaningful, purposeful and profitable good tech that works for everyone.",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQELG56SAXbRWA/feedshare-image-high-res/B4EZ.4oVTOH4AU-/0/1785509010222?e=2147483647&v=beta&t=Dx02pnWGrT-Z_bScO6AXaLqM-iLVyVVvTYW0c6EB8dM",
+        "id": "7488967595388301312"
+      },
+      {
+        "interaction": "Murtaza Nikzad reacted on this",
+        "link": "https://www.linkedin.com/posts/s-ziafatullah-saeedi-5b7aa8272_last-week-i-had-the-chance-to-present-my-activity-7478802421557800960-i4JU",
+        "title": "Last week, I had the chance to present my ongoing research at the 10th Interdisciplinary Corruption Research Forum, organized by Interdisciplinary Corruption Research Network , at the University of Duisburg and interact with several emerging and established (anti)-corruption scholars. Highly recommended for those who want to dig deep in the complexities of corruption. https://lnkd.in/ea-QZ3pw",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQFiGB7Q33o99Q/feedshare-shrink_1280/B4EZ8oLK6lHMAQ-/0/1783085445027?e=2147483647&v=beta&t=f56RdWYZto0sxMRQ6_Rnt1eyz-FvwAsh9KzDTcbnG3E",
+        "id": "7478802421557800960"
+      },
+      {
+        "interaction": "Murtaza Nikzad liked this",
+        "link": "https://www.linkedin.com/posts/federal-reserve-bank-of-cleveland_nationalinternday-activity-7488565389950607361-vyQt",
+        "title": "They\u2019re learning, leading, and inspiring us every day. Meet a few of the 22 interns who spent their summer contributing to our team. Happy National Intern Day to these future leaders! #NationalInternDay",
+        "img": "https://dms.licdn.com/playlist/vid/v2/D5610AQH_rcwSdxLC1Q/thumbnail-scale_720_1280/B56Z.y6fG_GgAE-/0/1785413107119?e=2147483647&v=beta&t=ASStt8XRN5gBoKbqosZwKz_41Kj_r-j52xcddJDsn9k",
+        "id": "7488565389950607361"
+      },
+      {
+        "interaction": "Murtaza Nikzad reacted on this",
+        "link": "https://www.linkedin.com/posts/kerem-atas_excited-to-share-that-ive-started-a-new-activity-7488429199679070208-i4XJ",
+        "title": "Excited to share that I've started a new role as a Data Analyst with the Center for Surgical and Transplant Applied Research (CSTAR) at NYU Langone Health . I'll be working on optimization and simulation research to help inform transplant policy and improve organ allocation systems. This marks the beginning of my career after graduating from Davidson College , where I studied Computer Science. I'm incredibly grateful to my family, mentors, professors, and friends for their support throughout this journey. I'm excited to join a team whose work has a direct impact on people's lives and to begin this next chapter in New York City.",
+        "img": "https://media.licdn.com/dms/image/v2/D4D22AQEI3OhXWhj1SA/feedshare-shrink_1280/B4DZ.w.rQ0I4AM-/0/1785380648233?e=2147483647&v=beta&t=0nSYJBUd6ACIgQP6hA1Wc6whybeFjo4nOuDzNIwHk60",
+        "id": "7488429199679070208"
+      },
+      {
+        "interaction": "Murtaza Nikzad reacted on this",
+        "link": "https://www.linkedin.com/posts/joshuatanyujie_could-not-end-my-trip-to-silicon-valley-on-activity-7484828697238216704-qzHh",
+        "title": "Could not end my trip to Silicon Valley on a loss, so I ran it back with Jonathan G. and Will Gunter , and we won at the conversational AI hackathon hosted by Unsiloed AI (YC F25) , Moss (YC F25) and Y Combinator . Grateful to my team for their sleepless perseverance and for trusting the vision! \ud83d\udc53",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQGEhLtLF5bGbQ/feedshare-shrink_800/B56Z990CRMIgAc-/0/1784522221192?e=2147483647&v=beta&t=dekZUtB4i6I-KY9m3fQEGHwwfzxHqP2Ovy2I_Y9Pok8",
+        "id": "7484828697238216704"
+      }
+    ],
+    "linkedin_num_id": "634816603",
+    "banner_image": "https://media.licdn.com/dms/image/v2/D4E16AQEZv3mhc2jYmQ/profile-displaybackgroundimage-shrink_200_800/B4EZ5gL1jjH0AQ-/0/1779730176993?e=2147483647&v=beta&t=rkxIaD7kevqdNw57CI2ZxAjkn5eGu7m_3OJ7fEGQbKc",
+    "honors_and_awards": [
+      {
+        "title": "CalHacks 12.0 Chroma Prize Winner",
+        "publication": "-",
+        "date": "2025-10-01T00:00:00.000Z",
+        "description": null
+      },
+      {
+        "title": "Best Infosys Hack at HackUNC",
+        "publication": "-",
+        "date": "2024-10-01T00:00:00.000Z",
+        "description": null
+      },
+      {
+        "title": "HackHarvard Best AI App Winner",
+        "publication": "-",
+        "date": "2024-10-01T00:00:00.000Z",
+        "description": null
+      },
+      {
+        "title": "First Place and Best Use of Defang Award at VandyHacks",
+        "publication": "-",
+        "date": "2024-09-01T00:00:00.000Z",
+        "description": null
+      },
+      {
+        "title": "Best Use of Taipy at HopHacks",
+        "publication": "-",
+        "date": "2023-09-01T00:00:00.000Z",
+        "description": null
+      }
+    ],
+    "similar_profiles": [],
+    "default_avatar": false,
+    "memorialized_account": false,
+    "bio_links": [
+      {
+        "title": "Personal Website",
+        "link": "https://murtazanikzad.com/"
+      }
+    ],
+    "first_name": "Murtaza",
+    "last_name": "Nikzad",
+    "influencer": false,
+    "timestamp": "2026-08-12T19:12:36.754Z",
+    "input": {
+      "url": "https://www.linkedin.com/in/murtaza-nikzad-877722158"
+    }
+  },
+  "local_photo": "data\\linkedin_photos\\murtaza-nikzad-877722158__usr-5OM4aIC5lB59yDZ.jpg"
+}

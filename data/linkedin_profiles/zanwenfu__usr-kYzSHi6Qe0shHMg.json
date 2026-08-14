@@ -1,0 +1,298 @@
+{
+  "luma_user_id": "usr-kYzSHi6Qe0shHMg",
+  "csv_name": "Zanwen Fu",
+  "csv_linkedin": "https://www.linkedin.com/in/zanwenfu",
+  "enriched_at": "2026-08-12T19:25:08.257828+00:00",
+  "batch_id": "sd_msqh7u7r1xzwli6vdk",
+  "profile": {
+    "id": "zanwenfu",
+    "name": "Zanwen (Ryan) Fu",
+    "city": "San Francisco Bay Area",
+    "country_code": "US",
+    "position": null,
+    "about": "I\u2019m a Software Engineer and MS Computer Science (AI/ML) student at Duke University\u2026",
+    "current_company": {
+      "link": "https://www.linkedin.com/company/robinhood?trk=public_profile_topcard-current-company",
+      "name": "Robinhood",
+      "company_id": "robinhood",
+      "location": null
+    },
+    "experience": null,
+    "url": "https://my.linkedin.com/in/zanwenfu",
+    "educations_details": "Duke University",
+    "education": [
+      {
+        "title": "Duke University",
+        "url": "https://www.linkedin.com/school/duke-university/",
+        "start_year": "2025-08",
+        "end_year": "2027",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      },
+      {
+        "start_year": "2021-08",
+        "end_year": "2025-07",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      },
+      {
+        "start_year": "2023-08",
+        "end_year": "2023-12",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      }
+    ],
+    "avatar": "https://media.licdn.com/dms/image/v2/D4E03AQF5lbhiOd_hrA/profile-displayphoto-scale_200_200/B4EZyhbhnbGkAY-/0/1772234873875?e=2147483647&v=beta&t=_PNDbP9BMgIZgED4NLVh6z9-HUpB44SV_TSnWtuvGqw",
+    "certifications": [
+      {
+        "meta": "Issued Jun 2025 Credential ID SMPDHP17WTVX See credential",
+        "subtitle": "DeepLearning.AI",
+        "title": "Neural Networks and Deep Learning",
+        "credential_url": "https://www.coursera.org/account/accomplishments/records/SMPDHP17WTVX?trk=public_profile_see-credential",
+        "credential_id": "SMPDHP17WTVX"
+      },
+      {
+        "meta": "Issued Jan 2025 Credential ID 129916170 See credential",
+        "subtitle": "National University of Singapore",
+        "title": "Software Engineering Focus Area (Distinction)",
+        "credential_url": "https://credentials.nus.edu.sg/346bcd58-698f-436c-af79-cb9bcf198d08?trk=public_profile_see-credential",
+        "credential_id": "129916170"
+      },
+      {
+        "meta": "Issued Dec 2021 Credential ID 43964996 See credential",
+        "subtitle": "National University of Singapore",
+        "title": "Teach Singapore",
+        "credential_url": "https://credentials.nus.edu.sg/a6517418-ccd7-4740-b4d4-5c55c5d1acfa?trk=public_profile_see-credential",
+        "credential_id": "43964996"
+      },
+      {
+        "subtitle": "The University of Hong Kong",
+        "title": "Entrepreneurship Academy 2023",
+        "credential_url": null,
+        "credential_id": null
+      }
+    ],
+    "volunteer_experience": [
+      {
+        "cause": "Children",
+        "duration": "Aug 2021 \u00b7 - \nNov 2021 \u00b7 \n4 months",
+        "duration_short": "- \nNov 2021",
+        "start_date": "Aug 2021",
+        "subtitle": "TeachSingapore",
+        "title": "Student Mentor"
+      },
+      {
+        "cause": "Social Services",
+        "duration": "Aug 2024 \u00b7 - \nMay 2025 \u00b7 \n10 months",
+        "duration_short": "- \nMay 2025",
+        "start_date": "Aug 2024",
+        "subtitle": "SG Cares Volunteer Centre @Sembawang",
+        "title": "Volunteer"
+      }
+    ],
+    "followers": 2186,
+    "connections": 500,
+    "current_company_company_id": "robinhood",
+    "current_company_name": "Robinhood",
+    "projects": [
+      {
+        "title": "OpenAI - Parameter Golf",
+        "start_date": "Mar 2026",
+        "description": "Inspired by inspired by Andrej Karpathy's autoresearch, my approach uses the gpt-5.4 API to iteratively propose, test, and evolve training architectures \u2014 automatically running experiments, parsing results, and compounding improvements.OpenAI Model Craft Challenge: Parameter Golf is a challenge to train the best language model that fits in a 16MB artifact and trains in under 10 minutes on 8xH100s, evaluated by compression on the FineWeb validation set (tokenizer-agnostic, bits per byte)."
+      },
+      {
+        "title": "Architectural Damping",
+        "start_date": "Feb 2026",
+        "description": "A deterministic downstream calculator absorbs 83% of LLM-layer prompt-injection successes \u2014 and the exact figure (\u03c1 = 0.83) is predictable ex ante from source code. 6/6 frozen attackability predictions held on the pilot. Identifies attack-surface rotation as a failure mode distinct from Nasr et al. 2025's ASR recovery. System under study: VYNN AI (offline replica)."
+      },
+      {
+        "title": "Sepculative Decoding",
+        "start_date": "Feb 2026",
+        "description": "Sequoia predicts 1.68\u00d7 speedup on T4; I measured 0.56\u00d7. A four-term decomposition reconciles the 3\u00d7 gap to within 1.1% of measurement noise. The natural A100 optimization (cross-iteration KV persistence) measurably worsens T4 \u2014 the fourth hidden assumption, surfaced by attempting the optimization."
+      },
+      {
+        "title": "Football LLM - World Cup 26",
+        "start_date": "Jan 2026",
+        "description": "QLoRA-tuned Llama-3.1 8B on FIFA World Cup prediction (52.3% result acc, 29.7% exact score; anonymized variants beat named ones, ruling out team-name memorization). The follow-up scaling study is the more interesting result: under the standard reporting convention, QLoRA at n=192 beats 5-shot ICL by 12.5pp \u2014 but under a coherence-required metric (label + score + ground truth all agreeing), the gap collapses to a tie at 42.2%. Magnitude/direction decomposition shows the LLM's real edge is in score magnitude (19pp pregame on O/U 2.5), driven by pretrained scoreline priors tabular features can't replicate."
+      },
+      {
+        "title": "VYNN AI",
+        "start_date": "Jul 2025",
+        "description": "Institutional equity research end-to-end in under 7 minutes. LangGraph supervisor orchestrates 7 specialized agents; the LLM never touches a number. All financial math is deterministic Python; LLMs produce narrative that a regex validator blocks if citation coverage drops below 95%. A custom 1,293-line Excel formula evaluator keeps the DCF workbook and downstream JSON consistent without requiring Excel at runtime. Reproducibility validated empirically: CV 0.016\u20130.035 across 9 production runs, paraphrase stability 0.983."
+      },
+      {
+        "title": "AutoCodeRover",
+        "start_date": "Aug 2024",
+        "description": "AutoCodeRover-Interactive is a fully autonomous software engineering agent that understands bug reports, searches codebases for relevant context, generates reproducer tests, writes patches, reviews and validates them, and self-corrects \u2014 all with optional human-in-the-loop feedback at every stage."
+      },
+      {
+        "title": "LUMINA",
+        "start_date": "Jan 2024",
+        "description": "Four-agent citation screening for medical systematic reviews. 0.982 mean sensitivity / 0.018 FNR across 15 SRMAs (~150K citations). On 4 held-out benchmark SRMAs from Tran et al. 2024 (Ann Intern Med), perfect 1.000 sensitivity with 20\u201340pp specificity improvements over their GPT-3.5 PICOS baseline. Sole first author."
+      },
+      {
+        "title": "Intelligent Tutoring System (ITS)",
+        "start_date": "Jan 2023",
+        "description": "Designed and implemented an error location finder which localizes differences between two C or Python programs. It contributes to Intelligent Tutoring System (ITS) which currently serves as an education tool in CS1010S at NUS.Designed the algorithm to localize errors - Construct dependency tree for each variables in the program and utilize static slicing to find erroneous nodes in dependency tree."
+      }
+    ],
+    "organizations": [
+      {
+        "title": "University Philharmonic Orchestra - HKU",
+        "membership_type": "First Clarinet player",
+        "start_date": "Sep 2023",
+        "end_date": "Dec 2023",
+        "membership_number": null
+      },
+      {
+        "title": "NUS Symphony Orchestra",
+        "membership_type": "-",
+        "start_date": "Jan 2022",
+        "end_date": "Sep 2023",
+        "membership_number": null
+      }
+    ],
+    "location": null,
+    "input_url": "https://www.linkedin.com/in/zanwenfu",
+    "linkedin_id": "zanwenfu",
+    "activity": [
+      {
+        "interaction": "Liked by Zanwen (Ryan) Fu",
+        "link": "https://www.linkedin.com/posts/manus-im_a-note-to-our-users-activity-7492928873286762496-_x4A",
+        "title": "A Note to Our Users Manus will soon resume operating as an independent company. As part of this transition and to comply with regulatory\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5610AQE8YVJW7mp5lw/image-shrink_800/B56Z_w7FasJQAg-/0/1786453448809?e=2147483647&v=beta&t=cUrQasQl0QXrw3kC6jFj2oGals1iklNVvEVBMnPNTKc",
+        "id": "7492928873286762496"
+      },
+      {
+        "interaction": "Liked by Zanwen (Ryan) Fu",
+        "link": "https://www.linkedin.com/posts/clementdelangue_meta-is-back-activity-7492526673343696896-KuIV",
+        "title": "Meta is back!",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQHi64ZyAmmF_g/feedshare-shrink_800/B4EZ_rNTdPIgAc-/0/1786357561932?e=2147483647&v=beta&t=eai-wFGwIO-dj-FZjlozgipAYTnkil_JKaBugITxCwE",
+        "id": "7492526673343696896"
+      },
+      {
+        "interaction": "Liked by Zanwen (Ryan) Fu",
+        "link": "https://www.linkedin.com/posts/jack-o-halloran-87662342_a-high-frequency-trading-firm-just-hired-activity-7491396689791209472-g2y-",
+        "title": "\ud83d\udccc Susquehanna International Group has brought on Bjarne Stroustrup, the creator of C++ It's an exciting hire. C++ underpins most of the\u2026",
+        "img": "https://media.licdn.com/dms/image/sync/v2/D4D27AQHIixU-asdHTA/articleshare-shrink_800/B4DZ_bJXs4IIAY-/0/1786088095767?e=2147483647&v=beta&t=Fbit_U2vPvn-NYCsisBnOIsb_GVylwwHNIX1aaT8qFc",
+        "id": "7491396689791209472"
+      },
+      {
+        "interaction": "Liked by Zanwen (Ryan) Fu",
+        "link": "https://www.linkedin.com/posts/y-combinator_in-2009-patrick-collison-and-john-collison-activity-7489033755882385408-nVi5",
+        "title": "In 2009, Patrick Collison and John Collison went to Startup School in Berkeley, got sushi in Potrero Hill afterward, and decided on the walk home to\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5605AQEtKhUiJ6JooQ/videocover-high/B56Z.5kUxYGQBM-/0/1785524764596?e=2147483647&v=beta&t=nujwp6hDvm1ps5gizSyoq0S_HaaU7I6ohDrpFZ7fTfM",
+        "id": "2009"
+      },
+      {
+        "interaction": "Liked by Zanwen (Ryan) Fu",
+        "link": "https://www.linkedin.com/posts/jenhsunhuang_today-were-launching-alpamayo-2-super-activity-7490422037753036800-8R82",
+        "title": "Today, we\u2019re launching Alpamayo 2 Super, our frontier open reasoning model for autonomous vehicles. Beyond seeing, Alpamayo understands and reasons\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQFtb31IwPnlSA/feedshare-shrink_800/B56Z_NTJx4J0Ac-/0/1785855778160?e=2147483647&v=beta&t=2jKPPa5dkZCiPbR0BDsRpJ9WYbqUmfpRvpgc2loSj_g",
+        "id": "2"
+      },
+      {
+        "interaction": "Liked by Zanwen (Ryan) Fu",
+        "link": "https://www.linkedin.com/posts/zanwenfu_i-spent-4-months-building-my-ai-analyst-as-activity-7490406299973726208-xyRF",
+        "title": "I spent 4 months building my AI analyst as a fixed pipeline. I rebuilt how it answers in 2 days. VYNN AI (vynnai.com) now answers any market\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQFEafNRLlSW3w/feedshare-shrink_800/B56Z_MbchbIcAc-/0/1785841175220?e=2147483647&v=beta&t=pPrqzRwHsfn9HK7X7sL569uMg6uVHsHhZ8JBbzP8zSM",
+        "id": "4"
+      },
+      {
+        "interaction": "Shared by Zanwen (Ryan) Fu",
+        "link": "https://www.linkedin.com/posts/zanwenfu_i-spent-4-months-building-my-ai-analyst-as-activity-7490406299973726208-xyRF",
+        "title": "I spent 4 months building my AI analyst as a fixed pipeline. I rebuilt how it answers in 2 days. VYNN AI (vynnai.com) now answers any market\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQFEafNRLlSW3w/feedshare-shrink_800/B56Z_MbchbIcAc-/0/1785841175220?e=2147483647&v=beta&t=pPrqzRwHsfn9HK7X7sL569uMg6uVHsHhZ8JBbzP8zSM",
+        "id": "4"
+      },
+      {
+        "interaction": "Liked by Zanwen (Ryan) Fu",
+        "link": "https://www.linkedin.com/posts/flora-yu-shen-18b290133_wrapping-up-my-journey-at-robinhood-after-activity-7490059002987569152-PsjO",
+        "title": "Wrapping up my journey at Robinhood after 4 years. It's been an incredible ride and I am so grateful. I had the privilege of working on some\u2026",
+        "img": "https://static.licdn.com/aero-v1/sc/h/53n89ecoxpr1qrki1do3alazb",
+        "id": "7490059002987569152"
+      },
+      {
+        "interaction": "Liked by Zanwen (Ryan) Fu",
+        "link": "https://www.linkedin.com/posts/tarakeeney_he-built-a-42-billion-dollar-company-with-activity-7486019902148005888-jTZa",
+        "title": "He built a $42 billion dollar company with his wife. Rejected. Slept on sofas. Never gave up. Today, Canva is used by more than 250 million people\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4E05AQHXxIoLisUrfQ/videocover-high/B4EZ.OvVIoJEBQ-/0/1784806204680?e=2147483647&v=beta&t=hvOYlT-G0nqY4kzxgOGJaejX4KhEEhacmrOERE672I8",
+        "id": "42"
+      },
+      {
+        "interaction": "Liked by Zanwen (Ryan) Fu",
+        "link": "https://www.linkedin.com/posts/sherilynwang_google-familyday-activity-7489112694386487296-S65u",
+        "title": "#Google #FamilyDay",
+        "img": "https://media.licdn.com/dms/image/v2/D5605AQG3SiDOAFdpsw/videocover-high/B56Z.6sRR1GgBM-/0/1785543597443?e=2147483647&v=beta&t=i7ycifiCRQsQ5i7heL5r_HMdpIlyKz8D3hug2o1NlJw",
+        "id": "7489112694386487296"
+      },
+      {
+        "interaction": "Liked by Zanwen (Ryan) Fu",
+        "link": "https://www.linkedin.com/posts/robinhood_nationalinternday-activity-7488604357496778752-jAZe",
+        "title": "Today is #NationalInternDay, and we're celebrating the impact our Robinterns are having this summer. At Intern Week, nearly 100 interns gathered in\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQHHO81gKJsSZw/feedshare-shrink_800/B56Z.zd.rjIcAc-/0/1785422409738?e=2147483647&v=beta&t=NuJWZJeO9DXbWuCWHSVvX8EV_TvnqTE3wdajftwLs_0",
+        "id": "7488604357496778752"
+      },
+      {
+        "interaction": "Liked by Zanwen (Ryan) Fu",
+        "link": "https://www.linkedin.com/posts/zanwenfu_back-from-yc-startup-school-i-was-absolutely-activity-7487869569844277249-E9io",
+        "title": "Back from YC Startup School. I was absolutely dead tired, but every minute was worth it. The talks were so great. Jensen, Sam, Boris, Patrick\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQGbHhb-5db89w/feedshare-image-high-res/B56Z.njdWtHcAU-/0/1785222519024?e=2147483647&v=beta&t=i9imSA0FD6GaRf2NTlN2NLMAIFtexlmQfDIgf1abM5E",
+        "id": "7487869569844277249"
+      },
+      {
+        "interaction": "Shared by Zanwen (Ryan) Fu",
+        "link": "https://www.linkedin.com/posts/zanwenfu_back-from-yc-startup-school-i-was-absolutely-activity-7487869569844277249-E9io",
+        "title": "Back from YC Startup School. I was absolutely dead tired, but every minute was worth it. The talks were so great. Jensen, Sam, Boris, Patrick\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQGbHhb-5db89w/feedshare-image-high-res/B56Z.njdWtHcAU-/0/1785222519024?e=2147483647&v=beta&t=i9imSA0FD6GaRf2NTlN2NLMAIFtexlmQfDIgf1abM5E",
+        "id": "7487869569844277249"
+      },
+      {
+        "interaction": "Liked by Zanwen (Ryan) Fu",
+        "link": "https://www.linkedin.com/posts/j-tseng_grateful-to-have-been-invited-to-y-combinator-activity-7487609629774991360-P5pw",
+        "title": "Grateful to have been invited to Y Combinator startup school. It was a fun experience and it was great meeting everyone!",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQGDi52sVPiafA/feedshare-image-high-res/B56Z.lVQwOIUAU-/0/1785185247870?e=2147483647&v=beta&t=Ti7ZgWx-9PD-CYGN7LTOp_7JoEssMwIv55W1s6GCGmc",
+        "id": "7487609629774991360"
+      },
+      {
+        "interaction": "Liked by Zanwen (Ryan) Fu",
+        "link": "https://www.linkedin.com/posts/jenhsunhuang_industry-leaders-unite-in-open-secure-ai-activity-7487525646252826624-g0hH",
+        "title": "Attackers have frontier AI. Defenders need a frontier AI ecosystem\u2014the best open and closed models, force-multiplied by a global community. During\u2026",
+        "img": "https://media.licdn.com/dms/image/sync/v2/D4E27AQHQyqwISWlVxg/articleshare-shrink_800/B4EZ_fNygMHwAY-/0/1786156362397?e=2147483647&v=beta&t=P7sUj3Tb6_RG4dvTrGIsWPdlIg43XSwU5KGjSJvOFWw",
+        "id": "7487525646252826624"
+      },
+      {
+        "interaction": "Liked by Zanwen (Ryan) Fu",
+        "link": "https://www.linkedin.com/posts/steventpham_when-you-go-from-2-million-a-month-to-2-activity-7487673597864615936-5cRt",
+        "title": "I've joined Mercor to build and scale our Payments platform. We went from $2M/month to $2M/day. That's not a typo \u2014 that's the pace here. And we're\u2026",
+        "img": "https://media.licdn.com/dms/image/sync/v2/D5627AQHv5HZQbgq68Q/articleshare-shrink_800/B56Z5kPsv7IYAQ-/0/1779798298519?e=2147483647&v=beta&t=Kt1IGD159JlVyHt3aOc-JzRuGdBvPs6cZOu95GzShmw",
+        "id": "2"
+      },
+      {
+        "interaction": "Liked by Zanwen (Ryan) Fu",
+        "link": "https://www.linkedin.com/posts/bcherny_opus-5-is-a-great-model-for-coding-data-activity-7486480168945864706-w3r3",
+        "title": "Opus 5 is a great model for coding, data analysis, design, biology, knowledge work. More than any of these eval scores, what is most exciting to me\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQF2bHl6mIaBKw/feedshare-shrink_800/B56Z.VSCxHG4Ag-/0/1784915963867?e=2147483647&v=beta&t=I6p70vOmgfHhoVoTPEEVbuUhw5QKyT3WIEDmvQ-yaEU",
+        "id": "5"
+      }
+    ],
+    "linkedin_num_id": "924084134",
+    "banner_image": "https://media.licdn.com/dms/image/v2/D4E16AQFiVRHayVqK2g/profile-displaybackgroundimage-shrink_200_800/B4EZukSMebLcAU-/0/1767987792676?e=2147483647&v=beta&t=6Sks9O4U_zf5jjUj7ItrXV2l5K-pM3lO4ex3b7QWUw8",
+    "honors_and_awards": null,
+    "similar_profiles": [],
+    "default_avatar": false,
+    "memorialized_account": false,
+    "bio_links": [],
+    "first_name": "Zanwen",
+    "last_name": "(Ryan) Fu",
+    "influencer": false,
+    "timestamp": "2026-08-12T19:22:47.606Z",
+    "input": {
+      "url": "https://www.linkedin.com/in/zanwenfu"
+    }
+  },
+  "local_photo": "data\\linkedin_photos\\zanwenfu__usr-kYzSHi6Qe0shHMg.jpg"
+}

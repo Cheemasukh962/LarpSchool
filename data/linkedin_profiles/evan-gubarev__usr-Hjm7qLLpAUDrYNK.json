@@ -1,0 +1,56 @@
+{
+  "luma_user_id": "usr-Hjm7qLLpAUDrYNK",
+  "csv_name": "Evan Gubarev",
+  "csv_linkedin": "https://www.linkedin.com/in/evan-gubarev",
+  "enriched_at": "2026-08-12T19:26:51.916671+00:00",
+  "batch_id": "sd_msqhb4pfm4l4la4zs",
+  "profile": {
+    "id": "evan-gubarev",
+    "name": "Evan Gubarev",
+    "city": "Seattle, Washington, United States",
+    "country_code": "US",
+    "position": null,
+    "about": null,
+    "current_company": {
+      "link": "https://www.linkedin.com/company/allen-ai?trk=public_profile_topcard-current-company",
+      "name": "Ai2",
+      "company_id": "allen-ai",
+      "location": null
+    },
+    "experience": null,
+    "url": "https://tr.linkedin.com/in/Evan-gubarev",
+    "educations_details": "Paul G. Allen School of Computer Science & Engineering",
+    "education": null,
+    "avatar": "https://static.licdn.com/aero-v1/sc/h/9c8pery4andzj6ohjkjp54ma2",
+    "followers": 734,
+    "connections": 500,
+    "current_company_company_id": "allen-ai",
+    "current_company_name": "Ai2",
+    "location": "Seattle",
+    "input_url": "https://www.linkedin.com/in/evan-gubarev",
+    "linkedin_id": "evan-gubarev",
+    "activity": [
+      {
+        "interaction": "Liked by Evan Gubarev",
+        "link": "https://www.linkedin.com/posts/mathematical-association-of-america_congratulations-to-team-usa-at-the-67th-activity-7485761632321769473-SYM4",
+        "title": "Congratulations to Team USA! \ud83c\udf89 At the 67th International Mathematical Olympiad, held in Shanghai from July 10 to July 20, the six-student team\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4E10AQHL-AUfKgJzsw/image-shrink_800/B4EZ.LEgk1IkAg-/0/1784744645574?e=2147483647&v=beta&t=F5iwEmWchkHzvRBJsC2FSEKnR5DekwiXOPsetjROF24",
+        "id": "7485761632321769473"
+      }
+    ],
+    "linkedin_num_id": "1510659262",
+    "banner_image": "https://media.licdn.com/dms/image/v2/D5616AQHyLPps4ENTag/profile-displaybackgroundimage-shrink_200_800/B56ZmE5lmUJ4AU-/0/1758871313207?e=2147483647&v=beta&t=z_cpuy4WLyfx9qWAYe2xKWCk8AtJYdb9qZszIJ9jzb4",
+    "honors_and_awards": null,
+    "similar_profiles": [],
+    "default_avatar": true,
+    "memorialized_account": false,
+    "bio_links": [],
+    "first_name": "Evan",
+    "last_name": "Gubarev",
+    "influencer": false,
+    "timestamp": "2026-08-12T19:25:17.650Z",
+    "input": {
+      "url": "https://www.linkedin.com/in/evan-gubarev"
+    }
+  }
+}

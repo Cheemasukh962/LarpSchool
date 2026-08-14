@@ -1,0 +1,226 @@
+{
+  "luma_user_id": "usr-UiG361EkfbYfErk",
+  "csv_name": "Chanjoong Kim",
+  "csv_linkedin": "https://www.linkedin.com/in/chanjoong",
+  "enriched_at": "2026-08-12T18:59:59.567160+00:00",
+  "batch_id": "sd_msqgcuh41lygyhc91a",
+  "profile": {
+    "id": "chanjoong",
+    "name": "Chanjoong Kim",
+    "city": "Seoul, South Korea",
+    "country_code": "KR",
+    "position": null,
+    "about": "I build AI systems, agents, LLM tooling, efficient ML, and ship them to production\u2026",
+    "current_company": {
+      "link": "https://www.linkedin.com/company/neverboringnow?trk=public_profile_topcard-current-company",
+      "name": "neverboringnow",
+      "company_id": "neverboringnow",
+      "location": null
+    },
+    "experience": null,
+    "url": "https://bd.linkedin.com/in/chanjoong",
+    "educations_details": "Kookmin University",
+    "education": [
+      {
+        "title": "Kookmin University",
+        "url": "https://kr.linkedin.com/school/%EA%B5%AD%EB%AF%BC%EB%8C%80%ED%95%99%EA%B5%90/",
+        "start_year": "2026-03",
+        "end_year": "2026-07",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      },
+      {
+        "start_year": "2022-03",
+        "end_year": "2027-08",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      },
+      {
+        "start_year": "2017-03",
+        "end_year": "2020-02",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      }
+    ],
+    "avatar": "https://media.licdn.com/dms/image/v2/D5603AQFep2FC2OtPhw/profile-displayphoto-shrink_200_200/B56ZWf6bMkGoAg-/0/1742144648795?e=2147483647&v=beta&t=ZnCZ7iQQJXt_NrfdDCm-VXdQxn0tHJDizfV1L97p2ME",
+    "certifications": [
+      {
+        "meta": "Issued May 2025 See credential",
+        "subtitle": "Microsoft",
+        "title": "Microsoft Certified: Azure AI Fundamentals",
+        "credential_url": "https://www.credly.com/badges/385f772e-7845-45a6-b052-7c6e95da66e6/linked_in_profile?trk=public_profile_see-credential",
+        "credential_id": null
+      }
+    ],
+    "followers": 782,
+    "connections": 500,
+    "current_company_company_id": "neverboringnow",
+    "current_company_name": "neverboringnow",
+    "publications": [
+      {
+        "title": "Machine Learning-Based Prediction of Solubility in Pure and Mixed Solvent Systems across Temperatures",
+        "subtitle": "The Korean Chemical Society",
+        "date": "October 24, 2025",
+        "description": "Poster presentation (Physical Chemistry). Second author.Presented at the 2025 KCS 136th General Meeting & Exhibition."
+      },
+      {
+        "title": "Predicting the Refractive Index of Multi-Component Mixtures Using a Graph-Based Machine Learning Model",
+        "subtitle": "The Korean Chemical Society",
+        "date": "October 24, 2025",
+        "description": "Poster presentation (Physical Chemistry). First author.Presented at the 2025 KCS 136th General Meeting & Exhibition."
+      }
+    ],
+    "projects": [
+      {
+        "title": "Atlas \u00b7 Read Any Codebase as a City",
+        "start_date": "May 2026",
+        "description": "Turns a public GitHub repository into an interactive isometric city map. Directories become districts, files become buildings as tall as the code inside them, and the handful of files that actually matter stand out as landmarks. Four agents handle one request end to end (Ingester, Parser, Layout, Annotator) on Cloudflare Pages Functions with no model in the loop, so the same repository always renders the same city and two of them can be compared.Built solo in 48 hours for the IBM Bob Hackathon (NativelyAI/lablab.ai with IBM) and placed 2nd of 503 submissions, from 1,672 teams and 5,628 participants, taking $3,000 of the $10,000 prize pool. Eight Korean outlets covered it.The judged build is permanently tagged v1.0-hackathon so it stays unambiguous: flat 2D maps, one theme, no dependency arcs at all, 78 tests. Everything since then is a continuation of it. Isometric renderer over SVG and canvas, two themes, real import resolution, and an ingester that replaced 243 API calls with a single gzipped tar stream from codeload.github.com, which dropped Hono from 16.5s to 1.1s and left theservice holding no GitHub credential. 269 tests."
+      },
+      {
+        "title": "Oneline \u00b7 Natural-Language Personal-Tool Generator",
+        "start_date": "May 2026",
+        "description": "Selected for the Google I/O Hackathon (Cerebral Valley \u00d7 Google DeepMind, May 2026, in-person SF, application-gated). Built Oneline solo in 6.5 hours, a generator that turns a one-line request into a working tool deployed to your phone in about two minutes. Three candidates build in parallel inside Gemini Managed Agents sandboxes, a three-layer judge scores each (functionality via Playwright run in-sandbox, plus UX and design), and losing builds become lessons that improve the next one. Every model call runs on Gemini 3.5 Flash."
+      },
+      {
+        "title": "reflect \u00b7 Session-Level Reflection for Coding Agents",
+        "start_date": "Apr 2026",
+        "description": "Selected for Built with Opus 4.7: a Claude Code Hackathon (Anthropic \u00d7 Cerebral Valley, April 2026, 1 of 500 from 20,000+ applicants). Shipped reflect solo over 6 days, a session-local metacognition harness for Claude Code. MIT-licensed and published on npm with SLSA v1 provenance."
+      }
+    ],
+    "location": "Seoul",
+    "input_url": "https://www.linkedin.com/in/chanjoong",
+    "linkedin_id": "chanjoong",
+    "activity": [
+      {
+        "interaction": "Chanjoong Kim shared this",
+        "link": "https://www.linkedin.com/posts/chanjoong_2nd-place-out-of-503-projects-1672-teams-activity-7473959731670327296-tg3i",
+        "title": "\ud83e\udd48 2nd Place out of 503 projects (1,672 teams, 5,628 participants) at the IBM Bob Hackathon, hosted by lablab.ai and NativelyAI in partnership with IBM . I built Atlas using IBM Bob : drop in any GitHub repo and it becomes an interactive city map. Directories are districts, files are buildings, hotspots show what matters. Understand a codebase in about 30 seconds.",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQE6uJkhZGuPKA/feedshare-image-high-res/B56Z7jWxjpG8AU-/0/1781930858978?e=2147483647&v=beta&t=7Tc5kH6I5q3ZYZfH0Y2OuN9k_DyzzPm4OyDohIcrnJg",
+        "id": "503"
+      },
+      {
+        "interaction": "Chanjoong Kim shared this",
+        "link": "https://www.linkedin.com/posts/chanjoong_googleio2026-googledeepmind-hackathon-activity-7464843222540922880-vIHo",
+        "title": "An intense week inside the Google I/O 2026 ecosystem in San Francisco. Thursday at the Google for Startups \u00d7 Google DeepMind After Hours, hands-on with the newest generative media models. Saturday, the Cerebral Valley \u00d7 Google DeepMind hackathon at SHACK15 , where I built Oneline. Most software is built for everyone, so it fits no one. The tool you need most is often the one nobody built, because the market is just you. Oneline turns a one-line request into a working tool on your phone in about two minutes. When you describe one: \u2192 Three versions build in parallel, each in its own Gemini Managed Agents sandbox \u2192 A three-layer judge scores them, running the real tool with Playwright inside the sandbox \u2192 The winner deploys to Cloud Run, with a QR to your phone Every losing version leaves a lesson that improves the next build. Every model call runs on Gemini 3.5 Flash. Built solo in 6.5 hours. Not an app builder like Lovable or V0, which ship to a market. Oneline builds one tool for one person, who uses it and throws it away. The market is one. Code: https://lnkd.in/g4HHVSrQ Demo: https://lnkd.in/giT9rQhk #GoogleIO2026 #GoogleDeepMind #Hackathon #Gemini #ManagedAgents #AI #BuildInPublic #CerebralValley",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQGvOlkkSh2Drg/feedshare-shrink_800/B56Z5hzV2fJsAc-/0/1779757310186?e=2147483647&v=beta&t=UwvzmVM9TjrbXSgKlg9B21rs_EvpHjaTh1oVFMxXYoQ",
+        "id": "7464843222540922880"
+      },
+      {
+        "interaction": "Chanjoong Kim shared this",
+        "link": "https://kr.linkedin.com/posts/chanjoong_builtwithclaude-claudecode-anthropic-activity-7452268654286770176-VzsI",
+        "title": "I've been accepted to Anthropic and Cerebral Valley 's Built with Opus 4.7: a Claude Code Hackathon. Selected as 1 of 500 participants worldwide from 20,000+ applicants (2.4% acceptance rate). For the next six days, we'll be building with Opus 4.7 and competing for $100k in Claude API credits. \uc800\ub294 2\ub9cc \uba85 \uc774\uc0c1\uc774 \uc9c0\uc6d0\ud574 2.4%\uc758 \ud569\uaca9\ub960\uc744 \uae30\ub85d\ud55c \uc564\ud2b8\ub85c\ud53d \ud074\ub85c\ub4dc \ucf54\ub4dc \ud574\ucee4\ud1a4\uc5d0 \uc804 \uc138\uacc4 500\uba85 \uc911 \ud55c \uba85\uc73c\ub85c \uc120\ubc1c\ub418\uc5c8\uc2b5\ub2c8\ub2e4. \uc55e\uc73c\ub85c 6\uc77c\uac04 Opus 4.7\ub85c \ube4c\ub529\ud558\uace0, $100k Claude API \ud06c\ub808\ub527\uc744 \uac78\uace0 \uacbd\uc7c1\ud569\ub2c8\ub2e4. Kickoff starts today. Let's ship. \ud83e\udee1 #BuiltWithClaude #ClaudeCode #Anthropic",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQEydwZGZs0lNg/feedshare-image-high-res/B56Z2vG2qBGgAU-/0/1776759303069?e=2147483647&v=beta&t=EhcdBcuLt1zNPjYBObrIcJwKfx5galACHmoDl6irtLo",
+        "id": "7452268654286770176"
+      },
+      {
+        "interaction": null,
+        "link": "https://www.linkedin.com/posts/ludovico-bessi_i-believe-the-ml-engineering-job-market-is-activity-7421870069464330240-rDJr",
+        "title": "I believe the ML engineering job market is splitting in two. On one side: full-stack AI engineers who ship products end-to-end. On the other: hyper-specialists optimizing TPUs and training $50M models. The traditional middle ground of ML engineers building feature pipelines and training scikit-learn models is disappearing. Here's what's actually happening: Path 1: The Full-Stack AI Engineer \u276f\u276f\u276f\u276f Understands ML fundamentals and model behavior \u276f\u276f\u276f\u276f Can ship an AI feature end-to-end in a week \u276f\u276f\u276f\u276f Owns the product surface, backend, and model integration \u276f\u276f\u276f\u276f Knows when to use GPT-4 vs fine-tune vs RAG \u276f\u276f\u276f\u276f Typical environment: Series A-C startups, mid-size companies Think: The person who can take \"add AI search to our product\" from concept to production without handing off between 4 teams. Path 2: The Hyper-Specialist \u276f\u276f\u276f\u276f TPU kernel optimization \u276f\u276f\u276f\u276f Distributed training infrastructure \u276f\u276f\u276f\u276f LLM post-training techniques \u276f\u276f\u276f\u276f Custom CUDA kernels for specific architectures \u276f\u276f\u276f\u276f Typical environment: FAANG, OpenAI, Anthropic, Databricks Think: The person who shaves 30% off training costs for models that cost $50M+ to train. Reality: There are maybe 50-100 companies globally running billion-user ML systems. AutoML/LLMs handle simpler cases Product requirements demand faster iteration Companies can't afford specialized ML teams unless at massive scale What this means for your career if you're not at a top-10 tech company: Learn to ship. Fast. Understand enough ML to make good decisions, not build from scratch Get comfortable with APIs, prompt engineering, and fine-tuning Own more of the stack If you want the specialist path: Get deep. Really deep. Target the handful of companies doing cutting-edge infrastructure Publish, contribute to open source, build credibility Expect a more competitive, narrower job market",
+        "img": null,
+        "id": "7421870069464330240"
+      },
+      {
+        "interaction": "Chanjoong Kim replied to a comment 1mo",
+        "link": "https://www.linkedin.com/posts/chanjoong_activity-7475505640933847040-C39I",
+        "title": "lablab.ai Thank you, this means a lot coming from the lablab team. The city map metaphor was the fun part to figure out, glad it landed. Grateful for the platform and the chance to build. \ud83d\ude4f",
+        "img": null,
+        "id": "7475505640933847040"
+      },
+      {
+        "interaction": "Chanjoong Kim replied to a comment 1mo",
+        "link": "https://www.linkedin.com/posts/chanjoong_activity-7474364834571001856-Qch2",
+        "title": "\ud83c\udf89\ud83c\udf89",
+        "img": null,
+        "id": "7474364834571001856"
+      },
+      {
+        "interaction": "Chanjoong Kim liked this",
+        "link": "https://www.linkedin.com/posts/soobin-um_this-month-ill-be-joining-the-department-activity-7490660744896737281-ZlKy",
+        "title": "This month, I'll be joining the Department of Electrical Engineering and Computer Science (EECS) at DGIST (\ub300\uad6c\uacbd\ubd81\uacfc\ud559\uae30\uc220\uc6d0) as an Assistant Professor. I spent a meaningful time at the College of Computer Science, Kookmin University , where I built many of the foundational skills of an independent researcher. I'm deeply grateful to my wonderful colleagues there, whose warmth and support made all the difference during my time. Looking ahead, I hope to continue my work on generative AI and its applications in science and technology, and to build my research group at DGIST. Excited for what lies ahead.",
+        "img": null,
+        "id": "7490660744896737281"
+      },
+      {
+        "interaction": "Chanjoong Kim liked this",
+        "link": "https://www.linkedin.com/posts/seoulnational-university_seoulnationaluniversity-snu-nvidia-activity-7486669357062856704-WlCn",
+        "title": "\u26a1 SNU x NVIDIA: NVAITC Joint Lab Is Here Seoul National University is teaming up with NVIDIA to launch NVIDIA AI Technology Center (NVAITC) Joint Lab. This is a multi-year lab that brings research, talent, education, and infrastructure together under a single governance framework\u2014and it follows NVIDIA CEO Jensen Huang 's visit to campus last month, where he met directly with our students. Here's what the partnership will focus on: \ud83d\udd2c Joint research in Physical AI and robotics, accelerated computing, and semiconductors \ud83e\udd1d Expanded exchanges between our faculty, students, and NVIDIA's researchers \ud83c\udf93 Internships, mentoring, and NVIDIA Deep Learning Institute (DLI) courses for our students \u26a1 AI infrastructure at our Siheung Campus and technical exchanges to support a national Sovereign AI testbed Together, these efforts mark a meaningful step in SNU's journey to become a leading global AI research hub. \ud83d\ude80 #SeoulNationalUniversity #SNU #NVIDIA #NVAITC #JointLab #SNUAIInstitute #SNURoboticsInstitute",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQE9FzFFazz9Rw/feedshare-image-high-res/B56Z.X.HAgIsAU-/0/1784961069413?e=2147483647&v=beta&t=2oA3ZQKZehj-fNwY9KeOhnL4Lf1JTrYSf9mM9tGMDsA",
+        "id": "7486669357062856704"
+      },
+      {
+        "interaction": "Chanjoong Kim liked this",
+        "link": "https://kr.linkedin.com/posts/toss-bank_%ED%86%A0%EC%8A%A4%EB%B1%85%ED%81%AC-aiml-%EC%A7%81%EA%B5%B0-%EB%8C%80%EA%B7%9C%EB%AA%A8-%EC%A7%91%EC%A4%91-%EC%B1%84%EC%9A%A9-%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%99%80-ai%EB%A1%9C-%EC%9D%80%ED%96%89%EC%9D%98-activity-7488096000344252416-F9JV",
+        "title": "\ud83d\udce3 \ud1a0\uc2a4\ubc45\ud06c AI/ML \uc9c1\uad70 \ub300\uaddc\ubaa8 \uc9d1\uc911 \ucc44\uc6a9! \ub370\uc774\ud130\uc640 AI\ub85c, \uc740\ud589\uc758 \ud575\uc2ec\uc744 \ub2e4\uc2dc \uc501\ub2c8\ub2e4. \ud1a0\uc2a4\ubc45\ud06c\uc758 ML Tribe\uc640 \ud568\uaed8 \uc2e4\uc81c \ube44\uc988\ub2c8\uc2a4 \uc784\ud329\ud2b8\ub97c \ub9cc\ub4e4\uc5b4\uac08 \ubd84\uc744 \ucc3e\uace0 \uc788\uc5b4\uc694. \ud83d\udc40 \uc2e0\uc785\ubd80\ud130 \uacbd\ub825\uae4c\uc9c0, AI/ML\ub85c \uc0c8\ub85c\uc6b4 \ub3c4\uc804\uc744 \uc2dc\uc791\ud558\uace0 \uc2f6\uc740 \ubd84\uc774\ub77c\uba74 \ub204\uad6c\ub098 \uc9c0\uc6d0\ud560 \uc218 \uc788\uc5b4\uc694. \uc774\ubc88 \ucc44\uc6a9\uc5d0\uc11c\ub294 \uc9c0\uc6d0\uc790\ub97c \uc704\ud55c \ud2b9\ubcc4\ud55c \ud61c\ud0dd\ub3c4 \uc900\ube44\ud588\uc5b4\uc694. \ud83c\udf81 \uc9c0\uae08 \ubc14\ub85c \uacf5\uace0\ub97c \ud655\uc778\ud558\uc5ec \uc228\uaca8\uc9c4 \ud61c\ud0dd\uc744 \ud655\uc778\ud574\ubcf4\uc138\uc694. \ud83d\uddd3\ufe0f \ubaa8\uc9d1 \uae30\uac04 : 7/29(\uc218) ~ 8/16(\uc77c) \ud83d\udc8c \uacf5\uace0 \ud655\uc778\ud558\uae30 : https://lnkd.in/gNvSW_4f \ud83d\udcc3 \uc544\ud2f0\ud074 \ud655\uc778\ud558\uae30 : https://lnkd.in/gAnziwAR",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQHzjwNcQEqGxA/feedshare-shrink_1280/B56Z.sBhcNGQAM-/0/1785297508374?e=2147483647&v=beta&t=6LyssFeTIStigQ6M1r-KIu9C6Zqy4kUPAbSyfdUwWxQ",
+        "id": "7488096000344252416"
+      },
+      {
+        "interaction": "Chanjoong Kim liked this",
+        "link": "https://www.linkedin.com/posts/claude_introducing-claude-opus-5-activity-7486465417046102017-nGTA",
+        "title": "Introducing Claude Opus 5: a thoughtful and proactive model that comes close to the frontier intelligence of Fable 5 at half the price. On several coding and knowledge work evaluations, Opus 5 is the new state-of-the-art. It\u2019s also highly efficient\u2014it outperforms other models for a similar or lower cost per task. According to our automated behavioral audit, Opus 5 is our most aligned model to date. It shows the lowest rates of reckless or deceptive behavior, and the strongest adherence to Claude\u2019s Constitution. It\u2019s available today on all paid plans and the Claude API, priced the same as Opus 4.8. It\u2019s the default model on Claude Max, and the strongest on Claude Pro. Opus 5 is also available in Fast mode, which runs around 2.5\u00d7 the default speed. Read more: https://lnkd.in/eA5EsPHt",
+        "img": "https://dms.licdn.com/playlist/vid/v2/D4E05AQFXG7kXcUg0QQ/thumbnail-shrink_720_1280/B4EZ.VEl1UIgAk-/0/1784912438425?e=2147483647&v=beta&t=Uyll4B2nlj-m0kRVGXqN-k7WKDHnjglRv0rN4ctTGoU",
+        "id": "5"
+      },
+      {
+        "interaction": "Chanjoong Kim liked this",
+        "link": "https://kr.linkedin.com/posts/heejin-kang-541299198_cx-%EA%B3%A0%EA%B0%9D%EA%B2%BD%ED%97%98-axis2026-activity-7484498784907841536-phEJ",
+        "title": "\ud1a0\uc2a4\ub97c \ub5a0\ub09c \ub4a4\ub85c \ub9c1\ud06c\ub4dc\uc778\uc5d0 \ud55c\ub3d9\uc548 \uc18c\uc2dd\uc744 \ub0a8\uae30\uc9c0 \ubabb\ud588\ub124\uc694. \uadf8 \uc0ac\uc774 \uc800\ub294 \uc6b0\uc544\ud55c\ud615\uc81c\ub4e4, \ubc30\ub2ec\uc758\ubbfc\uc871\uc5d0 \ud569\ub958\ud588\uace0 \uc5b4\ub290\uc0c8 8\uac1c\uc6d4\uc774 \ub418\uc5c8\uc2b5\ub2c8\ub2e4. \uc9e7\ub2e4\uba74 \uc9e7\uc740 \uc2dc\uac04\uc774\uc9c0\ub9cc \uc815\ub9d0 \ub9ce\uc740 \uc77c\uc774 \uc788\uc5c8\uc5b4\uc694. \ubd80\ubb38 \uc18c\uc18d\uc774\ub358 \uc870\uc9c1\uc774 \ub300\ud45c \uc9c1\uc18d\uc73c\ub85c \uc7ac\ud3b8\ub418\uba74\uc11c, \ubc30\ubbfc\uc5d0\uc11c \uace0\uac1d\uacbd\ud5d8\uc744 \ud558\ub098\uc758 \uc9c0\uc6d0 \uae30\ub2a5\uc774 \uc544\ub2c8\ub77c \uc0ac\uc5c5\uc758 \uc911\uc694\ud55c \uc694\uc18c\ub85c \ub2e4\ub8e8\uae30 \uc2dc\uc791\ud55c \uc2dc\uc810\uc774\uae30\ub3c4 \ud588\uc2b5\ub2c8\ub2e4. \uc800\ub294 \uc694\uc998 \ub9e4\uc77c \ub9e4\uc77c \uc0c8\ub85c\uc6b4 \uc2dc\uc7a5\uc744 \ubc30\uc6b0\uba70, \ubc00\ub3c4 \ub192\uc740 \uacbd\ud5d8\uc73c\ub85c \ub9ce\uc740 \uc2dc\uac04\uc744 \ucc44\uc6b0\uace0 \uc788\uc2b5\ub2c8\ub2e4. \uadf8\ub9ac\uace0 \uc774\ubc88\uc5d0 KMAC\uac00 \uc8fc\ucd5c\ud55c AXIS(Asia eXperience & Innovation Summit)\uc5d0\uc11c CX\uc5d0 \ub300\ud558\uc5ec \ubc1c\ud45c\ud560 \uae30\ud68c\uac00 \uc788\uc5c8\ub294\ub370\uc694. \uc8fc\uc81c\ub294 \"CX\ub294 \ube44\uc6a9\uc778\uac00, \ud22c\uc790\uc778\uac00, Profitability\ub97c \ub9cc\ub4dc\ub294 \uace0\uac1d\uacbd\ud5d8 \uc804\ub7b5\"\uc774\uc5c8\uc2b5\ub2c8\ub2e4. \ubc1c\ud45c\uc5d0\uc11c \uc804\ud558\uace0 \uc2f6\uc5c8\ub358 \uc138 \uac00\uc9c0\ub294 \uc774\ub807\uc2b5\ub2c8\ub2e4. 1. Asset - CX\ub294 P&L \uc758 \ube44\uc6a9 \ub77c\uc778\uc774 \uc544\ub2c8\ub77c B/S \uc758 \ubb34\ud615 \uc790\uc0b0\uc774\uba70 \uac00\uce58 \uc790\uc0b0\uc774\ub2e4. 2. Proof - CX\uac00 \uc911\uc694\ud558\ub2e4\ub294 \ud569\uc758\ub97c \ub118\uc5b4 \uc5bc\ub9c8\ub97c \ub9cc\ub4e4\uc5b4\ub0b8\ub2e4\ub294 \uc99d\uba85\uc744 \uc22b\uc790\ub85c \ud574\uc57c\ud55c\ub2e4. 3. Ai-Human - AI \uc2dc\ub300\uc77c\uc218\ub85d \ud734\uba3c \uc5d0\uc774\uc804\ud2b8\ub294 \ub354 \uac12\ube44\uc2fc \ud22c\uc790\uac00 \ub41c\ub2e4. CX\uc758 Profitability \ub97c \ud45c\ud604\ud558\ub294\uac74 \uc5b4\ub824\uc6b4 \uc77c\uc774\uc9c0\ub9cc, CX\ub97c \uac00\uce58\uc788\ub294 \uc790\uc0b0\uc73c\ub85c \ub9cc\ub4e4\uae30 \uc704\ud55c \uace0\ubbfc\ub4e4\uc744 \uc774\uc57c\uae30 \ub4dc\ub9b4 \uc218 \uc788\ub294 \uc790\ub9ac\uc600\uc2b5\ub2c8\ub2e4. \uc88b\uc740 \uae30\ud68c\uc758 \ubc1c\ud45c\uc600\uace0, \uc55e\uc73c\ub85c\ub3c4 CX\uc5d0 \ub300\ud55c \uc774\uc57c\uae30\ub4e4\ub3c4 \uc870\uae08\uc529 \ub098\ub220\ubcf4\uaca0\uc2b5\ub2c8\ub2e4. \uace0\ubbfc\ub418\ub294 \ubd84\ub4e4\uc774 \uc788\ub2e4\uba74 \uc5b8\uc81c\ub4e0 \uc5f0\ub77d \uc8fc\uc138\uc694 :) #CX #\uace0\uac1d\uacbd\ud5d8 #AXIS2026 #KMAC #CXProfitability",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQHD3M2ElSCAjQ/feedshare-image-high-res/B56Z95H.u3HYAY-/0/1784443564544?e=2147483647&v=beta&t=qAmoq4XqNA8y0itBqKhN9pHwTSwm5IvTn_zsFqdMCuI",
+        "id": "7484498784907841536"
+      },
+      {
+        "interaction": "Chanjoong Kim liked this",
+        "link": "https://www.linkedin.com/posts/tejas-bharadwaj_yesterday-i-told-my-co-founder-we-have-return-activity-7482083088047468544-ogzP",
+        "title": "Yesterday I told my co-founder we have return flights to LA without a single meeting booked yet. He called me crazy. Here's why I'm not. Vihaan Shringi and I built Presonance : a model that predicts how viewers will behave with your content before you even post it. We benchmarked against trillion-dollar companies whose bread and butter this is, and blew them out of the water. But here's the thing: the best marketers have been making this exact prediction on instinct for decades. They'd know better than anyone what works and where we can be useful. Those are the conversations worth flying for. So from Thursday July 16 to Monday July 20, we're in Los Angeles, spending all five days with CMOs, marketing and advertising leads at brands, agency owners, and people building in the creative space. Show us where this breaks. If you're right, we'll have learned more in one meeting than a month of evals. And if we're right, you'll have seen it first. If that's you, comment or DM me and I'll send times. If it's someone you know, tag them. He's probably right to call me crazy. Come anyway.",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQFDaQS75MKKOA/feedshare-shrink_1280/B56Z9Wy67rGQAM-/0/1783867617342?e=2147483647&v=beta&t=QTYaQasoPNoQBKJKLhMHhp8E_YcDIkFkli9qDEGGkpQ",
+        "id": "7482083088047468544"
+      },
+      {
+        "interaction": "Chanjoong Kim liked this",
+        "link": "https://kr.linkedin.com/posts/loganyoon_justlogancareer-%EC%9D%B8%ED%84%B0%EB%B7%B0%EC%97%90%EC%84%9C%EB%8A%94%EC%A0%88%EB%8C%802%EB%93%B1%ED%95%98%EC%A7%80%EB%A7%88%EB%9D%BC-activity-7481294865692020736-81B8",
+        "title": "\uc808\ub300 \uc778\ud130\ubdf0\ub97c \uac70\uc808\ud558\uc9c0 \ub9c8\ub77c. \uc808\ub300 \uc778\ud130\ubdf0\ub97c \uac70\uc808\ud558\uc9c0 \ub9c8\ub77c. \uc808\ub300 \uc778\ud130\ubdf0\ub97c \uac70\uc808\ud558\uc9c0 \ub9c8\ub77c. \uc808\ub300 \uc778\ud130\ubdf0\ub97c \uac70\uc808\ud558\uc9c0 \ub9c8\ub77c. \uc808\ub300 \uc778\ud130\ubdf0\ub97c \uac70\uc808\ud558\uc9c0 \ub9c8\ub77c. \uc6d0\ud558\ub294 \ud68c\uc0ac\uac00 \uc544\ub2c8\ub77c\ub3c4. \uc5b4\ucc28\ud53c \uc548 \uac08 \uac83 \uac19\uc544\ub3c4. \uc5f0\ubd09\uc774 \ub0ae\uc744 \uac83 \uac19\uc544\ub3c4. \uac70\uc808\ud558\uc9c0 \ub9c8\ub77c. \uc778\ud130\ubdf0\ub294 \ucd5c\uace0\uc758 \ucee4\ubba4\ub2c8\ucf00\uc774\uc158 \uc5f0\uc2b5\uc774\ub2e4. \uac19\uc740 60\ubd84\uc774\ub77c\ub3c4, \ucee4\ud53c\ucc57\uacfc \uc778\ud130\ubdf0\ub294 \uc9d1\uc911\ub3c4\uc758 \ucc28\uc6d0\uc774 \ub2e4\ub974\ub2e4. \ub0b4\uac00 \uac00\uc9c4 \ubaa8\ub4e0 \ucee4\ubba4\ub2c8\ucf00\uc774\uc158 \uc5ed\ub7c9\uc744 \uc3df\uac8c \ub41c\ub2e4. \uc774 \uacbd\ud5d8\uc774 \uc313\uc77c\uc218\ub85d \ub2f9\uc2e0\uc758 \ub300\ud654\uc5d0 \uad6c\uc870\uac00 \uc0dd\uae34\ub2e4. \uadf8\ub9ac\uace0 \ub2f9\uc2e0\uc774 \uc6d0\ud558\ub294 \uadf8 \ucd5c\uace0\uc758 \uae30\ud68c\ub294 \uc5b8\uc81c \uc62c\uc9c0 \ubaa8\ub978\ub2e4. \uadf8 \uae30\ud68c\uac00 \uc654\uc744 \ub54c, \uc778\ud130\ubdf0\ub97c \ubabb \ud574\uc11c \ub193\uce58\ub294 \uc77c\uc740 \uc5c6\uc5b4\uc57c \ud558\uc9c0 \uc54a\uaca0\ub294\uac00. \uc774 \uc88b\uc740 \uc5f0\uc2b5\uc744 \uc65c \ub9c8\ub2e4\ud558\ub294\uac00. \ud569\uaca9\ud560\uae4c \ubbf8\ub9ac \uace0\ubbfc\ud558\uc9c0 \ub9c8\ub77c. \uace0\ubbfc\uc740 \uc624\ud37c\ub97c \ubc1b\uc740 \ud6c4\uc5d0 \ud558\uba74 \ub41c\ub2e4. \uc77c\ub2e8 \uac00\uc11c \ub9cc\ub098\ub77c. \uc2e0\ub098\uac8c \ub300\ud654\ud558\ub77c. \uc798 \ubcf4\uc774\ub824 \ud558\uc9c0 \ub9d0\uace0. \uadf8 \ub300\ud654\uc5d0\ub9cc \uc9d1\uc911\ud574 \ubcf4\ub77c. \ubbf8\ub828\uc774 \uc5c6\uc73c\uba74 \uc544\uc26c\uc6b8 \uac83\ub3c4 \uc5c6\ub2e4. \uc783\uc744 \uac8c \uc5c6\ub294 \ub2f9\uc2e0. \uc0c1\ub300\uc5d0\uac8c \uc9d1\uc911\ud574\ubcf4\ub77c. \uadf8\uc758 \ubb38\uc81c\ub97c \ud574\uacb0\ud574\ubcf4\ub77c. \ubb34\uc2a8 \uc77c\uc774 \uc77c\uc5b4\ub0a0\uc9c0 \ubaa8\ub978\ub2e4. #justlogancareer #\uc778\ud130\ubdf0\uc5d0\uc11c\ub294\uc808\ub3002\ub4f1\ud558\uc9c0\ub9c8\ub77c p.s. \ub098\ub294 \"\uc5b4\ucc28\ud53c \uc548 \uac08 \ud68c\uc0ac\"\uc640\uc758 \uc778\ud130\ubdf0\uc5d0\uc11c \ucee4\ub9ac\uc5b4\ub97c \uc644\uc804\ud788 \ubc14\uafb8\ub294 \uc804\ub840 \uc5c6\ub294 \uae30\ud68c\ub97c \ub9cc\ub09c \uc801\uc774 \uc788\ub2e4. \ub69c\uaed1\uc740 \uc5f4\uc5b4 \ubd10\uc57c \ubb50\uac00 \uc788\ub294\uc9c0 \uc548\ub2e4.",
+        "img": null,
+        "id": "7481294865692020736"
+      },
+      {
+        "interaction": "Chanjoong Kim liked this",
+        "link": "https://www.linkedin.com/posts/chorouk-malmoum_breaking-anthropic-just-dropped-3-new-activity-7481273150391910400-L3iR",
+        "title": "\ud83d\udea8 Breaking: Anthropic just dropped 3 new Claude certifications. Here's the one you need Anthropic already had the Claude Certified Architect exam Now they're launching 3 more, all going live July 13th. Here's the full lineup \ud83d\udc47 1\ufe0f\u20e3 Claude Certified Associate (Foundations) - For consultants, sellers, and delivery leads. - No coding required. - It tests whether you can guide a client toward the right Claude use case. 2\ufe0f\u20e3 Claude Certified Developer (Foundations) - For engineers building with the Claude API, Claude Code, and MCP. - This is your first real proof you can ship with Claude, not just talk about it. 3\ufe0f\u20e3 Claude Certified Architect (Foundations \u2192 Professional) - The most technical track - Covers agentic architecture, orchestration, and production-grade system design - Professional is the tier beyond Foundations, for people designing full end-to-end solutions This is the AWS certification playbook, applied to Claude. Early movers usually win the credibility race. If you build with Claude for a living, this is worth 15 minutes of your attention. \ud83d\udccc Which one would you go for: Associate, Developer, or Architect? \ud83d\udce9 Join 30K builders and execs who never miss an AI agent update : \u2192 Weekly AI agent briefings \u2192 Free templates & exclusive giveaways \ud83d\udc49 https://lnkd.in/dvvUD3hA",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQEFFWhbEKKmkg/feedshare-image-high-res/B4EZ9LSSY.HoAU-/0/1783674513174?e=2147483647&v=beta&t=svvlANwk_Qy7Zh9l4Z6uhka508FzHs1BHFFrU06gksY",
+        "id": "3"
+      },
+      {
+        "interaction": "Chanjoong Kim liked this",
+        "link": "https://www.linkedin.com/posts/progressivethinker_nobody-tells-you-this-but-your-readme-is-activity-7481074651243372544-6tUx",
+        "title": "Nobody tells you this, but your README is doing more marketing for your repo than your actual code.",
+        "img": "https://media.licdn.com/dms/image/v2/D4D22AQHMsEDQe3xCUQ/feedshare-shrink_800/B4DZ9IdwKnHEAg-/0/1783627187405?e=2147483647&v=beta&t=laQ4GppHR1xc7J--IfolzaQc6Fxd6_exYx4_ByCe7YI",
+        "id": "7481074651243372544"
+      }
+    ],
+    "linkedin_num_id": "1451338692",
+    "banner_image": "https://static.licdn.com/aero-v1/sc/h/5q92mjc5c51bjlwaj3rs9aa82",
+    "honors_and_awards": [
+      {
+        "title": "2nd Place, IBM Bob Hackathon",
+        "publication": "lablab.ai",
+        "date": "2026-05-01T00:00:00.000Z",
+        "description": "2nd place out of 503 submitted projects (1,672 teams registered, 5,628 participants), $3,000 prize. Built Atlas, a tool that turns any GitHub repo into an interactive city map."
+      }
+    ],
+    "similar_profiles": [],
+    "default_avatar": false,
+    "memorialized_account": false,
+    "bio_links": [],
+    "first_name": "Chanjoong",
+    "last_name": "Kim",
+    "influencer": false,
+    "timestamp": "2026-08-12T18:58:44.173Z",
+    "input": {
+      "url": "https://www.linkedin.com/in/chanjoong"
+    }
+  },
+  "local_photo": "data\\linkedin_photos\\chanjoong__usr-UiG361EkfbYfErk.jpg"
+}

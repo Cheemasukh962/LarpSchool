@@ -1,0 +1,300 @@
+{
+  "luma_user_id": "usr-rJMAYdoKSUsso1o",
+  "csv_name": "Yuvaansh Kapila",
+  "csv_linkedin": "https://www.linkedin.com/in/yuvaansh-kapila-3b4bab364",
+  "enriched_at": "2026-08-12T19:25:08.255865+00:00",
+  "batch_id": "sd_msqh7u7r1xzwli6vdk",
+  "profile": {
+    "id": "yuvaansh-kapila-3b4bab364",
+    "name": "Yuvaansh Kapila",
+    "city": "Oakville, Ontario, Canada",
+    "country_code": "CA",
+    "position": null,
+    "about": null,
+    "current_company": {
+      "link": "https://ca.linkedin.com/school/university-of-toronto/?trk=public_profile_topcard-current-company",
+      "name": "University of Toronto",
+      "location": null
+    },
+    "experience": null,
+    "url": "https://se.linkedin.com/in/yuvaansh-kapila-3b4bab364",
+    "educations_details": "Thomas A. Blakelock High School",
+    "education": [
+      {
+        "title": "Thomas A. Blakelock High School",
+        "start_year": "2023-09",
+        "end_year": "2027-06",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      },
+      {
+        "start_year": "2021-09",
+        "end_year": "2023-06",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      }
+    ],
+    "avatar": "https://media.licdn.com/dms/image/v2/D5603AQExZCQzBQKq_w/profile-displayphoto-scale_200_200/B56Z_gIW3wG0Ac-/0/1786171717711?e=2147483647&v=beta&t=nl2QDHx_Bf_3h9P1oo5Id7321zptxpu3n0oAupvydec",
+    "languages": [
+      {
+        "subtitle": "Native or bilingual proficiency",
+        "title": "English"
+      },
+      {
+        "subtitle": "Native or bilingual proficiency",
+        "title": "Hindi"
+      }
+    ],
+    "certifications": [
+      {
+        "meta": "Issued Jul 2024 See credential",
+        "subtitle": "Penn State University",
+        "title": "Fundamentals of Finance",
+        "credential_url": "https://coursera.org/share/312ae5e97e5f4203ed120e667aea10a5?trk=public_profile_see-credential",
+        "credential_id": null
+      },
+      {
+        "meta": "Issued Jul 2024 See credential",
+        "subtitle": "Google Certified Data Science Course",
+        "title": "Google Certifications",
+        "credential_url": "https://coursera.org/share/adda66a5f99c1f86ddacfbda207fe8cf?trk=public_profile_see-credential",
+        "credential_id": null
+      },
+      {
+        "meta": "Issued Aug 2023 See credential",
+        "subtitle": "Harvard University",
+        "title": "Harvard CS50x",
+        "credential_url": "https://certificates.cs50.io/d510765f-cf15-4f05-a10e-6b12f33162a7.pdf?size=letter&trk=public_profile_see-credential",
+        "credential_id": null
+      },
+      {
+        "meta": "Issued Jul 2025 Expires Jul 2027 See credential",
+        "subtitle": "Oracle",
+        "title": "Oracle Generative AI Professional",
+        "credential_url": "https://catalog-education.oracle.com/ords/certview/sharebadge?id=6EF7F114F727FE18F7AB6FB23D21B669D0676737BF617828C9803DC44AF46C7E&trk=public_profile_see-credential",
+        "credential_id": null
+      },
+      {
+        "meta": "Issued Jul 2024 Expires Mar 2027 Credential ID 036733927a5748049c3536517dce6aee See credential",
+        "subtitle": "Amazon Web Services (AWS)",
+        "title": "AWS Cloud Practitioner",
+        "credential_url": "https://cp.certmetrics.com/amazon/en/public/verify/credential/036733927a5748049c3536517dce6aee?trk=public_profile_see-credential",
+        "credential_id": "036733927a5748049c3536517dce6aee"
+      }
+    ],
+    "volunteer_experience": [
+      {
+        "cause": "Health",
+        "duration": "Feb 2025 \u00b7 - \nApr 2025 \u00b7 \n3 months",
+        "duration_short": "- \nApr 2025",
+        "info": "Raised $6,000 for cancer research through advocation and marketing",
+        "start_date": "Feb 2025",
+        "subtitle": "Relay For Life",
+        "title": "Fundraising Volunteer"
+      },
+      {
+        "cause": "Arts and Culture",
+        "duration": "Jan 2025 \u00b7 - \nJun 2025 \u00b7 \n6 months",
+        "duration_short": "- \nJun 2025",
+        "info": "I give my input on a variety of HDSB media posters to advocate for awareness in a variety of different issues.",
+        "start_date": "Jan 2025",
+        "subtitle": "Halton District School Board",
+        "title": "Student Communication Advisor"
+      },
+      {
+        "cause": "Education",
+        "duration": "Jul 2023 \u00b7 - \nAug 2023 \u00b7 \n2 months",
+        "duration_short": "- \nAug 2023",
+        "info": "Educated young learners in foundational coding, robotics, and digital content creation at Code Ninjas. Led immersive, project-based lessons that integrated programming logic with hands-on technology, fostering curiosity, creativity, and problem-solving. Helped students build interactive games, automate basic tasks, and produce original YouTube content to strengthen digital fluency and storytelling.",
+        "start_date": "Jul 2023",
+        "subtitle": "Code Ninjas",
+        "title": "Coding Instructor"
+      }
+    ],
+    "followers": 1924,
+    "connections": 500,
+    "current_company_name": "University of Toronto",
+    "publications": [
+      {
+        "title": "The Influence of Financial News Sentiment on Investor Behavior and Market Dynamics: A Machine Learning Approach to Sentiment Classification",
+        "subtitle": "Zenodo",
+        "date": "April 2, 2026",
+        "description": "Financial news sentiment influences investor decisions, but most research focuses on market-level outcomes rather than how individual investors with different personalities interpret the same news. We combined a Random Forest sentiment classifier (80.2% accuracy on FinancialPhraseBank) with a multi-agent simulation using FinBERT on 2,263 expert-labeled headlines, producing 226,300 decisions across 100 agents with randomized perception, portfolio memory, and herding dynamics. The clearest result was about neutral headlines: agents agreed on only 89.4% of neutral headlines compared to 98-99% for positive and negative, which mirrors the classifier's 26% neutral error rate. Herding cascades appeared in 32.8% (buy) and 16.0% (sell) of headlines, but ablation tests showed cascades barely changed when the herding mechanism was turned off, meaning agents were independently reaching the same conclusion rather than copying each other. A small shift toward caution appeared but was too small to be meaningful. Overall, neutral sentiment appears to be where both classification and investor agreement break down."
+      },
+      {
+        "title": "Deathly Housing Crisis In Canada",
+        "subtitle": "Imam. F, Singh. A, Abdelbagi. A, Kapila. Y",
+        "date": "April 6, 2025",
+        "description": "Informative poster sumbitted for the ISLP poster competition on the Canadian housing crisis"
+      },
+      {
+        "title": "Ai on Media Production",
+        "subtitle": "Yuvaansh Kapila",
+        "date": "March 26, 2025",
+        "description": "2min ReadMy thoughts about how AI will affect media production in the upcoming years"
+      }
+    ],
+    "projects": [
+      {
+        "title": "Github",
+        "description": "https://github.com/YuvaanshKapila"
+      }
+    ],
+    "location": "Oakville",
+    "input_url": "https://www.linkedin.com/in/yuvaansh-kapila-3b4bab364",
+    "linkedin_id": "yuvaansh-kapila-3b4bab364",
+    "activity": [
+      {
+        "interaction": "Yuvaansh Kapila shared this",
+        "link": "https://www.linkedin.com/posts/yuvaansh-kapila-3b4bab364_day-2-in-sf-i-pushed-a-few-prs-for-a-project-activity-7493207020653694976-l2bZ",
+        "title": "Day 2 in SF I pushed a few PRs for a project. Had a coffee chat and got taken to see the Odyssey, which was a pretty cool way to end the day. Excited to keep learning and see what the rest of the month brings.",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQF10wCQOKtnCg/feedshare-shrink_1280/B56Z_04E6bKUAM-/0/1786519769023?e=2147483647&v=beta&t=SIY-EGShAf_04CdgLNH2KXvH_Hcv9i4z2M6isMkJYRc",
+        "id": "2"
+      },
+      {
+        "interaction": "Yuvaansh Kapila shared this",
+        "link": "https://www.linkedin.com/posts/yuvaansh-kapila-3b4bab364_sf-yc-sanfrancisco-activity-7492802335014834176-O_Ce",
+        "title": "Day 1 in SF Got into Hack the North and YC Internship Expo, great because I missed YC start-up school, if anyone else is going hmu! 1/25 #sf #yc #sanfrancisco #internship #tech #techspace #bayarea #hackathon #coding",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQGLXG_XOSQ2wg/feedshare-shrink_800/B56Z_vIBFCG0Ac-/0/1786423284593?e=2147483647&v=beta&t=xR1KgguusJS4qAhJtfJo00eTQ4yWze1tviNBDzpdmf4",
+        "id": "7492802335014834176"
+      },
+      {
+        "interaction": "Yuvaansh Kapila shared this",
+        "link": "https://www.linkedin.com/posts/yuvaansh-kapila-3b4bab364_day-0-in-sf-landed-today-in-san-francisco-activity-7492469389909237760-_ESV",
+        "title": "Day 0 in SF Landed today in San Francisco, after a 8 hour delay finally made it!(my luggage is lost \ud83d\ude22) After I landed, and sorting out my baggage situation. I went to reunite with Michael Mazilu and Abdelrahman Eletr , rode in a Waymo, signed up for some hackathons and booked some coffee chats, and checked out Corgi Cafe! Only had 4 hours but had a blast! Much more to come.",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQES48f3uXYghg/feedshare-image-high-res/B56Z_qY.LHG4AU-/0/1786343842848?e=2147483647&v=beta&t=ITtxioxbTW7PXqELCB6wnqS4B6jjvLntjRsDlStQ7lo",
+        "id": "0"
+      },
+      {
+        "interaction": "Yuvaansh Kapila shared this",
+        "link": "https://www.linkedin.com/posts/yuvaansh-kapila-3b4bab364_sanfransico-tech-sf-activity-7492213896481562624-hj4i",
+        "title": "Haven\u2019t posted in a while, I\u2019m flying out to San Francisco for the next month at 16. Really looking forward to meeting a bunch of cool people, learning from the tech/startup community, and seeing what\u2019s happening in the Bay Area. If you\u2019re a founder, builder, or just someone working in tech and want to chat, feel free to reach out. Would love to meet some of you while I\u2019m there! #sanfransico #tech #sf #bayarea #company #yc",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQGWDBJwEcBpzA/feedshare-shrink_1280/B56Z_mw1l4KoAM-/0/1786282990214?e=2147483647&v=beta&t=5EwnWyxR6NQr-ToM8n0uqjb7b6zX9B7yYJ9G9SHJ4Ws",
+        "id": "7492213896481562624"
+      },
+      {
+        "interaction": "Yuvaansh Kapila shared this",
+        "link": "https://www.linkedin.com/posts/yuvaansh-kapila-3b4bab364_gameboy-nintendo-portfolio-activity-7458329177650458624-hF-w",
+        "title": "Just dropped... My new portfolio website! I wanted something different from the traditional portfolio website, so I decided to build a new one in Three.js. Growing up, the first games I ever played were on my dad's old Game Boy Color, and they honestly shaped who I am today. Would love to hear any feedback! Portfolio: https://yuvaanshkapila.xyz GitHub: https://lnkd.in/e6py7Bs8 #gameboy #nintendo #portfolio #website #web #webdev #dev #threejs",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQFjo6W_pJ2ikA/feedshare-shrink_800/B4EZ4FO3WMJMAc-/0/1778204243859?e=2147483647&v=beta&t=262vLclDUHbdSg4ala0BemVNs7NX0q4WMr6IKX6liro",
+        "id": "7458329177650458624"
+      },
+      {
+        "interaction": "Yuvaansh Kapila shared this",
+        "link": "https://www.linkedin.com/posts/yuvaansh-kapila-3b4bab364_eureka-after-not-submitting-a-project-last-activity-7457539551087976448-UBnD",
+        "title": "Eureka! After not submitting a project last year, I decided to run it back. This time with an actual team, Michael Mazilu , Rupert Kahng , and Julian Darou-Santos . We built an agentic execution layer that cuts token waste by semantically embedding ALL company data, so agents retrieve only what they need instead of scanning entire repos. Watches your Jira board, pulls context from GitHub, executes the work, opens PRs, and posts everything back automatically. With requiring human approval for dangerous actions, full observability and native integrations with Slack, GitHub, and Jira out of the box. Check the project out here!: https://lnkd.in/e5tXiKxa Unfortunately, in the end, we didn't get the dub. GG try next, daylight robbery. Onto the next! Thanks to my team and everyone else who came out( Adam Issa , Jacob John , Abdelrahman Eletr , Ibrahim Asif Qayyum , Divye Rawat , John Mannully , Jacob Blais , David Chen , Jerry Huang , also Nathan Yan who was here in spirit) that made this event even more fun.",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQHZAfQR3VB64Q/feedshare-image-high-res/B4EZ36AstQKEAc-/0/1778015980711?e=2147483647&v=beta&t=ai5m9pQhdO6ZeazCzQIsU-azrVIkT7IPyI6I3qQ1bzI",
+        "id": "7457539551087976448"
+      },
+      {
+        "interaction": "Yuvaansh Kapila shared this",
+        "link": "https://www.linkedin.com/posts/yuvaansh-kapila-3b4bab364_hackathon-coding-casecompetition-activity-7441579620589703168-3QP3",
+        "title": "FinNova Hacks What started as a vision to host a big hackathon turned out to be something smaller, but that doesn\u2019t take away from how great the event was. Back in August, Jaitra Bhatt and I had the idea to run our own hackathon. We wanted to do something different, with live updates, constant changes, and more. We built a team and got to work. Over time, the team became less responsive, and it eventually came down to just the two of us again. But we didn\u2019t let that stop us. We kept going. We got sponsors, found a venue, arranged food, and handled everything ourselves. And yesterday, it all came together. We weren\u2019t able to run the full 48-hour, two-day hackathon we originally planned, but we still made it work. We turned it into a fast-paced case competition and hackathon-style event. FinNova Hacks happened, and that\u2019s what matters. Grateful to everyone who supported us and showed up. This is just the first. Special thanks to Mohit Bhabak , Aadit Gupta , and Poneesh Kumar for hosting their workshops and judging! And @Manoj Kumar for being a guest speaker! Congrats to the winners, saanvi kumar and Pal Patel #hackathon #coding #casecompetition #team #technology #finance #fintech #FinNovaHacks",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQG3z0vez7EiNg/feedshare-shrink_1280/B4EZ0XNOp3HYAQ-/0/1774210837365?e=2147483647&v=beta&t=WmGIFf7DDQ0XkU_gu4Vv7EjLJR4zJfKp5lHur_5kL74",
+        "id": "7441579620589703168"
+      },
+      {
+        "interaction": "Yuvaansh Kapila shared this",
+        "link": "https://www.linkedin.com/posts/yuvaansh-kapila-3b4bab364_hack-canada-what-a-weekend-i-usually-participate-activity-7437125054221520896-5TpA",
+        "title": "Hack Canada, what a weekend I usually participate in hackathons quite a bit, but this time I wanted to see what the other side looked like, organizing one. Last summer, I reached out to James Cao and the team to get involved. Shortly after, I interviewed and was accepted onto the team. Fast-forwarding to now, and here I am after the event, still in one piece. It was really cool seeing everything come together after months of planning and watching everyone build, learn, and work on their projects throughout the weekend. Without further ado, here is a quick summary of the weekend: Day 1: Lowkey arrived an hour after the opening ceremony and walked in to be met with a crowd of people swarming the front desk. I go off to the side, get questioned if I'm even an organizer, but eventually everything settled down, and I got in. After checking out everything, I head towards the opening ceremony room to see what's going on, then got aired TWICE by James Cao and Yang Xue (but all good, they were supa locked in). After opening, I finally got my handshake with them. Met Jason Cameron in the flesh, what a guy. Met a lot of awesome hackers throughout the night. Huge shoutout to: David Chen , John Mannully , Adam Issa , Jacob John , Ibrahim Asif Qayyum , Nathan Yan , Abdelrahman Eletr , Aryan, and Sohum(idt I got ur linkedins mb.) Day 2: I realized I wasn't going to get any sleep, so I stacked chairs for an hour and a half at 4:00 am. Then picked up trash for another hour. Taking my 20-minute power nap, I went back down to help set up the sponsor bay, where I met Jay Stapleton and Mike O'Driscoll from Tailscale. It was amazing learning more about what Tailscale does! Then I experienced the CS major's future of flipping burgers during the lunch rush. Day 3: Couldn't get any sleep again, but it was the final stretch. Judging started, and a few issues arose( Faiz Mustansar \ud83d\udc40 ), but all was well in the end, and judging commenced. Met Ethan Breit , Kaivalya Gandhi , and Lucas Crupi , really cool people(your samosas came at last). Then judging ended and the results were announced, 6 finalists and a lot of controversy. Apparently, a project that goes by RizzRank slipped through, which caused outrage. As an org, I felt like Captain America in that one image where he's hiding in that one comic, if anyone knows what I'm talking about. Thankfully, everything cooled off, and the closing ceremony came around. Congrats to all the winners, and thank you to all my fellow organizers who came together to make this event possible. Overall, organizing gave me a completely new appreciation for the amount of work that goes into events like this. It was also really interesting seeing all the different projects and hacker archetypes from the organizer\u2019s perspective. Already excited for the next one.",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQHrXV-F8mf31A/feedshare-image-high-res/B4EZzX5yltJwAU-/0/1773148777275?e=2147483647&v=beta&t=TS_p6PUkMtfFptFgisr_tTm8ZtE4IKSz3KrmZxIG2k8",
+        "id": "7437125054221520896"
+      },
+      {
+        "interaction": "Yuvaansh Kapila shared this",
+        "link": "https://www.linkedin.com/posts/yuvaansh-kapila-3b4bab364_finnova-hacks-sign-up-activity-7434835091752644608-nT8p",
+        "title": "Hey, I\u2019m running an event called Finova Hacks on March 21st from 11:00 AM to 5:00 PM at Central Public School Brampton. This is a low key, case competition and hackathon style event. You will be given a real world business or finance case, and in teams of up to 4, you will spend the day building out a solution and pitching it. It is designed to be hands on, collaborative, and engaging. If you are someone who enjoys problem solving, business strategy, finance, or building ideas under time pressure, this is for you. Event details: - March 21 - 11:00 AM to 5:00 PM - Food will be provided - Cash prize for the 1st place team - Additional sponsored prizes available If you would like to participate, please fill out the form below: https://lnkd.in/eV8wgbhw You can also reach me directly at kapilayuvaansh@gmail.com to apply or if you have any questions. I\u2019m really looking forward to it!",
+        "img": "https://media.licdn.com/dms/image/sync/v2/D4E27AQEPfDclMmT71A/articleshare-shrink_800/B4EZy3XCDtH0AI-/0/1773816316910?e=2147483647&v=beta&t=CdZs20fDbpGf3DAwg8ArZQ3qSk3GxT0YnqnNKxCUBbA",
+        "id": "7434835091752644608"
+      },
+      {
+        "interaction": "Yuvaansh Kapila liked this",
+        "link": "https://www.linkedin.com/posts/a-reminder-that-if-you-are-a-researcher-and-activity-7492986198437744640-QmnZ",
+        "title": "A reminder that if you are a researcher and you tell me that you want to join this company because you don\u2019t have compute to achieve your dreams, two things: - its probably true. being GPU poor is a very real thing. BUT - If I look at your GitHub or portfolio and there is no evidence of even trying to fine tune your own model or even any sort of attempt at self actualization then it comes off as you just want our compute and resources to run your own experiments and have zero desire to actually join our company to help us achieve our goals. We are not that kind of lab. I will reject or ghost you immediately We are not a stepping stone to get into a big lab, and we are definitely not in the business of just handing out compute to people just because they want to do their own thing. We are many researchers final destination, and we refuse to hire researchers from top labs every day. Try getting into a big lab first, there are a lot of people like you there. There are ways to learn and build meaningful things without needing compute of our scale. Use Claude or chat to tell you what those things are. Try it first THEN talk to me Last gentle reminder is you should assume that if you apply and don\u2019t feel at least somewhat passionate about anime, and even just a little bit helps, just assume it\u2019s not going to work out. I don\u2019t know what people expect from me if I ask if you like anime and they shrug and say \u201cnot really\u201d. Please don\u2019t waste my time",
+        "img": null,
+        "id": "7492986198437744640"
+      },
+      {
+        "interaction": "Yuvaansh Kapila liked this",
+        "link": "https://www.linkedin.com/posts/yuvaansh-kapila-3b4bab364_sanfransico-tech-sf-activity-7492213896481562624-hj4i",
+        "title": "Haven\u2019t posted in a while, I\u2019m flying out to San Francisco for the next month at 16. Really looking forward to meeting a bunch of cool people, learning from the tech/startup community, and seeing what\u2019s happening in the Bay Area. If you\u2019re a founder, builder, or just someone working in tech and want to chat, feel free to reach out. Would love to meet some of you while I\u2019m there! #sanfransico #tech #sf #bayarea #company #yc",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQGWDBJwEcBpzA/feedshare-shrink_1280/B56Z_mw1l4KoAM-/0/1786282990214?e=2147483647&v=beta&t=5EwnWyxR6NQr-ToM8n0uqjb7b6zX9B7yYJ9G9SHJ4Ws",
+        "id": "7492213896481562624"
+      },
+      {
+        "interaction": "Yuvaansh Kapila liked this",
+        "link": "https://www.linkedin.com/posts/abdelrahman-eletr-b7174138b_5-months-ago-i-went-to-my-first-hackathon-activity-7491217276931584000-4wN3",
+        "title": "5 months ago, I went to my first hackathon Now I'm In San Francisco working at Easydata as an Account Executive The day after I lost that hackathon, I made a promise to myself: I'd spend this summer in SF, building, learning, and surrounding myself with people who push me At the time, I had no experience, no network, and honestly no clue how I was going to make it happen All I knew is I had to be here and I wouldn't stop until I was Thanks Remy Aleagha for investing in me If you're in SF hit me up",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQGay37oL54Vfg/feedshare-shrink_800/B56Z_YmamyJkAk-/0/1786045377619?e=2147483647&v=beta&t=RlAlncpjfbpTI46KZoQONeYdiyGbQa3vkxOsctZEmNw",
+        "id": "7491217276931584000"
+      },
+      {
+        "interaction": "Yuvaansh Kapila liked this",
+        "link": "https://www.linkedin.com/posts/guneet-singh-920763418_nsri-research-engineering-activity-7489770801315930113-Ybqb",
+        "title": "Proud to share that our team placed in the Top 12 internationally out of 300+ teams in the NSRI Summer Research Hackathon 2026, a 6-day international research competition. This was my first-ever research competition, and I couldn\u2019t have asked for a better team to experience it with: Agam Narain and Aarav Akkula. Over six intense days, we developed DualSense, a conceptual dual-biomarker hydrogel wound dressing designed for the earlier detection of chronic wound infections. Our project combined pH and uric acid biosensors with an AND-logic fusion algorithm to explore a more specific and real-time approach to infection monitoring. The biggest lesson from NSRI wasn\u2019t just the final ranking; it was the process. We faced multiple setbacks, questioned our assumptions, revised our models, and had moments where our project felt far from where we wanted it to be. What made the difference was learning how to take feedback seriously, iterate quickly, and improve under pressure. Every round of critique helped us sharpen both our research and our presentation, and we came out of the competition much stronger than we entered it. For a first research competition, finishing among the top teams internationally is something I\u2019m incredibly grateful for. More importantly, it gave me a real appreciation for research, engineering, collaboration, and the value of resilience when things don\u2019t go according to plan. A huge thank you to the NSRI organizers, mentors, and judges for the opportunity and feedback throughout the competition. Excited to keep building, researching, and learning. #NSRI #Research #Engineering #Biotechnology #Innovation #Healthcare #STEM #HighSchoolResearch #Teamwork #Learning",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQF-0Ch_Ol3SRA/feedshare-shrink_1280/B56Z_EC2viKEAM-/0/1785700510930?e=2147483647&v=beta&t=oJVBITfMnFR7RdNzAnQCEjrl5_DfFLDYioFpQIJsCs8",
+        "id": "7489770801315930113"
+      }
+    ],
+    "linkedin_num_id": "1519843960",
+    "banner_image": "https://media.licdn.com/dms/image/v2/D4E16AQHhxMxMl2XPrA/profile-displaybackgroundimage-shrink_200_800/B4EZ4DJn7cJ4AU-/0/1778169315471?e=2147483647&v=beta&t=QbnNcIhtWcYRP5j1m1Huv8FNkrJbf1268fV-teB6c-A",
+    "honors_and_awards": [
+      {
+        "title": "Hack the Ridge 1st Place",
+        "publication": "HTR",
+        "date": "2025-12-01T00:00:00.000Z",
+        "description": "Won first place Hack the Ridge. built Ferdinand"
+      },
+      {
+        "title": "Deca Regional Finalist",
+        "publication": "Deca",
+        "date": "2025-10-01T00:00:00.000Z",
+        "description": "Made top 10 overall and role play"
+      },
+      {
+        "title": "The Start Tank",
+        "publication": "Upper Canada College",
+        "date": "2025-10-01T00:00:00.000Z",
+        "description": "Got a $2,000 grant to build our app"
+      },
+      {
+        "title": "Waterloo CCC",
+        "publication": "Waterloo University",
+        "date": "2025-01-01T00:00:00.000Z",
+        "description": "Recieved Certificate of Distinction (top 25%) in waterloo CCC"
+      },
+      {
+        "title": "YPI Finalist",
+        "publication": "YPI",
+        "date": "2025-01-01T00:00:00.000Z",
+        "description": "Recognized as a finalist in the Youth Philanthropy Initiative for advocating and presenting a social impact project."
+      },
+      {
+        "title": "Hack49 Winner",
+        "publication": "Hack49",
+        "date": null,
+        "description": null
+      },
+      {
+        "title": "Learn2Hack Winner",
+        "publication": "Learn2Hack",
+        "date": null,
+        "description": "Created a Weight tracking app using bmi calculations"
+      }
+    ],
+    "similar_profiles": [],
+    "default_avatar": false,
+    "memorialized_account": false,
+    "bio_links": [],
+    "first_name": "Yuvaansh",
+    "last_name": "Kapila",
+    "influencer": false,
+    "timestamp": "2026-08-12T19:22:44.885Z",
+    "input": {
+      "url": "https://www.linkedin.com/in/yuvaansh-kapila-3b4bab364"
+    }
+  },
+  "local_photo": "data\\linkedin_photos\\yuvaansh-kapila-3b4bab364__usr-rJMAYdoKSUsso1o.jpg"
+}

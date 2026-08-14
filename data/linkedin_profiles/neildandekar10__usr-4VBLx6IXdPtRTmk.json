@@ -1,0 +1,77 @@
+{
+  "luma_user_id": "usr-4VBLx6IXdPtRTmk",
+  "csv_name": "Neil Dandekar",
+  "csv_linkedin": "https://www.linkedin.com/in/neildandekar10",
+  "enriched_at": "2026-08-12T19:13:35.735674+00:00",
+  "batch_id": "sd_msqguuzo2o546dm49e",
+  "profile": {
+    "id": "neildandekar10",
+    "name": "Neil Dandekar",
+    "city": "San Diego, California, United States",
+    "country_code": "US",
+    "position": null,
+    "about": null,
+    "current_company": {
+      "link": "https://www.linkedin.com/company/databricks?trk=public_profile_topcard-current-company",
+      "name": "Databricks",
+      "company_id": "databricks",
+      "location": null
+    },
+    "experience": null,
+    "url": "https://bd.linkedin.com/in/Neildandekar10",
+    "educations_details": "UC San Diego",
+    "education": [
+      {
+        "title": "UC San Diego",
+        "url": "https://www.linkedin.com/school/ucsandiego/",
+        "start_year": "2024",
+        "end_year": "2026",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      },
+      {
+        "start_year": "2022",
+        "end_year": "2024",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      }
+    ],
+    "recommendations_count": 2,
+    "avatar": "https://static.licdn.com/aero-v1/sc/h/9c8pery4andzj6ohjkjp54ma2",
+    "recommendations": [
+      "Sam A. \u201cNeil and I were co-workers at the Sierra College Math Center. During my time working there, his passion for computer science, specifically data science and machine learning was apparent. We overtook many small projects together and even attended the 2023 Northwestern ICPC coding contest together. One large thing I'd commend him for is his organization skills. When we wrote code for the ICPC contest, his was always detailed and easy to follow. 100% would recommend him for his future endeavors.\u201d",
+      "Jason Feng \u201cNeil has time and time again proven himself to be a reliable leader and teammate. Whether it be working together to organize Sierra College's first ICPC team to compete in the February 2023 Pacific Northwest ICPC, planning the first ever Sierra Competitive Programming Exhibition, or innovating new events and opportunities for the Sierra College Coding Club such as guest speakers and project teams, Neil takes the initiative to open new opportunities for his colleagues. I'm lucky to be his peer, and I look forward to collaborating with him in the future!\u201d"
+    ],
+    "followers": 1459,
+    "connections": 500,
+    "current_company_company_id": "databricks",
+    "current_company_name": "Databricks",
+    "location": "San Diego",
+    "input_url": "https://www.linkedin.com/in/neildandekar10",
+    "linkedin_id": "neildandekar10",
+    "activity": null,
+    "linkedin_num_id": "986888858",
+    "banner_image": "https://media.licdn.com/dms/image/v2/D5616AQGfXPUSbLoOag/profile-displaybackgroundimage-shrink_200_800/B56Zwckn8ZK4AU-/0/1770005890320?e=2147483647&v=beta&t=JdyRimqrdAw_5vQ8A2YFZ2G6aDGCDqO7k3FwGjV0Sv4",
+    "honors_and_awards": [
+      {
+        "title": "2nd/71 ICPC 2024 PacNW (Div. 2)",
+        "publication": "ACM-ICPC",
+        "date": "2024-02-01T00:00:00.000Z",
+        "description": "http://www.acmicpc-pacnw.org/scoreboard/2023/index_D2.html"
+      }
+    ],
+    "similar_profiles": [],
+    "default_avatar": true,
+    "memorialized_account": false,
+    "bio_links": [],
+    "first_name": "Neil",
+    "last_name": "Dandekar",
+    "influencer": false,
+    "timestamp": "2026-08-12T19:12:37.292Z",
+    "input": {
+      "url": "https://www.linkedin.com/in/neildandekar10"
+    }
+  }
+}

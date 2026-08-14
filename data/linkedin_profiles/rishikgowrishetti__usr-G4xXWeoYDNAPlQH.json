@@ -1,0 +1,121 @@
+{
+  "luma_user_id": "usr-G4xXWeoYDNAPlQH",
+  "csv_name": "Rishik Gowrishetti",
+  "csv_linkedin": "https://www.linkedin.com/in/rishikgowrishetti",
+  "enriched_at": "2026-08-12T19:14:53.875161+00:00",
+  "batch_id": "sd_msqgwa7g10oeo6g7qx",
+  "profile": {
+    "id": "rishikgowrishetti",
+    "name": "Rishik Gowrishetti",
+    "city": "Brookfield, Connecticut, United States",
+    "country_code": "US",
+    "position": null,
+    "about": "I'm a Cornell student with aspirations in Statistics, Computer Science, Astronomy, and\u2026",
+    "current_company": {
+      "link": "https://www.linkedin.com/company/nasa-goddard-space-flight-center?trk=public_profile_topcard-current-company",
+      "name": "NASA Goddard Space Flight Center",
+      "company_id": "nasa-goddard-space-flight-center",
+      "location": null
+    },
+    "experience": null,
+    "url": "https://de.linkedin.com/in/rishikgowrishetti",
+    "educations_details": "Cornell University",
+    "education": [
+      {
+        "title": "Cornell University",
+        "url": "https://www.linkedin.com/school/cornell-university/",
+        "start_year": "2024-08",
+        "end_year": "2027-12",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      },
+      {
+        "start_year": "2020-08",
+        "end_year": "2024-06",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      },
+      {
+        "start_year": "2023-02",
+        "end_year": "2023-05",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      }
+    ],
+    "avatar": "https://media.licdn.com/dms/image/v2/D4E03AQEZ1imXgQLfmw/profile-displayphoto-scale_200_200/B4EZ.KWsZ5JkAc-/0/1784732636223?e=2147483647&v=beta&t=QUqtU685VD1_ReyX8vIGQ4jrrfgJw19y2B0pot54ruc",
+    "languages": [
+      {
+        "subtitle": "Native or bilingual proficiency",
+        "title": "English"
+      },
+      {
+        "subtitle": "Professional working proficiency",
+        "title": "Telugu"
+      },
+      {
+        "subtitle": "Elementary proficiency",
+        "title": "Russian"
+      },
+      {
+        "subtitle": "Limited working proficiency",
+        "title": "Spanish"
+      }
+    ],
+    "followers": 883,
+    "connections": 500,
+    "current_company_company_id": "nasa-goddard-space-flight-center",
+    "current_company_name": "NASA Goddard Space Flight Center",
+    "location": "Brookfield",
+    "input_url": "https://www.linkedin.com/in/rishikgowrishetti",
+    "linkedin_id": "rishikgowrishetti",
+    "activity": null,
+    "linkedin_num_id": "1246329578",
+    "banner_image": "https://media.licdn.com/dms/image/v2/D4E16AQFgiW81955dXA/profile-displaybackgroundimage-shrink_200_800/B4EZyg5C4ZKIAU-/0/1772225835342?e=2147483647&v=beta&t=5BIX04yC7WmIgE6Wi-qp7Tm2QLx3Qc8i8tu2nWXEX7E",
+    "honors_and_awards": [
+      {
+        "title": "Rochester Institute of Technology Computing Award",
+        "publication": "-",
+        "date": "2023-06-01T00:00:00.000Z",
+        "description": null
+      },
+      {
+        "title": "GE-Reagan Foundation Scholarship Program Semifinalist",
+        "publication": "-",
+        "date": null,
+        "description": null
+      },
+      {
+        "title": "Letter of Commendation",
+        "publication": "National Merit Scholarship Program",
+        "date": null,
+        "description": null
+      },
+      {
+        "title": "Salutatorian",
+        "publication": "-",
+        "date": null,
+        "description": null
+      }
+    ],
+    "similar_profiles": [],
+    "default_avatar": false,
+    "memorialized_account": false,
+    "bio_links": [
+      {
+        "title": "Portfolio",
+        "link": "https://rishireal.github.io/"
+      }
+    ],
+    "first_name": "Rishik",
+    "last_name": "Gowrishetti",
+    "influencer": false,
+    "timestamp": "2026-08-12T19:13:48.989Z",
+    "input": {
+      "url": "https://www.linkedin.com/in/rishikgowrishetti"
+    }
+  },
+  "local_photo": "data\\linkedin_photos\\rishikgowrishetti__usr-G4xXWeoYDNAPlQH.jpg"
+}

@@ -1,0 +1,286 @@
+{
+  "luma_user_id": "usr-5hIwgGFfEZ50dEi",
+  "csv_name": "Gabriele Scotto di Vettimo",
+  "csv_linkedin": "https://www.linkedin.com/in/gsdv",
+  "enriched_at": "2026-08-12T19:06:01.816187+00:00",
+  "batch_id": "sd_msqgh02428smzgu5m",
+  "profile": {
+    "id": "gsdv",
+    "name": "Gabriele Scotto di Vettimo",
+    "city": "San Francisco, California, United States",
+    "country_code": "US",
+    "position": null,
+    "about": null,
+    "current_company": {
+      "link": "https://www.linkedin.com/company/anthropicresearch?trk=public_profile_topcard-current-company",
+      "name": "Anthropic",
+      "company_id": "anthropicresearch",
+      "location": null
+    },
+    "experience": null,
+    "url": "https://ae.linkedin.com/in/Gsdv",
+    "people_also_viewed": [
+      {
+        "profile_link": "https://www.linkedin.com/in/frankvagi",
+        "name": "Frank Vagi",
+        "about": "Finalsite",
+        "location": "30K followers United States"
+      },
+      {
+        "profile_link": "https://www.linkedin.com/in/michaelhettinger",
+        "name": "Michael Hettinger",
+        "about": "Morehouse Search Partners",
+        "location": "29K followers New York, NY"
+      },
+      {
+        "profile_link": "https://www.linkedin.com/in/glenn-wilkinson-nestle",
+        "name": "Glenn Wilkinson",
+        "about": "Nestl\u00e9",
+        "location": "30K followers Greater Cleveland"
+      },
+      {
+        "profile_link": "https://www.linkedin.com/in/ryan-bass-4a030829",
+        "name": "Ryan Bass",
+        "about": "Imperial PFS",
+        "location": "30K followers Phoenix, AZ"
+      },
+      {
+        "profile_link": "https://www.linkedin.com/in/adrian-almeida-s",
+        "name": "Adrian Almeida",
+        "about": "I LOVE PRODUCE LLC",
+        "location": "30K followers Greater Boston"
+      },
+      {
+        "profile_link": "https://www.linkedin.com/in/michaelscranton",
+        "name": "Michael Scranton",
+        "about": "Coderio Software Company",
+        "location": "30K followers Miami, FL"
+      },
+      {
+        "profile_link": "https://www.linkedin.com/in/shdrake",
+        "name": "Stephanie H. Nelson, MBA, CMC",
+        "about": "Air Methods",
+        "location": "31K followers United States"
+      },
+      {
+        "profile_link": "https://www.linkedin.com/in/thomaswoodcareersearch",
+        "name": "Thomas Wood",
+        "about": "Career Search International",
+        "location": "36K followers Spokane-Coeur d'Alene Area"
+      },
+      {
+        "profile_link": "https://www.linkedin.com/in/kimberlyanngeorge",
+        "name": "Kimberly George",
+        "about": "Sedgwick",
+        "location": "32K followers Greater Chicago Area"
+      },
+      {
+        "profile_link": "https://www.linkedin.com/in/richgarboski",
+        "name": "Rich Garboski",
+        "about": "eTech.TV",
+        "location": "30K followers New York, NY"
+      }
+    ],
+    "educations_details": "University of Illinois Urbana-Champaign",
+    "education": [
+      {
+        "title": "University of Illinois Urbana-Champaign",
+        "url": "https://www.linkedin.com/school/university-of-illinois-urbana-champaign/",
+        "start_year": "2022-08",
+        "end_year": "2026-05",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      },
+      {
+        "start_year": "2018",
+        "end_year": "2022",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      }
+    ],
+    "avatar": "https://media.licdn.com/dms/image/v2/D5603AQEZyTZlODfkfQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1718215192904?e=2147483647&v=beta&t=vGB_fN5dnAbfCarwWO3NcnWOcCUAGRF6N7MhmaNay0U",
+    "languages": [
+      {
+        "subtitle": "Native or bilingual proficiency",
+        "title": "Spanish"
+      },
+      {
+        "subtitle": "Professional working proficiency",
+        "title": "Italian"
+      }
+    ],
+    "volunteer_experience": [
+      {
+        "cause": "Poverty Alleviation",
+        "duration": "Dec 2018 \u00b7 - \nJan 2022 \u00b7 \n3 years 2 months",
+        "duration_short": "- \nJan 2022",
+        "start_date": "Dec 2018",
+        "subtitle": "SF-Marin Food Bank",
+        "title": "Student Volunteer"
+      },
+      {
+        "cause": "Poverty Alleviation",
+        "duration": "Sep 2018 \u00b7 - \nMar 2021 \u00b7 \n2 years 7 months",
+        "duration_short": "- \nMar 2021",
+        "start_date": "Sep 2018",
+        "subtitle": "Hygiene Heroes",
+        "title": "Volunteer Lead"
+      },
+      {
+        "cause": "Environment",
+        "duration": "Sep 2020 \u00b7 - \nApr 2022 \u00b7 \n1 year 8 months",
+        "duration_short": "- \nApr 2022",
+        "start_date": "Sep 2020",
+        "subtitle": "The Surfrider Foundation",
+        "title": "Student Volunteer"
+      }
+    ],
+    "followers": 3153,
+    "connections": 500,
+    "current_company_company_id": "anthropicresearch",
+    "current_company_name": "Anthropic",
+    "projects": [
+      {
+        "title": "Human Agent Versioning",
+        "start_date": "Jul 2026",
+        "description": "Version control for modern agentic coding."
+      },
+      {
+        "title": "Momento",
+        "start_date": "Mar 2026"
+      },
+      {
+        "title": "Trabant \ud83d\udef0\ufe0f",
+        "start_date": "Mar 2026",
+        "description": "Open source macOS HTTP/HTTPS debugging proxy for inspecting network traffic from iOS devices"
+      },
+      {
+        "title": "Clarity Card",
+        "start_date": "Feb 2026",
+        "description": "- iOS app for beginners to credit cards to learn the basics and understand terms- Submitted to 2026 Swift Student Challenge"
+      },
+      {
+        "title": "Google Tasks MCP",
+        "start_date": "Jan 2026",
+        "description": "Google Tasks MCP for agents to read and edit Google Tasks"
+      },
+      {
+        "title": "Herald",
+        "start_date": "Jan 2026",
+        "description": "iOS app to deliver custom notifications to a phone for free using an API."
+      },
+      {
+        "title": "Expo Bell",
+        "start_date": "Aug 2025"
+      },
+      {
+        "title": "SoLoMo",
+        "start_date": "Jun 2025",
+        "description": "An easier and more reliable way to fetch location in React Native apps."
+      },
+      {
+        "title": "UniVerse",
+        "start_date": "Oct 2024",
+        "description": "Welcome to the digital campus quad!Whether you're looking for study groups, campus events, or just want to share your thoughts, UniVerse is built for you.Some features- Verified university emails only, everyone you interact with is a college student- Location-based posts to find what's happening on your campus- See posts from your own campus community, or switch to the global feed to connect with students across all universities"
+      },
+      {
+        "title": "Pola",
+        "start_date": "Oct 2023",
+        "description": "Pola stitches together your favorite video memories to create a montage of your life. Simply create a project, upload short clips, and press stitch! Rearrange clip order if needed, and change color theme to your liking.- Created iOS app Pola.- Used React Native with FFmpeg. Made intuitive app UI.- Managed local device file storage."
+      },
+      {
+        "title": "UIUC Bus Tracker",
+        "start_date": "Jan 2023",
+        "description": "Have a class across campus? Want to visit downtown Champaign?Try the perfect bus app for University of Illinois students! Look at any bus stop and all the routes. View the map and track buses around campus. Plan trips anywhere in Champaign-Urbana area. Star your favorite bus stops and view ones nearby. Get notified for bus departures.- Created a bus tracker for UIUC students, presenting data on over 2,000 bus stops.- Tracks active bus routes and allows users to plan trips. Displays stops near the user\u2019s location. Shows where and when buses arrive, and their destinations.- Allows users to plan trips through multiple buses, with options to minimize time, distance walked, or amount of route transfers.- Completely free!"
+      },
+      {
+        "title": "Green Thumb Network",
+        "start_date": "Aug 2021",
+        "description": "\u200eWelcome to Green Thumb Network! Use our app to start the perfect garden. Hours of research already done for you, compiled into one app!- Designed, developed, and launched Green Thumb Network, an app for novice gardeners which provides gardening information on over 40 crops, such as fertilizer type, temperature, recommended sunlight amount, soil pH levels, and growing times.- Implemented and optimized key features such as current local weather, amount of local sunlight in the day, a to-do list, gardening tips and tricks, and fertilizer information.- Generated 50+ downloads within the first 3 days after its release, resulting in 30+ 5-star reviews."
+      },
+      {
+        "title": "CSV Generator",
+        "start_date": "Aug 2021",
+        "description": "Simple, easy-to-use CSV generator. Just paint the grid and press export!"
+      }
+    ],
+    "location": "San Francisco",
+    "input_url": "https://www.linkedin.com/in/gsdv",
+    "linkedin_id": "gsdv",
+    "activity": [
+      {
+        "interaction": "Liked by Gabriele Scotto di Vettimo",
+        "link": "https://www.linkedin.com/posts/azhassan24_camera-transitions-activity-7492935374957281280-CU_U",
+        "title": "Camera transitions \ud83d\udcf7",
+        "img": "https://media.licdn.com/dms/image/v2/D4E05AQFjNxN0zpHVBQ/videocover-high/B4EZ_uQGS6HoBM-/0/1786408626717?e=2147483647&v=beta&t=Xo4J9Xo1lIeYpzd7PnLq9fjWcg2UkByniajTucCvjqo",
+        "id": "7492935374957281280"
+      },
+      {
+        "interaction": "Liked by Gabriele Scotto di Vettimo",
+        "link": "https://www.linkedin.com/posts/kash-setty-21aa78290_sf-zfellows-ycombinator-activity-7493018973018574850-Eu0d",
+        "title": "every good thing this year started with a flight \ud83d\udeeb april: five days in sf with Bhanu R. for Stripe sessions, Powell St, and a founders social\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQEVYI5wWqnySA/feedshare-image-high-res/B4EZ_yNDBSHwAY-/0/1786474934632?e=2147483647&v=beta&t=3Nnxdqu5RPqBFnBFT3ahr-cUGkJFmevLTWxf-MEBNuc",
+        "id": "7493018973018574850"
+      },
+      {
+        "interaction": "Liked by Gabriele Scotto di Vettimo",
+        "link": "https://www.linkedin.com/posts/alexander-umansky_the-san-francisco-claude-impact-lab-was-an-activity-7492011219332005888-b6j9",
+        "title": "The San Francisco Claude Impact Lab was an event like no other! I attended it with two of my classmates Adam and Nish. It was a great event in order\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQFIaDro351QZQ/feedshare-shrink_800/B56Z_j4f06HUAc-/0/1786234667314?e=2147483647&v=beta&t=u7pVciyqKHZfXBpamWB6JyodqQuQyH24ThiidjKrOHk",
+        "id": "7492011219332005888"
+      },
+      {
+        "interaction": "Liked by Gabriele Scotto di Vettimo",
+        "link": "https://www.linkedin.com/posts/damonbodine_thank-you-to-everyone-who-attending-the-claude-activity-7492954629228568576-0ZY_",
+        "title": "Thank you to everyone who attending the Claude Austin meetup last night! I wanted to thank everyone who made last night possible. Thank you to\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQHUKH-B8vQdMw/feedshare-image-high-res/B56Z_xShSnGgAU-/0/1786459593741?e=2147483647&v=beta&t=H8MzPN9GVjetvPoNU3AVS-BTxVeQ7hgBpNwK5b8nrjE",
+        "id": "7492954629228568576"
+      },
+      {
+        "interaction": "Liked by Gabriele Scotto di Vettimo",
+        "link": "https://www.linkedin.com/posts/deni-darenberg_at-18-anthropic-brought-me-to-paris-i-flew-activity-7492880895662788609-P6Yj",
+        "title": "At 18: Anthropic brought me to Paris, I flew to SF for Y Combinator, people recognised me on the street, I (nearly) flew an Airbus, joined Corgi as\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQEBhnUM0bF2dA/feedshare-shrink_800/B4EZ_wPd5SHYAc-/0/1786442014616?e=2147483647&v=beta&t=saUhCE4iN5MMB7MPT1Cxsvc3WyWOm8Dd8naCKoDGaBU",
+        "id": "18"
+      },
+      {
+        "interaction": "Shared by Gabriele Scotto di Vettimo",
+        "link": "https://www.linkedin.com/posts/gsdv_i-had-an-amazing-time-mentoring-at-anthropics-activity-7492796410199973890-diRl",
+        "title": "I had an amazing time mentoring at Anthropic's Claude Impact Lab hackathon in Palo Alto, organized by The AI Collective! I was blown away by the\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQFvskZc5okjrw/feedshare-shrink_800/B56Z_vCfc.GgAo-/0/1786421836000?e=2147483647&v=beta&t=jklH9QxYxdvnwp7hrFXmTs0UInQZdR1AMDPmCOKYYA4",
+        "id": "7492796410199973890"
+      },
+      {
+        "interaction": "Liked by Gabriele Scotto di Vettimo",
+        "link": "https://www.linkedin.com/posts/hannahmulvaney_joins-a-frontier-lab-and-starts-a-blog-to-activity-7492730588848631808-p33h",
+        "title": "*joins a frontier lab and starts a blog to become a thought leader one week after* Jokes aside, I have wanted a place to write and be a little more\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQF1xPPU7LTTLA/feedshare-shrink_800/B56Z_uGxHTKAAc-/0/1786406179581?e=2147483647&v=beta&t=aHHtpE0JBpqoh1Ik8U8RXm93kXJ_EPE5-cl-AnI97YU",
+        "id": "7492730588848631808"
+      },
+      {
+        "interaction": "Liked by Gabriele Scotto di Vettimo",
+        "link": "https://www.linkedin.com/posts/gracehuston_i-joined-vercel-2-months-ago-and-here-are-activity-7487630593736904704-nrOj",
+        "title": "I joined Vercel 2 months ago, and here are a few things I've already noticed. Things move fast around here \u2192 You mention an idea for an agent, and\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQFbMu88F-unBQ/feedshare-image-high-res/B56Z.loV2AKoAU-/0/1785190245298?e=2147483647&v=beta&t=uL-2mCxarhb1UpL629Uv9bOjDwwLvH22KiiG6oOu3GU",
+        "id": "2"
+      }
+    ],
+    "linkedin_num_id": "870200154",
+    "banner_image": "https://media.licdn.com/dms/image/v2/D5616AQENKk1g0_kRcg/profile-displaybackgroundimage-shrink_200_800/B56ZYMslBJHoAY-/0/1743969735570?e=2147483647&v=beta&t=HGF2EdCfrleIJoXdxC7Yt07e_DlmEFbEE1HhM7PsldM",
+    "honors_and_awards": null,
+    "similar_profiles": [],
+    "default_avatar": false,
+    "memorialized_account": false,
+    "bio_links": [],
+    "first_name": "Gabriele",
+    "last_name": "Scotto di Vettimo",
+    "influencer": false,
+    "timestamp": "2026-08-12T19:02:13.763Z",
+    "input": {
+      "url": "https://www.linkedin.com/in/gsdv"
+    }
+  },
+  "local_photo": "data\\linkedin_photos\\gsdv__usr-5hIwgGFfEZ50dEi.jpg"
+}

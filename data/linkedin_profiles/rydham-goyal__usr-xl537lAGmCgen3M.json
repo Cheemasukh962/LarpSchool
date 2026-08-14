@@ -1,0 +1,213 @@
+{
+  "luma_user_id": "usr-xl537lAGmCgen3M",
+  "csv_name": "Rydham Goyal (Stanford)",
+  "csv_linkedin": "https://www.linkedin.com/in/rydham-goyal",
+  "enriched_at": "2026-08-12T19:16:49.707110+00:00",
+  "batch_id": "sd_msqgxyk1xj7v4ip1",
+  "profile": {
+    "id": "rydham-goyal",
+    "name": "Rydham Goyal",
+    "city": "San Francisco Bay Area",
+    "country_code": "US",
+    "position": null,
+    "about": "Studying Deep Learning at Stanford Reach out:\u2026",
+    "current_company": {
+      "link": "https://www.linkedin.com/company/stanford-ai-club?trk=public_profile_topcard-current-company",
+      "name": "Stanford AI Club",
+      "company_id": "stanford-ai-club",
+      "location": null
+    },
+    "experience": null,
+    "url": "https://kw.linkedin.com/in/rydham-goyal",
+    "educations_details": "Stanford University",
+    "education": [
+      {
+        "title": "Stanford University",
+        "url": "https://www.linkedin.com/school/stanford-university/",
+        "start_year": "2023-09",
+        "end_year": "2027-06",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      },
+      {
+        "start_year": "2019-04",
+        "end_year": "2023-03",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      }
+    ],
+    "avatar": "https://media.licdn.com/dms/image/v2/D5603AQHui7hmOfKCmw/profile-displayphoto-shrink_200_200/B56ZRx9AWYHoAY-/0/1737078605600?e=2147483647&v=beta&t=-IbgvFc2vLYF7znDvtXd2ZwgTeMNPNdKHUxIJuCH7BM",
+    "languages": [
+      {
+        "subtitle": "Full professional proficiency",
+        "title": "English"
+      },
+      {
+        "subtitle": "Native or bilingual proficiency",
+        "title": "Hindi"
+      },
+      {
+        "subtitle": "Native or bilingual proficiency",
+        "title": "Gujarati"
+      }
+    ],
+    "followers": 3332,
+    "connections": 500,
+    "current_company_company_id": "stanford-ai-club",
+    "current_company_name": "Stanford AI Club",
+    "publications": [
+      {
+        "title": "Generating Post-Acetazolamide Cerebral Blood Flow MRI for High-risk Stroke Patients",
+        "subtitle": "Medical Imaging with Deep Learning (MIDL)",
+        "date": "February 14, 2026",
+        "description": "(First Author; presenting at MIDL 2026 Taiwan) Abstract: Cerebrovascular reserve (CVR) quantifies the brain\u2019s ability to augment cerebral blood flow in response to a vasodilatory stimulus and is a key biomarker in Moyamoya disease and other steno-occlusive cerebrovascular disorders. Clinically, CVR is typically assessed by administering acetazolamide (ACZ) and acquiring post-ACZ perfusion maps, but this workflow is time-consuming, costly, and contraindicated in a subset of patients. In this work, we investigate whether deep learning can predict post-ACZ perfusion directly from baseline arterial spin labeling (ASL) MRI, enabling pharmacological-free CVR estimation. We curate a single-center dataset of Moyamoya ASL perfusion imaging, comprising pre/post-ACZ scan pairs from 194 patients. We design a post-ACZ conditional Autoencoder (cAE) network to regress the middle axial post-ACZ slice from the corresponding pre-ACZ slice using a combined L1 and SSIM loss. We evaluate our method against three diffusion-based formulations (conditional DDPM, Cold Diffusion, and Residual Diffusion). On a hold-out test set of 49 patients, the proposed post-ACZ cAE achieves the highest reconstruction fidelity (SSIM \u22480.79), outperforming diffusion-based baselines in MAE, SSIM, and PSNR. Region-wise analysis of CBF percentage change in affected versus healthy MCA territories showed that the generated post-ACZ model outputs followed ground truth patterns of cerebrovascular reserve. Our findings demonstrate the feasibility of non-invasive CVR assessment using MRI for high-risk patients. Our data-driven approach could reduce reliance on ACZ challenges in routine clinical workflow and expand access to CVR testing to evaluate brain health."
+      },
+      {
+        "title": "Design and Development of a IoT based Obstacle Avoider Robot for Residential Applications",
+        "subtitle": "International Journal of Engineering Development and Research (IJEDR)",
+        "description": "Co-authored and published this research paper that proposes a method for the integration of IoT technology in the development of a wireless, Wi-Fi enabled, remotely controlled robot that has various residential as well as medical applications. The proposed prototype can be built upon to develop helper robots to be used for the aid of handicapped people, as well as immobilised, bed-ridden patients, or isolated COVID-19 patients as it can be controlled to deliver meds, food, and other essentials. Integration of IR Sensors could also make it a fully autonomous, self-sustaining, path-following robot.The robot design and concept received recognition from two major local Newspapers in Ahmedabad, Divya Bhaskar and Sandesh."
+      }
+    ],
+    "patents": [
+      {
+        "title": "'SENSORY DEVELOPMENT BUBBLE TUBE' ControLearn SDBT (design patent)",
+        "patents_id": "369628-001",
+        "description": "ControLearn SDBT is an interactive sensory development bubble tube to be used for the relaxation and sensory development of children/individuals with developmental disorders (such as Autism, ADHD, etc.). It allows for the creation and control of different light environments, as well as control of the speed at which bubbles are released, which suits various requirements of different individuals using ControLearn SDBT, as well as psychologists using it to administer therapy in a controlled multisensory environment (snoezelen room). By watching bubbles rise in the tube and feeling the vibrations the air pump produces, children/individuals with developmental disorders can improve their visual and tactile senses, and also their attention and concentration capabilities. Furthermore, the ability to control the device through buttons helps improve motor skills, as it teaches control through switch use. Individuals are thus able to eventually perform more complex motor tasks."
+      }
+    ],
+    "location": null,
+    "input_url": "https://www.linkedin.com/in/rydham-goyal",
+    "linkedin_id": "rydham-goyal",
+    "activity": [
+      {
+        "interaction": "Liked by Rydham Goyal",
+        "link": "https://www.linkedin.com/posts/adarsh-h-623941204_traditional-coding-benchmarks-do-not-reflect-activity-7442257960178753536-Nks6",
+        "title": "Traditional coding benchmarks do not reflect how software is actually built and maintained. That's why we built a new benchmark, APEX-SWE, in\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5605AQH9fCE2BzWijg/feedshare-thumbnail_720_1280/B56Z0g2FgrJsA8-/0/1774372548359?e=2147483647&v=beta&t=B2GCIo6wUZ9YpoqXYKJ6e7V7_rBUjbczuo41Km6d05M",
+        "id": "7442257960178753536"
+      },
+      {
+        "interaction": "Liked by Rydham Goyal",
+        "link": "https://www.linkedin.com/posts/sunnykabrawala27_internship-alert-activity-7489691959960313856-yOiT",
+        "title": "Internship Alert \ud83d\udd25",
+        "img": "https://media.licdn.com/dms/image/v2/D4D22AQG4LCmFDEAUEQ/feedshare-shrink_800/B4DZ_C7DtKIoAc-/0/1785681689682?e=2147483647&v=beta&t=uIQDzGtnR5iJ5xrGRS9ttLHsKCqijCrxCEO8VAtV878",
+        "id": "7489691959960313856"
+      },
+      {
+        "interaction": "Liked by Rydham Goyal",
+        "link": "https://www.linkedin.com/posts/yasinehsan_citadeled-lots-of-confusion-around-situational-activity-7489032174327820288-bXQi",
+        "title": "Citadeled. Lots of confusion around Situational Awareness. But for those unfamiliar this is how a margin call works. Say I have $1,000 I borrow\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQEbTMm8GrDHqA/feedshare-shrink_800/B4EZ.3U7ZNJUAc-/0/1785487144807?e=2147483647&v=beta&t=AaMRJi-GC1TylnCek0o9vytIWZGuzyPxsLD2ztwc344",
+        "id": "7489032174327820288"
+      },
+      {
+        "interaction": "Liked by Rydham Goyal",
+        "link": "https://www.linkedin.com/posts/kolinjones_next-week-ill-cover-recruiting-engineering-activity-7488303833815646209-aHJP",
+        "title": "Next week I'll cover recruiting, engineering, and AI updates ahead of the Fall season!",
+        "img": "https://media.licdn.com/dms/image/v2/D4E10AQGF07uNs-9x5Q/image-shrink_800/B4EZ.u1EIjKUAg-/0/1785344574319?e=2147483647&v=beta&t=KC0_mKT5vTdVXDSYc87jYwrrxjtQ9nDSmxMV8OuXr28",
+        "id": "7488303833815646209"
+      },
+      {
+        "interaction": "Liked by Rydham Goyal",
+        "link": "https://www.linkedin.com/posts/akothari_two-weeks-ago-my-dentist-emailed-his-patients-activity-7487881601025167360-S87x",
+        "title": "Two weeks ago my dentist emailed his patients: after decades of work, he was finally retiring. His staff and patients, me included, wrote back\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQGPN2B4IQ_66A/feedshare-shrink_800/B4EZ.pMo3iJQAc-/0/1785250090842?e=2147483647&v=beta&t=r-5yoJIF4h9kxw8TGDM90n9wyFbjSIldP6OEaF9GwjY",
+        "id": "7487881601025167360"
+      },
+      {
+        "interaction": "Liked by Rydham Goyal",
+        "link": "https://www.linkedin.com/posts/patrick-turricelli_pain-is-the-genesis-of-capitalism-every-activity-7487525995743178753-k0lu",
+        "title": "Pain is the genesis of capitalism. Every business starts by solving a problem someone has. Tanay (co-founder and CEO of Commure, valued at $7B)\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQFV9b5ltMGIEg/feedshare-shrink_800/B56Z.iMBCuHYAc-/0/1785132487146?e=2147483647&v=beta&t=fwyFt-wrm-EoCLUKxLLnPEbMY0ReaCmzcABziOkw-iM",
+        "id": "7487525995743178753"
+      },
+      {
+        "interaction": "Liked by Rydham Goyal",
+        "link": "https://www.linkedin.com/posts/mikekrieger_introducing-claude-opus-5-activity-7486485831780704256-gC7C",
+        "title": "Claude Opus 5 is out today! It comes close to Fable 5 intelligence at half the price, and I've really loved playing around with it over the last\u2026",
+        "img": "https://media.licdn.com/dms/image/sync/v2/D5627AQEiuD7M4ubB0A/articleshare-shrink_800/B56Z.VEoD2GoAg-/0/1784912447403?e=2147483647&v=beta&t=9A8OdmGWY52I_YJZuSOQRbReUE9PhlSbUu59cTHcwEI",
+        "id": "5"
+      },
+      {
+        "interaction": "Liked by Rydham Goyal",
+        "link": "https://www.linkedin.com/posts/it-has-been-a-few-months-for-me-at-openai-activity-7485407006204493825-QLvr",
+        "title": "It has been a few months for me at OpenAI, so I thought I\u2019d share a few reflections: 1. The pace at OpenAI (and, I assume, most frontier labs) is\u2026",
+        "img": "https://static.licdn.com/aero-v1/sc/h/53n89ecoxpr1qrki1do3alazb",
+        "id": "7485407006204493825"
+      },
+      {
+        "interaction": "Liked by Rydham Goyal",
+        "link": "https://www.linkedin.com/posts/umeshkhanna_founders-the-ultimate-early-stage-angels-activity-7485375543220252672-0yLT",
+        "title": "Founders - The Ultimate Early Stage Angels List \ud83d\udcc8 The best angels are often still building and operating at the companies defining this era\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQECqKiKDliJlw/feedshare-shrink_1280/B56Z.DU3.UGsAM-/0/1784614718670?e=2147483647&v=beta&t=spi8KucpcTJxzpkrsPXhTNpNpW32Q-QDGFkpywwvnwo",
+        "id": "7485375543220252672"
+      },
+      {
+        "interaction": "Liked by Rydham Goyal",
+        "link": "https://www.linkedin.com/posts/cursorai_we-had-a-team-of-agents-rebuild-sqlite-from-activity-7485022190602510336-Cf35",
+        "title": "We had a team of agents rebuild SQLite from its 835-page manual. It created a replica in Rust which passed 100% of a held-out test\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQHoymWLqVPc4A/feedshare-shrink_800/B56Z.AkBYwGQAc-/0/1784568354738?e=2147483647&v=beta&t=B7yVQufs9n-QJBQMSKRuu9f3jT2GJXW1SywLqmQ1aqU",
+        "id": "7485022190602510336"
+      },
+      {
+        "interaction": "Liked by Rydham Goyal",
+        "link": "https://www.linkedin.com/posts/mattstabile_san-francisco-is-totally-unprepared-for-the-activity-7483899833557295104-Cv9S",
+        "title": "Say you joined Anthropic in 2024. The company offers you a competitive compensation package: a $400,000 salary and $1.3 million in equity. You're\u2026",
+        "img": "https://media.licdn.com/dms/image/sync/v2/D4E27AQEqw8PCWK8k0w/articleshare-shrink_800/B4EZ9qAX4sKQAY-/0/1784189911040?e=2147483647&v=beta&t=3iip9DKYrcQEBhsSVqrFnkh1zB0696GTigA5BuzWQDc",
+        "id": "7483899833557295104"
+      },
+      {
+        "interaction": "Liked by Rydham Goyal",
+        "link": "https://www.linkedin.com/posts/scott-wu-8b94ab96_for-ryans-birthday-the-team-secretly-coordinated-activity-7483899628829048832-VTT7",
+        "title": "For Ryan's birthday, the team secretly coordinated getting everyone his signature red hoodie and wore it across our global offices. Even the dog got\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5610AQEW9bmuKYlyZg/image-shrink_800/B56Z9wnA4HIQAg-/0/1784300705065?e=2147483647&v=beta&t=FjnY84kYE6X47P4IFnu7ryfk6EbjB9TdjmtijwJXexo",
+        "id": "7483899628829048832"
+      },
+      {
+        "interaction": "Liked by Rydham Goyal",
+        "link": "https://www.linkedin.com/posts/wilsonkyi_im-hosting-a-taste-distribution-dinner-activity-7483214409314701312-F4ie",
+        "title": "I'm hosting a Taste & Distribution dinner at Mister Jiu's Moongate Lounge in SF, and we've kept one seat open, just in case I missed someone\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQFnGaMq-1AyAg/feedshare-shrink_800/B4EZ9m32kBH8Ac-/0/1784137345795?e=2147483647&v=beta&t=mNYKoBWRWzGKNtkhmAAnPBWnA7XPeq9VwaXOpi9-DxU",
+        "id": "7483214409314701312"
+      },
+      {
+        "interaction": "Liked by Rydham Goyal",
+        "link": "https://www.linkedin.com/posts/wouterdevriendt_excited-to-share-that-after-2-years-on-the-activity-7482826258280763392-_X9M",
+        "title": "Excited to share that after 2 years on the PyTorch team @ Meta, I\u2019ve started a new role at Thinking Machines Lab. What attracted me most: the\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQH-VRpYtHkEEA/feedshare-shrink_800/B56Z9eyKl3HUAg-/0/1784001637433?e=2147483647&v=beta&t=CtJx6XwSZ0bRtbIaVj5o8mhrasAK0WStaFq8VXy5kJc",
+        "id": "2"
+      },
+      {
+        "interaction": "Liked by Rydham Goyal",
+        "link": "https://www.linkedin.com/posts/jennywen_cursor-design-engineer-activity-7482448230513803264-XQ64",
+        "title": "hello! quick updates from me. - i left Anthropic (who does that?!) - had a baby (i love her) - and am joining Cursor as Head of Design (eep!) it\u2019s\u2026",
+        "img": "https://media.licdn.com/dms/image/sync/v2/D4D27AQEoPP4CbkfG6Q/articleshare-shrink_800/B4DZ8akpP3JAAY-/0/1782857242184?e=2147483647&v=beta&t=0e6lJvytFXFW_A7UeEhihcjw3ks8UVhas1VcKpvGCX4",
+        "id": "7482448230513803264"
+      }
+    ],
+    "linkedin_num_id": "965941844",
+    "banner_image": "https://media.licdn.com/dms/image/v2/D5616AQGpeqv_F9gT6g/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1737448154469?e=2147483647&v=beta&t=6GS9tMIV86-wZXfEiJzAkeiDqqHUiKGSScrmRjKKrPI",
+    "honors_and_awards": [
+      {
+        "title": "Merit Scholarship Award",
+        "publication": "-",
+        "date": "2021-12-01T00:00:00.000Z",
+        "description": "Broke school's academic record."
+      }
+    ],
+    "similar_profiles": [],
+    "default_avatar": false,
+    "memorialized_account": false,
+    "bio_links": [],
+    "first_name": "Rydham",
+    "last_name": "Goyal",
+    "influencer": false,
+    "timestamp": "2026-08-12T19:15:03.164Z",
+    "input": {
+      "url": "https://www.linkedin.com/in/rydham-goyal"
+    }
+  },
+  "local_photo": "data\\linkedin_photos\\rydham-goyal__usr-xl537lAGmCgen3M.jpg"
+}

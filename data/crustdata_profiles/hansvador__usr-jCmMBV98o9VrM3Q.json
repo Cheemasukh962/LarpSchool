@@ -1,0 +1,210 @@
+{
+  "source": "crustdata",
+  "recovered_from": "brightdata_failed_private",
+  "recovery_note": "slug typo: hans-vador vs hansvador",
+  "luma_user_id": "usr-jCmMBV98o9VrM3Q",
+  "csv_name": "hans vador",
+  "csv_linkedin": "https://www.linkedin.com/in/hans-vador",
+  "clean_linkedin": "https://www.linkedin.com/in/hansvador",
+  "enriched_at": "2026-08-14T18:08:52.912930+00:00",
+  "person_data": {
+    "basic_profile": {
+      "current_title": "Mechanical Engineer",
+      "first_name": null,
+      "headline": "Mechanical Engineering",
+      "languages": [],
+      "last_name": null,
+      "location": {
+        "city": "",
+        "continent": "North America",
+        "country": "United States",
+        "full_location": null,
+        "raw": "United States",
+        "state": ""
+      },
+      "name": "Hans Vador",
+      "normalized_title": {
+        "confident": true,
+        "department": "Engineering & Technology",
+        "matched_title": "Mechanical Engineer",
+        "similarity": 0.9998999834060669,
+        "sub_department": "Mechanical & Electrical Engineering"
+      },
+      "professional_network_name": "Hans Vador",
+      "profile_picture_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/person/60c2cde29c77adcd9b40ec28301383b25c7c9bede7b320c2b9b8425a9e60640b.jpg",
+      "summary": ""
+    },
+    "education": {
+      "schools": [
+        {
+          "activities_and_societies": "",
+          "degree": "",
+          "description": "",
+          "end_year": 2023,
+          "field_of_study": "",
+          "institute_logo_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/company/48cb641c2c5c555ba9142779010f8a3d95a7e2a73c6c67d693626dc05ca76218.jpg",
+          "institute_logo_url": "https://media.licdn.com/dms/image/v2/C4E0BAQEBOiEk9QuCIg/company-logo_400_400/company-logo_400_400/0/1630612151140?e=1788393600&v=beta&t=5GCRQh7_6HZZUaVt2gTKDxDhGSI1EJVbLvNBraDCogo",
+          "location": {
+            "city": "Dublin",
+            "continent": "North America",
+            "country": "United States",
+            "raw": "Dublin, Ohio, United States",
+            "state": "Ohio"
+          },
+          "professional_network_id": "6074635",
+          "school": "Dublin Jerome High School",
+          "start_year": 2019
+        },
+        {
+          "activities_and_societies": "",
+          "degree": "Bachelor of Engineering - BE",
+          "description": "",
+          "end_year": 2024,
+          "field_of_study": "Mechanical Engineering and Computer Engineering",
+          "institute_logo_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/company/d5651ba4f6efdfeba5a1e100712ce26c23ffd924925fc0deb8f2deb9a18ce1c0.jpg",
+          "institute_logo_url": "https://media.licdn.com/dms/image/v2/C4E0BAQEw433uw5btkQ/company-logo_400_400/company-logo_400_400/0/1631327096366?e=1788393600&v=beta&t=yR86Jg8binhZZKDfeh5-dJj68DeMQYMSOSGdFV4m4uk",
+          "location": {
+            "city": "Columbus",
+            "continent": "North America",
+            "country": "United States",
+            "raw": "Columbus, Ohio, United States",
+            "state": "Ohio"
+          },
+          "professional_network_id": "3173",
+          "school": "The Ohio State University",
+          "start_year": 2023
+        },
+        {
+          "activities_and_societies": "",
+          "degree": "Bachelor of Engineering - BE",
+          "description": "",
+          "end_year": 2028,
+          "field_of_study": "Mechanical Engineering and Computer Engineering",
+          "institute_logo_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/company/ec1c030a2acdc5ad59badb4b4918c180cbff07dbf8880dae8a359e4ecfa26f9f.jpg",
+          "institute_logo_url": "https://media.licdn.com/dms/image/v2/C4E0BAQFGfERBPGurCg/company-logo_400_400/company-logo_400_400/0/1631307390795?e=1788393600&v=beta&t=CT0n7MZfolVDYYtfoI15OP71HYzgizTu8sBZyrsa7u0",
+          "location": {
+            "city": "Ann Arbor",
+            "continent": "North America",
+            "country": "United States",
+            "raw": "Ann Arbor, Michigan, United States",
+            "state": "Michigan"
+          },
+          "professional_network_id": "2516",
+          "school": "University of Michigan",
+          "start_year": 2024
+        }
+      ]
+    },
+    "experience": {
+      "employment_details": {
+        "current": [
+          {
+            "company_description": "Robots that repair roads.",
+            "company_professional_network_profile_url": "https://linkedin.com/company/105070885",
+            "company_profile_picture_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/company/bcc19665dddbb28e4dd9791529ec3f2a52aaee1f4274fd8ba42b48fe02bcdcbf.jpg",
+            "company_website_domain": "pave-robotics.com",
+            "crustdata_company_id": 4094434,
+            "description": "Iterated upon the second generation of the Tracer-Family robots.",
+            "employment_type": "Internship",
+            "end_date": null,
+            "function_category": "Engineering",
+            "is_default": true,
+            "location": {
+              "raw": "San Francisco Bay Area"
+            },
+            "name": "Pave Robotics (YC W25)",
+            "position_id": 2930503625,
+            "professional_network_id": "105070885",
+            "seniority_level": "Entry Level",
+            "start_date": "2026-05-01T00:00:00+00:00",
+            "title": "Mechanical Engineer",
+            "years_at_company": "Less than 1 year",
+            "years_at_company_raw": 0.0
+          },
+          {
+            "company_description": "V1 is the community for ambitious student builders \u2014 engineers, artists, designers, founders, scientists, and more. We provide the most driven students with an extraordinary network, exclusive opportunities within startups, and mentorship to grow and achieve great things.",
+            "company_professional_network_profile_url": "https://linkedin.com/company/68906683",
+            "company_profile_picture_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/company/e38a84f1fc5b3675ba0a1651cf94ccf592765cdfaebd312e45f26c556abb7d2b.jpg",
+            "company_website_domain": "v1michigan.com",
+            "crustdata_company_id": 1707386,
+            "description": "Built a modular hexapod with custom control algorithms and interchangeable end effector mechanisms.\n\nF25 Cohort",
+            "employment_type": "",
+            "end_date": null,
+            "function_category": "Engineering",
+            "is_default": false,
+            "location": {
+              "raw": "Ann Arbor, Michigan, United States"
+            },
+            "name": "V1 Michigan",
+            "position_id": 2866881463,
+            "professional_network_id": "68906683",
+            "seniority_level": "Entry Level",
+            "start_date": "2025-09-01T00:00:00+00:00",
+            "title": "Hardware Engineer",
+            "years_at_company": "Less than 1 year",
+            "years_at_company_raw": 0.0
+          },
+          {
+            "company_description": "Buckeye Vertical is an interdisciplinary entity of driven and ambitious students who wish to explore Robotics, Autonomy, and Unmanned Aircraft Systems (UAS). Our goal is to give students the opportunity to explore and understand this field of study through professional development opportunities and project-based competitions that will support and create a platform of academic enrichment and excellence. Buckeye Vertical competes in both Robonation's Student Unmanned Aerial Systems (SUAS) Competition and Vertical Flight Society's (VFS) Design-Build-Vertical Flight (DBVF) Competition.",
+            "company_professional_network_profile_url": "https://linkedin.com/company/73419605",
+            "company_profile_picture_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/company/bc49d48f99f654266423881fb422709e2278099581029e345d56e34da6f6ae5f.jpg",
+            "company_website_domain": "buckeyevertical.org",
+            "crustdata_company_id": 3749384,
+            "description": "Designing and manufacturing the future of competitive aerospace.",
+            "employment_type": "Internship",
+            "end_date": null,
+            "function_category": "Engineering",
+            "is_default": false,
+            "location": {
+              "raw": "Columbus, OH"
+            },
+            "name": "Buckeye Vertical",
+            "position_id": 2622411960,
+            "professional_network_id": "73419605",
+            "seniority_level": "Entry Level",
+            "start_date": "2024-12-01T00:00:00+00:00",
+            "title": "Structural Engineer",
+            "years_at_company": "1 to 2 years",
+            "years_at_company_raw": 1.0
+          }
+        ],
+        "past": []
+      }
+    },
+    "professional_network": {
+      "connections": 773,
+      "current_title": "Mechanical Engineer",
+      "followers": 784,
+      "headline": "Mechanical Engineering",
+      "location": {
+        "city": "",
+        "continent": "North America",
+        "country": "United States",
+        "raw": "United States",
+        "state": ""
+      },
+      "metadata": {
+        "last_scraped_source": null
+      },
+      "name": "Hans Vador",
+      "profile_picture_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/person/60c2cde29c77adcd9b40ec28301383b25c7c9bede7b320c2b9b8425a9e60640b.jpg",
+      "pronoun": "He/Him",
+      "summary": ""
+    },
+    "skills": {
+      "professional_network_skills": []
+    },
+    "social_handles": {
+      "dev_platform_identifier": {
+        "profile_url": null
+      },
+      "professional_network_identifier": {
+        "profile_url": "https://www.linkedin.com/in/hansvador"
+      },
+      "twitter_identifier": {
+        "slug": ""
+      }
+    },
+    "crustdata_person_id": 413468217
+  }
+}

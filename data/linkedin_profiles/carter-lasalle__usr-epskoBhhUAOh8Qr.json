@@ -1,0 +1,352 @@
+{
+  "luma_user_id": "usr-epskoBhhUAOh8Qr",
+  "csv_name": "Carter LaSalle",
+  "csv_linkedin": "https://www.linkedin.com/in/carter-lasalle",
+  "enriched_at": "2026-08-12T19:26:51.910808+00:00",
+  "batch_id": "sd_msqhb4pfm4l4la4zs",
+  "profile": {
+    "id": "carter-lasalle",
+    "name": "Carter LaSalle",
+    "city": "Los Angeles Metropolitan Area",
+    "country_code": "US",
+    "position": null,
+    "about": "Curious and ambitious college freshman with strong interests in Cybersecurity, Blockchain\u2026",
+    "current_company": {
+      "link": "https://www.linkedin.com/company/lila-sciences?trk=public_profile_topcard-current-company",
+      "name": "Lila Sciences",
+      "company_id": "lila-sciences",
+      "location": null
+    },
+    "experience": null,
+    "url": "https://bh.linkedin.com/in/carter-lasalle",
+    "educations_details": "University of Notre Dame",
+    "education": [
+      {
+        "title": "University of Notre Dame",
+        "url": "https://www.linkedin.com/school/university-of-notre-dame/",
+        "start_year": "2025",
+        "end_year": "2029-05",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      },
+      {
+        "start_year": "2019",
+        "end_year": "2025",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      },
+      {
+        "start_year": "2023-07",
+        "end_year": "2023-07",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      },
+      {
+        "start_year": "2023-06",
+        "end_year": "2023-06",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      },
+      {
+        "start_year": "2022-07",
+        "end_year": "2022-07",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      }
+    ],
+    "avatar": "https://media.licdn.com/dms/image/v2/D5603AQH162RcoPKrNg/profile-displayphoto-scale_200_200/B56Z6Ki7sLGgAc-/0/1780440874596?e=2147483647&v=beta&t=MBNF9hwptPdN1eyOEZfsHZLUVE5omXLdZ5Vxniq_CIU",
+    "languages": [
+      {
+        "subtitle": "Native or bilingual proficiency",
+        "title": "Engish"
+      },
+      {
+        "subtitle": "Elementary proficiency",
+        "title": "Spanish"
+      }
+    ],
+    "certifications": [
+      {
+        "meta": "Issued Apr 2025 See credential",
+        "subtitle": "Cisco Networking Academy",
+        "title": "Cyber Threat Management",
+        "credential_url": "https://www.credly.com/badges/a5133310-8266-430a-94ff-80d1867645d2/public_url?trk=public_profile_see-credential",
+        "credential_id": null
+      },
+      {
+        "meta": "Issued Apr 2025 See credential",
+        "subtitle": "Cisco Networking Academy",
+        "title": "Endpoint Security",
+        "credential_url": "https://www.credly.com/badges/99e8653c-0992-4bb9-afb1-b426654d9c69/public_url?trk=public_profile_see-credential",
+        "credential_id": null
+      },
+      {
+        "meta": "Issued Apr 2025 See credential",
+        "subtitle": "Cisco Networking Academy",
+        "title": "Ethical Hacker",
+        "credential_url": "https://www.credly.com/badges/ad7e0fdb-1882-4398-8e39-93dc5abe33c5/public_url?trk=public_profile_see-credential",
+        "credential_id": null
+      },
+      {
+        "meta": "Issued Apr 2025 See credential",
+        "subtitle": "Cisco Networking Academy",
+        "title": "Introduction to Cybersecurity",
+        "credential_url": "https://www.credly.com/badges/3ce2bb4e-6ec6-4df6-a5e8-b5a98e69faf2/public_url?trk=public_profile_see-credential",
+        "credential_id": null
+      },
+      {
+        "meta": "Issued Apr 2025",
+        "subtitle": "Google Cloud Skills Boost",
+        "title": "Introduction to Generative AI",
+        "credential_url": null,
+        "credential_id": null
+      },
+      {
+        "meta": "Issued Apr 2025 See credential",
+        "subtitle": "Cisco Networking Academy",
+        "title": "Network Defense",
+        "credential_url": "https://www.credly.com/badges/11dfb4f3-099f-4167-9e1b-73d646ae7a61/public_url?trk=public_profile_see-credential",
+        "credential_id": null
+      },
+      {
+        "meta": "Issued Jun 2024 Credential ID 01J8853",
+        "subtitle": "American Red Cross Training Services",
+        "title": "Adult First Aid/CPR/AED",
+        "credential_url": null,
+        "credential_id": "01J8853"
+      },
+      {
+        "meta": "Issued Nov 2023 See credential",
+        "subtitle": "AFA CyberPatriot",
+        "title": "CyberPatriot Tech Caregiver",
+        "credential_url": "https://www.uscyberpatriot.org/Pages/Special%20Initiatives/Tech-Caregiver-Program.aspx?trk=public_profile_see-credential",
+        "credential_id": null
+      },
+      {
+        "meta": "Issued Jul 2019 Credential ID 19070K2544",
+        "subtitle": "PADI",
+        "title": "PADI",
+        "credential_url": null,
+        "credential_id": "19070K2544"
+      }
+    ],
+    "volunteer_experience": [
+      {
+        "cause": "Social Services",
+        "duration": "May 2024 \u00b7 - Present \u00b7 \n\n2 years 4 months",
+        "duration_short": "- Present",
+        "info": "Assisted medical efforts on Skid Row, distributing resources, aiding in housing and medical care via mobile clinic.",
+        "start_date": "May 2024",
+        "subtitle": "Wound Walk",
+        "title": "Medical Assistant and Intake Specialist"
+      }
+    ],
+    "followers": 747,
+    "connections": 500,
+    "current_company_company_id": "lila-sciences",
+    "current_company_name": "Lila Sciences",
+    "publications": [
+      {
+        "title": "Security Vulnerability Assessment Report Splashin iOS Application",
+        "date": "August 1, 2025",
+        "description": "This report details a comprehensive security assessment of the Splashin iOS application,a platform used for \u201dSenior Assassin\u201d games that tracks player locations. Our analysisfocused on the premium subscription model and the integrity of location data protectionmechanisms. We identified multiple critical vulnerabilities that allow free-tier users to accesspremium functionality, including real-time location updates and location update requests.This document outlines our methodology, findings, proof-of-concept demonstrations, andrecommendations for remediation. These vulnerabilities pose significant privacy risks tousers and represent a substantial revenue loss opportunity to Splashin\u2019s business model."
+      }
+    ],
+    "projects": [
+      {
+        "title": "Mac Messages MCP",
+        "start_date": "May 2025",
+        "description": "https://github.com/carterlasalle/mac_messages_mcpDeveloped a Python-based MCP (Model Context Protocol) server that enables secure, programmatic access to the macOS Messages app \u2014 integrating message sending, contact filtering, and smart delivery fallback across iMessage and SMS/RCS.\ud83d\udd27 Key Features:\u2022 Universal messaging: Seamlessly sends via iMessage or SMS based on recipient availability\u2022 Real-time message reading, contact filtering, and fuzzy search\u2022 Command-line, module, and LLM-compatible interfaces (Claude + Cursor)\u2022 Smart fallback logic for Android recipients\u2022 PyPI-published and tested on macOS 11+ with uv package manager\u2022 Full disk access logic for secure database integration\ud83d\udee0\ufe0f Tech Stack:Python, MCP protocol, AppleScript, macOS internals, GitHub Actions, semantic versioning\ud83d\udce6 Available on PyPI \u2022 Production-ready as of v0.7.3\u2b50 140+ GitHub stars and active community adoption"
+      },
+      {
+        "title": "Personal Website",
+        "start_date": "Dec 2021",
+        "description": "I am making a personal website to showcase my portfolio. I host my website on a Raspberry Pi at home through WordPress. Through this experience, I have gained knowledge of the web development pipeline, networking, and systems"
+      },
+      {
+        "title": "Vulnerability Research: Splashin iOS App (CVE-2025-45156, CVE-2025-45157)",
+        "start_date": "Apr 2025",
+        "description": "Discovered and reported critical access control vulnerabilities in the Splashin iOS app, allowing free-tier users to access premium location-tracking features via direct API calls. Assigned CVEs: CVE-2025-45156 and CVE-2025-45157. Developed proof-of-concept exploits, full technical report, and remediation recommendations."
+      },
+      {
+        "title": "OneCard Scan \u2014 Windward Senior Capstone Project",
+        "start_date": "Jan 2025",
+        "description": "https://onecard-capstone.vercel.app/Digitized Student ID Integration for Apple & Google WalletDeveloped a mobile application that enables Windward School students to securely scan and digitize their physical OneCard student ID for seamless use with Apple Wallet and Google Pay. This project, completed as part of Windward\u2019s Senior Capstone Curriculum, was designed to improve daily campus life through practical innovation and student-led development.\ud83d\udcf2 Key Features:\u2022 Optical scanning of student ID cards via phone camera\u2022 Automatic extraction of name, ID number, and class year\u2022 Generates wallet-compatible passes for iOS and Android\u2022 Secure, offline-first design with privacy in mind\u2022 Built for scalability across grades and device types\ud83c\udfeb Impact:Rolled out across the Windward community as a first-of-its-kind campus tech utility \u2014 simplifying ID use for attendance, events, and check-ins while demonstrating personal growth in engineering, user empathy, and real-world product delivery.\ud83d\udee0\ufe0f Tools Used: Python, Gemini Vision API, PassKit, Android Wallet API, iOS Wallet integration, OpenCV"
+      },
+      {
+        "title": "Claude Prompt XML Helper",
+        "start_date": "May 2025",
+        "description": "Prompt engineering utility for structured XML generation and taggingDesigned and built a web-based assistant to streamline prompt engineering for Anthropic\u2019s Claude models using XML-tagged formatting. This tool enables users to generate well-structured prompt templates with consistent tagging practices and raw CDATA support, improving reproducibility and control in prompt design.\ud83d\udd16 Key Features:\u2022 Auto-generates XML blocks from structured inputs\u2022 Supports common tags: <instructions>, <context>, <example>, <user_query>, etc.\u2022 CDATA support preserves raw characters and nested XML\u2022 Customizable root tag and element names\u2022 Developer-friendly interface for rapid prototyping\ud83d\udca1 Use Case: Helps prompt engineers format and structure inputs for Claude API using best-practice XML syntax.\ud83d\udd17 Hosted version available upon request or for internal tooling integrations"
+      },
+      {
+        "title": "Emoji Steganography Encoder",
+        "start_date": "Mar 2025",
+        "description": "https://emojisteg.is-a.devBuilt a web-based tool that encodes and decodes hidden messages inside emoji characters using Unicode variation selectors \u2014 demonstrating a novel form of digital steganography. This project explores how visually identical emojis can carry embedded information, offering an engaging way to learn about data encoding, obfuscation, and character-level manipulation.Designed intuitive UI for real-time message encoding/decodingImplemented custom algorithm for byte-to-emoji mappingEmphasized user privacy and educational valueView the open-source project: GitHub \u2013 Carter LaSalle"
+      }
+    ],
+    "organizations": [
+      {
+        "title": "Windward School",
+        "membership_type": "Boys And Girls Volleyball Camps CIT",
+        "start_date": "Aug 2022",
+        "end_date": "Jul 2025",
+        "membership_number": null
+      }
+    ],
+    "location": null,
+    "input_url": "https://www.linkedin.com/in/carter-lasalle",
+    "linkedin_id": "carter-lasalle",
+    "activity": [
+      {
+        "interaction": null,
+        "link": "https://www.linkedin.com/posts/williamhgates_experimentation-is-critical-to-scientific-activity-7477716718023340032-4Dyv",
+        "title": "Experimentation is critical to scientific discovery, but moving from hypothesis to insight often takes years. I recently visited Lila Sciences , where AI and robotics are being used in the lab to speed up that process\u2014by generating hypotheses, running experiments, learning from results, and deciding what to test next in real time. In short: These technologies are help scientists explore more ideas, more quickly. ...more ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D4E05AQEmqUpzRzeFSQ/videocover-high/B4EZ8YvmqaHMBQ-/0/1782826577030?e=2147483647&v=beta&t=tKB9_z4SCEBZbpnaAZEXI9xmrp-OLws06KBJFTGhOJg",
+        "id": "7477716718023340032"
+      },
+      {
+        "interaction": null,
+        "link": "https://www.linkedin.com/posts/carter-lasalle_perplexitycomputer-stockpitch-investing-activity-7447387465642029057--76F",
+        "title": "Just submitted my entry for the Perplexity Computer Stock Pitch Competition. I pitched a long thesis on MercadoLibre (MELI), the only company in Latin America simultaneously operating scaled e-commerce, payments, credit, logistics, and advertising in a single integrated ecosystem. Using Perplexity Computer I ran multiple research threads pulling market sizing data from Statista, competitive landscape analysis from CB Insights, and live financial data from Perplexity Finance. So grateful for this opportunity and I look forward to new innovations from Perplexity !! #PerplexityComputer #StockPitch #Investing #MercadoLibre #LatAm #Fintech ...more",
+        "img": null,
+        "id": "7447387465642029057"
+      },
+      {
+        "interaction": null,
+        "link": "https://www.linkedin.com/posts/university-of-notre-dame_last-night-more-than-2000-students-gathered-activity-7424532934147121152-3XvA",
+        "title": "Last night, more than 2,000 students gathered on North Quad for Mass inside an ice chapel built by seniors and Coyle Hall RAs Wesley Buonerba and Martin Soros. Soros, a civil engineering major, and Buonerba, who studies architecture, spent over 50 hours constructing the chapel. Everything from the crucifix, candle holders, cross, and altar was created or carved from a mixture of snow and water. ...more ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D5610AQFti2m5ZSPZow/image-shrink_800/B56Zwk9VcLHIAk-/0/1770146584693?e=2147483647&v=beta&t=nL8aYxaHC2lKgXF_O9eZBEKJJHmosHSDgwBjkVmV88k",
+        "id": "2000"
+      },
+      {
+        "interaction": null,
+        "link": "https://www.linkedin.com/posts/michaellasalle_shamrock-promotes-howard-lasalle-to-co-president-activity-7356314902879236096-3vk7",
+        "title": "Fired up to help lead this amazing place with Andy and our partners.",
+        "img": "https://media.licdn.com/dms/image/sync/v2/D4E27AQGp0zlxCwpAkA/articleshare-shrink_800/B4EZhbVfYIGYAI-/0/1767239139381?e=2147483647&v=beta&t=qap_aPSNcVCpNLxM0Mmt2o99nxJKi0Mw3dzK5K2zB9Q",
+        "id": "7356314902879236096"
+      },
+      {
+        "interaction": "Carter LaSalle shared this",
+        "link": "https://www.linkedin.com/posts/carter-lasalle_splashin-1pdf-activity-7352055302143307776-ZTXw",
+        "title": "\ud83d\udea8 CVEs Assigned \u2014 My First Public Vulnerability Disclosure \ud83d\udd0d Over the past few months, I conducted a comprehensive security audit of the Splashin iOS app, which is used by students nationwide for Senior Assassin games. The result? I discovered and responsibly disclosed two critical vulnerabilities: \u2022 \ud83e\udde0 CVE-2025-45156: Real-time location tracking exploit \u2022 \ud83d\udd13 CVE-2025-45157: Premium feature access control failure These bugs allowed free-tier users to bypass subscription restrictions, force real-time location updates, and access private user data, without any server-side validation. I\u2019ve published a full technical report with proof-of-concept scripts, impact analysis, and remediation guidance: \ud83d\udc49 https://lnkd.in/gZ3TsDmQ \ud83d\udc49 https://lnkd.in/gHK2vDue #CVE #infosec #cybersecurity #appsec #bugbounty #securityresearch #APIsecurity #OWASP #studenthacker ...more",
+        "img": null,
+        "id": "7352055302143307776"
+      },
+      {
+        "interaction": null,
+        "link": "https://www.linkedin.com/posts/carter-lasalle_im-happy-to-share-that-im-starting-a-new-activity-7209680142183403520-Gzhp",
+        "title": "I\u2019m happy to share that I\u2019m starting a new position as Project Intern at Bluestone Health\u2122 !",
+        "img": null,
+        "id": "7209680142183403520"
+      },
+      {
+        "interaction": "Carter LaSalle shared this",
+        "link": "https://www.linkedin.com/posts/carter-lasalle_animation-design-film-activity-7070092072543813633-IqV4",
+        "title": "I am excited to release my second short film, While America Sleeps! Check it out at: https://lnkd.in/g9Ht3cSj or https://lnkd.in/g__3vcTY Nominations: MAFL Showcase ANIMATION PROGRAM SELECTION MAFL Showcase Best Animated Film Nominee MAFL Showcase Best 3-D Animation Nominee MAFL Showcase Best Sound Design Nominee MAFL Showcase Best Production Design Nominee #animation #design #film ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQFtdk-JFmim5Q/feedshare-image-high-res/feedshare-image-high-res/0/1685641305032?e=2147483647&v=beta&t=fhjJs_miidGerm7SuasOydpKaJzad5ZYdKtmq7-7PvU",
+        "id": "7070092072543813633"
+      },
+      {
+        "interaction": "Carter LaSalle commented on a post 9mo",
+        "link": "https://www.linkedin.com/posts/michaellasalle_goldman-sachs-buys-talent-agency-of-tiger-activity-7394067813130334209-afQA",
+        "title": "Congratulations!",
+        "img": null,
+        "id": "7394067813130334209"
+      },
+      {
+        "interaction": "Carter LaSalle liked this",
+        "link": "https://www.linkedin.com/posts/ritchielincoln_hiring-activity-7488073516752404480-nWQe",
+        "title": "I\u2019m #hiring a team to run production-scale inference at Lila Sciences! Looking for engineers and team leaders who want to build Scientific Superintelligence on a high impact team.",
+        "img": "https://media.licdn.com/dms/image/v2/D4E0BAQEqlTpUSd_btg/company-logo_100_100/company-logo_100_100/0/1732737531284/lila_sciences_logo?e=2147483647&v=beta&t=aIkHuMw9MfIxLVECAsDoHW1qVfK1MNysN3oGBxippws",
+        "id": "7488073516752404480"
+      },
+      {
+        "interaction": "Carter LaSalle liked this",
+        "link": "https://www.linkedin.com/posts/connor-smith-nd2029_im-thrilled-to-announce-that-ive-been-selected-activity-7485851202107166720-YOQ-",
+        "title": "I'm thrilled to announce that I've been selected to join Project Destined's Summer 2026 Real Estate Private Equity Virtual Internship. This is an exciting step as I continue building toward a career in finance. Over the next five weeks, I'm looking forward to sharpening my skills in financial modeling, property valuation, and deal analysis, while working alongside a talented cohort of students from across the country. I'm especially looking forward to the live deal competition and the chance to learn directly from professionals with real experience in the industry. Special thanks to Cedric Bobo and the Project Destined team for their guidance and support.",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQH65sDwMNTyrA/feedshare-shrink_800/B56Z.MWALyGgAc-/0/1784766006258?e=2147483647&v=beta&t=hvooB_CuKLbA57H7F95ilIYiyBd84lEvUM3dmmha1yc",
+        "id": "7485851202107166720"
+      },
+      {
+        "interaction": "Carter LaSalle liked this",
+        "link": "https://www.linkedin.com/posts/owen-balint-0b98a0379_as-the-month-of-july-comes-to-a-close-i-activity-7486073079169732608-Pef4",
+        "title": "As the month of July comes to a close, I want to reflect on an incredible summer as a Commercial Real Estate Brokerage Intern. This summer has given me a real seat at the table in South Bend\u2019s CRE market. I\u2019ve had the opportunity to assist in market and property research using Dealius and industry databases, helping evaluate comparable transactions and market demand to support brokerage initiatives. Bradley Company has shown me how local market knowledge and community relationships drive value in commercial real estate. I am incredibly grateful for the constant mentorship and hands-on experience from day one. This experience has only sharpened my interest in commercial real estate, and I am excited to keep building a career in the space.",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQEeQKJBqBSKXg/feedshare-shrink_800/B56Z.Pfy7oG4Ag-/0/1784818905056?e=2147483647&v=beta&t=GGEeP2fvwzbFQCt3Oba5KqXLeXrgVyyb4RaiEp041UA",
+        "id": "7486073079169732608"
+      },
+      {
+        "interaction": "Carter LaSalle liked this",
+        "link": "https://www.linkedin.com/posts/williamhgates_experimentation-is-critical-to-scientific-activity-7477716718023340032-4Dyv",
+        "title": "Experimentation is critical to scientific discovery, but moving from hypothesis to insight often takes years. I recently visited Lila Sciences , where AI and robotics are being used in the lab to speed up that process\u2014by generating hypotheses, running experiments, learning from results, and deciding what to test next in real time. In short: These technologies are help scientists explore more ideas, more quickly.",
+        "img": "https://media.licdn.com/dms/image/v2/D4E05AQEmqUpzRzeFSQ/videocover-high/B4EZ8YvmqaHMBQ-/0/1782826577030?e=2147483647&v=beta&t=tKB9_z4SCEBZbpnaAZEXI9xmrp-OLws06KBJFTGhOJg",
+        "id": "7477716718023340032"
+      },
+      {
+        "interaction": "Carter LaSalle liked this",
+        "link": "https://www.linkedin.com/posts/cece-terpening-3b9115310_i-am-beyond-thrilled-to-share-that-i-have-activity-7472695254693896193-GFrQ",
+        "title": "I am beyond thrilled to share that I have joined the D\u00f4en team this summer as a Public Relations Intern! I\u2019m eager to support such a storied brand whose identity I deeply admire, and look forward to continuing to develop my skills at the intersection of storytelling, culture, and brand strategy. A very special thank you to Alexandria Davis for your support throughout this process, and to Kristen Kiehm , Rachel Bankston , and Jennifer Olson for entrusting me with this opportunity. Excited for a great summer!",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQGx8GZEikPESg/feedshare-shrink_800/B56Z7M7OEKIoAc-/0/1781554536947?e=2147483647&v=beta&t=pw_it8N_duH7nBVrMGJLKXCPuz6yhJgAmWypV4M7tOc",
+        "id": "7472695254693896193"
+      },
+      {
+        "interaction": "Carter LaSalle liked this",
+        "link": "https://www.linkedin.com/posts/university-of-notre-dame_on-monday-pope-leo-xiv-released-his-first-activity-7465771426348765186-XQUv",
+        "title": "On Monday, Pope Leo XIV released his first encyclical, Magnifica humanitas (Magnificent humanity), which provides moral guidance on safeguarding the human person in the time of AI. We asked six Notre Dame faculty members what they took away from it: https://go.nd.edu/cbdf34",
+        "img": "https://media.licdn.com/dms/image/v2/D5610AQErUx0dJUYGBA/image-shrink_800/B56Z5u_iKWHYAg-/0/1779978609981?e=2147483647&v=beta&t=hxocKlPWYvu9pO3coQ2tpN2BsOGiU0-2nxcwRzmIxLQ",
+        "id": "7465771426348765186"
+      },
+      {
+        "interaction": "Carter LaSalle liked this",
+        "link": "https://www.linkedin.com/posts/jonathanperezgomez_this-year-at-notre-dame-has-taught-me-a-valuable-activity-7467425988449251328-FIpK",
+        "title": "This year at Notre Dame has taught me a valuable lesson about gratitude. It\u2019s been one year since my dream of being admitted into a US university with a full scholarship was fulfilled. And every day, I believe more and more that Notre Dame was the best option for me. The academic level has certainly challenged me, and it is preparing me to become a great businessman who advocates for social good. But beyond that, the university has allowed me to create a new family. Never in my life had I ever met people with aligned ambitions and social concerns who were eager to support me and truly wanted to see me grow, besides my own family. It has been an amazing opportunity to grow my faith with the community and find people equally passionate about social impact and solving problems in the world. Last week, I sat down with Matt B. , a Notre Dame MBA alumnus, in Puerto Vallarta, and within minutes, we were exchanging stories like old friends. That kind of connection still catches me off guard. I am so thankful to this institution and the community for welcoming me with open hearts. Some Alumni from my community, like Carlos Briseno or Juan Carlos Ousset (not pictured), have reunited with me and shared great insights about Notre Dame and life advice, becoming amazing life mentors. Thanks to the incredible culture present at ND, I have been able to form deep connections with alumni and current MBA students from my own hometown, like Patricio Ortiz , whom I approached at the airport because he was wearing Notre Dame merch. He is now one of my closest friends despite being ten years older than me, and I invited him and his wife to have dinner at my house down in Mexico a few weeks ago. Today, I am travelling for free as a part of an academic opportunity brought by ND to practice research and social service in Chile. This is something that young Jonathan would only ever dream of. Often, I get stressed by the daily routine and all the responsibilities coming my way as a young adult, but I am thankful to say that I now have some of the things I dreamed of many years ago. Notre Dame is truly helping me grow as a whole person by getting me closer to great people and nurturing positive values in my soul. I just wanted to share this message with my network to thank you all for being there and to let you know that I am here too, eager to support my community as they support me. I hope to keep working to fulfill my dreams and be there if I can help you fulfill yours. God Bless! Go Irish! \u2618\ufe0f",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQFFlZ1VHQi3Yg/feedshare-shrink_800/B56Z6GgW..H0Ac-/0/1780373090558?e=2147483647&v=beta&t=0zM5F-jU46-jbc95g3Mlnd0K_q2fNKvVpiYYuNv6f0A",
+        "id": "7467425988449251328"
+      },
+      {
+        "interaction": "Carter LaSalle liked this",
+        "link": "https://www.linkedin.com/posts/shamrock-capital_shamrock-capital-launches-fourth-content-activity-7462900574502563840-4qaD",
+        "title": "Sharing Variety 's coverage of Shamrock Capital\u2019s final close of Shamrock Capital Content Fund IV with $813 million in commitments. The fund marks Shamrock\u2019s fourth content acquisition fund under our Content Strategy, which launched in 2015, and reflects our continued focus on acquiring premium, cash flow-generating content and media rights across the evolving global entertainment landscape. Read the full article here: https://lnkd.in/gqyUjcKM",
+        "img": "https://media.licdn.com/dms/image/sync/v2/D5627AQH1gWLfPGmn7w/articleshare-shrink_1280_800/B56Z5GDDBHHYAk-/0/1779291664948?e=2147483647&v=beta&t=WR_Af1HaKbOax9MgP4xplKKpny7IguIiWlrZFmgKrYs",
+        "id": "7462900574502563840"
+      }
+    ],
+    "linkedin_num_id": "1035973466",
+    "banner_image": "https://media.licdn.com/dms/image/v2/D5616AQG3Lu1ZMWvTDQ/profile-displaybackgroundimage-shrink_200_800/B56Zvo746eKIAg-/0/1769139573413?e=2147483647&v=beta&t=oFuxc9yyXcdIyGj_8Hpw3UOF_XnBo0pLO1B_j7xS3Oo",
+    "honors_and_awards": [
+      {
+        "title": "AP Scholar with Distinction",
+        "publication": "College Board",
+        "date": "2025-01-01T00:00:00.000Z",
+        "description": "Every fall, the AP Program recognizes high school students who have demonstrated outstanding college-level achievement through their performance on multiple AP Exams. The AP Scholar with Distinction Award is granted to students who receive an average score of at least 3.5 on all AP Exams taken, and scores of 3 or higher on five or more of these exams."
+      },
+      {
+        "title": "AP Scholar with Honor",
+        "publication": "College Board",
+        "date": "2024-01-01T00:00:00.000Z",
+        "description": "Every fall, the AP Program recognizes high school students who have demonstrated outstanding college-level achievement through their performance on multiple AP Exams. The AP Scholar with Honor Award is granted to students who receive an average score of at least 3.25 on all AP Exams taken, and scores of 3 or higher on four or more of these exams."
+      }
+    ],
+    "similar_profiles": [],
+    "default_avatar": false,
+    "memorialized_account": false,
+    "bio_links": [
+      {
+        "title": "Personal Website",
+        "link": "https://carterlasalle.com/"
+      }
+    ],
+    "first_name": "Carter",
+    "last_name": "LaSalle",
+    "influencer": false,
+    "timestamp": "2026-08-12T19:25:14.908Z",
+    "input": {
+      "url": "https://www.linkedin.com/in/carter-lasalle"
+    }
+  },
+  "local_photo": "data\\linkedin_photos\\carter-lasalle__usr-epskoBhhUAOh8Qr.jpg"
+}

@@ -1,0 +1,286 @@
+{
+  "luma_user_id": "usr-lER1yhHfEp9nI7q",
+  "csv_name": "Syed Rayyan Ali",
+  "csv_linkedin": "https://www.linkedin.com/in/syed-rayyan-ali-665b27245",
+  "enriched_at": "2026-08-12T19:18:07.771172+00:00",
+  "batch_id": "sd_msqh0fwb1tv6mjnbrd",
+  "profile": {
+    "id": "syed-rayyan-ali-665b27245",
+    "name": "Syed Rayyan Ali",
+    "city": "San Francisco Bay Area",
+    "country_code": "US",
+    "position": null,
+    "about": "olympiad finalist, 2x SWE intern , 1x Berkeley Hackathon Winner and most important of all\u2026",
+    "current_company": {
+      "link": "https://www.linkedin.com/company/presto-ai?trk=public_profile_topcard-current-company",
+      "name": "Presto Phoenix, Inc.",
+      "company_id": "presto-ai",
+      "location": null
+    },
+    "experience": null,
+    "url": "https://ca.linkedin.com/in/Syed-rayyan-ali-665b27245",
+    "educations_details": "University of California, Berkeley",
+    "education": [
+      {
+        "title": "University of California, Berkeley",
+        "url": "https://www.linkedin.com/school/uc-berkeley/",
+        "start_year": "2023-08",
+        "end_year": "2027-12",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      },
+      {
+        "start_year": "2021-08",
+        "end_year": "2023-05",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      }
+    ],
+    "avatar": "https://media.licdn.com/dms/image/v2/D5603AQGGAXQTxUq7qg/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1709424796096?e=2147483647&v=beta&t=8ThJ0Hkh2j78Zwhy0OaZldyfQy6OX1JY1SQ3stL6gGk",
+    "courses": [
+      {
+        "subtitle": "-",
+        "title": "A level Chemistry"
+      },
+      {
+        "subtitle": "-",
+        "title": "A level Mathematics"
+      },
+      {
+        "subtitle": "-",
+        "title": "A level Physics"
+      },
+      {
+        "subtitle": "-",
+        "title": "A levels Environmental Science"
+      }
+    ],
+    "languages": [
+      {
+        "subtitle": "Professional working proficiency",
+        "title": "Urdu"
+      },
+      {
+        "subtitle": "Native or bilingual proficiency",
+        "title": "English"
+      },
+      {
+        "subtitle": "Limited working proficiency",
+        "title": "Arabic"
+      }
+    ],
+    "certifications": [
+      {
+        "meta": "Issued Jul 2022",
+        "subtitle": "Udemy: Online Courses",
+        "title": "Introduction to Programming Using JavaScript",
+        "credential_url": null,
+        "credential_id": null
+      },
+      {
+        "meta": "Issued Jul 2021",
+        "subtitle": "The Duke of Edinburgh's International Award Foundation",
+        "title": "Duke of Edinburgh Bronze",
+        "credential_url": null,
+        "credential_id": null
+      },
+      {
+        "meta": "Issued Mar 2026 Expires Mar 2026",
+        "subtitle": "Amazon Web Services (AWS)",
+        "title": "AWS Cloud Practitioner Essentials",
+        "credential_url": null,
+        "credential_id": null
+      },
+      {
+        "meta": "Issued May 2023 Expires Jun 2023",
+        "subtitle": "ClimateScience",
+        "title": "International Climate Science Olympiad Finalist",
+        "credential_url": null,
+        "credential_id": null
+      }
+    ],
+    "volunteer_experience": [
+      {
+        "cause": "Children",
+        "duration": "Jan 2019 \u00b7 - \nJan 2020 \u00b7 \n1 year 1 month",
+        "duration_short": "- \nJan 2020",
+        "info": "We work with atypical kids on a manner of different things including block printing, sports and mathematics",
+        "start_date": "Jan 2019",
+        "subtitle": "Parents Voice Association - UJALA Centre",
+        "title": "Student Teacher"
+      },
+      {
+        "cause": "Children",
+        "duration": "Jan 2018 \u00b7 - \nFeb 2019 \u00b7 \n1 year 2 months",
+        "duration_short": "- \nFeb 2019",
+        "info": "We taught underprivileges children Math's, History and English",
+        "start_date": "Jan 2018",
+        "subtitle": "Mobile School Karachi",
+        "title": "Student Teacher"
+      }
+    ],
+    "followers": 2248,
+    "connections": 500,
+    "current_company_company_id": "presto-ai",
+    "current_company_name": "Presto Phoenix, Inc.",
+    "projects": [
+      {
+        "title": "BrowseCraft: Synthetic Data for Robotics (YC Hackathon) | Python, Claude API, Browser Use, RL Evaluation",
+        "description": "\u2022 Built a \u201cClaude Code for Minecraft\u201d agent framework that controls a Minecraft environment via Browser Useagents to autonomously generate synthetic trajectories for robotics training.\u2022 Implemented a reinforcement learning evaluation loop to score agent performance and filter high-qualitytrajectories for downstream policy learning."
+      },
+      null,
+      {
+        "title": "Skillforge: Autonomous Skill Generation for LLM Agents (YC Hackathon) | Python, Claude API, Browser Use",
+        "description": "\u2022 Developed an autonomous skill-generation engine enabling LLM agents to dynamically synthesize reusablecapabilities from prior task executions.\u2022 Integrated the system into Browser Use (YC) as a core feature expanding agent capabilities."
+      }
+    ],
+    "location": null,
+    "input_url": "https://www.linkedin.com/in/syed-rayyan-ali-665b27245",
+    "linkedin_id": "syed-rayyan-ali-665b27245",
+    "activity": [
+      {
+        "interaction": "Syed Rayyan Ali shared this",
+        "link": "https://www.linkedin.com/posts/syed-rayyan-ali-665b27245_this-is-not-a-generic-startup-school-post-activity-7489091443970465792-ueEG",
+        "title": "This is not a generic startup school post.. Here were my favorite parts: First - We snuck into the Stripe after party (after registration had closed) by using using one guy\u2019s ticket. (The point here is if you want something you can always find a way to get it) I think the most valuable thing I got was when I was invited to an exclusive invite only event with only 10 people with the founder of Alex.com (Aaron) and YC partner Nicolas Dessaigne. This was especially interesting because I asked them two specific questions that I think are key to any successful company. \u201cHow do you hire people smarter than you?\u201d \u201cHow do you get your first customer?\u201d Aaron didn\u2019t actually answer the first question, it was rather vague but Nicholas shared some perspective which lit a spark on me . It comes down to two things \u201cconviction of the founder.\u201d \u201cAnd accepting that people are smarter than you\u201d - imagine that in a French accent. The second question was something I had asked all the founders at YC startup school. One interesting one was \u201cI flew to Louisiana in person for my first demo\u201d - Bild AI Aaron\u2019s was similar his Ai was broken so he hand transcribe what the Ai was supposed to do after it broke on his first demo. It\u2019s not standard to anyone, the only rule is ship and talk about it loudly to anyone who will Listen . The whole point of this is to open source as much closed knowledge as possible, since unfortunately not everyone has access to these people. I\u2019m curious what your answers are to those two questions. Also shout to Enes Yilmaz and Ali Tariq for being born. this is us at the aforementioned Stripe party. ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQEFANDuA8Nb7Q/feedshare-image-high-res/B56Z.6Y.a7GUAU-/0/1785538539201?e=2147483647&v=beta&t=e-gDz5FwHU3QcZvRDXSne5PjZSgsz6wU6x7iqJODHeI",
+        "id": "7489091443970465792"
+      },
+      {
+        "interaction": null,
+        "link": "https://www.linkedin.com/posts/yerulan-kongrat_update-the-fundraising-goal-has-been-reached-activity-7487883536994140160-S1mQ",
+        "title": "UPDATE: The fundraising goal has been reached, and the fundraiser is now closed. Thank you to everyone who made this possible. Hello everyone! My name is Yerulan, and I'm from Kazakhstan. I recently graduated from Nazarbayev University, and I'm excited to share that I've been admitted to the MSc in Computer Science program at ETH Zurich. I come from a low-income family in Kazakhstan, and most of my education so far has been possible because of programs that reduced the role of finances, from Nazarbayev Intellectual Schools and support at Nazarbayev University as a student in a socially vulnerable category to a fully funded research internship at MBZUAI. These opportunities made it possible for me to focus on learning. With this support, I was able to graduate from Nazarbayev University ranked 1st in my Computer Science cohort. I now have the opportunity to continue my studies at ETH Zurich, but the financial barrier to taking this next step is much higher. The main challenge is covering the initial period. As a non-EU/EFTA student, I cannot work outside ETH during my first six months in Switzerland. In the meantime, I'm actively looking for Teaching Assistant positions within my department, but I still need support to make the beginning of my studies possible before I can become more financially self-sustaining. I am raising CHF 10,000 (approximately USD 12.4k or KZT 5.8M) to help cover: - six months of minimum living expenses in Zurich: CHF 1,750 \u00d7 6 = CHF 10,500 - one semester of tuition: CHF 2,190 - airfare / initial travel costs: approximately CHF 300 Total: approximately CHF 13,000. In the long term, I want to use what I learn in Computer Science and ML for problems relevant to Kazakhstan and Central Asia. My previous research focused on rainfall-runoff modeling and flood prediction for Kazakhstani river basins, and I want to keep building skills that can be useful for climate and NLP challenges back home. Thank you! ...more ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQEdOVja3G5tIQ/feedshare-shrink_800/B4EZ.pOZSTHwAg-/0/1785250552407?e=2147483647&v=beta&t=X2XjOm9ZTSLbMdFZhER4amrVhrs2iNVDW0CF1VirZLs",
+        "id": "7487883536994140160"
+      },
+      {
+        "interaction": "Syed Rayyan Ali shared this",
+        "link": "https://www.linkedin.com/posts/syed-rayyan-ali-665b27245_yc-startup-internship-expo-activity-7485156080080015360-xMz3",
+        "title": "Its not lost on me how lucky I am to be in the bay area, coming from Pakistan I had zero exposure to what was possible with just my own efforts. Then I met kids who are self-made millionaire, students my age who built things I use ( Willow ), while the monetary aspect is cool, what I realized in hindsight was the fact that the people who were successful were the ones who do it for the love of the game. They just loved building ;) -If you know me this is what I like to do for better or worse (for my wallet) The biggest ROI I've had in my short time on this earth was joining a startup shoutout Roger Healthcare . You just need one opportunity to change your life. Here are are some career fairs where you realistically can learn from some of the best. https://luma.com/4gwg4wtw - Comma Capital - Pylon (etc) https://lnkd.in/ggvnMXxe - (YC Startup Fair) - All the newest batch (YC 24, 25, 26) ...more",
+        "img": "https://media.licdn.com/dms/image/sync/v2/D5627AQEKev2nn_5Mmw/articleshare-shrink_800/B56Z7b16jdIMAY-/0/1781804806611?e=2147483647&v=beta&t=ypk3J8US3DnIVa-_qVMpoS90Ct9ZxBItgd9rzZJtPn0",
+        "id": "7485156080080015360"
+      },
+      {
+        "interaction": "Syed Rayyan Ali shared this",
+        "link": "https://www.linkedin.com/posts/syed-rayyan-ali-665b27245_ah-yes-ever-since-i-was-a-zygote-i-have-wanted-activity-7484536266525405184-jZ6D",
+        "title": "Ah yes ever since I was a zygote I have wanted to transform unstructured data into actionable business insights and turns out it pays to be early (take note investors) you get rewarded with loot boxes\u2026 and a whole stadium rented out for you Special thanks to Greylock Partners for hosting the Techfair 2026! I got the chance to meet some absolute engineering goats \ud83d\udc10, be inspired, ask some hella dumb questions and come out with 10x the knowledge than I would of had if I pretended to know what I did not. Some of the people who made me feel very bontia to share the space with them were: Baseten (giving out a book is so top class) Modular OpenAI Lightfield Long Lake LlamaIndex Instawork Harvey Cresta Snorkel AI Nuro ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQGJAJ6rEphYLw/feedshare-image-high-res/B56Z95m40FHIAU-/0/1784451665749?e=2147483647&v=beta&t=bYlW-O9ThS-vW4dJ8ULwqfWQ5VrWz8vQabteEA6n2Ec",
+        "id": "7484536266525405184"
+      },
+      {
+        "interaction": "Syed Rayyan Ali shared this",
+        "link": "https://www.linkedin.com/posts/syed-rayyan-ali-665b27245_i-will-be-at-yc-startup-school-this-year-activity-7454794927395344385-v6ui",
+        "title": "I Will be at YC Startup School this year, I Genuinely Cant wait to some of the goats \ud83d\udc10 in person like Jensen Huang - CEO NVIDIA , Sam Altman - CEO OpenAI , Alexandr Wang - Prev CEO Scale AI , now CIO Meta and Jeff Dean - Google DeepMind and many more! Hit me up if your coming! , Would love to meet everyone who is going, Specifically If you are building something in Reinforcement Learning or Physical AI ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D5605AQHnI6MSpmzUXg/videocover-high/B56Z3TAdy9IIBM-/0/1777361608944?e=2147483647&v=beta&t=_NUEuSr5_D40N57ZmhJ9x1eye1rJWGNQQFw6ulMvs8I",
+        "id": "7454794927395344385"
+      },
+      {
+        "interaction": null,
+        "link": "https://www.linkedin.com/posts/syed-rayyan-ali-665b27245_im-giving-away-100-in-codex-credits-activity-7440832375691055104-OvyI",
+        "title": "\ud83d\udea8 I\u2019m giving away $100 in Codex credits to each student No catch. No fluff. Just building tools that actually matter. Only for American and Candian Students for now! If you\u2019re even slightly curious about building with AI, this is your sign. Comment \u201cCODEx\u201d and Connect with me\u2014 I\u2019m sending it to everyone! This probably won\u2019t last so be quick! OpenAI ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQE0twX0Ltp-Cw/feedshare-shrink_800/B56Z0MlnkNJIAc-/0/1774032681456?e=2147483647&v=beta&t=zV6-WMawMav-zobBESGw8FVtDq3ThMKOomzxLaDA9D0",
+        "id": "100"
+      },
+      {
+        "interaction": "Syed Rayyan Ali shared this",
+        "link": "https://www.linkedin.com/posts/syed-rayyan-ali-665b27245_im-giving-away-100-in-codex-credits-activity-7440832375691055104-OvyI",
+        "title": "\ud83d\udea8 I\u2019m giving away $100 in Codex credits to each student No catch. No fluff. Just building tools that actually matter. Only for American and Candian Students for now! If you\u2019re even slightly curious about building with AI, this is your sign. Comment \u201cCODEx\u201d and Connect with me\u2014 I\u2019m sending it to everyone! This probably won\u2019t last so be quick! OpenAI ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQE0twX0Ltp-Cw/feedshare-shrink_800/B56Z0MlnkNJIAc-/0/1774032681456?e=2147483647&v=beta&t=zV6-WMawMav-zobBESGw8FVtDq3ThMKOomzxLaDA9D0",
+        "id": "100"
+      },
+      {
+        "interaction": "Syed Rayyan Ali shared this",
+        "link": "https://www.linkedin.com/posts/syed-rayyan-ali-665b27245_ychackathon-browserusehackathon-aiagents-activity-7439798845645099008-Vuaj",
+        "title": "AI playing Minecraft is cool, but we wanted to build something that has never been done. Claude Code in Minecraft That Can Generate Any Mob you can think of with custom -skills, texture and abilities. One Step Closer to AGI For the Y Combinator x Browser Use Agent Hackathon, we turned Claude into a live, malicious game engine. Meet BrowseCraft. It is an AI agent that intercepts raw game data, hallucinates entirely new enemies, codes their custom abilities on the fly, and injects them into the server live while you play. The best part? It has zero hardcoded vanilla bias. Because BrowseCraft reads raw entity registries, it is completely data-agnostic. That means you can drop it into literally ANY custom Minecraft modpack. It instantly parses the new mechanics, cross-breeds assets, and invents custom nightmares using that specific mod's ecosystem. The video below shows it mutating vanilla Minecraft, but the architecture is built to infect anything. This is where I need your help: Drop your most chaotic, complex Minecraft modpacks in the comments. I am going to let the agent loose on the top suggestions tonight and post the results. What should we infect next? \ud83d\udc47 #YCHackathon #BrowserUseHackathon #AIAgents #Claude #GameDev #Engineering ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D5605AQHqt0XRTNh7sg/videocover-high/B56Zz95k6YKYBY-/0/1773786257746?e=2147483647&v=beta&t=cYo65p-_BnbkJoHUSDIvEE49R2c_zINtAakC-i3XWrE",
+        "id": "7439798845645099008"
+      },
+      {
+        "interaction": null,
+        "link": "https://www.linkedin.com/posts/zubair-makda-76841788_dear-community-this-is-not-usually-something-activity-7438988446301499392-II3-",
+        "title": "Dear Community, This is not usually something I would post here but due to the important of the situation I had little choice. My daughter went missing at Lala Maryem Beach - Cassablanca in Morocco on the 28th January and she is still missing at sea after getting swept into the sea by an unexpected large wave where I also was swept in and had somehow managed to come to shore safely. Unfortunately the beach had no sign of danger and we were struck from behind by a sneaker wave and got caught up in a rip tide with little time to react. The Moroccan authorities have been unable to find her after weeks of searches and have called off the search. We now need futher expertise to help find her. If anyone has any contacts who aware of how the sea works in that area and have expertise in sea drift modelling this would a great benefit to us to identify search areas. I am contactable via Linkedin or via my email address before I can provide my direct contact number. My email address is zubair.makda@outlook.com We also want to know if anyone has Aquaeye available to purchase or hire to aid the search. If anyone has further suggestions and is willing to help please come forward. Warm Regards Zubair ...more ...more",
+        "img": null,
+        "id": "7438988446301499392"
+      },
+      {
+        "interaction": "Syed Rayyan Ali commented on a post 5d",
+        "link": "https://www.linkedin.com/posts/aray7_how-ramp-engineers-work-with-ai-agents-at-activity-7491266574436347904-TDdc",
+        "title": "This will be an amazing watch :)",
+        "img": null,
+        "id": "7491266574436347904"
+      },
+      {
+        "interaction": "Syed Rayyan Ali liked this",
+        "link": "https://www.linkedin.com/posts/maya-alkhabaz_intuit-softwareengineering-internship-activity-7493362666254553088-xE6Z",
+        "title": "Let's get Intuit !! \ud83d\udc99 This summer, I interned at Intuit as a Software Engineer, and honestly, I couldn't have asked for a better experience. I took ownership of designing and building a GenAI-powered personalization proof of concept, end to end, as a real backend service. Along the way, I got hands on with: \ud83d\udd39Python, FastAPI, GraphQL, LLMs, and enterprise backend systems \ud83d\udd39backend engineering, architecture and system design, and API integration \ud83d\udd39built-in validation + content-quality evaluation, reaching 100% compliance and personalization in testing Huge thank you to my manager Miguel Zavala , the best recruiter ever Naeema Kaleem , my team, and my mentors for answering my questions, reviewing my designs, and helping me grow into a more confident engineer. Thank you Intuit for an unforgettable summer. \ud83d\udc99 Excited for what\u2019s next! \ud83d\ude80 #Intuit #SoftwareEngineering #Internship",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQGpJ79LEP28RQ/feedshare-image-high-res/B56Z_0jkFrHcAY-/0/1786514391950?e=2147483647&v=beta&t=EnL4RlmBW1Btqla_pA-l6duVPe6M5dBibLBbqSyv6Po",
+        "id": "7493362666254553088"
+      },
+      {
+        "interaction": "Syed Rayyan Ali liked this",
+        "link": "https://www.linkedin.com/posts/ahmedissabassam_urgent-request-to-support-a-gazan-cambridge-activity-7489597675672317952-dQXm",
+        "title": "\u203c\ufe0f Urgent Request to Support a Gazan Cambridge Admission Offer Holder \u203c\ufe0f At the Scholarships For Ghazza (SFG) community, we have a student who has been accepted to the MPhil in Advanced Computer Science at the University of Cambridge. She holds a bachelor's degree in Mathematics and has completed training through the Massachusetts Institute of Technology (MIT) Emerging Talent Programme in Computer Science and the Data Science Program. She applied for admission during the genocide, but she never stopped learning or working toward her dream. Being accepted to the University of Cambridge was not easy. She successfully went through a highly competitive interview and selection process. We are currently seeking to help her with the following fees; - Tuition fees: \u00a348,192 - Living costs: \u00a314,895 The student has secured \u00a320,000 in partial funding toward her tuition fees. She is currently seeking additional funding opportunities from various institutions. We kindly ask that her case be raised with the appropriate decision-makers to explore the possibility of a tuition fee waiver and help save her place at Sidney Sussex College, Cambridge .",
+        "img": null,
+        "id": "7489597675672317952"
+      },
+      {
+        "interaction": "Syed Rayyan Ali liked this",
+        "link": "https://www.linkedin.com/posts/hungweiwu_i-did-y-combinator-with-founders-of-legora-activity-7492988255844478976-wHuD",
+        "title": "I did Y Combinator with founders of Legora , Reducto , and Greptile . Today, W24 has raised close to $2 billion. Two years ago, none of us had it figured out. Nobody in that room could tell you who was going to make it. Not the partners, not the investors circling demo day, definitely not us. But I spent that batch watching the other teams, and it taught me more than most of the advice ever did. 1. The idea you apply with is rarely the one that wins. Some companies are stuck in pivot hell, trying to figure out what to build. Half the batch looked completely different by just demo day. 2. You also can't pick the winner from a demo. I was in a group with Reducto and Raindrop . Incredible founders, but on paper, none of us looked obviously destined for anything. The teams who took off just learned faster, and the market they picked mattered less. 3. The people matter more than the company. The startup you meet in the batch might not exist in a year, but the person will. It\u2019s why the batch still pays off two years later. - Some of the founders I met in W24 are Momentic customers now. - Some have grown into people who shape what we build next. - Some are just the people I text when a six-figure deal falls apart and I need someone who actually gets it. So if you're in the batch right now: you have no idea which of you will become the next billion-dollar company. Neither did we. But be generous with the teams around you, and stay in touch long after demo day. In a couple years, any one of them could be your best customer, your closest advisor, or the only person who understands exactly what you're going through. I\u2019m grateful I got to learn from that batch, and that two years later I still get to call some of them my closest friends.",
+        "img": "https://media.licdn.com/dms/image/v2/D5610AQG428prH9ZHYw/image-shrink_800/B56Z_xxHDMG0Ag-/0/1786467611213?e=2147483647&v=beta&t=V6H-E1s4yINB6fcBv-60-ZhrERtqc1iWPVay2e6OLe4",
+        "id": "7492988255844478976"
+      },
+      {
+        "interaction": "Syed Rayyan Ali liked this",
+        "link": "https://www.linkedin.com/posts/zainab-zahid-875b15212_a-little-late-and-copying-afshad-sidhwa-activity-7492975184673669120-E_1q",
+        "title": "A little late (and copying Afshad Sidhwa and Adeenah Tabani from last summer) but Ammar Mohammad Dagha , Salik Jangda , and I are saddened to announce that our internship at Systems Limited has come to an end. Thank you to everyone who was so kind to help and guide us over the six weeks. Looking forward to whatever comes next!",
+        "img": "https://media.licdn.com/dms/image/v2/D4D22AQHIBlC3OSwiqw/feedshare-shrink_800/B4DZ_xlNZxJ4Ag-/0/1786464495222?e=2147483647&v=beta&t=RE9-rAQLU9SSxPu9eeAzFwh5mQDpxpx6Z13f2jwoijg",
+        "id": "7492975184673669120"
+      },
+      {
+        "interaction": "Syed Rayyan Ali liked this",
+        "link": "https://www.linkedin.com/posts/nameerafaisal_finally-posting-on-here-to-share-two-things-activity-7492658045408284672-A6A6",
+        "title": "Finally posting on here to share two things I\u2019m excited about! \ud83c\udf89 1. I\u2019m officially starting a new role as an AI Forward Deployed Engineer at IBM ! As I mark four years here, I\u2019m excited to take on a role that brings together a lot of what I\u2019ve enjoyed most over the past few years: working closely with clients and building AI solutions. 2. Slightly late, but I\u2019m officially one year into my Master\u2019s program in Data Science at Columbia University ! Balancing work and school was definitely a learning curve, but it\u2019s also been one of the most rewarding parts of the past year. Looking forward to the year ahead and continuing to work alongside some incredibly talented people!",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQGRsSRdDea0sg/feedshare-shrink_800/B4EZ_tEyk9HwAc-/0/1786388884148?e=2147483647&v=beta&t=bgpYFuWjvy45B5YSFWIRJitaTgfkY42hJUXQEi6bET8",
+        "id": "7492658045408284672"
+      },
+      {
+        "interaction": "Syed Rayyan Ali liked this",
+        "link": "https://www.linkedin.com/posts/jfiance_i-recently-found-an-old-article-about-me-activity-7492958089214820352-F5eA",
+        "title": "I recently found an old article about me from when I was still a student at Berkeley, and at the time, I wrote this: \u201cI was always entrepreneurial, but I just didn\u2019t realize it until I reached college.\u201d That still feels pretty accurate. I didn\u2019t arrive at Berkeley with a five-year plan to start companies or become a venture capitalist. I just knew I liked building things, chasing ideas that seemed interesting, helping talented people achieve their potential, and bringing people together. Then, during my first semester, I entered a Berkeley entrepreneurship competition (judged by successful entrepreneurs) with an edtech idea called LectConnect and won an award. It was one of the first times I saw entrepreneurship as something I could actually do. From there, I started spending more time trying to find other student founders. There were no clubs for startups, so I decided to build the community I wished had existed when I first arrived. Reading that article again made me think about how many students are probably in the same position today. They may already have all the instincts of a founder - curiosity, ambition, a tendency to question how things work, an urge to build something better - without having a name for any of it yet. Sometimes all it takes is the right event, class, club, competition, co-founder, or community to make that possibility visible. That\u2019s one of the things I love most about Berkeley. There are thousands of students on campus right now who haven\u2019t figured out what they\u2019re capable of yet. It feels great to \u201cgo for it.\u201d Here\u2019s me on the New Year Stock Exchange as a student in ~2011 presenting one of the top 50 startups globally at the Kairos Summit. If you\u2019re at Berkeley and starting to build something, especially once the idea starts becoming real, reach out. You don\u2019t need to have everything figured out. You don\u2019t need the perfect pitch deck or a company that already looks \u201cventure-backable.\u201d The House Fund exists to support Berkeley founders early, and we\u2019re always happy to be a resource - whether that means feedback, an introduction, advice, or eventually a check.",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQEav2Rw77EDGA/feedshare-shrink_800/B56Z_v3bEaJcAc-/0/1786435711811?e=2147483647&v=beta&t=MFaJ1SKzqf9LIGgaTql2sD4AbFTg6d52O6SUpd5qA4o",
+        "id": "7492958089214820352"
+      },
+      {
+        "interaction": "Syed Rayyan Ali liked this",
+        "link": "https://www.linkedin.com/posts/zehra-siddiqi-b939a935b_two-weeks-into-my-internship-at-getz-pharma-activity-7492831712834506752-rvFH",
+        "title": "Two weeks into my internship at Getz Pharma, working in Marketing and Sales at the new Astola head office, and the halfway point feels like a good moment to share what I have learned so far. Most of my time has gone to Sem-P, our semaglutide, working alongside the team behind it. What has struck me most is how much clinical depth underpins commercial decisions. Coming from a biology degree meant I could follow the science from day one, and that has proved far more valuable than I anticipated. I have also been given real room to contribute. My marketing ideas were taken seriously and discussed properly, which speaks to how the team operates. Everyone in the room is invited to have a view, and that is not something I took for granted as an intern. That openness carries into how the work gets done. Marketing presents the coming months to sales managers, sales respond with what they are seeing in the field, and the plans that emerge are stronger for it. Cross functional collaboration reads very differently on paper than it looks in practice. The scope widens from here. This week I am learning business strategy and its frameworks, and later in the internship I move into production and quality control, which should give me a full view from how these medicines are made through to how they reach patients. Three weeks to go, and plenty still to learn. Grateful to Getz Pharma for the opportunity!!",
+        "img": null,
+        "id": "7492831712834506752"
+      },
+      {
+        "interaction": "Syed Rayyan Ali liked this",
+        "link": "https://www.linkedin.com/posts/neel-nanda%F0%9F%94%B8-993580151_my-mats-applications-are-open-come-do-research-activity-7492565697940656129-hg2x",
+        "title": "My MATS applications are open! Come do research mentored by me. Due Sept 4. All backgrounds welcome! I've supervised 60 scholars and they get better each cohort, I'm excited to meet this round's! The application: spend a weekend doing a safety research task Scholar highlights: If you want to work full-time as a mech interp researcher, MATS is a great program - whether for your first job out of undergrad, or a career transition program Many of my alumni do interp research full-time, including ~20 at frontier AGI labs Apply: tinyurl.com/neel-mats-app To apply, do a small research task and tell me what you find. I'm also open to non-interpretability apps, see doc. Sorry it's so high effort! I want to be meritocratic, and give a fair chance to prove yourself I don't want to waste your time, but I think it's educational And if that sounds like your idea of fun, you may be a good fit! See much, much more detail here: tinyurl.com/neel-mats-app If you're on the fence, I tried to put lots of generally useful advice in the doc! See: - Advice on doing small research projects - Past submissions, and common mistakes - What I look for in an application - My recommended research areas - Useful resources to learn more - Advice on using LLMs when new to research And more! Check out all the tabs in the doc",
+        "img": "https://media.licdn.com/dms/image/v2/D4E10AQF1LwsTwd3fSw/image-shrink_800/B4EZ_rwy1eJMAk-/0/1786366865342?e=2147483647&v=beta&t=8R5IN9eelQSMJCms49Ii9nu_jNyL6M9OSANCvLW3gZM",
+        "id": "7492565697940656129"
+      }
+    ],
+    "linkedin_num_id": "1021012205",
+    "banner_image": "https://media.licdn.com/dms/image/v2/D5616AQECY8Szl1jaAw/profile-displaybackgroundimage-shrink_200_800/B56ZvociVzKcAY-/0/1769131353756?e=2147483647&v=beta&t=J0568qzLbGCUTdj9b4II1sDZDDd2X5qSkoVPi5Z1NZ8",
+    "honors_and_awards": null,
+    "similar_profiles": [],
+    "default_avatar": false,
+    "memorialized_account": false,
+    "bio_links": [],
+    "first_name": "Syed",
+    "last_name": "Rayyan Ali",
+    "influencer": false,
+    "timestamp": "2026-08-12T19:17:01.095Z",
+    "input": {
+      "url": "https://www.linkedin.com/in/syed-rayyan-ali-665b27245"
+    }
+  },
+  "local_photo": "data\\linkedin_photos\\syed-rayyan-ali-665b27245__usr-lER1yhHfEp9nI7q.jpg"
+}

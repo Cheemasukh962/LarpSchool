@@ -1,0 +1,208 @@
+{
+  "luma_user_id": "usr-yBYYCfLR5accw2Y",
+  "csv_name": "Max Xiao",
+  "csv_linkedin": "https://www.linkedin.com/in/xiaomax",
+  "enriched_at": "2026-08-12T19:12:29.397662+00:00",
+  "batch_id": "sd_msqgtpzbeylkhkm9p",
+  "profile": {
+    "id": "xiaomax",
+    "name": "Max Xiao",
+    "city": "Bloomfield Hills, Michigan, United States",
+    "country_code": "US",
+    "position": null,
+    "about": "Dual-degree student at the University of Michigan, pursuing Computer Science at the\u2026",
+    "current_company": {
+      "link": "https://www.linkedin.com/company/grow-with-clay?trk=public_profile_topcard-current-company",
+      "name": "Clay",
+      "company_id": "grow-with-clay",
+      "location": null
+    },
+    "experience": null,
+    "url": "https://www.linkedin.com/in/Xiaomax",
+    "educations_details": "International Academy",
+    "education": null,
+    "avatar": "https://media.licdn.com/dms/image/v2/D5603AQG0MNE9sjsEgA/profile-displayphoto-scale_200_200/B56Zvn5ueQIYAY-/0/1769122230718?e=2147483647&v=beta&t=lLP6PANr8XnGMBA1UQhMbgVIgwu8dFAAdpTKaL5CEc0",
+    "followers": 1067,
+    "connections": 500,
+    "current_company_company_id": "grow-with-clay",
+    "current_company_name": "Clay",
+    "publications": [
+      {
+        "title": "Integrated Neuro-Symbolic Analysis Pipeline for Cerebral Aneurysm Rupture Diagnosis",
+        "subtitle": "Preprints",
+        "date": "March 25, 2024",
+        "description": "The importance of detecting and diagnosing the imminence of aneurysm rupture before it occurs cannot be overstated. However, this process is often time-consuming and challenging, with variability in conclusions not uncommon among experts. Furthermore, current state-of-the-art models in medical image segmentation suffer from limited availability of large annotated datasets for training, exacerbated by an immense data imbalance. In most segmentation tasks, 3D segmentation is preferred due to its capacity to leverage more contextual information. However, these models require more data, which is constrained by the aforementioned issues. In the realm of current diagnosis models, those lacking geographic context are notably ineffective. To address these issues, the aim is to develop a model pipeline to accurately detect cerebral intracranial aneurysms and diagnose rupture imminence through 3D magnetic resonance angiography (MRA) and tabular input, augmented with the implementation of neuro-symbolic ai. The utilization of data fusion to tackle the lack of context in tabular models is proposed, leveraging extracted geographical features from a segmentation model. To enhance segmentation results and tackle the data imbalance in aneurysm segmentation, a two-stage model pipeline that extracts contextual geographic features before aneurysm segmentation is suggested. Segmentation results are additionally improved through ensemble techniques and novel preprocessing techniques. Finally, a neuro-symbolic aspect is introduced to enhance model diagnosis, interpretability and performance. The multi-step Integrated Neuro-Symbolic Analysis Pipeline for Cerebral Aneurysm Rupture Diagnosis is introduced."
+      },
+      {
+        "title": "SECRNN: CONVOLUTIONAL RECURRENT NETWORK FOR SPATIAL AUDIO EVENT RECOGNITION",
+        "subtitle": "International Youth Researchers Conference"
+      }
+    ],
+    "location": "Bloomfield Hills",
+    "input_url": "https://www.linkedin.com/in/xiaomax",
+    "linkedin_id": "xiaomax",
+    "activity": [
+      {
+        "interaction": "Liked by Max Xiao",
+        "link": "https://www.linkedin.com/posts/xiaomax_im-thrilled-to-share-that-ill-be-joining-activity-7438290525146836992-d7Qf",
+        "title": "I'm thrilled to share that I\u2019ll be joining Coinbase this summer as a Software Engineering Intern in San Francisco! I want to give a huge thank you\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQEPA-k_B_oqSw/feedshare-image-high-res/B56Zzod0bGHoAY-/0/1773426657210?e=2147483647&v=beta&t=oTJ1FNXbMAn-VKMIQlA0Ibr2TDVl5808Hw04NHrB9rw",
+        "id": "7438290525146836992"
+      },
+      {
+        "interaction": "Liked by Max Xiao",
+        "link": "https://www.linkedin.com/posts/anshah18_this-summer-i-spent-10-weeks-as-a-software-activity-7492576748686053378-zgVS",
+        "title": "This summer, I spent 10 weeks as a Software Engineering Intern for the AI Platforms Beta team at DraftKings Inc. in the Boston headquarters. During\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQEfn24-czfS5A/feedshare-image-high-res/B4EZ_n9ktdKQAY-/0/1786303106893?e=2147483647&v=beta&t=E6ykosKWNiaOaHyVpMyIfzc6XqCASayGnyS6ZlJb7xE",
+        "id": "10"
+      },
+      {
+        "interaction": "Liked by Max Xiao",
+        "link": "https://www.linkedin.com/posts/samaramehta_yesterday-i-wrapped-up-my-last-day-at-palo-activity-7491923164340318209-860_",
+        "title": "Yesterday I wrapped up my last day at Palo Alto Networks, where I spent the past 12 weeks working as a Product Marketing intern for the Cortex XSIAM\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQFzurjKIGSNUQ/feedshare-image-high-res/B56Z_ioah0KEAc-/0/1786213673448?e=2147483647&v=beta&t=W1Dr4NzOljiNsaGM08B26GTmzJ07IXeu75gnwSJlawU",
+        "id": "7491923164340318209"
+      },
+      {
+        "interaction": "Liked by Max Xiao",
+        "link": "https://www.linkedin.com/posts/y-combinator_vestris-yc-s26-runs-the-entire-real-estate-activity-7491206475646754817-PRvZ",
+        "title": "Vestris (YC S26) runs the entire real estate closing process. Title insurance is the thorn in the side of every home purchase in America, and almost\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5605AQEPcU3jDPLM_Q/videocover-high/B56Z_YB8VeHUBM-/0/1786035824046?e=2147483647&v=beta&t=h9fhFcNQcqmoVcT5F1LOybONvXpvoeTLZOgz1MXVAH0",
+        "id": "7491206475646754817"
+      },
+      {
+        "interaction": "Liked by Max Xiao",
+        "link": "https://www.linkedin.com/posts/reyna-nandalur-20b915352_premed-medicine-scholarship-activity-7490420351168901120-A6ha",
+        "title": "I'm honored to share that I've been selected as a recipient of the Corewell Health William Beaumont University Hospital Scholarship Program\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQEdHle0Ef_HJg/feedshare-shrink_1280/B56Z_NRnlnJ0AM-/0/1785855375980?e=2147483647&v=beta&t=hF5gjkpktetSpmE-YQfF0MJ-LjUD4jdCpHqBES-mVFA",
+        "id": "7490420351168901120"
+      },
+      {
+        "interaction": "Liked by Max Xiao",
+        "link": "https://www.linkedin.com/posts/tswu_we-recently-participated-in-jane-streets-activity-7487734057691164675-KDR3",
+        "title": "We recently participated in Jane Street's Mystery Planet and won! My team (Dingning Cao, Yi Du, Yifan Kang, Varchas Kukreja, Devansh Shende, Laura\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQFp89zJJ5FsZQ/feedshare-shrink_1280/B56Z.nDzPeKAAQ-/0/1785214219532?e=2147483647&v=beta&t=6z6TutM8pflBT1YJZmD_TySFPGR53DKig24OvE77SoM",
+        "id": "7487734057691164675"
+      },
+      {
+        "interaction": "Liked by Max Xiao",
+        "link": "https://www.linkedin.com/posts/shreypandya_last-summer-sathvik-vangavolu-and-i-threw-activity-7485385880162099200-1Atn",
+        "title": "Last summer, Sathvik Vangavolu and I threw the biggest afterparty at Y Combinator's Startup School. This Sunday, we're running it back: hosted by\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4E05AQHPagTaEeRZ0A/videocover-high/B4EZ.FuwNcKoBM-/0/1784655055973?e=2147483647&v=beta&t=jmwVfy6n6KJFF5BE_RNnK1sVcRhY4av6m7rgVKClbLM",
+        "id": "7485385880162099200"
+      },
+      {
+        "interaction": "Liked by Max Xiao",
+        "link": "https://www.linkedin.com/posts/jibril-moinuddin_happy-to-share-that-rational-is-now-backed-activity-7477861310462861312--L_1",
+        "title": "Happy to share that Rational is now backed by Y Combinator. Too many accounting firms turn away clients due to an overflow of work, and the drastic\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQG6qPJi9rHz8A/feedshare-image-high-res/B56Z8azOCDHIAU-/0/1782861064566?e=2147483647&v=beta&t=NWBCQBJlb2QUrt1ywIQecmoKSmTz6n6p4ycp69bCpGA",
+        "id": "7477861310462861312"
+      },
+      {
+        "interaction": "Liked by Max Xiao",
+        "link": "https://www.linkedin.com/posts/lancefuchia_excited-to-share-that-ive-joined-openai-activity-7477815509783105536-07MK",
+        "title": "Excited to share that I've joined OpenAI on the Applied AI team in San Francisco! I'll be working on evals. Looking forward to advancing the\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5605AQF9HTysge4VoA/videocover-high/B56Z8aJipVGcBM-/0/1782850138569?e=2147483647&v=beta&t=xJgWU-_OI3eRvKLWcXOBUYVIJ_aUDAo-_aPzhwrjq0c",
+        "id": "7477815509783105536"
+      },
+      {
+        "interaction": "Liked by Max Xiao",
+        "link": "https://www.linkedin.com/posts/ingramsilver_goblue-activity-7474154072678277120-ktDE",
+        "title": "Excited to share that I have been accepted as a cross-campus transfer to the University of Michigan - Stephen M. Ross School of Business for the\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQH0NSnK5szXlg/feedshare-image-high-res/B56Z7mHhgVIQAU-/0/1781977192694?e=2147483647&v=beta&t=ypKSJFC2se4vkMyCT7h72yTm1_MTEOhbddSEb_-8zTc",
+        "id": "7474154072678277120"
+      },
+      {
+        "interaction": "Liked by Max Xiao",
+        "link": "https://www.linkedin.com/posts/pranav-j4_excited-to-share-that-ill-be-joining-stripe-activity-7473857029548273665-3zvZ",
+        "title": "Excited to share that I\u2019ll be joining Stripe as a Software Engineer in the San Francisco office after graduating from the University of Michigan!\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4D22AQExhPBbnMEZPg/feedshare-image-high-res/B4DZ7h5W0EI8AU-/0/1781906371248?e=2147483647&v=beta&t=11UmBLa5JrN1B6-BdXjrLNQC3nnvJS00i6qx0X7OW_I",
+        "id": "7473857029548273665"
+      },
+      {
+        "interaction": "Liked by Max Xiao",
+        "link": "https://www.linkedin.com/posts/lin-han-sphr-gphr-acc-6a213314_eaton-wave-gratitude-activity-7468409055179382785-10JS",
+        "title": "\u201cLin, thank you for BEING you.\u201d That simple note has stayed with me. As an immigrant, when I first came to the U.S. over 20 years ago, my instinct\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQHtwLePtpvB4Q/feedshare-image-high-res/B56Z6UedlCI8AU-/0/1780607474235?e=2147483647&v=beta&t=IT9uLS9FTVdd2D_OWeYMDEAnqPjteeeYvbO4_Xv6fSA",
+        "id": "7468409055179382785"
+      },
+      {
+        "interaction": "Liked by Max Xiao",
+        "link": "https://www.linkedin.com/posts/jainam-patel-umich_freshman-year-i-rushed-17-clubs-thats-activity-7467644130962083840-LNBq",
+        "title": "Freshman year I rushed 17 clubs. That's a big part of how I just became Jump Capital's first Forward Deployed Engineer (FDE) Fellow. I rushed that\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQH5bY1nXZaH5A/feedshare-shrink_800/B56Z6JmxJ6HUAc-/0/1780425102156?e=2147483647&v=beta&t=R0PT_wSvnqcprS1srlXWj06Wz7UBLNgAmNLcJtldPrc",
+        "id": "17"
+      }
+    ],
+    "linkedin_num_id": "1019576764",
+    "banner_image": "https://media.licdn.com/dms/image/v2/D4E16AQFaUlmuCjJ-LA/profile-displaybackgroundimage-shrink_200_800/B4EZZWwGYUHYAU-/0/1745212172398?e=2147483647&v=beta&t=VyyL5msg-ZkxBU3E-I-KLTWVDd4THKJy_SEQF1ZOzXw",
+    "honors_and_awards": [
+      {
+        "title": "National Honor Society Scholarship Recipient",
+        "publication": "NHS",
+        "date": "2025-04-01T00:00:00.000Z",
+        "description": null
+      },
+      {
+        "title": "Future Business Leader's of America",
+        "publication": "The Future Business Leaders of America",
+        "date": "2024-06-01T00:00:00.000Z",
+        "description": "Coding and Programming - Nationals - 3rd - 2024 Coding and Programming - State Champion - 2024 Economics - State Champion - 2023"
+      },
+      {
+        "title": "Investment Competitions",
+        "publication": "Michigan Tech University",
+        "date": "2023-10-01T00:00:00.000Z",
+        "description": "Husky Investment Spring Tournament, 1st Place - 2022 Husky Investment Fall Tournament, 1st Place - 2023 Kansas State Investment Tournament, 1st Place - 2024 Bloomfield Financial Challenge, 5th Place - 2022 CLIMB Investment Challenge, 1st Place - 2024 CLIMB Investment Challenge, 3rd Place - 2025"
+      },
+      {
+        "title": "Hackathons",
+        "publication": "University of Michigan",
+        "date": "2022-04-01T00:00:00.000Z",
+        "description": "Mhacks 15 (University of Michigan) Best Mobile Hack - 2023 Major League Hacking (MLH) Jigsaw Hacks Hackathon Winner - 2022 App Development League - 1st Place Winner - 2022 Congressional App Challenge - 1st Place Winner - 2022"
+      },
+      {
+        "title": "National Economics Challenge State Finalist",
+        "publication": "CEE",
+        "date": "2022-01-01T00:00:00.000Z",
+        "description": null
+      },
+      {
+        "title": "National Personal Finance Challenge National Finalist",
+        "publication": "CEE",
+        "date": "2022-01-01T00:00:00.000Z",
+        "description": null
+      },
+      {
+        "title": "Gold President's Volunteer Service Award (2021, 2022, 2023)",
+        "publication": "President's Council on Service and Civic Participation",
+        "date": "2021-01-01T00:00:00.000Z",
+        "description": "Via BuildOn recognized for the president's volunteer service award for more than 400+ Hours of Service."
+      },
+      {
+        "title": "National Speech & Debate Association",
+        "publication": "The National Speech and Debate Association",
+        "date": null,
+        "description": "Wayne State, Public Forum - 7th Speaker, 3rd Place 2023 Berkeley High, School Public Forum - 5th Speaker, 3rd Place 2023 Avondale Ninjavintational - 2nd Place 2023 Regionals, Impromptu - 1st Place 2023 Michigan States, Impromptu - Finalist 2023"
+      },
+      {
+        "title": "Research / Publishments Awards and Honors",
+        "publication": "-",
+        "date": null,
+        "description": "SECRNN: CONVOLUTIONAL RECURRENT NETWORK FOR SPATIAL AUDIO EVENT RECOGNITION: U.S Agency for International Development Science Champion Award - 2023 Accepted to present at the International Youth Researchers Conference at the University of Japan - 2023 Michigan Science and Engineering Fair 2023, 3rd Place award - 2023 Science and Engineering Fair of Metro Detroit 2023, 2nd Place Award - 2023 Science and Engineering Fair of Metro Detroit 2025, 1st Place Award -\u2026 Show more"
+      }
+    ],
+    "similar_profiles": [],
+    "default_avatar": false,
+    "memorialized_account": false,
+    "bio_links": [],
+    "first_name": "Max",
+    "last_name": "Xiao",
+    "influencer": false,
+    "timestamp": "2026-08-12T19:11:42.365Z",
+    "input": {
+      "url": "https://www.linkedin.com/in/xiaomax"
+    }
+  },
+  "local_photo": "data\\linkedin_photos\\xiaomax__usr-yBYYCfLR5accw2Y.jpg"
+}

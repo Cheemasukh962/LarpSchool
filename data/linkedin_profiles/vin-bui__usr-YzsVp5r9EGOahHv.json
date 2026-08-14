@@ -1,0 +1,89 @@
+{
+  "luma_user_id": "usr-YzsVp5r9EGOahHv",
+  "csv_name": "Vin Bui",
+  "csv_linkedin": "https://www.linkedin.com/in/vin-bui",
+  "enriched_at": "2026-08-12T19:22:34.876818+00:00",
+  "batch_id": "sd_msqh2468i57o0acas",
+  "profile": {
+    "id": "vin-bui",
+    "name": "Vin Bui",
+    "city": "San Francisco Bay Area",
+    "country_code": "US",
+    "position": null,
+    "about": "hey y'all i'm vin! i like to design and build things that people can use :)",
+    "current_company": {
+      "link": "https://www.linkedin.com/company/nowadays-ai?trk=public_profile_topcard-current-company",
+      "name": "Nowadays",
+      "company_id": "nowadays-ai",
+      "location": null
+    },
+    "experience": null,
+    "url": "https://de.linkedin.com/in/vin-bui",
+    "educations_details": "Cornell University",
+    "education": [
+      {
+        "title": "Cornell University",
+        "url": "https://www.linkedin.com/school/cornell-university/",
+        "start_year": "2021",
+        "end_year": "2026",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      }
+    ],
+    "avatar": "https://media.licdn.com/dms/image/v2/D5603AQHN8gWRzyN-3g/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1710110275806?e=2147483647&v=beta&t=kq4SvPA82E3Wlo4I35XSeF7SmKKUFw2cAsaPXljb_2s",
+    "languages": [
+      {
+        "subtitle": "Native or bilingual proficiency",
+        "title": "Vietnamese"
+      },
+      {
+        "subtitle": "Native or bilingual proficiency",
+        "title": "English"
+      }
+    ],
+    "followers": 4588,
+    "connections": 500,
+    "current_company_company_id": "nowadays-ai",
+    "current_company_name": "Nowadays",
+    "location": null,
+    "input_url": "https://www.linkedin.com/in/vin-bui",
+    "linkedin_id": "vin-bui",
+    "activity": [
+      {
+        "interaction": "Shared by Vin Bui",
+        "link": "https://www.linkedin.com/posts/vin-bui_our-customers-wanted-to-integrate-nowadays-activity-7486547685471047681-LyXC",
+        "title": "Our customers wanted to integrate Nowadays into their own systems. So we delivered. Read, create, and update your events in code, and plug Nowadays\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQFNhiPXmNIgMg/feedshare-shrink_800/B56Z.WOtf9GsAg-/0/1784931866968?e=2147483647&v=beta&t=98MqsjSb5dlHYJ2ddAtBJIu_mSEYsdt07KbhcmtJGpA",
+        "id": "7486547685471047681"
+      }
+    ],
+    "linkedin_num_id": "933892121",
+    "banner_image": "https://media.licdn.com/dms/image/v2/D5616AQFn0NIqmYSu1Q/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1719352291976?e=2147483647&v=beta&t=ISVD_jcEFET-LdVlbJL0nFt1XZTHEjxjL08ejI7jk1k",
+    "honors_and_awards": [
+      {
+        "title": "Dean\u2019s List",
+        "publication": "Cornell University",
+        "date": null,
+        "description": null
+      }
+    ],
+    "similar_profiles": [],
+    "default_avatar": false,
+    "memorialized_account": false,
+    "bio_links": [
+      {
+        "title": "Personal Website",
+        "link": "https://vinbui.me/"
+      }
+    ],
+    "first_name": "Vin",
+    "last_name": "Bui",
+    "influencer": false,
+    "timestamp": "2026-08-12T19:18:18.462Z",
+    "input": {
+      "url": "https://www.linkedin.com/in/vin-bui"
+    }
+  },
+  "local_photo": "data\\linkedin_photos\\vin-bui__usr-YzsVp5r9EGOahHv.jpg"
+}

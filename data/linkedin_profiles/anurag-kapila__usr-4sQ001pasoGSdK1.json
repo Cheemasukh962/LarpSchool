@@ -1,0 +1,126 @@
+{
+  "luma_user_id": "usr-4sQ001pasoGSdK1",
+  "csv_name": "Anurag Kapila",
+  "csv_linkedin": "https://www.linkedin.com/in/anurag-kapila",
+  "enriched_at": "2026-08-12T18:58:28.951294+00:00",
+  "batch_id": "sd_msqgad6c2eeefcaqas",
+  "profile": {
+    "id": "anurag-kapila",
+    "name": "Anurag K",
+    "city": "United States",
+    "country_code": "US",
+    "position": null,
+    "about": null,
+    "current_company": {
+      "link": "https://www.linkedin.com/company/manifestitai?trk=public_profile_topcard-current-company",
+      "name": "Manifest",
+      "company_id": "manifestitai",
+      "location": null
+    },
+    "experience": null,
+    "url": "https://www.linkedin.com/in/Anurag-kapila",
+    "educations_details": "Carnegie Mellon University",
+    "education": null,
+    "avatar": "https://static.licdn.com/aero-v1/sc/h/9c8pery4andzj6ohjkjp54ma2",
+    "courses": [
+      {
+        "subtitle": "21-373",
+        "title": "Algebraic Structures"
+      },
+      {
+        "subtitle": "15-440",
+        "title": "Distributed Systems"
+      },
+      {
+        "subtitle": "10-701",
+        "title": "Graduate Machine Learning"
+      },
+      {
+        "subtitle": "21-241",
+        "title": "Matrices and Lin. Transf."
+      },
+      {
+        "subtitle": "21-268",
+        "title": "Multivariable Calculus"
+      },
+      {
+        "subtitle": "15-210",
+        "title": "Parallel Algorithms"
+      },
+      {
+        "subtitle": "15-150",
+        "title": "Principles of Functional Programming"
+      },
+      {
+        "subtitle": "15-259",
+        "title": "Probability and Computing (PnC)"
+      },
+      {
+        "subtitle": "21-355",
+        "title": "Real Analysis"
+      }
+    ],
+    "certifications": [
+      {
+        "meta": "Issued Nov 2024",
+        "subtitle": "University of Toronto - Rotman School of Management",
+        "title": "Rotman Market Simulation Challenge x CMU 2024",
+        "credential_url": null,
+        "credential_id": null
+      }
+    ],
+    "followers": 584,
+    "connections": 500,
+    "current_company_company_id": "manifestitai",
+    "current_company_name": "Manifest",
+    "location": null,
+    "input_url": "https://www.linkedin.com/in/anurag-kapila",
+    "linkedin_id": "anurag-kapila",
+    "activity": null,
+    "linkedin_num_id": "992553260",
+    "banner_image": "https://media.licdn.com/dms/image/v2/D5616AQH1Yt4OIbHHgQ/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1738533450280?e=2147483647&v=beta&t=ff5dr0EP96FiwUr65BIUn7xysZP1XVK115aLMviyJzw",
+    "honors_and_awards": [
+      {
+        "title": "1st Place at Penn Apps 2025 (Computer Vision Category)",
+        "publication": "University of Pennsylvania",
+        "date": "2025-09-01T00:00:00.000Z",
+        "description": "Built a spatial interaction platform enabling 3D object manipulation with gesture tracking (MediaPipe + OpenCV) and real-time rendering. Integrated Gemini Live API to power \u201cJarvis,\u201d an AI voice assistant providing context-aware design insights. Optimized for stability with B\u00e9zier motion smoothing, snap zones, and adaptive calibration."
+      },
+      {
+        "title": "HRT x CMU Hackathon 2nd Place Grand Prize Winner",
+        "publication": "Carnegie Mellon University",
+        "date": "2024-11-01T00:00:00.000Z",
+        "description": "2nd place in 129 students to win the Hudson River Trading x Carnegie Mellon University School of Computer Science Hack 112 Competition. Built a project implementing a multiplayer game based on graph theory, leveraging layered recursion and backtracking techniques on a Breadth-First Search (BFS) algorithm to compute the most efficient/shortest path between a source actor and a target actor by nodal representation of shared communal appearances as edges in a graph."
+      },
+      {
+        "title": "3X USNCO National Honors Distinction (2022, 2023, 2024)",
+        "publication": "American Chemical Society",
+        "date": "2024-05-01T00:00:00.000Z",
+        "description": "3 time Honors distinction (Top 150 in nation) in US National Chemistry Olympiad Exam. Top 2 within my school, advanced to nationals. National exam - multiple choice exam, a free response exam, and a lab practical."
+      },
+      {
+        "title": "3X USNCO Semifinalist (2022, 2023, 2024)",
+        "publication": "American Chemical Society",
+        "date": "2024-05-01T00:00:00.000Z",
+        "description": "Top 2 students from high school on US National Chemistry Olympiad Regionals Exam, advanced to nationals"
+      },
+      {
+        "title": "Dean's List with High Honors",
+        "publication": "-",
+        "date": null,
+        "description": null
+      }
+    ],
+    "similar_profiles": [],
+    "default_avatar": true,
+    "memorialized_account": false,
+    "bio_links": [],
+    "first_name": "Anurag",
+    "last_name": "K",
+    "influencer": false,
+    "timestamp": "2026-08-12T18:56:58.095Z",
+    "input": {
+      "url": "https://www.linkedin.com/in/anurag-kapila"
+    }
+  }
+}

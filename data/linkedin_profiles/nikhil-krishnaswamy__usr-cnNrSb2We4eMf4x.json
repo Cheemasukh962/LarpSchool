@@ -1,0 +1,141 @@
+{
+  "luma_user_id": "usr-cnNrSb2We4eMf4x",
+  "csv_name": "Nikhil Krishnaswamy",
+  "csv_linkedin": "https://www.linkedin.com/in/nikhil-krishnaswamy",
+  "enriched_at": "2026-08-12T19:13:35.737673+00:00",
+  "batch_id": "sd_msqguuzo2o546dm49e",
+  "profile": {
+    "id": "nikhil-krishnaswamy",
+    "name": "Nikhil Krishnaswamy",
+    "city": "Cupertino, California, United States",
+    "country_code": "US",
+    "position": null,
+    "about": null,
+    "current_company": {
+      "link": "https://www.linkedin.com/company/the-agi-company?trk=public_profile_topcard-current-company",
+      "name": "AGI, Inc.",
+      "company_id": "the-agi-company",
+      "location": null
+    },
+    "experience": null,
+    "url": "https://kw.linkedin.com/in/nikhil-krishnaswamy",
+    "educations_details": "Cupertino High School",
+    "education": [
+      {
+        "title": "Cupertino High School",
+        "url": "https://www.linkedin.com/school/cupertino-high-school/",
+        "start_year": "2022",
+        "end_year": "2026",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      },
+      {
+        "start_year": "2023-01",
+        "end_year": "2026-06",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      }
+    ],
+    "avatar": "https://media.licdn.com/dms/image/v2/D5603AQH2CU_I9m76Jg/profile-displayphoto-scale_200_200/B56Z3m4JLOHEAY-/0/1777694974688?e=2147483647&v=beta&t=46wbyu3XcQxt2wyPt5ztUxukexK-yqbo7aUbc4-6QZw",
+    "followers": 644,
+    "connections": 500,
+    "current_company_company_id": "the-agi-company",
+    "current_company_name": "AGI, Inc.",
+    "publications": [
+      {
+        "title": "Seizure Observation & Preemptive Detection with ML",
+        "subtitle": "NHSJS",
+        "date": "April 20, 2024",
+        "description": "Comparing EEG-Based Supervised Learning Models to Detect and Predict Seizures"
+      }
+    ],
+    "location": "Cupertino",
+    "input_url": "https://www.linkedin.com/in/nikhil-krishnaswamy",
+    "linkedin_id": "nikhil-krishnaswamy",
+    "activity": null,
+    "linkedin_num_id": "1164574593",
+    "banner_image": "https://media.licdn.com/dms/image/v2/D5616AQENAM_izjpb8Q/profile-displaybackgroundimage-shrink_200_800/B56Z3m4YrJIYAU-/0/1777695034469?e=2147483647&v=beta&t=tQKL6vQ2IvCWMTthfILQiWdnyWncGS2Y6ddVZ824Z_M",
+    "honors_and_awards": [
+      {
+        "title": "1st Place Biomedical Engineering",
+        "publication": "Synopsys Science and Engineering Fair",
+        "date": null,
+        "description": null
+      },
+      {
+        "title": "1st place School Photographers of America Competition",
+        "publication": "-",
+        "date": null,
+        "description": null
+      },
+      {
+        "title": "2nd Place in Computational Systems: Medical",
+        "publication": "California Science and Engineering Fair",
+        "date": null,
+        "description": null
+      },
+      {
+        "title": "Blue Ocean Entrepreneurship Competition Top 30",
+        "publication": "-",
+        "date": null,
+        "description": null
+      },
+      {
+        "title": "Cameron Impact Scholarship Finalist",
+        "publication": "-",
+        "date": null,
+        "description": "Top 3% of 3,000 nationally"
+      },
+      {
+        "title": "Coca-Cola Scholarship Semifinalist",
+        "publication": "-",
+        "date": null,
+        "description": null
+      },
+      {
+        "title": "Gold Presidential Volunteering Service Award",
+        "publication": "-",
+        "date": null,
+        "description": "300+ volunteering hours"
+      },
+      {
+        "title": "Pete Conrad Scholar '25, Power Pitch Award",
+        "publication": "The International Conrad Challenge",
+        "date": null,
+        "description": "5/4700 teams chosen"
+      },
+      {
+        "title": "Photography Superior Award",
+        "publication": "JEA National Student Media Contest",
+        "date": null,
+        "description": null
+      },
+      {
+        "title": "State Winner: Samsung Solve For Tomorrow",
+        "publication": "-",
+        "date": null,
+        "description": null
+      },
+      {
+        "title": "Young Artist Platinum Award 2023",
+        "publication": "Cupertino Arts and Culture",
+        "date": null,
+        "description": null
+      }
+    ],
+    "similar_profiles": [],
+    "default_avatar": false,
+    "memorialized_account": false,
+    "bio_links": [],
+    "first_name": "Nikhil",
+    "last_name": "Krishnaswamy",
+    "influencer": false,
+    "timestamp": "2026-08-12T19:12:39.522Z",
+    "input": {
+      "url": "https://www.linkedin.com/in/nikhil-krishnaswamy"
+    }
+  },
+  "local_photo": "data\\linkedin_photos\\nikhil-krishnaswamy__usr-cnNrSb2We4eMf4x.jpg"
+}

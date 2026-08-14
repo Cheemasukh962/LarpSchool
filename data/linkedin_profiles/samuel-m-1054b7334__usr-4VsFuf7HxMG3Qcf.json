@@ -1,0 +1,170 @@
+{
+  "luma_user_id": "usr-4VsFuf7HxMG3Qcf",
+  "csv_name": "Samuel McClanahan",
+  "csv_linkedin": "https://www.linkedin.com/in/samuel-m-1054b7334",
+  "enriched_at": "2026-08-12T19:16:49.713782+00:00",
+  "batch_id": "sd_msqgxyk1xj7v4ip1",
+  "profile": {
+    "id": "samuel-m-1054b7334",
+    "name": "Samuel M.",
+    "city": "San Francisco, California, United States",
+    "country_code": "US",
+    "position": null,
+    "about": null,
+    "current_company": {
+      "link": "https://www.linkedin.com/company/highlander-robotics-frc-8033?trk=public_profile_topcard-current-company",
+      "name": "Highlander Robotics",
+      "company_id": "highlander-robotics-frc-8033",
+      "location": null
+    },
+    "experience": null,
+    "url": "https://tr.linkedin.com/in/Samuel-m-1054b7334",
+    "educations_details": "Lowell High School",
+    "education": [
+      {
+        "title": "Lowell High School",
+        "url": "https://www.linkedin.com/school/lhs-sfusd-ca/",
+        "start_year": "2023",
+        "end_year": "2027",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      },
+      {
+        "start_year": "2026-05",
+        "end_year": "2026-08",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      },
+      {
+        "start_year": "2014-05",
+        "end_year": "2027-07",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      }
+    ],
+    "avatar": "https://media.licdn.com/dms/image/v2/D5603AQHOd6eMIJrplw/profile-displayphoto-scale_200_200/B56Z4f5H42HwAc-/0/1778651531341?e=2147483647&v=beta&t=gWyR9QqdLQyD_c2GqXXDeT_nC_W0Mh_JYd2gYjhTtfQ",
+    "followers": 208,
+    "connections": 207,
+    "current_company_company_id": "highlander-robotics-frc-8033",
+    "current_company_name": "Highlander Robotics",
+    "projects": [
+      {
+        "title": "EmbeddedVision",
+        "start_date": "Jan 2025",
+        "description": "Developed firmware in C and a Python backend for a custom ESP32-S3N16R8 board that takes & processes pictures and uses modern AIs via api calls to interpret the image, and post understandings via SMS, Telegram, WhatsApp, Pushover, and to a home server. Modeled and 3D printed a case using Onshape to enclose the system and did all relevant wiring by hand. Currently working on developing a custom PCB to reduce form factor."
+      },
+      {
+        "title": "CiscoScraper",
+        "start_date": "Aug 2025",
+        "description": "Built an agentic RAG system that turns Cisco IOS switch manuals into a semantically searchable knowledge base. An automated pipeline extracts commands from PDFs, generates LLM-powered summaries, and creates vector embeddings for 489 commands served through a FastAPI API with sub-second natural language search. Engineers query in plain English instead of memorizing exact command syntax. CiscoScraper achieved top 6-20 scores nationally on Cyberpatriot Packet Tracer challenges."
+      }
+    ],
+    "location": "San Francisco",
+    "input_url": "https://www.linkedin.com/in/samuel-m-1054b7334",
+    "linkedin_id": "samuel-m-1054b7334",
+    "activity": [
+      {
+        "interaction": "Samuel M. shared this",
+        "link": "https://www.linkedin.com/posts/samuel-m-1054b7334_first-place-in-def-con-ctf-quals-super-grateful-activity-7464730963101519872-aMkt",
+        "title": "First place in DEF CON CTF Quals! Super grateful to have been invited to play with SuperDiceCodeLovers and get to work alongside the best cyber talent in the world, and huge shoutout to Sebastian Dowell Swaraj Adhikari Eddie Guo Jamos Zhu for working with me on LiveCTF, which I'm super proud that we got first place in, with a final score of 1935 points! LiveCTF was a super interesting technical challenge, in which we were given a custom virtual machine running its own instruction set\u2014essentially a 32-bit stack machine where code and stack share the same memory. We spent hours theorizing and drawing out different types of algorithms we wanted to implement on the 64KB bot, coming up with a new one for each phase of the game, where new rules were announced, which you had to figure out by reversing a new binary. We made an arena to simulate our bots locally, where we could use an ELO system and other metrics to continously iterate on our robots before deploying them into the competition environment, to generate a kind of evolutionary search to optimize on our bots. From King Von, the Linehunter, Pathfinder, DVD, and all the other bots we made this challenge was truly one to remember, and it really embodies the spirit of complex and non-standard problem solving, which is one of the most important skills you can build in life. Can't wait for Finals in August. Let's run it back! ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQGRK-LrQh4vqg/feedshare-shrink_800/B56Z5f26cnHsAc-/0/1779724692157?e=2147483647&v=beta&t=c37doYIvBSMUQ2weHQHT-P1WJ0Ji8ZFIlArNkHh0gA8",
+        "id": "7464730963101519872"
+      },
+      {
+        "interaction": "Samuel M. shared this",
+        "link": "https://www.linkedin.com/posts/samuel-m-1054b7334_summer-in-sf-is-shaping-up-to-be-awesome-activity-7460049128086085632-6UMK",
+        "title": "Summer in SF is shaping up to be awesome! Excited to meet all the builders, hear from Jensen Huang, Jeff Dean, and more. Looking forward to building with the $25k in compute credits as well! Hit me up if you're going as well! ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQGR9sT9i1705g/feedshare-shrink_800/B56Z4drJphGgAg-/0/1778614311944?e=2147483647&v=beta&t=OcJ_Gsv-YRbXc_KJbo48bsAnmKevy-Phq1RmQIOduVs",
+        "id": "7460049128086085632"
+      },
+      {
+        "interaction": "Samuel M. shared this",
+        "link": "https://www.linkedin.com/posts/samuel-m-1054b7334_stoked-to-have-gotten-5th-huge-shoutout-activity-7458596466866167809-I0ot",
+        "title": "stoked to have gotten 5th! Huge shoutout to my teammates and everyone on CBF. Big thanks to CMU for organizing as well",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQElgCNt7Bj07w/feedshare-shrink_800/B56Z1O1NYGK0Ac-/0/1775144064841?e=2147483647&v=beta&t=Qq5htmgT8KG0LJDD5EzzB-3ZT4Ql7i9btgNBpziW_kA",
+        "id": "7458596466866167809"
+      },
+      {
+        "interaction": "Samuel M. commented on a post 2mo",
+        "link": "https://www.linkedin.com/posts/swaraj-adhikari-968892244_incredibly-proud-of-this-result-it-was-an-activity-7464714141560115201-MKuM",
+        "title": "king von carried \ud83c\udfc6",
+        "img": null,
+        "id": "7464714141560115201"
+      },
+      {
+        "interaction": "Samuel M. liked this",
+        "link": "https://www.linkedin.com/posts/eric-choi1_quantfinance-recruiting-buildinpublic-activity-7485887403359051776-dF54",
+        "title": "Excited to announce I have applied. To all of them. 2,000+ firms. From the Big Apple to Ulaanbaatar. If your country has a stock exchange, a spreadsheet, or a guy who owns a calculator, your inbox has my resume. If one of them says yes, I'll call it alpha. If none of them do, I'll call it rigged. Some of these will reject me. Some will ghost me. One might not. I only need the one. Shoutout to my social media managers, Rishabh Mahesh and Nuri Baxamusa , for spending 2 hours cooking up this masterpiece \u2014 real ones know. Mark my words: I'm gonna make it big. Quant mode: activated. #quantfinance #recruiting #buildinpublic #larp",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQE0AXAKMnadbg/feedshare-image-high-res/B56Z.M27QlG4AU-/0/1784774636931?e=2147483647&v=beta&t=ty5RrPrbVPI5YygWfScDFIxZ7HSgXH2ghozjTmC49hs",
+        "id": "7485887403359051776"
+      },
+      {
+        "interaction": "Samuel M. liked this",
+        "link": "https://www.linkedin.com/posts/romainhuet_big-news-across-the-gpt-56-family-luna-activity-7488661924814082048-6eOq",
+        "title": "Big news across the GPT-5.6 family: \u2022 Luna is now 80% cheaper \u2022 Terra is now 20% cheaper \u2022 Sol runs 2.5\u00d7 faster with Fast mode \u2022 Auto-review in the app is now powered by Luna and 10\u00d7 cheaper We\u2019re continuing to push the frontier of intelligence while making it faster and more affordable to put to work.",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQHmq4Cd1LVLKg/feedshare-shrink_800/B4EZ.0SVs_JIAg-/0/1785436134547?e=2147483647&v=beta&t=Qlqm0i1hgWA2___nNzG_sNurB-hxi9R6ves6gooBmnQ",
+        "id": "56"
+      },
+      {
+        "interaction": "Samuel M. liked this",
+        "link": "https://www.linkedin.com/posts/y-combinator_good-morning-startup-school-activity-7486802378881605632-YRXX",
+        "title": "good morning startup school",
+        "img": "https://media.licdn.com/dms/image/v2/D5605AQFdBFlhRQT20A/videocover-high/B56Z.Z3EboJgBM-/0/1784992779342?e=2147483647&v=beta&t=r6PSOX90emzorlakmHIZTT-uhiiAPPV2ektHmshyruM",
+        "id": "7486802378881605632"
+      },
+      {
+        "interaction": "Samuel M. liked this",
+        "link": "https://www.linkedin.com/posts/palantir-technologies_before-there-was-a-nation-there-was-a-declaration-activity-7479154312179486720-si1s",
+        "title": "Before there was a nation, there was a declaration of truths. Self-evident. Existing apart from structures of power or privilege. 250 years later, Palantir celebrates every American who carries the torch lit by our Founders. And we build for all those to come. God Bless America.",
+        "img": null,
+        "id": "7479154312179486720"
+      },
+      {
+        "interaction": "Samuel M. liked this",
+        "link": "https://www.linkedin.com/posts/mattbrwn_imaginary-numbers-ill-never-use-this-math-activity-7480214058198102017-kWCq",
+        "title": "Imaginary Numbers? \"I'll never use this math in the real world\" Complex Numbers? \"I'll stick with simple numbers plz\" That's what I said back then. Then I got into RF hacking. RF is literally magic. Electromagnetic waves flying through space at the speed of light kind of magic. Software Defined Radios let us harness the magic. BUT there's a catch. You can't just hand a Muggle a wand and expect them to fight a death eater. First, we have to pay down that technical debt of not paying attention in math class. The bill comes due. Welcome to Hogwarts, Harry. In this video, I come as one of you: A Computer Engineer. A Mudblood. It's time to turn magic into data. Waves into 1s and 0s.",
+        "img": "https://media.licdn.com/dms/image/v2/D4E05AQG8qXGGXgH1Ig/videocover-high/B4EZ846DLUHMBQ-/0/1783366180638?e=2147483647&v=beta&t=Mb33UNjhwgsR57a-RCkLVmatLV6sqQLGPEl2VCW-Iwk",
+        "id": "7480214058198102017"
+      },
+      {
+        "interaction": "Samuel M. liked this",
+        "link": "https://www.linkedin.com/posts/onmikro_robotics-microautomation-robotarm-activity-7478087388792049664-D_7G",
+        "title": "Happy Canada Day \ud83c\udde8\ud83c\udde6 Our industrial robot is small enough to fit in a cap, but precise enough to automate the world at the microscale! #robotics #microautomation #robotarm",
+        "img": "https://media.licdn.com/dms/image/v2/D5605AQEXQse6MXJEfg/videocover-high/B56Z8eA003HYBM-/0/1782914962588?e=2147483647&v=beta&t=LpeuLVSmhpVZgKXthKbxsWjrwPFHaAIgXJ3oyOOHT-I",
+        "id": "7478087388792049664"
+      },
+      {
+        "interaction": "Samuel M. liked this",
+        "link": "https://www.linkedin.com/posts/julienchaumond_if-20-years-ago-when-i-was-studying-linear-activity-7476264723538243584-ozPz",
+        "title": "If 20 years ago, when I was studying linear algebra, they had told me that matrix values would be export controlled \ud83e\udd2f",
+        "img": null,
+        "id": "20"
+      },
+      {
+        "interaction": "Samuel M. liked this",
+        "link": "https://www.linkedin.com/posts/mannbellani_excited-to-share-that-ive-been-selected-activity-7475687415983022082-r26f",
+        "title": "Excited to share that I\u2019ve been selected for the LinkedIn LARP School! LARP School brings together a hand-selected group of vibe coders, and undergrads for two days of talks, sessions, and conversations about building slop startups. So many nights of scrolling reels while accepting edits on claude finally paid off! If you also got in, I would love to chat and connect more. Happy doomscrolling!",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQGyClxoYu1XcA/feedshare-shrink_800/B56Z776F1IH4Ac-/0/1782342770254?e=2147483647&v=beta&t=McxHwF9Y81e-5jff4zC8Dqu5EOleHIkJ7l1TboQP_ME",
+        "id": "7475687415983022082"
+      }
+    ],
+    "linkedin_num_id": "1410620117",
+    "banner_image": "https://media.licdn.com/dms/image/v2/D4E16AQEnGLuKy7EpPA/profile-displaybackgroundimage-shrink_200_800/B4EZfm0J8fHgAU-/0/1751924123465?e=2147483647&v=beta&t=8siiEwiscq_UE_1mqg4sQnIEIYujedv5p0ldzBXkW48",
+    "honors_and_awards": null,
+    "similar_profiles": [],
+    "default_avatar": false,
+    "memorialized_account": false,
+    "bio_links": [],
+    "first_name": "Samuel",
+    "last_name": "M.",
+    "influencer": false,
+    "timestamp": "2026-08-12T19:15:04.721Z",
+    "input": {
+      "url": "https://www.linkedin.com/in/samuel-m-1054b7334"
+    }
+  },
+  "local_photo": "data\\linkedin_photos\\samuel-m-1054b7334__usr-4VsFuf7HxMG3Qcf.jpg"
+}

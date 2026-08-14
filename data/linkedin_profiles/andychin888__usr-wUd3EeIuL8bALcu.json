@@ -1,0 +1,202 @@
+{
+  "luma_user_id": "usr-wUd3EeIuL8bALcu",
+  "csv_name": "Andy Chin",
+  "csv_linkedin": "https://www.linkedin.com/in/andychin888",
+  "enriched_at": "2026-08-12T18:56:33.267974+00:00",
+  "batch_id": "sd_msqg8yml2ia5na9bcp",
+  "profile": {
+    "id": "andychin888",
+    "name": "Andy Chin",
+    "city": "San Jose, California, United States",
+    "country_code": "US",
+    "position": null,
+    "about": "As a Machine Learning Research Engineer at Scale AI, I focus on refining the behavior and\u2026",
+    "current_company": {
+      "link": "https://www.linkedin.com/company/skygentic?trk=public_profile_topcard-current-company",
+      "name": "Skygentic - Wingman AI",
+      "company_id": "skygentic",
+      "location": null
+    },
+    "experience": null,
+    "url": "https://www.linkedin.com/in/andychin888",
+    "educations_details": "San Jos\u00e9 State University",
+    "education": null,
+    "avatar": "https://media.licdn.com/dms/image/v2/D5603AQEdrsu8yAQpTw/profile-displayphoto-scale_200_200/B56Z2eg5iPIIAY-/0/1776480920528?e=2147483647&v=beta&t=sWFcpkfH6fu0LTlC3mkz4y-R7Xl3zaWamcv1Z_F3KZI",
+    "courses": [
+      {
+        "subtitle": "CS 146",
+        "title": "Data Structures and Algorithms"
+      },
+      {
+        "subtitle": "MATH 42",
+        "title": "Discrete Math"
+      },
+      {
+        "subtitle": "MATH 39",
+        "title": "Linear Algebra"
+      }
+    ],
+    "certifications": [
+      {
+        "meta": "Issued Jul 2026 Credential ID xfwfvm2ksq8h See credential",
+        "subtitle": "Anthropic",
+        "title": "Al Fluency: Framework & Foundations",
+        "credential_url": "https://verify.skilljar.com/c/xfwfvm2ksq8h?trk=public_profile_see-credential",
+        "credential_id": "xfwfvm2ksq8h"
+      },
+      {
+        "meta": "Issued Dec 2025 See credential",
+        "subtitle": "LinkedIn",
+        "title": "Generative AI for Product Managers",
+        "credential_url": "https://www.linkedin.com/learning/certificates/e0e6025462cbf5cd42e8fedeaa5ed1edc5d73f6fb812d5d90a4736ff38499a3e?trk=public_profile_see-credential",
+        "credential_id": null
+      }
+    ],
+    "followers": 1204,
+    "connections": 500,
+    "current_company_company_id": "skygentic",
+    "current_company_name": "Skygentic - Wingman AI",
+    "projects": [
+      {
+        "title": "BoxATron",
+        "description": "- Designed and implemented a dynamic multiplayer and AI-driven single-player game, utilizing advanced machine learning algorithms- Implemented a reinforcement learning model that dynamically adapted AI opponent strategies, creating human-like gameplay and increasing replayability by 40%.- Engineered a high-performance UI that reduced input latency and decision-making time by 25%, delivering smoother real-time gameplay."
+      },
+      {
+        "title": "SimplyLegal - Hack for Humanity Hackathon Project",
+        "description": "- Built a full-stack AI-powered web application that translates complex legal contracts into plain-language explanations with structured risk analysis.- Developed a React frontend with side-by-side document comparison, multi-language output selection, file upload support, and integrated audio playback for accessibility.- Engineered a FastAPI backend that leverages an LLM to generate simplified summaries and \u201cDue Diligence Alerts\u201d highlighting one-sided or high-risk clauses in a contract.- Collaborated in a fast-paced team environment to merge frontend and backend branches"
+      }
+    ],
+    "location": "San Jose",
+    "input_url": "https://www.linkedin.com/in/andychin888",
+    "linkedin_id": "andychin888",
+    "activity": [
+      {
+        "interaction": "Liked by Andy Chin",
+        "link": "https://www.linkedin.com/posts/sophiadabinkim_ibm-sjsu-newgrad-activity-7491200772181766144-Nx2p",
+        "title": "It\u2019s honestly hard to put into words how thankful I am.\ud83d\udc99 San Jos\u00e9 State gave me more than a degree. It introduced me to incredible mentors\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQFu_S2wK-zlkQ/feedshare-image-high-res/B56Z_YXZ5YHAAU-/0/1786041442203?e=2147483647&v=beta&t=LlYc5U-oTumA-eo6oYkMhtKgIkHVOVIlvrWrWlhkX1k",
+        "id": "7491200772181766144"
+      },
+      {
+        "interaction": "Liked by Andy Chin",
+        "link": "https://www.linkedin.com/posts/it-has-been-a-few-months-for-me-at-openai-activity-7485407006204493825-QLvr",
+        "title": "It has been a few months for me at OpenAI, so I thought I\u2019d share a few reflections: 1. The pace at OpenAI (and, I assume, most frontier labs) is\u2026",
+        "img": "https://static.licdn.com/aero-v1/sc/h/53n89ecoxpr1qrki1do3alazb",
+        "id": "7485407006204493825"
+      },
+      {
+        "interaction": "Liked by Andy Chin",
+        "link": "https://www.linkedin.com/posts/kevinhan1209_software-engineering-internship-fall-2026-activity-7484995551890141184-S8od",
+        "title": "Might be a bit biased, but for everyone in my network looking for #Summer2027 or #Fall2026 #internships, Deepgram is a great place to work! Many\u2026",
+        "img": "https://media.licdn.com/dms/image/sync/v2/D4E27AQHe7Ej2OKSisA/articleshare-shrink_800/B4EZ92da7_K4AY-/0/1784398854660?e=2147483647&v=beta&t=97qjYoO5vTckVuRDIZKXLVPZ3acFxca9pX4qBCoESng",
+        "id": "2026"
+      },
+      {
+        "interaction": "Liked by Andy Chin",
+        "link": "https://www.linkedin.com/posts/christopher-apy-84b3932b2_first-linkedin-post-and-what-better-way-activity-7483958729239851008-i5Mb",
+        "title": "FIRST LINKEDIN POST! And what better way to start than by sharing some of the amazing work I have been lucky enough to do at Snap Inc. this\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQE1jxOF26eUcQ/feedshare-image-high-res/B56Z9xC0TILAAU-/0/1784307992400?e=2147483647&v=beta&t=SrzyayA2_lyTMymvRkvQENYHM_wm6IUbE1k74cABcUs",
+        "id": "7483958729239851008"
+      },
+      {
+        "interaction": "Liked by Andy Chin",
+        "link": "https://www.linkedin.com/posts/mansi-mittal_everyones-talking-about-the-pinterest-apprenticeship-activity-7481703790698680320-M3R9",
+        "title": "Everyone's talking about the Pinterest Apprenticeship Program. But if you're interested in Product Management, don't stop there. There are dozens\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQFTbMW88ihG2w/feedshare-shrink_800/B4EZ9RZ8_FHwAc-/0/1783777186050?e=2147483647&v=beta&t=VkAEtJFW8if9jk_68WquaMNLv5Qe5kAA3MxD9Su6IFo",
+        "id": "7481703790698680320"
+      },
+      {
+        "interaction": "Liked by Andy Chin",
+        "link": "https://www.linkedin.com/posts/steeevin_happy-to-share-that-upon-my-graduation-from-activity-7479909894779785217-lkuF",
+        "title": "Happy to share that upon my graduation from San Jos\u00e9 State University, I've joined Meta as a full-time software engineer! Special thanks to my\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQHRPhYX5zDaPw/feedshare-shrink_800/B56Z81_U6GIQAc-/0/1783317228581?e=2147483647&v=beta&t=kpWSNXrRhV7cXNt9MmlLAvoiJJWGiVuMlM2uQ294j7Q",
+        "id": "7479909894779785217"
+      },
+      {
+        "interaction": "Liked by Andy Chin",
+        "link": "https://www.linkedin.com/posts/sai-sujith-valluru-a62a65166_happy-to-share-that-after-graduating-with-activity-7476892682963795968-UkLk",
+        "title": "Happy to share that after graduating with my Master's in Software Engineering from San Jose State University and a successful internship last summer,\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQFHKiFEkiyHAw/feedshare-shrink_800/B56Z8NCRfZIQAc-/0/1782630127798?e=2147483647&v=beta&t=sSaOnssv-_cQl9xW-4wXzilh6S8m640p2qeCmj3idu8",
+        "id": "7476892682963795968"
+      },
+      {
+        "interaction": "Liked by Andy Chin",
+        "link": "https://www.linkedin.com/posts/joanna-h-ba16a5104_hey-everyone-a-little-transparency-from-activity-7475637835220537347-aMgL",
+        "title": "Hey everyone! A little transparency from someone in recruiting: my inbox is overflowing and I want to make sure I'm setting the right expectations\u2026",
+        "img": "https://static.licdn.com/aero-v1/sc/h/53n89ecoxpr1qrki1do3alazb",
+        "id": "7475637835220537347"
+      },
+      {
+        "interaction": "Liked by Andy Chin",
+        "link": "https://www.linkedin.com/posts/james-heard-a4147733b_teslainterns2026-activity-7475648679475851264-gP7s",
+        "title": "Excited to announce my fall semester plans have gone out the window! (In a good way) I'll be joining Tesla this fall in Palo Alto, as an Abuse\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQGwmFoGEboK1w/feedshare-image-high-res/B56Z77N7LGIoAU-/0/1782331192238?e=2147483647&v=beta&t=RRb7TVPyjYpVgX4X4FDihpOqQa2UPLNlNyKunLXnddU",
+        "id": "7475648679475851264"
+      },
+      {
+        "interaction": "Liked by Andy Chin",
+        "link": "https://www.linkedin.com/posts/friendly-reminder-i-receive-well-over-100-activity-7475520852575567872-QHmt",
+        "title": "Friendly reminder; I receive well over 100 LinkedIn messages every day. Many are from people asking to schedule time to discuss opportunities at\u2026",
+        "img": "https://static.licdn.com/aero-v1/sc/h/53n89ecoxpr1qrki1do3alazb",
+        "id": "100"
+      },
+      {
+        "interaction": "Liked by Andy Chin",
+        "link": "https://www.linkedin.com/posts/anguyen265_im-excited-to-share-that-ive-been-promoted-activity-7472878984955854849-YkAC",
+        "title": "I\u2019m excited to share that I\u2019ve been promoted to Program Manager at NVIDIA. I\u2019m grateful for the incredible colleagues and leaders who continually\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQEvVJu9i5OIlw/feedshare-image-high-res/B56Z7T_02IIMAY-/0/1781673187886?e=2147483647&v=beta&t=tYT_DeIpo5fmYKwpVphAdLMgx0d_gYxENM5CKiHCwmk",
+        "id": "7472878984955854849"
+      },
+      {
+        "interaction": "Liked by Andy Chin",
+        "link": "https://www.linkedin.com/posts/cheyoungahn444_ycstartupschool-startups-sf-activity-7472757491823730688-gAGD",
+        "title": "A year ago, before I'd ever set foot in SF, I was scrolling LinkedIn at some random hour. Then I saw a post about FoundHer House. And I remember\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQFQyB2WxkFFAw/feedshare-shrink_800/B56Z7SRVtzGgAg-/0/1781644221733?e=2147483647&v=beta&t=bebFyIcHFlvst4cyBBQYzo3IVosJg-vttEp3XVO2HoM",
+        "id": "7472757491823730688"
+      },
+      {
+        "interaction": "Liked by Andy Chin",
+        "link": "https://www.linkedin.com/posts/wayne-ngo_im-excited-to-share-that-ill-be-joining-activity-7470990429845356544-pgB7",
+        "title": "I'm excited to share that I'll be joining Veeam Software as a Software Engineering Intern on the AI Platform Team in San Jose, CA! Huge thank you to\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQF8NZ8q9O3O1g/feedshare-shrink_1280/B56Z65KNPaGsAQ-/0/1781222921451?e=2147483647&v=beta&t=lVCJ9_GRCA67mVlwlquthp_KJ1G1oahbw8ugzMcoYyg",
+        "id": "7470990429845356544"
+      },
+      {
+        "interaction": "Liked by Andy Chin",
+        "link": "https://www.linkedin.com/posts/netra-thiru_insideamazon-intern-activity-7470942078059937792-5pLY",
+        "title": "Excited to share that I\u2019ll be joining Amazon Web Services (AWS) this summer as a Software Development Engineer Intern in Denver, CO! Big thanks to\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQGWg-sh9kWepA/feedshare-shrink_800/B4EZ64eOu.JgAc-/0/1781211393226?e=2147483647&v=beta&t=uOZ7qP6tn_yNIH_N6kTFcx5I8E1BqIwwndX-wzCEHGQ",
+        "id": "7470942078059937792"
+      },
+      {
+        "interaction": "Liked by Andy Chin",
+        "link": "https://www.linkedin.com/posts/keerti-koya_super-happy-to-share-that-ive-joined-intuit-activity-7469945540861083648-2pid",
+        "title": "Super happy to share that I've joined Intuit as a Software Engineering Intern this summer! Huge thank you to Naeema Kaleem for her support\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQHp0dDYuNJuXQ/feedshare-shrink_800/B56Z48YGJXIEAc-/0/1779129412850?e=2147483647&v=beta&t=ozdbMmBoswuOOx-_RIQ76Y6SfwC2CDJPfExlwE5Vco8",
+        "id": "7469945540861083648"
+      },
+      {
+        "interaction": "Liked by Andy Chin",
+        "link": "https://www.linkedin.com/posts/aditya-nair-2b376a262_cisco-networking-activity-7469605411260690432-s3Mq",
+        "title": "I'm excited to announce that I will be joining Cisco as a Software Engineering Intern this summer! I'm incredibly excited for the opportunity to\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQHLj3pXZw1KMQ/feedshare-shrink_800/B56Z6lcHJrGoAc-/0/1780892071533?e=2147483647&v=beta&t=bGWfwgQrPbp6T2MfwqW9Lx1Nn0ojXqKz5q2h1kyidCs",
+        "id": "7469605411260690432"
+      }
+    ],
+    "linkedin_num_id": "1215506363",
+    "banner_image": "https://media.licdn.com/dms/image/v2/D5616AQH9khELpLBKVA/profile-displaybackgroundimage-shrink_200_800/B56Z2eezdZKQAU-/0/1776480370017?e=2147483647&v=beta&t=Gba_FdIvF3lQZJrS1AP8LG4RjNvAvUhm7tQHXlAXJt4",
+    "honors_and_awards": null,
+    "similar_profiles": [],
+    "default_avatar": false,
+    "memorialized_account": false,
+    "bio_links": [],
+    "first_name": "Andy",
+    "last_name": "Chin",
+    "influencer": false,
+    "timestamp": "2026-08-12T18:55:43.112Z",
+    "input": {
+      "url": "https://www.linkedin.com/in/andychin888"
+    }
+  },
+  "local_photo": "data\\linkedin_photos\\andychin888__usr-wUd3EeIuL8bALcu.jpg"
+}

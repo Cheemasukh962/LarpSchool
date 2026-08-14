@@ -1,0 +1,347 @@
+{
+  "luma_user_id": "usr-UCJe7IdB6d9WXKG",
+  "csv_name": "Rohil",
+  "csv_linkedin": "https://www.linkedin.com/in/rohildshah",
+  "enriched_at": "2026-08-12T19:16:49.703456+00:00",
+  "batch_id": "sd_msqgxyk1xj7v4ip1",
+  "profile": {
+    "id": "rohildshah",
+    "name": "Rohil Shah",
+    "city": "San Jose, California, United States",
+    "country_code": "US",
+    "position": null,
+    "about": null,
+    "current_company": {
+      "link": "https://www.linkedin.com/company/roblox?trk=public_profile_topcard-current-company",
+      "name": "Roblox",
+      "company_id": "roblox",
+      "location": null
+    },
+    "experience": null,
+    "url": "https://pk.linkedin.com/in/rohildshah",
+    "educations_details": "Stanford University",
+    "education": [
+      {
+        "start_year": "2022-09",
+        "end_year": "2026-06",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      },
+      {
+        "start_year": "2018",
+        "end_year": "2022",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      },
+      {
+        "start_year": "2021-08",
+        "end_year": "2022-05",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      },
+      {
+        "start_year": "2021-04",
+        "end_year": "2021-06",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      }
+    ],
+    "avatar": "https://media.licdn.com/dms/image/v2/D5603AQEbudo0rLJWwg/profile-displayphoto-scale_200_200/B56Z6z5pqiIoAg-/0/1781134697245?e=2147483647&v=beta&t=kfmBftmpzPSFTtHs5n_pmtkUo7Dbuzc6K-CMVwLb3F8",
+    "courses": [
+      {
+        "subtitle": "CS 190A",
+        "title": "Advanced Algorithms Engineering"
+      },
+      {
+        "subtitle": "CS 138",
+        "title": "Automata & Formal Languages"
+      },
+      {
+        "subtitle": "CS 154",
+        "title": "Computer Architecture"
+      },
+      {
+        "subtitle": "CMPTGCS 1B",
+        "title": "Computer Architecture"
+      },
+      {
+        "subtitle": "CS 130A",
+        "title": "Data Structures & Algorithms I"
+      },
+      {
+        "subtitle": "CS 130B",
+        "title": "Data Structures & Algorithms II"
+      },
+      {
+        "subtitle": "MATH 004B",
+        "title": "Differential Equations (West Valley College)"
+      },
+      {
+        "subtitle": "CS 40",
+        "title": "Foundations of Computer Science (Discrete Math)"
+      },
+      {
+        "subtitle": "MATH 004A",
+        "title": "Intermediate Calculus (West Valley College)"
+      },
+      {
+        "subtitle": "CS 111",
+        "title": "Introduction to Computational Science"
+      },
+      {
+        "subtitle": "MATH 145",
+        "title": "Introduction to Topology"
+      },
+      {
+        "subtitle": "MATH 108A",
+        "title": "Linear Algebra"
+      },
+      {
+        "subtitle": "MATH 4A",
+        "title": "Linear Algebra with Applications"
+      },
+      {
+        "subtitle": "MATH 117",
+        "title": "Methods of Analysis (Real Analysis)"
+      },
+      {
+        "subtitle": "CS 32",
+        "title": "Object Oriented Design and Implementation"
+      },
+      {
+        "subtitle": "PSTAT 120A",
+        "title": "Probability and Statistics"
+      },
+      {
+        "subtitle": "CS 16",
+        "title": "Problem Solving with Computers I"
+      },
+      {
+        "subtitle": "CS 24",
+        "title": "Problem Solving with Computers II"
+      },
+      {
+        "subtitle": "CMPTGCS 1L",
+        "title": "Programming Laboratory"
+      },
+      {
+        "subtitle": "CS 292F",
+        "title": "Real-Time High Quality Rendering (graduate-level course)"
+      },
+      {
+        "subtitle": "CS 160",
+        "title": "Translation of Programming Languages (Compilers)"
+      }
+    ],
+    "volunteer_experience": [
+      {
+        "cause": "Education",
+        "duration": "Nov 2022 \u00b7 - \nFeb 2023 \u00b7 \n4 months",
+        "duration_short": "- \nFeb 2023",
+        "info": "Individually tutor 5th and 8th students after school (elementary) and during classes (junior high).",
+        "start_date": "Nov 2022",
+        "subtitle": "Isla Vista Elementary School & Goleta Valley Junior High School",
+        "title": "Volunteer Tutor"
+      }
+    ],
+    "followers": 1007,
+    "connections": 500,
+    "current_company_company_id": "roblox",
+    "current_company_name": "Roblox",
+    "publications": [
+      {
+        "title": "Efficiency Optimizations for Superblock-based Sparse Retrieval",
+        "subtitle": "SIGIR 2026"
+      }
+    ],
+    "projects": [
+      {
+        "title": "C-flat Compiler",
+        "start_date": "Apr 2024",
+        "description": "- Developed lexer, LL(1) recursive descent parser, validator, optimizer, and x86-64 code generator in C++."
+      },
+      {
+        "title": "Real-Time High-Quality Rendering Techniques",
+        "start_date": "Apr 2024",
+        "description": "- Implemented percentage-closer soft shadows and screen-space directional occlusion with >30 FPS.- Developed ray-traced video denoiser via a joint-bilateral filter and temporal accumulation with >30 FPS.- Utilized GNU Make and C++ while learning OpenGL, GLSL, and Blender from scratch."
+      },
+      {
+        "title": "Slang Tracker",
+        "start_date": "Jan 2024",
+        "description": "- Built a tool to identify and track slang in real-time on online forums, then predict current and future trends.- Gaining experience with NLP: text normalizing, tokenizing, statistical analysis, and linguistic perspectives on slang.- Technologies: Python, Natural Language Toolkit (NLTK), Regex, Web Scraping, Matplotlib."
+      },
+      {
+        "title": "MIPS Emulator",
+        "start_date": "Jan 2024",
+        "description": "- Designed MIPS simulator from scratch in C++, supporting 21 instructions, stack manipulation, and jump directives.- Gained a deep understanding of fetch/execute cycle, CPU memory management, and endianness."
+      },
+      {
+        "title": "Carrom AI Agent",
+        "start_date": "Oct 2023",
+        "description": "- Developed reinforcement learning AI agent to play South-Asian tabletop board game Carrom (similar to billiards).- Studied theory via David Silver\u2019s virtual RL course, then applied concepts to achieve win rate of >50% vs. random.- Technologies: Reinforcement Learning, AI/ML, Proximal Policy Optimization (PPO), Python, Pygame, Pymunk, PettingZoo, Gymnasium, Ray RLlib, Ray Tune."
+      },
+      {
+        "title": "Verde",
+        "start_date": "Dec 2022",
+        "description": "- Built a social media app encouraging users to complete daily sustainability challenges via public posts.- 1st place winner at UCSB Solution Challenge competition; collaborated with a team of 4 members.- Technologies: React Native, Firebase, Expo, Typescript, Git."
+      },
+      null,
+      null,
+      null,
+      {
+        "title": "Bird Flocking Simulation",
+        "start_date": "Nov 2022",
+        "description": "- Built a web demonstration of Craig Reynolds\u2019 artificial life simulation of boids (bird-oid objects).- Technologies: JavaScript, HTML, CSS, GitHub Pages."
+      },
+      {
+        "title": "AlgoU",
+        "start_date": "Apr 2021",
+        "description": "- Built a full-stack web app to teach users to code common sorting algorithms through a visual interface.- Presented project to student and mentor community at Polygence Symposium of Rising Scholars.- Technologies: React, NodeJS, PostgreSQL, Docker, Apache, Bootstrap, HTML, JavaScript, Python."
+      },
+      {
+        "title": "PA28 Performance",
+        "start_date": "Jun 2020",
+        "description": "- Implemented production-level aircraft performance app under the guidance of mentor Steve Kleiman.- Deployed to iOS, Android, and browser, accumulating 2500 active users and hosting 2300 sessions/month.- Technologies: HTML, JavaScript, Chrome DevTools."
+      }
+    ],
+    "location": "San Jose",
+    "input_url": "https://www.linkedin.com/in/rohildshah",
+    "linkedin_id": "rohildshah",
+    "activity": [
+      {
+        "interaction": "Liked by Rohil Shah",
+        "link": "https://www.linkedin.com/posts/ayzxu_excited-to-start-my-role-at-mercor-as-a-member-activity-7492652220954615809-Blc8",
+        "title": "Excited to start my role at Mercor as a Member of Technical Staff on the Forward Deployed Applied AI Team! Thanks to all who have helped me on the\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQFw_UoK0-h-pg/feedshare-shrink_800/B56Z_s_fdfKoAc-/0/1786387495055?e=2147483647&v=beta&t=BGAIYEQ2ozjjJGTsQLn7P0dNqZsENgzLtBxMyXAx7rc",
+        "id": "7492652220954615809"
+      },
+      {
+        "interaction": "Liked by Rohil Shah",
+        "link": "https://www.linkedin.com/posts/ghita-houir-alami_zeroentropy-is-joining-notion-after-over-activity-7486468628998144001-w4uX",
+        "title": "ZeroEntropy is joining Notion! After over two years full of training models and teams, writing kernels and papers, and optimizing for latency and\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQE59aHMCfkNow/feedshare-shrink_800/B4EZ.VHi66HoAc-/0/1784913211419?e=2147483647&v=beta&t=VlEeLXomvEhtUpN30IuTuZGlE8dGEyNHKqt4Zl2ND7A",
+        "id": "7486468628998144001"
+      },
+      {
+        "interaction": "Liked by Rohil Shah",
+        "link": "https://www.linkedin.com/posts/parkercarlson_sigir2026-activity-7486311541319884801-NRbL",
+        "title": "Just wrapped up an amazing week at #SIGIR2026 in Melbourne! I presented three papers from UCSB Computer Science Department (and Seltz contributing\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQGCOvCYaL7b-Q/feedshare-shrink_800/B56Z.S4rCZKUAc-/0/1784875758992?e=2147483647&v=beta&t=04IiqhlyRkdQp8EFnp73SAvkyNI5zik36bO41aO3F5w",
+        "id": "7486311541319884801"
+      },
+      {
+        "interaction": "Liked by Rohil Shah",
+        "link": "https://www.linkedin.com/posts/antoniomallia_exclusive-seltz-a-startup-trying-to-reinvent-activity-7475511938609971200-6kqC",
+        "title": "Today we're announcing our $12.5M seed, led by B Capital and Speedinvest. In 8 months, a small team built a news index that's faster and more\u2026",
+        "img": "https://media.licdn.com/dms/image/sync/v2/D4E27AQHUP5QXt75GCQ/articleshare-shrink_800/B4EZ75Usi.KAAk-/0/1782299413431?e=2147483647&v=beta&t=6MtCVhVdf1RojMx00Vi3UqBEP62O6-HSLJBbfmwu0A8",
+        "id": "7475511938609971200"
+      },
+      {
+        "interaction": "Liked by Rohil Shah",
+        "link": "https://www.linkedin.com/posts/michael408ma_every-journey-has-its-final-day-dont-activity-7473088527635947521-uwpg",
+        "title": "\ud83c\udf93\ud83e\udd9d \"Every journey has its final day. Don't rush.\" This past April, I completed my Bachelor's degree at UC Santa Barbara majoring in Economics and\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQHLJaG1BssDXQ/feedshare-image-high-res/B56Z7W.aVlHIAU-/0/1781723146262?e=2147483647&v=beta&t=SN9pgTHINF4sAqE8nCoIjdiCb-Qp1rNX3XlrfTUjQH0",
+        "id": "7473088527635947521"
+      },
+      {
+        "interaction": "Liked by Rohil Shah",
+        "link": "https://www.linkedin.com/posts/varun-aravind22_this-june-ill-be-graduating-from-uc-santa-activity-7469161819299966976-ORY6",
+        "title": "This June, I'll be graduating from UC Santa Barbara with my B.S. in Biological Sciences. It's still unbelievable that 4 years have flown by this\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQE9qGZgY8Nulg/feedshare-image-high-res/B56Z6fLEBBGsAU-/0/1780786939052?e=2147483647&v=beta&t=pl_MMJ_jssIxXU7UsvOaPQIpaOLhSxVPG5CLbPLe2wo",
+        "id": "7469161819299966976"
+      },
+      {
+        "interaction": "Liked by Rohil Shah",
+        "link": "https://www.linkedin.com/posts/lijeffrey39_the-best-undergrad-cs-program-rankings-are-activity-7467975923519336449-FVmh",
+        "title": "The best undergrad CS program rankings are overrated. Top schools dominate interview rates. Stanford, MIT, Berkeley, Carnegie Mellon. They\u2019re great\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQG6TIk29g1mog/feedshare-image-high-res/B56Z6K8l2dJsAU-/0/1780447600248?e=2147483647&v=beta&t=x2q5u2Hne3wipTidrE8ox2iFoVBAX9ldk2pHoNis_Go",
+        "id": "7467975923519336449"
+      }
+    ],
+    "linkedin_num_id": "818923779",
+    "banner_image": "https://media.licdn.com/dms/image/v2/D5616AQGnB42pVYiJ8A/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1723172870945?e=2147483647&v=beta&t=lmS6NyuyqWLfDZO4qcL5PB-28dfxJxe7zQ3ihZHdU9M",
+    "honors_and_awards": [
+      {
+        "title": "NSF Graduate Research Fellowship",
+        "publication": "National Science Foundation",
+        "date": "2026-04-01T00:00:00.000Z",
+        "description": null
+      },
+      {
+        "title": "Computer Science Student of the Year",
+        "publication": "-",
+        "date": "2025-06-01T00:00:00.000Z",
+        "description": null
+      },
+      {
+        "title": "UCSB's Google Developer Solution Challenge First Place",
+        "publication": "UCSB Google Developer Student Club",
+        "date": "2023-04-01T00:00:00.000Z",
+        "description": "Awarded 1st place for our project, Verde (see above)"
+      },
+      {
+        "title": "UC Regents' Scholar",
+        "publication": "UC Santa Barbara",
+        "date": "2022-09-01T00:00:00.000Z",
+        "description": null
+      },
+      {
+        "title": "California Seal of Biliteracy - French",
+        "publication": "California Department of Education",
+        "date": "2022-06-01T00:00:00.000Z",
+        "description": "Completed 5 levels of French. Proficient in reading, writing, and speaking."
+      },
+      {
+        "title": "National Merit Finalist",
+        "publication": "National Merit Scholarship Corporation (NMSC)",
+        "date": "2022-02-01T00:00:00.000Z",
+        "description": "Semifinalist designation awarded Sep 2021"
+      },
+      {
+        "title": "Brandeis Book Award",
+        "publication": "Lynbrook High School",
+        "date": "2021-06-01T00:00:00.000Z",
+        "description": "Recognizes students who show commitment to civic engagement or community service. Recipients are chosen by Brandeis alumni faculty at school, and generally, only one person is selected."
+      },
+      {
+        "title": "National French Contest Silver Medal",
+        "publication": "American Association of Teachers of French",
+        "date": "2021-05-01T00:00:00.000Z",
+        "description": null
+      },
+      {
+        "title": "National French Contest Silver Medal",
+        "publication": "American Association of Teachers of French",
+        "date": "2019-05-01T00:00:00.000Z",
+        "description": null
+      },
+      {
+        "title": "Dean\u2019s Honors",
+        "publication": "UC Santa Barbara",
+        "date": null,
+        "description": "Achieved Dean's Honors over 4 quarters"
+      }
+    ],
+    "similar_profiles": [],
+    "default_avatar": false,
+    "memorialized_account": false,
+    "bio_links": [
+      {
+        "title": "Personal Website",
+        "link": "https://rohildshah.github.io/"
+      }
+    ],
+    "first_name": "Rohil",
+    "last_name": "Shah",
+    "influencer": false,
+    "timestamp": "2026-08-12T19:15:50.954Z",
+    "input": {
+      "url": "https://www.linkedin.com/in/rohildshah"
+    }
+  },
+  "local_photo": "data\\linkedin_photos\\rohildshah__usr-UCJe7IdB6d9WXKG.jpg"
+}

@@ -1,0 +1,125 @@
+{
+  "luma_user_id": "usr-k4neNsdcrhSTAzu",
+  "csv_name": "Minh Do",
+  "csv_linkedin": "https://www.linkedin.com/in/minhnguyendo",
+  "enriched_at": "2026-08-12T19:13:35.729517+00:00",
+  "batch_id": "sd_msqguuzo2o546dm49e",
+  "profile": {
+    "id": "minhnguyendo",
+    "name": "Minh Nguyen Do",
+    "city": "United States",
+    "country_code": "US",
+    "position": null,
+    "about": null,
+    "current_company": {
+      "link": "https://www.linkedin.com/company/janet-ai?trk=public_profile_topcard-current-company",
+      "name": "Janet AI (YC S25)",
+      "company_id": "janet-ai",
+      "location": null
+    },
+    "experience": null,
+    "url": "https://www.linkedin.com/in/minhnguyendo",
+    "people_also_viewed": [
+      {
+        "profile_link": "https://www.linkedin.com/in/sheilamarcelo",
+        "name": "Sheila Lirio Marcelo",
+        "about": "Ohai.ai",
+        "location": "41K followers New York, NY"
+      },
+      {
+        "profile_link": "https://www.linkedin.com/in/olena-bondarenko-53676a6",
+        "name": "Olena Bondarenko",
+        "about": "EM Cosmetics",
+        "location": "29K followers Los Angeles Metropolitan Area"
+      },
+      {
+        "profile_link": "https://www.linkedin.com/in/loracecere",
+        "name": "Lora Cecere",
+        "about": "Supply Chain Insights",
+        "location": "350K followers Hanover, PA"
+      },
+      {
+        "profile_link": "https://www.linkedin.com/in/joseferreira",
+        "name": "Jose Ferreira",
+        "about": "Faebler",
+        "location": "135K followers Brooklyn, NY"
+      },
+      {
+        "profile_link": "https://www.linkedin.com/in/nnegahbanzadeh",
+        "name": "Natasha Wood",
+        "about": "Blue Elk Branding",
+        "location": "26K followers Denver Metropolitan Area"
+      },
+      {
+        "profile_link": "https://www.linkedin.com/in/chad-everett-b907182",
+        "name": "Chad Everett",
+        "about": null,
+        "location": "29K followers United States"
+      },
+      {
+        "profile_link": "https://www.linkedin.com/in/johnhartnett",
+        "name": "John Hartnett",
+        "about": "SVG Ventures | THRIVE",
+        "location": "25K followers Los Gatos, CA"
+      },
+      {
+        "profile_link": "https://www.linkedin.com/in/bbernstein1",
+        "name": "Brandon Bernstein",
+        "about": "Music Lifeboat",
+        "location": "26K followers Los Angeles, CA"
+      },
+      {
+        "profile_link": "https://www.linkedin.com/in/geraldbuckley",
+        "name": "Gerald Buckley",
+        "about": "Guardian Sentinel LTD",
+        "location": "31K followers Tulsa, OK"
+      },
+      {
+        "profile_link": "https://www.linkedin.com/in/danhoeyer",
+        "name": "Dan Hoeyer",
+        "about": "Leaders Excellence at Harvard Square",
+        "location": "31K followers Cambridge, MA"
+      }
+    ],
+    "educations_details": "Carnegie Mellon University",
+    "education": null,
+    "avatar": "https://media.licdn.com/dms/image/v2/D4E03AQFw90qE_F9R3g/profile-displayphoto-scale_200_200/B4EZ1HWJ7iGQAY-/0/1775018486113?e=2147483647&v=beta&t=PouyCQ6839ArJajA4mkZByIUy3uknFItJcBjoI-9cfE",
+    "languages": [
+      {
+        "subtitle": "Native or bilingual proficiency",
+        "title": "English"
+      },
+      {
+        "subtitle": "Professional working proficiency",
+        "title": "Chinese"
+      },
+      {
+        "subtitle": "Professional working proficiency",
+        "title": "Spanish"
+      }
+    ],
+    "followers": 3223,
+    "connections": 500,
+    "current_company_company_id": "janet-ai",
+    "current_company_name": "Janet AI (YC S25)",
+    "location": null,
+    "input_url": "https://www.linkedin.com/in/minhnguyendo",
+    "linkedin_id": "minhnguyendo",
+    "activity": null,
+    "linkedin_num_id": "861023561",
+    "banner_image": "https://media.licdn.com/dms/image/v2/D5616AQFcVgvvWi8nuQ/profile-displaybackgroundimage-shrink_200_800/B56Z504MC6IUAU-/0/1780077347440?e=2147483647&v=beta&t=E3uv6JogUOtYVp0cxezDJf6RzWZpTI6ZkcztRMNBbws",
+    "honors_and_awards": null,
+    "similar_profiles": [],
+    "default_avatar": false,
+    "memorialized_account": false,
+    "bio_links": [],
+    "first_name": "Minh",
+    "last_name": "Nguyen Do",
+    "influencer": false,
+    "timestamp": "2026-08-12T19:12:37.995Z",
+    "input": {
+      "url": "https://www.linkedin.com/in/minhnguyendo"
+    }
+  },
+  "local_photo": "data\\linkedin_photos\\minhnguyendo__usr-k4neNsdcrhSTAzu.jpg"
+}

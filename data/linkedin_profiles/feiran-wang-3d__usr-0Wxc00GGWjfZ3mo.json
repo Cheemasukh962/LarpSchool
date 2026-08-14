@@ -1,0 +1,231 @@
+{
+  "luma_user_id": "usr-0Wxc00GGWjfZ3mo",
+  "csv_name": "Feiran Wang",
+  "csv_linkedin": "https://www.linkedin.com/in/feiran-wang-3d",
+  "enriched_at": "2026-08-12T19:06:01.813470+00:00",
+  "batch_id": "sd_msqgh02428smzgu5m",
+  "profile": {
+    "id": "feiran-wang-3d",
+    "name": "Feiran Wang",
+    "city": "Greater Chicago Area",
+    "country_code": "US",
+    "position": null,
+    "about": "I'm a PhD researcher in Computer Vision at Illinois Tech, currently visiting the\u2026",
+    "current_company": {
+      "link": "https://de.linkedin.com/company/bosch-center-for-artificial-intelligence-bcai?trk=public_profile_topcard-current-company",
+      "name": "Bosch Center for Artificial Intelligence (BCAI)",
+      "company_id": "bosch-center-for-artificial-intelligence-bcai",
+      "location": null
+    },
+    "experience": null,
+    "url": "https://lb.linkedin.com/in/Feiran-wang-3d",
+    "educations_details": "Illinois Institute of Technology",
+    "education": [
+      {
+        "start_year": "2026-01",
+        "end_year": "2026-04",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      },
+      {
+        "start_year": "2022-08",
+        "end_year": "2023-12",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      },
+      {
+        "start_year": "2021-09",
+        "end_year": "2021-12",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      },
+      {
+        "start_year": "2018-09",
+        "end_year": "2022-07",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      }
+    ],
+    "avatar": "https://media.licdn.com/dms/image/v2/D5603AQHqp4-PiE7aag/profile-displayphoto-scale_200_200/B56ZrqiPWAJsAg-/0/1764871436707?e=2147483647&v=beta&t=WP1Cn5IuyC98UhaiuCSDYYvA5Mh1gIkIL42_HnnRGPQ",
+    "followers": 812,
+    "connections": 500,
+    "current_company_company_id": "bosch-center-for-artificial-intelligence-bcai",
+    "current_company_name": "Bosch Center for Artificial Intelligence (BCAI)",
+    "location": null,
+    "input_url": "https://www.linkedin.com/in/feiran-wang-3d",
+    "linkedin_id": "feiran-wang-3d",
+    "activity": [
+      {
+        "interaction": "Feiran Wang shared this",
+        "link": "https://www.linkedin.com/posts/feiran-wang-3d_had-an-amazing-time-at-y-combinator-startup-activity-7488271089341759488-07ST",
+        "title": "Had an amazing time at Y Combinator Startup School. \ud83c\udf89 It was a great honor to meet Boris Cherny and chat with him about self-evolving agents and the future of AI agents in the real world. Huge thanks to Y Combinator for hosting such an inspiring event and bringing together so many incredible founders and builders. A few takeaways \ud83d\udcd2 Jensen Huang \u2705 Now is the best time in the last 60 years to start a startup because computing has been reset by AI agents. \u2705 The next frontier is fine-grained control of AI agents, rather than simply scaling models. Boris Cherny How to use Claude Code like Boris? \u2705 Don\u2019t write step-by-step instructions. Just describe the task. \u2705 Build through empirical iteration: make it work, observe the results, improve, and iterate. ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQFkASYylgNycw/feedshare-image-high-res/B56Z.uuzB4KoAc-/0/1785342933704?e=2147483647&v=beta&t=g4gC-k6H0HqL5AUcjKfFrEEyJr4aE0fESTY-5kFkx28",
+        "id": "7488271089341759488"
+      },
+      {
+        "interaction": "Feiran Wang shared this",
+        "link": "https://www.linkedin.com/posts/feiran-wang-3d_computervision-3dreconstruction-vggt-activity-7484472206920445952-KpPg",
+        "title": "Let's finetune VGGT-Omega! \ud83d\ude80 We share \u03a9-Forge: an unofficial open-source training / finetuning toolkit for VGGT-Omega (VGGT-\u03a9), together with a standalone 3D reconstruction visualizer. Thanks Jing Gao for collaboration! Four lessons we learn during this process: \u2705 Your image framing may cost more than finetuning gains \u2705 A naive pose loss collapsed our camera head \u2705 Sparse depth is fine. Wrong depth is not. \u2705 A validation split of one scene is not a validation split \ud83d\udcbb Github: https://lnkd.in/gTMv2B_z Big thanks to the authors of VGGT-\u03a9, on top of whose excellent work this toolkit is built. If it saves you time, a \u2b50 helps others find it. \ud83c\udf1f #ComputerVision #3DReconstruction #VGGT #VGGTOmega #FoundationModel #DepthEstimation #3DVision #OpenSource #Finetuning ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D5605AQFIoIRH38MCYw/videocover-high/B56Z94sqfuG0BM-/0/1784436404100?e=2147483647&v=beta&t=QGliLgw_JCzVUjwVwxc88XMwjtSTiCO3wSqWtMtrIiY",
+        "id": "7484472206920445952"
+      },
+      {
+        "interaction": "Feiran Wang shared this",
+        "link": "https://www.linkedin.com/posts/feiran-wang-3d_yc-jensenhuang-samaltman-activity-7479588785819660288-90Bt",
+        "title": "Four months ago, when I applied to the #YC 2026 Summer School, I never imagined I'd be accepted. \ud83c\udf89 The only thing that pushed me forward was a piece of wisdom I keep coming back to: \"Do it first.\" One week later, the offer arrived. It's a genuine privilege to join a community of people who share the same passion for building, and to learn firsthand from some of the most influential voices in the AI era, including #JensenHuang , #SamAltman , #PatrickCollison , #JeffDean , #AlexandrWang , and many other remarkable founders and researchers. Check out my product beta \ud83d\udc49 https://lnkd.in/g9wWd4Uu Rewind to early 2026: I set out to design an AI workflow that could recommend and archive research papers every day. As researchers living through the rise of general AI, we're seeing publication volumes grow to 50x what they were just a few years ago. Top conferences like #CVPR and #NeurIPS have gone from thousands of submissions to more than 30,000. \ud83d\udcd1 The bottleneck is no longer keeping up with the latest progress, it's filtering out the noise to surface the most insightful work. That's exactly what #Paperinder is built for. \ud83d\udca1 Over the past four months, #Paperinder has evolved into an agentic system with a purpose-built harness \ud83e\udd16: a research-specific #Environment , paper-centric #Tools and #Skills , and an abstracted #Constitution that guides every foundation model, from open-source #Qwen to frontier models like #GPT and #Claude . We never really know how far an idea can go, and I think that's the heart of \"Do it first.\" What began as a personal tool has grown into an agentic system for research work at large. That journey has led us to launch #LumeLab , our initiative focused on autonomous research. It stands on two legs. The first, #Paperinder , organizes information and helps structure thinking. The second, #Northstar (a name inspired by #FeifeiLi 's philosophy on life and research), is just getting started, designed to take a core idea and then design, run, and analyze experiments in a continuous loop. We believe the autonomous research agent is already on its way. With gratitude and anticipation, I look forward to meeting and connecting with everyone at the venue this July! #AIAgents #Startups #YCombinator #Research #26SummerSchool ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQHZoo1A0VkEbg/feedshare-shrink_800/B56Z8zT1LDHUAc-/0/1783272264770?e=2147483647&v=beta&t=F-HSRdcV_kKfvYmnLwigrANgwTskkAGSqYOkGhs9INA",
+        "id": "7479588785819660288"
+      },
+      {
+        "interaction": "Feiran Wang shared this",
+        "link": "https://www.linkedin.com/posts/feiran-wang-3d_month-by-month-i-keep-asking-myself-what-activity-7479247291283947520-hUXP",
+        "title": "Month by month, I keep asking myself what the role of 3D will be in the coming era of scaling models. The explicit nature of 3D representation inherently limits its scaling potential, since 3D data is far scarcer than video and images. Some people claim \u201c3D is dead.\u201d As a researcher who has worked on 3D since my very first paper years ago, I have started to accept a real possibility: given a large enough volume of high-quality video data, a model may learn consistent spatial understanding and reasoning through implicitly learned representations, and this could turn out to be better than human-curated 3D representations such as point clouds or 3DGS. Here, I hear a reassuring voice saying, \u201c3D never dies.\u201d I believe explicit 3D representation remains very much alive whenever a task lacks the \u201cOmni\u201d-scale data needed to train a foundation model, and it stays an unavoidable path toward spatial intelligence. I\u2019m currently working on a survey that comprehensively introduces the progress of 3D reconstruction foundation models: how to scale 3D, what the open challenges are, and how the field is already reshaping video generation, world models, autonomous driving, embodied AI, and spatial intelligence. Will coming soon and welcome discussion. ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQFGcXCYz6Mlsg/feedshare-shrink_800/B56Z8sUo2RG8Ac-/0/1783155036428?e=2147483647&v=beta&t=fHoDXoiQGX1j-NoFHufVKwAV8687DqSiN3ftI0JVRcQ",
+        "id": "7479247291283947520"
+      },
+      {
+        "interaction": "Feiran Wang shared this",
+        "link": "https://www.linkedin.com/posts/feiran-wang-3d_knowledge-updating-and-faithfulness-are-exactly-activity-7478729254965243904-pHmj",
+        "title": "Knowledge updating and faithfulness are exactly what surface once an agent runs on its own. While building an autonomous research agent, I found the hard part is not capability, but stopping the agent from trusting its own unverified output. Looking forward to learning from these talks. ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQFGxWsp0gT9BA/feedshare-shrink_800/B56Z8k8PhSIUAc-/0/1783031201013?e=2147483647&v=beta&t=zD6itfN4aZIqRGSUkDMt3PP7laSpbEEVWST0KCfJolE",
+        "id": "7478729254965243904"
+      },
+      {
+        "interaction": "Feiran Wang shared this",
+        "link": "https://www.linkedin.com/posts/feiran-wang-3d_eccv2026-computervision-3dreconstruction-activity-7477547443748872192-swMO",
+        "title": "\ud83c\udf89 Excited to share that my first-author paper, RayMap3R, has been accepted at ECCV 2026! In 3D reconstruction, RayMap is widely used to encode camera pose. We found that it carries a useful static prior\ud83d\udca1:in streaming reconstruction models like CUT3R, feeding only the RayMap as input pushes the model to \u201crecall\u201d the repeatedly observed static structure while overlooking dynamic regions. \ud83e\udd14 We turn this property into a signal. RayMap3R is a training-free dual-branch design that contrasts the RayMap-only branch against the full image branch. The per-pixel depth discrepancy softly localizes dynamic regions, letting us reduce dynamic interference, cut camera drift, and improve reconstruction quality. \u2705 So far we have validated this on online streaming method, and we hope it can inspire stronger dynamic-scene performance in offline approaches like VGGT as well. \ud83d\ude4f \ud83c\udf1f Project: https://lnkd.in/d89XwppV \ud83d\udd17 Paper: https://lnkd.in/dBthy_WA \ud83d\udcbb Code: https://lnkd.in/dSVaCUBp #ECCV2026 #ComputerVision #3DReconstruction #DynamicScenes #ECCV #Spatial ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D4D22AQGn4VTasYb7Ig/feedshare-image-high-res/B4DZ8WVxlKGYAU-/0/1782786235201?e=2147483647&v=beta&t=YdPxhzyX2Y_atDL8OHJY7sVfBxtK_2H7ZZlhrbYUw_A",
+        "id": "7477547443748872192"
+      },
+      {
+        "interaction": "Feiran Wang shared this",
+        "link": "https://www.linkedin.com/posts/feiran-wang-3d_newjob-bosch-research-activity-7458608894685347841-u9gA",
+        "title": "Joining the Bosch Center for Artificial Intelligence (BCAI) this summer as a Research Intern in San Jose \ud83c\udf89, working on long-tail data generation for autonomous driving! Autonomous driving has long been a key motivation behind my computer vision research, making this opportunity especially meaningful to me. I\u2019m grateful to my friends, mentors, and the recruiting team for their support, and excited to learn from and contribute as part of the BCAI team.\ud83d\ude80 Looking forward to a great summer in the Bay Area. If you\u2019ll be around, feel free to DM me \u2014 would love to connect in person! #newjob #Bosch #Research #Intern #AutonomousDriving ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQEpPFsZTnj5Mw/feedshare-shrink_800/B4EZ4JNQ_zJ4Ak-/0/1778270933370?e=2147483647&v=beta&t=cESme0t2AgV40I8MQz8MqWm6V8AeoU7CnLYz0go1p1g",
+        "id": "7458608894685347841"
+      },
+      {
+        "interaction": "Feiran Wang shared this",
+        "link": "https://www.linkedin.com/posts/feiran-wang-3d_iclr2026-computervision-3dvision-activity-7452758053789212672-hKdq",
+        "title": "Happy to share our ICLR 2026 paper: CogniMap3D: Cognitive 3D Mapping and Rapid Retrieval. \ud83c\udf89 A question that interests me \ud83e\udd14: in dynamic 3D scenes, how can a system do more than just reconstruct what it currently sees? Can it remember a scene over time, and quickly recognize it again when revisiting, like humans do every day? In CogniMap3D, we present a cognitive mapping system that stores, recalls, and updates scene memories over time. Check the details \ud83d\udc49 \ud83d\udd17 Paper: https://lnkd.in/exUc4CJU \ud83d\udcc4 Slides: https://lnkd.in/e2MTUwgg \ud83d\udcbb GitHub: https://lnkd.in/e7ZDGKgW CogniMap3D does this through three main components: \u2705 Multi-stage motion cues: progressively identify dynamic regions by combining optical flow, geometry-based motion analysis, and robust keypoint refinement \u2705 Cognitive mapping system: store, recall, and update static scene memory across multiple visits \u2705 Factor graph optimization: refine camera trajectories with stronger geometric consistency A personal thought: recent work in 3D vision is gradually moving beyond reconstruction alone. We are starting to see more research on reconstruction + understanding and reconstruction + generation. This work is our attempt to explore how memory can also become part of 3D reconstruction systems. If you are attending ICLR 2026, our poster is at: \ud83d\udccd Pavilion 4, P4-#3311 \ud83d\udd52 Fri, Apr 24, 2026 \u00b7 1:15 PM \u2013 3:45 PM CDT I will not be there in person, but I\u2019d be very happy to chat about the work \u2014 feel free to DM me. Big thanks to my co-authors and everyone who supported this work. #ICLR2026 #ComputerVision #3DVision #SceneUnderstanding #SLAM #Robotics #EmbodiedAI #VisualAI ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQED67mSrKu45Q/feedshare-shrink_800/B4EZ22D9GMJMAc-/0/1776875983871?e=2147483647&v=beta&t=edaUvAoYgC_DeZerEkD2qph7_FGyO5nNw1Z-sSKeizA",
+        "id": "7452758053789212672"
+      },
+      {
+        "interaction": null,
+        "link": "https://www.linkedin.com/posts/feiran-wang-3d_aiagents-llmops-ai-activity-7439756282519220224-1GJy",
+        "title": "4 Agent Strategies I Discovered While Building an AI Research Platform \u26a1 I've been building Paperinder, an AI-powered platform for research paper recommendation and organization. Along the way, I picked up some strategies for working with general-purpose LLMs that I think are worth sharing. I'll say \"agent\" to stay model-agnostic, though I primarily use Claude. Feedback welcome! \ud83d\udc47 1. Reflection \ud83d\udd04 When an agent gives you an answer, it often covers most of the ground, but not all of it. Simply prompting the model to reflect on its own response frequently surfaces finer details, and sometimes even leads it to revise earlier conclusions. Reflection isn't just a human virtue. Models benefit from it too. Whether this stems from how uncertainty and context interact internally, the practical takeaway is clear: one pass is rarely the best pass. 2. Critics \ud83e\udd1d Inside Paperinder, I built an interesting feature called \"Roundtable\". The primary agent, Lumeni, answers the user's question. A separate Critic agent then challenges Lumeni's response and proposes improvements. They iterate until they converge. Here's the fun part: even without setting a conversation limit, they consistently reach consensus within just a few rounds on their own. \ud83c\udfaf The most entertaining discovery? When I set Claude as \"Lumeni\" and GPT as the \"Critic\", the difference in reasoning style becomes immediately obvious. It genuinely feels like a clash of two distinct cognitive frameworks. \u2694\ufe0f 3. Auto-Debug \ud83c\udf19 As a solo developer, I can't manually hunt down every bug. So before going to bed, I spin up an auto-debug session where the agent simulates real user interactions, evaluates response quality, and flags issues autonomously. A nice bonus: it makes good use of CLI usage that would otherwise go idle overnight. No wasted compute. \ud83d\ude04 4. CLI Over Token Billing \ud83d\udca1 Token billing is powerful but unpredictable. An unattended agent session can quietly drain your budget. CLI-based access keeps costs within your existing subscription, and for solo developers, that peace of mind has real value. It also deploys cleanly in web-launched projects, at least those started via VS Code. \ud83d\ude80 Coming soon: Paperinder is an AI-powered research assistant that grows with your research journey. It delivers daily arXiv paper recommendations tailored to you, refines your research profile based on how you rate each suggestion, and draws on a built-in RAG layer to remember your saved papers and past notes. The more you use it, the better it captures your research taste. The plan is to release it as open-source and free, with a macOS app to follow for researchers outside of CS who prefer a native experience. Drop a comment if any of this resonates, or if you have ideas to push these further! \ud83d\udcac Always curious about what's next in 3D vision and beyond \ud83e\udd17 For more interesting research and ideas, check out my homepage \ud83d\udc49 https://lnkd.in/gjmtSzt7 #AIAgents #LLMOps #AI #ResearchTools #LLM ...more",
+        "img": null,
+        "id": "7439756282519220224"
+      },
+      {
+        "interaction": "Feiran Wang replied to a comment 1mo",
+        "link": null,
+        "title": "Kaiang Wen Thanks!",
+        "img": null,
+        "id": null
+      },
+      {
+        "interaction": "Feiran Wang commented on a post 2mo",
+        "link": "https://www.linkedin.com/posts/dehai-min-b2822829b_excited-to-share-that-ive-started-as-a-research-activity-7462330063695532033-r46m",
+        "title": "congratulations!",
+        "img": null,
+        "id": "7462330063695532033"
+      },
+      {
+        "interaction": "Feiran Wang commented on a post 3mo",
+        "link": "https://www.linkedin.com/posts/firas-khader_very-grateful-to-be-working-on-something-activity-7449845116766318592-uye_",
+        "title": "Congratulations!\ud83c\udf89",
+        "img": null,
+        "id": "7449845116766318592"
+      },
+      {
+        "interaction": "Feiran Wang liked this",
+        "link": "https://www.linkedin.com/posts/tianlong-chen-783862167_i-am-looking-for-several-motivated-postdoctoral-activity-7491430416533479424-mVkd",
+        "title": "I am looking for several motivated postdoctoral researchers to join my lab at the University of North Carolina at Chapel Hill. Relevant technical backgrounds include, but are not limited to: - Multimodal Learning - AI for Biomedical Science - Agentic AI and Embodied AI - Trustworthy AI, uncertainty quantification, bias analysis, and model evaluation etc. Position details: - Initial appointment: 1 year - Possible extension depending on performance Eligibility: - U.S. citizen, permanent resident, first-year OPT, or J-1 eligible - Within 5 years of receiving a Ph.D. degree - Strong background in machine learning, medical AI, biomedical engineering, computer vision, data science, or related areas Interested candidates should send their CV to tianlong@cs.unc.edu . Please feel free to share this opportunity with strong candidates who may be interested.",
+        "img": null,
+        "id": "7491430416533479424"
+      },
+      {
+        "interaction": "Feiran Wang liked this",
+        "link": "https://www.linkedin.com/posts/wenxin-elmon-chen_this-week-marks-the-end-of-my-summer-internship-activity-7492014614214299648--YE0",
+        "title": "This week marks the end of my summer internship with the RWE team at Microsoft Research . Over the past few months, I had the chance to explore a new way to approach causal inference, learn about some of the latest work at the intersection of AI and healthcare, and\u2014perhaps most importantly\u2014have many conversations that sent my research ideas down paths I definitely did not anticipate when I arrived. I\u2019m especially grateful to Peniel Argaw for the mentorship throughout the summer, and to MingYu Lu, MD , and Zilin Jing for the thoughtful conversations and feedback that helped shape my project. I also really appreciated the chance to chat with Hoifung Poon , Tristan Naumann , Sheng Zhang along the way. And of course, a huge shout-out to the entire RWE team and the broader MSR community for making this such a welcoming and intellectually stimulating place to work and learn. Seattle also set an unfairly high bar for summer internships: long sunny days, mountains and lakes seemingly everywhere, and more hiking trails than I could possibly fit into one summer\u2014enough to occasionally make me question whether I should spend more time doing research or being outside. Couldn\u2019t have asked for a better way to spend the summer!",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQEskeY2PXZGAw/feedshare-shrink_800/B56Z_j7k8vKEAc-/0/1786235474706?e=2147483647&v=beta&t=9mGD26YhDp9r76gzUT_MxFmMkKL0kUsxXwkj00DlR3U",
+        "id": "7492014614214299648"
+      },
+      {
+        "interaction": "Feiran Wang liked this",
+        "link": "https://www.linkedin.com/posts/shichengf0222_aiagents-agenticcommerce-multiagentsystems-activity-7490248405341081600-jLXq",
+        "title": "\ud83d\ude80 Excited to share our new work: Agentic Commerce World: An Auditable and Verifiable Environment for Vibe Commerce We introduce a new platform for vibe commerce. Similar to vibe coding, people express their commercial goals in natural language and delegate decision-making, negotiation, and transaction execution to AI agents. Vibe Commerce is fundamentally bilateral and multi-agent. Buyer and Merchant agents represent different sides of a market, pursue private objectives, and interact strategically while retaining separate authority. To support this setting, we built: \ud83d\udd17 Vibe Commerce Protocol (VCP) Agents propose actions, the Commerce Intelligence Platform validates them, and the World records their actual effects. This makes agent behavior reproducible and auditable. \ud83c\udf10 Agentic Commerce World (ACWorld) ACWorld is a persistent environment in which multiple Buyer and Merchant agents can interact throughout ongoing transactions. \ud83e\udde0 ACWorld also generates structured interaction trajectories that can support agent evaluation and future training through process supervision, imitation learning, and reinforcement learning. \ud83d\udcca We release two benchmarks: 200 tasks covering 80 commerce capabilities 60 tasks over 785,022 searchable listings Across ten models, performance ranges from 65.9% to 85.6% on the capability benchmark and from 56.1% to 91.4% on the large catalog benchmark. \ud83d\udd0d Notably, some incorrect executions still reached apparently valid final states. Evaluating commercial agents, therefore, requires examining both the outcome and the process that produced it. We hope ACWorld can support research into agentic commerce, buyer-merchant interaction, agent training, and reliable execution. \ud83d\udcc4 Paper: https://lnkd.in/dnGxDwdH \ud83d\udcbb Code and benchmark: https://lnkd.in/dUGvTCNF Grateful to work with Mingdai Yang , Duohao Wang, Canyu Chen , Yongfeng Zhang, Hua Wei , Manling Li , Julian McAuley , Kun Zhang, Philip Yu , Colleen(Kejing) Y. , and Zhiwei Liu . #AIAgents #AgenticCommerce #MultiAgentSystems #Benchmark #AgenticEnvironment",
+        "img": "https://media.licdn.com/dms/image/v2/D4D22AQFOpQc2AUBnvQ/feedshare-shrink_800/B4DZ_K1Ou9I8Ag-/0/1785814380555?e=2147483647&v=beta&t=UxW7EhP2xV0Tp0uPePJewBDD9jTHAE28TuJaiYHcyEs",
+        "id": "7490248405341081600"
+      },
+      {
+        "interaction": "Feiran Wang liked this",
+        "link": "https://www.linkedin.com/posts/aicenter-samsungresearchamerica-jobmarket-activity-7489795636255633409-3uE0",
+        "title": "After an unforgettable summer at ByteDance in the Bay Area, it is time to say goodbye. Over the past three months, I had the opportunity to lead two projects focused on agent sandbox environments and agent harnesses. This experience gave me a much deeper understanding of how LLM agents can be applied to real-world problems. My biggest takeaways from this journey are: \u2022 Agents can meaningfully improve productivity and expand what people are able to accomplish. \u2022 A well-designed harness is essential for turning model capabilities into reliable applications, but the model itself ultimately determines the capability ceiling of an agent. \u2022 High-quality data remains the fundamental driver of model improvement. These lessons have made my next direction clear: I want to continue working closer to the foundation model itself and explore how we can build models that are more capable, efficient, and adaptable. With that goal in mind, I am excited to join the #AICenter at #SamsungResearchAmerica as a Research Intern this Fall, where I will focus on foundation models and efficient machine learning. I am deeply grateful to everyone at ByteDance who supported, guided, and worked alongside me throughout this journey especially my collaborators Daoan Zhang and Dehai Min . Thank you for making this summer such a meaningful and memorable chapter. With graduation now in sight (May, 2027), I am officially on the #jobmarket for full-time Research Scientist and Applied Scientist positions starting in #May #June #2027. I am particularly interested in foundation models, LLM post-training, efficient machine learning, and agentic AI. If you know of a relevant opportunity, I would greatly appreciate a referral or introduction! #FoundationModels #LLM #MachineLearning #AgenticAI #OpenToWork",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQHqbKmNzuaItQ/feedshare-shrink_800/B56Z_EZcPCLAAc-/0/1785706431810?e=2147483647&v=beta&t=4ZH7PBxLUNaVDaC9nlmzlLybx-_35ycsr42UHa1w130",
+        "id": "7489795636255633409"
+      },
+      {
+        "interaction": "Feiran Wang liked this",
+        "link": "https://www.linkedin.com/posts/sean-b-4b763b239_likeabosch-activity-7488430902469881856-FGO5",
+        "title": "I am elated to share that I have accepted an offer to join Bosch USA as a Senior Intern! As a company that has long been committed to engineering products that enrich everyday living, Bosch's \"Invented for Life\" philosophy is something that deeply resonates with me. I am thrilled to now be part of a team that turns that vision into reality. I am grateful for this opportunity and am excited to Grow. Enjoy. Inspire. #LikeABosch",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQHgdp6PLNJEyQ/feedshare-shrink_800/B56Z.xAOX0GcAc-/0/1785381054195?e=2147483647&v=beta&t=1X7QRngPqD7b5Glqd4djG9Zrav2blPLKBZjbaWBysKs",
+        "id": "7488430902469881856"
+      },
+      {
+        "interaction": "Feiran Wang liked this",
+        "link": "https://www.linkedin.com/posts/sanja-fidler-2846a1a_nvidia-spatial-intelligence-lab-sil-activity-7488958169793064961-x0W0",
+        "title": "It's surreal to write this post. It's been 8 years ago, when my life completely changed. All I knew about NVIDIA at the time was this magical box -- the GPU \u2014 that was producing our papers at University of Toronto. I entered the world of NVIDIA on May 6, 2018 by Jensen\u2019s invitation. And behind the magical box, the magical universe unveiled. The universe of some of the smartest and kindest people I've ever met. People that became my dearest collaborators, colleagues, and friends. A place where a mission unites people and clears all artificial boundaries between teams. A place nurtured by a leader so unique in so many ways that it's almost hard to believe he exists. A place that became more than work, it became my home. We grew the team grounds up, with gravity in Toronto and expanding globally over the years. The mission of the team was to develop new technologies for simulation to power the creation and modeling of virtual worlds. And I couldn't be prouder of what we have achieved. Together, we've learned how to become a research lab in industry. Transitioning from conceptual work we discussed in papers, several of which won best paper awards, to technology that shipped in production and made a real world difference. NuRec, Cosmos, Alpamayo, and OmniDreams are some of the efforts I'm most proud the team has led or contributed to, and so many research works we developed through the years that have empowered them. I'd like to thank everyone for this wonderful journey, especially Jensen Huang , Rev Lebaredian , Bill Dally and Xinzhou Wu who mentored and supported me and the team through the years. But most of all I'd like to thank my team. They\u2019ve made the NVIDIA Spatial Intelligence Lab ( https://lnkd.in/g5DamEbk ) a magical place, a frontier lab in the 3D AI domain, and a kind and collaborative environment where people care about each other and support themselves to drive impact. I couldn't be prouder of what we accomplished and the leaders they have all become. I\u2019ve made the difficult decision to leave NVIDIA. I'm leaving with more love for NVIDIA, so much more than what I came in with. I'll miss you all dearly, and can't wait to see how you continue to change the world \ud83d\udc9a World models is where the next breakthrough lies, and it is around the corner. Our vision started with GameGAN in 2020, where AI reproduced a PacMan game. It was immediately clear this will be the technology to change the game for robotics. DriveGAN (2021) was our first driving simulator fully trained from data. Then came videoLDM (2023) that changed the game for video generation efficiency, Cosmos (2025) as an open world simulation platform for Physical AI, and finally OmniDreams (2026) where for the first time we demonstrated real time interactive driving in a fully AI generated world. I\u2019m super excited for what\u2019s to come.",
+        "img": "https://media.licdn.com/dms/image/sync/v2/D5627AQFNI7U5ncgN8g/articleshare-shrink_800/B56Z6plRh0GcAY-/0/1780961581618?e=2147483647&v=beta&t=3UiLvETk3X7YLDCEocLNHnXomWBd5gL5cAkmi_ogIps",
+        "id": "7488958169793064961"
+      },
+      {
+        "interaction": "Feiran Wang liked this",
+        "link": "https://www.linkedin.com/posts/hanqing-guo-788918134_aspire-lab-activity-7488611297958211584-Sj0N",
+        "title": "\ud83d\ude80 \ud835\uddd6\ud835\uddee\ud835\uddff\ud835\uddf2\ud835\uddf2\ud835\uddff \ud835\udde8\ud835\uddfd\ud835\uddf1\ud835\uddee\ud835\ude01\ud835\uddf2: I'm excited to share that I have joined Indiana University Bloomington as an Assistant Professor in the Indiana University Luddy School of Informatics, Computing, and Engineering , Department of Computer Science! I am grateful for the opportunity to begin this new chapter, and I look forward to collaborating with colleagues, students, and researchers at IU and around the world. At Indiana University, I lead the Acoustic Security Protecting Intelligent Real Environments (ASPIRE) Lab ( https://lnkd.in/g_Fy4F8X ), where we develop secure, trustworthy, and human-centered AI systems. Our research sits at the intersection of AI, cybersecurity, and mobile sensing, with current interests including: \u2022 AI Agents and Agentic Systems Security \u2022 Speech and Audio Security \u2022 AI Generated Content Detection and Watermarking \u2022 Mobile, Wireless, and Acoustic Sensing Systems As I begin this journey, I would also like to express my sincere gratitude to my mentors, collaborators, colleagues, students, and friends at the University of Hawaii at Manoa . My two years in Hawai\u02bbi were an unforgettable experience, both professionally and personally. Thank you for your support, encouragement, and friendship. Mahalo! \ud83c\udf3a \ud83e\udd1d If you are interested in joining the lab, collaborating on research, or discussing exciting research ideas, I'd be happy to connect! #IndianaUniversity #IUBloomington #Luddy #AssistantProfessor #Cybersecurity #AISecurity #TrustworthyAI #AIAgents #GenerativeAI #SpeechAI #MachineLearning #MobileSensing #AcousticSensing #Research #PhDRecruiting",
+        "img": "https://media.licdn.com/dms/image/sync/v2/D5627AQE30op02iHOYw/articleshare-shrink_800/B56Z.zihl3KYAc-/0/1785423600913?e=2147483647&v=beta&t=tUalQ86a7jA_HVamxYigGEdCbxOk_t1_srishsb9kCU",
+        "id": "7488611297958211584"
+      },
+      {
+        "interaction": "Feiran Wang liked this",
+        "link": "https://www.linkedin.com/posts/zan-gojcic-92104b107_after-almost-five-years-i-recently-made-activity-7483988092551499776-yum5",
+        "title": "After almost five years, I recently made the difficult decision to leave NVIDIA. NuRec grew from an early demo we hacked together in the last minute for Jensen to present at the 2022 GTC keynote into a simulator with real product impact, and later led to InstantNuRec and OmniDreams. Seeing research move from prototypes and papers into production was incredibly rewarding. I\u2019m grateful to Jensen Huang , Sanja Fidler , Rev Lebaredian , Xinzhou Wu and the many others who created an environment that enables ambitious research and allows researchers to share their work through publications and open-source releases. NVIDIA has built a rare bridge between fundamental open research, large-scale engineering, and real-world impact. It is a truly special place to work, and I\u2019m proud to have contributed to its journey in physical AI and simulation.",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQFHZXut8va22Q/feedshare-shrink_800/B4EZ9x3fn7H8Ac-/0/1784321802842?e=2147483647&v=beta&t=fmQuUCCQqdAjRQug5QPkiouEWajxxIKHXIhRtdawd90",
+        "id": "7483988092551499776"
+      },
+      {
+        "interaction": "Feiran Wang liked this",
+        "link": "https://www.linkedin.com/posts/we-are-receiving-applications-for-our-2027-activity-7488399509136433152-KrOP",
+        "title": "We are receiving applications for our 2027 internship program! If you are a PhD student working on LLM, Information Retrieval, or Computer Vision topics with at least 1 top-tier publication e.g. NeurIPS, ICML, ICLR, ACL, KDD, please consider applying. We are a team of PhD scientists working on the Research and Development of genAI solutions for Amazon systems. Link: https://lnkd.in/eH66xK6A Vu Nguyen Jun Wang Vuong Le Quoc Phong Nguyen Paul ALBERT Long Vuong David Jung Fan Jiang Wenqin Liu Volodymyr Vaskovych Shuo Yang Manh Luong Tien",
+        "img": "https://media.licdn.com/dms/image/v2/D560BAQGDLy4STCnHbg/company-logo_100_100/B56ZnZxDipI0AQ-/0/1760295142304/amazon_logo?e=2147483647&v=beta&t=qIUP7OofXIuuuVACb5ToeWH9PHXrPYsS8jsTZ3Q0sUg",
+        "id": "2027"
+      }
+    ],
+    "linkedin_num_id": "959102817",
+    "banner_image": "https://media.licdn.com/dms/image/v2/C5616AQHjkNDWDFiJAw/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1663262339785?e=2147483647&v=beta&t=TZgkm1EP2O0YDjYMAnP4lmMOffaQMipKxMz24JwmS1M",
+    "honors_and_awards": null,
+    "similar_profiles": [],
+    "default_avatar": false,
+    "memorialized_account": false,
+    "bio_links": [
+      {
+        "title": "Personal Website",
+        "link": "https://brack-wang.github.io/"
+      }
+    ],
+    "first_name": "Feiran",
+    "last_name": "Wang",
+    "influencer": false,
+    "timestamp": "2026-08-12T19:02:06.405Z",
+    "input": {
+      "url": "https://www.linkedin.com/in/feiran-wang-3d"
+    }
+  },
+  "local_photo": "data\\linkedin_photos\\feiran-wang-3d__usr-0Wxc00GGWjfZ3mo.jpg"
+}

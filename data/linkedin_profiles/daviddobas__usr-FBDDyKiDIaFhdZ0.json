@@ -1,0 +1,264 @@
+{
+  "luma_user_id": "usr-FBDDyKiDIaFhdZ0",
+  "csv_name": "David Dob\u00e1\u0161",
+  "csv_linkedin": "https://www.linkedin.com/in/daviddobas",
+  "enriched_at": "2026-08-12T19:01:42.781134+00:00",
+  "batch_id": "sd_msqgese9ztya3e3uk",
+  "profile": {
+    "id": "daviddobas",
+    "name": "David Dobas",
+    "city": "San Francisco Bay Area",
+    "country_code": "US",
+    "position": null,
+    "about": null,
+    "current_company": {
+      "link": "https://www.linkedin.com/company/innate-bot?trk=public_profile_topcard-current-company",
+      "name": "Innate",
+      "company_id": "innate-bot",
+      "location": null
+    },
+    "experience": null,
+    "url": "https://br.linkedin.com/in/daviddobas",
+    "educations_details": "\u010cesk\u00e9 vysok\u00e9 u\u010den\u00ed technick\u00e9 v Praze",
+    "education": [
+      {
+        "title": "\u010cesk\u00e9 vysok\u00e9 u\u010den\u00ed technick\u00e9 v Praze",
+        "url": "https://cz.linkedin.com/school/cvutpraha/",
+        "start_year": "2022-09",
+        "end_year": "2025-06",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      },
+      {
+        "start_year": "2021-05",
+        "end_year": "2025-06",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      },
+      {
+        "start_year": "2023-09",
+        "end_year": "2024-01",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      },
+      {
+        "start_year": "2023-02",
+        "end_year": "2023-06",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      },
+      {
+        "start_year": "2019-09",
+        "end_year": "2022-09",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      },
+      {
+        "start_year": "2011-09",
+        "end_year": "2019-05",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      }
+    ],
+    "avatar": "https://media.licdn.com/dms/image/v2/D4E03AQFuJIIqVAqQuQ/profile-displayphoto-shrink_200_200/B4EZYog6s4G0AY-/0/1744436441302?e=2147483647&v=beta&t=mBR7RaYeRfMfmhG6yxM_Atn8vNVNDs8G7SbOFiTZFok",
+    "languages": [
+      {
+        "subtitle": "Native or bilingual proficiency",
+        "title": "Czech"
+      },
+      {
+        "subtitle": "Full professional proficiency",
+        "title": "English"
+      },
+      {
+        "subtitle": "Limited working proficiency",
+        "title": "French"
+      }
+    ],
+    "certifications": [
+      {
+        "meta": "Issued May 2018",
+        "subtitle": "Cambridge University Press & Assessment",
+        "title": "Cambridge English Level 2 Certificate in ESOL International (Advanced) - C1",
+        "credential_url": null,
+        "credential_id": null
+      }
+    ],
+    "volunteer_experience": [
+      {
+        "cause": "Children",
+        "duration": "Oct 2015 \u00b7 - \nJun 2016 \u00b7 9 months",
+        "duration_short": "- \nJun 2016",
+        "info": "Helped mostly with administrative matters and at several events organized by Spolu d\u011btem, an organisation focused on helping kids from the child care communities.",
+        "start_date": "Oct 2015",
+        "subtitle": "Spolu d\u011btem o.p.s.",
+        "title": "Volunteer"
+      }
+    ],
+    "followers": 595,
+    "connections": 500,
+    "current_company_company_id": "innate-bot",
+    "current_company_name": "Innate",
+    "projects": [
+      {
+        "title": "Complex network modelling using non-Shannonian entropies",
+        "start_date": "Sep 2024",
+        "description": "Pioneered the first ensemble model for complex networks using Tsallis entropy, discovering novel phenomena including phase transitions, degree correlations, and nontrivial clustering absent in traditional Shannon entropy approachesPreparing for publication"
+      },
+      null,
+      {
+        "title": "AI Drill Classification Challenge",
+        "start_date": "Sep 2024",
+        "description": "Attended the AI Drill Classification Challenge organised at FNSPE CTU, aiming to classify acoustic emissions from a drilling experiment. Used combination of CNN, RNN and attention layers. Achieved 92,4% accuracy on the testing dataset"
+      },
+      {
+        "title": "Network reconstruction using the Scale invariant model",
+        "start_date": "Sep 2023",
+        "description": "Worked in the group of prof. Diego Garlaschelli, studying the applications of the so called Scale-Invariant network model in the problem of network reconstruction.Based on: Garuccio, E., Lalli, M., & Garlaschelli, D. (2023). Multiscale network renormalization: Scale-invariance without geometry. In Physical Review Research (Vol. 5, Issue 4). American Physical Society (APS)."
+      },
+      {
+        "title": "Dimensionality reduction using graphs",
+        "start_date": "May 2023",
+        "description": "Developed a novel dimensionality reduction algorithm which uses graphs as an intermediate representation. We were able to achieve reductions with comparable trustworthiness to state of the art algorithms. Our algorithm also managed to unroll the Swiss roll dataset.Used cgraph machine learning methods like graph embedding or GraphSAGE."
+      },
+      null,
+      null,
+      {
+        "title": "Investigating multiple waves in epidemics",
+        "start_date": "Mar 2023",
+        "description": "Investigated properties of the SIRS epidemic model on different types of complex networks, showed that on one hand modular networks can increase the multiple-wave behaviour, on the other hand scale-free networks damp it."
+      },
+      {
+        "title": "Creating educational videos for the Linear Algebra course",
+        "start_date": "Sep 2021",
+        "description": "Created a set of animated videos for the Linear Algebra course at FNSPE \u010cVUT, illustrating the key theorems in 2D and 3D. Used the manim library (3Blue1Brown)"
+      },
+      {
+        "title": "Identification of court decision topics",
+        "start_date": "Sep 2021",
+        "description": "Project on identifying appropriate methods for topic modelling in Czech language, on highly sofisticated texts of the Supreme Court decisions."
+      },
+      null,
+      {
+        "title": "Hanakroa.com website",
+        "start_date": "Aug 2019",
+        "description": "Designed and implemented a new website for Hana Kroa design studio."
+      },
+      {
+        "title": "Organising competitions Pra\u017esk\u00e1 St\u0159ela and Dopplerova Vlna",
+        "start_date": "2016",
+        "description": "Designed new competition model for traditional competitions in maths and physics Pra\u017esk\u00e1 St\u0159ela and Dopplerova vlna. Then organised several seasons of this competition. During these years, the popularity of our competitions increased multiple times."
+      },
+      null,
+      null,
+      {
+        "title": "Editor for WMMania.cz",
+        "start_date": "Apr 2015",
+        "description": "Wrote several articles for the website WMMania.cz, focusing on Windows Phone OS."
+      }
+    ],
+    "location": null,
+    "input_url": "https://www.linkedin.com/in/daviddobas",
+    "linkedin_id": "daviddobas",
+    "activity": [
+      {
+        "interaction": "Liked by David Dobas",
+        "link": "https://www.linkedin.com/posts/120ft_crew-activity-7475917756119289856-VLJT",
+        "title": "#Crew Strong week with a great growing team. We're building software-defined assembly cells run by wheeled humanoid robots, bringing high-mix\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4D22AQHdQHONSaxehw/feedshare-shrink_800/B4DZ7_LlenI8Ag-/0/1782397688252?e=2147483647&v=beta&t=_vvajWKFy69PVG1Qhfd1TMXk-7xL1lg4rdJDd0ukiHk",
+        "id": "7475917756119289856"
+      },
+      {
+        "interaction": "Liked by David Dobas",
+        "link": "https://www.linkedin.com/posts/jan-hruskovic_nuclear-nuclearenergy-nuclearengineering-activity-7473977945670184960-mI5N",
+        "title": "A very special day! \u269b\ufe0f On June 1, 2026, I had the pleasure of returning to KEPCO International Nuclear Graduate School (KINGS), this time as an\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQGq2NoSgNv8eA/feedshare-shrink_800/B56Z7jCeJOGcAc-/0/1781925537240?e=2147483647&v=beta&t=SVWaTY_6hw9c1kPKeaLwhXKwPpDmQVVukHFjXUQzUUI",
+        "id": "7473977945670184960"
+      },
+      {
+        "interaction": "Liked by David Dobas",
+        "link": "https://cz.linkedin.com/posts/rsj_n%C3%A1%C5%A1-d%C4%9Bda-v-%C4%8D%C3%ADslech-za-algoritmick%C3%BDm-activity-7470003019506511872-xbIB",
+        "title": "N\u00e1\u0161 \u201ed\u011bda\u201c v \u010d\u00edslech \u2935\ufe0f Za algoritmick\u00fdm obchodov\u00e1n\u00edm v RSJ stoj\u00ed tak\u00e9 distribuovan\u00e1 v\u00fdpo\u010detn\u00ed infrastruktura, na kter\u00e9 b\u011b\u017e\u00ed anal\u00fdzy a modely v\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4D10AQElF-BQMQRuVg/image-shrink_800/B4DZ6rIKqFIYAg-/0/1780987505677?e=2147483647&v=beta&t=P4RM0CHod8LAxNxFlTigj-nQLHuMbEP8Qo4rDOnr7zI",
+        "id": "7470003019506511872"
+      },
+      {
+        "interaction": "Liked by David Dobas",
+        "link": "https://www.linkedin.com/posts/adrianmacneil_robot-fight-club-possibly-the-most-sf-thing-activity-7463245982802288640-5jeb",
+        "title": "Robot fight club - possibly the most SF thing ever? Last week I dropped in to UFB - Ultimate Fighting Bots at Temple SF nightclub, organized by\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4E05AQEcLd9KrBtWOQ/videocover-high/B4EZ5I7HiaG8BM-/0/1779339923071?e=2147483647&v=beta&t=e2NY8LdPctourCKDuiB17SdGDscgez8hfV-0Gbrhquw",
+        "id": "7463245982802288640"
+      },
+      {
+        "interaction": "Liked by David Dobas",
+        "link": "https://www.linkedin.com/posts/theo-michel42_we-let-an-ai-agent-run-a-factory-it-was-activity-7463289503533826049-ulcc",
+        "title": "We let an AI Agent run a factory, it was rude with \ud835\uddf6\ud835\ude01\ud835\ude00 \ud835\ude04\ud835\uddfc\ud835\uddff\ud835\uddf8\ud835\uddf2\ud835\uddff\ud835\ude00, was talked into selling at a loss, but in the end managed to run the place!\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4E05AQG9aywuu319ag/feedshare-thumbnail_720_1280/B4EZ5LuNqCKYA8-/0/1779386866575?e=2147483647&v=beta&t=TpFCDyxClU1m-8WFJWqo7Mu1LNvuMLxuDOMfwmBvF5I",
+        "id": "7463289503533826049"
+      },
+      {
+        "interaction": "Liked by David Dobas",
+        "link": "https://www.linkedin.com/posts/vitl2907_we-launched-ultimate-bots-season-1-powered-activity-7461543589458763776-zeyV",
+        "title": "We launched Ultimate Bots Season 1: powered by Nebius. Sold-out Season Opener at Temple SF. Martial Arts is our fan-favorite first discipline; Dance\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQGJaWTKlXNhLQ/feedshare-shrink_800/B56Z4y6WQFJ0Ac-/0/1778970617210?e=2147483647&v=beta&t=e2H-ZWme8Z4ph_YWR_7xQ47-yB4tU1EltRxrDg61nZ8",
+        "id": "1"
+      },
+      {
+        "interaction": "Liked by David Dobas",
+        "link": "https://www.linkedin.com/posts/eric-vyacheslav-156273169_someone-just-open-sourced-the-entire-aws-activity-7459633874940194816-hUHZ",
+        "title": "Someone just open-sourced the entire AWS cloud in 13 MB. Every local AWS emulator before this needed gigabytes of RAM. Cold starts took 30\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5610AQHz7wP3g3jkhw/image-shrink_800/B56Z4XxZ5oGoAg-/0/1778515288123?e=2147483647&v=beta&t=v_WZ6Lonyk2AYJ0vuCj82q-K35m6kG1SBK1N3s4mHjs",
+        "id": "7459633874940194816"
+      },
+      {
+        "interaction": "Liked by David Dobas",
+        "link": "https://www.linkedin.com/posts/chrisvthomas_in-24-hours-we-deployed-a-world-model-on-activity-7458144232873230336-TjX3",
+        "title": "In 24 hours, we deployed a world model on open-source hardware. The first time Yann LeCun's action conditioned VJEPA 2 ran on the OpenArm platform\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQEMHQv0R_3okQ/feedshare-image-high-res/B4EZ4Cmp.KG8AU-/0/1778160148667?e=2147483647&v=beta&t=_-Mfz1g0yshgh8s_sTv-R12QY03lbzrSHndjosLrEy0",
+        "id": "24"
+      },
+      {
+        "interaction": "Liked by David Dobas",
+        "link": "https://www.linkedin.com/posts/dhruvdiddi_scaling-laws-founders-founders-dhruv-activity-7457239836651937792-zohO",
+        "title": "It was an absolute pleasure to be part of the \"Scaling Laws\" podcast with Abundance Institute fellow and The University of Texas at Austin Professor\u2026",
+        "img": "https://media.licdn.com/dms/image/sync/v2/D5627AQHJceFfcMmiyg/articleshare-shrink_800/B56Z30HvRoIUAI-/0/1777917164260?e=2147483647&v=beta&t=gXLnWOv3DlIEu19VVLn8JL2MP6D8SjGdxrZqSX2uqLg",
+        "id": "7457239836651937792"
+      },
+      {
+        "interaction": "Liked by David Dobas",
+        "link": "https://www.linkedin.com/posts/alexisaftalion_in-9-days-enzo-made-the-boldest-move-of-activity-7454892196090032128-4zyH",
+        "title": "In 9 days, Enzo made the boldest move of his life Pausing Hooked. to join Standout (YC P26) He's running one of the best consumer growth agencies\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQH8iqGNEXlk1g/feedshare-shrink_800/B4EZ3RxuViIoAc-/0/1777340967166?e=2147483647&v=beta&t=TQ2maphcXVPbsQbzi96_BpWK-9ZXBI1iKbFHoxaDs50",
+        "id": "9"
+      },
+      {
+        "interaction": "Liked by David Dobas",
+        "link": "https://www.linkedin.com/posts/axel-peytavin_we-organized-the-first-robotics-hackathon-activity-7452023390716051457-TXKG",
+        "title": "We organized the first robotics hackathon at Y Combinator and brought the best of talent from all around the world 1100+ applicants 12% acceptance\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQHi3jzuyVLzPA/feedshare-shrink_800/B56Z2pV09RIIAc-/0/1776662565622?e=2147483647&v=beta&t=OD3MfBA_fZvGBx5yKhcoVZofAyXFwcUE28gtv8iYmws",
+        "id": "7452023390716051457"
+      }
+    ],
+    "linkedin_num_id": "433895502",
+    "banner_image": "https://static.licdn.com/aero-v1/sc/h/5q92mjc5c51bjlwaj3rs9aa82",
+    "honors_and_awards": null,
+    "similar_profiles": [],
+    "default_avatar": false,
+    "memorialized_account": false,
+    "bio_links": [],
+    "first_name": "David",
+    "last_name": "Dobas",
+    "influencer": false,
+    "timestamp": "2026-08-12T19:00:20.344Z",
+    "input": {
+      "url": "https://www.linkedin.com/in/daviddobas"
+    }
+  },
+  "local_photo": "data\\linkedin_photos\\daviddobas__usr-FBDDyKiDIaFhdZ0.jpg"
+}

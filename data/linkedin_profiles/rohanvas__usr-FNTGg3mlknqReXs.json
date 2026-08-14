@@ -1,0 +1,290 @@
+{
+  "luma_user_id": "usr-FNTGg3mlknqReXs",
+  "csv_name": "Rohan Vasishth",
+  "csv_linkedin": "https://www.linkedin.com/in/rohanvas",
+  "enriched_at": "2026-08-12T19:14:53.878948+00:00",
+  "batch_id": "sd_msqgwa7g10oeo6g7qx",
+  "profile": {
+    "id": "rohanvas",
+    "name": "Rohan Vasishth",
+    "city": "San Francisco Bay Area",
+    "country_code": "US",
+    "position": null,
+    "about": "Ever since childhood, I have been driven by building ideas that positively impact\u2026",
+    "current_company": {
+      "link": "https://www.linkedin.com/company/get-bluejay?trk=public_profile_topcard-current-company",
+      "name": "Bluejay",
+      "company_id": "get-bluejay",
+      "location": null
+    },
+    "experience": null,
+    "url": "https://www.linkedin.com/in/rohanvas",
+    "people_also_viewed": [
+      {
+        "profile_link": "https://www.linkedin.com/in/sunjieming",
+        "name": "Ben Nelson",
+        "about": "Knetyc",
+        "location": "5K followers Salt Lake City Metropolitan Area"
+      },
+      {
+        "profile_link": "https://www.linkedin.com/in/brandonking7",
+        "name": "Brandon King",
+        "about": "FanDuel",
+        "location": "5K followers Atlanta Metropolitan Area"
+      },
+      {
+        "profile_link": "https://www.linkedin.com/in/samyk",
+        "name": "samy k\u0353\u0353\u0353\u0353\u0353\u0353\u0353\u0353\u0353\u0353\u0353\u0353\u0353\u0353\u0353\u0353\u0353\u0353\u0353amkar\u035b\u035b\u035b\u035b\u035b\u035b\u035b\u035b\u035b\u035b\u035b\u035b\u035b\u035b\u035b\u035b\u035b\u035b\u035b\u035b",
+        "about": "Openpath Security Inc.",
+        "location": "13K followers Los Angeles, CA"
+      },
+      {
+        "profile_link": "https://www.linkedin.com/in/tmacwill",
+        "name": "Tommy MacWilliam",
+        "about": "Figma",
+        "location": "5K followers New York, NY"
+      },
+      {
+        "profile_link": "https://www.linkedin.com/in/chris-whitman-0a0a9b53",
+        "name": "Chris Whitman",
+        "about": "Popstand",
+        "location": "5K followers Los Angeles, CA"
+      },
+      {
+        "profile_link": "https://www.linkedin.com/in/amarkrishna",
+        "name": "Amar Krishna",
+        "about": "Matrice.ai",
+        "location": "17K followers San Francisco Bay Area"
+      },
+      {
+        "profile_link": "https://www.linkedin.com/in/kevintyj",
+        "name": "Kevin Jin",
+        "about": "Lab24",
+        "location": "7K followers Boston, MA"
+      },
+      {
+        "profile_link": "https://uk.linkedin.com/in/topealabi",
+        "name": "Tope Alabi",
+        "about": "Afriex",
+        "location": "12K followers United Kingdom"
+      },
+      {
+        "profile_link": "https://www.linkedin.com/in/sirajraval",
+        "name": "Siraj Raval",
+        "about": "Siraj Raval",
+        "location": "54K followers United States"
+      },
+      {
+        "profile_link": "https://in.linkedin.com/in/nikhilagrwal",
+        "name": "Nikhil Agrawal",
+        "about": "Pazago",
+        "location": "16K followers Mumbai"
+      }
+    ],
+    "educations_details": "Y Combinator",
+    "education": [
+      {
+        "title": "Y Combinator",
+        "url": "https://www.linkedin.com/school/y-combinator/",
+        "start_year": "2025-04",
+        "end_year": "2025-06",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      },
+      {
+        "start_year": "2020",
+        "end_year": "2024",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      }
+    ],
+    "recommendations_count": 1,
+    "avatar": "https://media.licdn.com/dms/image/v2/D5603AQHyUfr_Ryv4Ww/profile-displayphoto-scale_200_200/B56ZkBq3d0HcAY-/0/1756669640378?e=2147483647&v=beta&t=GVSwf4Y99kFsnDKUqyyryUR51keCIEBYpfb6nAPb_cg",
+    "languages": [
+      {
+        "subtitle": "Native or bilingual proficiency",
+        "title": "English"
+      },
+      {
+        "subtitle": "Native or bilingual proficiency",
+        "title": "Hindi"
+      },
+      {
+        "subtitle": "Limited working proficiency",
+        "title": "Spanish"
+      }
+    ],
+    "recommendations": [
+      "Jose Adan R. \u201cIt's rare that you come across a talented individual at such a young age, but Rohan has displayed exceptional skills and knowledge both in software development and entrepreneurship. I had the pleasure to mentor Rohan during the 2017 Make School Summer program where students learned to build their first app in Swift. Rohan already had experience in iOS, but looked for additional help to update his app, Zipshare. When I first looked at the source code, I was amazed at what he had accomplished with both Swift and Firebase. I see that Rohan would be a great iOS engineer in any team.\u201d"
+    ],
+    "followers": 12940,
+    "connections": 500,
+    "current_company_company_id": "get-bluejay",
+    "current_company_name": "Bluejay",
+    "projects": [
+      {
+        "title": "Joey Labs",
+        "start_date": "Sep 2018",
+        "description": "- Won the best data science hack at the hyphen hacks hackathon- Joey Labs uses cutting-edge optimization algorithms to increase student efficiency- Given a set of assignments and a student's activities, our optimization algorithm finds the most efficient way for them to complete their work and renders it in an intuitive weekly schedule, maximizing free time and sleep.- Built with co-founders Amrit Baveja, and Beck Lorsch"
+      },
+      {
+        "title": "InsideScoop",
+        "start_date": "Apr 2020",
+        "description": "- Won 1st place and $11.5K (12K+ participants) in the education track of The Global Hack, led by theLinkedIn founder- Built platform providing teachers with real-time student engagement reports during online learningusing computer vision and audio analysis"
+      }
+    ],
+    "location": null,
+    "input_url": "https://www.linkedin.com/in/rohanvas",
+    "linkedin_id": "rohanvas",
+    "activity": [
+      {
+        "interaction": "Liked by Rohan Vasishth",
+        "link": "https://www.linkedin.com/posts/rohanvas_a-fortune-100-company-became-a-paying-bluejay-activity-7493343668414803969-3hc8",
+        "title": "A Fortune 100 company became a paying Bluejay customer overnight. No sales process. No procurement cycle. No enterprise negotiation. They signed up\u2026",
+        "img": "https://static.licdn.com/aero-v1/sc/h/53n89ecoxpr1qrki1do3alazb",
+        "id": "100"
+      },
+      {
+        "interaction": "Posted by Rohan Vasishth",
+        "link": "https://www.linkedin.com/posts/rohanvas_a-fortune-100-company-became-a-paying-bluejay-activity-7493343668414803969-3hc8",
+        "title": "A Fortune 100 company became a paying Bluejay customer overnight. No sales process. No procurement cycle. No enterprise negotiation. They signed up\u2026",
+        "img": "https://static.licdn.com/aero-v1/sc/h/53n89ecoxpr1qrki1do3alazb",
+        "id": "100"
+      },
+      {
+        "interaction": "Liked by Rohan Vasishth",
+        "link": "https://www.linkedin.com/posts/lokesh-kamanboina-0b8824211_you-cant-grep-a-product-tandem-activity-7493077129396510721-TWAc",
+        "title": "some results and thoughts from working with labs on CAD RL environments + building engineering agents https://lnkd.in/enq7qSSN",
+        "img": "https://media.licdn.com/dms/image/sync/v2/D4E27AQHG-DpbdWAFIA/articleshare-shrink_1280_800/B4EZ_ylp1zKwAg-/0/1786481386541?e=2147483647&v=beta&t=FoYmmTMUGO4HdhKHiDa3oZHmT1v-pY5SX3GoD7YpRLg",
+        "id": "7493077129396510721"
+      },
+      {
+        "interaction": "Liked by Rohan Vasishth",
+        "link": "https://www.linkedin.com/posts/jobs-at-substrate-activity-7493016660770136065-ikEn",
+        "title": "\ud83d\udfe2 Substrate's hiring an Account Executive. We're building the financial layer for the machine economy. If you're 0-3 years into your career, have\u2026",
+        "img": "https://media.licdn.com/dms/image/sync/v2/D5627AQHUHXQ5QDWC9w/articleshare-shrink_800/B56Z_NGWgqGsAg-/0/1785852423135?e=2147483647&v=beta&t=hYq__gAlq-9Jt3zrzQE7N99Su-sPo1D1xgIcPxzE-gc",
+        "id": "7493016660770136065"
+      },
+      {
+        "interaction": "Liked by Rohan Vasishth",
+        "link": "https://www.linkedin.com/posts/trevorshibley_i-need-to-hire-10-more-engineers-before-the-activity-7493012492730855424-Mt2w",
+        "title": "I need to hire 10 more engineers before the end of the year!! You might be a good fit if: - You are in Seattle (or open to relocate!) - You like\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQGv_50t7B9k_w/feedshare-shrink_800/B56Z_yHKEBJMAg-/0/1786473390978?e=2147483647&v=beta&t=BdE5n_RAaNpqgFJOqOjNCRQoJMfzARNBR29OdFzgGQY",
+        "id": "10"
+      },
+      {
+        "interaction": "Liked by Rohan Vasishth",
+        "link": "https://www.linkedin.com/posts/ronniel-gandhe_for-when-you-get-the-300-am-why-is-this-activity-7493018294698876928-QeX2",
+        "title": "for when you get the 3:00 am \u201cwhy is this happening\u201d ping deep research powered reports now live on Bluejay!",
+        "img": "https://media.licdn.com/dms/image/v2/D4E05AQEpIy74srJ-CQ/videocover-high/B4EZ_yMYLHGoBM-/0/1786474762570?e=2147483647&v=beta&t=oOweE-6F0w9t-nr5Eo7BCqmqlvntBaSzLT1Za8JfNBQ",
+        "id": "300"
+      },
+      {
+        "interaction": "Liked by Rohan Vasishth",
+        "link": "https://www.linkedin.com/posts/leventbas_unprompted-replies-to-lena-our-voice-and-activity-7492986637287874560-c-3X",
+        "title": "Unprompted replies to Lena, our voice and SMS agent. No survey. No prompt. An empathetic agent doing her work and patients just wrote back. We\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4D22AQEJqIQe5kjzwA/feedshare-shrink_800/B4DZ_xvo_SKgAg-/0/1786467226072?e=2147483647&v=beta&t=TFyim5W7GgvIp-dQ7Nlvc0rI0tFPx1izlUvyxKnmMVA",
+        "id": "7492986637287874560"
+      },
+      {
+        "interaction": "Liked by Rohan Vasishth",
+        "link": "https://www.linkedin.com/posts/sharathkishan_sanas-just-made-it-to-no-8-on-the-2026-inc-activity-7492990861962616833-wuz_",
+        "title": "Sanas just made it to No. 8 on the 2026 Inc. 5000 list. That alone would have made my day. Then I learned we\u2019re also the No. 1 AI & Data company in\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQFXqAqX_BpJug/feedshare-shrink_800/B4EZ_xzemOK0Ag-/0/1786468231812?e=2147483647&v=beta&t=jpjlquGqA2QD568cztcW5p-w3_bckZ7KDvg8Ayh43UE",
+        "id": "8"
+      },
+      {
+        "interaction": "Liked by Rohan Vasishth",
+        "link": "https://www.linkedin.com/posts/livingstone-i-70b54598_voiceai-appliedai-hiring-activity-7492983848624869376-mx1A",
+        "title": "Proud to work alongside with leaders who think about Voice AI this deeply. Krishna nails something we live every day at Presto Phoenix: the drive\u2026",
+        "img": "https://static.licdn.com/aero-v1/sc/h/53n89ecoxpr1qrki1do3alazb",
+        "id": "7492983848624869376"
+      },
+      {
+        "interaction": "Liked by Rohan Vasishth",
+        "link": "https://www.linkedin.com/posts/gadiborovich_puentes-applications-are-open-20-fellows-activity-7492544115637690368-BL9K",
+        "title": "Puentes applications are open. 20 fellows from our first three cohorts already live in SF. They've become close friends and work at companies like\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5605AQHoLNiGN6PuZA/videocover-high/B56Z_rc3ZLGUBU-/0/1786361664374?e=2147483647&v=beta&t=FBNGV4NjDRZRzMAhLFkV6jb63ej4KT4Z1xsD_ckTDOw",
+        "id": "20"
+      },
+      {
+        "interaction": "Liked by Rohan Vasishth",
+        "link": "https://www.linkedin.com/posts/rohanvas_were-giving-bluejay-to-current-yc-companies-activity-7492977722269270016-iQie",
+        "title": "We're giving Bluejay to current YC companies for free. For a full year. 18 months ago, Faraz Siddiqi and I got into YC's P25 batch. The funding\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQEgfRkPdxw1BQ/feedshare-image-high-res/B56Z_xnhdiGUAU-/0/1786465100505?e=2147483647&v=beta&t=qYJv3ljaI9CUKSBxMKYbHJM3dPal-luDhoWl3jIc8rU",
+        "id": "7492977722269270016"
+      },
+      {
+        "interaction": "Shared by Rohan Vasishth",
+        "link": "https://www.linkedin.com/posts/rohanvas_were-giving-bluejay-to-current-yc-companies-activity-7492977722269270016-iQie",
+        "title": "We're giving Bluejay to current YC companies for free. For a full year. 18 months ago, Faraz Siddiqi and I got into YC's P25 batch. The funding\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQEgfRkPdxw1BQ/feedshare-image-high-res/B56Z_xnhdiGUAU-/0/1786465100505?e=2147483647&v=beta&t=qYJv3ljaI9CUKSBxMKYbHJM3dPal-luDhoWl3jIc8rU",
+        "id": "7492977722269270016"
+      },
+      {
+        "interaction": "Liked by Rohan Vasishth",
+        "link": "https://www.linkedin.com/posts/zachdrouin_exclusive-flagler-health-raises-50m-for-activity-7492695917553152000-PURn",
+        "title": "Very excited to finally see this out in the world! Flagler Health has been a \ud83d\ude80 and incredibly pleased to be on board. Check out our career\u2026",
+        "img": "https://media.licdn.com/dms/image/sync/v2/D4D27AQHyRfzAMHa2EQ/articleshare-shrink_800/B4DZ_tf2VYIcAY-/0/1786395977543?e=2147483647&v=beta&t=t1sJtpmS-n1hcBgKBaUJlph8ozfsXeepwydWHm-9kC4",
+        "id": "7492695917553152000"
+      },
+      {
+        "interaction": "Liked by Rohan Vasishth",
+        "link": "https://www.linkedin.com/posts/nicholas-aldridge_fraud-aml-fincrime-activity-7492671129015435264-3zdk",
+        "title": "\ud83d\ude80 MouseCat recently launched automatic self improvement for our fraud investigation agents. This enables our AI fraud investigator to learn from\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQEVobCZyg7i2g/feedshare-image-high-res/B4EZ_s_P0hIUAU-/0/1786387431920?e=2147483647&v=beta&t=Ct_JYoipoaaVj5VBI2VsmSxBEwVX4oQgiAqbWFkx7_U",
+        "id": "7492671129015435264"
+      },
+      {
+        "interaction": "Liked by Rohan Vasishth",
+        "link": "https://www.linkedin.com/posts/sharathkishan_we-just-closed-our-biggest-quarter-at-sanas-activity-7492595126809178112-4mGA",
+        "title": "We just closed our biggest quarter at Sanas, was pinching myself for a full week to be sure it\u2019s real :-) $17M in new ARR, beating our forecast by\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQG47avnE7lk0Q/feedshare-shrink_800/B4EZ_sLj8CJMAc-/0/1786373881907?e=2147483647&v=beta&t=JeO6AidzQ0xjWYm2LomVJJNo0iRUR-NzfKhfi8reTVw",
+        "id": "7492595126809178112"
+      },
+      {
+        "interaction": "Liked by Rohan Vasishth",
+        "link": "https://www.linkedin.com/posts/krishnakgupta_130-am-in-the-office-on-a-friday-night-musings-activity-7491735838377209857-uf-i",
+        "title": "130 AM in the office on a Friday night: musings on the WIRED article this week that highlighted Presto's Voice AI and a customer who realized she was\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5605AQH7mxEWpvrCXA/videocover-high/B56Z_f9.yiH0BU-/0/1786168998291?e=2147483647&v=beta&t=kH_4_-rx03BF4m4nz7i09me2GVzWnvuOgOuJ-LOgI8E",
+        "id": "7491735838377209857"
+      }
+    ],
+    "linkedin_num_id": "547565827",
+    "banner_image": "https://media.licdn.com/dms/image/v2/D5616AQE3liYjbuwvjQ/profile-displaybackgroundimage-shrink_200_800/B56Z2Hk92CIQAU-/0/1776096109084?e=2147483647&v=beta&t=9OmNU0g7c0aGU0XoBgdhB9HXWGZ1fL-5hbVVembZG54",
+    "honors_and_awards": [
+      {
+        "title": "1st Place Winner of Education Track @ The Global Hack 2020",
+        "publication": "The Global Hack (https://theglobalhack.com/)",
+        "date": "2020-04-01T00:00:00.000Z",
+        "description": "- Honored to receive a unanimous first-place award in the education track (led by Reid Hoffman) and be a top finalist in the Global Hack Hackathon against COVID-19 (with over 18,000 participants) - My team, Amrit Baveja, Beck Lorsch, Sasha Sherstnev, and I received $11,000 from the competition. - We built InsideScoop, a platform that gives teachers real-time insights into the engagement and comprehension of their students during online learning. - With COVID-19 taking us away from the\u2026 Show more"
+      },
+      {
+        "title": "Winner of the Best Data Science Hack at Hyphen Hacks Hackathon",
+        "publication": "Hyphen Hacks (https://hyphen-hacks.com/)",
+        "date": "2018-10-01T00:00:00.000Z",
+        "description": "- Amrit Baveja and I built a self-prioritizing schedule to-do lists to help kids in school stay organized, using a scheduling algorithm and machine learning - Awarded the best data science hack and $300 at the Hyphen-Hacks Hackathon"
+      },
+      {
+        "title": "1st Place in World Savvy Festival",
+        "publication": "World Savvy Festival",
+        "date": "2016-05-01T00:00:00.000Z",
+        "description": "- Attended World Savvy for three years, an organization that holds competitions each year where schools come and present the judges their findings on a global problem and how they attempt to tackle it - After losing for two years, a teammate and I took first place."
+      }
+    ],
+    "similar_profiles": [],
+    "default_avatar": false,
+    "memorialized_account": false,
+    "bio_links": [],
+    "first_name": "Rohan",
+    "last_name": "Vasishth",
+    "influencer": false,
+    "timestamp": "2026-08-12T19:13:43.186Z",
+    "input": {
+      "url": "https://www.linkedin.com/in/rohanvas"
+    }
+  },
+  "local_photo": "data\\linkedin_photos\\rohanvas__usr-FNTGg3mlknqReXs.jpg"
+}

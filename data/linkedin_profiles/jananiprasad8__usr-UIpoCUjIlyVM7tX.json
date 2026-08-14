@@ -1,0 +1,276 @@
+{
+  "luma_user_id": "usr-UIpoCUjIlyVM7tX",
+  "csv_name": "Janani Prasad",
+  "csv_linkedin": "https://www.linkedin.com/in/jananiprasad8",
+  "enriched_at": "2026-08-12T19:07:22.291611+00:00",
+  "batch_id": "sd_msqgmjx4y9b9cgg4i",
+  "profile": {
+    "id": "jananiprasad8",
+    "name": "Janani Prasad",
+    "city": "San Francisco Bay Area",
+    "country_code": "US",
+    "position": null,
+    "about": "Hi, I\u2019m Janani Prasad! Current obsession: building \ud83d\ude01",
+    "current_company": {
+      "link": "https://www.linkedin.com/company/foundersinc?trk=public_profile_topcard-current-company",
+      "name": "Founders, Inc.",
+      "company_id": "foundersinc",
+      "location": null
+    },
+    "experience": null,
+    "url": "https://fi.linkedin.com/in/Jananiprasad8",
+    "educations_details": "UC Irvine",
+    "education": null,
+    "avatar": "https://media.licdn.com/dms/image/v2/D4E03AQHSPx3He-w1MA/profile-displayphoto-scale_200_200/B4EZ.5S6lmIkAc-/0/1785520172350?e=2147483647&v=beta&t=N9h1OfiDahwkYY3kidmDaa-bnLhtQEEcwixbL_4YJa8",
+    "languages": [
+      {
+        "subtitle": "Native or bilingual proficiency",
+        "title": "English"
+      },
+      {
+        "subtitle": "Limited working proficiency",
+        "title": "Spanish"
+      },
+      {
+        "subtitle": "Native or bilingual proficiency",
+        "title": "Kannada"
+      }
+    ],
+    "volunteer_experience": [
+      {
+        "duration": "Dec 2021 \u00b7 - \nApr 2023 \u00b7 \n1 year 5 months",
+        "duration_short": "- \nApr 2023",
+        "info": "-150+ hours of volunteer service",
+        "start_date": "Dec 2021",
+        "subtitle": "American Cancer Society",
+        "title": "Volunteer"
+      }
+    ],
+    "followers": 2956,
+    "connections": 500,
+    "current_company_company_id": "foundersinc",
+    "current_company_name": "Founders, Inc.",
+    "projects": [
+      {
+        "title": "traider | TreeHacks 2025",
+        "start_date": "Feb 2025",
+        "description": "- Developed an educational platform for beginner investors using Next.js, Tailwind, and NVIDIA technologies, offering mock trading simulations with real-time market data and AI-powered feedback- Implemented data scraping techniques to extract historical and current stock information from Yahoo Finance, enabling users to engage with accurate market data over customizable simulation durationsDevpost: https://devpost.com/software/traider"
+      },
+      {
+        "title": "Lecturix | CalHacks 11.0",
+        "start_date": "Oct 2024",
+        "description": "Innovated an AI-driven platform that enables professors to upload lecture notes, which are then transformed into engaging video presentations featuring animations and a synthesized voice clone of the instructor- I spearheaded the design and implementation of a user-friendly front-end interface utilizing Figma for prototyping, complemented by programming in React and Python- This intuitive platform empowers professors to seamlessly engage with the system, enhancing their teaching experience through accessible and efficient technology."
+      }
+    ],
+    "location": null,
+    "input_url": "https://www.linkedin.com/in/jananiprasad8",
+    "linkedin_id": "jananiprasad8",
+    "activity": [
+      {
+        "interaction": null,
+        "link": "https://www.linkedin.com/posts/y-combinator_buildbox-yc-s26-finds-user-facing-agent-activity-7490140692002861056-szJk",
+        "title": "Buildbox (YC S26) finds user-facing agent failures hidden behind successful traces and evals. The most expensive agent failures rarely look like errors. An agent can pass its evals and look healthy in traces while still failing to help users complete important tasks. They ask again, redirect the agent, try a workaround, or give up. Teams usually uncover these patterns after they\u2019ve already affected customers. Buildbox is agent analytics built around user outcomes. We find where important journeys break down, show how often it happens and who it affects, and connect those failures to activation, conversion, and retention. Buildbox then tests better agent behaviors and product experiences, giving teams evidence-backed fixes to review and ship. Founders Mark Nour and Trishala Jain met at UC Berkeley and have been building together for the past three years. Across teams at Netflix, Google, Amazon, and MongoDB, they saw the same pattern: companies had plenty of signals & observability, but finding the issues that actually mattered and turning them into a fix still took a lot of manual detective work. Congrats on the launch, Mark and Trishala! \ud83d\ude80 https://lnkd.in/g-BEkwhg ...more ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D5605AQHuRZ_P1Eb7QA/videocover-high/B56Z_JKL.nGQBM-/0/1785786320900?e=2147483647&v=beta&t=tIrDurr8TosCsKxX3_v3HuJAxqgDyl1ffW6X8I048wY",
+        "id": "7490140692002861056"
+      },
+      {
+        "interaction": null,
+        "link": "https://www.linkedin.com/posts/y-combinator_mireye-yc-s26-builds-the-infrastructure-activity-7488952873821863936-Z3Cy",
+        "title": "Mireye (YC S26) builds the infrastructure that lets AI agents reason and act in the physical world. Every AI agent today lives entirely on the internet. Most of the economy happens in the physical world, and models are blind to it. Ask about a real place, and you get a guess, and in the real world, guesses cost real money when stakes are high. No single tool or platform has this data. It's spread across thousands of them, each one built for humans, none for agents. Mireye is one API and MCP that connects agents to the physical world: data, enrichment, tools, and signals that power them to make decisions. Every answer cited. Their first customers built agents that source off-market land deals 100x faster than before, and work that took analysts weeks now takes agents minutes. Founder Ansh Chokshi sold his first startup, Poker Pit, at the age of 21 after growing it from zero to $250K ARR in four months. He then led AI/ML engineering at Seismic. Today Mireye launches the first on-demand indexing API for the physical world. Ask for data that isn't indexed, and its long-running agent sources it and indexes it on the fly. If you're working on anything where AI meets the physical world (robotics, logistics, real estate, insurance, energy), Ansh would love to chat: ansh@mireye.com Congrats on the launch, Ansh! \ud83d\ude80 https://lnkd.in/gx2VXYTs ...more ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D5605AQGvdV5ZXMmV-g/videocover-high/B56Z.2xVCpHUBM-/0/1785477816362?e=2147483647&v=beta&t=-M6gfyFJxVC9UiGJ-AwOrPTyCGiCC4C6Z2erBj2OCgg",
+        "id": "7488952873821863936"
+      },
+      {
+        "interaction": null,
+        "link": "https://www.linkedin.com/posts/victor-abel_vlyai-has-just-been-acquired-by-freebuff-activity-7476366245362024448-ZnGn",
+        "title": "vly.ai has just been acquired by Freebuff! \ud83c\udf89 I started vly two years ago while still in college. Since then, I\u2019ve dropped out, went to the ER over 3 times, and pulled 100+ all-nighters to bring my vision of free coding agents to life. Now, we\u2019re proud to announce that Freebuff has acquired vly\u2019s underlying technology to make sure you never have to pay for AI ever again. Thank you to James Grugett and our incredible team for the best outcome I could have asked for. \u2764\ufe0f Freebuff is building 100% free versions of every AI tool out there \u2014 starting with coding agents. We specialize in batch-spend for cost-optimized models and highly-targeted advertisements & data environments. We just made Lovable / Replit / Base44 100% free with vly. We also made free versions of Claude Code, Codex, ChatGPT, and more. Soon, you\u2019ll see free versions of every piece of AI tool out there that wouldn\u2019t even accept payments even if you tried. Freebuff is building the future of software platforms in the age of AI. vly is just the beginning. ...more ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D5605AQHEGJxL3uwfww/videocover-high/B56Z8FjbNKGcBM-/0/1782504603720?e=2147483647&v=beta&t=oqRQP3NFvgUW7a8hSidcTB-OY8dcZyY1QzXM-zCrjQA",
+        "id": "7476366245362024448"
+      },
+      {
+        "interaction": "Janani Prasad shared this",
+        "link": "https://www.linkedin.com/posts/jananiprasad8_you-can-now-collaborate-on-your-agent-plans-activity-7468358264343306240-ti8U",
+        "title": "You can now collaborate on your agent plans :) We kept running into the same thing: once you start working seriously with agents, the plan/context becomes a huge part of the work, but it usually lives across scattered docs, chats, and prompts, and it\u2019s hard to build together. So we made Agentplan, a free & secure place to collaborate on agent plans. you can write, comment, draw, and refine the plan/context with your team so your agents actually have something good to work from. The mac app lets you use local coding agents too: point them at your repo, and they can help write the plan in the app while your team works on it in realtime. Your code stays local. It\u2019s free. \ud83d\ude01 agentplan.dev ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D4E05AQH_-4X1jzrKew/videocover-high/B4EZ6TwOtCKsBU-/0/1780595357502?e=2147483647&v=beta&t=GVdB5yp8szLswBg9WrtgyNEMFZ_lO11VaUgmTalqOAk",
+        "id": "7468358264343306240"
+      },
+      {
+        "interaction": "Janani Prasad shared this",
+        "link": "https://www.linkedin.com/posts/jananiprasad8_just-wrapped-up-5-weeks-at-founders-inc-activity-7466994425487917057-KnSi",
+        "title": "Just wrapped up 5 weeks at Founders, Inc. Canopy! There were so many highlights from this journey: \u2b29being around a ton of cracked founders \u2b29hearing from amazing guest speakers like Jared Friedman ( Y Combinator Partner) and Mark Pincus (Co-founder of Zynga ) \u2b29office hours with the Founders, Inc. team \u2b29improving at storytelling and videography with Aiden and Arvin \u2b29and most importantly, making real friends lol - not just transactional SF relationships Shoutout to some insanely talented founders I met here: \u2b29 Samantha and Yehor : building Suzanne , cursor for 3D modeling \u2b29 Komala and Kushal : making software easy at Peazy Labs \u2b29 Shubham and Yash : building Cruitical , making hiring more fair, fast, and transparent \u2b29 Gaurav , Anish , and Jock : building Fastlane , creating winning short-form content in seconds \u2b29 Amine : building getclaw.sh , managed ai agents for teams \u2b29 Ahmed : building Fabraix , security for ai systems \u2b29 Esha and Sakshi : building Click'd , helping people connect on a deeper level in 5-minutes \u2b29 Goda and Aleksas : building Neurex , sleep headband that actually improves your sleep \u2b29 Paulina : building Lakmus, infrastructure for agents and world models \u2b29+ so many other cool founders I met throughout the program It's been a pleasure to be a part of Canopy. Excited to keep building, and to keep leveling up my video-making skills. More to come soon! \ud83d\ude01 ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQFHZcBRmKcH_Q/feedshare-shrink_800/B4EZ57LUz8IwAc-/0/1780183027215?e=2147483647&v=beta&t=3iOCcEeePTSYXDs47hWz2AReIDyDkjDE32ePSfeImYI",
+        "id": "5"
+      },
+      {
+        "interaction": null,
+        "link": "https://www.linkedin.com/posts/talha--khan_codegen-ai-customerresearch-activity-7465462331779485696-SHsp",
+        "title": "Today we\u2019re introducing Seda - The world\u2019s first end to end Synthetic UX Testing Agent \ud83e\udd16 UX Testing is hard. It takes days to schedule time with people, weeks to recruit the right kinds of people you need, it\u2019s expensive to pay them to do the UX tests, and you spend hours moderating the sessions when you could be more focused on building product \ud83d\ude2e\u200d\ud83d\udca8 With Seda, you can get UX Testing done, in minutes \ud83c\udfc3\ud83d\udca8 Comment Synthetic UX Testing below and we\u2019ll give you private access and $500 in credits to 10x your UX Testing today \ud83d\udcb0 If you\u2019re at an enterprise, head to getseda.com to book a call with us \ud83d\udcf1 We can\u2019t wait to see what you discover with Seda! #codegen #AI #CustomerResearch #UXTesting #Simulations #SyntheticPersonas #developers #Designers #UXResearch #ProductManagement #computeruse #browseruse #agents ...more ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D5605AQHVFDdVLiakBw/feedshare-thumbnail_720_1280/B56Z5my0D9HsAw-/0/1779841063117?e=2147483647&v=beta&t=FCClcHihyP91UbNpXvr3ORC9ZDVP2861aiYNc2P4wnU",
+        "id": "7465462331779485696"
+      },
+      {
+        "interaction": "Janani Prasad shared this",
+        "link": "https://www.linkedin.com/posts/jananiprasad8_introducing-clayzo-the-best-way-to-make-activity-7460397733003055105-gnYr",
+        "title": "Introducing Clayzo , the best way to make everyone on the team a product builder. \ud83c\udf89 Product and design are converging into a single full-stack builder role. PMs and designers are using Claude Code and Cursor to ship changes directly to production. But these tools give people total freedom with no guardrails. It\u2019s pure vibe coding, no awareness of your codebase. Engineers end up reviewing broken PRs and cleaning up work that was never ready for production. That's not what \"making everyone a builder\" should look like. With Clayzo , anyone can safely iterate on their existing product in an interface they are used to (not the IDE!), with built-in guardrails to prevent them from accidentally touching sensitive parts of the code. We abstract away all developer context, making it super easy to spin up your product in just two clicks and start working on it right away. Used by some of the fastest growing companies in the world and we're opening it up to more teams now. DM if you want in! ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D5605AQH0vvvDX_vsjQ/feedshare-thumbnail_720_1280/B56Z4iU8HTKQA4-/0/1778692378826?e=2147483647&v=beta&t=hKpC3tZ5H9vB_YFTSGwPFqcrG4dDwBLzInnppibTv2Q",
+        "id": "7460397733003055105"
+      },
+      {
+        "interaction": "Janani Prasad shared this",
+        "link": "https://www.linkedin.com/posts/jananiprasad8_dont-let-the-b-be-the-enemy-of-the-a-activity-7458578245643350016-cPov",
+        "title": "\"Don't let the B+ be the enemy of the A.\" The biggest difference between a B+ and an A idea is really just grit. As Mark Pincus (co-founder of Zynga ) put it at Founders, Inc. today, you need to be willing to put 10 years of your life creating multiple B+ companies with no real guarantee that it will turn into an A. Everyone's founder journey looks different, but there were a few things from the talk that really stuck with me: \u2192 Trust your gut, especially when building in consumer. Ask yourself if you would actually use the product on a consistent basis. \u2192 Bet on consumer behavior staying the same instead of changing. It's really hard to get people to change their habits, so if you can build alongside a pattern that already works, go with that. \u2192 Don't say \"they don't get the vision yet\" when building in consumer. People need to get it right away, otherwise it's probably not the right product. Thank you Hubert Thieblot and Founders, Inc. for hosting! \ud83d\udc4f ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQHQx6K-xuO9MQ/feedshare-shrink_800/B56Z4F9HviKoAc-/0/1778216369950?e=2147483647&v=beta&t=lH2Pd33oK3CH40mbJUkhafRZffNNjvwPQTunyU7fnd8",
+        "id": "7458578245643350016"
+      },
+      {
+        "interaction": "Janani Prasad shared this",
+        "link": "https://www.linkedin.com/posts/jananiprasad8_turns-out-the-best-workflow-for-designers-activity-7457837185946337281-k-QS",
+        "title": "Turns out the best workflow for designers using AI isn't \"tell the agent to do everything.\" It's a mix of doing the small tweaks yourself and letting the agent handle the bigger lifts. I spoke to an experienced designer today and one of her favorite parts about our product was that she can make simple tweaks like font, color, or copy directly on the design side, and then just tell the agent to execute the bigger changes. A few reasons why this workflow is better: \u2192 Way more efficient. Small tweaks don't need a full agent loop, you just do them yourself in seconds. \u2192 The agent messes up less. Pointing to precise elements gives it way better context, so the output is much more accurate. \u2192 Bonus: less token usage on the simple stuff It was really cool to hear how designers are thinking about using AI in their day-to-day. Excited to keep building with this kind of feedback in mind! \ud83d\ude80 ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D5605AQEfNyr8v95W1g/videocover-high/B56Z38FltyIIBM-/0/1778050821324?e=2147483647&v=beta&t=Fk_wLWqGwikImsEZVT8S2mFF22wAc_DDqbm3B6EWI64",
+        "id": "7457837185946337281"
+      },
+      {
+        "interaction": "Janani Prasad commented on a post 1w",
+        "link": "https://www.linkedin.com/posts/y-combinator_buildbox-yc-s26-finds-user-facing-agent-activity-7490140692002861056-szJk",
+        "title": "Congrats on the launch!!",
+        "img": null,
+        "id": "7490140692002861056"
+      },
+      {
+        "interaction": "Janani Prasad commented on a post 1w",
+        "link": "https://www.linkedin.com/posts/y-combinator_mireye-yc-s26-builds-the-infrastructure-activity-7488952873821863936-Z3Cy",
+        "title": "This is incredible!",
+        "img": null,
+        "id": "7488952873821863936"
+      },
+      {
+        "interaction": "Janani Prasad commented on a post 2w",
+        "link": "https://www.linkedin.com/posts/mitali-m_microsoft-softwareengineer-newgrad-activity-7485725400938250240-Kn6N",
+        "title": "Congrats Mitali!!",
+        "img": null,
+        "id": "7485725400938250240"
+      },
+      {
+        "interaction": "Janani Prasad liked this",
+        "link": "https://www.linkedin.com/posts/arlina-yang_i-never-knew-what-freedom-felt-like-until-activity-7491957665003225089-p40b",
+        "title": "I never knew what freedom felt like until my first paycheck. Money has always been a taboo topic that people steer away from and it's easy to avoid bringing it up in general. So when I got my first paycheck from Siemens at 19, I didn't know how to process it. I remember staring at my bank account and seeing the biggest deposit at that point I'd ever seen before. I couldn't believe that I finally managed to earn money through my own work, and it wasn't disbursed to me from the school or given to me by my parents. It was \ud835\uddfa\ud835\uddf6\ud835\uddfb\ud835\uddf2. It felt like validation that I belonged in a job market that I never thought I'd belong to. And it was a realization that I was finally capable of making my own income at such a young age. \u25ba Because I was making more as a \ud835\uddfd\ud835\uddee\ud835\uddff\ud835\ude01-\ud835\ude01\ud835\uddf6\ud835\uddfa\ud835\uddf2 \ud835\uddf6\ud835\uddfb\ud835\ude01\ud835\uddf2\ud835\uddff\ud835\uddfb than what a \ud835\ude00\ud835\uddf2\ud835\uddfb\ud835\uddf6\ud835\uddfc\ud835\uddff \ud835\udde6\ud835\uddea\ud835\uddd8 would make in Taiwan \ud835\ude2a\ud835\ude2f \ud835\ude22 \ud835\ude2e\ud835\ude30\ud835\ude2f\ud835\ude35\ud835\ude29. \u25ba Because my dad would tell me how he worked at KFC when he was 19 and how he's \ud835\ude68\ud835\ude64 \ud835\ude65\ud835\ude67\ud835\ude64\ud835\ude6a\ud835\ude59 that his daughters at 19 are working big tech jobs that he could've never imagined for himself at the same age. \u25ba Because I was laid off once and I had doubted where I stood in this job market until the paycheck gave me evidence that I deserved a place. It's freedom. It's independence. It's the kind of autonomy you don't get from moving to college or starting a new opportunity. Making your own money at a young age gives you options you didn't know existed. Now that I'm on my third internship with ServiceNow, my intern salaries throughout my university years had allowed me to pay for my own flights to travel to places like Portugal, Slovakia, Japan, Korea, Taiwan, and more. I visited friends in Boston, Seattle, Hawaii, and even went to Chicago for the first time last weekend. I paid for LinkedIn Premium to grow my presence here and for hosting CareerNow, which led me to winning the $25k Taco Bell scholarship. \ud835\udde1\ud835\uddfc\ud835\uddfb\ud835\uddf2 of that would have happened \ud835\ude04\ud835\uddf6\ud835\ude01\ud835\uddf5\ud835\uddfc\ud835\ude02\ud835\ude01 my own money to spend. Everyone talks about full-time salaries. But what about the first intern paycheck for a 19-year-old who's never worked a real job before? That's a conversation we don't have enough. It's a domino effect. By creating an environment of independence for yourself, it truly opens more doors for you than you could ever imagine. What doors did your first intern paycheck open for you? \ud83d\udc47 _____________ \ud83d\udc99 Like or share so more students see this \u263b Follow Arlina Yang for more on the early career journey \ud83d\udcf7 My twin Andrea and I at Boston \ud83c\udf41",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQFUES3J_Q4N2A/feedshare-image-high-res/B4EZ_U.fCOJsAU-/0/1785984577929?e=2147483647&v=beta&t=0xWt8GyO9frVnAduqDmext2gvV3vNtfOn_0hbUT5md8",
+        "id": "7491957665003225089"
+      },
+      {
+        "interaction": "Janani Prasad liked this",
+        "link": "https://www.linkedin.com/posts/vatsaljanakpandya_excited-to-welcome-arthiva-as-one-of-our-activity-7493044444015812608-l29e",
+        "title": "Excited to welcome Arthiva as one of our early customers. Huge thanks to Yash Mannepalli and the team for trusting TasksMind. Their engineering team will be using TasksMind to help investigate customer-reported production bugs, reducing the time from customer report to root cause. Looking forward to building together. \ud83d\ude80",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQGlqY_CE6845Q/feedshare-image-high-res/B56Z_ykNdPJoAU-/0/1786481008315?e=2147483647&v=beta&t=WZ1YcR7BW3sFpgx_dsOQIVKObJWFfR-H-A4Ow7EMFl0",
+        "id": "7493044444015812608"
+      },
+      {
+        "interaction": "Janani Prasad liked this",
+        "link": "https://www.linkedin.com/posts/samanthajeanneb_i-left-my-job-moved-across-the-country-to-activity-7492709700602384384-bELi",
+        "title": "I left my job, moved across the country to San Francisco, and started building Suzanne Here\u2019s the TL;DR of what I\u2019ve learned: \ud835\udfed. \ud835\uddec\ud835\uddfc\ud835\ude02 \ud835\uddfb\ud835\uddf2\ud835\uddf2\ud835\uddf1 \ud835\ude01\ud835\uddfc \ud835\uddf2\ud835\uddff\ud835\uddee\ud835\ude00\ud835\uddf2 \ud835\ude06\ud835\uddfc\ud835\ude02\ud835\uddff \ud835\uddf6\ud835\uddfa\ud835\uddfd\ud835\uddfc\ud835\ude00\ud835\ude01\ud835\uddf2\ud835\uddff \ud835\ude00\ud835\ude06\ud835\uddfb\ud835\uddf1\ud835\uddff\ud835\uddfc\ud835\uddfa\ud835\uddf2. The stories you see on X and LinkedIn are outliers: raised $8M in 2 months, went viral overnight, hit $2M ARR from a Lovable MVP. Building something from 0 is hard, and you don\u2019t see the thousands of people building for years before things take off. Don\u2019t let someone else\u2019s highlight reel make you feel behind. \ud835\udfee. \ud835\udddd\ud835\ude02\ud835\ude00\ud835\ude01 \ud835\uddee\ud835\ude00\ud835\uddf8. Want an introduction? Want to meet someone? Want to try something you don\u2019t feel qualified for? Ask. People are much more willing to help than you\u2019d expect. \ud835\udfef. \ud835\uddd5\ud835\ude02\ud835\uddf6\ud835\uddf9\ud835\uddf1\ud835\uddf6\ud835\uddfb\ud835\uddf4 \ud835\uddf6\ud835\ude00 \ud835\uddfb\ud835\uddfc\ud835\ude01 \ud835\uddf4\ud835\uddf9\ud835\uddee\ud835\uddfa\ud835\uddfc\ud835\uddff\ud835\uddfc\ud835\ude02\ud835\ude00. Social media makes building look like vibecoding an app in a week, landing huge contracts, and going viral. The reality is a lot of rejection, and questioning yourself every day. The highs are incredibly rewarding, but they come with some pretty low lows. \ud835\udff0. \ud835\udde6\ud835\uddfd\ud835\uddf2\ud835\uddf2\ud835\uddf1 >>>> I\u2019ve learned more from shipping and talking to users than I ever did from planning to start a company. The best way to learn is by \"actually doing the thing\". \ud835\udff1. \ud835\udde7\ud835\uddf5\ud835\uddf2 \ud835\uddfd\ud835\uddf2\ud835\uddfc\ud835\uddfd\ud835\uddf9\ud835\uddf2 \ud835\ude06\ud835\uddfc\ud835\ude02 \ud835\uddfa\ud835\uddf2\ud835\uddf2\ud835\ude01 \ud835\uddfa\ud835\uddee\ud835\ude01\ud835\ude01\ud835\uddf2\ud835\uddff. Make time for people, coffee can turn into a friendship, a cold DM can turn into a customer, and a random introduction can completely change your trajectory. Building a company is a people game first. Moving to SF has introduced me to some of the smartest and most ambitious I\u2019ve ever met (shout out Ethan Wang & Mann Bellani ) Still learning + building more & more every day.",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQE78ioy39bP9A/feedshare-shrink_800/B56Z_tzxFQKAAg-/0/1786401199052?e=2147483647&v=beta&t=ZK2MUemTvsAzJE6ZcA-d_jZd26V8KSmJ9ZM1hseVfCE",
+        "id": "7492709700602384384"
+      },
+      {
+        "interaction": "Janani Prasad liked this",
+        "link": "https://www.linkedin.com/posts/komala-chenna_ive-been-getting-the-worst-compliment-lately-activity-7490930907525103616-2VlO",
+        "title": "I've been getting the WORST COMPLIMENT lately and it's been pissing me off Context: I genuinely love writing, which is kinda what has fueled so much of my Linkedin writing journey and posts. Started cause like typical asian child I had to prep for my SAT/ACTs back in the day for hours after school - and a huge part of that was writing essays. So, I've taken ways to incorporate that in my adult life. I journal regularly and for 'work' I do a lot of content creation - marketing copies, sales copies, etc. Now, the problem? \"Wait is this written by AI?\" NO BRO I LITERALLY WROTE THIS LETTER BY LETTER CLACKING AWAY ON MY KEYBOARD \ud83d\ude2d\ud83d\ude2d\ud83d\ude2d\ud83d\ude2d The first time it happened I was so taken aback, \"how could you think AI wrote this? there's so much personality to it??\" This was when I actually was helping another founder with his personal brand and wrote a few pieces for him. And then it kept happening with multiple people. I was helping other friends with outreach messages, content, deck material. At a certain point I thought it was funny actually. But recently it's been concerning. Linkedin obvio released a new \"seems like AI slop\" button - but that's not even the point. All of the context LLMs have been fed with are ORIGINAL HUMAN WRITTEN PIECES. So of course it will sounds like a super polished person writing. There's obviously tell tale signs of ai writing; 1\ufe0f\u20e3 \"\u2014\" The em dash, originally used in english as a way to express continous thoughts, with relevance to a sentence - NOW used a stick to BEAT people with \"oh yeah this for SURE was written by AI\". Man I used to love hyphens and em dashes (as you can see I still use them) and it hurts :/ 2\ufe0f\u20e3 \"it's not this, its that\" Yeah that's a very normal form of english writing to emphasis the stark difference between the two things being compared. Again, it's being ostracized now. My problem isn't even that I can't use them anymore, it's like you've taken the joy out of writing \ud83e\udee0 Same goes for any creative work - art, music, videography, etc. People genuinely pouring their hearts out are getting shunned and immediately dethroned saying \"this is ai\" -x- that's the end of my sad little rant : (",
+        "img": "https://media.licdn.com/dms/image/v2/D4D22AQGWm2TgPXb39w/feedshare-image-high-res/B4DZ_P8BWOKkAU-/0/1785900046068?e=2147483647&v=beta&t=31niYYmUXWbftwyP0fAKt6DECa7A3ZKLcSSo_-trtbk",
+        "id": "7490930907525103616"
+      },
+      {
+        "interaction": "Janani Prasad liked this",
+        "link": "https://www.linkedin.com/posts/convex-dev_big-day-for-convex-we-raised-57m-led-by-activity-7490406285704589312-efkK",
+        "title": "Big day for Convex ! We raised $57M, led by Insight Partners , with participation from Andreessen Horowitz , Spark Capital , Etna Labs , and Justin Kan . More on our blog here: https://lnkd.in/dHJGdm8S We\u2019re going to use this investment to make Convex even better for you and your agents. More on our new homepage: https://convex.dev Grateful to everyone who\u2019s supported us from day zero. Excited to keep building together for decades to come \ud83d\ude4f Jamie Turner James Cowling",
+        "img": "https://media.licdn.com/dms/image/v2/D5610AQE6JMjJzTQryA/image-shrink_800/B56Z_NE0tpIMAg-/0/1785852022305?e=2147483647&v=beta&t=2K4D-yUvjnYnP4TKIIadf1iFottJ1oWSqeLo6mooj3Y",
+        "id": "7490406285704589312"
+      },
+      {
+        "interaction": "Janani Prasad liked this",
+        "link": "https://www.linkedin.com/posts/arlina-yang_im-an-incoming-senior-and-heres-10-pieces-activity-7487978949445210112-V2Ha",
+        "title": "I'm an incoming senior and here's 10 pieces of advice I'd give to my \ud835\uddf3\ud835\uddff\ud835\uddf2\ud835\ude00\ud835\uddf5\ud835\uddfa\ud835\uddee\ud835\uddfb self: \ud835\udfed. \ud835\uddd8\ud835\ude05\ud835\uddfd\ud835\uddf9\ud835\uddfc\ud835\uddff\ud835\uddf2 \ud835\ude06\ud835\uddfc\ud835\ude02\ud835\uddff \ud835\uddf6\ud835\uddfb\ud835\ude01\ud835\uddf2\ud835\uddff\ud835\uddf2\ud835\ude00\ud835\ude01\ud835\ude00 \u2014 \ud835\uddef\ud835\ude02\ud835\ude01 \ud835\uddf1\ud835\uddfc\ud835\uddfb'\ud835\ude01 \ud835\ude00\ud835\uddfd\ud835\uddff\ud835\uddf2\ud835\uddee\ud835\uddf1 \ud835\ude06\ud835\uddfc\ud835\ude02\ud835\uddff\ud835\ude00\ud835\uddf2\ud835\uddf9\ud835\uddf3 \ud835\ude01\ud835\uddfc\ud835\uddfc \ud835\ude01\ud835\uddf5\ud835\uddf6\ud835\uddfb. Join things. Try things. Research things. But you don't need to be in 5 clubs doing 5 different projects. Depth > breadth. \ud835\udfee. \ud835\udddd\ud835\uddfc\ud835\uddf6\ud835\uddfb \ud835\uddf0\ud835\uddf9\ud835\ude02\ud835\uddef\ud835\ude00. Clubs are the best way to build community and meet people with similar career goals. Some of my closest friends came from orgs I joined freshman year. \ud835\udfef. \ud835\uddd4\ud835\uddfd\ud835\uddfd\ud835\uddf9\ud835\ude06 \ud835\ude01\ud835\uddfc \ud835\uddf2\ud835\uddee\ud835\uddff\ud835\uddf9\ud835\ude06 \ud835\uddf0\ud835\uddee\ud835\uddff\ud835\uddf2\ud835\uddf2\ud835\uddff \ud835\uddfd\ud835\uddff\ud835\uddfc\ud835\uddf4\ud835\uddff\ud835\uddee\ud835\uddfa\ud835\ude00. Freshman-specific programs exist for a reason. If you want my list of 700+ programs, send me a connection request with a note. \ud835\udff0. \ud835\udde7\ud835\uddf5\ud835\uddf2 \ud835\uddf4\ud835\uddfc\ud835\uddee\ud835\uddf9 \ud835\uddf6\ud835\ude00 \ud835\ude01\ud835\uddfc \ud835\uddf2\ud835\ude05\ud835\uddfd\ud835\uddf2\ud835\uddff\ud835\uddf6\ud835\uddf2\ud835\uddfb\ud835\uddf0\ud835\uddf2, \ud835\uddfb\ud835\uddfc\ud835\ude01 \ud835\ude01\ud835\uddfc \ud835\uddf8\ud835\uddfb\ud835\uddfc\ud835\ude04. I did a journalism internship because I thought I wanted to go into journalism. I realized I didn't and pivoted. I wouldn't have known that unless I experienced it. \ud835\udff1. \ud835\udde3\ud835\uddf9\ud835\uddee\ud835\uddfb \ud835\uddfc\ud835\ude02\ud835\ude01 \ud835\ude06\ud835\uddfc\ud835\ude02\ud835\uddff \ud835\uddf0\ud835\uddf9\ud835\uddee\ud835\ude00\ud835\ude00\ud835\uddf2\ud835\ude00. Think about a double major or minor. Map out your GEs early so you're not scrambling senior year. \ud835\udff2. \ud835\udde6\ud835\uddee\ud835\ude06 \ud835\ude06\ud835\uddf2\ud835\ude00 \ud835\ude01\ud835\uddfc \ud835\ude01\ud835\uddf5\ud835\uddf6\ud835\uddfb\ud835\uddf4\ud835\ude00 \ud835\ude01\ud835\uddf5\ud835\uddee\ud835\ude01 \ud835\ude00\ud835\uddf0\ud835\uddee\ud835\uddff\ud835\uddf2 \ud835\ude06\ud835\uddfc\ud835\ude02. That first networking event. That cold DM. That application you feel unqualified for. Do it anyway. \ud835\udff3. \ud835\uddd9\ud835\uddf6\ud835\uddfb\ud835\uddf1 \ud835\uddfc\ud835\uddfb\ud835\uddf2 \ud835\ude02\ud835\uddfd\ud835\uddfd\ud835\uddf2\ud835\uddff\ud835\uddf0\ud835\uddf9\ud835\uddee\ud835\ude00\ud835\ude00\ud835\uddfa\ud835\uddee\ud835\uddfb \ud835\uddfa\ud835\uddf2\ud835\uddfb\ud835\ude01\ud835\uddfc\ud835\uddff. Someone 1-2 years ahead who can show you what's possible and what to avoid. They've been where you are \u2014 learn from them. \ud835\udff4. \ud835\uddec\ud835\uddfc\ud835\ude02\ud835\uddff \ud835\uddda\ud835\udde3\ud835\uddd4 \ud835\uddfa\ud835\uddee\ud835\ude01\ud835\ude01\ud835\uddf2\ud835\uddff\ud835\ude00 \ud835\uddf9\ud835\uddf2\ud835\ude00\ud835\ude00 \ud835\ude01\ud835\uddf5\ud835\uddee\ud835\uddfb \ud835\ude06\ud835\uddfc\ud835\ude02 \ud835\ude01\ud835\uddf5\ud835\uddf6\ud835\uddfb\ud835\uddf8. But don't let it tank either. Balance academics with real-world experience. \ud835\udff5. \ud835\udddf\ud835\uddf2\ud835\uddee\ud835\uddff\ud835\uddfb \ud835\ude01\ud835\uddfc \ud835\uddee\ud835\ude00\ud835\uddf8 \ud835\uddf3\ud835\uddfc\ud835\uddff \ud835\uddf5\ud835\uddf2\ud835\uddf9\ud835\uddfd. Professors, career centers, peers \u2014 most freshmen suffer in silence when resources are right there. Don't be afraid to reach out. \ud835\udfed\ud835\udfec. \ud835\uddd8\ud835\uddfb\ud835\uddf7\ud835\uddfc\ud835\ude06 \ud835\ude06\ud835\uddfc\ud835\ude02\ud835\uddff \ud835\uddf3\ud835\uddff\ud835\uddf2\ud835\ude00\ud835\uddf5\ud835\uddfa\ud835\uddee\ud835\uddfb \ud835\ude06\ud835\uddf2\ud835\uddee\ud835\uddff. It's the most stress-free year you're going to have. Seriously. Soak it in. Freshman year sets the foundation for everything that comes after. I did everything from: - doing three clubs - applying to mentorship programs - adding a minor that I later decided not to do - landing an internship and a lot more random side quests that led me to figure out what I wanted to do. You don't need to have it all figured out \u2014 but you do need to start. What would you add to this list? \ud83d\udc47 _____________ \ud83d\udc99 Like or share so more freshmen see this \u263b Follow Arlina Yang for more on the early career journey \ud83d\udcf7 Pic with Emma Lam , who I became friends with from a club I joined in freshman year and is now one of my closest friends \ud83c\udf4e",
+        "img": "https://media.licdn.com/dms/image/v2/D4D22AQFUc4mvd4GPbQ/feedshare-image-high-res/B4DZ.mwuUjHgAY-/0/1785209219046?e=2147483647&v=beta&t=xfmY7YV1few4f4J-1CjBiBKJ84DEEvf-iAj_e6TAdhg",
+        "id": "10"
+      },
+      {
+        "interaction": "Janani Prasad liked this",
+        "link": "https://www.linkedin.com/posts/grace-li-721a4017b_were-beyond-excited-to-officially-introduce-activity-7490131004553064448-HaOm",
+        "title": "We\u2019re beyond excited to officially introduce Intelligence. We raised a $7.9M seed, led by Index Ventures with participation from Conviction , A*, and Y Combinator , to build Design Arena , a universal interface for accessing and evaluating the world\u2019s AI capabilities. We built Design Arena because we noticed that models were bad at making things \u201clook good,\u201d so we built a product that was both for humans to use to access design intelligence and for models to use to understand what designs humans want. The idea is simple: People come to Design Arena with a request. Models compete to fulfill the request, and users determine what works best for them. We use that real-world feedback to evaluate models, improve how work is routed, and help people access the right intelligence. Despite its simplicity, the scale of this idea exceeded our wildest expectations: In 6 months, we scaled from $5M to $60M ARR and 5.5M users across 190+ countries as a team of 10, and there\u2019s no slowing down. We\u2019ve helped the world\u2019s leading frontier labs break the news on their state-of-the-art model capabilities. And the best part about it? We play with the models for a living to find out their limits. What\u2019s the limit? Well, you\u2019ll have to join us to find out :)",
+        "img": "https://media.licdn.com/dms/image/v2/D5605AQGsGWHDSevICA/videocover-high/B56Z_JKY7VIcBM-/0/1785786381113?e=2147483647&v=beta&t=kjyxFs_jjwORzxYWZyCzNB_dHloOJGWHMiGBKcT4Cuk",
+        "id": "7490131004553064448"
+      },
+      {
+        "interaction": "Janani Prasad liked this",
+        "link": "https://www.linkedin.com/posts/varshinivij_ycsus-activity-7487915119918899200-sHOh",
+        "title": "\"Live in the future, then build what's missing.\" YC Startup School ( #YCSUS ) was an amazing experience. From listening to Sam Altman's opinions on the modern startup space and Twitter haters, to making friends with Lightberry 's robots, the energy was unmatched. My biggest takeaways from the speaker lineup were the following: 1. Dmitri Dolgov : Scaling as a game of 9's. The demo is the first 1%. 2. Alexandr Wang : where GCP and code are instantaneous, data is not. 3. Garry Tan : AGI is not an event; it is arriving diffused. 4. Jensen Huang : resilience is the single most important thing. 5. Jeff Dean : vertical AI (hardware specifically) can be an opportunity for startups. Towards the end of the event, a lot of the nervousness I had about AI turned into excitement. Thank you to the people I met along the way that made this experience especially meaningful. Until next time Y Combinator .",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQFBaTsuLSx2QA/feedshare-shrink_800/B56Z.prHgkJoAc-/0/1785258081556?e=2147483647&v=beta&t=c8Ka1KibwmLjdayP07U1gwc2PETET2mDjdebLAk65uY",
+        "id": "7487915119918899200"
+      },
+      {
+        "interaction": "Janani Prasad liked this",
+        "link": "https://www.linkedin.com/posts/ahmed-a-657264b4_if-you-work-out-of-replits-office-at-foster-activity-7490127022019518464-kLtv",
+        "title": "If you work out of Replit 's office at Foster City, coffee is on us this week \u2615\ufe0f We said we\u2019d be popping up around SF. Replit is stop four. We put up a sign this morning. Take your badge to Caf\u00e9 Savini at 950 Tower Ln and your coffee is on us, while supplies last. We love all the cool stuff Replit has shipped recently like Agent 4, the bots it deploys, and Replit Security Agent. We think Fabraix (YC S26) can help test whether content from an imported project, MCP tool, email, or codebase can trigger a destructive database command, expose connected data, or hide a real security finding. Hope you enjoy the coffee. We have a few more stops planned, so watch this space \ud83d\udc40 https://fabraix.com/replit",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQGR8_NBGmJYbQ/feedshare-image-high-res/B56Z_JG1YLG8AU-/0/1785785440265?e=2147483647&v=beta&t=SkRY71I2_WYnGXVD7UNs3N-MfsCnizpNSygg0L4o5YM",
+        "id": "7490127022019518464"
+      }
+    ],
+    "linkedin_num_id": "984013314",
+    "banner_image": "https://media.licdn.com/dms/image/v2/D5616AQEVO1QMcxJu3Q/profile-displaybackgroundimage-shrink_200_800/B56Z2Fp.kNK4AY-/0/1776063868686?e=2147483647&v=beta&t=Cyids0fzX85ZPvNt-vQZ580TLqBEDRCpYTHFw3SOtOw",
+    "honors_and_awards": [
+      {
+        "title": "RETURN OF THE AGENTS Hackathon - 1st Overall",
+        "publication": "Afore Capital",
+        "date": "2026-02-01T00:00:00.000Z",
+        "description": null
+      },
+      {
+        "title": "Stanford TreeHacks 2025: Best AI Employee Workflow Award",
+        "publication": "TreeHacks and Context",
+        "date": "2025-02-01T00:00:00.000Z",
+        "description": "Won this award at the world's largest hackathon. traider: an AI powered educational platform for beginners looking to improve their financial literacy."
+      },
+      {
+        "title": "NCWIT Aspirations in Computing Honorable Mention",
+        "publication": "NCWIT",
+        "date": "2023-05-01T00:00:00.000Z",
+        "description": null
+      },
+      {
+        "title": "Presidential Volunteer Service Award",
+        "publication": "presidentialserviceawards.gov",
+        "date": "2022-09-01T00:00:00.000Z",
+        "description": "The Presidential Volunteer Service Award is a prestigious award given to American citizens who dedicate their time and effort to making a difference in their communities and the nation. This recognition is given to those who make a meaningful impact through their volunteer efforts, demonstrating leadership, commitment, and a passion for helping others. Volunteered at the American Cancer Society for 150+ hours"
+      },
+      {
+        "title": "Finalist and Honorable Mention BioGENEius Challenge Bay Area 2022",
+        "publication": "California Life Sciences",
+        "date": "2022-04-01T00:00:00.000Z",
+        "description": null
+      },
+      {
+        "title": "1st Place Chevron Innovation Award",
+        "publication": "Alameda County Science Fair and Chevron",
+        "date": "2022-03-01T00:00:00.000Z",
+        "description": null
+      },
+      {
+        "title": "1st place Alameda County Science Fair",
+        "publication": "Alameda County Science Fair",
+        "date": "2022-03-01T00:00:00.000Z",
+        "description": null
+      }
+    ],
+    "similar_profiles": [],
+    "default_avatar": false,
+    "memorialized_account": false,
+    "bio_links": [],
+    "first_name": "Janani",
+    "last_name": "Prasad",
+    "influencer": false,
+    "timestamp": "2026-08-12T19:06:15.636Z",
+    "input": {
+      "url": "https://www.linkedin.com/in/jananiprasad8"
+    }
+  },
+  "local_photo": "data\\linkedin_photos\\jananiprasad8__usr-UIpoCUjIlyVM7tX.jpg"
+}

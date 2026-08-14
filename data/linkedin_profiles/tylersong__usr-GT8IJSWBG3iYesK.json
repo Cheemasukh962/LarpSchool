@@ -1,0 +1,175 @@
+{
+  "luma_user_id": "usr-GT8IJSWBG3iYesK",
+  "csv_name": "Tyler Song",
+  "csv_linkedin": "https://www.linkedin.com/in/tylersong",
+  "enriched_at": "2026-08-12T19:22:34.866848+00:00",
+  "batch_id": "sd_msqh2468i57o0acas",
+  "profile": {
+    "id": "tylersong",
+    "name": "Tyler Song",
+    "city": "United States",
+    "country_code": "US",
+    "position": null,
+    "about": "tsong12@umd.edu",
+    "current_company": {
+      "link": "https://www.linkedin.com/company/antigenco?trk=public_profile_topcard-current-company",
+      "name": "Antigen",
+      "company_id": "antigenco",
+      "location": null
+    },
+    "experience": null,
+    "url": "https://ar.linkedin.com/in/Tylersong",
+    "educations_details": "University of Maryland",
+    "education": [
+      {
+        "title": "University of Maryland",
+        "url": "https://www.linkedin.com/school/university-of-maryland/",
+        "start_year": "2025-08",
+        "end_year": "2029-05",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      },
+      {
+        "start_year": "2021",
+        "end_year": "2025",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      }
+    ],
+    "avatar": "https://media.licdn.com/dms/image/v2/D4E03AQETKegz2i91Sg/profile-displayphoto-scale_200_200/B4EZx3yW8uJ8AY-/0/1771536220995?e=2147483647&v=beta&t=onbq-p1pZRW0D-u1TX6pTWXeouWUZXVLcMHOjAiX2Qo",
+    "languages": [
+      {
+        "subtitle": "Native or bilingual proficiency",
+        "title": "English"
+      },
+      {
+        "subtitle": "Professional working proficiency",
+        "title": "Chinese"
+      }
+    ],
+    "followers": 570,
+    "connections": 500,
+    "current_company_company_id": "antigenco",
+    "current_company_name": "Antigen",
+    "projects": [
+      {
+        "title": "Boing",
+        "description": "Boing is a Mindustry server wrapper that adds a Discord bot interface, making it easy to control and manage private game servers. Boing streamlines multiplayer gaming and enhances community play between friends. It supports the slash commands enabled by Discord API v3 and features remote usage, so players can run and interact with their server without needing direct access to the host machine. It was built mainly in Node.js, using the Axios and Discord.js libraries."
+      },
+      {
+        "title": "indx - Best UI/UX, Rocket Hacks 2024",
+        "description": "Indx is a spaced repetition flashcard app built to remove the most time-consuming part of studying: making the cards. Instead of creating flashcards manually, users can paste in notes, study guides, or articles and automatically generate atomic, well-formatted cards that follow spaced-repetition best practices. The app uses GPT-4o for card generation, with a Nuxt.js + Tailwind frontend and a Koa backend."
+      },
+      {
+        "title": "Jua - 1st place in CSYA Hacks 2023",
+        "description": "Jua is an AI-powered app designed to help hospitals in developing countries keep donated medical equipment in service. While the vast majority of such equipment is donated, up to 50\u201380% of this equipment ends up broken due to lack of repair support. Jua uses an AI assistant trained on thousands of pages of manuals to help medical staff troubleshoot issues quickly, and a peer-to-peer platform connects users with local experts when in-person help is needed."
+      },
+      {
+        "title": "Kids for Code website v3",
+        "description": "A new website for the coding education nonprofit Kids for Code, designed in Figma and built using Nuxt.js and TailwindCSS. 1000+ users."
+      }
+    ],
+    "location": null,
+    "input_url": "https://www.linkedin.com/in/tylersong",
+    "linkedin_id": "tylersong",
+    "activity": [
+      {
+        "interaction": null,
+        "link": "https://www.linkedin.com/posts/harsha-gaddipati-032bb820a_today-were-launching-slashy-slashy-is-the-activity-7490081523799355392-UHWP",
+        "title": "Today we're launching Slashy Slashy is the next big email platform, the first that gives you your own assistant. By the time you open Slashy at 9am, it has already: - Sorted the important emails from the noise - Drafted replies that sound like you, not slop - Flagged the threads needing a follow up - Prepped you for every meeting It pulls context from your CRM, notetaker, and Notion, and learns from every action you take. Underneath it's a real client: keyboard shortcuts, unified inbox, open tracking, team comments. Along with access via desktop, mobile, iPad, and MCP to handle all workflows. On top: - A sidebar that drafts, searches, and schedules. - An iMessage/Slack agent that pings you when something important lands. - Voice, so you can talk to your inbox on your commute, and to make drafts - Automations that reliably run before you even know about it. Set up in 5 minutes. Start saving an hour a day at slashy.com .",
+        "img": "https://media.licdn.com/dms/image/v2/D5605AQH0F24NPvi4Cw/videocover-high/B56Z_IdbHoJoBM-/0/1785774586019?e=2147483647&v=beta&t=sM320E--npvwhelvWt_Jqk7yU0c6aDriwM7EG-5oM3s",
+        "id": "7490081523799355392"
+      },
+      {
+        "interaction": null,
+        "link": "https://www.linkedin.com/posts/gormansam_today-were-launching-the-new-rivet-the-activity-7486080223810203649-YnmM",
+        "title": "Today we're launching the new Rivet , the design tool that explores dozens of interfaces with you. Agents produce terrible designs when they aren\u2019t told what problem to solve. We built Rivet over the last few months to help designers try bolder ideas and take creative risks when designing in code. Rivet generates variations in code and gives designers a visual editor to refine ideas. It connects to design context like Pinterest to produce better design directions. And Rivet is a local tool that works with Claude, Codex and Cursor. Here\u2019s a demo! Add Rivet to your agent today: rivet.design",
+        "img": "https://dms.licdn.com/playlist/vid/v2/D5605AQF0viG27og_HA/thumbnail-shrink_720_1280/B56Z.OOelYGUAg-/0/1784797602327?e=2147483647&v=beta&t=C595cgfevK-5VW7Hdlfemaa_b6rFST_KIQxHGfnmWfc",
+        "id": "7486080223810203649"
+      },
+      {
+        "interaction": null,
+        "link": "https://www.linkedin.com/posts/bitcamp_exploretheunknown-exploretheunknown-bitcamp2026-activity-7427038469345951744-lsbW",
+        "title": "Registration for Bitcamp 2026 is officially open and it\u2019s about to be out of this world! \ud83c\udf0c Join us April 10\u201312 at UMD as we #ExploreTheUnknown and have an intergalactic time \ud83d\ude80 New to Bitcamp? We\u2019re UMD\u2019s largest hackathon, bringing students from across the East Coast together for three days of hacking, learning, and cosmic fun. The weekend moves fast as ideas turn into projects that feel extraterrestrial, guided by workshops, mentors, and the people around you \ud83e\udde0\ud83d\udcab If you get pulled into the Bitcamp universe \ud83d\udc7d, congrats you\u2019ve made it! Additionally\u2026colorwars makes its return, and we have 6 stellar tracks including Data Science and Game Dev to help guide your mission no matter your skill level. Gather your crew, build at light speed, and chase astronomical prizes! The countdown has begun. Don\u2019t miss your chance to make first contact \ud83d\udc7e \ud83d\udd17 Register now at register.bit.camp See you at the campfire\u2026 or should we say launchpad \ud83d\udd25\ud83d\udef8 #ExploreTheUnknown #Bitcamp2026 #hackathon #umd #computerscience #tech #college #space #aliens #university #cs #tech #hackathon",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQHcxb56GQgrsg/feedshare-shrink_800/B4EZxIkIRcIgAg-/0/1770743957922?e=2147483647&v=beta&t=dQ7C_39I5oxlUQTqIoahi_sZJlFuIM6TvVY0ouhEdT4",
+        "id": "7427038469345951744"
+      },
+      {
+        "interaction": "Tyler Song commented on a post 16h",
+        "link": "https://www.linkedin.com/posts/hans-gupta-106151381_huemetry-activity-7493114681314873345-Dhuq",
+        "title": "Wow, this is amazing Hans! Super cool project and very useful!",
+        "img": null,
+        "id": "7493114681314873345"
+      },
+      {
+        "interaction": "Tyler Song commented on a post 1w",
+        "link": "https://www.linkedin.com/posts/harsha-gaddipati-032bb820a_today-were-launching-slashy-slashy-is-the-activity-7490081523799355392-UHWP",
+        "title": "congrats guys!! goated team",
+        "img": null,
+        "id": "7490081523799355392"
+      },
+      {
+        "interaction": "Tyler Song commented on a post 1w",
+        "link": "https://www.linkedin.com/posts/shubham473_update-you-can-register-here-https-activity-7488593487693692929-Nhpg",
+        "title": "Interested",
+        "img": null,
+        "id": "7488593487693692929"
+      },
+      {
+        "interaction": "Tyler Song liked this",
+        "link": "https://www.linkedin.com/posts/slashy-email_this-has-been-a-long-time-coming-excited-activity-7492954260754558978-5gEq",
+        "title": "This has been a long time coming. Excited to announce that Kenny Morales is joining the Slashy team as our founding engineer. In less than a month, Kenny has already shipped: > A full iPad app > A complete reskin of our iOS app (now the best-looking mobile email client) > An entirely new landing page from scratch > ~25 PRs a day I remember after day 1 of his work trial at Slashy, Kenny asked me. \u201cWhy do people flex shipping 10 PRs in a day that feels so little\u201d. That\u2019s how I knew we had to have him. He\u2019s the unicorn who has taste, and intensity. Can\u2019t wait to build the future of email with Kenny :)",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQEP4JpgoUEZiw/feedshare-image-high-res/B56Z_u55kNH4AU-/0/1786419584899?e=2147483647&v=beta&t=z4WbxIvseG-Yo0qiw_lzdghhQEpVByK5ZbzxMtjP9jA",
+        "id": "7492954260754558978"
+      },
+      {
+        "interaction": "Tyler Song liked this",
+        "link": "https://www.linkedin.com/posts/harsha-gaddipati-032bb820a_today-were-launching-slashy-slashy-is-the-activity-7490081523799355392-UHWP",
+        "title": "Today we're launching Slashy Slashy is the next big email platform, the first that gives you your own assistant. By the time you open Slashy at 9am, it has already: - Sorted the important emails from the noise - Drafted replies that sound like you, not slop - Flagged the threads needing a follow up - Prepped you for every meeting It pulls context from your CRM, notetaker, and Notion, and learns from every action you take. Underneath it's a real client: keyboard shortcuts, unified inbox, open tracking, team comments. Along with access via desktop, mobile, iPad, and MCP to handle all workflows. On top: - A sidebar that drafts, searches, and schedules. - An iMessage/Slack agent that pings you when something important lands. - Voice, so you can talk to your inbox on your commute, and to make drafts - Automations that reliably run before you even know about it. Set up in 5 minutes. Start saving an hour a day at slashy.com .",
+        "img": "https://media.licdn.com/dms/image/v2/D5605AQH0F24NPvi4Cw/videocover-high/B56Z_IdbHoJoBM-/0/1785774586019?e=2147483647&v=beta&t=sM320E--npvwhelvWt_Jqk7yU0c6aDriwM7EG-5oM3s",
+        "id": "7490081523799355392"
+      }
+    ],
+    "linkedin_num_id": "1245300171",
+    "banner_image": "https://media.licdn.com/dms/image/v2/D4E16AQGpPpOpd9raYQ/profile-displaybackgroundimage-shrink_200_800/B4EZ8mlMGTHkAQ-/0/1783058711534?e=2147483647&v=beta&t=hJ8IBicGkThOS99hUuoh_g7mOlljtIZoHDfpknH4PII",
+    "honors_and_awards": [
+      {
+        "title": "Best UI Design",
+        "publication": "Rocket Hacks",
+        "date": "2024-07-01T00:00:00.000Z",
+        "description": null
+      },
+      {
+        "title": "1st place overall (advanced division)",
+        "publication": "CSYA Hacks",
+        "date": "2023-07-01T00:00:00.000Z",
+        "description": null
+      },
+      {
+        "title": "National Merit Finalist",
+        "publication": "National Merit Scholarship Corporation",
+        "date": null,
+        "description": null
+      }
+    ],
+    "similar_profiles": [],
+    "default_avatar": false,
+    "memorialized_account": false,
+    "bio_links": [
+      {
+        "title": "Personal Website",
+        "link": "https://tylersong.com/"
+      }
+    ],
+    "first_name": "Tyler",
+    "last_name": "Song",
+    "influencer": false,
+    "timestamp": "2026-08-12T19:18:21.532Z",
+    "input": {
+      "url": "https://www.linkedin.com/in/tylersong"
+    }
+  },
+  "local_photo": "data\\linkedin_photos\\tylersong__usr-GT8IJSWBG3iYesK.jpg"
+}

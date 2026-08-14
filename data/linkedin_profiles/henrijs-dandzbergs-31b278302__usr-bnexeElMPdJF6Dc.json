@@ -1,0 +1,188 @@
+{
+  "luma_user_id": "usr-bnexeElMPdJF6Dc",
+  "csv_name": "Henrijs Dandzbergs",
+  "csv_linkedin": "https://www.linkedin.com/in/henrijs-dandzbergs-31b278302",
+  "enriched_at": "2026-08-12T19:06:01.826042+00:00",
+  "batch_id": "sd_msqgh02428smzgu5m",
+  "profile": {
+    "id": "henrijs-dandzbergs-31b278302",
+    "name": "Henrijs Dandzbergs",
+    "city": "San Francisco Bay Area",
+    "country_code": "US",
+    "position": null,
+    "about": null,
+    "current_company": {
+      "link": "https://www.linkedin.com/school/y-combinator/?trk=public_profile_topcard-current-company",
+      "name": "Y Combinator",
+      "location": null
+    },
+    "experience": null,
+    "url": "https://www.linkedin.com/in/Henrijs-dandzbergs-31b278302",
+    "education": null,
+    "avatar": "https://media.licdn.com/dms/image/v2/D4D03AQFjwaLQ_UXCtQ/profile-displayphoto-scale_200_200/B4DZ5a5dGkGQAg-/0/1779641472844?e=2147483647&v=beta&t=_WNIViJN_q-c92j1baM_Os4GdCQda060c5EUGXUrU4A",
+    "followers": 336,
+    "connections": 330,
+    "current_company_name": "Y Combinator",
+    "projects": [
+      {
+        "title": "Modeling and Optimizing the Third Stage of a Multi-Stage Rocket for Near-Orbit Altitude Using Classical Mechanics",
+        "start_date": "May 2025",
+        "description": "This project revolved around optimizing the third stage of the PSLV rocket to improve fuel efficiency, thrust stability, and trajectory control during orbital insertion. The idea came from analyzing limitations in traditional multi-stage rockets and applying theoretical modeling to overcome them. I used Tsiolkovsky\u2019s rocket equation to simulate velocity changes over burn time, accounting for fuel mass, thrust, and gravitational losses. I also explored alternative engine types and tested them within the same parameters to evaluate performance differences. A Laval nozzle model was included to assess flow characteristics. The project concluded with a working text-based simulation."
+      },
+      {
+        "title": "Extended STEM project using a generative artificial intelligence-powered UAV drone system",
+        "start_date": "Sep 2024",
+        "description": "This project is a fully autonomous UAV with integrated object detection and avoidance software, designed to detect obstacles and move toward the next open space while always returning to the displacement line between two preset coordinates. The concept originated after watching Roland Sigwart\u2019s MIT lecture on flying robots. The coordinates, represented in (x, y) in 2D, are mapped either prior to or during flight, and the Cartesian coordinate system has been projected onto an oblate spheroid to represent the Earth. The sensor beneath the drone and the mapping of flight coordinates have been developed, the drone\u2019s frame has been built, and the math for propeller tilt while maintaining stability has been completed with few errors."
+      },
+      {
+        "title": "Ultrasonic Radar Based Obstacle Detection and Relay System for Autonomous Aerial Vehicles",
+        "start_date": "Jul 2024",
+        "description": "This project began during a 2024 summer engineering program at Oxford, where I developed an ultrasonic radar system to demonstrate sensor principles to younger students. To make the system more accessible, I replaced hidden wireless transmission with a visible LCD output. After completing the prototype, I integrated the upgraded system into my ongoing autonomous UAV project to improve real-time object detection and motor control. The LCD was removed, and data was rerouted through a Raspberry Pi to communicate with ESP32 boards managing drone movement. The radar sensors scan the environment while rotating on the y-axis and transmit obstacle data to influence drone navigation dynamically, based on preset mapping and sensor range limits."
+      },
+      {
+        "title": "6DOF Bionic Arm with Real Time Hand Tracking and Sensor-Based Control",
+        "start_date": "Nov 2023",
+        "description": "This project is a 6DOF bionic robotic arm with individually controlled fingers and a 360\u00b0 rotating base, operated through real-time hand tracking. I began building it in November 2023, at age 13, starting with a simple 5DOF model using an Arduino Uno and 20kg servo motors. As the project advanced, I added full base rotation, upgraded to a Raspberry Pi with an external servo driver, and solved issues like power distribution, servo lag, and signal noise. I designed a wearable glove with flex sensors and motion tracking (using an accelerometer and gyroscope) to control the arm myself through hand movements. The glove sends movement data to the Pi, which converts it into servo commands, allowing the arm to mimic natural hand gestures like gripping, rotating, and placing objects. This project taught me key concepts in electronics, coding, power systems, and biomechanics. It remains in development, with planned upgrades including wireless communication, stronger grip, and improved gesture recognition."
+      }
+    ],
+    "location": null,
+    "input_url": "https://www.linkedin.com/in/henrijs-dandzbergs-31b278302",
+    "linkedin_id": "henrijs-dandzbergs-31b278302",
+    "activity": [
+      {
+        "interaction": "Liked by Henrijs Dandzbergs",
+        "link": "https://www.linkedin.com/posts/tomas-salvo-501608142_im-recruiting-24-georgia-tech-students-activity-7492676711466057728-frKn",
+        "title": "I'm recruiting 2\u20134 Georgia Tech students to help me build the world's first RC aircraft to break Mach 1. Last month my 500mph Reaper build went\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4D22AQFiQMzxsVO7wA/feedshare-shrink_1280/B4DZ_tVu3HJAAM-/0/1786393325430?e=2147483647&v=beta&t=Xwbfk-BcU-aLl3Gov_bpuhQKwM8yEec8kUcTejWIvh0",
+        "id": "24"
+      },
+      {
+        "interaction": "Liked by Henrijs Dandzbergs",
+        "link": "https://www.linkedin.com/posts/imsar_imsar-nsp2-radar-activity-7490798837725282304-0Rmb",
+        "title": "The IMSAR NSP-2 delivers powerful all-weather Moving Target Indicator (MTI) capability in the smallest radar package available. In this\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5605AQH8q-C8wtZ4nQ/videocover-high/B56Z_PCR_WJgBM-/0/1785884916017?e=2147483647&v=beta&t=pU6h2oXDw8e50A3HIFmtLKiCDZiSdlG4h5RewOM0W9s",
+        "id": "7490798837725282304"
+      },
+      {
+        "interaction": "Liked by Henrijs Dandzbergs",
+        "link": "https://www.linkedin.com/posts/divit-sheth_almanac-codingagents-aiengineering-activity-7486089665427718144-vK0j",
+        "title": "Almanac (YC S26) is building the shared knowledge layer for your team\u2019s coding agents. We\u2019re proud to be part of Y Combinator Summer 2026\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5605AQE_Qap1fDGiYQ/videocover-high/B56Z.Puwe1GUBM-/0/1784822847093?e=2147483647&v=beta&t=GGiA1RUAKHIQX22sqO524iVg4ate4MW3zYfCQipx93k",
+        "id": "7486089665427718144"
+      },
+      {
+        "interaction": "Liked by Henrijs Dandzbergs",
+        "link": "https://www.linkedin.com/posts/jasper-l_counter-drone-systems-today-look-like-this-activity-7482846287353184257-XcN7",
+        "title": "Counter-drone systems today look like this: a container, a generator, a crew of three, and weeks of training. Ours looks like this\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQF3oOFI3cKz7g/feedshare-image-high-res/B4EZ9hpCq0JMAc-/0/1784049578614?e=2147483647&v=beta&t=siGp-umqGM2LzNvzvStsa0ib8dlnBY0ca1-zABKPhEA",
+        "id": "7482846287353184257"
+      },
+      {
+        "interaction": "Liked by Henrijs Dandzbergs",
+        "link": "https://www.linkedin.com/posts/elizabeta-baranovska-213936339_sinhron%C4%81s-slido%C5%A1anas-komandas-gatavojas-activity-7424756145476771840-a3t9",
+        "title": "Sinhroni? Uz slid\u0101m? 900 sekund\u0113s \u0161or\u012bt var\u0113ja dzird\u0113t par \u0161o interesanto sporta veidu! Ar komandu atr\u0101d\u012bj\u0101m p\u0101ris elementus no treni\u0146u procesa, ce\u013c\u0101\u2026",
+        "img": "https://media.licdn.com/dms/image/sync/v2/D4D27AQHXN2ER0CQRXw/articleshare-shrink_800/B4DZwoEzTDK4AI-/0/1770198873690?e=2147483647&v=beta&t=Nc-KKJFLt8Mie1IhcdoJbHWJPG9l4STornGgUkiebAc",
+        "id": "7424756145476771840"
+      },
+      {
+        "interaction": "Liked by Henrijs Dandzbergs",
+        "link": "https://www.linkedin.com/posts/y-combinator_impact-drones-yc-s26-builds-air-defense-activity-7490467092735946752-c4R3",
+        "title": "IMPACT DRONES (YC S26) builds Air Defense as a Service: containerized cells of autonomous interceptors that protect critical civilian infrastructure\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5605AQHp-1i4ojY52w/videocover-high/B56Z_NzV81HcBM-/0/1785864231888?e=2147483647&v=beta&t=mOdi9dT9JCGpQYTdgAOD7UUCuHpjY78ifP7nASe0yAY",
+        "id": "7490467092735946752"
+      },
+      {
+        "interaction": "Liked by Henrijs Dandzbergs",
+        "link": "https://www.linkedin.com/posts/matija-milenovic_hop-aero-yc-s26-is-out-of-stealth-were-activity-7487907768935268353-YJqs",
+        "title": "Hop Aero (YC S26) is out of stealth. We're building rockets that deliver cargo anywhere on Earth in minutes. We fly point-to-point at hypersonic\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5605AQHPU62KfpIyGg/videocover-high/B56Z.pkYd4G4BM-/0/1785256319902?e=2147483647&v=beta&t=tEvcM82pTDYok4gy9h666J7BRKTG_7Wh9JOUjYny7mo",
+        "id": "7487907768935268353"
+      },
+      {
+        "interaction": "Liked by Henrijs Dandzbergs",
+        "link": "https://www.linkedin.com/posts/fergtech_some-of-the-best-founders-werent-even-founders-activity-7480270027754119168-k_3B",
+        "title": "Some of the best founders weren\u2019t even founders yet. It's my birthday, and birthdays always make me reflect on what actually matters. No matter\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQGviOPoO2TgOw/feedshare-shrink_800/B4EZ89B8ygHkAg-/0/1783435350478?e=2147483647&v=beta&t=aGfO5ueRanVj1Bwn2QDCTEbRSGatOtzPQQNa9Jx0Zfk",
+        "id": "7480270027754119168"
+      },
+      {
+        "interaction": "Liked by Henrijs Dandzbergs",
+        "link": "https://www.linkedin.com/posts/mariehscherf_sf-marketing-attacks-have-no-limits-this-activity-7486115596796014592-dPRf",
+        "title": "SF marketing attacks have no limits! This 20 year old founder Alex Slater is promoting his startup by driving around SF with a Lamborghini wrapped\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4D22AQHVeUcHZLqhsw/feedshare-shrink_800/B4DZ.QGcPeK8Ag-/0/1784829040589?e=2147483647&v=beta&t=zjmlwTRtK36AznC9ELu6QRkPxBuaEJ6Nzl294O9bY8s",
+        "id": "7486115596796014592"
+      },
+      {
+        "interaction": "Liked by Henrijs Dandzbergs",
+        "link": "https://www.linkedin.com/posts/dr-adelina-shickova_munich-activity-7472166047664488449-OjQY",
+        "title": "Our WU Executive Academy Global Executive MBA Cohort 2022 reunion brought us to Munich this year, and it was yet another reminder of how special the\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4D22AQHuUXnGJy-vhA/feedshare-image-high-res/B4DZ6jvsRJJ8AU-/0/1780863649596?e=2147483647&v=beta&t=OdqKWnVccxMjP550A8d4m5bmBjF6nK__x56lYwQtPK8",
+        "id": "7472166047664488449"
+      },
+      {
+        "interaction": "Liked by Henrijs Dandzbergs",
+        "link": "https://www.linkedin.com/posts/bugatt_within-24-hours-we-signed-our-first-contract-activity-7469138150448218113-6FvZ",
+        "title": "Within 24 hours, we signed our first contract and made over $1k in revenue at the \"Pop the Bubble\" Hackathon \ud83e\udee7 So far, we've: - sat down with\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQEssfRvoq8jBA/feedshare-shrink_800/B4EZ6e1kXMJgAc-/0/1780781303597?e=2147483647&v=beta&t=WBCJnCKkl2TadGctJ382T6TdnnPimS8SyOMtsMogtNI",
+        "id": "24"
+      },
+      {
+        "interaction": "Liked by Henrijs Dandzbergs",
+        "link": "https://www.linkedin.com/posts/bugatt_in-under-36-hrs-eddy-d-and-i-signed-activity-7470074886456119296-KEFw",
+        "title": "\ud83c\udfc6 In under 36 hrs, eddy D. and I signed 2 clients, closed over \u00a32k, and placed 3rd at the \u201cPop the Bubble\u201d Hackathon \ud83e\udee7\ud83c\udfc6 We built Lepton, a\u2026",
+        "img": "https://static.licdn.com/aero-v1/sc/h/53n89ecoxpr1qrki1do3alazb",
+        "id": "36"
+      },
+      {
+        "interaction": "Liked by Henrijs Dandzbergs",
+        "link": "https://www.linkedin.com/posts/y-combinator_lamina-labs-is-building-the-fastest-infrastructure-activity-7468345870464372736-Ywt0",
+        "title": "Lamina Labs is building the fastest infrastructure for generating explainer videos. Their first product, Simi, turns a single prompt into a complete\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4E05AQELVcUrPfTbwQ/videocover-high/B4EZ6ThEHYJABQ-/0/1780591388256?e=2147483647&v=beta&t=iNvL8G2Ju8YkXrpXgVEfVZIAuZJSs8bB8kWmYtWt35A",
+        "id": "7468345870464372736"
+      },
+      {
+        "interaction": "Liked by Henrijs Dandzbergs",
+        "link": "https://www.linkedin.com/posts/salim-arfaoui-63a41715_cant-wait-activity-7466291556300279808-ojNo",
+        "title": "Can\u2019t wait \ud83d\ude02",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQF_jKGwjutzcA/feedshare-shrink_800/B4EZ52Ym_7GsAc-/0/1780102623542?e=2147483647&v=beta&t=yQGBfRjMQUqAvlzMYpY_oWql_VHNCrWxpAJVS_pMQb8",
+        "id": "7466291556300279808"
+      },
+      {
+        "interaction": "Liked by Henrijs Dandzbergs",
+        "link": "https://www.linkedin.com/posts/aruzhan-n_9-hack-wins-wasnt-enough-so-i-put-up-10000-activity-7465733541436276736-D0Zd",
+        "title": "9 hack wins wasn\u2019t enough. So I put up \u00a310,000 to run my own. \u00a310,000 cash for the winner. One of the biggest first prizes ever at a London\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQFYc9_qDApzfQ/feedshare-image-high-res/B4EZ5uarsgLAAU-/0/1779968949407?e=2147483647&v=beta&t=ArzjrqiN75eL9gIcesT_2sK5oy-B2mHfnVJzTVhTIOg",
+        "id": "10000"
+      },
+      {
+        "interaction": "Liked by Henrijs Dandzbergs",
+        "link": "https://www.linkedin.com/posts/fatemaalkhalifa_phones-on-1-but-i-need-to-understand-larp-activity-7465387717896630273-6thp",
+        "title": "phones on 1% but i NEED to understand larp...Fergus White !! link to larp in comments \ud83d\udc47",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQEeaIJlWWlqeQ/feedshare-image-high-res/B4EZ5pikUMIcAU-/0/1779887130187?e=2147483647&v=beta&t=oDVXKrGt3VltJ_MDAzVcFFajcFCZEZHHLss9ZTJ8vBU",
+        "id": "1"
+      },
+      {
+        "interaction": "Liked by Henrijs Dandzbergs",
+        "link": "https://www.linkedin.com/posts/y-combinator_arlo-industries-yc-p26-builds-distributed-activity-7465084349344808960-uQ8I",
+        "title": "Arlo Industries (YC P26) builds distributed passive sensor networks that detect and track drones and missiles in 3D without emitting any signal\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5605AQFfX9T36ijd8Q/videocover-high/B56Z5i3FTMGgBM-/0/1779775073676?e=2147483647&v=beta&t=qufEbY9xlF8Jp4Cilglvr829JuMXJeEK8h2ppDOpP4Y",
+        "id": "7465084349344808960"
+      }
+    ],
+    "linkedin_num_id": "1296574151",
+    "banner_image": "https://media.licdn.com/dms/image/v2/D4D16AQErQa6F9ogegA/profile-displaybackgroundimage-shrink_200_800/B4DZ5uYyEnHgAQ-/0/1779968451153?e=2147483647&v=beta&t=Nw_t4iaWelJ1a5V7YhISgmDXBXnLqeF9Kcr7mBI4eQo",
+    "honors_and_awards": null,
+    "similar_profiles": [],
+    "default_avatar": false,
+    "memorialized_account": false,
+    "bio_links": [],
+    "first_name": "Henrijs",
+    "last_name": "Dandzbergs",
+    "influencer": false,
+    "timestamp": "2026-08-12T19:02:00.683Z",
+    "input": {
+      "url": "https://www.linkedin.com/in/henrijs-dandzbergs-31b278302"
+    }
+  },
+  "local_photo": "data\\linkedin_photos\\henrijs-dandzbergs-31b278302__usr-bnexeElMPdJF6Dc.jpg"
+}

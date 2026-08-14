@@ -1,0 +1,339 @@
+{
+  "luma_user_id": "usr-ulp2IwFtdPZlDGS",
+  "csv_name": "Harsh",
+  "csv_linkedin": "https://www.linkedin.com/in/venkata-harsh-muriki",
+  "enriched_at": "2026-08-12T19:06:01.823987+00:00",
+  "batch_id": "sd_msqgh02428smzgu5m",
+  "profile": {
+    "id": "venkata-harsh-muriki",
+    "name": "Harsh Muriki",
+    "city": "Atlanta, Georgia, United States",
+    "country_code": "US",
+    "position": null,
+    "about": "I like to build cool, useful robots!",
+    "current_company": {
+      "link": "https://www.linkedin.com/company/fauna-robotics?trk=public_profile_topcard-current-company",
+      "name": "Fauna Robotics",
+      "company_id": "fauna-robotics",
+      "location": null
+    },
+    "experience": null,
+    "url": "https://bd.linkedin.com/in/venkata-harsh-muriki",
+    "people_also_viewed": [
+      {
+        "profile_link": "https://in.linkedin.com/in/rohit-j-ba721873",
+        "name": "Rohit J.",
+        "about": "CloudColon",
+        "location": "27K followers Pune Division"
+      },
+      {
+        "profile_link": "https://in.linkedin.com/in/realanilsharma",
+        "name": "Anil Sharma",
+        "about": "Pristyn Care",
+        "location": "28K followers Greater Delhi Area"
+      },
+      {
+        "profile_link": "https://in.linkedin.com/in/jyothsna-rao",
+        "name": "Jyothsna Rao",
+        "about": "Wissen Technology",
+        "location": "31K followers Greater Bengaluru Area"
+      },
+      {
+        "profile_link": "https://in.linkedin.com/in/namo-kaul-aa615242",
+        "name": "Namo Kaul",
+        "about": "XAM1",
+        "location": "22K followers Bengaluru"
+      },
+      {
+        "profile_link": "https://in.linkedin.com/in/best-books-all-time",
+        "name": "VIVEK KUMAR",
+        "about": "FixNix, Inc.",
+        "location": "24K followers Chennai"
+      },
+      {
+        "profile_link": "https://in.linkedin.com/in/mayankpratap",
+        "name": "Mayank Pratap Singh",
+        "about": "EngineerBabu",
+        "location": "87K followers Bengaluru"
+      },
+      {
+        "profile_link": "https://in.linkedin.com/in/ashi-dhyani-33284218",
+        "name": "Ashi Dhyani",
+        "about": "BridalGlamGuide - wedding e-magazine",
+        "location": "29K followers Greater Delhi Area"
+      },
+      {
+        "profile_link": "https://in.linkedin.com/in/maneeshgoel",
+        "name": "Maneesh Goel",
+        "about": "Kyndryl",
+        "location": "35K followers Noida"
+      },
+      {
+        "profile_link": "https://in.linkedin.com/in/bhumika0311",
+        "name": "Bhumika Saxena",
+        "about": "Skydo",
+        "location": "22K followers Bengaluru"
+      }
+    ],
+    "educations_details": "Georgia Institute of Technology",
+    "education": [
+      {
+        "title": "Georgia Institute of Technology",
+        "url": "https://www.linkedin.com/school/georgia-institute-of-technology/",
+        "start_year": "2024-08",
+        "end_year": "2026-05",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      },
+      {
+        "start_year": "2020-08",
+        "end_year": "2024-05",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      },
+      {
+        "start_year": "2021-07",
+        "end_year": "2021-08",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      },
+      {
+        "start_year": "2018",
+        "end_year": "2020",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      },
+      {
+        "start_year": "2012",
+        "end_year": "2018",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      }
+    ],
+    "avatar": "https://media.licdn.com/dms/image/v2/D5603AQHbOWP8wexFbw/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1681695555165?e=2147483647&v=beta&t=N5WMrOKkXG1NUtNzfJHRnFSCicoHLOZizeik8BUMFow",
+    "courses": [
+      {
+        "subtitle": "CS 3600",
+        "title": "Artificial Intelligence"
+      },
+      {
+        "subtitle": "CS 4883",
+        "title": "CREATE X Junior Design"
+      },
+      {
+        "subtitle": "CS 2110",
+        "title": "Computer Organization and Programming"
+      },
+      {
+        "subtitle": "CS 1332",
+        "title": "Data Structures and Algorithms for Applications"
+      },
+      {
+        "subtitle": "CS 3510",
+        "title": "Design and Analysis of Algorithms"
+      },
+      {
+        "subtitle": "ECE 2031",
+        "title": "Digital Design Lab"
+      },
+      {
+        "subtitle": "CS 4476",
+        "title": "Introduction to Computer Vision"
+      },
+      {
+        "subtitle": "CS 1301",
+        "title": "Introduction to Computing"
+      },
+      {
+        "subtitle": "CS 2050",
+        "title": "Introduction to Discrete Mathematics for Computer Science"
+      },
+      {
+        "subtitle": "CS 1331",
+        "title": "Introduction to Object Oriented Programming."
+      },
+      {
+        "subtitle": "CS 3630",
+        "title": "Introduction to Perception and Robotics"
+      },
+      {
+        "subtitle": "CS 4641",
+        "title": "Machine Learning"
+      },
+      {
+        "subtitle": "CS 2340",
+        "title": "Objects and Design"
+      },
+      {
+        "subtitle": "ISYE 3770",
+        "title": "Probability and Statistics"
+      },
+      {
+        "subtitle": "CS 2200",
+        "title": "Systems and Networks"
+      },
+      {
+        "subtitle": "CS 2699",
+        "title": "Undergraduate Research"
+      }
+    ],
+    "languages": [
+      {
+        "subtitle": "Full professional proficiency",
+        "title": "English"
+      },
+      {
+        "subtitle": "Native or bilingual proficiency",
+        "title": "Telugu"
+      },
+      {
+        "subtitle": "Professional working proficiency",
+        "title": "Hindi"
+      },
+      {
+        "subtitle": "Elementary proficiency",
+        "title": "French"
+      }
+    ],
+    "certifications": [
+      {
+        "meta": "Issued Aug 2021 See credential",
+        "subtitle": "AT&T",
+        "title": "2021 AT&T Summer Learning Academy Extern",
+        "credential_url": "https://www.credly.com/badges/c752e8f1-ce2a-49aa-a958-5cc7c6853fd7?source=linked_in_profile&trk=public_profile_see-credential",
+        "credential_id": null
+      }
+    ],
+    "followers": 1594,
+    "connections": 500,
+    "current_company_company_id": "fauna-robotics",
+    "current_company_name": "Fauna Robotics",
+    "publications": [
+      {
+        "title": "A Hybrid Cable-Driven Robot for Non-Destructive Leafy Plant Monitoring and Mass Estimation using Structure from Motion",
+        "subtitle": "2023 IEEE International Conference on Robotics and Automation (ICRA 2023)",
+        "date": "December 19, 2022",
+        "description": "We propose a novel hybrid cable-based robot with manipulator and camera for high-accuracy, medium-throughput plant monitoring in a vertical hydroponic farm and, as an example application, demonstrate non-destructive plant mass estimation. Plant monitoring with high temporal and spatial resolution is important to both farmers and researchers to detect anomalies and develop predictive models for plant growth. The availability of high-quality, off-the-shelf structure-from-motion (SfM) and photogrammetry packages has enabled a vibrant community of roboticists to apply computer vision for non-destructive plant monitoring. While existing approaches tend to focus on either high-throughput (e.g. satellite, unmanned aerial vehicle (UAV), vehicle-mounted, conveyor-belt imagery) or high-accuracy/robustness to occlusions (e.g. turn-table scanner or robot arm), we propose a middle-ground that achieves high accuracy with a medium-throughput, highly automated robot. Our design pairs the workspace scalability of a cable-driven parallel robot (CDPR) with the dexterity of a 4 degree-of-freedom (DoF) robot arm to autonomously image many plants from a variety of viewpoints. We describe our robot design and demonstrate it experimentally by collecting daily photographs of 54 plants from 64 viewpoints each. We show that our approach can produce scientifically useful measurements, operate fully autonomously after initial calibration, and produce better reconstructions and plant property estimates than those of over-canopy methods (e.g. UAV). As example applications, we show that our system can successfully estimate plant mass with a Mean Absolute Error (MAE) of 0.586g and, when used to perform hypothesis testing on the relationship between mass and age, produces p-values comparable to ground-truth data (p=0.0020 and p=0.0016, respectively)"
+      }
+    ],
+    "projects": [
+      {
+        "title": "SpotifyYoutube"
+      }
+    ],
+    "location": "Atlanta",
+    "input_url": "https://www.linkedin.com/in/venkata-harsh-muriki",
+    "linkedin_id": "venkata-harsh-muriki",
+    "activity": [
+      {
+        "interaction": "Liked by Harsh Muriki",
+        "link": "https://www.linkedin.com/posts/tomas-salvo-501608142_im-recruiting-24-georgia-tech-students-activity-7492676711466057728-frKn",
+        "title": "I'm recruiting 2\u20134 Georgia Tech students to help me build the world's first RC aircraft to break Mach 1. Last month my 500mph Reaper build went\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4D22AQFiQMzxsVO7wA/feedshare-shrink_1280/B4DZ_tVu3HJAAM-/0/1786393325430?e=2147483647&v=beta&t=Xwbfk-BcU-aLl3Gov_bpuhQKwM8yEec8kUcTejWIvh0",
+        "id": "24"
+      },
+      {
+        "interaction": "Liked by Harsh Muriki",
+        "link": "https://www.linkedin.com/posts/kunal-aneja_geminirobotics-robotics-activity-7492569195004665856-9y5D",
+        "title": "One brain. For any robot. \ud83e\udd16 Thrilled to share what I have been building at #GeminiRobotics. Meet On-Device 2: out smallest action model which is\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5605AQEu6HNJYNOefw/videocover-high/B56Z_opDoJKoBQ-/0/1786314506384?e=2147483647&v=beta&t=EAA7Prs0aO8Jd0MZjMz0S1_pSam7vNT1xc_cW7Nd2yE",
+        "id": "7492569195004665856"
+      },
+      {
+        "interaction": "Liked by Harsh Muriki",
+        "link": "https://www.linkedin.com/posts/dyna-robotics_today-we-are-introducing-dyna-2-a-world-action-activity-7492629697458036736-Es8p",
+        "title": "Today we are introducing Dyna-2, a world-action model pre-trained on over 1,000,000 hours of human video. At this scale, for the first time, we\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5605AQGw8vxSLatBcA/videocover-high/B56Z_sq4S3KcBM-/0/1786382110900?e=2147483647&v=beta&t=Lc5OOYiik6Qu1MCjEBILKdtefy9Uxz_EEjg3WlI8NY0",
+        "id": "2"
+      },
+      {
+        "interaction": "Liked by Harsh Muriki",
+        "link": "https://www.linkedin.com/posts/liesl_why-billion-dollar-robotics-startups-are-activity-7492378120260411392-dJBs",
+        "title": "I will never forget in one of the first home tests we did for ai and robotics in the home, a mom (who also ran a venture fund) said this: I don\u2019t\u2026",
+        "img": "https://media.licdn.com/dms/image/sync/v2/D5627AQGeBO0yP7o5YQ/articleshare-shrink_800/B56Z_lx_PXGQAY-/0/1786266514924?e=2147483647&v=beta&t=H3-NMh_eb_6keabvMp34uWHKbe5im31DRkSpjiQQ4Cw",
+        "id": "7492378120260411392"
+      },
+      {
+        "interaction": "Liked by Harsh Muriki",
+        "link": "https://www.linkedin.com/posts/robertluan_were-building-robots-at-meta-and-hiring-activity-7491142297577750528-e5rc",
+        "title": "\ud83e\udd16\ud83d\ude80 We're building robots at Meta, and hiring fast. Most people don't know this yet: Meta has a humanoid robotics hardware team, and we're growing\u2026",
+        "img": "https://static.licdn.com/aero-v1/sc/h/53n89ecoxpr1qrki1do3alazb",
+        "id": "7491142297577750528"
+      },
+      {
+        "interaction": "Liked by Harsh Muriki",
+        "link": "https://www.linkedin.com/posts/jordancarver_there-are-more-legs-than-eyes-in-the-world-activity-7488247467017424896-T-8h",
+        "title": "There are more legs than eyes in the world. Also, my Friday is yours. Free 1:1 slots on my calendar this Friday - and no lottery this week. First\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQHiMQo4NcxsJw/feedshare-shrink_1280/B56Z.kHJ0gHYAM-/0/1785164766799?e=2147483647&v=beta&t=LQ4uTq4WvTvOftDlT6B9PsVgzwrvecvKx0lFJlXiq0A",
+        "id": "7488247467017424896"
+      },
+      {
+        "interaction": "Liked by Harsh Muriki",
+        "link": "https://www.linkedin.com/posts/st-scottsun-inireland_gemini-35-flash-and-36-flash-get-exactly-activity-7485359502641385472-JXOE",
+        "title": "Gemini 3.5 flash and 3.6 flash get exactly the same score on artificial analysis. I have literally never seen a lateral move before. Google\u2019s aura at\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4D22AQGLlSzyr4D3eA/feedshare-shrink_800/B4DZ.FWzS0HgAk-/0/1784648775339?e=2147483647&v=beta&t=-ilRO8uKEXmLcoyLaSs5N-bpKc8LrW6hXAN-7wOmSog",
+        "id": "35"
+      },
+      {
+        "interaction": "Liked by Harsh Muriki",
+        "link": "https://www.linkedin.com/posts/tom-silver-19960367_nerc-2026-northeast-robotics-colloquium-activity-7485772091334680576-22na",
+        "title": "We are pleased to announce that the Northeast Robotics Colloquium (NERC) 2026 will be hosted by Princeton University on Saturday, October 3\u2026",
+        "img": "https://media.licdn.com/dms/image/sync/v2/D4E27AQFa4cqkOpbUwg/articleshare-shrink_800/B4EZ.LN3_LHoAY-/0/1784747098742?e=2147483647&v=beta&t=q9o0ASbJM3GzPM0MfraM8A2Pp79jJOhcAOOA4rkBHjg",
+        "id": "2026"
+      },
+      {
+        "interaction": "Liked by Harsh Muriki",
+        "link": "https://www.linkedin.com/posts/3dcomputervision-textto3d-modelquantization-activity-7484343116825554944-wwJN",
+        "title": "\ud83d\ude80 Excited to share the \ud835\uddf3\ud835\uddf6\ud835\uddff\ud835\ude00\ud835\ude01 \ud835\udc1e\ud835\udc1f\ud835\udc1f\ud835\udc22\ud835\udc1c\ud835\udc22\ud835\udc1e\ud835\udc27\ud835\udc2d \ud835\udddc\ud835\udde1\ud835\udde7\ud835\udff0 \ud835\uddfe\ud835\ude02\ud835\uddee\ud835\uddfb\ud835\ude01\ud835\uddf6\ud835\ude07\ud835\uddf2\ud835\uddf1 version of Cube3D, a text-to-3D mesh generative model. With RTN\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQF5yyPwxLZ2_g/feedshare-shrink_800/B56Z926aGUKEAc-/0/1784406450798?e=2147483647&v=beta&t=lJGPNZHxomJuFVpRQJRqTz5r5AaWVbMPlmB0dZuKaFg",
+        "id": "7484343116825554944"
+      },
+      {
+        "interaction": "Liked by Harsh Muriki",
+        "link": "https://www.linkedin.com/posts/bcristei_robotics-has-been-almost-here-since-1957-activity-7484261452137238528-AK5C",
+        "title": "Robotics has been \"almost here\" since 1957. That was Deepak Pathak's opening argument at AUTONOMOUS 2026 - archival footage of teleoperated arms\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQEid5JoIY4FxQ/feedshare-shrink_800/B56Z9zgwPPKEAc-/0/1784349394304?e=2147483647&v=beta&t=xRmDsnSROF1jPBguHcJx3C9AWMltjN4TFZzRtwzRyKk",
+        "id": "1957"
+      },
+      {
+        "interaction": "Liked by Harsh Muriki",
+        "link": "https://www.linkedin.com/posts/perry-jia_unpopular-opinion-one-of-the-most-valuable-activity-7484054722144808960-xLUR",
+        "title": "Unpopular opinion: one of the most valuable work in robotics is the work everyone dismisses as \"low-skill.\" \ud83d\ude24 Let me explain. Two years ago, our\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5605AQHnetjXOvLlaA/videocover-high/B56Z9y0F2MIQBM-/0/1784337687247?e=2147483647&v=beta&t=l6ff2xTuv-t78qOWeiMDOiTDmyVPjCqiGgzxOve9TJE",
+        "id": "7484054722144808960"
+      }
+    ],
+    "linkedin_num_id": "849790855",
+    "banner_image": "https://media.licdn.com/dms/image/v2/D5616AQEobK5RJQ-W7w/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1673657319750?e=2147483647&v=beta&t=kAsApOdkhkSznhZ8qArIZa3pqEoIuz8aTzqpu3ZsWjY",
+    "honors_and_awards": [
+      {
+        "title": "World Inline Figure Skater",
+        "publication": "WIFSA",
+        "date": "2017-07-01T00:00:00.000Z",
+        "description": "Won a Gold medal at the International 7th World Inline Figure Skating Championships held in Dijon, France among 10 participating countries."
+      }
+    ],
+    "similar_profiles": [],
+    "default_avatar": false,
+    "memorialized_account": false,
+    "bio_links": [
+      {
+        "title": "Personal Website",
+        "link": "https://harshmuriki.com/"
+      }
+    ],
+    "first_name": "Harsh",
+    "last_name": "Muriki",
+    "influencer": false,
+    "timestamp": "2026-08-12T19:01:56.507Z",
+    "input": {
+      "url": "https://www.linkedin.com/in/venkata-harsh-muriki"
+    }
+  },
+  "local_photo": "data\\linkedin_photos\\venkata-harsh-muriki__usr-ulp2IwFtdPZlDGS.jpg"
+}

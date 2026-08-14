@@ -1,0 +1,275 @@
+{
+  "luma_user_id": "usr-ndF6Wbln6WaTJfM",
+  "csv_name": "Anthony Lamelas",
+  "csv_linkedin": "https://www.linkedin.com/in/anthonylamelas",
+  "enriched_at": "2026-08-12T18:56:33.272396+00:00",
+  "batch_id": "sd_msqg8yml2ia5na9bcp",
+  "profile": {
+    "id": "anthonylamelas",
+    "name": "Anthony Lamelas",
+    "city": "New York, New York, United States",
+    "country_code": "US",
+    "position": null,
+    "about": "I am a creative individual passionate about all things software, data science, and AI. I\u2026",
+    "current_company": {
+      "link": "https://www.linkedin.com/company/google?trk=public_profile_topcard-current-company",
+      "name": "Google",
+      "company_id": "google",
+      "location": null
+    },
+    "experience": null,
+    "url": "https://br.linkedin.com/in/Anthonylamelas",
+    "educations_details": "New York University",
+    "education": [
+      {
+        "title": "New York University",
+        "url": "https://www.linkedin.com/school/new-york-university/",
+        "start_year": "2023-09",
+        "end_year": "2027-05",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      },
+      {
+        "start_year": "2017",
+        "end_year": "2023",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      }
+    ],
+    "avatar": "https://media.licdn.com/dms/image/v2/D5603AQHMeGqJ5VmyWw/profile-displayphoto-scale_200_200/B56Z.zq2S1K0Ag-/0/1785425786229?e=2147483647&v=beta&t=NAu-Ex_tkx8uL2R4XTBtYyj2BP1X78_wi84n31j5gcU",
+    "languages": [
+      {
+        "subtitle": "Limited working proficiency",
+        "title": "Spanish"
+      },
+      {
+        "subtitle": "Native or bilingual proficiency",
+        "title": "English"
+      }
+    ],
+    "certifications": [
+      {
+        "meta": "See credential",
+        "subtitle": "Scrimba",
+        "title": "TypeScript",
+        "credential_url": "https://drive.google.com/file/d/14D2GQ6GN_G1awKqCIXBUhhuzVLObd7on/view?usp=sharing&trk=public_profile_see-credential",
+        "credential_id": null
+      }
+    ],
+    "volunteer_experience": [
+      {
+        "cause": "Children",
+        "duration": "Jan 2024 \u00b7 - Present \u00b7 \n\n2 years 8 months",
+        "duration_short": "- Present",
+        "info": "Tutoring recent immigrants and lower-income elementary students in reading and math three times per week in an after-school program.",
+        "start_date": "Jan 2024",
+        "subtitle": "A Place For Kids Child Care",
+        "title": "Volunteer"
+      },
+      {
+        "cause": "Social Services",
+        "duration": "Sep 2019 \u00b7 - \nJun 2023 \u00b7 \n3 years 10 months",
+        "duration_short": "- \nJun 2023",
+        "info": "Promoted the delivery of various goods for poor elderly people by using Instagram. Coordinated the delivery of the donated food and supplies.",
+        "start_date": "Sep 2019",
+        "subtitle": "Abuelos Foundation",
+        "title": "Board Member"
+      }
+    ],
+    "followers": 1939,
+    "connections": 500,
+    "current_company_company_id": "google",
+    "current_company_name": "Google",
+    "projects": [
+      {
+        "title": "Evaluating Small Decoder-Only Language Models for Grammar Correction and Text Simplification",
+        "start_date": "Nov 2025",
+        "description": "\u2022Fine-tuned and evaluated various small language models (SLMs) in grammar correction and text-simplification\u2022Some of the SLMs included GPT-2, Gemma 2b, TinyLlama 1.1B, and others\u2022Compared results to modern-day large language models such as GPT-4o, GPT-3.5-Turbo, and others using metrics such as GLEU and SARI"
+      },
+      {
+        "title": "Stroke Prediction",
+        "start_date": "Oct 2025",
+        "description": "\u2022Trained various models including neural networks, linear regression, and support vector machines to predict strokes in humans, using a dataset containing over 5000 examples\u2022Performed principle component analysis (PCA), polynomial feature transformations, and regularization to achieve over 77 percent accuracy"
+      },
+      {
+        "title": "Thryft",
+        "start_date": "Oct 2025",
+        "description": "\u2022Developed a marketplace application using a Tinder-like matching interface to match buyers and sellers using Ruby, Rails, and HTML/CSS \u2022Used RSpec for unit and integration tests, and used Cucumber for behavior-driven tests\u2022Led and organized a team of 7 developers, assigning features and organizing meetings"
+      },
+      {
+        "title": "FlightHub",
+        "start_date": "Jan 2025",
+        "description": "\u2022Developed a full-stack airline management web application using Python Flask, PostgreSQL, and JavaScript with customer booking and staff fleet management features\u2022Designed relational database schema with 10+ interconnected tables managing flights, customers, bookings, and reviews using SQL optimization techniques\u2022Built scalable web architecture with modular routing, user authentication, and Docker deployment configuration for production environments"
+      },
+      null,
+      {
+        "title": "NYU Concrete Canoe Paddleprompt",
+        "start_date": "Jan 2025",
+        "description": "\u2022Developed a full-stack chatbot using React/TypeScript and Flask, integrating OpenAI's GPT models with Pinecone vector database for semantic search\u2022Built PDF processing pipeline using Tesseract and PyMuPDF, implementing LangChain for document chunking and embedding generation"
+      },
+      {
+        "title": "NYU Concrete Canoe Paddler Improvement System",
+        "start_date": "Jan 2025",
+        "description": "\u2022 Designing and implementing a sensor-based data collection system to analyze paddling techniques\u2022 Developing various models such as support vector machines and logistic regressions to classify stroke patterns and recommend performance improvements based on biomechanical data\u2022 Performing feature analysis to find and eliminate unnecessary features, improving model performance\u2022 Deploying models onto a full-stack application using Flask and JavaScript"
+      },
+      null,
+      {
+        "title": "Panelize",
+        "start_date": "Jan 2025",
+        "description": "\u2022Developed a full-stack application that transforms user-written stories into AI-generated visual comics and manga panels using modern tools like Flask, React (Vite), and Tailwind.\u2022Integrated GPT-4o to break down complex story descriptions into structured, scene-specific panel prompts with constrained formatting for DALL\u00b7E compatibility.\u2022Used BLIP (Bootstrapped Language Image Pretraining) to auto-caption generated images, feeding those captions back into subsequent GPT prompts to maintain coherent storytelling across panels.\u2022Built a modular Flask API backend with structured routing, OpenAI integration, and RESTful JSON responses."
+      },
+      {
+        "title": "FaceCrime",
+        "start_date": "Apr 2025",
+        "description": "MongoDB x Voxel 51 Hackathon Project \u2022Built an AI-powered facial recognition tool that identifies individuals in real-time video streams by comparing detected faces against a watchlist of known subjects.\u2022Enabled live video capture and streaming using react-webcam, sending face snapshots to the backend for matching and display of results.\u2022 Integrated OpenAI\u2019s CLIP model via Jina AI to extract facial embeddings for similarity search across indexed criminal images.(Note: Main contribution was front-end)"
+      },
+      null,
+      {
+        "title": "Window Warden Rapid Assembly and Design (RAD) Project",
+        "start_date": "Jan 2024",
+        "description": "\u2022 Devised the idea to create an automated window-cleaning robot.\u2022 Collaborated with the team to create a digital model using Autodesk Fusion 360.\u2022 Created the circuit diagram for the robot using Tinkercad.\u2022 Assembled the circuit for the robot.\u2022 Laser cut the entire shell of the robot using Epilog Laser Cutters.\u2022 Programmed the basic movement of the robot\u2019s motors in Arduino IDE.\u2022Placed in the top 14 of all RAD projects."
+      }
+    ],
+    "organizations": [
+      {
+        "title": "Management Leadership for Tomorrow (MLT)",
+        "membership_type": "-",
+        "start_date": "Apr 2025",
+        "end_date": "Present",
+        "membership_number": null
+      }
+    ],
+    "location": "New York",
+    "input_url": "https://www.linkedin.com/in/anthonylamelas",
+    "linkedin_id": "anthonylamelas",
+    "activity": [
+      {
+        "interaction": null,
+        "link": "https://www.linkedin.com/posts/anthonylamelas_ready-to-break-into-software-engineering-activity-7437180524403593217-hwVu",
+        "title": "Ready to break into Software Engineering? Breaking in isn\u2019t just about coding; it\u2019s about understanding how recruiting actually works. You can build strong projects, grind LeetCode, and still feel stuck if you don\u2019t know how to position yourself, prepare intentionally for interviews, and network the right way. Recruiting is its own skill set. If you\u2019re applying for SWE internships or full-time roles this cycle, learning how the process works can seriously change your outcomes. Leland is hosting a FREE Software Engineering Recruiting Week (March 16-19), 8+ virtual sessions demystify every step of the recruiting process, from networking, refining your resume, to acing technical interviews. Sessions will be hosted by former hiring managers and interviewers at firms like Google, Microsoft, Netflix, and more. Spots are filling up! RSVP here. https://lnkd.in/eKd_tg7j ...more",
+        "img": null,
+        "id": "7437180524403593217"
+      },
+      {
+        "interaction": null,
+        "link": "https://www.linkedin.com/posts/anthonylamelas_im-excited-to-share-that-ill-be-joining-activity-7414875519990734848-mGtF",
+        "title": "I'm excited to share that I'll be joining Google this coming summer as a Software Engineering Intern in Sunnyvale, CA. Thank you to the recruiting team and everyone who made this possible.",
+        "img": null,
+        "id": "7414875519990734848"
+      },
+      {
+        "interaction": null,
+        "link": "https://www.linkedin.com/posts/yann-lecun_torch-nyus-new-supercomputer-with-over-activity-7380459056777568256-QrvF",
+        "title": "Torch: NYU's new supercomputer. With over 500 Nvidia H200 GPUs, Torch is the most powerful supercomputer in American academic institutions. Torch is a perfect name: not only the emblem of NYU is a torch, but the software that primarily runs on Torch is PyTorch. (Py)Torch is intimately linked with NYU. The original version of Torch was developed in the late 2000s / early 2010s by Ronan Collobert (at NEC at the time), Cl\u00e9ment Farabet , and koray kavukcuoglu , who were PhD students in my lab. Torch later evolved into PyTorch under the leadership of Soumith Chintala who is also an NYU alum. ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D4E10AQHgU9UCD_zLaA/ads-video-thumbnail_720_1280/B4EZmg0yrIHgAY-/0/1759339828288?e=2147483647&v=beta&t=YZIbrzDQnnj2DC_60So882WvdWZ-cecHZ4Wr0efd3LE",
+        "id": "7380459056777568256"
+      },
+      {
+        "interaction": null,
+        "link": "https://www.linkedin.com/posts/anthonylamelas_im-excited-to-share-that-after-spending-activity-7370211909754593280-T4Il",
+        "title": "I'm excited to share that after spending the summer as a Data Science Intern on the Applied AI team at Direct Supply, I\u2019ll be continuing part-time during the school year. I look forward to building on what I learned this summer and contributing to more projects.",
+        "img": null,
+        "id": "7370211909754593280"
+      },
+      {
+        "interaction": "Anthony Lamelas shared this",
+        "link": "https://www.linkedin.com/posts/anthonylamelas_this-past-weekend-i-had-the-opportunity-activity-7323019266658611200-nIpU",
+        "title": "This past weekend, I had the opportunity to attend Walmart's Sophomore Summit at their headquarters in Bentonville, AR. I was part of the Software Engineering track, where I learned from Walmart's tech leaders, collaborated with fellow students, and explored how technology drives innovation at scale. I am very grateful for this experience and would like to thank everyone who made it possible. ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQEWToAcZkqkaw/feedshare-image-high-res/B4EZaCXMXsHYAs-/0/1745943841206?e=2147483647&v=beta&t=5QbJ4SK_ChWNdBhD2D9b5bAYb7tia_flfloV1cbJncQ",
+        "id": "7323019266658611200"
+      },
+      {
+        "interaction": null,
+        "link": "https://www.linkedin.com/posts/mikeodnis_visualai-hackathon-machinelearning-activity-7315026873250381825-SGj2",
+        "title": "FaceCrime: Fighting Image-Based Crime with Visual AI - NYC Visual AI Hackathon Project Our team built FaceCrime, a backend API designed to identify criminals by comparing uploaded images against a database of mugshots. Leveraging FastAPI, Jina AI CLIP, and a pgvector-powered Postgres database, we created a system that calculates image embeddings, performs similarity searches, and returns relevant metadata like offense and physical characteristics. \u26a0\ufe0f Disclaimer: I was there for emotional support \ud83d\ude2d, I BLINK and it took a minimum of 2 people to get an MVP up in a day Team: Gordon Ng , Malini R. , Eric Lin , Anthony Lamelas , Harrison Muchnic Key Features: - Facial Recognition API: Accepts image uploads or URLs and returns the closest matching mugshot from our database. - Jina AI CLIP Embeddings: Utilizes the Jina AI CLIP model for robust image embedding generation. - pgvector Similarity Search: Employs Postgres with pgvector for efficient and accurate similarity searches. - Dockerized Deployment: Easy deployment via Docker and Docker Compose. Built at the NYC Visual AI Hackathon hosted by Voxel51 and MongoDB. We had a fantastic time learning and collaborating with other ML enthusiasts. This project allowed us to explore the potential of Visual AI for real-world applications. Check out our project: - GitHub Repo (Backend): https://lnkd.in/et7_Htbg - GitHub Repo (Frontend): https://lnkd.in/epE6xKjR - Presentation Slides: https://lnkd.in/eTrYHAVD - Demo Site: https://facecrime.io/ #visualai #hackathon #machinelearning #facialrecognition #fastapi #jinaai #pgvector #docker #mongodb #voxel51 #python ...more ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQETHN_nLqZQ8A/feedshare-image-high-res/B4EZYQyLdyHgAs-/0/1744038312343?e=2147483647&v=beta&t=mg4febiHhrcago7IjbR_FIL6Y1hFWOQMQwo05BIDnIg",
+        "id": "7315026873250381825"
+      },
+      {
+        "interaction": "Anthony Lamelas commented on a post 5mo",
+        "link": "https://www.linkedin.com/posts/wgsnider_i-am-excited-to-announce-that-i-have-accepted-activity-7437225662534365184-b-Dh",
+        "title": "Stud",
+        "img": null,
+        "id": "7437225662534365184"
+      },
+      {
+        "interaction": "Anthony Lamelas liked this",
+        "link": "https://www.linkedin.com/posts/pranit-gandhi_google-internship-nyc-activity-7492737256953217024-PmOc",
+        "title": "Closing out my internship at Google . What. a. journey. I\u2019m proud to have: 1. SHIPPED AI agents that eliminate dead tests from Google\u2019s production codebase, improving long-term maintainability. 2. INTEGRATED our agents into larger multi-agent orchestrations within Google. 3. TRANSFORMED a monolithic test-cleanup LLM tool into a production-grade agent harness (>2\u00d7 baseline pass rate), featuring 3 in-context learning (ICL) variants, each equipped with its own playbooks (agent skills) and runtime tools. 4. MASTERED end-to-end agent evaluation, spanning test data sourcing, trajectory analysis, and validation through deterministic scripts and flexible LLM-as-a-judge. Most importantly, I\u2019m incredibly thankful to my hosts, Sergei Shmulyian and Tsige Solomon , for their support and guidance throughout the internship. I owe so much of what I was able to accomplish in these 12 weeks to their phenomenal mentorship. #Google #Internship #NYC",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQFIJTXJSqMxog/feedshare-shrink_800/B4EZ_uM0O5KMAc-/0/1786407766279?e=2147483647&v=beta&t=3l3S4du-_HF-4Fz0lKvloiyDGiFbB4ML6a7gGxh9W20",
+        "id": "7492737256953217024"
+      },
+      {
+        "interaction": "Anthony Lamelas liked this",
+        "link": "https://www.linkedin.com/posts/colleenkelsey_looking-for-egta-alumni-eg-is-putting-activity-7490897016726876160-HWGk",
+        "title": "LOOKING FOR: EGTA Alumni!! \ud83c\udf93 EG is putting together this year's General Engineering Peer Mentor Career Development Series for EGPMs (formally EGTAs). We invite alumni and industry professionals to chat with our current Peer Mentors about their career journeys, what they do, advice for students, and any internship or early-career opportunities their companies may have. Any previous EGTAs (or someone from your company) interested in joining us for a session this fall, ideally sometime in October or November, please reach out to me! It's a relaxed 45\u201360 minute conversations with companies and organizations, and our students always love hearing from alumni who were in their shoes not too long ago. We are also in the works of planning an alumni network event and potentially a reunion-type event. No pressure at all, but if you think you or your company would be interested, definitely email me. Hope to hear from you! For other alumni involvement opportunities: https://lnkd.in/gBvuPuvZ",
+        "img": null,
+        "id": "7490897016726876160"
+      },
+      {
+        "interaction": "Anthony Lamelas liked this",
+        "link": "https://www.linkedin.com/posts/rhenao_ardurraintern-teamardurra-civilengineering-activity-7490761031913385984-Cwzl",
+        "title": "A day in the life of a civil engineering intern visiting the I-395 / Signature Bridge project with Ardurra \u2019s Miami Roadway team. Grateful for the chance to see the scale, coordination, and construction behind a project like this up close. #ArdurraIntern #TeamArdurra #CivilEngineering #Intern #DayInTheLife",
+        "img": "https://dms.licdn.com/playlist/vid/v2/D4E05AQFD-NQAobrxDw/thumbnail-shrink_720_1280/B4EZ_OUReNKsAo-/0/1785872862923?e=2147483647&v=beta&t=iMkAFjtDGa4DrAM0hf2NV0GPVepfVKstXNJOkBkaVzQ",
+        "id": "7490761031913385984"
+      },
+      {
+        "interaction": "Anthony Lamelas liked this",
+        "link": "https://www.linkedin.com/posts/arda-dinc_investment-banking-analysts-should-not-be-activity-7490515973205073920-M7dW",
+        "title": "Investment Banking Analysts should not be manually tracing PowerPoint tables back to Excel at 2 a.m. So at Provenance , we fixed this. Click it. See the source workbook, worksheet, and exact range. Open the model at the source. What used to take analysts and associates hours now takes seconds, thanks to Provenance .",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQHvlXBwWeABqg/feedshare-shrink_800/B56Z_OolW7HYAc-/0/1785878174325?e=2147483647&v=beta&t=xxz5xCVLKCJtK-V4uHTUFNSxD_C_ZFN5KEe45R-05E8",
+        "id": "7490515973205073920"
+      },
+      {
+        "interaction": "Anthony Lamelas liked this",
+        "link": "https://www.linkedin.com/posts/sophielamelas0415_artificialintelligence-innovation-activity-7490495687638405120-qwA2",
+        "title": "I am proud to share that my team won the 2026 Pension Outsourcing Internship AI Challenge at WTW ! This challenge helped me to think creatively about how AI can enhance compliance reviews and business processes. It was a great experience to collaborate with talented coworkers, experiment with innovative solutions, and see the meaningful impact that was produced. I am grateful for this opportunity and excited to continue learning about the evolving role of AI in corporate America. #ArtificialIntelligence #Innovation # WTW",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQEMfkaemJUzSA/feedshare-shrink_800/B4EZ_OWIqeIQAc-/0/1785873337359?e=2147483647&v=beta&t=jywM86tJoyhxPsRwJ6Lnpw7bLXy1jXecHs7abrJz9FA",
+        "id": "7490495687638405120"
+      },
+      {
+        "interaction": "Anthony Lamelas liked this",
+        "link": "https://www.linkedin.com/posts/joseph-gabriel-gonzalez_as-my-discovery-ii-internship-at-deloitte-activity-7488949134696009729-uKEb",
+        "title": "As my Discovery II internship at Deloitte comes to a close, I want to take a moment to reflect on how grateful I am for this experience and everyone who helped make it so meaningful. Over the course of this internship, I had the opportunity to work with multiple public-company clients, supporting audit and reporting readiness work in preparation for filings. I supported the transition of documentation and reporting schedules, performed analytical procedures, and conducted audit testing across multiple areas. I also assisted in evaluating the materiality implications of a potential debt covenant breach, which provided valuable exposure to technical audit considerations and informed judgment in a dynamic, deadline-driven environment. This experience strengthened my technical skills, attention to detail, and ability to contribute across multiple engagements while balancing quality and deadlines. Most importantly, it deepened my appreciation for the collaboration and mentorship that make Deloitte such a special place to learn and grow. Thank you to Daniel Rodriguez , for being a great onboarding advisor, and to Brannon Watson, CPA , for your support and insight. Thank you as well to Anissa Ferrer for making the internship run smoothly and helping create such a meaningful experience. I\u2019m truly grateful for this opportunity and excited to carry these lessons forward into what\u2019s next.",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQGxdJ4nhfdAkA/feedshare-shrink_800/B56Z.znzNxKEAc-/0/1785424984565?e=2147483647&v=beta&t=kZHlUmnJGcL9UkCJD6maDUbOw0jYFx8jdcz7CcppaM8",
+        "id": "7488949134696009729"
+      },
+      {
+        "interaction": "Anthony Lamelas liked this",
+        "link": "https://www.linkedin.com/posts/nyutandonschoolofengineering_nyutandonmade-activity-7487598199847817216-o6_r",
+        "title": "Professor of Department of Computer Science & Engineering at NYU Tandon Justin Cappos spoke with Hadas Gold of CNN about an OpenAI model that escaped its test environment and broke into a real company\u2019s servers when attempting to ace an internal cybersecurity evaluation last week: \"The problem,\" Cappos said, \"is that there\u2019s a global race to dominate AI and make models that can improve themselves. Regulations could slow things down. So there\u2019s a strong incentive for them to not have security controls unless their competitors also have those security and safety controls,\u201d Cappos continues. \u201cThis is this is the fundamental dilemma.\u201d #NYUTandonMade https://lnkd.in/e2ZG4Uxg",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQG79e3oi9Gcog/feedshare-shrink_800/B4EZ.lK4e7JQAc-/0/1785182522864?e=2147483647&v=beta&t=hzmpXVWzEt6lnr5Q46xpdjof2qIIozzoZ0MefDwqkwU",
+        "id": "7487598199847817216"
+      },
+      {
+        "interaction": "Anthony Lamelas liked this",
+        "link": "https://www.linkedin.com/posts/junjia-li-2a18332a9_detroit-wasnt-what-i-expected-it-wasn-activity-7486766837079392256-qCaw",
+        "title": "Detroit wasn\u2019t what I expected. It wasn\u2019t the city of decline that people often describe. From General Motors \u2019 modern Hudson headquarters in downtown Detroit to the peaceful lakes in Warren, this trip gave me a new perspective on both the city and the people driving the future of manufacturing. This week, I had the privilege of attending General Motors \u2019 2026 Manufacturing Intern Day\u2014and it also happened to be my very first business trip. Throughout the event, I had the opportunity to connect with fellow manufacturing interns from across North America, hear inspiring talks from General Motors \u2019 senior leadership, and gain valuable insights into the company\u2019s vision, strategy, and commitment to innovation. It was exciting to see how every manufacturing site contributes to a much larger mission. I\u2019m grateful for the opportunity to spend this summer as a Paint Controls/Process Engineering Intern at General Motors . Experiences like this remind me how much there is to learn, and I\u2019m looking forward to continuing to grow both technically and professionally. Thank you to everyone who organized such an incredible event!",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQEBwL7C3QTHDQ/feedshare-image-high-res/B56Z.ZWv.yLAAU-/0/1784984308525?e=2147483647&v=beta&t=kN9AIYk-OlNUsJScvRIYK23TSsLxi9zEQ5wAV27Of3s",
+        "id": "7486766837079392256"
+      }
+    ],
+    "linkedin_num_id": "1105200226",
+    "banner_image": "https://media.licdn.com/dms/image/v2/D4E16AQGyialEl6X-Pw/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1712613351569?e=2147483647&v=beta&t=z7mqyoF1KW14A87zqArb7ivfWzF-RwJKMfDaVikKR7g",
+    "honors_and_awards": null,
+    "similar_profiles": [],
+    "default_avatar": false,
+    "memorialized_account": false,
+    "bio_links": [
+      {
+        "title": "Other",
+        "link": "https://github.com/anthony-lamelas"
+      }
+    ],
+    "first_name": "Anthony",
+    "last_name": "Lamelas",
+    "influencer": false,
+    "timestamp": "2026-08-12T18:56:27.257Z",
+    "input": {
+      "url": "https://www.linkedin.com/in/anthonylamelas"
+    }
+  },
+  "local_photo": "data\\linkedin_photos\\anthonylamelas__usr-ndF6Wbln6WaTJfM.jpg"
+}

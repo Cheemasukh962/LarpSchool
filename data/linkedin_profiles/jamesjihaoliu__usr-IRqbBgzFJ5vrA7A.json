@@ -1,0 +1,92 @@
+{
+  "luma_user_id": "usr-IRqbBgzFJ5vrA7A",
+  "csv_name": "James Liu",
+  "csv_linkedin": "https://www.linkedin.com/in/jamesjihaoliu",
+  "enriched_at": "2026-08-12T19:07:22.290565+00:00",
+  "batch_id": "sd_msqgmjx4y9b9cgg4i",
+  "profile": {
+    "id": "jamesjihaoliu",
+    "name": "James Liu",
+    "city": "Scarsdale, New York, United States",
+    "country_code": "US",
+    "position": null,
+    "about": null,
+    "current_company": {
+      "link": "https://www.linkedin.com/company/openai?trk=public_profile_topcard-current-company",
+      "name": "OpenAI",
+      "company_id": "openai",
+      "location": null
+    },
+    "experience": null,
+    "url": "https://dk.linkedin.com/in/Jamesjihaoliu",
+    "educations_details": "Stanford University",
+    "education": null,
+    "avatar": "https://static.licdn.com/aero-v1/sc/h/9c8pery4andzj6ohjkjp54ma2",
+    "languages": [
+      {
+        "subtitle": "Native or bilingual proficiency",
+        "title": "Chinese"
+      },
+      {
+        "subtitle": "Native or bilingual proficiency",
+        "title": "English"
+      },
+      {
+        "subtitle": "Limited working proficiency",
+        "title": "Spanish"
+      }
+    ],
+    "volunteer_experience": [
+      {
+        "duration": "Apr 2024 \u00b7 - \nJun 2024 \u00b7 \n3 months",
+        "duration_short": "- \nJun 2024",
+        "info": "Rep. Daniel S. Goldman's Office",
+        "start_date": "Apr 2024",
+        "subtitle": "U.S. House of Representatives",
+        "title": "Congressional Intern"
+      },
+      {
+        "duration": "Jun 2023 \u00b7 - \nAug 2023 \u00b7 \n3 months",
+        "duration_short": "- \nAug 2023",
+        "info": "Studied with Craig Knox (Curtis Institute of Music) & toured the Dominican Republic",
+        "start_date": "Jun 2023",
+        "subtitle": "National Youth Orchestra of the United States of America (NYO-USA)",
+        "title": "NYO2"
+      },
+      {
+        "info": "Grammy winner",
+        "subtitle": "New York Youth Symphony",
+        "title": "NYYS"
+      }
+    ],
+    "followers": 2043,
+    "connections": 500,
+    "current_company_company_id": "openai",
+    "current_company_name": "OpenAI",
+    "publications": [
+      {
+        "title": "REAL: Benchmarking Autonomous Agents on Deterministic Simulations of Real Websites (NeurIPS 25)",
+        "date": "April 15, 2025",
+        "description": "Agent Benchmarking"
+      }
+    ],
+    "location": "Scarsdale",
+    "input_url": "https://www.linkedin.com/in/jamesjihaoliu",
+    "linkedin_id": "jamesjihaoliu",
+    "activity": null,
+    "linkedin_num_id": "916389883",
+    "banner_image": "https://static.licdn.com/aero-v1/sc/h/5q92mjc5c51bjlwaj3rs9aa82",
+    "honors_and_awards": null,
+    "similar_profiles": [],
+    "default_avatar": true,
+    "memorialized_account": false,
+    "bio_links": [],
+    "first_name": "James",
+    "last_name": "Liu",
+    "influencer": false,
+    "timestamp": "2026-08-12T19:06:16.845Z",
+    "input": {
+      "url": "https://www.linkedin.com/in/jamesjihaoliu"
+    }
+  }
+}

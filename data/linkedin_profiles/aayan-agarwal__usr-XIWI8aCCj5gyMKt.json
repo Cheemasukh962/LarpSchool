@@ -1,0 +1,434 @@
+{
+  "luma_user_id": "usr-XIWI8aCCj5gyMKt",
+  "csv_name": "Aayan Agarwal",
+  "csv_linkedin": "https://www.linkedin.com/in/aayan-agarwal",
+  "enriched_at": "2026-08-12T18:55:27.670105+00:00",
+  "batch_id": "sd_msqg7js7a7y0irwot",
+  "profile": {
+    "id": "aayan-agarwal",
+    "name": "Aayan Agarwal",
+    "city": "West Lafayette, Indiana, United States",
+    "country_code": "US",
+    "position": null,
+    "about": "Aayan is a senior at Purdue University majoring in CS and AI. He was a SWE intern at Meta\u2026",
+    "current_company": {
+      "link": "https://www.linkedin.com/company/meta?trk=public_profile_topcard-current-company",
+      "name": "Meta",
+      "company_id": "meta",
+      "location": null
+    },
+    "experience": null,
+    "url": "https://fr.linkedin.com/in/aayan-agarwal",
+    "people_also_viewed": [
+      {
+        "profile_link": "https://in.linkedin.com/in/pranit-upadhyay-31088937",
+        "name": "Pranit Upadhyay",
+        "about": "Amazon",
+        "location": "29K followers Bengaluru"
+      },
+      {
+        "profile_link": "https://www.linkedin.com/in/gurleen-kaur-luthra-a8b909b",
+        "name": "Gurleen Kaur Luthra",
+        "about": "RC4Vets LLC",
+        "location": "27K followers Fresno, CA"
+      },
+      {
+        "profile_link": "https://in.linkedin.com/in/sumit-pandey-96996740",
+        "name": "Sumit Pandey",
+        "about": "Netcracker Technology",
+        "location": "30K followers Delhi, India"
+      },
+      {
+        "profile_link": "https://www.linkedin.com/in/kritigoyal16",
+        "name": "Kriti Goyal",
+        "about": "Apple",
+        "location": "19K followers San Francisco Bay Area"
+      },
+      {
+        "profile_link": "https://in.linkedin.com/in/sangeeta-gupta-8907269",
+        "name": "Sangeeta Gupta",
+        "about": "2COMS Consulting Pvt. Ltd.",
+        "location": "28K followers Kolkata"
+      },
+      {
+        "profile_link": "https://in.linkedin.com/in/mehulkumar1",
+        "name": "Kumar Mehul",
+        "about": "ContactPoint 360",
+        "location": "22K followers Jaipur"
+      },
+      {
+        "profile_link": "https://in.linkedin.com/in/ritusmita-bordoloi-420856103",
+        "name": "Ritusmita Bordoloi",
+        "about": "Accenture",
+        "location": "6K followers Greater Bengaluru Area"
+      },
+      {
+        "profile_link": "https://in.linkedin.com/in/saurabhsing",
+        "name": "Saurabh Singh (He/Him/His/Ally)",
+        "about": "GSK",
+        "location": "29K followers Bengaluru"
+      },
+      {
+        "profile_link": "https://in.linkedin.com/in/pulkitchhabra6",
+        "name": "Pulkit Chhabra",
+        "about": "ElevenLabs",
+        "location": "21K followers Bengaluru"
+      }
+    ],
+    "educations_details": "Purdue University",
+    "education": [
+      {
+        "title": "Purdue University",
+        "url": "https://www.linkedin.com/school/purdue-university/",
+        "start_year": "2023-08",
+        "end_year": "2027-05",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      },
+      {
+        "start_year": "2009",
+        "end_year": "2023-05",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      }
+    ],
+    "avatar": "https://media.licdn.com/dms/image/v2/D5603AQG_iNXdeqTGWQ/profile-displayphoto-shrink_200_200/B56ZU6YiD.HsAY-/0/1740441266745?e=2147483647&v=beta&t=SlyRO32wpLOsAO-JPLEw-OL_W4LCZ7UIlC18wB4uuoo",
+    "languages": [
+      {
+        "subtitle": "Native or bilingual proficiency",
+        "title": "English"
+      },
+      {
+        "subtitle": "Native or bilingual proficiency",
+        "title": "Hindi"
+      },
+      {
+        "subtitle": "Limited working proficiency",
+        "title": "French"
+      }
+    ],
+    "certifications": [
+      {
+        "meta": "Issued Jun 2020 Credential ID 893b0fb19a0647c8b6bd034fdf012258 See credential",
+        "subtitle": "edX",
+        "title": "edX Verified Certificate for Lessons from Ebola: Preventing the Next Pandemic",
+        "credential_url": "https://courses.edx.org/certificates/893b0fb19a0647c8b6bd034fdf012258?trk=public_profile_see-credential",
+        "credential_id": "893b0fb19a0647c8b6bd034fdf012258"
+      },
+      {
+        "meta": "Issued Jan 2020",
+        "subtitle": "Cambridge Assessment English",
+        "title": "First Certificate in English",
+        "credential_url": null,
+        "credential_id": null
+      },
+      {
+        "subtitle": "Microsoft",
+        "title": "Microsoft Office Specialist: Master on Microsoft Office 2016",
+        "credential_url": null,
+        "credential_id": null
+      }
+    ],
+    "volunteer_experience": [
+      {
+        "cause": "Disaster and Humanitarian Relief",
+        "duration": "Jul 2021 \u00b7 - \nJul 2021 \u00b7 \n1 month",
+        "duration_short": "- \nJul 2021",
+        "info": "Taught coding to children to raise funds for COVID relief",
+        "start_date": "Jul 2021",
+        "subtitle": "Teach For India",
+        "title": "Student Teacher"
+      },
+      {
+        "cause": "Environment",
+        "duration": "Sep 2021 \u00b7 - Present \u00b7 \n\n5 years",
+        "duration_short": "- Present",
+        "info": "- Built a website for the organization - Raised awareness about the organization - Organized activities among young children - Managed social media page",
+        "start_date": "Sep 2021",
+        "subtitle": "Sahejana",
+        "title": "Head of Information Technology"
+      }
+    ],
+    "followers": 4799,
+    "connections": 500,
+    "current_company_company_id": "meta",
+    "current_company_name": "Meta",
+    "projects": [
+      {
+        "title": "Sphero Swarm",
+        "start_date": "Nov 2023",
+        "description": "Leading a team of 4 members to develop mobile app using Flutter for control an interactive exhibit using bluetooth at a local museum."
+      },
+      null,
+      null,
+      {
+        "title": "Drone Delivery",
+        "start_date": "Aug 2023",
+        "description": "Working within a team of 3 to develop dashboard for managing a drone delivery system including tracking drones real time and creating flight paths. Utilizing SolidJS, CesiumJS, Hasura, GraphQL."
+      },
+      null,
+      null,
+      {
+        "title": "Electricity Sustainability and Consumption Analysis",
+        "start_date": "Oct 2022",
+        "description": "A detailed analysis of the school's electricity usage and examination of monetary savings from the installation of solar panels, LED lights, and the conduction of electricity reduction campaigns. This was followed by an extensive report on further sustainability measures that can be implemented. Received certificate of merit from the President of India."
+      },
+      {
+        "title": "Tony Airways",
+        "start_date": "Oct 2022",
+        "description": "A mobile app for a dummy airline to find flights and book them, prebook wheelchair access, and generate boarding passes. Conferred 1st prize out of 20+ teams at CORE Creative."
+      },
+      {
+        "title": "Byld",
+        "start_date": "Aug 2022",
+        "description": "A web app and algorithm to recommend base templates for residential buildings in the metaverse. Recommends designs based on user preferences and responses. Awarded 1st prize out of 25+ teams at MINET Make."
+      },
+      {
+        "title": "Visarkh",
+        "start_date": "Aug 2022",
+        "description": "Designed a business that will outfit houses with energy efficeint and monitoring appliances. Developed an algorithm to optimize electricity usage and consumption based on costs and time of day."
+      },
+      null,
+      null,
+      null,
+      {
+        "title": "InTech Encryptid 2022",
+        "start_date": "Jun 2022",
+        "description": "Developed platform to host annual cryptic hunt. All data is fetched in real time from Notion DB. Implemented leaderboard and user authentication."
+      },
+      {
+        "title": "Metaworks",
+        "start_date": "Jan 2022",
+        "description": "Metaverse-inspired game that simulates a real-world office environment. Players complete tasks, can buy powerups and compete against their friends for prizes Awarded 1st prize out of 20+ teams at Ncrypt 2022."
+      },
+      null,
+      null,
+      null,
+      {
+        "title": "Rydo",
+        "start_date": "Oct 2021",
+        "description": "A web app where users can find car pool for daily or occasional purposes. Implemented group chat and leaderboard with rewards. Awarded 1st prize out of 15+ teams at Dexterity"
+      },
+      null,
+      {
+        "title": "CBSE 2.0",
+        "start_date": "Aug 2021",
+        "description": "Developed a web app for schools of the future. Has an online QA forum, AI enabled doubt answering, quiz and assignment submission, and more. Awarded 3rd prize out of 20+ teams at CORE Creative."
+      },
+      null,
+      null,
+      null,
+      null,
+      {
+        "title": "Smart Dashboard",
+        "start_date": "Aug 2021",
+        "description": "Developed a dummy dashbaord for cars. Has real time weather updates, navigation, music player, calendar and emergency calling. Uses: GCAL API, OpenWeather API, SpotifyAPI, Twilio API"
+      },
+      null,
+      null,
+      null,
+      null,
+      {
+        "title": "The Good Place",
+        "start_date": "May 2021",
+        "description": "A mobile app that helps users cope with mental health issues. Has a mood journal, recommends playlists based on mood, emergency notification, and a space for users to provide advice to others and to vent."
+      }
+    ],
+    "location": "West Lafayette",
+    "input_url": "https://www.linkedin.com/in/aayan-agarwal",
+    "linkedin_id": "aayan-agarwal",
+    "activity": [
+      {
+        "interaction": "Liked by Aayan Agarwal",
+        "link": "https://www.linkedin.com/posts/visheshkathuria28_meta-whatsapp-dataengineering-activity-7492986713582186496-eTVd",
+        "title": "Last week, I wrapped up my Data Engineering Internship at Meta\u2019s Menlo Park office! Working on WhatsApp made the experience even more special\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQGh4uPJ_23-aA/feedshare-shrink_800/B56Z_xvtvGJMAg-/0/1786467245428?e=2147483647&v=beta&t=EwCg4smdztqzmJlvd2SHzLjfWSza2AMBqQWHUaVagTs",
+        "id": "7492986713582186496"
+      },
+      {
+        "interaction": "Liked by Aayan Agarwal",
+        "link": "https://www.linkedin.com/posts/piyasaxena_google-softwareengineering-internship-activity-7492610786675261440-fvMC",
+        "title": "from @google.com back to @gmail.com I just wrapped up my Software Engineering internship at Google! \ud83d\udc7e Over the past few months, I had the\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQFJFMKXeAGKbg/feedshare-image-high-res/B56Z_irumWHYAU-/0/1786214543463?e=2147483647&v=beta&t=d9OODTPTp7LnRJwRe-E7pS3mITnRkEkr_qg4z3uBmQs",
+        "id": "7492610786675261440"
+      },
+      {
+        "interaction": "Liked by Aayan Agarwal",
+        "link": "https://www.linkedin.com/posts/samanthajeanneb_i-left-my-job-moved-across-the-country-to-activity-7492709700602384384-bELi",
+        "title": "I left my job, moved across the country to San Francisco, and started building Suzanne Here\u2019s the TL;DR of what I\u2019ve learned: \ud835\udfed. \ud835\uddec\ud835\uddfc\ud835\ude02 \ud835\uddfb\ud835\uddf2\ud835\uddf2\ud835\uddf1\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQE78ioy39bP9A/feedshare-shrink_800/B56Z_tzxFQKAAg-/0/1786401199052?e=2147483647&v=beta&t=ZK2MUemTvsAzJE6ZcA-d_jZd26V8KSmJ9ZM1hseVfCE",
+        "id": "7492709700602384384"
+      },
+      {
+        "interaction": "Liked by Aayan Agarwal",
+        "link": "https://www.linkedin.com/posts/hartmanmax_meta-metainterns-activity-7493001826548506625-j4PB",
+        "title": "Last week, I completed my internship at Meta working on Facebook Comment Ranking. I had the opportunity to work on training engagement models and\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQGX4vdyCRs6ZQ/feedshare-image-high-res/B56Z_x9c2LJkAY-/0/1786470847347?e=2147483647&v=beta&t=6sAnGR0qJtTIBBVoa2Gf9T4MnD4yb8a575X1Od92yk0",
+        "id": "7493001826548506625"
+      },
+      {
+        "interaction": "Liked by Aayan Agarwal",
+        "link": "https://www.linkedin.com/posts/deepansh-saxena_every-app-youve-ever-used-was-built-for-activity-7492969348622561280-i5Sb",
+        "title": "Every app you've ever used was built for the average user. That's why you have to learn it. At the T-Mobile hackathon, I prototyped the alternative:\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5605AQHOeQverQeBtw/videocover-high/B56Z_vJ7e6HYBM-/0/1786423786875?e=2147483647&v=beta&t=NOhdpOSpO0Vb4HPtER2m3ofipwENXUzabyR9SX0LfDA",
+        "id": "7492969348622561280"
+      },
+      {
+        "interaction": "Liked by Aayan Agarwal",
+        "link": "https://www.linkedin.com/posts/ruth-cotter-271b06_exciting-few-days-in-san-francisco-this-week-activity-7486147183684259840-CH6K",
+        "title": "Exciting few days in San Francisco this week, punctuated by Lisa Su\u2019s keynote AMD\u2019s Advancing AI event. I am delighted to share that AMD launched a\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQHSJOM3BeRrEw/feedshare-shrink_800/B56Z.QjK2XIUAg-/0/1784836566883?e=2147483647&v=beta&t=hkVzHG1Mzwn2t62a-dGCzgGFzr1Xo6i5R9_R__G97DM",
+        "id": "7486147183684259840"
+      },
+      {
+        "interaction": "Liked by Aayan Agarwal",
+        "link": "https://www.linkedin.com/posts/saiguvvala_excited-to-be-joining-openai-this-fall-as-activity-7492026136428843008-ESxk",
+        "title": "Excited to be joining OpenAI this fall as a Member of Technical Staff Intern. Looking forward to what\u2019s ahead :)",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQE07xX90cRAYg/feedshare-shrink_1280/B4EZ_kGEZoIkAQ-/0/1786238225406?e=2147483647&v=beta&t=Fyf9dVCl7EcCwarPq4DRPag28j0xbaXYG-JTwQp1c0g",
+        "id": "7492026136428843008"
+      },
+      {
+        "interaction": "Liked by Aayan Agarwal",
+        "link": "https://www.linkedin.com/posts/srikarkolla_what-started-as-a-summer-return-to-indiana-activity-7492079819552325632-baTz",
+        "title": "What started as a summer return to Indiana Farm Bureau Insurance is now becoming something more. I\u2019m excited to share that I\u2019ve been offered the\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQFviMy6eUVT-A/feedshare-shrink_800/B56Z_k25ILKEAc-/0/1786251023416?e=2147483647&v=beta&t=VicGtPkxxwS2JUOKowc0fg6TSV6ND6BiA-T7tc361bM",
+        "id": "7492079819552325632"
+      },
+      {
+        "interaction": "Liked by Aayan Agarwal",
+        "link": "https://www.linkedin.com/posts/aarushigarg346_i-just-wrapped-up-my-second-internship-at-activity-7491931515543719937-Ef-N",
+        "title": "I just wrapped up my second internship at Meta in Menlo Park! In the past summer I got to work on the WhatsApp Calling team. My project was\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQFSg6TFChySKQ/feedshare-shrink_800/B56Z_iwAiAH4Ac-/0/1786215663972?e=2147483647&v=beta&t=C-ThxQ9ylg2KmjEGtz2ujSJy1PMW4ATE2uX7T7p_r88",
+        "id": "7491931515543719937"
+      },
+      {
+        "interaction": "Liked by Aayan Agarwal",
+        "link": "https://www.linkedin.com/posts/raghvi-gupta-346966281_i-am-super-happy-to-share-that-i-have-completed-activity-7491874459411288064-E16s",
+        "title": "I am super happy to share that I have completed my Software Engineering Internship at Stripe. During my internship, I worked with the Financial\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4D22AQGBOmuG2CmWiw/feedshare-image-high-res/B4DZ_h8HhlI4AU-/0/1786202061478?e=2147483647&v=beta&t=acNZVJn_SI8TFAkVfeSuJPe_CqqJjwZZkB4ZywbkcT0",
+        "id": "7491874459411288064"
+      },
+      {
+        "interaction": "Liked by Aayan Agarwal",
+        "link": "https://www.linkedin.com/posts/tejasannap_the-past-3-months-have-been-a-dream-experience-activity-7491833108875427840-4aUb",
+        "title": "The past 3 months have been a dream experience to intern at the Federal Reserve Board in Washington D.C. and I've learned so much from my peers and\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQHFul3uJ6MHIw/feedshare-image-high-res/B4EZ_eyfwjJgAU-/0/1786149207800?e=2147483647&v=beta&t=33pfUyEBOF9E5-KJ-n08yLYE7fzFKfI5UffmZcWlS5s",
+        "id": "3"
+      },
+      {
+        "interaction": "Liked by Aayan Agarwal",
+        "link": "https://www.linkedin.com/posts/wiktoriapawlak_i-was-invited-to-the-y-combinator-startup-activity-7490604674887086081-tFqC",
+        "title": "I was invited to the Y Combinator Startup School! Last week at Startup School, I heard great talks from Jensen Huang, founder of NVIDIA, Sam Altman,\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQGZJY937_mzuQ/feedshare-image-high-res/B56Z_P5QTqHUAc-/0/1785899320873?e=2147483647&v=beta&t=utcRG8xaNywuaZITfE3OOIlp4okvxrxcH6wzQf1G8nU",
+        "id": "7490604674887086081"
+      },
+      {
+        "interaction": "Liked by Aayan Agarwal",
+        "link": "https://www.linkedin.com/posts/akshat1211_just-wrapped-up-an-amazing-10-weeks-at-commonwealth-activity-7491761693128224768-kurW",
+        "title": "Just wrapped up an amazing 10 weeks at Commonwealth Bank on a fraud detection partnership project and thrilled that our team took home the award for\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQE_v-4Kfct1aQ/feedshare-image-high-res/B56Z_gVjTyKAAU-/0/1786175174502?e=2147483647&v=beta&t=Lrt7Exg_8aZgp-PpcyFV7usc0SCYdgj05Vm8tkC-Nos",
+        "id": "10"
+      },
+      {
+        "interaction": "Liked by Aayan Agarwal",
+        "link": "https://www.linkedin.com/posts/vincent-owen-202a9821a_when-i-was-in-high-school-i-remember-reading-activity-7490819185741025281-WyeV",
+        "title": "When I was in high school, I remember reading Elon Musk by Ashlee Vance. It was probably the first time I seriously thought, \"Maybe I want to build\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQFu2N_VhAY-dg/feedshare-shrink_800/B56Z_S8W37JgAc-/0/1785950466003?e=2147483647&v=beta&t=aQnjWXCn0H_lKiT-6tShuVgreCW5cBJAsaTD_OpAyxw",
+        "id": "7490819185741025281"
+      },
+      {
+        "interaction": "Liked by Aayan Agarwal",
+        "link": "https://www.linkedin.com/posts/juliafedorin_tech-startups-machinelearning-activity-7483898423939727361-pFsS",
+        "title": "I bumped into Dhravya Shah at an event and immediately pulled out my camera. Two accidental acquisitions. Dropped out of high school. Dropped out of\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5605AQHyhinkDjspqw/videocover-high/B56Z9tFqWEIQBM-/0/1784241647504?e=2147483647&v=beta&t=U8okNMr0nYQ7UyuKAb4lGIxtFNRN7Kkmv4tTFey8VAw",
+        "id": "7483898423939727361"
+      },
+      {
+        "interaction": "Liked by Aayan Agarwal",
+        "link": "https://www.linkedin.com/posts/dhruv-agarwal-7aa492204_googleoperationscenter-projectmanagement-activity-7491379254245380096-LtEC",
+        "title": "On to the next chapter. I\u2019m excited to share that I\u2019ve joined Google Operations Center as a Project Management Apprentice. Building a career in\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQE6j7jPQrLhGA/feedshare-image-high-res/B56Z_a5vUAJ8Ac-/0/1786083997405?e=2147483647&v=beta&t=QtlJo5s-lHwoELezGVf-FqG3eCqt1KabfXzxy3xcugA",
+        "id": "7491379254245380096"
+      },
+      {
+        "interaction": "Liked by Aayan Agarwal",
+        "link": "https://www.linkedin.com/posts/danmcc_meta-networkengineering-lifeatmeta-activity-7491656641143283712-k3_U",
+        "title": "This summer, I had the incredible opportunity to join Meta as a Network Production Engineer Intern! Over the past 12 weeks, I worked on automating\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQGLknqmRprPnQ/feedshare-image-high-res/B56Z_e2AwpH4AY-/0/1786150129988?e=2147483647&v=beta&t=X54K4u2ZHnjWvBmM4SQTp-f9sBH-Pl6j2my2A69Yf-c",
+        "id": "7491656641143283712"
+      }
+    ],
+    "linkedin_num_id": "852284758",
+    "banner_image": "https://media.licdn.com/dms/image/v2/D5616AQFyxd3bfy7OmA/profile-displaybackgroundimage-shrink_200_800/B56ZVK1N_eGUAU-/0/1740717221507?e=2147483647&v=beta&t=Xt4TncbCsRV_9PqHlOgQdtMXgh0mR5DFj1btzfGvkIU",
+    "honors_and_awards": [
+      {
+        "title": "Dean's List and Semester Honors",
+        "publication": "Purdue University",
+        "date": "2024-05-01T00:00:00.000Z",
+        "description": null
+      },
+      {
+        "title": "Chairperson's Appreciation Award",
+        "publication": "Chairperson of Amity Group of Schools",
+        "date": "2023-01-01T00:00:00.000Z",
+        "description": "Issued to a graduating senior for outstanding achievements and extraordinary contributions to the school"
+      },
+      {
+        "title": "Certificate of Merit by President of India",
+        "publication": "President of India under NECA",
+        "date": "2022-12-01T00:00:00.000Z",
+        "description": "Worked on an Electricity Sustainability and Consumption project involving data collection, analysis, and report writing that got awarded a certificate of merit by the President of India."
+      },
+      {
+        "title": "AP Scholar with Distinction",
+        "publication": "Collegeboad",
+        "date": "2022-07-01T00:00:00.000Z",
+        "description": "Issued by The CollegeBoard to students who receive a score of 3 or more on 3 or more Advanced Placement Examinations"
+      },
+      {
+        "title": "Regional Finalist",
+        "publication": "Uber",
+        "date": "2022-07-01T00:00:00.000Z",
+        "description": "Qualified for Regional Finals in Uber Global Hackathon"
+      },
+      {
+        "title": "USG Technical Affairs",
+        "publication": "Amity International School, Sector-46, Gurugram",
+        "date": "2022-07-01T00:00:00.000Z",
+        "description": null
+      },
+      {
+        "title": "National Semifinalst",
+        "publication": "MahaBehes",
+        "date": "2021-06-01T00:00:00.000Z",
+        "description": "Led team to national finals of MahaBehes'21 with 500+ participants"
+      },
+      {
+        "title": "National Finalist",
+        "publication": "Toyata Hackathon",
+        "date": "2020-01-01T00:00:00.000Z",
+        "description": "Qualified for National Finals in road safety hackathon at IIT-D"
+      },
+      {
+        "title": "Meritorious Academic Performer",
+        "publication": "High School",
+        "date": "2019-04-01T00:00:00.000Z",
+        "description": "Awarded meritorious academic performer award for 4 continuous years for being in Top 5 of class and highest scoring in different subjects"
+      }
+    ],
+    "similar_profiles": [],
+    "default_avatar": false,
+    "memorialized_account": false,
+    "bio_links": [],
+    "first_name": "Aayan",
+    "last_name": "Agarwal",
+    "influencer": false,
+    "timestamp": "2026-08-12T18:54:34.434Z",
+    "input": {
+      "url": "https://www.linkedin.com/in/aayan-agarwal"
+    }
+  },
+  "local_photo": "data\\linkedin_photos\\aayan-agarwal__usr-XIWI8aCCj5gyMKt.jpg"
+}

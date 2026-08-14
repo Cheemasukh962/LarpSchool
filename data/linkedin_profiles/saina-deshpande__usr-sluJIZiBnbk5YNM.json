@@ -1,0 +1,258 @@
+{
+  "luma_user_id": "usr-sluJIZiBnbk5YNM",
+  "csv_name": "Saina Deshpande",
+  "csv_linkedin": "https://www.linkedin.com/in/saina-deshpande",
+  "enriched_at": "2026-08-12T19:16:49.710833+00:00",
+  "batch_id": "sd_msqgxyk1xj7v4ip1",
+  "profile": {
+    "id": "saina-deshpande",
+    "name": "Saina Deshpande",
+    "city": "Cambridge, Massachusetts, United States",
+    "country_code": "US",
+    "position": null,
+    "about": "I\u2019m a Computer Science and Engineering student at MIT with a minor in Mathematics\u2026",
+    "current_company": {
+      "link": "https://www.linkedin.com/company/neuramill?trk=public_profile_topcard-current-company",
+      "name": "Neuramill",
+      "company_id": "neuramill",
+      "location": null
+    },
+    "experience": null,
+    "url": "https://tr.linkedin.com/in/Saina-deshpande",
+    "educations_details": "Massachusetts Institute of Technology",
+    "education": [
+      {
+        "title": "Massachusetts Institute of Technology",
+        "url": "https://www.linkedin.com/school/mit/",
+        "start_year": "2023",
+        "end_year": "2027",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      },
+      {
+        "start_year": "2019-06",
+        "end_year": "2023-04",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      }
+    ],
+    "avatar": "https://media.licdn.com/dms/image/v2/D4D03AQHMEVV7Jxw1kA/profile-displayphoto-shrink_200_200/B4DZdlDF5oHkAY-/0/1749747000115?e=2147483647&v=beta&t=n-LlonjuFttEN0vw5ejMIdZM7Zmvv9C56MGlQH9TOoM",
+    "courses": [
+      {
+        "subtitle": "6.1910",
+        "title": "Computation Structures"
+      },
+      {
+        "subtitle": "18.03",
+        "title": "Differential Equations"
+      },
+      {
+        "subtitle": "6.1200",
+        "title": "Discrete Math for Computer Science"
+      },
+      {
+        "subtitle": "6.1010",
+        "title": "Fundamentals of Programming"
+      },
+      {
+        "subtitle": "6.1210",
+        "title": "Introduction to Algorithms"
+      },
+      {
+        "subtitle": "6.1903",
+        "title": "Introduction to C and Assembly"
+      },
+      {
+        "subtitle": "6.3900",
+        "title": "Introduction to Machine Learning"
+      },
+      {
+        "subtitle": "18.06",
+        "title": "Linear Algebra"
+      },
+      {
+        "subtitle": "6.1020",
+        "title": "Software Construction"
+      }
+    ],
+    "languages": [
+      {
+        "subtitle": "Native or bilingual proficiency",
+        "title": "English"
+      },
+      {
+        "subtitle": "Elementary proficiency",
+        "title": "Spanish"
+      },
+      {
+        "subtitle": "Elementary proficiency",
+        "title": "French"
+      },
+      {
+        "subtitle": "Full professional proficiency",
+        "title": "Hindi"
+      },
+      {
+        "subtitle": "Native or bilingual proficiency",
+        "title": "Marathi"
+      }
+    ],
+    "followers": 584,
+    "connections": 500,
+    "current_company_company_id": "neuramill",
+    "current_company_name": "Neuramill",
+    "publications": [
+      {
+        "title": "How Can Machine Learning Determine Whether a Women's Tennis Player Will Make it to Top 100?",
+        "subtitle": "Journal of Student Research",
+        "date": "May 31, 2022",
+        "description": "Applied Na\u00efve Bayes and GaussianNB models to predict Top 100 WTA players with 0.67 accuracy. Analyzed impact of height, age, and nationality on player success using Pearson correlation. Collected and processed historical data via web scraping from official tennis ranking sites. Published in Journal of Student Research, Vol. 11 No. 2 (2022): https://doi.org/10.47611/jsrhs.v11i2.2847"
+      }
+    ],
+    "projects": [
+      {
+        "title": "Protocol-Based Strategy Game Engine (Star Battle)",
+        "start_date": "May 2025",
+        "description": "Developed full-stack architecture for a real-time multiplayer Star Battle game using Node.js. Designed a custom message grammar and parsing system for efficient client-server communication. Implemented modular ADTs and conducted regression testing to ensure adherence to SFB, ETU, and RFC design principles. Built an interactive frontend interface that communicates seamlessly with the game engine."
+      },
+      {
+        "title": "Real-Time Multiplayer Game Backend (Memory Scramble)",
+        "start_date": "Apr 2025",
+        "description": "Built the backend for a real-time multiplayer memory game using Node.js, enabling simultaneous card flips and live player interactions. Ensured asynchronous, thread-safe gameplay using non-blocking I/O and event-driven architecture. Handled shared game state synchronization across connected clients with low-latency updates. Performed black-box, regression, and manual testing to ensure robustness and correctness under race conditions."
+      },
+      {
+        "title": "Single Cycle Processor",
+        "start_date": "Oct 2024",
+        "description": "Designed and implemented a single-cycle RISC-V processor using Bluespec SystemVerilog. Built an optimized Arithmetic Logic Unit (ALU) and instruction decoder for accurate execution. Successfully simulated and validated complete RISC-V instruction sets. Integrated all modules into a cohesive processor pipeline supporting multiple instruction types."
+      },
+      {
+        "title": "LISP Interpreter",
+        "start_date": "May 2024",
+        "description": "Built a complete Scheme interpreter in Python with a functional REPL interface. Implemented memory management using custom stack and heap structures. Achieved high performance on large recursive programs through efficient parsing and evaluation. Supported advanced LISP features such as first-class functions, closures, and conditionals."
+      },
+      {
+        "title": "Custom SAT Solver for CNF Optimization",
+        "start_date": "Apr 2024",
+        "description": "Designed and implemented a Boolean satisfiability (SAT) solver using recursive backtracking with unit propagation to efficiently handle CNF formulas. Developed a constraint-based scheduling system by encoding quiz-room allocation as a SAT problem with room capacity and preference constraints. Optimized solver logic to reduce search space and improve runtime on large problem instances."
+      },
+      {
+        "title": "HyperMinesweeper \u2013 N-Dimensional Minesweeper Engine",
+        "start_date": "Mar 2024",
+        "description": "Implemented a scalable N-dimensional Minesweeper game engine in Python, extending traditional 2D gameplay to arbitrary dimensions. Designed recursive algorithms for neighbor detection, board generation, and flood-fill digging across N-dimensional arrays. Developed dynamic rendering and game state management for both 2D and N-dimensional boards with victory/defeat logic."
+      }
+    ],
+    "organizations": [
+      {
+        "title": "MIT Computer Science and Artificial Intelligence Laboratory",
+        "membership_type": "Undergraduate Researcher",
+        "start_date": "Jun 2024",
+        "end_date": "Present",
+        "membership_number": null
+      },
+      {
+        "title": "Sports Technology Club, MIT",
+        "membership_type": "Member",
+        "start_date": "Mar 2024",
+        "end_date": "Present",
+        "membership_number": null
+      }
+    ],
+    "location": "Cambridge",
+    "input_url": "https://www.linkedin.com/in/saina-deshpande",
+    "linkedin_id": "saina-deshpande",
+    "activity": [
+      {
+        "interaction": "Saina Deshpande shared this",
+        "link": "https://www.linkedin.com/posts/saina-deshpande_thrilled-to-be-working-on-ai-for-high-precision-activity-7477541455960358913-qSX0",
+        "title": "Thrilled to be working on AI for high-precision manufacturing problems at Neuramill this summer! Looking forward to learning from the team and building tools that make expert machining knowledge easier to use. Thanks to Nistha Mitra , Nick Khormaei , Chaitanya Yeole , and the rest of the team for being so welcoming and making it easy to get excited about what we\u2019re building. ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQHSutxOz7spIw/feedshare-shrink_800/B56Z7_s5vOGsAc-/0/1782406423227?e=2147483647&v=beta&t=mM0dx1MMCXrV8u5xcFF_HZ7pWm2UFNhGYVpfcPv6whI",
+        "id": "7477541455960358913"
+      },
+      {
+        "interaction": "Saina Deshpande shared this",
+        "link": "https://www.linkedin.com/posts/saina-deshpande_machinelearning-crunchdao-researchinternship-activity-7341534740463718403-oDso",
+        "title": "Thrilled to be joining CrunchDAO this summer! Excited to contribute to impactful projects and learn from such a brilliant team. Special thanks to Peter Cotton , Philipp Wassibauer , Saroj Mahapatra , Jean Herelle , and Manisha Khadanga for making the process so smooth! #MachineLearning #CrunchDAO #ResearchInternship ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQEGaQQM2WEM4w/feedshare-shrink_800/B56ZeDuZX.H8Ak-/0/1750261668266?e=2147483647&v=beta&t=MFsbE_Zs7TS1qdqUcrbJrC1uUjepoQ7R_u7O9iOkpkc",
+        "id": "7341534740463718403"
+      },
+      {
+        "interaction": "Saina Deshpande reacted on this",
+        "link": "https://www.linkedin.com/posts/nmitra28_neuramill-was-selected-for-the-seattle-tech-activity-7490099707822907392-gyFr",
+        "title": "Neuramill was selected for the Seattle Tech Week Showcase, and I realized one of the biggest challenges of pitching a software-first deep tech company. It was convincing people that a software-first company can be solving one of the hardest deep-tech problems. We\u2019ve become so good at building software for the digital world that we\u2019re almost wired to assume software is a solved category. Deep tech, on the other hand, makes people think of rockets, robots, satellites, or new materials. But one of the hardest unsolved problems is that software doesn\u2019t naturally understand the physical world. And yet those rockets, robots, drones, and factories all rely on software to interact with it. A machinist can hear a cut, see a tool vibrate, recognize a setup, and instantly know what should happen next. A computer or a machine can\u2019t. Someone has to translate decades of physical intuition into something machines can reason about. In manufacturing, that bridge has traditionally been experienced machinists and programmers. Many of them are retiring. Our job is to build the software bridge that captures that knowledge so the next generation can go from a 3D design to an executable process with far less friction and ultimately build the physical things our world depends on, faster. One lesson the technical side of my brain keeps relearning when pitching is that : \u201c$30 trillion physical market\u201d might be the fact but start with what your audience already experiences and cares about. The aircrafts. The rockets. The robots. The autonomous drones. The machines that feel like they\u2019re straight out of Tony Stark\u2019s workshop, Transformers, or WALL\u00b7E. That\u2019s the future people imagine. Then show them the invisible software that makes that future possible. Sometimes the hardest part of building deep tech is painting a simple dotted line to your well researched, data driven vision. It\u2019s helping people see that the most transformative technology that will change their lives is often the least noticed one. Thank you to J.P. Morgan and team for organizing such a fun showcase.",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQGEfw880v2gHw/feedshare-shrink_800/B56Z_It_OkKYAg-/0/1785778927355?e=2147483647&v=beta&t=AVP_neHM1SQ4N3QvhamsgDGuW7NjG8qvKSmwPRSp_-c",
+        "id": "7490099707822907392"
+      },
+      {
+        "interaction": "Saina Deshpande liked this",
+        "link": "https://www.linkedin.com/posts/neuramill_factories-are-getting-smarter-but-in-10-activity-7487911115264458753-Sjd4",
+        "title": "Factories are getting smarter. But in 10 years, where's the long pole in the tent? That was the conversation at Movers & Makers in San Francisco last week. Over 60 people showed up, from local manufacturers to teams across the supply chain building in space, eVTOLs, and everywhere in between. Our CEO Nistha Mitra joined Adi Prasad from Matter , Simba J. from Laborup , and Prutha Atre from Silicon Foundry to talk through the role people play as manufacturing changes. Factory floors, exotic materials, the software tying it together. Shoutout to Will Drewery and the Diagon team for building a community where conversations like this happen.",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQFHts0qRL-viQ/feedshare-shrink_800/B56Z.pneiDIoAc-/0/1785257127168?e=2147483647&v=beta&t=-nQZVNtXhP7KMPy-1I72cAP1hU34WTlxNHH7eLftPaw",
+        "id": "10"
+      },
+      {
+        "interaction": "Saina Deshpande liked this",
+        "link": "https://www.linkedin.com/posts/nmitra28_a-machine-shops-solution-to-a-million-dollar-activity-7480655699291594752-VnlA",
+        "title": "A machine shop\u2019s solution to a million dollar problem: egg cartons. Egg cartons have been used in manufacturing since the mid 20th century. Today, they protect high tolerance parts from collisions, friction, and the smallest defects during transport. Sometimes the most elegant engineering solution isn't engineered at all. To me, egg cartons represent something larger. They are a reminder that the best solutions often come from unexpected places. That progress happens when ideas, and people, from different worlds collide. Sometimes the thing that looks completely out of place is exactly what's needed. The way I experience manufacturing is dynamic, multidimensional, and yet somehow incredibly precise and still. I was drawn to data science, and eventually machine learning and AI, because I was fascinated by the idea of taking millions of signals, letting them interact, and uncovering patterns hidden inside the chaos. Analyzing, predicting, and understanding the world through complexity. Now, I feel the exact same part of my brain light up in a machine shop. There is a quiet choreography between a dozen pieces of metal: the workpiece, the fixture, the cutting tool, the stock, the vise. Every interaction is intentional. The tool must engage the workpiece, but never the fixture. The sound matters. The clean pitch, the chatter that tells you something is wrong. Every operation is planned, yet a thousandth of an inch can change the entire outcome. Delicate parts with impossibly thin walls, held to tolerances measured in thousandths, are gently placed into egg cartons before beginning their journey into a $16 trillion industry. A world that doesn't just run on 0s and 1s, but on atoms and bits, where physical reality demands the same unconventional thinking that vectors once demanded from me in multidimensional space.",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQH-yPfnkJ7zbw/feedshare-shrink_800/B56Z9CM91CIoAc-/0/1783522124649?e=2147483647&v=beta&t=GOXxOEjyzxvEOz2E7zKFIqpY3VL5Gk7vHIxwizrVDK0",
+        "id": "7480655699291594752"
+      },
+      {
+        "interaction": "Saina Deshpande liked this",
+        "link": "https://www.linkedin.com/posts/neuramill_we-won-the-last-250-years-we-invented-activity-7479926635828232192-1Oq3",
+        "title": "We won the last 250 years. We invented, built, and learnt. Manufacturing is the foundation of this country. We must continue to invent, build, and preserve the hard-won knowledge. Neuramill is building the intelligence layer for American manufacturing to win the next 250. \ud83c\uddfa\ud83c\uddf8",
+        "img": "https://dms.licdn.com/playlist/vid/v2/D5605AQE2YtIlBOCVyA/thumbnail-shrink_720_1280/B56Z84Jk3WIMAg-/0/1783353465770?e=2147483647&v=beta&t=Tcro_F0h319CVWqcf_xgJnMIaXFuv-Vk6jnN_cjCNqA",
+        "id": "250"
+      },
+      {
+        "interaction": "Saina Deshpande liked this",
+        "link": "https://www.linkedin.com/posts/neuramill_please-welcome-saina-deshpande-to-neuramill-activity-7475954396128882688-KvFb",
+        "title": "Please welcome Saina Deshpande to Neuramill as a Software Engineering Intern, joining us from Massachusetts Institute of Technology ! At Neuramill , we're building physical AI for high-precision manufacturing, turning engineering intent into manufacturable decisions. Excited to have Saina on the team. What excites you about manufacturing and AI? \"What excites me is that manufacturing still depends on a huge amount of tribal knowledge, which is the kind of judgment experienced machinists build over years and that is hard to capture in a clean software interface. I think it\u2019s really exciting to consolidate that knowledge into systems that can make good decisions, reduce repetitive setup work, and save machinists from spending so much time on labor-intensive parameter tuning.\" Why Neuramill? \"Neuramill stood out because the work felt very concrete: using AI to make something technically difficult and traditionally expert-driven much easier to use. I also liked that the team seemed to care about both the engineering details and the actual user workflow, which made the product feel practical rather than like an AI demo layered on top of manufacturing. I also really enjoyed talking to Nistha, Nick, and Chaitanya\u2014 they are very close to the actual product/user problems, which made the team feel like a place where I could learn quickly and contribute meaningfully.\" Likes: debugging weird edge cases / clean data visualizations / playing tennis / escape rooms Dislikes: non-DRY code / generic AI hype without a real use case / messy desks / long winters Give Saina a warm welcome! Interested in joining us? Link in the comments \ud83d\udc47",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQHSutxOz7spIw/feedshare-shrink_800/B56Z7_s5vOGsAc-/0/1782406423227?e=2147483647&v=beta&t=mM0dx1MMCXrV8u5xcFF_HZ7pWm2UFNhGYVpfcPv6whI",
+        "id": "7475954396128882688"
+      },
+      {
+        "interaction": "Saina Deshpande liked this",
+        "link": "https://www.linkedin.com/posts/nick-khormaei_america-will-build-more-last-week-at-reindustrialize-activity-7474861276968460289-Lk-3",
+        "title": "America will build more. Last week at Reindustrialize in Detroit was electric. GM and Lockheed announced a partnership on stage. Lockheed\u2019s COO said it best: a THAAD interceptor and a Corvette have more in common than you\u2019d think. Precision manufacturing, broad supply chains, built at rate. We have a ways to go, but the right people are starting to work together. CC: \ud83e\uddd7 Nick , Mack , Nolan , George , Esther , Michal , Jack",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQH7sIXbp8wxOA/feedshare-image-high-res/B56Z7wCp9tIMAU-/0/1782143689146?e=2147483647&v=beta&t=Qv6fs1etoiA6BoKKiSk8A89z8GrtSbgvHbtneegVuKQ",
+        "id": "7474861276968460289"
+      },
+      {
+        "interaction": "Saina Deshpande liked this",
+        "link": "https://www.linkedin.com/posts/nmitra28_detroit-taught-america-how-to-build-not-activity-7473755223908429824-CNND",
+        "title": "Detroit taught America how to build. Not because it had the best ideas. Because it learned how to turn ideas into production. The most valuable thing I took away from Reindustrialize wasn\u2019t a panel or a presentation. It was the people. Founders building factories. Operators scaling production. Investors thinking in decades instead of quarters. America doesn\u2019t have a shortage of innovation. It has a shortage of manufacturing knowledge, capacity, and people willing to dedicate their careers to rebuilding it. Fortunately, I met a lot of those people this week. Detroit. Reindustrialize 2026. \ud83c\uddfa\ud83c\uddf8",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQEpTRGLD9wgVg/feedshare-shrink_800/B56Z7eIw8zHIAc-/0/1781843303527?e=2147483647&v=beta&t=25Hbb0b8nyMm_Cf0vsVS6GfxhwUnuSWcZfZ3u9czNqk",
+        "id": "7473755223908429824"
+      },
+      {
+        "interaction": "Saina Deshpande liked this",
+        "link": "https://www.linkedin.com/posts/nmitra28_next-week-nick-and-i-will-be-joining-many-activity-7471226079861682177-R5Op",
+        "title": "Next week, Nick and I will be joining many of the builders, operators, investors, and manufacturers working towards THE goal in Detroit on June 16\u201317. I\u2019ll be in Michigan the entire week visiting machine shops and manufacturers. If you\u2019re working on manufacturing, industrial technology, aerospace, defense, robotics, supply chains, or simply care about rebuilding America\u2019s industrial base, I\u2019d love to connect. Coffee, factory tour, dinner, or a quick conversation, send me a message. Always looking to compare notes on what it will take to make American manufacturing 10x better. (And if you want to talk about Cadillac\u2019s F1 team \ud83c\uddfa\ud83c\uddf8 , I have plenty of opinions.)",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQGZRprYdji9yA/feedshare-shrink_800/B56Z68OxJhGoAg-/0/1781274448757?e=2147483647&v=beta&t=WKA3B2tYRaHkLUrPYoxNvoFzV77FVeYdvdLLGxJCPc8",
+        "id": "7471226079861682177"
+      }
+    ],
+    "linkedin_num_id": "1171405597",
+    "banner_image": "https://static.licdn.com/aero-v1/sc/h/5q92mjc5c51bjlwaj3rs9aa82",
+    "honors_and_awards": null,
+    "similar_profiles": [],
+    "default_avatar": false,
+    "memorialized_account": false,
+    "bio_links": [
+      {
+        "title": "Portfolio",
+        "link": "https://github.com/desh-saina"
+      }
+    ],
+    "first_name": "Saina",
+    "last_name": "Deshpande",
+    "influencer": false,
+    "timestamp": "2026-08-12T19:15:05.889Z",
+    "input": {
+      "url": "https://www.linkedin.com/in/saina-deshpande"
+    }
+  },
+  "local_photo": "data\\linkedin_photos\\saina-deshpande__usr-sluJIZiBnbk5YNM.jpg"
+}

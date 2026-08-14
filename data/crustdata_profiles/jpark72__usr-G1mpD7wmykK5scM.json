@@ -1,0 +1,362 @@
+{
+  "source": "crustdata",
+  "recovered_from": "brightdata_failed_private",
+  "luma_user_id": "usr-G1mpD7wmykK5scM",
+  "csv_name": "Jun Park",
+  "csv_linkedin": "https://www.linkedin.com/in/jpark72",
+  "clean_linkedin": "https://www.linkedin.com/in/jpark72",
+  "enriched_at": "2026-08-14T18:07:59.937250+00:00",
+  "person_data": {
+    "basic_profile": {
+      "current_title": "CEO",
+      "first_name": null,
+      "headline": "ceo @ hillclimb",
+      "languages": [],
+      "last_name": null,
+      "location": {
+        "city": "",
+        "continent": "North America",
+        "country": "United States",
+        "full_location": null,
+        "raw": "United States",
+        "state": ""
+      },
+      "name": "Jun P.",
+      "normalized_title": {
+        "confident": true,
+        "department": "Executive Leadership",
+        "matched_title": "Ceo",
+        "similarity": 0.9955999851226807,
+        "sub_department": "Executive & C-Suite Leadership"
+      },
+      "professional_network_name": "Jun P.",
+      "profile_picture_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/person/5382ede3139df0a5519423c4deac0a09ca0d0f2d3941766ca2c0bdb06e7da8e8.jpg",
+      "summary": "Founder @ hillclimb\nFormerly Research Engineer @ DeepMind, Amazon Robotics\nBefore tech, I competed professionally in the esports title \u201cVALORANT\u201d."
+    },
+    "education": {
+      "schools": [
+        {
+          "activities_and_societies": "",
+          "degree": "",
+          "description": "",
+          "end_year": null,
+          "field_of_study": "",
+          "institute_logo_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/company/ffc79d4f941e91a64e8d12932e0e9e40ea9c42b6c4d2914f5c3b368e1bd1f335.jpg",
+          "institute_logo_url": "https://media.licdn.com/dms/image/v2/D4E0BAQEjwNIQUY4HRA/company-logo_400_400/B4EZz4dmK8J4AY-/0/1773695034421/walton_comprehensive_high_school_logo?e=1787184000&v=beta&t=D8E_8YO_FBIMVkX7CCSs28BYyMFAJIbvMgPg9wpQvJI",
+          "location": {
+            "city": "Marietta",
+            "continent": "North America",
+            "country": "United States",
+            "raw": "Marietta, Georgia, United States",
+            "state": "Georgia"
+          },
+          "professional_network_id": "103398084",
+          "school": "Walton High School",
+          "start_year": null
+        },
+        {
+          "activities_and_societies": "",
+          "degree": "Partner: Garry Tan",
+          "description": "",
+          "end_year": null,
+          "field_of_study": "",
+          "institute_logo_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/company/059f7e6072baf1189ebb67b9fec287348cc541df9931bf3d36c06f9bb5019e96.jpg",
+          "institute_logo_url": "https://media.licdn.com/dms/image/v2/C4D0BAQGPzdBPNxrmEg/company-logo_400_400/company-logo_400_400/0/1673555093250/y_combinator_logo?e=1787184000&v=beta&t=giGpsbcZw1p-epN6lekHUjt4L-uUwTyc6u1s6egXNHk",
+          "location": {
+            "city": "",
+            "continent": "North America",
+            "country": "United States",
+            "raw": "United States",
+            "state": ""
+          },
+          "professional_network_id": "167872",
+          "school": "Y Combinator",
+          "start_year": null
+        },
+        {
+          "activities_and_societies": "",
+          "degree": "",
+          "description": "",
+          "end_year": null,
+          "field_of_study": "Computer Science",
+          "institute_logo_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/company/046ccfdeb8e2b1c321950f03b46369d40e9119b9e1bbbdfa2f1ef931820f7dc5.jpg",
+          "institute_logo_url": "https://media.licdn.com/dms/image/v2/D4E0BAQFgQNnDJI5zRQ/company-logo_400_400/B4EZ9mNsbEHwAU-/0/1784126293906/georgia_institute_of_technology_logo?e=1787184000&v=beta&t=ePRVdO4jdz-dnz-Zn5by7FWyuRvwZa_j4BXsTYE0WrU",
+          "location": {
+            "city": "Atlanta",
+            "continent": "North America",
+            "country": "United States",
+            "raw": "Atlanta, Georgia, United States",
+            "state": "Georgia"
+          },
+          "professional_network_id": "3558",
+          "school": "Georgia Institute of Technology",
+          "start_year": null
+        }
+      ]
+    },
+    "experience": {
+      "employment_details": {
+        "current": [
+          {
+            "company_description": "We improve AI's ability to improve itself.",
+            "company_professional_network_profile_url": "https://linkedin.com/company/108573304",
+            "company_profile_picture_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/company/32b156cd129d2e560c80a32fa50f5fb1acc86495e881e955249d7ebd38e8644c.jpg",
+            "company_website_domain": "hillclimb.com",
+            "crustdata_company_id": 13225664,
+            "description": "Recursive Self-Improvement",
+            "employment_type": "",
+            "end_date": null,
+            "function_category": "",
+            "is_default": true,
+            "location": {
+              "raw": "San Francisco, California, United States"
+            },
+            "name": "hillclimb",
+            "position_id": 2725627779,
+            "professional_network_id": "108573304",
+            "seniority_level": "CXO",
+            "start_date": "2025-08-01T00:00:00+00:00",
+            "title": "CEO",
+            "years_at_company": "1 to 2 years",
+            "years_at_company_raw": 1.0
+          }
+        ],
+        "past": [
+          {
+            "company_description": "We\u2019re a team of scientists, engineers, machine learning experts and more, working together to advance the state of the art in artificial intelligence. We use our technologies for widespread public benefit and scientific discovery, and collaborate with others on critical challenges, ensuring safety and ethics are the highest priority.Our long term aim is to solve intelligence, developing more general and capable problem-solving systems, known as artificial general intelligence (AGI). Guided by safety and ethics, this invention could help society find answers to some of the world\u2019s most pressing and fundamental scientific challenges. We have a track record of breakthroughs in fundamental AI research, published in journals like Nature, Science, and more.Our programs have learned to diagnose eye diseases as effectively as the world\u2019s top doctors, to save 30% of the energy used to keep data centres cool, and to predict the complex 3D shapes of proteins - which could one day transform how drugs are invented.",
+            "company_professional_network_profile_url": "https://linkedin.com/company/1594050",
+            "company_profile_picture_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/company/0d1f89d00ae7df26df4c2cccb9fb58fc6295797d6c2b94abdc05355608b9250f.jpg",
+            "company_website_domain": "deepmind.google",
+            "crustdata_company_id": 1034291,
+            "description": "Continual Learning",
+            "employment_type": "",
+            "end_date": "2025-08-01T00:00:00+00:00",
+            "function_category": "Engineering",
+            "is_default": false,
+            "location": {
+              "raw": "New York, United States"
+            },
+            "name": "Google DeepMind",
+            "position_id": 2650689157,
+            "professional_network_id": "1594050",
+            "seniority_level": "Entry Level",
+            "start_date": "2025-06-01T00:00:00+00:00",
+            "title": "Research Engineer",
+            "years_at_company": "Less than 1 year",
+            "years_at_company_raw": 0.0
+          },
+          {
+            "company_description": "",
+            "company_professional_network_profile_url": "https://linkedin.com/company/1586",
+            "company_profile_picture_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/company/50c0868b767f02f1f5ed3285bbd5b6db93df0ef3c6f00194dba9ed7e337b8f33.jpg",
+            "company_website_domain": "aboutamazon.com",
+            "crustdata_company_id": 6034577,
+            "description": "Evals",
+            "employment_type": "",
+            "end_date": "2025-06-01T00:00:00+00:00",
+            "function_category": "Engineering",
+            "is_default": false,
+            "location": {
+              "raw": "Boston, Massachusetts, United States"
+            },
+            "name": "Amazon",
+            "position_id": 2435705040,
+            "professional_network_id": "1586",
+            "seniority_level": "Entry Level",
+            "start_date": "2024-07-01T00:00:00+00:00",
+            "title": "Research Engineer",
+            "years_at_company": "Less than 1 year",
+            "years_at_company_raw": 0.0
+          },
+          {
+            "company_description": "Georgia Tech\u2019s Financial Services Innovation Lab is located in the heart of the Technology Square Innovation ecosystem. The FinTech lab aims to be a hub for finance education, research and industry in the Southeast. The lab acts as a platform to connect and bring together faculty and students across Georgia Tech with the financial services industry and FinTech entrepreneurs.",
+            "company_professional_network_profile_url": "https://linkedin.com/company/68940543",
+            "company_profile_picture_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/company/3acb42c418139b2a6c3df759e34f93b0692b21f93b38c5004f0561c54f2127d2.jpg",
+            "company_website_domain": "gatech.edu",
+            "crustdata_company_id": 6191063,
+            "description": "Pretraining",
+            "employment_type": "",
+            "end_date": "2024-07-01T00:00:00+00:00",
+            "function_category": "Research",
+            "is_default": false,
+            "location": {
+              "raw": "Atlanta, Georgia, United States"
+            },
+            "name": "Georgia Tech Financial Services Innovation Lab",
+            "position_id": 2399270665,
+            "professional_network_id": "68940543",
+            "seniority_level": "Entry Level",
+            "start_date": "2024-05-01T00:00:00+00:00",
+            "title": "Machine Learning Researcher",
+            "years_at_company": "Less than 1 year",
+            "years_at_company_raw": 0.0
+          },
+          {
+            "company_description": "Misfits Gaming Group (Misfits) is an interactive entertainment company that exists to elevate play through the crafting of superior-quality, exceptionally fun experiences that leap off the screen to connect and engage people in safe, fun communities. We do this through our interactive experiences, content, and live events. Our purpose is to spark joy and connection through the magic of play.",
+            "company_professional_network_profile_url": "https://linkedin.com/company/18397548",
+            "company_profile_picture_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/company/2c76c2c36fada008a7f891b9f5c331fdc93b7461ade8119fbf81a9e75404d2f6.jpg",
+            "company_website_domain": "misfitsgaming.gg",
+            "crustdata_company_id": 638820,
+            "description": "Professional VALORANT",
+            "employment_type": "",
+            "end_date": "2023-08-01T00:00:00+00:00",
+            "function_category": "",
+            "is_default": false,
+            "location": {
+              "raw": "Boca Raton, Florida, United States"
+            },
+            "name": "Misfits Gaming Group",
+            "position_id": 2034052352,
+            "professional_network_id": "18397548",
+            "seniority_level": "Director",
+            "start_date": "2023-05-01T00:00:00+00:00",
+            "title": "Head Coach",
+            "years_at_company": "Less than 1 year",
+            "years_at_company_raw": 0.0
+          },
+          {
+            "company_description": "Georgia Tech Esports oversees all gaming and esports organizations on Georgia Tech's campus. Boasting membership in the thousands and dozens of titles supported, GT Esports is continuing to blaze the trail in the Collegiate Gaming space. Our organization has a rich history extending decades into the past, with alumni founding some of the largest gaming and entertainment conventions in the world.",
+            "company_professional_network_profile_url": "https://linkedin.com/company/100791946",
+            "company_profile_picture_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/company/7aa3f4ee4819ac75845f15a9095e3539ccf07e9f3950fb32ce9adc3b40f03776.jpg",
+            "company_website_domain": "campuslabs.com",
+            "crustdata_company_id": 5353932,
+            "description": "Collegiate Esports",
+            "employment_type": "",
+            "end_date": "2023-05-01T00:00:00+00:00",
+            "function_category": "",
+            "is_default": false,
+            "location": {
+              "raw": "Atlanta, Georgia, United States"
+            },
+            "name": "Georgia Tech Esports",
+            "position_id": 2366233361,
+            "professional_network_id": "100791946",
+            "seniority_level": "Owner / Partner",
+            "start_date": "2020-08-01T00:00:00+00:00",
+            "title": "Co-Founder",
+            "years_at_company": "3 to 5 years",
+            "years_at_company_raw": 2.0
+          },
+          {
+            "company_description": "Cox Automotive is the world\u2019s largest automotive services and technology provider. Fueled by the largest breadth of first- and third-party data fed by 2.3 billion online interactions a year, Cox Automotive tailors leading solutions for car shoppers, auto manufacturers, dealers, lenders and fleets. The company has 29,000+ employees on four continents and a portfolio of industry-leading brands that include Autotrader\u00ae, Kelley Blue Book\u00ae, Manheim\u00ae, vAuto\u00ae, Dealertrack\u00ae, NextGear CapitalTM, CentralDispatch\u00ae and Cox Fleet\u00ae. Cox Automotive is a subsidiary of Cox Enterprises Inc., a privately owned, Atlanta-based company with $23 billion in annual revenue. Cox Automotive has been included on Glassdoor\u2019s Best Companies in Tech & AI 2026 and Best Place to Work in 2026 lists.",
+            "company_professional_network_profile_url": "https://linkedin.com/company/3997420",
+            "company_profile_picture_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/company/b11f8ba11b92960710f1be574bfe49288fd4aae140b7f290e8f27923b9637675.jpg",
+            "company_website_domain": "coxautoinc.com",
+            "crustdata_company_id": 808281,
+            "description": "Frontend",
+            "employment_type": "",
+            "end_date": "2022-08-01T00:00:00+00:00",
+            "function_category": "Engineering",
+            "is_default": false,
+            "location": {
+              "raw": "Atlanta, Georgia, United States"
+            },
+            "name": "Cox Automotive Inc.",
+            "position_id": 2034045423,
+            "professional_network_id": "3997420",
+            "seniority_level": "Entry Level",
+            "start_date": "2022-05-01T00:00:00+00:00",
+            "title": "Software Engineer",
+            "years_at_company": "Less than 1 year",
+            "years_at_company_raw": 0.0
+          },
+          {
+            "company_description": "Misfits Gaming Group (Misfits) is an interactive entertainment company that exists to elevate play through the crafting of superior-quality, exceptionally fun experiences that leap off the screen to connect and engage people in safe, fun communities. We do this through our interactive experiences, content, and live events. Our purpose is to spark joy and connection through the magic of play.",
+            "company_professional_network_profile_url": "https://linkedin.com/company/18397548",
+            "company_profile_picture_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/company/2c76c2c36fada008a7f891b9f5c331fdc93b7461ade8119fbf81a9e75404d2f6.jpg",
+            "company_website_domain": "misfitsgaming.gg",
+            "crustdata_company_id": 638820,
+            "description": "Professional Esports",
+            "employment_type": "",
+            "end_date": "2022-05-01T00:00:00+00:00",
+            "function_category": "",
+            "is_default": false,
+            "location": {
+              "raw": "Boca Raton, Florida, United States"
+            },
+            "name": "Misfits Gaming Group",
+            "position_id": 2412833537,
+            "professional_network_id": "18397548",
+            "seniority_level": "Entry Level",
+            "start_date": "2022-01-01T00:00:00+00:00",
+            "title": "Assistant Coach",
+            "years_at_company": "Less than 1 year",
+            "years_at_company_raw": 0.0
+          }
+        ]
+      }
+    },
+    "professional_network": {
+      "connections": 745,
+      "current_title": "CEO",
+      "followers": 928,
+      "headline": "ceo @ hillclimb",
+      "location": {
+        "city": "",
+        "continent": "North America",
+        "country": "United States",
+        "raw": "United States",
+        "state": ""
+      },
+      "metadata": {
+        "last_scraped_source": null
+      },
+      "name": "Jun P.",
+      "profile_picture_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/person/5382ede3139df0a5519423c4deac0a09ca0d0f2d3941766ca2c0bdb06e7da8e8.jpg",
+      "pronoun": "He/Him",
+      "summary": "Founder @ hillclimb\nFormerly Research Engineer @ DeepMind, Amazon Robotics\nBefore tech, I competed professionally in the esports title \u201cVALORANT\u201d."
+    },
+    "skills": {
+      "professional_network_skills": [
+        "Transformer Models",
+        "Data Mining",
+        "Large Language Models (LLM)",
+        "Leadership Development",
+        "Teaching",
+        "Growth Strategies",
+        "Machine Learning",
+        "Data Structures",
+        "Object-Oriented Programming (OOP)",
+        "Coaching",
+        "Firebase",
+        "UI/UX",
+        "Web Development",
+        "Team Leadership",
+        "Sports Management",
+        "Performance Analysis",
+        "Flutter",
+        "Software Development Life Cycle (SDLC)",
+        "Refactoring",
+        "Unit Testing",
+        "Leadership",
+        "Communication",
+        "Problem Solving",
+        "Project Management",
+        "Strategy",
+        "Java",
+        "Teamwork",
+        "C++",
+        "C (Programming Language)",
+        "Python (Programming Language)",
+        "Dart",
+        "SQL",
+        "LaTeX",
+        "Docker",
+        "Git",
+        "VEGAS Pro"
+      ]
+    },
+    "social_handles": {
+      "dev_platform_identifier": {
+        "profile_url": null
+      },
+      "professional_network_identifier": {
+        "profile_url": "https://www.linkedin.com/in/jpark72"
+      },
+      "twitter_identifier": {
+        "slug": ""
+      }
+    },
+    "crustdata_person_id": 12280759
+  }
+}

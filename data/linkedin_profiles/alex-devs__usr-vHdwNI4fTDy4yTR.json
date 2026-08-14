@@ -1,0 +1,65 @@
+{
+  "luma_user_id": "usr-vHdwNI4fTDy4yTR",
+  "csv_name": "Alex Shen",
+  "csv_linkedin": "https://www.linkedin.com/in/alex-devs",
+  "enriched_at": "2026-08-12T18:56:33.253871+00:00",
+  "batch_id": "sd_msqg8yml2ia5na9bcp",
+  "profile": {
+    "id": "alex-devs",
+    "name": "Alexander S.",
+    "city": "San Francisco, California, United States",
+    "country_code": "US",
+    "position": null,
+    "about": "Hi! I'm Alex. I'm a Builder, Hacker, and Engineer. I am now a Founding Software Engineer\u2026",
+    "current_company": {
+      "link": "https://www.linkedin.com/company/stealth-startup-community?trk=public_profile_topcard-current-company",
+      "name": "Stealth Startup",
+      "company_id": "stealth-startup-community",
+      "location": null
+    },
+    "experience": null,
+    "url": "https://kw.linkedin.com/in/alex-devs",
+    "educations_details": "The University of British Columbia",
+    "education": [
+      {
+        "title": "The University of British Columbia",
+        "url": "https://ca.linkedin.com/school/universityofbc/",
+        "start_year": "2024-09",
+        "end_year": "2026-05",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      },
+      {
+        "start_year": "2022-09",
+        "end_year": "2024-06",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      }
+    ],
+    "avatar": "https://static.licdn.com/aero-v1/sc/h/9c8pery4andzj6ohjkjp54ma2",
+    "followers": 537,
+    "connections": 500,
+    "current_company_company_id": "stealth-startup-community",
+    "current_company_name": "Stealth Startup",
+    "location": "San Francisco",
+    "input_url": "https://www.linkedin.com/in/alex-devs",
+    "linkedin_id": "alex-devs",
+    "activity": null,
+    "linkedin_num_id": "1045075517",
+    "banner_image": "https://media.licdn.com/dms/image/v2/D5616AQECbwwSSxJVyQ/profile-displaybackgroundimage-shrink_200_800/B56ZqkpjcwJwAU-/0/1763698948175?e=2147483647&v=beta&t=LgTB1_rT1eL5q0qNNkq5KtF4Z2hLqYMO8-HxygsP9kQ",
+    "honors_and_awards": null,
+    "similar_profiles": [],
+    "default_avatar": true,
+    "memorialized_account": false,
+    "bio_links": [],
+    "first_name": "Alexander",
+    "last_name": "S.",
+    "influencer": false,
+    "timestamp": "2026-08-12T18:55:35.298Z",
+    "input": {
+      "url": "https://www.linkedin.com/in/alex-devs"
+    }
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "luma_user_id": "usr-k5CxdWMBbu8BZF9",
+  "csv_name": "Paul Cherian",
+  "csv_linkedin": "https://www.linkedin.com/in/paul-cherian-164956311",
+  "enriched_at": "2026-08-12T19:14:53.863675+00:00",
+  "batch_id": "sd_msqgwa7g10oeo6g7qx",
+  "profile": {
+    "id": "paul-cherian-164956311",
+    "name": "Paul Cherian",
+    "city": "Palo Alto, California, United States",
+    "country_code": "US",
+    "position": null,
+    "about": null,
+    "current_company": {
+      "link": "https://www.linkedin.com/company/databricks?trk=public_profile_topcard-current-company",
+      "name": "Databricks",
+      "company_id": "databricks",
+      "location": null
+    },
+    "experience": null,
+    "url": "https://ch.linkedin.com/in/paul-cherian-164956311",
+    "educations_details": "Dartmouth College",
+    "education": [
+      {
+        "title": "Dartmouth College",
+        "url": "https://www.linkedin.com/school/dartmouth-college/",
+        "start_year": "2023",
+        "end_year": "2027",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      }
+    ],
+    "avatar": "https://media.licdn.com/dms/image/v2/D5603AQEit1o-hTbi-g/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1728063784944?e=2147483647&v=beta&t=mw85iifPJHQJU-KQDi96MtyBbGoiwEktx5giUjl3AN0",
+    "volunteer_experience": [
+      {
+        "duration": "Aug 2022 \u00b7 - \nJun 2023 \u00b7 \n11 months",
+        "duration_short": "- \nJun 2023",
+        "start_date": "Aug 2022",
+        "subtitle": "Palo Alto Youth Council",
+        "title": "Vice President"
+      }
+    ],
+    "followers": 955,
+    "connections": 500,
+    "current_company_company_id": "databricks",
+    "current_company_name": "Databricks",
+    "location": "Palo Alto",
+    "input_url": "https://www.linkedin.com/in/paul-cherian-164956311",
+    "linkedin_id": "paul-cherian-164956311",
+    "activity": null,
+    "linkedin_num_id": "1331116636",
+    "banner_image": "https://static.licdn.com/aero-v1/sc/h/5q92mjc5c51bjlwaj3rs9aa82",
+    "honors_and_awards": null,
+    "similar_profiles": [],
+    "default_avatar": false,
+    "memorialized_account": false,
+    "bio_links": [],
+    "first_name": "Paul",
+    "last_name": "Cherian",
+    "influencer": false,
+    "timestamp": "2026-08-12T19:13:44.806Z",
+    "input": {
+      "url": "https://www.linkedin.com/in/paul-cherian-164956311"
+    }
+  },
+  "local_photo": "data\\linkedin_photos\\paul-cherian-164956311__usr-k5CxdWMBbu8BZF9.jpg"
+}

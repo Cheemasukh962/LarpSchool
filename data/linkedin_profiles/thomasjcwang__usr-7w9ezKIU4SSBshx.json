@@ -1,0 +1,101 @@
+{
+  "luma_user_id": "usr-7w9ezKIU4SSBshx",
+  "csv_name": "Thomas Wang",
+  "csv_linkedin": "https://www.linkedin.com/in/thomasjcwang",
+  "enriched_at": "2026-08-12T19:22:34.861616+00:00",
+  "batch_id": "sd_msqh2468i57o0acas",
+  "profile": {
+    "id": "thomasjcwang",
+    "name": "Thomas Wang",
+    "city": "San Francisco Bay Area",
+    "country_code": "US",
+    "position": null,
+    "about": "Expand our understanding of the universe &amp; build the tools to navigate\u2026",
+    "current_company": {
+      "link": "https://www.linkedin.com/company/fairplaylabs?trk=public_profile_topcard-current-company",
+      "name": "Fairplay",
+      "company_id": "fairplaylabs",
+      "location": null
+    },
+    "experience": null,
+    "url": "https://kw.linkedin.com/in/thomasjcwang",
+    "educations_details": "Stanford University",
+    "education": [
+      {
+        "start_year": "2022",
+        "end_year": "2026",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      }
+    ],
+    "avatar": "https://media.licdn.com/dms/image/v2/D4E03AQHIpHm8B_xteQ/profile-displayphoto-scale_200_200/B4EZviBMnmJAAc-/0/1769023523722?e=2147483647&v=beta&t=Q5Armg8prRanyepwpIKnieZnyg0hsn7Nc6m1SoifdHk",
+    "certifications": [
+      {
+        "subtitle": "DeepLearning.AI",
+        "title": "Machine Learning Specialization",
+        "credential_url": null,
+        "credential_id": null
+      },
+      {
+        "subtitle": "IBM",
+        "title": "Python for Data Science, AI & Development",
+        "credential_url": null,
+        "credential_id": null
+      }
+    ],
+    "followers": 1251,
+    "connections": 500,
+    "current_company_company_id": "fairplaylabs",
+    "current_company_name": "Fairplay",
+    "publications": [
+      {
+        "title": "High-Cadence Adaptive Photometric Reverberation Mapping to Resolve Compact Quasar Accretion Disks",
+        "subtitle": "American Astronomical Society (AAS) 247th Meeting",
+        "date": "January 8, 2026"
+      },
+      {
+        "title": "Thermoelectric Cloud Chamber for Radiation Detection",
+        "subtitle": "Autodesk Instructables",
+        "date": "January 2, 2025"
+      }
+    ],
+    "location": null,
+    "input_url": "https://www.linkedin.com/in/thomasjcwang",
+    "linkedin_id": "thomasjcwang",
+    "activity": null,
+    "linkedin_num_id": "1099892459",
+    "banner_image": "https://media.licdn.com/dms/image/v2/D4E16AQEaoTBO_diuqw/profile-displaybackgroundimage-shrink_200_800/B4EZydEMg.GgAU-/0/1772161649696?e=2147483647&v=beta&t=36uhqAErQA6IHCAKvOkr6KA0kdHFdB7Bw__qEQymmNk",
+    "honors_and_awards": [
+      {
+        "title": "International Science and Engineering Fair (ISEF) - 2nd Place Grand Award in Physics & Astronomy",
+        "publication": "Society for Science",
+        "date": "2025-05-01T00:00:00.000Z",
+        "description": null
+      },
+      {
+        "title": "Science Olympiad National Tournament (SONT) - 2x Medals in Physics Events",
+        "publication": "Science Olympiad Inc.",
+        "date": "2023-05-01T00:00:00.000Z",
+        "description": null
+      }
+    ],
+    "similar_profiles": [],
+    "default_avatar": false,
+    "memorialized_account": false,
+    "bio_links": [
+      {
+        "title": "Personal Website",
+        "link": "https://profiles.stanford.edu/thomas-jichen-wang"
+      }
+    ],
+    "first_name": "Thomas",
+    "last_name": "Wang",
+    "influencer": false,
+    "timestamp": "2026-08-12T19:18:17.858Z",
+    "input": {
+      "url": "https://www.linkedin.com/in/thomasjcwang"
+    }
+  },
+  "local_photo": "data\\linkedin_photos\\thomasjcwang__usr-7w9ezKIU4SSBshx.jpg"
+}

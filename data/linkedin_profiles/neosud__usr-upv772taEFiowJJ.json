@@ -1,0 +1,210 @@
+{
+  "luma_user_id": "usr-upv772taEFiowJJ",
+  "csv_name": "Neo",
+  "csv_linkedin": "https://www.linkedin.com/in/neosud",
+  "enriched_at": "2026-08-12T19:13:35.736315+00:00",
+  "batch_id": "sd_msqguuzo2o546dm49e",
+  "profile": {
+    "id": "neosud",
+    "name": "Neo Sud",
+    "city": "San Mateo, California, United States",
+    "country_code": "US",
+    "position": null,
+    "about": "Hey, I\u2019m Neo! Most recently, I graduated from UC Santa Cruz with a B.S in Computer\u2026",
+    "current_company": {
+      "link": "https://www.linkedin.com/company/illumio?trk=public_profile_topcard-current-company",
+      "name": "Illumio",
+      "company_id": "illumio",
+      "location": null
+    },
+    "experience": null,
+    "url": "https://www.linkedin.com/in/neosud",
+    "educations_details": "University of California, Santa Cruz",
+    "education": [
+      {
+        "title": "University of California, Santa Cruz",
+        "url": "https://www.linkedin.com/school/ucsc/",
+        "start_year": "2023-09",
+        "end_year": "2026-03",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      },
+      {
+        "start_year": "2019-08",
+        "end_year": "2023-05",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      }
+    ],
+    "recommendations_count": 1,
+    "avatar": "https://media.licdn.com/dms/image/v2/D4D03AQHf8QrKQYWUqg/profile-displayphoto-scale_200_200/B4DZ6vLC78HYAc-/0/1781055369995?e=2147483647&v=beta&t=W-YsKwLBlmotxMg5K_7UaWQ-qL1DhAsACCmD9YeYuZI",
+    "recommendations": [
+      "Marcos Sotomayor \u201cI had the pleasure of working with Neo Sud during his internship, and I can say without hesitation that he stood out from day one. What set Neo apart wasn't just his technical ability, it was his proactivity. Rather than waiting to be unblocked, he consistently sought out the guidance and context needed to keep his work moving forward, ensuring timely delivery without ever needing to be chased down. His standout contribution was an AI-native project he designed and built from the ground up. What impressed me most was his ability to identify meaningful gaps during the planning and design phases before they became costly problems. He translated that early thinking into a practical, well-executed solution, all while navigating the ambiguity that comes with real-world engineering challenges. The project delivered tangible value to the team and is a clear example of what happens when strong technical skills meet a genuine builder's mindset. I'm excited to see where Neo's career takes him. He will be a valuable asset to any team fortunate enough to have him.\u201d"
+    ],
+    "followers": 884,
+    "connections": 500,
+    "current_company_company_id": "illumio",
+    "current_company_name": "Illumio",
+    "projects": [
+      {
+        "title": "Vouch",
+        "start_date": "Feb 2026",
+        "description": "- Developed a peer-to-peer tool in Go for securely sharing environment variables over networks.- Implemented AES encryption and SPAKE handshakes to ensure the safe transfer of sensitive secrets.- Automated the release process by configuring GitHub Actions with goreleaser and npm-publish."
+      },
+      {
+        "title": "SudGPT",
+        "start_date": "Jan 2026",
+        "description": "- Built a digital persona app with a glassmorphic UI using Next.js 16, React 19, and Radix UI tools.- Fine-tuned gpt-5-nano on iMessage data to replicate professional style with OpenAI safety filtering.- Integrated ElevenLabs API for low-latency voice synthesis with custom-built audio player modules."
+      },
+      {
+        "title": "Yardbird",
+        "start_date": "Jun 2024",
+        "description": "- Developed natural language musician finder using RAG- Project done as a result of nights&weekends s5 with buildspace"
+      },
+      {
+        "title": "Soshal",
+        "start_date": "Jan 2024",
+        "description": "- Developed MVP for event management app based in Santa Cruz, CA- Utilized Flutterfire techstack for cross-platform app development- Project submitted as part of GDSC Solution Challenge 2024"
+      }
+    ],
+    "location": "San Mateo",
+    "input_url": "https://www.linkedin.com/in/neosud",
+    "linkedin_id": "neosud",
+    "activity": [
+      {
+        "interaction": "Neo Sud shared this",
+        "link": "https://www.linkedin.com/posts/neosud_onwards-activity-7493371922173349888-HM3g",
+        "title": "Seems like I just started at Illumio , and my internship is already coming to an end. \ud83e\udd72 I want to extend my gratitude to everyone on the VEN team ( Dandan Wang , Jaehong Park , Dan Cook , and many, many others), as well as Rachelle C. for coordinating such amazing events for us this summer. I had such a blast at my first fully in-person internship, and I would highly recommend anyone looking into working here to give it a shot. Everyone is so talented, kind, and you will learn so much. Also, shoutout to Aaron Nguyen for getting beat in FIFA too many times to count. You're a good kid with a bright future ahead of you. #Onwards \ud83d\ude80 ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQHoPujslYg9Nw/feedshare-image-high-res/B56Z_3ODYqHIAU-/0/1786559085497?e=2147483647&v=beta&t=HZVFlr7JAmVewkVtOrnAJY6qY-P7NNay6jH4PVt3iNg",
+        "id": "7493371922173349888"
+      },
+      {
+        "interaction": null,
+        "link": "https://www.linkedin.com/posts/illumio_its-officially-summertime-and-that-means-activity-7477879416736440320-nN5C",
+        "title": "It's officially summertime, and that means we're welcoming dozens of incredible summer interns to Illumio HQ! \u2600\ufe0f Across all company work centers\u2014from Sales to Engineering and everywhere in-between\u2014Illumio interns get the chance to forge lasting connections, build their resume with hands-on projects, and have fun while they're doing it! \ud83d\ude42 Thank you to our talented Illumineers responsible for our intern program: Pualani Olivares, Talent Partner, Rachelle Celeridad, Intern Program Coordinator, and Alyssa Zissen, People Operations Specialist. And shout out to our two amazing intern cohorts! We are so excited to see what you accomplish this summer. Aaliya Vasudevan, Legal Intern Aarav Baphna, Application Developer Intern Aaron Nguyen, Engineering Intern, Architecture Platform Andrew Madrigal, Technical Program Manager Intern Anika Edara, Product Design Intern Annette Wong Toi, People Ops Intern Barry Adera, Engineering Intern, Cloud Security, Analytics and Segmentation Bhargav Eranki, Engineering Intern, Architecture Platform Cole Wallace, Account Development Representative Intern Daniel McGee Marin, Technical Product Manager Intern Isabella Fichtenholtz, Partner Marketing Intern Iyesha Puri, Product Management Intern Jae Yoon Chong, Security Engineering Intern Kevin Posada, Sales Op Intern Lila Portis, Technical Content Intern Mark Athiri, Engineering Intern, Cloud Security, Analytics and Segmentation Neo Sud, Engineering Intern, AI Supportability Phuong Thy Nguyen, Corporate Communications Intern Pruthu Milind Raut, Product Security Intern Rydham Goyal, Technical Product Manager Intern Saee Bage, Account Development Representative Intern Shane Erbst, Account Development Representative Intern Sifat Sayal, Technical Program Manager Intern Thy Le, Community Marketing Intern Won Jun Cho, Engineering Intern, Kubernetes ...more ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D5610AQHB3YO73qhHxw/image-shrink_800/B56Z8bDsvjGsAk-/0/1782865382707?e=2147483647&v=beta&t=bR-6iVn1CObZf2ri1W_hvyOQfApPrlt93MZAQUre0Xk",
+        "id": "7477879416736440320"
+      },
+      {
+        "interaction": "Neo Sud shared this",
+        "link": "https://www.linkedin.com/posts/neosud_excited-to-announce-that-ive-begun-a-swe-activity-7447085754041794560-xc3-",
+        "title": "Excited to announce that I've begun a SWE internship at Boost Results! Grateful to Marcos Sotomayor for taking a chance on me, and to Sam Iannone for introducing me to this opportunity!",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQEGbql8rzxM1g/feedshare-image-high-res/B4EZ1j4PB_HYAU-/0/1775497179511?e=2147483647&v=beta&t=j1d8tmPdmlCI4gHguwc-V-T19S8F1Oynyo7gI80bL2M",
+        "id": "7447085754041794560"
+      },
+      {
+        "interaction": null,
+        "link": "https://www.linkedin.com/posts/baskinengineering_ai-baskinengineering-activity-7386840878000242688-B_nv",
+        "title": "Artificial intelligence ( #AI ) has shown remarkable abilities to reason, problem solve, and control machines\u2014but could tiny models of brain tissue grown in the lab do the same? Led by #BaskinEngineering Assistant Professor of Biomolecular Engineering Tal Sharf, a team of researchers at the UC Santa Cruz Genomics Institute , will explore this question with support from a $1.9 million National Science Foundation (NSF) grant. Their work will create an interactive system to test whether brain organoids can learn from experience, respond to feedback, and solve tasks in real time. \u201cThese organoid models provide an unprecedented opportunity to probe the emergence of human cognitive capacity \u2013 a property that defines what makes us human,\u201d said Sharf, who is a member of the Braingeneers group. This research could drive new biomedical discoveries and lead to better therapies for disease. Co-investigators include Distinguished Professor of Biomolecular Engineering David Haussler, Associate Professor of Electrical and Computer Engineering Mircea Teodorescu , and research scientist at the Genomics Institute Mohammed Mostajo-Radji , and Hank Greely, Stanford Law Professor and Director of the Center for Law and the Biosciences. Link in comments to read more\ud83d\udc47 [Image: Tal Sharf holds up a specialized chip for recording electrical activity in brain organoids.] ...more ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQGL13t1wQVq2Q/feedshare-shrink_800/B56ZoNUokyJwAk-/0/1761160104781?e=2147483647&v=beta&t=1EnsgM1JnglKd05vqgFYZTGuRRfX1bjNLmtfL8njtWE",
+        "id": "7386840878000242688"
+      },
+      {
+        "interaction": "Neo Sud shared this",
+        "link": "https://www.linkedin.com/posts/neosud_excited-to-announce-that-ive-begun-my-ml-activity-7340767637934653440-sJPU",
+        "title": "Excited to announce that I've begun my ML / Data Engineering internship at CrowdStrike for the summer! Looking forward to learning and growth in the industry. ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQHNThaLxhSvCg/feedshare-image-high-res/B56Zd.lQ5IGQAs-/0/1750175388587?e=2147483647&v=beta&t=qaOuI0ai_b02NeMIrMKBTSzJw-rqNHwIObC0xBLpe34",
+        "id": "7340767637934653440"
+      },
+      {
+        "interaction": null,
+        "link": "https://www.linkedin.com/posts/baskinengineering_baskinengineering-activity-7336818972962541569-Fqvb",
+        "title": "\ud83e\udd41 Introducing the 2025 #BaskinEngineering Dean's Award recipients! Each year, the Dean's Awards celebrate achievements in engineering research, honoring 10 distinguished undergraduate projects that demonstrate excellence and innovation in a range of fields, including biomedical research, machine learning, agricultural technology, and cybersecurity. \u201cThese are bold projects that exemplify the type of impactful and innovative work we want our undergraduates to take up during their studies as they prepare for an exciting career in engineering,\u201d said Baskin Engineering Dean Alexander Wolf . \u201cThey have the potential to spur major advances across a wide array of essential fields: from human health, to AgTech, and beyond.\u201d Congratulations to * Megna Chalamala , * Aurora Hofkin , * Naomi Rehman , Samintha Chandrasiri , Brian Khoi Nguyen , Tejas Polu , Neo Sud , Emil Wilson , Delia Gagnon , Kirsten Huynh , Michelle Lui, Sriya Katreddi , Prasiddh P. , Zahra Miranda , Eric David Vetha , Clare Reyes , Jacob Bautista , Emmet Benaryeh , Nivriti Bopparaju , Cesar Duarte , Joseph Garcia , Kendra Krueger , Brenda Lai , Aurko Mahesh, Vibitha Nandakumar, Monisha (Mona) Pillai , Marshall Sekula , Daniel Yankin , and Zaden Yet . *Denotes a student who also received a Chancellor's Award \ud83c\udfc6 Faculty mentors: Rebecca DuBois , Ali Shariati , Heiner Litz , David T. Lee , Ramakrishnan Sundara Raman , Razvan Valentin Marinescu , David Bernick , and Colleen Josephson . Read about the projects with the link in comments\ud83d\udc47 ...more ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQEP5VdhpD9SPw/feedshare-shrink_800/B56ZdGd90iGoAg-/0/1749233953266?e=2147483647&v=beta&t=Po9cvJMJLFl1YdmvqNanUw353diLr4b1V4UB8LQ_NBQ",
+        "id": "7336818972962541569"
+      },
+      {
+        "interaction": "Neo Sud shared this",
+        "link": "https://www.linkedin.com/posts/neosud_hung-out-at-buildspace-yesterday-shoutout-activity-7169973669958537216-kdvh",
+        "title": "hung out at buildspace yesterday shoutout to adam for not turning me away after driving 2 hrs from santa cruz at 6am and showing up unannounced lol exam day was dope y\u2019all are doing some cool stuff ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQHm2epp3Ck_hA/feedshare-image-high-res/feedshare-image-high-res/0/1709454932942?e=2147483647&v=beta&t=3OpbVerPZLDRNochHQ0FiONzOU5OV6FSOiX6BGlxtMg",
+        "id": "7169973669958537216"
+      },
+      {
+        "interaction": "Neo Sud commented on a post 2w",
+        "link": "https://www.linkedin.com/posts/y-combinator_online-poker-is-dead-regulated-sites-like-activity-7487536029168738307-YaYW",
+        "title": "Doesn't work in the US \ud83d\udc80",
+        "img": null,
+        "id": "7487536029168738307"
+      },
+      {
+        "interaction": "Neo Sud commented on a post 3w",
+        "link": "https://www.linkedin.com/posts/thomas-d-97221a327_fifa-linkedin-networking-activity-7483258865690759168-5gvt",
+        "title": "Everyone dogs on refs, but it's such a thankless job. You have to be: - Supremely fit - Extremely cool under pressure - Okay with millions (if not billions) scrutinizing every single decision you make - Constantly accused of cheating - Able to manage some of the largest egos on the planet. On top of this, you may have to work a second job because even if you ref the World Cup Final you'll make less in a year than a new grad software engineer. Yes, refs often make nonsensical decisions. But it shouldn't be hard to have some empathy for them.",
+        "img": null,
+        "id": "7483258865690759168"
+      },
+      {
+        "interaction": "Neo Sud liked this",
+        "link": "https://www.linkedin.com/posts/kartikeya-kumaria_resume-activity-7491580178427543552-v9fa",
+        "title": "Hi everyone, I'm currently looking for my next role as a Software Engineer or AI/ML Engineer. I'm open to full-stack, backend and applied AI positions, and open to remote or relocating. I graduated from UC Santa Cruz this year with a B.S. in Computer Science and have spent the last several months building things. Some of what I've worked on: 1. Shipped production features including autosave, advanced search and schema migrations on a healthcare case management platform, and integrated Gemini into FastAPI microservices to extract structured data from clinical PDFs 2. Built and launched a full-stack K-12 career platform used by real students and mentored 5+ developers along the way 3. Most recently built AI Nexus on my own, a four service microservices platform showcasing RAG, AI agents and MCP tool calling with the Claude API, deployed on GCP with a full CI/CD pipeline. You can check it out here: https://lnkd.in/gt_RjvMH If you're hiring or know someone who is, I would be grateful for a referral or introduction. My portfolio is https://lnkd.in/emrDD_2u Thank you for reading. #OpenToWork #SoftwareEngineer #AIEngineer #MachineLearning #NewGrad #TechJobs #FullStackDeveloper",
+        "img": null,
+        "id": "7491580178427543552"
+      },
+      {
+        "interaction": "Neo Sud liked this",
+        "link": "https://www.linkedin.com/posts/rceleri_happy-national-intern-day-today-we-activity-7488732555215831040-oqwi",
+        "title": "Happy National Intern Day! \ud83d\ude80 Today, we celebrated by giving back to our furry friends in our community! We welcomed Humane Society Silicon Valley to Illumio HQ for a pet blanket and toy workshop, learned more about their incredible mission, and of course enjoyed plenty of puppy cuddles. \ud83d\udc36 It was a fun opportunity for our interns to take a well-deserved break from all the hard work they've been putting into the program while making a positive impact along the way. A huge thank you to our interns for your dedication, energy, and contributions this summer! \ud83e\udde1",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQFVh8bFUBtV5A/feedshare-image-high-res/B56Z.1Skm_GUAU-/0/1785452973393?e=2147483647&v=beta&t=X16h172TAmL_dNjVguyNW9e1PrI6_YmKFTBzsC9AGwc",
+        "id": "7488732555215831040"
+      },
+      {
+        "interaction": "Neo Sud liked this",
+        "link": "https://www.linkedin.com/posts/crowdstrike_happy-national-intern-day-our-interns-activity-7488609354628173824-3rOx",
+        "title": "Happy National Intern Day! \ud83c\udf89 Our interns are not just learning the mission, they are living it. This summer, our intern class has been embedded across teams, tackling real challenges and contributing to work that matters. Watching them grow, collaborate, and bring curiosity and drive to everything they do is one of the best parts of what we do. To our incredible intern class of 2026, thank you for making CrowdStrike better every single day. The future of cybersecurity is in great hands! \ud83c\udfaf",
+        "img": "https://media.licdn.com/dms/image/v2/D4E10AQEvwaeZlGTo1w/image-shrink_800/B4EZ.wgD3wJUAg-/0/1785372623445?e=2147483647&v=beta&t=W5zDyNtL3W78VhGAD4mAAXBXqRAF6Yhk0hpiIWCzkqM",
+        "id": "7488609354628173824"
+      },
+      {
+        "interaction": "Neo Sud liked this",
+        "link": "https://www.linkedin.com/posts/kaartik-tejwani_do-you-know-which-commands-your-agents-are-activity-7486894345120305152-oREY",
+        "title": "Do you know which commands your agents are running? Coding agents can now create files, install packages, run scripts, and modify entire projects. Yet, many junior devs approve commands they don't fully understand (including me!) That is why Lily Wu and I built Terminal Trails, a game that teaches essential shell commands through short, interactive levels. We built it for the Bruin Software Engineers fellowship so our members can use coding agents confidently and avoid the mistakes we made. Thank you to Professor Paul Eggert, Alexander Pak, Alexander An, and Mukund SK for playtesting it! Try it: https://lnkd.in/gzy6qtvr",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQEKUAjmCMA0Wg/feedshare-shrink_800/B56Z.bKtZBJoAc-/0/1785014710340?e=2147483647&v=beta&t=5EP_ZNpH27NRk36imBNrBm7NJfPwUcrHkrJQUV7KQMk",
+        "id": "7486894345120305152"
+      },
+      {
+        "interaction": "Neo Sud liked this",
+        "link": "https://www.linkedin.com/posts/laur9na_abgcmo-rizzalicious-beyourself-activity-7487144713439952897-lRKx",
+        "title": "HOW TO BE RIZZY i used to be not that good at socializing i filtered everything. every sentence went through 3 rounds of internal review before it was allowed out. it made me boring, quiet, and it was absolutely exhausting to hinder the yappage eventually i started unleashing my inner monologue completely and life became 1000x better. not only did i finally feel free to say what i wanted, but the unfiltered version of me acted like a magnet. i found people who thought the same way, had the same mindset, and were down to support my endeavors. plus, being fully yourself acts as a shield against rejection. if someone doesnt vibe with the real you, they filtered themselves out. you lose nothing. being rizzy comes from the confidence of being comfortable with your personality (post 40/43) follow along for more sauce stay fly, laurena :3 #abgcmo #rizzalicious #beyourself heres a pic of happiness",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQEhStCofJgGMA/feedshare-image-high-res/B56Z9uWQXLG4AU-/0/1784262756057?e=2147483647&v=beta&t=UxV0c4dA8U-yDISiI3CQ_cU78ZccZCXU0enPVCJaMro",
+        "id": "7487144713439952897"
+      },
+      {
+        "interaction": "Neo Sud liked this",
+        "link": "https://www.linkedin.com/posts/akarshijain_gave-my-first-of-many-many-presentations-activity-7485826814653644800-uEyt",
+        "title": "Gave my first of many, many presentations on building AI agents at Illumio \ud83d\ude80 Grateful for the stage and the people who made it possible\ud83e\udde1\ud83e\udd0d",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQHvOz7Qhw7uwA/feedshare-image-high-res/B56Z.L_z7mJoAU-/0/1784760191222?e=2147483647&v=beta&t=6pJqw5JOK-BmHXyhfoyIHorutYz5y1UCwoqemF4rN-g",
+        "id": "7485826814653644800"
+      },
+      {
+        "interaction": "Neo Sud liked this",
+        "link": "https://www.linkedin.com/posts/tejas-govind_it-was-an-important-week-for-me-after-a-activity-7486477474696953856-cs-o",
+        "title": "It was an important week for me. After a tedious and dry 1st-half of the year, I got 3 offers this week. Google , Capital One and DoorDash . Each came with its own terms and conditions. I spent some time comparing the financial implications, future consequences and risks. Finally made a decision. Google was enticing, but I\u2019m delighted to say I\u2019m choosing DoorDash . Thank you to everyone who believed in me. Offer details: - Google: Keep Google AI Pro for $5.99/month after my free student year. - Capital One: $250 checking account bonus after qualifying direct deposits. - DoorDash: $0 delivery fees, and 10% off at Cheesecake Factory. It was an obvious choice.",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQGEp2T9FWuZog/feedshare-shrink_800/B4EZ.VPl4fIAAg-/0/1784915320657?e=2147483647&v=beta&t=9p6bLv3K3D0RAb3jw42omISfQ_MMQoApIj2w53VRuVI",
+        "id": "7486477474696953856"
+      }
+    ],
+    "linkedin_num_id": "834557083",
+    "banner_image": "https://media.licdn.com/dms/image/v2/D4E16AQEg1cT_YXKUiQ/profile-displaybackgroundimage-shrink_200_800/B4EZ1j8r1zHcAU-/0/1775498346865?e=2147483647&v=beta&t=LhJMWIRhqKa3jehJTtPrxGiGvtRdc6NRQDKX4u1FcKA",
+    "honors_and_awards": null,
+    "similar_profiles": [],
+    "default_avatar": false,
+    "memorialized_account": false,
+    "bio_links": [
+      {
+        "title": "Personal Website",
+        "link": "https://aneokin.com/"
+      }
+    ],
+    "first_name": "Neo",
+    "last_name": "Sud",
+    "influencer": false,
+    "timestamp": "2026-08-12T19:12:35.765Z",
+    "input": {
+      "url": "https://www.linkedin.com/in/neosud"
+    }
+  },
+  "local_photo": "data\\linkedin_photos\\neosud__usr-upv772taEFiowJJ.jpg"
+}

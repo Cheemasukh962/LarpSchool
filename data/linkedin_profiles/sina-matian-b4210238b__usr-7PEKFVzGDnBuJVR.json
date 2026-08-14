@@ -1,0 +1,215 @@
+{
+  "luma_user_id": "usr-7PEKFVzGDnBuJVR",
+  "csv_name": "Sina Matian",
+  "csv_linkedin": "https://www.linkedin.com/in/sina-matian-b4210238b",
+  "enriched_at": "2026-08-12T19:26:51.924427+00:00",
+  "batch_id": "sd_msqhb4pfm4l4la4zs",
+  "profile": {
+    "id": "sina-matian-b4210238b",
+    "name": "Sina Matian",
+    "city": "Los Angeles, California, United States",
+    "country_code": "US",
+    "position": null,
+    "about": "Startup founder @ NYU. I love building things mainly with AI and iOS. All posts on this\u2026",
+    "current_company": {
+      "link": "https://www.linkedin.com/school/new-york-university/?trk=public_profile_topcard-current-company",
+      "name": "New York University",
+      "location": null
+    },
+    "experience": null,
+    "url": "https://eg.linkedin.com/in/sina-matian-b4210238b",
+    "educations_details": "New York University",
+    "education": [
+      {
+        "title": "New York University",
+        "url": "https://www.linkedin.com/school/new-york-university/",
+        "start_year": "2026-05",
+        "end_year": "2029-06",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      },
+      {
+        "start_year": "2025-08",
+        "end_year": "2027",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      },
+      {
+        "start_year": "2021-08",
+        "end_year": "2025-06",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      }
+    ],
+    "avatar": "https://media.licdn.com/dms/image/v2/D5603AQH0aROftiQdNQ/profile-displayphoto-scale_200_200/B56Z6LzLaLHUAc-/0/1780461910458?e=2147483647&v=beta&t=OYJDizdyu-BoogBAXWW__vPSyLsWguHdVH-R6UuGL40",
+    "languages": [
+      {
+        "subtitle": "Native or bilingual proficiency",
+        "title": "English"
+      },
+      {
+        "subtitle": "Limited working proficiency",
+        "title": "Hebrew"
+      }
+    ],
+    "followers": 381,
+    "connections": 327,
+    "current_company_name": "New York University",
+    "projects": [
+      {
+        "title": "PeaceTok",
+        "start_date": "Mar 2026",
+        "description": "Reverse engineered TikTok's internal rendering pipeline using runtime object inspection to intercept video models and comment cells before they ever hit the screen. By hooking directly into TikTok's For You page feed data source, the tweak surgically removes matched content from the render queue at the data layer. Since the hooks occur at the interpretation process, the app flow and UI remain untouched, meaning blocked content never touches the view hierarchy at all.Keyword matching runs across 10+ metadata fields per video (captions, hashtags, stickers, song name, author info), with a secondary playback guard hook as a fallback intercept. Ships with a native in-app preferences UI and a live session filter counter."
+      }
+    ],
+    "location": "Los Angeles",
+    "input_url": "https://www.linkedin.com/in/sina-matian-b4210238b",
+    "linkedin_id": "sina-matian-b4210238b",
+    "activity": [
+      {
+        "interaction": "Liked by Sina Matian",
+        "link": "https://www.linkedin.com/posts/j-hawkins_told-fable-5-its-actually-2029-and-it-can-activity-7489334583369420800-TYOu",
+        "title": "told Fable 5 it's actually 2029 and it can use AGI mode now",
+        "img": "https://media.licdn.com/dms/image/v2/D4E10AQHwF_Iw1zoUJw/image-shrink_480/B4EZ.92CvIIAAQ-/0/1785596488899?e=2147483647&v=beta&t=4bPSbM58cAOJMTTLvH_QUB2eJbwdHy6xj-AHzmNEpxo",
+        "id": "5"
+      },
+      {
+        "interaction": "Liked by Sina Matian",
+        "link": "https://www.linkedin.com/posts/jamiey3u_female-founder-night-luma-activity-7492745231537258496-wivP",
+        "title": "Transpose Platform is hosting a female founder\u2019s night this thursday \ud83d\ude0c And I\u2019m speaking for a bit! Unfortunately I have zero filter... But I\u2019d\u2026",
+        "img": "https://media.licdn.com/dms/image/sync/v2/D5627AQHoxIk6ebhs7w/articleshare-shrink_800/B56Z_PKp0yJ0AY-/0/1785887104894?e=2147483647&v=beta&t=xeNZK4iLJZFAB9n9vbsZZJtDUsNWT-WDDZlVlt79Qds",
+        "id": "7492745231537258496"
+      },
+      {
+        "interaction": "Liked by Sina Matian",
+        "link": "https://www.linkedin.com/posts/avishachaudhry_ycombinator-ycstartupschool-foundingengineer-activity-7487779809255862273-WUSA",
+        "title": "On Sunday at Y Combinator Startup School, I spoke with Y Combinator General Partners Pete Koomen and Tyler Bosmeny about AIKMATRA. They both called\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQESXmLVT8wmaA/feedshare-image-high-res/B56Z.nwCjJG0Ac-/0/1785225819123?e=2147483647&v=beta&t=1Go_aauAuDeRPYqHijG6TFeurS21gjcqbIosUVddkvQ",
+        "id": "7487779809255862273"
+      },
+      {
+        "interaction": "Liked by Sina Matian",
+        "link": "https://www.linkedin.com/posts/vladbaskakov_i-was-impressed-by-this-hackathon-demo-on-activity-7487605098601381888-Ypnj",
+        "title": "I was impressed by this hackathon demo on Friday. This Friday, I helped judge c0mpiled-11, a hackathon in SF organized by James Tan and Transpose\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5610AQElfduygwBqWw/image-shrink_800/B56Z.lRFjaGsAk-/0/1785184148267?e=2147483647&v=beta&t=gKIEBJCUZ1zgVXDHyPXCynUQLMp5GEU6pbIWyD60YPI",
+        "id": "7487605098601381888"
+      },
+      {
+        "interaction": "Liked by Sina Matian",
+        "link": "https://www.linkedin.com/posts/cjxsez_just-minted-my-y-combinator-startup-school-activity-7486579960111935488-BMNt",
+        "title": "Just minted my Y Combinator Startup School 2026 talent card with Standout (YC P26) \u26a1",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQEKUNRp93Oklw/feedshare-image-high-res/B4EZ.WsrAuKoAU-/0/1784939750388?e=2147483647&v=beta&t=T1QFFl3dmUR9S9kjiWz68znG2DRSk1rA_sKBGEo8mJE",
+        "id": "7486579960111935488"
+      },
+      {
+        "interaction": "Liked by Sina Matian",
+        "link": "https://www.linkedin.com/posts/maya-l_ycstartupschool-ycombinator-activity-7486206364638400512-rwZf",
+        "title": "Confused about which YC Startup School after events to attend? I built an AI planner that creates you a personalized schedule of after events and\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5605AQHYkobQDpBnnA/videocover-high/B56Z.RY_e4HIBM-/0/1784850676961?e=2147483647&v=beta&t=KQSCAa4RWVgIhX0_Zzct8hm6bHZfgomYHUPK5WpECOc",
+        "id": "7486206364638400512"
+      },
+      {
+        "interaction": "Liked by Sina Matian",
+        "link": "https://www.linkedin.com/posts/george-edackattukudy-134aba389_i-am-excited-to-share-that-i-have-not-been-activity-7485875132771508225-4mZc",
+        "title": "I am excited to share that I have not been invited to Y Combinator\u2019s 2026 Startup School. i don't know what it is if you're in SF and want to\u2026",
+        "img": "https://static.licdn.com/aero-v1/sc/h/53n89ecoxpr1qrki1do3alazb",
+        "id": "7485875132771508225"
+      },
+      {
+        "interaction": "Liked by Sina Matian",
+        "link": "https://www.linkedin.com/posts/boomsupersonic_now-that-were-actively-building-a-turbine-activity-7478810603868856321-UDU4",
+        "title": "Now that we're actively building a turbine and a turbine factory, we've moved to video updates for our investors. Here is our Q2 investor update\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5605AQELOlXw8Ojugg/videocover-high/B56Z8oSTtWIUBM-/0/1783087336859?e=2147483647&v=beta&t=2T-7-I57cyRwtuLc5GlnnfctHjbEWx6ZTqqSB68RSgI",
+        "id": "7478810603868856321"
+      },
+      {
+        "interaction": "Liked by Sina Matian",
+        "link": "https://www.linkedin.com/posts/amy-blackshaw-cissp_my-team-asked-me-when-attackers-stop-breaking-activity-7482949166617255936-vEyf",
+        "title": "My team asked me: \"When attackers stop breaking in and just start logging in, how do you secure your network?\" The truth is, once a credential is\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5605AQHQ-R1injXcjA/videocover-high/B56Z9jGjfYGgBM-/0/1784074094761?e=2147483647&v=beta&t=Vw7b4f0CyG81KvhIHJdrRPTO3Rq0C13JgXXWA8HjgQk",
+        "id": "7482949166617255936"
+      },
+      {
+        "interaction": "Liked by Sina Matian",
+        "link": "https://www.linkedin.com/posts/blakescholl_breaking-today-the-federal-aviation-administration-activity-7477762699649605633-rRNU",
+        "title": "BREAKING: Today the Federal Aviation Administration announced an official rule making to legalize supersonic flight, specifically citing XB-1\u2019s\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQGpXD5sgkLv8A/feedshare-shrink_800/B56Z8ZZi4qKcAg-/0/1782837555364?e=2147483647&v=beta&t=42auqr618ZapDYk1idiDvjKMtDdvBxkclrWDHGZKPvI",
+        "id": "7477762699649605633"
+      },
+      {
+        "interaction": "Liked by Sina Matian",
+        "link": "https://www.linkedin.com/posts/happy-to-share-i-got-3-cves-for-overflow-activity-7484925418802925570-D6xO",
+        "title": "Happy to share I got 3 CVEs for overflow related RCE vulns on NVIDIA's TensorRT AI stack! Big thanks to TrendAI Zero Day Initiative and NVIDIA.",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQEp2M0X4xWVPw/feedshare-shrink_800/B56Z9_MAbSKEAc-/0/1784545282415?e=2147483647&v=beta&t=f-sgvzCE5LR8S98LCwgqC5UyUrBw3quk_SbZDz_gmTo",
+        "id": "3"
+      },
+      {
+        "interaction": "Liked by Sina Matian",
+        "link": "https://www.linkedin.com/posts/charlywargnier_fck-even-the-grandmaster-himself-just-started-activity-7479068733852848128-pnKQ",
+        "title": "F*CK Even the Grandmaster himself just started vibe-coding. It's over. Hand-coding is officially a cultural antique.",
+        "img": "https://media.licdn.com/dms/image/v2/D4E10AQGcDr7EF05d4A/image-shrink_1280/B4EZ8r9X3vIsAg-/0/1783148937030?e=2147483647&v=beta&t=U5lrZIDc55s7YFccwNF456HbHZK9P3j1MFTC_MBMhYQ",
+        "id": "7479068733852848128"
+      },
+      {
+        "interaction": "Liked by Sina Matian",
+        "link": "https://www.linkedin.com/posts/j-hawkins_currently-activity-7483596812973604864-gAzS",
+        "title": "currently",
+        "img": "https://media.licdn.com/dms/image/v2/D4E10AQG3MY2y_VBsMQ/image-shrink_800/B4EZ9sTkHEIcAg-/0/1784228496356?e=2147483647&v=beta&t=4Qc8w09VGcVA1Ussf7zW1BF7muJ6c2gxw3UBiXqv3pI",
+        "id": "7483596812973604864"
+      },
+      {
+        "interaction": "Liked by Sina Matian",
+        "link": "https://www.linkedin.com/posts/danieltian316_were-putting-50-founders-in-go-karts-activity-7483673585195085824-TLx4",
+        "title": "\ud83d\udea8 we\u2019re putting 50+ founders in go-karts for the biggest GoKart Rally in San Francisco. \ud83c\udfce\ufe0f Photon is hosting a city-wide GoKart Rally on July 24\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQE2sEcLayBF9g/feedshare-shrink_800/B56Z9tZdigG8Ac-/0/1784246819249?e=2147483647&v=beta&t=jL2dsTfdI0JYCid_ztpH-jSeJbuMcT2olAyTxZBR_KQ",
+        "id": "50"
+      },
+      {
+        "interaction": "Liked by Sina Matian",
+        "link": "https://www.linkedin.com/posts/r4ghu_were-hiring-a-software-engineer-sdk-at-activity-7483551211007381505-pnKN",
+        "title": "We're hiring a Software Engineer - SDK at Moss (YC F25). Most AI infrastructure companies treat SDKs as wrappers around APIs. We don't. At Moss\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5610AQFqfvGT4eT0Vw/image-shrink_800/B56Z9rqJmIIoAk-/0/1784217639957?e=2147483647&v=beta&t=RqGXNNWemK8Ped2cJuw_KJu5uB5Dc3s79XqszujfzrA",
+        "id": "7483551211007381505"
+      },
+      {
+        "interaction": "Liked by Sina Matian",
+        "link": "https://www.linkedin.com/posts/bakk3_psa-be-careful-building-in-public-in-sf-activity-7481014399038664704-7j5e",
+        "title": "PSA: Be careful building in public in SF. They're starting to sneak term sheets into the AI-native coffee shop's WiFi.",
+        "img": "https://media.licdn.com/dms/image/v2/D5610AQFK3wmMafX11Q/image-shrink_800/B56Z9Hm8.kG4Ag-/0/1783612821978?e=2147483647&v=beta&t=U0PFzHcDpDqCQjsNPgJr5AbPBsYh6Dp3aQcJmFUSw5c",
+        "id": "7481014399038664704"
+      },
+      {
+        "interaction": "Liked by Sina Matian",
+        "link": "https://www.linkedin.com/posts/sina-matian-b4210238b_i-got-a-bug-bounty-payout-thank-you-yuja-activity-7483260644297900033-yPf-",
+        "title": "I got a bug bounty payout \ud83e\udd79 Thank you YuJa",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQFfkk2SaB087Q/feedshare-shrink_800/B4EZ9nh5m2HsAc-/0/1784148368579?e=2147483647&v=beta&t=UaO3ccNjyI_eMzTQGIfTiJ1QH5NyFRIDaIo_oamZHpc",
+        "id": "7483260644297900033"
+      },
+      {
+        "interaction": "Shared by Sina Matian",
+        "link": "https://www.linkedin.com/posts/sina-matian-b4210238b_i-got-a-bug-bounty-payout-thank-you-yuja-activity-7483260644297900033-yPf-",
+        "title": "I got a bug bounty payout \ud83e\udd79 Thank you YuJa",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQFfkk2SaB087Q/feedshare-shrink_800/B4EZ9nh5m2HsAc-/0/1784148368579?e=2147483647&v=beta&t=UaO3ccNjyI_eMzTQGIfTiJ1QH5NyFRIDaIo_oamZHpc",
+        "id": "7483260644297900033"
+      }
+    ],
+    "linkedin_num_id": "1609699298",
+    "banner_image": "https://media.licdn.com/dms/image/v2/D5616AQFKFDLdTloKwQ/profile-displaybackgroundimage-shrink_200_800/B56Z49iiqHKsAQ-/0/1779148925792?e=2147483647&v=beta&t=Ecw3ED7oKxHCnNaqFw3O3MW-KAiFPPUH5HRvAkT3sFA",
+    "honors_and_awards": null,
+    "similar_profiles": [],
+    "default_avatar": false,
+    "memorialized_account": false,
+    "bio_links": [],
+    "first_name": "Sina",
+    "last_name": "Matian",
+    "influencer": false,
+    "timestamp": "2026-08-12T19:25:17.337Z",
+    "input": {
+      "url": "https://www.linkedin.com/in/sina-matian-b4210238b"
+    }
+  },
+  "local_photo": "data\\linkedin_photos\\sina-matian-b4210238b__usr-7PEKFVzGDnBuJVR.jpg"
+}

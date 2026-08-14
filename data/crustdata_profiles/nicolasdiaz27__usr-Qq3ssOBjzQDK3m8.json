@@ -1,0 +1,264 @@
+{
+  "source": "crustdata",
+  "recovered_from": "brightdata_failed_private",
+  "luma_user_id": "usr-Qq3ssOBjzQDK3m8",
+  "csv_name": "Nicolas Diaz",
+  "csv_linkedin": "https://www.linkedin.com/in/nicolasdiaz27",
+  "clean_linkedin": "https://www.linkedin.com/in/nicolasdiaz27",
+  "enriched_at": "2026-08-14T18:07:59.937250+00:00",
+  "person_data": {
+    "basic_profile": {
+      "current_title": "Co-Founder",
+      "first_name": null,
+      "headline": "CEO @Domu | The future of debt collections",
+      "languages": [
+        "English (Native or bilingual proficiency)",
+        "German (Professional working proficiency)",
+        "Portuguese (Professional working proficiency)",
+        "Spanish (Native or bilingual proficiency)"
+      ],
+      "last_name": null,
+      "location": {
+        "city": "San Francisco",
+        "continent": "North America",
+        "country": "United States",
+        "full_location": null,
+        "raw": "San Francisco, California, United States",
+        "state": "California"
+      },
+      "name": "Nico (Nick) Diaz",
+      "normalized_title": {
+        "confident": true,
+        "department": "Executive Leadership",
+        "matched_title": "Co-Founder",
+        "similarity": 0.9998999834060669,
+        "sub_department": "Founder & Entrepreneurship Leadership"
+      },
+      "professional_network_name": "Nico (Nick) Diaz",
+      "profile_picture_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/person/2ea90acb5f54b44a23d6973580e2345270553ad31229e5bf96a65bb547a57c0f.jpg",
+      "summary": ""
+    },
+    "education": {
+      "schools": [
+        {
+          "activities_and_societies": "",
+          "degree": "Industrial engineering",
+          "description": "",
+          "end_year": 2021,
+          "field_of_study": "Systems Engineering",
+          "institute_logo_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/company/48a6e0df378b5c40add528d73307cbc75c2add1b9c832b72772fb72c1a69a267.jpg",
+          "institute_logo_url": "https://media.licdn.com/dms/image/v2/C4D0BAQHj5Hz2_qbsqA/company-logo_400_400/company-logo_400_400/0/1631304879822?e=1788393600&v=beta&t=v6SZnQOjFfmk9eUK_VU5ZhfWmnRtiCetXcYoZc6vXeA",
+          "location": {
+            "city": "Bogot\u00e1",
+            "continent": "South America",
+            "country": "Colombia",
+            "raw": "Bogot\u00e1, Colombia",
+            "state": "Bogota"
+          },
+          "professional_network_id": "15093395",
+          "school": "Universidad Distrital Francisco Jos\u00e9 de Caldas",
+          "start_year": 2016
+        },
+        {
+          "activities_and_societies": "Worked with CMU and the ETIM program on research around healthcare and the impact of technologies like AI and blockchain.",
+          "degree": "",
+          "description": "",
+          "end_year": null,
+          "field_of_study": "Computer Science",
+          "institute_logo_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/company/7a363ce2c145e772fb259d70d1813ee65b206bc78964727c70b66e37471332b2.jpg",
+          "institute_logo_url": "https://media.licdn.com/dms/image/v2/C560BAQH0rMqWuDcNzA/company-logo_400_400/company-logo_400_400/0/1656670432790/carnegie_mellon_university_logo?e=1788393600&v=beta&t=t-eborxnmxCXtbU3mqQEgW8XWEYqdUNpq1p3G3qoMZs",
+          "location": {
+            "city": "Pittsburgh",
+            "continent": "North America",
+            "country": "United States",
+            "raw": "Pittsburgh, Pennsylvania, United States",
+            "state": "Pennsylvania"
+          },
+          "professional_network_id": "3147",
+          "school": "Carnegie Mellon University",
+          "start_year": null
+        },
+        {
+          "activities_and_societies": "",
+          "degree": "Fellow entrepreneur",
+          "description": "Makers Fellowship empowers high-potential Latin American young talents in their journey to build world-class companies.",
+          "end_year": null,
+          "field_of_study": "",
+          "institute_logo_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/company/43906e7414b1da596154f3a33ed5b086df3cc6496c42f698d4aabcfc77a6f3e9.jpg",
+          "institute_logo_url": "https://media.licdn.com/dms/image/v2/C4E0BAQHWzfCox_QciQ/company-logo_400_400/company-logo_400_400/0/1675968686721?e=1788393600&v=beta&t=QuGPeEguKGR7nAotIdUZ7dgVi9Bpg8VFNKePpncuUuQ",
+          "location": {
+            "city": null,
+            "continent": null,
+            "country": null,
+            "raw": null,
+            "state": null
+          },
+          "professional_network_id": "78381076",
+          "school": "Makers Fellowship",
+          "start_year": null
+        }
+      ]
+    },
+    "experience": {
+      "employment_details": {
+        "current": [
+          {
+            "company_description": "Domu is the Intelligent Engagement Layer for Regulated Servicing, designed to deploy sophisticated, multi-channel outreach at scale. We provide the world\u2019s leading financial institutions and insurance carriers with a unified platform to orchestrate Voice AI, Email, WhatsApp, SMS, and QA across the entire customer lifecycle. By replacing rigid, manual playbooks with adaptive, human-like generative AI, Domu enables enterprise teams to automate sales, servicing, lead qualification, and debt recovery without sacrificing customer experience or compliance.",
+            "company_professional_network_profile_url": "https://linkedin.com/company/96419286",
+            "company_profile_picture_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/company/02defc094be4aa9a1293ac30a87874fe2d856c5fb1e0e08a14c4f91b032b997e.jpg",
+            "company_website_domain": "domu.ai",
+            "crustdata_company_id": 1347000,
+            "description": "Domu is the first fully AI collections agency in the country. Used by +10 Fortune 500 companies. Backed by YC",
+            "employment_type": "Full-time",
+            "end_date": null,
+            "function_category": "",
+            "is_default": true,
+            "location": {
+              "raw": "San Francisco Bay Area"
+            },
+            "name": "Domu",
+            "position_id": 2193308612,
+            "professional_network_id": "96419286",
+            "seniority_level": "Owner / Partner",
+            "start_date": "2023-01-01T00:00:00+00:00",
+            "title": "Co-Founder",
+            "years_at_company": "3 to 5 years",
+            "years_at_company_raw": 3.0
+          },
+          {
+            "company_description": "Receivables Management Association International (RMAI) is the nonprofit trade association that represents more than 600 companies that purchase or support the purchase of performing and nonperforming receivables on the secondary market. The Receivables Management Certification Program and Code of Ethics set the global standard within the receivables industry due to its rigorous uniform industry standards of best practice which focus on the protection of the consumer. RMAI provides its members with extensive networking, educational, and business development opportunities in asset classes that span numerous industries. The association continually sets the standard in the receivables management industry through its highly effective grassroots advocacy, conferences, committees, task forces, publications, webinars, and breaking news alerts. Founded in 1997 as the Debt Buyers Association, RMAI is headquartered in Sacramento, California.",
+            "company_professional_network_profile_url": "https://linkedin.com/company/17963528",
+            "company_profile_picture_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/company/863d12638226c2f55fe26e13b75de00251fcd7ac5e06db46c60d54c8d9d07b18.jpg",
+            "company_website_domain": "rmaintl.org",
+            "crustdata_company_id": 982596,
+            "description": "",
+            "employment_type": "Self-employed",
+            "end_date": null,
+            "function_category": "",
+            "is_default": false,
+            "location": {
+              "raw": "San Francisco Bay Area"
+            },
+            "name": "Receivables Management Association International",
+            "position_id": 1782926407,
+            "professional_network_id": "17963528",
+            "seniority_level": "Entry Level",
+            "start_date": "2025-05-01T00:00:00+00:00",
+            "title": "Member of the AI committee",
+            "years_at_company": "1 to 2 years",
+            "years_at_company_raw": 1.0
+          },
+          {
+            "company_description": "Endeavor is the leading global network of, by, and for high-impact entrepreneurs innovating Elsewhere. We support 3,000+ high-growth, high-impact entrepreneurs across 50+ markets.",
+            "company_professional_network_profile_url": "https://linkedin.com/company/301210",
+            "company_profile_picture_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/company/825c300555dbc58bb14f10ba801fbaacb26237e6c3a14d35f1f2134942343078.jpg",
+            "company_website_domain": "endeavor.org",
+            "crustdata_company_id": 915233,
+            "description": "",
+            "employment_type": "Part-time",
+            "end_date": null,
+            "function_category": "",
+            "is_default": false,
+            "location": {
+              "raw": ""
+            },
+            "name": "Endeavor",
+            "position_id": 2440763785,
+            "professional_network_id": "301210",
+            "seniority_level": "Entry Level",
+            "start_date": "2024-03-01T00:00:00+00:00",
+            "title": "Mentor",
+            "years_at_company": "3 to 5 years",
+            "years_at_company_raw": 2.0
+          }
+        ],
+        "past": [
+          {
+            "company_description": "We support broad use-cases, from authenticating the legitimacy of COVID-19 test results to ensuring people have the background check they need to participate in youth sports organizations.Our flagship technology is our vID app, which is supported by an integrated compliance solution for organizations called Cognition. More on the vID app below:1. Establish a Digital Legal IdentityScan your legal ID, match it with a seflie, and enter in your details. vID validates your claims and secures your data, giving you complete control over your digital identity.2. Share Your Compliance Status EasilySend an email or have your QR code scanned by anyone. Your background check, credentials, vaccine status, and more are instantly verified with Cerebrum's blockchain-based Provenance Validator.3. Save Time & Money as an Individual/OrganizationMost application processes require a background and identity check to be performed for each position. With vID, most compliance credentials, including your background check, are proactively and automatically kept current so they can be reused again.",
+            "company_professional_network_profile_url": "https://linkedin.com/company/69370295",
+            "company_profile_picture_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/company/b3e061aae17e711d0e1240183680eac8e452efc574a9a0e8402f8c0f370f5162.jpg",
+            "company_website_domain": "cerebrum.com",
+            "crustdata_company_id": 1094246,
+            "description": "Started as an engineer and then moved to lead product. Built an engineering team, lead enterprise sales and talked to users all day.",
+            "employment_type": "Full-time",
+            "end_date": "2023-06-01T00:00:00+00:00",
+            "function_category": "",
+            "is_default": false,
+            "location": {
+              "raw": "Pittsburgh, Pennsylvania, United States"
+            },
+            "name": "Cerebrum",
+            "position_id": 1864265842,
+            "professional_network_id": "69370295",
+            "seniority_level": "CXO",
+            "start_date": "2021-08-01T00:00:00+00:00",
+            "title": "Chief Product Officer",
+            "years_at_company": "1 to 2 years",
+            "years_at_company_raw": 1.0
+          },
+          {
+            "company_description": "The University of the Andes (Spanish: Universidad de los Andes), also known as Uniandes, is a coeducational, nonsectarian private university located in downtown Bogot\u00e1, Colombia. Founded in 1948, The University currently has 9 Schools, all of which offer undergraduate and postgraduate programs: Management, Architecture and Design, Arts and Humanities, Science, Social Sciences, Law, Economics, Engineering and MedicineThe university was founded by a group of Colombian intellectuals led by Mario Laserna Pinz\u00f3n and was at the time the first university in the country to be non-sectarian, that is, independent of political parties or influence from the state or the church. Today, the University sought to model itself after major research universities through strategies as greater focus on graduate education and research. As a result of this, doctorate programs have been opened in recent years and new research facilities have been built on campus.It was ranked 8th among the top universities in Latin America, classification done by QS World University Ranking in 2016.",
+            "company_professional_network_profile_url": "https://linkedin.com/company/12422",
+            "company_profile_picture_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/company/f3e52d04f31211dd8dc47325449bf2ae637c237576dbcde1068396df4f1f7013.jpg",
+            "company_website_domain": "uniandes.edu.co",
+            "crustdata_company_id": 1244787,
+            "description": "",
+            "employment_type": "Part-time",
+            "end_date": "2019-08-01T00:00:00+00:00",
+            "function_category": "Research",
+            "is_default": false,
+            "location": {
+              "raw": ""
+            },
+            "name": "Universidad de Los Andes",
+            "position_id": 1680088974,
+            "professional_network_id": "12422",
+            "seniority_level": "Entry Level",
+            "start_date": "2019-04-01T00:00:00+00:00",
+            "title": "AI Researcher",
+            "years_at_company": "Less than 1 year",
+            "years_at_company_raw": 0.0
+          }
+        ]
+      }
+    },
+    "professional_network": {
+      "connections": 8923,
+      "current_title": "Co-Founder",
+      "followers": 16309,
+      "headline": "CEO @Domu | The future of debt collections",
+      "location": {
+        "city": "San Francisco",
+        "continent": "North America",
+        "country": "United States",
+        "raw": "San Francisco, California, United States",
+        "state": "California"
+      },
+      "metadata": {
+        "last_scraped_source": null
+      },
+      "name": "Nico (Nick) Diaz",
+      "profile_picture_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/person/2ea90acb5f54b44a23d6973580e2345270553ad31229e5bf96a65bb547a57c0f.jpg",
+      "pronoun": "",
+      "summary": ""
+    },
+    "skills": {
+      "professional_network_skills": [
+        "Engineering",
+        "Teaching"
+      ]
+    },
+    "social_handles": {
+      "dev_platform_identifier": {
+        "profile_url": null
+      },
+      "professional_network_identifier": {
+        "profile_url": "https://www.linkedin.com/in/nicodomu"
+      },
+      "twitter_identifier": {
+        "slug": ""
+      }
+    },
+    "crustdata_person_id": 826170
+  }
+}

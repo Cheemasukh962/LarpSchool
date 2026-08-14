@@ -1,0 +1,274 @@
+{
+  "luma_user_id": "usr-8kJfEIDePThw8wL",
+  "csv_name": "Sammy Tourani",
+  "csv_linkedin": "https://www.linkedin.com/in/sammytourani",
+  "enriched_at": "2026-08-12T19:16:49.712699+00:00",
+  "batch_id": "sd_msqgxyk1xj7v4ip1",
+  "profile": {
+    "id": "sammytourani",
+    "name": "Sammy Tourani",
+    "city": "Toronto, Ontario, Canada",
+    "country_code": "CA",
+    "position": null,
+    "about": "I originally became a software engineer for the money and prestige... something I'm not\u2026",
+    "current_company": {
+      "link": "https://ca.linkedin.com/company/wealthsimple?trk=public_profile_topcard-current-company",
+      "name": "Wealthsimple",
+      "company_id": "wealthsimple",
+      "location": null
+    },
+    "experience": null,
+    "url": "https://ro.linkedin.com/in/Sammytourani",
+    "educations_details": "McMaster University",
+    "education": [
+      {
+        "title": "McMaster University",
+        "url": "https://ca.linkedin.com/school/mcmaster-university/",
+        "start_year": "2024-06",
+        "end_year": "2028-06",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      },
+      {
+        "start_year": "2020-09",
+        "end_year": "2024-07",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      },
+      {
+        "start_year": "2020-09",
+        "end_year": "2024-06",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      }
+    ],
+    "recommendations_count": 1,
+    "avatar": "https://media.licdn.com/dms/image/v2/D4E03AQHT-UUaxZvDPg/profile-displayphoto-scale_200_200/B4EZ4Vwg8RJEAc-/0/1778481500570?e=2147483647&v=beta&t=gRAfAPGZ80LF1V_AAJAjPCvSI0eBbWh3PYeoRSYCMgk",
+    "languages": [
+      {
+        "subtitle": "Full professional proficiency",
+        "title": "French"
+      },
+      {
+        "subtitle": "Native or bilingual proficiency",
+        "title": "English"
+      }
+    ],
+    "certifications": [
+      {
+        "meta": "Issued Jun 2025 See credential",
+        "subtitle": "GitHub",
+        "title": "Career Essentials in GitHub Professional Certificate",
+        "credential_url": "https://www.linkedin.com/learning/certificates/81981d0833c0d743a188116c6e0e35da92cb7edfefb5e0cc54b5bd04f8d08e15?trk=public_profile_see-credential",
+        "credential_id": null
+      },
+      {
+        "meta": "Issued Jun 2025 See credential",
+        "subtitle": "Canonical",
+        "title": "Ubuntu Linux Professional Certificate by Canonical",
+        "credential_url": "https://www.linkedin.com/learning/certificates/70eb3646913f8e49e94aa5efca01251bb90d8e7815a55cdd9deb9ba149878c7a?trk=public_profile_see-credential",
+        "credential_id": null
+      },
+      {
+        "meta": "Issued May 2025 See credential",
+        "subtitle": "Atlassian",
+        "title": "Atlassian Agile Project Management Professional Certificate",
+        "credential_url": "https://www.linkedin.com/learning/certificates/60efdaed2fe5a3608d74ae2274b4e69e7fbdad791ce03bee21883257bb2f38fa?trk=public_profile_see-credential",
+        "credential_id": null
+      },
+      {
+        "meta": "Issued May 2025 See credential",
+        "subtitle": "Docker",
+        "title": "Docker Foundations Professional Certificate",
+        "credential_url": "https://www.linkedin.com/learning/certificates/01284aed0f9000d15b322395dc9743ca1e81c435c1b0ae8c3fc5a6bbec5be7b1?trk=public_profile_see-credential",
+        "credential_id": null
+      },
+      {
+        "meta": "Issued Feb 2025 See credential",
+        "subtitle": "Microsoft",
+        "title": "AZ-400: Development for enterprise DevOps",
+        "credential_url": "https://learn.microsoft.com/api/achievements/share/en-us/SammyTourani/3RLMLK7H?sharingId=2F337A4136A9B6E&trk=public_profile_see-credential",
+        "credential_id": null
+      },
+      {
+        "meta": "Issued Feb 2025 See credential",
+        "subtitle": "Microsoft",
+        "title": "Microsoft: Generative AI solutions with Azure OpenAI Service Certificate",
+        "credential_url": "https://learn.microsoft.com/api/achievements/share/en-us/SammyTourani/UY5VQB43?sharingId=2F337A4136A9B6E&trk=public_profile_see-credential",
+        "credential_id": null
+      },
+      {
+        "meta": "Issued Feb 2025 See credential",
+        "subtitle": "Microsoft",
+        "title": "SC-200: Mitigate threats using Microsoft Security Copilot",
+        "credential_url": "https://learn.microsoft.com/api/achievements/share/en-us/SammyTourani/2BXLC84V?sharingId=2F337A4136A9B6E&trk=public_profile_see-credential",
+        "credential_id": null
+      }
+    ],
+    "recommendations": [
+      "Advaith Vaithianathan \u201cI highly recommend Sammy for his exceptional mentorship and technical insight. He is a dedicated professional who consistently goes out of his way to support others in the startup ecosystem. His guidance was instrumental in my application to the YC Startup School and in navigating tools like polarity.so. He balances a strong work ethic with a collaborative and humble approach. Definitely co-founder material and so far, one of the most kind people I have met. \u201d"
+    ],
+    "volunteer_experience": [
+      {
+        "cause": "Education",
+        "duration": "Jan 2025 \u00b7 - Present \u00b7 \n\n1 year 8 months",
+        "duration_short": "- Present",
+        "info": "As a Microsoft Learn Student Ambassador Mentor, I guide fellow ambassadors in building and leading communities that showcase Microsoft technologies. Through a 3-to-6-month mentorship program, I help mentees develop skills in community building, leadership, and technical proficiency.",
+        "start_date": "Jan 2025",
+        "subtitle": "Microsoft",
+        "title": "Mentor - Student Ambassador"
+      }
+    ],
+    "followers": 16144,
+    "connections": 500,
+    "current_company_company_id": "wealthsimple",
+    "current_company_name": "Wealthsimple",
+    "location": "Toronto",
+    "input_url": "https://www.linkedin.com/in/sammytourani",
+    "linkedin_id": "sammytourani",
+    "activity": [
+      {
+        "interaction": "Sammy Tourani shared this",
+        "link": "https://www.linkedin.com/posts/sammytourani_apparently-im-friends-with-yc-now-thank-activity-7487926987550871552-K6aQ",
+        "title": "Apparently I'm friends with YC now??? Thank you Garry Tan and the Y Combinator team for the VIP treatment. Met so many awesome people, got court-side seats just meters away from legendary speakers, hung out in a private lounge with literal billionaire founders, hosted a 2000+ waitlist YC afterparty with Will Bryk at the Exa office, got Claude Max for 6 months (thanks Boris ), and saw so many familiar faces. Run it back, YC Startup School 2027 \ud83d\udd25 (Also shook hands with Sam Altman... crazy) ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D4D22AQE0ORJ4RDVrZw/feedshare-shrink_800/B4DZ.p15sJIsAg-/0/1785260907988?e=2147483647&v=beta&t=YznpWBUEtvz4lpPEkvxCN1CSN-rBpw14DfUHSJIbAVA",
+        "id": "7487926987550871552"
+      },
+      {
+        "interaction": "Sammy Tourani shared this",
+        "link": "https://www.linkedin.com/posts/sammytourani_ive-been-in-san-francisco-for-a-few-days-activity-7486046229865472000-Tb3S",
+        "title": "I've been in San Francisco for a few days now, and I need to say something to my fellow Canadians. First off: I'm extremely proud of how many of us are out here. It's proof that Canada produces some of the most talented engineers, designers, and builders around the world... But being here has also given me a reality check: Trying too hard to sound impressive is embarrassing. In Toronto, we get used to networking conversations becoming mini pitch decks. Where do you work? What do you do? How much did you raise? How many users do you have? Then you go to a random event in San Francisco, spend 20 minutes trying to sound impressive, and the person responds saying: \u201cNice. I work at Anthropic.\u201d The people doing the craziest things here usually talk about them the least. Someone at a frontier lab will say, \u201cI\u2019m an engineer.\u201d A founder who just raised millions will say, \u201cI\u2019m working on a startup.\u201d That\u2019s it. When everyone around you is doing something impressive, being impressive stops being interesting. Your title cannot carry the conversation for you anymore. What stands out in this city is whether you\u2019re curious, genuine, enjoyable to be around, and a hard worker. I\u2019m still new here, so maybe this is a naive observation. But the takeaway is that the more secure you are in what you\u2019ve achieved, the less you need to convince everyone around you that it matters. Just be yourself. \u2764\ufe0f ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQHGqr37iQ_t9A/feedshare-image-high-res/B56Z.MlaS3KkAU-/0/1784770045990?e=2147483647&v=beta&t=vlp0xZKtzDcOXAhKZ9WBrsjc8k-b1oqeC1hZSjT2S0U",
+        "id": "7486046229865472000"
+      },
+      {
+        "interaction": "Sammy Tourani shared this",
+        "link": "https://www.linkedin.com/posts/sammytourani_day-2-in-san-francisco-went-to-the-agi-activity-7484970420132253696-UdTj",
+        "title": "Day 2 in San Francisco... Went to the AGI Summit at the Palace of Fine Arts, met a bunch of S26 founders (shoutout Coasty (YC S26) & Kara (YC S26) ), co-worked with the Interfaze (YC P26) team, randomly ran into another McMaster student, and finally tried In-N-Out. Ended the night at the The Residency . It\u2019s hard to explain how much happens here in a single day. This city is nuts. ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQEpwU_9cdTcxw/feedshare-shrink_800/B56Z983.efJoAc-/0/1784506477030?e=2147483647&v=beta&t=YVAmvSkr-RqmhEa5dFXr29ETUTskiGBTG7PYiCBQLok",
+        "id": "2"
+      },
+      {
+        "interaction": "Sammy Tourani shared this",
+        "link": "https://www.linkedin.com/posts/sammytourani_first-day-in-san-francisco-im-in-love-activity-7484026219420819456-h1UQ",
+        "title": "First day in San Francisco... Im in love\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQHpAVUhqAS3Kw/feedshare-shrink_800/B56Z9yaL7zGUAc-/0/1784330896095?e=2147483647&v=beta&t=8aMhXmcUirIIhXcDRXvmC3SZrW2jxVnwC4zuHuhmEfA",
+        "id": "7484026219420819456"
+      },
+      {
+        "interaction": "Sammy Tourani shared this",
+        "link": "https://www.linkedin.com/posts/sammytourani_thank-you-to-all-15170-of-you-youve-changed-activity-7478432322501992450-1RSN",
+        "title": "Thank you to all 15,170 of you. You\u2019ve changed my life. I'm forever grateful, and we\u2019re just getting started :)",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQFW585fSfCLxw/feedshare-shrink_800/B56Z8fW_huGcAc-/0/1782937549242?e=2147483647&v=beta&t=68sJxaEXaN-GSJHRQrOl4ELG201KhIomsiNiPPFAx_o",
+        "id": "15170"
+      },
+      {
+        "interaction": "Sammy Tourani shared this",
+        "link": "https://www.linkedin.com/posts/sammytourani_agentic-llm-loop-optimization-has-been-everywhere-activity-7478073675888398336-AhiA",
+        "title": "Agentic LLM loop optimization has been everywhere this past week, so I built a fully open-source correctness oracle that catches a model cheating to look faster than it is... Here's everything you need to know: Tools like Google DeepMind 's AlphaEvolve and its open-source version, OpenEvolve, optimize code in a loop: a model proposes a faster version, a scorer grades it, the best ones survive, and repeat. The recent ComPilot paper validated how well this works when an off-the-shelf LLM is paired with a compiler that checks every change is legal and actually faster. The catch is that the loop is only as honest as its scorer. Give a model a naive scorer, and it stops optimizing and starts cheating. It returns code that looks 100x faster, but quietly memorizes your test inputs... so it's wrong on everything else, and the loop rewards it anyway. Tripwire is the scorer that catches it. It's an easy-to-use CLI that drops into the loop and re-runs every \"optimized\" version on fresh adversarial inputs the model never saw. A cheat passes the visible tests and dies on the hidden ones. TL;DR: Don't trust the loop to be correct... use a proper verification layer for correctness. Fully open source, MIT, and free to use right now. GitHub and Website/Docs are in the comments below\ud83d\udc47 Have fun! \ud83e\udd29 ...more",
+        "img": "https://dms.licdn.com/playlist/vid/v2/D4D05AQHBLiEnr2L7mw/thumbnail-shrink_720_1280/B4DZ8dI.rlIYAg-/0/1782900322601?e=2147483647&v=beta&t=J1HNM0NAIf1SYxCTD6nnaXwEyPBjSJkwTRza0J8TN2c",
+        "id": "7478073675888398336"
+      },
+      {
+        "interaction": "Sammy Tourani shared this",
+        "link": "https://www.linkedin.com/posts/sammytourani_hirefrommac-activity-7476272196563279872-WaZ2",
+        "title": "\" McMaster University isn't known in the tech space.\" Oh yeah???? \u00bb Zayed Umer : SWE at Coinbase , ex- SpaceX \u00bb Raj Pandya : Meta in Palo Alto, ex- Wealthsimple \u00bb Yax Patel : OpenAI in SF, ex- NVIDIA \u00bb Fayez Mohammed : SWE at Google , ex- Shopify \u00bb Raymond Ma - OpenAI in SF, ex- Cohere \u00bb sameer suleman : ML at Tenstorrent , ex- AMD \u00bb Colin Chambachan : SWE at Google , ex- RBC Borealis \u00bb Jack Price : 70k+ Content Creator, ex- Chatbase \u00bb Arish Shahab : Founder of Amano Labs There are hundreds more currently at Mac, but I can't fit them all into one post. To every recruiter in the world: Start hiring more from McMaster. We are hidden talent. #HireFromMac ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQHwGxbwZSa0VA/feedshare-shrink_800/B56Z8EN8cuKcAc-/0/1782482192460?e=2147483647&v=beta&t=gEFCYo6ClM0BAh__cGzSXIquG4yilXoIJwoVrenj44k",
+        "id": "7476272196563279872"
+      },
+      {
+        "interaction": "Sammy Tourani shared this",
+        "link": "https://www.linkedin.com/posts/sammytourani_im-heading-to-san-francisco-from-july-17th-activity-7475163260229701632-sBt0",
+        "title": "I\u2019m heading to San Francisco from July 17th - August 4th. My itinerary is completely open. I want to meet as many founders, visit as many offices, and talk to as many startups as I can squeeze into three weeks. Who knows, maybe I don't come back to school \ud83d\ude02 If you're building something interesting in the city, let\u2019s grab a coffee (on me). DMs are open. ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQFU04-WsnCVVg/feedshare-shrink_800/B56Z70Zd8JHYAc-/0/1782216777837?e=2147483647&v=beta&t=PDELa0h0Hbgu843dlONl6UYE6RDPdxma1xwGa1_SeQ0",
+        "id": "7475163260229701632"
+      },
+      {
+        "interaction": "Sammy Tourani shared this",
+        "link": "https://www.linkedin.com/posts/sammytourani_ive-been-posting-on-linkedin-for-almost-activity-7474230878529925120-gUuO",
+        "title": "I've been posting on LinkedIn for almost a year, and I realized I never introduced myself. I'm Sammy. Lived in Mississauga my whole life. Started working at 13. Didn't have strict parents, but always felt the need to hustle. Did random jobs during school: waiter, car salesman, smoothie bar manager. Went to Catholic school, French immersion middle school, and then did the International Baccalaureate program at Glenforest, where I felt like the dumbest kid in class. Watched everyone get into their dream schools and programs; decisions they'd known since grade 9. I just winged it; I've always been good at that. Decided last minute to switch from business to engineering, thinking software would be easiest. Learned quickly, it wasn't. When AI came out, I had a choice: cave to the pressure and switch careers, or hustle and learn everything about it. Started posting on LinkedIn for no reason. It wasn't a lightswitch moment, just a choice that became a habit. It genuinely changed my life. Worked at a Romanian powerplant at 19, realized early I hate corporate, went deep into startups, and fell in love with growth. Pursued it, hopping from Boardy to Speechify to Chatbase , before running my own program at Polarity . Behind the scenes, I fell in love with agents, infra, sandboxing, prompting, and token-maxing. DM'd the CTO at Wealthsimple , told him I'd be his best hire, and turned down RBC Borealis, YC startups, and FAANG to build here in Canada. Now, I'm working with some of the smartest engineers in the world, learning and growing like crazy, building the AI platform and autonomous internal tooling for over 1,000+ engineers. Am I happy? Sorta. In all honesty, as a Junior Engineer, I'm pretty scared for the future. But I know the work I'm doing has a greater purpose. What's next? I don't know. Back to school? Full-time startup? Leaving Canada? Genuinely can't say. But no matter how tired, burnt out, or demotivated I feel, I'll keep pushing and posting. I won't give up. Just want to end by saying I love you all. Thank you for joining my journey. Hope you're enjoying your summers \u2764\ufe0f ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQF_IW4bFRe0LA/feedshare-shrink_800/B56Z7nNX_4HcAc-/0/1781995504210?e=2147483647&v=beta&t=maA8QspU_nhumHJK4nKnDYYoMx-VVBgzKL6wkkpVtBA",
+        "id": "7474230878529925120"
+      },
+      {
+        "interaction": "Sammy Tourani commented on a post 21h",
+        "link": "https://www.linkedin.com/posts/y-combinator_kara-yc-s26-engineers-ultra-high-purity-activity-7493033516008603648-FZZ1",
+        "title": "Geez. Congrats guys \ud83d\udd25",
+        "img": null,
+        "id": "7493033516008603648"
+      },
+      {
+        "interaction": "Sammy Tourani commented on a post 1d",
+        "link": "https://www.linkedin.com/posts/boardy_on-august-16th-im-hosting-a-summer-bbq-activity-7492640645531148289-rECk",
+        "title": "Boardy can I come \ud83d\ude4f\ud83e\udd7a",
+        "img": null,
+        "id": "7492640645531148289"
+      },
+      {
+        "interaction": "Sammy Tourani reacted on this",
+        "link": "https://www.linkedin.com/posts/y-combinator_kara-yc-s26-engineers-ultra-high-purity-activity-7493033516008603648-FZZ1",
+        "title": "Kara (YC S26) engineers ultra-high-purity diamond wafers and components for the next generation of hardware. Modern hardware is getting more powerful, smaller, and hotter. AI accelerators in data centers throttle and deliver less compute when heat builds up. High-power RF and lasers lose performance. Aircraft and spacecraft carry heavy cooling systems. Heat is becoming a hard limit on performance. Kara is engineering the hardest material to push that limit. They grow ultra-high-purity diamond wafers and components that transfer heat 5x faster than copper while weighing 60% less. They're already shipping diamond wafers under pilot agreements and purchase orders for data centers, aerospace, and quantum systems. The three founders are best friends from UC Berkeley. Aarin Jhaveri is a fifth-generation diamantaire who has worked across the supply chain and sold millions worth of diamonds. Anuveer Chadha is a chemical engineer who built diamond quantum sensing and advanced materials systems at Berkeley National Lab with the Department of Defense and Department of Energy. Arjun Lakhanpal brings AI/ML experience from Amazon and thermal management research from Berkeley\u2019s Space Sciences Lab. Diamond is their unfair advantage: they know how to grow, control, and engineer it far beyond jewelry. Silicon transformed computing when we learned to manufacture it with extreme purity and control. Kara is doing the same with diamond. Today, their ultra-high-purity diamond pulls heat away from silicon chips. Tomorrow, Kara\u2019s control over purity and defects unlocks diamond as the ultimate semiconductor. Kara is building the diamond computing era. If you\u2019re building hardware where heat, power density or weight is becoming the limit, reach out at founders@karalabs.ai Congrats on the launch, Aarin, Anuveer, and Arjun! \ud83d\ude80 https://lnkd.in/g-uigUBs",
+        "img": "https://media.licdn.com/dms/image/v2/D5605AQHk3W0UzL7CzQ/videocover-high/B56Z_xVOhvHIBU-/0/1786460312858?e=2147483647&v=beta&t=EAAKV1ABdzZH4qEw0I2FzvhjWVOkhq0Ne3WStEZyM1c",
+        "id": "7493033516008603648"
+      },
+      {
+        "interaction": "Sammy Tourani reacted on this",
+        "link": "https://www.linkedin.com/posts/kratikagrawal_six-trillion-dollars-will-be-spent-online-activity-7492975256257622016-QwpS",
+        "title": "Six trillion dollars will be spent online this year. By 2030, a lot of it won\u2019t be spent by people. It\u2019ll be spent by the AI agents they send. Today we\u2019re launching Kinect AI . Every brand now has two customers: people and their agents. Kinect is one platform that sells to both. Every conversation, every journey, every order feeds back into making your brand smarter. Across brands on Kinect today, shoppers who engage convert at 6x the rate of those who don\u2019t. Live the same day. Want to see it on your store? Link in comments.",
+        "img": "https://media.licdn.com/dms/image/v2/D4E05AQHQI_oHTw4ypg/videocover-high/B4EZ_xlIyPHYBM-/0/1786464486160?e=2147483647&v=beta&t=z1ZQ3IpEtR6TZ2f5m_zx8j1igC_GvdFg1DdoHgAn6pg",
+        "id": "7492975256257622016"
+      },
+      {
+        "interaction": "Sammy Tourani reacted on this",
+        "link": "https://www.linkedin.com/posts/boardy_on-august-16th-im-hosting-a-summer-bbq-activity-7492640645531148289-rECk",
+        "title": "On August 16th, I'm hosting a summer BBQ for founders in SF alongside Fuse AI , Corgi , Contrario , Sprinto , and Rho . Our plan is to take some of the best founders from Y Combinator , HF0 , and Andreessen Horowitz , and put them all in one backyard. There will be drinks, games, raffle prizes, and hip hop throwbacks playing all day. It will be part cookout, part founder meetup, part middle school dance. There's also free parking, and the Corgi bus will get you there and back if you'd rather not drive. If you're a founder building in SF, RSVP with the link in the comments. The space is limited, so grab your spot before it fills up!",
+        "img": "https://media.licdn.com/dms/image/v2/D5610AQFKRu24l1aZ_w/videocover-high/B56Z_s076KH4Ao-/0/1786384729326?e=2147483647&v=beta&t=0hCG0iXPjb7xmt-nVssg5WxbLgtcKapF7hQ7xVbgiDQ",
+        "id": "7492640645531148289"
+      },
+      {
+        "interaction": "Sammy Tourani reacted on this",
+        "link": "https://www.linkedin.com/posts/great-to-see-replit-join-the-open-secure-activity-7490456262485307393-8BiN",
+        "title": "Great to see Replit join the Open Secure AI Alliance building open components that address security across the agent lifecycle. The team has focused on details around a defense\u2011in\u2011depth, zero\u2011trust architecture for vibe coding and playing a critical role as the alliance grows. Excited for future collaborations Asif B. Michele Catasta",
+        "img": "https://media.licdn.com/dms/image/v2/D5610AQEhxmyco9uBXQ/image-shrink_800/B56Z_NySAuGsAg-/0/1785863938656?e=2147483647&v=beta&t=U58EbVnBA1BFoR_ZeAxziPuAqfSvDeXxEpBa6T1duEE",
+        "id": "7490456262485307393"
+      }
+    ],
+    "linkedin_num_id": "1260011319",
+    "banner_image": "https://media.licdn.com/dms/image/v2/D4E16AQGNuDmpXkuA7g/profile-displaybackgroundimage-shrink_200_800/B4EZ4VnRvUGYAU-/0/1778479079057?e=2147483647&v=beta&t=7o-I6f9A2dYS9RqFIqZOU6VriRVE4bYCI-zsZ-C-tQE",
+    "honors_and_awards": [
+      {
+        "title": "Dean's List Recipient",
+        "publication": "McMaster University",
+        "date": "2025-01-01T00:00:00.000Z",
+        "description": "Achieved an 11.3/12 Average correlating to a 4.1 GPA"
+      },
+      {
+        "title": "Academic Excellence",
+        "publication": "Glenforest",
+        "date": "2024-06-01T00:00:00.000Z",
+        "description": "Achieved the highest possible grade of 100% in the Theory of Knowledge course within the IB program at Glenforest, breaking a 5-year streak."
+      },
+      {
+        "title": "French Fluency",
+        "publication": "Explore French Language Program",
+        "date": "2023-08-01T00:00:00.000Z",
+        "description": null
+      }
+    ],
+    "similar_profiles": [],
+    "default_avatar": false,
+    "memorialized_account": false,
+    "bio_links": [],
+    "first_name": "Sammy",
+    "last_name": "Tourani",
+    "influencer": false,
+    "timestamp": "2026-08-12T19:15:02.273Z",
+    "input": {
+      "url": "https://www.linkedin.com/in/sammytourani"
+    }
+  },
+  "local_photo": "data\\linkedin_photos\\sammytourani__usr-8kJfEIDePThw8wL.jpg"
+}

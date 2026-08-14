@@ -1,0 +1,180 @@
+{
+  "luma_user_id": "usr-z6HiDhAUTHeZ3SU",
+  "csv_name": "Rohan Dash",
+  "csv_linkedin": "https://www.linkedin.com/in/rohandash",
+  "enriched_at": "2026-08-12T19:14:53.878507+00:00",
+  "batch_id": "sd_msqgwa7g10oeo6g7qx",
+  "profile": {
+    "id": "rohandash",
+    "name": "Rohan Dash",
+    "city": "San Francisco Bay Area",
+    "country_code": "US",
+    "position": null,
+    "about": "I am currently a Data Science major at UC Berkeley. My interests include software\u2026",
+    "current_company": {
+      "link": "https://www.linkedin.com/company/ctrl-tower?trk=public_profile_topcard-current-company",
+      "name": "Ctrl Tower",
+      "company_id": "ctrl-tower",
+      "location": null
+    },
+    "experience": null,
+    "url": "https://ph.linkedin.com/in/rohandash",
+    "educations_details": "UC Berkeley College of Computing, Data Science, and Society",
+    "education": [
+      {
+        "start_year": "2022-08",
+        "end_year": "2025-05",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      },
+      {
+        "start_year": "2020-01",
+        "end_year": "2022-08",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      }
+    ],
+    "avatar": "https://media.licdn.com/dms/image/v2/D5603AQErbFYGUD_iKg/profile-displayphoto-scale_200_200/B56ZsKOomiLMAY-/0/1765403167769?e=2147483647&v=beta&t=zdNSQDJ19GMBnHCEmuybtpG_YL_vD5hxbywkyGr8GW0",
+    "followers": 1301,
+    "connections": 500,
+    "current_company_company_id": "ctrl-tower",
+    "current_company_name": "Ctrl Tower",
+    "projects": [
+      {
+        "title": "Chess-4Change"
+      }
+    ],
+    "location": null,
+    "input_url": "https://www.linkedin.com/in/rohandash",
+    "linkedin_id": "rohandash",
+    "activity": [
+      {
+        "interaction": null,
+        "link": "https://www.linkedin.com/posts/venkatnathg_cybersecurity-airisk-riskmanagement-activity-7485820337260081152--4Ty",
+        "title": "A number came out last week that I haven't been able to stop thinking about. Orca Security's 2026 State of AI Security Report, which pulled telemetry from over 1,200 production cloud environments, found that 99.9% of AI vulnerability alerts with an available fix remain unpatched. 81.2% of companies running AI packages have at least one known vulnerability. These aren't theoretical exposures or edge cases. These are known issues, with fixes available, sitting unaddressed across the majority of organizations that have deployed AI into production. The reason isn't negligence. It's prioritization, and \ud835\udc29\ud835\udc2b\ud835\udc22\ud835\udc28\ud835\udc2b\ud835\udc22\ud835\udc2d\ud835\udc22\ud835\udc33\ud835\udc1a\ud835\udc2d\ud835\udc22\ud835\udc28\ud835\udc27 \ud835\udc22\ud835\udc2c \ud835\udc1d\ud835\udc28\ud835\udc30\ud835\udc27\ud835\udc2c\ud835\udc2d\ud835\udc2b\ud835\udc1e\ud835\udc1a\ud835\udc26 \ud835\udc28\ud835\udc1f \ud835\udc21\ud835\udc28\ud835\udc30 \ud835\udc32\ud835\udc28\ud835\udc2e \ud835\udc26\ud835\udc1e\ud835\udc1a\ud835\udc2c\ud835\udc2e\ud835\udc2b\ud835\udc1e \ud835\udc2b\ud835\udc22\ud835\udc2c\ud835\udc24. If your compliance program tells you you're secure because your controls are documented and your last audit was clean, there's no built-in signal telling you to go patch the AI package your engineering team quietly spun up six months ago. \ud835\udc13\ud835\udc21\ud835\udc1e \ud835\udc1a\ud835\udc2e\ud835\udc1d\ud835\udc22\ud835\udc2d \ud835\udc1d\ud835\udc28\ud835\udc1e\ud835\udc2c\ud835\udc27'\ud835\udc2d \ud835\udc1a\ud835\udc2c\ud835\udc24 \ud835\udc1a\ud835\udc1b\ud835\udc28\ud835\udc2e\ud835\udc2d \ud835\udc30\ud835\udc21\ud835\udc1a\ud835\udc2d \ud835\udc22\ud835\udc2d \ud835\udc30\ud835\udc1a\ud835\udc2c\ud835\udc27'\ud835\udc2d \ud835\udc1d\ud835\udc1e\ud835\udc2c\ud835\udc22\ud835\udc20\ud835\udc27\ud835\udc1e\ud835\udc1d \ud835\udc2d\ud835\udc28 \ud835\udc25\ud835\udc28\ud835\udc28\ud835\udc24 \ud835\udc1f\ud835\udc28\ud835\udc2b. Organizations are building, deploying, and operating AI in the cloud, but basic cybersecurity hygiene is often being sacrificed for speed. That tradeoff might feel invisible right now. It tends to become very visible very quickly. This is the gap between certified and actually protected, playing out at scale, in real time. #Cybersecurity #AIRisk #RiskManagement #SecurityCompliance #AIGovernance #Research ...more ...more",
+        "img": null,
+        "id": "7485820337260081152"
+      },
+      {
+        "interaction": null,
+        "link": "https://www.linkedin.com/posts/venkatnathg_riskmanagement-cybersecurity-securitycompliance-activity-7481394799435010048-F3Ut",
+        "title": "\ud835\udc13\ud835\udc28 \ud835\udc1c\ud835\udc25\ud835\udc28\ud835\udc2c\ud835\udc1e \ud835\udc28\ud835\udc2e\ud835\udc2d \ud835\udc2d\ud835\udc21\ud835\udc22\ud835\udc2c \ud835\udc2d\ud835\udc21\ud835\udc2b\ud835\udc1e\ud835\udc1a\ud835\udc1d - \ud835\udc13\ud835\udc21\ud835\udc1e \ud835\udc26\ud835\udc28\ud835\udc2c\ud835\udc2d \ud835\udc2d\ud835\udc1e\ud835\udc25\ud835\udc25\ud835\udc22\ud835\udc27\ud835\udc20 \ud835\udc29\ud835\udc1a\ud835\udc2b\ud835\udc2d \ud835\udc30\ud835\udc1a\ud835\udc2c\ud835\udc27'\ud835\udc2d \ud835\udc2d\ud835\udc21\ud835\udc1a\ud835\udc2d \ud835\udc2d\ud835\udc1e\ud835\udc1a\ud835\udc26\ud835\udc2c \ud835\udc30\ud835\udc1e\ud835\udc2b\ud835\udc1e \ud835\udc1f\ud835\udc1a\ud835\udc22\ud835\udc25\ud835\udc22\ud835\udc27\ud835\udc20 \ud835\udc1a\ud835\udc2e\ud835\udc1d\ud835\udc22\ud835\udc2d\ud835\udc2c. \ud835\udc08\ud835\udc2d \ud835\udc30\ud835\udc1a\ud835\udc2c \ud835\udc2d\ud835\udc21\ud835\udc1a\ud835\udc2d \ud835\udc2d\ud835\udc21\ud835\udc1e\ud835\udc32 \ud835\udc30\ud835\udc1e\ud835\udc2b\ud835\udc1e \ud835\udc29\ud835\udc1a\ud835\udc2c\ud835\udc2c\ud835\udc22\ud835\udc27\ud835\udc20 \ud835\udc2d\ud835\udc21\ud835\udc1e\ud835\udc26, \ud835\udc1a\ud835\udc27\ud835\udc1d \ud835\udc2c\ud835\udc2d\ud835\udc22\ud835\udc25\ud835\udc25 \ud835\udc2e\ud835\udc27\ud835\udc1c\ud835\udc1e\ud835\udc2b\ud835\udc2d\ud835\udc1a\ud835\udc22\ud835\udc27. The audit had been complete for months, yet \ud835\udc2d\ud835\udc21\ud835\udc1e \ud835\udc29\ud835\udc1e\ud835\udc2b\ud835\udc2c\ud835\udc28\ud835\udc27 \ud835\udc1a\ud835\udc1c\ud835\udc2d\ud835\udc2e\ud835\udc1a\ud835\udc25\ud835\udc25\ud835\udc32 \ud835\udc2b\ud835\udc1e\ud835\udc2c\ud835\udc29\ud835\udc28\ud835\udc27\ud835\udc2c\ud835\udc22\ud835\udc1b\ud835\udc25\ud835\udc1e \ud835\udc1f\ud835\udc28\ud835\udc2b \ud835\udc2c\ud835\udc1e\ud835\udc1c\ud835\udc2e\ud835\udc2b\ud835\udc22\ud835\udc2d\ud835\udc32 still couldn't say with confidence what their posture looked like right now. If the certification is current but nobody can answer that question, what exactly did the audit confirm? The certification and the confidence have stopped moving together. That gap doesn't show up in the report. It doesn't trigger a finding. And in most cases, \ud835\udc27\ud835\udc28\ud835\udc1b\ud835\udc28\ud835\udc1d\ud835\udc32 \ud835\udc1a\ud835\udc2c\ud835\udc24\ud835\udc2c \ud835\udc1a\ud835\udc1b\ud835\udc28\ud835\udc2e\ud835\udc2d \ud835\udc22\ud835\udc2d \ud835\udc1b\ud835\udc1e\ud835\udc1c\ud835\udc1a\ud835\udc2e\ud835\udc2c\ud835\udc1e \ud835\udc2d\ud835\udc21\ud835\udc1e \ud835\udc1f\ud835\udc2b\ud835\udc1a\ud835\udc26\ud835\udc1e\ud835\udc30\ud835\udc28\ud835\udc2b\ud835\udc24 \ud835\udc22\ud835\udc2c\ud835\udc27'\ud835\udc2d \ud835\udc1d\ud835\udc1e\ud835\udc2c\ud835\udc22\ud835\udc20\ud835\udc27\ud835\udc1e\ud835\udc1d \ud835\udc2d\ud835\udc28. That's the part I keep coming back to. #RiskManagement #Cybersecurity #SecurityCompliance #GRC #SOC2 #ISO27001 #Research ...more ...more",
+        "img": null,
+        "id": "7481394799435010048"
+      },
+      {
+        "interaction": null,
+        "link": "https://www.linkedin.com/posts/venkatnathg_data-breach-reported-for-figure-technology-activity-7475598645975883776-qchI",
+        "title": "Hot take: a blockchain-based fintech just had nearly a million customer records stolen. They had a $3.2B valuation. They presumably had audits. They presumably had certifications. Figure, the San Francisco-based lending platform, disclosed earlier this year that hackers made off with personal information on close to one million customers: names, addresses, dates of birth, phone numbers, and email addresses. The company was quick to note that Social Security numbers and financial account details weren't part of it. Which is true. And also a little beside the point. Here's what actually stood out to me: cybersecurity researchers linked the attack to ShinyHunters, a group that's been responsible for some of the largest breaches of the last few years. This wasn't a novel, unpredictable threat. It was a known actor using known methods against a company that, by all appearances, was doing things right. That's the part worth sitting with. Not \"how did they get breached\" but \"what did their risk posture actually look like the day before this happened?\" Did their compliance program reflect that exposure? Did anyone own that question? Regulators have been ramping up scrutiny of security practices at digital-first financial companies, and the CFPB has made clear that fintech firms face the same data protection obligations as traditional banks. The enforcement pressure is real. But enforcement pressure drives documentation. It doesn't automatically drive the kind of continuous, operational risk awareness that would have flagged this earlier. This is exactly the pattern I've been researching. Will keep you posted with updates. #RiskManagement #Fintech #Cybersecurity #DataBreach #Compliance #FinancialServices Source: https://lnkd.in/gURdgcTB ...more ...more",
+        "img": "https://media.licdn.com/dms/image/sync/v2/D5627AQEGI8TSs9DBOg/articleshare-shrink_800/B56Z76nF50H4AY-/0/1782321012608?e=2147483647&v=beta&t=42vAKpXB8MHUtis7bckfrkeEyF8gdEDUcETVlJr-StI",
+        "id": "7475598645975883776"
+      },
+      {
+        "interaction": null,
+        "link": "https://www.linkedin.com/posts/venkatnathg_riskmanagement-cybersecurity-soc2-activity-7473452386015956994-zIb-",
+        "title": "\ud83d\udd0d Most companies don't lose control of their risk management on purpose. It happens gradually, usually right around the time they start scaling. I've been digging into this lately: how security and compliance functions evolve as companies grow, particularly around frameworks like SOC 2 and ISO 27001. What's interesting isn't the frameworks themselves, it's what happens to risk management once those frameworks enter the picture. In the early days, risk feels intuitive. A small team knows where the soft spots are because they built the thing. But as companies scale and compliance requirements show up, often driven by a customer deal or an investor requirement, something subtle shifts. Risk management starts getting defined by what the audit checks for, rather than the audit reflecting what the company is actually worried about. The checklist becomes the risk model. That's not a criticism of the frameworks. It's a pretty natural response to growth; you need something standardized once you can't rely on tribal knowledge anymore. But people I've talked with described a real moment of realization: passing an audit and still not feeling like they had a handle on their actual exposure. The certification and the confidence stopped moving together. I'm still working through what makes the difference. More on this soon. #RiskManagement #Cybersecurity #SOC2 #ISO27001 #Compliance #Scaling #MBA #HaasSchoolOfBusiness ...more ...more",
+        "img": null,
+        "id": "7473452386015956994"
+      },
+      {
+        "interaction": null,
+        "link": "https://www.linkedin.com/posts/aadhithrajinikanth_gemini3-nanobananapro-googleai-activity-7403594377320660992-uLuW",
+        "title": "Google just dropped Gemini 3 and Nano Banana Pro\u2014 and they launched a hackathon in SF to push the limits of both models. I placed 2nd Overall alongside Dhruv Jena , Rohan Dash , and Rishabh Abhishetty . It was an intense industry-style build where we competed and networked with leading tech engineers with 10+ years experience and serial startup founders. We went in with one idea, but midway through the hackathon we realized we wanted to take full advantage of Gemini 3 and especially Nano Banana\u2019s capabilities. That pushed us to pivot halfway and build something completely new: ForenSight AI. ForenSight AI is a forensic analysis platform that takes in real-world evidence (images, video, audio, text), runs it through Gemini 3\u2019s reasoning engine, and produces: - a unified world model of the scene - a timeline of events - contradiction detection analysis across evidence and witness statements - multiple plausible scenarios - a realism suspect sketch - and 4K photorealistic reconstructions using Nano Banana Huge shoutout to Cerebral Valley for organizing the event and the neat venue and big respect to the winners and everyone who shipped something ambitious under a tight deadline. Thank you to the judges and Google DeepMind Team for your time and help. What's next with ForenSight AI: We\u2019re now taking this weekend prototype and shipping it into a full-stack platform \u2014 adding deeper functionality, a node-based evidence flow that recommends investigative leads, and a systemized case board. If you're interested in what we're building or want to chat feel free to connect. https://lnkd.in/gQiqKENJ #Gemini3 #NanoBananaPro #GoogleAI #CerebralValley #Hackathon #AIEngineering #MultimodalAI #ForensicAI #AgenticAI #StartupBuild #DeepLearning #AIInnovation #FullStackAI #SceneReconstruction #AIVision #LLMApps #GoogleDeepMind #GeminiModels #TechCommunity #SFTech ...more ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQEykPXQtfj9sA/feedshare-shrink_800/B56Zr7Z1meH8Ak-/0/1765154450753?e=2147483647&v=beta&t=xbKHwJVM-2Fd37ppZcM-BtYcnuSGV3GIa3SW3bNTqxc",
+        "id": "7403594377320660992"
+      },
+      {
+        "interaction": "Rohan Dash commented on a post 1mo",
+        "link": "https://www.linkedin.com/posts/venkatnathg_riskmanagement-cybersecurity-securitycompliance-activity-7481394799435010048-F3Ut",
+        "title": "Well said! This really highlights the blurring line between security and compliance. Confidence comes from ongoing visibility, not just point-in-time audits or certifications.",
+        "img": null,
+        "id": "7481394799435010048"
+      },
+      {
+        "interaction": "Rohan Dash commented on a post 1mo",
+        "link": "https://www.linkedin.com/posts/ford-coleman_internships-activity-7469131004184764416-2PWa",
+        "title": "rohandash@berkeley.edu",
+        "img": null,
+        "id": "7469131004184764416"
+      },
+      {
+        "interaction": "Rohan Dash liked this",
+        "link": "https://www.linkedin.com/posts/mahakrathii_its-hard-to-believe-im-already-halfway-activity-7486109883680051202-hk_-",
+        "title": "It's hard to believe I'm already halfway through my internship with Solar Turbines, and I\u2019m incredibly grateful for the experience so far. From day one, the onboarding process has been seamless, and I want to extend a special thank you to Swapna Cheedella and Hassan Richardson for their insightful conversations and support during my start. Their guidance made transitioning into the team smooth and energizing. I\u2019m also very thankful to my mentors in SSD, Eduardo Pulido and Drew Magnussen , who I\u2019ve been working closely with. Their mentorship and willingness to share knowledge have already made a huge impact on my learning and growth. One highlight so far has been the opportunity to be part of the AWS Summit, where I helped coordinate efforts alongside Jaroslav Skrickij from AWS while learning more about cloud technologies and large-scale event execution. It was an incredible experience that gave me valuable exposure beyond day-to-day work. Over these past few weeks, I\u2019ve had the chance to dive into meaningful projects, connect with talented individuals across teams, and gain hands-on experience at the intersection of technology and business. I\u2019m excited to continue building, learning, and contributing this summer with my team and the broader Solar Turbines community.",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQHf3LvaA3O5gA/feedshare-shrink_800/B56Z7xQe5mH4Ac-/0/1782164091593?e=2147483647&v=beta&t=lqLTV45vh7yr9jxPWsWchegE3waK89t8d5sW4RpMVrU",
+        "id": "7486109883680051202"
+      },
+      {
+        "interaction": "Rohan Dash liked this",
+        "link": "https://www.linkedin.com/posts/kabir-dua_so-stoked-to-announce-that-i-will-be-joining-activity-7490821927251468289-72pK",
+        "title": "So stoked to announce that I will be joining Boston Consulting Group (BCG) as a Summer Associate! Huge thank you to Tristan Renondin , Sheila (Ho) Valenta , Sahiba Dulai , Will Yoh , Kai Xiao, Ramiro Palma , Keya Pardasani , Jash D. i, Jash D., Motolani Arinoso , Maya Walker , Cailin Griffith , Sara Shirazi , and Sam Clark for the support throughout the process. Special shoutout to Madhurum Bhuvan , Jules De Boni , Anuj Dua , Tian Yu (T.Y.) , Nikith Vangala , and Wenhan Xi for validating my self-confidence and being there every step of the way. See you soon, New York!",
+        "img": "https://media.licdn.com/dms/image/v2/D4D22AQHANDa120EhjA/feedshare-shrink_800/B4DZ_Sm9n_J4Ac-/0/1785944857460?e=2147483647&v=beta&t=VaSIBCqM49xj9VJ1svcoD1nATUbwXLv8bzu1r57vWoA",
+        "id": "7490821927251468289"
+      },
+      {
+        "interaction": "Rohan Dash liked this",
+        "link": "https://www.linkedin.com/posts/yu-huang12_internships-softwareengineering-productmanagement-activity-7490091446235209728-Hc7d",
+        "title": "Microsoft, TikTok, ByteDance, American Express, and Capital One all opened Summer 2027 internships today. 225 roles in a single day. If you were not looking today, you missed all of it. TikTok added 161 roles. ByteDance added 51. Microsoft posted SWE, PM, and TPM American Express added 5 Capital One opened all of its Summer 2027 programs You can see all of them here, free, no account needed: https://lnkd.in/gf_rBmdW The problem was never that internships are unavailable. It is that they are scattered across hundreds of company career pages, community spreadsheets, and Discord channels that move too quickly to follow. By the time most students hear about a role, the first wave of applications has already arrived. I know that gap personally. Last cycle I kept finding postings a week after they went up, and a week late means a thousand applications are already ahead of you. Most students did not miss the applications. They missed the moment they opened. So over the past weeks I built Internship Radar 2027. It checks official employer career pages and job APIs on a schedule, removes duplicate listings, and sorts roles by when they actually opened rather than when they were discovered. It now tracks 946 open internships across 220 companies, with nearly 600 added in the past seven days. Three things I would ask, in order of how much they matter: Go look today, not in the fall. Recruiting has already started whether or not it feels like it has. Set an email alert for your roles and locations. It takes about thirty seconds, and it is the difference between hearing about the next launch in the first hour and hearing about it next Thursday. That is the entire reason this exists. Send this to one person who is recruiting this cycle. Most people still do not know what happened today. Still building it every week. Thank you to the 9,000 people who have used it and the 25,000 applications started since launch 3 weeks ago. I did not expect that. If a listing is wrong or a company is missing, hit report. It comes straight to me. Good luck this recruiting cycle. I am genuinely rooting for everyone applying. #Internships #SoftwareEngineering #ProductManagement #CareerDevelopment #Summer2027 #job #career",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQEQHZCpocxYqw/feedshare-image-high-res/B56Z_ImevtGcAU-/0/1785776958659?e=2147483647&v=beta&t=MXUpahHC0oIEuzahewESIWCXRZyD89F5MMXS1P6-xbw",
+        "id": "7490091446235209728"
+      },
+      {
+        "interaction": "Rohan Dash liked this",
+        "link": "https://www.linkedin.com/posts/moatazbayoumi_yc-startup-internship-expo-activity-7489344263760048131-FdWQ",
+        "title": "I\u2019m excited to share that I\u2019ll be attending the Y Combinator Startup Internship Expo on August 15th in San Francisco. I\u2019m looking forward to meeting more than 50 YC companies, learning about their ambitious products, and gaining as much insight as I can from the founders. If you\u2019re attending too, let\u2019s connect!",
+        "img": "https://media.licdn.com/dms/image/sync/v2/D5627AQEKev2nn_5Mmw/articleshare-shrink_800/B56Z7b16jdIMAY-/0/1781804806611?e=2147483647&v=beta&t=ypk3J8US3DnIVa-_qVMpoS90Ct9ZxBItgd9rzZJtPn0",
+        "id": "7489344263760048131"
+      },
+      {
+        "interaction": "Rohan Dash liked this",
+        "link": "https://www.linkedin.com/posts/rohun-trakru_chess-imctrading-teamliquid-activity-7485540801872277504-s-k5",
+        "title": "Drawing both Magnus Carlsen and Fabiano Caruana still does not feel real. I recently had the opportunity to attend IMC Trading \u2019s U.S. Chess Academy in Chicago alongside some of the country\u2019s top collegiate chess players. After finishing second in the tournament, I had the surreal experience of facing World No. 1 Magnus Carlsen and World No. 2 Fabiano Caruana in a simultaneous exhibition\u2014and managing to draw against both. Beyond the competition, the weekend included masterclasses, conversations with other talented players, and the opportunity to learn more about IMC and the world of quantitative trading. Touring the office and hearing directly from the people behind the work made the experience even more memorable. A huge thank you to Melissa Roe for helping organize such an incredible event, as well as IMC Trading , Team Liquid , and the U.S. Chess Academy for bringing everything together. #Chess #IMCTrading #TeamLiquid #QuantTrading #CollegeChess",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQExmtqUYQ89bw/feedshare-shrink_800/B56Z.H7rZoGUAc-/0/1784691997640?e=2147483647&v=beta&t=e5FegdSAF3D-u7oPUzdWY09ZW3yp-17a69CjYECINRE",
+        "id": "7485540801872277504"
+      },
+      {
+        "interaction": "Rohan Dash liked this",
+        "link": "https://www.linkedin.com/posts/venkatnathg_cybersecurity-aiinfrastructure-riskmanagement-activity-7486102850704658433-XbCj",
+        "title": "The AI infrastructure buildout is one of the fastest capital deployment cycles in history. The security programs around it are not keeping up. In 2025 alone, U.S. data center construction starts reached $77.7 billion; a 190% year-over-year increase. In the first half of 2026, another $88 billion in projects are set to break ground. Hyperscalers are moving at a pace the security industry hasn't had to match before. AI data centers are being built faster than they can be secured. And the security challenge isn't just scale, it's structural. These aren't traditional data centers running independent servers. \ud835\udc13\ud835\udc21\ud835\udc1e\ud835\udc32'\ud835\udc2b\ud835\udc1e \ud835\udc2c\ud835\udc22\ud835\udc27\ud835\udc20\ud835\udc25\ud835\udc1e, \ud835\udc26\ud835\udc1a\ud835\udc2c\ud835\udc2c\ud835\udc22\ud835\udc2f\ud835\udc1e\ud835\udc25\ud835\udc32 \ud835\udc22\ud835\udc27\ud835\udc2d\ud835\udc1e\ud835\udc2b\ud835\udc1c\ud835\udc28\ud835\udc27\ud835\udc27\ud835\udc1e\ud835\udc1c\ud835\udc2d\ud835\udc1e\ud835\udc1d \ud835\udc1e\ud835\udc27\ud835\udc20\ud835\udc22\ud835\udc27\ud835\udc1e\ud835\udc2c where a vulnerability in one layer: firmware, network interconnects, multi-tenant isolation, can cascade in ways that a standard risk framework wasn't designed to model. The pattern is familiar. A new capability gets deployed at speed. The risk program tries to catch up. \ud835\udc13\ud835\udc21\ud835\udc1e \ud835\udc20\ud835\udc1a\ud835\udc29 \ud835\udc1b\ud835\udc1e\ud835\udc2d\ud835\udc30\ud835\udc1e\ud835\udc1e\ud835\udc27 \ud835\udc1d\ud835\udc1e\ud835\udc29\ud835\udc25\ud835\udc28\ud835\udc32\ud835\udc26\ud835\udc1e\ud835\udc27\ud835\udc2d \ud835\udc1a\ud835\udc27\ud835\udc1d \ud835\udc29\ud835\udc2b\ud835\udc28\ud835\udc2d\ud835\udc1e\ud835\udc1c\ud835\udc2d\ud835\udc22\ud835\udc28\ud835\udc27 \ud835\udc22\ud835\udc2c \ud835\udc30\ud835\udc21\ud835\udc1e\ud835\udc2b\ud835\udc1e \ud835\udc1e\ud835\udc31\ud835\udc29\ud835\udc28\ud835\udc2c\ud835\udc2e\ud835\udc2b\ud835\udc1e \ud835\udc25\ud835\udc22\ud835\udc2f\ud835\udc1e\ud835\udc2c, and in most organizations, that gap is neither measured nor reported. Speed is a competitive advantage until it isn't. The compliance programs that were built for last decade's infrastructure aren't automatically equipped for this one. #Cybersecurity #AIInfrastructure #RiskManagement #DataCenterSecurity #SecurityPosture #Research",
+        "img": null,
+        "id": "7486102850704658433"
+      },
+      {
+        "interaction": "Rohan Dash liked this",
+        "link": "https://www.linkedin.com/posts/venkatnathg_cybersecurity-airisk-riskmanagement-activity-7485820337260081152--4Ty",
+        "title": "A number came out last week that I haven't been able to stop thinking about. Orca Security's 2026 State of AI Security Report, which pulled telemetry from over 1,200 production cloud environments, found that 99.9% of AI vulnerability alerts with an available fix remain unpatched. 81.2% of companies running AI packages have at least one known vulnerability. These aren't theoretical exposures or edge cases. These are known issues, with fixes available, sitting unaddressed across the majority of organizations that have deployed AI into production. The reason isn't negligence. It's prioritization, and \ud835\udc29\ud835\udc2b\ud835\udc22\ud835\udc28\ud835\udc2b\ud835\udc22\ud835\udc2d\ud835\udc22\ud835\udc33\ud835\udc1a\ud835\udc2d\ud835\udc22\ud835\udc28\ud835\udc27 \ud835\udc22\ud835\udc2c \ud835\udc1d\ud835\udc28\ud835\udc30\ud835\udc27\ud835\udc2c\ud835\udc2d\ud835\udc2b\ud835\udc1e\ud835\udc1a\ud835\udc26 \ud835\udc28\ud835\udc1f \ud835\udc21\ud835\udc28\ud835\udc30 \ud835\udc32\ud835\udc28\ud835\udc2e \ud835\udc26\ud835\udc1e\ud835\udc1a\ud835\udc2c\ud835\udc2e\ud835\udc2b\ud835\udc1e \ud835\udc2b\ud835\udc22\ud835\udc2c\ud835\udc24. If your compliance program tells you you're secure because your controls are documented and your last audit was clean, there's no built-in signal telling you to go patch the AI package your engineering team quietly spun up six months ago. \ud835\udc13\ud835\udc21\ud835\udc1e \ud835\udc1a\ud835\udc2e\ud835\udc1d\ud835\udc22\ud835\udc2d \ud835\udc1d\ud835\udc28\ud835\udc1e\ud835\udc2c\ud835\udc27'\ud835\udc2d \ud835\udc1a\ud835\udc2c\ud835\udc24 \ud835\udc1a\ud835\udc1b\ud835\udc28\ud835\udc2e\ud835\udc2d \ud835\udc30\ud835\udc21\ud835\udc1a\ud835\udc2d \ud835\udc22\ud835\udc2d \ud835\udc30\ud835\udc1a\ud835\udc2c\ud835\udc27'\ud835\udc2d \ud835\udc1d\ud835\udc1e\ud835\udc2c\ud835\udc22\ud835\udc20\ud835\udc27\ud835\udc1e\ud835\udc1d \ud835\udc2d\ud835\udc28 \ud835\udc25\ud835\udc28\ud835\udc28\ud835\udc24 \ud835\udc1f\ud835\udc28\ud835\udc2b. Organizations are building, deploying, and operating AI in the cloud, but basic cybersecurity hygiene is often being sacrificed for speed. That tradeoff might feel invisible right now. It tends to become very visible very quickly. This is the gap between certified and actually protected, playing out at scale, in real time. #Cybersecurity #AIRisk #RiskManagement #SecurityCompliance #AIGovernance #Research",
+        "img": null,
+        "id": "7485820337260081152"
+      },
+      {
+        "interaction": "Rohan Dash liked this",
+        "link": "https://www.linkedin.com/posts/aryan-achuthan_chess-quant-trading-activity-7485515023671382016-pdv_",
+        "title": "Magnus Carlsen wrecked me, mating me dead center of the board. Got the chance to attend IMC's US Chess Academy as one of 24 top college players selected nationwide, where I played against World No. 1 Magnus Carlsen and World No. 2 Fabiano Caruana , sat in on a masterclass, and had one of my games from the qualifier pulled up and broken down live. Also got the opportunity to tour IMC's office and got a real behind-the-scenes look into IMC. Got to learn so much about the firm and quant trading from the people who actually do it. Huge thanks to Melissa Roe , IMC Trading , and Team Liquid for making this happen, and to the other qualifiers who made it a moment I won't forget. #Chess #Quant #Trading #CollegeRecruiting #TeamLiquid #CollegeChess",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQFSswygC25m_A/feedshare-shrink_800/B56Z.HkPXZHYAc-/0/1784685852890?e=2147483647&v=beta&t=ryIBR7RoJBX-NiKMBOXcNMcXBeTlPBvpZiGZv6NPYHU",
+        "id": "7485515023671382016"
+      }
+    ],
+    "linkedin_num_id": "1257910700",
+    "banner_image": "https://static.licdn.com/aero-v1/sc/h/5q92mjc5c51bjlwaj3rs9aa82",
+    "honors_and_awards": null,
+    "similar_profiles": [],
+    "default_avatar": false,
+    "memorialized_account": false,
+    "bio_links": [
+      {
+        "title": "Company Website",
+        "link": "https://chess-4change.org/"
+      }
+    ],
+    "first_name": "Rohan",
+    "last_name": "Dash",
+    "influencer": false,
+    "timestamp": "2026-08-12T19:13:44.995Z",
+    "input": {
+      "url": "https://www.linkedin.com/in/rohandash"
+    }
+  },
+  "local_photo": "data\\linkedin_photos\\rohandash__usr-z6HiDhAUTHeZ3SU.jpg"
+}

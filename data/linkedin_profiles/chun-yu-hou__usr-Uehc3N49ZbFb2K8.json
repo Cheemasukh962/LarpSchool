@@ -1,0 +1,215 @@
+{
+  "luma_user_id": "usr-Uehc3N49ZbFb2K8",
+  "csv_name": "Jerry Hou",
+  "csv_linkedin": "https://www.linkedin.com/in/chun-yu-hou",
+  "enriched_at": "2026-08-12T19:07:22.295060+00:00",
+  "batch_id": "sd_msqgmjx4y9b9cgg4i",
+  "profile": {
+    "id": "chun-yu-hou",
+    "name": "Jerry Hou",
+    "city": "Pittsburgh, Pennsylvania, United States",
+    "country_code": "US",
+    "position": null,
+    "about": "Motivated Master\u2019s student at Carnegie Mellon University, specializing in robotics\u2026",
+    "current_company": {
+      "link": "https://www.linkedin.com/company/moss-ag?trk=public_profile_topcard-current-company",
+      "name": "moss",
+      "company_id": "moss-ag",
+      "location": null
+    },
+    "experience": null,
+    "url": "https://il.linkedin.com/in/chun-yu-hou",
+    "educations_details": "Carnegie Mellon University School of Computer Science",
+    "education": [
+      {
+        "title": "Carnegie Mellon University School of Computer Science",
+        "url": "https://www.linkedin.com/school/cmuscs/",
+        "start_year": "2025-07",
+        "end_year": "2027-06",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      },
+      {
+        "start_year": "2022-09",
+        "end_year": "2023-10",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      },
+      {
+        "start_year": "2018",
+        "end_year": "2022",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      }
+    ],
+    "avatar": "https://media.licdn.com/dms/image/v2/D4E03AQGsun2OB3j6Tg/profile-displayphoto-scale_200_200/B4EZ3PiJTuJMAg-/0/1777303331259?e=2147483647&v=beta&t=ArL8DzIQDKOhwKUhoh94SqbE5c6lygitSIU3qES-vO4",
+    "followers": 467,
+    "connections": 447,
+    "current_company_company_id": "moss-ag",
+    "current_company_name": "moss",
+    "publications": [
+      {
+        "title": "Improving Height Estimation for Stationary Targets with 3D Automotive Radar: From Uncertainty Analysis to Temporal Filtering",
+        "subtitle": "IEEE Transactions on Radar Systems",
+        "date": "August 25, 2025",
+        "description": "This paper addresses the challenge of elevation angle estimation in 3D automotive radar, a critical limitation for achieving accurate and reliable 3D scene understanding in autonomous driving. While vertical Doppler Beam Sharpening (DBS) provides a foundation for height estimation, existing implementations often suffer from limitations due to measurement noise. We enhance DBS using a rigorous uncertainty analysis and a robust, temporal filtering approach. Our analysis reveals the significant impact of target-sensor geometry, particularly small elevation angles, on estimation errors. To mitigate these uncertainties, we develop a simple yet effective method combining an Extended Kalman Filter (EKF) for temporal filtering with robust data association to reject spurious detections. Real-world experiments on highway and ITRI campus datasets, spanning 34 km and 1.9 km respectively, using a standard 3D radar and a pre-built LiDAR map for ground truth, demonstrate a substantial improvement in height accuracy. Compared to unfiltered DBS, our method increases height accuracy within 1 meter from 53.41% to 62.32% on the highway and from 47.74% to 57.56% on ITRI campus."
+      },
+      {
+        "title": "Automotive Radar Missing Dimension Reconstruction from Motion",
+        "subtitle": "2023 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)",
+        "date": "October 1, 2023",
+        "description": "Automotive radars have been reliably used in most assisted and autonomous driving systems due to their robustness to extreme weather conditions. With radial velocity measurements from automotive radars, moving targets such as cars, trucks, and buses can be tracked robustly. However, due to the lack of elevation angles in measurements from automotive radars, stationary targets at different heights, such as maintenance holes and bridges, cannot be distinguished. Most autonomous systems rely on sensor fusion or ignore stationary targets to tackle the problem of missing the elevation angle dimension, which derives safety issues. We propose a simple yet effective approach to estimate the elevation angles of stationary targets from relative velocity and radial velocity measurements from an automotive radar. In contrast to structure from motion in computer vision, we utilize the instantaneous velocity generated from the motion of the ego vehicle. The radial velocity of each target is the projection of relative velocity onto the radial direction from radar to target. The radial velocity of each target can be inferred given the target's azimuth, elevation angle, and relative velocity. Accordingly, the elevation angle of each stationary target can be uniquely calculated given the velocity of radar and the target's azimuth and radial velocity measurements. The radar's velocity is estimated with the existing radar odometry algorithm and IMU. The proposed method is verified with real-world data. We evaluate the system's performance with a pre-built point cloud map and a good localization module in a real-world scenario. The proposed elevation angle reconstruction can reach a 1.41-degree mean error and standard deviation of 0.6 degrees in elevation angle."
+      },
+      {
+        "title": "Extrinsic and Temporal Calibration of Automotive Radar and 3D LiDAR in Factor and On-Road Calibration Settings",
+        "subtitle": "IEEE Open Journal of Intelligent Transportation Systems",
+        "date": "July 1, 2023",
+        "description": "While automotive radars are widely used in ADAS and autonomous driving, extrinsic and temporal calibration of automotive radars with other sensors is still daunting due to the sparsity, uncertainty, and missing elevation angles of automotive radar measurements. We propose a target-based calibration approach of 3D automotive radar and 3D LiDAR that performs extrinsic and temporal calibration in both factory and on-road settings. In factory calibration settings, a map is built with precise target poses; target trajectories are estimated based on map-based target localization in which the accuracy of both nearby and faraway target pose estimates can be ensured. The spatial and temporal relationships between radar and LiDAR measurements are established with target trajectories to accomplish extrinsic and temporal calibration. The proposed data collection procedure provides sufficient motion for analyzing time delay between sensors and can significantly reduce the data collection effort and time. There is 52.3% distance error reduction after time delay compensation in the experiment, which shows the improvements of temporal calibration. In on-road calibration settings, the metal objects with semantic labels, such as traffic signs, are selected as calibration targets. Although there could be insufficient correspondences to infer the missing dimension of planar radar for six DoF extrinsic calibration as demonstrated in factory calibration settings, the three extrinsic parameters and the time delay are shown still to be accurate. We validated the proposed method using the nuScenes datasets, which provide sensor measurements, poses, and HD map. With twenty-two data logs, each has over 1000 correspondences, the result of extrinsic parameters reaches centimeter-level accuracy compared with the offered benchmark. The time delay compensation improves 1 meter error for radar tracking in a 20 m/s vehicle case and improves mapping quality in real world data."
+      }
+    ],
+    "projects": [
+      {
+        "title": "Boosting Stochastic Trajectory Prediction using Conditional Latent Diffusion Model",
+        "description": "Initiated and co-led development of a stochastic trajectory prediction system using a conditional latent diffusion model; proposed semantic traffic fusion, significantly boosting accuracy:Trajectory prediction is a trending topic recent years. There are various deep learning models designed to do predict the trajectories of vehicles and pedestrians in driving scenes. Most of the competitions require models to predict multiple predictions and focus on evaluating the nearest prediction to the ground truth. A typical way to perform trajectory prediction is using Transformer model to fuse the information of vehicles' history trajectories, lane lines, and other information. However, we think of this task as a generative task, and should be solved in a different manner. Those Transformer based model can perform well on statistics overall, but cannot really hold a good variety of generated predictions. If think of the task of generative task, Transformer based models are kind of auto-regressive approach, which has been replaced with VAE, GAN, or Diffusion models in image generation recent years. We propose a Diffusion based trajectory prediction model that can generate predictions with good variety."
+      },
+      {
+        "title": "Human Tracking and Following using UAV",
+        "description": "Utilized YOLOv5 to collect and label custom data, retraining the model for accurate detection of Wally. Implemented a PID controller to enable smooth and responsive UAV maneuvering based on detection output."
+      },
+      {
+        "title": "Representing Scenes as Compositional Generative Neural Feature Fields with Hair Conditions",
+        "description": "Innovated a method to manipulate specific object attributes (e.g., hair color) in scenes by applying targeted conditions to compositional generative neural feature fields, preserving overall object integrity."
+      },
+      {
+        "title": "3D Tetris Battle with C++",
+        "description": "Handcrafted rasterization with 2D drawing library only in C++ as a final project of Object Oriented Programming course."
+      }
+    ],
+    "location": "Pittsburgh",
+    "input_url": "https://www.linkedin.com/in/chun-yu-hou",
+    "linkedin_id": "chun-yu-hou",
+    "activity": [
+      {
+        "interaction": null,
+        "link": "https://www.linkedin.com/posts/amber-lo_aivsdemoday-oyster-aquaculture-activity-7453538531156865024-DjbZ",
+        "title": "Excited to present TidalMark at the #AIVSDemoDay on April 30, 2026. We\u2019re bringing the first affordable counter and grader to US oyster growers. We\u2019ve spent the last few months talking to growers, industry, policy experts, importers, and wholesalers, and it\u2019s been one of the best experiences I\u2019ve had during my time at Carnegie Mellon. Hyped to make this real for #oyster farmers with my team Jerry Hou Andrew Noble Yanling Z. . All I\u2019ll say is\u2026 shuck yeah!!!!!!!!!!! If you\u2019re an AgTech or #Aquaculture investor, let\u2019s chat!! Register: https://luma.com/ju2qivz0 ...more ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQGTmks7L5mcpQ/feedshare-shrink_800/B56Z3BJzECKkAc-/0/1777062064772?e=2147483647&v=beta&t=IspmhIbQeDHLs7VfCowkHaLD8xTFejTZz-fpaYEwUvA",
+        "id": "7453538531156865024"
+      },
+      {
+        "interaction": "Jerry Hou shared this",
+        "link": "https://www.linkedin.com/posts/chun-yu-hou_firesense-activity-7431676714159861760-RHN9",
+        "title": "Happy to share some meaningful progress on our capstone project in CMU\u2019s MRSD program. Our team is building FireSense, a robust multi-agent SLAM system designed for fire scenes. The system generates a live map of indoor environments and tracks firefighters\u2019 locations in real time while they conduct search and rescue operations inside buildings. Over the past few months, we\u2019ve focused heavily on building a strong systems engineering foundation, including defining clear requirements, structuring subsystem interfaces, planning validation tests, and setting up disciplined project management processes. In the AI era, it\u2019s tempting to focus purely on speed. We can now have AI agents generate large amounts of code quickly, but building a mission-critical system like this is a reminder that speed isn\u2019t enough. Clear requirements, thoughtful architecture, and rigorous testing are what turn code into a reliable, deployable system. If you\u2019re interested in following our progress, you can learn more here: https://lnkd.in/em-mYcCk Proud to be working on this with Prakhar Mishra , Ya-Ting HSU , Robert Kerwin , TzuYi Yang , and with strong suppport from our sponsor, The AirLab at Carnegie Mellon University , and Andrew Jong . Looking forward to the next phase as we move deeper into integration and field validation. ...more",
+        "img": null,
+        "id": "7431676714159861760"
+      },
+      {
+        "interaction": "Jerry Hou shared this",
+        "link": "https://www.linkedin.com/posts/chun-yu-hou_claudecode-agenticai-activity-7416448903799177217-3cpB",
+        "title": "Built a new tool to wrap up winter break: git-massage. \ud83d\udc86\u200d\u2642\ufe0f It\u2019s an AI-powered git commit generator that helps you \"massage\" context into your commit history. I built it using Anthropic Claude Code to test out agentic AI capabilities, and I'm already using it to commit its own updates! I've been using it to maintain its own repo, and it's definitely streamlined my workflow. Built with Python 3.12 and uv. Check out the code here: https://lnkd.in/gnsuFbzT #claudecode #agenticai ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D5605AQHBLGAos6Jh7A/videocover-high/B56ZuqOVo1HUBU-/0/1768087445423?e=2147483647&v=beta&t=gFMQ-9uD8J2qGHNnCQg-ynuY7ys2ZCDIRf49BB0A0Dk",
+        "id": "7416448903799177217"
+      },
+      {
+        "interaction": "Jerry Hou shared this",
+        "link": "https://www.linkedin.com/posts/chun-yu-hou_im-incredibly-proud-to-share-the-deployment-activity-7406149284598943744-Rdog",
+        "title": "I'm incredibly proud to share the deployment of the 3D Gaussian Splatting for Visual Localization project, the very first applied computer vision project I initiated during my time at ITRI. From an initial idea to a deployed solution, this journey reinforced the immense potential of 3DGS in revolutionizing how we handle localization and mapping. It's a reminder of how far innovation can go when theory meets application. ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D5605AQGIZ7vYve47Mg/feedshare-thumbnail_720_1280/B56ZsdW6yVHYA0-/0/1765724106137?e=2147483647&v=beta&t=PoH6f22EYnkmJcpnfRJa9dvWZWX-toWK4y3KHSsjcKQ",
+        "id": "7406149284598943744"
+      },
+      {
+        "interaction": "Jerry Hou shared this",
+        "link": "https://www.linkedin.com/posts/chun-yu-hou_autonomousvehicles-slam-4dradar-activity-7373702242979229696-cTXY",
+        "title": "Throwing back to my time at ITRI, where I led a cross-functional team developing a 4D radar-inertial SLAM system on LiDAR maps. By placing 4D imaging radar at the core and fusing it with IMU data through factor graph optimization in GTSAM, we achieved 0.26 m RMSE accuracy while showing the potential for significant cost savings compared to LiDAR-centric localization approaches. This project demonstrated how 4D radar can serve as a robust backbone for autonomous vehicle localization \u2014 scalable, resilient, and cost-effective. Sharing a self-driving testing clip that highlights how radar, IMU, and factor graph optimization can come together to advance the future of autonomous vehicle perception. #AutonomousVehicles #SLAM #4DRadar #SensorFusion #FactorGraphs #GTSAM #Robotics ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D5605AQFc-vf-h9pUVg/videocover-high/B56ZlQR11PJ0DM-/0/1757988491949?e=2147483647&v=beta&t=ZIl_cVoTesYZiBmFI6-dzj5AQmQNkzVAgVV0_25jgFk",
+        "id": "7373702242979229696"
+      },
+      {
+        "interaction": "Jerry Hou shared this",
+        "link": "https://www.linkedin.com/posts/chun-yu-hou_our-paperimproving-height-estimation-for-activity-7364263271597539329-9g2U",
+        "title": "Our paper \u201cImproving Height Estimation for Stationary Targets with 3D Automotive Radar: From Uncertainty Analysis to Temporal Filtering\u201d has been accepted to IEEE Transactions on Radar Systems! \ud83c\udf89 In this work, we tackle one of the key challenges in 3D automotive radar: accurate height estimation for stationary targets. By combining rigorous uncertainty analysis with a robust temporal filtering approach (EKF + data association), we significantly improve radar-based 3D scene understanding without requiring additional hardware. \u2705 Highway experiments: height accuracy within 1m improved from 53.41% \u2192 62.32% \u2705 Campus experiments: height accuracy within 1m improved from 47.74% \u2192 57.56% \u2705 A cost-effective way to bridge the gap between standard 3D radars and expensive 4D radars. If you\u2019re interested in radar perception, autonomous driving, or uncertainty-aware filtering, check out our preprint here: \ud83d\udd17 Preprint on TechRxiv Big thanks to my co-authors Prof. Chieh-Chih Wang and Prof. Wen-Chieh Lin for their guidance and collaboration. \ud83d\ude4c ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D5605AQGDnBUCryiWsg/videocover-high/B56ZjMeUKmHcCI-/0/1755777170311?e=2147483647&v=beta&t=uXEa-iBkkx4eh_s5nUNd_QjXhW2JkDgls5p9TY2qvA0",
+        "id": "7364263271597539329"
+      },
+      {
+        "interaction": "Jerry Hou commented on a post 5mo",
+        "link": "https://www.linkedin.com/posts/evelyn-chen1_roommuse-activity-7438306061989715968-uvlV",
+        "title": "\ud83d\ude80\ud83d\ude80\ud83d\ude80",
+        "img": null,
+        "id": "7438306061989715968"
+      },
+      {
+        "interaction": "Jerry Hou liked this",
+        "link": "https://www.linkedin.com/posts/moss-ag_last-week-we-welcomed-friends-families-activity-7491247621735596033-LOgG",
+        "title": "Last week, we welcomed friends, families, and partners of the moss robotics community to celebrate our move to San Francisco and officially warm our new office. \ud83c\udf1f We had a great time giving everyone a behind-the-scenes look at how our products have evolved from early proof-of-concept ideas into production-ready systems, along with a sneak peek at what's coming next. It's exciting to look back at how far we've come, and even more exciting to think about where we're headed! A big thank you to everyone who came out to celebrate with us. Building great technology is only possible because of the amazing community around us, and we're grateful to have so many people along for the journey. And huge shoutout to Rooted Eats for putting together an incredible spread and fully committing to our bread-themed menu. Fun fact: every one of our hardware projects is affectionately nicknamed after a type of bread or bread condiment, so the menu couldn't have been more fitting. \ud83c\udf5e If you'd like to join us at our next office event, tag yourself or someone who should come in the comments, we'd love to see you at the next one. \ud83c\udf89",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQHAgAy61Zk67g/feedshare-shrink_800/B4EZ_ZCANNIUAg-/0/1786052609428?e=2147483647&v=beta&t=6eJNABdzZVTEXaAbzzjVYrmsCdojn1d_cWJA7Vsh9N4",
+        "id": "7491247621735596033"
+      },
+      {
+        "interaction": "Jerry Hou liked this",
+        "link": "https://www.linkedin.com/posts/andrew-noble-r_i-want-to-belatedly-share-the-progress-my-activity-7471081785989324800-_Yta",
+        "title": "I want to belatedly share the progress my team and I made last semester as part of our capstone project at Carnegie Mellon. Chemistry and biology experimentalists spend much of their time on sample preparation and transport rather than the scientific analysis they're highly trained to do, so we're building a robot to automate the drudge away. We've built a mobile manipulator that leverages Nav2 to autonomously traverse between instruments and a MoveIt-based manipulation stack that performs pick and place of samples. Very grateful for my excellent teammates Srishti Gupta , Aman Tambi , Risha Ranjan , and Yehoshua Halle . In other news, I'm trading the lab for the Pacific this summer, working on oceangoing autonomy with Aqua Satellite .",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQFZWS1G2JY_5g/feedshare-image-high-res/B56Z66dS0nHEAU-/0/1781244702824?e=2147483647&v=beta&t=wU0OXhg82I95f7RGGLwPmIDXkzAF2eMiMhsqK9DU_FA",
+        "id": "7471081785989324800"
+      },
+      {
+        "interaction": "Jerry Hou liked this",
+        "link": "https://www.linkedin.com/posts/prakharmishra1606_im-excited-to-share-that-ive-joinedstack-activity-7465183923619278848-A3jS",
+        "title": "I\u2019m excited to share that I\u2019ve joined Stack AV as a Research Intern in Autonomy on the Localization & Mapping team. This summer, I\u2019ll be working on learned approaches to online HD map road topology estimation - in simple terms, helping an autonomous truck understand how roads, lanes, traffic lights, and other traffic elements relate to one another in real time. I\u2019m especially grateful to Anna Fisher and Cali McKamish for their help and support throughout the onboarding process, and to Nick DePalma and Costas Batsos for being such thoughtful technical mentors and guides as I get started. I\u2019m looking forward to learning from the team and helping advance the mapping and perception systems that support autonomous trucking!",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQHMf-jNn4Eckg/feedshare-shrink_800/B56Z5mpOCrHsAc-/0/1779838542283?e=2147483647&v=beta&t=xcgZ7aHdxshGDZEuS2ZSbkfsPuQ5glYOundsu2D6fjQ",
+        "id": "7465183923619278848"
+      },
+      {
+        "interaction": "Jerry Hou liked this",
+        "link": "https://www.linkedin.com/posts/wenchehung_dont-worry-beeeeeeeee-happy-activity-7463029844881203200-pFy0",
+        "title": "Don\u2019t worry, beeeeeeeee happy \ud83d\udc1d",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQFy3Mn31t5HAA/feedshare-image-high-res/B4EZ5GjUCpKcAU-/0/1779300123515?e=2147483647&v=beta&t=DRZVqKJswbbJYQDD50kCbv_3eQtZ-GBt7_nFN8fIdps",
+        "id": "7463029844881203200"
+      },
+      {
+        "interaction": "Jerry Hou liked this",
+        "link": "https://www.linkedin.com/posts/yutian-chen-469602223_robotics-3dvision-foundationmodel-activity-7462240042720260097-NKdf",
+        "title": "\ud83d\ude80 \ud835\udc02\ud835\udc28-\ud835\udc0c\ud835\udc1e \ud835\udc22\ud835\udc2c \ud835\udc1a\ud835\udc1c\ud835\udc1c\ud835\udc1e\ud835\udc29\ud835\udc2d\ud835\udc1e\ud835\udc1d \ud835\udc2d\ud835\udc28 \ud835\udc02\ud835\udc15\ud835\udc0f\ud835\udc11 2026 \u2014 \ud835\udc1a\ud835\udc27\ud835\udc1d \ud835\udc27\ud835\udc28\ud835\udc30 \ud835\udc1e\ud835\udc2f\ud835\udc1e\ud835\udc27 \ud835\udc1b\ud835\udc1e\ud835\udc2d\ud835\udc2d\ud835\udc1e\ud835\udc2b. \ud835\udc02\ud835\udc28-\ud835\udc0c\ud835\udc1e: \ud835\udc02\ud835\udc28\ud835\udc27\ud835\udc1f\ud835\udc22\ud835\udc1d\ud835\udc1e\ud835\udc27\ud835\udc1c\ud835\udc1e-\ud835\udc06\ud835\udc2e\ud835\udc22\ud835\udc1d\ud835\udc1e\ud835\udc1d \ud835\udc13\ud835\udc28\ud835\udc24\ud835\udc1e\ud835\udc27 \ud835\udc0c\ud835\udc1e\ud835\udc2b\ud835\udc20\ud835\udc22\ud835\udc27\ud835\udc20 \ud835\udc1f\ud835\udc28\ud835\udc2b \ud835\udc15\ud835\udc22\ud835\udc2c\ud835\udc2e\ud835\udc1a\ud835\udc25 \ud835\udc06\ud835\udc1e\ud835\udc28\ud835\udc26\ud835\udc1e\ud835\udc2d\ud835\udc2b\ud835\udc22\ud835\udc1c \ud835\udc13\ud835\udc2b\ud835\udc1a\ud835\udc27\ud835\udc2c\ud835\udc1f\ud835\udc28\ud835\udc2b\ud835\udc26\ud835\udc1e\ud835\udc2b\ud835\udc2c was introduced to accelerate models like VGGT and MapAnything for 3D reconstruction and geometric reasoning. Since our initial release, we have extended Co-Me to support even more visual-geometric foundation models, including \ud835\udc0c\ud835\udc1a\ud835\udc29\ud835\udc00\ud835\udc27\ud835\udc32\ud835\udc2d\ud835\udc21\ud835\udc22\ud835\udc27\ud835\udc20 1.1, \ud835\udc03\ud835\udc1e\ud835\udc29\ud835\udc2d\ud835\udc21 \ud835\udc00\ud835\udc27\ud835\udc32\ud835\udc2d\ud835\udc21\ud835\udc22\ud835\udc27\ud835\udc20 3, \ud835\udc1a\ud835\udc27\ud835\udc1d \ud835\udc0f\ud835\udc223. We also made it even faster: the new Co-Me delivers an additional 2\ud835\udc31 \ud835\udc2c\ud835\udc29\ud835\udc1e\ud835\udc1e\ud835\udc1d\ud835\udc2e\ud835\udc29 over our original release, reaching up to 21.5x acceleration on a 512-\ud835\udc1f\ud835\udc2b\ud835\udc1a\ud835\udc26\ud835\udc1e \ud835\udc15\ud835\udc06\ud835\udc06\ud835\udc13 sequence. \ud835\udc07\ud835\udc28\ud835\udc30 \ud835\udc1d\ud835\udc28\ud835\udc1e\ud835\udc2c \ud835\udc22\ud835\udc2d \ud835\udc30\ud835\udc28\ud835\udc2b\ud835\udc24? Visual-geometric transformers often know which regions are unreliable very early, yet still spend most of their compute processing them through the network. \ud835\udc02\ud835\udc28-\ud835\udc0c\ud835\udc1e \ud835\udc1d\ud835\udc22\ud835\udc2c\ud835\udc2d\ud835\udc22\ud835\udc25\ud835\udc25\ud835\udc2c \ud835\udc1a \ud835\udc2d\ud835\udc22\ud835\udc27\ud835\udc32 \ud835\udc1c\ud835\udc28\ud835\udc27\ud835\udc1f\ud835\udc22\ud835\udc1d\ud835\udc1e\ud835\udc27\ud835\udc1c\ud835\udc1e \ud835\udc29\ud835\udc2b\ud835\udc1e\ud835\udc1d\ud835\udc22\ud835\udc1c\ud835\udc2d\ud835\udc28\ud835\udc2b that identifies these low-confidence regions before most layers run, allowing the model to merge those tokens early and reduce redundant computation while preserving geometric quality. This makes fast, accurate 3D reconstruction and pose estimation increasingly practical for embodied intelligence, robotics, and edge deployment. \ud83d\udc49 \ud835\udc0f\ud835\udc2b\ud835\udc28\ud835\udc23\ud835\udc1e\ud835\udc1c\ud835\udc2d \ud835\udc29\ud835\udc1a\ud835\udc20\ud835\udc1e: https://lnkd.in/egF4nigQ \ud83e\uddd1\u200d\ud83d\udcbb \ud835\udc13\ud835\udc2b\ud835\udc32 \ud835\udc22\ud835\udc2d \ud835\udc27\ud835\udc28\ud835\udc30: https://lnkd.in/g5YBvVRx Arthors: Yutian Chen , Yuheng Qiu , Ruogu Li , Ali Agha , Shayegan Omidshafiei , Jay Patrikar , Sebastian Scherer FieldAI The AirLab at Carnegie Mellon University Carnegie Mellon University Robotics Institute #robotics #3dvision #foundationmodel #deeplearning #computervision #acceleration",
+        "img": "https://media.licdn.com/dms/image/v2/D5605AQG6D7gOUAVPGg/videocover-high/B56Z48uVubGsBM-/0/1779135243244?e=2147483647&v=beta&t=wIJaT1rNC8-J7Cvr2yo09HGWWDZ68xgZBRimEegz-_8",
+        "id": "7462240042720260097"
+      },
+      {
+        "interaction": "Jerry Hou liked this",
+        "link": "https://www.linkedin.com/posts/amber-lo_2026-best-brightest-mba-amber-lo-carnegie-activity-7457761131198140416-OAhc",
+        "title": "Two years ago, I came to business school thinking I needed to become \u201cmore business\u201d to succeed here. Less art. Less storytelling. Less community. More polish. More spreadsheets. More certainty. This week, I was honored to be named one of Poets&Quants\u2019 2026 Best & Brightest MBAs. Life is weird. What I learned here at Carnegie Mellon's Tepper School of Business is that innovation rarely comes from one world alone. It comes from the people willing to build bridges between them. That feels fitting for Pittsburgh, a city built on 446 bridges, where I somehow learned that the most valuable thing you can do is connect ideas, industries, and people that otherwise would\u2019ve never met. These people at the intersection are the ones who move industries forward. A huge thank you to Michelle Stoner and the Accelerate Leadership Center at the Tepper School of Business for helping me trust that perspective earlier. Very grateful for an unforgettable two years in\u2026the City of Bridges. The full profile and everything I loved about my CMU experience: https://lnkd.in/ed5k-7rr",
+        "img": "https://media.licdn.com/dms/image/sync/v2/D5627AQFPBKqbJEwljw/articleshare-shrink_800/B56Z3pZ7jcIQAI-/0/1777737382350?e=2147483647&v=beta&t=iXmPbV8_y1ZQdV6yq-VpltptxFZaPIkfgkFT11gYZaU",
+        "id": "7457761131198140416"
+      },
+      {
+        "interaction": "Jerry Hou reacted on this",
+        "link": "https://www.linkedin.com/posts/paulisick_ai-activity-7454953694464274432-xsTp",
+        "title": "tl;dr Some news as they say ... it's time for Carnegie Mellon University School of Computer Science 's AI Venture Studio demo day! April 30th: InvestInCMU.com (8AM-10AM open coffee/investor meetings - free food! 10AM-12:30PM ET pitches on stage) ANYONE WELCOME! More than 150 CMU builders, alumni, regional entrepreneurs representing more than 50 (!!!) companies will be sharing what they are building and most are raising capital. Thursday, April 30th from 8AM-10AM (free coffee/food) come network or try and drop in with 50+ investors. More than 50% have already got some funding! Thanks to our partners in change AlphaLab (and supporter Innovation Works ), Carnegie Mellon University School of Computer Science , Growth Signals , skilly , and so many more you can meet 400+ people. When Dave Mawhinney , Sean Ammirati , Michael Shamos , and I first kicked this off we had no idea it would grow to arguably the largest incubator in SW PA (by volume) or at least pre-accelerator. THANK YOU! Now, come and support the 50+ teams: InvestInCMU.com and see #AI in all of it's forms. We are maxed on investor meetings but if you want to meet with any of the companies after the event (or at least get connected during the event) please reach out.",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQEG4u3J0049AQ/feedshare-shrink_800/B4EZ3VQ4LGIwAg-/0/1777399465591?e=2147483647&v=beta&t=mCy2_zpqy8KSFEZ63bjMNERANC34uCpavkzPQQyRK8I",
+        "id": "7454953694464274432"
+      }
+    ],
+    "linkedin_num_id": "985145632",
+    "banner_image": "https://media.licdn.com/dms/image/v2/D5616AQE6dOgBWo31_A/profile-displaybackgroundimage-shrink_200_800/B56Zfx7HaIHcAY-/0/1752110496823?e=2147483647&v=beta&t=OxPjU6aqw4QVbRhSVVw5hyMtOANLJ2PASRkaVfRFCxk",
+    "honors_and_awards": null,
+    "similar_profiles": [],
+    "default_avatar": false,
+    "memorialized_account": false,
+    "bio_links": [
+      {
+        "title": "Personal Website",
+        "link": "https://jerry8137.github.io/"
+      }
+    ],
+    "first_name": "Jerry",
+    "last_name": "Hou",
+    "influencer": false,
+    "timestamp": "2026-08-12T19:06:11.250Z",
+    "input": {
+      "url": "https://www.linkedin.com/in/chun-yu-hou"
+    }
+  },
+  "local_photo": "data\\linkedin_photos\\chun-yu-hou__usr-Uehc3N49ZbFb2K8.jpg"
+}

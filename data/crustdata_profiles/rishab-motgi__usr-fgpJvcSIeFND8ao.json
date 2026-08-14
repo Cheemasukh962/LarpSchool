@@ -1,0 +1,267 @@
+{
+  "source": "crustdata",
+  "recovered_from": "brightdata_failed_private",
+  "luma_user_id": "usr-fgpJvcSIeFND8ao",
+  "csv_name": "Rishab Motgi",
+  "csv_linkedin": "https://www.linkedin.com/in/rishab-motgi",
+  "clean_linkedin": "https://www.linkedin.com/in/rishab-motgi",
+  "enriched_at": "2026-08-14T18:07:59.937250+00:00",
+  "person_data": {
+    "basic_profile": {
+      "current_title": "Founding Engineer",
+      "first_name": null,
+      "headline": "Information Systems @ NYU",
+      "languages": [],
+      "last_name": null,
+      "location": {
+        "city": "",
+        "continent": "North America",
+        "country": "United States",
+        "full_location": null,
+        "raw": "San Francisco Bay Area",
+        "state": "California"
+      },
+      "name": "Rishab Motgi",
+      "normalized_title": {
+        "confident": true,
+        "department": "Engineering & Technology",
+        "matched_title": "Founding Engineer",
+        "similarity": 0.9998999834060669,
+        "sub_department": "R&D and Innovation Engineering"
+      },
+      "professional_network_name": "Rishab Motgi",
+      "profile_picture_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/person/718ade6521713bfb39e7dd790c6047420e29105db8762af7be7a0b32fa9bb0dd.jpg",
+      "summary": "rmotgi@iu.eduhttps://www.rishabmotgi.com/https://github.com/rmotgi1227"
+    },
+    "education": {
+      "schools": [
+        {
+          "activities_and_societies": "",
+          "degree": "",
+          "description": "",
+          "end_year": 2024,
+          "field_of_study": "",
+          "institute_logo_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/company/824d01cf24fdbc48cd1e21b100a9d5afdf0e0ef83a91a9daa9c77da20b2f0095.jpg",
+          "institute_logo_url": "https://media.licdn.com/dms/image/v2/C4E0BAQGPPMuhboavSA/company-logo_400_400/company-logo_400_400/0/1630602059669/lynbrook_high_school_logo?e=1775088000&v=beta&t=x0isc6eFNlx_E2thqyaBGmF4UZaupvkT429uDsfUj1Y",
+          "location": {
+            "city": "San Jose",
+            "continent": "North America",
+            "country": "United States",
+            "raw": "San Jose, California, United States",
+            "state": "California"
+          },
+          "professional_network_id": "5661856",
+          "school": "Lynbrook High School",
+          "start_year": 2020
+        },
+        {
+          "activities_and_societies": "",
+          "degree": "Bachelor of Science - BS",
+          "description": "",
+          "end_year": 2028,
+          "field_of_study": "Economics",
+          "institute_logo_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/company/3cded5dea4ac866429b8a82b3929c1615fd6f9c59a125e204e1d27aa345f5c7e.jpg",
+          "institute_logo_url": "https://media.licdn.com/dms/image/v2/C560BAQFonK534Iq8-Q/company-logo_400_400/company-logo_400_400/0/1631332394799?e=1775088000&v=beta&t=JBhcxk1ICpKu8z1MEDFXUxj365R2I42g5drOuBYSz68",
+          "location": {
+            "city": "Bloomington",
+            "continent": "North America",
+            "country": "United States",
+            "raw": "Bloomington, Indiana, United States",
+            "state": "Indiana"
+          },
+          "professional_network_id": "3325",
+          "school": "Indiana University Bloomington",
+          "start_year": 2024
+        },
+        {
+          "activities_and_societies": "",
+          "degree": "Bachelor of Arts",
+          "description": "",
+          "end_year": 2028,
+          "field_of_study": "Computer Science",
+          "institute_logo_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/company/3cded5dea4ac866429b8a82b3929c1615fd6f9c59a125e204e1d27aa345f5c7e.jpg",
+          "institute_logo_url": "https://media.licdn.com/dms/image/v2/C560BAQFonK534Iq8-Q/company-logo_400_400/company-logo_400_400/0/1631332394799?e=1775088000&v=beta&t=JBhcxk1ICpKu8z1MEDFXUxj365R2I42g5drOuBYSz68",
+          "location": {
+            "city": "Bloomington",
+            "continent": "North America",
+            "country": "United States",
+            "raw": "Bloomington, Indiana, United States",
+            "state": "Indiana"
+          },
+          "professional_network_id": "3325",
+          "school": "Indiana University Bloomington",
+          "start_year": 2024
+        }
+      ]
+    },
+    "experience": {
+      "employment_details": {
+        "current": [
+          {
+            "company_description": "A network for entrepreneurs building in stealth. Submit your information here so investors can find you:harmonic.ai/get-discovered",
+            "company_professional_network_profile_url": "https://linkedin.com/company/18583501",
+            "company_profile_picture_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/company/713a8ec1241326ce65bba2e8e4669985db31fc0a799ad8a77017ef6543103219.jpg",
+            "company_website_domain": "harmonic.ai",
+            "crustdata_company_id": 6040342,
+            "description": "",
+            "employment_type": "",
+            "end_date": null,
+            "function_category": "Engineering",
+            "is_default": true,
+            "location": {
+              "raw": ""
+            },
+            "name": "Stealth Startup",
+            "position_id": 2961063214,
+            "professional_network_id": "18583501",
+            "seniority_level": "Entry Level",
+            "start_date": "2026-04-01T00:00:00+00:00",
+            "title": "Founding Engineer",
+            "years_at_company": "Less than 1 year",
+            "years_at_company_raw": 0.0
+          }
+        ],
+        "past": [
+          {
+            "company_description": "42,000 sq. ft. for the world's most ambitious founders.",
+            "company_professional_network_profile_url": "https://linkedin.com/company/78378162",
+            "company_profile_picture_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/company/b5297eb69bb7ca59e9f3b9702fa702bd0af79be909aaa29da24e92a14957c43b.jpg",
+            "company_website_domain": "f.inc",
+            "crustdata_company_id": 1035210,
+            "description": "Artifact & Canopy Cohort",
+            "employment_type": "",
+            "end_date": "2026-05-01T00:00:00+00:00",
+            "function_category": "",
+            "is_default": false,
+            "location": {
+              "raw": ""
+            },
+            "name": "Founders, Inc.",
+            "position_id": 2891586406,
+            "professional_network_id": "78378162",
+            "seniority_level": "Owner / Partner",
+            "start_date": "2026-01-01T00:00:00+00:00",
+            "title": "Founder in Residence",
+            "years_at_company": "Less than 1 year",
+            "years_at_company_raw": 0.0
+          },
+          {
+            "company_description": "",
+            "company_professional_network_profile_url": "https://linkedin.com/company/111866031",
+            "company_profile_picture_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/company/3d33aea9d5e6b06849b65ee09fbcee0b9499cca0a9d1ea9029b6176f795677a6.jpg",
+            "company_website_domain": "ryft.cloud",
+            "crustdata_company_id": 23630123,
+            "description": "failed",
+            "employment_type": "Full-time",
+            "end_date": "2026-03-01T00:00:00+00:00",
+            "function_category": "",
+            "is_default": false,
+            "location": {
+              "raw": ""
+            },
+            "name": "Ryft AI",
+            "position_id": 2680378302,
+            "professional_network_id": "111866031",
+            "seniority_level": "Owner / Partner",
+            "start_date": "2025-07-01T00:00:00+00:00",
+            "title": "Co-Founder",
+            "years_at_company": "Less than 1 year",
+            "years_at_company_raw": 0.0
+          },
+          {
+            "company_description": "Acceldata provides an Agentic Data Management platform that simplifies and speeds the ability for enterprises to deliver trusted data for AI and other initiatives.Founded in 2018, Campbell, CA-based Acceldata developed the world's first enterprise data observability platform to help enterprises build and operate great data products. Built on that foundation, Acceldata's xLake Reasoning Engine now powers the Agentic Data Management platform. Acceldata's solutions have been embraced by global enterprises such as Nestle, Dun & Bradstreet, Hershey, Pubmatic, HCSC, PhonePe (Walmart), TPG Telecom (Australia), Jenius Bank, Merkle, Pubmatic, and many more.Acceldata investors include Insight Partners, March Capital, Industry Ventures, Lightspeed, Sorenson Ventures, Sanabil, and Emergent Ventures.",
+            "company_professional_network_profile_url": "https://linkedin.com/company/35604738",
+            "company_profile_picture_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/company/2d9887d7d66290acfa1ba5791e9fed12913bcd3db54c7b134fd90ddc5470aadb.jpg",
+            "company_website_domain": "acceldata.io",
+            "crustdata_company_id": 643767,
+            "description": "",
+            "employment_type": "Internship",
+            "end_date": "2025-09-01T00:00:00+00:00",
+            "function_category": "Finance",
+            "is_default": false,
+            "location": {
+              "raw": ""
+            },
+            "name": "Acceldata",
+            "position_id": 2652379659,
+            "professional_network_id": "35604738",
+            "seniority_level": "In Training",
+            "start_date": "2025-06-01T00:00:00+00:00",
+            "title": "Finance Intern",
+            "years_at_company": "Less than 1 year",
+            "years_at_company_raw": 0.0
+          },
+          {
+            "company_description": "Acceldata provides an Agentic Data Management platform that simplifies and speeds the ability for enterprises to deliver trusted data for AI and other initiatives.Founded in 2018, Campbell, CA-based Acceldata developed the world's first enterprise data observability platform to help enterprises build and operate great data products. Built on that foundation, Acceldata's xLake Reasoning Engine now powers the Agentic Data Management platform. Acceldata's solutions have been embraced by global enterprises such as Nestle, Dun & Bradstreet, Hershey, Pubmatic, HCSC, PhonePe (Walmart), TPG Telecom (Australia), Jenius Bank, Merkle, Pubmatic, and many more.Acceldata investors include Insight Partners, March Capital, Industry Ventures, Lightspeed, Sorenson Ventures, Sanabil, and Emergent Ventures.",
+            "company_professional_network_profile_url": "https://linkedin.com/company/35604738",
+            "company_profile_picture_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/company/2d9887d7d66290acfa1ba5791e9fed12913bcd3db54c7b134fd90ddc5470aadb.jpg",
+            "company_website_domain": "acceldata.io",
+            "crustdata_company_id": 643767,
+            "description": "",
+            "employment_type": "",
+            "end_date": "2025-09-01T00:00:00+00:00",
+            "function_category": "Finance",
+            "is_default": false,
+            "location": {
+              "raw": ""
+            },
+            "name": "Acceldata",
+            "position_id": 2652379659,
+            "professional_network_id": "35604738",
+            "seniority_level": "In Training",
+            "start_date": "2025-06-01T00:00:00+00:00",
+            "title": "Financial Planning and Analysis Intern",
+            "years_at_company": "Less than 1 year",
+            "years_at_company_raw": 0.0
+          }
+        ]
+      }
+    },
+    "professional_network": {
+      "connections": 1148,
+      "current_title": "Founding Engineer",
+      "followers": 1155,
+      "headline": "Information Systems @ NYU",
+      "location": {
+        "city": "",
+        "continent": "North America",
+        "country": "United States",
+        "raw": "San Francisco Bay Area",
+        "state": "California"
+      },
+      "metadata": {
+        "last_scraped_source": null
+      },
+      "name": "Rishab Motgi",
+      "profile_picture_permalink": "https://crustdata-media.s3.us-east-2.amazonaws.com/person/718ade6521713bfb39e7dd790c6047420e29105db8762af7be7a0b32fa9bb0dd.jpg",
+      "pronoun": "",
+      "summary": "rmotgi@iu.eduhttps://www.rishabmotgi.com/https://github.com/rmotgi1227"
+    },
+    "skills": {
+      "professional_network_skills": [
+        "Nonprofit Organizations",
+        "Financial Markets",
+        "Basketball",
+        "High-Pressure Situations",
+        "Trading",
+        "Non-profit Management",
+        "Cashiering",
+        "Sports Coaching",
+        "High Stress Environment",
+        "Sports"
+      ]
+    },
+    "social_handles": {
+      "dev_platform_identifier": {
+        "profile_url": null
+      },
+      "professional_network_identifier": {
+        "profile_url": "https://www.linkedin.com/in/rishab-motgi"
+      },
+      "twitter_identifier": {
+        "slug": ""
+      }
+    },
+    "crustdata_person_id": 178066414
+  }
+}

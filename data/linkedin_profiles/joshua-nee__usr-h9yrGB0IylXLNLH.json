@@ -1,0 +1,374 @@
+{
+  "luma_user_id": "usr-h9yrGB0IylXLNLH",
+  "csv_name": "J N",
+  "csv_linkedin": "https://www.linkedin.com/in/joshua-nee",
+  "enriched_at": "2026-08-12T19:07:22.297585+00:00",
+  "batch_id": "sd_msqgmjx4y9b9cgg4i",
+  "profile": {
+    "id": "joshua-nee",
+    "name": "Joshua N.",
+    "city": "Mountain View, California, United States",
+    "country_code": "US",
+    "position": null,
+    "about": "I've learned how to learn, and I'm looking to learn more. Currently pursuing a Master's\u2026",
+    "current_company": {
+      "link": "https://www.linkedin.com/company/doordash?trk=public_profile_topcard-current-company",
+      "name": "DoorDash",
+      "company_id": "doordash",
+      "location": null
+    },
+    "experience": null,
+    "url": "https://qa.linkedin.com/in/joshua-nee",
+    "educations_details": "Carnegie Mellon University",
+    "education": [
+      {
+        "title": "Carnegie Mellon University",
+        "url": "https://www.linkedin.com/school/carnegie-mellon-university/",
+        "start_year": "2025-08",
+        "end_year": "2026-12",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      },
+      {
+        "start_year": "2021-08",
+        "end_year": "2025-01",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      },
+      {
+        "start_year": "2023-01",
+        "end_year": "2023-12",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      },
+      {
+        "start_year": "2013-01",
+        "end_year": "2018-12",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      }
+    ],
+    "avatar": "https://static.licdn.com/aero-v1/sc/h/9c8pery4andzj6ohjkjp54ma2",
+    "languages": [
+      {
+        "subtitle": "Native or bilingual proficiency",
+        "title": "English"
+      },
+      {
+        "subtitle": "Native or bilingual proficiency",
+        "title": "Chinese"
+      }
+    ],
+    "certifications": [
+      {
+        "meta": "Issued Jan 2025 See credential",
+        "subtitle": "National University of Singapore",
+        "title": "Deans' List (Academic Year 2024/2025 Semester 1)",
+        "credential_url": "https://credentials.nus.edu.sg/9e79b1a2-84a5-402d-9ccb-d8071ae4e91f?trk=public_profile_see-credential",
+        "credential_id": null
+      },
+      {
+        "meta": "Issued Jun 2024 See credential",
+        "subtitle": "National University of Singapore",
+        "title": "Deans' List (Academic Year 2023/2024 Semester 2)",
+        "credential_url": "https://credentials.nus.edu.sg/a63cccbe-7630-4184-abb0-d7d19e4dc3e2?trk=public_profile_see-credential",
+        "credential_id": null
+      },
+      {
+        "meta": "Issued Aug 2022 Credential ID 56865617 See credential",
+        "subtitle": "National University of Singapore",
+        "title": "Orbital - Apollo 11 (Advanced)",
+        "credential_url": "https://credentials.nus.edu.sg/6a6c34d9-755b-4a18-8f06-41754dd7fd98?trk=public_profile_see-credential",
+        "credential_id": "56865617"
+      },
+      {
+        "meta": "Issued Jun 2021",
+        "subtitle": "edX",
+        "title": "CS50x",
+        "credential_url": null,
+        "credential_id": null
+      },
+      {
+        "meta": "Issued Oct 2020",
+        "subtitle": "DigiPen Institute of Technology Singapore",
+        "title": "Multiplatform Game Programming",
+        "credential_url": null,
+        "credential_id": null
+      },
+      {
+        "meta": "Issued Jun 2016 Expires Aug 2017",
+        "subtitle": "Civil Aviation Authority of Singapore",
+        "title": "Student Pilot License",
+        "credential_url": null,
+        "credential_id": null
+      }
+    ],
+    "volunteer_experience": [
+      {
+        "cause": "Education",
+        "duration": "Jan 2015 \u00b7 - \nDec 2015 \u00b7 \n1 year",
+        "duration_short": "- \nDec 2015",
+        "info": "Learned to give back to the special needs community. Constructed unique events for intellectually disabled students on a weekly basis to reinforce the school's core values.",
+        "start_date": "Jan 2015",
+        "subtitle": "Lee Kong Chian Gardens School",
+        "title": "Student Volunteer"
+      },
+      {
+        "cause": "Education",
+        "duration": "Jan 2024 \u00b7 - \nNov 2024 \u00b7 \n11 months",
+        "duration_short": "- \nNov 2024",
+        "info": "Learned to give back to the underprivileged. Worked together with Bukit Merah Secondary School to uplift 20 secondary school students from less-privileged family circumstances.",
+        "start_date": "Jan 2024",
+        "subtitle": "TeachSG",
+        "title": "Student Mentor"
+      }
+    ],
+    "followers": 735,
+    "connections": 500,
+    "current_company_company_id": "doordash",
+    "current_company_name": "DoorDash",
+    "projects": [
+      {
+        "title": "A New Agent Hackathon",
+        "start_date": "Oct 2025",
+        "description": "Won Vapi Track (200+ builders) for a tool-using LLM scheduling agent with multimodal (text + voice) dialogue.Integrated ClinicalTrials.gov-grounded dialogues with Google Calendar and Supabase Edge for intelligent timetabling."
+      },
+      null,
+      null,
+      null,
+      {
+        "title": "ETHGlobal Bangkok",
+        "start_date": "Nov 2024",
+        "description": "Secured runner-up in the Real-World Impact: Best Social Good Application track on Polygon, competing against 2,750+ developers, with DocuEarn, a privacy-focused dApp enabling passive income from health data using zero-knowledge proofs.Implemented Web3Auth for user-friendly access to blockchain features, a seamless frontend using TypeScript, React, and Vite, and integrated Privado ID for cryptographic credentials, along with Sign Protocol for ensuring data authenticity."
+      },
+      null,
+      null,
+      {
+        "title": "Computer Engineering Capstone Project",
+        "start_date": "Aug 2024",
+        "description": "Led a 5-member project team while owning the AI component, developing and deploying a neural network on FPGA for real-time gesture recognition; improved model accuracy through hyperparameter tuning, feature engineering, and data augmentation (10\u00d7 expansion), achieving reliable classification and reducing false predictions.Directed external communications, implementing secure TCP/IP and MQTT protocols with AES encryption, concurrency handling, and error-checking mechanisms; built and tested 1- and 2-player functional systems with features such as round counters and packet validation, enabling seamless integration across subsystems."
+      },
+      null,
+      null,
+      null,
+      {
+        "title": "ETHGlobal Singapore",
+        "start_date": "Sep 2024",
+        "description": "Won 3rd place among 309 projects in Worldcoin's Best Use of World ID track at ETHGlobal Singapore by developing ZkScholar, a decentralized app for private financial aid applications using zk-SNARKs, collaborating in a team of three.Built the frontend with Next.js and TypeScript, integrated World ID for secure authentication, deployed smart contracts on Ethereum Sepolia using Hardhat and Infura, utilised ethers.js and Protokit for blockchain interaction and data management."
+      },
+      null,
+      null,
+      {
+        "title": "QuantEdge Summer Insights Program",
+        "start_date": "Jun 2024",
+        "description": "Learned financial management, investment strategies, and asset allocation from senior management and analysts, and extended externship to complete a technical project in portfolio management."
+      },
+      {
+        "title": "FPGA Design Project",
+        "start_date": "Mar 2024",
+        "description": "Collaborated as a team of 4 for an FPGA project on the Basys3 board, developing animated menus and transitions for a Whac-A-Mole game in Verilog using Vivado, utilizing mathematical equations for design elements and physics for animations, and implementing smooth transitions using comparators and RGB calculation equations."
+      },
+      null,
+      null,
+      {
+        "title": "RTOS-Based Robotic Car",
+        "start_date": "Mar 2024",
+        "description": "Achieved top 5 fastest times in the final race amongst 27 teams.Collaborated as a team of 5 on an RTOS-based robotic car project using ESP32 and KL25Z boards; implemented PS4 controller connectivity via Bluetooth, communication between ESP32 and KL25Z, and precise motor PWM calculations for multi-directional movement and curved turns."
+      },
+      null,
+      null,
+      null,
+      {
+        "title": "PennApps XXIV",
+        "start_date": "Sep 2023",
+        "description": "Awarded Best Education Hack award at PennApps XXIV hosted by University of Pennsylvania, ranking among the top 8 teams out of 354 participants.Streamlined the student aid application process with Aleo's zk-SNARKs, implemented 2FA with USB and SHA256 encryption, using Next.js and managed database with Prisma ORM and PlanetScale."
+      },
+      null,
+      null,
+      null,
+      {
+        "title": "HawkHack 2023",
+        "start_date": "Apr 2023",
+        "description": "Won 1st Place Best Solo Hack in HawkHack 2023 organized by Montclair State University.Developed customizable travel itineraries using OpenAI models and integrated MapBox for an interactive map feature."
+      },
+      {
+        "title": "Study Buddy",
+        "start_date": "May 2022",
+        "description": "Led the development and deployment of a Telegram Bot for student study groups using Python and MongoDB on Heroku, reaching 80 Engineering students with 29 active users in a pilot program."
+      },
+      {
+        "title": "NUS IDEATE 2022",
+        "start_date": "Aug 2022",
+        "description": "Teamed up as a group of 4 to conceptualise a means to empower mental health in the elderlyConceptualised a 3-pronged approach using assistive technology, real-time monitoring, and virtual connectionsPrototyped an AR-based smart glasses application using Nreal Light to provide the elderly with an alert and guidance system"
+      },
+      {
+        "title": "Orbital - Apollo 11 (Advanced)",
+        "start_date": "May 2022",
+        "description": "Programmed a self-directed single-player precision platformer game, utilizing sprites and art style adapted from classic games, investing over 400 hours to build the game in C# using the Unity game engine."
+      },
+      {
+        "title": "Summer Bootcamp On Future Interfaces With Smart-Glasses",
+        "start_date": "May 2022",
+        "description": "Developed an Optical Head Mounted Display (Smart Glasses) Android app in a team of 3, using Unity and Microsoft Mixed Reality Toolkit for the Nreal Light AR glasses to guide users through shopping malls via location triggers and user tracking."
+      },
+      {
+        "title": "Alex to the Rescue! Project",
+        "start_date": "Mar 2022",
+        "description": "Built and controlled a tele-operated search and rescue robot with 3 others, using Arduino, Raspberry Pi and LIDAR, requiring skills in bare-metal programming, Hector SLAM, and TLS-secured communication."
+      },
+      {
+        "title": "Singapore Blockchain Innovation Challenge 2021",
+        "start_date": "Dec 2021",
+        "description": "Won 3rd Place in the Enthusiast Track of the HackathonDeveloped a web app in a team of 4, focused on interoperability between a health blockchain and insurance blockchain to build an instant-payout solution from viewpoint of an insurance company; utilised the Affinidi platform to verify health certificates and extended project\u2019s scope with ZKSync Layer-2 platform to minimise gas fees."
+      },
+      {
+        "title": "A-maze-ing Race Project",
+        "start_date": "Oct 2021",
+        "description": "Built a mBot with maze navigating, colour detection, and audio capabilitiesCombined skills such as Arduino programming and circuit buildingMade use of IR proximity sensor, colour sensor, and ultrasonic range sensor"
+      },
+      {
+        "title": "NUS Space Out Hackathon",
+        "start_date": "Jul 2021",
+        "description": "Won 3rd Place in Mini HackathonCollaborated in a team of four to competeBrainstormed potential issues and solutions to living in spaceFormulated potential space rover designs and experimental tasks to be conducted in space"
+      }
+    ],
+    "location": "Mountain View",
+    "input_url": "https://www.linkedin.com/in/joshua-nee",
+    "linkedin_id": "joshua-nee",
+    "activity": [
+      {
+        "interaction": "Joshua N. shared this",
+        "link": "https://www.linkedin.com/posts/joshua-nee_doordash-softwareengineering-internship-activity-7460021047505956865-hzHh",
+        "title": "I\u2019m incredibly excited to share that I will be joining DoorDash this summer as a Software Engineer Intern! \ud83d\ude80 Starting next week, I\u2019ll be diving in with the Marketplace team. I can\u2019t wait to tackle complex technical challenges at scale, learn from an amazing engineering org, and help build products that empower local economies. A huge thank you to my recruiter, Carol Vasquez , as well as Enny Tran and Christine L. for all their guidance and support throughout the interview and team-matching process! #DoorDash #SoftwareEngineering #Internship #Summer2026 ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQHOl0b9m09Cog/feedshare-shrink_800/B4EZ4dRm1sJwAg-/0/1778607616690?e=2147483647&v=beta&t=nW6QkfAneTwmr8rU8xhs0K33UOV7BRAoZa67xHysvMc",
+        "id": "7460021047505956865"
+      },
+      {
+        "interaction": null,
+        "link": "https://www.linkedin.com/posts/rachpradhan_zig-webdev-wasm-activity-7437709633139494912-IvBg",
+        "title": "Hey guys, might have made one of the fastest frontend frameworks till date over the past two weeks! Firstly, Next.js pages are just JavaScript that returns HTML. So why do you need 300MB of dependencies to serve one? That bugged me. After nanobrew (1.2MB replacing 57MB Homebrew) and mcp-zig (131KB replacing 52MB of TypeScript), I couldn't not try the obvious next thing. So I built merjs. A Next.js-style web framework written entirely in Zig. Zero node_modules. 2MB binary. Ships to Cloudflare Workers. https://merlionjs.com (it's a 5kB page) Here's what routing looks like: ``` app/index.zig / app/weather.zig /weather api/ai.zig /api/ai ``` Drop a .zig file. Export render(). Run one command. Route is live. No config files. No webpack. No \"oh you need to install these 17 peer dependencies first.\" I also built Claude Code skills for it. View them here: https://lnkd.in/grCjyHjY So you can just type `/new-page dashboard` or `/new-api users` or `/deploy` and it scaffolds the whole thing for you. Pages, API routes, WASM modules, dev server, full deploy. You don't even need to know Zig to get started. Just tell Claude what you want. The demo is a real Singapore government data dashboard. Live weather, air quality, UV index, all pulled from data.gov.sg . Not a todo app. A real thing running on Cloudflare Workers right now. https://lnkd.in/gsGsdrKm The deeper bet here is that WebAssembly breaks the last reason Node.js owned the server. JS won because it ran in the browser. Now Zig can too. Write your server in Zig, compile client logic to .wasm, ship it. No bundler. No hydration. One language, two targets. 2MB binary. 2,400+ req/s. Zero node_modules. Built in Singapore. Still very experimental but it works. If you've ever looked at your node_modules folder and thought \"this can't be right,\" I'd love to hear from you. https://lnkd.in/gbrjp4MG powered by OpenAIDevs 's codex assisted with the build too! \u2192 https://merlionjs.com \u2192 https://lnkd.in/gtF2q7UQ #zig #webdev #wasm #cloudflare #singapore #opensource #buildinpublic ...more ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQE4WAXe2nwxVA/feedshare-image-high-res/B56ZzgNf.NHMAU-/0/1773288161735?e=2147483647&v=beta&t=vlZjgQHNKMhqEMQ2i0Zf1_X_-44kyplUO1ZGqb2LP3g",
+        "id": "7437709633139494912"
+      },
+      {
+        "interaction": null,
+        "link": "https://www.linkedin.com/posts/wesleybldc_our-team-won-afore-capital-hackathon-vapi-activity-7388783100438355968-FMjx",
+        "title": "Our team won Afore Capital Hackathon: Vapi x Speechmatics track for building the best voice agent. We built a suite of voice agents to power the next layer of AI Infrastructure for Clinical Research. With the cracked homies Raiyan Sayeed Eden Chan Joshua N. Big thanks to the organizers & sponsors Laura Du Victor S. Daniel Kim Marco Bariani ...more ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQGSnMbh6E-Pkw/feedshare-shrink_800/B56Zoo7ECrI0Ag-/0/1761623164478?e=2147483647&v=beta&t=coi4fJfs3HCIf7LGWMDfKf_7FvH2DRFrZM0KvhUzjZ8",
+        "id": "7388783100438355968"
+      },
+      {
+        "interaction": "Joshua N. shared this",
+        "link": "https://www.linkedin.com/posts/joshua-nee_queens-571-lnkdinqueens-activity-7398095927879700480-qN6N",
+        "title": "Queens #571 \ud83d\udc51 lnkd.in/queens .",
+        "img": "https://media.licdn.com/dms/image/v2/D4D22AQHI2rc4zf7acA/feedshare-image-high-res/B4DZqtRCq_H4Ao-/0/1763843518198?e=2147483647&v=beta&t=OqMb_9Ag16YlFIVsgmUBVZtk-wl4FyqT0g5euHq3_hM",
+        "id": "571"
+      },
+      {
+        "interaction": null,
+        "link": "https://www.linkedin.com/posts/mj-gui_the-best-kept-secret-in-us-tech-hiring-activity-7359375178046365697-AxbA",
+        "title": "the best-kept secret in US tech hiring? \ud83c\uddf8\ud83c\uddec \ud835\udde6\ud835\uddf6\ud835\uddfb\ud835\uddf4\ud835\uddee\ud835\uddfd\ud835\uddfc\ud835\uddff\ud835\uddf2\ud835\uddee\ud835\uddfb\ud835\ude00 as singapore turns 60 this weekend, what better time to spill the beans? some of the most cracked folks around the bay are from \ud83c\uddf8\ud83c\uddec: - Michelle Lim - stealth founder, prev eng #1 at Warp - Jerene Yang - lead of synthetic research, prev lead of runtime at OpenAI - swyx ( Shawn swyx W ) - smol(.)ai, Latent Space newsletter/podcast heck, even Andrew Ng went to high school on the little red dot. and thanks to the \ud835\udddb-\ud835\udfed\ud835\uddd5\ud835\udfed \ud835\ude03\ud835\uddf6\ud835\ude00\ud835\uddee (not a typo), it\u2019s shockingly easy to hire from singapore: \u2705 all singapore citizens qualify \u2705 no lottery, unlike H-1B \u2705 >93% approval , ~1 month end-to-end \u2b07\ufe0f historical application data in comments (\ud835\ude1a\ud835\ude30\ud835\ude36\ud835\ude33\ud835\ude24\ud835\ude26: \ud835\ude1c\ud835\ude1a \ud835\ude0b\ud835\ude26\ud835\ude31\ud835\ude35 \ud835\ude30\ud835\ude27 \ud835\ude13\ud835\ude22\ud835\ude23\ud835\ude30\ud835\ude33) i started applying for jobs in february. i was in sf by march. in fact, finding an apartment probably took longer than the visa \ud83d\ude35\u200d\ud83d\udcab \ud83c\uddf8\ud83c\uddec \ud835\uddef\ud835\ude02\ud835\uddf6\ud835\uddf9\ud835\uddf1\ud835\uddf2\ud835\uddff\ud835\ude00: tell recruiters you qualify for the H-1B1, many won't even know \ud83c\uddfa\ud83c\uddf8 \ud835\uddff\ud835\uddf2\ud835\uddf0\ud835\uddff\ud835\ude02\ud835\uddf6\ud835\ude01\ud835\uddf2\ud835\uddff\ud835\ude00 / \ud835\uddf3\ud835\uddfc\ud835\ude02\ud835\uddfb\ud835\uddf1\ud835\uddf2\ud835\uddff\ud835\ude00: if you're not looking in \ud83c\uddf8\ud83c\uddec, you're sleeping on a cheat code who are the most cracked builders from singapore everyone should know? drop their names in the comments\ud83d\udc47 ...more ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D4D22AQEd42onc_KdiQ/feedshare-image-high-res/B4DZiHAYqBH8AE-/0/1754611771393?e=2147483647&v=beta&t=tdBwkKHbKjIIx-o9cDrL7A--cqskUKdJovgB8WUkHp8",
+        "id": "7359375178046365697"
+      },
+      {
+        "interaction": null,
+        "link": "https://www.linkedin.com/posts/nilmamano_someone-found-a-faster-algorithm-than-dijkstras-activity-7342085156935016449-Z65h",
+        "title": "Someone found a faster algorithm than Dijkstra's after 69 years. And that's absolutely wild. Time to drop some graph theory lore. Dijkstra invented his single-source shortest-path algorithm in 1956, and it is remarkable for how long it has stood as the best deterministic algorithm for this problem. Since then, the only improvements have come from tweaking the priority queue, culminating with Fibonacci heaps in the 1980's, yielding a runtime of O(E + V log V) (if you want to review Dijkstra's algorithm, see https://lnkd.in/gGhsmuJJ ). And then, out of nowhere, a new 2025 paper, \"Breaking the Sorting Barrier for Directed Single-Source Shortest Paths\" (by Ran Duan, Jiayi Mao, Xiao Mao, Xinkai Shu, and Longhui Yin) comes out with a new O(E * (log V)^0.67)-time algorithm. This beats Dijkstra for sparse graphs. To see how crazy that is, compare it with the table below, which shows the slow, gradual improvements for another classic graph problem: the Minimum Spanning Tree (MST) problem. Dijkstra's reign lasted so long that it was widely believed to be optimal. In fact, if I read between the lines, it seems that the legendary Robert E Tarjan (co-inventor of the Fibonacci heap mentioned above, and who is all over the MST table below) has recently been trying to prove that Dijkstra's algorithm is truly optimal. Two of his most recent papers, \"Bidirectional Dijkstra's Algorithm is Instance-Optimal\" (2024) and \"Universal Optimality of Dijkstra via Beyond-Worst-Case Heaps\" (2023), chip away at showing how Dijkstra is optimal in different aspects, almost--but not quite--precluding the new result! 1956-2025. What a run. ...more ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQGqyk66UL-2qQ/feedshare-image-high-res/B56ZeRTi9OGoAs-/0/1750489510021?e=2147483647&v=beta&t=LIhFNpbKcXkGQ-G39FJUqHlsx-LYkBVgv_grzWUMiFQ",
+        "id": "7342085156935016449"
+      },
+      {
+        "interaction": null,
+        "link": "https://www.linkedin.com/posts/joshua-nee_queens-306-157-first-s-activity-7302170455090642944-QWwl",
+        "title": "Queens #306 | 1:57 First \ud83d\udc51s: \ud83d\udfe5 \ud83d\udfeb \u2b1c \ud83c\udfc5 I achieved Invincible (100-day win streak) status today! lnkd.in/queens .",
+        "img": null,
+        "id": "306"
+      },
+      {
+        "interaction": "Joshua N. shared this",
+        "link": "https://www.linkedin.com/posts/joshua-nee_growth-professionaldevelopment-earlygraduation-activity-7291801235819528193-R5cC",
+        "title": "\ud83c\udf31 \u201cThe journey of a thousand miles begins with a single step.\u201d \u2013 Lao Tzu As I approach the conclusion of my 3.5 years at university, I find myself reflecting on the experiences and individuals that have profoundly shaped my personal and professional growth. While early graduation was never a deliberate goal, it has been the outcome of continuous learning, collaboration, and seizing opportunities along the way. I believe in celebrating achievements\u2014not for self-promotion, but as a testament to the effort, growth, and collective impact of this journey. With that in mind, I want to share some key milestones, not to highlight personal success, but to reflect on lessons learned, challenges overcome, and contributions made alongside others. \ud83d\udd2c Teaching & Mentorship \ud83d\udccc Supported 59 students across 3 Teaching Assistant (TA) roles, helping them navigate complex technical concepts. \ud83d\udccc Mentored 24 students across 2 Adviser roles, assisting them with pivotal software development decisions. \ud83d\udccc Volunteered in an academic support program for 20 underprivileged students, promoting educational access and personal growth. \ud83d\udcbc Industry Experience \ud83d\udcbb Accumulated 2+ years of experience through 4 internships across IoT, full-stack development, AR, and finance. \ud83d\ude80 Participated in the National Overseas College (NOC) startup program, spending a year in New York contributing to an innovative startup ecosystem. \ud83d\udcda Academic Achievements \ud83c\udf93 Graduated with a GPA of 4.86 across 171 modular credits, with my lowest grade being an A-. \ud83c\udfc5 Achieved Dean\u2019s List recognition for two semesters, ranking in the top 5% of my cohort. \ud83d\ude80 Community Engagement & Leadership \ud83d\udc65 Organized 2 orientation camps, helping 130+ freshmen transition into university life and build lasting connections. \ud83d\udd27 Led a self-directed project engaging 80 engineering students, fostering teamwork and hands-on learning. \ud83c\udfc6 Innovation & Achievements \ud83e\udd47 Won prizes in 6 hackathons, securing over $1,000 in prize money with my teams. \ud83e\udd16 Developed a capstone project integrating AI (MLP, Vitis HLS, Vivado FPGA) and external communications (MQTT, TCP/IP) into an interactive AR laser tag system. \ud83c\udfae Created an independent game project, receiving positive feedback from 36 individuals, further enhancing my technical and creative abilities. These experiences have not only shaped my academic journey but have also played a pivotal role in my personal growth. I am deeply grateful to my mentors, peers, and the opportunities that have supported me along the way. As I enter the next phase of my career, I look forward to applying the knowledge, skills, and insights I have gained during these transformative years. #Growth #ProfessionalDevelopment #EarlyGraduation #Innovation #Mentorship #CommunityImpact #StartupCulture #AcademicExcellence #Reflection ...more",
+        "img": "https://media.licdn.com/dms/image/v2/D4D22AQE7D_DvdLT49Q/feedshare-shrink_800/B4DZTGulWGHYAg-/0/1738500888415?e=2147483647&v=beta&t=gMKqlCJBTsm1zLtsvfmki4Mdzgcfkqb0uZ6QDAxupqY",
+        "id": "7291801235819528193"
+      },
+      {
+        "interaction": "Joshua N. shared this",
+        "link": "https://www.linkedin.com/posts/joshua-nee_truly-an-exciting-journey-that-we-have-been-activity-7267370967599919104-pUWe",
+        "title": "Truly an exciting journey that we have been on together! Here's to more wins!",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQFwobvAlg_qzg/feedshare-shrink_800/feedshare-shrink_800/0/1732615315353?e=2147483647&v=beta&t=lZV6imf49WL5sODuGH6PbGbSMbNQL-xqZ4Mdb-91T8U",
+        "id": "7267370967599919104"
+      },
+      {
+        "interaction": "Joshua N. commented on a post 2mo",
+        "link": "https://www.linkedin.com/posts/ryan-quek-wei-heng_memo-memory-as-a-model-a-glow-ai-collection-activity-7463118087068889089-lLDA",
+        "title": "Fascinating!",
+        "img": null,
+        "id": "7463118087068889089"
+      },
+      {
+        "interaction": "Joshua N. liked this",
+        "link": "https://www.linkedin.com/posts/adame05_just-finished-up-my-last-week-at-doordash-activity-7492637186505285632-Fwmy",
+        "title": "Just finished up my last week at DoorDash as a Software Engineering Intern and it was definitely bittersweet! Had a great time learning about storage systems, large scale infrastructure, and AI-forward development. Big thank you to my manager Muneeb Ansari , my mentors Owen Qian and Kane Du , and an incredible intern cohort (cc: Luke Sarausad ) for an unforgettable summer! Looking forward to continuing my studies at Georgia Tech and excited to see what the future holds.",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQFAThAWqnD7qg/feedshare-shrink_800/B4EZ_sx0OCIgAk-/0/1786383911157?e=2147483647&v=beta&t=pa1-rc7-lV1MlAA5iO45fhT_EAqt_oWhKUh1XNcn05A",
+        "id": "7492637186505285632"
+      },
+      {
+        "interaction": "Joshua N. liked this",
+        "link": "https://www.linkedin.com/posts/ennytran_doordash-internship-earlycareers-activity-7492680743005892609-iLyg",
+        "title": "A huge thank you to our first cohort of summer interns at DoorDash, who wrapped up their internship with us on Aug. 7! \ud83e\udd73 It was amazing to see how much you all accomplished during your time with us. You brought great energy and fresh ideas to the team, and I hope you all had as much fun as we did having you here! \u2764\ufe0f We\u2019re also so glad to still have our second intern cohort with us and are excited for all that\u2019s still ahead! \ud83e\udd42 Cheers from your University Recruiting team \u2014 Christine L. , Jessica Woo , Carol Vasquez , Enny Tran #DoorDash #Internship #EarlyCareers #EmergingTalent #OneTeamOneFight #Interns #Engineering #Design #universityrecruiting",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQFhOuAoFEMFVQ/feedshare-shrink_800/B56Z_tZaotHUAc-/0/1786394291701?e=2147483647&v=beta&t=e7d9SPAJAPmcn6gMzOvbs-J8sBW_WakTEVtmXEOETkE",
+        "id": "7492680743005892609"
+      },
+      {
+        "interaction": "Joshua N. liked this",
+        "link": "https://www.linkedin.com/posts/ryan-quek-wei-heng_memo-memory-as-a-model-a-glow-ai-collection-activity-7463118087068889089-lLDA",
+        "title": "LLMs compress the entire internet into billions of parameters. Why don't we do something similar for new knowledge \ud83e\udd14? Effectively storing and retrieving the desired new knowledge, without losing relationships between multiple chunks, are just some of the key challenges that we tackle in MeMo \ud83c\udfaf ! To do so, we designed our data synthesis and inference pipeline around a single guiding principle: reflections \ud83d\udcad . Check out how we compare against State of the Art RAG-based methods (e.g. NV-Embed-V2, HippoRAG2, etc...) in what my co-author Arun Verma has written. \u2757 Spoiler: MeMo might just be what you need when answers span multiple chunks in complex multi-hop or long-context-understanding tasks. As a step towards building Continual Learning capabilities for AI system, I am grateful to have this joint work with my co-authors \ud83d\ude4f - Simon Lee , Alfred Leong , Arun Verma , Alok Prakash , Nancy Chen , Bryan Kian Hsiang Low , Daniela Rus , and Armando Solar-Lezama \ud83d\udcc4 Paper: https://lnkd.in/gtMKG6mF \ud83c\udf10 Blog page: https://lnkd.in/gjNmrm25 #LLM #ContinualLearning #KnowledgeIntegration #MemoryAugmentedAI #RAG #NLP #AI #AIMemory",
+        "img": "https://media.licdn.com/dms/image/sync/v2/D5627AQHkzA9Rl9oJKg/articleshare-shrink_800/B56Z5JEqPpIYAY-/0/1779342422199?e=2147483647&v=beta&t=dYZA_7A8hgXQpKUv-Ddo8hvrrrY348uVqEWWBWknOa4",
+        "id": "7463118087068889089"
+      }
+    ],
+    "linkedin_num_id": "920669750",
+    "banner_image": "https://media.licdn.com/dms/image/v2/D5616AQGBJc8VLWZl1A/profile-displaybackgroundimage-shrink_200_800/B56Z0Ipg6CI0AY-/0/1773966594131?e=2147483647&v=beta&t=aneG0sjfzsI3ElS3vNMjJ455IHvz-bPQGze4-Jeg5YE",
+    "honors_and_awards": [
+      {
+        "title": "Deans' List (Academic Year 2024/2025 Semester 1)",
+        "publication": "National University of Singapore",
+        "date": "2025-01-01T00:00:00.000Z",
+        "description": "The Deans' List is an award given to the top 5% of each cohort, with meritorious academic achievement, at the end of each semester (excluding the special term)."
+      },
+      {
+        "title": "Deans' List (Academic Year 2023/2024 Semester 2)",
+        "publication": "National University of Singapore",
+        "date": "2024-06-01T00:00:00.000Z",
+        "description": "The Deans' List is an award given to the top 5% of each cohort, with meritorious academic achievement, at the end of each semester (excluding the special term)."
+      },
+      {
+        "title": "Honour Graduate / Silver Bayonet",
+        "publication": "Singapore Armed Forces",
+        "date": "2019-11-01T00:00:00.000Z",
+        "description": "Headed the Navy contingent in the 41/19 Specialist Cadet Graduation Parade"
+      }
+    ],
+    "similar_profiles": [],
+    "default_avatar": true,
+    "memorialized_account": false,
+    "bio_links": [
+      {
+        "title": "Portfolio",
+        "link": "http://joshuanee.vercel.app/"
+      }
+    ],
+    "first_name": "Joshua",
+    "last_name": "N.",
+    "influencer": false,
+    "timestamp": "2026-08-12T19:06:18.728Z",
+    "input": {
+      "url": "https://www.linkedin.com/in/joshua-nee"
+    }
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "luma_user_id": "usr-lA8bapEzUaY0gpB",
+  "csv_name": "Johnny Wang",
+  "csv_linkedin": "https://www.linkedin.com/in/johnny-wang-a31841223",
+  "enriched_at": "2026-08-12T19:07:22.297990+00:00",
+  "batch_id": "sd_msqgmjx4y9b9cgg4i",
+  "profile": {
+    "id": "johnny-wang-a31841223",
+    "name": "Johnny Wang",
+    "city": "Santa Barbara, California, United States",
+    "country_code": "US",
+    "position": null,
+    "about": "An Alumni of UC Santa Barbara with a Bachelor of Science in Computer Science, I have\u2026",
+    "current_company": {
+      "link": "https://www.linkedin.com/company/shadw-cloud?trk=public_profile_topcard-current-company",
+      "name": "ShadowCorp",
+      "company_id": "shadw-cloud",
+      "location": null
+    },
+    "experience": null,
+    "url": "https://pt.linkedin.com/in/johnny-wang-a31841223",
+    "educations_details": "UC Santa Barbara",
+    "education": [
+      {
+        "title": "UC Santa Barbara",
+        "url": "https://www.linkedin.com/school/ucsantabarbara/",
+        "start_year": "2020",
+        "end_year": "2025",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      }
+    ],
+    "avatar": "https://media.licdn.com/dms/image/v2/D5603AQF_2awkgKgrsQ/profile-displayphoto-scale_200_200/B56Zz4TCp9KMAY-/0/1773692267736?e=2147483647&v=beta&t=aCFEmA7586wbYPy9JtRdtEii3nGymwLLD5uyXj8CSNk",
+    "followers": 1379,
+    "connections": 500,
+    "current_company_company_id": "shadw-cloud",
+    "current_company_name": "ShadowCorp",
+    "location": "Santa Barbara",
+    "input_url": "https://www.linkedin.com/in/johnny-wang-a31841223",
+    "linkedin_id": "johnny-wang-a31841223",
+    "activity": [
+      {
+        "interaction": "Liked by Johnny Wang",
+        "link": "https://www.linkedin.com/posts/jkuner_careers-at-sony-interactive-entertainment-activity-7435338623224541185-8ExN",
+        "title": "My team is hiring! We are looking for Senior client developers to work on some amazing player experiences here at PlayStation. If you know someone\u2026",
+        "img": "https://media.licdn.com/dms/image/sync/v2/D5627AQG9zVmDPSq0mw/articleshare-shrink_800/B56Zw2Qz6EKcAI-/0/1770436903757?e=2147483647&v=beta&t=QBzMCVSaRv6cWpHxP3Ue5OGS_-u1wEco_lL3J36ATsA",
+        "id": "7435338623224541185"
+      },
+      {
+        "interaction": "Liked by Johnny Wang",
+        "link": "https://www.linkedin.com/posts/praggupta_productmanagement-pmintern-aspiringpm-activity-7431958493043126272-mLOx",
+        "title": "\"PM Intern Recruiters: What Do You Actually Want From Undergrads \u2753\" Dear PM Internship Recruiters - I need a real answer. How is an undergrad\u2026",
+        "img": "https://static.licdn.com/aero-v1/sc/h/53n89ecoxpr1qrki1do3alazb",
+        "id": "7431958493043126272"
+      }
+    ],
+    "linkedin_num_id": "942661765",
+    "banner_image": "https://static.licdn.com/aero-v1/sc/h/5q92mjc5c51bjlwaj3rs9aa82",
+    "honors_and_awards": null,
+    "similar_profiles": [],
+    "default_avatar": false,
+    "memorialized_account": false,
+    "bio_links": [],
+    "first_name": "Johnny",
+    "last_name": "Wang",
+    "influencer": false,
+    "timestamp": "2026-08-12T19:06:08.611Z",
+    "input": {
+      "url": "https://www.linkedin.com/in/johnny-wang-a31841223"
+    }
+  },
+  "local_photo": "data\\linkedin_photos\\johnny-wang-a31841223__usr-lA8bapEzUaY0gpB.jpg"
+}

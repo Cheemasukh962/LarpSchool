@@ -1,0 +1,218 @@
+{
+  "luma_user_id": "usr-Pdp3JmzgufUe2eH",
+  "csv_name": "Zablon Tesfaye",
+  "csv_linkedin": "https://www.linkedin.com/in/zablon-tesfaye-453178343",
+  "enriched_at": "2026-08-12T19:25:08.256673+00:00",
+  "batch_id": "sd_msqh7u7r1xzwli6vdk",
+  "profile": {
+    "id": "zablon-tesfaye-453178343",
+    "name": "Zablon Tesfaye",
+    "city": "Oakland, California, United States",
+    "country_code": "US",
+    "position": null,
+    "about": "Building what's next - ML, edge AI, and full-stack. Let's connect :)",
+    "current_company": {
+      "link": "https://www.linkedin.com/company/colorstack?trk=public_profile_topcard-current-company",
+      "name": "ColorStack",
+      "company_id": "colorstack",
+      "location": null
+    },
+    "experience": null,
+    "url": "https://at.linkedin.com/in/zablon-tesfaye-453178343",
+    "educations_details": "University of California, Santa Cruz",
+    "education": [
+      {
+        "title": "University of California, Santa Cruz",
+        "url": "https://www.linkedin.com/school/ucsc/",
+        "start_year": "2023-09",
+        "end_year": "2027-06",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      },
+      {
+        "start_year": "2023-09",
+        "end_year": "2027-06",
+        "description": null,
+        "description_html": null,
+        "institute_logo_url": null
+      }
+    ],
+    "avatar": "https://media.licdn.com/dms/image/v2/D5603AQHqU4301sZTew/profile-displayphoto-scale_200_200/B56Z7UYq_UHYAc-/0/1781679698797?e=2147483647&v=beta&t=ugAUHSxEsvfnhrYkDiUlh7KcAKMbbF9JwVs9u-4HPsY",
+    "languages": [
+      {
+        "subtitle": "Native or bilingual proficiency",
+        "title": "Amharic"
+      }
+    ],
+    "certifications": [
+      {
+        "meta": "Issued Apr 2025 Credential ID 123719",
+        "subtitle": "CodePath",
+        "title": "Technical Interview Prep",
+        "credential_url": null,
+        "credential_id": "123719"
+      },
+      {
+        "meta": "Issued Apr 2025 Credential ID 304475",
+        "subtitle": "CodePath",
+        "title": "Web Development",
+        "credential_url": null,
+        "credential_id": "304475"
+      }
+    ],
+    "followers": 637,
+    "connections": 500,
+    "current_company_company_id": "colorstack",
+    "current_company_name": "ColorStack",
+    "projects": [
+      {
+        "title": "PATCH \u2014 NVIDIA Hack-a-Claw",
+        "start_date": "May 2026",
+        "description": "Competed in the NVIDIA Hack-a-Claw hackathon hosted at Baskin Engineering, UC Santa Cruz. Built and presented a project within a competitive time-constrained environment, applying skills in software development and rapid prototyping. Collaborated with a team to define the problem scope, divide technical responsibilities, and deliver a working demo to a panel of judges."
+      },
+      {
+        "title": "FinSight \u2014 ML-Powered Personal Finance Analyzer",
+        "start_date": "Feb 2026",
+        "description": "Built a full-stack ML application that detects anomalous spending patterns in personal finance data. Trained an Isolation Forest model on synthetic transaction data achieving ~91% precision. Backend served via a JWT-authenticated FastAPI REST API, containerized with Docker, and deployed through a CI/CD pipeline on GitHub Actions. Frontend built in React with real-time spending trend charts and flagged transaction alerts powered by PostgreSQL."
+      },
+      {
+        "title": "EdgeVision \u2014 Real-Time Object Detection",
+        "start_date": "Aug 2025",
+        "description": "Ported MobileNetV2 to TensorFlow Lite, reducing model size by 60% (from 14MB to 5.6MB) and achieving 18 FPS on a Raspberry Pi 4 with under 200ms end-to-end latency via a Flask REST API, enabling real-time inference on a $35 device with zero cloud dependency. Applied 8-bit quantization and structured pruning to reduce inference compute by 4x while retaining over 92% of baseline model accuracy. Documented all optimization trade-offs in a technical write-up benchmarking 3 compression strategies across latency, size, and accuracy."
+      }
+    ],
+    "location": "Oakland",
+    "input_url": "https://www.linkedin.com/in/zablon-tesfaye-453178343",
+    "linkedin_id": "zablon-tesfaye",
+    "activity": [
+      {
+        "interaction": "Liked by Zablon Tesfaye",
+        "link": "https://www.linkedin.com/posts/kirubel-seyfu-23664b381_at-the-end-of-the-semester-my-team-and-i-activity-7477564892292739072-WA0z",
+        "title": "At the end of the semester, my team and I were beyond blessed with the opportunity to present our K-12 Engineering Outreach poster boards at the\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQFDoiw9Q1l4HQ/feedshare-image-high-res/B56Z8Wlom4HIAU-/0/1782790395121?e=2147483647&v=beta&t=O526x1nm5rF7D0G_ZSUXxH5WXA1LUNQy1QP0VhoxBJ4",
+        "id": "7477564892292739072"
+      },
+      {
+        "interaction": "Liked by Zablon Tesfaye",
+        "link": "https://www.linkedin.com/posts/amro-badran_irs-taxseason-audit-activity-7470172872557359106-IS6A",
+        "title": "He really hasn\u2019t filed his taxes! But he can still get out of this issue with the IRS! #IRS #taxseason #audit",
+        "img": "https://media.licdn.com/dms/image/v2/D5605AQHTSPKJxFIogw/videocover-high/B56Z6p.JvXGoBM-/0/1780968107799?e=2147483647&v=beta&t=JuDUnj6QOeHvUpmO79l4jZ5rE2Lm9olv3IceFSR_sXI",
+        "id": "7470172872557359106"
+      },
+      {
+        "interaction": "Liked by Zablon Tesfaye",
+        "link": "https://www.linkedin.com/posts/nathan-damtew-973199256_excited-to-share-that-ill-be-joining-nvidia-activity-7476704294553931776--EDA",
+        "title": "Excited to share that I'll be joining NVIDIA full-time as a Software Development Engineer in CAD Infrastructure this August! I'm incredibly\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQE1vxxTwscv9g/feedshare-image-high-res/B56Z8KW8BtHcAU-/0/1782585213255?e=2147483647&v=beta&t=AhwCeFuSVVVSuE7bzs_KgieYmLbEsiFELQeP4-xwD-I",
+        "id": "7476704294553931776"
+      },
+      {
+        "interaction": "Liked by Zablon Tesfaye",
+        "link": "https://www.linkedin.com/posts/stevenbartlett-123_what-do-you-do-when-everything-youve-built-activity-7431609161106223105-SOsd",
+        "title": "What do you do when everything you\u2019ve built is taken from you as a child? Dara Khosrowshahi was 9 when his family fled Iran\u2026 Today, he\u2019s the CEO of\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4E05AQF4aKQ1o4MhgQ/videocover-high/B4EZyHPV4KGkBY-/0/1771795478951?e=2147483647&v=beta&t=5922dfC9AbvOMdPPx0sRhnXcYENVR-yVDY9iESqbrm0",
+        "id": "7431609161106223105"
+      },
+      {
+        "interaction": "Liked by Zablon Tesfaye",
+        "link": "https://www.linkedin.com/posts/josheason-_contentmarketing-instagramtips-socialmediamarketing-activity-7465841677132492800-ePyp",
+        "title": "Make sure to follow this rule\ud83d\udc46 In this video I break down how humans can only understand 1-3 visuals at a time. If you have any more visuals in\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4D05AQGaiaiwSBYZWg/videocover-high/B4DZ5v_ZXLKQBM-/0/1779995353014?e=2147483647&v=beta&t=qVa5U_fQ5CaXRWDjOLENHCwCNsUflNcV5JFDYT6coCM",
+        "id": "7465841677132492800"
+      },
+      {
+        "interaction": "Liked by Zablon Tesfaye",
+        "link": "https://www.linkedin.com/posts/the-school-of-hard-knocks-llc_retail-isnt-dead-kendra-scott-explains-activity-7460660287818473472-3S5K",
+        "title": "Retail isn\u2019t dead\u2026 Kendra Scott explains. I interviewed Kendra Scott on how she turned just $500 into a billion-dollar company! Since she started\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5605AQGlamYsE9vyPA/videocover-high/B56Z4JB885IkBM-/0/1778267969342?e=2147483647&v=beta&t=2mCBDigclHP_hjnqMJd71nHl4JF73f3AhhB_QABXnls",
+        "id": "7460660287818473472"
+      },
+      {
+        "interaction": "Liked by Zablon Tesfaye",
+        "link": "https://www.linkedin.com/posts/zablon-tesfaye_aihackathon-ucberkeley-fetchai-activity-7474989615909658624-I0WA",
+        "title": "This weekend I competed in the Ai Hackathon at University of California, Berkeley , and I'm still buzzing from it. My team built PolicyPulse, a\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQFcRF8lTqlIOw/feedshare-image-high-res/B56Z7xGFLNGoAY-/0/1782161364475?e=2147483647&v=beta&t=Qb-SUjZACyL5v7QgS864CEFxSv5eBgEZuN90lC4b6Bc",
+        "id": "7474989615909658624"
+      },
+      {
+        "interaction": "Shared by Zablon Tesfaye",
+        "link": "https://www.linkedin.com/posts/zablon-tesfaye_aihackathon-ucberkeley-fetchai-activity-7474989615909658624-I0WA",
+        "title": "This weekend I competed in the Ai Hackathon at University of California, Berkeley , and I'm still buzzing from it. My team built PolicyPulse, a\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQFcRF8lTqlIOw/feedshare-image-high-res/B56Z7xGFLNGoAY-/0/1782161364475?e=2147483647&v=beta&t=Qb-SUjZACyL5v7QgS864CEFxSv5eBgEZuN90lC4b6Bc",
+        "id": "7474989615909658624"
+      },
+      {
+        "interaction": "Liked by Zablon Tesfaye",
+        "link": "https://www.linkedin.com/posts/ayaangazali_its-been-a-while-since-ive-gotten-to-say-activity-7474922434865987584-gehO",
+        "title": "It's been a while since i've gotten to say this but we just won at the UC Berkeley AI Hackathon. Co-hosted by Fetch.ai, we took home the best social\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5622AQEb8mw-oPeDgw/feedshare-image-high-res/B56Z7xCWFEG0AY-/0/1782160384772?e=2147483647&v=beta&t=T9ShDxL03TNyOZ4D9vhbKyWwibeRaoMa1LLdN2NFzd4",
+        "id": "7474922434865987584"
+      },
+      {
+        "interaction": "Liked by Zablon Tesfaye",
+        "link": "https://www.linkedin.com/posts/y-combinator_an-ai-just-sold-an-insurance-policy-to-a-activity-7473026762080432128-DFPU",
+        "title": "An AI just sold an insurance policy to a restaurant owner entirely on its own. Kinro (YC P26) is the first autonomous insurance brokerage for small\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5605AQEf6Z75mpoZzw/videocover-high/B56Z7UKFhCKsBM-/0/1781675880379?e=2147483647&v=beta&t=YG5zG-5Qucfk2wxS87JxNHuig9HO37hBALi4KnvUAMk",
+        "id": "7473026762080432128"
+      },
+      {
+        "interaction": "Liked by Zablon Tesfaye",
+        "link": "https://www.linkedin.com/posts/dr-puneet-mohan-43ba8b16_ai-robotics-innovation-activity-7451104500259422209-ptCb",
+        "title": "\ud83e\udd16 \u201cThe man who taught robots to walk\u2026 is now teaching them to THINK.\u201d That\u2019s not hype. That\u2019s the next phase of reality. The founder behind Boston\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5605AQHRnM2UgstN-g/videocover-high/B56Z2ekA0oIUBY-/0/1776481735498?e=2147483647&v=beta&t=JcJMIEPoQn1MT_VkNzwLL86eQFFYWLn7o5FsFUC-UYY",
+        "id": "7451104500259422209"
+      },
+      {
+        "interaction": "Liked by Zablon Tesfaye",
+        "link": "https://www.linkedin.com/posts/marco-pfeiffer-4866495_hard-times-create-strong-men-strong-men-activity-7460018253810094080-2nw8",
+        "title": "Hard times create strong men. Strong men create good times. Good times create weak men. Weak men create hard times. Many fortunes are lost by the\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4E05AQFy8tyYbQ7B5Q/videocover-high/B4EZ4dPB.RKIBM-/0/1778606941827?e=2147483647&v=beta&t=ye4sai56Tqh-wNTlZPeEpKyDzGg5iHoqum1aq4Lzfos",
+        "id": "7460018253810094080"
+      },
+      {
+        "interaction": "Liked by Zablon Tesfaye",
+        "link": "https://www.linkedin.com/posts/neriah-okolo_freshman-nyc-fifa-activity-7473774881495744512-v1Da",
+        "title": "Running my freshman year of college back. Reflecting on both the ups and downs: * Relocated to the United States for college * Accepted into Rice\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4E22AQGKtSHZgoDt2w/feedshare-image-high-res/B4EZ7guntLK0AU-/0/1781886781527?e=2147483647&v=beta&t=KtZLv453esd8S7XRDfQHFRSkTge93aFl6RZT3_-XHpg",
+        "id": "7473774881495744512"
+      },
+      {
+        "interaction": "Liked by Zablon Tesfaye",
+        "link": "https://www.linkedin.com/posts/mike-cola_at-63-i-recently-bought-a-ducati-motorcycle-activity-7473458332419170304-cMEv",
+        "title": "At 63, I recently bought a Ducati motorcycle. Not because I needed one. Because I needed a reminder that life can\u2019t be all work. Like many\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5605AQEY96BqYdpdUw/videocover-high/B56Z7cOst2KQBQ-/0/1781811304193?e=2147483647&v=beta&t=cpfBoh-jlhchvP3bvpZqt3duxVyMMs4bUASfUmd7Yig",
+        "id": "63"
+      },
+      {
+        "interaction": "Liked by Zablon Tesfaye",
+        "link": "https://www.linkedin.com/posts/sachinohal007_artificialintelligence-ai-capitalmarkets-activity-7431689480350187520-gzjx",
+        "title": "Ken Griffin, founder of Citadel, has offered a measured rejoinder to the euphoria surrounding artificial intelligence, suggesting that much of the\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D4E05AQGWymR5UEBVtA/videocover-high/B4EZyKqG4VJgBY-/0/1771852822790?e=2147483647&v=beta&t=3wp09IWCjrvqE8E2fuLnhxZxi6S0yJXyd0c-yCM2M4A",
+        "id": "7431689480350187520"
+      },
+      {
+        "interaction": "Liked by Zablon Tesfaye",
+        "link": "https://www.linkedin.com/posts/steve-crow-roi_lakevolta-humanity-hopecore-activity-7467667133716602881-MItg",
+        "title": "My dad named me Stephen because he said he never met someone with that name he didn\u2019t like. Today, I was reminded what that name can\u2026",
+        "img": "https://media.licdn.com/dms/image/v2/D5605AQHOET3gZMpnVA/videocover-high/B56Z6J7pdpJsBU-/0/1780430577290?e=2147483647&v=beta&t=VPHySxM4wVlSQlbEUDA3B7UjzD3DjaTEeP4JJFzQlbY",
+        "id": "7467667133716602881"
+      }
+    ],
+    "linkedin_num_id": "1442638719",
+    "banner_image": "https://media.licdn.com/dms/image/v2/D5616AQHa5eR6hysqZA/profile-displaybackgroundimage-shrink_200_800/B56Z4eySHtGsAY-/0/1778632959337?e=2147483647&v=beta&t=63J--jRyxyGO4yqpPz7zQVKPwt6M-Nd47P-CRYYbNZc",
+    "honors_and_awards": null,
+    "similar_profiles": [],
+    "default_avatar": false,
+    "memorialized_account": false,
+    "bio_links": [],
+    "first_name": "Zablon",
+    "last_name": "Tesfaye",
+    "influencer": false,
+    "timestamp": "2026-08-12T19:22:39.775Z",
+    "input": {
+      "url": "https://www.linkedin.com/in/zablon-tesfaye-453178343"
+    }
+  },
+  "local_photo": "data\\linkedin_photos\\zablon-tesfaye-453178343__usr-Pdp3JmzgufUe2eH.jpg"
+}
