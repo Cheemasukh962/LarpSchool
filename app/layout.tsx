@@ -23,10 +23,10 @@ const bodyFont = Space_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "LARP EXO GAME",
+  title: "LARP EXPO GAME",
   description: "Settle who is LARPing harder. YC Startup Internship Expo.",
   manifest: "/manifest.webmanifest",
-  appleWebApp: { capable: true, title: "LARP EXO" },
+  appleWebApp: { capable: true, title: "LARP EXPO" },
 };
 
 export const viewport: Viewport = {

@@ -61,7 +61,7 @@ export function CoverScreen() {
           </div>
 
           <div className="flex flex-col items-center gap-1">
-            {["LARP", "EXO", "GAME"].map((word, i) => (
+            {["LARP", "EXPO", "GAME"].map((word, i) => (
               <div
                 key={word}
                 style={{
