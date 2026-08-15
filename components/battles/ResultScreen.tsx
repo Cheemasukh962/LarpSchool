@@ -12,17 +12,19 @@ export function ResultScreen() {
     playerCard,
     challenger,
     battleResult,
+    flavor,
     guessedRight,
     restartBattle,
     setRewardView,
     setTab,
     resetChest,
     resetSlots,
+    rewardError,
   } = useGame();
 
   if (!playerCard || !challenger || !battleResult) return null;
 
-  const won = battleResult.player_won === true;
+  const won = battleResult.bet_won === true;
   const winner = battleResult.winner_id === playerCard.id ? playerCard : challenger;
   const loser = winner.id === playerCard.id ? challenger : playerCard;
 
@@ -38,6 +40,14 @@ export function ResultScreen() {
         >
           {won ? "YOU WIN!" : "YOU LOSE"}
         </div>
+        <div style={pxS("5px")} className="text-white/40">
+          {won ? "YOUR BET HIT" : "YOUR BET MISSED"}
+        </div>
+        {rewardError && (
+          <div style={pxS("5px")} className="text-[#ef4444]">
+            {rewardError}
+          </div>
+        )}
         <div className="flex flex-wrap justify-center gap-2">
           {battleResult.margin === 0 ? (
             <div className="border border-[#ffd700]/50 px-2 py-1 text-[#ffd700]" style={pxS("4px")}>
@@ -80,6 +90,11 @@ export function ResultScreen() {
             <div style={{ ...pxS("16px"), color: "#ffd700", textShadow: "2px 2px 0 #b8860b" }}>
               {battleResult.winner_score}
             </div>
+            {winner.id === playerCard.id && (battleResult.gear_flex ?? 0) > 0 && (
+              <div style={pxS("4px")} className="text-[#22c55e]">
+                INCL +{battleResult.gear_flex} GEAR
+              </div>
+            )}
             <div style={pxS("4px")} className="text-[#22c55e]">
               WINNER
             </div>
@@ -115,13 +130,15 @@ export function ResultScreen() {
       </PixelBorder>
 
       {/* An identical total needs a reason, or the crown looks arbitrary. */}
-      {battleResult.margin === 0 && (
+      {(battleResult.margin === 0 || (battleResult.photo_finish && flavor?.tiebreak_note)) && (
         <div className="border border-[#ffd700]/25 bg-[#140d00] px-3 py-2 text-center" style={pxS("5px")}>
-          <span className="text-[#ffd700]">SAME SCORE — </span>
+          <span className="text-[#ffd700]">{battleResult.margin === 0 ? "SAME SCORE — " : "PHOTO FINISH — "}</span>
           <span className="text-white/60">
-            {battleResult.tiebreak === "larp_index"
-              ? "LOWER LARP INDEX TAKES IT"
-              : "SPLIT ON NAME ORDER"}
+            {flavor?.tiebreak_note
+              ? flavor.tiebreak_note.toUpperCase()
+              : battleResult.tiebreak === "larp_index"
+                ? "LOWER LARP INDEX TAKES IT"
+                : "SPLIT ON NAME ORDER"}
           </span>
         </div>
       )}
@@ -129,16 +146,16 @@ export function ResultScreen() {
       {/* Headline only: the compliment and roast get their own lines below. */}
       <div className="border-l-2 border-[#ffd700] pl-4">
         <div style={monoS(11)} className="leading-relaxed text-white">
-          {battleResult.headline}
+          {flavor?.headline ?? battleResult.headline}
         </div>
       </div>
 
       <div className="flex flex-col gap-2 border border-[#ffd700]/12 p-3">
         <div style={monoS(10)} className="leading-relaxed text-[#22c55e]/80">
-          ✓ {battleResult.winner_compliment}
+          ✓ {flavor?.winner_compliment ?? battleResult.winner_compliment}
         </div>
         <div style={monoS(10)} className="leading-relaxed text-[#ef4444]/70">
-          ✗ {battleResult.loser_roast}
+          ✗ {flavor?.loser_roast ?? battleResult.loser_roast}
         </div>
       </div>
 
@@ -154,11 +171,19 @@ export function ResultScreen() {
 
       <PixelBorder gold>
         <div className="flex items-center justify-center gap-3 bg-[#0a0a0a] px-6 py-3">
-          <Coins size={20} className="text-[#ffd700]" />
-          <div style={{ ...pxS("18px"), color: "#ffd700", textShadow: "2px 2px 0 #b8860b" }}>+1</div>
-          <div style={pxS("6px")} className="text-white/40">
-            TOKEN EARNED
-          </div>
+          <Coins size={20} className={won ? "text-[#ffd700]" : "text-white/30"} />
+          {won ? (
+            <>
+              <div style={{ ...pxS("18px"), color: "#ffd700", textShadow: "2px 2px 0 #b8860b" }}>+1</div>
+              <div style={pxS("6px")} className="text-white/40">
+                TOKEN EARNED
+              </div>
+            </>
+          ) : (
+            <div style={pxS("6px")} className="text-white/40">
+              NO TOKEN — WRONG SIDE
+            </div>
+          )}
         </div>
       </PixelBorder>
 

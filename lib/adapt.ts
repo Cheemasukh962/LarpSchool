@@ -96,3 +96,45 @@ export function followersLabel(n: number): string {
   if (n >= 1000) return (n / 1000).toFixed(n >= 10000 ? 0 : 1).replace(/\.0$/, "") + "K";
   return String(n);
 }
+
+export const GUEST_PREFIX = "guest:";
+
+export function isGuestId(id: string): boolean {
+  return id.startsWith(GUEST_PREFIX);
+}
+
+function initialsFrom(name: string): string {
+  const parts = name.trim().split(/\s+/).filter(Boolean);
+  const a = parts[0]?.[0] ?? "?";
+  const b = parts.length > 1 ? parts[parts.length - 1][0] : "";
+  return (a + b).toUpperCase();
+}
+
+/** Walk-in fighter. Not on the 795. Flex 0 so they can still play trivia, slots, and bet. */
+export function guestCard(name: string, id?: string): Card {
+  const trimmed = name.trim() || "WALK-IN";
+  return {
+    id: id ?? GUEST_PREFIX + "local",
+    name: trimmed,
+    initials: initialsFrom(trimmed),
+    slug: "guest",
+    linkedin: "",
+    school: "",
+    school_tier: "none",
+    company: "",
+    title: "WALK-IN",
+    flex_score: 0,
+    larp_index: 0,
+    rank: 9999,
+    followers: 0,
+    breakdown: { school: 0, work: 0, presence: 0, projects: 0 },
+    tags: ["guest"],
+    highlights: [],
+    described_projects: 0,
+    top_project: "",
+    compliment: `${trimmed} showed up anyway. That's the whole game.`,
+    roast: "No LinkedIn on file. The rubric has nothing to work with.",
+    has_photo: false,
+    is_guest: true,
+  };
+}

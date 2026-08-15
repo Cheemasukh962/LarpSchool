@@ -15,7 +15,7 @@ Owner: Sukhman Cheema. Do not invent product decisions that contradict `context.
 | --- | --- | --- |
 | 0 | Scaffold Next.js + reshape data for the web | **DONE** |
 | 1 | Wire real guests, four-bar scorecards, real verdicts, 133 trivia Qs. Split the 1129-line mock into files. Zero writes. | **DONE** |
-| 2 | Supabase identity: claims, httpOnly cookie, guest mode, optional magic-link | **NEXT** |
+| 2 | Supabase identity: claims, httpOnly cookie, guest mode, optional magic-link | **CODE LANDED — needs your Supabase project** |
 | 3 | Server-authoritative tokens, ledger, slot/chest RNG | pending |
 | 4 | Groq roast prose + photo-finish judge (flavor only) | pending |
 | 5 | Load hardening (PWA, write queue, k6, degrade runbook) | pending |
@@ -86,21 +86,26 @@ Scores cluster: **90 of 200 random pairs tie on flex_score.** `suggestedOpponent
 - Mock split into the file tree above. `LarpBattleFlow.tsx` deleted.
 - Tests: `test:data`, `test:parity`, `test:flow` (Chrome via puppeteer-core).
 
-## Phase 2 — NEXT (identity)
+## Phase 2 — identity (code is in the repo)
 
 Goal: claiming a card survives refresh and a second device can be a different player.
 
-1. Supabase project + Postgres. Use the transaction pooler from day one (Phase 5 will need it).
-2. Seed battler rows from `data/web/battlers-full.json`. Cards stay readable from CDN; DB holds claims/wallets.
-3. Schema sketch (adjust, do not invent extra product):
-   - `players` — id, created_at, device cookie id, optional auth user id, display name
-   - `claims` — player_id, battler_id (unique per battler? or allow? **one live claim per battler** is the floor-safe default; ask if unclear)
-   - guest walk-in row that is not a LinkedIn battler
-4. `POST /api/claim` sets an **httpOnly** device cookie. No tokens in localStorage as the source of truth.
-5. Optional Supabase Auth magic link that **merges** anonymous progress onto the account. Do not wipe the cookie wallet on upgrade.
-6. Guest mode for people not on the 795: play trivia/slots, maybe a blank guest fighter, do not pretend they have a scored LinkedIn.
+**You still have to create the Supabase project.** Until `.env` has keys, the game runs in `local` mode (same as Phase 1: refresh wipes state).
 
-Keep `lib/game-store.tsx` as the client API. Swap the in-memory `playerCard` / cookie hydrate into it. Screens should not grow fetch logic.
+1. Create a Supabase project. Copy URL + service role + anon key into `.env` (see `.env.example`).
+2. Use the **transaction pooler** connection string in the dashboard if you add a direct Postgres client later. The JS client uses the URL + service role.
+3. Paste `supabase/schema.sql` into the SQL editor and run it.
+4. Auth: add Redirect URL `https://<your-domain>/api/auth/callback` (and localhost for dev). Email template should land on that route with `token_hash`.
+5. Restart `npm run dev`. Store tab should say SAVED ON THIS PHONE instead of LOCAL ONLY.
+
+What the code already does:
+- `ls_did` httpOnly cookie
+- `POST /api/claim` — one live claim per battler, one per phone
+- `POST /api/guest` — walk-in with flex 0, not a fake LinkedIn
+- `POST /api/state` — tokens + inventory debounce-save
+- Magic link merge via `POST /api/auth/magic` + `/api/auth/callback`
+
+Keep `lib/game-store.tsx` as the client API. Screens should not grow fetch logic.
 
 ## Phase 3 — economy
 

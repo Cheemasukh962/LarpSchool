@@ -1,5 +1,6 @@
 import type { Metadata, Viewport } from "next";
 import { Press_Start_2P, Space_Mono } from "next/font/google";
+import { PwaRegister } from "@/components/PwaRegister";
 import "./globals.css";
 
 /**
@@ -24,6 +25,8 @@ const bodyFont = Space_Mono({
 export const metadata: Metadata = {
   title: "LARP EXO GAME",
   description: "Settle who is LARPing harder. YC Startup Internship Expo.",
+  manifest: "/manifest.webmanifest",
+  appleWebApp: { capable: true, title: "LARP EXO" },
 };
 
 export const viewport: Viewport = {
@@ -36,7 +39,10 @@ export const viewport: Viewport = {
 export default function RootLayout({ children }: { children: React.ReactNode }) {
   return (
     <html lang="en" className={`${pixelFont.variable} ${bodyFont.variable}`}>
-      <body>{children}</body>
+      <body>
+        <PwaRegister />
+        {children}
+      </body>
     </html>
   );
 }

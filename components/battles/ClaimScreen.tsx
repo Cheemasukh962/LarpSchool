@@ -13,16 +13,16 @@ import { CardRow } from "./CardRow";
  * LinkedIn is the fighter.
  */
 export function ClaimScreen() {
-  const { data, tokens, claimCard, setBattleStep } = useGame();
+  const { data, tokens, claimCard, enterGuest, claimError, setBattleStep } = useGame();
   const [query, setQuery] = useState("");
 
   const results = useMemo(() => searchCards(data?.cards ?? [], query, 30), [data, query]);
   const searching = query.trim().length > 0;
 
   return (
-    <>
+    <div className="flex min-h-0 flex-1 flex-col overflow-hidden">
       <PixelStripe />
-      <div className="flex flex-1 flex-col gap-5 overflow-y-auto px-6 pt-8 pb-4">
+      <div className="flex min-h-0 flex-1 flex-col gap-5 overflow-y-auto px-6 pt-8 pb-4">
         <div className="flex items-start justify-between">
           <div>
             <div className="mb-2 flex items-center gap-2">
@@ -55,6 +55,11 @@ export function ClaimScreen() {
           <div style={pxS("5px")} className="leading-loose text-white/25">
             {data ? `${data.cards.length} FIGHTERS ON THE GUEST LIST` : "LOADING GUEST LIST..."}
           </div>
+          {claimError && (
+            <div style={pxS("5px")} className="leading-loose text-[#ef4444]">
+              {claimError.toUpperCase()}
+            </div>
+          )}
         </div>
 
         {searching ? (
@@ -65,8 +70,15 @@ export function ClaimScreen() {
                 <div style={pxS("6px")} className="leading-loose text-white/25">
                   NO MATCH
                   <br />
-                  TRY YOUR LAST NAME
+                  NOT ON THE LIST?
                 </div>
+                <button
+                  onClick={() => enterGuest(query.trim())}
+                  className="mt-2 px-5 py-3 text-[#0a0a0a]"
+                  style={{ ...pxS("6px"), background: "#ffd700", boxShadow: "3px 3px 0 #b8860b" }}
+                >
+                  PLAY AS GUEST
+                </button>
               </div>
             ) : (
               results.map((card) => <CardRow key={card.id} card={card} onSelect={claimCard} />)
@@ -85,6 +97,11 @@ export function ClaimScreen() {
               <br />
               ALREADY SCORED
             </div>
+            <div style={pxS("5px")} className="text-center leading-loose text-white/20">
+              WALK-IN? TYPE A NAME
+              <br />
+              THEN PLAY AS GUEST
+            </div>
             <button
               onClick={() => setBattleStep("type-select")}
               style={pxS("6px")}
@@ -96,6 +113,6 @@ export function ClaimScreen() {
         )}
       </div>
       <PixelStripe flip />
-    </>
+    </div>
   );
 }

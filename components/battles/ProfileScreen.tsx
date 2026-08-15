@@ -7,7 +7,7 @@ import { pxS } from "../pixel";
 import { ScoreCard } from "./ScoreCard";
 
 export function ProfileScreen() {
-  const { playerCard, setBattleStep, clearCard } = useGame();
+  const { playerCard, setBattleStep, clearCard, gear } = useGame();
   if (!playerCard) return null;
 
   return (
@@ -25,7 +25,7 @@ export function ProfileScreen() {
         IS THIS YOU?
       </div>
 
-      <ScoreCard card={playerCard} />
+      <ScoreCard card={playerCard} gearFlex={gear.flex} />
 
       <div className="mt-auto flex flex-col gap-3 pt-4">
         <button

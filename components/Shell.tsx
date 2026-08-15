@@ -4,7 +4,7 @@ import type { ReactNode } from "react";
 export function Shell({ children, footer }: { children: ReactNode; footer?: ReactNode }) {
   return (
     <div
-      className="relative flex min-h-screen flex-col bg-[#0a0a0a] text-white"
+      className="relative flex h-full min-h-0 flex-col bg-[#0a0a0a] text-white"
       style={{ fontFamily: "var(--font-body)" }}
     >
       <div
@@ -22,7 +22,7 @@ export function Shell({ children, footer }: { children: ReactNode; footer?: Reac
             "repeating-linear-gradient(0deg,transparent,transparent 2px,rgba(0,0,0,.13) 2px,rgba(0,0,0,.13) 4px)",
         }}
       />
-      <div className="relative z-10 flex flex-1 flex-col overflow-hidden">{children}</div>
+      <div className="relative z-10 flex min-h-0 flex-1 flex-col overflow-hidden">{children}</div>
       {footer}
     </div>
   );

@@ -13,23 +13,33 @@ import { TypeSelectScreen } from "./TypeSelectScreen";
 export function BattlesTab() {
   const { battleStep } = useGame();
 
+  let screen;
   switch (battleStep) {
     case "claim":
-      return <ClaimScreen />;
+      screen = <ClaimScreen />;
+      break;
     case "profile":
-      return <ProfileScreen />;
+      screen = <ProfileScreen />;
+      break;
     case "challenger-select":
-      return <ChallengerSelectScreen />;
+      screen = <ChallengerSelectScreen />;
+      break;
     case "pick":
-      return <PickChallengerScreen />;
+      screen = <PickChallengerScreen />;
+      break;
     case "faceoff":
-      return <FaceoffScreen />;
+      screen = <FaceoffScreen />;
+      break;
     case "result":
-      return <ResultScreen />;
+      screen = <ResultScreen />;
+      break;
     case "trivia":
-      return <TriviaScreen />;
+      screen = <TriviaScreen />;
+      break;
     case "type-select":
     default:
-      return <TypeSelectScreen />;
+      screen = <TypeSelectScreen />;
   }
+
+  return <div className="flex min-h-0 flex-1 flex-col overflow-hidden">{screen}</div>;
 }

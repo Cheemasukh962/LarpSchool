@@ -2,6 +2,8 @@
 
 import { useEffect, useState } from "react";
 
+import type { LeaderboardPayload } from "@/lib/leaderboard-types";
+import { STARTING_TOKENS } from "@/lib/site-url";
 import { useGame } from "@/lib/game-store";
 import { PixelKnight, pxS } from "./pixel";
 import { Shell } from "./Shell";
@@ -11,10 +13,21 @@ const CORNERS = ["top-3 left-3", "top-3 right-3", "bottom-3 left-3", "bottom-3 r
 export function CoverScreen() {
   const { setScreen, data, loading, error, retryLoad } = useGame();
   const [blink, setBlink] = useState(true);
+  const [hiScore, setHiScore] = useState<number | null>(null);
 
   useEffect(() => {
     const iv = setInterval(() => setBlink((b) => !b), 530);
     return () => clearInterval(iv);
+  }, []);
+
+  useEffect(() => {
+    fetch("/api/leaderboard", { cache: "no-store" })
+      .then((res) => (res.ok ? (res.json() as Promise<LeaderboardPayload>) : null))
+      .then((board) => {
+        const top = board?.rows[0];
+        if (top) setHiScore(top.battlesWon);
+      })
+      .catch(() => undefined);
   }, []);
 
   const ready = Boolean(data);
@@ -31,8 +44,13 @@ export function CoverScreen() {
         </div>
       ))}
       <div className="flex flex-1 flex-col items-center justify-between px-6 py-10 text-center">
-        <div style={pxS("7px")} className="text-[#ffd700]/50">
-          FIGHTERS &nbsp;<span className="text-white">{data ? String(data.cards.length).padStart(6, "0") : "······"}</span>
+        <div className="flex flex-col items-center gap-2">
+          <div style={pxS("7px")} className="text-[#ffd700]/50">
+            FIGHTERS &nbsp;<span className="text-white">{data ? String(data.cards.length).padStart(6, "0") : "······"}</span>
+          </div>
+          <div style={pxS("7px")} className="text-[#ffd700]/50">
+            HI-SCORE &nbsp;<span className="text-white">{hiScore !== null ? String(hiScore).padStart(6, "0") : "······"}</span>
+          </div>
         </div>
 
         <div className="flex flex-col items-center gap-6">
@@ -87,9 +105,9 @@ export function CoverScreen() {
         </div>
 
         <div style={pxS("6px")} className="leading-loose text-[#ffffff30]">
-          PLAY-ONLY TOKENS
+          NEW PHONE GETS {STARTING_TOKENS} TOKENS
           <br />
-          NO CASH VALUE
+          PLAY-ONLY · NO CASH VALUE
         </div>
       </div>
     </Shell>

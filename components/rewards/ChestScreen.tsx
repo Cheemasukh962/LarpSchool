@@ -1,12 +1,23 @@
 "use client";
 
-import { CHEST_COST, CONTAINER_W, ITEM_W, RARITY_ORDER, firstOfRarity } from "@/lib/chest";
+import { CHEST_COST, ITEM_W, RARITY_ORDER, WINNER_IDX, firstOfRarity } from "@/lib/chest";
+import { effectLabel } from "@/lib/gear";
 import { useGame } from "@/lib/game-store";
 import { PixelChest, ScreenHeader, TokenPill, pxS } from "../pixel";
 
 export function ChestScreen() {
-  const { tokens, chestPhase, chestOpen, reelItems, wonItem, reelRef, openChest, resetChest, setRewardView } =
-    useGame();
+  const {
+    tokens,
+    chestPhase,
+    chestOpen,
+    reelItems,
+    wonItem,
+    reelRef,
+    openChest,
+    resetChest,
+    setRewardView,
+    rewardError,
+  } = useGame();
 
   return (
     <div className="flex flex-1 flex-col overflow-hidden">
@@ -42,18 +53,21 @@ export function ChestScreen() {
             <div
               ref={reelRef}
               className="flex gap-[6px]"
-              style={{ willChange: "transform", paddingLeft: CONTAINER_W / 2 }}
+              style={{ willChange: "transform" }}
             >
-              {reelItems.map((item, i) => (
+              {reelItems.map((item, i) => {
+                const landed = chestPhase === "reveal" && i === WINNER_IDX;
+                return (
                 <div
                   key={i}
                   className="flex shrink-0 flex-col items-center justify-center gap-1"
                   style={{
                     width: ITEM_W,
                     height: 88,
+                    boxSizing: "border-box",
                     background: item.bg,
-                    border: `2px solid ${item.border}`,
-                    boxShadow: `0 0 8px ${item.glow}`,
+                    border: `2px solid ${landed ? "#ffd700" : item.border}`,
+                    boxShadow: landed ? "0 0 14px #ffd70099" : `0 0 8px ${item.glow}`,
                   }}
                 >
                   <div style={{ fontSize: 26 }}>{item.icon}</div>
@@ -63,7 +77,8 @@ export function ChestScreen() {
                     {item.name}
                   </div>
                 </div>
-              ))}
+                );
+              })}
             </div>
           </div>
         </div>
@@ -107,6 +122,11 @@ export function ChestScreen() {
                   TO EARN TOKENS
                 </div>
               )}
+              {rewardError && (
+                <div style={pxS("5px")} className="text-center text-[#ef4444]">
+                  {rewardError}
+                </div>
+              )}
             </div>
           )}
 
@@ -132,6 +152,7 @@ export function ChestScreen() {
                 <div style={{ ...pxS("6px"), color: wonItem.border, textAlign: "center", lineHeight: 1.8 }}>
                   {wonItem.name}
                 </div>
+                <div style={{ ...pxS("5px"), color: "#ffffff99" }}>{effectLabel(wonItem.effect)}</div>
               </div>
               <div className="flex w-full gap-3">
                 <button

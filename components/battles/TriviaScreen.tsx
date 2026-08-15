@@ -8,7 +8,7 @@ import { ScreenHeader, TokenPill, monoS, pxS } from "../pixel";
 const LETTERS = ["A", "B", "C", "D", "E", "F"];
 
 export function TriviaScreen() {
-  const { question, triviaAns, triviaAnswered, triviaCorrect, answerTrivia, nextQuestion, setBattleStep, tokens } =
+  const { question, triviaAns, triviaAnswered, triviaCorrect, answerTrivia, nextQuestion, setBattleStep, tokens, rewardError } =
     useGame();
 
   if (!question) return null;
@@ -33,6 +33,11 @@ export function TriviaScreen() {
           {question.company.toUpperCase()}
         </div>
       </div>
+      {rewardError && (
+        <div style={pxS("5px")} className="px-5 pt-2 text-[#ef4444]">
+          {rewardError}
+        </div>
+      )}
 
       <div className="flex flex-col gap-5 px-5 py-5">
         {/* company card */}
@@ -56,8 +61,11 @@ export function TriviaScreen() {
               {question.company.toUpperCase()}
             </div>
             {question.tagline && (
-              <div style={pxS("5px")} className="mt-2 leading-loose text-white/40">
-                {question.tagline.toUpperCase()}
+              <div
+                style={pxS("5px")}
+                className={`mt-2 leading-loose ${answered ? "text-white/40" : "text-white/20"}`}
+              >
+                {answered ? question.tagline.toUpperCase() : "WHAT DO THEY BUILD?"}
               </div>
             )}
           </div>

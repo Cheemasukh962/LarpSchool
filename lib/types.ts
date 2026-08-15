@@ -32,6 +32,7 @@ export interface Card {
   compliment: string;
   roast: string;
   has_photo: boolean;
+  is_guest?: boolean;
 }
 
 export interface CardsPayload {
@@ -77,6 +78,10 @@ export interface BattleResult {
   photo_finish: boolean;
   /** What actually separated them, so a 0-margin result can explain itself on screen. */
   tiebreak: "score" | "larp_index" | "name";
-  /** Which side of the fight the player was on, when known. */
+  /** Which side of the fight the player's CARD won, when known. */
   player_won?: boolean;
+  /** Whether the player bet on the card the rubric crowned. This is the token win. */
+  bet_won?: boolean;
+  /** Extra flex the player brought from equipped gear. */
+  gear_flex?: number;
 }

@@ -1,9 +1,8 @@
 /**
  * Slot symbols and payout rules, lifted out of the mock component.
  *
- * The RNG here is client-side for now. Phase 3 moves the draw to the server and leaves
- * this module holding only the symbol table and the payout math, which the client still
- * needs in order to animate toward a result the server already decided.
+ * Symbol table + payout math. When Supabase is on, the server draws and the client
+ * only animates toward that result. Local mode still calls drawSpin() here.
  */
 
 export interface SlotSymbol {
@@ -30,11 +29,17 @@ export function symbolById(id: string): SlotSymbol {
   return SLOT_SYMBOLS.find((s) => s.id === id) ?? SLOT_SYMBOLS[0];
 }
 
-export function pickSymbol(): SlotSymbol {
-  let r = Math.random() * 100;
-  for (const s of SLOT_SYMBOLS) {
-    r -= s.prob;
-    if (r <= 0) return s;
+export function pickSymbol(luck = 0): SlotSymbol {
+  const tilt = Math.max(0, Math.min(20, luck));
+  const weights = SLOT_SYMBOLS.map((s, i) => {
+    if (i === 0) return Math.max(8, s.prob - tilt * 1.2);
+    if (s.id === "star" || s.id === "crown") return s.prob + tilt * 0.5;
+    return s.prob + tilt * 0.2;
+  });
+  let r = Math.random() * weights.reduce((a, b) => a + b, 0);
+  for (let i = 0; i < SLOT_SYMBOLS.length; i++) {
+    r -= weights[i];
+    if (r <= 0) return SLOT_SYMBOLS[i];
   }
   return SLOT_SYMBOLS[0];
 }
@@ -62,6 +67,6 @@ export function evaluateSpin(
   return { reels, win: 0, jackpot: false };
 }
 
-export function drawSpin(bet: number, jackpot: number): SpinOutcome {
-  return evaluateSpin([pickSymbol(), pickSymbol(), pickSymbol()], bet, jackpot);
+export function drawSpin(bet: number, jackpot: number, luck = 0): SpinOutcome {
+  return evaluateSpin([pickSymbol(luck), pickSymbol(luck), pickSymbol(luck)], bet, jackpot);
 }

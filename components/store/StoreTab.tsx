@@ -1,13 +1,21 @@
 "use client";
 
-import { Coins } from "lucide-react";
+import { Coins, Trophy } from "lucide-react";
+import Link from "next/link";
+import { useState } from "react";
 
+import { EQUIP_PER_KIND, effectLabel, equippedOfKind } from "@/lib/gear";
 import { gradientFor, photoUrl, roleFor } from "@/lib/adapt";
 import { useGame } from "@/lib/game-store";
+import { postMagicLink } from "@/lib/session-client";
 import { CircleAvatar, pxS } from "../pixel";
 
 export function StoreTab() {
-  const { playerCard, tokens, inventory, toggleEquip, setTab, setBattleStep, setRewardView, resetChest } = useGame();
+  const { playerCard, tokens, inventory, toggleEquip, setTab, setBattleStep, setRewardView, resetChest, gear, persistOn } =
+    useGame();
+  const [email, setEmail] = useState("");
+  const [magicMsg, setMagicMsg] = useState<string | null>(null);
+  const [equipMsg, setEquipMsg] = useState<string | null>(null);
 
   return (
     <div className="flex flex-1 flex-col overflow-y-auto">
@@ -30,15 +38,27 @@ export function StoreTab() {
             <div className="mt-1 flex items-center gap-1 text-[#ffd700]" style={pxS("6px")}>
               <Coins size={10} /> {tokens} TOKENS
             </div>
+            {(gear.flex > 0 || gear.luck > 0 || gear.payout > 0) && (
+              <div style={pxS("4px")} className="mt-1 text-white/35">
+                {gear.flex > 0 ? `FLEX +${gear.flex}  ` : ""}
+                {gear.luck > 0 ? `LUCK +${gear.luck}  ` : ""}
+                {gear.payout > 0 ? `PAYOUT +${gear.payout}%` : ""}
+              </div>
+            )}
           </div>
           {playerCard && (
             <div className="ml-auto flex shrink-0 flex-col items-end gap-1">
               <div style={{ ...pxS("14px"), color: "#ffd700", textShadow: "2px 2px 0 #b8860b" }}>
-                {playerCard.flex_score}
+                {(playerCard.flex_score ?? 0) + gear.flex}
               </div>
               <div style={pxS("4px")} className="text-white/30">
                 #{playerCard.rank}
               </div>
+              {gear.flex > 0 && (
+                <div style={pxS("4px")} className="text-[#22c55e]">
+                  +{gear.flex} GEAR
+                </div>
+              )}
             </div>
           )}
         </div>
@@ -54,6 +74,21 @@ export function StoreTab() {
             FIND MY CARD
           </button>
         )}
+        <Link
+          href="/leaderboard"
+          className="mt-3 flex w-full items-center justify-center gap-2 py-3 text-[#ffd700]"
+          style={{ ...pxS("7px"), border: "2px solid #ffd700" }}
+        >
+          <Trophy size={12} />
+          LEADERBOARD
+        </Link>
+        <Link
+          href="/join"
+          className="mt-3 flex w-full items-center justify-center py-3 text-[#ffd700]/80"
+          style={{ ...pxS("7px"), border: "2px solid #ffd70055" }}
+        >
+          HOST QR
+        </Link>
       </div>
 
       {/* inventory */}
@@ -86,7 +121,15 @@ export function StoreTab() {
             {inventory.map((item) => (
               <button
                 key={item.uid}
-                onClick={() => toggleEquip(item.uid)}
+                onClick={() => {
+                  if (!item.effect) return;
+                  if (!item.equipped && equippedOfKind(inventory, item.effect.kind) >= EQUIP_PER_KIND) {
+                    setEquipMsg(`MAX ${EQUIP_PER_KIND} ${item.effect.kind.toUpperCase()}`);
+                    return;
+                  }
+                  setEquipMsg(null);
+                  toggleEquip(item.uid);
+                }}
                 className="flex flex-col items-center gap-1 p-2 transition active:scale-95"
                 style={{
                   border: `2px solid ${item.equipped ? item.border : item.border + "55"}`,
@@ -98,6 +141,9 @@ export function StoreTab() {
                 <div style={{ ...pxS("4px"), color: item.border, textAlign: "center", lineHeight: 1.5 }}>
                   {item.name}
                 </div>
+                <div style={{ ...pxS("4px"), color: "#ffffff55", textAlign: "center" }}>
+                  {effectLabel(item.effect)}
+                </div>
                 {item.equipped && <div style={{ ...pxS("4px"), color: "#ffd700" }}>EQUIPPED</div>}
               </button>
             ))}
@@ -108,10 +154,56 @@ export function StoreTab() {
       {inventory.length > 0 && (
         <div className="px-5 pb-4">
           <div style={pxS("6px")} className="text-center leading-loose text-white/25">
-            TAP AN ITEM TO EQUIP / UNEQUIP
+            TAP TO EQUIP · MAX {EQUIP_PER_KIND} OF EACH
+            {equipMsg ? (
+              <>
+                <br />
+                <span className="text-[#ffd700]">{equipMsg}</span>
+              </>
+            ) : null}
           </div>
         </div>
       )}
+
+      <div className="border-t border-[#ffd700]/10 px-5 py-5">
+        <div style={pxS("6px")} className="mb-3 text-[#ffd700]/70">
+          {persistOn ? "SAVED ON THIS PHONE" : "LOCAL ONLY"}
+        </div>
+        {persistOn ? (
+          <div className="flex flex-col gap-2">
+            <div style={pxS("5px")} className="leading-loose text-white/35">
+              EMAIL A MAGIC LINK TO KEEP THIS CARD IF YOU SWITCH PHONES
+            </div>
+            <input
+              value={email}
+              onChange={(e) => setEmail(e.target.value)}
+              placeholder="YOU@EMAIL.COM"
+              className="w-full border border-[#ffd700]/30 bg-[#0a0a0a] px-3 py-2 text-[#ffd700] placeholder:text-[#ffd700]/25 focus:outline-none"
+              style={pxS("6px")}
+            />
+            <button
+              onClick={() => {
+                void postMagicLink(email)
+                  .then((r) => setMagicMsg(r.local ? "SUPABASE AUTH NOT SET" : "CHECK YOUR EMAIL"))
+                  .catch((err) => setMagicMsg(err instanceof Error ? err.message : "FAILED"));
+              }}
+              className="py-3 text-[#0a0a0a]"
+              style={{ ...pxS("6px"), background: "#ffd700", boxShadow: "3px 3px 0 #b8860b" }}
+            >
+              SEND LINK
+            </button>
+            {magicMsg && (
+              <div style={pxS("5px")} className="text-white/40">
+                {magicMsg.toUpperCase()}
+              </div>
+            )}
+          </div>
+        ) : (
+          <div style={pxS("5px")} className="leading-loose text-white/30">
+            ADD SUPABASE KEYS TO .ENV TO KEEP CLAIMS AFTER REFRESH
+          </div>
+        )}
+      </div>
     </div>
   );
 }

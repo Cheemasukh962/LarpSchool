@@ -7,7 +7,15 @@ import type { Card } from "@/lib/types";
 import { CircleAvatar, pxS } from "../pixel";
 
 /** One guest in a scrollable list. Used by the claim search and the challenger picker. */
-export function CardRow({ card, onSelect }: { card: Card; onSelect: (card: Card) => void }) {
+export function CardRow({
+  card,
+  onSelect,
+  hideScore = false,
+}: {
+  card: Card;
+  onSelect: (card: Card) => void;
+  hideScore?: boolean;
+}) {
   const { role, sub } = identityLines(card);
 
   return (
@@ -34,14 +42,16 @@ export function CardRow({ card, onSelect }: { card: Card; onSelect: (card: Card)
           {sub.toUpperCase()}
         </div>
       </div>
-      <div className="flex shrink-0 flex-col items-end gap-1">
-        <div style={pxS("9px")} className="text-[#ffd700]">
-          {card.flex_score}
+      {!hideScore && (
+        <div className="flex shrink-0 flex-col items-end gap-1">
+          <div style={pxS("9px")} className="text-[#ffd700]">
+            {card.flex_score}
+          </div>
+          <div style={pxS("4px")} className="text-white/25">
+            #{card.rank}
+          </div>
         </div>
-        <div style={pxS("4px")} className="text-white/25">
-          #{card.rank}
-        </div>
-      </div>
+      )}
       <ChevronRight size={16} className="shrink-0 text-[#ffd700]/35" />
     </button>
   );

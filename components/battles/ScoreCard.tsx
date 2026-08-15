@@ -5,7 +5,15 @@ import type { Card } from "@/lib/types";
 import { CircleAvatar, PixelBorder, StatBars, monoS, pxS } from "../pixel";
 
 /** The full four-bar scorecard. Shared by the profile confirmation and the store tab. */
-export function ScoreCard({ card, gold = true }: { card: Card; gold?: boolean }) {
+export function ScoreCard({
+  card,
+  gold = true,
+  gearFlex = 0,
+}: {
+  card: Card;
+  gold?: boolean;
+  gearFlex?: number;
+}) {
   const tint = tierColor(card.school_tier);
   const { role } = identityLines(card);
   // Without a title the role line already names the employer, so don't print it twice.
@@ -36,10 +44,17 @@ export function ScoreCard({ card, gold = true }: { card: Card; gold?: boolean })
             )}
           </div>
           <div className="flex shrink-0 flex-col items-end gap-1">
-            <div style={{ ...pxS("18px"), color: "#ffd700", textShadow: "2px 2px 0 #b8860b" }}>{card.flex_score}</div>
+            <div style={{ ...pxS("18px"), color: "#ffd700", textShadow: "2px 2px 0 #b8860b" }}>
+              {card.flex_score + gearFlex}
+            </div>
             <div style={pxS("4px")} className="text-white/30">
               FLEX
             </div>
+            {gearFlex > 0 && (
+              <div style={pxS("4px")} className="text-[#22c55e]">
+                +{gearFlex} GEAR
+              </div>
+            )}
           </div>
         </div>
 

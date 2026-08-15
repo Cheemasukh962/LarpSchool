@@ -22,8 +22,8 @@ export function PickChallengerScreen() {
   }, [data, playerCard, query]);
 
   return (
-    <div className="flex flex-1 flex-col overflow-y-auto">
-      <div className="sticky top-0 z-10 flex flex-col gap-3 border-b border-[#ffd700]/20 bg-[#0a0a0a] px-5 py-3">
+    <div className="flex min-h-0 flex-1 flex-col overflow-hidden">
+      <div className="flex shrink-0 flex-col gap-3 border-b border-[#ffd700]/20 bg-[#0a0a0a] px-5 py-3">
         <div className="flex items-center justify-between">
           <div style={pxS("7px")} className="text-[#ffd700]">
             CHALLENGERS
@@ -48,21 +48,23 @@ export function PickChallengerScreen() {
         </PixelBorder>
         {!query.trim() && (
           <div style={pxS("4px")} className="text-white/25">
-            CLOSE FIGHTS FIRST · SEARCH FOR ANYONE
+            CLOSE FIGHTS FIRST · SCORES HIDDEN UNTIL YOU BATTLE
           </div>
         )}
       </div>
 
-      {list.length === 0 ? (
-        <div className="flex flex-col items-center gap-3 px-6 py-12 text-center">
-          <div className="text-4xl opacity-25">🔍</div>
-          <div style={pxS("6px")} className="leading-loose text-white/25">
-            NO FIGHTER FOUND
+      <div className="min-h-0 flex-1 overflow-y-auto overscroll-contain">
+        {list.length === 0 ? (
+          <div className="flex flex-col items-center gap-3 px-6 py-12 text-center">
+            <div className="text-4xl opacity-25">🔍</div>
+            <div style={pxS("6px")} className="leading-loose text-white/25">
+              NO FIGHTER FOUND
+            </div>
           </div>
-        </div>
-      ) : (
-        list.map((card) => <CardRow key={card.id} card={card} onSelect={chooseChallenger} />)
-      )}
+        ) : (
+          list.map((card) => <CardRow key={card.id} card={card} hideScore onSelect={chooseChallenger} />)
+        )}
+      </div>
     </div>
   );
 }

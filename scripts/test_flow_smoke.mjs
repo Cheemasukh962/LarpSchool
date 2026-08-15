@@ -216,8 +216,14 @@ try {
   await expect("CLOSE FIGHTS FIRST", "challenger list defaults to close matchups");
   await shoot("challenger-list");
 
+  const listLeaksScores = await page.evaluate(() =>
+    [...document.querySelectorAll('[data-testid="card-row"]')].some((r) => /#\d+/.test(r.innerText))
+  );
+  if (listLeaksScores) throw new Error("challenger list showed ranks/scores before the fight");
+  ok("challenger list hides scores");
+
   await clickTestId("card-row");
-  await expect("WHO PERFORMED BETTER", "reached the face-off");
+  await expect("PLACE YOUR BET", "reached the face-off");
   await shoot("faceoff");
 
   const hidesScores = await page.evaluate(() => !/\d+\s*FLEX/.test(document.body.innerText));
@@ -229,17 +235,21 @@ try {
   await waitForText(/YOU WIN!|YOU LOSE/, 5000);
   await expect("WINNER", "battle resolved");
   await expect("BREAKDOWN", "result shows the stat comparison");
-  await expect("TOKEN EARNED", "result credited a token");
 
   const resultText = await screenText();
-  if (!/CALLED IT|WRONG CALL/.test(resultText)) throw new Error("result did not report the prediction outcome");
-  ok(`result reported ${/CALLED IT/.test(resultText) ? "a correct" : "an incorrect"} prediction`);
+  const called = /CALLED IT|YOUR BET HIT/.test(resultText);
+  const missed = /WRONG CALL|YOUR BET MISSED/.test(resultText);
+  if (!called && !missed) throw new Error("result did not report the bet outcome");
+  ok(`result reported ${called ? "a hitting" : "a missing"} bet`);
 
   const tokensAfterBattle = await tokens();
-  if (tokensAfterBattle !== tokensBeforeBattle + 1) {
-    throw new Error(`battle paid ${tokensAfterBattle - tokensBeforeBattle} tokens, expected exactly 1`);
+  const expectedPay = called ? 1 : 0;
+  if (tokensAfterBattle !== tokensBeforeBattle + expectedPay) {
+    throw new Error(
+      `battle paid ${tokensAfterBattle - tokensBeforeBattle} tokens after a ${called ? "hit" : "miss"}, expected ${expectedPay}`
+    );
   }
-  ok("battle paid exactly one token");
+  ok(`battle paid ${expectedPay} token(s) for the bet`);
 
   /* The winner's score must be the larger of the two shown. */
   const scoreboard = await page.evaluate(() => {

@@ -11,14 +11,18 @@
     "data": "python scripts/build_web_data.py && node scripts/build_photos.mjs",
     "data:json": "python scripts/build_web_data.py",
     "data:photos": "node scripts/build_photos.mjs",
-    "test": "npm run typecheck && npm run lint && npm run test:data && npm run test:parity",
+    "test": "npm run typecheck && npm run lint && npm run test:data && npm run test:parity && npm run test:gear",
+    "test:gear": "node scripts/test_gear.mjs",
     "test:data": "node scripts/test_web_data.mjs",
     "test:flow": "node scripts/test_flow_smoke.mjs",
+    "test:load": "k6 run -e BASE=http://localhost:3000 scripts/load_k6.js",
     "test:parity": "node scripts/test_battle_parity.mjs"
   },
   "dependencies": {
+    "@supabase/supabase-js": "^2.112.3",
     "lucide-react": "^0.469.0",
     "next": "^15.1.6",
+    "qrcode": "^1.5.4",
     "react": "^19.0.0",
     "react-dom": "^19.0.0"
   },
@@ -26,6 +30,7 @@
     "@eslint/eslintrc": "^3.3.6",
     "@tailwindcss/postcss": "^4.0.0",
     "@types/node": "^22.10.7",
+    "@types/qrcode": "^1.5.6",
     "@types/react": "^19.0.7",
     "@types/react-dom": "^19.0.3",
     "eslint": "^9.39.5",

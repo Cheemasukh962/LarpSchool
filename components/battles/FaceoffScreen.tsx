@@ -6,8 +6,8 @@ import type { Card } from "@/lib/types";
 import { CircleAvatar, PixelBorder, pxS } from "../pixel";
 
 /**
- * The design's "who performed better?" vote. Scores stay hidden here: the tap is a
- * prediction, and the result screen reveals whether the rubric agreed with you.
+ * Face-off is a bet on who the rubric will crown. Scores stay hidden so you are
+ * guessing from the LinkedIn, not from the number.
  */
 export function FaceoffScreen() {
   const { playerCard, challenger, submitGuess, setBattleStep } = useGame();
@@ -17,7 +17,7 @@ export function FaceoffScreen() {
     <div className="flex flex-1 flex-col overflow-hidden">
       <div className="flex items-center justify-between border-b border-[#ffd700]/20 px-5 py-3">
         <span style={pxS("7px")} className="text-[#ffd700]">
-          WHO PERFORMED BETTER?
+          PLACE YOUR BET
         </span>
         <button
           onClick={() => setBattleStep("challenger-select")}
@@ -46,7 +46,7 @@ export function FaceoffScreen() {
       </div>
 
       <div className="px-5 pb-3 text-center text-white/25" style={pxS("6px")}>
-        TAP WHO YOU THINK WINS
+        TAP WHO YOU THINK THE RUBRIC CROWNS
       </div>
     </div>
   );
