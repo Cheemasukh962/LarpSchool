@@ -1,6 +1,6 @@
 "use client";
 
-import { CHEST_COST, ITEM_W, RARITY_ORDER, WINNER_IDX, firstOfRarity } from "@/lib/chest";
+import { CHEST_COST, ITEM_W, RARITY_ORDER, WINNER_IDX, firstOfRarity, rarityShare } from "@/lib/chest";
 import { effectLabel } from "@/lib/gear";
 import { useGame } from "@/lib/game-store";
 import { PixelChest, ScreenHeader, TokenPill, pxS } from "../pixel";
@@ -87,10 +87,14 @@ export function ChestScreen() {
         <div className="mt-2 flex shrink-0 flex-wrap justify-center gap-2 px-4">
           {RARITY_ORDER.map((r) => {
             const sample = firstOfRarity(r);
+            const share = rarityShare(r);
+            const odds = share >= 0.01 ? `${Math.round(share * 100)}%` : "<1%";
             return (
               <div key={r} className="flex items-center gap-1">
                 <div className="h-1.5 w-1.5 rounded-sm" style={{ background: sample.border }} />
-                <span style={{ ...pxS("4px"), color: sample.border }}>{r.toUpperCase()}</span>
+                <span style={{ ...pxS("4px"), color: sample.border }}>
+                  {r.toUpperCase()} {odds}
+                </span>
               </div>
             );
           })}

@@ -27,17 +27,18 @@ import {
   reelStopX,
   weightedChestItem,
   CHEST_COST,
-  CHEST_ITEMS,
+  PREVIEW_REEL,
   WINNER_IDX,
   type ChestItem,
   type OwnedItem,
 } from "./chest";
-import { clampEquipped, payoutMultiplier, sumGear, toggleEquipped, type GearBonus } from "./gear";
+import { clampEquipped, dropItem, payoutMultiplier, sumGear, toggleEquipped, type GearBonus } from "./gear";
 import {
   fetchMe,
   postBattleCredit,
   postChest,
   postClaim,
+  postDrop,
   postEquip,
   postGuest,
   postRelease,
@@ -144,6 +145,7 @@ interface GameContextValue {
   /* inventory */
   inventory: OwnedItem[];
   toggleEquip: (uid: string) => void;
+  tossItem: (uid: string) => void;
 }
 
 const GameContext = createContext<GameContextValue | null>(null);
@@ -467,11 +469,12 @@ export function GameProvider({ children }: { children: ReactNode }) {
   );
 
   const spinSlots = useCallback(() => {
-    if (!sessionReady || slotPhase !== "idle" || tokens < bet) return;
+    if (!sessionReady || slotPhase === "spinning" || tokens < bet) return;
     setRewardError(null);
     setSlotPhase("spinning");
     setLastWin(null);
     setIsJackpot(false);
+    setTokens((t) => t - bet);
 
     if (persistOn) {
       const key = crypto.randomUUID();
@@ -482,10 +485,10 @@ export function GameProvider({ children }: { children: ReactNode }) {
             symbolById(row.reels[1]),
             symbolById(row.reels[2]),
           ];
-          setTokens(row.tokens - row.win);
           playReel(outcomeReels, row.win, row.tokens, row.jackpot, row.jackpotHit);
         },
         (err) => {
+          setTokens((t) => t + bet);
           setSlotPhase("idle");
           setRewardError(walletMsg(err));
         }
@@ -493,7 +496,6 @@ export function GameProvider({ children }: { children: ReactNode }) {
       return;
     }
 
-    setTokens((t) => t - bet);
     const nextJackpot = jackpot + Math.ceil(bet / 2);
     setJackpot(nextJackpot);
     const outcome = drawSpin(bet, jackpot, gear.luck);
@@ -523,7 +525,7 @@ export function GameProvider({ children }: { children: ReactNode }) {
 
   const rollChestTo = useCallback((winner: ChestItem, onReveal: () => void) => {
     setWonItem(winner);
-    setReelItems(buildReel(winner, gear.luck));
+    setReelItems(buildReel(winner));
     const lid = setTimeout(() => {
       setChestPhase("spinning");
       const el = reelRef.current;
@@ -542,7 +544,7 @@ export function GameProvider({ children }: { children: ReactNode }) {
       chestTimers.current.push(reveal);
     }, 450);
     chestTimers.current.push(lid);
-  }, [gear.luck]);
+  }, []);
 
   const openChest = useCallback(() => {
     if (!sessionReady || tokens < CHEST_COST || chestPhase !== "idle") return;
@@ -585,6 +587,30 @@ export function GameProvider({ children }: { children: ReactNode }) {
           setInventory(saved);
         },
         (err) => setRewardError(walletMsg(err))
+      );
+    },
+    [persistOn]
+  );
+
+  const tossItem = useCallback(
+    (uid: string) => {
+      const prev = inventoryRef.current;
+      const next = dropItem(prev, uid);
+      if (next.length === prev.length) return;
+      inventoryRef.current = next;
+      setInventory(next);
+      if (!persistOn) return;
+      void postDrop(uid).then(
+        (row) => {
+          const saved = clampEquipped(row.inventory);
+          inventoryRef.current = saved;
+          setInventory(saved);
+        },
+        (err) => {
+          inventoryRef.current = prev;
+          setInventory(prev);
+          setRewardError(walletMsg(err));
+        }
       );
     },
     [persistOn]
@@ -660,7 +686,7 @@ export function GameProvider({ children }: { children: ReactNode }) {
 
     chestPhase,
     chestOpen,
-    reelItems: reelItems.length ? reelItems : Array.from({ length: 10 }, () => CHEST_ITEMS[0]),
+    reelItems: reelItems.length ? reelItems : PREVIEW_REEL,
     wonItem,
     reelRef,
     openChest,
@@ -668,6 +694,7 @@ export function GameProvider({ children }: { children: ReactNode }) {
 
     inventory,
     toggleEquip,
+    tossItem,
   };
 
   return <GameContext.Provider value={value}>{children}</GameContext.Provider>;

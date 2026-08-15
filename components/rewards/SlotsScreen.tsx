@@ -7,7 +7,7 @@ import { BET_OPTIONS, SLOT_SYMBOLS } from "@/lib/slots";
 import { PixelBorder, ScreenHeader, TokenPill, pxS } from "../pixel";
 
 export function SlotsScreen() {
-  const { tokens, jackpot, bet, setBet, reels, slotPhase, lastWin, isJackpot, spinSlots, resetSlots, setRewardView, rewardError } =
+  const { tokens, jackpot, bet, setBet, reels, slotPhase, lastWin, isJackpot, spinSlots, setRewardView, rewardError } =
     useGame();
 
   const won = slotPhase === "result" && lastWin !== null && lastWin > 0;
@@ -185,12 +185,6 @@ export function SlotsScreen() {
           <div style={pxS("5px")} className="text-center text-[#ef4444]">
             {rewardError}
           </div>
-        )}
-
-        {slotPhase === "result" && (
-          <button onClick={resetSlots} className="text-white/30 transition hover:text-white" style={pxS("7px")}>
-            RESET
-          </button>
         )}
       </div>
     </div>

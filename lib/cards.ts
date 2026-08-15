@@ -96,13 +96,18 @@ export function randomCard(cards: Card[], excludeId?: string): Card {
  * by an invisible tiebreak. Sampling the gap-sorted pool on a quadratic curve keeps the
  * closest fight first while still reaching real blowouts further down.
  */
-export function suggestedOpponents(cards: Card[], player: Card, count = 12): Card[] {
-  const pool = cards
+/** Every other fighter, closest score first. The picker pages this; it does not mount all 795. */
+export function rankedOpponents(cards: Card[], player: Card): Card[] {
+  return cards
     .filter((c) => c.id !== player.id)
     .map((c) => ({ c, gap: Math.abs(c.flex_score - player.flex_score) }))
-    .sort((a, b) => a.gap - b.gap || a.c.rank - b.c.rank);
+    .sort((a, b) => a.gap - b.gap || a.c.rank - b.c.rank)
+    .map((x) => x.c);
+}
 
-  if (pool.length <= count) return pool.map((x) => x.c);
+export function suggestedOpponents(cards: Card[], player: Card, count = 12): Card[] {
+  const pool = rankedOpponents(cards, player);
+  if (pool.length <= count) return pool;
 
   const picked: Card[] = [];
   const used = new Set<number>();
@@ -112,7 +117,7 @@ export function suggestedOpponents(cards: Card[], player: Card, count = 12): Car
     while (used.has(idx) && idx < pool.length - 1) idx++;
     if (used.has(idx)) continue;
     used.add(idx);
-    picked.push(pool[idx].c);
+    picked.push(pool[idx]);
   }
   return picked;
 }

@@ -28,6 +28,7 @@ export const ZERO_GEAR: GearBonus = { flex: 0, luck: 0, payout: 0 };
 
 export function effectLabel(effect?: GearEffect | null): string {
   if (!effect) return "";
+  if (effect.value <= 0) return "TRINKET";
   if (effect.kind === "flex") return `FLEX +${effect.value}`;
   if (effect.kind === "luck") return `LUCK +${effect.value}`;
   return `PAYOUT +${effect.value}%`;
@@ -97,4 +98,8 @@ export function toggleEquipped<T extends { uid: string; equipped: boolean; effec
   const target = items.find((i) => i.uid === uid);
   if (!target) return items;
   return applyEquip(items, uid, !target.equipped);
+}
+
+export function dropItem<T extends { uid: string }>(items: T[], uid: string): T[] {
+  return items.filter((i) => i.uid !== uid);
 }

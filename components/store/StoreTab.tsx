@@ -1,6 +1,6 @@
 "use client";
 
-import { Coins, Trophy } from "lucide-react";
+import { Coins, Trophy, X } from "lucide-react";
 import Link from "next/link";
 import { useState } from "react";
 
@@ -11,11 +11,12 @@ import { postMagicLink } from "@/lib/session-client";
 import { CircleAvatar, pxS } from "../pixel";
 
 export function StoreTab() {
-  const { playerCard, tokens, inventory, toggleEquip, setTab, setBattleStep, setRewardView, resetChest, gear, persistOn } =
+  const { playerCard, tokens, inventory, toggleEquip, tossItem, setTab, setBattleStep, setRewardView, resetChest, gear, persistOn } =
     useGame();
   const [email, setEmail] = useState("");
   const [magicMsg, setMagicMsg] = useState<string | null>(null);
   const [equipMsg, setEquipMsg] = useState<string | null>(null);
+  const [tossUid, setTossUid] = useState<string | null>(null);
 
   return (
     <div className="flex flex-1 flex-col overflow-y-auto">
@@ -118,35 +119,71 @@ export function StoreTab() {
           </div>
         ) : (
           <div className="grid grid-cols-3 gap-2">
-            {inventory.map((item) => (
-              <button
-                key={item.uid}
-                onClick={() => {
-                  if (!item.effect) return;
-                  if (!item.equipped && equippedOfKind(inventory, item.effect.kind) >= EQUIP_PER_KIND) {
-                    setEquipMsg(`MAX ${EQUIP_PER_KIND} ${item.effect.kind.toUpperCase()}`);
-                    return;
-                  }
-                  setEquipMsg(null);
-                  toggleEquip(item.uid);
-                }}
-                className="flex flex-col items-center gap-1 p-2 transition active:scale-95"
-                style={{
-                  border: `2px solid ${item.equipped ? item.border : item.border + "55"}`,
-                  background: item.equipped ? item.bg : "#0a0a0a",
-                  boxShadow: item.equipped ? `0 0 10px ${item.glow}` : "none",
-                }}
-              >
-                <div style={{ fontSize: 24 }}>{item.icon}</div>
-                <div style={{ ...pxS("4px"), color: item.border, textAlign: "center", lineHeight: 1.5 }}>
-                  {item.name}
+            {inventory.map((item) => {
+              const tossing = tossUid === item.uid;
+              return (
+                <div
+                  key={item.uid}
+                  className="relative flex flex-col items-center gap-1 p-2"
+                  style={{
+                    border: `2px solid ${tossing ? "#ef4444" : item.equipped ? item.border : item.border + "55"}`,
+                    background: tossing ? "#1a0505" : item.equipped ? item.bg : "#0a0a0a",
+                    boxShadow: item.equipped && !tossing ? `0 0 10px ${item.glow}` : "none",
+                  }}
+                >
+                  <button
+                    type="button"
+                    aria-label={tossing ? "Confirm toss" : "Toss item"}
+                    onClick={(e) => {
+                      e.stopPropagation();
+                      if (tossing) {
+                        tossItem(item.uid);
+                        setTossUid(null);
+                        setEquipMsg(null);
+                        return;
+                      }
+                      setTossUid(item.uid);
+                      setEquipMsg("TAP × AGAIN TO TOSS");
+                    }}
+                    className="absolute top-0.5 right-0.5 flex h-5 w-5 items-center justify-center text-white/35 transition hover:text-[#ef4444]"
+                  >
+                    <X size={11} />
+                  </button>
+                  <button
+                    type="button"
+                    onClick={() => {
+                      if (tossing) {
+                        setTossUid(null);
+                        setEquipMsg(null);
+                        return;
+                      }
+                      if (!item.effect || item.effect.value <= 0) {
+                        setTossUid(item.uid);
+                        setEquipMsg("TAP × AGAIN TO TOSS");
+                        return;
+                      }
+                      if (!item.equipped && equippedOfKind(inventory, item.effect.kind) >= EQUIP_PER_KIND) {
+                        setEquipMsg(`MAX ${EQUIP_PER_KIND} ${item.effect.kind.toUpperCase()}`);
+                        return;
+                      }
+                      setEquipMsg(null);
+                      setTossUid(null);
+                      toggleEquip(item.uid);
+                    }}
+                    className="flex w-full flex-col items-center gap-1 pt-2 transition active:scale-95"
+                  >
+                    <div style={{ fontSize: 24 }}>{item.icon}</div>
+                    <div style={{ ...pxS("4px"), color: tossing ? "#ef4444" : item.border, textAlign: "center", lineHeight: 1.5 }}>
+                      {tossing ? "TOSS?" : item.name}
+                    </div>
+                    <div style={{ ...pxS("4px"), color: "#ffffff55", textAlign: "center" }}>
+                      {effectLabel(item.effect)}
+                    </div>
+                    {item.equipped && !tossing && <div style={{ ...pxS("4px"), color: "#ffd700" }}>EQUIPPED</div>}
+                  </button>
                 </div>
-                <div style={{ ...pxS("4px"), color: "#ffffff55", textAlign: "center" }}>
-                  {effectLabel(item.effect)}
-                </div>
-                {item.equipped && <div style={{ ...pxS("4px"), color: "#ffd700" }}>EQUIPPED</div>}
-              </button>
-            ))}
+              );
+            })}
           </div>
         )}
       </div>
@@ -154,7 +191,7 @@ export function StoreTab() {
       {inventory.length > 0 && (
         <div className="px-5 pb-4">
           <div style={pxS("6px")} className="text-center leading-loose text-white/25">
-            TAP TO EQUIP · MAX {EQUIP_PER_KIND} OF EACH
+            TAP TO EQUIP · × × TO TOSS · MAX {EQUIP_PER_KIND} OF EACH
             {equipMsg ? (
               <>
                 <br />

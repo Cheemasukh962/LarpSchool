@@ -236,6 +236,16 @@ export async function setEquipped(
   return { inventory: next };
 }
 
+/** Drop one bag item. Missing uid is a no-op so a queued retry cannot fail. */
+export async function dropInventoryItem(player: PlayerRow, uid: string): Promise<WalletEquipResult> {
+  const current = clampEquipped(player.inventory);
+  const next = current.filter((i) => i.uid !== uid);
+  if (next.length === current.length) return { inventory: current };
+  const { error } = await supabaseAdmin().from("players").update({ inventory: next }).eq("id", player.id);
+  if (error) throw error;
+  return { inventory: next };
+}
+
 export function walletHttpStatus(code: WalletCode): number {
   if (code === "rate_limited") return 429;
   if (code === "insufficient") return 409;

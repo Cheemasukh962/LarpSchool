@@ -10,7 +10,7 @@ import { existsSync, readFileSync } from "node:fs";
 import path from "node:path";
 
 import { resolveBattle } from "../lib/battle.ts";
-import { searchCards, suggestedOpponents } from "../lib/cards.ts";
+import { rankedOpponents, searchCards, suggestedOpponents } from "../lib/cards.ts";
 
 const ROOT = path.resolve(import.meta.dirname, "..");
 const read = (p) => JSON.parse(readFileSync(path.join(ROOT, p), "utf8"));
@@ -82,6 +82,12 @@ const exact = searchCards(cards, target.name, 5);
 assert.equal(exact[0].id, target.id, "an exact full-name search should rank that person first");
 
 /* ── matchmaking ── */
+const ranked = rankedOpponents(cards, target);
+assert.equal(ranked.length, cards.length - 1, "ranked roster should be everyone except the player");
+assert.ok(!ranked.some((c) => c.id === target.id), "ranked roster included the player");
+const rankedGaps = ranked.map((c) => Math.abs(c.flex_score - target.flex_score));
+assert.deepEqual(rankedGaps, [...rankedGaps].sort((a, b) => a - b), "ranked roster is not ordered by score gap");
+
 const opponents = suggestedOpponents(cards, target, 12);
 assert.equal(opponents.length, 12);
 assert.equal(new Set(opponents.map((c) => c.id)).size, 12, "matchmaking returned the same person twice");

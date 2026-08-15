@@ -108,6 +108,10 @@ export async function postEquip(uid: string, equipped: boolean): Promise<WalletE
   return postWallet<WalletEquipResult>("/api/equip", { uid, equipped });
 }
 
+export async function postDrop(uid: string): Promise<WalletEquipResult> {
+  return postWallet<WalletEquipResult>("/api/drop", { uid });
+}
+
 export async function postVerdict(input: VerdictRequest): Promise<FlavorVerdict> {
   const res = await fetch("/api/verdict", {
     method: "POST",

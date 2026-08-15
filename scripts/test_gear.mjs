@@ -9,6 +9,7 @@ import {
   EQUIP_PER_KIND,
   applyEquip,
   clampEquipped,
+  dropItem,
   effectLabel,
   equippedOfKind,
   sumGear,
@@ -65,7 +66,15 @@ assert.deepEqual(
 assert.equal(EQUIP_PER_KIND, 2);
 
 /* labels must not throw on junk from an old inventory row */
+const bag = [item("keep", "flex", 1, true), item("junk", "luck", 0, false)];
+assert.deepEqual(
+  dropItem(bag, "junk").map((i) => i.uid),
+  ["keep"]
+);
+assert.equal(dropItem(bag, "nope").length, 2);
+
 assert.equal(effectLabel({ kind: "flex", value: 2 }), "FLEX +2");
+assert.equal(effectLabel({ kind: "flex", value: 0 }), "TRINKET");
 assert.equal(effectLabel(undefined), "");
 assert.equal(effectLabel(null), "");
 

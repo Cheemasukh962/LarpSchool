@@ -51,9 +51,9 @@ export function RewardsHub() {
                 LOOT CHEST
               </div>
               <div style={pxS("6px")} className="leading-relaxed text-white/40">
-                Spend 1 token · earn
+                Spend 1 token · mostly
                 <br />
-                rare LARP gear
+                junk · gold is rare
               </div>
             </div>
             <ChevronRight size={16} className="ml-auto text-[#ffd700]/40" />
