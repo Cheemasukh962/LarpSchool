@@ -32,10 +32,6 @@ export function PickChallengerScreen() {
   const visible = roster.slice(from, from + PAGE_SIZE);
 
   useEffect(() => {
-    setPage(0);
-  }, [query]);
-
-  useEffect(() => {
     listRef.current?.scrollTo({ top: 0 });
   }, [safePage, query]);
 
@@ -61,7 +57,10 @@ export function PickChallengerScreen() {
         <PixelBorder>
           <input
             value={query}
-            onChange={(e) => setQuery(e.target.value)}
+            onChange={(e) => {
+              setQuery(e.target.value);
+              setPage(0);
+            }}
             placeholder="SEARCH ALL FIGHTERS"
             maxLength={40}
             className="w-full bg-[#0a0a0a] px-3 py-2 uppercase tracking-wider text-[#ffd700] placeholder:text-[#ffd700]/25 focus:outline-none"
