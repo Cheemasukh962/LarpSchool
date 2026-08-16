@@ -2,7 +2,7 @@
 
 **Your LinkedIn is the fighter.** A phone-first arcade floor game built for the [YC Startup Internship Expo](https://luma.com/yc-meetup-1244) at Dogpatch HQ, San Francisco (Aug 15, 2026).
 
-795 confirmed guests. Pre-scored once. Then they walked in, searched their name, and fought.
+Python scored **795** confirmed guests before anyone walked in. Next.js is just the cabinet they fought on.
 
 Built by [Sukhman Cheema](https://www.linkedin.com/in/cheema-s).
 
@@ -32,21 +32,21 @@ Also on the floor: `/join` QR, `/leaderboard`, `/feed` live fights, PWA cache so
 
 The guest list started as a Luma dump (~1,348 going). Confirmed LinkedIn URLs became the source of truth: **`yc-expo-guests-linkedin-confirmed.csv` (795)**. Nobody fights unless they are on that list.
 
-One vendor was never going to cover a room full of students, stealth founders, and private profiles. So the pipeline is three sources, merged on purpose.
+The pipeline is **Python end to end** — matching, enrich, photos, scoring, trivia. One vendor was never going to cover a room full of students, stealth founders, and private profiles, so three sources feed the same engine.
 
-### 1. Own scripts (the glue)
+### 1. Own Python scripts (the glue)
 
-Before paying an enrich API, the project already had a custom pipeline:
+Custom Python, no enrich API required for the core loop:
 
 - Match Luma guests to LinkedIn URLs (`yc-expo-guests-web-matched.csv` and the high-confidence cut)
 - Download avatars (`scripts/download_linkedin_photos.py`)
 - Score every card locally (`scripts/larp_engine.py` + `scripts/prescore_battlers.py`)
 - Turn 51 company writeups into a 133-question bank (`scripts/generate_crossy_questions.py`)
-- Pack the web payload (`scripts/build_web_data.py` + `scripts/build_photos.mjs`)
+- Pack the web payload (`scripts/build_web_data.py`)
 
 The scoring engine never hits the network. Pre-score is O(n). A fight is two numbers and a template. That is why 50 phones on bad wifi still feel instant.
 
-### 2. Bright Data
+### 2. Bright Data (Python client)
 
 `scripts/enrich_linkedin_brightdata.py` — LinkedIn Profiles dataset, batched, progress-tracked, key never written to disk.
 
@@ -54,7 +54,7 @@ Bright Data was the bulk pull: **~758 / 795** profiles landed. It is strong on *
 
 Those 37 were not faked. They went to the next source.
 
-### 3. Crustdata
+### 3. Crustdata (Python client)
 
 First a bakeoff (`scripts/crustdata_bakeoff.py`) against Bright Data successes *and* failures, including a known public exec and a garbage URL, so the merge rules were honest.
 
@@ -62,7 +62,7 @@ Then a targeted retry (`scripts/crustdata_retry_failed.py`): **32 / 37 recovered
 
 Five URLs were still empty (bad slug, fully dark profiles). They stay on the confirmed list as guests, not invented LinkedIns.
 
-**Merge rule:** Bright Data for presence / projects / photos. Crustdata for employment when Bright Data had nothing. Luma row for name and id. Then `prescore_battlers.py` writes `data/battlers.json`.
+**Merge rule:** Bright Data for presence / projects / photos. Crustdata for employment when Bright Data had nothing. Luma row for name and id. Then Python `prescore_battlers.py` writes `data/battlers.json`. TypeScript never re-scores.
 
 ---
 
@@ -95,13 +95,13 @@ Identity is an httpOnly cookie (`ls_did`), not a login wall. Optional magic link
 
 ```
 Luma guests
-    → match LinkedIn (own scripts)
-    → Bright Data enrich  (~758)
-    → Crustdata retry     (32 of 37 failures)
-    → larp_engine.py      (O(n) scores)
-    → cards.json + photos (CDN)
-    → Next.js floor game  (Vercel)
-         ↘ Supabase wallet (claims, tokens, loot)
+    → Python match LinkedIn
+    → Python + Bright Data enrich  (~758)
+    → Python + Crustdata retry     (32 of 37 failures)
+    → Python larp_engine.py        (O(n) scores)
+    → cards.json + photos          (CDN)
+    → Next.js floor game           (Vercel)
+         ↘ Supabase wallet         (claims, tokens, loot)
 ```
 
 ---
@@ -124,9 +124,13 @@ Without keys the UI still works; claims and the wallet stay local until refresh.
 
 ## Stack
 
-Next.js 15 · React 19 · Tailwind 4 · TypeScript · Supabase · Groq (flavor) · Vercel · PWA · k6
+**Python** — matching, Bright Data / Crustdata clients, photos, scoring, trivia generation, web JSON  
+**Next.js 15 · React 19 · Tailwind 4 · TypeScript** — the phone game  
+**Supabase** — claims + token ledger  
+**Groq** — roast flavor only  
+**Vercel · PWA · k6**
 
-Python scores. Node serves. Postgres only remembers who played.
+Python scores. TypeScript only plays back those scores. Postgres only remembers who played.
 
 ---
 
