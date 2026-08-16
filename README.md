@@ -1,4 +1,5 @@
 # LARP EXPO GAME
+<img width="334" height="585" alt="image" src="https://github.com/user-attachments/assets/04694213-1917-4897-84c5-8d9b92301ef7" />
 
 **Your LinkedIn is the fighter.** A phone-first arcade floor game built for the [YC Startup Internship Expo](https://luma.com/yc-meetup-1244) at Dogpatch HQ, San Francisco (Aug 15, 2026).
 
